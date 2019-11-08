@@ -1,0 +1,70 @@
+Admission Date:  [**2132-12-7**]              Discharge Date:   [**2132-12-19**]  Date of Birth:  [**2064-2-9**]             Sex:   M  Service: MEDICINE  Allergies: Penicillins / Keflex  Attending:[**Last Name (NamePattern1) 4377**] Chief Complaint: malaise, fevers  Major Surgical or Invasive Procedure: None  History of Present Illness: Mr. [**Known lastname **] is a 68 year-old man with a history of T cell lymphoma s/p five cycles of CHOP (last dose [**2132-11-28**]) and recently admitted for pneumonia/sepsis and Capnocytophaga bacteremia ([**2132-11-13**] - [**2132-11-26**], [**Hospital Unit Name 153**] admission) and abdominal pain ([**2132-12-1**] - [**2132-12-3**], no etiology identified) who presents with malaise and fevers.
+He was in his USOH after his last discharge until this morning when he awoke with malaise and fever to 100.7 at home, along with some worsening of his chronic abdominal pain associated with antibiotic ingestion (levo and clinda for capnocytophagia bacteremia) and right flank pain.
+He was given vancomycin, levoflox, doxy, and clinda for presumed infection/recurrence of his capnocytophagia bacteremia and a chest/abdominal CT demonstrated increased bibasilar consolidation in the lung bases concerning for progressive lymphoma vs pneumonia, but no acute findings in the abdomen.
+He was initially signed out to BMT but then became hypotensive to SBPs in the 80s.
+Question of history of histoplasmosis.
+Right shoulder surgery for fracture and dislocation [**2129**].
+Oncologic History: Mr. [**Known lastname **] developed left inguinal swelling in [**5-17**] while in [**Country 4194**], where it was attributed to a hernia.
+He was admitted to the [**Hospital1 18**] on [**2132-9-7**] with worsening left groin swelling and pain related to worsening lymphadenopathy, abdominal pain and nausea.
+Laboratory data remarkable for elevated LDH and significant eosinophilia (as high as 30%.)
+CT imaging demonstrated bilateral basilar pulmonary nodules and significant lymphadenopathy involving the retroperitoneal, pelvic, and left iliac chains.
+The CT findings, along with elevated LDH, raised concern about a lymphoproliferative disorder.
+SPEP revealed monoclonal gammopathy, which was comprised of IgG lambda and constituted 1600 mg/dl.
+Flow cytometry revealed atypical lymphohistiocytic infiltrate highly suggestive of peripheral T-cell lymphoma NOS.
+On histological examination, the lymph node architecture was completely effaced with a background of epithelioid histiocyte granulomatoid aggregates.
+Intermingled was an atypical lymphoid population that stained positive for CD2, 3, and 5 with dual loss of CD4 and CD8 and loss CD7.
+The combined morphologic and immunophenotypic picture was most consistent with peripheral T-cell lymphoma, NOS.
+On further review of BM, he was found to have 5-10% plasma cells in BM c/w plasma cell dyscrasia.
+Family History: Breast cancer in mother, throat cancer in father, and coronary artery disease in brothers.
+Physical Exam: VS: 101.6 94/54 83 96%2l 20 GEN:The patient is in no distress and appears comfortable SKIN:No rashes or skin changes noted HEENT:No JVD, neck supple, No lymphadenopathy in cervical, posterior, or supraclavicular chains noted.
+Non-distended, and soft without tenderness EXTREMITIES:no peripheral edema, warm without cyanosis NEUROLOGIC: Alert and appropriate.
+No pronator drift.
+Interval progression of the bibasilar consolidation, with new involvement of the right middle lobe and lingula.
+Given the relative long time course and slowly progressing disease from foci of centrilobular nodules to frank enlarging consolidation over several months, the likelihood of an acute infectious process (in this immuncompromised patient) seems less likely.
+Therefore, progression of malignant disease is favored.
+No renal calculus or hydroureteronephrosis.
+No acute intra-abdominal process.
+Interval decrease of inguinal lymphadenopathy.
+CXR PA and LAT [**2132-12-7**]: Bilateral basilar opacities, given chronicity question if possibly indicative of progression of underlying known malignancy over infectious process.
+However, given slight increase in opacities in retrocardiac left lower lobe, a coincident pneumonia cannot be excluded.
+CT chest ([**2132-12-9**]): Improved mediastinal lymphadenopathy, persistent bronchiectasis, small nodules have improved in the lingula and right middle lobe.
+Also there has been improvement in bibasilar consolidation.
+No areas of acute abnormalities.
+Marked improvement of bilateral lower lobe opacities.
+Moderate centrilobular emphysema.
+CT sinus ([**2132-12-11**]): Minimal sinus disease as described above  TTE ([**2132-12-11**]): Left ventricular wall thicknesses are normal.
+There is no ventricular septal defect.
+The right ventricular cavity is mildly dilated with borderline normal free wall function.
+The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present.
+No aortic regurgitation is seen.
+The mitral valve appears structurally normal with trivial mitral regurgitation.
+There is no mitral valve prolapse.
+There is moderate pulmonary artery systolic hypertension.
+There is a trivial/physiologic pericardial effusion.
+There are no echocardiographic signs of tamponade.
+Brief Hospital Course: Mr. [**Known lastname **] is a 68 year-old man with T cell lymphoma s/p five cycles of CHOP (last dose [**2132-11-28**]) and recently admitted for pneumonia/sepsis and Capnocytophaga bacteremia ([**Date range (1) 82915**]) who presented with malaise, progressive fatigue and fevers and was initially admitted to [**Hospital Unit Name 153**] for hypotension.
+Sepsis/Hypotension: The patient initially met SIRS criteria with hypotension, fever and leukocytosis.
+Tamiflu was initially started but stopped when nasopharyngeal swab for influenza came back negative.
+CT abdomen/pelvis on admission revealed interval progression of the bibasilar consolidation, with new involvement of the right middle lobe and lingula.
+After 5 days of empiric coverage with Vancomycin, Aztreonam and Levaquin despite continually negative culutres did not improve daily febile episodes, they were discontinued.
+Given the credible story of prior acute Histoplasmosis, we initiated empiric treatment with Ambisome for re-activated chronic Histoplasmosis on [**2132-12-13**].
+This resulted in resolution of febrile episodes.
+The patient reported significant symptomatic improvement.
+CT chest was performed and revealed marked improvement of bilateral lower lobe opacities, grossly stable mediastinal lymph nodes.
+The patient was discharge home with the plan to complete a 14 day course of Ambisome, followed by a PO course of Itraconazole to complete treatment for Histaplasmosis.
+T cell lymphoma: The next cycle of CHOP therapy was not initiated during this admission due to concern for active infectious process.
+The patient will follow up with his oncologists Dr. [**Last Name (STitle) 4613**] and Dr. [**First Name (STitle) **] for further management of his T cell lymphoma upon discharge.
+Chronic epgastric abdominal pain: the patient had several months of chronic abdominal epigastric pain.
+He was seen by GI service on admission and [**First Name (STitle) 1834**] EGD, which did not reveal any abnormalities in his esophagus, stomach or duodenum.
+DVT:  The patient with a history of a provoked DVT being anticoagulated with Levenox as outpatient.
+The patient was Lovenox was held trasiently given possibility of invasive diagnostic procedure, but was re-started once all procedures were complete.
+Alum-Mag Hydroxide-Simeth 200-200-20 mg/5 mL Suspension Sig: 15-30 MLs PO QID (4 times a day) as needed for epigastic pain.
+Lorazepam 1 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for anxiety.
+Discharge Disposition: Home  Discharge Diagnosis: Primary: Peripheral T-cell lymphoma, Acute pulmonary infectious process, likely Histoplasmosis, Epigastric Abdominal Pain  Secondary: None   Discharge Condition: Afebrile, vitals stable, able to ambulate without difficulty.
+Discharge Instructions: You were admitted to the hospital because you developed fevers and progressive weakness and shortness of breath.
+Because of the history of suspected infection with Histoplasmosis, and your immunocompromised state, you were started on treatment for chronic Histoplasmosis infection.
+After initiation of treatment, your symptoms have improved and your fevers resolved.
+You also had an endoscopy to evaluate your chronic abdominal pain.
+Your esophagus, stomach and first part of small intestine looked normal.
+You were prescribed Carafate and Mylanta to help with abdominal discomfort.
+Mylanta 15-20ml every 4 times a day as needed for abdominal pain 3.

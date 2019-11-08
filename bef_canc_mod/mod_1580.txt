@@ -1,0 +1,76 @@
+Admission Date:  [**2192-2-3**]              Discharge Date:   [**2192-2-7**]  Date of Birth:  [**2105-2-5**]             Sex:   F  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 2610**] Chief Complaint: Leg swelling/pain  Major Surgical or Invasive Procedure: None   History of Present Illness: History of Present Illness: Ms [**Known lastname **] is an 87 y/o woman with multiple medical problems including [**Name (NI) 2091**] (b/l creatinine 2.1), CHF (EF 45% in [**2189**]), pAfib on pradaxa, DM, Htn, colon cancer s/p hemicolectomy [**2186**], who came to the ED today for progressively worsening bilateral leg edema and pain for the past two weeks.
+Denies trauma to the legs, medication non-compliance, or dietary indiscretions.
+She has accompanying dyspnea on exertion, but denies chest pain, palpitations, cough, or syncope.
+She denies headache, abdominal pain, nausea or vomiting.
+Exam was notable for 2+ pitting edema to upper thighs, bilaterally.
+Labs were most notable for elevated creatinine above baseline, hyperkalemia, and metabolic acidosis.
+CXR showed pulmonary edema.
+ECG showed atrial fibrillation with slow ventricular response, and evidence of prior MI, without acute ischemic changes.
+Renal was consulted, and recommended giving IV diuresis and obtaining renal ultrasound.
+She reports constant burning pain in her lower legs and feet.
+Denies fevers, chills, cough, headache, chest pressure, nausea, vomiting, diarrhea, constipation, dysuria or polyuria.
+Past Medical History: - IDDM (dx [**2175**]) s/p multiple ED visits/hospitalizations [**2187**] for hypoglycemia - s/p fall [**5-4**] w/ small (4mm) R frontal lobe petechial hemorrhage - Paroxysmal atrial fibrillation on dabigatran - Osteoarthritis, cervical, left knee; status post R TKR [**2184-1-1**]  - Chronic renal failure - baseline creatinine 2.1 and recently up to 2.4 - Breast cancer status post R mastectomy in [**2167**] - Hypertension - Hypercholesteremia - Hearing loss - Hypothyroidism/thyromegaly - Depression - GERD - Adenocarcinoma of the colon status post right hemicolectomy in [**1-/2187**] - Carpal tunnel syndrome - Recurrent C.diff infection .
+Family History: Mother died of MI in 60s.
+Physical Exam: ADMISSION PHYSICAL EXAM Vitals: T:98.1 BP:140/78 P:67 R:15 O2:99% RA; Wt 113.5 kg General: Awake, alert, interactive, oriented, NAD HEENT: MMM, OP clear, PERRL, no conjunctival icterus, injection or pallor Neck: supple, +JVD, no LAD CV: Irregularly irregular.
+Faint systolic murmur at upper sternal borders.
+No S3/S4 or rubs Lungs: CTAB, no wheezes, rales, rhonchi Abdomen: soft, +mild diffuse tenderness to palpation, non-distended, no rebound tenderness or guarding.
+no organomegaly GU: foley in place Ext: 3+ edema to bilateral thighs, most prominent above the knees.
+No clubbing or cyanosis.
+Neuro: CNII-XII intact, 5/5 strength upper/lower extremities proximally and distally, mild numbness in bilateral feet, which are also tender to palpation.
+DISCHARGE PHYSICAL EXAM VS: Temp: 99.1, BP 142/60, HR 57, RR 18, O2 sat 96% on RA HEENT: PERRL, MMM, OP clear NECK: supple, JVP ~ 10 cm, no LAD CV: irregularly irregular, normal S1, S2, no m/r/g LUNG: CTAB, no w/r/rh ABD: soft, NT/ND, +BS, no HSM EXT: bilateral hyperpigmentation of lower extremity, tender to palpation, minimal pitting edema (<1+) Neuro: CNII-XII intact, 5/5 strength upper/lower extremities proximally and distally, mild numbness in bilateral feet, which are also tender to palpation.
+**FINAL REPORT [**2192-2-6**]**    MRSA SCREEN (Final [**2192-2-6**]):    No MRSA isolated.
+There is moderate pulmonary vascular congestion with interstitial edema.
+No large pleural effusion is seen, although trace effusions be difficult to exclude.
+No definite focal consolidation.
+IMPRESSION: Findings consistent with fluid overload.
+There is mild symmetric left ventricular hypertrophy with normal cavity size.
+There is mild regional left ventricular systolic dysfunction with focal hypokinesis of the inferior and inferolateral walls.
+The right ventricular cavity is moderately dilated with moderate global free wall hypokinesis.
+The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present.
+No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+There is no mitral valve prolapse.
+Mild (1+) mitral regurgitation is seen.
+There is at least moderate pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+IMPRESSION: Mild symmetric left ventricular hypertrophy with regional left ventricular systolic dysfunction c/w CAD.
+Right ventricular dilation and dysfunction.
+Pulmonary artery systolic hypertension.
+The right ventricular may be more dilated and hypokinetic, but was not well visualized on the prior study.
+Brief Hospital Course: 87 y/o F with CHF, [**Year (4 digits) 2091**], afib, T2DM, presenting with worsening lower extremity edema and pain, found to have acute on chronic kidney injury, acidosis, and hyperkalemia.
+ACTIVE ISSUES # non-gap metabolic acidosis: Pt presented with predominantly non-anion gap metabolic acidosis.
+Her presentation is most consistent with type 4 renal tubular acidosis, likely developed in the setting of diabetic [**Year (4 digits) 2091**].
+There was a gradual decline of HCO3 in the past two months.
+Her [**Last Name (un) **] is likely [**12-29**] CHF exacerbation with concormitant ACEI use.
+There was probably a component of ATN given the presence of granular cast on urine sedimentation and prominant auto-diuresis on HD#3,4.
+She needs continued monitoring of electrolytes and kidney function.
+# Hyperkalemia: Pt presented with hyperkalemia to 5.7.
+The reason for her hyperkalemia is likely multifactorial, including [**Last Name (un) **], RTA, and ACEI use.
+There were no hyperkalemia related EKG changes during the entire hospitalization.
+# CHF exacerbation: Pt presented with 25 lbs above dry weight with significantly elevated BNP, and CXR consistent with severe fluid overload.
+ECHO on [**2-3**] showed unchanged EF with diastolic dysfunction.
+We therefore held diuresis until her urine output normalized.
+Pt was evaluated by the cardiologist, who also recommended aspirin for her CAD and compromised systolic function.
+# Bradycardia: Pt had episodes of bradycardia to 30s in the ED.
+Her average heart rate has consistently been >50, with episodes of recorded bradycardia from arhythmia.
+Per discussion with cardiology, the underlying rhythm was afib with slow ventricular response and occasional slow a-flutter with variable block.
+AV nodal disease is the underlying pathology.
+Patient was started on a low dose beta blocker on this hospitalization for generalized rhythm control and cardioprotective effects.
+No further episodes of bradycardia on carvedilol.
+# Arrhythmia - Afib/Aflutter: Pt has known history of atrial fibrillation, CHADS score [**3-1**], on dabigatran prior to admission.
+We had to discontinue her dabigatran in setting of renal failure.
+However, pt had difficult venous access, thus difficult to obtain reliable monitoring.
+We discontinued the heparin gtt as we felt the risk of adverse events outweighed the benefit of reducing the stroke risk while awaiting a therapeutic INR.
+Her metoprolol was switched to carvedilol per above (initially held in presence of bradycardia), and she was discharged on a warfarin dose of 6 mg qday as INR remained subtherepeutic at time of discharge.
+# LE edema: Pt presented with chief complaint of symmetric bilateral LE edema with tenderness on palpation.
+This is a chronic condition likely [**12-29**] venous stasis and exacerbated by CHF exacerbation.
+We felt cellulitis or DVT is unlikely in this clinical setting.
+Pain symptoms improved with diuresis.
+CHRONIC ISSUES # HTN: Pt's blood pressure medication was discontinued initially.
+# GERD: Stable.
+TRANSITIONAL ISSUES # CODE STATUS: Full (confirmed) # PENDING STUDIES AT DISCHARGE:   - none # MEDICATION CHANGES:   - STOPPED dabigatran   - STOPPED enalapril   - STOPPED metoprolol   - INCREASED furosemide to 40 mg qd (from 20 mg qd)   - STARTED warfarin 6 mg qd   - STARTED pravastatin 10 mg qd   - STARTED sodium bicarbonate 650 mg tid   - STARTED carvediolol 3.125 mg [**Hospital1 **]   - STARTED vitamin D/Calcium # FOLLOWUP:   - Pt need close monitoring of her INR for warfarin treatment   - Please monitor electrolytes closely for hyperkalemia   - Pt has Nephrology followup for chronic renal insufficiency and renal tubular acidosis   - Pt has cardiology followup for slow atrial flutter with variable conduction, medical management vs permanent pacemaker   - Pt needs PCP followup, pending issues include:     1) aspirin for primary prevention     2) blood pressure control     3) will avoid ACEI given RTA type 4  Medications on Admission: amlodipine 10 mg daily dabigatran 75 mg [**Hospital1 **] enalapril 5 mg [**Hospital1 **] furosemide 40 mg daily gabapentin 100 mg TID levothyroxine 50 mcg daily metoprolol tartrate 12.5 mg [**Hospital1 **] oxycodone 5 mg Q8H PRN pantoprazole 40 mg [**Hospital1 **] PNV w/o calcium-iron fum-FA [MVI] 27mg-1mg tab daily acetaminophen 650 mg Q8H PRN docusate 100 mg [**Hospital1 **] FeSO4 325 mg QOD NPH/regular 70/30 20u qAM, 10u qPM milk of magnesia 800 mg/5mL - 30 mL QHS PRN senna 2 tabs [**Hospital1 **]  Discharge Medications: 1. levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+7. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+Disp:*90 Tablet(s)* Refills:*0* 12. oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 hours) as needed for pain .
+Disp:*30 Tablet(s)* Refills:*0*   Discharge Disposition: Extended Care  Facility: [**Hospital3 2558**] - [**Location (un) **]  Discharge Diagnosis: Primary diagnosis:   - Acute on chronic kidney insufficiency   - Renal tubular acidosis type 4   - Congestive heart failure (systolic and diastolic, EF 45%) Secondary diagnosis:   - atrial fibrillation   - hypertension   - diabetes   Discharge Condition: Mental Status: Clear and coherent.
+You were found to have a condition called renal tubular acidosis type 4 which was responsible for your potassium changes.
+In regards to your leg swelling, we were able to remove significant amounts of fluid from you with diuretics, and your heart and kidney condition improved significantly.

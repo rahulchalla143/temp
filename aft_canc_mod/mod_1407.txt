@@ -1,0 +1,23 @@
+Admission Date:  [**2158-3-1**]              Discharge Date:   [**2158-3-14**]  Date of Birth:  [**2097-2-9**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 338**] Chief Complaint: respiratory failure  Major Surgical or Invasive Procedure: intubation tracheostomy  History of Present Illness: 61 yo male with COPD, Charcot [**Doctor Last Name **] Tooth, OSA, poorly differentiated lung cancer s/p right upper lobectomy ([**2-23**]) with probable aspiration pna sepsis, nstemi, chf.
+Intubated for hypoxic respiratory failure.
+No pneumothorax is identified.
+No definite pneumothorax or subcutaneous air identified.
+No evidence of acute or old ischemia  ECHO: Left Atrium - Four Chamber Length: 4.2 cm (nl <= 5.2 cm) Right Atrium - Four Chamber Length: 4.5 cm (nl <= 5.0 cm) Left Ventricle - Septal Wall Thickness: 0.8 cm (nl 0.6 - 1.1 cm)  Left Ventricle - Inferolateral Thickness: 1.0 cm (nl 0.6 - 1.1 cm) Left Ventricle - Diastolic Dimension: 4.3 cm (nl <= 5.6 cm) Left Ventricle - Systolic Dimension: 3.1 cm Left Ventricle - Fractional Shortening: *0.28 (nl >= 0.29) Aorta - Valve Level: 3.6 cm (nl <= 3.6 cm) Aortic Valve - Peak Velocity: 1.4 m/sec (nl <= 2.0 m/sec) Mitral Valve - E Wave: 0.9 m/sec Mitral Valve - A Wave: 1.0 m/sec Mitral Valve - E/A Ratio: 0.90 Mitral Valve - E Wave Deceleration Time: 225 msec 1.
+Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded.
+Brief Hospital Course: Hospital course outlined by problem below:  # Respiratory failure- multifactorial.
+Has restrictive (charcot-[**Doctor Last Name **]-tooth, left hemidiaphragmatic weakness s/p plication, right upper lobectomy, on CPAP at home at night) and obstructive (COPD) components.
+Also has had two recent consecutive aspiration pneumonias.
+At [**Hospital1 18**], sputums only grew out oropharyngeal flora.
+He was continued on levo, and vancoand showed imporovement in respiratory status.
+He was extubated on  [**3-5**] however he showed progressive resp distress over the next 2 days requiring reintubation.
+CXR showed worsening left sided pneumonia and he had a leukocytosis.
+Flagyl was added and he responded well with decreasing WBC and decreased respiratory distress.
+He underwent tracheostomy and was able to tolerate minimal pressure support by the time of discharge on PSV 5/5 for period of time and allowed to rest on higher pressure support.
+He received steroids for his COPD and which has now been tapered off.
+Given his reestrictive disease (charcot-[**Doctor Last Name **]-tooth, left hemidiaphragm disease, and new right lobectomy) he will liklely need longterm support with ventilation.
+This may be stopped if he tolerates his trach without aggitation.
+# Hypotension - he was received on pressors, but these were rapidly titrated off and he maintained good blood pressures.
+He was given a short course of stress dose steroids (hydrocort 50mg qid both for his hypotension at the OSH and his COPD exacerbation).
+Liekly was demand ischemiea in the setting of his hypotension.
+His echo, albeit of poor quality shows a normal EF and no WMA.
+Discharge Disposition: Extended Care  Facility: [**Hospital3 105**] - [**Location (un) 1121**] - [**Location (un) 1456**]  Discharge Diagnosis: multifocal aspiration pneumonia with sepsis COPD exacerbation respiratory failure Charcot-[**Doctor Last Name **]-Tooth restrictve lung disease Squamous cell carcinoma, poorly differentiated with 1 out of 2 hilar lymph node (stage II) NSTEMI   Discharge Condition: stable  Discharge Instructions: contact your physician if you [**Name9 (PRE) 25569**] worsening breathing problems, fevers, or chest pain.

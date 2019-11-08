@@ -1,0 +1,31 @@
+Admission Date:  [**2168-1-26**]              Discharge Date:   [**2168-1-28**]   Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**Doctor First Name 1402**] Chief Complaint: VTach, AICD firings  Major Surgical or Invasive Procedure: ventricular tachycardia ablation   History of Present Illness: Mr. [**Known lastname **] is an 89 year old gentleman with PMH significant for HTN, dyslipidemia, CAD s/p CABG in [**2156**] (LIMA-LAD, SVG-D1, SVG-ramus, SVG-PDA), remote history of VF arrest in [**2151**] s/p AICD, hospitalization in CCU in [**7-/2167**], [**Hospital Unit Name 196**] [**8-/2167**] due to multiple AICD firings, paroxysmal atrial fibrillation, history of endovascular AAA repair who presented to [**Hospital6 20592**] earlier this AM after his ICD fired 8 times.
+He reports no chest pain, SOB, syncope, dizziness around the time of the firing, although the OSH note states that he had syncope surrounding one of the ICD firing.
+Of note, patient states that he was seen in the ED at [**Location (un) **] 2 Sundays ago for diarrhea and dizziness, but states he was discharged home without intervention.
+On review of systems, he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.
+He denies recent fevers, chills or rigors.
+Cardiac review of systems is notable for absence of chest pain, dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope.
+Past Medical History: -CAD s/p CABG in [**2156**] (LIMA-LAD, SVG-D1, SVG-ramus, SVG-PDA) PACING/ICD: -Paroxysmal atrial fibrillation -AICD place in [**2151**] after an episode of VFib arrest -Recently admitted to CCU for recurrent ventricular tachycardia successfully terminated by ICD; started on amiodarone - chronic renal insufficiency (baseline Cr 1.3) - AAA s/p endovascular repair in [**2163**] - s/p cholecysectomy - s/p TURP - chronic anemia (early myelodysplasia), s/p 2 units of pRBC about 2 months ago  Social History: -Live with wife.
+Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.
+No xanthalesma.
+CTAB, no crackles, wheezes or rhonchi.
+ABDOMEN: Soft, NTND EXTREMITIES: warm, no edema noted PULSES: distal 2+ pulses b/l .
+Right axis deviation.
+Right bundle-branch block.
+Since the previous tracing of [**2167-8-20**] the axis is more rightward and right bundle-branch block pattern configuration is different with prominent R wave and marked ST-T wave abnormalities.
+There may be retrograde P waves in the ST segment.
+Probable ventricular tachycardia.
+Of note on the prior tracing, P wave amplitudes were low and the ventricular premature beat seen does not appear like the wide complex tachycardia on the present tracing.
+A moderate area of decreased voltage suggestive of scar was present in the inferobasal and inferoseptal regions.
+Post ablation repeat EPS with double VES were delivered without induction of VT .
+Conclusion: Successful ablation of V-tach from basal left ventricle  Brief Hospital Course: Mr. [**Known lastname **] is an 89 year old gentleman with PMH significant for HTN, dyslipidemia, CAD s/p CABG in [**2156**] (LIMA-LAD, SVG-D1, SVG-ramus, SVG-PDA), remote history of VF arrest in [**2151**] s/p AICD, hospitalization in CCU in [**7-/2167**], [**Hospital Unit Name 196**] [**8-/2167**] due to multiple AICD firings, paroxysmal atrial fibrillation on coumadin, history of endovascular AAA repair who presented to [**Hospital6 17032**] earlier this AM after his ICD fired 8 times due to Monomorphic VT 120s, now s/p ablation.
+Most likely etiology is structural disease post-MI in the setting of myocardial scar.
+He remained stable in-house without any further episodes of ICD firing or Vtach.
+# CAD: S/p CABG.
+No c/o chest pain or SOB.
+He underwent nuclear perfusion/stress test on [**2167-8-19**] during which they found LVEF of 43% with similar finding as prior and no ischemic changes.
+Home Lasix was held in-house as Cr was elevated above baseline, but restarted on discharge.
+7. acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day) as needed for pain/sleep.
+Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*2*   Discharge Disposition: Home With Service  Facility: [**Location (un) **] Nursing Services  Discharge Diagnosis: Ventricular Tachycardia s/p ablation Coronary artery disease Acute on Chronic Kidney Disease   Discharge Condition: Mental Status: Clear and coherent.
+Discharge Instructions: Your ICD fired multiple times at home because of ventricular tachycardia.
+This should greatly reduce the episodes of ventricular tachycardia and possibly prevent the ICD from firing.
+You may want to try to eat foods that are high in potassium and magnesium every day although this may not prevent ventricular tachycardia.

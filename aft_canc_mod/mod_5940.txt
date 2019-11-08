@@ -1,0 +1,37 @@
+Admission Date:  [**2140-6-16**]              Discharge Date:   [**2140-6-21**]  Date of Birth:  [**2058-2-1**]             Sex:   M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 2186**] Chief Complaint: Lethargy, hyperkalemia   Major Surgical or Invasive Procedure: None  History of Present Illness: The patient is an 82 year old male with chief complaint of near syncope.
+[**Name10 (NameIs) **] [**Name Initial (NameIs) **] near syncopal episode today at home getting ready to come to hospital, EMS called and he was hypotensive with 90's systolic.
+Patient has very large right sided hip hematoma which extends to his knee, with firm leg and significant edema.
+The patient's wife reports that the patient has been especially fatigued and lethargic over the last few days and has been getting somewhat confused.
+As reported by the Emergency Department, the patient has a history of myeloproliferative disease with [**First Name9 (NamePattern2) **] [**Doctor First Name **] and thrombocytosis.
+Peripheral smear slides sent over, to go to lab; reported to show no immature cells.
+Physical Exam: On Admission: Vitals: BP: 98/53 P: 120 R: 28 100% on 2L: General: Follows simple commands, oriented only to self HEENT: Sclerae anicteric, MMM, oropharynx clear, partly edentulous Neck: Supple, no LAD Lungs: Clear to auscultation bilaterally CV: S1, S2, no murmurs auscultated Abdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding; significant hematoma on right flank/back GU: Foley in place Ext: Significant swelling of right lower extremity, pitting edema of right foot, bullae forming on pre-tibial surface.
+Large intramuscular hematoma in the right buttock extending into the medial right thigh.
+Active bleeding cannot be excluded on this noncontrast CT.  2.
+Small right pelvic and presacral hematoma.
+No large RP hematoma.
+CT Head [**6-16**]-IMPRESSION: No acute intracranial process.
+If CVA is suspected, please note MRI is more sensitive.
+Brief Hospital Course: The patient is an 82-year-old man with a myeloproliferative disorder who is presenting with altered mental status and electrolyte disturbances.
+# Electrolyte disturbances:  The patient presented to an OSH with an elevated potassium and phosphate.
+Received Ca++-gluc, kayexalate, insulin and IVF at OSH for hyperkalemia with ?ECG changes.
+Continued to receive runs of kayexalate, bicarb and repeated insulin-dextrose with some improvement in hyperkalemia.
+Initial differential was for tumor lysis syndrome vs. rhabdo.
+Right Sided Hematoma:  patient was found to have very large right sided hematoma and swelling in the entirity of his right leg, abdomen, and right upper extremity as well as scrotal swelling and hematoma.
+He was seen by surgery who did not find evidence of compartment syndrome given intact pulses, strength, sensation and abssence of severe pain nor did they feel evacuation of the hematoma was indictated given its age.
+His CK, AST, K and uric acid were elevated at admission and improved to baseline over the course of his stay.
+LENIs were done on the lower extermity that did not show evidence of DVT.
+# Altered mental status: On presentation the patient was oriented only to self.
+Likely secondary to his electrolyte disturbances although also considered hyperviscosity syndrome given large number of WBCs (see below).
+Head CT was obtained given reccent history of fall and did not show an acute intracranial process.
+Heme consult did not believe leukostasis to be playing a role.
+# Acute kidney injury: Baseline creatinine unknown, although given home medications that include daily colchicine, likely has normal kidney function.
+CT scan of abdomen showed no suggestion of hydronephrosis/post-renal problems.
+Heme/onc did not see any immature forms on peripheral smear and did not find this to be either a blast crisis or tumor lysis syndrome.
+His anagrelide was discontinued in the hospital for subtherapeutic dosing as well as hydroxyurea being the clinically indicated treatment for polycythemia [**Doctor First Name **].
+# Afib with RVR:  patient was predominately in sinus rhythm with heart rates in the 80s, but was seen to have frequent ectopy and conversion to afib with spontaneous resolution on telemetry.
+Bouts of afib were never seen to  last more than a few minutes and rate control was attempted with metoporolol, though doses of 12.5mg [**Hospital1 **] caused hypotension to the 80s systolic.
+# Dispo: to rehab with instructions to follow up with primary care and outpatient hematology  Transitional Issues:  Will need: (1) Daily abdominal / flank assessment to make sure hematoma is not expanding (2) Daily CBC to ensure HCTs are stable (3) Daily INR checks to keep < 2.0 (4) Daily BMP to ensure potassium does not increase (5) Telemtry for atrial fibrillation - can d/c metoprolol if no further episodes (6) Can restart SC heparin if INR remains < 2.0   Discharge Disposition: Extended Care  Facility: [**Location (un) 582**] at [**Location (un) 620**]  Discharge Diagnosis: (1) Right sided buttock and right thigh hematoma (2) Rhabdomyolysis (with renal failure and high potassium) (3) Polycythemia [**Doctor First Name **] (4) Paroxysmal atrial fibrillation   Discharge Condition: Able to sit up in bed with assistance; improvement in WBC count, resolution of electrolyte abnormalities   Discharge Instructions: Dear Mr [**Known lastname 26735**],  You were admitted after a recent fall.
+The fall caused bleeding around the right buttock and right thigh area.
+We had the general surgery team see you who felt you had no need for surgery.
+The hematoma should improve on its own.
+(3) Start metoprolol - this is a medicine for your heart that protects it from a fast heart rate that you had called atrial fibrillation.

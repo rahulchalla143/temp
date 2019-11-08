@@ -1,0 +1,90 @@
+Admission Date:  [**2135-9-30**]              Discharge Date:   [**2135-10-16**]   Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 2782**] Chief Complaint: Nausea, vomiting, abdominal tenderness  Major Surgical or Invasive Procedure: ERCP ([**9-30**]) Central venous line placement ([**10-1**]) Arterial line placement ([**10-1**]); removal ([**10-2**]) ERCP for stent replacement ([**10-10**]) ERCP for stent replacement ([**10-12**])   History of Present Illness: The patient rpeorts that he symtpoms began yesterday when she began to experience nausea and had several episodes of vomiting.
+The patient has no history of gallbladder or liver disease that she knows of.
+She has not experienced and hematuria or dysuria.
+There she was brought in with complaints of LLQ pain and jaundice.)
+In the Emergency Department, a CT scan showed "Severe intra/extrahepatic biliary dilatation; severe pancreatic duct dilatation with pancreatic atrophy; nodular enhancement at ampulla suggests possible malignancy.
+Distended gallbladder with wall edema and perihepatic ascites, likely [**2-23**] severe biliary dilatation.
+L spigelian hernia contains a colon loop and free fluid, but no obstruction is seen at the level of the hernia, and no bowel wall thickening.
+AVN of L femoral head again seen."
+The Emergency Department had discussed with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] and arranged direct admit to surgical floor and possible ERCP evaluation, but then they noted that she was in AFib RVR 120's.
+Also has [**Apartment Address(1) **] mm in lead III, and ST depressions in V [**2-27**], worse since prior EKG.
+Has had a silent NSTEMI in past.
+Cardiology saw the patient and felt that negative stress from 8 months ago made Mi very unlikely.
+On the floor, the patient was tired but denied any specific abdominal pain.
+Past Medical History: hypertension, cataracts with a recent iridectomy in [**10/2133**], hyperreflexic bladder, degenerative arthritis of her neck and back, and osteoporosis.
+No smoking or alcohol.
+Family History: Her family history is positive for a stroke in her brother.
+Physical Exam: ADMISSION PHYSICAL EXAM: VS:T 97.9 BP 131/88 HR 103 RR 20 93% on 3L GENERAL: Frail, elderly woman in no acute distress HEENT: NC/AT, PERRL, EOMI, sclerae mildly icteric, oropharynx clear.
+HEART: S1, S2, no murmurs auscultated.
+ABDOMEN: Soft, distended, diffusely tender to palpation, no masses or HSM, no rebound/guarding.
+SKIN: No rashes or lesions.
+DISCHARGE PHYSICAL EXAM: VS:  97.0  130/60  58  18  96% RA Gen:  No acute distress HEENT:  PERRL, EOMI, sclerae anicteric, OP clear CV:  RRR, nl S1 S2, no MRG Resp:  CTA bilaterally Abd:  soft, mildly distended, non-tender.
+No rebound or guarding.
+Ext:  WWP, 1+ pitting edema to knee.
+No decrease in ROM (passive or active) in right hip.
+No pain on movement of any of the extremities.
+Imaging: RIGHT UPPER QUADRANT ULTRASOUND: There is marked intra- and extra-hepatic biliary ductal dilation, as seen on recent CT.
+There is no gallbladder wall thickening or pericholecystic fluid.
+There is trace fluid in Morison's pouch, without generalized ascites.
+Intra- and extra-hepatic biliary ductal dilation, as seen on recent CT. Further evaluation with ERCP or MRCP is recommended.
+Distended gallbladder, likely reflecting biliary obstruction, without cholelithiasis or son[**Name (NI) 493**] evidence of acute cholecystitis.
+There was copious thick mucin extruding out.
+There was some thick mucin extruding out.
+- Immediately below the minor papilla there was a small opening suspicious for fistula.
+- A diffuse dilation was seen at the CBD and intrahepatic ducts with the CBD measuring 15-16 mm.
+- Spyglass cholangioscope showed large amount of mucin in CBD and no discrete lesion was found.
+There was one filling defect in the proximal main PD suspicious for intraductal neoplasm.
+There was one filling defect in the proximal main PD suspicious for intraductal neoplasm.
+- Because of the severely dilated CBD and large amount of mucin, a 5cm by 10FR double pig tail biliary stent was placed successfully in the CBD.
+KUB ([**10-3**]):  IMPRESSION: No evidence of obstruction with a large amount of gas in the bowel which may be indicative of ileus.
+CXR ([**10-4**]):  FINDINGS: There is progressive increase in diffuse bilateral parenchymal opacities, consistent with rapid accumulation of moderate-to-severe pulmonary edema.
+More focal areas of opacity including within the right apex may represent asymmetric edema versus superimposed aspiration/consolidation.
+Elevation of the right minor fissue is suggestive of volume loss/atelectasis in the right upper lobe.
+Bilateral pleural effusions are present and appear progressed with associated bibasilar atelectasis.
+No pneumothorax is seen.
+There are calcifications of the aortic arch.
+Echo ([**10-3**]): The left atrium is mildly dilated.
+No left atrial mass/thrombus seen (best excluded by transesophageal echocardiography).
+The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present.
+Trace aortic regurgitation is seen.
+The mitral leaflets are mildly thickened.
+No mitral valve prolapse is seen.
+An eccentric, anteriorly directed jet of severe (3+) mitral regurgitation is seen.
+There is mild pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+Moderate to severe mitral regurgitation.
+Pulmonary artrery hypertension.
+There was some thick mucin extruding out.
+There was some thick mucin extruding out.
+Cannulation of the biliary duct was successful and deep with a sphincterotome.
+A diffuse dilation was seen at the CBD and intrahepatic ducts with the CBD measuring 15-16 mm.
+Because patient developed obstruction with plastic stents and patient and family agreed with the metal stent placement, a 8cm by 10mm Wallflex fully covered biliary stent (Ref: 7054; Lot: [**Numeric Identifier 81030**]) was placed successfully in the CBD.
+Cannulation of the biliary duct was successful and deep with a balloon catheter.
+Because patient has failed plastic stents and FCSE metal stent, a 8cm by 10mm Uncovered Wallflex biliary stent (Ref: 7065; Lot: [**Numeric Identifier 81031**]) was placed successfully in the CBD.
+Brief Hospital Course: 89 y/o F with Hx dCHF, recent NSTEMI ([**6-1**]) presents with cholangitis and new-onset A fib with RVR, found to have signs of IPMN and adenocarcinoma.
+Biliary obstruction/cholangitis: The patient's CT and RUQ ultrasound both suggestive of biliary obstruction.
+She was evaluated via ERCP on [**9-30**], which revealed substantial obstruction of the bile ducts secondary to copious mucin.
+One week following the procedure, she was found to have rising LFTs and increased abdominal distension.
+Adenocarcinoma:  The findings on the ERCP, combined with the papillary mass found on CT, were highly suggestive of IPMN.
+Cytology brushings revealed adenocarcinoma cells, likely malignant.
+The patient indicated prior to the ERCP that she would not wish to undertake therapy for any cancer found as a result of the procedure.
+There may be chemotherapeutic options.
+New onset atrial fibrillation: On admission, the patient was found to be in Afib with RVR.
+Cardiology was consulted and attributed her symptoms to demand ischemia.
+The patient was found to be somnolent and hypotensive on [**10-1**] following an episode of coffee ground emesis.
+Following immediate management, she was maintained in NSR with metoprolol and had no recurrence of the hypotension.
+Diastolic heart failure:  The patient has a history of diastolic HF, but at home required no oxygen support.
+On admission she was found to have some demand ischemia with troponin 0.4-0.5.
+Her hypoxia responded to diuresis, indicating heart failure as the etiology.
+She also experienced visual hallucinations.
+If there is an increase, or if her abdominal exam worsens, call the ERCP team for follow-up as stents may have slipped.
+The patient does not have obstructive disease at baseline.
+Medications on Admission: ASA 325mg daily Calcium 600 + D 1 tab daily oxybutynin 0.5 QHS Lasix 20mg QAM lisinopril 5mg daily MVI KCl SR 10mEq daily timolol 0.5% drops 1 drop to right eye [**Hospital1 **] tizanidine 4mg [**Hospital1 **] vit D 1000unit 1 tab daily Zocor 10mg QHS omeprazole 20mg daily Immodium, MoM, [**Name (NI) **] PRN  Discharge Medications: 1. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1) nebulized Inhalation every six (6) hours as needed for SOB, wheezing.
+2. ipratropium bromide 0.02 % Solution Sig: One (1)  Inhalation Q6H (every 6 hours) as needed for SOB/Wheezing.
+Please call results to Dr. [**Last Name (STitle) **],[**First Name3 (LF) 1730**] P. [**Telephone/Fax (1) 19980**]   Discharge Disposition: Extended Care  Facility: [**Hospital 11851**] Healthcare & Rehabilitation Center - [**Location (un) 620**]  Discharge Diagnosis: Primary:  obstructive cholangitis  Secondary:  adenocarcinoma (likely pancreatic), atrial fibrillation, diastolic heart failure   Discharge Condition: Mental Status: Confused - sometimes.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+A CT scan showed dilated bile ducts, most likely due to an obstruction.
+You were transferred to our [**Hospital 86**] hospital for ERCP (endoscopic retrograde cholangiopancreatography) to investigate the cause of this blockage and to relieve it.
+During your recovery from the ERCP, you experienced a rapid, irregular heart rate.
+You were given medications to control your heart rate, keep your blood pressure in the normal range, and reduce any extra fluid in your body.
+During your stay on the medical floor, you were found to be confused at times and to have some visual hallucinations.

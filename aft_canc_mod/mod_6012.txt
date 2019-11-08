@@ -1,0 +1,56 @@
+Admission Date:  [**2194-7-12**]              Discharge Date:   [**2194-7-18**]   Service: MEDICINE  Allergies: Tetanus Toxoid / Vasotec / Neomycin / Adhesive Tape / Levaquin  Attending:[**First Name3 (LF) 2297**] Chief Complaint: Cough / shortness of breath  Major Surgical or Invasive Procedure: none  History of Present Illness: Dr [**Known lastname 3314**] is an 83 year old [**Hospital1 18**] surgeon, on disability since [**Month (only) 116**] with a diagnosis of multiple myeloma.
+He presents today with worsening O2 sats both at rest and exertion (he keeps an O2 sat monitor at home), worsening cough, and increasing shortness of breath.
+Although he has not felt altogether well for the past six months, he had been feeling better since his original admission in [**2194-4-1**], for community-acquired pneumonia, in which he was diagnosed with MM.
+Prior to that [**Month (only) 116**] admission he had also been having worsening cough, SOB and DOE.
+Three or four weeks ago by his account, he began having cough again, although a CXR was negative for pulmonary process.
+He came to the [**Hospital1 18**] and is now admitted for diagnosis and management.
+Per heme/onc fellow: "HEMATOLOGIC HISTORY: Dr. [**Known lastname 3314**] was diagnosed in [**4-7**] when he presented with a multilobar PNA and worsening renal function and was found to have serum monoclonal IgA of 2.8 gm.
+His renal fxn has generally been stable since admission (creat 2.6->2.1-> 2.4).
+Anemia is mild and no hypercalceia.
+His skeletal survey did not show lytic lesion but no fx or impending fx.
+Beta-2 Microglobulin was elevated but hard to interpret in face of renal insufficiency.
+"He was initially treated with Decadron alone and then with Decadron and Thalidomide, however, this was stopped in the setting of disequilibrium and peripheral edema.
+The peripheral edema was ultimately thought to be related to some right-sided heart failure and he was thought to be hypervolemic.
+demand ischemia --enzymes rose in context of larger admission for shortness of breath (in which MM was diagnosed) --not mentioned as issue in d/c summary Hypertension Chronic Renal Insufficiency - (cr 2.0)- followed by Dr. [**Last Name (STitle) 1366**] Chronic Obstructive Pulmonary Disease - controlled on bronchodilators, followed by Dr. [**Last Name (STitle) **].
+Atrial fibrillation - on coumadin Chronic laryngopharyngeal reflux Gastroesophageal Reflux Disease Benign thyroid enlargement Gout R Elbow - on allopurinol Bladder Ca - superficial, s/p BCG .
+PSH: Multiple right inguinal hernia repairs s/p reoccurence Right nephrectomy for renal cell carcinoma [**2164**] .
+GEN: Elderly man in NAD breathing with nasal cannula; sitting forward with arms on knees; ruddy face.
+Minimal crackles.
+Discoloration at the shins c/w chronic edema.
+No petichiae.
+EXT: 2+ pitting edema at the ankles.
+Mild tremor of hands when extended, less at rest.
+[**2194-7-12**] CXR: Development of patchy opacity in the right middle lobe, compatible with atelectasis and/or pneumonia.
+[**2194-7-15**] CT head: IMPRESSION: No acute intracranial abnormalities.
+Small vessel ischemic changes and calcifications of the left temporal and occipital lobes.
+At least two lytic lesions of the skull which likely represent known multiple myeloma.
+[**2194-7-15**] TTE: IMPRESSION: Mild symmetric left ventricular hypertrophy with mild global hypokinesis.
+Right ventricular dilation and dysfunction.
+At least moderate pulmonary hypertension.
+Moderate tricuspid regurgitation.
+Dilated thoracic aorta.
+[**2194-7-16**] EEG: IMPRESSION: This is an abnormal portable EEG due to the presence of sharply contoured waveforms seen bifrontally and more often with a rightsided predominance in the setting of a slow and disorganized background rhythm.
+The significance of the first finding is not entirely clear as there were no frank epileptiform discharges seen.
+The second finding is consistent with a moderate encephalopathy suggesting the presence of deeper midline dysfunction.
+Medication, metabolic disturbances, infections, or anoxia are among the most common causes but there are others.
+There were no clearly epileptiform discharges noted.
+No electrographic seizure activity was seen.
+Brief Hospital Course: Dr. [**Known lastname 3314**] is an 83 yo [**Hospital1 18**] surgeon with h/o Multiple Myeloma s/p decadron/revlimid therapy, COPD, CHF, afib on coumadin, who initially presented on [**7-12**] with fatigue, low grade fever, and increased productive cough from his baseline.
+He noted decreased 02 saturations at home on his pulse ox with increased DOE (92% -> 88%).
+He denied any chest pain, pleurisy, orthopnea, n/v/d, or increased LE swelling during that time.
+In the ED, he was found to have a RML infiltrate on CXR.
+On the morning of transfer, the patient was found unresponsive in his room at 7AM with blood coming from mouth.
+He then presented to the [**Hospital Unit Name 153**] after suffering cardiac arrest in the setting of RML PNA and Staph bacteremia.
+Most likely the cause of arrest was felt to be secondary to a poor conduction system given periods of prolonged asystole without capture rhythms and spontaneous return to NSR on telemetry in the MICU.
+head CT. MI was unlikely given TTE findings of mild global hypokinesis without focal deficits.
+Infection was also in the differential as the patient had a RML PNA and coag neg.
+On admission to the [**Hospital Unit Name 153**] the patient did not complete artic cooling protocol s/p arrest given periods of prolonged asystole (up to ~10seconds).
+On [**7-16**] an EEG was performed, which showed evidence of moderate encephalopathy consistent with deeper midline dysfunction.
+The patient did not meet criteria for brain death.
+Neurology was consulted to further assess encephalopathy and long-term prognosis, and they corroborated a poor prognosis with low likelihood of a meaningful neurologic recovery.
+# Renal failure: rising cre from baseline of 2.0 to 3.3 to 3.9 to 4.6, most likely due to hypoperfusion - either from the initial asystolic arrest or subsequent periods of asystole.
+There was concern for arrhythmias given increasing potassium and acidemia.
+also found to have coag neg.
+staph bacteremia = MRSE.
+staph (=MRSE) on admission blood cultures, which was concerning for endocarditis given the patient's immunocompromised state.
+This was weaned as tolerated, with anti-hypertensives held.

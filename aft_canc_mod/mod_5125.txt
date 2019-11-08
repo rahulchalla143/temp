@@ -1,0 +1,35 @@
+Admission Date:  [**2161-3-31**]              Discharge Date:   [**2161-4-8**]   Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 4365**] Chief Complaint: Hematemesis  Major Surgical or Invasive Procedure: Endoscopy x 2  History of Present Illness: Mr [**Known lastname **] is an 86 year old man with history of metastatic prostate cancer, parkinson's, hepatitis C, admitted witha chief complaint of hematemesis.
+The pt denied pain, dizzyness or lightheadedness at that time.
+He also denied chest pain and shortness of breath.
+The pt received 40 IV protonix, 2 PIVs and an NGT were placed and on gastric lavage by the GI service the pt was found to have coffee-ground material in lavage fluid.
+Past Medical History: - Parkinson's disease - Hepatitis C positive with positive viral loads, dx during [**11/2158**] admission - right knee surgery - right ankle surgery - Glaucoma - BPH, elevated PSA then lost to followup - CHF (NOS; EF 75% with grade [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] dysfxn in [**2158**]) - Afib (per [**Hospital1 1501**] notes), currently in sinus not on anticoag.
+- Depression - Pancytopenia per [**Hospital1 1501**] notes.
+No conjunctival pallor.
+No scleral icterus.
+[**2-13**] systolic murmur at LUSB, crescendo descrescendo.
+EXTREMITIES: No edema or calf pain, 2+ dorsalis pedis/ posterior tibial pulses.
+Microbiology: [**2161-4-4**] urinalysis negative, culture positive for enterococcus .
+Imaging: CXR [**3-31**]: No acute cardiopulmonary abnormality.
+No radiographic evidence of tuberculosis.
+Upper endoscopy [**3-31**]: Blood in the cardia, fundus and proximal body of the stomach Adherent clot and active bleeding at the cardia.
+Upper endoscopy [**4-2**]: Esophageal nodule Esophageal ulcer Erythema, erosion and congestion in the gastroesophageal junction compatible with esophagitis Otherwise normal EGD to second part of the duodenum .
+Labs on discharge: [**2161-4-8**] 06:20AM BLOOD WBC-2.5* RBC-2.85* Hgb-8.4* Hct-24.4* MCV-86 MCH-29.4 MCHC-34.3 RDW-14.6 Plt Ct-127* [**2161-4-8**] 06:20AM BLOOD Glucose-94 UreaN-12 Creat-0.7 Na-140 K-3.3 Cl-108 HCO3-26 AnGap-9 [**2161-4-8**] 06:20AM BLOOD Calcium-8.5 Phos-3.8 Mg-1.7  Brief Hospital Course: 86 year old man with Hep C cirrhosis, metastatic prostate cancer and history of GI bleeding, presenting with new episode of hematemesis.
+# GI bleed/hematemesis: Patient had an initial upper endoscopy and was found to have actively bleeding at a GE (gastro-esophageal) junction ulcer with superimposed clot.
+This was the same site as had previously bled, initiating concern for underlying metastatic or primary malignancy.
+He was treated with [**Hospital1 **] pantoprazole and sucralfate, and with these measures, his hematocrit initially dropped from baseline of low 30's to the mid 20's and stabilized there, without further evidence of bleeding.
+A repeat endoscopy after 48hrs showed the known ulceration but no further active bleeding, as well as an esophageal nodule, again concerning for malignancy.
+# Enterococcus urinary tract infection:  Patient was noted to have a low grade fever during his hospital course and work up yeilded a positive urine culture for enterococcus.
+# Neck pain:  Patient was complaining of neck pain upon arrival to the floor.
+Given his history of metastatic prostate cancer, an MRI C spine was obtained that demonstrated multilevel cervical spine degenerative changes with spinal canal narrowing.
+There was much motion artifact given his parkinson's tremor, and because of this they could not rule out cord compression.
+However, clinically the patient did not have cord compression as his strength and sensation remained intact.
+The MRI also demonstrated non specific enhancement at C4-5 vertebrae, and in the dura by C2/3, likely consistent with degenerative changes.
+His neurological exam should be monitered for any signs of weakness/numbness in which case further evaluation should be done.
+# Parkinsons Disease: Given the patient's GI bleed, he was made NPO for several days, thus missing his antiparkinson's medications.
+Prior to transfer out of ICU, he developed rigidity and worsening of his tremor, thought to be a flair of his parkisons.
+# Leukopenia, Thrombocytopenia: Likely myelosuppression secondary to metastatic prostate cancer versus Hepatitis C cirrhosis.
+# Metastatic prostate cancer: This was not an active issue and is being managed as an outpatient.
+# Hepatitis C: No active inpatient issues.
+# Atrial fibrillation: Patient remained in sinus rhythm, without anticoagulation in setting of GI bleed.
+Discharge Disposition: Extended Care  Facility: [**First Name4 (NamePattern1) 3504**] [**Last Name (NamePattern1) **] Rehabilitation & Nursing Center - [**Location (un) 538**]  Discharge Diagnosis: -Upper GI bleed secondary to bleeding gastric ulcer, with acute blood loss anemia -Urinary tract infection -Parkinson's flare -Degenerative changes of cervical spine with spinal canal narrowing   Discharge Condition: Good.
+Evaluation demonstrated a bleeding ulcer in the stomach which was injected with epinephrine to stop the bleeding.

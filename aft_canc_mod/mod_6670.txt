@@ -1,0 +1,44 @@
+Admission Date:  [**2129-6-4**]              Discharge Date:   [**2129-6-17**]  Date of Birth:  [**2061-3-10**]             Sex:   M  Service: CARDIOTHORACIC  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 1267**] Chief Complaint: Weakness  Major Surgical or Invasive Procedure: [**2129-6-13**] Coronary Artery Bypass Graft x 3 (LIMA to Diag, SVG to OM, SVG to PLV) [**2129-6-9**] Cardiac catheterization  History of Present Illness: 68 yo male with hyperlipidemia, htn, hx prostate CA presented to OSH with "weakness," treated for presumed rhabomylosis with [**Hospital **] transferred to [**Hospital1 18**] for concern for anterior MI/STEMI.
+Found to have elevated CK 1200 with cr 5.6, elevated trop 26, non-oliguric.
+Per report, treated with 3L NS for relative hypotension +/-?
+In [**Hospital1 18**] CCU, satting 96% on NRB+NC, sbp 128/70 (dopa 4mcg), hr 98, a/ox3 but with intermittent confusion, 500cc urine in foley, mild crackles on exam, no apparent respiratory distress, tachypneic to 24.
+ABG 7.4/27/54, cxr R pl effusion with mild CHF.
+EKG NSR with PACs with poor r-wave progression.
+Mood, affect appropriate, mildly distressed.
+Sclera anicteric.
+Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.
+Chest: No chest wall deformities, scoliosis or kyphosis.
+Resp were unlabored, mild access muscle use.
+Mild crackles, no wheeze/rhonchi.
+Abd: Obese, soft, NTND, No HSM or tenderness.
+No abdominial bruits.
+No femoral bruits.
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+There is no evidence of aneurysmatic formations.
+The posterior circulation appears within normal limits as well as the right internal carotid artery.
+The LAD was heavily calcified and had a 90% proximal stenosis, and 90% mid-vessel stenosis, and diffuse distal disease.
+The LCx had a 99% ostial stenosis and heavy calcification.
+The RCA had heavy calcification and a mid-segment occlusion.
+Left sided filling pressure was elevated with a mean PCWP of 18 mmHg.
+Systemic arterial pressure was elevated at 167/89 mmHg.
+[**6-13**] Echo: Pre-CPB: LV systolic fxn shows an akinetic apex.
+Mild spontaneous echo contrast is present in the left atrial appendage.
+There are simple atheroma in the descending thoracic aorta.
+The aortic valve leaflets are mildly thickened.
+Trace aortic regurgitation is seen.
+Moderate (2+) mitral regurgitation is seen.
+There is no pericardial effusion.
+[**2129-6-17**] 05:45AM BLOOD WBC-10.5 RBC-3.10* Hgb-9.0* Hct-27.0* MCV-87 MCH-29.1 MCHC-33.4 RDW-13.2 Plt Ct-260 [**2129-6-4**] 05:47PM BLOOD WBC-11.3* RBC-4.07* Hgb-12.0* Hct-35.2* MCV-87 MCH-29.4 MCHC-33.9 RDW-13.2 Plt Ct-337 [**2129-6-9**] 06:10PM BLOOD Neuts-81.2* Lymphs-9.9* Monos-7.1 Eos-1.6 Baso-0.3 [**2129-6-17**] 05:45AM BLOOD Plt Ct-260 [**2129-6-17**] 05:45AM BLOOD PT-13.3 INR(PT)-1.1 [**2129-6-17**] 05:45AM BLOOD Glucose-122* UreaN-35* Creat-1.6* Na-133 K-4.6 Cl-98 HCO3-22 AnGap-18 [**2129-6-9**] 06:10PM BLOOD %HbA1c-6.0* [**2129-6-9**] 04:38AM BLOOD Triglyc-110 HDL-27 CHOL/HD-4.1 LDLcalc-61 [**2129-6-10**] 09:00AM BLOOD PTH-84* [**2129-6-5**] 03:26AM BLOOD CK-MB-15* MB Indx-2.4 cTropnT-6.25* [**2129-6-4**] 05:47PM BLOOD CK-MB-24* MB Indx-2.2 cTropnT-6.4* proBNP-[**Numeric Identifier 78960**]*  Brief Hospital Course: Mr. [**Known lastname **] was transferred to [**Hospital1 18**] for concern of anterior MI/STEMI, found to have subacute L temporal infarct on MRI brain, also developed gout in L knee.
+Since the patient reported no cardiac history nor any chest pain at the time or in the past month, and since the data was not conclusive for an acute MI, and in light of the ARF, the patient was medically managed for CAD with ASA, Statin.
+Patient came in from OSH with a Cr of 5.6 despite not reported to have chronic renal insufficiency at baseline.
+As CK peaked at 1200, it is unclear if patient could have acute renal failure that patient had rhabdomyolysis.
+Two days after admission, patient had an acute decompensation in mental status, becoming very agitated and confused.
+Blood cultures were drawn as pt had previously spiked a fever (although he'd been afebrile since), and patient was started on diazepam for EtOH withdrawal.
+An echocardiogram on [**2129-6-6**] showed ant-anterolateral akinesis, left apical aneurysm, and an EF of 30%.
+The patient's presentation was unclear, but it is likely that pt had an MI sometime in the few days preceding his admission c/w downward trending cardiac markers during his initial hospital course.
+In order to assess his cardiac disease, he was thus taken for cardiac cath (unable to schedule P-MIBI), which showed 3 vessel disease with left main disease.
+Examination revealed a warm, erythematous, tender L knee.
+As pt reported a history of multiple gouty flares and clinical suspicion low for infection, he was started on a 3-day course of colchicine with marked improvement by the following day.
+He developed atrial fibrillation that was treated with beta blockers and amiodarone which controlled his rate and he converted to normal sinus rhythm.
+He has not been started on an ace inhibitor due to elevated creatinine that is returning to baseline, plan to follow up with PCP for evaluation in 2 weeks.
+Disp:*80 Tablet(s)* Refills:*0*   Discharge Disposition: Home With Service  Facility: [**Hospital 11252**] Home Health  Discharge Diagnosis: Coronary Artery Disease s/p Coronary Artery Bypass Graft x 3 Subacute ischemic stroke (Temporal), likely cardioembolic Paroxysmal atrial fibrillation Acute systolic heart failure with EF 33% Acute renal failure likely [**1-8**] dehydration STEMI with troponin increase (OSH) PMH: Hypertension, Hyperlipidemia, Gout, Optic neuropathy, Polymyalgia rheumatica, Spinal stenosis, Prostate CA [**2125**] - untreated, Psoriasis   Discharge Condition: Good  Discharge Instructions: Please shower daily including washing incisions, no baths or swimming Monitor wounds for infection - redness, drainage, or increased pain Report any fever greater than 101 Report any weight gain of greater than 2 pounds in 24 hours or 5 pounds in a week No creams, lotions, powders, or ointments to incisions No driving for approximately one month No lifting more than 10 pounds for 10 weeks Please call with any questions or concerns [**Telephone/Fax (1) 170**] PT/INR for coumadin dosing, Goal INR 2-2.5 [**Hospital 197**] clinic at VA will follow coumadin starting [**6-22**]  Followup Instructions: ECHOCARDIOGRAM Phone:[**Telephone/Fax (1) 62**] Date/Time:[**2129-7-20**] 11:00 Dr. [**Last Name (STitle) **] [**7-20**] 1:00pm Dr. [**Last Name (STitle) **] on same day as echo and appointment with Dr. [**Last Name (STitle) **].

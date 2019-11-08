@@ -1,0 +1,33 @@
+Admission Date:  [**2194-6-4**]              Discharge Date:   [**2194-6-13**]  Date of Birth:  [**2113-3-7**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 21990**] Chief Complaint: Hypotension, R arm swelling, R supraclavicular mass  Major Surgical or Invasive Procedure: FNA of right supraclavicular mass  History of Present Illness: 81 y/o F w/HTN, R-sided stroke (?hemorrhage) who was sent here from [**Last Name (un) 1188**] house for w/u of large R sided neck mass and R sided edema.
+Essentially noted by her sons on [**Name (NI) 1017**] night that she had significant RUE edema compared to the left (left is her hemiparetic side).
+Today, her NP[**MD Number(3) 100559**] a large R sided neck mass that had not been noted in the past, and she had a low-grade temp to 100 and was tachycardic in the 110s.
+She had a subclavian line placed (currently undocumented) and was given 4L NS without improvement in her bp or lactate, so was started on levophed.
+Had chest CT showing large amorphous neck and supraclavicular mass, differential hematoma vs malignancy.
+Past Medical History: HTN Stroke [**October 2193**] at [**Hospital1 2025**] Spinal compression fx Dementia s/p G tube placement (after stroke)  Social History: Lives in [**First Name4 (NamePattern1) 1188**] [**Last Name (NamePattern1) **] since 2 months ago.
+Physical Exam: Gen: NAD Skin: healed burn wound on anterior chest wall (from childhood) Neck: prominent, firm, poorly circumscribed R neck mass CV: RRR, nl s1+s2, no M/G/R Pulm: CTA B Abd: S/NT, mildly distended; +BS; G-tube site C/D/I Ext: 3+ RUE, 2+ BLE, 1+ LUE edema; no clubbing, cyanosis; faint PT/DP pulses b/l Neuro: A+O->self only (says "[**Known lastname 101072**]"); only answers yes or no to most questions.
+Pertinent Results: [**2194-6-12**] 05:15AM BLOOD WBC-9.8 RBC-2.99* Hgb-9.9* Hct-29.6* MCV-99* MCH-33.0* MCHC-33.3 RDW-18.9* Plt Ct-184 [**2194-6-12**] 05:15AM BLOOD Glucose-94 UreaN-19 Creat-0.2* Na-134 K-4.0 Cl-99 HCO3-24 AnGap-15 [**2194-6-12**] 05:15AM BLOOD ALT-13 AST-25 LD(LDH)-488* AlkPhos-107 TotBili-0.3 [**2194-6-12**] 05:15AM BLOOD Albumin-1.8* Calcium-8.2* Phos-3.0 Mg-1.9 UricAcd-5.0 *********** MRI CHEST/MEDIASTINUM W/O & W/; MRI ABDOMEN W/O & W/CONTRAST [**2194-6-7**]  1) Enhancing multilobulated/conglomerate right-sided mass extending from the base of the neck through the supraclavicular region and into the axillary/right chest wall region.
+2) Right adrenal nodule cannot be assessed on this examination due to motion artifact which was likely due to patient fatigue from this extended study.
+********** FNA Neck Mass B-cells demonstrate a monoclonal kappa light chain restricted population.
+Immunophenotypic findings are consistent with involvement by a kappa-restricted B-cell lymphoproliferative disorder.
+*********** Right Upper Extremity USG [**2194-6-5**] Upper extremity DVT with thrombosed brachial veins and partially thrombosed axillary vein.
+Markedly slow flow is present in the right subclavian vein, which may be related to this large right-sided mass.
+*********** ECHO [**2194-6-6**] The left atrium is moderately dilated.
+Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded.
+The right ventricular cavity is mildly dilated.
+There is no aortic valve stenosis.
+No aortic regurgitation is seen.
+Trivial mitral regurgitation is seen.
+There is mild pulmonary artery systolic hypertension.
+There is a small pericardial effusion.
+There is an anterior space which most likely represents a fat pad.
+There are no echocardiographic signs of tamponade.
+************  Brief Hospital Course: 81F h/o CVA, who presented intially with hypotension, R arm edema, and large R supraclavicular/chest wall mass.
+# Lymphoma: Mass in the neck.
+Initially suspicious for hematoma from Chest CT ([**2194-6-3**]).
+RUE U/S ([**2194-6-5**]) showed DVT with thrombosed brachial and partially thrombosed axillary veins, and slow flow in R subclavian vein, which likely due to stasis due to this large R-sided mass.
+MRI ([**2194-6-7**]) showed the mass to be diffusely enhancing, suggestive of malignancy.
+There was discussion about using radiation to reduce tumor burden for possible reduction in right arm edema.
+However it would likely not help as edema is from hypoalbuminemia and DVT.
+# Anasarca: Asymmetric swelling RUE>RLE,LLE>LUE appears secondary large R sided mass, along with R brachial and axillary vein thrombosis, and low albumin (1.8).
+Morphine Sulfate 0.5-1 mg IV Q4H:PRN hold for RR <12   Discharge Disposition: Extended Care  Facility: [**Hospital3 1186**] - [**Location (un) 538**]  Discharge Diagnosis: Lymphoma in R supraclavicular region  Discharge Condition: Minimally responsive with stable vitals.
+Discharge Instructions: She has a lymphoma in her neck and after discussions with the physicians and family, it has been decided not to pursue any further workup or treatment of her lymphoma.

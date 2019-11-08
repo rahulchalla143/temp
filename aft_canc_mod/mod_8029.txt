@@ -1,0 +1,57 @@
+Admission Date:  [**2133-12-1**]              Discharge Date:   [**2133-12-4**]  Date of Birth:  [**2074-10-24**]             Sex:   M  Service: MEDICINE  Allergies: Interferons  Attending:[**First Name3 (LF) 8115**] Chief Complaint: LUE burning  Major Surgical or Invasive Procedure: T1 Corpectomy and anterior cervical plating [**2133-12-3**]   History of Present Illness: Mr. [**Known lastname 26438**] is a 59 yo with a PMHx s/f Cirrhosis secondary to hepatitis C and metastatic HCC who presents for evaluation of cord compression with resulting LUE "burning".
+Mr. [**Known lastname 26438**] had been undergoing day 9 of XRT to his R shoulder and R hip for pain related to metastatic lesions and complained to his radiation oncologist of new onset burning symptoms in his LUE.
+As a result of these symptoms an MRI was performed which demonstrated a T1 lesion with cord compression.
+He denies neck pain/back pain, incontinence of stool/urine, fevers/chills, or other symptoms of paresthesias/weakness elsewhere.
+In the ED, Mr. [**Known lastname 26438**]' vitals were 96.6 66 151/95 18 100% on RA, exam notable for no saddle anesthesia, but decreased rectal tone.
+There he endoresed LUE paresthesias.
+CT of T and C spine was obtained which demonstrated compression fracture at T1 with retropulsoin into the canal.
+Review of Systems: (+) Per HPI (-) Denies fever, chills, night sweats, recent weight loss or gain.
+Denies headache, sinus tenderness, rhinorrhea or congestion.
+Denies chest pain or tightness, palpitations, lower extremity edema.
+Denies cough, shortness of breath, or wheezes.
+Denies dysuria, stool or urine incontinence.
+Denies rashes or skin breakdown.
+Past Medical History: [**Known firstname **] [**Known lastname 26438**] developed hepatocellular carcinoma in the setting of hepatitis C cirrhosis.
+Screening ultrasound [**2132-11-29**] raised concern for a mass in the right liver, and his AFP was elevated at 56.9.
+MRI [**2132-12-20**] showed a mass in segment V measuring 2.9 x 3.2 x 2.8 cm with arterial enhancement and wash-out, consistent with hepatocellular carcinoma.
+CT torso on [**2132-12-30**] identified a 3.2 cm mass with arterial enhancement and wash-out in segment VI/VII.
+Also seen were two 2-mm right lower lobe pulmonary nodules as well as a fracture in the right 10th rib.
+Bone scan was negative for metastases.
+EGD on [**2132-12-17**] showed grade II varices which were banded.
+Despite this his AFP continued to rise, and bone [**2133-10-12**] identified numerous lesions concerning for bone metastases.
+Bone biopsy performed [**2133-10-29**], confirmed the finding of metastatic hepatocellular carcinoma.
+Family History: His mother died at age 72 with metastatic breast cancer.
+His sister has diabetes mellitus.
+Vitals - T: 96.6 BP:  140/80 HR: 60 RR: 18 02 sat: 98% on RA GENERAL: disgruntled gentleman, pacing around the room in C-collar, talkative/conversant SKIN: warm and well perfused, no excoriations, venous stasis changes in b/l LE, no rashes HEENT: in C collar, AT/NC, EOMI, PERRLA, anicteric sclera, pink conjunctiva, patent nares, MMM, good dentition, nontender supple neck, no LAD, no JVD CARDIAC: RRR, S1/S2, no mrg LUNG: CTAB ABDOMEN: nondistended, +BS, nontender in all quadrants, no rebound/guarding, no hepatosplenomegaly M/S: moving all extremities well, strength 5/5 diffusely, no cyanosis, clubbing or edema, no obvious deformities PULSES: 2+ DP pulses bilaterally NEURO: CN II-XII intact, sensation intact in b/l UE/LE in all major dermatomes.
+Vitals - 98.2/98.4  134/82  (120s-150s/50s-80s)  69 (50s-60s) 18 100%R GENERAL: NAD, in [**Location (un) 2848**]-J, talkative/conversant SKIN: warm and well perfused, greyish/blue chronic discoloration of the lgs HEENT: in [**Location (un) 2848**]-J collar, AT/NC, EOMI, PERRLA, anicteric sclera, pink conjunctiva, no LAD, no JVD CARDIAC: RRR, S1/S2, no mrg LUNG: CTAB ABDOMEN: nondistended, +BS, nontender in all quadrants, no rebound/guarding, no hepatosplenomegaly EXT: 2+ pulses, chronic appearing bluish/grey changes of the LE bilaterally.
+no edema NEURO: [**5-14**] diffusely, CN 2-12 intact.
+Cortical irregularity of the inferior endplate of T12, possibly extending into posterior elements, likely representing metastatic disease and better evaluated on recent MRI.
+Lucencies within the vertebral bodies of T5, T8 and T11 also corresponding to signal abnormality seen on recent MR and likely representing metastatic disease.
+No evidence of cord compression in the thoracic spine from T2 through T12.
+Coarse calcifications of the liver, likely from prior TACE procedure.
+[**2133-12-2**] T-SPINE XRAY IN THE OR:  Limited evaluation of the upper thoracic spine due to overlying soft tissue and bony structures.
+No prevertebral swelling is identified.
+Cervical lordosis is preserved.
+No cervical body vertebral fracture is identified.
+No focal lytic or sclerotic lesions.
+Hardware is intact without signs of complication.
+IMPRESSION: Anterior fusion from C7-T2 and cage placement status post T1 corpectomy without hardware complication.
+Spine Tumor Pathology [**2133-12-2**]: Pending     Brief Hospital Course: Mr. [**Known lastname 26438**] is a 59 year old with a PMHx s/f Cirrhosis secondary to hepatitis C and metastatic HCC who presents for evaluation of cord compression with resulting LUE "burning".
+#  Cord Compression from metastatic HCC: Likely secondary to T11 retropulsion from metastatic HCC.
+Pt with parastesias and pain in his arms.
+Pain was controlled with MScontin and oxycodone as well as gabapentin for neuropathic pain.
+He tolerated the procedure well without complication.
+Post-operatively he denied any parastesias or pain.
+He remained on his MS contin 60mg [**Hospital1 **], PRN oxycodone, and gabapentin for pain on discharge.
+#  Cirrhosis with thrombocytopenia:  Pt was continued on his nadolol.
+His thrombocytopenia was likely secondary to his Cirrhosis, and he received 7U of platelets during admission to maintain Plt>50 in the perioperative setting to reduce risk of bleed (see above section).
+These were restarted without complication on discharge.
+# Pathology from OR tumor specimen still pending # Pt given instructions to follow up with spine surgery in 2 weeks after discharge # He was encouraged to make a follow up appointment with his primary oncologist # Platelets should be monitored as an outpatient.
+Medications on Admission: GABAPENTIN - 300 mg Capsule - 1 Capsule(s) by mouth three times per day LISINOPRIL-HYDROCHLOROTHIAZIDE -  (Prescribed by Other Provider) - 20 mg-12.5 mg Tablet - 1 Tablet(s) by mouth MORPHINE -  (Dose adjustment - no new Rx) - 30 mg Tablet Extended Release - 2 Tablet(s) by mouth q 12 hour NADOLOL - 40 mg Tablet - 1 Tablet(s) by mouth daily OXYCODONE - 5 mg Tablet - [**1-11**] Tablet(s) by mouth q4-6hours as needed for shoulder pain PROCHLORPERAZINE MALEATE - 10 mg Tablet - 1 Tablet(s) by mouth q 8 hour as needed for nausea/vomiting (take 1 pill with morphine)  Medications - OTC MAGNESIUM OXIDE -  (Prescribed by Other Provider) - Dosage uncertain   Discharge Medications: 1. morphine 30 mg Tablet Extended Release Sig: Two (2) Tablet Extended Release PO Q12H (every 12 hours).
+Discharge Disposition: Home  Discharge Diagnosis: T1 Spinal cord compression Metastatic Hepatocellular carcinoma   Discharge Condition: Mental Status: Clear and coherent.
+Discharge Instructions: Mr. [**Known lastname 26438**],  You were admitted to the hospital for compression of your spinal cord due to your cancer.
+You received several units of platelets during admission to decrease the risk of post-operative bleeding.
+-      Swallowing: Difficulty swallowing is not uncommon after this type of surgery.
+If the incision is draining cover it with a new sterile dressing.
+If the incision starts draining at anytime after surgery, do not get the incision wet.
+If you have an incision on your hip please follow the same instructions in terms of wound care.

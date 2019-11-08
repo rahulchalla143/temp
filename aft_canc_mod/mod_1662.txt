@@ -1,0 +1,46 @@
+Admission Date:  [**2165-7-16**]              Discharge Date:   [**2165-7-26**]  Date of Birth:  [**2089-10-1**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 2485**] Chief Complaint: Diarrhea x 8 days  Major Surgical or Invasive Procedure: None  History of Present Illness: 75 year old man with a history of metastatic colon cancer to liver s/p lobectomy, CAD s/p MI, and CVA with residual weakness who presented to the ED with weakness.
+Pt was recently admitted to [**Hospital1 18**] from [**7-9**] to [**7-13**] with dx of diarrhea, NSTEMI in setting of hypovolemia and an enterococcal UTI.
+He was then cardioverted with resumption of sinus rhythm and improvement of his SBP to 110s.
+Past Medical History: -Colon cancer status post 5-FU and leucovorin [**1-15**] and s/p right liver lobectomy for three liver mets in [**1-16**], complicated by a bile leak with catheter removal in [**11-16**], persistent sinus tract drainage from the site.
+-CAD s/p MI -Hypercholesterolemia -HTN x 10 years -CVA (left cerebellar stroke) -Glaucoma resulting in right eye blindness.
+Family History: There are no strokes or neurological disorders in the family.
+poor waveform Foley: 150cc Gen: NAD, slightly tachypneic HEENT: MM dry, no appreciable JVD, right eye cloudy (blind) CV: regular, with occasional ectopy Chest: decreased breath sounds at bases, no wheezes, no crackles; biliary drainage from between 8th and 9th ribs on right Abd: hypoactive bowel sounds, distended, tympanic on percussion, tender to deep palpation in RLQ Ext: 2+ edema, dopplerable pulses in all 4 extremities Neuro: moves all extremities on command, strength 4/5 throughout; AO x 2 (person, place) .
+Compared to the prior, the left lung is stable but the right lung shows some density increasing towards the base and laterally suggestive of pleural fluid/thickening and increased atelectasis; followup is recommended to see if there is further progression.
+Diffusely edematous small bowel is a nonspecific finding.
+There is no evidence of bowel obstruction, perforation, or pneumatosis intestinalis.
+Small bilateral pleural effusions.
+No atrial septal defect is seen by 2D or color Doppler.
+There is moderate symmetric left ventricular hypertrophy.
+Left ventricular systolic function is hyperdynamic (EF>75%).
+The aortic valve leaflets (3) are mildly thickened.
+There is no aortic valve stenosis.
+Mild (1+) aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+There is no mitral valve prolapse.
+Trivial mitral regurgitation is seen.
+The left ventricular inflow pattern suggests impaired relaxation.
+There is borderline pulmonary artery systolic hypertension.
+There is an anterior space which most likely represents a fat pad, though a loculated anterior pericardial effusion cannot be excluded.
+Brief Hospital Course: 75 year old man with a history of metastatic colon cancer to liver s/p lobectomy, CAD s/p MI, and CVA with residual weakness who presented to the ED on [**7-16**] with fever, weakness, diarrhea; found to have BPs in the 70s with HR in the 140s.
+Of note, he had a CT abd in the ED which showed diffusely edematous bowel edema c/w enterocolitis.
+On the floor, he was evaluated by GI who felt it was likely infectious vs ischemic and recommended adding cholestyramine +/- flex-sig if his diarrhea did not resolve.
+He otherwise was started on a heparin gtt for atrial fibrillation.
+# Hypotension: Pt with increased stool output of >2L on readmission to MICU, with poor IV access and negative fluid balance.
+Pt appeared hypovolemic per exam likely from combination of diarrhea, aggressive diuresis and antihypertensive medications.
+# Diarrhea: Pt with persistant diarrhea that appeared to improve prior to arrival on the floor, with acute worsening prior to returning to MICU.
+GI consulted on the floor; believed it represents infectious vs vascular colitis.
+Despite (-) c.diff, suspicion remained high for c. diff colitis.
+Ceftaz and Vanco were then started for better nosocomial gram (-), gram (+) coverage given recent hospitalizations.
+GI had a high suspicion for c diff despite neg stool cultures and PO vanco was added for additional coverage.
+Stool output tapered off but diarrhea did not completely resolve.
+# Atrial Fibrillation: Pt with known hx of atrial fibrillation in setting of prior dehydration and ?
+pt started on anticoagulation on the floor but was held in ICU (pt with documented fall risk in prior d/c summaries).
+# CAD s/p CABG: Hx of mild troponin leak during this admission in setting of hypotension and ?
+ACEI was held due to hypotension and ARF.
+TTE showed a small LV cavity and hyperdynamic LV with EF>75% Patient initially appeared slightly volume overloaded on CXR but was intravascularly dry given hypotension, CVP of 6cm and response to IVF.
+# Acute renal failure: Likely [**2-14**] prerenal azotemia in setting of hypotension and diarrhea.
+Urine lytes showed FeNa <1% consistent with prerenal azotemia.
+On morning of [**7-26**] the MICU team was alerted that the patient was becoming SOB with tachypnea into 40s and hypotensive.
+Throughout the morning, the patient had more frequent episodes of hypotension and respiratory distress.
+After a long discussion, it was decided to make the patient CMO as he did not want to be intubated or resuscitated and he was quickly decompensating.
+Medications on Admission: * Methazolamide 50mg [**Hospital1 **] * PPI * Atenolol 50mg qd * Lisinopril 5mg qd * ASA 325mg qd * Lipitor 80mg qd * Levaquin 500mg qd   Discharge Medications: n/a  Discharge Disposition: Home  Discharge Diagnosis: Hypotension Diastolic CHF Diarrhea - unknown etiology   Discharge Condition: expired   Discharge Instructions: n/a  Followup Instructions: n/a

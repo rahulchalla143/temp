@@ -1,0 +1,33 @@
+Admission Date:  [**2146-2-2**]              Discharge Date:   [**2146-2-5**]  Date of Birth:  [**2069-9-1**]             Sex:   F  Service: NEUROLOGY  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 8850**] Chief Complaint: Hypotension.
+History of Present Illness: Mrs. [**Known lastname **] is a 76-year-old right-handed woman with a history of metastatic melanoma (metastases to brain, stomach, subcutaneous tissues, and lung) who was originally admitted to the [**Hospital Unit Name 153**] with urosepsis and is now being transferred to the OMED service for further managment.
+The patient was recently discharged from [**Hospital1 18**] on [**2146-1-27**] after an admission for seizures secondary to brain metastases.
+She was readmitted on [**2146-2-2**] for hypotension in the setting of UTI.
+She had been feeling a bit weak since discharge; went for her first episode of XRT [**2146-2-3**], then was noted to have a SBP in the 60's.
+ROS on admission: + loose stool x3, fatigue.
+Cardiac enzymes were checked given ST depressions on EKG (negative).
+After one night she remained normotensive and was called out to OMED.
+Mild hypertension.
+Benign mitral regurgitation murmur with negative echocardiographic findings.
+Chronic benign hematuria that had been previously extensively  investigated with negative findings.
+Status post fracture of her right ankle for which she underwent a surgical metal plate placed in [**2122**].
+8. metastatic melanoma; presented with episodes of slurred speech.
+Family History: There is pneumonia and hypertension in her family.
+There is no right-left confusion or finger agnosia.
+Motor Examination:  She does not have a drift.
+Coordination examination does not reveal appendicular or truncal ataxia.
+Pertinent Results: Initial labs: [**2146-2-2**] 04:30PM   LACTATE-2.2* [**2146-2-2**] 04:15PM   GLUCOSE-121* UREA N-71* CREAT-1.4* SODIUM-134 POTASSIUM-3.4 CHLORIDE-99 TOTAL CO2-23 ANION GAP-15 [**2146-2-2**] 02:32PM   PT-11.5 PTT-22.1 INR(PT)-1.0 [**2146-2-2**] 02:32PM   NEUTS-91.3* BANDS-0 LYMPHS-5.5* MONOS-2.4 EOS-0.2 BASOS-0.6 [**2146-2-2**] 02:32PM   WBC-15.4* RBC-5.02 HGB-15.0 HCT-44.3 MCV-88 MCH-30.0 MCHC-34.0 RDW-13.3 [**2146-2-2**] 03:10PM URINE  RBC-[**1-24**]* WBC-21-50* BACTERIA-MANY YEAST-NONE EPI-0-2 [**2146-2-2**] 03:10PM URINE  BLOOD-TR NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.0 LEUK-SM [**2146-2-2**] 04:15PM   CALCIUM-7.9* PHOSPHATE-3.7 MAGNESIUM-2.7* [**2146-2-2**] 04:15PM   cTropnT-<0.01 [**2146-2-2**] 04:15PM   CK(CPK)-22* [**2146-2-2**] 10:59PM   CK-MB-3 cTropnT-<0.01 [**2146-2-2**] 10:59PM   CK(CPK)-38  Discharge labs: [**2146-2-5**] 07:55AM BLOOD WBC-6.1 RBC-3.72* Hgb-11.0* Hct-33.0* MCV-89 MCH-29.5 MCHC-33.3 RDW-12.8 Plt Ct-129* [**2146-2-5**] 07:55AM BLOOD Plt Ct-129* [**2146-2-5**] 07:55AM BLOOD Glucose-88 UreaN-27* Creat-0.7 Na-134 K-4.1 Cl-104 HCO3-23 AnGap-11 [**2146-2-3**] 05:56AM BLOOD CK-MB-4 cTropnT-<0.01 [**2146-2-5**] 07:55AM BLOOD Calcium-8.0* Phos-2.0* Mg-2.0  Imaging: CXR:Multiple lung nodules consistent with metastatic disease.
+Micro: UCx: URINE CULTURE (Final [**2146-2-4**]):       ESCHERICHIA COLI.
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              ESCHERICHIA COLI                              | AMPICILLIN------------  =>32 R AMPICILLIN/SULBACTAM--     4 S CEFAZOLIN-------------   <=4 S CEFEPIME--------------   <=1 S CEFTAZIDIME-----------   <=1 S CEFTRIAXONE-----------   <=1 S CEFUROXIME------------     4 S CIPROFLOXACIN---------     1 S GENTAMICIN------------   <=1 S IMIPENEM--------------   <=1 S MEROPENEM-------------<=0.25 S NITROFURANTOIN--------  <=16 S PIPERACILLIN/TAZO-----   <=4 S TOBRAMYCIN------------   <=1 S TRIMETHOPRIM/SULFA----  =>16 R  2 sets of blood cx NGTD  Brief Hospital Course: A/P: This is a 76-year-old right-handed woman with past medical history significant for metastatic melanoma admitted for hypotension in setting of UTI and taking twice dose of HCTZ.
+(1) UROSEPSIS: Patient initially went to ICU because of hypotension.
+In addition, she was found to have E. Coli UTI which was sensitive to ciprofloxacin.
+She was afebrile and is hemodynamically stable on discharge.
+(3) HTN: Her blood pressure medications were held given hypotension and will hold on discharge as well given that patient is not eating and drinking as well and may be prone to dehydration.
+Will have VNA check BP and if elevated at home, should call Dr. [**Last Name (STitle) 724**] to restart.
+(5) HISTORY OF SEIZURES: No episodes since last admission.
+(6) ST DEPRESSIONS: patient had st depressions in setting of hypotension likely related to demand ischemia.
+Docusate Sodium 100 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+Senna 8.6 mg Capsule Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+Nystatin 100,000 unit/mL Suspension Sig: Ten (10) ML PO QID (4 times a day) as needed for thrush.
+Disp:*30 Tablet(s)* Refills:*2*  Discharge Disposition: Home With Service  Facility: Caregroup VNA  Discharge Diagnosis: UTI Hypotension Melanoma  Discharge Condition: She was discharged with stable hemodynamics and without fever.
+Discharge Instructions: You were admitted with a urinary tract infection and low blood pressure.
+Please return to the ED or call your doctor if you experience any fever> 100.5, chest pain, difficulty breathing, abdominal pain, vomiting or any other concerning symptoms.

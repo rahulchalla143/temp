@@ -1,0 +1,88 @@
+Admission Date:  [**2187-5-14**]              Discharge Date:   [**2187-6-6**]  Date of Birth:  [**2104-6-21**]             Sex:   M  Service: MEDICINE  Allergies: indomethacin / Heparin Agents  Attending:[**Attending Info 90680**] Chief Complaint: shortness of breath  Major Surgical or Invasive Procedure: [**2187-5-19**] left internal jugular vein dialysis catheter placement   History of Present Illness: Mr. [**Known lastname 90678**] is an 82y/o gentleman with critical AS ([**Location (un) 109**] <0.8cm2), Afib on Coumadin, CHF (EF 30-35%), HTN, HLD, DM II, CKD IV (Cr ~4 baseline), and CML who presented to the ED with shortness of breath and hemoptsysis and has been found to have CHF exacerbation.
+Of note, he was recently admitted to [**Hospital1 18**] Cardiology [**Date range (1) 90681**] for CHF exacerbation in the setting of dietary indiscretion.
+His stay was complicated by hematuria (had CBI per Urology and was d/c'd to rehab with no foley), so his Warfarin had been held on discharge.
+Has SOB at rest and any exertion, fatigue.
+Also had hemoptysis last night, approximately 1 tablespoon, only once.
+EKG showed atrial fibrillation per report, although this EKG is not in the chart.
+CXR with bibasilar opacities and pulmonary edema that is significantly worse when compared to [**4-23**].
+No major overnight events.
+CARDIAC HISTORY: -CABG: none -PERCUTANEOUS CORONARY INTERVENTIONS: none -PACING/ICD:none -CHF EF 45% -afib on Coumadin -severe AS (peak velocity 3.8m/sec, calc [**Location (un) 109**] 0.8cm2) -conduction system disease consisting both of sinus bradycardia with infrequent sinus pauses noted in [**2182**] up to 2.7 seconds in the frequent ventricular ectopy as well as short runs of supraventricular tachycardia.
+Sclera anicteric.
+No xanthalesma.
+Pt with 4/6 crescendo/decrescendo murmur with loss of S2.
+No thrills, lifts.
+LUNGS: No resp distress, CTAB, no wheezes or rhonchi, but he has crackles bilaterally 1/2 up.
+No HSM or tenderness.
+No abdominial bruits.
+2+ edema up to the thighs bilaterally.
+No calf tenderness.
+CXR PA&LAT [**2187-5-14**]: Findings suggesting moderate pulmonary edema.
+Incompletely characterized right basilar opacification, which may reflect a pleural effusion, but is not well characterized.
+Air outlines the anterior wall of the bladder which could represent cystitis in the appropriate clinical setting.
+Additionally, there is a focal area of heterogeneous dense material within the bladder lumen which suggests a focal mass.
+Minimal atherosclerotic calcification of the common and external iliac and common femoral vessels.
+Increased trabeculation of the right ilium, consistent with Paget's disease.
+There is a left IJ central venous catheter with distal lead tip in the brachiocephalic vein.
+There are persistent bilateral pleural effusions, left greater than right.
+There is mild pulmonary edema.
+CXR [**2187-5-23**]: FINDINGS:  A single portable chest radiograph is limitted by low lung volumes and mild rotation.
+Mild pulmonary edema has improved but there is now a small amout of fluid in the right minor fissure.
+Apparent worsening of cardiomegally is likely secondary to technique.
+KUB [**2187-5-23**]: FINDINGS:  Portable supine and upright frontal views of the abdomen demonstrate a nonspecific bowel gas pattern with gas in non-distended loops of small and large bowel.
+No air-fluid levels are seen.
+The right hemidiaphragm is excluded from view on these images which limits evaluation for free intraperitoneal air.
+However, there is no evidence of a large amount of free air within the abdomen.
+Multilevel moderate degenerative changes are noted in the visualized lower thoracic and lumbar spine.
+IMPRESSION:  Nonspecific bowel gas pattern without gaseous distention of the colon.
+No biliary dilatation is seen.
+No focal liver lesion is identified.
+There is a right pleural effusion.
+Contracted gallbladder with no biliary dilatation.
+No focal liver lesion is seen.
+Right pleural effusion.
+Brief Hospital Course: Mr. [**Known lastname 90678**] is an 82 year old gentleman with critical aortic stenosis (AS), Afib on Coumadin, chronic kidney disease (CKD) stage IV (Cr ~2.5 baseline), and chronic myelocytic leukemia (CML) who presented with acute on chronic systolic heart failure.
+He was thought not to be a candidate for any aortic valve procedures including balloon valvuloplasty and his kidneys did not tolerate diuretics for the heart failure exacerbation.
+His course was complicated by C.difficile diarrhea, development of peripheral blasts in the setting of his CML, and probable heparin-induced thrombocytopenia.
+He eventually expired on [**2187-6-6**] from a PEA arrest after having chest pain during hemodialysis earlier in the day, he was DNR/DNI so resuscitation was not attempted.
+ACTIVE ISSUES # Acute on chronic systolic heart failure (sCHF): He presented with progressive dyspnea on exertion, orthopnea, and lower extremity edema consistent with acute on chronic sCHF.
+He was started on IV lasix gtt, however diuresis was difficult due to his low blood pressure and his preload dependence from AS.
+# Acute on chronic renal failure: Pt has stage IV CKD with most recent creatinine on discharge 2.5.
+This was felt most likely due to decreased renal perfusion in setting of acute on chronic heart failure.
+His urine output declined and he began to demonstrate signs and symptoms of uremia with nausea/vomiting, AMS and asterixis.
+Kayexelate was used for hyperkalemia between HD sessions.
+# Critical AS: Pt has known critical AS (most recent [**Location (un) 109**] <0.8cm2).
+He has been evaluated for his options to repair or replace aortic valve, including AVR, TAVI, or balloon angioplasty.
+He was deemed to be a high risk candidate for surgical AVR, and unfortunately he does not qualify for the CoreValve protocol because of his renal insufficiency (creatine clearance < 20 cc).
+The risks and benefits of valvuloplasty were discussed with the patient and his family, including likelihood that he would continue to be HD-dependent as well as risk of stroke.
+It was decided that he would not undergo balloon valvuloplasty and to transition to HD as above for fluid management.
+# Heparin-induced thrombosis and thrombocytopenia (HITT): After several days of heparin used for anticoagulation of afib as well as for dialysis, he developed thrombocytopenia.
+He had no clinical evidence of thrombotic disease.
+His HITT antibody was positive at an optical density which suggested to hematology consultant that he did indeed have HITT.
+He was taken off heparin and started on argatroban to stop thrombosis from HITT as well as prophylaxis for his afib with CHADS2 score of 6.
+All further discussions for balloon valvuloplasty and peritoneal dialysis catheter placement were on hold pending HITT work-up.
+# C.diff associated diarrhea: He developed large volume diarrhea and a C.diff was positive.
+However, his leukocytosis continued to worsen so IV flagyl was added to the regimen and his PO vancomycin dose was increased to 500 mg Q6h.
+When he continued to have rising leukocytosis on this regimen a repeat set of cultures was sent on all body fluids and his urine grew VRE (see below).
+The antibiotic steward recommended use fo tigecycline to dual treat VRE in the urine and C.diff.
+His diarrhea resolved, as well as abdominal pain and it was felt that his rising leukocytosis was due to leukemoid reaction of abnormal bone marrow from CML (see below).
+# Vancomycin-resistant enterococcus (VRE): His urine culture did grow VRE on two occasions.
+Nonetheless, because of rising leukocytosis, he was treated for VRE with tigecycline which would dual-cover his C.diff above.
+He completed a 7 day course for complicated urinary tract infection since male gender and foley.
+Even after treatment, his renal failure did not improve.
+# Chronic myelocytic leukemia (CML): Pt's WBC gradually increased from 17.2 on admission to peak of 84.
+Infectious work up revealed C.diff infection and colonization of urine with vancomycin-resistant enterococcus (cultures positive but UA without pyuria indicating asymptomatic colonization).
+Nonetheless, his white count continued to rise even after clinical resolution of C.diff and with empiric treatment of VRE.
+Felt most likely due to CML since his hydroxyurea was recently discontinued due to renal failure and thrombocytopenia.
+He did also eventually develop a small percentage of his differential with peripheral blasts but this may have been a leukemoid reaction.
+# Hematuria: Pt had hematuria during previous admission that required CBI and holding anticoagulation.
+Warfarin was restarted at [**Hospital **] rehab facility and pt had gross hematuria on admission.
+He had CT abdomen/pelvis in the ED which showed question of focal density in the bladder lumen, which is most likely clot but raises concern for malignant lesion.
+Urine cytology was negative for malignant cells.
+# Hemoptysis: Pt reported one episode of hemoptysis on the night prior to admission (approx 1 tbsp).
+He did not have hemoptysis during admission, and it was felt that this most likely occured due to CHF exacerbation and anticoagulation.
+# Hypertension (HTN): Systolic blood pressures during admission were ranging from 70s-90s even on intermittent HD.
+This was felt due to critical AS and heart failure as above.
+His metoprolol was held due to low pressures and he was started on midodrine 10 mg MWF before HD sessions.
+# Hyperlipidemia (HLD): Continued Simvastatin # Diabetes mellitus, type 2 (DMT2): Diet controlled.
+# GERD: Continued home Omeprazole # Hyperparathyroidism: Continued Calcitriol # Gout: Allopurinol held due to acute on chronic renal failure.
+Transitional Issues: expired  Medications on Admission: 1) Lasix 120mg [**Hospital1 **] 2) Metoprolol 12.5mg PO BID 3) Simvastatin 40mg PO BID 4) Flonase 50mcg 1 spray Daily 5) Miralax 17gm daily 6) Prilosec 20mg PO daily 7) Senna 17.2mg PO daily 8) Colace 200mg PO BID 9) Renagel 1600mg PO TID with meals 10) Allopurinol 150mg PO daily 11) Aspirin 81mg PO daily 12) Calcitriol 0.25mcg PO daily 13) Warfarin 2mg daily  Discharge Medications: expired  Discharge Disposition: Expired  Discharge Diagnosis: Primary: Acute on chronic systolic heart failure--EF 30% Aortic stenosis Acute on chronic renal failure Hematuria  Secondary: Atrial fibrillation  Discharge Condition: expired  Discharge Instructions: expired  Followup Instructions: expired

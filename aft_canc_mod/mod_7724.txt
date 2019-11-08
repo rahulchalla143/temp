@@ -1,0 +1,41 @@
+Admission Date:  [**2138-7-3**]              Discharge Date:   [**2138-7-13**]   Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 99**] Chief Complaint: Respiratory failure  Major Surgical or Invasive Procedure: Intubated, arterial line   History of Present Illness: Ms. [**Known lastname 10687**] was a [**Age over 90 **] year-old woman with no known PMH who had not seen a physician [**Name Initial (PRE) **] 35 years and presented with SOB x 1 month.
+She was having a monthly inspection at home when she told the inspector she had general body pain for 1 month with shortness of breath and productive cough in addition to sore throat.
+She was BIBA after c/o productive cough and general malaise.
+Does endorse CP with precordial palpation.
+A CXR showed a mass in the apical portion of the left lung, concern for CA.
+Around 2pm, the patient began to have worsening respiratory distress with sats into the 80s.
+She was tachypneic and had a systolic BP >200.
+Concern was for flash pulmonary edema and she was started on a nitro drip and BIPAP with improvemnet.
+At 4:45, she was sent for a CTA which revealed complete collapse of the LUL with a central hypodensity concerning for mass vs. necrosis.
+On return for the CTA, the patient had respiratory decompensation requiring intubation.
+Physical Exam: Admission Exam: Vitals: 97 110/68 80 22 100% intubated, CVP 4 General: Intubated and sedated HEENT: Sclera anicteric, MM dry, oropharynx clear Neck: supple, JVP not elevated Lungs: Rhoncorous breath sounds throughout, breath sounds on left may be transmitted sounds.
+CV: Regular rate and rhythm, normal S1 + S2, II/VI systolic murmur Abdomen: soft, non-distended, bowel sounds present GU: + foley Ext: 2+ pulses, cool, no cyanosis or edema  Discharge: Expired.
+Pertinent Results: [**2138-7-3**] 11:00AM   WBC-8.7 RBC-3.46* HGB-8.2* HCT-26.1* MCV-75* MCH-23.7* MCHC-31.4 RDW-14.7 [**2138-7-3**] 11:00AM   NEUTS-83.0* LYMPHS-11.1* MONOS-4.6 EOS-0.3 BASOS-1.0 [**2138-7-3**] 11:00AM   PLT COUNT-709* [**2138-7-3**] 11:00AM   GLUCOSE-122* UREA N-30* CREAT-1.2* SODIUM-145 POTASSIUM-3.8 CHLORIDE-107 TOTAL CO2-25 ANION GAP-17 [**2138-7-3**] 11:00AM   cTropnT-<0.01 [**2138-7-3**] 11:00AM   D-DIMER->[**Numeric Identifier 3652**] [**2138-7-3**] 11:16AM   LACTATE-1.2  Cytology Report BRONCHIAL BRUSHINGS Procedure Date of [**2138-7-4**]  Bronchial brushings, endobronchial lung mass:    POSITIVE FOR MALIGNANT CELLS,    Consistent with carcinoid tumor.
+No acute pulmonary embolus.
+Marked heterogeneity with focal areas of hypodensity in a collapsed left upper lung likely due to a neoplasm with areas of necrosis.
+Extensive mediastinal and hilar adenopathy causing attenuation of the right and left main pulmonary arteries and left upper lobe and lingular arterial branches.
+Soft tissue density within the left upper lobe bronchus may represent mucus plugging or tumor infiltrate.
+Large pericardial effusion without definite radiographic evidence of tamponade physiology.
+Moderate bilateral pleural effusions with simple fluid attenuation and bibasilar consolidative opacities could represent atelectasis or infection.
+Patchy opacities in the right lung could represent aspiration or infection.
+Probable vascular congestion and mild edema.
+Thickening of the left adrenal gland without discrete nodule.
+Incompletely evaluated hyperdense lesion arising from the left kidney, possibly a hyperdense cyst.
+Unchanged left lower lobe atelectasis and large left upper lobe mass.
+Right upper lobe resolving pneumonia.
+Portable TTE (Complete) Done [**2138-7-4**] at 10:23:49 AM  Impression: moderate pericardial effusion; no chamber collapse but this may be absent despite the presence of high intrapericardial pressures when severe pulmonary hypertension is also present; apical hypokinesis of the left ventricle, with apical ballooning of the right ventricle (consider Takotsubo cardiomyopathy with right ventricular as well as left ventricular manifestation)  Cardiology Report ECG Study Date of [**2138-7-3**]  10:32:14 AM   Sinus rhythm.
+Possikble inferior wall myocardial infarction, age indeterminate.
+Non-specific lateral ST-T wave changes.
+No previous tracing available for comparison.
+Intervals Axes Rate PR QRS QT/QTc P QRS T 94 142 86 338/397 56 -21 92    Brief Hospital Course: Ms. [**Known lastname 10687**] was a [**Age over 90 **] year old woman with no known previous medical history who presented with progressive shortness of breath, cough, and general malaise for a month, intubated for respiratory distress, found to have LUL lung mass (carcinoid vs small cell) and likely post-obstructive pneumonia on imaging.
+# Lung Mass Patient was found to have LUL mass.
+She underwent bronchoscopy on [**7-4**] at which time she was noted to have significant external compression of LUL bronchus, after which bronchus opened up again to friable tissue.
+Cytologic brushings returned positive for neuroendocrine tumor cells, most consistent with carcinoid tumor, though could not definitively rule out small cell, particularly based on bronchoscopy visualization.
+She was also noted to have pericardial effusion without signs of tamponade, presumed to be malignant pericardial effusion.
+# Respiratory Failure Multifactorial, secondary to LUL mass and post-obstructive pneumonia.
+Patient was treated with a 9 day course of vancomycin and zosyn for pneumonia in the setting of potential sepsis.
+Her blood pressures were intermittently low and requiring norepinephrine for support intermittently, though hypotension presumably partially secondary to sedation.
+TTE showed EF of 40-45% with apical hypokinesis, and she was noted to have some pulmonary edema and pleural effusions and was diuresed as tolerated by blood pressures.
+# Hypotension Initially hypotension attributed to sepsis.
+# Demand Ischemia Patient was noted to have troponin leak to 0.5 on admission, trended downwards over the next day, thought to be secondary to demand ischemia.
+TTE showed EF 40-45% and apical hypokinesis with apical ballooning, potentially Takasubos cardiomyopathy.

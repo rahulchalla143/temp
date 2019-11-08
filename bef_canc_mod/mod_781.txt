@@ -1,0 +1,24 @@
+Admission Date:  [**2121-9-18**]              Discharge Date:   [**2121-10-9**]  Date of Birth:  [**2055-12-25**]             Sex:   F  Service: CSURG  Allergies: Diphenhydramine / Phenytoin / Heparin Agents  Attending:[**First Name3 (LF) 4272**] Chief Complaint: Shortness of breath/Respiratory distress with hemoptysis  Major Surgical or Invasive Procedure: Bronchoscopy with bronchoalveolar lavage Right thoracosccopic drainage of empyema Chest tube/[**First Name9 (NamePattern2) 58077**] [**First Name8 (NamePattern2) 1661**] [**Last Name (NamePattern1) 1662**] drain Endotracheal tube Foley catheter Nasogastric tube Pigtail catheter Arterial line Central venous line Video swallow study  History of Present Illness: 65 year old female s/p left VATS with wedge and right upper lobe resection with mediastinal lymph node dissection ([**2121-9-8**]) for recurrent lung cancer presents to [**Hospital1 18**] on [**2121-9-18**] following discharge to Rehab ([**2121-9-15**]) with complaints of shortness of breath and blood tinged sputum.
+She states her shortness of breath worsened over the last 2 days.
+She denies chest pain but states having a decreased appetite.
+Past Medical History: right frontal lobe tumor (benign) seizure disorder DM2 cholelithiasis legally blind in right eye s/p craniotomy s/p carpal tunnel release  Social History: denies alcohol stopped smoking in [**2111**] retired lives with fiancee  Family History: Non-contributory  Physical Exam: On admission, patients physical exam is as follows:  Vitals: T=, BP=145/52, P=123 ST, R=36, SpO2=100% on BIPAP 10PS / 5PEEP Gen: obese, in respiratory distress HEENT: PERRL, EOMI CVS: RR, tachycardic Pulm: tachypneic, bilateral crackles Abd: soft, NT/ND, +BS Ext: no CCE, warm/dry, well perfused Neuro: no focal deficits, follows commands, moves all extremities  Pertinent Results: [**2121-9-18**] 02:10PM   GLUCOSE-122* UREA N-25* CREAT-0.9 SODIUM-130* POTASSIUM-4.9 CHLORIDE-94* TOTAL CO2-20* ANION GAP-21* [**2121-9-18**] 02:10PM   ALT(SGPT)-13 AST(SGOT)-26 LD(LDH)-384* CK(CPK)-119 ALK PHOS-196* AMYLASE-27 TOT BILI-0.8 [**2121-9-18**] 02:10PM   LIPASE-12 [**2121-9-18**] 02:10PM   CK-MB-6.2 cTropnT-<0.01 [**2121-9-18**] 02:10PM   ALBUMIN-2.5* [**2121-9-18**] 02:10PM   WBC-20.6*# RBC-3.49* HGB-10.9* HCT-32.7* MCV-94 MCH-31.1 MCHC-33.2 RDW-15.8* [**2121-9-18**] 02:10PM   NEUTS-89* BANDS-5 LYMPHS-2* MONOS-4 EOS-0 BASOS-0 ATYPS-0 METAS-0 MYELOS-0 [**2121-9-18**] 02:10PM   HYPOCHROM-NORMAL ANISOCYT-NORMAL POIKILOCY-NORMAL MACROCYT-1+ MICROCYT-NORMAL POLYCHROM-1+ [**2121-9-18**] 02:10PM   PLT COUNT-219# [**2121-9-18**] 02:10PM   PT-13.5 PTT-25.4 INR(PT)-1.2  CTA CHEST W&W/O C &RECONS  [**2121-9-18**] 3:19 PM 1) No evidence of pulmonary embolism.
+2) Right hydropneumothoraces with post-op changes.
+3) Non-specific patchy opacities in both lungs.
+CHEST (PORTABLE AP)  [**2121-9-18**] 2:05 PM Increased size of right pneumothorax and slight increased size of right effusion  CHEST (PORTABLE AP)  [**2121-9-18**] 9:37 PM right internal jugular central venous line tip in SVC.
+Stable right pneumothorax cavity after VATS  Cardiology Report ECHO Study Date of [**2121-9-25**] The left atrium is moderately dilated.
+The aortic root is mildly dilated.
+The aortic valve leaflets (3) are mildly thickened but not stenotic.
+Mild (1+) aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+There is no mitral valve prolapse.
+Trivial mitral regurgitation is seen.
+There is a trivial/physiologic pericardial effusion.
+No definite vegetations identified.
+The absence of a vegetation by 2D echocardiography does not exclude endocarditis if clinically suggested.
+An otherwise unremarkable swallowing study  CHEST (PA & LAT)  [**2121-10-7**] 3:03 PM 1) Interval increase in size of the right apical small pneumothorax 2) Mild pulmonary edema  Brief Hospital Course: Ms. [**Known lastname 1169**] was admitted to Thoracic Surgery at [**Hospital1 18**] on [**2121-9-18**] via the ED and was immediately intubated for respiratory distress and hemoptysis.
+She was then sent to the SICU for her respiratory status.
+On HD#5, she underwent a right thoracosccopic drainage of empyema and bronchoscopy which was well tolerated.
+On HD#8, patient underwent a TTE which showed no vegetations.
+Results were unremarkable and showed an otherwise normal exam without evidence of aspiration.
+She is asked to follow-up with Dr. [**Last Name (STitle) 175**] in 1 week and to obtain a CXR the same day for evaluation of her pneumothorax.
+Disp:*qs Tablet(s)* Refills:*0*   Discharge Disposition: Extended Care  Facility: [**Hospital6 1293**] - [**Location (un) **]  Discharge Diagnosis: Respiratory Distress Anemia Chronic obstructive pumonary disease DM type 2 Hypertension Seizure disorder Gastroesophageal reflux disease Heparin induced thrombocytopenia   Discharge Condition: Good  Discharge Instructions: You may restart any medications you were on prior to your hospital admission.

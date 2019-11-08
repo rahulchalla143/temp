@@ -1,0 +1,40 @@
+Admission Date:  [**2152-9-14**]              Discharge Date:   [**2152-9-20**]  Date of Birth:  [**2094-12-15**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 3276**] Chief Complaint: left sided weakness   Major Surgical or Invasive Procedure: none  History of Present Illness: This is a 57 year-old male with a history of NSCLA lung cancer with brain mets, known pontine lesion, who presents with hypoxia and worsening L sided weakness (arm, leg and facial droop).
+Patient was [**Last Name (un) 4662**] to the ED by his wife after she noted worsening left sided weakness on the am of admission that has been progressing over the last week.
+Of note, patient was seen by his PCP [**Last Name (NamePattern4) **] [**2152-9-7**] for left arm weakness and reported coughing episodes with liquids.
+During that visit, his PCP noted more slurred speech and was suspicious for aspiration.
+An outpatient MR [**First Name (Titles) **] [**Last Name (Titles) 93516**] his known pontine lesion was scheduled for the day of admission and an outpatient speech and swallow was planned.
+His wife noted that he had a persistent cough w/sputum production last week which she feels is improved over the past few days.
+There have been no fevers or chills, nausea, vomiting, diarrhea.
+He has urinary frequency at baseline.
+A Head CT was negative for acute change.
+A CTA demonstrated multifocal PNA for which he received a dose of cefepime and levofloxacin.
+ROS: The patient [**Last Name (Titles) **] any fevers, chills, weight change, nausea, vomiting, abdominal pain, diarrhea, constipation, melena, hematochezia, chest pain, shortness of breath, orthopnea, PND, lower extremity oedema, cough, urinary frequency, urgency, dysuria, lightheadedness, headache, rash or skin changes.
+Past Medical History: - Nonsmall cell lung cancer with metastases to brain, s/p VATS to right lower lung on [**2150-7-24**], surgical resection of brain tumor on [**2141-12-19**], s/p whole brain irradiation from [**2142-1-8**] to [**2142-2-5**]; now with pontine metastases getting Cyberknife treatments - Hypothyroidism - Depression/Anixety - CAD s/p CABG [**2139**] - Non sustained VT on Amiodarone - Ischemic cardiomyopathy with EF of 20-30% [**8-3**] by echo - Bilateral cataract surgery - Erectile dysfunction - Avascular necrosis of right humerus - S/P Cholecystectomy - S/P Right shoulder surgery x 2 - Tremor  Social History: He is married.
+He used to work for NSTAR and has a history of asbestos exposure.
+His brother did have pancreatic cancer at the age of 70.
+He does not know of any specific medical problems that she had.
+His father died at age 52 of a myocardial infarction.
+He also had a sister who died of an aneurysm.
+Physical Exam: Vitals: T:97.6 BP:93/58 HR:74 RR:14 O2Sat: 94% on 3L NC GEN: Chronically ill, well-nourished, no acute distress HEENT: EOMI, pupils 4mm, right briskly reactive, left minimally reactive, sclera anicteric, no epistaxis or rhinorrhea, MMD, OP w/ white plaques on tongue/hard palate NECK: No JVD, carotid pulses brisk, no bruits, no cervical lymphadenopathy, trachea midline COR: HS distant, RRR, no M/G/R, normal S1 S2, radial pulses +2 PULM: scattered rhonchi left >right, no wheezing or rales ABD: obese, Soft, NT, ND, +BS, no HSM, no masses EXT: No C/C/E, no palpable cords, WWP NEURO: alert, oriented to person, place, and time.
+SKIN: No jaundice, cyanosis, or gross dermatitis.
+No ecchymoses.
+No new focus of edema or other acute intracranial abnormalities identified.
+The known right pontine lesion is better visualized on MRI.
+New air space consolidation involving the right upper and left lower lobes.
+As these findings were not present on [**2152-8-17**], this findings are most consistent with multifocal pneumonia.
+Stable emphysema and post-surgical changes of right lower lobectomy.
+Right upper lobe nodules, not changes, suggestive of small airways infection.
+hip x-ray - no evidence of acute fracture  forearm x-ray - IMPRESSION: No evidence of fracture or dislocation  [**9-14**] chest x-ray IMPRESSION: Left lower lobe patchy opacity concerning for pneumonia.
+Likely etiology of aspiration in the setting of progressive neurological decline.
+Patient was on levofloxacin and flagyl for a few days, but stopped on [**9-17**] when CXR demonstrated a rapid resolution of right sided opacity unlikely to be consistent with infectious etiology.
+Patient was not febrile and did well without antibiotics.
+# Nonsmall cell lung cancer with known pontine mass: New left sided weakness, slurred speech, multiple neurologic abnormalities concerning for worsening metastatic disease.
+# CAD s/p CABG [**2139**], EF of 20-30% [**3-4**] by echo: No evidence of chest pain or volume overload.
+# H/o Non sustained VT: Continued Amiodarone and monitored on telemetry without event.
+Nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID (4 times a day) as needed for thrush.
+Discharge Disposition: Home With Service  Facility: [**Hospital 119**] Homecare  Discharge Diagnosis: Primary: Nonsmall cell lung cancer .
+Hypothyroidism Depression/Anixety CAD s/p CABG [**2139**] Non sustained VT on Amiodarone Ischemic cardiomyopathy with EF of 20-30% [**3-4**] by echo Bilateral cataract surgery Erectile dysfunction Avascular necrosis of right humerus S/P Cholecystectomy S/P Right shoulder surgery x 2 Resting Tremor   Discharge Condition: stable, afebrile   Discharge Instructions: You presented to the hospital with left sided weakness and difficulty breathing.
+Your left weakness was felt to be secondary to the brain lesions from lung cancer.
+Your difficulty breathing was likely due to aspiration.
+You were started on antibiotics for a few days, but they were stopped because it was not felt that you had a lung infection.
+Please seek immediate medical attention if you develop chest pain, shortness of breath, worsening cough, fevers, chills, worsening weakness, loss of conciousness or any other change from your baseline health status.

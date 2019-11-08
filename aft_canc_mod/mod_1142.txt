@@ -1,0 +1,58 @@
+Admission Date:  [**2140-10-5**]              Discharge Date:   [**2140-10-18**]  Date of Birth:  [**2061-6-27**]             Sex:   M  Service: MEDICINE  Allergies: Penicillins / Horse Blood Extract  Attending:[**First Name3 (LF) 2291**] Chief Complaint: DKA   Major Surgical or Invasive Procedure: central line  History of Present Illness: Mr. [**Known lastname **] is a 79 y/o male with a history of DM1 on an insulin pump (last A1c 8.1), hypertension and glaucoma who presented with elevated blood sugars and altered mental status from nursing home ([**Hospital1 **]).
+Patient also described abd pain as well.
+An hour later, patient became hypotensive to 95/46.
+DKA was thought to be perhaps due to infection and patient was pan cultured.
+Vanc, Levo, & Flagyl were started, as patient has PCN allergy.
+CXR was obtained which showed bilat opacities c/w pna.
+An abd CT was performed as well as patient was complaining of abd pain, but was essentially negative, did show inguinal hernia.
+Patient's cardiac enzymes were checked as well and were found to be elevated at 0.83.
+EKG revealed sinus tachy @100 with normal axis, normal intervals, new ST depressions in lat leads.
+Unclear if sedation due to medications given in ED or if this was how nursing home found patient.
+Rpt EKG showed resolution of lateral ST depression but new TWI in V3 but rpt enzymes show trop elevation to 2.97 with MB 80s and MBI 6.6.
+Type I diabetes on an insulin pump 3.
+Family History: Father had a question of coronary artery disease and had a pacemaker and died at the age of 81.
+?F BP: 102/56 P:79  R:22  O2:97% on 2L NC and FM @40% General: somnelent, arousable, unable to really answer questions HEENT: Sclera anicteric, dry MM Neck: supple, no LAD, JVD Lungs: rhonchi/crackles diffusely CV: RRR, +S1, S2, no murmurs, rubs, gallops Abdomen: soft, NT/ND, BS present, no r/r/g GU: foley Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema .
+LEFT VENTRICLE: Mild regional LV systolic dysfunction.
+RIGHT VENTRICLE: Moderately dilated RV cavity.
+Mild global RV free wall hypokinesis.
+AORTA: Mildly dilated ascending aorta.
+MITRAL VALVE: Mildly thickened mitral valve leaflets.
+Mild (1+) MR. TRICUSPID VALVE: Mild PA systolic hypertension.
+There is mild regional left ventricular systolic dysfunction with mild septal hypokinesis.
+The right ventricular cavity is moderately dilated with mild global free wall hypokinesis.
+The ascending aorta is mildly dilated.
+The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic stenosis or aortic regurgitation.
+No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Mild (1+) mitral regurgitation is seen.
+There is mild pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+IMPRESSION: Mild regional left ventricular systolic dysfunction, c/w CAD.
+Dilated right ventricle with mild systolic dysfunction.
+BILAT LOWER EXT VEINS Study Date of [**2140-10-6**] 10:49 AM IMPRESSION: No evidence of DVT in the bilateral lower extremities.
+Head CT [**10-5**]-IMPRESSION: Chronic microvascular ischemic disease.
+[**10-5**]:CT abd/pelvis IMPRESSION: 1.
+No evidence for mesenteric ischemia.
+Bilateral lower lobe consolidations, left more than right, consistent with multifocal pneumonia.
+Small amount of ascites and gallbladder wall edema, consistent with third spacing, possibly related to vigorous fluid resuscitation.
+Left inguinal hernia containing ascites.
+There are low lung volumes.
+There is no evidence of pneumothorax.
+Brief Hospital Course: Mr. [**Known lastname **] is a 79 y/o male with a history of DM1 on an insulin pump last A1c 8.1, hypertension and glaucoma who presented with diabetic ketoacidosis, NSTEMI, and pneumonia.
+#Diabetetic Ketoacidosis: The potential causes include pneumonia, NSTEMI, or potentially malfunctioning insulin pump.
+NSTEMI: The patient was found to have new EKG changes with elevation in troponin, peaking at 5.21.
+TTE showed mild regional left ventricular systolic dysfunction consistent with CAD.
+The etiology of his MI was either secondary to hypoperfusion in setting of pneumonia/sepsis OR he had a primary cardiac event.
+The decision was made to not pursue cardiac catheterization given high probability he would have multivessel disease and the patient was not interested in bypass surgery.
+#Pneumonia: He was found to have bilateral lower lobe consolidation concerning for pneumonia.
+He was started on broad spectrum antibiotics for health care acquired pneumonia given that he is a nursing home resident.
+His respiratory status has improved significantly,  he has been afebrile, and his leukocytosis  has resolved as well.
+#Altered mental status/encephalopathy- This was likely due to toxic-metabolic encephalopathy, which was likely multifactorial in the setting of infection, NSTEMI, DKA.
+Pt was treated for infection.
+#Acute kidney injury: His elevated creatinine on admission was thought to be due to pre-renal etiology, likely volume depletion in the setting of infection.
+#Thrombocytosis-likely reactive thrombocytosis due to recent infection and DKA.
+4. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1)  Inhalation Q6H (every 6 hours) as needed for SOB/Wheezing.
+For breakfast and dinner  FS 0-70, [**Name8 (MD) 138**] MD FS 71 - 200, no units FS 201 - 250, Humalog 3 units SQ FS 251 - 300, Humalog 5 units SQ FS 301 - 350, Humalog 7 units SQ FS 350 - 400, Humalog 9 units SQ FS >400, [**Name8 (MD) 138**] MD  For lunch and bedtime FS 0 - 70, [**Name8 (MD) 138**] MD FS 71 - 400, no units FS >400, [**Name8 (MD) 138**] MD   Discharge Disposition: Extended Care  Facility: [**Hospital **] LivingCenter - [**Location (un) **]  Discharge Diagnosis: [**Hospital 7792**] health care associated pneumonia diabetic ketoacidosis   Discharge Condition: Mental Status: Clear and coherent.
+Discharge Instructions: You were sent from your assisted-living facility for elevated blood sugars.
+Initially, you admitted to the ICU and found to have diabetic ketoacidosis, pneumonia and a heart attack.
+For your diabetic ketoacidosis you were followed by the [**Last Name (un) **] service, given insulin, and your symptoms improved.

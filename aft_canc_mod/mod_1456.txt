@@ -1,0 +1,44 @@
+Admission Date:  [**2166-9-14**]              Discharge Date:   [**2166-9-19**]  Date of Birth:  [**2097-5-5**]             Sex:   M  Service: MEDICINE  Allergies: Lipitor  Attending:[**First Name3 (LF) 689**] Chief Complaint: Dyspnea & weakness  Major Surgical or Invasive Procedure: Hemodialysis  History of Present Illness: 69 y/o M w/hx CLL (not on treatment), ESRD (still making urine, with functional AV fistula in place) listed for transplant, T2DM, transferred from [**Hospital3 **] ED, where he was initially brought by EMS with two days of weakness and dyspnea.
+developing right mid lung infiltrate.
+Exam notable for decreased BS on right lung, otherwise CTAB.
+Labs drawn in ED (pending at time of transfer to [**Hospital Ward Name 121**] 2), were notable for leukocytosis to 23K (96% lymphocytes), potassium of 5.8, blood gas of 7.30/23/99/12, with anion gap of 19 on metabolic panel.
+Past Medical History: CLL Adult onset diabetes c/b peripheral neuropathy chronic renal failure coronary artery disease cataracts anemia  Social History: He is a retired [**Location (un) 86**] police officer, lives with his family in [**Location (un) 86**].
+Sister had fatal ovarian cancer.
+Physical Exam: VS: Temp: BP:154/69 HR:87 (regular) RR:27 O2sat:100% RA GEN: pleasant, comfortable, NAD though mildly tremulous HEENT: +Bulky bilateral submandibular and submental lymphadenopathy.
+PERRL, EOMI, anicteric, MMM, op without lesions.
+No jvd, no carotid bruits, no thyromegaly or thyroid nodules RESP: CTAB.
+No wheezes rales or rhonchi.
+Good air movement throughout CV: RRR, Normal S1 and S2, no m/r/g ABD: Soft, NT/ND, NABS x4, No masses or HSM.
+No renal bruits.
+[**9-14**] EKG: Sinus rhythm.
+Left anterior fascicular block.
+Prior anteroseptal myocardial infarction of indeterminate age.
+STUDIES: [**9-15**] CXR: Left lower hemithorax is uniformly opacified, probably by a combination of consolidation and pleural effusion.
+Small right pleural effusion may be present.
+Findings are most consistent with bilateral pneumonia.
+Asymmetric edema could be present as well or concurrently given distention of mediastinal and hilar vessels.
+[**9-16**] CXR: As compared to the previous radiograph, the extent of the pre-existing left pleural effusion has decreased.
+The pre-existing right parenchymal opacity is also smaller than on the previous image.
+No newly appeared parenchymal opacity.
+Moderate cardiomegaly without evidence of pulmonary edema.
+Brief Hospital Course: 69 year-old M with CLL, CKD, DMII presents with dyspnea and weakness found to have elevated lymphocyte-predominant leukocytosis with electrolyte abnormalities, likely secondary to leukemoid reaction to CAP and acute on chronic kidney injury, s/p short MICU course where he received emergent dialysis to correct metabolic and electrolyte abnormalities .
+# Pneumonia: The patient presented with dyspnea and weakness, and had an infiltrate on his CXR.
+His fever curve trended down and his leukocytosis improved.
+His cough resolved and his fatigue/weakness dramatically improved.
+# Acute on Chronic Renal Failure: The patient has a history of ESRD, not on HD, still producing urine.
+He presented with hyperkalemia, hyperphosphatemia, hyperuricemia, hypocalcemia and acute on chronic kidney injury, initially concerning for Tumor Lysis Syndrome, despite no history of chemotherapy or glucocorticoid use.
+After discussion with Hematology/Oncology, Tumor Lysis Syndrome was thought unlikely (see below).
+It is possible that his acute kidney injury was due to urate nephropathy, and the other electrolyte abnormalities were secondary to the acutely worsened renal function.
+For his hypocalcemia he was treated with IV calcium gluconate.
+# Chronic Lymphocytic Leukemia (indolent): The patient has not required treatment for his CLL.
+He presented with cervical lymphadenopathy, a lymphocyte-predominant leukocytosis, elevated LDH, and electrolyte abnormalities, which were concerning for [**Doctor Last Name 6261**] transformation to lymphoma with tumor lysis syndrome.
+The Hematology/Oncology service was consulted and felt that there was no evidence for this on his peripheral smear (no blasts or prolymphocytes), and that the elevated white count was a leukemoid rection to the pneumonia.
+The patient was found to be hypogammaglobulinemic and was treated with IVIG at a dose of 400mg/kg once.
+# Coronary Artery Disease: The patient had elevated CK & Troponin T on admission, flat CKMB, likely related to increased demand and decreased clearance of enzymes in setting of ESRD.
+No acute ischemic changes were seen on ECG.
+His primary care physician may wish to consider starting a daily aspirin once his acute kidney injury resolves.
+# Hypertension: The patient was mildly hypertensive on arrival to the MICU.
+# Diabetes Mellitus II: complicated by nephropathy and peripheral neuropathy.
+Disp:*360 Tablet, Chewable(s)* Refills:*0*   Discharge Disposition: Home With Service  Facility: Citywide VNA  Discharge Diagnosis: Primary: -Community-acquired pneumonia -Acute on chronic kidney injury .
+You were recently transferred to [**Hospital1 1170**] for management of your pneumonia and acute worsening of kidney function.
+You were treated with antibiotics, and given sessions of hemodialysis, and you improved.

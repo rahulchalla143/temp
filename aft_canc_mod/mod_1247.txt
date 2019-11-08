@@ -1,0 +1,39 @@
+Admission Date:  [**2161-4-1**]              Discharge Date:   [**2161-4-6**]  Date of Birth:  [**2091-5-12**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 5266**] Chief Complaint: Melena  Major Surgical or Invasive Procedure: PICC placement for TPN   History of Present Illness: 69 year-old woman with a history of CAD, CHF, AVM, achalasia anemia, new large brain mass affecting sella turcica and impinging on optic chiasm who presents with melena.
+At [**Company 191**] she was noted to have guaiac positive melanotic stools.
+States that she has had some recent nausea, but no vomiting.
+Recently admitted for work-up or large brain mass which was found to be pituitary adenoma on biopsy.
+ECG showed questionable ST elevations in V1-2 unchanged.
+2 large bore IV's were placed.
+She was continued on IV PPI and underwent EGD that showed Grade 4 esophagitis with contact bleeding in the lower third of the esophagus.
+Coronary artery disease with history of V. fib arrest, S/P LAD stent and repeat cath in [**10/2159**] 2.
+Osteoporosis - early menopause, no history of hip fractures but verterbral compression fractures noted earlier this month.
+Depression 5.
+History of colonic AVM and anemia of chronic blood loss 6.
+Hypertension 8.
+H/o achalasia, peptic stricture at EG junction 9. h/o TAH and bilateral oopherectomy in her 30s   Social History: Soc: Patient lives with her brother and sister-in-law.
+EGD [**4-2**]: Dilation at the lower third of the esophagus Grade 4 esophagitis in the lower third of the esophagus Erythema in the stomach body compatible with NG trauma Food in the antrum Otherwise normal EGD to second part of the duodenum   Brief Hospital Course: A/P 69 year-old woman with a history of CAD, CHF, AVM, achalasia  anemia, new large brain mass affecting sella turcica and impinging on optic chiasm who presents with melena.
+Also history of achalasia and peptic stricture, which caused NGT to become curled in esophagus and had to subsequently be removed.
+Pt admitted with guaiac positive stool and positive NG lavage.
+She was admitted to the MICU for close monitoring of her hct and vital signs.
+Given her achalasia and poor PO intake they recommended that the patient receive TPN for nutritional repletion given low albumin.
+# [**Name (NI) 27035**] Pt with recent luekocytosis during her last hospitalization but normalized on discharge.
+There was no obvious signs of infection.
+CXR showed no pneumonia.
+On the day prior to discharge, Ms. [**Name14 (STitle) 27036**] had leukocytosis with a U/A consistent with a UTI (see below).
+CXR done was read as: "IMPRESSION: Markedly limited study secondary to positioning.
+As best can be determined there is no definite new focal opacity.
+There is a new indwelling PICC line as above" and the leukocytosis upon discharge is being attributed to a UTI.
+# UTI: On the day prior to discharge, Ms. [**Name14 (STitle) 27036**] had leukocytosis with a U/A consistent with a UTI.
+Resolved with hydration so it was thought to be secondary to hypovolemia.
+Recent biopsies showed pituitary adenoma.
+No signs of failure at this time.
+# Anemia- Chronic Fe deficicient anemia, likely from chronic GIB.
+# [**Name (NI) **] Pt with no recent chest pain or ECG changes.
+-- cardiac enzymes negative x2 -- No ASA given UGIB .
+# FEN- Patient was initially kept NPO for her procedure.
+Her GI doctors [**Name5 (PTitle) 2985**] that she had had significant worsening of her nutritional status with low albumin and weight loss.
+She was advanced to a regular diet given there was no contraindication to this and she was started on TPN.
+# Code- DNR/DNI .
+Nexium 40 mg [**Hospital1 **]   Discharge Disposition: Extended Care  Facility: [**Hospital3 105**] Northeast - [**Location (un) 701**]  Discharge Diagnosis: Primary: UGIB Grade 4 esophagitis Pituitary adenoma Anemia Achalasia .
+Secondary: CAD CHF HTN   Discharge Condition: Stable   Discharge Instructions: Please continue to take your medications as directed.
+If you experience blood in your stool, difficulty breathing, chest pain, fainting, high fevers or other concerning symptoms call you doctor or come to the emergency room.

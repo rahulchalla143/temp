@@ -1,0 +1,50 @@
+Admission Date:  [**2197-6-10**]              Discharge Date:   [**2197-6-18**]  Date of Birth:  [**2125-3-15**]             Sex:   M  Service: MEDICINE  Allergies: Bactrim  Attending:[**First Name3 (LF) 4616**] Chief Complaint: Shortness of breath  Major Surgical or Invasive Procedure: Intubation   History of Present Illness: Mr. [**Known lastname **] is a 72 yo M with COPD and stage 1 Lung Ca who presented to [**Hospital1 18**] with cough and dyspnea at rest.
+He had a new LBBB on EKG but cardiac enzymes were negative and so cardiology thought LBBB was [**1-11**] COPD exacerbation and PNA.
+ABx regimen changed to include Vancomycin because of concern for necrotizing PNA caused by kleb or staph.
+EKG revealed t-wave inversions in III and aVF, but again cardiac enzymes continued to be negative.
+Polymyalgia rheumatica 3.
+Stage I seminoma in the right testicle treated with orchiectomy and  irradiation in [**2159**] 4.
++ hypogammaglobulinemia 5.
+Squamous Cell Carcinoma of the Skin: followed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1022**]    s/p electron-beam irradiation for squamous cell carcinoma to    his right neck and mid-back from [**2190-12-28**] to [**2191-1-27**].
+Bronchiectasis and Granulomatous Lung Mass: [**First Name8 (NamePattern2) **] [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 217**], M.D.
+Low Testosterone on adrogel 9.
+His only exposure history is that related to radiation that he had for his squamous cell and seminoma.
+Family History: Father died of colon cancer at the age of 80.
+Mother died of CVA at the age of 94.
+Physical Exam: General: Alert, oriented, no acute distress, using accessory muscles to breath HEENT: Sclera anicteric, PERRL, MMdry, oropharynx clear Neck: supple, JVD flat, no LAD Lungs: Diffuse rhonchi throughout R>L, crackles and wheezes at the left base CV: RRR, loud S1, nl S2, no murmurs, rubs, gallops Abdomen: +BS, soft, non-tender, distended, no rebound tenderness or guarding, no organomegaly GU: + foley Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema Neuro: A&Ox3, CN 2-12 intact  Discharge PE: ****** VS******* GEN: Well nourished male, laying in bed, pleasant and in good humor.
+On auscultation he has diffuse inspiratory stridor, coarse rhonchi throughout R>L and end expiratory wheezes R>L.
+There is a large radiation scar over R upper back.
+Abd: BS+, soft, NT, ND, no rebound/guarding, no HSM, no [**Doctor Last Name 515**] sign Extremities: wwp, no edema.
+There is no evident pneumothorax.
+Left lower lobe opacities consistent with pneumonia are unchanged.
+Right lower lobe opacity has worsened, most likely due to worsening large area of atelectasis.
+Brief Hospital Course: Mr. [**Known lastname **] is a 72 yo M with COPD and stage 1 Lung Ca who presented to [**Hospital1 18**] with cough and dyspnea at rest.
+He had a new LBBB on EKG but cardiac enzymes were negative and so cardiology thought LBBB was [**1-11**] COPD exacerbation and PNA.
+He received a BAL which revelaed no organisms but was significant for blood.
+ABx regimen changed to include Vancomycin because of concern for necrotizing PNA caused by kleb or staph.
+EKG revealed t-wave inversions in III and aVF, but again cardiac enzymes continued to be negative.
+On the floor he was weaned off oxygen and continuous O2 monitoring until he was mid 90s on 1L with only occasional desat with exertion.
+# Respiratory failure/Hypoxia: Came to the floor S/P intubation for increasing respiratory distress and fatigue while on Bipap.
+Respiratory failure was likely [**1-11**] CAP given left shift, infiltrate seen on CXR and increasing respiratory distress.
+Necrotizing PNA caused by kleb or staph could not be r/o in light of bloody BAL.
+Pseudomonas less likely without bronchiectasis and no prior history of resistant organisms or recent hospitalizations.
+A/A nebs for COPD with relief of wheezes.
+He was afebrile during admission, without a leukocytosis and without s/s of PNA.
+Day before discharge he had worsening wheezes and occasional desats.
+new opacities in mid lung, he was afebrile, there was no change in cough character and recently completed abx -- therefore, repeat abx course deferred.
+Patient knows to call with any pulmonary changes  #Episode of Afib: associated  w/ TWI in III and AVF and a RBBB.
+Pt has h/o Aflutter and RBBB is seen on EKG from [**2197-5-15**].
+He converted into A. Flutter but had some hypotensin and bradycardia.
+#Anemia: HCT from 42 on admission to 35 and then to 29. there was no clear source of bleeding, guaic negative, but he was having some bloody secretions previously (BAL)and a slow pulmonary bleed might be contributing.
+# Acute kidney injury: Seems to be resolved in ICU, likely pre-renal in setting of infection.
+Heparin was not started because of dropping H/H and history of bloody secretions.
+Transitional Issues: - ?Opacity in left mid lung on CXR after abx course without clinical signs of infection:If he does show new signs of PNA or clinical status changes he should be covered with Vanc/Cefepime for HAP/pseudomonas.
+- Pt asked to follow up with cardiology for ass titrating his BP/nodal blocking meds - Pt to f/u with Dr. [**Last Name (STitle) 724**] r.e decreasing Ritalin to 40 from 55 and history of mental status changes when off of Ritalin.
+14. senna 8.6 mg Tablet [**Last Name (STitle) **]: Two (2) Tablet PO BID (2 times a day) as needed for constipation.
+16. bisacodyl 10 mg Suppository [**Last Name (STitle) **]: One (1) Suppository Rectal HS (at bedtime) as needed for constipation.
+PO DAILY (Daily) as needed for constipation.
+18. magnesium hydroxide 400 mg/5 mL Suspension [**Last Name (STitle) **]: Thirty (30) ML PO Q6H (every 6 hours) as needed for constipation.
+Discharge Disposition: Home With Service  Facility: [**Company 1519**]  Discharge Diagnosis: COPD exacerbation secondary to pneumonia Atrial Fibrillation / Atrial Flutter Stage 1 lung cancer CNS Lymphoma DVTs   Discharge Condition: Mental Status: Clear and coherent.
+You were admitted to [**Hospital1 18**] for respiratory distress.
+You were treated for a COPD exacerbation secondary to pneumonia.
+The following changes to your medications were made: - Diltiazem reduced to 120mg PO Daily - Ritalin reduced to 40mg PO Daily - No other changes were made to your home medications, please continue to take your home medications as prescribed.

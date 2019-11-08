@@ -1,0 +1,44 @@
+Admission Date:  [**2138-5-8**]              Discharge Date:   [**2138-5-10**]  Date of Birth:  [**2082-10-28**]             Sex:   M  Service: MEDICINE  Allergies: chloroquine  Attending:[**Last Name (NamePattern4) 290**] Chief Complaint: Chief Complaint: new liver mass, weakness Reason for MICU transfer: hyperkalemia w/ peaked T's Reason for Medicine transfer: comfort measures only   Major Surgical or Invasive Procedure: Hemodialysis Central line  History of Present Illness: Mr.[**Name13 (STitle) 112241**] is a 55yoM with h/o HepB - treated, DM, malaria who was transferred from [**Hospital **] Hospital with MRI showing metastatic liver cancer and labs showing [**Last Name (un) **] and hyperkalemia w/ peaked T's.
+He and his wife report that he has been having abdominal pain x weeks, and upon coming back from liberia a month ago, he was seen in [**State **], for increased swelling in his legs and jaundice.
+An ultrasound was done which showed echogenic masses concerning for liver cancer.
+He was seen in [**Hospital **] clinic on [**2138-4-25**] for abdominal pain.
+He has been complaining of significant weight loss and poor appetite.
+MRI yesterday showed extensive metastatic liver disease (IVC extension, renal vasculature extension, lung mets, and near replacement of the liver).
+He was seen again in clinic today, when he was referred to ER because of these findings and abdominal pain.
+CXR showed R effusion with elevation of R hemidiaphragm and nodules.
+CT Head was performed - showed no intracranial mets, but did show blastic and lytic lesions in the skull.
+He and his wife understand that he has cancer but it is not clear they understand the extent of disease.
++ SOB recent 30 lbs weight loss.
+Denies headache, sinus tenderness, rhinorrhea or congestion.
+Denies Denies chest pain, chest pressure, palpitations, or weakness.
+Denies dysuria, frequency, or urgency.
+Denies rashes or skin changes.
+- Tobacco: never - Alcohol: none - Illicits: none   Family History: no h/o liver cancer   Physical Exam: On transfer to MICU: Vitals: 97.5 101  130/80  17  97% on RA General: Alert, oriented, slow to respond to questions, appears cachectic HEENT: icteric sclera, dry MM, oropharynx clear, EOMI, PERRL Neck: supple, JVP flat, no LAD CV: Regular rate and rhythm, normal S1 + S2, no murmurs Lungs: Clear to auscultation anteriorlly Abdomen: distended, no fluid wave, TTP diffusely, rare bs GU: foley with 10 cc's of very dark urine Ext: warm, well perfused, 2+ pulses, 2+ pitting edema up to bilateral thighs Neuro: CNII-XII intact, 5/5 strength in UE, able to lift both legs off bed, grossly normal sensation, ?
+R periaortic mass, likely represents metastatic disease.
+large RP mass diplaces IVC anteriorly and encases R renal vasculature and possibly upper pole of the right kidney 'largest lesion in R lobe is 16.4 x 12.2 x 16.6 cm', tumor extension into the R portal vein with enhancing tumor thrombus within the portal vein; main portal vein is patent; tumor protrudes into the IVC, No definite tumor thrombus in the R atrium, multiple nodules at both lung bases and along the undersurface of the diaphragm; large periaortic mass measures 10.5 x 7.3 x 13.2 cm.
+R renal vasculature is involved.
+EKG: NSR, Nl axis and intervals, peaked T's .
+Renal U/S: IMPRESSION: No evidence of hydronephrosis.
+Solid mass lesion in the right upper abdomen in close relation to the right kidney and the inferior liver.
+This could represent an exophytic hepatic mass or retroperitoneal mass.
+Renal arterial stenosis would be unlikely in this setting.
+No CT evidence of intracranial metastasis; however, MR is more sensitive for detection of metastatic disease.
+Multiple osseous lytic and blastic lesions may potentially represent metastatic disease.
+Elevation of the right hemidiaphragm vs possible subpulmonic effusion.
+Associated right base atelectasis vs possible consolidation.
+Bilateral nodules suspicious for metastatic disease given history.
+Brief Hospital Course: Assessment and Plan: Mr.[**Name13 (STitle) 112241**] is a 55yoM with h/o treated HepB, DMII who was transferred from [**Hospital **] Hospital with MRI showing extensive metastatic liver cancer and labs showing [**Last Name (un) **] and hyperkalemia w/ peaked T's .
+K improved to 5 after dialysis though renal failure remained persistent.
+# [**Last Name (un) **]: Cr acutely elevated to 4.2 from 0.75 on [**4-25**] w/ BUN of 87.
+Likely ATN given multiple casts on sediment vs. obstructive component from metastatic lesion.
+He remained oliguric despite IVF and aggressive resuscitation was stopped as his respiratory status began to worsen.
+Renal U/S showed no obvious obstruction though did show an RP mass adjacent to the kidney.
+# Presumed metastatic HCC: Large burden of disease on MRI the day prior to admission as an outpatient.
+New diagnosis for patient.
+# Tumor thrombus: [**Last Name (un) **] on MRI in R portal vein.
+Will hold off on heparin gtt tonight given concern for coagulopathy and bleeding into hepatic mets.
+Likely poor synthetic function in setting of extensive liver disease.
+# Metabolic acidosis/lactic acidosis: Initial anion gap of 26 with lactate of 10.4 and new renal failure.
+Likely related to poor clearance of lactate in hepatic/renal failure and extensive tumor burden.
+# LFTs: Obstructive and hepatotoxic pattern likely both related to extensive tumor burden.
+DVT prophylaxis was with subcutaneous heparin.

@@ -1,0 +1,21 @@
+Admission Date:  [**2152-4-25**]              Discharge Date:   [**2152-4-28**]  Date of Birth:  [**2108-7-29**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 783**] Chief Complaint: N/V/confusion  Major Surgical or Invasive Procedure: none  History of Present Illness: This is a 43 y/o F with a PMHx of type I DM x7 yrs with h/o multiple admissions for DKA due to noncompliance, hypercholesterolemia, now here with N/V and change in MS for the past 5 days.
+Due to patient's fatigue and mild confusion, pt is not able to give a complete history, but does admit to being ill over the past few days.
+Cannot determine whether patient has had a cough, fever, abd pain, or any other symptoms due to patient confusion.
+Hypercholesterolemia 3.
+HTN 5.
+Family History: DM (mother)   Physical Exam: VS: T97.3  HR167  BP122/67  RR31  o2sat: 98%RA GEN:  Mildly confused female, visibly tachypnic, not able to answer questions; able to speak [**11-22**] word phrases without dyspnea HEENT: Anicteric bilat.
+Difficult to appreciate any extra heart sounds.
+EXT: No edema bilat.
+SKIN: No rashes or jaundice.
+Brief Hospital Course: Ms. [**Known lastname 111059**] is a 43 y/o lady with a PMHx of type I DM x 7 yrs with h/o multiple admissions for DKA due to noncompliance, admitted with DKA.
+#DKA : Patient has a history of type I DM and noncompliance, with previous admissions for DKA.
+Over the first 24 hours, her AG closed, and her hemodynamic instability corrected.
+The etiology of her DKA remained unclear but may have represented a prior viral gastroenteritis with poor compliance with her insulin regimen.
+# Leukocytosis: Unclear etiology, likely due to severe stress response given DKA, although can not rule out bacterial infection given elevated WBC.
+Possible source may be intraoral given poor dentition; no abscess seen on PEX.
+# ARF: Patient was admitted with a creatinine of 1.5  which was felt pre-renal from severe dehydration due to DKA as this returned to her baseline of 0.9 after IVF hydration.
+# Hypercholerolemia: Stable.
+# Pump:  Patient has a history of mild systolic and diastolic dysfunction and is known to be noncompliant with medications.
+Her beta blocker was held secondary to hypovolemia and her clinical exam was closely followed to assure patient did not become grossly fluid overloaded.
+# Access: Patient initially had a R femoral cordis placed in ED, which was removed in the [**Hospital Unit Name 153**].
+Disp:*30 ML* Refills:*2*   Discharge Disposition: Home  Discharge Diagnosis: DKA leukocytosis hypertension non-ischemic cardiomyopathy systolic heart failure EF 40% fluid overload acute renal failure anemia metabolic acidosis hypercholesterolemia   Discharge Condition: good   Discharge Instructions: Please take all of your medications as directed.

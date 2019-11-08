@@ -1,0 +1,35 @@
+Admission Date:  [**2196-10-4**]              Discharge Date:   [**2196-10-5**]  Date of Birth:  [**2134-9-9**]             Sex:   F  Service: MEDICINE  Allergies: Dilantin  Attending:[**First Name3 (LF) 2297**] Chief Complaint:  hyperkalemia  Major Surgical or Invasive Procedure: hemodialysis  History of Present Illness: This is a 62 year old woman with pmh significant for ESRD secondary to IgA nephropathy, on HD, awoke this morning feeling shortness of breath, palpitations, nausea, and reported feeling crackles in her chest.
+She reports these symptoms are consistent with her being hyperkalemic, as she has experienced these in the past.
+She did have some non-bloody emesis this am which is new and has had some URI symptoms recently, though no myalgias, fevers, chills or sweats.
+She denies any consumption of foods high in potassium other than potatoes over the weekend.
+Review of systems: (+) Per HPI (-) Denies fever, chills, night sweats, recent weight loss or gain.
+Denied cough, shortness of breath.
+Denied chest pain or tightness, palpitations.
+Denied diarrhea, constipation or abdominal pain.
+No recent change in bowel or bladder habits.
+Denied arthralgias or myalgias.
+She has not been on Coumadin until very recently due to history of upper GI bleeding.
+On [**Month (only) 404**] of this year, she was admitted to [**Hospital1 18**] with chest pain and shortness of breath in the  setting of atrial flutter with rapid ventricular response and hyperkalemia.
+She was treated for hyperkalemia and subsequently  her atrial flutter was converted to sinus rhythm.
+Myocardial infarction was [**Hospital1 20003**] out based EKG and biomarkers.
+Thereafter, she underwent right-sided isthmus ablation of clockwise atrial flutter, and was started on quinidine and Coumadin.
+End-stage renal disease on hemodialysis secondary to IgA nephropathy.
+History of upper GI bleeding on [**2195-2-20**] with evidence of esophagitis, gastric ulcer, and bleeding duodenal vessel.
+Repeated endoscopy in [**2195-4-21**] revealed mild inflammation and healing ulcer.
+She has not had any recurrent episodes of GI bleeding since then.
+Diastolic heart failure supported by an echocardiography from  [**2195-12-21**].
+History of malignant hypertension, which was complicated by seizure on [**2193-5-20**].
+Rheumatic fever in childhood .
+Social History: She is single, lives by herself in [**Location (un) 686**], and has no children.
+MI in uncle in his 60s    Physical Exam: General: Alert, oriented, no acute distress HEENT: Sclera anicteric, MMM, oropharynx clear Neck: supple, JVP not elevated, no LAD Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi CV: Regular rate and rhythm, normal S1 + S2,SEM [**2-26**] in LUSB with radiation to carotids, also continuous murmer in apex Abdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema Neuro: CN II-XII grossly intact, 5/5 strength in all 4 ext   Pertinent Results: on admission:  133 | 93 | 96 --------------144 7.7 | 17 |11.7  ca12.8 mg 3.3 phos 4.7  11.4 > 40.5 < 244  trop 0.5 CK 85  Brief Hospital Course: Assessment and Plan: This is a 62 yo female with history of ESRD on HD who presents with hyperkalemia of unclear etiology with ECG changes but otherwise hemodynamically stable admitted to MICU for urgent HD.
+Unclear etiology given recent HD, no dietary indiscretions, normal acid base status and no other metabolic abnormalities.
+# Hypoglycemia: Pt found to be hypoglycemic upon admission to the ICU.
+# HTN: BP currently stable.
+# GERD: continued pantoprazole .
+# Depression: continued citalopram .
+# Access: peripherals .
+Disp:*30 qs* Refills:*0*   Discharge Disposition: Home  Discharge Diagnosis: primary diagnosis: hyperkalemia secondary diagnosis: chronic kidney disease, hypertension   Discharge Condition: stable   Discharge Instructions: You were admitted with a high potassium level.
+High potassium can cause arrythmias so you were admitted to the hospital for emergency dialysis.
+When you go home, please eat a low potassium diet.
+We are providing you with some information about how to eat a low potassium diet.
+Please tell him that you were recently hospitalized for elevated potassium levels.

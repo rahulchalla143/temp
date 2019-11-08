@@ -1,0 +1,44 @@
+Admission Date:  [**2143-11-22**]              Discharge Date:   [**2143-12-6**]  Date of Birth:  [**2084-5-30**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 2297**] Chief Complaint: Septic shock  Major Surgical or Invasive Procedure: mechanical ventilation  History of Present Illness: Mr. [**Known lastname **] is a 59 year old man with history of likely pancreatic malignancy who was transferred from [**Hospital **] Hospital with abdominal pain and rising bilirubin for ERCP evaluation.
+At [**Hospital1 **], he had worsening abdominal pain, and he was noted to have a rising bilirubin.
+ERCP/stenting cannot be performed at [**Last Name (LF) **], [**First Name3 (LF) **] he was transferred here for urgent evaluation and stenting.
+On arrival he was confused, and his mental status deteriorated, and he was intubated.
+In the ICU, he was seen by the ERCP team, who emergently performed an ERCP, discovering a blocked CBD stent with frank pus and placed a new stent within the blocked stent.
+Past Medical History: Pancreatic mass s/p stent placement ([**4-/2143**]) Type 2 Diabetes, on insulin CVA Chronic renal insufficiency - baseline 1.5 s/p pacemaker placement for bradycardia Hypertension CAD s/p MI Gout COPD/OSA Chronic LBP Arthritis History of venous stasis ulcers, recent cellulitis  Social History: Unemployed, previously worked as a mechanic.
+Per previous notes, wheelchair bound and very little ambulation.
+Family History: Unable to obtain  Physical Exam: VITALS: T99.9F, BP 167/90, HR 130, RR 21, Sat 100% VENT: A/C, FiO2 100%, TV 550, Rate 14, PEEP 5 GEN: Sedated, intubated, jaundiced HEENT: Scleral icterus, PERRL NECK: Unable to appreciate JVP RESP: CTA bilaterally anteriorly CV: Tachycardic, no murmurs ABD: Obese, distended, decreased bowel sounds; opens eyes and becomes agitated with palpation and shaking the bed EXT: Trace edema bilaterally, lower extremities with 2+ DP pulses, dry skin SKIN: Jaundiced RECTAL: Guaiac + in ED   Pertinent Results: [**2143-11-22**] 03:50PM   WBC-12.7*# RBC-4.12* HGB-12.2* HCT-37.7* MCV-92 MCH-29.7 MCHC-32.4 RDW-16.2* [**2143-11-22**] 03:50PM   NEUTS-69 BANDS-15* LYMPHS-6* MONOS-4 EOS-1 BASOS-0 ATYPS-0 METAS-5* MYELOS-0 [**2143-11-22**] 03:50PM   GLUCOSE-108* UREA N-31* CREAT-2.2*# SODIUM-125* POTASSIUM-4.3 CHLORIDE-85* TOTAL CO2-17* ANION GAP-27* [**2143-11-22**] 03:50PM   ALT(SGPT)-58* AST(SGOT)-117* LD(LDH)-256* CK(CPK)-410* ALK PHOS-689* AMYLASE-10 TOT BILI-13.1* [**2143-11-22**] 03:50PM   cTropnT-0.02* [**2143-12-5**] 02:50AM BLOOD WBC-9.5 RBC-2.59* Hgb-8.0* Hct-24.8* MCV-96 MCH-30.9 MCHC-32.3 RDW-19.3* Plt Ct-281 [**2143-12-6**] 02:12PM BLOOD PT-18.5* PTT-46.2* INR(PT)-1.7* [**2143-12-5**] 02:50AM BLOOD Glucose-149* UreaN-32* Creat-2.6* Na-140 K-3.8 Cl-101 HCO3-26 AnGap-17 [**2143-12-6**] 02:31AM BLOOD ALT-26 AST-59* LD(LDH)-197 CK(CPK)-22* AlkPhos-371* Amylase-14 TotBili-6.8* [**2143-12-6**] 02:31AM BLOOD Lipase-36 [**2143-12-6**] 02:31AM BLOOD Albumin-2.3* Calcium-9.1 Phos-3.9 Mg-2.3 [**2143-11-24**] 04:58PM BLOOD Cortsol-35.5* [**2143-11-24**] 06:19PM BLOOD Cortsol-35.8* [**2143-11-24**] 06:32PM BLOOD Cortsol-36.3* [**2143-11-28**] 03:05PM BLOOD Vanco-17.4 [**2143-12-6**] 10:27AM BLOOD Type-ART Temp-37.4 Rates-15/ Tidal V-500 PEEP-5 FiO2-50 pO2-81* pCO2-37 pH-7.26* calTCO2-17* Base XS--9 -ASSIST/CON Intubat-INTUBATED [**2143-12-6**] 05:19AM BLOOD Lactate-2.7* .
+MICROBIOLOGY: Blood cultures grew Klebsiella and then later Enterococcus faecium .
+[**2143-10-8**] CBD brushings/cytology: no evidence of malignant cells.
+Echo [**2143-10-10**]: Preserved global left ventricular systolic function.
+Mildly dilated thoracic aorta.
+EKG: Sinus tachycardia at 107bpm.
+3.5 x 3.5 cm mass in the head of the pancreas concerning for malignancy.
+Fatty liver without evidence of focal lesion.
+No acute process identified.
+Liver US [**11-24**]: The liver displays no focal masses and unremarkable parenchyma.
+Again identified is mild prominence to the extra- hepatic biliary system measuring approximately 6 mm and large amount of sludge within the gallbladder.
+No acute intracranial hemorrhage or mass effect.
+Old lacunar infarct.
+Please note that MRI is more sensitive for acute stroke and metastasis.
+Renal US [**12-3**]: Normal renal ultrasound without evidence of hydronephrosis.
+Dilated extrahepatic common bile duct, with stent and sludge seen within.
+No evidence of intrahepatic biliary ductal dilatation.
+Sludge again seen within the gallbladder, without evidence of acute cholecystitis.
+CXR [**12-6**]: Improved bibasilar atelectasis and bilateral pleural effusions, now very small.
+Brief Hospital Course: Mr. [**Known lastname **] is a 59yM with pancreatic mass (likely malignant) s/p CBD stenting in [**2143-4-9**] who presents with abdominal pain, jaundice, and hypotension, found to have blocked CBD stent with frank pus.
+He developed respiratory failure and was treated in the ICU for septic shock.
+# Hypotension/Septic Shock: Most likely secondary to biliary source.
+Nevertheless, he continued to develop episodes of hypotension with recurrent fevers on [**12-5**] and [**12-6**].
+#) Respiratory failure: Intubated in ED secondary to altered mental status, extubated [**11-23**] and re-intubated [**11-24**] with low bp and rigors.
+He had underlying CHF and COPD, and he continued to be difficult to wean from the vent.
+#) Acute on chronic renal failure: Likely secondary to hypotension (SBP in 50s prior to intubation.
+#) Pancreatic mass: Patient was deemed a poor surgical candidate.
+He had no tissue diagnosis, but given that his CA [**54**]-9 was elevated, there was high suspicion that the mass represented a malignant process.
+Unclear if he may have underlying encephalopathy vs delerium related to critical illness.
+Poor synthetic function indicates likely underlying liver abnormality.
+new [**12-2**]) and slight tremor in upper extremities b/l with repositioning.
+No clonus on exam.
+Head CT negative for acute process.
+He received FFP prior to procedures, and his coagulopathy somewhat increased during his course.
+ACE inhibitor was held because of his renal failure.
+Medications on Admission: - Omeprazole 20mg PO daily - ASA 81mg PO daily - Furosemide 40mg daily - Metoprolol 12.5mg PO BID - Captopril 25mg PO TID - Fluoxetine 40mg PO daily - Colchicine 0.6mg daily - Lantus 50mg SQ Qam - Regular Insulin Sliding Scale - Dilaudid 2-4mg IV Q3H PRN severe pain - Dilaudid 4mg PO Q3H PRN pain - Heparin SubQ DVT prophylaxis - Colace 100mg PO BID  Discharge Medications: none/deceased  Discharge Disposition: Expired  Discharge Diagnosis: Possible pancreatic malignancy.
+Sepsis Biliary duct obstruction  Discharge Condition: Deceased.

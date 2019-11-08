@@ -1,0 +1,44 @@
+Admission Date:  [**2127-5-7**]              Discharge Date:   [**2127-5-19**]  Date of Birth:  [**2058-12-3**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**Last Name (NamePattern1) 4377**] Chief Complaint: Fever, abnormal chest CT.  Major Surgical or Invasive Procedure: None   History of Present Illness: Mr. [**Known lastname **] is a 68 year old male with a history of stage I lymphocyte [**Doctor First Name **] classical Hodgkin's s/p XRT now with recurrent Hodgkins disease, s/p 3 cycles of AVD (last treatment was [**4-25**] (C3D15)), and presumed bleomycin pneumonitis on steroids, who presents from clinic with fever to 102.2 and dry cough.
+He took tylenol and proceeded to go to a dental appointment which included a cleaning and filling.
+A CT thorax on the day of admission demonstrated diffuse ground glass opacities, and he was sent for admission.
+On review of systems he has noted a dry cough which has been unchanged since an episode of bleomycin hypersensitivity (see below).
+He developed R sided chest discomfort and chills 2 hours after receiving bleomycin, with T 101.8, O2 sat 88% on RA.
+Past Medical History: ONCOLOGIC HISTORY, per Dr.[**Name (NI) 29992**] note from [**5-7**]: Briefly, he initially presented with left-sided neck adenopathy in 7/00.
+Excisional biopsy was consistent with lymphocyte [**Doctor First Name **] classical Hodgkin's disease with diffuse effacement and diagnostic [**Doctor Last Name **]-Sternberg cells.
+However, this was felt to be less likely due to persistence of germinal centers.
+BCL1 staining was was not consistent with mantle cell lymphoma.
+CT torso showed no significant adenopathy.
+CT scan dated [**2125-1-29**] revealed mild interval increase in size of right hilar node, largest measuring 1.1cm and slight interval increase of the right sided subcarinal adenopathy measuring 1cm.
+He was stable until recently when he experienced a renal stone.
+This showed interval increase in disease, with multiple new intra-adbominal masses.
+He underwent a CT guided FNA of one of the lung based nodules which revealed a minute fragment of fibrous tissue with scattered small lymphocytes and rare large atypical cells, including binucleated forms, with prominent nucleoli consistent with [**Doctor Last Name **]-  Sternberg cells.
+Immunoperoxidase stains revealed that some of the large atypical cells are positive for CD20 and CD30, and negative for CD15.
+LCA is difficult to interpret due to high background staining, however the large cells appear to be negative.
+Since he had only had XRT, and no previous chemotherapy, the plan was made for ABVD, of which he has completed 3 cycles, with complications as above, as well as neutropenia requiring neupogen injections.
+Additionally, On the day of his first dose of Neupogen, he developed rapid atrial fibrillation and was taken to the emergency room.
+PMHx: Hypertension Hypercholesterolemia Nephrolithiasis Paroxysmal A-Fib:  Noted in clinic on day of his first dose of neupogen, [**2127-3-11**].
+He developed rapid atrial fibrillation and was taken to the emergency room.
+HEENT:  Anicteric, white lesions on tongue, otherwise oral mucosa moist and without lesion.
+Lymph nodes:  No cervical, axillary, or supraclavicular adenopathy.
+Lungs:  Mild scattered rales throughout.
+Cor: RR, tachycardic, 1/6 systolic murmur at RSB.
+Increased patchy pulmonary opacities distributed diffusely in both lungs, most pronounced in the right upper lobe.
+In the given clinical setting of cough and fever, the primary consideration is diffuse infection including PCP.
+[**Name10 (NameIs) **] considerations include drug-induced lung disease and hypersensitivity pneumonitis.
+Also, an SIP, COPD and pulmonary edema could have this appearance.
+[**2127-5-7**] 09:25AM   WBC-2.7*# RBC-4.18* HGB-11.5* HCT-35.5* MCV-85 MCH-27.6 MCHC-32.5 RDW-17.8* [**2127-5-7**] 09:25AM   NEUTS-40* BANDS-22* LYMPHS-6* MONOS-20* EOS-8* BASOS-0 ATYPS-2* METAS-0 MYELOS-0 YOUNG-2* [**2127-5-6**] 03:00PM   ALT(SGPT)-14 AST(SGOT)-13 LD(LDH)-223 ALK PHOS-52 TOT BILI-0.6 [**2127-5-6**] 03:00PM   UREA N-31* CREAT-0.9 SODIUM-138 POTASSIUM-4.0 CHLORIDE-101 TOTAL CO2-23 ANION GAP-18  Brief Hospital Course: 68 year old male with a history of stage I lymphocyte [**Doctor First Name **] classical Hodgkin's s/p XRT now with recurrent Hodgkins disease, s/p 3 cycles of AVD (last treatment was [**4-25**] C3D15), and presumed bleomycin pneumonitis on steroids, who presents from clinic with fever to 102.2, dry cough, and dyspnea, with CT scan concerning for PCP versus [**Month/Year (2) **] bleomycin toxicity.
+His presentation with dyspnea and worsening ground glass opacities on CT scan, in the setting of Hodgkin's Disease and having been on steroids was concerning for PCP.
+If he becomes neutropenic he will need to continue Bactrim for 21 days from becoming neutropenic.
+He additionally was continued on clindamycin initially in case of blood stream infection from his dental procedure.
+This, too, was discontinued once the BAL was positive for PCP.
+[**Name10 (NameIs) **] fever was possibly secondary to a combination of neupogen injection which he had received on the day prior to admission, as well as PCP.
+[**Name10 (NameIs) **] immediately defervesced by the 3rd hospital day, possibly in part from steroid effect.
+He continued to have luekocytosis with bandemia but no fever.
+Felt leukocytosis secondary to steroids.
+Onc ehe was stabiled from a respiratory standpoint.
+Pt tolerated well with no noted side effects.
+4) Paroxysmal atrial fibrillation:  His pulse was regular on exam during the admission, with normal rate.
+Disp:*60 Tablet(s)* Refills:*0*   Discharge Disposition: Home With Service  Facility: [**Hospital 119**] Homecare  Discharge Diagnosis: PCP pneumonia Recurrent Hodgkin's lymphoma .
+Hypertension Hypercholesterolemia Nephrolithiasis Paroxysmal A-Fib   Discharge Condition: Stable, O2 sats 91-93% on room air.
+Discharge Instructions: Please call Dr.[**First Name (STitle) **] and come in to the hospital if you are having any fevers/chills, nausea/vomiting, difficulty breathing or any other concerning problems.
+If he becomes neutropenic will need to continue Bactrim DS 2 tabs DS for 21 days from neutropenia otherwise can complete 21 day course which would end [**5-30**].

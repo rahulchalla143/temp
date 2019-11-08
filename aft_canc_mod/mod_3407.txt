@@ -1,0 +1,65 @@
+Admission Date:  [**2130-2-7**]              Discharge Date:   [**2130-2-11**]   Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 30**] Chief Complaint: s/p fall, cerebral SDH & SAH  Major Surgical or Invasive Procedure: none  History of Present Illness: 85 yo man w/ PMH of CAD, CHF, DMII, CLL, and recent TIA who fell resulting in extensive SAH and SDH.
+His son who witnessed the event states that the patient had no LOC.
+Head CT showed extensive SAH and SDH and a L temporal bone fracture, and the patient was transfered to [**Hospital1 18**] for further management.
+Patient had no prodrome or preceeding palpitations, chest pain, dizziness, headaches, no recent fever or chills, and no visual changes.
+No seizure or fall history.
+Patient had a TIA 2 weeks ago characterized by slurred speech.
+The patient was admitted to neurosurgery, but due to the extensive bleed, there were no surgical options, so he was medically managed with seizure prophylaxis.
+Patient was on lasix gtt for volume overload.
+Community ambulator with a cane.
+Family History: father died of MI, mother had diabetes  Physical Exam: Vitals: Tm 100.2 Tc 98.0 BP 116/55;116-150/55-72 HR 76; 70-110's RR 20-24 94% O2 on 5L FSG 281 Gen: somnelent but arousable, awake, alert, AOx1 (only to person, at home in [**Location (un) 47**], [**2130-3-8**]) HEENT: PEERL 2mm bilaterally, EOMI, full visual fields, no nystagmus, dry oral mucous membranes.
+Extensive subarachnoid hemorrhage seen within the frontal lobes bilaterally, right frontal lobe, left parietal lobe.
+Layering blood also seen within the lateral ventricles.
+Intraparenchymal contusion/hemorrhage seen within the anterior frontal lobes bilaterally.
+Subdural hematoma seen in the frontal regions bilaterally, and tracking along the falx.
+Nondisplaced fractures of the left temporal bone, with associated hemotympanum.
+[**2130-2-9**] Cardiac ECHO: Conclusions: The left atrium is mildly dilated.
+There is mild symmetric left ventricular hypertrophy with normal cavity size and systolic function (LVEF>55%).
+The ascending aorta is mildly dilated.
+There is mild aortic valve stenosis (area 1.2-1.9cm2).
+No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+There is no mitral valve prolapse.
+Moderate (2+) mitral regurgitation is seen.
+Moderate [2+] tricuspid regurgitation is seen.
+There is moderate pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+Neurosurgery was consulted and no surgical intervention was indicated because of extensive nature of SDH and SAH and poor prognosis.
+Repeat head CT on [**2-8**] showed no significant interval change.
+He was started on phenytoin 100mg po tid for seizure prophylaxis.
+#NSTEMI: Patient had NSTEMI on [**2-7**].
+EKG showed diffuse ST depressions.
+Per cardiology, patient was not a good candidate for catherization because of his extensive SAH and SDH such that he could not be placed on anti-platlet therapy afterwards.
+No anti-coagulation or anti-platlet therapy added.
+Family discussion confirmed DNR/DNI status and patient preference for non-invasive care.
+On [**2-8**], CK-MB elevated to 88 and troponin elevated to 2.78.
+He was monitored on telemetry and had episodes of paroxysmal SVT to 120's, otherwise HR well controlled to 60's.
+#SOB: Patient with desats to 70-80's on [**2130-2-10**] at night thought to be due to flash pulmonary edma secondary to diastolic heart failure and NSTEMI on [**2-7**].
+EKG showed ST depression in anterolateral leads.
+Due to concern for aspiration and mucous plugging, tube feeds were held and chest PT and deep suctioning were performed with improved respiratory status.
+During family discussion, patient began agonal breathing and passed away.
+#Pneumonia: On [**2130-2-10**], there was concern for aspiration PNA due to persistent R lower lobe hazy opacity since admission, low grade fever to 100.8, and increased cough.
+The patient had persistent leukocytosis due to CLL.
+Moderate (2+) mitral regurgitation, moderate [2+] tricuspid regurgitation, and moderate pulmonary artery systolic hypertension is seen.
+He was on lisinopril 5mg daily on admission which was discontinued due to rising creatinine.
+Patient was on leukoram 2mg daily on admission, this was held during admission due to acute medical issues and was to be restarted on discharge.
+Fractional excretion Urea: 18% based on urine electrolytes indicated creatinine rise likely due to pre-renal disease.
+#Anemia: Patient has chronic anemia per prior PCP notes due to CLL and iron deficiency.
+#DMII: Patient had hyperglycemia during hospital course, transiently on insulin gtt.
+He was on glargine 10u daily and RISS with QID FSBG.
+Glargine was decreased to 5u when patient's tube feeds were held on [**2130-2-11**] due to concern for aspiration.
+Tube feeds were held on [**2130-2-10**] due to concern for aspiration.
+#PPX: Patient was on pneumoboots for DVT prophylaxis.
+Traumatic Subarachnoid Hemmorhage.
+Left temporal bone fracture and hemotympanum 5.
+Acute Renal Failure.
+Aspiration Pneumonia.
+Severe Cervical Spinal Stenosis.
+Diastolic Heart Failure.
+Mild Aortic Stenosis([**Location (un) 109**] 1.2-1.9cm2).
+2+ Mitral and Tricuspid Regurgitation.
+Coronary Artery Disease s/p PCI-Stent.
+Chronic Lymphocytic Leukemia.
+Diabetes Mellitus Type II.
+Transient Ischemic Attack.
+Diastolic Heart Failure.

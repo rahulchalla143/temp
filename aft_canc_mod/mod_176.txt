@@ -1,0 +1,39 @@
+Admission Date:  [**2177-10-24**]              Discharge Date:   [**2177-10-31**]   Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 4052**] Chief Complaint: Right shoulder pain  Major Surgical or Invasive Procedure: R shoulder joint tap TEE   History of Present Illness: Pt is an 86 yo man with PMH of CAD, s/p CABG x 3, CHF with EF 35%, Afib/flutter, CLL, mitral valve replacement in [**2165**] who initially presented on [**2177-10-24**] with c/o R shoulder pain.
+Labs notable for a low Hct of 23, slightly elevated trop 0.10, Cr of 1.7.
+Joint was aspirated and demonstrated septic R shoulder w/ MRSA.
+Past Medical History: --Acute rheumatic fever, which then required mitral valve replacement (St. [**Male First Name (un) 1525**]) --CLL (dx [**2175**]/[**2176**]) --Three-vessel CABG for coronary artery disease --Hyperlipidemia --Skin cancer --Thrush --h/o CHF in setting of afib, last EF 40-45% in [**2176**] --Anemia, BL Hct 24-30 --h/o afib in the setting of PNA [**9-10**] --CRI--BL Cr 1.7-1.9 --h/o Legionella PNA [**9-10**] --h/o prostate cancer   Social History: The patient is a widower and former [**Company 378**] electronics mechanic.
+Physical Exam: PE on admission: Vitals: T 101.3 axillary BP 98/56 P 114 R 26 Sat 94% 5LNC (however pt is mouth breathing and sats are the same while pt is snoring) Gen: elderly man, sitting up in bed, NAD, breathing through his mouth due to sinus congestion HEENT: NCAT, pale conjunctivae, EOMI, PERRL, OP clear, uvula midline, MMM Neck: JVP 9 cm, +cervical LAD CV: irregular and tachycardic, prominent S2 at apex, no m/r/g noted Lungs: mild bibasilar rales, otherwise CTA Ab: soft, mildly distended, NABS, no rebound or guarding Extrem: wwp, 1+ pitting edema 3/4 up calves, [**5-9**] LE strength throughout, [**5-9**] BL grip strength, 4/5 L arm extension, 4+/5 L arm flexion, unable to perform strength exam on R arm secondary to pain Neuro: a and ox3, MAFE Skin: no rashes .
+MICRO DATA: [**2177-10-28**] BLOOD CULTURE X4 ngtd [**2177-10-27**] Urine legionella negative [**2177-10-27**] STOOL CLOSTRIDIUM DIFFICILE negative [**2177-10-27**] BLOOD CULTURE negative X 4 bottles [**2177-10-26**] BLOOD CULTURE negative X 4 bottles [**2177-10-25**] URINE CULTURE-FINAL negative [**2177-10-25**] BLOOD CULTURE negative X 4 bottles [**2177-10-24**] BLOOD CULTURE 8/8 bottles positive for MRSA [**2177-10-23**] JOINT FLUID GRAM STAIN-FINAL; FLUID CULTURE- MRSA * RELEVANT IMAGING DATA: [**2177-10-28**] CT CHEST: Interval improvement of multifocal pneumonia including decreased size of RUL and RLL consolidations.
+No new foci of consolidations.
+Interval development of large right and moderate-sized left pleural effusions with subsegmental atelectasis of the lower lung lobes.
+* [**10-28**] TEE: No vegetation.
+Mild symmetric LVH.
+Regional WMA include near akinesis of the inferior and IL walls.
+The remaining walls are mildly hypokinetic.
+No masses or thrombi.
+RV mildly dilated with free wall HK.
+Severe aortic stenosis is not suggested.
+Moderate PA systolic HTN.
+Significant pulmonic regurgitation is seen.
+The end-diastolic pulmonic regurgitation velocity is increased suggesting pulmonary artery diastolic hypertension.
+There is no pericardial effusion.
+No vegetation.
+* [**2177-10-24**] P-MIBI: No anginal type symptoms or ischemic EKG changes.
+Nuclear images with mild, partially reversible perfusion defect in the distal anterior wall.
+Severe global HK with depressed LVEF of 33%.
+Brief Hospital Course: 1) MRSA bacteremia and septic arthritis: Seen by orthopedics who tapped joint, cultures significant for septic joint with MRSA in synovial culture.
+While on medical floor, had atrial fibrillation with RBR with respiratory distress and septic picture and was transferred to MICU.
+TTE on [**10-27**] remarkable for EF 30%, negative for vegetation and TEE the following day also negative for vegetation.
+The pt was weaned down from NRB to NC from a respiratory standpoint.
+Vancomycin dosing was adjusted to 750 mg IV bid for high troughs.
+* 2) Ischemic heart disease: P-MIBI during admission with a mild partially reversible anterior wall defect.
+* 3) CHF: EF on echo around 30%, serial imaging studies in ICU consistent with left-sided heart failure.
+Given diuresis with i/o goal of negative daily with subsequent improvement of b/l pleural effusions.
+* 4) Legionella pneumonia: Resolving multifocal pneumonia on CT. s/p 14-day course of Levofloxacin in 09/[**2177**].
+Urinary legionella antigen negative.
+Unlear about the etiology of his underlying renal insufficiency.
+* 6) CLL: Elevated WBC at baseline, likely further exacerbated by infection though his current differential is consistent with CLL.
+His chronic anemia and transfusion dependence likely [**2-6**] his hematologic malignancy +/- contribution from renal failure.
+Disp:*30 mL* Refills:*2*   Discharge Disposition: Extended Care  Facility: [**Hospital6 459**] for the Aged - MACU  Discharge Diagnosis: Primary Diagnoses: Septic Joint (MRSA, R shoulder) MRSA bacteremia  Secondary Diagnoses: Congestive Heart Failure Coronary Artery Disease s/p CABG Chronic Renal Insufficiency Chronic Lymphocytic Leukemia Anemia Hyperlipidemia s/p mitral valve repair h/o Legionella pneumonia [**9-10**]   Discharge Condition: Good.
+Discharge Instructions: Please call your doctor or return to the emergency room if you experience any of the following: fever, chills, night sweats, increasing R shoulder pain, nausea, vomiting, diarrhea, increased shortness of breath.
+You were diagnosed with a MRSA infection of your R shoulder joint and in your bloodstream.

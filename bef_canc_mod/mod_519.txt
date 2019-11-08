@@ -1,0 +1,42 @@
+Admission Date:  [**2152-10-2**]              Discharge Date:   [**2152-10-3**]  Date of Birth:  [**2079-1-26**]             Sex:   M  Service: MEDICINE  Allergies: Morphine  Attending:[**First Name3 (LF) 2712**] Chief Complaint: bradycardia  Major Surgical or Invasive Procedure: None  History of Present Illness: Mr [**Known lastname 30656**] is a pleasant 73 year old male with hx liver [**Known lastname **] on chronic steroids, UC who presented to the ED today with a chief complaint of fainting after colonoscopy, during which time he received 150 of fentanyl and 3 of versed.
+Pt states that he had no difficulty tolerating the prep and was not feeling dizzy or ligheaded prior to the procedure.
+The colonoscopy was a routine screening for colon cancer in setting of UC.
+Following the syncopal episode, the patient was found to have a sustained heart rate less than 40 and low BP to 70s, was therefore referred to the ED for further evaluation.
+On one occasion, his HR dipped to 30s sinus and SBP in the 50s systolic, however the patient was mentating ok, aaox3 and mildly diaphoretic.
+He was given 100 mg IV hydrocort because he did not take the 5 mg of prednisone which he usually takes for hx liver [**Known lastname **], and there was concern for adrenal insufficiency given the hypotension.
+Ekg showed sinus bradycardia with mildly prolongued QT.
+He was taken to the hospital and was monitored on tele for 6 days, treated for pseudogout, but not diagnosed with any cardiac problems.
+Review of systems: (+) Per HPI (-) Denies fever, chills, night sweats, recent weight loss or gain.
+Denies headache, sinus tenderness, rhinorrhea or congestion.
+Denies cough, shortness of breath, or wheezing.
+Denies chest pain, chest pressure, palpitations, or weakness.
+Denies nausea, vomiting, diarrhea, constipation, abdominal pain, or changes in bowel habits.
+Denies dysuria, frequency, or urgency.
+Denies rashes or skin changes.
+Past Medical History: -Liver [**Name (NI) **] for primary sclerosing cholangitis and hepatocellular carcinoma ([**2146**]), complicated by portal [**Year (4 digits) 5703**] thrombosis requiring thrombolysis [**2147-6-6**] & [**2147-6-8**] and anticoagulation with coumadin -UC -Hx biliary stricture, s/p stenting -CCY -CBD excision [**2113**] -s/p splenorenal shunt '[**24**] -ventral hernia repair [**2148-7-3**] -ERCP for ductal dilation [**2148-7-8**] with sphincterotomy/stent bilioma [**7-9**], infected [**Female First Name (un) 564**] Glabrata, Veillonella, Enterobacter cloacae -[**2149-4-8**] ERCP-4 stents, sphincterotomy -splenectomy -pseudogout [**2152-5-3**] -stomach varices  Social History: Lives in [**Location (un) 30657**]with wife.
+Denies use of ETOH, tobacco or IVD   Family History: Mother died of stroke in 80s, father died of heart disease at age 89.
+Physical Exam: ADMISSION EXAM: Vitals: T:98.2 BP:110/72 P:98 R: 24 O2:95% General: Alert, oriented, no acute distress HEENT: Sclera anicteric, MMM, oropharynx clear Neck: supple, JVP not elevated, no LAD Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops Abdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly GU: no foley Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema  DISCHARGE EXAM: ***  Pertinent Results: ADMISSION LABS: [**2152-10-2**] 11:30AM BLOOD WBC-9.1 RBC-4.28* Hgb-12.9* Hct-40.1 MCV-94 MCH-30.2 MCHC-32.2 RDW-13.7 Plt Ct-318 [**2152-10-2**] 11:30AM BLOOD Neuts-67.7 Lymphs-25.6 Monos-5.5 Eos-1.1 Baso-0.2 [**2152-10-2**] 11:30AM BLOOD PT-14.5* PTT-28.8 INR(PT)-1.3* [**2152-10-2**] 11:30AM BLOOD Glucose-106* UreaN-12 Creat-1.0 Na-144 K-4.1 Cl-110* HCO3-25 AnGap-13 [**2152-10-2**] 11:30AM BLOOD cTropnT-<0.01  MICRO: [**10-2**] MRSA screen: pending  STUDIES: [**10-3**] ECHO: The left atrium is normal in size.
+The ascending aorta is mildly dilated.
+The aortic arch is mildly dilated.
+The aortic valve leaflets (3) are mildly thickened.
+There is no aortic valve stenosis.
+Trace aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+There is probably moderate posterior leaflet mitral valve prolapse (but not well seen).
+Moderate (2+) late systolic mitral regurgitation is seen.
+The tricuspid valve leaflets are mildly thickened.
+There is a very small pericardial effusion.
+Compared with the prior study (images reviewed) of [**2146-8-24**], mitral regurgitation is now more prominent and there is now slightly more evidence of mitral valve prolapse.
+DISCHARGE LABS: [**2152-10-3**] 04:07AM BLOOD WBC-12.6* RBC-4.14* Hgb-13.0* Hct-38.3* MCV-93 MCH-31.3 MCHC-33.9 RDW-13.8 Plt Ct-277 [**2152-10-3**] 04:07AM BLOOD Plt Ct-277 [**2152-10-3**] 04:07AM BLOOD Glucose-95 UreaN-14 Creat-0.9 Na-145 K-4.1 Cl-112* HCO3-26 AnGap-11  Brief Hospital Course: Mr [**Known lastname 30656**] is a pleasant 73 yo gentleman with history of UC, s/p liver [**Known lastname **], admitted with bradycardia following screening colonoscopy, concerning for vasovagal episode vs medication effect.
+# Bradycardia/hypotension/syncope: Patient with episode of bradycardia and syncope in the setting of colonoscopy, likely due to medication effect vs vasovagal episode.
+No e/o block on EKG.
+No further episodes of bradycardia while in the ICU.
+ECHO showed moderate mitral regurgitation, likely a chronic change from mitral valve prolapse.
+# Leukocytosis: WBC 12.6, likely elevated in the setting of receiving Hydrocortisone in the ED.
+No s/s infection.
+Patient now normotensive, can consider restarting amlodipine if BP increases.
+No substituion - No Substitution URSODIOL [ACTIGALL] - 300 mg Capsule - one Capsule(s) by mouth three times a day WARFARIN [COUMADIN] - 5 mg Tablet - 1 Tablet(s) by mouth once a day alternating with 6 tablets  Medications - OTC CALCIUM CARBONATE-VITAMIN D3 [CALCIUM 600 + D(3)] - 600 mg (1,500 mg)-200 unit Tablet - 1 Tablet(s) by mouth twice daily FOLIC ACID-VIT B6-VIT B12 [FOLTX] -  (OTC) - 2 mg-2.5 mg-25 mg Tablet - One Tablet(s) by mouth daily GLUCOSAMINE SULFATE 2KCL -  (OTC) - Dosage uncertain MULTIVITAMIN-MINERALS-LUTEIN [CENTRUM SILVER] -  (OTC) - Tablet - One Tablet(s) by mouth daily   Discharge Medications: 1. amlodipine 5 mg Tablet [**Known lastname **]: One (1) Tablet PO once a day.
+Discharge Disposition: Home  Discharge Diagnosis: Vasovagal syncope Symptomatic bradycardia  Discharge Condition: Mental Status: Clear and coherent.
+Discharge Instructions: You were admitted after a syncopal episode.
+Wait until the symptoms pass before trying to get up and walk around.
+If you lose consciousness or the symptoms persist, you should go to the nearest hospital.

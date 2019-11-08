@@ -1,0 +1,72 @@
+Admission Date:  [**2135-2-8**]              Discharge Date:   [**2135-2-14**]  Date of Birth:  [**2052-1-30**]             Sex:   F  Service: MEDICINE  Allergies: Bactrim  Attending:[**Doctor First Name 2080**] Chief Complaint: shortness of breath  Major Surgical or Invasive Procedure: thoracentesis  History of Present Illness: Reason for MICU Admission: hypoxia respiratory distress .
+CC: cough, shortness of breath .
+HPI: 83yo female Russian with history of CLL presenting with respiratory distress.
+Per patient she reports 6 days of productive cough and progressive dyspnea.
+She reports associated fevers up to 100.2 and sore throat.
+Two days prior to admission prescribed bactrim by her son who is a physician.
+CXR with right increased effusion and possible left sided infiltrate.
+CXR performed which demonstrated interval increase in moderate - large right pleural effusion as well as opacity lateral to left hilum.
+In the [**Hospital Unit Name 153**] the patient states that her breathing has improved.
+ROS: +: as per HPI -: denies any chills, weight change, nausea, vomiting, abdominal pain, diarrhea, constipation, melena, hematochezia, chest pain, orthopnea, PND, lower extremity edema, urinary frequency, urgency, dysuria, lightheadedness, gait unsteadiness, focal weakness, vision changes, headache, rash or skin changes.
+Past Medical History: Past Medical History: # Oncologic History Chronic Lymphocytic Leukemia - Diagnosed in [**2125**]: Rai stage 0 in [**2125**] - s/p 5 cycles of fludarabine ending in [**2130-5-29**].
+- recurrent anemia and advancing peripheral blood lymphocytosis and lymphadenopathy, prompted 4 additional 3-day cycles of fludarabine from [**3-9**] to [**6-6**].
+# PMH 1.
+Chronic renal failure: baseline creatinine 1.5 3.
+Hypothyroidism secondary to hemithyroidectomy on [**2121-2-26**] 4.
+In [**2133-6-29**], she was admitted to hospital with respiratory infection due to H1N1 influenza A.
+Originally from [**Country 532**] Tob:  none EtOH:  none   Family History: Father - h/o esophageal cancer Mother - h/o skin cancer Sister - h/o breast cancer  Physical Exam: On Admission: GEN: Well-appearing, well-nourished, no acute distress HEENT: EOMI, PERRL, sclera anicteric, no epistaxis or rhinorrhea, MMM, OP Clear NECK: No JVD, carotid pulses brisk, no bruits, no cervical lymphadenopathy, trachea midline COR: RRR, II/ VI SEM, no M/G/R, normal S1 S2, radial pulses +2 PULM: diminished BS at the right base, otherwise no W/R/R ABD: Soft, NT, ND, +BS, no HSM, no masses EXT: No C/C/E, no palpable cords NEURO: alert, oriented to person, place, and time.
+No gait disturbance.
+No cerebellar dysfunction.
+SKIN: No jaundice, cyanosis, or gross dermatitis.
+Micro: Legionella Urinary Antigen  (Final [**2135-2-9**]):       NEGATIVE FOR LEGIONELLA SEROGROUP 1 ANTIGEN.
+NO MICROORGANISMS SEEN.
+FLUID CULTURE (Preliminary):    NO GROWTH.
+ANAEROBIC CULTURE (Final [**2135-2-11**]):    NO GROWTH.
+Large right pleural effusion is dependent in location and measures simple fluid density.
+A small amount of loculated fluid is also present within the major fissure and in the anterolateral portion of the right lower chest.
+Extensive consolidation is present within the right lower and right middle lobes.
+Peribronchiolar abnormalities are present in both upper lobes with a combination of ground glass and consolidation accompanied by bronchial wall thickening and small peribronchial nodules.
+A dominant peribronchial nodule in the left upper lobe measures 2.2 cm and is surrounded by a halo of ground-glass opacity (26, series 3A).
+Additional peribronchiolar abnormalities are present to a lesser extent within the left lower lobe.
+Exam was not tailored to evaluate the subdiaphragmatic region, but note is made of retroperitoneal or intra-abdominal lymphadenopathy as well as incompletely imaged splenomegaly.
+Lucent spine lesions within the lower thoracic spine (image 53, series 3A and image 48, series 3A) are probably hemangiomas.
+Degenerative changes are also noted at multiple levels throughout the spine.
+Multifocal lung abnormalities most suggestive of a widespread infectious process.
+Nodular opacity with ground-glass halo in left upper lobe is nonspecific, but this appearance may be associated with angioinvasive Aspergillus infection in the setting of neutropenic fever.
+Large simple right pleural effusion.
+Two lucent thoracic vertebral body lesions in the lower thoracic spine which probably reflect hemangiomas.
+No atrial septal defect is seen by 2D or color Doppler.
+There is no aortic valve stenosis.
+Trace aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Trivial mitral regurgitation is seen.
+There is borderline pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+IMPRESSION: Normal left ventricular cavity size and wall thickness with preserved global and regional biventricular systolic function.
+No clinically significant valvular regurgitation.
+Borderline pulmonary artery systolic hypertension.
+An area of echodensity measuring 7.4 cm x 4.9 cm (clip [**Clip Number (Radiology) **]) is seen that appears to be contained within a small right pleural effusion.
+There is no deep vein thrombosis in either lower extremity.
+Brief Hospital Course: This is a 83 year-old female with a history of CLL who presents with respiratory distress.
+# Respiratory Distress.
+Etiology likely secondary to worsening effusion as well as new infiltrates concerning for multifocal pneumonia.
+Patient with known malignancy and therefore at risk for hypercoagulable state.
+TTE with normal systolic and diastolic function.
+Gram stain with no growth.
+CT scan consistent with multifocal pneumonia; though question of fungal per radiology, clinical suspicion higher for pneumococcal pathogen.
+Patient with history of chronic renal insufficiency with baseline creatinine 1.5.
+Etiology pre-renal, AIN in setting of recent bactrim usage.
+UA and urine culture without sign of infection.
+# CLL.
+Labs notable for elevated WBC >20 since 4/[**2134**].
+Patient without anemia or thrombocytopenia.
+No plan for IVIG infusion.
+# Diabetes.
+Patient states she does not take any meds for diabetes and her daughter said she eats whatever she wants.
+# Hypothyroid.
+# Access: PIV .
+5. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: 1-2 puffs Inhalation every 4-6 hours as needed for shortness of breath or wheezing.
+Home Oxygen 2 liters continuous pulse dose for portability.
+Discharge Disposition: Home With Service  Facility: [**Hospital1 **] Family & [**Hospital1 1926**] Services  Discharge Diagnosis: Community acquired pneumonia with parapneumonic effusion Chronic kidney disease stage III CLL Hypothyroidism   Discharge Condition: Mental Status: Clear and coherent.
+Discharge Instructions: You were admitted for treatment for severe pneumonia as well as fluid in the lung.
+Also, we recommend a follow up CT scan of the chest once your symptoms resolve.

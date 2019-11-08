@@ -1,0 +1,39 @@
+Admission Date:  [**2108-3-13**]              Discharge Date:   [**2108-3-15**]  Date of Birth:  [**2031-11-8**]             Sex:   M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 3326**] Chief Complaint: fever, hypotension   Major Surgical or Invasive Procedure: ERCP with Stent Placement [**3-14**]   History of Present Illness: 76 year old man with PMH of paroxysmal afib, MDS on azacytidine with pancytopenia - platelet and PRBC transfusion dependent, recent hx of perforated diverticulitis s/p colectomy/ostomy ([**12-1**]), s/p biliary stent placement on [**2108-2-24**] for a distal biliary stricture without sphincterotomy due to low plts (passed 5 stones and had 7 day course of augmentin), who was admitted to [**Hospital **] hospital with fever, hypotension, and elevated LFTs.
+Of note, he was at [**Location (un) **] from [**Date range (1) 111096**] for a similar presentation and was given IV zosyn and neupogen, cultures were negative and was discharged on ciprofloxacin after becoming afebrile for 24 hours.
+He had a CXR that was negative for cardiopulmonary issues.
+He reported mild abdominal pain but otherwise no current complaints such as nausea, diarrhea, or constipation.
+Past Medical History: MDS, plt and PRBC transfusion dependent, treated with azacitidine (just started, received 2 doses, on [**2-20**] and [**2-21**]) Perforated diverticulitis, s/p colectomy/ostomy ([**11/2107**]) CKD h/o Afib L4 radiculopathy beta thalassemia Epistaxis choledocholithiasis  Social History: Lives with wife, retired mechanical engineer.
+Social EtOH (1 beer per week) Denies tobacco, illicits/recreational drug use   Family History: no family history of pancreatic cancer   Physical Exam: ADMISSION PHYSICAL EXAM: General: Jaundiced.
+Alert, oriented, no acute distress HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL Neck: supple, JVP not elevated, no LAD CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi Abdomen: Colostomy bag draining brown stool.
+Tender in right mid abdomen.
+GU: no foley Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema Neuro: CNII-XII intact, 5/5 strength upper/lower extremities, grossly normal sensation, 2+ reflexes bilaterally, gait deferred.
+?F  HR: 88  BP: 114/62  RR: 21 SpO2: 96% General: mildly jaundiced.
+Alert, oriented, no acute distress HEENT: Sclera mildly icteric, MMM, oropharynx clear, EOMI, PERRL  Neck: supple, JVP not elevated, no LAD CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi Abdomen: Colostomy bag draining thin brown stool.
+Tender in right mid abdomen.
+GU: no foley Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema Neuro: CNII-XII intact, 5/5 strength upper/lower extremities, grossly normal sensation, 2+ reflexes bilaterally, gait deferred.
+Heart is mildly enlarged.
+Thoracic aorta is generally large and tortuous but not focally aneurysmal in the either the arch or descending portion.
+There is no pleural abnormality or evidence of central adenopathy.
+Ill-defined fluid in the hepatic hilum without a discrete mass along the biliary ducts, pancreas, or hepatic hilum, although it is difficult to exclude subtle mass or tumor infiltration.
+If there is a concern for malignancy, it is possible that MR might be more sensitive to detect a subtle soft tissue mass along the extrahepatic biliary ducts or within the pancreas.
+Irregular gallbladder wall thickening which may be a chronic process, although a recent or acute or chronic inflammatory process is not excluded by this examination.
+Brief Hospital Course: Mr. [**Known lastname 111097**] is a 76 year old man with a history of MDS with pancytopenia, s/p recent biliary stent placement on [**2108-2-24**] for a distal biliary stricture who presented to OSH hospital with fever, hypotension, and elevated LFTs; transferred to [**Hospital1 18**] MICU for ERCP for colangitis.
+# Cholangitis (s/p ERCP with stent replacement):  Patient admitted to the MICU with fevers, hypotension, jaundice, RUQ pain, elevated LFTs.
+He then underwent CT scan of the pancreas, that did not reveal any defined mass to explain the stricture.
+CT scan did show a hyperemic gallbladder with pericholecystic stranding, consistent with cholangitis.
+Inflammation and fever curve improved with stent placement and antibiotics.
+# Febrile Neutropenia: The patient presented to [**Location (un) **] with fever, jaundice, abdominal pain, and hypotension.
+In combination, and given his biliary history, these are likely due to cholangitis as above.
+The differential of febrile neutropenia is very broad, but the patient had no other localizing signs throughout admission.
+CXR and urinalysis without evidence of infection.
+Fever curve trended down with continued zosyn.
+# Myelodysplastic syndrome:  On chemotherapy with Pancytopenia, now transfusion dependent.
+# Paroxysmal Afib: According to the documentation available the patient had new paroxysmal afib during his recent [**Location (un) **] hospitalization and was started on metoprolol 25mg [**Hospital1 **].
+The patient experienced no episodes of Afib with RVR during admission.
+He did have [**11-21**] runs of short, non-sustained, asymptomatic SVT recorded on telemetry.
+# DVT Prophylaxis: none, given severe thrombocytopenia .
+# Access: PIV .
+TRANSITIONAL ISSUES: - blood and urine cultures pending at time of discharge - Patient will need repeat ERCP in [**1-22**] weeks (scheduled) - Patient to complete two week course of zosyn for cholangitis (start date [**2108-3-13**]).
+You were transferred to [**Hospital1 18**] from [**Hospital **] Hospital for further evaluation of fevers, abdominal pain, low blood pressure.
+You were found to have an obstruction in the common bile duct.
+You were continued on antibiotics to treat an infection of the bile ducts.

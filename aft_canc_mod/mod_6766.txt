@@ -1,0 +1,58 @@
+Admission Date:  [**2149-6-25**]              Discharge Date:   [**2149-6-28**]  Date of Birth:  [**2103-4-12**]             Sex:   M  Service: NEUROSURGERY  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 1854**] Chief Complaint: metastatic melanoma to brain  Major Surgical or Invasive Procedure: Left occipital craniotomy for tumor resection  History of Present Illness: [**Known firstname **] [**Known lastname 82452**] is a 46-year-old right-handed man with history of cutaneous melanoma who has enhancing lesions in the brain suggesting brain metastases.
+His oncological problem began in [**2147**] when he noted an abnormal lesion in the right forearm.
+He had 2 more resection of cutaneous lesions, one on [**2146-12-19**] showing seborrheic keratosis and two others on [**2147-2-10**] and [**2147-9-21**] showing dysplastic moles.
+His neurological problem began in [**2148-10-14**] when he noted right groin pain during a flight from [**Location 652**] to [**Location (un) 86**].
+He underwent chiropractor for low back maneuver but worsened his right groin pain.
+CT of the pelvis on [**2149-6-10**] showed destruction of the right pubic ramus.
+It was biopsied on [**2149-6-12**] that showed metastatic melanoma.
+Further staging evaluations with CT of the torso on [**2149-6-20**] showed metastases in the lungs and right axilla.
+A lumbar spine X-ray showed pathological fracture of the L3 vertebral body.
+Past Medical History: He has a history of cutaneous melanoma and hypercholesterolemia.
+He does not have diabetes, hypertension, or COPD.
+Family History: His mother is alive with metastatic breast cancer.
+Neck is supple and there is no bruit.
+He does not have cervical, supraclavicular, or axillary lymphadenopathy.
+His extremities do not show clubbing, cyanosis, or edema.
+There is no right/left confusion or finger agnosia.
+Motor Examination:  He does not have a drift.
+He does not have a Romberg.
+Pertinent Results: [**Known lastname **],[**Known firstname **] [**Medical Record Number 82453**] M  46  [**2103-4-12**]  Radiology Report MR HEAD W & W/O CONTRAST Study Date of [**2149-6-24**] 5:25 PM   [**Last Name (LF) **],[**First Name7 (NamePattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]   [**2149-6-24**] 5:25 PM MR HEAD W & W/O CONTRAST; MR 3D RENDERING W/O POST PROCE   Clip # [**Clip Number (Radiology) 82454**] Reason: please eval left occipital tumor Contrast: MAGNEVIST Amt: 20    [**Hospital 93**] MEDICAL CONDITION:    46 year old male patient with left occipital tumor REASON FOR THIS EXAMINATION:    please eval left occipital tumor CONTRAINDICATIONS FOR IV CONTRAST:    None.
+Final Report INDICATION: 46-year-old male patient with left occipital tumor with brain lesions, history of cutaneous melanoma, to evaluate further.
+FINDINGS:  There are two enhancing lesions in the brain, one in the right frontal lobe at the vertex and another one in the left occipital lobe, parasagittal in location.
+The right frontal lesion measures 1.5 x 1.7 x 2.0 cm with mild surrounding edema.
+The left occipital lesion measures 3.5 x 3.1 x 2.6 cm.
+There is effacement of the left occipital [**Doctor Last Name 534**] and part of the atrium of the left lateral ventricle from the mass effect and surrounding edema around the left occipital lesion.
+There are also a few cystic areas noted in the left occipital lesion.
+The major vascular intracranial arterial flow voids are noted.
+Evaluation for bony lesions is limited MR study.
+There is a prominent extra-axial CSF space, noted in the superior part of the posterior fossa, causing indentation on the superior aspect of the cerebellar hemisphere, best seen on the sagittal reformations and measures 1.7 x 3.2 cm in the AP CC dimensions.
+Two enhancing lesions in the brain, one in the right frontal and another one in the left occipital lobe as mentioned above, representing metastatic lesions.
+Moderate surrounding vasogenic edema with effacement of the left occipital [**Doctor Last Name 534**] and part of the atrium of the left lateral ventricle.
+Prominent extra-axial CSF space in the superior aspect of the posterior fossa causing indentation on the superior part of the cerebellum as described above, which can represent prominent CSf space with a differential diagnosis of arachnoid cyst in this location.
+NON-CONTRAST HEAD CT  There has been an interval left parietooccipital craniotomy and resection of a left occipital mass.
+There is pneumocephalus overlying the left temporal lobe and along the left parietal lobe.
+Increased opacification consistent with blood products are seen at the resection site as well as air within the tissues.
+Otherwise, there is no new hemorrhage, loss of [**Doctor Last Name 352**]- white matter junction differentiation, there is no significant mass effect.
+Mastoid air cells and visualized paranasal sinuses are clear.
+IMPRESSION: Expected postoperative changes status post resection of left occipital mass with no significant midline shift.
+DR. [**First Name8 (NamePattern2) 5206**] [**Name (STitle) **] DR. [**First Name (STitle) 3905**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3906**] Approved: [**Doctor First Name **] [**2149-6-26**] 10:15 AM    Imaging Lab   [**Known lastname **],[**Known firstname **] [**Medical Record Number 82453**] M  46  [**2103-4-12**]  Radiology Report MR HEAD W & W/O CONTRAST Study Date of [**2149-6-26**] 9:04 AM   [**Last Name (LF) **],[**First Name7 (NamePattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 12630**] CC1A [**2149-6-26**] 9:04 AM MR HEAD W & W/O CONTRAST   Clip # [**Clip Number (Radiology) 82456**] Reason: eval for postop changes Contrast: MAGNEVIST Amt: 18    [**Hospital 93**] MEDICAL CONDITION:    46 year old man with s/p resection of occipital mass -- metastatic melanoma REASON FOR THIS EXAMINATION:    eval for postop changes CONTRAINDICATIONS FOR IV CONTRAST:    None.
+Expected postoperative changes status post resection of occipital mass.
+New hemorrhage and right frontal lesion.
+Final Report INDICATION: Status post resection of occipital mass, metastatic melanoma, evaluate for postoperative changes.
+TECHNIQUE: Sagittal short TR, short TE spin echo images were obtained through the brain.
+Axial, coronal short TR, short TE spin echo imaging was repeated after intravenous administration of gadolinium contrast.
+FINDINGS: Left occipital lobe postoperative changes are seen with high T1 signal material with negative susceptibility suggestive of blood.
+Moderate edema surrounds this postoperative site and the occipital [**Doctor Last Name 534**] of the left lateral ventricle is again effaced.
+The right frontal lesion (series 6, image 23) demonstrates a new negative susceptibility suggestive most suggestive of a hemorrhage.
+Edema about this lesion seems grossly similar to prior with no obvious mass effect proximally.
+Expected postoperative changes in the left occipital lobe.
+Apparent new hemorrhage of the right frontal metastasis without edema or significant mass effect.
+He is ambulatory in the [**Doctor Last Name **] without assistance.
+ZOFRAN ODT 4 mg Tablet, Rapid Dissolve Sig: One (1) Tablet, Rapid Dissolve PO Q 8 HOURS  as needed for nausea.
+Exercise should be limited to walking; no lifting, straining, or excessive bending.
+Increase your intake of fluids and fiber, as narcotic pain medicine can cause constipation.
+New onset of tremors or seizures.
+Any confusion or change in mental status.
+Any numbness, tingling, weakness in your extremities.
+Pain or headache that is continually increasing, or not relieved by pain medication.
+Any signs of infection at the wound site: redness, swelling, tenderness, or drainage.

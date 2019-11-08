@@ -1,0 +1,56 @@
+Admission Date:  [**2132-10-5**]              Discharge Date:   [**2132-10-9**]  Date of Birth:  [**2057-7-15**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 425**] Chief Complaint: shortness of breath  Major Surgical or Invasive Procedure: Electrical cardioversion  History of Present Illness: The patient is a 75yo female who presented to [**Hospital1 **] [**Location (un) 620**] with 4 days of shortness of breath which became acutely worse at approx 3 am on the day of admission.
+At OSH the patient reportedly gasping for air with decreased BS bilaterally and rales and was put on BIPAP.
+CXR showed bilateral pulmonary edema.
+EKG showed SVT with [**Street Address(2) 4793**] Elevations in 3 and AVF and depressions laterally, L axis deviation and OSH was concerned for AMI (inf/post).
+Cardiac review of systems is notable for absence of chest pain, dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope.
+Son has unspecified mental illness.
+Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.
+No xanthalesma.
+No cervical lymphadenopathy.
+No thrills, lifts.
+LUNGS: + crackles 2/3rd up, no wheezes or rhonchi.
+No HSM or tenderness.
+No femoral bruits.
+LV systolic function appears depressed (ejection fraction ?
+The inferior and posterior walls appear akinetic; the rest of the left ventricle appears hypokinetic.
+with depressed free wall contractility.
+The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present.
+No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+There is no mitral valve prolapse.
+Mild to moderate ([**1-25**]+) mitral regurgitation is seen.
+There is no pericardial effusion.
+Cardiac enlargement with coronary artery calcifications.
+No evidence for pulmonary edema.
+Right greater than left pleural effusions with adjacent atelectasis, small perihepatic ascites with fluid tracking into the pelvis, and subcutaneous fluid/stranding probably due to third spacing.
+12- mm hyperdense exophytic nodule arising from lower pole of the left kidney is suspicious for a small renal cell carcinoma.
+The endometrial thickness and the size of the ovaries are more prominent than expected for the patient's age.
+Ultrasound is recommended for further assessment of 2 cm thick endometrial stripe.
+Differential diagnosis includes endometrial carcinoma, hyperplasia and polyps.
+Colonic diverticulosis.
+Likely diffuse fatty infiltration of the liver.
+No splenomegaly.
+[**2132-10-9**] TRANSVAGINAL ULTRASOUND: Preliminary verbal read: Thickened endometrium with cystic changes concerning for endometrial carcinoma.
+On Discharge: [**2132-10-9**] 06:00AM BLOOD WBC-7.3 RBC-4.07* Hgb-12.8 Hct-39.6 MCV-97 MCH-31.3 MCHC-32.3 RDW-14.0 Plt Ct-70* [**2132-10-9**] 06:00AM BLOOD Glucose-127* UreaN-39* Creat-1.6* Na-131* K-4.4 Cl-94* HCO3-30 AnGap-11 [**2132-10-9**] 06:00AM BLOOD Calcium-8.4 Phos-4.0 Mg-2.7*  Brief Hospital Course: 75yo female with no past medical history presented from [**Hospital1 **] [**Location (un) 620**] with shortness of breath for 4 days concerning for heart failure and found to be in atrial flutter on transfer now s/p electrical cardioversion in normal sinus rhythm with renal mass on CT concerning for renal cell carcinoma and endometrium concerning for endometrial carcinoma.
+# PUMP: The patient was found to have systolic heart failure with an EF of 30% with a dilated LV cavity and [**1-25**]+ MR. BNP was 9991.
+ACS is unlikely given minimal enzyme elevation and non-concerning ECG.
+# SHORTNESS OF BREATH: This is most consistent with acute systolic HF.
+Diuresis at OSH and [**Hospital1 **] has improved her symptoms of SOB, peripheral edema, lung exam, JVD.
+On discharge the patient appeared euvolemic and was not requiring O2 or continuing diuresis.
+# THROMBOCYTOPENIA: isolated abnormality with normal CBC and smear (no evidence of hemolysis).
+Large platelets seen on smear leads towards etiology of increased destruction.
+HIT unlikely with no recent exposure.
+Pt takes no medications.
+No splenomegaly on CT. Hematology was consulted and they think bone marrow replacement process is unlikely, more possibly due to chronic compensated ITP.
+# RENAL: Urine lytes collected after Lasix doses here and at OSH but FEurea is equivocal.
+[**Last Name (un) **] is likely secondary to prerenal etiology vs cardiorenal.
+CT abd shows exophytic kidney lesion concerning for RCC.
+She had some hematuria while on heparin with the Foley catheter in place but it resolved after the Foley was removed.
+On discharge her Creatinine was 1.6 which can be attributed to starting Lisinopril and recent contrast dye load.
+# GU: Patient reports heavy periods in the past and has thickened endometrial stripe with larger than normal ovaries on CT.
+This is concerning for possibly primary ovarian or endometrial process.
+Transvaginal ultrasound was performed which showed expansion of the endometrium with some cystic changes worrisome for neoplasm.
+The patient refused further workup so the PCP will be [**Name (NI) 653**] regarding setting up a pelvic MRI and OB/GYN followup for possible endometrial cancer.
+Disp:*8 syringes* Refills:*2*   Discharge Disposition: Home With Service  Facility: [**Hospital **] Hospice and VNA  Discharge Diagnosis: Atrial flutter Chronic Systolic Dysfunction: EF 30% Hyperdense Left Renal Pole Exophytic nodule concerning for RCC Endometrial enlargement with cysts concerning for endometrial cancer Thrombocytopenia Acute Renal Failure  Discharge Condition: stable   Discharge Instructions: You had atrial flutter that was cardioverted and you are now in a normal sinus rhythm.
+You were also started on amiodarone to prevent the reoccurance of atrial flutter.
+START Warfarin (coumadin) daily to prevent a stroke from the atrial flutter.

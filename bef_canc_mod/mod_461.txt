@@ -1,0 +1,40 @@
+Admission Date:  [**2161-11-3**]       Discharge Date:  [**2161-11-16**]   Service:  VASCULAR SURGERY  CHIEF COMPLAINT:  5.6 cm infrarenal abdominal aortic aneurysm.
+HISTORY OF PRESENT ILLNESS:  [**Known firstname 4115**] [**Known lastname 17147**] is a 77 year-old white female with a past medical history significant for colon carcinoma status post sigmoidectomy in [**2158-3-5**] who presents with a 5.6 cm infrarenal abdominal aortic aneurysm found on workup for her colon cancer.
+Her initial CAT scan in [**2158**] revealed her aneurysm to be approximately 4 cm in diameter with subsequent CT scanning this year revealing a significant enlargement to 5.6 cm.
+She had a full course of chemotherapy and radiation therapy and her last colonoscopy revealed no recurrent cancerous lesions.
+Her hepatic workup was negative for any liver involvement.
+She is a fairly active individual and was referred for the repair of the abdominal aortic aneurysm.
+She has a history of known coronary artery disease, which has been managed conservatively.
+She does admit to shortness of breath, but no angina and denied any history of coronary artery disease.
+She was seen by Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] for evaluation of her preoperative coronary artery disease.
+He decided that she had no previous angiographic evidence of progression of her coronary artery disease and in view of her mild stable symptoms and it was reasonable to proceed with her aneurysm surgery with the usual perioperative precautions without any intervention at that time.
+PAST MEDICAL HISTORY:  Significant for sigmoid and colon cancer managed with surgery, chemotherapy and x-ray therapy.
+PREOPERATIVE LABORATORIES:  CAT scan with a 5.5 cm abdominal aortic aneurysm starting just below the renal arteries and ending at the iliac bifurcation.
+Cardiac catheterization revealed 58% ejection fraction, normal left main coronary artery, mild narrowing of approximately 50% stenosis at the ostium of the left anterior descending coronary artery, left circumflex artery with a 60% stenosis before the origin of the first major marginal.
+The right coronary artery had an osteal lesion at approximately 68% and a sequential 80% lesion in the mid vessel at the site where the vessel is calcified and tortuous.
+There was slight prolapse of the posterior mitral valve leaflet without evidence of regurgitation.
+Chest x-ray revealed slight ventricular enlargement without evidence of heart failure.
+Electrocardiogram revealed nonspecific lateral ST segment changes, but otherwise normal sinus rhythm.
+HOSPITAL COURSE:  The patient was admitted to [**Hospital1 346**] where she underwent open repair of her abdominal aortic aneurysm with an aortobifemoral bypass.
+Her hemoglobin and hematocrit had also dropped from 33 to 29.6 and a rectal examination was performed due to her history of colon CA, which was guaiac negative.
+She was essentially asymptomatic and denied any history of fevers or chills, nausea, vomiting or abdominal pain.
+She did have a low grade fever of approximately 100.7.
+A stool was sent for C-difficile.
+She was afebrile at that time and no active issues were going on.
+On postoperative day number four at approximately 1:00 in the morning she went into a rapid atrial fibrillation and dropped her blood pressure.
+She ruled out for a myocardial infarction as per enzyme criteria.
+She did remain in atrial fibrillation for the next several days going in and out of normal sinus rhythm.
+It was noted though after three days of anticoagulation that she begin to have epistaxis and hematuria.
+The echocardiogram failed to reveal any kind of mural thrombus present and it was decided by cardiology that she could be maintained on oral aspirin rather then chronic anticoagulation.
+It was noted by the nurse that the urine was quite cloudy and slightly foul smelling.
+A urinalysis and urine culture were obtained, which grew out E-Coli.
+She was then evaluated by Dr. [**Last Name (STitle) **] who was concerned about an intra-abdominal process due to her history of the colon cancer as well as her new aortic graft.
+A CAT scan with contrast was then performed who ruled out an intra-abdominal abscess.
+This was negative for any kind of abscess or perforation and only revealed gallstones without evidence of gallbladder wall thickening as well as a left flank hematoma beneath her kidney, which was expected secondary to her aortic surgery and the retroperitoneal incision.
+Her Bactrim was discontinued and she was started on Levaquin and Flagyl to cover for any kind of occult infection or C-diff.
+She has had three bowel movements over the weekend, which she feels has resolved some of her discomfort and she is able to ambulate without difficulty at this time.
+She no longer has any urinary symptoms and her urine has come back clean.
+Abdominal aortic aneurysm with need for repair.
+Proximal atrial fibrillation currently resolved and in sinus rhythm.
+Elevated temperature and white blood cell count secondary to urinary tract infection.
+Anemia with the need for blood transfusion currently resolved.

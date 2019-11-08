@@ -1,0 +1,85 @@
+Admission Date:  [**2200-3-19**]              Discharge Date:   [**2200-3-26**]  Date of Birth:  [**2123-7-21**]             Sex:   M  Service: MEDICINE  Allergies: Cefazolin  Attending:[**First Name3 (LF) 800**] Chief Complaint: Desaturation and change in mental status.
+History of Present Illness: This is a 76-year-old man with DM II, ESRD on HD via LUE AV fistula, AAA, carotid disease, MSSA bacteremia of unclear source, recently admitted for hypotension and complete heart block treated with a permanent pacemaker.
+Patient now returns to [**Hospital1 18**] with aletered mental status and hypoxemia.
+Was reportedly having labored breathing.
+Complained of an odd feeling in his stomach.
+Patient was only 1.5KG over dry weight, so only small amount of fluid removed.
+Became increasinly confused and changed to 100% NRB.
+By report from the family, patient was recently hospitalized at [**Hospital3 7362**] and discharged day before admission for hypotension with demand ischemia.
+According to family, patient has been confused intermittently for several months.
+Belly was soft but patient complained of abdominal pain.
+LLE erythema w/o tenderness.
+EKG -> sinus tachycardia w/ atrial sensing and V-pacing.
+Past Medical History: -Recent permanent pacemaker for CHB -Ongoing MSSA bacteremia -Diabetes mellitus 2 - last A1c 5.6% -chronic kidney disease stage 4 on HD MWF -Ulcerative colitis: no flares x 25 years -Right adrenal adenoma -Gout.
+-Remote history of nephrolithiasis.
+-Hypertension -Peripheral vascular disease s/p left [**Doctor Last Name **]-dp bypass -carotid stenosis -infrarenal abdominal aortic aneurysm -deep venous thrombosis in [**2195**] -iron deficiency anemia -recent episode of aphasia which resolved - ?
+TIA -Prostate cancer s/p prostatectomy -?Pulmonary hypertension -Uses home oxygen of 2L NC, normally sats 84-86% as per family  Social History: Quit smoking at age 73.
+No alcohol or illicit drug use.
+Physical Exam: Vitals: T: 97.1 BP: 136/77 P: 83 R:24 O2: 100% on 2L General: Alert, oriented, no acute distress HEENT: Sclera slightly icteric, MMM, oropharynx clear Neck: Supple; no JVP appreciated Lungs:  Clear bilaterally with decreased sounds at bases CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops Abdomen: Distended, +BS, tympanic, no organomegally appreciate (but difficult exam) Ext: 1+ edema bilaterally; left second toe is bandaged (bandage is clean, dry, and intact).
+Within that limitation, there is no intracranial hemorrhage, mass effect, edema, shift of normally midline structures, or major vascular territorial infarction.
+A 6-mm hyperdense lesion at the foramen of [**Last Name (un) 2044**] appears stable as compared to prior exams, consistent with a colloid cyst.
+Prominent ventricles are essentially stable, without evidence of acute hydrocephalus.
+Sulci are prominent, compatible with age-related involutional change.
+There is extensive subcortical and periventricular white matter hypoattenuation, consistent with small vessel ischemic disease, unchanged.
+A hypodense focus is noted in the right lentiform nucleus, consistent with lacune versus prominent perivascular space.
+Within significant limitation by motion artifacts, paranasal sinuses and mastoid air cells appear relatively aerated.
+No evidence of acute intracranial hemorrhage.
+Stable 6 mm colloid cyst and stable appearance of prominent ventricle without evidence of hydrocephalus.
+Extensive small vessel ischemic disease and age-related involutional change.
+No evidence of central pulmonary embolism.
+Overall stable appearance of a fusiform AAA since [**Month (only) 404**] [**2197**], continues to measure 5 cm in diameter.
+No evidence of current rupture.
+Extensive atherosclerotic vascular disease with two penetrating thoracic aortic ulcers, one of which is increased in size as compared to [**2197**].
+12-month followup is recommended to document resolution or stability.
+Right lung base linear densities are unchanged since [**2198**], most consistent with chronic fibrotic changes.
+Perihepatic and perisplenic ascites.
+Nodular liver contour suggests cirrhosis.
+Heterogeneous-appearing thyroid with a possible subcentimeter nodule and punctate calcification on the left.
+Nonspecific mild stable pancreatic ductal dilatation.
+No obstructive or mass lesion identified.
+Atrophic kidneys consistent with history of end-stage renal disease.
+Unchanged occlusion of the left renal artery, unchanged since [**2197**].
+ECHO [**2200-3-24**]: The left atrium is moderately dilated.
+No atrial septal defect is seen by 2D or color Doppler.
+There is mild symmetric left ventricular hypertrophy.
+The left ventricular cavity is mildly dilated.
+There is moderate global left ventricular hypokinesis (LVEF = 35-40 %).
+The right ventricular cavity is moderately dilated with mild global free wall hypokinesis.
+The aortic root is mildly dilated at the sinus level.
+The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present.
+No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Mild to moderate ([**12-14**]+) mitral regurgitation is seen.
+The tricuspid valve leaflets are mildly thickened.
+Moderate to severe [3+] tricuspid regurgitation is seen.
+There is severe pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+These findings are nonspecific and could be related to third spacing versus renal failure.
+Therefore, at this time, a HIDA scan is recommended for further evaluation, if clinical suspicion warrants.
+Mild splenomegaly.
+Brief Hospital Course: This is a 76-year-old man w/ CAD, AAA, MSSA bacteremia, and pulmonary hypertension who presents with confusion and hypoxemia.
+Likely Mr. [**Known lastname **] has some underlying dementia with superimposed delirium in the setting of frequent hospitalizations and medicalizations.
+Also possible that there are metabolic derrangements in the setting of frequent dialysis.
+Patient will follow-up with geriatrics as an outpatient for neuro-psychiatric testing.
+He was given low-dose haldol (~0.5mg) as needed for agitation.
+# HYPOXIA/PULMONARY HYPERTENSION:  Mr. [**Known lastname **] was initially admitted because of hypoxia (O2 sats in the 80s) during a dialysis session.
+#DYSSYNCHRONY ON ECHO:  As per echocardiogram performed during admission, there is dyssynchrony between native heart beat and pacemaker.
+Electrophysiology was consulted who made some changes to pacemaker setting with moderate effect.
+CAD/TROPONIN ELEVATION:  Mr. [**Known lastname **] had a troponin elevation on admission--however, troponin was lower than on admission [**Hospital1 **] the week before (at [**Hospital1 3597**], troponin was 8.9).
+Likely patient had a missed MI or troponin leak in setting of hypotension prior to arrival at [**Hospital3 7362**].
+Throughout admission, patient had no ECG changes to suggest ischemia, and no new chest pain.
+THROMBOCYTOPENIA:  Patient had a rapidly dropping platelet count, ever since being started on cefazolin for MSSA bacteremia in early [**Month (only) 958**].
+Patient had no signs or symptoms of bleeding throughout admission.
+# MSSA BACTEREMIA:  Patient with MSSA bacteremia found on recent admission in [**2200-2-10**].
+Mr. [**Known lastname **] did not have a fever or elevated white count during hospitalziation.
+Patient was given low-dose haldol as needed for agitation (can be changed to an anti-psychotic with fewer extrapyramidal side effects if [**Last Name (un) 309**] Body is suspected) and will follow-up with geriatrics as an outpatient.
+# ESRD ON HD:  Patient will continue on dialysis Monday, Wednesdays, and Fridays.
+Hypoxia (resolved) 2.
+Thrombocytopenia 3.
+MSSA bacteremia 4.
+Delirium .
+HTN 3.
+Hyperlipidemia 4.
+Dementia  Discharge Condition: Mental Status: Confused - sometimes.
+You came to the hospital because of low oxygen levels at dialysis.
+You were found to have low platelets and your Cefazolin was switched to Vancomycin.

@@ -1,0 +1,22 @@
+Admission Date:  [**2106-11-4**]              Discharge Date:   [**2106-11-9**]  Date of Birth:  [**2023-2-21**]             Sex:   F  Service: MEDICINE  Allergies: Ace Inhibitors  Attending:[**First Name3 (LF) 348**] Chief Complaint: rectal bleeding  Major Surgical or Invasive Procedure: Colonoscopy Blood transfusions   History of Present Illness: Ms. [**Known lastname **] is an 83 y/o woman with PMH notable for type 2 DM, hypertension, and recent NSTEMI who presented to the ER after several episodes of bright red blood per rectum starting last evening.
+The patient states that she went to move her bowels and noted bright blood in the toilet; she has a history of hemorrhoids but this typically presents as red blood on toilet tissue.
+She noted several more stools filling the toilet bowl with bright red blood.
+On exam, there was no evidence of obvious bleeding hemorrhoid but there was bright red blood on rectal exam.
+She denies any abdominal pain, chest pain, difficulty breathing, or dizziness.
+Past Medical History: NSTEMI (diagnosed during admission [**9-1**]) * DM type II (recent admit for hypoglycemia, glipizide stopped)  * Mild-moderate diabetic retinopathy * HTN * Arthritis * Cataracts   Social History: Patient was born in [**Country **].
+Physical Exam: PE: T: 98.5 BP: 172/70 HR: 83 RR: 18 O2 98% RA Gen: Pleasant elderly female in no distress, lying in bed HEENT: no scleral icterus, L pupil large but reactive, R pupil reactive NECK: supple, JVP at 7 cm, no lymphadenopathy CV: rrr, 2/6 systolic murmur at LUSB LUNGS: clear bilaterally, no wheezing or rhonchi ABD: soft, hypoactive bowel sounds, nontender throughout EXT: warm, trace pitting edema bilateral LE, dp pulses 1+ bilaterally SKIN: no rashes NEURO: alert & oriented to self, place not oriented to time, speech somewhat difficult to understand given dentures out & accent, face symmetric, moving all extremities .
+Colonoscopy [**2106-11-8**]: Diverticulosis of the whole colon Polyp in the proximal ascending colon (polypectomy) Grade 1 internal hemorrhoids Otherwise normal colonoscopy to cecum  Brief Hospital Course: Ms. [**Known lastname **] is an 83 year old woman with a history of diabetes, hypertension, and recent NSTEMI in setting of hypoglycemia who was admitted with multiple episodes of bloody stools.
+Colonoscopy revealed diffuse diverticulosis and one benign-appearing polyp.
+There was no active bleeding during the colonoscopy.
+The pt's hematocrit remained stable for 24 hours following colonscopy and the pt was discharged with instructions to return to the ED if she experience any additional bleeding per rectum.
+# Recent NSTEMI: On the pt's recent [**9-1**] admission for hypoglycemia the patient had a cardiac enzyme elevation.
+On this admission the pt's EKG was unchanged and she had no overt symptoms of ischemia.
+Because of the pt's heart disease the pt was transfused with goal hematocrit of 28.
+The pt had negative cardiac enzymes and the pt's aspirin was discontinued due to GI bleeding.
+# Type 2 diabetes: The pt was monitored on sliding scale insulin during this admission.
+)(s)* Refills:*2*   Discharge Disposition: Home With Service  Facility: [**Location (un) 86**] VNA  Discharge Diagnosis: Primary diagnosis: Diverticulosis, gastrointestinal bleeding .
+Secondary diagnosis: Hypertension, diabetes   Discharge Condition: Stable, able to breathe comfortably on room air, able to ambulate with walker.
+Discharge Instructions: You were admitted with gastrointestinal bleeding and you were found to have anemia because of blood loss.
+You also had a small polyp that was benign-appearing that was removed.
+All of your home medications have been continued except for aspirin.
+Please go to the emergency room or call your primary care doctor if you develop headaches, nausea, vomiting, weakness or numbness, are unable to tolerate food or liquids, fever > 100.4, chills, shortness of breath, chest pain, or experience any other bleeding in your bowel movements or any other concerning symptoms.

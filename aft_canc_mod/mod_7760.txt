@@ -1,0 +1,68 @@
+Admission Date:  [**2134-3-29**]              Discharge Date:   [**2134-4-5**]  Date of Birth:  [**2056-2-26**]             Sex:   M  Service: MEDICINE  Allergies: Penicillins  Attending:[**First Name3 (LF) 1943**] Chief Complaint: Hypotension and hypoglycemia  Major Surgical or Invasive Procedure: None  History of Present Illness: 78 yo M with NSCLC on paclitaxel/carboplatin followed by Dr. [**Last Name (STitle) **] [**Name (STitle) **] (Atrius) admitted from rehab with hypoglycemia.
+He had a CXR which showed an opacity in the area of his known tumor but overall looked improved from previous.
+He was noted to have neutropenia, acute renal failure with Cr 1.7 up from 1.0, K of 2.9, and hypoglycemic to 29.
+He was not thought to have pneumonia and did not receive antibiotics and did not have a documented fever and there is no report from [**Hospital1 599**] Senior Health in [**Location (un) 55**] that he had a fever either.
+He also received 20meq of K. Noted to be incontinent of large amount of liquid green stool.
+On arrival to the floor, the patient was lethargic with tremor of the tongue and arms and had a FSG of 30.
+He was given an amp of D50 with improvement in FSG to 140 with increased alertness.
+He did endorse a wet cough but without sputum production.
+Past Medical History: - History Lower GIB - Diverticulosis - Esophatigits - COPD - morbid obesity - OSA - lung cancer (adenocarcinoma, stage IIIB T2bN3Mx) - DVT now with IVC filter (off Enoxaparin given GIB's) - HTN - L Inguinal hernia - Osteoarthritis - Encephalitis as a child - ?Non-filarial elephantiasis - hyperlipidemia - DM  Social History: Lived at home with wife prior to recent hospitalization.
+Mother died of stomach cancer age 72 No siblings No children Father died of complications related to aneurysm  Physical Exam: Admission exam: VS: T Afebrile HR 128 BP 100/41 RR 30 SaO2 98% 3L NC GEN: Tired appearing.
+NO lower extremity edema.
+Respiratory: [x]WNL []CTAB [] rales []rhonchi []wheeze []diminished []dullness []comfortable []percussion []egophony Gastrointestinal: [x]WNL []soft/firm []tender []distended []No hepatomegaly []No splenomegaly []bowel sounds []guaiac  Discharge exam: VS: T 98.1, BP 133/54, HR 79, RR 18, O2 94% RA GEN: NAD HEENT: Normal mucous membranes CHEST: CTAB CV: RRR ABD: Soft, nontender EXT: Chronic venous stasis changes  Pertinent Results: Admission labs: [**2134-3-29**] 08:00PM BLOOD WBC-0.9*# RBC-3.21* Hgb-9.6* Hct-30.6* MCV-95 MCH-29.8 MCHC-31.3 RDW-16.1* Plt Ct-90* [**2134-3-29**] 08:00PM BLOOD Neuts-2* Bands-5 Lymphs-57* Monos-34* Eos-0 Baso-0 Atyps-2* Metas-0 Myelos-0 NRBC-1* [**2134-3-29**] 07:35PM BLOOD PT-14.5* PTT-43.8* INR(PT)-1.4* [**2134-3-29**] 07:35PM BLOOD Glucose-29* UreaN-36* Creat-1.7* Na-143 K-2.9* Cl-103 HCO3-29 AnGap-14 [**2134-3-30**] 05:22AM BLOOD ALT-8 AST-15 AlkPhos-77 TotBili-0.3 [**2134-3-30**] 05:22AM BLOOD Calcium-7.4* Phos-2.6* Mg-1.5* [**2134-3-29**] 08:09PM BLOOD Lactate-1.3  [**2134-3-30**] 4:50 am STOOL     CONSISTENCY: WATERY                             **FINAL REPORT [**2134-3-30**]**    C. difficile DNA amplification assay (Final [**2134-3-30**]):       Reported to and read back by [**First Name9 (NamePattern2) 92241**] [**Doctor First Name **] [**7-/3917**] [**2134-3-30**] 10:20M.
+**FINAL REPORT [**2134-4-1**]**    MRSA SCREEN (Final [**2134-4-1**]):       POSITIVE FOR METHICILLIN RESISTANT STAPH AUREUS.
+TTE: [**2134-4-1**] Conclusions: The left atrium is mildly dilated.
+Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded.
+The aortic valve leaflets are mildly thickened (?#).
+There is no aortic valve stenosis.
+No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Trivial mitral regurgitation is seen.
+There is a small posterior pericardial effusion.
+The effusion is echo dense, consistent with blood, inflammation or other cellular elements.
+There is an anterior space which most likely represents a prominent fat pad.
+There are no echocardiographic signs of tamponade.
+Brief Hospital Course: Patient was transferred to the ICU for hypotension and presumed sepsis.
+Lactate was mildly elevated to 2.5 at admission which was thought to be due to his sepsis and hypotension.
+We also considered whether this was related to his inguinal hernia and the potential for incarceration.
+Surgery evaluated the patient and felt that there was no evidence of incarceration and this was not a likely cause for his elevated lactate.
+While in the [**Hospital Unit Name 153**], he also converted into atrial fibrillation with good rate control on no nodal blocking agents.
+It is unclear [**Name2 (NI) 92242**] he has a history of paroxysmal Afib, there are no records to suggest that he has been in this rhythm in the past.
+He remained well rate controlled without pharmacologic agents.
+TTE showed evidence of [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) 1915**] which may have been a cause of his conversion to AF.
+PROBLEM LIST # C-difficile Sepsis - Hypotension/tachycardia likely due to severe C.Diff infection, as other sources were not revealing of infection (pulmonary - film acutally looks better, UCx with yeast).
+No CT e/o toxic megacolon.
+Because of his initial septic picture, he was also started on IV vancomycin/cefepime in the setting of his neutropenia, but this was discontinued as the cultures were negative and there was a known source of infection.
+Other causes of his hypotension were considered, such as cardiac tamponade and adrenal insufficiency.
+However, pulsus was ~10 and ECHO did not show any radiographic evidence of tamponade.
+Steroids were considered, but pt had a cortisol stimulation test on his previous admission that was normal, and there was concern for bowel perforation in a person with c.difficile colitis on steroids.
+# Atrial fibrillation - New onset at midnight on [**4-1**], with no known h/o AF.
+MAP decreased during this time, which may be due to loss of atrial kick.
+The cause is unclear, may likely be related to his underlying infection.
+PE thought to be unlikely given recent IVC filter in 3/[**2133**].
+ECHO did show a mildly dilated left atrium.
+Cardioversion was not performed and patient has not been on anticoagulation in the past despite his history of DVTs secondary to past GI bleeds.
+# Left Inguinal Hernia - Pt has had a left inguinal hernia for many years but in the setting of an increasing lactate to 2.5 and hypotension, was concerned for incarceration.
+CT showed a left inguinal fat-containing hernia, with new layering fluid, but no bowel.
+The fluid was nonspecific in the setting of diffuse anasarca, but could have represented infarction of the herniated fat.
+Pt was evaluated by general surgery who felt that his clinical picture was not consistent with incarceration and felt there was no acute surgical intervention needed.
+RESOLVING OR CHRONIC ISSUES:  # Hypoglycemia - Pt is on a sulfonylurea at home and his hypoglycemia was most likely due decreased clearance of the drug in the setting of [**Last Name (un) **] and decreased PO intake.
+# DM type II - Holding all oral hypoglycemic agents, especially in the setting of hypoglycemia on admission.
+# Hypoxemia.
+Likely related to atelectasis in setting of RLL mass and some third spacing in the setting of infection.
+# Febrile neutropenia - Pt had a low grade fever to 100.3, the etiology of which was likely due to C.Diff, though febrile neutropenia was a concern as well.
+Though initiated on vancomycin/cefepime, this was discontinued on on [**4-1**] given an identified source of C. diff and no other signs of infection and now that his neutrophil counts improved.
+# Hypokalemia with NAG acidosis - Likely due to diarrhea.
+# NSCLC - Though pt was due for chemotherapy, this was on hold given severe c.diff.
+Brain MRI w/o evidence of metastases.
+# COPD - Mild CO2 retainer based on admission bicarb.
+# OSA - Pt not on CPAP due to intolerance/claustrophobia.
+# DVT and Presumed PE, s/p IVC filter - no anticoagulation because of history of GI bleeds.
+Medications on Admission: Miralax 17gm po daily last given [**3-26**] Vitamin D 50,000 units weekly x16 weeks due [**3-31**] Glimepride 1mg po daily last given 6AM [**3-29**] Zofran 8mg po daily Compazine 10mg po BID at 6AM and noon Iron sulfate 325mg po daily Protonix 40 mg po BID ASA 81 po daily Colace 100 mg po BID prn constipation Senokot 2 tabls [**Hospital1 **] prn Carafate 1gm po QID Qvar 40mcg po BID Flonase 50 mcg IN 2 spray each nostril Flagyl 500mg po TID last given [**3-29**]  On transfer to floor: - Vancomycin Oral Liquid 125 mg PO/NG Q6H - Vancomycin 1000 mg IV Q 24H - CefePIME 2 g IV Q12H - MetRONIDAZOLE 500 mg IV Q8H - Hydrocortisone Na Succ.
+5. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1)  Inhalation Q6H (every 6 hours) as needed for sob/wheezing.
+Discharge Disposition: Extended Care  Facility: [**Hospital1 **] Senior Healthcare of [**Location (un) **]  Discharge Diagnosis: Hypogylcemia Sepsis C. diff colitis Non small cell lung cancer Atrial fibrillation Hypoxemia Inguinal hernia Non-ST-elevation myocardial infarction (demand related infarct)  Discharge Condition: Mental Status: Clear and coherent.
+Discharge Instructions: You were hospitalized for a serious infection called C. DIFF that leads to diarrhea.
+You may need a diuretic to help decrease fluid and swelling in your legs and lungs.
+We advise you not to take sulfonuryrea medications (for diabetes) because of the risk of low blood sugar.
+This is for atrial fibrillation.
+Stopped because of low blood sugars.

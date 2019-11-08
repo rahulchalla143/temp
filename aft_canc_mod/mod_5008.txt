@@ -1,0 +1,55 @@
+Admission Date:  [**2185-10-14**]              Discharge Date:   [**2185-10-30**]  Date of Birth:  [**2115-2-17**]             Sex:   M  Service: CARDIOTHORACIC  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 1505**] Chief Complaint: Increased fatigue  Major Surgical or Invasive Procedure: CABG x 4 on [**2185-10-25**] (LIMA to LAD, SVG to DIAG, SVG to RAMUS, SVG to RCA)   History of Present Illness: 70 y/o male with PMH of hypertension and hpercholesterolemia who presented to PCP with increased fatigue and episodes of epigastric pain and nausea with exertion.
+He also had mild dyspnea on exertion.
+He was sent to ER at OSH and EKG revealed changes consisitent with a Myocardial Infarction.
+Past Medical History: Hypertension, Hypercholesterolemia, Prostate Cancer s/p radical prostatectomy, s/p left hip replacement  Social History: He is married.
+Family History: NC  Physical Exam: VS: 73 152/83 20 61kg General: NAD HEENT: EOMI, PERRL, NCAT Neck: Supple, FROM -JVD, -carotid bruits Lungs: CTAB -w/r/r Cardiac: RRR -c/r/m/g Abd: Soft NT/ND +BS Ext: Warm, dry -c/c/e, -varicosities Neuro: A&O x 3, MAE, non-focal  Pertinent Results: [**2185-10-29**] 06:01AM BLOOD WBC-8.7 RBC-2.60* Hgb-8.2* Hct-23.1* MCV-89 MCH-31.4 MCHC-35.3* RDW-14.1 Plt Ct-210 [**2185-10-30**] 05:50AM BLOOD Hct-25.9* [**2185-10-29**] 06:01AM BLOOD Plt Ct-210 [**2185-10-30**] 05:50AM BLOOD Creat-1.6* Na-131* K-4.6 [**2185-10-30**] 05:50AM BLOOD ALT-52* AST-25 Amylase-270* TotBili-1.1 [**2185-10-30**] 05:50AM BLOOD Lipase-482* [**2185-10-29**] 06:01AM BLOOD Albumin-2.7*  [**Hospital1 18**] ECHOCARDIOGRAPHY REPORT  [**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 68610**] (Complete) Done [**2185-10-25**] at 9:46:05 AM      FINAL Referring Physician     [**Name9 (PRE) **] Information [**Name9 (PRE) **], [**First Name3 (LF) **] R. Division of Cardiothoracic [**Doctor First Name **] [**Hospital Unit Name 4081**] [**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2115-2-17**] Age (years): 70 M  Hgt (in): BP (mm Hg): /  Wgt (lb): HR (bpm):  BSA (m2): Indication: cabg ICD-9 Codes: 402.90, 786.51, 440.0, 424.1 Test Information Date/Time: [**2185-10-25**] at 09:46    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 3318**], MD  Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3318**], MD Doppler: Full Doppler and color Doppler Test Location: Anesthesia West OR cardiac Contrast: None Tech Quality: Adequate Tape #: 2006AW0-1: Machine: Echocardiographic Measurements Results  Measurements  Normal Range Left Ventricle - Septal Wall Thickness:  1.1 cm  0.6 - 1.1 cm Left Ventricle - Inferolateral Thickness:  1.0 cm  0.6 - 1.1 cm  Left Ventricle - Diastolic Dimension:  4.5 cm  <= 5.6 cm Left Ventricle - Ejection Fraction:  50% to 55%  >= 55% [**Last Name (NamePattern4) **] - Valve Level:  2.1 cm  <= 3.6 cm [**Last Name (NamePattern4) **] - Ascending:  3.3 cm  <= 3.4 cm [**Last Name (NamePattern4) **] - Descending Thoracic:  *2.7 cm  <= 2.5 cm Aortic Valve - LVOT diam:  1.9 cm Aortic Valve - Valve Area:  *2.3 cm2  >= 3.0 cm2 Mitral Valve - Mean Gradient:  1 mm Hg Mitral Valve - MVA (P [**2-7**] T):  3.2 cm2  Findings LEFT ATRIUM: No spontaneous echo contrast is seen in the LAA.
+Mildly dilated descending [**Month/Day (2) 5236**].
+Simple atheroma in descending [**Month/Day (2) 5236**].
+Mildly thickened aortic valve leaflets.
+MITRAL VALVE: Mildly thickened mitral valve leaflets.
+No MR.  TRICUSPID VALVE: Mildly thickened tricuspid valve leaflets.
+REGIONAL LEFT VENTRICULAR WALL MOTION:           N = Normal, H = Hypokinetic, A = Akinetic, D = Dyskinetic Conclusions Pre-CPB: No spontaneous echo contrast is seen in the left atrial appendage.
+Resting regional wall motion abnormalities include hypokinesis of apex and apical segments.
+The descending thoracic [**Month/Day (2) 5236**] is mildly dilated.
+There are simple atheroma in the descending thoracic [**Month/Day (2) 5236**].
+The aortic valve leaflets are mildly thickened.
+Mild (1+) aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+No mitral regurgitation is seen.
+The tricuspid valve leaflets are mildly thickened.
+There is no pericardial effusion.
+Electronically signed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 3318**], MD, Interpreting physician  FINAL REPORT   INDICATION: 70-year-old man with three-vessel disease.
+Evaluate right upper quadrant given elevated LFTs.
+COMPLETE ABDOMINAL ULTRASOUND: The liver is normal in echotexture with no focal abnormalities demonstrated.
+There is no evidence of gallbladder wall thickening or edema.
+There is no evidence of hydronephrosis or stones.
+Cholelithiasis with no evidence of cholecystitis.
+No focal liver lesions.
+3-cm abdominal aortic aneurysm just above the bifurcation.
+FINDINGS: Relative to the most recent prior study, there is marked interval aeration of both lungs.
+There is a left pleural effusion with adjacent relaxation atelectasis.
+Minimal fluid tracks within the major fissure.
+No focal consolidation is identified.
+There is a tortuous atherosclerotic [**Month/Day/Year 5236**].
+There is no pneumothorax.
+IMPRESSION: Small left pleural effusion.
+Given recent myocardial infarction and severe three vessel disease, intravenous Heparin was initiated.
+Routine chest x-ray was notable for a tortuous and calcified [**Known lastname 5236**] for which a chest CT scan was obtained.
+There was calcification at the left side of the arch and the posterior proximal arch was only slightly dilated.
+There was no evidence of dissection.
+The CT scan also revealed a 3.1 cm spiculated mass in the right middle lobe, concerning for lung carcinoma.
+Head MR imaging found no evidence of metastatic disease.
+Spirometry showed normal lung volumes and PET imaging revealed focal abnormal uptake of FDG in a right middle lobe mass with a maximal SUV measured at 8.3.
+There was no FDG-avid or enlarged mediastinal or hilar nodes.
+Further preoperative workup included abdominal ultrasound for elevated LFT's.
+Ultrasound was notable for multiple small mobile gallstones.
+There was no evidence of gallbladder wall thickening or edema and the common duct was not distended.
+The pancreatic head and body were unremarkable and there were no focal liver lesions.
+Right middle lobe mass also evaluated by Dr. [**Last Name (STitle) **] of thoracic surgery and he will need lobectomy in [**7-14**] weeks after CABG.
+Beta blockade started and transferred to the floor to on POD #2 to begin increasing his activity level.ACE inhibitor also titrated.Short bursts of AFib treated with amiodarone on POD #4 and pacing wires removed.
+Disp:*60 Tablet(s)* Refills:*2*   Discharge Disposition: Home With Service  Facility: [**Company 1519**]  Discharge Diagnosis: Coronary artery disease s/p CABG x4 (LIMA-LAD, SVG-D1, SVG-RI, SVG-RCA) on [**2185-10-25**].
+right lung cancer cholelithiasis AFib HTN elev.
+prostate Ca s/p radical prostatectomy s/p left total hip replacement  Discharge Condition: Good.
+Wash incision and gently pat dry.
+Do not apply lotions, creams, ointments or powders to incision.
+If you develop a fever, redness or drainage from incision, please contact office immediately.

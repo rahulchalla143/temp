@@ -1,0 +1,52 @@
+Admission Date:  [**2116-12-15**]              Discharge Date:   [**2116-12-16**]  Date of Birth:  [**2037-10-10**]             Sex:   F  Service: MEDICINE  Allergies: Sulfa (Sulfonamide Antibiotics) / Penicillins / Decongestant Sinus / Potassium Sorbate  Attending:[**First Name3 (LF) 3556**] Chief Complaint: dyspnea  Major Surgical or Invasive Procedure: None  History of Present Illness: 79 yo female with a history of metastatic thymic cancer s/p palliative chemo, stage I nonsmall cell lung cancer s/p Cyberknife therapy, asthma, HTN, insulin resistance presents with dyspnea.
+Patient was originally admitted to CCU, but is now transferred to MICU for management of suspected septic shock.
+Per the patient's record, the patient felt acute dyspnea yesterday evening.
+This episode was followed by acute chest discomfort located in the substernal region and was brought in by her son.
+Of note, the patient has had a recent admission for asthma/bronchiectasis and possible radiation pneumonitis.
+Her physical exam was consistent with pulmonary edema.
+EKG revealed tachycardia with aberancy (left bundle pattern) new compared to prior.
+Labs revealed elevated BNP at 1381 (prior 792), trop 0.16, WBC of 13.8, normal UA.
+CXR revealed bilateral fluffly infiltrates, more dense infiltrates in the right upper lobe, bilateral effusions.
+The ED resident had a difficult time intubating, with copious frothy bloody fluid from the ET tube.
+She had an episode of hypoxia while attempting to replace ET tube down to the 60s.
+She was given propofol during intubation and then sedated with fentanyl/midaz following.
+There was concern for LBBB on EKG initially, but cardiology fellow felt this was more consistent with sinus rhythm w/ aberrancy.
+Cardiology fellow performed bedside echo which demonstrated globally decreased function with questionable wall motion abnormality of anterior and septal walls with trivial pericardial effusion and no impairment of the RV, new compared to normal echo in [**2114**].
+Cardiology recommended heparin, however the patient has not had head imaging recently so heparin was held until Head CT could be performed.
+Metastatic thymic carcinoma: s/p excision, XRT, pleurodesis for recurrent right-sided pleural effusion [**1-/2114**], and 5 cycles of palliative chemotherapy with carboplatin and etoposide.
+Asthma diagnosed at age 50, treated at [**Hospital1 18**], previously hospitalized, never intubated.
+Hypertension 7.
+Histoy of C diff infection  Social History: Lives alone in [**Location (un) **].
+No history of tobacco, alcohol, or IV drug use, but notes 50-year exposure to secondhand smoke from husband.
+Family history of asthma - one daughter and [**4-20**] grandchildren affected.
+Sclera anicteric.
+Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.
+No xanthalesma.
+No thrills, lifts.
+SKIN: multiple bruises on abdomen, arms, No stasis dermatitis, ulcers, scars, or xanthomas.
+CXR: [**12-15**] - There are bilateral pleural effusions, right greater than left.
+Additionally, there is increased opacification within the right upper lobe, which is new since [**2116-12-3**], as well as in bilateral lung bases which likely represent pneumonia.
+There is mild cardiomegaly and pulmonary edema.
+No central pulmonary embolism.
+Post-radiation fibrotic changes within the right lung.
+Additionally, a small right-sided pleural effusion and trace left-sided pleural effusion is noted.
+Adjacent compressive atelectasis in bibasilar lungs is noted; additionally, new foci of consolidative process within bilateral lung bases may represent aspiration/pneumonia.
+No acute aortic pathology identified.
+CT Head: No evidence of acute intracranial process.
+MRI would be more sensitive for metastatic disease, if indicated.
+Brief Hospital Course: 79 yo female with a history of metastatic thymic cancer s/p palliative chemo, stage I nonsmall cell lung cancer s/p Cyberknife therapy, asthma, HTN, insulin resistance admitted to hypercarbic respiratory failure.
+# Septic/Cardiogenic Shock: Strongly suspect infectious source of shock, given evidence of multifocal pneumonia on chest CT.
+However, concern for possible cardiac etiology as well, given depressed EF, though this could alternatively be due to myocardial stunning from sepsis.
+Placed on coverage for PCP pneumonia with bactrim + steroids, and aspergillus with voriconazole given recent positive sputum culture and nodules on CT scan.
+Covered for Cdiff with both IV flagyl and PO vancomycin given history of Cdiff infection and current distended abdomen.
+The patient was started on levophed and vasopressin, as well as dobutamine for ionotropic effect.
+# Hypercarbic/Hypoxia respiratory failure: The patient has a history of asthma, however presentation is more consistent with pulmonary edema or infectious process (CT reveals bilateral infiltrates).
+# Myocardial ischemia: Cardiac enzymes trending up, EF was 15-20% and echo shows global hypofunction.
+High suspicion for demand ischemia/stunning in the setting of septic shock, now with component of cardiogenic shock as well.
+# Acute Renal failure: Acute increase in creatinine from 1.0 to 2.3 with resulting hyperkalemia to 5.8.
+# Anion Gap Metabolic Acidosis: Likely secondary to lactic acidosis and renal failure.
+# Thymic cancer and NSCLC: s/p chemo for thymic cancer and Cyberknife for stage I NSCLC.
+PET from [**9-25**] shows likely metastatic disease in the mediastinum.
+The patient has had recurrent pleural effusions, s/p pleurodesis.
+A discussion was held with patient's family, and the decision was made to withdraw vasopressors and antimicrobial treatment.
+The other causes of death included respiratory failure, thymic cancer, and non-small cell lung cancer.

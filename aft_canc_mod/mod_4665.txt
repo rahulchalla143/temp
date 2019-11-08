@@ -1,0 +1,65 @@
+Admission Date:  [**2173-7-27**]              Discharge Date:   [**2173-8-5**]  Date of Birth:  [**2102-9-30**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 6169**] Chief Complaint: Febrile and Neutropenia  Major Surgical or Invasive Procedure: RIJ central line placement PICC line placement Portocath placement   History of Present Illness: HPI: 70 yo gentleman with Multiple Myeloma, on chemotherapy, who noted an axillary temperature of 101.7 in the evening of [**7-26**] after receving chemotherapy with Velcade as an outpatient the same day.
+He called the hospital and was told to come to the ED for evaluation and treatment of febrile neutropenia.
+He denies any cough, SOB, headache, nausea/vomiting/diarrhea, no dysuria.
+His CXR (portable): no edema, no infiltrate.
+Multiple Myeloma: dx [**5-23**], treated w/ velcade; c/b pancytopenia - baseline creatinine since diagnosis 2.0-3.0.
+Hypertension 3.
+Hyperlipidemia 4. s/p MVA 5. s/p tonsillectomy at age 19 .
+Onc Hx: In [**2173-5-19**] Mr. [**Known lastname 6164**] presented for evaluation of diffuse bone pain.
+He had abnormal cells circulating his peripheral smear.
+On admission, he was noted to be in acute renal  failure with plasma blast on his peripheral smear.
+He had diffuse bony tenderness.
+He has been afebrile and stable at home but has had an approximately 55 pounds weight loss over a several month period.
+No family history of cancer or heart disease.
+Microbiology: Blood culture [**2173-7-27**] - no growth Urine culture [**2173-7-27**] - no growth Blood fungal cultures [**2173-7-28**] - no growth Sputum culture [**2173-7-30**] - GRAM STAIN <10 PMNs and >10 epithelial cells/100X field.
+Gram stain indicates extensive contamination with upper respiratory secretions.
+POOR QUALITY SPECIMEN.
+Imaging: EKG: Sinus tachycardia, Nonspecific ST-T abnormalities Since previous tracing of [**2173-7-14**], rate is increased .
+CXR [**2173-7-27**]: Slight increase in pulmonary vascularity without frank pulmonary edema.
+A right internal jugular vascular catheter has been placed, terminating in the lower superior vena cava at the junction with the right atrium.
+No pneumothorax is evident.
+There is vascular engorgement and perihilar haziness, likely due to mild fluid overload.
+Attention to this region on followup films would be helpful to exclude atypical pneumonia.
+CXR [**2173-7-30**]: Improving congestive heart failure.
+Right lower lobe pneumonia.
+The imaging characteristics are most consistent with invasive aspergillosis.
+Other forms of infection are also possible.
+Small bilateral pleural effusions and diffuse mediastinal adenopathy.
+Multiple non-obstructing renal stones bilaterally.
+Widespread osseous involvement from the patient's known plasma cell leukemia.
+Diffuse anasarca.
+No pneumothorax is identified.
+Brief Hospital Course: Mr. [**Known firstname 4884**] [**Known lastname 6164**] is a 70-year-old man with Multiple Myeloma and plasma cell leukemia, hypertension, hypercholesterolemia, DM type 2, who presents with fever and neutropenia.
+# Fever with Neutropenia: In the ED, the patient had a temperature of 102.9 with a WBC count of 21.1 with 1% Neutrophils (ANC ~210).
+There were no localizing signs of infection on examination.
+The patient remained febrile and therefore Acyclovir was added since the patient was recently admitted with disseminated zoster.
+The patient still remained febrile and Vancomycin and Azithromycin were added as per ID consultation.
+On [**2173-7-28**] the patient became progressively tachypneic to the 30s, SBP 140-150s, increasingly tachycardic to the 140s, diaphoretic with O2 saturation of 99% on 1L.
+EKG showed sinus tachycardia with no evidence of ischemia, cardiac enzymes were negative x 1.
+He continued to have high grade temperatures as high as 103 F. Blood cultures just grew gram positive cocci in clusters.
+Repeat CXR the next day revealed a right lower lobe pneumonia.
+CT scan was then obtained which showed two focal areas of consolidation, one in the left upper lobe and the other in the right lower lobe, which demonstrate a surrounding ground-glass appearance, most consistent with invasive aspergillosis.
+The patient continued to have low grade fevers and baseline tachycardia.
+This was considered his baseline due to severe and progressive involvement of his bone marrow.
+G-CSF was not thought to be of any use given the degree of bone marrow invasion.
+On discharge he had been afebrile for more than 3 days and was markedly improved clinically with stable vital signs.
+# Respiratory Alkalosis/Metabolic Acidosis: On admission the patient was noted to have a low bicarbonate level of 16 that later dropped further to 12 on [**7-28**] when the patient was evaluated by the ICU team.
+ABG at the time revealed a respiratory alkalosis with a pH of 7.49, pCO2 17 with a concomitant non gap metabolic acidosis.
+This was thought to be secondary to tachypneic secondary to sepsis and his underlying pulmonary infection.
+In addition, the patient was thought to have renal tubular acidosis either secondary to his multiple myeloma (proximal RTA) or due to chronic renal failure with a persistently low bicarbonate on previous admissions.
+With improvement in his respiratory status, repeat blood gases showed a neutral pH and his bicarbonate began to rise steadily up to 17 on discharge, likely due to his resolving pulmonary infection.
+No treatment was necessary since the patient's acid-base status improved on its own with treatment of his underlying disease.
+# MM/plasma cell leukemia: The patient had been receiving chemotherapy up until this admission with the last dose given on [**2173-7-26**].
+During his hospital stay no chemotherapy was given due to his complicated hospital course with persistent neutropenia.
+A portocath was placed the day prior to discharge and the patient was advised to follow up in clinic for possible future treatments.
+# Thrombocytopenia/Anemia - Thought to be secondary to bone marrow invasion of plasma cells with concomitant chemotherapeutic effects.
+No ASA or heparin was given while in hospital except for minimal amounts of heparin to flush central lines.
+# Chronic Renal Insufficiency: The patient has a baseline Cr of [**1-21**].
+# HTN - Patient was hypotensive in the ED requiring fluid boluses, on the floor he remained borderline hypotensive requiring IVF.
+# DM - The patient was monitored throughout his stay with QID finger sticks with sliding scale insulin.
+The patient did not require insulin and his glucose values where consistently within normal limits.
+# Hyperlipidemia - Lipitor was held during this admission.
+# PPx - Neutropenic precautions, bowel regimen, no heparin due to low plts  # FEN - Neutropenic diet, IVF to maintain BP, electrolytes sliding scale .
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+Disp:*4 Tablet(s)* Refills:*0*   Discharge Disposition: Home With Service  Facility: Diversified VNA  Discharge Diagnosis: Primary: Multiple Myeloma/Plasma cell leukemia Pulmonary Aspergillosis .
+Secondary: Hypertension Diabetes Mellitus Hyperlipidemia   Discharge Condition: Good   Discharge Instructions: Please take all of your medications as directed  Please follow up as described below  Please come back to the hospital if you have fevers, chills, shortness of breath, nausea/vomiting/diarrhea or any other complaints.

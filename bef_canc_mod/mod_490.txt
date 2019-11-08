@@ -1,0 +1,34 @@
+Admission Date:  [**2192-6-29**]              Discharge Date:   [**2192-7-2**]   Service: MEDICINE  Allergies: Vancomycin Hcl/D5w  Attending:[**Last Name (NamePattern4) 290**] Chief Complaint: anuria  Major Surgical or Invasive Procedure: none  History of Present Illness: 84 vent-dependent M with COPD, CHF, CAD, AS, afib, recent prolonged hospitalization for CHF complicated by spontaneous retroperitoneal hematoma, referred from vent facility for fevers, altered mental status, and hypoxia/difficulty ventilating, as well as anuria.
+He became anuric and was transferred to [**Hospital1 18**].
+CXR showed opacified L hemithorax--started levo/vanc.
+Abd also distended and tender.
+Surgery consulted and CT thorax obtained, which showed large L pleural effusion, large ascites; surgery did not think any acute surgical pathology.
+coccygeal ulcer with eschar and surrounding erythema.
+There is apparent slight shift of the mediastinum to the left, indicating a component of volume loss/collapse, possibly secondary to a mucus plug.
+There is most likely an associated left-sided pleural effusion.
+Resolving retroperitoneal hematoma extending along the left posterior pararenal space inferiorly to the left groin.
+Large left-sided pleural effusion with associated atelectasis and collapse of the left lower lobe.
+Small right-sided pleural effusion.
+Large amount of ascites and anasarca.
+Mildly thickened loops of small bowel with evaluation limited by ascites and lack of intravenous contrast.
+The findings are likely secondary to anasarca.
+Ischemia cannot be completely excluded, especially given the appearance of the heavily calcified SMA and close clinical correlation is advised.
+Significantly shrunken liver with nodular contour and increased echogenicity consistent with cirrhosis.
+Significant amount of ascites is also identified.
+Cholelithiasis with no evidence of cholecystitis.
+Brief Hospital Course: 84M with AS, CAD, COPD, vent dependent, now with likely Acinetobacter VAP, also Enterecoccus bacteremia, and oliguric renal failure .
+L >> R pleural effusion--L effusion was last drained one month ago (3.5L removed) and has reaccumulated, likely sympathetic from ascites.
+# Cardiovascular: chronic problems include: - [**Name (NI) 31196**] AS by last echo, so would avoid sudden volume shifts as patient is likely very pre-load dependent - afib--rate controlled with metoprolol .
+# Acute oliguric renal failure, oliguric: Cr bumped from 1.0 a month ago to 2.0 three days ago and now up to 3.7.
+Renal team offered dialysis to patient's family, but explained that with his other significant co-morbidities, dialysis would not be likely to change his overall prognosis, and healthcare proxy decided that dialysis would not be in keeping with patient's wishes.
+# GI: Ascites: pt is not known cirrhotic, so cause of cirrhosis not clear, although his CHF and hypoalbuminemia.
+low albumin state vs portal HTN.
+should have diagnostic tap in am (has not had paracentesis before).
+Tense ascites have displaced his PEG, contributing to the leak of bilious fluid from the PEG site and most likely also contaminating the peritoneum.
+Not clear if this was the source of Enterococcus bacteremia, but covered with Abx as below.
+- elevated AST/ALT--could be drug effect, infection, shock liver as patient was reportedly hypotensive - chemical pancreatitis--CT did not reveal pancreatitis .
+# ID--Reportedly febrile yesterday; WBC 14 with 91% polys, cultures from OSH growing VRE in blood and Enterobacter in sputum.
+For now, continue ampicillin for Enterococcus; Enterobacter was sensitive to imipenem (although not tested for meropenem) and aminoglycosides but no others, will use meropenem since less seizure risk in renal failure.
+# Skin--breakdown on coccyx as well as upper back, and thin skin on arms with tears and ecchymoses.
+Medications on Admission: APAP 650 prn morphine 2mg IV Q3 prn albuterol inh 6 puffs Q4h ipratropium inh 6 puffs Q4h calmoseptine top Dakin's solution top xenaderm top colace 100mg [**Hospital1 **] + senna fluticasone 110mcg x2puffs [**Hospital1 **] imipenem cilastatin 500mg iv Q12 cefepime 1gm daily insulin NPH [**Hospital1 **] (dose not stated) + SSRI isordil 20mg tid lansoprazole 30mg daily linezolid 600mg [**Hospital1 **] methylprednisolone 40mg Q12 metoprolol 75mg tid simvastatin 20mg daily terazosin 2mg daily   Discharge Medications: n/a  Discharge Disposition: Expired  Discharge Diagnosis: # Enterococcus bacteremia # Enterobacter ventilator acquired pneumonia # peritonitis # trach # PEG # paraganglionoma # Aortic Stenosis (Moderate aortic valve stenosis by [**2188**] echo;  aortic valve area 1 cm squared.
+Maximal gradient of 42, with a mean gradient of 26) # PVD s/p R fem-[**Doctor Last Name **] bypass # Carotid Artery disease # COPD # HTN   Discharge Condition: expired  Discharge Instructions: n/a  Followup Instructions: n/a                               [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Name8 (MD) **] MD [**MD Number(1) 292**]

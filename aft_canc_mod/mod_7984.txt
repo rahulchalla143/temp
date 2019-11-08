@@ -1,0 +1,43 @@
+Major Surgical or Invasive Procedure: Intubation and mechanical ventilation.
+History of Present Illness: [**Known firstname **] [**Known lastname 23657**] is a 52-year-old woman, with known brain tumor daignosed after patient noticed acute vision changes with pathology showing adenocarcinoma of likely GI primary, workup of primary source so far unrevealing who presents after having had a generalized seizure at the outside hospital.
+Patient reports that on the day of admission, she noticed numbness and tingling in her left arm and leg.
+The patient had a witnessed generalized tonic-clonic seizure in the ED there that lsted approximately 1 minutes.
+CT scan at the OSH showed edema surrounding the known mass in her brain and [**Last Name (un) **] midline shift.
+The patient's sister [**Name (NI) 89462**] that the family has noted new aphasia over the past week and a half, with sentences either missing words or repeating words.
+She is involved in sales and reguarly gives presentations for her work.
+Review of Systems: (+) Per HPI (-) Denies fever, chills, night sweats, recent weight loss or gain.
+Denies headache, sinus tenderness, rhinorrhea or congestion.
+Denies chest pain or tightness, palpitations, lower extremity edema.
+Denies cough, shortness of breath, or wheezes.
+Denies dysuria, stool or urine incontinence.
+Denies rashes or skin breakdown.
+Past Medical History: PAST ONCOLOGIC HISTORY: -Initially presented in [**2-/2138**] with three months of vision changes.
+Brain MRI was performed and showed a 3.3 cm x 2.9 cm x 2.5 cm right temporoparietal mass with cystic and ring-enhancing features.
+Biopsy on [**2138-3-24**] showed metastatic adenocarcinoma.
+The tumor stained positive for CK7, CK20, CDX2, and focal weakly positive for CEA.
+Family History: It is significant for T2DM and and heart disease in father requiring CABG.
+Colon cancer in materal grandmother.
+Breast cancer in paternal aunt (diagnosed around age 40, though currently living).
+Physical Exam: ADMISSION TO THE FLOOR PHYSICAL EXAM: Vitals - T:99.3 F, BP:121/81, HR:80, RR:20, and 02 sat:96% in room air GENERAL: Patient lying in bed in NAD HEENT: AT/NC, EOMI, PERRLA, anicteric sclera, pink conjunctiva, patent nares, MMM, OP without erythema, exudate, or ulcerations NECK: nontender supple neck, no LAD CARDIAC: RRR, S1/S2, no M/R/G LUNG: CTAB.
+No crackles or wheezes ABDOMEN: Overweight.
+No cyanosis, clubbing or edema.
+2+ DP pulses bilaterally SKIN: No excoriations or lesions no rashes NEURO: CN II-XII intact.
+Aphasia present with difficulty finding words at time responses to questions seem illogical.
+DISCHARGE PHYSICAL EXAM: VITALS: T 96.4 F, BP 130/80 (SBPs 114-130), HR 68, RR 20, and O2 Sat 100% in room air GENERAL: Patient lying in bed in no acute distress HEENT: EOMI.
+No crackles or wheezes.
+EXTREMITIES: No pitting edema bialterally.
+No clubbing or cyanosis.
+Pertinent Results: ADMISSION LABS: [**2138-11-2**] 10:00AM BLOOD WBC-12.2* RBC-3.99* Hgb-12.9 Hct-38.3 MCV-96 MCH-32.3* MCHC-33.6 RDW-12.9 Plt Ct-359 [**2138-11-2**] 10:00AM BLOOD PT-12.1 PTT-19.7* INR(PT)-1.0 [**2138-11-2**] 10:00AM BLOOD UreaN-16 Creat-0.8  DISCHARGE LABS: [**2138-11-5**] 06:05AM BLOOD WBC-9.5 RBC-4.01* Hgb-12.9 Hct-39.4 MCV-98 MCH-32.2* MCHC-32.7 RDW-13.5 Plt Ct-359 [**2138-11-5**] 06:05AM BLOOD Glucose-102* UreaN-16 Creat-0.7 Na-138 K-4.2 Cl-105 HCO3-25 AnGap-12  IMAGING: MRI HEAD IMPRESSION: Mild increase in size of the right temporal lobe lesion with worsening surrounding FLAIR hyperintensity may suggest tumor recurrence; however, possibility of radiation necrosis cannot be completely excluded.
+MICROBIOLOGY: Lyme Serology: Negative  Brief Hospital Course: (1) Generalized Tonic-Clonic Seizure: The patient had no other seizure activity through her stay on the floor.
+Previous biopsy of the site showed metastatic adenocarcinoma, staining positive for CK7, CK20, CDX2, and focal weakly positive for CEA.
+(3) Cancer of Unknown Origin: Patient recently had a breast MRI on [**10-25**] that showed a 7.5mm right breast abnormality.
+Radiologist recommended diagnostic mammogram, ultrasound, and MRI-guided breast biopsy.
+Patient also recently had an MRCP; the final report of which showed a hepatic cyst and an 11 mm exophytic left interpolar renal cyst.
+Patient WBC was trended through the admission as well as her temperature curve.
+(5) Tick Bite: Patient with a recent tick bite with surrounding erythema.
+Disp:*9 Tablet(s)* Refills:*0* 2. acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed for pain, headaches.
+8. clonazepam 1 mg Tablet Sig: One (1) Tablet PO three times a day as needed for anxiety.
+Discharge Disposition: Home  Discharge Diagnosis: Generalized seizure Brain mass with worsening vaseogenic edema  Discharge Condition: Mental Status: Clear and coherent.
+You were transferred to [**Hospital1 69**] after a generalized seizure at [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] Hospital and a CT scan showed brain edema (swelling) around the known mass in your brain.
+You stayed in the intensive care unit for one night and were intubated with a breathing tube.
+You had no seizures during your hospitalization at [**Hospital1 69**].

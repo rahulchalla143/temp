@@ -1,0 +1,60 @@
+Admission Date:  [**2128-11-7**]              Discharge Date:   [**2128-11-23**]  Date of Birth:  [**2062-12-18**]             Sex:   M  Service: MEDICINE  Allergies: Ace Inhibitors  Attending:[**First Name3 (LF) 6114**] Chief Complaint: Respiratory distress  Major Surgical or Invasive Procedure: Right Internal Jugular Central Line Placement Flexible Bronchoscopy Endotracheal intubation  History of Present Illness: Pt is a 65 yo Vietnamese male w/ a PMH sig for Non-small cell endobronchial lung CA s/p RMSB stent ([**5-21**]), COPD, CRI, recent admission for respiratory distress requiring intubation, and chest tube placement x 2 in [**6-20**],  who presented to an OSH on [**11-7**] @ ~1730 with significant tachypnea and tachycardia, requiring 5 L NC to keep sats above 95%.
+The patient's respiratory distress did not resolve and after obtaining an ABG of 7.17/74/226, the patient was transferred to [**Hospital1 18**] for further management.
+He became hypotensive with SBP<60 post-intubation.
+He was given 1400cc of fluid and started on Levophed after a central line was placed in his right femoral vein.
+h/o DVT 6.CRI (baseline Cr 1.7) 7.Chronic b/l LE pain and paraesthesia 8.Hyperlipidemia 9.Anisocoria 10.Asthma FEV1 0.7 L 11.EF 64%, Mild MR, mild diastolic dysfxn 12.H/o MSSA pna in[**5-21**]   Social History: Pt denies tob or EtOH use.
+Physical Exam: vitals on presentation to ED [**11-7**] Temp 102.4, HR 96, BP 117/72, RR 16 sats 100% on AC FiO2 0.5, 500/16 PEEP 5 GEN: intubated, sedated HEENT: R pupil 2mm reactive, L pupil 4mm reactive, anicteric sclera, MMM, no JVD, no bruits, no LAD PULM: coarse rhonchi bilaterally with poor airmovement throughout, prolonged expiratory phase, insp/exp wheezes CV: sinus tachycardia, nl S1/S2 no m/r/g ABD: scaphoid, soft, non-distended, +BS EXT: no c/c/e SKIN: no rash  Physical exam on discharge [**2128-11-23**] VS: T 98.7  BP 100s-110s/70s-80s  P 80s-100s  R 16  96% RA Gen: pleasant, cachectic appearing, NAD, walking in halls with walker Pulm:  CTAB, occasional rales that clear easily with cough CV:  RRR, nl S1/S2, no murmurs appreciated Abd: Soft, NT/ND, +BS Ext: no edema   Pertinent Results: ECHO Study Date of [**2128-11-8**] Conclusions: 1.Technically difficult study.
+Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded.
+5.The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic regurgitation.
+No mitral regurgitation is seen.
+7.There is an anterior space which most likely represents a fat pad, though a loculated anterior pericardial effusion cannot be excluded.
+There is no evidence of RV compression.
+Extensive scarring is present in both upper lobes with upward retraction of both hila.
+Pleural thickening is present over the right lung apex and there is shift of the trachea to the right.
+Similarly, the tenting of both hemidiaphragms and pleural thickening in the right costophrenic angle are unchanged.
+No pneumothorax and no new lung lesions.
+NO MICROORGANISMS SEEN.
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              STAPH AUREUS COAG +                              | CLINDAMYCIN-----------   =>8 R ERYTHROMYCIN----------   =>8 R GENTAMICIN------------     8 I LEVOFLOXACIN----------     4 I OXACILLIN-------------   0.5 S PENICILLIN------------ =>0.5 R     LEGIONELLA CULTURE (Final [**2128-11-18**]):    NO LEGIONELLA ISOLATED.
+POOR QUALITY SPECIMEN.
+FUNGAL CULTURE (Final [**2128-11-23**]):    NO FUNGUS ISOLATED.
+ACID FAST SMEAR (Final [**2128-11-10**]):       NO ACID FAST BACILLI SEEN ON DIRECT SMEAR.
+NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR.
+ACID FAST CULTURE (Pending): pending at time of discharge   [**2128-11-8**] 12:48 pm Rapid Respiratory Viral Screen & Culture    Rapid Respiratory Viral Antigen Test (Final [**2128-11-9**]):       Positive for Respiratory Syncytial viral antigen.
+CULTURE CONFIRMATION PENDING.
+VIRAL CULTURE (Preliminary):    No Virus isolated so far.
+The patient has significant CO2 retention at baseline with PaCO2 50-70 and a baseline compensatory metabolic alkalosis with HCO3 in the low 30s.
+The patient was initially intubated in the setting of hypercarbia and impending respiratory failure.
+On [**11-8**] he underwent flexible bronchoscopy with BAL at the bedside which demonstrated significant airway edema, thick white secretions but no obstruction.
+The BAL fluid was positive for RSV antigen but no virus was isolated.
+He continue to improve with albuterol and atrovent nebulizers and was breathing progressively more comfortably over the next few days on the floor with no significant oxygen need.
+2. question of PNA: Patient's underlying respiratory distress thought secondary to underlying  sepsis [**1-19**] PNA aspiration vs. MSSA PNA.
+He was febrile on admission, but afebrile throughout remainder of ICU stay.
+Pt continued to improve and follow up chest X ray showed on [**2128-11-20**] showed no new lung lesions.
+Sepsis: Hypotension likely related to septic shock on admission.
+An ECHO was performed which showed no evidence of pericardial effusion, a normal LA, and an EF of 50-55%.
+He was bolused for low CVP throughout the first several days of his hospital stay such that by [**11-12**] the patient was over 13 L positive, but did not show any signs of peripheral edema.
+The patient was thought to be profoundly intravascularly depleted [**1-19**] sepsis, poor nutritional status and poor PO intake.
+COPD: Severe underlying disease/possible exacerbation in the setting of RSV bronchiolitis complicated the patient's respiratory status.
+The patient was maintained on a slow prednisone taper due to his severe disease, and was also sent home with albuterol and atrovent nebulizers.
+5. acute renal failure: The patient's Cr on presentation was 2.1.
+Thrombocytopenia was felt most likely secondary to medication administration (likely secondary to Carboplatin, which he received prior to admission; there was also concern over contribution from vancomycin or levaquin, which were discontinued).
+This favors the possibility of a drug-induced effect, most likely bone marrow suppression due to carboplatin.
+Cachexia/malnutrition:  Pt had poor po intake after he was extubated and began to recover.
+His mental status improved, but he became transiently hypernatremic and required free water repletion.
+However, he was still with poor po intake on discharge, which is thought to be due to his malignancy.
+During the hospitalization, and likely due to poor po intake, pt was dehydrated, with hypernatremia, relative hypotension to SBP 90s, tachycardia to 110s, and a contraction alkalosis.
+The reasons were thought to be multifactorial, most notably in the setting of infection and then with steroids.
+He should have his glucose rechecked by his new primary care physician.
+Mental status: Pt required haldol and increased sedation while in the ICU, even needing a sitter temporarily.
+A depression screen revealed no evidence of depression, and pt was back to his baseline per family members.
+Albuterol Sulfate 5 mg/mL Nebu Soln Sig: One (1) nebulizer Inhalation every four hours as needed for shortness of breath or wheezing.
+Ipratropium Bromide 0.02 % Solution Sig: One (1) nebulizer treatment Inhalation every four (4) hours as needed for shortness of breath or wheezing.
+Non-small cell lung cancer 2.
+Hypercarbic respiratory failure 3.
+Tachycardia 4. chronic obstructive pulmonary disease 5.
+RSV antigen positive 6. septic shock, resolved 7. chronic kidney disease Secondary: 1.
+Hypertension 3.
+Peripheral neuropathy 4.
+Cachexia with poor oral intake 5.  history of tuberculosis, treated over 10 years ago 6.  hyperlipidemia 7.  history of melena 8.  anisocoria   Discharge Condition: stable, tolerating po, breathing well.
+Cough has improved with decreased sputum production; patient is able to ambulate well without assistance.
+If you have shortness of breath, chest pain, or any other symptom that is concerning to you, please call your primary care doctor or go to the nearest emergency room.

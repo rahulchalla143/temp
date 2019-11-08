@@ -1,0 +1,29 @@
+Admission Date:  [**2155-4-12**]              Discharge Date:   [**2155-4-19**]  Date of Birth:  [**2098-2-15**]             Sex:   F  Service: MEDICINE  Allergies: Cefepime  Attending:[**Last Name (NamePattern1) 495**] Chief Complaint: hypotension, neutropenic fever  Major Surgical or Invasive Procedure: None   History of Present Illness: Ms. [**Known lastname 107792**] is a 57-year-old woman with relapsed AML following a matched unrelated donor bone marrow transplant in [**7-/2154**] for therapy related AML, now s/p DLI on [**2154-11-23**].
+Subsequently, she had increasing numbers of blast in both the peripheral blood and the marrow and just finished a course of decitabine last week with ANC 340. .
+His note at that time reported "She has no new complaints.
+She has had to receive platelets on occasion and may need somered cells but otherwise does not really have any significant dyspnea on exertion, shortness of breath, and certainly no bleeding.
+She has had no evidence of infection, no fevers, no night sweats, no weight loss, no cough, dyspnea on exertion, or shortness of breath.
+No chest pain.
+She is now on 4 mg of Medrol every day because of her elevations in liver function studies and her skin rash, all felt to be secondary to some GVH after her DLI."
+She also had one presyncopal episode with LHD, diaphoresis, but no LOC.
+She did subsequently have emesis (non-bloody, non-bilious X1) after breakfast.
+Upon arrival to [**Hospital Unit Name 153**], she is feeling at baseline with no complaints.
+During her [**Hospital Unit Name 153**] stay, pt received additional 4L fluid with no significant increase in her SBP; pt, however, remained asymptomatic.
+Pt was noted to have a fever of 102.2 and was cultured.
+Past Medical History: AML s/p unrelated donor BMT on [**2154-11-23**] Possible graft vs host skin reaction S/p breast CA in [**2151**] Positive PPD in the past, mother worked in TB sanitarium and s/p INH treatment in the 70's.
+Mother alive at [**Age over 90 **] years of age - recently had diagnosis of "heart disease."
+Physical Exam: PE: 100.9   125   96/70   22   98% RAO2 Sats Gen:  well appearing, frail, but in good spirits HEENT: dried brownish crust on tongue, MMM NECK: Supple, No LAD, No JVD CV: RR, NL rate.
+No HSM EXT: No edema.
+Gait assessment deferred PSYCH: Listens and responds to questions appropriately, pleasant  LINES: insertion site clean, no exudate  Pertinent Results: CXR: IMPRESSION: No acute cardiopulmonary process .
+U/A: negative  Brief Hospital Course: 57F h/o relapsed AML s/p transplant, DLI, with febrile neutropenia.
+#  Febrile neutropenia:  The patient was initially treated broadly with vancomycin and Zosyn (cefepime allergy) given her hypotensive presentation.
+No further cause of her fever could be identified.
+She had no further localizing symptoms and all other cultures, including a c.difficile sample , were negative.
+Her fever did not recur after the first 24 hours of her admission and at the time of discharge she had been afebrile and feeling well for greater than 5 days.
+She was initially treated with stress dose steroids given the concern for possible adrenal insufficiency, however these were rapidly weened back to her normal home dose with no adverse effects on her blood pressure .
+The patient remained neutropenic with an ANC of 0 during this admission.
+Initially, her hydrea was held but restarted prior to discharge at 1 gram daily in order to try and control her increased WBC count.
+# CODE: FULL  Medications on Admission: Acyclovir - 400 mg Q8H Fluconazole - 100 mg daily Folic Acid - 1 mg daily Hydroxyurea [Hydrea] 1 gram daily Lorazepam PRN Methylprednisolone 4mg daily Sertraline - 75 mg daily Bactrim DS - 800 mg-160 mg  Tu/Th/Sat .
+Disp:*1000 mL* Refills:*0*   Discharge Disposition: Home With Service  Facility: Critical Care Systems  Discharge Diagnosis: Acute myelogenous leukemia Fever of unknown source   Discharge Condition: all vital signs stable, afebrile for >72hrs   Discharge Instructions: You were admitted with fevers and neutropenia.
+We could find no cause for your fevers but they were likely related to your low white blood cell count.
+Please call your doctor or return to the emergency room if you experience fever >100.5, chills, diarrhea, nausea, vomitting, pain, shortness of breath or any other symptom that concerns you.

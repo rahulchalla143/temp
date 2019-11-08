@@ -1,0 +1,115 @@
+Admission Date:  [**2172-8-25**]              Discharge Date:   [**2172-9-6**]  Date of Birth:  [**2114-3-8**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 3984**] Chief Complaint: dyspnea, hoarseness, and cough  Major Surgical or Invasive Procedure: Bronchoscopy x2 Tracheal Y-stent placement [**2172-8-25**] Pigtail catheter placement (right) [**2172-8-25**] for pleural effusion Intubation [**2172-8-25**], re-intubated [**2172-8-26**] after attempted extubation Chest tube placement (right) [**2172-8-26**] for pneumothorax Radiation therapy x2 Chemotherapy x3days Lumbar puncture [**2172-9-3**]  History of Present Illness: 58 year-old female, 60 pack-year smoker, with dyspnea, hoarseness, and cough x1 month admitted to [**Hospital1 18**] SICU [**2172-8-25**] after found to have large mediastinal mass, today found to be poorly-differentiated carcinoma, suspected small cell.
+On initial evaluation, patient was found to have 3mm opening of distal trachea secondary to external compression from mediastinal mass, RUL mass, RUL collapse, and clinical findings consistent with SVC sydrome.
+Y-stent was placed that evening, in addition to Pigtail catheter for right-sided effusion.
+Patient remained intubated following surgery, on paralytics due to low-lying ET tube and small volume bleeding after endobronchial biopsy.
+Patient was reintubated within 10 minutes due to neurological unresponsiveness, hypoxia (O2 saturation 80s), and hemodynamic instability.
+She was found to have a right pneumothorax, which improved with subsequent placement of chest tube.
+Patient was also noted to have pericardial effusion; given absence of physiologic tamponade, cardiology decided against pericardiocentesis.
+Hospital course also complicated by hyponatremia on admission (Na 118) attributed to SIADH and improved with fluid restriction (Na 126).
+Also with hypotension (sBP 90s) following reintubation on [**2172-8-26**].
+Given hyperkalemia, hyponatremia adrenal insufficiency was suspected; evaluated by endocrine team who recommended stress dose steroids pending further evaluation of etiology of hypotension.
+Given the above pathology results, patient is transferred to the medical ICU ([**Hospital Ward Name 332**]) for radiation therapy.
+On arrival to the [**Hospital 332**] medical ICU, patient is intubated, sedated, and unable to provide history.
+Physical Exam: On [**Hospital Unit Name 153**] admission [**2172-8-27**]: 96.0, 103, 120/68, 13, 97% [PS 14/5 50%] General: Intubated, sedated, not responsive to verbal stimuli; swelling of head, neck, and upper extremities; wasting of lower extremities Skin: Mottled at arms and superior to nipple line; telangiectasias on chest wall HEENT: Temporal wasting; pupils symmetric, minimal reactivity to light; sclerae anicetric; scleral edema; dry mucous membranes Neck: Large; unable to appreciate neck veins secondary to swelling; right anterior chain palpable lymph node Chest: Right chest tube, pigtail catheter in place Lungs: Upper airway noise; by anterior ausculation, few expiratory wheezes diffusely; breath sounds appreciable in all lung fields CV: Tachycardic; regular rhythm; pronounced S2 at apex; I/VI early systolic murmur at left LLSB; unable to assess pulsus paradoxus given quiet Korsakoff sounds Abdomen: Hypoactive bowel sounds; soft, non-distended GU: Foley Ext: Right DP 1+, left DP appreciated with Doppler; no lower extremity edema; upper extremity nonpitting edema  Pertinent Results: On admission [**2172-8-26**]: WBC-11.1* RBC-3.47* Hgb-10.9* Hct-31.9* MCV-92 MCH-31.5 MCHC-34.2 RDW-12.5 Plt Ct-393 Glucose-112* UreaN-9 Creat-0.8 Na-118* K-4.8 Cl-82* HCO3-24 AnGap-17 ALT-7 AST-21 LD(LDH)-584* AlkPhos-75 TotBili-0.2 Cortsol-25.7* Hgb-13.5 calcHCT-41 O2 Sat-82 .
+Large mediastinal mass causes narrowing of the right pulmonary artery, superior vena cava, and trachea and occlusion of the pulmonary artery supplying the right upper lobe in addition to the right upper lobe bronchus.
+Right upper lobe collapse with nonenhancing lung parenchyma.
+Large right pleural effusion.
+[**8-25**] Tracheal mass tissue pathology: Immunohistochemical studies show that tumor cells are positively stained by TTF-1 and CK7; they are negative for CK20, chromogranin, and synaptophysin.
+The tumor shows areas of necrosis, extensive apoptosis and focal lymphatic vascular invasion; some areas  the tumor cell size approaching that of a small cell carcinoma, but much of the tumor has larger nuclei.
+Overall, the tumor probably fits into the spectrum of a small cell carcinoma of lung.
+[**8-26**] Pleural fluid cytology: Rare groups of epithelioid cells, too few to characterize further.
+Rare cells are highlighted by TTF-1; however, these cells are not cytologically atypical and may represent non-specific reactivity.
+[**8-26**] EKG: Sinus tachycardia.
+No previous tracing available for comparison.
+There is mild symmetric left ventricular hypertrophy with normal cavity size and regional/global systolic function (LVEF>55%).
+The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic regurgitation.
+The mitral valve appears structurally normal with trivial mitral regurgitation.
+There is a small to moderate sized, primarily anterior pericardial effusion without right ventricular diastolic collapse.
+Mild symmetric left ventricular hypertrophy with preserved global and regional biventricular systolic function.
+Indirect evidence of right brachiocephalic vein occlusion, likely complete.
+Unchanged narrowing of right pulmonary artery.
+Interval decrease in large right pleural effusion, with small anterior pneumothorax.
+No interval change in large infiltrative hypoattenuating right hilar/mediastinal mass.
+No evidence of metastases in the abdomen or pelvis.
+Slightly bulky left adrenal gland without discrete nodule or mass.
+Anasarca and small amount of peritoneal fluid collecting in the pelvis, likely related to edema.
+[**2172-8-27**] ECHO: Compared with the prior study (images reviewed) of [**2172-8-26**], the size of the pericardial effusion is unchanged with no signs of tamponade.
+Within limits of this modality, no evidence of enhancing mass or edema to suggest metastatic disease.
+Status post bilateral frontal craniotomy and probable aneurysm clipping with encephalomalacic changes in the right frontotemporal and left temporal lobes.
+No evidence of acute hemorrhage or infarct.
+Probable chronic bifrontal subdural hygromas with minimal mass effect on the subjacent frontal gyri; these may relate to the extensive remote surgery .
+[**2172-9-2**] CT Head (performed due to worsened mental status): 1.
+Status post bilateral frontal craniotomies with aneurysm clipping and encephalomalcia, as described above.
+No evidence of acute hemorrhage or infarct.
+Mildly echogenic kidneys consistent with medical renal disease.
+There is no evidence of hydronephrosis, stone, or mass.
+[**2172-9-4**] CT Chest w/o contrast (to evaluate tumor s/p XRT and chemo for future XRT sessions): 1.
+Right anterior pneumothorax has resolved.
+Mixed response of the tumor to radiotherapy with a decrease of the central component of the tumor and a mixed response of the peripheral tumor components: 3.
+The peripheral consolidations in the right upper lobe have overall decreased in size, however, a new cavitary lesion has formed measuring 11 x 19 mm.
+The peripheral consolidations in the right lower lobe and left lower lobe have increased in size, number and density and may be part of post- obstructive, post-radiotherapy, post-infectious, or acute inflammatory changes.
+There is new small right pleural effusion and increased moderate left pleural effusion.
+Left adrenal gland mass is only partially visualized in this study.
+[**2172-9-3**] EEG: Markedly abnormal portable EEG due to the very disorganized and slow background rhythms.
+This suggests a widespread and moderately severe encephalopathy in both cortical and subcortical structures.
+Medications, metabolic disturbances, and infection are among the most common causes.
+Although there were fleeting asymmetries, there was no reliable area of focal slowing.
+There are some sharp features, but no clearly epileptiform abnormalities and no electrographic seizures.
+[**2172-9-5**] LENI: no DVT .
+NO MICROORGANISMS SEEN.
+FLUID CULTURE (Final [**2172-8-29**]):    NO GROWTH.
+ANAEROBIC CULTURE (Final [**2172-9-1**]):    NO GROWTH.
+ACID FAST SMEAR (Final [**2172-8-27**]): no AFB seen on direct smear    ACID FAST CULTURE (Preliminary): PENDING Cytology: Atypical cells, non-specific findings .
+RESPIRATORY CULTURE (Preliminary): FUNGAL CULTURE (Preliminary): .
+[**2172-9-3**] CSF: GRAM STAIN (Final [**2172-9-3**]):       NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.
+NO MICROORGANISMS SEEN.
+FLUID CULTURE (Preliminary): NO GROWTH.
+Cytology: no malignant cells .
+Brief Hospital Course: [**Hospital Unit Name 153**] Course [**Date range (3) 84902**] 58F with likely small cell carcinoma complicated by SVC syndrome, airway compromise requiring Y-stent, pericardial effusion, resolved pleural effusion and pneumothorax, and electrolytes disturbances admitted to [**Hospital Unit Name 153**] for radiation decompression therapy and chemotherapy.
+Pt developed respiratory failure and renal failure.
+She developed increasing respiratory failure and was changed to AC mode.
+Increased hypoxia may have been due to pneumothorax, which resolved, pleural effusions, atelectasis, possible VAP, tumor compression.
+Respiratory status also complicated by possible underlying COPD given smoking history with possible air stacking/trapping.
+Vanco was later held as the level was elevated in the setting of renal failure.
+Patient expired 15 minutes later from respiratory failure and asystole secondary to lung cancer.
+# Altered Mental Status: Pt had decline in mental status over time.
+AMS most likely due to toxic metabolic syndrome in setting of uremia and multi-system organ failure.
+Differential also included seizure (given hx of cerebral aneurysm repair, on anti-epileptics presumably prophylactically) although EEG did not demonstrate focal abnormalities.
+LP did not demonstrate infection or spread of malignancy.
+CT head [**2172-9-2**] negative for acute process.
+Small cell lung carcinoma: per pathology, the tumor probably fits into the spectrum of a small cell carcinoma of lung.
+CT head/[**Last Name (un) 103**]/pelvis negative for metastases.
+Initially, XRT was clinical emergency - normal and pathologic tissue was likely treated; necrotic tissue noted on bronchoscopy [**2172-9-4**].
+Pt was to undergo formal tissue planning session on [**2172-9-8**] to better delineate area of radiation however family decided to persue comfort only care on [**2172-9-6**].
+# Acute Renal failure: In setting of chemo with carboplatin.
+Uric acid and electrolytes elevated 4-5d post chemotherapy concerning for tumor lysis syndrome.
+The next therapeutic step was dialysis as patient became oliguric despite volume overload but the family wished for comfort only care given dismal prognosis of her lung cancer.
+Metabolic acidosis: Originally thought to be non-gap metabolic acidosis due to hypoaldosteronism and type IV RTA.
+With low albumin, however, this is a gap metabolic acidosis, most likely due to uremia.
+# Tachycardia/Hypotension ??????
+Pt with tachycardia to 140s and episodes of hypotension to SBP low 80s.
+Pt with new A-fib on telemetry and EKG.
+DDx includes possible enlarging pericardial effusion/tamponade but pulsus paradoxus was normal and ECHO [**2172-9-5**] was unchanged from prior.
+No pneumothorax seen on CXR.
+Unable to assess for PE by CTA as pt in renal failure and VQ would not be helpful in setting of other lung pathology.
+PE likely given malignancy and prolonged bed rest but unable to do CTA given renal failure and VQ scan not helpful in setting of lung changes.
+Even if it had been positive, heme/onc recommended against anti-coagulation in setting of possible tumor necrosis/hemorrhage.
+Pt remained tachycardic to 130s despite numerous fluid boluses.
+Electrolyte disturbances: Pt developed hypernatremia on [**2172-9-4**] most likley due to dehydration with free water deficit of 1.4L, started on D5W.
+Pt had hyponatremia and hyperkalemia on admission, both resolved.
+Unclear etiology of electrolyte disturbances on admission- hyponatremia thought to be secondary to possible adrenal insufficency (now discarded) or possibly SIADH.
+Hyperkalemia originally attributed to hypoaldosteronism and Type IV RTA, but unlikely per endocrine because of low urine sodium.
+SVC syndrome:  Incomplete occlusion of SVC; near complete occlusion of brachiocephalic veins.
+Clinically identified by upper extremity and facial swelling/plethora and mottled skin.
+Also with scleral edema.
+Improved edema on exam compared to admission.
+Possible that tumor pushing into trachea shifted to compress SVC after stent placement.
+Greatest concern for malignant effusion however cytology was nonspecific.
+Pneumothorax: Developed pneumothorax in setting of re-intubation that resolved after chest tube placement.
+Felt not to be large enough for percutaneous drainage.
+Repeat ECHO done [**2172-9-5**] in setting of hypotension demonstrated no change in pericardial effusion.
+# Sinus Pause on telemetry: Pt had episodes of sinus pauses on tele night of [**8-30**] with turning to right side.
+Metoprolol was held and glucagon given in case this was due to beta blocker toxicity, but pauses decreased in frequency and duration on their own without intervention.
+# Leukopenia/thrombocytopenia ??????
+Anemia:  Normocytic and likely due to anemia of chronic disease given malignancy.
+# s/p cerebral aneurysm repair:  History of cerebral aneurysm repair with a number of chronic changes on head CT.

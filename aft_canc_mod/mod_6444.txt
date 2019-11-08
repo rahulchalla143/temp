@@ -1,0 +1,41 @@
+Admission Date:  [**2149-10-4**]              Discharge Date:   [**2149-10-10**]  Date of Birth:  [**2075-2-1**]             Sex:   M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 5893**] Chief Complaint: "subjective fevers, diarrhea and dry cough."
+Major Surgical or Invasive Procedure: expired   History of Present Illness: This is a 74 yo M with PMHx of HTN, HLD, DM-2 and MDS-RAEB-II s/p 6 cycles of vidaza who presents with 3 days of weakness and subjective fevers.
+The patient was recently d/c from the OMED service on [**2149-9-30**] after presenting on [**2149-9-25**] with a cc of weakness and bleeding gums.
+He was found to be pancytopenic and received multiple transfusions and was also treated with empiric antibioitcs for neutropenic fever.
+A CT thorax showed multifocal parenchymal nodular opacifications.
+The final read was pending at the time of this note but was reported to be carcinoma of unknown primary.
+He localizes his weakness mostly to his rle on the side were he got his BMB.
+The patient localized his pain to the right side of his back and rates it as [**7-25**].
+He thinks the pain has been progressively getting worse.
+The patient denies UE or lle weakness.
+Saturday in the AM the patient experienced subjective fevers and they did not recurr after that.
+The patient had been complaint with his antibitoics at home.
+Denies cough, dysuria or other localizing signs of infection.
+He has no accompanying abdominal pain.
+ROS is otherwise normal except per above    Past Medical History: 1) h/o MDS-RAEB II (dx 6-7 months ago) with complex and poor risk cytogenetics s/p 6 cycles of vidaza most recently on [**2149-9-1**] 2) HTN 3) HLD 4) DM-2 5) spinal stenosis 6) arthritis 7) gout 8) s/p right hip replacement  Social History: -h/o smoking, quit 6 months ago, 40 py history -occasional drinker -married lives in [**Location 88484**] -retired for 20 years-was a barber  Family History: -father died of malignancy, unknown type -sister has a h/o renal impariment-died of DM  Physical Exam: Physical Exam on Admission VS T-99.3 BP-112/56 HR-93 RR-22 SaO2-100 on RA General: AAOX3, in NAD, pleasant HEENT: MMM, CN2-12 grossly intact, no lad or palpable thyroid nodules CV: RRR no rmg Lungs: distant BS but clear to auscultation bilaterally Abdomen: not TTP, active BS in 4 quadrants, liver and spleen not palpable Extremities: UE -5/5 strength in bue, sensation intact, pulses 2+ and equal LE -[**6-19**] strenght in ble, sensation intact, cool le, pulses 2+ and equal .
+Multifocal parenchymal nodular opacification as detailed above concerning for infection, with atypical infections such as fungal infection not excluded.
+Large left pleural effusion with associated atelectasis.
+Brief Hospital Course: ICU Course: Patient was transferred to the ICU on [**10-8**] with respiratory distress and tachycardia in the setting of known MDS and squamous cell malignancy involving the bone marrow and overall poor prognosis.
+He was intubated for hypoxic respiratory failure.
+He developed a septic picture.
+Patient with known C.dif colitis, so, since no other source of infection was found, presumed to have fulminant C.dif colitis.
+Patient was on Vancomycin PO, IV and PR for C.dif colitis as well as broad spectrum antibiotics to cover essentially any infectious source.
+This is a 74 yo M with PMHx of HTN, HLD, DM-2 and MDS-RAEB-II s/p 6 cycles of vidaza who presents with 3 days of lethargy, subjective fevers and diarrhea.
+#Clostridium difficile colitis: Pt was admitted with diarrhea and subjective fevers and fatigue following recent discharge during which he was treated with vancomycin/cefepime for neutropenic fevers and sent home with lovenox for CAP and fluconazole and acyclovir for prophylaxis.
+He began to describe pain in his throat making it difficult for him to swallow so his antibiotics were switched to IV.
+He then triggered on [**10-8**] for tachypnea, labored breathing, tachycardia to the 130's and hypotension as low as the high 80's systolically.
+He was treated with bolused fluids and his pressures improved, he desatted to 88 on RA and was started on O2 and began satting well but remained tachycardic and continued to have labored respirations.
+CXR demonstrated worsening of a left pleural effusion and ABG demonstrated mixed respiratory alkalosis and non-gap metabolic acidosis which we assessed as a combination of sepsis and diarrhea.
+We had mild concern for PE but felt he was too unstable for CT scanner.
+Abdominal XR showed no free air and was not concerning.
+#RLE weakness: Pt was admitted complaining of RLE weakness but had equivalent strength on exam but continued R hip pain which has been a chronic issue following a hip replacement ~20 years ago.
+He had a bone marrow biopsy at the right pelvis during his recent admission and had mild tenderness at the site but no signs or symptoms otherwise concerning for infection.
+His CRP and ESR were severely elevated but this was felt to be related to his Cdiff colitis as above.
+Worsening Pancytopenia: Pt with poor production from severe MDS and new diagnosis of invasive squamous carcinoma (presumably from lung primary but primary unknown) infiltrating his bone marrow rendering him transfusion dependent over the past several months.
+Hemolysis labs negative, reticulocyte index low, iron studies suggestive of anemia of chronic disease.
+During blood transfusion he spiked fevers likely related to his Cdiff or other underlying infectious processes and blood transfusions were held pending resolution of fevers.
+Pt also severely neutropenic and was maintained on acyclovir and fluconazole prophylaxis, started on IV Vanc/Cefepime as described above.
+#[**Last Name (un) **]: Pt admitted in [**Last Name (un) **], likely prerenal from diarrheal losses and poor PO intake which resolved with IV fluids and blood.
+#Elevated D-dimer: Pt with elevated D-Dimer on admission, possibly due to MDS vs. solid carcinoma activity.
+We also considered possibility of DVT yet patient did not have si/sx concerning for DVT or PE by history or exam.
+During his trigger on [**10-7**] we had suspicion for possible PE but felt he was unstable for CT imaging.

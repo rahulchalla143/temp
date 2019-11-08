@@ -1,0 +1,74 @@
+Admission Date:  [**2139-9-12**]              Discharge Date:   [**2139-9-21**]  Date of Birth:  [**2104-9-10**]             Sex:   F  Service: MEDICINE  Allergies: Tape [**1-25**]"X10YD / Augmentin / Hydrocodone / Levofloxacin / Ciprofloxacin / morphine / fentanyl  Attending:[**Doctor First Name 2080**] Chief Complaint: Dyspnea, Hypoxia  Major Surgical or Invasive Procedure: Ultrasound-guided renal biopsy CPR (cardiopulmonary resuscitation)   History of Present Illness: Ms. [**Name13 (STitle) **] is a 35 y/o F with a h/o Type I DM, HTN, CKD, warm autoimmune hemolytic anemia, depression, and osteoperosis who was recently on the SIRS service on [**2139-9-15**] when she had a 2 minute cardiac arrest, requiring 5 rounds of CPR, immediately following a renal biopsy prompting a 1-day admission to the MICU, who now presents back to the SIRS service with hypoxia, continuing bilateral pleural effusions, and concern for mixed respiratory acidemia/metabolic alkalemia of multi-factorial etiology.
+The patient was discharged from the SIRS service following presentation for anaphylactic response to fluoroquinolones, with subsequent hypoxia due to bilateral pleural effusions of unclear etiology, a normocytic anemia, and nephrotic syndrome on [**2139-9-8**].
+She was discharged on Lasix 20 MG PO QD, and soon redeveloped shortness of breath, LE edema and lethargy prompting her re-presentation to [**Hospital1 18**] on [**2139-9-12**].
+A CXR confirmed the presence of recurrent bilateral pleural effusions.
+Given the presence and recurrent nature of her bilateral pleural effusions, we continued IV Lasix 40 MG [**Hospital1 **] and consulted the Rheumatology and Renal teams.
+Both teams agreed that the patient should pursue a renal biopsy, which was performed on [**2139-9-15**], and subsequently she had a cardiac arrest.
+Immediately afterwards though, she became unresponsive during her transit to the recovery room, exhibiting some involuntary jerking activity and was found to not have a pulse.
+She received 2 minutes of CPR and subsequently regained responsivness.
+In the MICU, she was monitored and was stable other than one episode of hypoglycemia with a blood sugar of 14 on the [**2139-9-16**], that was immediately managed with IV D50 and she responded appropriately with improved alertness and appropriate mental status.
+A CTA ruled out pulmonary embolus.
+On the floor, the patient was found in acute respiratory distress, with an initial O2Sat in the 40s.
+She exhibited significant somnolence and altered mental status.
+Type 1 diabetes complicated by retinopathy and likely nephropathy, diagnosed at age 11.
+She has had multiple episodes of diabetic ketoacidosis.
+Last eye exam [**5-1**] - "quiescent" PROLIFERATIVE diabetic retinopathy.
+Depression 3.
+Severe hyperemesis requiring TPN.
+GERD, antral ulcer 9.
+Hypertension 10.
+Past Surgical History: - Cesarean section ([**2132**]) - Laparoscopic appendectomy ([**2132**]) - TAB [**3-31**] - Proximal gastroduodenal artery embolization - Excision of a skin mole - Achilles avulsion repair  Social History: The patient does not smoke or drink alcohol, transfusion in [**2132**].
+Family History: Has 1 sister, no hx of cancer or bleeding/ blood disorders in family but positive IBD history in grandfather and [**Name2 (NI) 12232**].
+Physical Exam: EXAM on ADMISSION Vitals: T: 97.3 BP: 118/62 P: 64 RR: 18 O2: 92% on 2L General: In NAD HEENT: Sclera anicteric, MMM, oropharynx clear Neck: Supple, no LAD Lungs: Crackles bilaterally, with decreased breath sounds at the bases CV: Normal rate and regular rhythm, with split S2 best heard at the LUSB, no M/R/G Abdomen: Soft, non-tender,  mildly distended, bowel sounds present, no rebound tenderness or guarding, no hepatosplenomegaly GU: Deferred Ext: 1+ pitting edema, R>L in lower extremities, warm, well perfused, 2+ pulses Neuro: AOx3, Sensory and motor grossly intact  EXAM on DISCHARGE: improved LLL, decreased BS over RLL; small and superficial left dorsal foot ulceration  Pertinent Results: ADMISSION LABS: [**2139-9-12**] 10:00PM BLOOD WBC-6.4 RBC-3.26* Hgb-10.1* Hct-30.8* MCV-94 MCH-31.0 MCHC-32.8 RDW-17.0* Plt Ct-438 [**2139-9-12**] 10:00PM BLOOD Neuts-69.2 Lymphs-23.2 Monos-4.8 Eos-1.7 Baso-1.0 [**2139-9-12**] 10:00PM BLOOD Glucose-326* UreaN-41* Creat-1.5* Na-136 K-6.0* Cl-101 HCO3-24 AnGap-17 [**2139-9-13**] 06:15AM BLOOD Glucose-414* UreaN-39* Creat-1.4* Na-139 K-4.2 Cl-102 HCO3-25 AnGap-16  Pertinent trends:  Cr and K+ [**2139-9-16**] 02:41AM BLOOD Creat-1.3* K-4.2 [**2139-9-17**] 05:50AM BLOOD Creat-2.6*# K-4.6 [**2139-9-19**] 06:45AM BLOOD Creat-1.5* K-4.8 [**2139-9-20**] 06:45AM BLOOD Creat-1.4* K-5.4* [**2139-9-21**] 05:15AM BLOOD Creat-1.4* K-5.6*  [**2139-9-14**] 02:25PM BLOOD [**Doctor First Name **]-POSITIVE * Titer-1:640 dsDNA-NEGATIVE [**2139-9-19**] 06:45AM BLOOD AMA-NEGATIVE [**2139-9-14**] 06:25AM BLOOD C3-121 C4-48* [**2139-9-15**] 11:50AM BLOOD Type-ART pO2-114* pCO2-42 pH-7.49* calTCO2-33* Base XS-8 [**2139-9-16**] 04:22PM BLOOD Type-ART pO2-47* pCO2-61* pH-7.39 calTCO2-38* Base XS-8  Microbiology: Blood cultures - negative x2  Imaging:  CXR ([**9-12**]): SINGLE AP UPRIGHT PORTABLE CHEST RADIOGRAPH: There are interval bilateral basilar opacity, right slightly worse than left, representing combination of bilateral pleural effusions with atelectasis.
+Superimposed infections cannot be excluded.
+There is no pneumothorax.
+IMPRESSION: Interval moderate bibasilar opacities, likely combination of pleural effusions and atelectasis, but cannot exclude superimposed infection.
+CXR ([**2139-9-16**]): As compared to the prior examination, there is improved aeration at the lung bases with improvement in atelectasis and effusions as well as vascular congestion.
+No pneumothorax is seen.
+No evidence of pulmonary embolism.
+Persistent moderate bilateral pleural effusions with compressive atelectasis.
+Interval improvement of scattered areas of peri-bronchovascular opacities.
+Differential includes but not limited to cysts, hamartoma, hemangioma, or lymphangioma.
+Left pectoral subcutaneous emphysema and soft tissue induration likely related to instrumentation.
+Nondistended gallbladder with marked wall edema, nonspecific, but may relate to liver dysfunction or hypoproteinemia.
+No pericholecystic fluid or son[**Name (NI) 493**] [**Name2 (NI) 515**] sign.
+No intra- or extra-hepatic biliary dilatation.
+Bilateral pleural effusion.
+No free fluid is seen.
+1.5 cm septated right renal cyst without internal vascularity, with thin septations measure no greater than 1 mm.
+No hydronephrosis bilaterally.
+Along the anterior cortex of the mid to lower pole of the right kidney, there is an echogenic focus, measuring 1.4 x 0.6 x 1.0 cm, which is avascular, and not definitively within the kidney- most likely perinephric fat.
+Brief Hospital Course: 35 year old female with a PMH for DMI, hypertension, warm antibody, hemolytic anemia, depression, and osteoperosis who presents with a chief complaint of dyspnea.
+CTA showed no PE and labs were unrevealing.
+She did not have abnormalities on EKG.
+It was thought that she had a vagal episode triggering the unresponsive/pulseless episode.
+She was monitored overnight in the ICU without any problems other than hypoglycemia the next morning in the setting of being NPO and receiving NPH insulin.
+# Dyspnea hypoxemia with hypercarbia: Thought to be from pleural effusions, which were seen on CXR.
+Patient was recently admitted with negative work up for the pleural effusions except for a positive [**Doctor First Name **] and anti SS-A antibody.
+Cardiogenic pulmonary edema was thought to be unlikely given her recent normal echo and cardiac MRI.
+Pt did not have any signs of infection.
+The effusions was ultimately felt to be secondary to her hypoalbuminemia resulting from her nephrotic range proteinuria/diabetic nephropathy.
+She had no fevers, tachycardia, or signs of infection and was diuresed 3L of fluid with improvement of her O2 saturations to the mid 90s on 2L NC O2.
+This is when the patient had a cardiac arrest (as above), was transferred back to the MICU, and was returned to the SIRS service.
+On presentation, she had an acute desaturation into the 40s.
+ABGs obtained on 4L and RA revealed a picture of hypercarbia likely from narcotic medication administration and poor inspiratory effort from pleural effusions, chest pain due to CPR and healing rib fractures, in addition to hypoxemia likely from V/Q mismatch given elevated A-a gradient and improvement on oxygen.
+# Acute on chronic renal failure: According to notes from prior admission, she had nephrotic range proteinuria and the underlying cause was thought to be due to her diabetes.
+The patient's creatinine on admission was 1.6, which improved initially following diuresis, but then became elevated to 2.6, 48h after a CT scan, likely due to contrast-induced nephropathy.
+After an acute rise in her creatinine to 1.5 in the setting of the valsartan, we chose to discontinue it upon discharge along with a dose adjustment of torsemide to 20mg qd.
+Her K+ continued to be elevated on discharge but the EKG did not show any acute changes.
+# Diabetes, type 1 poorly controlled: The patient was continued on her home dose of lantus and sliding scale insulin.
+However, the value is still lower than her previous baseline levels and was seen by Hematology at her last admission who commented on her hypoproliferative state.
+# Rib pain: As a result of chest compressions, the patient noted a very sore chest, with pain managed adequately by tramadol.
+Her PCP will be following her hyperkalemia closely with outpatient lab draws prior to these appointments.
+# Incidental kidney finding on imaging:  Per abdominal U/S report - "Along the anterior cortex of the mid to lower pole of the right kidney, there is an echogenic focus, measuring 1.4 x 0.6 x 1.0 cm, which is avascular, and not definitively within the kidney - most likely perinephric fat.
+9. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for Constipation.
+Ambien 5 mg Tablet Sig: One (1) Tablet PO at bedtime as needed for insomnia.
+Acute Renal Failure   Discharge Condition: Mental Status: Clear and coherent.
+You were admitted on [**2139-9-12**] to the ICU with shortness of breath and fluid overload in the lungs.
+You received a renal biopsy on [**2139-9-15**], which went well, but immediately following the procedure, you had what was presumed to be a cardiac arrest for 2 minutes.
+Once stable, you were transferred to the MICU for monitoring and evaluation.
+When transfered back to the floor on [**2139-9-16**], you had an additional acute oxygen desaturation, but were placed on 4L of oxygen and given intravenous Lasix and you recovered well.
+With regards to your kidneys, the biopsy results revealed that your disease is almost entirely related to your diabetes.
+On [**2139-9-17**], your kidney function acutely declined as indicated by an increase in your creatinine level, likely due to the contrast you received a few days earlier during your CT scan.
+You also have a mild elevation in your potassium.
+Followup Instructions: We have scheduled the following appointments for you:  Name: [**Last Name (LF) **], [**Name8 (MD) **] MD When: Wednesday, [**2138-9-23**]:00am Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage Location: [**Hospital1 **]  **Please have your blood drawn on Tuesday or Wednesday before this appointment.

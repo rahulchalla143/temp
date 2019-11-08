@@ -1,0 +1,67 @@
+Admission Date:  [**2161-4-4**]              Discharge Date:   [**2161-4-16**]  Date of Birth:  [**2092-3-1**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**Doctor Last Name 1857**] Chief Complaint: Shortness of breath  Major Surgical or Invasive Procedure: Right IJ line placement [**2161-4-4**] Pacemaker placement [**2161-4-10**] Bronchoscopy and bronchial stenting [**2161-4-13**] Right thoracentesis [**2161-4-14**]  History of Present Illness: Mr. [**Known lastname 6051**] is a 69 year-old man with a history of a lung mass who presents with cough and shortness of breath.
+At that time, bronchoscopy showed no evidence of active bleeding, though it did show epiglottic mass with ~50 % obstruction.
+He has a chronic cough which is occasionally blood- and mucous-tinged.
+He also has been experiencing shortness of breath, which has been a bit worse.
+He also had chronic chest pains for which he uses morphine.
+On the day of admission, the patient was feeling slightly more short of breath and tired.
+CXR showed a RML/RUL infiltrate and the patient was given Levaquin and ceftriaxone.
+For atrial flutter with a rapid ventricular response, adenosine was attempted x 2 without success.
+He denies any complaints other than cough.
+Squamous cell carcinoma of the lung, T3, N2 2. ?
+Head and neck cancer 3.
+COPD/Emphysema  Social History: He moved from [**Country 651**] in [**2160-10-6**], previously worked as an electrical engineer.
+He had no exposure to asbestos.
+HEENT - No evidence of bleeding in oropharynx.
+No lymphadenopathy in cervcal, submandibular, supraclavicular regions.
+ABD - Soft and non-tender.
+Pertinent Results: Admission: [**2161-4-4**] 10:10AM BLOOD WBC-8.0# RBC-4.49* Hgb-12.5* Hct-38.6* MCV-86 MCH-27.9 MCHC-32.4 RDW-13.4 Plt Ct-372 [**2161-4-4**] 10:10AM BLOOD PT-13.5* PTT-31.2 INR(PT)-1.2*  [**2161-4-4**] 10:10AM BLOOD Glucose-124* UreaN-14 Creat-1.0 Na-137 K-4.8 Cl-100 HCO3-23 AnGap-19 [**2161-4-4**] 10:10AM BLOOD Calcium-8.7 Phos-3.1 Mg-2.1  [**2161-4-4**] 10:10AM BLOOD CK(CPK)-29* cTropnT-<0.01 [**2161-4-9**] 07:45PM BLOOD CK-MB-NotDone cTropnT-<0.01 [**2161-4-10**] 12:45AM BLOOD CK-MB-NotDone cTropnT-<0.01  [**2161-4-4**] 10:19AM BLOOD Lactate-2.4* [**2161-4-4**] 03:11PM BLOOD Lactate-0.6  Thoracentesis related: [**2161-4-12**] 05:16AM BLOOD ALT-32 AST-27 LD(LDH)-222 AlkPhos-106 Amylase-28 TotBili-0.3 Lipase-18 [**2161-4-13**] 07:00AM BLOOD LD(LDH)-120 TotBili-0.3 DirBili-0.1 IndBili-0.2 [**2161-4-13**] 07:00AM BLOOD Hapto-429*  Discharge: [**2161-4-16**] 06:50AM BLOOD WBC-3.8* RBC-3.47*# Hgb-9.7*# Hct-30.3* MCV-87 MCH-28.0 MCHC-32.1 RDW-14.3 Plt Ct-408  [**2161-4-13**] 07:00AM BLOOD PT-13.9* PTT-36.3* INR(PT)-1.2*  [**2161-4-16**] 06:50AM BLOOD Glucose-83 UreaN-6 Creat-0.7 Na-143 K-3.9 Cl-107 HCO3-26 AnGap-14 [**2161-4-15**] 06:40AM BLOOD Calcium-7.5* Phos-2.1* Mg-1.8  ECG [**2161-4-4**]  10:06:48 AM Supraventricular tachycardia at 152 bpm.
+PLEURAL FLUID Procedure Date of [**2161-4-14**] NEGATIVE FOR MALIGNANT CELLS.
+Reactive mesothelial cells, inflammtory cells and proteinaceous debris.
+MICROBIOLOGY While inpatient, patient had numerous blood cultures, urine cultures and a pleural fluid culture, all of which were negative or no growth to date upon discharge.
+Right upper lobe and right lower lobe patchy opacification with air bronchograms consistent with multi-focal pneumonia.
+Stable right middle lobe collapse secondary to central obstructing mass.
+Interval increase in the right hilar mass with increased attenuation of the right main bronchus, right pulmonary artery and right pulmonary veins.
+Large right basal effusion with increased interstitial markings in the right lung and new pulmonary nodules in both lungs consistent with disease progression.
+No central or segmental pulmonary emboli; however, subsegmental pulmonary emboli in the right lower lobe cannot be excluded.
+CHEST (PA & LAT)  [**2161-4-11**] 10:02 AM Increasing right-sided pleural effusion with possible superimposed airspace disease in the right lower lobe.
+Patchy opacity in the right suprahilar area.
+Increased interstitial markings.
+No pneumothorax.
+CHEST (PORTABLE AP)  [**2161-4-14**] 10:39 AM In comparison with study of [**4-13**], there has been the removal of substantial fluid from the right hemithorax.
+Specifically, no evidence of pneumothorax.
+Brief Hospital Course: 69 year-old man with a recent diagnosis of squamous cell lung cancer, presenting with shortness of breath and weakness in the setting of recently diagnosed malignancy and atrial flutter with a rapid ventricular rate.
+# Atrial flutter / atrial fibrillation with RVR: He required cardioversion in the ED and had subsequent episodes of low BP with atrial flutter.
+Diltiazem worked well, however, significant hypotension occurred with SBP down to the 70s, prompting discontinuation of the IV diltiazem.
+He also seemed to have a pneumonia.
+Following arrival on [**Hospital Ward Name 121**] 3, he had one episode of sustained atrial flutter at 150 bpm on [**2161-4-9**] AM after ambulating; this spontaneously resolved to sinus rhythm in the 80s.
+From that point onwards, he was predominantly in sinus rhythm with intermittent atrial pacing with two episodes of atrial fibrillation with RVR on [**4-12**] which resolved with fluid and Mg.
+# Anemia: There was a downward trend of his Hct since admission.
+Prior iron studies were consistent with anemia of chronic disease with low iron, low TIBC and normal ferritin.
+There was also some blood loss due to recent hemoptysis.
+Reticulocyte 2.1, inappropriately low, consistent with marrow suppression.
+He was transfused 2 unit PRBC on [**4-15**] for Hct to 23 for symptomatic benefit.
+# Pneumonia, post-obstructive: Upon admission, oxygen saturation was excellent on room air and he had a normal WBC.
+Given his recent hospitalization, he was treated for hospital acquired pneumonia with vancomycin/Zosyn, Day 1 was [**2161-4-5**].
+He continued to complain of worsening cough and failure to improve, likely secondary to post-obstructive physiology.
+Imaging revealed loculation concerning for empyema rather than effusion.
+Pleural fluid analysis revealed negative Gram stain, labs inconsistent with empyema and a negative fluid culture.
+We had numerous discussions about continued pneumonia given his obstructing tumors.
+# Fever [**4-14**]: No localizing symptoms beyond pulmonary disease.
+This was in the setting of bronchoscopy earlier in the day, and post-bronchoscopy fever is not uncommon.
+He had no leukocytosis or further fevers.
+He received Compazine for 3 days with fair relief but began to complain of urinary retention symptoms, a known side effect, so this was discontinued.
+We also considered Haldol rather than Zyprexa, but this medication may interact with Amiodarone causing Q-T prolongation and Torsades de [**Last Name (un) **].
+# Hypotension: Triggered [**4-11**] for temp 101.2, Atrial flutter with HR 160s, hypotension to 80s.
+Concern was initially for SIRS/SEPSIS, and interventional pulmonary was contact[**Name (NI) **] about possible bronchoscopy/thoracentesis.
+No changes were made in antibiotics, no new culture data returned.
+He had a similar episode after his thoracentesis [**4-14**] after removal of 1.8 L.  This was thought to be secondary to fluid shifts with concomitant poor oral intake.
+Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every 6 hours) as needed for fever, pain.
+Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every 6 hours) as needed for fever or pain: Can be purschased over the counter.
+Morphine 10 mg/5 mL Solution Sig: [**2-10**] mL PO Q6H (every 6 hours) as needed for dyspnea or pain not relieved by Tylenol: [**Month (only) 116**] be helpful when you feel short of breath.
+Disp:*500 mL* Refills:*6*  Discharge Disposition: Home With Service  Facility: [**Hospital 13684**] Hospice  Discharge Diagnosis: 1) Atrial flutter and atrial fibrillation with rapid ventricular response 2) Bradycardia requiring permanent pacemaker implantation 3) Hypotension 4) Fever 5) Lung Cancer 6) Pneumonia 7) Nausea 8) Pleural effusion 9) Anorexia 10) Anemia  Discharge Condition: Hemodynamically stable and afebrile.
+Discharge Instructions: You were admitted with increased shortness of breath.
+You were found to have a rapid heart rate called atrial fibrillation and a pneumonia.
+You were treated with antibiotics and a pacemaker was placed to help with your heart rhythm.
+Your lungs had excess fluid in them and some collapse because of your tumor.
+You had a stent placed, and the fluid drained.
+Seek medical help if you notice chest pain, worsened difficulty breathing, fever, chills, nausea, vomiting, bloody sputum, worsened cough, overall worsening of your condition or for any other symptom which is concerning to you.

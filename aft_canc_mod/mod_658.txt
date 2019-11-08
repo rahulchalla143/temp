@@ -1,0 +1,49 @@
+Admission Date:  [**2162-5-2**]              Discharge Date:   [**2162-5-11**]  Date of Birth:  [**2105-11-8**]             Sex:   F  Service: NEUROLOGY  Allergies: Taxol  Attending:[**First Name3 (LF) 8850**] Chief Complaint: Peripheral Edema.
+History of Present Illness: Ms. [**Known firstname 1439**] [**Known lastname **] is a 56-year-old woman with history of metastatic breast cancer affecting brain and lungs, sarcoidosis, coagulopathy, presenting with lower extremity edema for the last 3 weeks.
+Patient reports that she has noticed the lower extremity edema since starting dexamethasone as part of her chemotherapy, as was noted in her neuro-oncology visit note.
+Patient reports she began having pain in her right leg that was worse with walking.
+She also reports having "cold like symptoms" with a [**Known lastname **] and some runny nose, denies any fevers or chills.
+Past Medical History: ONCOLOGICAL HISTORY: Breast cancer with metastases to cerebellum -completed whole brain cranial irradiation on [**2160-8-6**], -s/p a third ventriculostomy by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], M.D.
+on [**2161-4-22**], -s/p Cyberknife radiosurgery on [**2161-4-30**] to a left cerebellar metastasis to 1,800 cGy at 82% isodose line and to a right cerebellar metastasis to 1,600 cGy at 73% isodose line on [**2161-4-30**], and -has been getting lapatinib and carboplatin every 3 weeks since [**2161-9-11**] for her progressive disease; delayed because of her surgeries.
+OTHER PAST MEDICAL HISTORY: h/o Factor VIII deficiency Hypertension Sarcoidosis s/p Right lumpectomy [**2146**], L lumpectomy [**2149**] s/p Lung biopsy [**2156**]  Social History: She does not smoke cigarettes, drink alcohol or use illicit drugs.
+She has 2 uncles, one died of smoking-related lung cancer while another is alive with non-smoking-related cancer.
+?F) HR: 118 (118 - 118) bpm BP: 142/88(101) {142/88(101) - 142/88(101)} mmHg RR: 7 (7 - 7) insp/min SpO2: 90% Heart rhythm: ST (Sinus Tachycardia)  PHYSICAL EXAMINATION GENERAL: Pleasant, well appearing woman with cushinoid features.
+No conjunctival pallor.
+No scleral icterus.
+No murmurs, rubs or gallops LUNGS: Decreased breath sounds at right base, (+) Egophony.
+No HSM EXTREMITIES: Massive lower extremity edema to the thigh.
+Motor Examination: She does not have a drift.
+| AMPICILLIN------------   <=2 S NITROFURANTOIN--------  <=16 S TETRACYCLINE----------  =>16 R VANCOMYCIN------------   <=1 S ------------ ==================  IMAGING STUDIES: [**2162-5-1**] LENIs: No DVT  [**2162-5-1**] CTA chest: 1.
+No definite evidence of pulmonary emboli.
+Extensive lung masses and nodules involving both lungs, which appears to have increased when compared to prior exam.
+Some of these masses appear to encase the distal segmental pulmonary arteries.
+Extensive ground-glass opacity and septal thickening.
+This could represent lymphangitic spread or edema.
+Hypodense lesions in the liver concerning for metastasis and fluid within the perihepatic space.
+Sclerotic lesions in the lower thoracic vertebral bodies with compression deformities.
+Large left pleural effusion and small right pleural effusion.
+Unchanged small hyperdense foci in the right cerebellar hemisphere within a known metastasis.
+Otherwise, no acute hemorrhage.
+The extent of metastatic disease is better assessed on the [**2162-4-26**] MRI.
+Attenuation of the intrahepatic IVC due to extensive hepatic metastatic disease, without evidence of severe stenosis or thrombus.
+Known pulmonary metastases.
+Worsened ground-glass opacity within the right middle and lower lobes which may represent edema or tumor spread.
+Decreased size of right pleural effusion which is now moderate.
+Unchanged small left pleural effusion.
+Osseous metastatic disease with T9 vertebral body compression fracture.
+Brief Hospital Course: This is a 56-year-old woman with metastatic breast cancer to bone, lung and brain, presenting with worsening lower extremity edema, found to be hypoxic and with new large right pleural effusion.
+The patient did not have a fever, had minimal [**Last Name (LF) **], [**First Name3 (LF) **] pneumonia seemed less likely, and CTA was negative for PE.
+Since the patient did have significantly increased size of her pulmonary metastases it seemed the most likely cause of the pt's hypoxia was the metastasis combined with the large right pleural effusion.
+Despite therapeutic thoracentesis patient has continued to have a [**5-16**] liter oxygen requirement.
+CXR on [**2162-5-5**] demonstrated some re-accumulation of the right sided pleural effusion and interval increase in the left sided pleural effusion.
+(2) LOWER EXTREMITY EDEMA:  On admission the patient had bilateral pitting edema to the thighs, with petechiae on the right side that appeared to be dependent petechiae.
+Given history of liver mets near the IVC there was concern for obstruction of venous return, though abdominal imaging did not demonstrate any IVC obstruction though the read did comment on intra-hepatic attenuation of the IVC likelyy due to extensive liver metastases.
+The patient also had an X-ray of the right ankle as it was quite tender on admission, and the X-ray was negative for fracture and foreign body.
+(3) METASTATIC BREAST CANCER:  OMED team in contact with primary oncologist Dr. [**Known lastname **] [**Last Name (NamePattern1) 15759**] who did not support further chemotherapy given patient's poor prognosis.
+(4) URINARY TRACT INFECTION:  On admission on [**2162-5-2**] the patient was started on Levaquin for a three-day course of antibiotic treatment for UTI.
+However, urine grew enterococcus so patient started on vancomycin which was changed to amoxicillin to complete a 7 day course.
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+Docusate Sodium 100 mg Tablet Sig: One (1) Tablet PO twice a day as needed for constipation.
+Disp:*60 Tablet(s)* Refills:*2*  Discharge Disposition: Home With Service  Facility: [**Hospital 3005**] Hospice  Discharge Diagnosis: Primary: Metastatic Pleural Effusions, Urinary Tract Infection Secondary: Metastatic Breast Cancer, Hypertension, Sarcoidosis, Factor VIII Deficiency   Discharge Condition: Stable  Discharge Instructions: You were admitted to the hospital for work up of your low blood oxygen level and lower extremity swelling.
+We determined that you had fluid around your lungs and some of this fluid was drained.
+During your admission we also found that you had a urinary tract infection which was treated.

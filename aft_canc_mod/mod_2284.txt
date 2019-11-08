@@ -1,0 +1,41 @@
+Admission Date:  [**2127-4-30**]              Discharge Date:   [**2127-5-19**]  Date of Birth:  [**2077-3-25**]             Sex:   M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 3984**] Chief Complaint: respiratory failure, pneumonia, hypovolemia  Major Surgical or Invasive Procedure: lumbar puncture   History of Present Illness: ATTENDING ADMISSION NOTE Date: [**2127-4-30**] Time: 2300 ___________________________________________________ PCP: [**First Name8 (NamePattern2) 2048**] [**Last Name (NamePattern1) 4223**], Onc: [**Last Name (LF) **], [**First Name3 (LF) **] (thoracics) .
+50 yo M with T3N2 squamous cell esophageal cancer s/p Ivor-[**Doctor Last Name **] esophagectomy in [**9-/2126**], chemo/XRT and CT in [**2-17**] with new para-aortic LAD concerning for disease progression, lingular opacity now presenting with 3 weeks of cough productive of yellowish sputum-->vomiting.
+He denies dysphagia or odynophagia.
+His cough has been productive and he has had left sided chest pain.
+No fever, nightsweats.
+He has not had abdominal pain, nausea.
+He currently complains of left-sided, pulsating headache without radiation, no acute visual change.
+Past Medical History: HTN esophageal cancer s/p chemoradiation h/o Tobacco abuse h/o Alcohol abuse Dyslipidemia  ONC history: Esophageal cancer stage (T3N2M0) poorly differentiated with squamous features with progressive disease - [**2126-6-6**] Admitted with dysphagia and odynophagia which was started 6 months PTA and had progressed over the past month.
+He had an out pt barium swallow which showed an ulcerating mass at the distal esophagus.
+During this hospital stay ([**Date range (1) 43748**]), he had an EUS which revealed T3N2 disease with a 3x1 cm mass in the lower third of the esophagus and GE junction involving the mucosa, submucosa, the muscularis and adventitia.
+There were 4 lymph nodes in the peri-gastric and para-esophageal region which were unable to be sampled but were suspicious for malignancy.
+Biopsy of the mass revealed poorly differentiated carcinoma with focal squamous differentiation.
+PET/CT scan showed FDG activity in the primary mass and peri-aortic lymph nodes as well as a suspicious area in the left upper quadrant small bowel (unclear significance).
+- [**2126-6-18**] Portacath placed - [**2126-6-20**] Radiation simulation in preparation to start neoadjuvant chemoradiation - [**2126-6-24**] to [**2126-6-29**] Elective admission for C1 cisplatin 75mg/m2 D1 and continuous 5FU 1000mg/m2 D1-4 with concomitant XRT q28 days - [**2126-7-23**] C2 cisplatin 75mg/m2 D1 and continuous 5FU 1000mg/m2 D1-4 with concomitant XRT q28 days - [**2126-7-31**] Completed XRT - [**2126-8-16**] to [**2126-8-30**] Admission for dehydration and malnutrition.
+- [**2126-8-22**] EGD with radiation esophagitis, no obvious recurrence - [**2126-9-23**] PET CT showed new FDG-avid celiac lymph node concerning for nodal metastasis as well as decreased uptake in treated esophageal cancer.
+- [**2126-9-25**] Esophagectomy showed poorly-differentiated squamous cell carcinoma of the esophagus, 9 of 16 lymph nodes positive for carcinoma - [**2126-10-1**] Barium swallow with no leak, good gastric emptying - [**2126-12-4**] CT torso showed several celiac axis nodes, the largest of which measures 12 mm.
+- [**2127-2-10**] CT torso showed new left para-aortic lymphadenopathy as well as increase in previously noted celiac axis lymphadenopathy consistent with disease progression.
+Family History: Mother - cancer, type unknown by pt.
+Physical Exam: T 99 P 104 BP 100/63 RR 18 O2Sat 99% RA GENERAL: pleasant, non-toxic, mentating clearly Eyes: NC/AT, PERRL, EOMI, no scleral icterus noted Ears/Nose/Mouth/Throat: MMM, no lesions noted in OP Neck: supple, no JVD or carotid bruits appreciated Respiratory: RLL expiratory wheeze, left lung CTA Cardiovascular: Reg, tachy S1S2, 4/6 systolic murmur Gastrointestinal: soft, NT/ND, + bowel sounds, no masses or organomegaly noted.
+Genitourinary: no flank tenderness Skin: R forearm tatoo, no rashes or lesions noted.
+No pressure ulcer.
+small subcutaneous nodule in soft tissue of R shoulder Extremities: No C/C/E bilaterally, 2+ radial, DP and PT pulses b/l.
+Able to relate history without difficulty.
+No abnormal movements noted.
+There is a gastric pull-up, which accounts for widening of the right side of the mediastinum.
+There is a consolidation involving the left upper lobe which layers along the major fissure.
+In addition, there is patchy opacification in the posterior portions of the lungs.
+There is no pleural effusion or pneumothorax.
+IMPRESSION:  Findings consistent with multifocal pneumonia.
+[**2127-5-3**]  SPUTUM GRAM STAIN-PENDING; RESPIRATORY CULTURE-PENDING; ACID FAST SMEAR-PENDING; ACID FAST CULTURE-PENDING [**2127-5-3**] urine culture pending [**2127-5-3**]  BLOOD CULTURE PENDING [**2127-5-3**]  BLOOD CULTURE PENDING [**2127-5-2**]  Blood (Toxo) TOXOPLASMA IgG ANTIBODY-PENDING [**2127-5-2**]  CSF;SPINAL FLUID GRAM STAIN-FINAL; FLUID CULTURE-PRELIMINARY [**2127-5-1**]  SPUTUM GRAM STAIN-NEGATIVE; RESPIRATORY CULTURE-FINAL; FUNGAL CULTURE-PRELIMINARY; ACID FAST SMEAR-NEGATIVE; ACID FAST CULTURE-PRELIMINARY [**2127-4-30**]  BLOOD CULTURE PENDING [**2127-4-30**]  BLOOD CULTURE PENDING  [**2127-5-2**] Barium Swallow: Focal narrowing at the gastroesophageal anastomosis, similar to prior fluoroscopic examination, but no evidence of obstruction at this region, or leak.
+A small 0.8 x 0.9 cm ring enhancing lesion in the right parietal lobe, posterior parasagittal in location without significant surrounding edema or mass effect.
+However, infectious, inflammatory or subacute ischemic etiology related lesions can also look similar.
+[**2127-5-2**] 01:30PM CEREBROSPINAL FLUID (CSF) TOXOPLASMA GONDII BY PCR-PND [**2127-5-2**] CEA DONE  cxr [**2127-5-17**] There is complete opacification in left lung.
+There is an endotracheal tube whose distal tip is approximately 4.5 cm above the carina.
+There are again seen multifocal opacities within the right lung which are stable.
+There are no pneumothoraces.
+Brief Hospital Course: 50 yo M with T3N2 squamous cell esophageal cancer s/p Ivor-[**Doctor Last Name **] esophagectomy in [**9-/2126**], chemo/XRT and CT in [**2-17**] with new para-aortic LAD concerning for disease progression, lingular opacity now presenting with 3 weeks of productive cough, vomiting, weight loss, hypovolemia and found to have multi-focal PNA.
+Staging CT scan revealed LUL collapse, concerning for obstructing mass, with bronchoscopy complicated by desaturation, tachycardia, hypotension, requiring MICU admission.
+Pt went for bronchoscopy, and post-procedure was hypotensive and in SVT in 150s.
+He initially did well off the vent, but had persistent aspiration/vomitting secondary to malignancy and once again, he went into respiratory distress requiring reintubation.
+Ultimately, his entire left lung collapsed secondary to bronchial compression from tumor burden and it was determined that he would not be able to be weaned off of the mechanical ventilation.

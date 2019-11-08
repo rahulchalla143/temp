@@ -1,0 +1,51 @@
+Admission Date:  [**2188-9-25**]              Discharge Date:   [**2188-10-3**]  Date of Birth:  [**2126-5-25**]             Sex:   M  Service: CARDIOTHORACIC  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 165**] Chief Complaint: Chest Pain  Major Surgical or Invasive Procedure: [**2188-9-26**] - Cardiac Catheterization [**2188-9-29**] - CABGx5(LIMA->LAD, SVG->Diag, OM1, OM2, PDA)   History of Present Illness: 62 yo male w/ CAD (IMI in [**2160**]), Polycythemia [**Doctor First Name **] with recent development of anemia due to entering "spent phase", dyslipidemia (low HDL, high TG, good total cholesterol and LDL), admitted through ED for chest pressure with ST depression in inferior lateral leads.
+Found to have worse anemia with Hct 23.9 and troponin leak (0.2).
+Now asymptomatic, denies chest pressure, dyspnea, lightheadedness, abd pain or bloating, or leg swelling.
+Past Medical History: Polycythemia [**Doctor First Name **], CAD, MI in [**2161**], gout, hypercholesterolemia, low HDL, HTN   Social History: Accountant at [**Hospital1 18**].
+No carotid bruits.
+Lungs clear w/o wheezing or crackles.
+No hepatomegaly.
+No peripheral edema.
+No joint swelling or tenderness.
+Slightly erythematous macular rashes on chest and upper back with scaly surface, no vesicles, c/w tinea versicolor.
+Selective coronary angiography of this right-dominant system  revealed three-vessel coronary artery disease.
+The LMCA was without stenoses.
+The LAD had a 90% stenosis at D1.
+The LCX had a proximal 50% stenosis and was totally occluded after OM1 with left-to-left collaterals filling the distal vessel.
+The RCA was occluded proximally with left-to-right collaterals filling the distal vessel.
+Limited resting hemodynamics demonstrated mildly elevated left ventricular end-diastolic pressures (28 mmHg) but normal early diastolic pressures (8 mmHg) consistent with diastolic dysfunction.
+There was no aortic stenosis.
+Left ventriculography demonstrated a preserved ejection fraction of 60%, with mild inferior hypokinesis.
+No mitral regurgitation was seen.
+No spontaneous echo contrast or thrombus is seen in the body of the left atrium or left atrial appendage.
+No atrial septal defect is seen by 2D or color Doppler.
+There are simple atheroma in the descending thoracic aorta.
+There is no aortic valve stenosis.
+No aortic regurgitation is seen.
+Mild (1+) mitral regurgitation is seen.
+6.There is no pericardial effusion.
+Biventricular systolic function is unchanged.
+Mild mitral regurgitation persists.
+Numerous indwelling devices have been removed, with no evidence of pneumothorax.
+Worsening atelectasis at left lung base with elevation of the left hemidiaphragm and probable small right effusion.
+Minor areas of patchy and linear atelectasis in the right mid and lower lung are also demonstrated.
+DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 5785**] Approved: WED [**2188-10-1**] 5:10 PM  [**Hospital1 18**] ECHOCARDIOGRAPHY REPORT  [**Known lastname **], [**Known firstname 27719**]       [**Hospital1 18**] [**Numeric Identifier 27722**] (Complete) Done [**2188-9-29**] at 3:02:11 PM      FINAL Referring Physician     [**Name9 (PRE) **] Information [**Name9 (PRE) **], [**First Name3 (LF) **] Division of Cardiothoracic [**Doctor First Name **] [**First Name (Titles) **] [**Last Name (Titles) **] [**Hospital Unit Name 4081**] [**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2126-5-25**] Age (years): 62 M  Hgt (in): 67 BP (mm Hg): 145/67  Wgt (lb): 150 HR (bpm): 76  BSA (m2): 1.79 m2 Indication: Intraop evaluation of cardiac function for CABG ICD-9 Codes: 786.51, 440.0, 424.0 Test Information Date/Time: [**2188-9-29**] at 15:02    Interpret MD: [**Name6 (MD) 1509**] [**Name8 (MD) 1510**], MD Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3319**], MD Doppler: Full Doppler and color Doppler Test Location: Anesthesia West OR cardiac Contrast: None Tech Quality: Adequate Tape #: 2008AW-:1 Machine: [**Doctor Last Name **] 3d Echocardiographic Measurements Results  Measurements  Normal Range Left Ventricle - Diastolic Dimension:  5.0 cm  <= 5.6 cm Left Ventricle - Systolic Dimension:  3.5 cm Left Ventricle - Fractional Shortening:  0.30  >= 0.29 Left Ventricle - Ejection Fraction:  55%  >= 55% Aorta - Annulus:  1.9 cm  <= 3.0 cm Aorta - Ascending:  3.0 cm  <= 3.4 cm Aortic Valve - Peak Gradient:  7 mm Hg  < 20 mm Hg  Findings LEFT ATRIUM: Normal LA size.
+No spontaneous echo contrast or thrombus in the body of the [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] LAA.
+No ASD by 2D or color Doppler.
+Simple atheroma in descending aorta.
+No spontaneous echo contrast or thrombus is seen in the body of the left atrium or left atrial appendage.
+No atrial septal defect is seen by 2D or color Doppler.
+There are simple atheroma in the descending thoracic aorta.
+There is no aortic valve stenosis.
+No aortic regurgitation is seen.
+Mild (1+) mitral regurgitation is seen.
+6.There is no pericardial effusion.
+Biventricular systolic function is unchanged.
+Mild mitral regurgitation persists.
+He was found to be anemic with a positive troponin indicating a non-ST-elevation myocardial infarction.
+He had a slight rise in his creatinine, but this was decreasing on discharge.
+Particle/Crystal(s)* Refills:*0*   Discharge Disposition: Home With Service  Facility: [**Hospital1 1474**] VNA  Discharge Diagnosis: CAD s/p CABGx5 LIMA-LAD,SVG-Diag, SVG-OM1-OM2, SVG-PDA [**9-29**] HTN Dyslipidemia Polycythemia [**Doctor First Name **] Rt eye surgery Myelopysplasia   Discharge Condition: good   Discharge Instructions: 1)  Monitor wounds for signs of infection.
+These include redness, drainage or increased pain.
+In the event that you have drainage from your sternal wound, please contact the [**Name2 (NI) 5059**] at ([**Telephone/Fax (1) 1504**].
+4)  No lotions, creams or powders to incision until it has healed.
+Gently pat the wound dry.

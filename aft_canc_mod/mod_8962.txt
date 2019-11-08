@@ -1,0 +1,3 @@
+HOSPITAL COURSE FROM [**2138-8-19**] TO [**2138-9-2**]:  The patient was scheduled to go home on [**2138-8-19**], however, developed respiratory distress and increased sputum secretions and was transferred to the Intensive Care Unit.
+A Pulmonary consult by Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1614**] was obtained and, after thorough evaluation, Dr. [**Last Name (STitle) 1614**] and Dr. [**Last Name (STitle) 384**] felt that [**Known firstname **] [**Known lastname **] had aspirated and was continuing to aspirate.
+With aggressive pulmonary toilet, physiotherapy, intravenous antibiotics, we eventually cleared her infection and improved her pulmonary status to the point where she was on two liters of oxygen.

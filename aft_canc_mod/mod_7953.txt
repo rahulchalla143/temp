@@ -1,0 +1,73 @@
+Admission Date:  [**2132-7-6**]              Discharge Date:   [**2132-7-16**]  Date of Birth:  [**2047-7-25**]             Sex:   M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 1185**] Chief Complaint: Subarachnoid hemorrhage   Major Surgical or Invasive Procedure: PICC catheter placement   History of Present Illness: The patient is an 84 year old male with a history of CLL being treated with Rituxan who fell from bed early yesterday morning.
+Per his wife, he was having fevers for several days prior, without any localizing symptoms.
+He was initially seen at [**Hospital3 **], where CT head showed extensive subarachnoid hemorrhage.
+He was febrile to 101.1 and noted to be hypokalemic and given oral potassium repletion.
+On arrival to [**Hospital1 18**], the patient denied chest pain, shortness of breath, or abdominal pain.
+This showed extensive bilateral subarachnoid hemorrhage as on prior from OSH, with no evidence of intracranial aneurysm and patent major vessels.
+He was noted to have neutropenia with ANC <1 and hypokalemia with K 2.7.
+CXR showed bibasilar opacities likely atelectasis though aspiration could not be excluded.
+He was given a dose of Cefepime for empiric febrile neutropenia coverage.
+Once in the ICU, the patient denied chest pain, cough, or sputum production.
+He denies any abdominal pain, nausea, or vomiting.
+He does recall that he had a single day of diarrhea about 3-4 days previous, which he says is very atypical for him.
+He does not remember falling out of his bed, but does remember the trip to the hospital afterwards.
+Review of systems: (+) Per HPI (-) Denies headache, sinus tenderness, rhinorrhea, or congestion.
+Denies cough, shortness of breath, or wheezing.
+Denies chest pain, chest pressure, palpitations, or weakness.
+Denies nausea, vomiting, diarrhea, constipation, abdominal pain, or changes in bowel habits.
+Denies dysuria, frequency, or urgency.
+Denies rashes or skin changes.
+Past Medical History: # Hypertension # Seizures # CLL -- currently undergoing treatment with bendamustine/rituximab # BPH # Restless legs   Social History: # Home: He lives with his wife.
+# Tobacco: None # Alcohol: None # Illicits: None   Family History: Noncontributory   Physical Exam: ADMITTING PHYSICAL EXAM: Vitals: T 102.7, BP 134/57, HR 117, RR 23, SpO2 97% on RA General: Alert, oriented x3, no acute distress HEENT: Sclera anicteric, MMM, oropharynx clear Neck: Supple, JVP not elevated Lungs: Clear to auscultation bilaterally.
+No rebound tenderness or guarding.
+No lower extremity edema.
+At the time of discharge, he has been afebrile for 4 days, normotensive with BPs in the 130/80 range, HR in the 80-100 range (sinus), sat ~95 on room air.
+He becomes intermittently confused, but not agitated, overall delirium has been clearing the last 2 days.
+[**2132-7-13**] BLOOD CULTURE Blood Culture, Routine-PENDING INPATIENT [**2132-7-12**] BLOOD CULTURE Blood Culture, Routine-PENDING INPATIENT [**2132-7-12**] URINE URINE CULTURE-FINAL INPATIENT [**2132-7-12**] BLOOD CULTURE Blood Culture, Routine-PENDING INPATIENT [**2132-7-11**] BLOOD CULTURE Blood Culture, Routine-PENDING INPATIENT [**2132-7-10**] BLOOD CULTURE Blood Culture, Routine-FINAL INPATIENT [**2132-7-10**] BLOOD CULTURE Blood Culture, Routine-FINAL INPATIENT [**2132-7-10**] URINE URINE CULTURE-FINAL INPATIENT [**2132-7-9**] BLOOD CULTURE Blood Culture, Routine-FINAL INPATIENT [**2132-7-8**] BLOOD CULTURE Blood Culture, Routine-FINAL INPATIENT [**2132-7-7**] BLOOD CULTURE Blood Culture, Routine-FINAL INPATIENT [**2132-7-6**] MRSA SCREEN MRSA SCREEN-FINAL INPATIENT [**2132-7-6**] BLOOD CULTURE Blood Culture, Routine-FINAL {LISTERIA MONOCYTOGENES}; Anaerobic Bottle Gram Stain-FINAL EMERGENCY [**Hospital1 **] [**2132-7-6**] URINE URINE CULTURE-FINAL EMERGENCY [**Hospital1 **] [**2132-7-6**] BLOOD CULTURE Blood Culture, Routine-FINAL {LISTERIA MONOCYTOGENES}; Aerobic Bottle Gram Stain-FINAL; Anaerobic Bottle Gram Stain-FINAL EMERGENCY .
+================= IMAGING: ================= CTA HEAD ([**2132-7-6**]): WET READ: Extensive bilateral subarachnoid hemorrhage as on prior from OSH.
+No evidence of intracranial aneurysm with patent major vessels.
+CHEST PA&LAT ([**2132-7-6**]):FINDINGS: Elevated left hemidiaphragm is noted.
+Cardiomegaly is noted; however, this could be reflective of low lung volumes.
+No pleural effusion or pneumothorax seen.
+CT HEAD ([**2132-7-7**]): SAH grossly unchanged with small amount of hemorrhage in occipital [**Doctor Last Name 534**] of right lateral ventricle, likely redistribution of blood.
+No shift of midline structures or central herniation .
+No atrial septal defect is seen by 2D or color Doppler.
+There is mild symmetric left ventricular hypertrophy with normal cavity size and regional/global systolic function (LVEF>55%).
+There is no ventricular septal defect.
+The aortic root is mildly dilated at the sinus level.
+No masses or vegetations are seen on the aortic valve.
+There is mild aortic valve stenosis (valve area 1.2-1.9cm2).
+Trace aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+There is no mitral valve prolapse.
+No mass or vegetation is seen on the mitral valve.
+Trivial mitral regurgitation is seen.
+The tricuspid valve leaflets are mildly thickened.
+There is mild pulmonary artery systolic hypertension.
+No vegetation/mass is seen on the pulmonic valve.
+There is a small to moderate sized pericardial effusion (mainly posterior).
+There are no echocardiographic signs of tamponade.
+CT head ([**7-13**]): Interval mild decrease in bilateral subdural and subarachnoid and prenchymal hemorrhages.
+No new areas of hemorrhage.
+lucent lesion in the left parietal bone- attention on followup.
+# Febrile Neutropenia, Bacteremia, CLL He was reportedly febrile for several days prior to his presentation, and was febrile to 102.7 on arrival in the ICU.
+Given the presence of a murmur on exam and bacteremia, patient underwent TTE, which revealed no vegetations.
+He has a hx of temporal lobe seizures and seized on [**7-13**].
+Because penicillin is thought to be more eliptogenic than ampicillin, he was swtiched bact to ampicillin q4h with the intention of treating for a total course of 4 weeks starting the day his neutropenia resolved ([**Date range (1) 91546**]).
+Oncology was consulted regarding management of CLL and neutropenia.
+Neupogen was started on [**7-9**], his counts rose and on [**7-13**] he was no longer neutropenic.
+# Subarachnoid Hemorrhage: He developed an extensive SAH and SDH after fall from his bed at home with headstrike.
+CTA brain did not show evidence of an aneurysm.
+Three repeat head CTs showed a grossly unchanged SAH with no shift of midline structures or central herniation.
+# Seizure disorder: continued felbamate.
+# Urinary retention: Had somewhat high post-void residuals.
+# Delirium: After the bulk of the medical issues above stabilized, the patient became delirious on [**7-13**] and [**7-14**], this largely resolved 48 hours prior to discharge.
+8. polyethylene glycol 3350 17 gram/dose Powder Sig: One (1)  PO DAILY (Daily): hold for loose stools.
+11. trazodone 50 mg Tablet Sig: 0.25 Tablet PO HS (at bedtime) as needed for insomnia.
+Discharge Disposition: Extended Care  Facility: [**Location (un) 582**] at [**Location (un) **]  Discharge Diagnosis: Febrile neutropenia Bacteremia, Listeria CLL Subarachnoid and subdural hemorrhages Urinary retention Toxic-metabolic encephalopathy   Discharge Condition: Mental Status: Clear and coherent, difficulty communicating because of non-compliance with hearing aide.
+Mental Status: Confused - sometimes.
+Discharge Instructions: Dear Mr. [**Known lastname 41671**],  You were admitted after a fall in which caused bleeding in and around your brain (subdural and subarachnoid hemorrhage).
+The size of the bleeding remained stable, and the Neurosurgery service felt that no intervention was needed.
+You were found to have a bloodstream infection (with the bacteria Listeria) while your white blood cell count was low.
+You were treated with antibiotics, and should continue antibiotics for a total of 4 weeks.
+You became confused while you were in the hospital, but this cleared spontaneously prior to discharge.

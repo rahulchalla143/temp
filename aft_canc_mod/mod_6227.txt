@@ -1,0 +1,19 @@
+Admission Date:  [**2200-9-3**]              Discharge Date:   [**2200-9-13**]  Date of Birth:  [**2145-5-22**]             Sex:   M  Service: SURGERY  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 1481**] Chief Complaint: Esophageal cancer at GE junction T3, status post neoadjuvant treatment.
+Major Surgical or Invasive Procedure: [**First Name9 (NamePattern2) 12351**] [**Doctor Last Name **] esophagectomy; Microsuspension direct laryngoscopy with vocal cord injection.
+History of Present Illness: Mr. [**Known lastname 80808**] is a 55 y/o M with T3 esophageal cancer at the GE junction treated with neoadjuvant chemoxrt who presented for [**First Name9 (NamePattern2) 12351**] [**Doctor Last Name **] minimally invasive esophagectomy on [**2200-9-4**].
+Past Medical History: Esophageal ca at GE jxn T3, s/p neoadjuvant treatment; Achalsia s/p [**Doctor Last Name **] myotomy; tonsillectomy; PNA; HTN; GERD.
+Level 7 lymph nodes (A, B):   Two lymph nodes with no carcinoma seen (0/2).
+Paraesophageal nodes (C):   Two lymph nodes with no carcinoma seen (0/2).
+Esophageal adenocarcinoma, arising in a background of Barrett's   esophagus with high-grade dysplasia (clinically status post neoadjuvant therapy); residual tumor and pools of acellular mucin identified, focally invasive through the muscularis propria and into the adventitial fibroadipose tissue.
+Margins of excision free of malignancy; tumor is seen present within 3 mm of the inked radial resection margin (slide Q, recut level 1).
+Five additional regional lymph nodes with no carcinoma seen (0/5).
+Uninvolved esophagus with esophagitis and features consistent with neoadjuvant therapy effect; gastric cardiofundic segment with mild chronic, inactive inflammation and no carcinoma seen.
+[**2200-9-9**] Barium thin barium swallow study: No evidence of anastamotic leak.
+He was noted to have some hoarseness post-extubation, which was expectantly managed initially.
+An otolaryngology evaluation was initiated, and laryngoscopy revealed a non-mobile left vocal cord.
+A thin barium swallow study on [**2200-9-9**] (POD#6) showed no evidence of anastamotic leak.
+Docusate Sodium 100 mg Tablet Sig: One (1) Tablet PO BID (2 times a day): Take a stool softener to prevent constipation while on narcotic pain medication.
+Disp:*30 Tablet(s)* Refills:*0*   Discharge Disposition: Home With Service  Facility: [**Last Name (LF) 486**], [**First Name3 (LF) 487**]  Discharge Diagnosis: Status post [**First Name9 (NamePattern2) 12351**] [**Doctor Last Name **] esophagectomy (for T3 esophageal cancer at GE junction).
+No swimming or soaking in a tub for 4 weeks after your surgery.
+Call Dr.[**Name (NI) 1482**] office or come to the Emergency Room if you  have: * fever above 101.5F * nausea, vomiting or diarrhea that doesn't stop * chest pain or difficulty breathing * opening up or drainage from your wound * any other concerning symptoms   Followup Instructions: Please schedule a follow up appointment with Dr. [**Last Name (STitle) **] in one-two weeks.
+Please schedule a follow up appointment with Dr. [**First Name (STitle) **] of ENT in 4 weeks, or earlier if you experience problems with your voice or speaking.

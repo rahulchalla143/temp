@@ -1,0 +1,50 @@
+Admission Date:  [**2181-10-24**]              Discharge Date:   [**2181-11-26**]  Date of Birth:  [**2097-12-11**]             Sex:   M  Service: SURGERY  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 6346**] Chief Complaint: evolving MI after recent LAR complicated by anastomotic leak  Major Surgical or Invasive Procedure: [**2181-10-24**] - cardiac catheterization and placement of bare-metal stents x5 [**2181-10-26**] - percutaneous pelvic drain placement [**2181-11-14**] - bronchoalveolar lavage [**2181-11-15**] - percutaneous pelvic drain placement and paracentesis [**2181-11-16**] - decompressive laparotomy [**2181-11-16**] - abdominal exploration and washout [**2181-11-18**] - abdominal exploration, washout, and closure; placement of open G-tube [**2181-11-19**] - bronchoalveolar lavage  History of Present Illness: [**Known firstname **] [**Known lastname 75196**] is an 83 year old gentleman who underwent lower anterior resection and diverting ileostomy [**2181-10-16**] for rectal carinoma at [**Hospital1 18**]-[**Location (un) 620**].
+He developed feculent output from the intraoperatively placed JP on POD 5, but remained afebrile with stable WBC suggesting appropriate control of the anastomotic leak.
+The WBC rose today, however, and an abdominal CT was planned, but the pt became acutely hypotensive, tachypneic, and diaphoretic this morning.
+[**Street Address(2) 1755**] elevation inferiorly, with ST depressions in lateral leads.
+With a diagnosis of acute inferior myocardial infarction, the patient is being transferred to [**Hospital1 18**]-[**Location (un) 86**] for cardiac catheterization.
+Past Medical History: Diabetes mellitus Dyslipidemia Hypertension CKD Stage III (Cr 1.6-2.1) BPH PVD s/p atherectomy and PTA of left popliteal, TPT and PT s/p tonsillectomy rectal cancer s/p LAR colectomy  Social History: Quit smoking as a teenager, no ETOH, no known chemical exposures.
+Sclera anicteric.
+No thrills, lifts.
+LUNGS: Ant fields CTAB, no crackles, wheezes or rhonchi.
+Midline vertical incision with staples in place; non-oozing, no purulence, C/D/I.
+No HSM or tenderness.
+No abdominial bruits, +BS.
+brown effluent from JP drain in pelvis, ostomy pink with large amt liquid output.
+EXTREMITIES: Trace LE edema (symmetric).
+Cool extremities.
+[**10-24**] BCx: CLOSTRIDIUM SPECIES NOT C. PERFRINGENS OR C. SEPTICUM.
+[**10-24**] cdiff: POSITIVE [**10-25**] cdiff: negative [**10-26**] cath tip: NGTD [**10-26**] BCx: NGTD [**10-26**] presacral fluid cx: BACTEROIDES FRAGILIS [**10-26**] cdiff: negative [**10-27**] sputum: NGTD [**11-5**] MRSA: negative [**11-11**] UCx: NGTD [**11-11**] sputum: KLEBSIELLA OXYTOCA resistant to zosyn, sensitive to cefepime [**11-11**] BCx: NGTD [**11-12**] MRSA: negative [**11-14**] BAL: yeast, KLEBSIELLA OXYTOCA sensitive to cefepime [**11-15**] BCx: pend [**11-15**]: pelvic abscess: YEAST [**11-15**]: ascites: NGTD [**11-15**] BCx (mycolytic): NGTD [**11-15**] BCx (m. furfur): NGTD [**11-17**] BCx: pending [**11-19**] MRSA: negative [**11-20**] urine: NGTD [**11-20**] BAL: KLEBSIELLA OXYTOCA .
+IMAGING: [**10-25**]:CT Torso:anastomotic leak [**10-25**]:ECHO Severe global left ventriculaure systolic function.
+[**10-29**]:White matter hypodensities without mass effect are likely related to chronic small vessel ischemic disease.No evidence intracranial bleed.
+[**11-8**]:pouchogram:No evidence of extraluminal leak.
+[**11-12**] ECHO - EF 35% 12/13 CXR - some increase in the lung volumes [**11-13**] RUQ US - large amt of R intraperit ascites.
+No intrahepatic biliary dilatation.
+[**11-14**]: CT abdomen: anastomatic leak; pelvic drain superficial, likely just subq [**11-16**] CXR: continued opacification in the retrocardiac region consistent with volume loss in the left lower lung [**11-17**] ECHO: similar to prior study from [**11-12**].
+mild to moderate LV systolic dysfunction w/ severe hypokinesis of the inferior/inferiolateral walls.
+LVEF 35% 12/18 CXR: redemonstration of small pleural effusions and increased density in the retrocardiac area c/w atelectasis or consolidation.
+mild vascular congestion vs. low lung volumes.
+[**11-18**] CXR: No significant interval change [**11-18**] KUB: Limited study demonstrating findings consistent with ascites [**11-19**] CXR: Small stable bilateral pleural effusions and associated atelectases with continued mild pulmonary edema [**11-21**] CXR: Increased bilateral pleural effusions, increased moderate pulmonary edema [**11-22**] CXR: maybe mild increase in extent of R pleural effusion.
+[**11-23**]: kidney US shows: no hydronephrosis and color Doppler flow to the kidneys bilaterally [**11-25**] CXR: no other relevant changes .
+The following day an abdominal CT showed a pre-sacral abscess insufficiently controlled by the operatively-placed JP drain, for which a CT-guided pigtail catheter was placed by interventional radiology on [**2181-10-26**].
+LFTs were mildly elevated, with INR ~2.0; a RUQ U/S was negative and presumably due to malnutrition and sepsis.
+The acute component of his renal failure stabilized with creatinines returning close to his baseline, although he continued to have a metabolic acidosis, possibly from intrinsic renal dysfunction and/or from GI losses.
+On [**2181-11-11**], pt developed respiratory distress followed by PEA arrest.
+Pt was intubated and returned to the SICU; presumptive causes were aspiration versus persistent metabolic acidosis.
+Broad spectrum antibiotics were reinstituted due to a new and persistent leukocytosis and low-level pressor requirement.
+A bronchoalveolar lavage revealed a klebsiella PNA, resistant to zosyn, so the zosyn was switched to cefepime.
+Abdominal CT scan revealed persistence of the the anastomotic leak, a residual sacral collection, and dislodgement of the pigtail drain.
+The recent CT also revealed large-volume ascites; abdominal exam revealed significant distension and the ventilator pressures were increased as well.
+[**Name (NI) 1917**], pt developed worsening abdominal distension as well as grossly bloody ileostomy output, with a Hct that was now 17 from 27, and rising pressor requirements.
+He was aggressively resuscitated with transfusions to correct his coagulopathy and anemia, ultimately totalling 10u of PRBC, 10u FFP, and 2u Plt (despite the recent cardiac stents due to life-threatening hemorrhage), as well as vitamin K, over the next 8 hours.
+The ileostomy output ceased but he developed worsening abdominal distension, increasing peak inspiratory pressures, increasing pressor requirements, consistent with an abdominal compartment syndrome.
+He was taken emergently to the OR on [**11-16**] for decompressive laparotomy, evacuation of 6500cc of clot, but no bleeding source could be identified; no bowel ischemia was noted.
+Several oozing sites from the retroperitoneum persisted, these were oversewn, and the abdomen was again packed and left open.
+Echocardiogram revealed no evidence of new MI and cardiology consult agreed, with recommendation to resume antiplatelet therapy once able, which was done one week later.
+The patient did develop atrial fibrillation and hypotension, initially unresponsive to beta-blocker and calcium-channel-blocker but later successfully restored to sinus rhythm after amiodarone and electrical cardioversion x4.
+He remained on two pressors, at stable doses, with [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] monitor utilized for hemodynamic monitoring.
+Worsening pulmonary mechanics consistent with ARDS warranted placement of an esophageal balloon, which enabled increasing the PEEP significantly.
+Later, his renal function declined with rising creatinine and progressive oliguria, leading to worsening volume overload.
+The hepatic failure also continued to evolve, with bilirubins approaching 18.
+In light of the multi-system organ failure and poor prognosis, the pt's HCP declined dialysis and later decided to make the patient CMO.
+Medications on Admission: MEDICATIONS (home): -Cartia XT 180mg daily -Lisinopril 40mg daily -ASA 81mg daily --> stopped 2 weeks ago -Simvastatin 20mg daily -Humalog 75/25 insulin, 22-24 U qAM and 12-22U before supper -NPH [**3-12**] U qHS  MEDICATIONS (on transfer): Midazolam 8mg/hr --> D/C'd en route due to hypotension Fentanyl 50mcg/hr --> D/C'd en route due to hypotension Heparin gtt Norepinephrine IV  Discharge Medications: none  Discharge Disposition: Expired  Discharge Diagnosis: rectal cancer DM HTN anastomotic leak MI sepsis acute-on-chronic renal failure hepatic failure with coagulopathy respiratory failure intraperitoneal hemorrhage  Discharge Condition: expired  Discharge Instructions: not applicable  Followup Instructions: not applicable   Completed by:[**2181-11-27**

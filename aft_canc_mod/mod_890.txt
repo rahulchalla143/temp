@@ -1,0 +1,44 @@
+Admission Date:  [**2142-3-23**]              Discharge Date:   [**2142-4-23**]  Date of Birth:  [**2080-6-29**]             Sex:   F  Service: MEDICINE  Allergies: Penicillins / Sulfa (Sulfonamide Antibiotics) / Hydrochlorothiazide  Attending:[**Last Name (NamePattern1) 4377**] Chief Complaint: Acute myelogenous leukemia  Major Surgical or Invasive Procedure: Central venous line placement PICC line placement  History of Present Illness: 61 y/o F hypertension, hyperlipidemia, and anxiety, presents after referral from [**Hospital1 1474**] for induction chemotherapy for acute myelogenous leukemia.
+Pt initially presented to her PCP for evaluation of persistent fatigue and decreased appetite x 1-2months, and was found to have anemia and abnormal differential on CBC.
+Pt underwent a techinically difficult bone marrow biopsy, and pathology showed hypercellular bone marrow with left-shifted granulopoiesis and increased blasts, consistent with AML.
+Flow cytometry interpretation showed approximately 39% blasts identified, and there were increased monocytic/myelomonocytic cells, suggestive of an M4/M5 subtype of AML.
+Of note, over the past several months, pt reports having 2 episodes of the flu, an episode of pneumonia (diagnosed by CXR, treated with Z-pak with resolution), and UTI (treated with Cipro with resolution.)
+On review of systems, pt reports low-grade fevers and chills following her bone marrow biopsy last week, but none since.
+She reports occasional migraines with visual auras, none at present.
+She reports blurry vision recently, that she has seen an optomeetrist for and was told that she did not need correction.
+She denies hemoptysis, melena, or hematochezia.
+She endorses fatigue and decreased appetite as mentioned above.
+Past Medical History: Hypertension Hyperlipidemia Anxiety Dysfunctional bowel syndrome s/p hysterectomy, cyst removal s/p appendectomy s/p cholecystectomy Bladder suspension surgery with ?R upper thigh nerve impingement:pt says R leg sometimes flops to side Hx breast augmentation (silicone) R face/blepharospasm (extends from R front scalp-> R neck): used to have botox injections, but stopped to try and see if it resolves on its own, last dose ~2months ago   Social History: Pt is a homemaker.
+Another maternal aunt had cervical cancer.
+Physical Exam: VS-T 98.6 BP 140/90 RR 24 HR 70 O2sat 97%RA Gen: awake, alert, NAD, anxious, obese HEENT: PERRL, EOMI, sclera non-icteric, ?canker sore in R upper mouth, otherwise mucous membranes moist without obvious ulcers NECK: supple, no palpable LAD CV: regular rate and rhythm, no murmurs/rubs/gallops, S1 S2 present LUNGS: clear to auscultation bilaterally, no wheezes/rales/rhonchi ABD: soft, non-tender, non-distended, bowel sounds present, no HSM EXT: no cyanosis/clubbing/edema, 2+ DP pulses bilaterally NEURO: CN2-12 intact grossly, strength 5/5 diffusely in extremities x 4, sensation intact grossly, coordination intact GENITAL: lichen sclerosis inside labia majora, no other visible ulcers; ecchymosis with induration over right hip, TTP (site of BM bx); resolving faint ecchymosis over left hip (site of prior pain med injection)   Pertinent Results: Labs on Admission: 138 103 15 96 4.3 24 0.9 .
+Flow Cytometry Report ([**2142-3-21**], paraphrased) Interpretation: Aspirate smears [**Last Name (un) **] increased cellularity without particles.
+There is no evidence of a monotypic B-cell population.
+Presence of increased monocytic and myelomonocytic cells raises the question of an M4/M5 subtype.
+2+ MR. [**Name13 (STitle) **] evidence of endocarditis.
+Worsening of micro-nodules throughout the lungs in a tree-in-[**Male First Name (un) 239**] distribution, suggestive of worsening viral disease.
+Slightly decreased size of small bilateral pleural effusions.
+Unchanged stranding surrounding the sigmoid colon, consistent with subacute diverticulitis.
+Resolution of previously seen mass-like lesion within the cecum which likely represented mixing of fluid and contrast.
+No definite mass identified.
+Brief Hospital Course: 61 y/o F with hypertension, hyperlipidemia, anxiety, presenting with new diagnosis of acute myelogenous leukemia, admitted for 7+3 induction chemotherapy.
+Hospital course complicated by fever, neutropenia, and sepsis secondary to fever and neutropenia (likely etiologies VRE bacteremia, diverticulitis/typhlitis) and pulmonary nodules noted on Chest CT.  # AML: Pt is newly diagnosed with AML, possibly M4/M5 subtype given monocytic predominance on flow cytometry and BM biopsy.
+However, blasts were still present in her bone marrow biopsy and CBC differential after completion of chemotherapy, indicating residual disease.
+#VRE Bacteremia: Hospital course complicated by Vancomycin resistant enterococcal bacteremia (4/4 bottles).
+TTE showed mildly worsened mitral regurgitation, but TEE showed no evidence of endocarditis, mitral valve or otherwise.
+# Diverticulitis/Typhlitis: Treated with 14 day course of meropenem after patient was no longer neutropenic.
+#Pulmonary Nodules: Pt noted to be short of breath and hypoxic with a new oxygen requirement, improved with diuresis with IV lasix.
+Patient briefly required ICU admission for her hypoxia.
+Chest CT showed pulmonary nodules concerning for fungal vs. viral infection.
+Treated initially with albuterol/ipratroprium nebulizers and voriconazole, which was later d/c-ed due to LFT abnormalities and changed to micafungin.
+Patient should have repeat Chest CT I- high resolution 1 week after discharge to assess for stability/interval change of pulmonary nodules.
+# Hypertension: Poorly controlled on patient's home regimen of metoprolol 25 mg PO BID, with SBPs into the 170s-190s.
+# Anxiety: Pt has baseline anxiety, which has been augmented by this new diagnosis.
+Pt may experience decreased PO intake with nausea during chemo course, so would like to wean her off Lexapro for now and address anxiety with PO/IV meds.
+Tapered celexa to 20 mg by mouth daily, and controlled anxiety with Ativan IV/PO as needed.
+Discharged patient on tapered celexa dose with PRN oral ativan, as she may likely need chemotherapy to treat her residual disease and may have difficulty with oral medications (requiring IV meds for anxiety).
+# Silicone breast implant: Noted to have silicone breast implant leakage, stable on mammogram/ultrasound and Chest CT.
+Lorazepam 0.5 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours) as needed for anxiety.
+Disp:*6 units* Refills:*0*   Discharge Disposition: Home With Service  Facility: Critical Care Systems  Discharge Diagnosis: 1' Diagnosis Acute Myelogenous Leukemia Vancomycin Resistant Enteroccocal Bacteremia  2' Diagnosis Pulmonary Nodules of Undetermined Significance Hypertension Anxiety   Discharge Condition: afebrile, hemodynamically stable   Discharge Instructions: You were admitted for chemotherapy for your acute myelogenous leukemia.
+- We decreased your celexa to 20 mg by mouth daily, with ativan as needed for your anxiety.
+This was done as you will likely need more chemotherapy, and as you may have nausea associated with it, we wanted to decrease the number of medications you would need to take orally.
+Please return to the hospital if you have fever > 100.4, chills, nausea, a worsening rash, abdominal pain, diarrhea, cough with sputum production, or any other symptoms not listed here concerning enough to you to warrant physician [**Name Initial (PRE) 2742**].

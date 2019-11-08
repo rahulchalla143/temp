@@ -1,0 +1,34 @@
+Admission Date:  [**2110-9-23**]              Discharge Date:   [**2110-9-24**]  Date of Birth:  [**2038-6-5**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 106**] Chief Complaint: dyspnea  Major Surgical or Invasive Procedure: none  History of Present Illness: Mr. [**Known lastname 3646**] is a 71 year old man with a history of diastolic heart failure (EF 40-45%), critical aortic stenosis, multiple myeloma, amyloidosis, and chronic renal insufficiency who presents with exertional dyspnea worsening over the last 2 weeks or so.
+He has noticed increased abdominal girth over this period, without any abdominal discomfort.
+He vomited once yesterday, and has had some loose stools without melena or hematochezia.
+He denies any difficulties with taking his medications as prescribed, or any increased salt intake.
+He denies fevers, chills, sweats, palpitations, lightheadedness/fainting, chest discomfort, wheezing, leg pains or history of thrombosis.
+He does have a chronic cough not recently worse productive of white sputum, without any hemoptysis.
+Past Medical History: CHF EF 40-45%, diastolic HF AS - valve area <0.8cm2 on [**2110-8-25**] echo CAD DM2 HTN CKD Hyperlipidemia Left atrial appendage thrombus  Social History: The patient is married, lives with wife has children.
+There is no family history of premature coronary artery disease or sudden death.
+No family history of premature coronary artery disease or sudden death.
+Physical Exam: T101.8 P 132 BP 108/55 RR 22 O2 100% on nonrebreather General: Thin elderly man in mild respiratory distress.
+Carotid upstroke brisk bilaterally Pulm: Lungs with slightly decreased breath sounds on R, +wheezes without rales CV: Regular rate S1 S2 II/VI SEM base Abd: Soft +BS, +fluid wave, nontender Extrem: Warm, well perfused with 1+ pitting edema.
+CXR [**9-23**] Right-sided pleural effusion, possibly slightly decreased in size compared to the previous study.
+Patchy density at the right lung base likely reflects atelectasis.
+RUQ Ultrasound [**9-23**] IMPRESSION: Moderate to large ascites with no ultrasound evidence suggestive of acute cholecystitis.
+Moderate to large amount of ascites again noted.
+Doppler waveform consistent with right heart failure.
+P-R interval prolongation.
+Low voltage throughout.
+Borderline intraventricular conduction delay.
+ST-T wave abnormalities.
+ESCHERICHIA COLI.
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              ESCHERICHIA COLI                              |          PSEUDOMONAS AERUGINOSA                              |          | STAPHYLOCOCCUS, COAGULASE N                              |          |          | AMPICILLIN------------  =>32 R AMPICILLIN/SULBACTAM--     8 S CEFAZOLIN-------------   <=4 S CEFEPIME--------------   <=1 S        2 S CEFTAZIDIME-----------   <=1 S        4 S CEFTRIAXONE-----------   <=1 S CEFUROXIME------------     4 S CIPROFLOXACIN---------<=0.25 S   <=0.25 S CLINDAMYCIN-----------                      <=0.25 S ERYTHROMYCIN----------                      <=0.25 S GENTAMICIN------------   <=1 S      <=1 S    <=0.5 S IMIPENEM--------------   <=1 S      <=1 S LEVOFLOXACIN----------                      <=0.12 S MEROPENEM-------------<=0.25 S   <=0.25 S OXACILLIN-------------                      <=0.25 S PENICILLIN------------                       =>0.5 R PIPERACILLIN----------              <=4 S PIPERACILLIN/TAZO-----   <=4 S        8 S TOBRAMYCIN------------   <=1 S      <=1 S TRIMETHOPRIM/SULFA----  =>16 R     ANAEROBIC BOTTLE (Final [**2110-9-27**]):       ESCHERICHIA COLI.
+ESCHERICHIA COLI.
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              STAPHYLOCOCCUS, COAGULASE NEGATIVE                              | CLINDAMYCIN-----------<=0.25 S ERYTHROMYCIN----------<=0.25 S GENTAMICIN------------ <=0.5 S LEVOFLOXACIN----------<=0.12 S OXACILLIN-------------<=0.25 S PENICILLIN------------ =>0.5 R     ANAEROBIC BOTTLE (Final [**2110-9-27**]):       ESCHERICHIA COLI.
+Septic shock, likely secondary to spontaneous bacterial peritonitis: The patient was transferred to the CCU for dyspnea, initially thought to be due primarily to heart failure.
+This was not performed immediately due to concern for an elevated INR, as well as hemodynamic instability with systolic blood pressures in the 80's.
+He had a limited renal ultrasound that did not visualize the left kidney adequately, but showed no evidence of ureteral obstruction or hydronephrosis on the right that wound account for his poor urine output.
+It became clear that his poor urine output was likely due to poor renal perfusion in the setting of sepsis.
+Given his elevated lactate, it is likely his tachypnea was at least in part a compensatory response to his lactic acidosis.
+Medications on Admission: Toprol Xl 25 mg PO daily Allopurinol 100 mg PO daily Calcitriol 0.25 mcg PO daily Prilosec 20 mg PO daily Lasix 80 mg IV daily Ambien 5 mg PO QHS prn insomnia Warfarin 5 mg PO daily Insulin NPH 6 units QAM  Discharge Medications: N/A, patient deceased  Discharge Disposition: Expired  Discharge Diagnosis: Primary 1.
+Septic shock, likely secondary to spontaneous bacterial peritonitis 2.
+Congestive heart failure, diastolic, acute on chronic 3.
+Acute on chronic renal failure Secondary 4.
+Amyloidosis in setting of multiple myeloma 5.

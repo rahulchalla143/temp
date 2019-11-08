@@ -1,0 +1,37 @@
+Admission Date:  [**2116-8-3**]              Discharge Date:   [**2116-8-10**]  Date of Birth:  [**2056-3-25**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 3326**] Chief Complaint: Metastatic Melanoma requiring IL-2 therapy Persistent acidemia, AG acidosis & ARF  Major Surgical or Invasive Procedure: - Central line placement [**2116-8-7**] - Central line placement [**2116-8-8**] - CVVH dialysis beginning [**2116-8-8**]  History of Present Illness: Pt is a 60 yo man with history of metastatic melanoma (primary in foot, known mets in pelvis, liver, lungs who initially presented on [**2116-8-3**] to biologics service for IL-2 therapy.
+Of note, hospital course to this point has been complicated by diarrhea, developement of acute renal failure with Cr increased to 2.8 from baseline of 0.9, felt secondary to IL-2 therapy.
+During the day, he had been noted to have persistent acidemia (low HCO3) and had been treated with total of 5 amps bicarb throughout the day without much improvement of his HCO3.
+At this time, pt c/o SOB, no other complaints.
+Other labs drawn at this time as below - notable for worsening ARF (Cr 5.1), AG acidosis.
+Past Medical History: Metastatic Melanoma S/p Appy Migraine   Social History: - Married with 3 children - He is a retired truck driver and lives in [**Location 74394**].
+- He has an uncle with [**Name2 (NI) 499**] cancer and a brother with prostate cancer.
+Physical Exam: Vitals - T , HR 190, BP 73/37, RR 36, O2 99% on NRB -> AC/FiO2 1.0/TV 500/RR30/PEEP 5 Gen - awake, alert, able to answer questions, visibly tachypnic with use of abdominal muscles HEENT - scleral icterus Lungs - slight wheezing at bases, otherwise CTA b/l CVS - tachycardic, irregular Abd - soft, use of abdominal muscles with breathing, no noted tenderness to palpation; tympanic in upper region Ext - [**1-14**]+ LE edema b/l Neuro - A+O initially, became more lethargic Skin - cool extremities, flushed appearance to limbs   Pertinent Results: [**2116-8-8**] CXR - prelim read low lung volumes, ?
+mild CHF [**2116-8-8**] Rpt CXR - prelim worsening CHF   Brief Hospital Course: This patient is a 60 yo male with h/o metastatic melanoma, who was undergoing IL-2 therapy (s/p 13 out of 14 doses), now with severe multi-organ failure; ?r/t to IL-2 toxicity.
+There was a significant acidemia as well as CXR which indicated pulm edema.
+Etiology was unlikely to be CHF as the patient had no history of CAD.
+Presentation was more consistent with an ARDS picture, given bilateral pulm infiltrates as well as PaO2/FiO2 < 200, or IL-2 therapy adverse event as this can cause a capillary leak syndrome.
+Other possibilities of pulm edema include volume overload [**2-14**] renal failure, less likely CHF related to heart disease/MI.
+Hypoxia may be secondary to shunt ([**2-14**] likely atelectasis)  as well as likely increased intrathoracic pressures secondary to ascites.
+The patient was maintained on CVVH to help with acid/base disorder with pt.
+# Atrial Fibrillation: No known history of CAD; the patient had afib on admission to ICU but converted to NSR after shocks x2 & amiodarone IVP x1; o/n, converted back to Afib, requiring cardioversion as well as amiodarone without success.
+Amiodarone infusion was not used because of hypotension as well as liver failure.
+The patient was hypothermic and hypotensive, requiring 3 vasopressors with SBP still 90's; hypotension was thought to be a side effect of IL-2 therapy, unsure if it was related to IL-2 toxicity.
+CT abd unremarkable for lactic acidosis or any ischemic process, however, clinical picture was consistent with shock liver.
+It was attempted to wean vasopressors to keep MAP>60, especially levophed given dusky distal extremities.
+# Acute renal failure:  The patient had rising Cr during hospital course, intially attributed to IL-2 therapy on the floor.
+IL-2 known to cause renal failure, perhaps indirectly due to vasodilation/capillary leak and hypotension.
+Creatinine had elevated to ~5, also with multiple electrolyte abnormalities & in the setting of not wean vasopressors to keep MAP > 60.
+# Severe Acidemia/AG-Acidosis:  The patient had severe lactic acidosis in the setting of hypotension SBP 60's on arrival to ICU & occasionally overnights, also with triple vasopressor use-vasoconstriction, ?abd compartment syndrome (however CT scan does not support this), shock or ischemic liver were also included in the differential.
+Acidemia is a known effect of IL-2 therapy/?toxicity, however unsure if it can account for the extent of acidosis in this patient.
+Also the patient had evidence of renal failure.
+# Fulminant liver failure: the patient presented with severely elevated transaminases, also with coagulopathy (see below).
+Initially, mild transaminatis due to IL-2 therapy ?toxicity of IL-2.
+# Coagulopathy: The patient appeared to be DIC based on labs, however difficult to differentiate in the setting of severe liver failure.
+3units FFP were transfused with plan to transfuse if platelets < 20 without bleeding or platelets < 50 with bleeding.
+# Metastatic Melanoma:Mets to multiple sites; s/p IL-2 therapy.
+The patient was maintained on PPI and pneumoboots for prophylaxis (no SC hep b/c plt low).
+During the admission a high-dose insulin drip was started up to 23 units/hr for FS up to 600s; however, the patient became hypoglycemic with FS (60s).
+There was a concern for hypoglycemia in the setting of liver failure and possibly retained insulin given renal failure.
+On [**8-10**] the team was called to the bedside for an acute change in VS: pt became tachycardic briefly before becoming bradycardic and hypotensive and ultimately going into asystole.
+CPR was attempted with chest compressions for approximately 25 minutes without a return of pulse; the code was terminated because of persistent asystole with the time of death at 9:25pm on [**8-10**].
+Discharge Disposition: Expired  Discharge Diagnosis: Metastatic melanoma - s/p IL-2 therapy SIRS Respiratory failure Liver failure Renal failure DIC Acidemia   Discharge Condition: Expired

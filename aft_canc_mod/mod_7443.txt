@@ -1,0 +1,121 @@
+Admission Date:  [**2165-2-25**]              Discharge Date:   [**2165-7-6**]  Date of Birth:  [**2104-3-7**]             Sex:   M  Service: MEDICINE  Allergies: Penicillins / Morphine / Dilaudid-Hp / Meropenem  Attending:[**First Name3 (LF) 3984**] Chief Complaint: elective admission for reduced intensity conditioning with clofarabine, ATG, TLI, and allogenic SCT  Major Surgical or Invasive Procedure: autologous stem cell transplant Intubation Bronchoscopy Hemodialysis   History of Present Illness: Mr. [**Known lastname 9241**] is a 60 yo M with multiple myeloma Doxil/Decadron/Revlimid C2D22 presenting for elective admission for reduced intensity conditioning with clofarabine, ATG, TLI, and allogenic SCT.
+Followed by Dr. [**Last Name (STitle) **], and it was decided he would undergo experimental protocol with reduced intensity conditioning with clofarabine, ATG, TLI (to reduce the GVD effect) and allogenic SCT for the graft-vs-tumor effect.
+On ROS, patient admits to chronic fatigue and states his mood is 'so-so', but says the Cymbalta has helped with his mood.
+Denies fevers, chills, worsened shortness of breath, chest pain, lower extremity swelling or DVT with Revlimid.
+Past Medical History: - Multiple Myeloma dx [**2160**]       s/p 5 cycles Velcade [**2160**]       s/p auto-BMT in [**2160**]  c/b post BMT PNA       s/p dendritic cell vaccine [**2163**]       s/p 5 cycles Velcade beginning [**1-/2164**]       Doxil/Decadron/Revlimid (C2 started on [**2165-2-4**]) - HTN - Type II Diabetes - Depression  with hospitalization in [**8-/2164**] (see OMR discharge summary for full details) - Peripheral Neuropathy - Pulmonary HTN - Dyslipidemia - Sleep Apnea - Glaucoma - Varicella Zoster, [**2164-5-15**] with Post-herpetic neuralgia.
+- Prostatectomy in [**2153**] for early Prostate CA - totally edentulous   Social History: Lives with wife, daughter and 88 yr old mother in law in [**Name (NI) 18825**] MA; his mother-in-law has some form of dementia.
+They do not have a pool or outdoor hot-tub.
+His travel history is very benign.
+Mother with anxiety and depression, and two siblings with anxiety and depression.
+MMM, no mucositis or open ulcers.
+Pulm: CTAB no crackles or wheezes Abd: obese, soft, NT, +BS.
+Extremities: wwp, no edema.
+Screen predicts possible synergy with selected          penicillins or vancomycin.
+ESCHERICHIA COLI.
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              ESCHERICHIA COLI                              |          PSEUDOMONAS AERUGINOSA                              |          | AMPICILLIN------------  =>32 R AMPICILLIN/SULBACTAM--     4 S CEFAZOLIN-------------  =>64 R CEFEPIME--------------       R        2 S CEFTAZIDIME-----------       R        4 S CEFTRIAXONE-----------  =>64 R CEFUROXIME------------  =>64 R CIPROFLOXACIN---------   =>4 R        1 S GENTAMICIN------------   <=1 S      <=1 S MEROPENEM-------------<=0.25 S     =>16 R PIPERACILLIN---------- =>128 R       16 S PIPERACILLIN/TAZO-----   <=4 S        8 S TOBRAMYCIN------------   <=1 S      <=1 S TRIMETHOPRIM/SULFA----  =>16 R  URINE CULTURE (Final [**2165-6-22**]):       ESCHERICHIA COLI.
+ESCHERICHIA COLI.
+MODERATE GROWTH.
+MODERATE GROWTH.
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              ESCHERICHIA COLI                              |          PSEUDOMONAS AERUGINOSA                              |          | AMPICILLIN------------  =>32 R AMPICILLIN/SULBACTAM--     8 S CEFAZOLIN-------------  =>64 R CEFEPIME--------------       R        2 S CEFTAZIDIME-----------       R        4 S CEFTRIAXONE-----------  =>64 R CEFUROXIME------------  =>64 R CIPROFLOXACIN---------   =>4 R        1 S GENTAMICIN------------   <=1 S      <=1 S MEROPENEM-------------<=0.25 S     =>16 R PIPERACILLIN---------- =>128 R       16 S PIPERACILLIN/TAZO-----   <=4 S        8 S TOBRAMYCIN------------   <=1 S      <=1 S TRIMETHOPRIM/SULFA----  =>16 R     FUNGAL CULTURE (Final [**2165-7-4**]):    NO FUNGUS ISOLATED.
+His stem cell infusion was complicated by fevers to 102.
+Subsequently, pt was noted to have altered mental status with increased somnolence.
+Pt was transferred to the ICU for the first time on [**2165-3-16**] for hypoxia and AMS.
+# ESBL E coli bacteremia: Same organism involved in UTI described above.
+# Persistent fevers & Coag negative Staph line infxns: Despite negative surveillance blood cultures since [**3-16**], patient experienced persistent fevers.
+ENT was consulted on [**4-5**] and felt that there were no evidence of sinus infection on exam despite some opacification seen on head CT. Pt was also on micafungin for positive B-glucan (127 on [**4-2**]), which was initially thought to be a false positive result (since there were several possible reasons for it such as CVVH and IVIG).
+Ultimately, there was no evidence of a fungal infection, but pt remained on micafungin for prohphylaxis.
+# ARDS: thought to be due to bacteremia (see above), parainfluenza type 3 pneumonia and possibly PE (see below).
+# Possibility of pulmonary embolism: Pt was noted to be tachycardic on ventilator with development of new A fib.
+CTA of chest was not obtainable due to acute renal failure (see below) and VQ scan was deemed to be non-diagnostic given pt's pulm infections and anarsarca.
+Pt was started on anticoagulation with heparin gtt x 2 weeks which was subsequently stopped when pt developed an iliopsoas hematoma.
+Pt was initially noted to have an acute drop in Hct (6 points in 24 hours), was CT-scanned, which showed a new fluid collection in left iliacus muscle.
+Brief period of hypotension (never required pressor support, however) when intubated.
+Renal U/S showed no hydronephrosis.
+# New atrial fibrillation: Noted for the first time in the ICU.
+Pt will need anticoagulation to reduce risk of stroke in the future.
+# Altered Mental Status: Pt has a history of depression with one inpt psych hospitalization.
+Psych and neuro have been following the patient, per both teams, his current mental status is attributable to a profound delirium secondary to his multiple ongoing medical problems; they recommend haldol for agitation.
+EEG was c/w a "toxic-metabolic state."
+Levofloxacin was started on [**4-7**] for concern about increased trach secretions.
+As part of an infectious work-up for low-grade fevers after transfer CT of torso was done [**4-13**], it showed increased patchy opacities in bilateral posterior lung bases, bronchospcopy was pursued.
+Pt was afebrile, with stable resp status, and without leukocytosis for almost two weeks despite not receiving any Abx to target the ESBL.
+He then became febrile again, CT showed worsening confluence of opacities, and BAL showed ESBL.
+# Altered Mental Status: Neuro and psych teams which had been following in the [**Hospital Unit Name 153**] continued to follow on the floor as his mental staus failed to improve.
+Psych agreed with ths diagnosis and continued to recommend holdin his outpt antidepressants and continuing to manage agitation with haldol.
+He has at times been somewhat confused and on [**5-22**], was confused and hypersomnolent without a known cause.
+# ARF: Around day #60, Pt's renal function improved and pt was no longer requiring HD.
+Renal was consulted again, and ARF was believed to be due to prerenal azotemia progressing to ATN, likely caused by elevated uric acid levels and use of acyclovir in setting of volume depletion from copious diarrhea.
+# AFIB/RVR: Mgt with metoprolol and digoxin continued.
+No anticoagulation given bleed as above.
+# UE DVT: LENIS of the upper extremities were ordered as the pt developed UE edema out of proportion to the lower extremity edema which was resolving with HD.
+Given his bleed hx, we did not anticaoagulate and were reassured by a repeat scan two days laters which showed significant interval decrease in the clot.
+Etiology of UE edema unknown.
+CDIFF and stools cultures (including cultures for atypical organisms) were repeatedly negative.
+There was some concern for melena, but stool was dark green and guiaic positive but not black; pRBC requirement during this episode was 2 packs over 48hrs.
+Given decreased relative sensitivity of flex sig, colonoscopy was pursued which was negative, but endoscopy showed two large oozing necrotic duodenal ulcers.
+# MM s/p ALLO: At the two month mark, free kappa/lamba were sent to assess response of myeloma to the Allo, this showed elevated kappa chains.
+A bone marrow bx was obtained in early [**Month (only) 205**] which showed 7% plasma cells.
+PE: On [**5-22**] again Pt was ruled out for PE, after he became tachycardic, tachypneic, and had an ABG that showed respiratory alkalosis.
+#Duodenitis: Even with althered mental status Pt was frequently gesturing towards stomach when asked if he was having pain, and grimicing upon palpation of abdomen.
+Pt was r/o for pancreatitis and C.DiffX3.
+An endoscopy was performed which showed two large necrotic chronic duodenal ulcers.
+Pantoprozole IV was started which brought relief to Pt's pain after two days, and as of [**5-24**] abdominal exam much improved and patient is no longer complaining of abdominal pain.
+#Rash Around [**5-19**], Pt noted to have [**Doctor Last Name **] erythematous macular rash on trunk and extremities.
+After rash seemed to be worsening, dermatology was consulted and punch biopsies obtained, for concern of drug reaction or GVHD.
+Ciprofloxacin was d/c and rash still present but resolving as of Jult 10. .
+#Hearing Loss Pt noted to have increased hearing loss bilaterally since admission to the hospital, etiology unclear but believed may be in part secondary to gentamicin toxicity.
+Pt is scheduled for outpt audiology exam on Tuesday [**5-28**], for evaluation of hearing loss.
+#Sacral Ulcer Pt has stage III decubitus ulcer on sacrum.
+- Tachycardia might be related to low volume [**12-17**] diarrhea, so continue IVF.
+?negative to date - CMV: negative - Continue solumedrol 60 mg IV BID - F/u with BMT - f/u GI recs.
+NPO for colonoscopy on [**2165-5-29**]/  # ESBL E.coli asymptomatic bacteruria: Patient currently asymptomatic but with UA x2 speciated as ESBL E.coli.
+- Monitor respiratory status, no current signs or symptoms of respiratory distress .
+# Acute renal failure: Most recent elevation in creatinine attributed by renal to be secondary to ATN from diarrhea, acyclovir toxicity, and elevated uric acid.
+- Trend creatinine.
+- Continue allopurinol and acyclovir - Follow-up renal recs -[**Hospital Unit Name 153**] Course [**Date range (1) 12474**] # GI Bleed: Pt arrived in [**Hospital Unit Name 153**] early AM after having profuse bright red blood per rectum with hemdynamic instability on BMT floor.
+He underwent emergent EGD by GI and were able to inject and endoclip a large healing ulcer that is the likely cause of the bleed.
+Given HCT drop, GI rescoped and found that the clips fell out of the large duodenal ulcer and it was actively oozing.
+Both surgery and GI recommend possible IR embolization, which the patient never needed as he last required blood products on evening [**6-8**].
+Since that time he has had decreasing amounts of melanotic stools recently, however, his HCT has been stable above 31.
+No anticoagulation given GI bleed.
+Patient has episodes of tachycardia to 140s-150s.
+Since the patient had a GI bleed, all of his PO nodal agents were D/C??????ed.
+Acute on chronic renal failure / hyponatremia: Patient initially presented with oliguria in setting of baseline Cr of 1.5 (feNa=0.04%), which was likely due to volume depletion from GI blood loss.
+However, given prolonged hypotension, the patient may have also developed ischemic ATN.
+# Refractory multiple myeloma admitted on [**2165-2-25**] now s/p mini-allogeneic SCT: His course has been extremely complicated and now with increasing immunosuppression for GVHD.
+# HTN: Started on metoprolol PO and home dilt per above.
+# Stage 4: sacral decubitus ulcer: Continue wound care.
+Notably, keep a low threshold for osteo if clinically suspicious, although at this time wound does not show any evidence of infection only necrosis.
+# ID: --Worsening opacities on CT from [**6-3**]: ID initially suggested doing [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 1066**] for treatment, however this was deferred since galactomannan and beta glucan markers for aspergillus negative.
+On the day of transfer there was a new lingular infiltrate vs atalectasis on CXR, however since the patient is clinically/respiratory stable for now, we suggest that it is followed with a repeat CXR tomorrow AM -- ESBL E.coli bacteruria: Finished 14/14 day course of meropenem.
+He was extubated without any complications and is comfortable on room air upon transfer.
+Likely secondary to hypovolemia in the setting of GI bleed.
+Pt without WBC although immunosuppressed.
+No evidence new acute infection.
+# DM 2: Continue ISS .
+# FEN: Pt is currently NPO except meds, and we will leave it at discretion of BMT to determine how long pt must be NPO.
+# Hemorrhagic shock:  Patient had large GI bleeds with copious BRBPR on [**6-27**] and [**6-28**] both sent to IR for embolization of gastroduodenal artery.
+He had another bleed on [**8-1**] that responded to pressors and massive transfusion protocol.
+He had episodes of hypotension due to upper GI bleed, not responsive to fluids, requiring levophed.
+He received massive transfusion protocol blood products for these bleeds.
+Gastric lavage showed coffee grounds as well as some bright red blood.
+Surgery was consulted to help manage this recurrent bleeding duodenal ulcer but determined he was not a surgical candidate.
+His dosage of steroids was reduced to aid in ulcer healing, and he was briefly empirically treated with ganciclovir to cover for possible CMV duodenitis as a cause of the ulcer.
+After the three massive GI bleeds and massive transfusions, patient's familiy decided to not escalate his care, electing not to give any further blood products, pressors, or any further interventions should patient develop another bleed.
+Patient remained relatively stable for the next 5-6 days without any episodes of GI bleeding and not requiring pressors.
+On [**7-6**], patient passed melenotic stools and was found to have new blood via his OG tube.
+# Sepsis: Pt with continued enterococcus bacteremia resistant to vancomycin as well as pseudomonas bactermia and pneumonia.
+He received linezolid and gentamicin for the VRE and cipro with meropenem for pseudomonas coverage.
+The meropenem was also used to treat an E. coli ESBL in his urine.
+# Respiratory failure: Pt was intubated for respiratory failure due to pneumonia and later complicated by pulmonary edema.
+# Anasarca: Although he was total body fluid overloaded, he was frequently intravascularly dry requiring more fluids.
+He received large numbers of blood products and intravenous fluids for the acute bleed resuscitation and hypotension.
+# Atrial fibrillation with RVR:  Pt remains tachycardic with atrial fibrillation despite numerous interventions including amniodarone drip, esmolol drip, diltiazem drip and digoxin.
+# Anemia and thrombocytopenia: Pt s/p two IR sessions of embolization after massive GI bleeds with likely source being duodenal ulcer.
+# Hyperglycemia: He has a history of diabetes and was treated with an insulin sliding scale and insulin in his TPN feeds.
+# LFT abnormalities: With e/o cholestatic picture with transaminitis of unclear etiology.
+His immunosuppressants were continued with decreasing steroid dosing to aid ulcer healing and prophylaxis with atovaquone, acyclovir & voriconazole.
+As patient became unable to take PO medications because of the massive GI bleeds, atovaquone was switched to inhaled pentamidine, voriconazle was discontined, and acyclovir switched to IV dosing.
+# Family meetings: patient's family had initially wanted everything to be done for the pt, but after the multiple massive GI bleeds requiring massive transfusions, patient's family decided not to escalate care in the event of a massive GI bleed (no blood products, no pressors, no IR intervention, no surgical intervention).
+chief cause of death - sepsis immediate cause of death - GI bleeding other antecedent causes - multiple myeloma .
+Oxycodone 5-10 mg PO q4-6H:PRN pain OxyconTIN 10 mg PO TID Timolol 0.5% eye drops OU QHS Trazodone (tapered off by [**2-24**]) Bactrim SS 1 PO daily OTC: Magnesium Oxide 400 mg PO daily MVI PO daily Prilosec 20 mg PO BID   Discharge Medications: None  Discharge Disposition: Expired  Discharge Diagnosis: pronounced dead on [**7-6**] at 8:27 PM chief cause of death - sepsis immediate cause of death - GI bleeding other antecedent causes - multiple myeloma   Discharge Condition: pronounced dead on [**7-6**] at 8:27 PM  Discharge Instructions: none.

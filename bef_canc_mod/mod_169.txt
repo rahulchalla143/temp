@@ -1,0 +1,58 @@
+Admission Date:  [**2128-12-4**]              Discharge Date:   [**2128-12-8**]  Date of Birth:  [**2081-2-27**]             Sex:   F  Service: MEDICINE  Allergies: Penicillins / Amoxicillin / Bactrim  Attending:[**First Name3 (LF) 603**] Chief Complaint: RUQ pain, nausea, fever, LLE swelling  Major Surgical or Invasive Procedure: Incision and drainage of left lower extremity abscess, [**2128-12-6**]   History of Present Illness: Ms. [**Known lastname **] is a 47 yo female with IDDM and chronic pancreatitis who presents with worsening right upper quadrant abdominal pain for the past 2 days.
+She describes the abdominal pain as "throbbing."
+She states that her pain is consistent with previous exacerbations of chronic pancreatitis.
+She has had two episodes of non-bloody, non-bilious emesis for each of the past two days.
+She states that she also developed a fluid collection on her left lower extremity approximately one week ago.
+She has had subjective fevers at home.
+She endorses a frontal headache for the past several days, but on arrival to the MICU states that it has resolved.
+She denies any dizziness, loss of balance, falls, or blurred vision.
+She denies any recurrence of the perirectal abscess from previous hospitalization and she denies any active genital lesions.
+She became lethargic and ABG was performed 7.15/33/55.
+A CXR, RUQ ultrasound, and plain films of the left lower extremity were performed.
+Foot abscess was cultured, and patient received Vancomycin 1 gram.
+Chronic pancreatitis biopsy proven, followed by Dr. [**Last Name (STitle) 13734**] in the past.
+On chronic narcotics and Pancrease enzymes.
+IDDM, secondary to chronic pancreatitis, followed by Dr. [**First Name (STitle) 3636**] at [**Last Name (un) **].
+Hypertension 4.
+History of splenic vein thrombosis 5.
+Depression 6.
+Mitral regurgitation 8. h/o MRSA bacteremia 9.
+Family History: Her father died of pancreatic cancer at age 56.
+Her mother died from anesthesia reaction.
++ h/o breast cancer in family.
+Physical Exam: T: 97.2 BP: 110/80 HR: 79 RR: 20 O2 99% RA Gen: Pleasant, well appearing middle-aged woman in NAD HEENT: No conjunctival pallor.
+NECK: Supple, No LAD, No JVD.
+No thyromegaly.
+New evolving sore on RLE.
+Erythematous around border.
+Serum Toxicology Screen: Negative Urine Toxicology Screen: Positive for opiates .
+**FINAL REPORT [**2128-12-10**]**     Blood Culture, Routine (Final [**2128-12-10**]):    NO GROWTH.
+Oxacillin RESISTANT Staphylococci MUST be reported as also          RESISTANT to other penicillins, cephalosporins, carbacephems,          carbapenems, and beta-lactamase inhibitor combinations.
+MODERATE GROWTH.
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              STAPH AUREUS COAG +                              | CLINDAMYCIN-----------<=0.25 S ERYTHROMYCIN----------<=0.25 S GENTAMICIN------------ <=0.5 S LEVOFLOXACIN----------  0.25 S OXACILLIN-------------   =>4 R PENICILLIN G---------- =>0.5 R RIFAMPIN-------------- <=0.5 S TETRACYCLINE----------   <=1 S TRIMETHOPRIM/SULFA---- <=0.5 S VANCOMYCIN------------   <=1 S     ANAEROBIC CULTURE (Final [**2128-12-8**]):    NO ANAEROBES ISOLATED.
+MODERATE GROWTH.
+Oxacillin RESISTANT Staphylococci MUST be reported as also          RESISTANT to other penicillins, cephalosporins, carbacephems,          carbapenems, and beta-lactamase inhibitor combinations.
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              STAPH AUREUS COAG +                              | CLINDAMYCIN-----------<=0.25 S ERYTHROMYCIN----------<=0.25 S GENTAMICIN------------ <=0.5 S LEVOFLOXACIN----------  0.25 S OXACILLIN-------------   =>4 R PENICILLIN G---------- =>0.5 R RIFAMPIN-------------- <=0.5 S TETRACYCLINE----------   <=1 S TRIMETHOPRIM/SULFA---- <=0.5 S VANCOMYCIN------------   <=1 S     ANAEROBIC CULTURE (Final [**2128-12-10**]):    NO ANAEROBES ISOLATED.
+CXR ([**2128-12-4**]): No acute pulmonary process.
+RUQ U/S ([**2128-12-4**]): No evidence of acute cholecystitis.
+No increase in size to left lobe of the liver lesion, presumed hemangioma .
+No subcutaneous emphysema is seen in the soft tissues.
+[**2128-12-8**] 06:35AM BLOOD WBC-12.8* RBC-3.64* Hgb-10.3* Hct-30.7* MCV-85 MCH-28.3 MCHC-33.5 RDW-16.9* Plt Ct-436 [**2128-12-8**] 06:35AM BLOOD Plt Ct-436 [**2128-12-8**] 06:35AM BLOOD Glucose-147* UreaN-12 Creat-0.8 Na-138 K-4.3 Cl-107 HCO3-25 AnGap-10  Brief Hospital Course: Patient is 47 yo female with h/o IDDM and chronic pancreatitis who presented with abdominal pain and hyperglycemia, c/w DKA.
+It was thought that this episode of DKA was most likely secondary to her pancreatitis flare and left lower extremity infection.
+Lower extremity abscess:  On admission, the patient had an abscess on her LLE and RLE, which had been present for approximately 1 week.
+The patient has a h/o MRSA abscesses, and cultures returned positive for MRSA.
+She was also found to have a fluctuant area superior to the abscess, which was subsequently drained by Surgery.
+The wound was packed twice daily and the dressing was changed each day.
+Chronic pancreatitis: The patient was admitted with abdominal pain radiating to her back, which she states is consistent with previous episodes of pancreatitis.
+She was made NPO on admission for probable pancreatitis and was given aggressive fluid rehydration.
+Her abdominal pain subsided and she was placed back on a regular diet.
+She was continued on her home regimen of Fentanyl patch, pancreatic enzymes, and Dilaudid for breakthrough pain.
+Hypertension: Patient has a history of hypertension.
+She was continued on her home doses of Norvasc, Lisinopril, and Atenolol, and she did not have any acute events during this admission.
+# FEN: Regular, diabetic diet.
+Medications on Admission: Lantus 40 units qHS RISS Norvasc 10 mg daily Atenolol 50 mg daily Lisinopril 40 mg daily Pancrease 2 tabs qAC Omeprazole 20 mg daily Oxycodone 5 mg PRN Fentanyl 75 mcg TD q72 hours Prochlorperazine 10 mg PRN nausea Paxil 20 mg daily Colace 100 mg [**Hospital1 **]  Discharge Medications: 1.
+Disp:*5 pens* Refills:*2*   Discharge Disposition: Home With Service  Facility: [**Location (un) 86**] VNA  Discharge Diagnosis: Primary: Diabetic Ketoacidosis MRSA Abscess Chronic pancreatitis  Secondary: Hypertension Depression   Discharge Condition: Good.
+Discharge Instructions: You were admitted to the hospital because you had severe abdominal pain and your glucose level was extremely high.
+You were found to be in diabetic ketoacidosis, and you were monitored in the Medical Intensive Care Unit overnight.
+While you were here, you were also found to have an abscess on your lower extremity.
+Please return to the ED or your healthcare provider if you experience shortness of breath, increasing abdominal pain, fevers, chills, confusion, loss of consciousness, or any other concerning symptoms.

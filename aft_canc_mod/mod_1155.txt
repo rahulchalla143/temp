@@ -1,0 +1,51 @@
+Admission Date:  [**2115-9-19**]              Discharge Date:   [**2115-9-20**]  Date of Birth:  [**2052-12-23**]             Sex:   M  Service: MEDICINE  Allergies: Ciprofloxacin  Attending:[**First Name3 (LF) 594**] Chief Complaint: Sent in by cardiologist for hypotension  Major Surgical or Invasive Procedure: None   History of Present Illness: 62 yo male with advanced esophageal ca s/p palliative chemo/XRT, recurrent pl effusions s/p L pleurex, CAD s/p POBA/PCI [**2101**] who presents from cardiology clinic with tachypnea and hypotension.
+This morning he awoke with a [**Month/Year (2) **] and states he developed some chest pain after a coughing spell "like a pulled muscle, not cardiac" after coughing.
+He also notes feeling short of breath, but not much more than he has in the past.
+Pt attributes SOB to pain during inspiration.
+An echocardiogram performed earlier today showed a moderate effusion without evidence of tamponade.
+Pt he felt dizzy earlier in the week but currently denies any dizziness or lightheadedness.
+CXR was notable for stable L pleural effusion with pleurx in place and R pleural effusion, unchanged from [**9-18**].
+The patient was given iv dilaudid and tachypnea improved.
+Barium swallow demonstrated a stricture in the distal esophagus.
+ECG demonstrated circumferential narrowing and thickening at the GE junction (40 cm), and extended proximally to 35 cm.
+Biopsies were performed and pathology demonstrated adenocarcinoma, mucin-producing with few signet ring cells, moderately differentiated.
+He underwent PET/CT scan [**2113-12-31**], which showed FDG uptake in the GE junction but no evidence of regional or distant metastases.
+He was referred for EUS staging, performed on [**2114-1-5**], which demonstrated a mass at the distal esophagus/GEJ consistent with known adenocarcinoma, maximum depth 1 cm, with extension beyond the muscularis propria.
+There were no concerning lymph nodes identified.
+By EUS, the tumor was staged as T3N0Mx, Stage IIB esophageal adenocarcinoma.
+He underwent [**Month/Day/Year 12351**]-[**Doctor Last Name **] esophagectomy [**2114-4-25**] which demonstrated residual disease, including a positive proximal margin.
+Surveillance endoscopy demonstrated friable and nodular distal esophagus and biopsy demonstrated adenocarcinoma.
+[**2114-9-3**] C1D1 Epirubicin, Oxaliplatin, 5-fluorouracil (5-FU given by continuous infusion pump Mon-Fri x96 hours given his difficulty swallowing pills) [**2114-9-24**] C2D1 Epirubicin, Oxaliplatin, 5-fluorouracil .
+He works in software and customer teaching for an electronic access device maker.
+He has a sister who has had breast cancer twice and a brother with diabetes.
+Family members with emphysema   Physical Exam: Admission: General: Alert, oriented, no acute distress HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL Neck: supple, JVP not elevated, no LAD CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi Abdomen: soft, non-tender, non-distended, bowel sounds present, no organomegaly GU: no foley Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema Neuro: CNII-XII intact, 5/5 strength upper/lower extremities, grossly normal sensation, 2+ reflexes bilaterally, gait deferred, finger-to-nose intact  Discharge: General: Alert, oriented, no acute distress HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL Neck: supple, JVP not elevated, no LAD CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi Abdomen: soft, non-tender, non-distended, bowel sounds present, no organomegaly GU: no foley Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema Neuro: CNII-XII intact, 5/5 strength upper/lower extremities, grossly normal sensation, 2+ reflexes bilaterally, gait deferred, finger-to-nose intact  Pertinent Results: Labs [**2115-9-20**] 04:16AM BLOOD WBC-8.4 RBC-4.07* Hgb-11.5* Hct-35.6* MCV-88 MCH- 28.2 MCHC-32.2 RDW-16.6* Plt Ct-255 [**2115-9-20**] 04:16AM BLOOD Glucose-94 UreaN-14 Creat-0.5 Na-137 K-4.1 Cl-108 HCO3-23 AnGap-10  ECHO [**9-19**] The left atrium is normal in size.
+However, the inferior and posterior walls appear dyskinetic, and the overall left ventricular ejection fraction is depressed (?
+The aortic root is mildly dilated at the sinus level.
+The ascending aorta is mildly dilated.
+There is no aortic valve stenosis.
+No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Trivial mitral regurgitation is seen.
+There is a moderate sized pericardial effusion.
+The effusion is echo dense, consistent with blood, inflammation or other cellular elements.
+No right atrial or right ventricular diastolic collapse is seen.
+Compared with the findings of the prior study (images reviewed) of [**2115-7-18**], the overall left ventricular ejection fraction appears lower secondary to increased dyskinesis of the inferior and posterior walls  CXR: IMPRESSION:  Stable appearance of esophageal stent, bilateral pleural effusions, right greater than left, and bibasilar opacities, possibly reflecting atelectasis  MICRO: None  Brief Hospital Course: 62 yo male with advanced esophageal ca s/p palliative chemo/XRT, recurrent pl effusions s/p L pleurex, CAD s/p POBA/PCI [**2101**] who was sent in from cardiology clinic for hypotension and tachypnea.
+#Respiratory distress:  Pt found to be tachypnic in ED and was started on nasal canula.
+Most likely secondary to poor tidal volumes in setting of chest wall strain from coughing yesterday.
+Pt notes acute onset of pain after coughing last night and physical exam notable for reproducable pain.
+ECG unchanged from baseline and echo unremarkable for new wall abnormalities this morning.
+While pleural effusion may be contributing to dyspnea, CXR is largley unchanged from yesterday with stable R effusion and drained L effusion with pleurex in place.
+No signs of pneumothorax on CXR.
+He was discharged with a prescription of dilaudid for breakthrough pain.
+#Hypotension: Most likely secondary to poor po intake.
+No signs of tamponade or MI on cardio workup.
+No signs of pneumothorax on CXR.
+Pt does promote poor po intake over recent weeks with 25lbs weight loss.
+Pt's hypotension has resolved thus far with hydration.
+Furthermore, hypotension resolved with fluids and no appreciable JVP on PE.
+HYDROmorphone (Dilaudid) 2 mg PO Q6H:PRN pain take 1-2 tablets as needed for pain not controlled by oxycodone.
+Do not take if drowsy or driving.
+Call your oncologist if requiring more than 2 tablets in 24 hours RX *hydromorphone [Dilaudid] 2 mg [**12-3**] tablet(s) by mouth up to once every 6 hours Disp #*30 Tablet Refills:*0   Discharge Disposition: Home With Service  Facility: [**Hospital3 **] VNA  Discharge Diagnosis: Primary: hypotension, chest pain Secondary: Pleural effusion, pericardial effusion, esophageal cancer   Discharge Condition: Mental Status: Clear and coherent.
+You were admitted with shortness of breath and low blood pressure.
+We made the following changes to your medications: -STARTED Dilaudid for pain control.
+Followup Instructions: Department: HEMATOLOGY/ONCOLOGY When: TUESDAY [**2115-10-1**] at 9:00 AM With: [**First Name8 (NamePattern2) 251**] [**Name8 (MD) **], MD [**0-0-**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 24**] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage  Department: HEMATOLOGY/ONCOLOGY When: TUESDAY [**2115-10-1**] at 9:30 AM With: [**First Name8 (NamePattern2) 4617**] [**Last Name (NamePattern1) 26978**], RN [**Telephone/Fax (1) 9644**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 24**] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage  Please call your cardiologist Dr. [**Last Name (STitle) **] to schedule a followup appointment to check the status of the [**Last Name (STitle) **] collection around your heart in the next week.

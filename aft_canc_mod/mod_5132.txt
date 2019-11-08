@@ -1,0 +1,83 @@
+Admission Date:  [**2158-10-15**]              Discharge Date:   [**2158-11-10**]  Date of Birth:  [**2092-3-5**]             Sex:   F  Service: MEDICINE  Allergies: Heparin Agents / Motrin / Phenobarbital / Vancomycin  Attending:[**Last Name (NamePattern1) 4377**] Chief Complaint: fever, lethargy  Major Surgical or Invasive Procedure: flexible bronchoscopy   History of Present Illness: 66 year old female, history of large B cell lymhoma s/p 6 cycles R-CHOP, auto SCT in [**Month (only) 958**], h/o C diff, traumatic SDH s/p evacuations, presents with one day of fevers, lethargy.
+Patient has expressive aphasia at baseline but per family she is much more lethargic than normal.
+No localizing symptoms except for increasing diarrhea.
+Per patient's family, she had recent CDiff infection (last documented here at end of [**Month (only) 205**]) and po vancomycin was stopped on [**2158-10-5**].
+She is followed in [**Hospital **] clinic by Dr. [**Last Name (STitle) 724**] for SDH, seizures and encephalopathy.
+Recent EEG on [**10-9**] showed cortical irritability but not electrographic epileptogenic activity seen.
+EKG - < 1mm ST depressions in V4-V6.
+CXR - no acute process.
+Treatment course complicated by fever and neutropenia.
+PET at the end of treatment showed no FDG-avid disease.
+Intra-parenchymal hemorrhage and sub-dural hematoma s/p evacuation x 4 following fall.
+Bilateral pulmonary emboli and LLE DVT in [**10-14**] 4.
+Heparin-induced thrombocytopenia in [**11-14**] 5.
+Suprarenal IVC filter placed on [**2158-2-10**] (large infrarenal IVC clot and thrombosis of left common iliac and left femoral veins seen at that time) 6.
+Right toe Staphylococcus infection 9.
+Hypertension 10.
+Peripheral neuropathy (attributed to her chemotherapy) 12.
+Excision of a benign abdominal tumor  Social History: She was working fulltime at [**Company 378**] in customer support services prior to her diagnosis and treatment; she is currently on disability.
+GEN: awake, ill-appearing female, tachypneic HEENT: PERRL, opens eyes to command but does not track, anicteric sclera, OP with some white coating on tongue Neck: no LAD CV: regular, tachycardic, no murmurs appreciated Pulm: coarse breath sounds bilaterally Abd: (+) bowel sounds, soft, nondistended, mild TTP LLQ and mod TTP LUQ, j tube in place, mild erythema around a suture but not at J tube site Ext: warm, trace edema Neuro: awake, aphasic at baseline, able to open eyes and mouth to command, grunts yes/no at times or slight nod, not moving extremitites to me.
+Diffuse non-specific ST-T wave changes.
+CXR ([**10-14**]): No evidence of focal consolidation.
+2.Unchanged IVC filter at the level of the renal veins.
+CT-chest ([**10-18**]): 1.New right apical area of ground glass opacity as well as new right middle and right lower lobe areas of peribronchial opacities and centrilobular nodules most likely due to an acute infection.
+The nondependent location of some opacities is atypical aspiration.
+2.New small pericardial effusion with questionable pericardial thickening.
+3.New tiny left pleural effusion.
+4.Unchanged multiple liver and renal cysts.
+CT-head ([**10-18**]): No new intracranial hemorrhage is seen compared to the prior examination.
+Echocardiogram ([**10-19**]): The left atrium is mildly dilated.
+The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic regurgitation.
+The mitral valve appears structurally normal with trivial mitral regurgitation.
+There is no mitral valve prolapse.
+The left ventricular inflow pattern suggests impaired relaxation.
+There is a trivial/physiologic pericardial effusion.
+There are no echocardiographic signs of tamponade.
+EEG ([**10-21**]): This is an abnormal portable EEG in the waking and drowsy states due to high voltage multifocal sharp waves arising broadly over the left hemisphere, but most notably over the left anterior quadrant.
+Some of the increased voltage amplitude over the left hemisphere may be due to breech rhythm, given the patient's history of craniotomy and skull defect in that region.
+The sharp wave discharges suggest areas of ongoing cortical irritability with potential for epileptogenesis.
+No rhythmic or repetitive discharges were noted.
+In addition, there was prominent and persistent mixed frequency slowing on the left side, consistent with ongoing subcortical dysfunction.
+No electrographic seizures were noted.
+CT-chest ([**10-23**]): New diffuse ground-glass opacities with upper lobe predominance, accompanied by septal and bronchovascular thickening.
+In the setting of cough and fever, opportunistic infection such as PCP should be considered.
+Differential diagnosis includes hydrostatic pulmonary edema, pulmonary hemorrhage, and drug reaction.
+EEG ([**10-29**]): This is an abnormal portable EEG due to high voltage multifocal sharp wave discharges arising broadly over the left hemisphere, suggestive of ongoing cortical irritability with potential for epileptogenesis.
+No sustained or repetitive discharges were noted.
+The persistent mixed frequency slowing evident on the left side is consistent with subcortical dysfunction on the left, while the more generalized delta frequency slowing, in the setting of the slow and disorganized background, suggests a mild to moderate global encephalopathy.
+The finding of an encephalopathic pattern suggests bilateral or deep midline dysfunction.
+Medications, metabolic disturbance, and infection are the most common causes of encephalopathy.
+No electrographic seizures were noted.
+Brief Hospital Course: 66 year old female h/o large B cell lymhoma s/p 6 cycles R-CHOP, auto SCT in [**2-15**], h/o of recurrent C diff, SDH s/p 4 evacuations c/b global aphasia presents with fevers, diarrhea.
+In the ED, patient was febrile to 103F, tachycardic, tachypneic, satting 97%on 4l and initially hypertensive but bp then dropped to 100's systolic.
+Per oncology fellow, patient was given solumedrol 50mg iv 1 given for stress dose.
+EKG - < 1mm ST depressions in V4-V6.
+CXR - no acute process.
+Diarrhea persisted in the ED.
+# Hypotension - Patient was initially hypotensive and admitted to the unit.
+At home she had a change in mental status as well as loose stools.
+On admission,CT abdomen showed thickened colonic mucosa c/w colitis.
+Stools were C.diff positive and patient was started back on course of PO vancomycin.
+ID was consulted and felt that since patient has had recurrent C diff colitis, she will warrant a long course of PO vanco, of at least 6months after discharge.
+PCP [**Name Initial (PRE) 1064**]: Pt was diagnosed with PCP pneumonia based on bronchoalveolar lavage results from the flexible bronchoscopy done on [**2158-10-24**].
+She was noted to also have an elevated beta-glucan level but not galactomannan.
+She was initially started on Bactrim for treatment of PCP pneumonia, but was noted to have increasing LFTs, so her Bactrim was changed to Atovaquone on day 7 of treatment.
+EEGs were done for her altered mental status, on [**2158-10-21**] and [**2158-10-29**].
+These showed sharp spikes indicative of encephalopathy, and per neuro-onc, also consistent with underlying seizure disorder.
+Adjustments were made to her medications, including adjusting the doses of Keppra and Ativan, and adding Lamictal, Seroquel, and PRN Zydis Zyprexa.
+# Thrombocytopenia: decreased production vs. sequestration vs. consumption, now worsening from 61 ---> 54.
+Transfused on admit for low plts, BRBPR.
+Now with only mild decrease c/w fluid resuscitation.
+The patient continued to have dropping platelets, requiring platelet infusions approximately every other day.
+She will need to continue to have her platelet level checked every Monday and Thursday at rehab, and she should be transfused 1unit of platelets for a platelet level < 30. .
+Acetaminophen 650 mg Tablet [**Month/Day/Year **]: One (1) Tablet PO Q6H (every 6 hours) as needed for Pain or fever.
+Nystatin 100,000 unit/mL Suspension [**Month/Day/Year **]: Five (5) ML PO QID (4 times a day) as needed for thrush.
+Pneumocystis pneumonia 2.
+VRE septicemia 4.
+Altered mental status Secondary Diagnosis: - high-grade large B-cell non-Hodgkin's lymphoma - sub-dural hematoma / intra-parenchymal hemorrhage s/p evacuation x4 after fall - heparin-induced thrombocytopenic thromboses - bilateral pulmonary emboli, LLE DVT s/p suprarenal IVC filter placement - hypertension - osteoarthritis - peripheral neuropathy   Discharge Condition: afebrile, vital signs stable, asymptomatic, infections treated, mental status improved   Discharge Instructions: You were admitted to [**Hospital1 18**] on [**2158-10-15**], with fevers and lethargy, and diarrhea.
+You were first admitted to the Intensive Care Unit for stabilization due to low blood pressures, and you were transferred out to the Bone Marrow Transplant unit once your pressures were stabilized.
+An abdominal CT showed findings consistent with colitis, and your stools were positive for C.diff, so you were started on oral Vancomycin for treatment, with a plan to continue this medication for at least 6 months after discharge.
+Bronchoalveloar Lavage was done on [**2158-10-24**], which showed evidence of Pneumocystis pneumonia, so you were started on treatment with Bactrim.
+Finally, your altered mental status was addressed while your were an inpatient.
+An EEG was done which showed continued sharp spikes, consistent with an encephalopathy, and the neuro-oncologists believed that you had continued underlying seizures, so you were started on Lamictal with a plan to uptitrate this dose.
+You will probably be able to stop the Ativan at that time, but do not do this without first discussing with your Neuro-Oncologist.

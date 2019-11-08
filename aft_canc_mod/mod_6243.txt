@@ -1,0 +1,52 @@
+Admission Date:  [**2192-11-30**]              Discharge Date:   [**2192-12-21**]  Date of Birth:  [**2132-11-12**]             Sex:   M  Service: NEUROSURGERY  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 78**] Chief Complaint: headache  Major Surgical or Invasive Procedure: [**2192-11-30**] external ventricular drain placement [**2192-11-30**] craniotomy for frontal IPH Multiple cerebral angiograms [**2192-12-18**] PEG PLACEMENT [**2192-12-18**] TRACHEOSTOMY PLACMENT   History of Present Illness: The patient is a 60 year old man from [**Country 2784**] h/o HTN who had a headache last night, took aspirin and went to bed.
+Left ventricular hypertrophy.
+Non-specific septal ST-T wave changes.
+No previous tracing available for comparison.
+Read by: [**Last Name (LF) **],[**First Name3 (LF) **] D.    Intervals Axes Rate PR QRS QT/QTc P QRS T 74 140 114 404/428 79 63 74   ([**Numeric Identifier 81929**]) [**Known lastname 81925**]-[**Known lastname 81926**],[**Known firstname 81927**] [**Medical Record Number 81928**] M  60  [**2132-11-12**]  Radiology Report CT C-SPINE W/O CONTRAST Study Date of [**2192-11-30**] 11:16 AM   [**Last Name (LF) 14311**],[**First Name3 (LF) **] EU   [**2192-11-30**] SCHED CT C-SPINE W/O CONTRAST   Clip # [**Clip Number (Radiology) 81930**] Reason: eval for cspine fx    [**Hospital 93**] MEDICAL CONDITION:    60 year old man with HTN p/w acute ALOC w/ HA and ?
+Sz, obtunded, + Fall no    signs of sig head trauma REASON FOR THIS EXAMINATION:    eval for cspine fx CONTRAINDICATIONS FOR IV CONTRAST:    None.
+Wet Read: ENYa [**First Name9 (NamePattern2) **] [**2192-11-30**] 12:26 PM No acute cervical fracture or dislocation.
+No significant prevertebral soft tissue swelling.
+Small posterior osteophyte at C5/C6.
+Final Report HISTORY: 60-year-old man with hypertension, presenting with acute loss of consciousness with headache and questionable seizure.
+Possible fall but no signs of acute trauma.
+FINDINGS: There is no evidence of acute cervical fracture or subluxation.
+There is no prevertebral soft tissue swelling.
+There are multilevel chronic degenerative changes, most prominent at C5-6 with posterior osteophyte, causing mild spinal canal stenosis.
+In the visualized lung apices, there are mild paraseptal emphysematous changes and bilateral dependent atelectasis.
+There are an endotracheal tube and a nasogastric tube.
+There is secretion pooling in the dependent position of the posterior pharynx.
+No acute cervical fracture or subluxation.
+Prominent posterior osteophytosis at level C5/C6, which increases risk of spinal cord injury even in minor trauma.
+THERE WERE NO PUSHBUTTON ACTIVATIONS.
+REFERRING DOCTOR: DR. [**First Name (STitle) **] L. [**Doctor Last Name **]   FINDINGS: ROUTINE SAMPLINGS: Showed a general suppression of the background with bursts of either generalized or left or right activity seen with a frequency of between 8 and 12 seconds.
+There were no epileptiform features seen.
+SPIKE DETECTION PROGRAMS: Showed occasional sharp and slow wave complexes in the left frontal region.
+Showed no epielptiform features.
+PUSHBUTTON ACTIVATIONS: There were no pushbutton activations in this file.
+IMPRESSION: This telemetry captured no ongoing seizure activity.
+The background activity was suggestive of a burst-suppression pattern and occasional sharp and slow wave complexes were seen in the left frontal region.
+INTERPRETED BY: [**Last Name (LF) **],[**First Name3 (LF) **] L.  (09-0137F)  [**Known lastname 81925**]-[**Known lastname 81926**],[**Known firstname 81927**] [**Medical Record Number 81928**] M  60  [**2132-11-12**]  Radiology Report UNILAT UP EXT VEINS US LEFT PORT Study Date of [**2192-12-7**] 8:23 AM   [**Last Name (LF) **],[**First Name3 (LF) **] J. NSURG SICU-B [**2192-12-7**] SCHED UNILAT UP EXT VEINS US LEFT PO   Clip # [**Clip Number (Radiology) 81931**] Reason: BRAIN HAEMORRHAGE ASSESS FOR DVT    [**Hospital 93**] MEDICAL CONDITION:    60 year old man with REASON FOR THIS EXAMINATION:    r/o DVT    Final Report HISTORY: 60-year-old male.
+There is a dampened waveform appreciated in the left subclavian vein compared to the right, suggestive of central obstruction.
+There is no intraluminal thrombus identified.
+This could be secondary to prior occlusion or aplasia.
+No evidence for deep venous thrombosis in the left upper extremity.
+No intraluminal thrombus was identified.
+IMPRESSION: No evidence for DVT in the bilateral lower extremities.
+No evidence of acute cardiopulmonary disease.
+[**2192-12-4**] pt underwent cerebral angiogram which demonstrated mild vasospasm.
+[**2192-12-11**] pt had CTA/P which demonstrated distal A1 A2 mild vaspasm a cerebral angiogram was ordered for the following am.
+His blood cultures grew out gram negative rods and he was started on zosyn for this.
+Trach and peg were performed on [**12-18**] without complications.
+Sodium Chloride 0.9 % 0.9 % Syringe Sig: One (1) ML Injection Q8H (every 8 hours) as needed for line flush.
+Discharge Disposition: Extended Care  Discharge Diagnosis: ACOMM ANEURYSM RUPTURE WITH COIL OF ANEURYSM SUBARACHNOID HEMORRHAGE INTRAVENTRICULAR HEMORRHAGE OPHTHALMIC ARTERY ANEURYSM / NOT TREATED LEFT INTERNAL CAROTID ARTERY ANEURYSM / NOT TREATED CEREBRAL VASOSPASM RESPIRATORY FAILURE DYSPHAGIA TRANSIENT THROMBOCYTOSIS   Discharge Condition: Neurologically stable at present   Discharge Instructions: General Instructions  ??????
+Exercise should be limited to walking; no lifting, straining, or excessive bending.
+If your wound closure uses dissolvable sutures, you must keep that area dry for 10 days.
+Increase your intake of fluids and fiber, as narcotic pain medicine can cause constipation.
+If you have been prescribed Dilantin (Phenytoin) for anti-seizure medicine, take it as prescribed and follow up with laboratory blood drawing in one week.
+New onset of tremors or seizures.
+Any confusion or change in mental status.
+Any numbness, tingling, weakness in your extremities.
+Pain or headache that is continually increasing, or not relieved by pain medication.
+Any signs of infection at the wound site: redness, swelling, tenderness, or drainage.
+?Please return to the office in [**5-31**] days(from your date of surgery) for removal of your staples/sutures and/or a wound check.
+[**Name10 (NameIs) **] you are discharged to an inpatient facility, the [**Hospital 81935**] medical staff can also discontinue the sutures or staples.

@@ -1,0 +1,8 @@
+Name:  [**Known lastname 16413**],[**Known firstname **] JR                  Unit [**Name2 (NI) **]:   [**Numeric Identifier 16414**]  Admission Date:  [**2145-10-29**]              Discharge Date:   [**2145-11-8**]  Date of Birth:  [**2090-1-17**]             Sex:   M  Service: MEDICINE  Allergies: Peanut  Attending:[**First Name3 (LF) 14519**] Addendum: Brief hospital course continued...  # Transaminitis: Pt was found to have rising LFTs.
+Ferritin was elevated to 1755 but in the setting of acute infection.
+They were negative for hepatitis B and C (including Hepatitis B surface antibody) but positive for hepatitis A antibody.
+He was diagnosed with community-acquired pneumonia.
+Imaging revealed a multifocal pattern.
+Pulmonology was consulted, and recommended treating for community-acquired pneumonia, covering for atypical organisms.
+He should follow-up with Dr. [**Last Name (STitle) 16415**] of [**Hospital1 8**] Pulmonology in [**3-9**] for follow-up of pnuemonia and emphysema (seen on imaging).
+An intial beta-glucan assay was positive, but no other sign of fungal infection was identified; this it may have been a false positive result.

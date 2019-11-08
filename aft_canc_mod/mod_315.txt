@@ -1,0 +1,45 @@
+Admission Date:  [**2195-11-2**]              Discharge Date:   [**2195-12-3**]  Date of Birth:  [**2129-4-19**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**Last Name (NamePattern4) 290**] Chief Complaint: fever, shortness of breath  Major Surgical or Invasive Procedure: bronchoscopy endotracheal intubation  History of Present Illness: 66 yo M w/ h/o NHL-DLBCL type, s/p last cycle of chemo [**10-27**], presented to ED on [**2195-11-2**] with fever, lethargy, and diarrhea x few days with fevers to 103F at home.
+Diarrhea resolved by the time of admission, but still with decreased po's.
+Overnight on [**11-3**], received Cefepime for broad spectrum coverage of neutropenic fever.
+on [**11-4**], pt was patient felt lightheaded with palpitations.
+Telemetry revealed narrow-complex tachycardia HR 170's with decrease in blood pressure from 90's to 70's systolic.
+In the [**Hospital Unit Name 153**], BP stable, sinus tachycardia to 107.
+No complaint of chest pain or palpitations.
+ONC History [**6-1**] gastric and GE junstion bx c/w NHL-DLBCL type [**7-2**] negative cytogenetics and flow cytometry for marrow involvement [**7-2**] s/p first cycle of R-[**Hospital1 **]- [**Hospital1 **] was given rather than CHOP due to a significant cardiac history and a decrease risk of cardiotoxicity with anthracycline that is given as continuous infusion [**2195-7-21**] admitted for fever/neutropenia-no documented source of infection and his fevers resolved with recovery of his counts He did not have disease outside the esophagus or stomach by CT scan or PET scan [**10-1**] PET- resolution FDG uptake in distal esophagus and prox.
+Father with also significant cardiac history   Physical Exam: V: Tc 99.6F Tm 102.1F HR 92-170's BP 112/76 (76/54-124/67) 21 96%RA General: NAD, AAOx3, pleasant male laying in bed HEENT: OP clear, MMM, no lesions or exudates Neck: No bruits, no LAD or thyromegaly, supple, JVP approx 10 cm  Cardiac: RRR, tachy, nl S1 and S2, no m/r/g Lungs: Crackles at bases bilaterally.
+no wheezes rales or ronchi  Abdomen: Soft, nt/nd, NABS, no organomegaly Ext: No c/c/e, 2+ DP and PT pulses   Pertinent Results: [**2195-11-2**] 07:45PM   WBC-0.1*# RBC-2.73* HGB-9.2* HCT-27.5* MCV-101* MCH-33.9* MCHC-33.6 RDW-17.6* [**2195-11-2**] 07:45PM   NEUTS-25* BANDS-0 LYMPHS-47* MONOS-20* EOS-5* BASOS-3* ATYPS-0 METAS-0 MYELOS-0 [**2195-11-2**] 07:45PM   HYPOCHROM-NORMAL ANISOCYT-1+ POIKILOCY-1+ MACROCYT-3+ MICROCYT-NORMAL POLYCHROM-1+ OVALOCYT-1+ SCHISTOCY-OCCASIONAL TEARDROP-1+ [**2195-11-2**] 07:46PM   LACTATE-0.8 [**2195-11-2**] 10:00PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 LEUK-NEG [**2195-12-2**] 05:29AM BLOOD WBC-2.5* RBC-2.31* Hgb-7.9* Hct-24.6* MCV-106* MCH-34.0* MCHC-32.1 RDW-20.1* Plt Ct-68* [**2195-12-1**] 03:56AM BLOOD Neuts-94* Bands-0 Lymphs-1* Monos-5 Eos-0 Baso-0 Atyps-0 Metas-0 Myelos-0 [**2195-11-21**] 08:38AM BLOOD FDP-10-40 [**2195-12-2**] 05:29AM BLOOD Glucose-107* UreaN-41* Creat-1.2 Na-113* K-6.7* Cl-85* HCO3-25 AnGap-10 [**2195-11-30**] 02:42AM BLOOD LD(LDH)-796* [**2195-11-21**] 08:38AM BLOOD Hapto-226* [**2195-11-23**] 03:20PM BLOOD IgG-379* IgA-74 IgM-13* [**2195-12-2**] 06:41AM BLOOD Type-ART Temp-36.3 pO2-75* pCO2-47* pH-7.30* calTCO2-24 Base XS--3 .
+Bronchoscopy: Stain POSITIVE for PCP.
+CXR: [**11-5**] - Cardiac silhouette is mildly enlarged and pulmonary vascularity remains engorged.
+Diffuse hazy opacities have progressed bilaterally accompanied by underlying interstitial opacities.
+Although at least partially due to pulmonary edema, coexisting infection should be considered, particularly in the left upper lobe.
+Extensive ground-glass change along with subpleural reticulation, airtrapping and traction bronchiectasis most likely representing the known PCP infective change.
+No pulmonary embolism or aortic dissection.
+[**Last Name (un) **] pathology [**2195-11-19**] INTERPRETATION Non-specific T-cell dominant lymphoid profile; diagnostic immunophenotypic features of involvement by B-cell lymphoma are not seen in specimen.
+cytometry: Atypical cell present, favor reactive pneumocytes.
+No viral cytopathic effects seen.
+ECHO [**11-19**]: No atrial septal defect or patent foramen ovale is seen by 2D or saline contrast.
+Images were suboptimal - a patent foramen ovale or secundum ASD cannot be definitively excluded on the basis of this study   Brief Hospital Course: A/P: 66 y/o M w/ NHL-DLBCL with primary involvement of the distal esophagus and proximal stomach, s/p R-[**Hospital1 **] p/w neutropenic fever with episode of symptomatic SVT with hypotension now in NSR without intervention.
+# PCP [**Name Initial (PRE) 1064**]: Upon admission - CXR c/w multi-focal pneumonia.
+Pt with tachypnea and respiratory alkalosis.
+Fever as high as 103.3.
+Previously started on cefepime and levofloxacin for neutropenic fever (ANC 240 on admission).
+Initial sputum cx showed 1+ GPC in pairs but negative for PCP, [**Name10 (NameIs) **] maintained high suspicion due to bilateral infiltrate on CXR, rising LDH and hypoxia.
+[**Name10 (NameIs) **] with a component of heart failure requiring diuresis.
+He the had a protracted course with pulmonary microatelectasis complicated by barotrauma, pneumothoraces, and oxygen toxicity from ventilation with high O2 and pressure/volume requirements.
+He underwent 2 BALs with no addititive information, and he has continued to decline despite antibiotic therapy, steroids, and a trial of proning.
+# Hyperkalemia: his course was also complicated by elevated potassium.
+#Hyponatremia: he had persistent and worsening hyponatremia during the last few weeks of his stay.
+Pt had normal EF with some diastolic dysfunction and a negative bubble study by ECHO.
+Per EP/ Cardiology appears to be atrial tachycardia given p-waves.
+Hx of lightheadedness and palpitations in the past.
+Has seen Dr. [**Last Name (STitle) **] for paroxysmal SVT in the past, treated with atenolol.
+New event [**11-10**] with rates to 180s, no conversion with Valsalva or carotid massage.
+He was covered with beta blockage and amiodarone and had no further episodes throughout his stay.
+# Elevated LFTs: Mildly elevated, will cont.
+A abdominal film showed now obvious impaction or dilation of his colon or small bowel.
+# CAD: S/p 2 stents in the past.
+No chest pain w/ SVT.
+# NHL:  S/p neulasta, initially neutropenic given recently completed final cycle of chemotherapy.
+BAL revealed atypical cells - could not r/o lymphoid origin.
+# Iron deficiency anemia: Hct at baseline.
+This was complicated by high residuals which limited his feeding.

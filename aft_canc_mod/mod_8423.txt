@@ -1,0 +1,52 @@
+Admission Date:  [**2195-10-2**]              Discharge Date:   [**2195-10-7**]  Date of Birth:  [**2114-2-19**]             Sex:   F  Service: CARDIOTHORACIC  Allergies: Keflex  Attending:[**Last Name (NamePattern1) 1561**] Chief Complaint: Pneumonia, lung mass  Major Surgical or Invasive Procedure: Bronchoscopy, snare excision of left upper lobe mass, L4 node biopsy  History of Present Illness: 81 year old woman transferred from [**Hospital 1562**] Hospital with respiratory failure.
+Chest CXR showed an opacified left upper lobe.
+Bronchoscopy at OSH showed an obstructing lesion in the left upper lobe.
+Past Medical History: PMHx: COPD (home O2), "brain aneurysm", HTN, chronic UTI, MI '[**93**]  Social History: Nursing home resident  Family History: non-contributory  Physical Exam: Expired  Pertinent Results: [**2195-10-7**] 03:00AM BLOOD WBC-10.4 RBC-3.57* Hgb-10.3* Hct-30.6* MCV-86 MCH-29.0 MCHC-33.7 RDW-15.0 Plt Ct-305 [**2195-10-6**] 02:26AM BLOOD WBC-11.3* RBC-3.54* Hgb-10.4* Hct-30.5* MCV-86 MCH-29.4 MCHC-34.2 RDW-15.0 Plt Ct-274 [**2195-10-4**] 04:08AM BLOOD WBC-14.1* RBC-3.99* Hgb-11.6* Hct-33.2* MCV-83 MCH-29.1 MCHC-35.0 RDW-14.9 Plt Ct-291 [**2195-10-2**] 09:01PM BLOOD WBC-11.9* RBC-3.76* Hgb-10.8* Hct-31.2* MCV-83 MCH-28.7 MCHC-34.7 RDW-14.9 Plt Ct-270 [**2195-10-2**] 09:01PM BLOOD Neuts-85.6* Lymphs-10.4* Monos-3.7 Eos-0.3 Baso-0.1 [**2195-10-7**] 03:00AM BLOOD Plt Ct-305 [**2195-10-7**] 03:00AM BLOOD PT-12.1 PTT-26.8 INR(PT)-1.0 [**2195-10-6**] 02:26AM BLOOD Plt Ct-274 [**2195-10-6**] 02:26AM BLOOD PT-12.1 PTT-27.8 INR(PT)-1.0 [**2195-10-5**] 03:00AM BLOOD Plt Ct-268 [**2195-10-5**] 03:00AM BLOOD PT-12.1 PTT-23.8 INR(PT)-1.0 [**2195-10-4**] 04:08AM BLOOD Plt Ct-291 [**2195-10-7**] 03:00AM BLOOD Glucose-115* UreaN-9 Creat-0.8 Na-143 K-3.5 Cl-106 HCO3-28 AnGap-13 [**2195-10-6**] 02:26AM BLOOD Glucose-112* UreaN-11 Creat-0.7 Na-146* K-3.7 Cl-108 HCO3-30 AnGap-12 [**2195-10-5**] 03:00AM BLOOD Glucose-129* UreaN-15 Creat-0.6 Na-143 K-4.2 Cl-105 HCO3-31 AnGap-11 [**2195-10-4**] 04:08AM BLOOD Glucose-116* UreaN-17 Creat-0.8 Na-143 K-4.2 Cl-104 HCO3-32 AnGap-11 [**2195-10-3**] 04:27AM BLOOD Glucose-104 UreaN-22* Creat-0.7 Na-143 K-4.0 Cl-102 HCO3-32 AnGap-13 [**2195-10-2**] 09:01PM BLOOD Glucose-123* UreaN-21* Creat-0.7 Na-142 K-3.0* Cl-100 HCO3-33* AnGap-12 [**2195-10-7**] 03:00AM BLOOD Albumin-2.7* Calcium-8.1* Phos-3.9 Mg-2.1 [**2195-10-6**] 02:26AM BLOOD Calcium-8.1* Phos-4.4 Mg-2.1 [**2195-10-5**] 03:00AM BLOOD Calcium-8.1* Phos-4.2 Mg-2.2 [**2195-10-3**] 04:27AM BLOOD Calcium-8.1* Phos-3.9 Mg-2.0 [**2195-10-2**] 09:01PM BLOOD Calcium-8.0* Phos-4.3 Mg-2.1 [**2195-10-7**] 09:22AM BLOOD Type-ART pO2-115* pCO2-45 pH-7.43 calTCO2-31* Base XS-5 [**2195-10-7**] 03:13AM BLOOD Type-ART Temp-36.8 pO2-115* pCO2-49* pH-7.42 calTCO2-33* Base XS-6 -ASSIST/CON Intubat-INTUBATED [**2195-10-6**] 02:30PM BLOOD Type-ART [**2195-10-6**] 10:58AM BLOOD Type-ART pO2-120* pCO2-53* pH-7.38 calTCO2-33* Base XS-5 Intubat-INTUBATED [**2195-10-5**] 09:55PM BLOOD Type-ART pO2-107* pCO2-50* pH-7.40 calTCO2-32* Base XS-4 [**2195-10-2**] 09:02PM BLOOD Type-ART pO2-72* pCO2-44 pH-7.51* calTCO2-36* Base XS-10 [**2195-10-7**] 10:58AM BLOOD Glucose-89 K-3.7 [**2195-10-7**] 09:22AM BLOOD O2 Sat-98 RADIOLOGY  Final Report  CHEST (PORTABLE AP)  [**2195-10-7**] 7:14 AM  CHEST (PORTABLE AP)  Reason: Assess for lung re-expansion, new processes  [**Hospital 93**] MEDICAL CONDITION: 81 year old woman with LUL mass, post obstructive pneumonia s/p bronch, resection of mass REASON FOR THIS EXAMINATION: Assess for lung re-expansion, new processes HISTORY: Left upper lobe mass post bronchoscopy for obstructive pneumonia.
+The left lower thorax is partially opacified suggesting both atelectasis and effusion.
+Equivocal small right effusion.
+Right lung normally aerated as is the visualized left upper lobe with no mass identified.
+There is minimal if any left mediastinal shift.
+Multiple tubes and catheters are satisfactorily positioned and no PTX on this semi-erect film.
+Allowing for technical differences there is no change from similar exam one day ago.
+IMPRESSION: No short interval change in left lower lobe atelectasis/effusion.
+There is complete opacification of the left hemithorax with slight tracheal deviation to the left.
+No pneumothorax is seen.
+IMPRESSION: Left lung collapse with tracheal deviation.
+INDICATION: This is an 81-year-old female with a reported history of left upper lobe obstructing lesion.
+COMPARISONS: There are no prior studies available for comparison.
+Coronal and sagittal images were also obtained.
+There has been collapse of the left upper and left lower lobes causing shift of the mediastinum to the left.
+There are diffuse coronary calcifications but otherwise the heart and great vessels are unremarkable.
+There are bilateral pleural effusions, left greater than right.
+There is associated volume loss.
+There are areas of consolidation that appear to be loculated particularly in the anterior aspect on the left.
+In the aerated portions of the left lung, there are several tree and [**Male First Name (un) 239**] appearing areas that could represent an underlying infectious process.
+There are no definitive endobronchial lesions visualized (CT is a limited modality to fully evaluate for endobronchial lesions).
+There is no mediastinal, hilar or axillary lymphadenopathy that meets criteria for pathology.
+CT OF THE ABDOMEN WITH AND WITHOUT IV CONTRAST: There is a small amount of air present within the biliary system of the liver.
+These areas could represent areas of altered perfusion or they could represent intrahepatic masses.
+There are no other focal liver abnormality is identified.
+There are two hypodense areas, one each in the right and left kidney that are too small to characterize but likely represent simple renal cysts.
+There is one area of hypodensity measuring 1.3 cm in diameter that is rounded in shape and located with the retrocrural space that most likely represent fluid, given the associated pleural effusions.
+However, it could also represent a lymph node but is considered much less likely.
+There are no other pathologically enlarged by CT criteria identified mesenteric or retroperitoneal lymph nodes.
+There is no free air or free fluid in the abdomen.
+There are no masses in the adnexa.
+There is no pathologic pelvic or inguinal lymphadenopathy.
+There is no free fluid in the pelvis.
+BONE WINDOWS: There are no suspicious blastic or lytic lesions identified.
+Volume loss associated with mediastinal shift to the left.
+Bilateral pleural effusions, left greater than right.
+No definitive left upper lobe endobronchial lesion seen.
+Two hypodense areas measuring 4.3 and 2.2 cm diameter within segments [**1-23**] of the liver concerning for either focal masses versus perfusion defects.
+Further analysis of this area is recommended by ultrasound.
+Bilateral hypodense lesions of the kidneys, too small to characterize, likely represents a renal cysts.
+A CXR showed There is complete opacification of the left hemithorax with slight tracheal deviation to the left.
+Whe underwent a flexible bronchoscopy on [**10-2**] which confirmed the existence of an obstructing mass in the left upper lobe.
+A CT scan on [**10-3**] showed a left upper and lower lobe consolidation/collapse.
+Volume loss associated with mediastinal shift to the left.
+Bilateral pleural effusions, left greater than right.
+Two hypodense areas measuring 4.3 and 2.2 cm diameter within segments [**1-23**] of the liver concerning for either focal masses versus perfusion defects.
+She was taken to the OR with interventional pulmonology team and underwent a biopsy of 4L nodes, snare resection of left upper lobe mass.
+Given the patient's wishes and poor prognossis given the advanced stage of her pulmonary disease, it was the family's wish to declare the patient "comfort measures only" and extubate the patient giving her morphine for comfort.
+Discharge Medications: N/A  Discharge Disposition: Expired  Discharge Diagnosis: lung cancer pneumonia End-stage COPD  Discharge Condition: expired  Discharge Instructions: expired  Followup Instructions: none    Completed by:[**2195-10-7**

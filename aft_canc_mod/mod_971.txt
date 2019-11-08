@@ -1,0 +1,38 @@
+Admission Date:  [**2134-4-4**]              Discharge Date:   [**2134-4-9**]  Date of Birth:  [**2069-10-19**]             Sex:   M  Service: MEDICINE  Allergies: Betadine / Adhesive Tape / Percocet  Attending:[**First Name3 (LF) 3276**] Chief Complaint: GI bleeding, VF arrest  Major Surgical or Invasive Procedure: none  History of Present Illness: 64 yo male with esophageal cancer s/p XRT, on chemo, presented to the ED with complaint of coffee-ground emesis 3x over the past 2 days.
+He had last chemo dose on Monday and had a week of his usual post-chemo fatigue.
+He had significant epistaxis the night prior to vomiting that required packing.
+Also complained of diarrhea, but denies melena.
+Had complained of some abdominal pain.
+He did endorse lightheadedness and dizziness.
+Throughtout ED course, compained of abdominal pain, and wife noted he had some ectopy on his tele.
+He denied any chest pain, shortness of breath, or palpatations.
+OG tube placed, no red blood on lavage, no coffee-grounds were noted.
+Norepinephrine started for BP support.
+Of note, patient had been using MagicMouth for esophageal discomfort.
+Past Medical History: COPD/ pulmonary fibrosis HTN DM2 neuropathy, nephropathy Barrett's esophagus and GERD, recently (in [**October 2133**]) diagnosed with esophageal CA s/p XRT being treated now with 5-FU and CPT-11; AVR in [**2133**].
+[**Male First Name (un) 1525**] mechanical valve CAD s/p 2v-CABG [**19**] PPM placed for AF (previously treated on amiodarone- discontinued because of concerns pulmonary fibrosis from amiodarone) S/P AVJ ablation for atrial fibrillation; VVI electronic Sigma Pacemaker; congestive heart failure [**2-18**] diastolic dysfunction (EF 35%); Strongyloides resulting in eosinophilia and dyspnea, hypothyroid, left renal artery stenosis, htn, hypercholesterol, CRI (baseline Cr 2.8-3.4)   Social History: Married.
+The cardiomediastinal silhouette is stable with a large left atrial shadow.
+Again noted is left-sided pleural thickening and adjacent parenchymal scarring.
+There is no evidence of pneumothorax.
+There is a small left pleural effusion.
+There is no evidence of free air underneath the hemidiaphragms.
+There is no evidence of acute obstruction.
+Brief Hospital Course: 64 yo male with esophageal cancer, one week after his last chemo, who presented with coffee-grounds emesis after having significant epistaxis requiring packing.
+While in the ED, patient had a VT/VF arrest that resolved after one shock, and remained hypotensive thereafter.
+VT/VF arrest: The pt was found in the ED to be unresponsive with a rapid heart rhythm that was assessed by the ED physicians to be V-tach vs VF.
+There were no ECG rhythm strips recorded for review.
+Patient is at risk for VT/VF with his hx of CHF as well as prior CAD.
+He was started on a lidocaine drip at 30ug/kg per min for suppression of VT, which was continued on arrival to the [**Hospital Unit Name 153**].
+The pt was evaluated by cardiology in the ED who agreed that he had a possible episode of VF and that lido vs amio could be continued initially.
+Given that there were no recurrent events, lidocaine was discontinued on the following day.
+It was likely that sepsis was the precipitating event.
+The patient tolerated amiodarone loading, and he had no further events on telemetry.
+GI bleed/hematemesis: Likely this was from large epistaxis the night prior to presentation and did not represent GI bleed.
+However, he is at risk for bleed given esophageal cancer/xrt.
+Hct trended down from ~30 to 23.3 during his hospital course, and he was guaiac positive, though he had no gross blood loss since ICU admission.
+INR was 5.3, and he was reversed with 3 U FFP and transfused 2U pRBC in setting of CAD and recent VT event.
+CAD s/p CABG:  He had no current evidence of active ischemia, and ruled out by enzymes.
+Aspirin not given due to low platelet counts, and statin started.
+Aortic valve replacement: Pt has St. Jude's valve with high risk for clot and requiring anti-coagulation.
+Disp:*20 Tablet(s)* Refills:*0*   Discharge Disposition: Home  Discharge Diagnosis: Primary: Vfib/VT febrile neutropenia CAD s/p CABG .
+Secondary: AVR s/p St. Jude's valve PPM for afib VVI electronic sigma pacemaker COPD hypertension DM2 GERD CRI hypercholesterolemia   Discharge Condition: stable   Discharge Instructions: Please call Dr. [**Last Name (STitle) **] or [**Doctor Last Name 3274**] if you have fever, chills, increasing esophageal pain, nausea, vomiting, shortness of breath, chest pain, palpitations, diarrhea or any other discomfort.

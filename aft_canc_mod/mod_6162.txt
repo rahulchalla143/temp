@@ -1,0 +1,41 @@
+Admission Date:  [**2115-5-26**]              Discharge Date:   [**2115-5-30**]  Date of Birth:  [**2035-12-27**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 545**] Chief Complaint: transfer for management of cholangitis  Major Surgical or Invasive Procedure: ERCP ([**2115-5-27**])  History of Present Illness: 79M with recently diagnosed, inoperable pancreatic cancer s/p palliative biliary stent in [**2-/2115**] presented to [**Hospital **] Hosp on [**5-25**] with rigors.
+The day of admission, he developed rigors and mid abd pain shortly after eating.
+Pt was hypotensive with SBPs 70s-80s, responsive to IVF, on HD#2 as well.
+Cardiac enzymes showed a troponin peak of 0.2 with negative CPK.
+DNR/DNI was confirmed with HCP and pt's brother, but risks and benefits of transfer were discussed and pt and family decided to proceed with palliative ERCP for stent change.
+Past Medical History: # Pancreatic Ca dx'd at [**Hospital1 112**] after presenting with fever and jaundice; staging CT scan apparently demonstrated 2 pulmonary nodules, which were not biopsy proven.
+Presenting cholangitis was palliated with ERCP and metal stent x2 in [**2115-2-15**] # MRSA pna rx'd with linezolid, [**1-/2115**] # CKD # BPH # GERD # PPM for sick sinus; afib # liver abscess in [**2111**] complicated by GNR sepsis and ARDS # recurrent pancreatitis # DM # NSTEMI in [**12/2113**]; ischemic myopathy with EF 40%   Social History: SocHx: pt has developmental delay, lives with brother [**Name (NI) **].
+Studies: ======== TTE ([**5-30**]): The left atrium is mildly dilated.
+Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded.
+The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present.
+No masses or vegetations are seen on the aortic valve, but cannot be fully excluded due to suboptimal image quality.
+Trace aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+No masses or vegetations are seen on the mitral valve, but cannot be fully excluded due to suboptimal image quality.
+Trivial mitral regurgitation is seen.
+There is mild pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+No vegetations or significant valvular regurgitation seen.
+Preserved global biventricular systolic function.
+ECG ([**5-27**]): Atrially paced rhythm and occasional intrinsic atrial activation with A-V conduction and A-V conduction delay.
+Low limb lead voltage.
+Prior anteroseptal myocardial infarction.
+Compared to the previous tracing of [**2115-5-26**] no diagnostic interim change.
+Cholangiogram showed a high grade distal CBD stricture measuring 3 cm.
+A 60 mm by 10mm Covered biliary wall stent (Lot No [**Serial Number 78585**]) biliary stent was placed successfully across the distal biliary stricture with flow of pus and obstructed bile.
+Micro: ------ Blood Cx ([**5-27**], [**5-28**], [**5-30**] x 2) - No growth to date Blood Cx ([**5-25**], [**Hospital 5871**] Hospital) - E. Coli, ESBL (sensitive to Amikacin, Ertapenem, Nitrofurantoin, Imipenem, Bactrim, Zosyn)  Brief Hospital Course: A/P 79M with non-operable pancreatic cancer s/p biliary stenting, now with cholangitis.
+# cholangitis/#septicemia/#Pancreatic Cancer Initially covered with meropenem and ciprofloxacin.
+The patient underwent ERCP that showed CBD stricture.
+On [**5-29**], culture data was obtained from [**Hospital 5871**] Hospital which showed ESBL E. Coli.
+A TTE was performed and did not show any evidence of endocarditis (however image quality was somewhat suboptimal).
+His pancreatic cancer is reportd to be inoperable given his overall risk factors (per surgeons at [**Hospital1 112**]).
+# Atrial Fibrillatin The patient's B-blocker was held during this hospitalization.
+Plan to restart B-blocker, however there was some reports of dizzy spells prior to initial admit.
+# BPH Tamsulosin was initially held, however subsequently was restarted.
+# CKD, Stage III Cr remained relatively stable during this hospitalization .
+# Access Midline (placed [**5-30**]) .
+# Code - DNR/DNI   Medications on Admission: colace 100 qhs omeprazole 20 daily flomax 0.4mg daily simethicone tid aspirin 81mg coumadin 2.5mg daily mvi HISS Metoprolol 50mg [**Hospital1 **] .
+Discharge Disposition: Extended Care  Facility: [**Last Name (un) 6978**] House of [**Location (un) 5871**]  Discharge Diagnosis: Cholangitis Septicemia (ESBL E. Coli) Pancreatic Cancer Atrial Fibrillation Type II Diabetes Mellitus Benign Prostatic Hypertrophy Chronic Kidney Disease, Stage III  Discharge Condition: Afebrile, vital signs stable, tolerating PO  Discharge Instructions: You will need to take antibiotics (Meropenem) for 10 more days (last dose on [**6-8**]) since you had bacteria in your blood.
+Your B-blocker (metoprolol) was held while you were here due to your low initial blood pressures.
+If you feel dizzy or lightheaded or your heart rate is slow, it should be stopped.
+Please call your doctor or return to the emergency room if you should have increased abdominal pain, high fevers, chest pain, shortness of breath, or any other concerning symptom.

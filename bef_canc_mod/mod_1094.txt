@@ -1,0 +1,41 @@
+Admission Date:  [**2132-2-9**]              Discharge Date:   [**2132-2-15**]  Date of Birth:  [**2058-1-23**]             Sex:   M  Service: [**Year (4 digits) 662**]  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**Male First Name (un) 4578**] Chief Complaint: chest pain  Major Surgical or Invasive Procedure: PICC line placement   History of Present Illness: Patient is a 74 yo M with h/o papillary urothelial carcinoma s/p resection BCG treatment in [**2125**] presents with chest pain.
+He developed left sided chest pain around 2pm and it occurred intermittently throughout the day.
+Each episode lasted a few minutes at a time.
+The pain is described as a "pressure" that is relieved with rest and worsens with exertion.
+The pain did not radiate and he denies SOB, diaphoresis, lightheadedness, nausea, palpitation, pleurisy.
+He denied pleuritic chest pain, LE edema or pain.
+he is comfortable and reports his chest pain is much improved.
+Past Medical History: - h/o papillary urothelial carcinoma, low grade, s/p transurethral resection of bladder tumor [**1-/2126**] c/b clot formation requiring clot evacuation and fulguration & s/p BCG treatment in [**2125**] - h/o GIB, likely lower with negative EGD result (superficial antrum erosion) [**7-/2127**] - prolapsed internal and external hemorhoids - h/o colon polyps, last colonoscopy [**2132-11-29**] - diverticulosis - headache - h/o PNA - gout  Social History: Retired, used to work at [**Company 22916**] in sales.
+Family History: No history of early MI, diabetes.
+- colon cancer - brother with ?
+liver cancer - father died at 88, mother died at 94  Physical Exam: VS - T- 97.0, HR- 63, BP- 134/78, RR- 20, SaO2- 100% on RA GENERAL - Alert, interactive, well-appearing in NAD HEENT - EOMI, sclerae anicteric, MMM, OP clear NECK - Supple, no JVD HEART - RRR, nl S1-S2, no MRG LUNGS - CTAB, no r/rh/wh, good air movement, resp unlabored, no accessory muscle use ABDOMEN - NABS, soft/NT/ND, no masses or HSM EXTREMITIES - WWP, no c/c/e, 2+ peripheral pulses SKIN - no rashes or lesions LYMPH - no cervical LAD NEURO - awake, A&Ox3, CNs II-XII grossly intact, no focal deficits, gait deferred.
+Compared to the previous tracing of [**2126-2-8**] no change.
+The heart size is normal, and there is no appreciable pleural abnormality.
+There is no interstitial pulmonary abnormality.
+Bronchial and parenchymal changes in the left lower lobe accompanying small hiatus hernia and areas of esophageal distention suggest aspiration, and raise question of esophageal motility abnormality.
+No aortic regurgitation is seen.
+No mitral regurgitation is seen.
+There is no pericardial effusion.
+There were no significant ST segment changes throughout the study (normalization noted in lead V2 during exercise).
+The rhythm was sinus with rare, isolated apbs and vpbs throughout the study.
+IMPRESSION: No anginal type symptoms or ischemic EKG changes to achieved worload.
+INTERPRETATION: Left ventricular cavity size is mildly enlarged.
+Attenuation corrected resting and stress perfusion images reveal uniform tracer uptake throughout the left ventricular myocardium.
+Mild left ventricular enlargement.
+Normal LVEF = 52%  Brief Hospital Course: 74yoM with h/o papillary urothelial carcinoma admitted on [**2132-2-9**] from [**Hospital1 **]-N for acute onset CP (trop peaked at 0.16, no ischemic EKG changes) who was transferred to the ICU on [**2-11**] for fevers /hypotension and was found to have Pseudomonal sepsis.
+# Pseudomonal sepsis: Overnight on HD 2 the patient developed high fevers and became persistently hypotensive.
+He was transferred to the ICU where cultures were sent but patient had no obvious source of infection based on exam.
+Chest imaging suggested possible aspiration pneumonia, but urine culture from [**2-11**] was negative and u/a from [**1-/2049**] was negative.
+He was initially given a dose of Vanc and Zosyn on the floors, which was switched in the ICU to ceftriaxone and Azithromcin to cover for possible lung sources and atypical coverage.
+He remained normotensive and was transitioned to Levofloxacin, and was transferred back to the medical floors.
+Abdominal source of infection was considered as the patient had a history of  diverticulosis, however, in the absence of associated symptoms or exam findings, further evaluation with imaging was not pursued.
+The patient remained afebrile from [**2-11**] and w/o leukocytosis from [**2-12**].
+# NSTEMI: Patient presented with anginal symptoms and found to have elevated troponins with normal CK-MB with no significant EKG changes.
+Cardiac echo later revealed no wall motion abnormalities.
+Exercise stress test with Sestamibi revealed no anginal type symptoms or ischemic EKG changes and normal myocardial perfusion.
+Upon further review, in the absence of significant underlying CAD risk factors and presence of bacteremia, the patient's presentation was felt to be more likely representative of demand ischemia.
+)(s)* Refills:*2*   Discharge Disposition: Home With Service  Facility: Critical Care Systems  Discharge Diagnosis: DEMAND MYOCARDIAL ISCHEMIA GRAM NEGATIVE SEPSIS   Discharge Condition: Mental Status: Clear and coherent.
+Discharge Instructions: Dear Mr. [**Known lastname 20137**],  You were admitted to the hospital for chest pain and suspected to be having a heart attack.
+You were treated first with medications with plan to get a cardiac catheterization to check for a blocked artery.
+Before this could be done, you developed a severe bloodstream infection for which you had to be transferred to the intensive care unit.
+Based upon this test, we suspect that you may not have had a heart attack but rather had heart muscle stress in the setting of a bloodstream infection.

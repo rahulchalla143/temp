@@ -1,0 +1,56 @@
+Admission Date:  [**2169-11-22**]              Discharge Date:   [**2169-12-2**]   Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 3043**] Chief Complaint: dyspnea, nausea, vomiting  Major Surgical or Invasive Procedure: Intubation/Extubation [**First Name3 (LF) **] RIJ central venous line placement, removal PICC placement   History of Present Illness: This is an 85yo F with a h/o choledocholithiasis, HTN, renal CA, and dementia who presented to [**Company 191**] today with dyspnea and vomiting.
+In addition, the patient has had dyspnea with minimal exertion associated with nonproductive cough and chronic orthopnea.
+She has also experienced weakness and 2 mild falls (no trauma or LOC).
+She has had diarrhea four to five times a day, although may have chronic diarrhea.
+Due to report of COPD history, she initially received combivent and methylprednisolone, as well as ASA and ceftriaxone.
+Once labs revealed a septic picture, she received vanc and pip-tazo.
+While undergoing RUQ U/S, she became acutely dyspneic with new opacities on CXR.
+Past Medical History: Primary kidney CA s/p cyberknife Choledocholithiasis s/p [**First Name3 (LF) **] with sphincterotomy in [**2165**] Dementia B12 deficiency Hypertension Osteoporosis CKD [**Doctor Last Name 933**] disease, s/p RAI Follicular lymphoma of the small intestine, in remission ?Chronic diarrhea   Social History: The patient is married and is accompanied to this visit today by her husband as well as by one of her three children ([**Female First Name (un) 24743**]).
+Family History: There is no family history of malignancies or inflammatory bowel disease.
+Physical Exam: (ADMISSION PHYSICAL EXAM) Vitals: BP: 94/53 P: 90 R: 26 O2: 98% on FiO2 40% General: Intubated, sedated, not responsive HEENT: PERRL, MMM, ETT in place Neck: RIJ in place Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops Abdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly Ext: warm, well perfused, 2+ pulses, no edema  (DISCHARGE SUMMARY) Vitals: BP: 139/57 P: 80 R: 22 O2: 94% on room air General: Sitting up in bed, eating breakfast, no acute distress HEENT: PERRL, MMM Lungs: Clear to auscultation bilaterally, no wheezes, rales; occasional rhonchi CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops Abdomen: Soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly Ext: warm, well perfused, 2+ pulses, no edema   Pertinent Results: Admit Labs:  [**2169-11-21**] 08:47PM   PLT SMR-LOW PLT COUNT-140* [**2169-11-21**] 08:47PM   WBC-4.8 RBC-3.97* HGB-12.7 HCT-37.3 MCV-94 MCH-31.8 MCHC-33.9 RDW-14.3 [**2169-11-21**] 08:47PM   NEUTS-71* BANDS-18* LYMPHS-7* MONOS-0 EOS-0 BASOS-0 ATYPS-1* METAS-3* MYELOS-0 [**2169-11-21**] 08:47PM   ALBUMIN-3.9 [**2169-11-21**] 08:47PM   CK-MB-5 cTropnT-0.02* proBNP-5614* [**2169-11-21**] 08:47PM   LIPASE-20 [**2169-11-21**] 08:47PM   ALT(SGPT)-206* AST(SGOT)-163* CK(CPK)-182* ALK PHOS-183* TOT BILI-9.9* DIR BILI-6.8* INDIR BIL-3.1 [**2169-11-21**] 08:57PM   LACTATE-4.5* [**2169-11-22**] 07:35AM   FIBRINOGE-515* [**2169-11-22**] 10:07AM   D-DIMER-[**Numeric Identifier 31597**]* [**2169-11-22**] 11:00AM   FDP-10-40*  ECHO [**2169-11-22**] This study was compared to the prior study of [**2165-12-23**].
+LEFT ATRIUM: Mild LA enlargement.
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3).
+Mild mitral annular calcification.
+The cardiac, mediastinal, and hilar contours are stable, with unchanged enlargement of the pulmonary arteries, compatible with underlying hypertension.
+The lungs are grossly clear without focal consolidation, pleural effusion or pneumothorax.
+Degenerative changes are seen within the right shoulder.
+New surgical clips are also noted within the epigastric region.
+Multilevel degenerative changes are present in the thoracic spine.
+No gross evidence of pneumonia or congestive heart failure.
+In this patient with clinical concern for ascending cholangitis,there are no imaging studies sensitive for this.
+An opening draining bile and pus consistent with a choledochoduodenal fistula was seen at the superior portion of the major papilla.
+Cannulation of the biliary duct was successful and deep with a sphincterotome using a free-hand technique.
+A single 2.5-3cm filling defect consistent witha stone or sludge ball that was causing partial obstruction was seen at the mid CBD.
+Since the previous tracing of [**2169-7-27**] the single beat showing a more leftward axis and right bundle-branch block morphology is no longer present.
+Sinus rhythm.
+EKG [**11-23**]: Atrial fibrillation with rapid ventricular response.
+Diffuse non-specific T wave flattening.
+Compared to the previous tracing of [**2169-7-27**] atrial fibrillation is new.
+Left pleural effusion with atelectasis have not changed.
+Pulmonary arteries are markedly enlarged, consistent with pulmonary arterial hypertension.
+There is no pulmonary edema.
+Blood Culture, Routine (Final [**2169-12-1**]):       ANAEROBIC GRAM POSITIVE ROD(S).
+CLOSTRIDIUM SPECIES NOT C. PERFRINGENS OR C. SEPTICUM.
+Brief Hospital Course: Assessment and Plan: 85yo F with a h/o choledocholithiasis, HTN, renal CA, and dementia who presents with dyspnea and vomiting complicated by acute respiratory failure and septic shock.
+# Dyspnea/respiratory failure: Admitted with worsening dyspnea on exertion, stable orthopnea.
+Became acutely SOB requiring intubation in the ED, likely due to metabolic acidosis with respiratory compensation leading to fatigue.
+Repeat CXR showed increased bilateral opacities suggesting pulmonary edema.
+Heart failure was considered her BNP elevation and history of orthopnea, although she has no known heart failure and ECHO was not particularly concerning for CHF ([**Name Prefix (Prefixes) **] [**Last Name (Prefixes) 3841**] dilated, LVEF > 55%).
+Viral DFA was negative, pneumonia was less likely in the absence of sputum and change in CXR.
+She has smoking history, but no wheezing or CO2 retention to suggest COPD.
+SBTs starting [**11-23**] with intention to extubate were unsuccesful (RR into the 40s, tachycardic), likely secondary to volume overload.
+She was diuresed with lasix and repeated almost daily SBTs continued to show elevated RR and tachycardia.
+RSBI was 156 on [**11-29**], but given that she is an elderly female with baseline tachypnea and small TVs, extubation was attempted on [**11-29**] and was successful.
+Of note, RSBI is not likely a good indication of this patients suitability for extubation given her baseline tachypnea and small TV and as she did very well s/p extubation with a pre-extubation RSBI of 156. .
+# Septic shock: Initial WBC with bandemia, elevated lactate, fever, tachycardia, and pressor requirement.
+Most likely biliary source given CBD dilation with sludge and obstructive LFTs in setting on known choledocholithiasis.
+[**Month/Year (2) **] was done on [**11-21**] and showed large amounts of sludge and a sludge ball obstructing flow in the CBD.
+Blood cultures showed G positive rods and Clostridium species (not perfringens) in anaerobic culture bottles, but have not yet been speciated.
+# Atrial fibrillation with RVR.
+She developed atrial fibrillation on [**11-23**].
+# ARF: Likely related to sepsis (ATN), as well as hypovolemia from vomiting and diarrhea.
+# Anion gap acidosis: Most likely related to elevated lactate, initially 4.5 improved consistently with IVF, now 1.7.
+No history of ingestion and no clear offenders on med list.
+She spontaneously converted from atrial fibrillation back to NSR on [**12-1**].
+Discharge Disposition: Extended Care  Facility: [**Location (un) 582**] [**Hospital1 189**]  Discharge Diagnosis: Septic shock Cholangitis s/p [**Hospital1 **] Acute renal failure Respiratory failure  Discharge Condition: Stable, on room air, normal vital signs, tolerating PO diet.
+Discharge Instructions: You were admitted to the hospital because you were having difficulty breathing and vomiting; you were found to have a fever and abnormal labs.

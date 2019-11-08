@@ -1,0 +1,52 @@
+Admission Date:  [**2196-12-17**]              Discharge Date:   [**2196-12-19**]  Date of Birth:  [**2134-9-9**]             Sex:   F  Service: MEDICINE  Allergies: Dilantin  Attending:[**First Name3 (LF) 2009**] Chief Complaint: abdominal pain  Major Surgical or Invasive Procedure: none   History of Present Illness: This is a 62 year old woman with atrial fibrillation and end stage renal disease presenting with epigastric pain and bradycardia from dialysis suite.
+Our patient was at home in her usual state of health while she developed epigastric pain while straining during a bowel movement.
+Of note she has a history of a similar admission with hyperkalemia and bradycardia in [**9-28**], which was treated with dialysis.
+On arrival to floor, patient states that abdominal pain has improved.
+She has not been on Coumadin until very recently due to history of upper GI bleeding.
+On [**Month (only) 404**] of this year, she was admitted to [**Hospital1 18**] with chest pain and shortness of breath in the  setting of atrial flutter with rapid ventricular response and hyperkalemia.
+She was treated for hyperkalemia and subsequently  her atrial flutter was converted to sinus rhythm.
+Myocardial infarction was [**Hospital1 20003**] out based EKG and biomarkers.
+Thereafter, she underwent right-sided isthmus ablation of clockwise atrial flutter, and was started on quinidine and Coumadin.
+End-stage renal disease on hemodialysis secondary to IgA nephropathy.
+History of upper GI bleeding on [**2195-2-20**] with evidence of esophagitis, gastric ulcer, and bleeding duodenal vessel.
+Repeated endoscopy in [**2195-4-21**] revealed mild inflammation and healing ulcer.
+She has not had any recurrent episodes of GI bleeding since then.
+Diastolic heart failure supported by an echocardiography from  [**2195-12-21**].
+History of malignant hypertension, which was complicated by seizure on [**2193-5-20**].
+Rheumatic fever in childhood .
+Social History: She is single, lives by herself in [**Location (un) 686**], and has no children.
+Sclera anicteric.
+Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.
+No xanthalesma.
+No thrills, lifts.
+LUNGS: No chest wall deformities, scoliosis or kyphosis.
+CTAB, no crackles, wheezes or rhonchi.
+No HSM or tenderness.
+No abdominial bruits.
+No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES: Right: Carotid 2+ DP 2+ PT 2+ Left: Carotid 2+ DP 2+ PT 2+   Pertinent Results: ADMISSION LABS  [**2196-12-17**] 07:30AM   PT-16.1* PTT-26.8 INR(PT)-1.4* [**2196-12-17**] 07:30AM   WBC-7.8 RBC-3.78* HGB-12.3 HCT-36.6 MCV-97 MCH-32.6* MCHC-33.6 RDW-14.6 [**2196-12-17**] 07:30AM   PLT COUNT-206 [**2196-12-17**] 07:30AM   NEUTS-73.5* LYMPHS-18.7 MONOS-4.4 EOS-2.4 BASOS-1.0 [**2196-12-17**] 07:30AM   GLUCOSE-94 UREA N-92* CREAT-11.8*# SODIUM-135 POTASSIUM-7.6* CHLORIDE-91* TOTAL CO2-27 ANION GAP-25* [**2196-12-17**] 07:30AM   CALCIUM-10.7* PHOSPHATE-5.7*# MAGNESIUM-2.8* [**2196-12-17**] 07:30AM   CK-MB-3 [**2196-12-17**] 07:30AM   CK(CPK)-39 [**2196-12-17**] 07:30AM   cTropnT-0.07* [**2196-12-17**] 05:22PM   ALT(SGPT)-55* AST(SGOT)-44* LD(LDH)-199 CK(CPK)-31 ALK PHOS-96 AMYLASE-90 TOT BILI-0.4 [**2196-12-17**] 05:22PM   LIPASE-42  CXR:  No active pulmonary disease.
+EKG:Sinus bradycardia with pauses and junctional escape beats.
+Possible blocked premature atrial contractions.
+Also, evidence for retrograde conduction in lead V1.
+Tall T waves suggesting hyperkalemia.
+Probable anteroseptal myocardial infarction.
+Compared to the previous tracing of [**2196-10-4**] sinus bradycardia, first degree A-V block, junctional beats and tall peaked T waves are new.
+DISCHARGE LABS  134 | 90 | 67 -------------- 5.6 | 32 | 9.7 &#8710;  Ca: 10.9 Mg: 2.8 P: 3.0 TSH:3.3  WBC: 8.5  Hgb: 11.8  HCT: 34.8  Plt: 264  PT: 20.6  PTT: 28.7  INR: 1.9   Brief Hospital Course: 62 year old woman with atrial fibrillation and end stage renal disease status post failed transplant and currently on HD who presented with epigastric pain, hyperkalemia, and sinus bradycardia.
+# Hyperkalemia: Secondary to ESRD.
+She has a history of hyperkalemic episodes in the past, that required MICU admission and emergent dialysis.
+K was 7.6 at admission and EKG showed peaked T waves and first-second degree AV block with junctional escape rhythm.
+This was due to diet in the setting of oliguria, and less likely due to ACEi.
+# Bradycardia: Sinus bradycardia with 1st degree AV delay with junctional escape beats.
+The most likely cause was beta-blocker toxicity in setting of worsening CRI.
+# Atrial fibrillation: Pt in sinus rhythm.
+# Epigastric pain: Ddx included anginal equivalent/CAD vs viral gastroenteritis vs renal failure vs gastritis.
+EKG with no ischemic changes.
+Pain improved spontaneously.
+# ESRD on HD: secondary to IgA nephropathy, s/p failed transplant.
+# HTN:  Normotensive.
+D/Ced metoprolol for toxicity with ESRD that caused bradycardia.
+Disp:*30 Tablet(s)* Refills:*2*   Discharge Disposition: Home  Discharge Diagnosis: primary: hyperkalemia bradycardia secondary to beta-blockers  secondary: atrial fibrillation chronic diastolic CHF   Discharge Condition: good condition post-hemodialysis with stable vital signs   Discharge Instructions: It was a pleasure taking care of you.
+You were admitted for hyperkalemia (elevated potassium) due to your kidney disease.
+You also had low heart rate and blood rate due to metoprolol, which does not get cleared as well by your kidneys.
+Adhere to 2 gm sodium diet  Please seek medical attention if you experience shortness of breath, chest pain, or any new symptoms.

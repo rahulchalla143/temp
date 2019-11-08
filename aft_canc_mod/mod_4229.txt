@@ -1,0 +1,68 @@
+Admission Date:  [**2170-5-10**]              Discharge Date:   [**2170-5-17**]  Date of Birth:  [**2087-4-20**]             Sex:   F  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 1990**] Chief Complaint: Diarrhea and abdominal pain x 5 days.
+Location: [**Hospital1 641**] Address: [**Location (un) **], [**Location (un) **],[**Numeric Identifier 2260**] Phone: [**Telephone/Fax (1) 3530**] Fax: [**Telephone/Fax (1) 6808**]  confirmed with patient, last saw PCP [**Last Name (NamePattern4) **]    HPI: 83 yo female with h/o CHF, AFib and recent hospitalization for severe dehydration and rapid AFib presents with 2 week h/o loose stools and crampy intermittent abdominal pain.
+Seen by Dr. [**Last Name (STitle) **] (PCP) at Atrius today, who was concerned for C. diff and dehydration and sent pt to ED.
+Pt treated at [**Hospital1 **] 1 month ago for rehab for CHF and AFib; during hospitalization she developed diarrhea but was negative for C. diff.
+Denies dizziness, LOC, palpitations, N/V, fever, chills, chest pain, dyspnea, fatigue, increase in peripheral edema.
+PAIN SCALE: 0/10 ________________________________________________________________ REVIEW OF SYSTEMS: CONSTITUTIONAL:        [X] All Normal [ ] Fever  [ ] Chills   [ ] Sweats  [ ] Fatigue   [ ] Malaise [ ]Anorexia  [ ]Night sweats [+ ] __40___ lbs.
+weight  loss from lower extremity swelling  HEENT:          [X All Normal [ ] Blurred vision   [ ] Blindness  [ ] Photophobia [ ] Decreased acuity [ ] Dry mouth  [ ] Bleeding gums [ ] Oral ulcers  [ ] Sore throat    [ ] Epistaxis  [ ] Tinnitus [ ] Decreased hearing    [ ]Tinnitus [ ] Other:  RESPIRATORY:    [] All Normal [ ] SOB     [ ] DOE    [ ] Can't walk 2 flights     [+] Cough [ ] Wheeze  [ ] Purulent sputum    [ ] Hemoptysis   [ ]Pleuritic pain [ ] Other:  CARDIAC:        [X  All Normal [ ] Angina    [ ] Palpitations   [ ] Edema   [ ] PND [ ] Orthopnea    [ ] Chest Pain [ ] Other:  GI:             [] All Normal [ ] Blood in stool     [ ] Hematemesis     [ ] Odynophagia [ ] Dysphagia:   [ ] Solids    [ ] Liquids [ ] Anorexia    [-]Nausea  [- Vomiting   [ ] Reflux [+] Diarrhea    [ ] Constipation  [+  Abd pain  [ ] Other:  GU:             [X All Normal [ ] Dysuria      [ ] Frequency    [ ] Hematuria  []Discharge []Menorrhagia  SKIN:           [x]All Normal [ ] Rash        [ ] Pruritus  MS:             [X All Normal [ ] Joint pain    [ ] Jt swelling   [ ] Back pain  [ ] Bony pain  NEURO:          [X All Normal [ ] Headache    [ ] Visual changes   [ ] Sensory change [ ]Confusion [ ]Numbness of extremities [ ] Seizures   [ ] Weakness [ ] Dizziness/Lightheaded [ ]Vertigo [ ] Headache  ENDOCRINE:     [X] All Normal [ ] Skin changes  [ ] Hair changes   [ ] Temp subjectivity  HEME/LYMPH:    [X] All Normal [ ] Easy bruising   [ ] Easy bleeding    [ ] Adenopathy  PSYCH:         [x] All Normal [ ] Mood change        []Suicidal Ideation  [ ] Other:  [X]all other systems negative except as noted above   Past Medical History: -Large B cell lymphom: -Bladder incontinence -CAD: [**9-26**]: Unclear hx.
+-Carotid Artery Stenosis -Aortic Stenosis -A-fib -Retonipathy: Hypertensive.
+no hearing aides.
+She does her own shopping with her dtr or she takes the ride.
+Family History: Mother died of kidney failure at age 35.
+Nourishment: At risk Grooming: good Mentation: alert, funny and witty Eyes:NC/AT, PERRL, EOMI without nystagmus, no scleral icterus noted Ears/Nose/Mouth/Throat: MMM, no lesions noted in OP Neck: supple, murmur radiates to neck but no clear bruit Respiratory: Decreased BS at the bases Cardiovascular: tachy, irregularly irregular nl.
+S1S2, holosystolic murmur with radation to the neck Gastrointestinal: soft, NT/ND, hyperactive bowel sounds, no masses or organomegaly noted.
+Lymphatics/Heme/Immun: No cervical lymphadenopathy noted.
+Able to relate history without difficulty.
+No abnormal movements noted.
+No ASD or PFO by 2D, color Doppler or saline contrast with maneuvers.
+Severely depressed LVEF.
+Mildly dilated RV cavity.
+Mild global RV free wall hypokinesis.
+Abnormal septal motion/position consistent with RV pressure/volume overload.
+Focal calcifications in aortic root.
+AORTIC VALVE: Mildly thickened aortic valve leaflets.
+MITRAL VALVE: Mildly thickened mitral valve leaflets.
+Moderate mitral annular calcification.
+TRICUSPID VALVE: Mildly thickened tricuspid valve leaflets.
+Moderate PA systolic hypertension.
+Given severity of TR, PASP may be underestimated due to elevated RA pressure.
+GENERAL COMMENTS: Contrast study was performed with 3 iv injections of 8 ccs of agitated normal saline, at rest, with cough and post-Valsalva maneuver.
+Conclusions The left atrium is moderately dilated.
+The right atrium is moderately dilated.
+No atrial septal defect or patent foramen ovale is seen by 2D, color Doppler or saline contrast with maneuvers.
+There is moderate symmetric left ventricular hypertrophy.
+The right ventricular cavity is mildly dilated with mild global free wall hypokinesis.
+There is abnormal septal motion/position consistent with right ventricular pressure/volume overload.
+The aortic valve leaflets are mildly thickened (?#).
+There is severe aortic valve stenosis (valve area 0.8-1.0cm2).
+Mild (1+) aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Mild to moderate ([**11-19**]+) mitral regurgitation is seen.
+The tricuspid valve leaflets are mildly thickened.
+Moderate to severe [3+] tricuspid regurgitation is seen.
+There is moderate pulmonary artery systolic hypertension.
+[In the setting of at least moderate to severe tricuspid regurgitation, the estimated pulmonary artery systolic pressure may be underestimated due to a very high right atrial pressure.]
+There is no pericardial effusion.
+IMPRESSION: Moderate symmetric LVH with severe LV systolic dysfunction with akinesis of the inferior wall, septum and inferolateral wall suggesting either multi-vessel CAD or infiltrative process.
+Calcified aortic valve with probable moderate to severe stenosis (low-output/low-gradient AS).
+Mild aortic and at least mild-to-moderate mitral regurgitation.
+Hypertrophied, dilated and depressed right ventricle with evidence of pressure-volume overload and moderate to severe pulmonary hypertension.
+Brief Hospital Course: MICU summary: Pt is a 83 yo F w/ long h/o afib w/ rvr, large B cell lymphoma, raynaud's, CAD and AS p/w UTI, afib w/ RVR and C. difficile colitis.
+Pt presented to ED w/ complaints of progressive abd pain accompanied by loose, non-bloody diarrhea though PCP noticed guaiac positive stools.
+Pt was at the hospital about a month ago with similar symptoms (diarrhea, afib w/ RVR, and UTI), but C. difficile studies were negative at that time.
+She c/o crampy abd pain that is temporarily relieved once she has a BM.
+Patient was found to have a UTI and put on cipro IV.
+Pt was also given flagyl and vanc for presumptive C. difficile colitis while studies were pending.
+Studies came back positive for C. difficile upon admission to [**Hospital Unit Name 153**].
+Pt also with longstanding hx of afib and is supratherapeutic on coumadin with INR 6.7.
+Currently in afib with RVR but is asymptomatic.
+For her Afib with RVR, her home dose of digoxin was continued.
+For her acute renal failure, the diagnosis was thought most likely due to low perfusion related to her Afib with RVR.
+She had a renal ultrasound that showed no hydronephrosis.
+For her C Diff infection, diagnosis was made by positive stool toxins.
+Her diarrhea was resolving while in the ICU.
+For her history of coronary artery disease, the patient remained asymptomatic and her home aspirin was continued.
+Urine culture revealed no bacteria, so ciprofloxacin discontinued.
+became asymptomatically bradycardic while sleeping (BP stable), so BB was down titrated to home dose.
+Creatinine normalized with IV hydration until diarrhea was resolved, then gentle home dose diuresis was resumed for chronic heart failure and LE edema.
+Discharge Disposition: Extended Care  Facility: [**Hospital3 **]  Discharge Diagnosis: C Difficile Colitis Volume depletion (intravascular) due to diarrhea from above Atrial Fibrillation with RVR controlled with digitalization and Beta Blockade Chronic, systolic, heart failure with LE edema Generalized deconditioning with difficulty in ambulation  Discharge Condition: Mental Status: Clear and coherent.

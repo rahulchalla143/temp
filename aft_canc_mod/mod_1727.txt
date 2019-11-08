@@ -1,0 +1,55 @@
+Admission Date:  [**2180-6-24**]              Discharge Date:   [**2180-6-27**]  Date of Birth:  [**2102-10-23**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 425**] Chief Complaint: Syncope  Major Surgical or Invasive Procedure: None  History of Present Illness: Pt is a 77 yo male with h/o systolic heart failure with EF 20%, HTN, and asymptomatic fib s/p recent cardioversion now admitted after syncopal episode, found to be bradycardic.
+He was anticoagulated for 4 weeks and cardioverted at [**Hospital1 18**] yesterday for A fib with RVR and started newly on amiodarone.
+This morning he was feeling weak and took Lasix 120mg and was walking up the stairs on his way to use the bathroom when he had a near syncopal event.
+EMS arrived and he had a junctional rhythm at 50.
+He was externally paced in the field and he received a total of 1 amp of atropine for a bradycardia in the 30s and his SBP was in the 70s.
+He was brought to [**Location (un) 745**] [**Location (un) 3678**] and found to have a HR in the 50s.
++ 2 pillow orthopnea winded after climbing one flight of stairs .
+On review of symptoms, he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.
+He denies recent fevers, chills or rigors.
+He denies exertional buttock or calf pain.
+Cardiac review of systems is notable for absence of chest pain, paroxysmal nocturnal dyspnea, ankle edema, or palpitations.
+Past Medical History: CHF with EF 20% (acute systolic and diastolic heart failure decompensation in setting of new A fib with RVR) HTN AFib/Flutter with rapid ventricular response- Dx sometime after [**2179-11-13**] s/p radiation for prostate CA in [**2177**]--Dr.[**Name (NI) 14072**] at [**Hospital1 112**] s/p tonsillectomy  ALLERGIES: NKDA  OUTPATIENT CARDIOLOGIST:  Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] PCP:  [**Last Name (NamePattern4) **].
+Family History: His father died of an MI at 57.
+Oriented, Mood, Argumentative HEENT: PERRL, EOMI, mmm, no LAD Neck: Supple with elevated JVD.
+Chest: + diffuse crackles throughout lung, + accessory muscle use, no chest wall deformities, scoliosis or kyphosis.
+Abd: distended, mild tense, + tympany in RLQ, no shifting dullness Ext: pitting edema +1 to knees R>L, +2 DP pulses in both extremities.
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+T wave inversion in I and AVL and question of Q waves in III and AVF and v1-v4 which have been stable since prior EKG.
+EKG [**2180-6-12**]: Atrial flutter with variable block.
+Left anterior fascicular block.
+Intraventricular conduction delay.
+2D-ECHOCARDIOGRAM performed on demonstrated: [**2180-6-20**] -EF of 20% with severe global hypokinesis -left atrium is markedly dilated, right atrium is moderately dilated.
+-right ventricular cavity is mildly dilated with severe global free wall hypokinesis -trace aortic regurgitation -moderate (2+) mitral regurgitation -moderate pulmonary artery systolic hypertension .
+There is again noted prominence of the interstitial markings consistent with pulmonary edema.
+No pleural effusions are seen.
+There is mild right and moderate left hydronephrosis.
+Multiple bilateral cysts are seen, the largest measuring 4.8 cm in the superior pole of the right kidney.
+Urinary bladder is distended, measuring 15.5 x 11.6 x 16.5 cm.
+IMPRESSION: Mild bilateral hydronephrosis most likely due to prostate hypertrophy, chronicity indeterminate.
+Brief Hospital Course: A/P: 77 yo male with h/o HTN, CHF and EF of 20%, and recent cardioversion for A fib who is s/p syncopal event with EKG showing junctional bradycardia.
+# Syncope/bradycardia: Pt had junctional bradycardia with underlying sinus node dysfunction leading to hemodynamic instability initially requiring dopamine gtt.
+He meets criteria for pacemaker/ICD placement but patient emphatically refused despite being told that he could have recurrence of his syncope without intervention.
+# Pump: He had acute on chronic diastolic and systolic HF.
+The patient has a history of diastolic and systolic CHF with an EF of 20%.
+On arrival to the CCU he was volume overloaded on exam with diffuse crackles and 1+ pitting edema to the knee R>L.
+He was continued on low dose coreg but his lasix and ACE I were held given his acute renal failure.
+On admission he had conducting P waves and a long PR interval.
+# Acute Renal Failure on Chronic Renal Insufficiency: he patient has a baseline creatinine of 1.6 to 2.2.
+His renal failure was likely secondary to obstruction from enlarged prostate which was seen on ultrasound.
+His ACE, lasix, and digoxin were held given his acute renal failure.
+# Abdominal distention: The patient had significant abdominal distention during his admission.
+He was having normal bowel movements and no abdominal pain.
+His LFTs were normal with the exception of an isolated conjugated hyperbilirubinemia.
+# Elevated WBC: The patient had an increased white cell count to 13.
+4 on admission but was afebrile and asymptomatic.
+He developed no other signs of infection during his hospitalizations.
+His ACE inhibitor was held given his acute renal failure.
+His quinapril was held in the setting of his acute renal failure and was not restarted prior to discharge.
+Junctional bradycardia sinus node dysfunction 3.
+Atrial Fibrillation with RVR 4.
+Acute systolic heart failure .
+Secondary Cardiomyopathy with EF of 20% HTN S/p radiation for prostate CA ([**2177**]) S/p tonsillectomy   Discharge Condition: Stable   Discharge Instructions: You were admitted for syncope due to an abnormal, slow heart rhythm which resulted from your heart's impaired intrinsic pacing.
+You were also treated for acute congestive heart failure.
+You had some abnormalities in your liver function tests and your kidney function, these appear to be improving.
+If you develop any new chest pain, shortness of breath, weakness or any other general worsening of condition please call your PCP or come directly to the ED.

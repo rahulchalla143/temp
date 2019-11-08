@@ -1,0 +1,15 @@
+Admission Date:  [**2108-4-9**]              Discharge Date:   [**2108-4-19**]   Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 348**] Chief Complaint: weakness  Major Surgical or Invasive Procedure: none  History of Present Illness: [**Age over 90 **]yo male with history of congestive heart failure, chronic kidney disease, gout, GERD, anemia, and possible MDS was admitted from the ED with weakness.
+He initially presented to geriatrics clinic with 2-3 weeks of diarrhea and vomiting.
+His exam was notable for dry mucous membranes, irregular heart rate, and decreased skin turgor.
+RUQ US demonstrated unchanged cholelithiasis and CXR was unremarkable.
+He was admitted to the [**Hospital Unit Name 153**] for further management of his hypotension and weakness.
+Congestive Heart Failure - [**8-21**] EF 20-30%, dilated RV, [**12-16**]+ MR, 1+ TR, dilated and hypokinetic RV - follows with [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] and Dr. [**First Name8 (NamePattern2) 401**] [**Last Name (NamePattern1) 437**] 2.
+Atrial Fibrillation - follows with Dr. [**Last Name (STitle) **] - s/p BiV ICD - NSR on amiodarone therapy 3.
+Chronic Kidney Disease - Baseline Creatinine 2.3-2.8 - followed with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 4883**] 4.
+Myelodysplastic Syndrome - followed with Drs.
+Hypertension 10. s/p Appendectomy   Social History: - Home: lives in an [**Hospital3 **] facility in [**Location (un) 583**]; supportive family with 1 daughter in CT, 1 daughter in [**Name2 (NI) **], and 1 son in [**Name2 (NI) **]; - Occupation:high school graduate and retired heating engineer - EtOH: Denies - Drugs: Denies - Tobacco:  Quit smoking 20 years ago.
+Family History: Noncontributory  Physical Exam: VS: T95, BP 104/46, HR 70, RR 23, O2sat 100% RA Gen: Elderly male, fatigued, no acute distress, resting comfortably in bed HEENT: Clear OP, dry mucous membranes NECK: Supple, No LAD, JVP elevated to 8cm CV: RR, NL rate.
+No murmurs, rubs or gallops LUNGS: CTA, BS BL, mild rales at bases b/l, no wheezes or rhonchi ABD: Soft, NT, ND.
+No HSM EXT: No edema.
+On transfer: VS: T96.2, BP 89/62, HR 68, O2sat 97%RA  Brief Hospital Course: [**Age over 90 **] yo male with multiple medical problems including congestive heart failure, atrial fibrillation on coumadin, chronic kidney disease, and myelodysplastic syndrome was admitted to the [**Hospital Unit Name 153**] with hypotension in the setting of two weeks of diarrhea, treated with intravenous fluids.
+His course was notable for progressive renal failure and anuria.

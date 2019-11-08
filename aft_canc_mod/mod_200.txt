@@ -1,0 +1,65 @@
+Admission Date:  [**2151-3-8**]              Discharge Date:   [**2151-3-15**]  Date of Birth:  [**2071-11-7**]             Sex:   M  Service: SURGERY  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 1481**] Chief Complaint: Prim card: [**First Name8 (NamePattern2) 1026**] [**Doctor Last Name 6522**] Intervent: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] .
+HPI: Pt is a 79yo male h/o of aortic stenosis (asymptomatic) and recently discovered adenocarcinoma of the colon (by colonoscopy in [**1-4**]) presenting for aortic valvuloplasty and pre-op L heart cath for resection of adenoCA of mid-ascending colon on Tuesday AM by Dr.[**Name (NI) 1482**] service.
+An echocardiogram on [**2151-2-18**] showed progression of aortic stenosis with aortic valve area falling from 0.9 to 0.6 centimeters squared between last year and this year.
+There was severe hypokinesis at the anterior septum.
+There was mild to moderate MR.
+Compared with [**2150-1-29**], LV systolic function was diminished and aortic stenosis thought to have progressed.
+R heart cath and L heart cath was performed in addition to the valvuloplasty.
+Mildly elevated left-sided filling pressures.
+L heart cath revealed left dominant system: LMCA: dual ostia of LAD and LCx from aorta LAD: 50% ostial, otherwise normal LCX: normal RCA: normal.
+Pt was Admitted to [**Hospital Unit Name 196**] for post valvuloplasty care.
+PMH: -aortic stenosis -adenocarcionoma of colon cscope in [**2151-2-18**] showed tumor in mid asceding colon, angioextasias, bx showed adenocarcinoma.
+Pt has had a 50lbs weight lost hx over past 2 yrs.
+-Zenkers diverticulum s/p surgical repair by [**Last Name (un) 6520**] [**4-3**] -h/o splenomegaly and thrombocytosis -Anemia iron deficiency--baseline 31-32% -Bilateral inguinal hernia repair 35 years ago as well as repair  of a right inguinal hernia in [**2146**] -Decreased hearing -Esophageal stenosis diagnosed several years ago at the [**Hospital1 **], but chose not to undergo surgical procedure.
+-History of pulmonary asbestosis diagnosed by CT scan in [**2142**] -History of a jejunal microperforation diagnosed by barium swallow in [**2144**] -Left rotator cuff partial tear -Manic depression/anxiety .
+Admission PE: Physical Exam: VITALS: 98.0 95/66 HR 102-106 18 99%RA GENL: cachectic, pale, pleasant appearing frail man in NAD HEENT: anicteric, mmm, pale conjunctiva, JVP not elevtated CV: tachy, [**5-6**], harsh, late-peaking systolic m, radiated to carotids, no RG, warm extremities, ?
+radial pulses 1+ b/l RESP: CTAB without crackles or wheeze ABD: scaphoid, s/nt/nd, hyperactive bs, no bruit, +splenomegaly,  no CVA tenderness Groin: sheath removed, no hematoma, no bruits auscultated EXTREM: cap refill <3 sec, trace pedal edema  .
+Selective coronary angiography in this right dominant patient revealed mild single vessel disease.
+The LMCA was absent as there were dual ostia for the LAD and LCX.
+The LAD had a 50% ostial lesion but was otherwise angiographically normal including branch vessels.
+Resting hemodynamics revealed normal right sided filling pressures with very mild elevation of left sided filling pressure with PCWP and LVEDP of about 15mmHG.
+Mild single vessel CAD in LAD 2.
+Critical Aortic stenosis at baseline which improved slightly after valvuloplasty 3.
+Low cardiac index with slightly elevated left sided filling pressures.
+Successful balloon aortic valvuloplasty.
+RESISTANCE 169   REST **VALVULAR STENOSIS AORTIC VALVE GRADIENT {mmHg} 35 30 AORTIC VALVE AREA {sq-cm} .69 .8  **% SATURATION DATA (NL) SVC LOW 57 PA MAIN 54 AO 96 **ARTERIAL BLOOD GAS INSPIRED O2 CONCENTR'N 21  .
+Echo [**2151-2-18**]: There is moderate regional left ventricular systolic dysfunction with global hypokinesis with more severe hypokinesis of the anterior septum.
+The aortic root is mildly dilated.
+The ascending aorta is mildly dilated.
+There is moderate to severe aortic valve stenosis with a valve area of 0.6cm.
+No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Mild to moderate ([**2-1**]+) mitral regurgitation is seen.
+There is moderate pulmonary artery systolic hypertension.
+Sinus rhythm with ventricular and atrial premature beats.
+First degree A-V heart block.
+Non-specific ST-T wave changes.
+Impression: 79 yo male with critical aortic stenosis and adenocarcinoma of the colon admitted to [**Hospital Unit Name 196**] service post aortic valvuloplasty going to colon resection in AM with Dr. [**Last Name (STitle) **].
+Ischemia: no critical lesions identified, but the patient does have 50% ostial LAD lesion.
+No Dx of CAD in the past.
+Pt not on BB or ACEI.
+-hold off starting BB and ACE [**3-4**] tenous hemodynamics -gentle fluids Ok of BP lowers below 90s -getting PRBC transfusion Rhythm: pt has a baseline h/o baseline asymptomatic first degree AV block.
+-cont to monitor tele, mostly in 1st degree AV block -hold BB, nodal agents -atropine at bedside if symptomatic bradycardia -if degenerateds into Mobitz I type II, call EP for consideration of pacemaker placement .
+#Heme: iron deficiency anemia.
+h/o recent GI bleed in the past requiring 7u of PRBCs.
+Major Surgical or Invasive Procedure: aortic valvuloplasty, laproscopic right colectomy   History of Present Illness: HPI: Pt is a 79yo male h/o of aortic stenosis (asymptomatic) and recently discovered adenocarcinoma of the colon (by colonoscopy in [**1-4**]) presenting for aortic valvuloplasty and pre-op L heart cath for resection of adenoCA of mid-ascending colon on Tuesday AM by Dr.[**Name (NI) 1482**] service.
+An chocardiogram on [**2151-2-18**] showed progression of aortic stenosis with aortic valve area falling from 0.9 to 0.6 centimeters squared between last year and this year.
+There was severe hypokinesis at the anterior septum.
+There was mild to moderate MR.
+Compared with [**2150-1-29**], LV systolic function was diminished and aortic stenosis thought to have progressed.
+R heart cath and L heart cath was performed in addition to the valvuloplasty.
+Mildly elevated left-sided filling pressures.
+L heart cath revealed left dominant system: LMCA: dual ostia of LAD and LCx from aorta LAD: 50% ostial, otherwise normal LCX: normal RCA: normal.
+Past Medical History: PMH: -Zenkers diverticulum s/p surgical repair by [**Last Name (un) 6520**] [**4-3**], -h/o splenomegaly and thrombocytosis, -Anemia iron deficiency--baseline 31-32%, -Bilateral inguinal hernia repair 35 years ago as well as repair of a right inguinal hernia in [**2146**], -Decreased hearing, -Esophageal stenosis diagnosed several years ago at the [**Hospital1 **], but chose not to undergo surgical procedure.
+-History of pulmonary asbestosis diagnosed by CT scan in [**2142**], -History of a jejunal microperforation diagnosed by barium swallow in [**2144**], -Left rotator cuff partial tear -Manic depression/anxiety.
+He takes not more than 2 qd for arthritis   Family History: Family Has one brother [**Initials (NamePattern4) **] [**Name (NI) 6521**] and other c [**Name (NI) 2481**] Disease Doesn't remember parents illness   Physical Exam: Physical Exam: VITALS: 98.0 95/66 HR 102-106 18 99%RA GENL: cachectic, pale, pleasant appearing frail man in NAD HEENT: anicteric, mmm, pale conjunctiva, JVP not elevtated CV: tachy, [**5-6**], harsh, late-peaking systolic m, radiated to carotids, no RG, warm extremities, ?
+radial pulses 1+ b/l RESP: CTAB without crackles or wheeze ABD: scaphoid, s/nt/nd, hyperactive bs, no bruit, +splenomegaly,  no CVA tenderness Groin: sheath removed, no hematoma, no bruits auscultated EXTREM: cap refill <3 sec, trace pedal edema   Pertinent Results: [**2151-3-8**] 09:24PM BLOOD WBC-4.6 RBC-3.39* Hgb-9.1* Hct-27.8* MCV-82 MCH-27.0 MCHC-32.9 RDW-17.2* Plt Ct-599* [**2151-3-8**] 01:15PM BLOOD Glucose-92 UreaN-18 Creat-0.7 Na-140 K-4.9 Cl-104 HCO3-26 AnGap-15 [**2151-3-8**] 03:38PM BLOOD Type-ART pO2-112* pCO2-36 pH-7.50* calHCO3-29 Base XS-5  Brief Hospital Course: The patient was admitted on [**2151-3-8**] for a pre-operative aortic balloon valvuloplasty (please see cardiology note for details).
+The operation went well with no complications.
+Vancomycin, gentamycin and flagyl were started empirically because of his recent valvuloplasty.
+On POD 1, he required 1.5 liters in fluid boluses for hypotension (SBP in the 70's to 80's).
+However, that night he developed tachycardia  to the 130's-140's and hypotension to 80/55.
+Consideration was given to heparinize the patient, however cardiology did not feel the need to do so given that he responded well to the amiodarone and cardioversion and did not experience any more atrial fibrillation.
+He did not require any more fluid boluses.
+Antibiotics were discontinued as he was afebrile with a normal WBC.
+Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day as needed for constipation for 2 weeks.
+Disp:*30 Capsule(s)* Refills:*2*   Discharge Disposition: Home With Service  Facility: [**Location (un) 86**] VNA  Discharge Diagnosis: colon cancer, atrial fibrillation, aortic stenosis   Discharge Condition: good   Discharge Instructions: Please call or come to the ED with any fevers > 101, nausea, vomiting, abdominal pain, chest pain, rapid heart rate, or any other concerning symptoms.

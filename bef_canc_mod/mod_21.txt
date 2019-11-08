@@ -1,0 +1,34 @@
+Admission Date:  [**2199-7-13**]              Discharge Date:   [**2199-7-16**]  Date of Birth:  [**2116-9-4**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 4309**] Chief Complaint: chest pain  Major Surgical or Invasive Procedure: none  History of Present Illness: 82F h/o prior CVA with residual R-sided weakness, AS ([**Location (un) 109**] 1.2 cm2), cecal and splenic flexure masses admitted with chest pain.
+Describes 3 days of chest pain that radiates across the chest, occuring only while supine at night, describes as a constant "punching" sensation, lasting multiple hours, and resolving either spontaneously or with tylenol.
+Pain is similar in character, but more severe, compared to prior episodes (most recently many months ago).
+Had one episode of nonbloody emesis.
+No associated dizziness, lightheadedness, palpitations, shortness of breath, diaphoresis, dyspepsia, edema, or positional/exertional component.
+When pain recurred for the 3rd straight night, she presented to the ED.
+Had CP in the ED, at which time EKG showed ~1mm ST elev in aVR with new ST dep in I,II,L,V2-V6.
+Upon transfer to the floor on [**7-14**], patient was a symptomatic without chest pain, dizziness, shortness of breath, or active bleed.
+Past Medical History: -L MCA infarct [**2181**], residual R sided deficits -AS ([**Location (un) 109**] 1.1 cm2 by TTE [**3-2**]) -HTN -Carotid stenosis -Moderate pulm HTN -Cecal and splenic flexure mass ([**4-1**] Bx showed superficial fragments of colonic mucosa with rare dilated crypts, granulation tissue formation and focal ulceration = may be seen overlying/adjacent to a mass lesion or may represent superficial sampling of an inflammatory-type polyp) -Diverticulosis -Internal hemorrhoids  Social History: H/o tobacco use.
+GEN: Awake, alert, conversing appropriately HEENT: PERRL, lower loose-fitting dentures, dry MM NECK: No JVD CV: reg rate nl S1S2 III/VI SEM at base radiates to carotids LUNGS: CTAB no w/r/r ABD: soft NTND normoactive BS EXT: warm, dry +PP no edema NEURO: AAOX3   Pertinent Results: Admission Labs: .
+Mild vascular congestion has resolved.
+Moderate cardiomegaly persists, with a slightly tortuous aorta.
+Mild degenerative changes are present in the thoracic spine.
+IMPRESSION: No acute cardiopulmonary process.
+Brief Hospital Course: 82F h/o CVA, AS, known colonic masses admitted with chest pain at rest and global ischemic EKG changes in the setting of acute on chronic blood loss anemia.
+#Acute on chronic blood loss anemia - Patient was admitted to the MICU with chest pain x 3 days after son had noticed a significant amount of blood in her bed.
+The source of her bleeding has not been confirmed, but differential includes hemmhoroidal, diverticular, or from masses in her cecum an splenic flexure which were found on colonoscopy in [**3-/2199**] (likely malignant).
+She was followed by both surgery and GI in-house and both agreed that she would likely need surgical intervention for the masses but acknowledged that she had a high surgical risk (aortic stenosis, history of CVA).
+She remained hemodynamically stable on the floor, but did have an episode of BRBPR on HOD#3 with a hct drop from 31.6-->29.9.
+She remained asymptomatic with this episode and did not require PRBC.
+She was discharged on HOD#4 with follow-up in the geriatrics clinic for further discussion of options for her colonic masses.
+She was informed to return to the ED if her symptoms of chest pain return, or if she has significant bleeding.
+#Chest pain/EKG changes - Along with BRBPR, patient presented with chest pain , and an EKG with diffuse ST depressions, suggestive of global ischemia in the setting of profound anemia, likely a demand ischemia.
+Her pain resolved with blood transfusions.
+She continued to remain asymptomatic from a cardiac standpoint throughout transfer to floor and remainder of admission.
+Both agreed that surgical intervention was likely warranted given high likelyhood of malignancy from her cecal/splenic flexure masses.
+However her comorbidities make her an increased surgical risk, especially in the setting of her recent acute bleed.
+Discharge Disposition: Home With Service  Facility: [**Location (un) 86**] VNA  Discharge Diagnosis: Primary Lower Gastrointestinal Bleed Anemia Demand ischemia Colonic masses Diverticulosis Hemmorhoids  Secondary Hypertension   Discharge Condition: Mental Status: Clear and coherent.
+Discharge Instructions: Ms. [**Known lastname **] [**Known lastname 4313**],  You were admitted to the hospital because you were having chest pain and blood in your stool causing you to become anemic (low blood counts).
+We feel that the anemia was likely the cause of your chest pain because you improved when you were transfused with blood.
+You did have a few episodes of bleeding again yesterday but your blood count remained stable and you were not experiencing any symptoms from it.
+Please note that you may continue to have more blood in your stool, but that this is likely old blood and should not cause symptoms.
+If you do have any symptoms of chest pain, shortness of breath, or increasing blood loss please come back to the emergency room.
+We also request that you have lab work done tomorrow or Thursday.

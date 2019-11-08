@@ -1,0 +1,73 @@
+Admission Date:  [**2133-12-17**]              Discharge Date:   [**2133-12-23**]  Date of Birth:  [**2058-12-3**]             Sex:   M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 633**] Chief Complaint: cholangitis  Major Surgical or Invasive Procedure: ERCP, sphincterotomy  History of Present Illness: Mr. [**Known lastname **] is a 75 yo M with history of HTN, HL, Hodgkin's lymphoma (dx [**2121**]) and follicular lymphoma grade II (dx [**2127**]), s/p chemo and xrt, on IVIG therapy for hypogammaglobulinemia (last dose [**2133-12-9**]), and paroxysmal afib w/ RVR who presented yesterday with 36 hours of midepigastric abdominal pain, without radiation, [**2-6**] in pain scale, worse with deep inspiration.
+Denied nausea, vomiting, fever, chills, diarrhea, constipation, BRBPR, SOB, cough, chest pain, unexplained weight loss, fatigue/malaise/lethargy, pruritis or jaundice.
+Does note decreased appetite, pain not associated with food.
+RUQ US showed gallstones, sludge and a distended gallbladder but no pericholecystic fluid, CBD dilitation, GB wall thickening, and was negative Murphies.
+No history of biliary colic, cholecystitis, or liver disease.
+Patient was admitted to ACS for monitoring, overnight patient was hypertensive with SBP in the 180s, got hydralazine 10mg IV however developed Afib with RVR with HR into the 140s this morning, BP stable.
+EKG reportedly with ST depressions, CE negative (CKMB 3, Trop<0.01).
+Previous episodes of afib with RVR attributed to chemotherapy, fevers, volume overload.
+Patient was transferred to the [**Hospital Unit Name 153**] with plans for ERCP for possible cholangitis, based on LFTs and elevated bilirubin, however patient is afebrile with a normal WBC and no CBD dilitation on RUQ US.
+Afib with RVR attributed to hepatobiliary process.
+Patient without abdominal pain, resting comfortable in sinus rhythm.
+Hodgkin's Lymphoma (diagnosed [**2121**], relapsed [**2126**] treated with AVBD c/b Afib w/RVR, bleomycin lung toxicity, PCP [**Name Initial (PRE) 1064**]) and Non-Hodgkin's (follicular) lymphoma (diagnosed [**2127**], treated w/rituxan in [**2128**]).
+Hypertension 6.
+Hypercholesterolemia 7.
+Peripheral neuropathy 10. psoriasis 11.
+Hypogammaglobulinemia .
+Onc history: -  Left-sided neck adenopathy biopsied in [**5-/2122**]: Hodgkin disease with flow cytometry noted for monoclonal B cells which were CD5 positive,raising the possibility of CLL.
+This was felt likely due to persistence of germinal centers and he was treated for stage IA lymphocyte [**Doctor First Name **] Hodgkin disease with radiation therapy with a total dose of 3060 centigrade of modified mantle field with three fractions of left neck cone down completed in 09/[**2121**].
+-  CT on [**2127-1-20**] revealed a left pleural mass with biopsy consistent with relapsed classical Hodgkin lymphoma status post ABVD X 6 cycles with complications of neutropenia, necessitating the use of Neupogen, rapid atrial fibrillation, and bleomycin toxicity along with PCP [**Name Initial (PRE) 1064**].
+-  Recurrent adenopathy noted in [**6-/2128**] with waxing and [**Doctor Last Name 688**] size that was followed over time with a slowly increasing adenopathy.
+Excisional biopsy of right neck adenopathy done by Dr. [**Last Name (STitle) 1837**] on [**2129-3-28**] revealed a follicular lymphoma grade 2.
+PET after 2 cycles with marked improvement.
+PET scan after 4 cycles with no FDG avidity.
+Doxil dose reduced to 25mg/m2 for 5th and 6th cycle due to hand/foot rash.
+-  PET scan on [**2130-1-27**] revealed no FDG-avid disease.
+-  Follow up PET scan on [**2130-5-16**] showed new FDG avid lymphadenopathy in the left infrarenal paraaortic and iliac regions, with the largest paraaortic node measuring 30 x 16 mm and SUVmax of 20.4, felt representing recurrent lymphoma but not amenable to biopsy.
+No other new focal FDG uptake in the chest, abdomen or pelvis.
+-  Received 1 cycle of ICE on [**2130-5-31**] complicated by fluid overload and atrial fibrillation and flutter.
+-  Received 1 cycle of ESHAP on [**2130-6-22**] complicated by bradycardia and repeat admission for atrial fibrillation.
+-  Repeat FDG imaging on [**2130-7-20**] continued to show FDG avidity within the left paraaortic lymph node with SUV max of 11.2.
+Given prior history of Hodgkin's lymphoma and non-Hodgkin's lymphoma, he underwent a biopsy by Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 3748**] from Urology with laparoscopic surgery on [**2130-9-4**] which did not show any evidence for non-Hodgkin's lymphoma or Hodgkin's lymphoma.
+-  Repeat PET scan in [**9-/2130**] revealed resolution of his lymphadenopathy and FDG avidity with no new areas.
+Follow up FDG tumor imaging on [**2130-12-11**] reveals no evidence for lymphadenopathy or recurrent lymphoma.
+-  Further treatment with Rituxan held due to recurrent sinus infections which have been treated extensively with antibiotics under the guidance of Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 724**] from ID.
+Follow up sinus CTs finally showed resolution of his infection.
+-  Follow up PET scanning in [**4-/2131**] and [**9-/2131**] notable for enlarging FDG avid subcutaneous lesion in the right posterior neck and new FDG-avidity in a tiny (3 mm) right level 5 lymph node.
+These were followed with examinations and scans and the right occipital node was increasing in size and proceeded with FNA on [**2132-7-8**] which was nondiagnostic.
+-  Biopsy of right occipital mass on [**2132-7-31**] showed follicular lymphoma, Grade 3A and follicular lymphoma, Grade [**11-30**], diffuse(Extranodal extension) with concurrent lymphocyte-[**Doctor First Name **] classical Hodgkin's lymphoma.
+-  PET CT on [**2133-2-4**] shows resolution of numerous previously seen sites of FDG-avid cervical lymphadenopathy and right suboccipital tissue nodal tissue with persistence of a 10 x 6 mm left level IIB node with significant FDG avidity (SUV max 5.4).
+Thinks father may have had a thyroid problem.
+Physical Exam: Exam (On admission to [**Hospital Unit Name 153**]): Vitals: T 98.2, BP 123/71, HR 53, RR 18, 95% on RA General: Alert, oriented, no acute distress HEENT: Sclera icteric, MMM, oropharynx clear Skin: jaundiced, psoriatic lesions over shins Neck: supple, JVP not elevated, no LAD Lungs: minimal bibasilar rales otherwise clear, no wheezes or rhonchi CV: Regular rate and rhythm, normal S1 + S2, 2/6 systolic murmur, no rubs, gallops Abdomen: soft with some firmness in midepigastrium, minimally tender in mid epigastrium and RUQ, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly.
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema Neuro: A&Ox3, CN II-XII grossly intact, moving all extremities   Pertinent Results: Imaging: EKG:  bradycardic at 57, prolonged QTc 460, otherwise normal intervals, nonspecific T wave inversion unchanged from 8/[**2132**].
+[**2133-12-16**] CXR: No signs of pneumonia or CHF.
+[**2133-12-16**] RUQ US: Distended gallbladder containing stones and probable tumefactive sludge.
+Please correlate clinically for lab abnormalities or other signs of acute cholecystitis, and if the concern persists, a HIDA scan can be obtained for further evaluation.
+No acute pulmonary embolism or thoracic aortic pathology.
+Small airways disease.
+Diffusely dilated upper thoracic esophagus, likely relates to esophageal dysmotility or stricture.
+[**2133-12-17**] ERCP: Normal major papilla Cannulation of the biliary duct was successful and deep after a guidewire was placed A small filling defect, compatible with a stone was noted at the distal bile duct.
+A small stone and large amount of pus were extracted successfully using a balloon.
+Otherwise normal ercp to third part of the duodenum .
+[**2133-12-21**]: Atrial fibrillation with rapid ventricular response.
+[**2133-12-23**] 01:40PM BLOOD Hct-31.5* [**2133-12-23**] 06:30AM BLOOD WBC-4.3 RBC-3.15* Hgb-10.3* Hct-29.9* MCV-95 MCH-32.6* MCHC-34.3 RDW-13.7 Plt Ct-207 [**2133-12-22**] 04:05PM BLOOD Hct-32.7* [**2133-12-22**] 06:30AM BLOOD WBC-4.1 RBC-3.13* Hgb-10.1* Hct-29.4* MCV-94 MCH-32.4* MCHC-34.5 RDW-13.8 Plt Ct-177 [**2133-12-21**] 07:05AM BLOOD WBC-4.7 RBC-3.35* Hgb-11.0* Hct-31.2* MCV-93 MCH-32.9* MCHC-35.3* RDW-13.5 Plt Ct-160 [**2133-12-20**] 07:30PM BLOOD Hct-30.5* [**2133-12-20**] 07:50AM BLOOD WBC-3.5* RBC-3.31* Hgb-10.8* Hct-31.2* MCV-94 MCH-32.6* MCHC-34.5 RDW-13.6 Plt Ct-149* [**2133-12-19**] 09:00AM BLOOD WBC-3.1* RBC-3.21* Hgb-10.6* Hct-30.2* MCV-94 MCH-33.0* MCHC-35.0 RDW-13.4 Plt Ct-149* [**2133-12-18**] 04:54AM BLOOD WBC-3.8* RBC-3.31* Hgb-11.0* Hct-31.2* MCV-94 MCH-33.3* MCHC-35.3* RDW-13.3 Plt Ct-154 [**2133-12-17**] 08:02PM BLOOD WBC-6.1 RBC-3.69* Hgb-12.1* Hct-34.1* MCV-93 MCH-32.8* MCHC-35.5* RDW-13.1 Plt Ct-154 [**2133-12-16**] 07:50PM BLOOD WBC-6.5 RBC-4.18* Hgb-13.5* Hct-38.6* MCV-92 MCH-32.3* MCHC-35.0 RDW-12.7 Plt Ct-189 [**2133-12-16**] 07:50PM BLOOD Neuts-82.2* Lymphs-8.0* Monos-6.3 Eos-3.1 Baso-0.4 [**2133-12-18**] 04:54AM BLOOD PT-12.6* PTT-32.9 INR(PT)-1.2* [**2133-12-17**] 08:02PM BLOOD PT-13.1* PTT-29.7 INR(PT)-1.2* [**2133-12-23**] 06:30AM BLOOD Glucose-90 UreaN-22* Creat-1.3* Na-140 K-4.0 Cl-103 HCO3-29 AnGap-12 [**2133-12-22**] 06:30AM BLOOD Glucose-97 UreaN-33* Creat-1.3* Na-143 K-3.9 Cl-107 HCO3-29 AnGap-11 [**2133-12-21**] 09:30PM BLOOD UreaN-33* Creat-1.3* Na-140 K-3.6 Cl-103 [**2133-12-21**] 07:05AM BLOOD Glucose-97 UreaN-26* Creat-1.3* Na-141 K-3.8 Cl-104 HCO3-29 AnGap-12 [**2133-12-20**] 07:50AM BLOOD Glucose-100 UreaN-20 Creat-1.3* Na-142 K-3.7 Cl-107 HCO3-28 AnGap-11 [**2133-12-19**] 09:00AM BLOOD Glucose-121* UreaN-19 Creat-1.2 Na-142 K-3.2* Cl-106 HCO3-28 AnGap-11 [**2133-12-18**] 04:54AM BLOOD Glucose-76 UreaN-22* Creat-1.3* Na-141 K-3.5 Cl-105 HCO3-24 AnGap-16 [**2133-12-17**] 08:02PM BLOOD Glucose-88 UreaN-21* Creat-1.2 Na-142 K-3.7 Cl-106 HCO3-23 AnGap-17 [**2133-12-16**] 07:50PM BLOOD Glucose-113* UreaN-28* Creat-1.3* Na-139 K-4.5 Cl-100 HCO3-25 AnGap-19 [**2133-12-23**] 06:30AM BLOOD ALT-239* AST-137* AlkPhos-110 TotBili-3.4* [**2133-12-22**] 06:30AM BLOOD ALT-216* AST-122* AlkPhos-109 TotBili-3.4* [**2133-12-21**] 07:05AM BLOOD ALT-212* AST-125* AlkPhos-124 TotBili-5.3* [**2133-12-20**] 07:50AM BLOOD ALT-172* AST-82* AlkPhos-123 TotBili-5.8* [**2133-12-19**] 09:00AM BLOOD ALT-183* AST-74* AlkPhos-128 TotBili-6.9* [**2133-12-18**] 04:54AM BLOOD ALT-235* AST-103* LD(LDH)-155 AlkPhos-140* TotBili-8.6* [**2133-12-17**] 08:02PM BLOOD ALT-273* AST-125* LD(LDH)-196 AlkPhos-146* TotBili-8.6* [**2133-12-17**] 09:00AM BLOOD CK(CPK)-58 [**2133-12-16**] 07:50PM BLOOD ALT-470* AST-278* LD(LDH)-278* AlkPhos-189* TotBili-9.8* DirBili-7.5* IndBili-2.3 [**2133-12-16**] 07:50PM BLOOD Lipase-29 [**2133-12-17**] 08:02PM BLOOD CK-MB-3 cTropnT-<0.01 [**2133-12-17**] 09:00AM BLOOD CK-MB-3 cTropnT-<0.01 [**2133-12-21**] 07:05AM BLOOD IgG-537* IgA-95 IgM-19*  Brief Hospital Course: 75 yo M with PMH of HTN, HL, Hodgkin's lymphoma (dx [**2121**]) and follicular lymphoma grade II (dx [**2127**]), s/p chemo and xrt, on IVIG therapy for hypogammaglobulinemia, and paroxysmal afib w/ RVR who presented with RUQ/epigastric pain and elevated [**Hospital 13550**] transferred to [**Hospital Unit Name 153**] for afib with RVR (resolved), found on ERCP to have cholangitis.
+# Cholangitis/bile duct obstruction/choledocholithiasis: Patient presented with new onset epigastric and RUQ abominal pain in the setting of elevated LFT's and direct hyperbilirubinemia.
+RUQ US was non definitive for acute cholecystitis or biliary obstruction.
+Patient has been afebrile with a normal WBC, and no evidence of CBD dilitation.
+# Afib w/ RVR: Previous episodes of Afib with RVR attributed to chemotherapy, fevers, and volume overload.
+EKG showed some ST depressions (troponin and CKMB negative).
+Repeat EKG was unchanged from EKG prior to Afib w/ RVR episode, no ST depressions.
+Abdominal pain was controlled and patient was monitored on telemetry.
+#anemia-normocytic, Likely acute blood loss and consistent with chronic inflammation.
+However, pt then began to develop very dark brown guaiac positive stool.
+However, pt continued with dark guaiac + stool (no blood), without any evidence of hemodynamic compromise during admission.
+# h/o PCP [**Name Initial (PRE) 11091**]: Continued on Bactrim DS MWF, no symptoms during admission.
+# Hyperlipidemia: Held home simvastatin given elevated LFTs.
+# Hypogammaglobulinemia: Stable, managed on IVIG, seen regularly by Dr. [**First Name (STitle) **].
+# Psoriasis: Patient has mild psoriasis over shins managed at home with hydrocortisone.
+Medications on Admission: Albuterol prn Allopurinol 100' Bactrim DS 3xWeek (MWF) Lisinopril 5' Simvastatin 40' Metoprolol 25' Omeprazole DR 20' Cialis 5' Asa 325 Vitamin B MV Glucosamine 750' Fish oil '' Folic acid 400' hydrocortisone cream for psoriasis Occasional percocet or oxycodone for pain (rare) IVIG  Discharge Medications: 1.
+5. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: One (1)  Inhalation every 4-6 hours as needed for shortness of breath or wheezing.
+Discharge Disposition: Home  Discharge Diagnosis: choledocholithiasis cholangitis transaminitis afib with RVR anemia HTN history of lymphoma   Discharge Condition: Mental Status: Clear and coherent.
+Discharge Instructions: You were admitted for evaluation of abdominal pain and were found to have an infection (cholangitis) and stones in your bile ducts.
+You also had fast atrial fibrillation while in the ICU.
+You also had dark stools and a slight drop in your blood count.

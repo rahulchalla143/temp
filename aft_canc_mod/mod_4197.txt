@@ -1,0 +1,66 @@
+Admission Date:  [**2172-9-25**]              Discharge Date:   [**2172-9-29**]  Date of Birth:  [**2088-5-19**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 425**] Chief Complaint: Syncope, Bradycardia  Major Surgical or Invasive Procedure: [**Company 1543**] pacemaker placement [**2172-9-25**] Intubation in the ED on admission  History of Present Illness: 84yoM with DM, DLP who initially presented to [**Hospital3 **] after a syncopal event.
+The patient reported he was backing out his car when he became lightheaded and blacked out, lost consciousness, and ran his car over a curb into a 3 foot boulder at a low speed.
+He was restrained by a seat belt and had moderate damage to the vehicle.
+On transport he denied any symptoms of chest pain, shortness of breath, palpitations, or dyspnea.
+He received atropine 1mg x2 without improvement.
+EKG showed what was thought to be type II heart block (no EKG in the record).
+He did complain of back pain since the MVC and underwent a trauma workup with a CT abdomen/pelvis wet read that showed a fracture at L1.
+CXR was negative for pneumothorax or acute cardiopulmonary process.
+1 gm ancef was given for acute pacer placement.
+No thrills, lifts.
+LUNGS: Anterior breath sounds were coarse, ventilated breath sounds, no crackles or wheezes.
+No HSM or tenderness.
+No femoral bruits.
+Head CT: FINDINGS: There is no evidence of hemorrhage, edema, shift of normally midline structures, or infarct.
+The paranasal sinuses and mastoid air cells are well aerated.
+No acute intracranial abnormality.
+Old left basal ganglia lacunar infarcts.
+CT ABDOMEN WITH IV CONTRAST: Lung bases demonstrate mild dependent atelectasis without consolidation or pleural effusion.
+In the abdomen, the inferior right lobe of the liver contains an irregular hypodensity centrally measuring approximately 18 x 16 mm, with vessels traversing the region.
+There is no perihepatic fluid collection.
+The abdominal aorta and its major branches are patent, with mild atherosclerotic calcification.
+There is no free air or free fluid in the abdomen.
+CT PELVIS WITH IV CONTRAST: The sigmoid colon demonstrates scattered diverticulosis, without diverticulitis.
+The remaining large and small bowel is unremarkable.
+The urinary bladder and prostate gland are within normal limits.
+There is no free fluid in the pelvis.
+There is no pelvic or inguinal lymphadenopathy by size criteria.
+OSSEOUS STRUCTURES: Extending through the L1 vertebral body is an irregular linear lucency, with the suggestion of sclerotic margins, extending through the cortices of the anterior and posterior aspects of the vertebral body, compatible with fracture.
+There is no retropulsion of fracture fragments, or abnormal alignment.
+There is minimal loss of the vertebral body height at L1.
+No other fractures are identified.
+Mild degenerative changes are present in the spine and hips.
+Transverse fracture through the L1 vertebral body, with loss of vertebral body height.
+No retropulsion or malalignment, and fracture does not extend through the posterior elements.
+18-mm hepatic hypodensity in the inferior right lobe, incompletely characterized.
+In the right hepatic lobe in segment VI, an oval well-circumscribed predominantly hyperechoic lesion measuring 2.0 x 1.4 x 1.0 cm and without internal vascularity, corresponds to the lesion seen on prior CT.
+No other focal liver lesions are identified.
+There is no intra- or extra-hepatic biliary ductal dilation.
+The gallbladder is nondistended and contains no stones.
+2 cm segment VI echogenic hepatic lesion compatible with a hemangioma and corresponding to the prior CT findings.
+There is mild regional left ventricular systolic dysfunction with mild distal septal hypokinesis (distal LAD territory).
+The aortic valve leaflets are moderately thickened, but systolic excursion appears normal.
+No aortic regurgitation is seen.
+There likely is no aortic stenosis, though the valve could not be completely interrogated.
+The mitral valve leaflets are mildly thickened.
+Trivial mitral regurgitation is seen.
+There is no pericardial effusion.
+IMPRESSION: Mild regional left ventricular systolic dysfunction, c/w CAD.
+Brief Hospital Course: Mr. [**Known lastname 1274**] is an 84 year old male with PMH significant for diabetes and hyperlipidemia that presents to the ED from an OSH after a syncopal episode, found to be in complete heart block, s/p asystolic arrest x3 currently intubated in the CCU.
+# Asystolic arrest/Complete heart block: Upon arrival to the scene in the field (minor MVA), it is documented that his rhythm showed NSR with occassional PVCs and a rate of 92.
+On admission to the OSH, he was believed to have been in Mobitz type 2 or type 3 heart block with a rate in the 30s.
+He was transferred to [**Hospital1 18**] for management of heart block and placemenet of a permanent pacemaker.
+He became asystolic and unresponsive.
+He had an echo done on [**9-25**] that showed regional left ventricular dysfunction that was consistent with CAD.
+He was taken to the EP lab and a [**Company **] pacemaker was placed to the right atrium and right ventrical apical septum on [**2172-9-25**].
+# MVA: Pt in MVA on day of admission, trauma work-up was done in the ED, where he his only complaint was of back pain that was new from the accident.
+His imaging studies showed a fracture in L1.
+# Leukocytosis: He had a transient leukocytosis that was likely due to stress reaction of his MVA or his arrest.
+It resolved without intervention.
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for Constipation: Please take for constipation while using pain medications.
+Discharge Disposition: Home With Service  Facility: [**Location (un) 1110**] VNA  Discharge Diagnosis: Primary Diagnosis Complete Heart Block L1 Vertebral Fracture .
+Secondary Diagnosis Diabetes Hypertension   Discharge Condition: Mental Status: Clear and coherent.
+You were found to have an irregular rhythm in your heart.
+You were also found to have a fracture in one of the vertebrae in your back.
+Your CT scan showed a hemangioma (harmless collection of blood vessels) in your liver.
+We made some changes to your medications: We STARTED percocet for pain in your lower back to use if you are having a lot of pain.

@@ -1,0 +1,31 @@
+Admission Date:  [**2137-1-11**]              Discharge Date:   [**2137-1-12**]   Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 2297**] Chief Complaint: Jaundice  Major Surgical or Invasive Procedure: ERCP   History of Present Illness: This is an 85 yo male with h/o AVR (mechanical valve), Afib, AAA 5.9 cm not surgical candidate, admitted to [**Hospital1 1474**] for painless jaundice.
+During the procedure, he became intermittently hypotensive, with SBP in the 80s, requiring fluid boluses and 800 mcg of phenylephrine.
+Post ERCP, he was in the holding area, noted to be hypotensive to low 90s, and with a concerning "wide complex rhythm".
+At the time of evaluation, the patient only complained of some abdominal soreness, denied chest pain, SOB, lightheadedness, or dizziness.
+ROS: The patient denies any fevers, chills, weight change, diarrhea, constipation, melena, hematochezia, chest pain, shortness of breath, cough, urinary frequency, urgency, dysuria, lightheadedness, gait unsteadiness, focal weakness, vision changes, headache, or rash.
+Past Medical History: 1) Asthma 2) Mechanical AVR on coumadin- currently held and on lovenox 3) Atrial Fibrillation s/p PPM 4) AAA 5.9 cm not surgical candidate 5) Anemia 6) Hyperlipidemia 7) Depression 8) ?
+Family History: NC  Physical Exam: Vitals: T: BP: HR: RR: O2Sat: GEN: Well-appearing, well-nourished, no acute distress HEENT: EOMI, PERRL, sclera anicteric, no epistaxis or rhinorrhea, MMM, OP Clear NECK: No JVD, carotid pulses brisk, no bruits, no cervical lymphadenopathy, trachea midline COR: RRR, no M/G/R, normal S1 S2, radial pulses +2 PULM: Lungs CTAB, no W/R/R ABD: Soft, NT, ND, +BS, no HSM, no masses EXT: No C/C/E, no palpable cords NEURO: alert, oriented to person, place, and time.
+No gait disturbance.
+No cerebellar dysfunction.
+SKIN: No jaundice, cyanosis, or gross dermatitis.
+No ecchymoses.
+Evidence of a previous sphincterotomy was noted in the major papilla.
+There was moderate post-obstructive dilation.
+The mucosa appeared irregular and friable, suspicious for a malignant process.
+Excellent bile drainage was achieved Otherwise normal ercp to second part of the duodenum PLAN:  Return to outside hospital under Dr. [**Last Name (STitle) 35828**] [**Name (STitle) **] care Follow for response/complications Please call if develops jaundice, black stools, fever, or abdominal pain juices today when awake, alert, and at baseline Follow-up cytology results Follow-up biopsy results If malignancy confirmed will arrange ERCP and metal stent insertion with Dr [**Last Name (STitle) **]  ECG [**2137-1-11**]: Multiple ECGs available for evaluation and telemtry strip.
+Baseline underlying rhythm Atrial fibrillation.
+Difficult to determine whether there are any ischemic changes on v-paced beats, but no obvious ST segment changes.
+Brief Hospital Course: Assessment: This is a 85 year-old male with a history of mechanical AVR, atrial fibrillation, AAA, who is transferred to the [**Hospital Unit Name 153**] s/p ERCP c/b hypotension and concern for "wide complex" rhythm.
+# Hypotension:  Patient's hypotension was thought to be secondary to sedation and possibly volume depletion.
+He underwent a rule-out for myocardial infarction that was negative.
+# Hypoxia:  Patient had an oxygen requirement of 4L that was thought to be secondary to pulmonary edema.
+Subjectively, he was not complaining of shortness of breath.
+# Ventricular-paced rhythm/AFIB:  Patient has a history of afib with V-paced rhythm.
+He did not complain of chest pain and also ruled out for myocardial infarction.
+# Painless Jaundice:  Patient underwent a repeat ERCP on the evening of [**2137-1-11**] at [**Hospital1 18**].
+Evidence of a previous sphincterotomy was noted in the major papilla.
+There was moderate post-obstructive dilation.
+The mucosa appeared irregular and friable, suspicious for a malignant process.
+# C. diff:  Patient had diarrhea and his stool was positive for c. diff.
+Discharge Disposition: Extended Care  Discharge Diagnosis: Primary: C. diff colitis Hypotension .
+Secondary: Abdominal aortic aneurysm Aortic valve repair Atrial fibrillation   Discharge Condition: Stable   Discharge Instructions: You were admitted because of low blood pressure.

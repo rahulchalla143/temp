@@ -1,0 +1,47 @@
+Admission Date:  [**2123-6-30**]              Discharge Date:   [**2123-7-27**]  Date of Birth:  [**2056-9-13**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**Known firstname 4052**] Chief Complaint: Hypotension   Major Surgical or Invasive Procedure: Endoscopy with [**Last Name (un) **] tube placement and failed TIPS [**2123-7-1**] TIPS [**2123-7-7**] Repeat TIPS with ultrasound guided biopsy [**2123-7-12**]   History of Present Illness: 66 y/o white male resident of [**Doctor Last Name **] House with a h/o Hep B and T2DM who presented to the ED approximately 2 hours after being discharged from [**Hospital1 18**] (recent admission [**2123-6-24**] to [**2123-6-30**] for UGIB) with dizziness and nausea.
+Patient states that soon after he arrived home he began to have some nausea and felt dizzy.
+Afterwards, he still had nausea and dizziness that was not improving.
+He denied any LOC, CP, SOB, diaphoresis, vomiting, or hematemesis.
+In the ED, patient stated that he felt better but some nausea remained.
+T 97.2 HR 105 BP 122/69 RR 20 O2Sat 96%  ROS: + for nausea and dizziness Negative for CP, SOB, vomiting, hematemesis, diaphoresis All other review of systems negative and consistent with patient's condition upon discharge earlier today.
+CV: Normal S1 and S2 with no m/r/g.
+Pulm: CTAB, no wheezes or crackles.
+Ext: No cyanosis or edema.
+In the ED, the patient was hypotensive and eceived 3L NS.
+He was admitted to the floor where he then became tacycardic and again hypotensive.
+A hct showed a drop from 31 --> 24.
+He was intubated and an EGD was performed which showed his known gastric varice with evidence of recent bleeding.
+He susequently developed respiratory distress and was readmitted to the MICU for aspiration pneumonia.
+He continued to have ascites and paracentesis was performed in the unit.
+600cc ascites fluid was negative for SBP, and patient was prophylaxed on Rifaxamin.
+He progressively regained mental status and respiratory status and after remaining afebrile he came back to the floor on HD# 19 with no antibiotic coverage.
+# Respiratory Distress: Ddx included PE (pt has not been on SQ hep [**1-28**] coagulopathy from liver dz), aspiration (tube feeds), increasing abdominal distention leading to atelectasis and poor inspiration, fluid overload, hepatopulm syndrome.
+CTA was not done as suspicion was low for PE due to adequeate oxygenation.
+# GIB: Patient with known cirrhosis and gastric varices.
+Recent melanotic episodes, EGD done [**7-19**] with fundic varices but no active bleed.
+No further episodes of GI bleeding were noted.
+# Cirrhosis: -Pt was followed along by hepatology during hospitalization.
+initially had some symptoms of encephalopathy on the floor.
+Rifaxamin for SBP prophylaxis.
+- liver lesions on ultrasound concerning for malignancy; aFP elevated; will need liver biopsy of lesions once stable if MRI proves that a mass is there - Pt.
+coags were stable on D/C -Pt requires MRI of Liver to determine if there is a mass suspicious for [**Company 191**].
+likely to require Biopsy if MRI shows liver lesion suspicious for [**Company 191**].
+Because of history of anemia, Anemia work-up was undertaken which showed no evidence of hemolysis or Iron Deficiency.
+# Schizophrenia: psych following.
+pulled out his Dobhoff tube and we were unable to replace it on HD#22.
+able to take pureed solids and thickened liquids.
+Pt is to take PO meds with thickened liquids.
+-Hypernatremia: Pt had a few episodes of hypernatremia in the MICU as well as on the floor.
+On HD#26 patient passed Speech and swallow eval so will begin taking PO spirinolactone and hopefully spare potassium a little more.
+# ID:  Paracentesis fluid negative for SBP on Gram stain and Cx.
+Afebrile and no Abx at present save Rifaxamin for SBP prophylaxis.
+- Pt had one episode of Left sided erythema/thrombophlebitis from Left PICC on HD#23 .
+IV team was consulted and deemed that the line was not infected and that erythema was from mechanical thrombophlebitis.
+Pt never spiked a temp, and erythema resolved over the next day.
+No further episodes.
+Trazodone 50 mg Tablet Sig: One (1) Tablet PO at bedtime as needed for insomnia.
+Insulin Regular Human 100 unit/mL Cartridge Sig: [**2-5**]  units Injection per sliding scale as needed for hyperglycemia.
+Ipratropium Bromide 0.02 % Solution Sig: One (1) NEB IH Inhalation Q4H (every 4 hours) as needed for shortness of breath or wheezing.
+Albuterol Sulfate 0.083 % Solution Sig: One (1) NEB IH Inhalation Q4H (every 4 hours) as needed for shortness of breath or wheezing.
+Discharge Disposition: Extended Care  Facility: [**Hospital3 7**] & Rehab Center - [**Hospital1 8**]  Discharge Diagnosis: Gastric Variceal Bleeding Aspiration Pneumonia   Discharge Condition: Good   Discharge Instructions: You have been admitted to the hospital following a gastrointestinal bleed from cirrhosis and a hospital course complicated by aspiration pneumonia.
+You should call your doctor or return to the emergency room should you experience any of the following: Fever > 101 Nausea and Vomiting Bloody Stools Severe Abdominal Pain Chest Pain Shortness of Breath Dizziness Loss of Vision   Followup Instructions: Follow up in clinic with Dr. [**Last Name (STitle) 1266**] in Monday [**2123-8-9**] at 11:30 am.

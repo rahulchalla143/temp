@@ -1,0 +1,84 @@
+Admission Date:  [**2134-4-19**]              Discharge Date:   [**2134-5-11**]  Date of Birth:  [**2061-11-2**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 12131**] Chief Complaint: Hypotension  Major Surgical or Invasive Procedure: Endoscopy Sigmoidoscopy Portacath removal [**First Name3 (LF) **] catheter placement [**First Name3 (LF) **]   History of Present Illness: 72M with pmh significant for metastatic rectal cancer was at radiology clinic receiving scheduled imaging when blood pressure at triage recorded 60/40.
+He denied syncope or lightheadedness but reported mild SOB and fatigue.
+His last dose of irinotecan and panitumab chemotherapy was Monday [**2134-3-29**] (patient reports was [**4-12**] but not recorded in OMR), and he reports always getting diahrrea with his chemotherapy.
+HIs bowel movements are not bloody or melanaic.
+He has been taking immodium and diphenoxylate-atropine without improvement.
+Sunday night, he reports acute worsening of his diahrrea, which continued through Monday.
+CT torso was without PE or dissection, but did have multiple stable pulmonary nodules, and a small right pleural effusion.
+He also had stable metastatic disease.
+Past Medical History: Past Oncologic History: Adenocarcinoma of the rectum - [**6-/2131**]:  The patient presented with a change in bowel habits and was noted to have an abnormal rectal exam by his primary care physician, [**Name10 (NameIs) 39262**] [**Name Initial (NameIs) **] gastrointestinal evaluation.
+- [**2131-7-23**] colonoscopy:  Exophytic cancer of the rectum [**9-9**] cm above the anal margin.
+Polyp:  Adenoma with high-grade dysplasia.
+- [**2131-7-25**] rectal ultrasound:  T3 posterior midline tumor with luminal narrowing of the rectum.
+- [**2131-8-2**] CT scan of the torso:  Irregular, polypoid lesion seen within the rectum, with multiple subcentimeter presacral and pericolic lymph nodes identified.
+Two pulmonary nodules seen in the left lower lobe, the largest measuring 2.9 x 2.2 cm.
+Multiple low-attenuation lesions seen within the liver, the largest of which may represent cyst, smaller lesions are not fully characterized.
+Low-attenuation lesions seen within the left kidney, possibly a cyst, although too small to characterize.
+- [**2131-12-10**]:  Proctosigmoidectomy with stapled coloanal anastomosis and diverting loop ileostomy.
+Pathology revealed adenocarcinoma of the rectum, low-grade, with invasion into the perirectal adipose tissue and metastasis to 7 of 13 regional lymph nodes (T3N2).
+There is a new FDG-avid focus in segment 4A of the liver which most likely represents metastasis.
+- [**2132-2-13**]: Ileostomy takedown with simultaneous flexible bronchoscopy and VATS with left lower lobe resection.
+Pathology from the ileostomy stoma demonstrated no evidence of malignancy.
+The left lower lobe wedge resection demonstrated an adenocarcinoma, 4.1 cm, consistent with metastasis of rectal origin.
+- [**2132-2-14**]: Evaluation by the hepatobiliary surgery consult team due to the finding on his recent PET scan of a likely liver metastasis.
+It was felt that the lesion was amenable to surgical resection, and it was planned that the patient would undergo two cycles of chemotherapy prior to proceeding with hepatic resection.
+- [**2132-7-11**]: Hepatic resection of a 1.7cm segment 4a metastatic lesion by Dr. [**Last Name (STitle) **].
+Oxaliplatin eliminated due to neuropathy.
+- [**2132-11-26**]: Hospital admission for SVC syndrome secondary to a catheter-associated thrombus causing occlusion of the SVC and bilateral brachiocephalic veins.
+The patient underwent TPA infusion followed by venous angioplasty with balloon dilation with resolution of symptoms.
+- [**2133-8-3**]: Initiation of ininotecan for recurrent disease.
+- [**2134-2-8**]: Due to laboratory and radiographic evidence of disease progression, cetuximab was added to ininotecan; due to an allergic reaction, cetuximab was changed to panitumumab on [**2134-2-16**].
+ASCVD, status post MI in [**2111**].
+Family History: The patient's paternal uncle had an abdominal cancer, details unknown.
+Physical Exam: Admission: GEN: awake, alert, NAD VS: 97.6 110/46 88 19 100% 2L HEENT: EOMI, MMM CV: irregularly irregular, no m/g/r PULM: crackles at RLL ABD: well healed scars on abdomen, soft, NT, ND LIMBS: no edema SKIN: erythema and excoriation over left antecubital fossa.
+CV: RRR, No m/r/g PULM: CTAB, decreased breath sounds at bases.
+SKIN: blanching macules noted scattered across forearms and upper back.
+FECAL CULTURE (Final [**2134-4-22**]):    NO SALMONELLA OR SHIGELLA FOUND.
+CAMPYLOBACTER CULTURE (Final [**2134-4-22**]):    NO CAMPYLOBACTER FOUND.
+Consultations with ID are recommended for all blood cultures          positive for Staphylococcus aureus and [**Female First Name (un) 564**] species.
+Consultations with ID are recommended for all blood cultures          positive for Staphylococcus aureus and [**Female First Name (un) 564**] species.
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              STAPH AUREUS COAG +                              | CLINDAMYCIN-----------<=0.25 S ERYTHROMYCIN----------<=0.25 S GENTAMICIN------------ <=0.5 S LEVOFLOXACIN----------  0.25 S OXACILLIN-------------     1 S TRIMETHOPRIM/SULFA---- <=0.5 S     Anaerobic Bottle Gram Stain (Final [**2134-4-26**]):       GRAM POSITIVE COCCI IN PAIRS AND CLUSTERS.
+Aerobic Bottle Gram Stain (Final [**2134-4-26**]):       GRAM POSITIVE COCCI IN CLUSTERS.
+[**4-19**] ECG: Sinus rhythm with ventricular premature beat.
+Right bundle-branch block.
+No evidence of pulmonary embolism or dissection.
+Multiple small pulmonary nodules are overall stable in size.
+Stable small right-sided pleural effusion.
+Stable extent of metastatic disease in the abdomen.
+Two small ventral wall hernias containing loops of small bowel, but no evidence of obstruction with oral contrast seen to the colon.
+INDICATION: 72-year-old man with swollen left arm and left-sided Port-A-Cath.
+TECHNIQUE: Grayscale and Doppler evaluation of left upper extremity.
+No intraluminal thrombus was identified.
+IMPRESSION: No evidence of DVT in the left upper extremity.
+[**2134-4-27**] renal ultrasound:  INDICATION: 72 year old man with acute kidney failure and sepsis.
+There is no hydronephrosis, stone or mass in either kidney.
+IMPRESSION: Unremarkable renal ultrasound without evidence of hydronephrosis.
+Brief Hospital Course: Mr. [**Known lastname 1683**] is a 72 yo M with h/o metastatic rectal CA and SVC syndrome, now resolved on lovenox tx, who was admitted to OMED on [**4-19**] with intractable diarrhea thought [**3-2**] chemo and transferred to the [**Hospital Unit Name 153**] on [**4-24**] with BRBPR and hematemesis.
+This was thought due to irinotecan induced GI toxicity.
+They were concerned that patient's whole GI tract was diffusely inflamed as was seen on EGD and that the anastamotic site from his colectomy might be a bleeding source; a flex sigmoidoscopy was done on as well and showed as well diffuse ulceration and inflammation.
+Stool cultures revealed no evidence of infection.
+The patient however despite aggressive crystalloid and colloid (albumin, a further 2 units of blood) resuscitation then developed sepsis related acute tubular necrosis.
+The patient became anuric and nephrology was consulted.
+The nafcillin was also changed to Cefazolin dosed 2mg at each [**Date Range 2286**] session for ease of administration and avoiding extra volume loading.
+#Hypotension/Tachycardia: In setting of extensive diahrrea.
+Ct torso is without PE or dissection.
+Once he had an episode of BRBPR, he became tacycardic to the 140s, with BP 90s/60s.
+s/p TPA infusion followed by venous angioplasty with balloon dilation with resolution of symptoms.
+He was initially treated with lovenox (dose recalculated this admission, should be lower than his admission dose), but this was held secondary to GI bleed.
+#Diarrhea - the patient continued to have diarrhea that was controlled with titration of his anti-diarrheal medications.
+Infectious sources were ruled out and the cause was likely irinotecan-induced GI toxicity and radiation proctitis.
+#Generalized anasarca - The patient was noted to have an extremely low albumin on admission, likely related to poor nutrition due to his GI pathology.
+During volume resuscitation the patient became grossly edematous, and albumin was administered to little effect.
+This demonstrated no evidence of clot.
+Medications on Admission: DIPHENOXYLATE-ATROPINE - 2.5 mg-0.025 mg Tablet - [**1-30**] Tablet(s)  by mouth q6hr as needed for diarrhea ENOXAPARIN [LOVENOX] - 150 mg/mL Syringe - Inject 150 mg once a  day LISINOPRIL - (Prescribed by Other Provider) - 10 mg Tablet - 1 Tablet(s) by mouth daily METOPROLOL SUCCINATE [TOPROL XL] - (Prescribed by Other Provider) - 100 mg Tablet Sustained Release 24 hr - 1 Tablet(s)  by mouth daily METRONIDAZOLE [METROGEL] - 1 % Gel - apply to rash twice a day PROCHLORPERAZINE MALEATE - 10 mg Tablet - 1 Tablet(s) by mouth q6hr as needed for nausea SIMVASTATIN - (Prescribed by Other Provider) - 20 mg Tablet - 1  Tablet(s) by mouth daily LOPERAMIDE [IMODIUM A-D] - 2 mg Tablet - 2 Tablet(s) by mouth q4he as needed for diarrhea PYRIDOXINE - (OTC) - 50 mg Tablet - 2 Tablet(s) by mouth once a  day   Discharge Medications: 1.
+Diphenoxylate-Atropine 2.5-0.025 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed for diarrhea.
+Loperamide 2 mg Capsule Sig: One (1) Capsule PO every four (4) hours as needed for diarrhea.
+Ipratropium Bromide 0.02 % Solution Sig: One (1) neb Inhalation Q6H (every 6 hours) as needed for shortness of breath or wheezing.
+Diphenoxylate-Atropine 2.5-0.025 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for diarrhea.
+Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1) nebulizer Inhalation Q6H (every 6 hours) as needed for dyspnea.
+Discharge Disposition: Extended Care  Facility: [**Hospital6 979**] - [**Location (un) 246**]  Discharge Diagnosis: Rectal cancer Diarrhea Sepsis Acute Renal Failure   Discharge Condition: Mental Status: Clear and coherent Level of Consciousness: Alert and interactive   Discharge Instructions: You were admitted to the hospital with diarrhea.
+You also have a low blood pressure on admission, this was likely due to dehydration in the setting of diarrhea, and it improved with rehydration with IV fluids.
+Your diarrhea then became bloody, and you also had an episode of vomit with blood in it.
+You had an upper endoscopy and a sigmoidoscopy, which showed ulceration in your esophagus, stomach and colon.
+This was thought to be due to the chemotherapy and radiation that you have been receiving for your colon cancer.
+While admitted, you also had a severe bacterial infection that got into your blood.

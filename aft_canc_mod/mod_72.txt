@@ -1,0 +1,45 @@
+Admission Date:  [**2132-12-8**]              Discharge Date:   [**2132-12-14**]   Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 2387**] Chief Complaint: shortness of breath  Major Surgical or Invasive Procedure: cardiac catheterization  History of Present Illness: Ms [**Known lastname 5448**] is an 89yo pt with h/o CAD s/p RCA stent in [**2124**], a-fib on warfarin and dofetilide, who presented to OSH on [**2132-12-7**] with CHF exacerbation.
+CT ruled out PE but showed extensive metastatic disease to pleura.
+EKG showed e/o possible prior septal infarct, no acute ST changes.
+Per report, she had an episode of chest pain that responded to nitro this afternoon.
+Episode of SOB while watching TV as well as +Substernal pressure, rating [**7-13**], no radiation.
+On arrival to [**Hospital Ward Name 121**] 5, patient denied any chest pain.
+On review of systems, she denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery.
+Past Medical History: -Breast Cancer with mets to pleura: On hormonal therapy for breast ca, no chemo or xrt.
+Family History: Father with MI at 58 yo.
+Sclera anicteric.
+No thrills, lifts.
+LUNGS: No chest wall deformities, scoliosis or kyphosis.
+No HSM or tenderness.
+No abdominial bruits.
+No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+Right pleural effusion.
+Mild congestive heart failure.
+No atrial septal defect is seen by 2D or color Doppler.
+There is mild symmetric left ventricular hypertrophy.
+No masses or thrombi are seen in the left ventricle.
+Overall left ventricular systolic function is mildly depressed (LVEF= 40-45 %) with mid to distal septal and inferior/infero-lateral hypokinesis.
+There is no ventricular septal defect.
+The ascending aorta is mildly dilated.
+The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present.
+Mild (1+) aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Mild (1+) mitral regurgitation is seen.
+The tricuspid valve leaflets are mildly thickened.
+There is moderate pulmonary artery systolic hypertension.
+There is a trivial/physiologic pericardial effusion.
+Brief Hospital Course: In summary, Ms [**Known lastname 5448**] is an 89yo w CAD and a-fib (formerly on warfarin and dofetilide), who presented originally to OSH w SOB, was transferred to [**Hospital1 18**] for cath for NSTEMI, course complicated by polymorphic VT. .
+# CORONARIES: Pt w known CAD and prior stenting, now p/w NSTEMI at OSH, s/p cath at [**Hospital1 18**] with bare metal stent to R-PDA.
+On heparin drip for NSTEMI at first, then on heparin to coumadin bridge for a-fb.
+Had frequent runs of polymorphic VT with no symptoms on floor, broke with isoproterenol gtt.
+Likely induced by dofetilide in setting of cardiac ischemia and reduced renal clearance (Cr 1.1, unclear baseline).
+Though bradycardia might increase the risk of ectopic ventricular arrhythmias, it is likely not the cause of the VT on this admission (VT caused by ischemia/dofetilide).
+# PUMP: Likely new diagnosis of systolic CHF, though unclear whether h/o chronic CHF, unknown EF.
+Echo with EF 40-45% with mid to distal septal and inferior/lateral hypokinesis s/p cath.
+On hormonal therapy; no chemo or xrt.
+# CODE: FULL, confirmed with patient .
+Disp:*45 Tablet Sustained Release 24 hr(s)* Refills:*2*   Discharge Disposition: Home With Service  Facility: VNA of [**Location (un) **]  Discharge Diagnosis: Non-ST elevation MI Polymorphic Ventricular Tachycardia .
+Systolic heart failure, acute on chronic hypertension hyperlipidemia   Discharge Condition: Hemodynamically stable, afebrile   Discharge Instructions: You were admitted to [**Hospital1 18**] due to a heart failure exacerbation and were found to have a heart attack.
+You also had an irregular heart rhythm of your heart, called polymorphic ventricular tachycardia.
+Seek medical attention if you have chest pain, shortness of breath, groin pain or bleeding, or any other concerning symptom.

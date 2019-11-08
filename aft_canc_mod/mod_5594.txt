@@ -1,0 +1,61 @@
+He was admitted to the ICU for requirement for NRB and trop of 8.
+ECG showed Mobitz I AV block and 0.5-1mm ST depressions in V2-V5.
+Past Medical History: - Dyslipidemia - Hypertension - CAD s/p CABG x4 [**2118**] ([**Hospital1 2025**]), s/p PCI [**2130-7-7**] in which his saphenous vein graft was stented x4 with overlapping TAXUS stents - H/o paroxysmal AFib - NSCLC diagnosed in [**2125**], s/p resection and XRT; recurrence in [**2135**], s/p 13 cycles of carboplatin/Alimta recently changed to Navelbine d/t new diagnosis of liver mets in [**3-/2137**] - COPD on 3-5L home O2 - OSA on CPAP - AAA (4cm) - GERD - Barretts esophagus  Social History: Lives with wife who has dementia.
+Sclera anicteric.
+Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.
+No xanthalesma.
+No thrills, lifts.
+LUNGS: No chest wall deformities, scoliosis or kyphosis.
+Bilateral crackles, no wheezes or rhonchi.
+No HSM or tenderness.
+No abdominial bruits.
+No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+Sclera anicteric.
+Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.
+No xanthalesma.
+Bilateral crackles, at bases, no wheezes.
+No HSM or tenderness.
+Right groin site ecchymoses SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+P-R interval prolongation and type I second degree A-V block is most likely.
+However, there is considerable artifact making interpretation difficult.
+Somewhat early R wave progression.
+ST-T wave abnormalities.
+Ventricular premature beats are now not seen.
+Atrial premature beats are also probably not seen.
+TTE [**2137-4-12**]: The left atrium is mildly dilated.
+There is mild to moderate regional left ventricular systolic dysfunction with inferior and infero-lateral akiensis.
+No masses or thrombi are seen in the left ventricle.
+There is no ventricular septal defect.
+The aortic valve leaflets (3) are mildly thickened.
+There is a minimally increased gradient consistent with minimal aortic valve stenosis.
+No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Trivial mitral regurgitation is seen.
+There is borderline pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+Severe native 3-vessel CAD, with old occlusion of the LAD, RCA, and OM1 proximally, and new 95% proximal and 70% mid stenoses of the LCX.
+Patent SVG-OM1, but with proximal filling defect suggestive of a thrombus.
+Patent SVG-AM-RCA, but with severe diffuse atherosclerosis (cannot rule out in-stent restenosis) with possible thrombus present.
+Stenting of a focal thrombus in the proximal portion of the SVG-OM1.
+Angioseal closure of the left femoral arteriotomy site  Brief Hospital Course: 81M with CAD (s/p PCI in [**2129**], CABG in [**2118**]), HTN, HLD, metastatic lung CA, and COPD (on home O2), with NSTEMI s/p cath found to have significant CAD.
+# NSTEMI: Pt was transferred from OSH with NSTEMI and EKG revealing new Mobitz type 1 AV block.
+He underwent cardiac cath on [**2137-4-11**] which revealed severe 3-vessel native coronary artery disease with several graft stenoses.
+The procedure was complicated by a right groin hematoma and brief hypotension to systolic 70s that was felt to be a vasovagal response during closure of sheath.
+He initially was not started on a beta blocker due to his AV block.
+His AV block was assumed to be due to ischemia from his NSTEMI but pt should follow-up with his cardiologist regarding Holter monitor testing for further evaluation of nodal disease.
+His lisinopril was held given his hypotension and worsening renal function.
+# SYSTOLIC CHF: ECHO with mild to moderate regional left ventricular systolic dysfunction with inferior and infero-lateral akiensis.
+He was diuresed periodically with IV lasix and discharged home on half dose of his home lasix due to worsening renal function.
+Lisinopril was held due to low BPs (90s to 110s systolic) and worsening renal function.
+He had been started on coumadin at OSH due to concern for PE but this had been discontinued when CTA ruled out PE.
+# HYPOTENSION: The patient was briefly hypotensive (systolic 70s) following the first cardiac catheterization, felt likely to be a vasovagal response.
+# LUNG CANCER: Pt with history of lung cancer with known mets to liver.
+# TRANSAMINITIS: LFTs were elevated at 253/76 on admission and downtrended to 96/51.
+Transaminitis may be due to known liver metastases or medications or shock liver.
+Iron was borderline low, TIBC low, and ferritin high, indicating anemia of chronic inflammation.
+# GERD/BARRETT's: Currently asymptomatic.
+# Confusion: Per nursing, pt was mildly confused at night.
+24. oxygen Oxygen via nasal cannula 3-5L   Discharge Disposition: Home With Service  Facility: [**Location (un) 1110**] VNA  Discharge Diagnosis: Coronary artery disease   Discharge Condition: Mental Status: Clear and coherent.
+Discharge Instructions: Mr. [**Known lastname 38296**], You were transferred to [**Hospital1 18**] for a cardiac catheterization because you were found to have a heart attack at an outside hospital.
+This medication was held because of your low blood pressures and because of your worsening kidney function -Please talk to your cardiologist about the initiation of a beta blocker -Please speak with your oncologist about whether you should remain on fluconazole as your liver enzyme tests were elevated  Followup Instructions: The following appointments have been scheduled for you:  PCP [**Name Initial (PRE) **]: [**Last Name (LF) 766**], [**4-22**] at 9am With:[**Doctor Last Name **] [**Name Initial (MD) **]  [**Name8 (MD) **],MD Address: [**State **], STUITE 245, [**University/College **],[**Numeric Identifier 3471**] Phone: [**Telephone/Fax (1) 98031**]  Hematology/Oncology Appointment:  Thursday, [**4-25**] at 1:15pm With: [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 18365**],MD Location: [**Hospital **] CANCER CENTER Address: [**2137**], [**Location (un) **],[**Numeric Identifier 8934**] Phone: [**Telephone/Fax (1) 83767**]  Cardiology Appointment: Tuesday, [**5-21**] at 2pm With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 98032**], MD Location: HEART CENTER OF [**Hospital1 **] Address: [**Location (un) **],2ND FL, [**Location (un) **],[**Numeric Identifier 7398**] Phone: [**Telephone/Fax (1) 6256**]    Completed by:[**2137-4-17**

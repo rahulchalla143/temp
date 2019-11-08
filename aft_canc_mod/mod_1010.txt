@@ -1,0 +1,73 @@
+Admission Date:  [**2108-1-4**]              Discharge Date:   [**2108-1-27**]  Date of Birth:  [**2034-4-4**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 3233**] Chief Complaint: Wt loss and abdominal pain   Major Surgical or Invasive Procedure: laparoscopic lymph node biopsy of the mesentery and retroperitoneum bone marrow biopsy and aspirate ([**2108-1-12**] and [**2108-1-27**]) thoracocentesis ([**2108-1-10**])   History of Present Illness: This is a 73 year-old Vietnamese man with the history below presents with wt.
+loss, loss of appetite and dull aching abdominal pain for a month, associated with chills, sweats.
+The pain is constant, alleviated by eating.
+Does not burn or radiate.
+He also has had a cough for 9 days.
+Past Medical History: Past Medical History: back pain, gunshot wound in the left clavicle, hepatitis B, headaches, weight loss, cataracts, advanced glaucoma, GERD Mult.
+Ophthalmologic/Eyes: : PERLLA, EOMI, no conjuctival injection, anicteric .
+Otolaryngologic (ENT): no sinus tenderness, moist mucous membranes, oropharynx without exudate or lesions, no supraclavicular or cervical lymphadenopathy, no thyromegaly or thyroid nodules .
+Cardiovascular: Regular rate and rhythm, normal S1 and S2, no murmurs, rubs, or gallops appreciated.
+No hepatomegaly.
+Musculoskeletal: no cyanosis, clubbing or edema .
+Integumentary: skin warm, no rashes, no jaundice .
+Heme/Lymph: no cervical or supraclavicular lymphadenopathy; no axillary or groin adenopathy.
+No evidence of retroperitoneal bleed.
+Stable small bilateral pleural effusions.
+Moderate bilateral pleural effusions with atelectasis of the adjacent lung parenchyma.
+The pleural effusions are increased from [**2108-1-5**] and new from [**2107-12-29**].
+Rounded hypodense lesion within the atelectatic left lung base, which may represent a pulmonary nodule.
+Recommend follow-up CT after resolution of the pleural effusion for better assessment.
+Patchy opacities in the posterior upper lobes bilaterally.
+This may be secondary to dependent atelectasis or an aspiration event.
+Enlarged left supraclavicular lymph node and bulky confluent nodal masses in the abdomen; the latter have increased in size compared to [**2107-12-29**].
+retroperitoneal lymph node: Monomorphous population of large atypical lymphoid cells, necrosis and blood.
+Numerous apoptotic bodies and mitotic figures are present.
+This increased proliferation is admixed with histiocytes that imbibe apoptotic cells (tingible-body macrophages), imparting a "starry-[**Hospital Ward Name **]" appearance.
+They are negative for TdT and bcl-1.
+CD3 highlights scattered T-lymphocytes.
+CD138 stains scattered plasma cells.
+The differential diagnosis based on H&E morphology includes a high grade diffuse B-cell lymphoma, Burkitt or atypical Burkitt lymphoma, blastoid mantle cell lymphoma and lymphoblastic lymphoma.
+Negative BCL1 and TdT immunostains do not favor a mantle cell lymphoma or lymphoblastic lymphoma, respectively.
+Overall, the features are that of a high grade diffuse B-cell lymphoma.
+pleural fluid: POSITIVE FOR MALIGNANT CELLS consistent with lymphoma (see note).
+The smear shows large cells with round nuclei, course chromatin and scant cytoplasm and admixed small lymphcytes.
+MRI head w/o contrast Limited exam without evidence of lymphoma or acute intracranial process.
+Hypercellular erythroid dominant bone marrow with erythroid and megakaryocytic dysplasia 2.
+Definitive diagnostic/morphologic evidence of lymphoma is not seen.
+No pulmonary embolus.
+Rounded opacity in the left lower lung is concerning for pneumonia.
+Moderate bilateral pleural effusions.
+The left pleural effusion has slightly decreased since [**2108-1-11**].
+CXR [**1-25**] Since the previous examination, there is significant improved aeration of both lungs with almost complete resolution of the bibasilar dependent atelectasis and the pleural effusion.
+Brief Hospital Course: 1) Abdominal mass: He initially presented with LUQ abdominal pain and associated weight loss, fevers, night sweats, dyspnea, nodular gastric/duodenal folds, splenic [**Doctor First Name **], pararenal [**Doctor First Name **], para-[**First Name9 (NamePattern2) 28407**] [**Doctor First Name **], normocytic anemia, thrombocytopenia and hypoalbuminemia.
+His mass was radiographically concerning for lymphoma v. primary intestinal (gastric) adenocarcinoma.
+The constellation with weight loss was particularly concerning.
+He had a laparoscopic lymph node biopsy of an abdominal node as well as a retroperitoneal node (full results in results section) that showed high grade B cell lymphoma.
+A bone marrow biopsy showed histiocytosis but no lymphoma.
+He also had bilateral pleural effusions, and underwent a thoracocentesis which showed malignant effusion.
+He started [**Hospital1 **] chemotherapy and tumor lysis labs were followed closely as there was initial concern for Burkitts which would create a high liklihood of tumor lysis.
+On [**1-25**] he was no longer neutropenic.
+2) Pulmonary On admission he had a cough and an infiltrate on CXR.
+After beginning to receive [**Hospital1 **] and aggressive hydration he had an acute oxygen desaturation and temporary hypotension and was transferred to the MICU.
+He was transferred to the MICU initially on [**1-13**] for episode of hypoxia with O2 saturation of 88-90% on 2LNC.
+He had a CTA which was negative for pulmonary embolus.
+He bounced back to the ICU on [**1-15**] for a transient episode of hypoxia thought likely due to combination of bilateral malignant pleural effusions and possible new LLL pneumonia.
+He remained afebrile and hemodynamically stable.
+In addition, he was gently diureses with lasix 10 IV as his volume status was net positive likely due to hydration for tumor lysis syndrome.
+He was continued on [**Hospital1 **] per BMT recommendations and prophylaxis for tumor lysis syndrome.
+Vancomycin and levofloxacin were stopped on day 3, as suspicion for pneumonia low.
+His oxygen saturation remained  in the high nineties while on the BMT service and gradually he returned to room air and was satting in the high nineties.
+A chest X ray done [**1-25**] showed almost complete resolution of his effusions, no infiltrate and some emphysema.
+)ID After completing [**Hospital1 **], infectious disease was called to evaluate him for prophylaxis while neutropenic as he is from rural [**Country 3992**].
+As he had fever, nightsweats and an infiltrate on admission it was felt that he needed to be ruled out for tuberculosis.
+He has a history of Hep B infection and was placed on lamivudine to prevent recrudescence.
+has others on list, including methadone, but states he only takes these three).
+Disp:*30 bottles* Refills:*2*   Discharge Disposition: Home  Discharge Diagnosis: high grade B cell lymphoma malignant pleural effusions-bilateral history of hepatitis B infection Glaucoma OD Hospitalized for his back injury.
+PTSD   Discharge Condition: stable, afebrile, good po intake, ANC 7230, ambulatory   Discharge Instructions: You were admitted with abdominal pain.
+On your chest X ray there was evidence of pneumonia that was treated.
+You had an abdominal CT that showed soft tissue, and you had a biopsy of some of your lymph nodes that showed B cell lymphoma (cancer).
+You also had collections of fluid in your lungs that was due to the lymphoma in your abdomen.
+You had some of the fluid removed.
+You received chemotherapy ([**Hospital1 **]) but had low oxygen from fluid accumulation in your lungs.
+You were evaluated for tuberculosis infection for three days and were found not to have tuberculosis.
+Your white blood cell count dropped because of the chemotherapy and you were receiving a medication that helps the white blood cells recover.

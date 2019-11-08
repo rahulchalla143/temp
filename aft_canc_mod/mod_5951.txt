@@ -1,0 +1,51 @@
+Admission Date:  [**2123-6-22**]              Discharge Date:   [**2123-6-25**]  Date of Birth:  [**2042-10-9**]             Sex:   F  Service: MEDICINE  Allergies: Ampicillin / Penicillins / Percocet / Bactrim / Gold Salts  Attending:[**Doctor Last Name 10493**] Chief Complaint: Melena in stools  Major Surgical or Invasive Procedure: None  History of Present Illness: Mrs. [**Known lastname **] is a 80 yo F from NH with PMH myelofibrosis transfusion dependent with last transfusion last week, c.diff on vanco, pulmonary hypertension in setting of chronic PE on lovenox and aspirin who comes to ED after having abnormal labs at NH.
+Her son-in-law [**Name (NI) 95705**] she had no other complaints.
+He thinks that she may be a bit more anxious, but she is at her baseline of dementia and delirium.
+Pt had reportedly dark melanotic stool on rectal exam that was guaiac positive.
+Ucx sent CXR showed mild atelectasis.
+Seropositive non-erosive rheumatoid arthritis 2.
+Chronic venous insufficiency 4.
+HTN 6.
+Depression 8.
+Urinary Incontinence 10.
+Myelodysplasia 14.
+Evidence of chronic pulmonary emboli (on CTA imaging from [**2123-4-2**])  Social History: She lived with her daughter and son-in-law in [**Name (NI) 13040**], but is now in a nursing home.
+Her husband died of metastatic colon cancer many years ago.
+Family History: non-contributory  Physical Exam: General: Alert oriented x 1, no acute distress HEENT: Sclera anicteric, dry mucous membranes, oropharynx clear, EOMI, PERRL Neck: supple, JVP not elevated, no LAD CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi Abdomen: soft, non-distended, bowel sounds present, no organomegaly, no tenderness to palpation, no rebound or guarding  GU: no foley Ext: R medial/posterior calf/thing oozing serous liquid at site of skin graft.
+L calf edematous Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema Neuro: CNII-XII intact, 5/5 strength upper/lower extremities, grossly normal sensation, 2+ reflexes bilaterally, gait deferred.
+No rubs or gallops, but 2/6 systolic murmur ABD: soft, non-tender, thin, no organomegaly EXT: right leg with bandage removed, well-healing wound with granulation at edges, left leg no edema or swelling SKIN: no rashes  Pertinent Results: UNILAT LOWER EXT VEINS [**2123-6-23**]: IMPRESSION:  No DVT in the left lower extremity.
+Pathology Report	DIFFICULT CROSSMATCH AND/OR EVALUATION OF IRREGULAR ANTIBODIES	Procedure Date of [**2123-6-22**]  (ICD9 CODE: 999.89) INDICATION FOR CONSULT:	DIFFICULT CROSSMATCH AND/OR EVALUATION OF IRREGULAR ANTIBODIES  INDICATIONS FOR CONSULT: Difficult crossmatch and/or evaluation of irregular antibody (s)  CLINICAL/LAB DATA: Ms. [**Known lastname **] is a 80 year old lady with myelofibrosis diagnosed in [**2123-3-14**].
+A sample of the patient's blood from [**2123-6-22**] for type and screen is received.
+DIAGNOSIS, ASSESSMENT AND RECOMMENDATIONS: Based on the results of the antibody screen and panel, the patient has developed a new anti-E antibody.
+The anti-E antibody most likely developed as a result of prior antigen exposure, such as through recent transfusions either at the [**Hospital1 18**] or other institutions.
+The anti-E antibody is clinically significant and can cause hemolytic reactions in the setting of E-antigen positive PRBC transfusions.
+The patient will receive E-antigen negative red blood cells for future transfusions.
+[**2123-6-25**] 07:15   	19.5* 	2.48* 	6.9* 	21.5* 	87 	28.0 	32.2 	15.7* 	1371*1 I-HOS ADDED [**6-25**] @ 11:44 [**2123-6-22**] 20:10   	20.5* 	3.09* 	8.9* 	26.5* 	86 	28.6 	33.4 	15.1 	1608*3   RENAL & GLUCOSE 	Glucose 	UreaN 	Creat 	Na 	K 	Cl 	HCO3 	AnGap [**2123-6-25**] 07:15   	741 	11 	0.3* 	129* 	4.1 	94* 	26 	13  Brief Hospital Course: # SUMMARY: 80 yo F from NH with PMH myelofibrosis transfusion dependent with last transfusion last week, c.diff on vanco, pulmonary hypertension in setting of chronic PE on lovenox and aspirin who presented with anemia.
+ACTIVE ISSUES: # GI bleed: The patient presents with numerous risk factors for a GI bleed: lovenox, asa, and elevated INR.
+Besides reported melanotic stools, she did not have other complaints such as abdominal pain, lightheadedness, or difficulty with bowel movements.
+Rectal exam was guiac positive x 2 and thought to be secondary to iron supplementation.
+# Sepsis: Based on her HR and WBC count, she met SIRS criteria on admission with the most likely source of her infection being a UTI given her positive UA.
+Other possible source was thought to be leg hematoma, which was previously infected with MDR enterobacter during her admission in [**2123-5-14**].
+However the wound on her leg was stable with minimal purulence or erythema.
+Goals of care were discussed and the patient was transitioned back to rehab with the intent of no rehospitalization.
+She completed a course of ciprofloxacin with extended coverage of her prior c-diff infection with oral vancomycin.
+#Primary Myelofibrosis requiring transfusions: she presented with elevated WBC and thrombocytosis of 1608K, which may be partly be secondary to her underlying myelofibrosis, which was diagnosed in [**2123-3-14**] from bone marrow bx.
+Since she was receiving transfusions and taking iron supplementation, her iron was discontinued to prevent iron toxicity from repeated transfusions.
+There was concern that she had a delayed hemolytic transfusion reaction.
+Reactive thrombocytosis from urosepsis, GI bleed, and her underlying primary myelofibrosis may have been the most significant contributor.
+# Coagulopathy: The etiology of her coagulopathy with an INR of 2.7 on admission is unclear at this time.
+She previously was thought to have coagulalopathy of anoxeria on previous admission.
+Hepatic dysfunction is an unlikely cause for her coagulopathy has she has no h/o liver disease and no risk factors for liver disease.
+If it was secondary to an isolated factor [**Name (NI) **], PTT would be expected to be higher.
+# Chronic DVT/PE: Her home lovenox was held because of her presumed GI bleed.
+On admission, her left lower extremity was swollen and erythematous, concerning for recurrent DVT despite being on lovenox.
+She had two lower extremity dopplers, which did not show any evidence of recurrence of her DVT.
+The erythema and swelling resolved by the time of her discharge.
+# C. diff: She was started on oral vancomycin on [**6-14**] at [**Hospital1 95707**], given need for abx for her UTI.
+Goals of care were transitioned to include no future lab draws, no blood tranfusions and no re-hospitalizations.
+She was continued on antibiotics and anti-coagulation for management of her chronic issues.
+Acetaminophen 650 mg PO TID PRN pain 12.
+Thrombocytosis   Discharge Condition: Mental Status: Confused - sometimes.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+The cause of this anemia is likely secondary to your underlying myelofibrosis.
+You will need 7 additional days of oral vancomycin after completing your ciprofloxacin for complete treatment of your clostridium difficile infection.

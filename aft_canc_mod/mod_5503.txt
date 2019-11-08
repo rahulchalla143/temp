@@ -1,0 +1,46 @@
+Admission Date:  [**2118-3-20**]              Discharge Date:   [**2118-3-26**]  Date of Birth:  [**2063-8-9**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 6021**] Chief Complaint: Dyspnea  Major Surgical or Invasive Procedure: Abdominal port placement [**2118-3-21**]   History of Present Illness: 54 y/o woman with metastatic ovarian cancer complicated by ascites requiring frequent paracentesis who is admitted to the [**Hospital Ward Name 332**] ICU after presenting to the emergency department with dyspnea.
+Her ascites has been a [**Last Name 12785**] problem of late, and has required 2 paracentesis last week alone.
+She awoke on the day of admission (Sunday [**2118-3-20**]) feeling short of breath, and with abdominal distension, and noted that this was similar to how she feels prior to paracentesis.
+She has not had any acute abdominal pain, but notes a bloating and a tightness sensation.
+She vomited once last night after eating and has had poor PO intake at baseline.
+She has had no chest pain.
+A CT torso was performed in the ED which demonstrated no PE/dissection, but progression of omental/peritoneal disease with pockets of hyperdense ascites in LUQ and mid line lower abdomen which likley represent intraperitoneal hemmorhage mixed with ascites.
+Ovarian Cancer Diagnosed with Stage I in [**2115-7-11**] with good surgical resection.
+Had recurrent disease in [**2116-10-10**] and had gemcitabine, 7 cycles taxol, 4 cycles doxil, and started Alimta on [**2118-2-23**].
+Anxiety disorder followed by a psychiatrist 3.
+Hypertension after treatment with Avastin 4.
+Both her sister and brother have had basal cell carcinoma of the nose.
+There is no history of any breast, ovarian, uterine, or colorectal cancer.
+No evidence of aortic dissection or pulmonary embolism.
+Interval disease progression involving the peritoneum and omentum within the abdomen and pelvis with increased ascites.
+Pockets of ascites appear to display hyperdense components within it, noted within the left upper quadrant and lower midline abdomen which are suggestive of regions of intraperitoneal hemorrhage.
+No findings of active extravasation.
+Unchanged intrathoracic and abdomen/pelvic lymphadenopathy.
+Slightly prominent air- and fluid-filled loops of transverse colon without any secondary signs to suggest bowel obstruction.
+No evidence of active extravasation.
+Stable appearance of known extensive metastatic disease with ascites, peritoneal and omental implants.
+Stable appearance of high attenuation components in left upper quadrant within the ascites suggestive of regions of intraperitoneal hemorrhage.
+Interval development of small-to-moderate right pleural effusion.
+Dilated loops up to 7 cm of air and fecal material filled transverse and ascending colon, and cecum that is compatible with ileus.
+# Anemia:  Patient presented with a hematocrit of 16 in the setting of recent chemotherapy and no clear source of acute bleeding.
+An abdominal CT was performed and demonstrated ascitic fluid consistent with focal areas of hemorrahage from metastatic disease.
+This was thought to be the etiology of the patient's acute anemia and she was admitted to the [**Hospital Unit Name 153**] for close monitoring.
+On the floor patient had 1 L of fluid drained from abdominal port for comfort - the next day she had > 15 pt HCT drop (30.4 -> 15.7).
+CTA was performed which demonstrated no active source of bleeding from vessels.
+Again it was felt 15 HCT was erroneous and perhaps due to dilution (port draw).
+Regardless patient is suffering from intraperitoneal bleeding demonstrated by frank blood (drained from abdominal port).
+CTA ruled out treatable vascular source, most likely bleeding is from metastatic peritoneal disease.
+There is some concern that removing fluid for comfort increases peritoneal bleeding due to decreased pressure/tamponade.
+HOwever, prior to discharge 500 cc X 2 was drained with no significant drop in HCT or change in hemodynamics.
+# Ascities:  The patient has significant ascites and has undergone multiple therapeutic paracentesis to relieve dyspnea and abdominal discomfort.
+Patient was briefly started on antibiotics (Vanc, Ceftrioxone) for possible intrapertineal infection based on PMN 249 ([**2118-3-22**]), however culture returned negative and antibiotics were discontinued.
+# History of DVT/PE: Lovenox discontinued in setting of intraperitoneal hemorrhage.
+- Morphine prn - Paracentesis via port for comfort - Transfusions based on symptoms  # FEN: Encourage po intake  # CODE: DNR/DNI   Medications on Admission: 1.
+Reglan 5mg po q6hrs prn nausea 4. clonazepam 0.5mg [**Hospital1 **] prn anxiety 5. proAir HFA 90mcg 1-2puffs q6-8 hrs prn cough 6. dexamethasone 8mg [**Hospital1 **] the day before, of and day after chemo  7. famotidine 40mg [**Hospital1 **] prn 8. vitamin B-12 9. colace 100mg [**Hospital1 **] 10. desipramine 50mg daily 11. folic acid 1mg daily 12. zofran 8mg TID prn nausea 13.
+[**Doctor Last Name **] needles 4p/week 19 gauge, 1 inch For abdominal port access 2.
+Lorazepam 1 mg Tablet Sig: One (1) Tablet PO every four (4) hours as needed for anxiety.
+Bisacodyl 10 mg Suppository Sig: One (1)  Rectal once a day as needed for constipation.
+Disp:*30 suppository* Refills:*0*   Discharge Disposition: Home With Service  Facility: Hospice of the Good [**Doctor Last Name 9995**]  Discharge Diagnosis: Ovarian cancer Refractory ascites Intraperitoneal hemorrhage   Discharge Condition: Good, pain well controlled.
+Discharge Instructions: You were admitted for low blood counts.
+Follow your medication list, we have changed some of your medications.
+Call your doctor if you experience dizziness, chest pain, fever, chills, nausea, vomiting, pain or any other concerning symptoms.

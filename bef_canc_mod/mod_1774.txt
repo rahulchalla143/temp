@@ -1,0 +1,24 @@
+Name:  [**Known lastname 1**],[**Known firstname 2**]                   Unit No:   [**Numeric Identifier 3**]  Admission Date:  [**2147-11-17**]              Discharge Date:   [**2147-12-5**]  Date of Birth:  [**2092-11-28**]             Sex:   F  Service: SURGERY  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 4**] Addendum: RADIOLOGY  Final Report  MR HEAD W & W/O CONTRAST  [**2147-12-1**] 3:07 PM  MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN  Reason: Please evaluate for ischemic disease/infarction Contrast: MAGNEVIST  [**Hospital 5**] MEDICAL CONDITION: 54 year old woman admitted with listeria meningitis, question infarct in medial R frontal lobe.
+Please get MRI with gadolinium and diffusion weighted imaging.
+CLINICAL INFORMATION: The patient with listeria meningitis, question of infarct in the right medial frontal lobe, for further evaluation.
+TECHNIQUE: T1 sagittal and axial and FLAIR T2 susceptibility and diffusion axial images of the brain were obtained before gadolinium.
+T1 axial, sagittal and coronal images were obtained following the administration of gadolinium.
+There is subtle increased signal seen in this region on diffusion images, indicating T2 shine through.
+The appearances could still be suggestive of an evolving subacute infarct.
+However, given the clinical history of listeria meningitis, an associated infection in this area could not be excluded.
+Therefore, correlation with lumbar puncture findings and a followup are recommended.
+There are no other areas of abnormal enhancement seen.
+There is no mass effect, midline shift or hydrocephalus.
+IMPRESSION: Slightly increased T2 hyperintensity and new enhancement in the medial right frontal lobe since the previous MRI examination of [**2147-11-18**].
+However, given the clinical history of listeria meningitis, associated infection could not be excluded and correlation with CSF findings and followup up are recommended.
+No other areas of abnormal enhancement are seen.
+Ulcerative colitis, chronic active, with mucosal disease extending from right colon to distal margin.
+No granulomas or dysplasia.
+The specimen is opened longitudinally to reveal a small segment of distal ileum measuring 1.5 x 1.5 cm.
+The proximal 11 cm of the colon has unremarkable tan-pink mucosa, while the remainder of the specimen shows a dark red and granular mucosa with numerous small polyps.
+The specimen is sectioned and represented as follows:  A = proximal ileal margin, B = representation of appendix, C = representation of uninvolved cecum, D-G = representation of remainder of bowel at 10 cm intervals, H = distal margin, I = representation of possible lymph nodes.
+RADIOLOGY  Final Report  ABDOMEN (SUPINE & ERECT)  [**2147-11-25**] 7:05 PM  ABDOMEN (SUPINE & ERECT)  Reason: r/o toxic megacolon  [**Hospital 5**] MEDICAL CONDITION: 54 year old woman with UC now with worsening diarrhea, abd pain and distension.
+REASON FOR THIS EXAMINATION: r/o toxic megacolon SUPINE AND ERECT - ABDOMEN  HISTORY: 54-year-old woman with ulcerative colitis and abdominal pain, rule out megacolon.
+IMPRESSION: Two views of the abdomen show centrally clustered small bowel loops moderately distended with air concerning for small bowel obstruction.
+The colon may be diffusely thick walled, but it is not distended and there is no evidence of intraperitoneal free air.
+Lung bases demonstrate small bilateral pleural effusions, new since [**10-20**].

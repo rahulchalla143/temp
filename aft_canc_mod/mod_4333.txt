@@ -1,0 +1,33 @@
+Admission Date:  [**2126-12-6**]              Discharge Date:   [**2126-12-8**]  Date of Birth:  [**2075-3-1**]             Sex:   M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 8404**] Chief Complaint: Abdominal pain   Major Surgical or Invasive Procedure: Intubation  History of Present Illness: Mr. [**Known lastname 74626**] is a 51 year old gentleman with stage IIa esophageal adenocarcinoma s/p chemoradiation, HCV with ?cirrhosis, and EtOH abuse who presented to the [**Hospital1 18**] ED for abdominal pain and distension now transferred to the [**Hospital Unit Name 153**] for hyperbilirubinemia and SBP.
+The patient reports that he has had worsening jaundice over the past several weeks with an increasing hyperbilirubinemia measured at an outside hospital who presented to the ED today for progressively worsening abdominal pain and distension.
+Per the patient's wife, he has not had any f/c/s, diarrhea, or recent medication changes.
+With regard to the patient's oncologic history, he was diagnosed with stage IIa esophageal adenocarcinoma in [**5-30**] and underwent 5-FU chemoradiation completed on [**2126-10-10**].
+Currently, the patient is confused and in severe abdominal pain.
+Past Medical History: ONCOLOGIC HISTORY: [**2126-6-14**] EGD showed a 1.5 cm GE junction mass, biopsy positive for poorly differentiated adenocarcinoma with signet ring cells (stage IIA (T3 N0 M0) [**2126-7-2**] endoscopic ultrasound at [**Hospital1 **] by Dr. [**Last Name (STitle) **], which revealed a 3-cm mass of malignant appearance at the GE junction, staged as T3 by US criteria.
+No lymph node was noted in the peri-esophageal mediastinum.
+He was deemed to not be a surgical candidate due to his poor functional status, ongoing alcohol and tobacco use, and history of chronic hepatitis C. [**2126-7-22**]: Planned to start chemotherapy concurrent with radiation with cisplatin and 5-FU.
+Thrombocytopenia was noted on [**2126-7-22**], only 5-FU and radiation was started.
+Workup for thrombocytopenia revealed no reversible causes, with likely contributions from his liver disease and splenomegaly.
+Chronic hepatitis C, diagnosed 30 years ago; [**7-9**] viral load: 3,890,000, stable 2.
+Right above the knee amputation status post motor vehicle accident at the age of 17, stable.
+Chronic lower extremity edema in left leg, stable 6.
+Chronic neck and back pain presumably due to degenerative joint disease, stable 8.
+Narcotic dependence.
+Social History: He previously worked as a landscaper, but has not been working since [**2122**] secondary to poor fitting prosthesis and not being able to ambulate.
+Family History: NC   Physical Exam: VS: 97.8 118 117/63 13 92%6L nc Gen: Splinting in severe abdominal pain, rapid shallow breathing HEENT: Jaundiced, +scleral icterus.
+Ext: Chronic stasis dermatitis.
+FLUID CULTURE (Preliminary):       ESCHERICHIA COLI.
+MODERATE GROWTH.
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              ESCHERICHIA COLI                              | AMPICILLIN------------     8 S AMPICILLIN/SULBACTAM--     4 S CEFAZOLIN-------------   <=4 S CEFEPIME--------------   <=1 S CEFTAZIDIME-----------   <=1 S CEFTRIAXONE-----------   <=1 S CIPROFLOXACIN---------   =>4 R GENTAMICIN------------   <=1 S MEROPENEM-------------<=0.25 S TOBRAMYCIN------------   <=1 S TRIMETHOPRIM/SULFA----  =>16 R     ANAEROBIC CULTURE (Preliminary):    NO ANAEROBES ISOLATED.
+Abd u/s  IMPRESSION: No free intraperitoneal air or evidence of small bowel obstruction.
+No focal hepatic lesions.
+Patent main portal vein with hepatopetal flow.
+Extensive intrahepatic biliary dilatation and irregularity involving the right lobe of the liver of uncertain etiology for which differential includes infection (ascending cholangitis with pericholangitic phlegmon), primary neoplasm such as cholangiocarcinoma, or metastasis.
+Distended gallbladder without other CT evidence of acute cholecystitis.
+Clinical correlation to this site is recommended and if acute cholecystitis is of clinical concern, HIDA can be considered.
+Small amount of intra-abdominal ascites in the setting of a cirrhotic liver with sequela of portal hypertension including splenomegaly and varices.
+Likely bibasilar atelectasis of the lungs, though pneumonia is not excluded.
+Brief Hospital Course: Mr. [**Known lastname 74626**] is a 51 year old gentleman with stage IIa esophageal adenocarcinoma s/p chemoradiation, HCV cirrhosis, and EtOH abuse who presented to the [**Hospital1 18**] ED for abdominal pain and distension now transferred to the [**Hospital Unit Name 153**] for hyperbilirubinemia and SBP.
+The pt was found to have Ecoli in his peritoneal fluid, with fluid analysis consistent with SBP, and GNR's in his blood.
+ascending cholangitis, however by this time was becoming anuric with worsening renal function, WBC count was rising, becoming more coagulopathic, liver enzymes rising, and becoming very acidemic with elevated lactate.
+Initial discussion with pt's ex-wife, who was present through this course, was to continue pressors and mechanical ventilation, but not escalate care, and he was initially made DNR.

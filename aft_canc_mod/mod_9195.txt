@@ -1,0 +1,44 @@
+Name:  [**Known lastname **],[**Known firstname **] A                 Unit No:   [**Numeric Identifier 10059**]  Admission Date:  [**2168-2-23**]              Discharge Date:   [**2168-5-17**]  Date of Birth:  [**2113-2-2**]             Sex:   M  Service: MEDICINE  Allergies: Ipratropium And Derivatives / Peanut Containing Products / Acyclovir  Attending:[**Last Name (NamePattern1) 2211**] Addendum: Please use Hospital course summary in addendum  Brief Hospital Course: Mr. [**Known lastname **] is a 54-year-old man w/ history of plasma cell leukemia/multiple myeloma who has hx of PE during treatment with  Revlimid, s/p recent DPACE treatment here with febrile neutropenia.
+# Plasma cell leukemia/myeloma: The was admitted on Day +11 post  DPACE and was persistently neutropenic.
+He was started on Cefepime monotherapy for febrile neutropenia and Bactrim and Valacyclovir were continued for PCP and HSV prophylaxis respectively.
+On [**2-24**], Cefepime was switched to [**Last Name (un) **]/Vanco as his blood cultures grew out Coagulase negative staph and strep viridans.
+Given his slow to respond white count, the revlimid was tapered to 5mg daily and stopped temporarily.
+He was also started on lovenox for DVT prophylaxis given his history of PE while on Revlimid.
+Bm Bx done on [**3-9**] showed 50% plasma cells.
+The patient remained AF post transplant, but had signs of worsening disease: (IgG increased to ?9000 and right middle lobe mass thought possibly to be a plasmacytoma showed increasing size on repeat CT.  Due to concern for recurrent disease, he was started thalidomide [**4-28**] for treatment of myeloma as his disease was previously responsive to this.
+# Disemminated aspergillosis: The patient developed respiratory distress several times week of [**4-18**].
+On [**4-20**] he had an episode of atrial flutter resulting in volume overload and required diuresis.
+A pulmonary consult was called and a bronchoscopy performed on [**4-22**] which showed no endobronchial lesions and friable mucosa generally throughout the right middle and lower lobes.
+Biopsy was performed which resulted in bleeding but hemostasis was obtained.
+Following the bronch the patient became hypoxic and had increased O2 requirement leading to a transfer to the ICU.
+He required BiPAP at one point during his ICU stay but otherwise improved and his O2 requirement decreased with diuresis.
+On [**5-3**] he developed a new rash (distinct from previous ones) whcih was biopsied.
+On [**5-3**] the patient was deemed to have disseminated aspergillosis and was started on voriconazole and caspofungin.
+Ambisome was not started at this time because the patient was in acute renal failure from other causes.
+On [**5-10**], due to progression of his renal failure the patient was started on dialysis and at this point ambisome was started in addition to continued voriconazole.
+CXR on [**5-14**] showed worsening of his pulmonary findings.
+# Renal insufficiency: The patient initially presented with some mild renal failure, which quickly resolved.
+His renal failure was thought secondary to cyclosporin toxicity.
+There were likely other contributing factors, including his underlying disease.
+# Intracranial hemorrhage: On the night of [**4-21**], the patient had an acute change in his mental status and became unresponsive.
+A head CT w/ and w/out contrast was performed which showed "large intraparenchymal hemorrhage in the right parietal-occipital lobe region,  with extension into the right lateral and fourth ventricles, effacement of the basal cisterns, right hippocampal and subfalcine herniation.
+Right parietal- occipital subarachnoid hemorrhage."
+Possible etiologies for the bleed included disseminated aspergillosis.
+Intracranial hemorrhage was the immediate cause of death.
+Cyclosporin was discontinued and cellcept/steroids started due to renal failure as described above.
+The patient developed a new skin rash on [**5-10**] which was Day +34 post transplant that was thought consistent with GVHD.
+On [**5-15**] he developed increasing bilirubin, the differential of which included GVHD and antifungals therapy.
+# Hypertension/tachycardia- Occurred after transplant.
+# Bacteremia: On cultures drawn on admission, he grew 2 bottles of coagulase negative staph and 1 bottle of strep viridans.
+The suspected sources of the bacteremia were the rash of the scalp as a source of the coagulase negative staph and his aphthous ulcers as the source of his strep viridans.
+Because of the culture positive for Strep viridans and question of possible endocarditis, an echocardiogram was done which showed a small fluttering echodensity on the aortic annulus which was stable from an echocardiogram three weeks earlier.
+Multiple blood cultures were  negative and cefepime and vancomycin were stopped after he was afebrile for 2 weeks.
+As patient began to spike fevers again with no clear source these were restarted 1 wk prior to transplant.
+An investigation was done and the conclusion was that the fever was  likely due to the patient's bacteremia and was unrelated to the transfusion.
+# Rash: The patient presented with a papular rash on scalp, face.
+The results showed no leukemic infiltrate in the sections examined and inflammation is minimal (there is a focal mild perifollicular lymphohistiocytic infiltrate).
+While there is a central dilated follicle, no Demodex was seen within the follicle.
+He developed a second rash on [**2-25**] which seemed related in timing to the initiation of Meropenem and Vancomycin.
+He developed other rashes on [**5-3**] and [**5-10**] which are covered in more detail under the "disseminated aspergillosis" and GVHD sections above.
+# Transaminitis- patient has underlying fatty liver seen on RUQ US and MRI and then voriconazole was started which caused a rise  in his LFTs.
+Discharge Disposition: Home With Service  Facility: Critical Care Systems  Discharge Diagnosis: asperigillosis Cerebral vascular acident myeloma pulmonary embolism plasma cell leukemia  Discharge Condition: deceased.

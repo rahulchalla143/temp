@@ -1,0 +1,44 @@
+Admission Date:  [**2201-7-6**]              Discharge Date:   [**2201-7-10**]  Date of Birth:  [**2126-8-31**]             Sex:   M  Service: MEDICINE  Allergies: Penicillins / Dilantin / Iodine; Iodine Containing  Attending:[**First Name3 (LF) 4891**] Chief Complaint: Hyperglycemia Slurred speech and mental status changes   Major Surgical or Invasive Procedure: None   History of Present Illness: 74 Italian man, with history significant for HTN, dyslipidemia, multiple meningiomas (followed by Dr [**Last Name (STitle) 724**] of Neurology) who presented to ED with word-finding difficulties on [**2201-7-5**].
+Of note, he had recently received the 4th of a series of injections of a study drug to treat his recurrent meningiomas.
+In [**Hospital Unit Name 153**], head CT showed stable meningioma, continued Keppra 750 mg po BID (renally dosed); Piziritide (for his meningiomas) thought to be responsible for hyperglycemia [**First Name8 (NamePattern2) **] [**Last Name (un) **]; Insulin drip stopped [**2201-7-6**], [**Last Name (un) **] recommended to keep on SSI (20U total today; highest glucose 323) for now without a fixed dose since it is thought to be drug related; He was seen by his neuro-oncologist Dr [**Last Name (STitle) 724**] during the ICU stay.
+Past Medical History: Meningioma s/p resection, for cyberknife: first seen in ER [**2198-2-25**] with headaches, found to have R parietal mass on head CT.
+He was admitted to neurology for brain tumor w/u, with neurosurg consulting.
+[**Month/Day/Year 4338**] with multiple lesions in brain.
+Stereotactic biopsy consistent with possible grade II meningiomas (though some crush artifact, the MIB-1 was 16%, high for meningioma).
+HTN Dyslipidemia Cataracts Recurrent scalp infections  Social History: Lives with wife in [**Name (NI) 86**] area.
+Family History: father with [**Name2 (NI) 499**] cancer in 70s, mother with "[**Name2 (NI) 500**] cancer" at 54; sister recently found to have brain metastases from breast cancer.
+Suboptimal technical quality, a focal LV wall motion abnormality cannot be fully excluded.
+Focal calcifications in aortic root.
+AORTIC VALVE: Moderately thickened aortic valve leaflets.
+MITRAL VALVE: Mildly thickened mitral valve leaflets.
+Mild mitral annular calcification.
+Mild thickening of mitral valve chordae.
+No MR.  TRICUSPID VALVE: Mildly thickened tricuspid valve leaflets.
+GENERAL COMMENTS: Resting bradycardia (HR<60bpm).
+There is mild symmetric left ventricular hypertrophy with normal cavity size and global systolic function (LVEF>55%).
+Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded.
+There is mild aortic valve stenosis (valve area 1.2-1.9cm2).
+Mild to moderate ([**12-27**]+) aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+There is no mitral valve prolapse.
+No mitral regurgitation is seen.
+The tricuspid valve leaflets are mildly thickened.
+There is no pericardial effusion.
+Mild aortic stenosis.
+Mild to moderate aortic regurgitation.
+Mild concentric left ventricular hypertrophy with preserved left ventricular systolic function.
+The severity of valvular disease appears similar.
+Brief Hospital Course: In summary, Mr. [**Name13 (STitle) 71870**] is a 74yo male with past medical history significant for hypertension, dyslipidemia, and multiple meningiomas (s/p radiation, resections, multiple graft surgeries and debridements for prior scalp infections) undergoing current chemotherapy with neuro-oncology who presents now with complaints of dysphagia and marked hyperglycemia.
+The [**Last Name (un) **] consult team believes hyperglycemia is likely due to an Octreotide component of his study regimen.
+His neurologic symptoms resolved prior to transfer from the ICU to the floor.
+#Speech changes/ questionable dysphagia: Upon further questioning, the patient described symptoms of aphasia - word finding difficulties rather than dysphagia, though he did admit to some trouble swallowing with pills.
+The aphasia was thought to be possibly due to tumor involvement of Broca's area.
+These symptoms resolved in the ICU, however.
+The [**Last Name (un) **] diabetes team was contact[**Name (NI) **] and they hypothesized that the hyperglycemia was secondary to the patient's chemoregimen.
+#Seizure prophylaxis: His Keppra was decreased to a lower dose in the setting of the acute kidney injury on admission, and was returned to his baseline dosing once his Creatinine returned to baseline (on discharge).
+#HTN: The patient's home medication metoprolol was restarted but was decreased to 37.5 mg TID out of concern for bradycardia.
+Echo done given h/o hypertension and to evaluate an aortic position murmur.
+It revealed a preserved EF with moderate AI, and mild AS.
+His Niacin was held, as it can contribute to elevated blood sugar levels.
+#Diarrhea: The patient did have 2-3 episodes of diarrhea however this resolved during his admission in the ICU.
+As you know, you were here for high blood sugars that we think were caused by your chemotherapy drug.

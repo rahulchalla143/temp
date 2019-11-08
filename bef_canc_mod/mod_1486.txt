@@ -1,0 +1,78 @@
+Admission Date:  [**2164-10-2**]              Discharge Date:   [**2164-10-11**]   Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 2610**] Chief Complaint: Respiratory Distress  Major Surgical or Invasive Procedure: Intubation and Mechanical ventilation  History of Present Illness: This is a [**Age over 90 **] year-old (by record though actually 86 years-old per brother) male with history of Afib, HTN, CVA's and severe dememntia (nonverbal at baseline) who presented with respiratory failure.
+Per nursing home documentation the patient was short of breath on the morning of admission AM and received azithromycin and and furosemide at his facility.
+In the evening he looked worse and was noted to be acutesly short of breath so he was taken by EMS to [**Hospital1 18**].
+He was intubated almost immediately for hypoxia and then had a central venous line placed after becoming hypotensive.
+He received 2L of fluid, vancomycin, levofloxacin, and metronidazole after a CXR showed multifocal pneumonia.
+Past Medical History: -Atrial Fibrillation -R MCA embolic stroke [**8-22**] -Cerebellar hemorrhage s/p craniotomy [**2126**] -Alzheimers dementia and nonverbal / PEG fed since stroke in [**2161**] -Colon CA stage III s/p resection -Coronary Artery Dementia -Hypertension -Mitral Regurg -Left Ventricular Hypertropy -Cervical radiculopathy/myelopathy -T12 compression fracture -Gastroesophageal Reflux -Liver hemangioma -Chronic Kidney Disease -BPH s/p TURP -History of bowel obstruction -History of multiple falls -History of ETOH abuse -Remote History of Pulmonary TB ([**2103**]'s)   Social History: Immigrated from [**Country 532**] in [**2134**], at baseline speaks & understands limited English - translator needed.
+LEGIONELLA CULTURE (Final [**2164-10-9**]):    NO LEGIONELLA ISOLATED.
+NEGATIVE for Pneumocystis jirovecii (carinii)..    FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED.
+ACID FAST SMEAR (Final [**2164-10-3**]): NO AFB SEEN ON CONCENTRATED SMEAR.
+ACID FAST CULTURE (Preliminary):    NO MYCOBACTERIA ISOLATED.
+LEGIONELLA CULTURE (Final [**2164-10-9**]):    NO LEGIONELLA ISOLATED.
+NEGATIVE for Pneumocystis jirovecii (carinii)..    FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED.
+ACID FAST SMEAR (Final [**2164-10-3**]): NO AFB SEEN ON CONCENTRATED SMEAR.
+ACID FAST CULTURE (Preliminary):    NO MYCOBACTERIA ISOLATED.
+NO MICROORGANISMS SEEN.
+=========================== RADIOLOGY & OTHER STUDIES =========================== [**10-1**] ECG: Atrial fibrillation with rapid ventricular response.
+ST-T wave abnormalities.
+No previous tracing available for comparison.
+Mild cardiomegaly.
+Diffuse opacities throughout both lungs, worst in the perihilar region and left base, concerning for multifocal pneumonia.
+Multiple calcified pulmonary nodules.
+Dense consolidation of the left lower lobe with associated volume loss, and multiple additional scattered consolidative and ground-glass opacities throughout the lungs bilaterally are most compatible with multifocal pneumonia.
+Massive aspiration could also have this appearance.
+Cardiomegaly, bilateral effusions, and subtle septal thickening suggest mild volume overload.
+Aortic valve and coronary calcifications are noted.
+Hyperinflation of the endotracheal tube cuff, with a slightly low position of the endotracheal tube.
+No evidence of acute intracranial abnormalities.
+MRI would be more sensitive for an acute infarction or global hypoxic injury.
+Extensive cystic encephalomalacia in the right MCA territory, likely related to prior infarction.
+Extensive cystic encephalomalacia in the left cerebellar hemisphere and bilateral mid to inferior vermis, with partially visualized suboccipital postsurgical changes, which could be related to prior hemorrhage or infarct.
+No atrial septal defect is seen by 2D or color Doppler.
+There is mild symmetric left ventricular hypertrophy.
+There is moderate global left ventricular hypokinesis (LVEF = 30 %).
+No masses or thrombi are seen in the left ventricle.
+There is no ventricular septal defect.
+The right ventricular cavity is dilated with depressed free wall contractility.
+The aortic valve leaflets (3) are mildly thickened.
+There is no aortic valve stenosis.
+Trace aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Mild to moderate ([**12-17**]+) mitral regurgitation is seen.
+The tricuspid valve leaflets are mildly thickened.
+Moderate [2+] tricuspid regurgitation is seen.
+There is moderate pulmonary artery systolic hypertension.
+There is a very small pericardial effusion.
+There are no echocardiographic signs of tamponade.
+Mild pulmonary edema, worse in the right lung and moderate right pleural effusion have decreased.
+Moderate cardiomegaly stable.
+No pneumothorax.
+male with history of cerebrovascular disease and severe dementia presenting dyspnea and found to have extensive pulmonary infiltrates and septic physiology.
+1) Hypoxic respiratory failure: The patient presented with acute hypoxia requiring intubation.
+At the time of presentation patient was suffering from multifocal pneumonia, acute exacerbation of chronic systolic CHF likely precipitated by RVR, and large effusion with compressive atelectasis; all of these processes likely contributed to hypoxic respiratory failure at time of presentation.
+The patient was extubated without incident and weaned to progressively lower amounts of supplementary oxygen.
+2) Shock: The patient presented in shock with a somewhat mixed picture suggestive of septic but also potentially an element of cardiogenic shock.
+Blood cultures remained negative though he did have multifocal pneumonia.
+His echocardiogram revealed diminshed ejection fraction of 30% but likely had further depressed EF on admission due to RVR and decreased ventricular filling time.
+Home lisinopril for blood pressure was held on transfer to  the floor in the setting of elevated creatinine and was stable with systolics from 110s-120s.
+He remained afebrile and initial leukocytosis of 19 improved.
+He should have a follow up chest radiograph in [**3-20**] wks to document resolution of his infiltrate.
+4) Acute on Chronic Systolic CHF: The patient presented with elevated BNP and signs of volume overload.
+Further, when his pleural effusion was tapped it appeared transudative and cultures remained negative consistent with an effusion due to heart failure.
+He had an echocardiogram that revealed globally diminished contractility but no wall motion abnormalities and troponin negative making acute ischemia unlikely.
+Patient's exacerbation likely due to RVR as well as possible hypokinesis in the context of systemic infection/ sepsis.
+On discharge, CXR showed improvement in fluid status and a decrease in his lower extremity edema.
+5) Afib with RVR: The patient had intermittent spells of RVR in the ICU that appeared to negatively affect his hemodynamics.
+His beta blocker was held due to hypotension so he was amiodarone loaded to try and achieve better rate control with good effect.
+He has 5 more days of amiodarone loading with 400 mg [**Hospital1 **] and should f/u with a cardiologist to determine continued need for amiodarone.
+6) Hypertension: As sepsis resolved the patient become somewhat hypertensive so after being restarted on his home metoprolol he was also started on captopril, which was then switched to lisinopril for easier dosing with good control of blood pressure.
+Lisinopril was stopped on transfer to the floor in the setting of elevated creatinine, with systolic BP 110s-120s.
+Docusate Sodium 50 mg/5 mL Liquid [**Hospital1 **]: Ten (10) mL PO BID (2 times a day) as needed for constipation.
+3. ipratropium bromide 0.02 % Solution [**Month/Day (2) **]: One (1)  Inhalation every four (4) hours as needed for SOB, Wheezing.
+4. senna 8.6 mg Tablet [**Month/Day (2) **]: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+6. nystatin 100,000 unit/mL Suspension [**Month/Day (2) **]: Five (5) ML PO QID (4 times a day) as needed for oral thrush for 1 months: Please discontinue when oral thrush resolves.
+22. albuterol sulfate 2.5 mg/0.5 mL Solution for Nebulization [**Age over 90 **]: One (1)  Inhalation every four (4) hours as needed for shortness of breath or wheezing.
+Discharge Disposition: Extended Care  Facility: [**Hospital6 459**] for the Aged - LTC  Discharge Diagnosis: pneumonia congestive heart failure   Discharge Condition: Mental Status: Nonverbal, noncommunicative Level of Consciousness: Lethargic but arousable.
+Discharge Instructions: You were admitted to the hospital for respiratory failure which was likely caused by pneumonia.
+You also accumulated too much fluid in your body due to your heart failure.
+You developed rapid heart rates in the hospital and you were started on two medications called metoprolol and amiodarone for your atrial fibrillation.

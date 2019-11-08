@@ -1,0 +1,70 @@
+Admission Date:  [**2158-9-14**]              Discharge Date:   [**2158-9-24**]  Date of Birth:  [**2101-4-8**]             Sex:   F  Service: MEDICINE  Allergies: Morphine / Penicillins / Chocolate Flavor / Erythromycin Base / Tape [**12-18**] / Monosodium Glutamate / Mold Extracts / Oxycodone / IV Dye, Iodine Containing Contrast Media / Iodine  Attending:[**Last Name (NamePattern1) 5062**] Chief Complaint: Dyspnea  Major Surgical or Invasive Procedure: pericardial [**Last Name (NamePattern1) 19843**]  History of Present Illness: Ms. [**Known lastname 38472**] is a 57-year-old woman with renal cell carcinoma metastatic to her lungs with a recent progression of disease in the area of her right mainstem bronchus status post mechanical debridement of the endobronchial exophytic lesion by Dr. [**Last Name (STitle) **] who is transferred to [**Hospital1 18**] from [**Hospital3 15054**] ER with shortness of breath.
+She has a history of recurrent pleural effusions and has baseline DOE.
+However, this week, she felt dyspnea at rest, whereas she can normally walk 10 feet before becoming short of breath.
+She has a mild cough but no significant sputum production.
+She also has some chest pressure with dyspnea that may be associated with nausea, diaphoresis but does not radiate.
+At [**Hospital1 498**], CXR showed right-sided volume loss, likely secondary to post-obstructive atelectasis from tumor, and bedside echo showed a "moderate pericardial effusion" without evidence of tamponade.
+She states that since starting Cipro, she has felt cramping and increased frequency.
+She reports significant weight loss over the past six months.
+She denies fever, chills, hearing changes, palpitations, dysuria, rashes, focal weakness, numbness, dizziness or fainting, easy bruising or bleeding.
+Past Medical History: ONCOLOGIC HISTORY: - [**9-/2151**] CT scan showed  Large left renal mass.
+MRI/MRV demonstrated a large 7.5 cm left lower pole mass, with no filling defect of the left renal vein.
+Bone scan negative for osseous metastases.
+Venous invasion was present; the renal vein margin was negative.
+(pT3a Nx Mx) - [**2154-2-8**]:  A CT scan demonstrated multiple bilateral pulmonary nodules, the largest 7 mm in diameter.
+- [**2154-3-4**] PET scan: Multiple pulmonary nodules and posterior cervical lymphadenopathy.
+- [**2154-4-5**]: Video-assisted thoracoscopic right lower lobe and right middle lobe wedge resections and mediastinal lymph node dissection.
+Pathology confirmed the presence of metastatic carcinoma of renal origin in the two wedge resections and in the level 8R paraesophageal lymph node.
+Decrease in size of numerous small pulmonary nodules.
+Stable tiny pulmonary nodules as well as nodular scarring in the right lower lobe.
+- [**2154-12-18**] CT torso showed slight increase in dominant right infrahilar mass when measured in the axial plane compared to the prior two exams.
+- [**2155-1-2**]: Flexible bronchoscopy revealed extrinsic compression, with near complete occlusion of the anterior segment of the right lower lobe bronchus and mucoid secretions emanating from the superior segment of the right lower lobe.
+Transbronchial needle aspiration was performed x3 with pathology revealing atypical clusters of epithelioid cells suspicious for metastatic renal cell carcinoma.
+In addition, bronchial washings and brushings were obtained, revealing atypical cells in scattered clusters.
+- [**2155-1-29**]:  Flexible bronchoscopy and video-assisted thoracic surgery with right lower lobe wedge resection and intralobar pulmonary artery lymph node excision.
+Pathology revealed lymph node fragments with metastatic carcinoma consistent with renal cell carcinoma.
+The excised fragment of the right lower lobe demonstrated no evidence of malignancy.
+- [**2156-7-19**]: Began therapy with MDX 1411 on Phase I protocol 08-209 - [**2156-10-18**]: Began palliative sunitinib after scans showed disease progression with MDX 1411; needed to terminate first cycle one week early due to severe thrombocytopenia (platelets 27k).
+- [**2157-3-19**]: Switched to pazopanib because of progressive difficulties tolerating sunitinib (and progressing disease on lower doses of sunitinib); dose reduced to 600 mg daily due to side effect.
+- [**2157-7-25**] CT TORSO shows overall improvement of pulmonary nodules and hilar lymphadenopathy - [**2157-9-8**] CT TORSO shows disease progression - [**2157-9-12**] bronchoscopy showed tumor infiltration of the endobronchial mucosa throughout the right main stem and bronchus intermedius.
+Endobronchial exophytic lesion partially obstructing the opening of the right main stem, which was mechanically debrided.
+- [**0-0-**] external beam radiation to the lesion in the R hilum.
+[**0-0-**] additional palliative XRT - [**2158-9-16**] everolimus - [**2157-12-7**] - [**2158-3-27**] Avastin, d/c due to worsening symptoms - [**2158-3-30**] CT torso shows disease progression - [**4-18**] start Gemcitabine 750 mg/m2 D1 and D8 q21d, [**4-20**] start Sutent 25 mg 2 weeks ON 1 week OFF - [**7-3**] - Progression of pulmonary disease on gemcitabine/sutent, but patient experiencing symptomatic improvement.
+Her son was [**Name2 (NI) **] with spina bifida and her daughter had mitral valve prolapse.
+Physical Exam: Physical Exam: VS: T: T 95.7  bp 102/60  HR 124  RR 23  SaO2 100RA Gen: NAD, responds appropriately to questions Card: nl s1, s2, RRR, no r/m/g/heaves Resp: diminished breath sounds on the right with some rhonchi, mild dyspnea at rest, slightly increased work of breathing.
+lobe  Abd: soft, NT, ND, +BS Ext: +2 pulses throughout, FROM, no c/c/e Neuro: no focal deficits Skin: no rashes Psych: pleasant, cooperative, moderate insight  DISCHARGE EXAM: VS: 95.6/98.1, 135/76, 88, 22, 100%L O2 GEN: lying in hospital bed, NAD HEENT: EOMI, OP moist CVS: nl s1, s2, RRR, no r/m/g/heaves PULM: diminished breath sounds on the right, otherwise clear to auscultation ABD: soft, NT, ND, +BS EXT: +2 pulses throughout, FROM, no c/c/e Neuro: no focal deficits Skin: no rashes Psych: pleasant, cooperative  Pertinent Results: [**2158-9-14**] 10:29PM   GLUCOSE-129* UREA N-14 CREAT-1.0 SODIUM-133 POTASSIUM-4.6 CHLORIDE-99 TOTAL CO2-19* ANION GAP-20 [**2158-9-14**] 10:29PM   ALT(SGPT)-14 AST(SGOT)-22 LD(LDH)-255* ALK PHOS-156* TOT BILI-0.6 [**2158-9-14**] 10:29PM   LIPASE-23 [**2158-9-14**] 10:29PM   ALBUMIN-3.0* CALCIUM-8.7 PHOSPHATE-3.5 MAGNESIUM-1.8 [**2158-9-14**] 10:29PM   WBC-6.0 RBC-3.09* HGB-10.5* HCT-31.5* MCV-102* MCH-34.0* MCHC-33.4 RDW-19.8* [**2158-9-14**] 10:29PM   PLT COUNT-218# [**2158-9-14**] 10:29PM   PT-15.4* PTT-27.8 INR(PT)-1.3*  CXR [**2158-9-15**]: Near complete opacification of the right lung field, no infiltrate appreciated on the left, pleural effusions R >> L.  PATH REPORT (Pericardial fluid):Pericardial fluid, cell block: Rare atypical epithelioid cells; mesothelial cells, and histiocytes; see cytology report C11-33091G and see note.
+Immunostain for CD68 shows many histiocytes.
+Immunostains for renal cell carcinoma antigen and PAX-2 do not show any immunoreactive cells.
+This profile does not show an evidence of a renal cell carcinoma.
+ECHO REPORTS: [**9-15**]: Large pericardial effusion with echocardiographic evidence of early tamponade.
+[**9-15**]:There is a very small pericardial effusion.
+There are no echocardiographic signs of tamponade.
+Compared with the findings of the prior study (images reviewed) of earlier on [**2158-9-15**], the pericardial effusion has been drained, with minimal residual effusion.
+There is a trivial/physiologic pericardial effusion.
+[**9-22**]:Small pericardial effusion overlying the right ventricle without evidence of tamponade physiology.
+Increased large pericardial effusion; no evidence of cardiac tamponade.
+Increased small-to-moderate left pleural effusion and unchanged loculated right effusion.
+Little appreciable change in the large right infiltrative hilar mass with bronchovascular compromise.
+No endobronchial lesion is identified.
+Interval increase in left upper lobe mass.
+Brief Hospital Course: 57-year-old woman with renal cell carcinoma, metastatic to her lungs with a recent progression of disease in the area of her right mainstem bronchus status post mechanical debridement of the endobronchial exophytic lesion by Dr. [**Last Name (STitle) **] who is transferred to [**Hospital1 18**] from [**Hospital3 15054**] with shortness of breath found to have early cardiac tamponade on echo.
+ACTIVE ISSUES:  # Pericardial effusion: pt found on CT chest to have pericardial effusion.
+TTE showed evidence of tamponade physiology.
+Repeat TTE showed resolution of effusion, and the [**Hospital3 19843**] was pulled after 2 days (on [**2158-9-17**]).
+Effusion fluid was sent for culture and cytology; cultures were negative and cytology did not show renal cell carcinoma.
+Echo on [**9-18**] did not show reaccumulation of fluid and she was transferred back to the OMED service.
+Repeat echo on [**9-21**] showed small amount of fluid but no tamponade, so echo was again repeated on [**9-22**] and findings were stable.
+# metastatic renal cell carcinoma: pt has metastatic lesions to her lungs with involvement near right mainstem bronchus.
+She was s/p debridement of endobronchial exophytic lesion at the time of admission.
+She is currently undergoing chemotherapy (cycle 6 gemzar/sutent started [**2158-8-28**]), which she began taking again on [**2158-9-20**] after having medications held upon admission due to her worsening shortness of breath.
+She was maintained on albuterol and ipratropium nebs as needed for shortness of breath during her hospitalization.
+Upon admission she complained of dysuria and frequency and U/A showed large WBC, no nitrites.
+# migraine: pt has h/o migraine but this was not an active issue.
+TRANSITIONAL ISSUES: 1. wean O2 as tolerated 2. follow up with primary oncologist re: chemotherapy schedule  Medications on Admission: ALBUTEROL SULFATE - 90 mcg HFA Aerosol Inhaler - [**12-18**] puff INH q4-6h as needed for wheezing Relpax 20mg PO daily PRN headache Ipratropium 21mcg nasal spray daily PRN allergy Lidocaine swish and spit PRN mucocytis ELETRIPTAN HBR [RELPAX] -  (Prescribed by Other Provider) - 20 mg Tablet - 1 Tablet(s) by mouth PRN LEVOTHYROXINE - 75 mcg Tablet - 1 Tablet(s) by mouth daily OMEPRAZOLE - 20 mg Capsule, Delayed Release(E.C.)
+- 1 Capsule(s) by mouth twice a day take 30 minutes before eating ONDANSETRON HCL - 4 mg Tablet - 1 Tablet(s) by mouth every eight (8) hours as needed for nausea TOPIRAMATE -  (Prescribed by Other Provider; ON HOLD) - 25 mg Tablet - 1 Tablet(s) by mouth q am  Medications - OTC ACETAMINOPHEN [TYLENOL EXTRA STRENGTH] -  (Prescribed by Other Provider) - 500 mg Tablet - [**12-18**] Tablet(s) by mouth every 4-6 hours CALCIUM CARBONATE-MAG HYDROXID [ROLAIDS] -  (Prescribed by Other Provider) - Dosage uncertain  Discharge Medications: 1.
+2. ipratropium bromide 0.03 % Spray, Non-Aerosol Sig: One (1) spray Nasal daily PRN  () as needed for allergy.
+8. benzonatate 100 mg Capsule Sig: One (1) Capsule PO TID (3 times a day) as needed for cough.
+10. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: Two (2) Puff Inhalation Q4H (every 4 hours) as needed for wheeze/SOB.
+Discharge Disposition: Extended Care  Facility: [**Hospital **] [**Hospital 71571**] Health Center  Discharge Diagnosis: Primary Diagnosis: Pericardial effusion  Secondary Diagnoses: metastatic renal cell carcinoma   Discharge Condition: Mental Status: Clear and coherent.
+You came to the hospital because you were having shortness of breath.
+You were found to have fluid around your heart (pericardial effusion), so a [**Hospital1 19843**] was placed to remove the fluid.

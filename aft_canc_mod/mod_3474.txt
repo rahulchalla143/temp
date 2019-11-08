@@ -1,0 +1,82 @@
+Admission Date:  [**2122-8-23**]              Discharge Date:   [**2122-9-5**]  Date of Birth:  [**2047-6-26**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 330**] Chief Complaint: sob  Major Surgical or Invasive Procedure: none  History of Present Illness: 75F with metastatic breast cancer, s/p recent chemo (last on [**8-19**]), CHF who gradually started to develop SOB 1d after chemo.
+Her SOB increased gradually, until the morning of her admission, when she was SOB @ rest and therefore presented to [**Hospital3 **] Hospital.
+Per report she was bradycardic and with ?heart block, and received atropine x1.
+Labs revealed ARF (k= 6.0 -> given calcium, insulin, glucose, kayexalate, no acute EKG changes).
+- HTN -h/o recluse spider bite.
+-post-herpetic neuralgia - denies cad/dm/pe/dvt.
+Family History: non-contributory  Physical Exam: VS: 97.0  104  126/43   26 98% 6LNC (on dopa 7mcg/hr) GEN: NAD HEENT: PERRLA, EOMI, sclera anicteric, +conjunctival hemorhage, OP clear, MMM, no LAD, no carotid bruits.
+CV: regular, nl s1, s2, no m/r/g.
+ABD: soft, ND, + BS, no HSM.
+mild epigastric tenderness to palpation, no rebound, no gaurding.
+Pertinent Results: [**2122-8-23**] CXR: bibasilar opacities, which may represent atelectasis or pneumonia.
+Small bilateral pleural effusions.
+[**2122-8-23**] EKG: sinus bradycardia.
+CT head: FINDINGS: There is no evidence of hemorrhage, infarction, shift of normally midline structures or hydrocephalus.
+There are small subinsular white matter lucencies suggesting chronic ischemia.
+Visualized paranasal sinuses appear normally aerated.
+No other focal hepatic lesion is identified and a previously noted cyst within segment [**Doctor First Name 690**] is not adequately seen.
+There is no intrahepatic biliary ductal dilatation, the patient is status post cholecystectomy.
+No hydronephrosis, stone, or renal mass is identified.
+The abdominal aorta is normal caliber throughout and demonstrates scattered mural atherosclerotic calcification.
+A left-sided pleural effusion is partially imaged.
+Solid-appearing segment VIII hepatic lesion is a nonspecific finding but may represent a metastasis.
+Left pleural effusion.
+No evidence of retroperitoneal hematoma, hydronephrosis or pathologic lymph node enlargement.
+Two hypodense hepatic lesions, one of which is compatible with a cyst and the other of which cannot be definitively characterized but could represent a hepatic metastatic focus.
+Bilateral pleural effusions, the left of which is loculated and incompletely imaged.
+Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded.
+There is no pericardial effusion.
+Bilateral small-to-moderate sized partially loculated pleural effusions.
+Given the history the suspicion for malignant pleural invasion is high, especially given thick nodular soft tissue enhancement within the pleural effusions on the prior abdomen CT (not evaluated today due to absence of contrast).
+Innumerable skeletal metastases.
+Peripheral ground-glass opacities in the upper lobes bilaterally; considerations include infectious of inflammatory process; less likely would be metastases.
+Two hypodense liver lesions, incompletely characterized, concerning for metastatic foci.
+CXR [**8-28**]: New bilateral perihilar opacities extending towards the lower lobes representing new pulmonary edema.
+The previously seen right lower lobe opacity related to pleural effusion is changed in appearance most likely due to currently supine position of the patient.
+The cardiac silhouette has been markedly enlarged in the meantime interval, which may be corresponding to both changing of the patient's position and its hemodynamic status.
+The left internal jugular line tip terminates at the junction of the brachiocephalic vein and SVC.
+New pulmonary edema.
+Increased heart size.
+Bilateral pleural effusions.
+Brief Hospital Course: 75 F with metastatic breast ca, paroxysmal AFIB with RVR, with resolved neutropenia after chemo, resolved heart block while in ARF on atenolol.
+# Hypotension and sinus bradycardia: She arrived at [**Hospital1 18**] on dopamine gtt, started en route in life flight (no documentation).
+Initial concern was for sepsis vs volume vs volume loss (hct=23, baseline unclear, was 28 at OSH), concerning for GIB given guaic+ in ED vs RP bleed given femoral access at OSH vs tamponade (uremic, coagulopathic, and h/o breast malignancy) vs atenolol toxicity in setting of ARF [**1-9**] chemotherapy.
+She was weaned from dopamine gtt gradually over ~2d, though was found to be acutely sensitive to weaning with periods of bradycardia to 20s (including 1.5-4 second pauses) while weaning, these episodes were asymptomatic.
+Bradycardia resolved over several days.
+# Hypoxemia: On presentation, etiology was felt likely [**1-9**] pulmonary edema from ARF, however given neutropenia, concerning for PNA.
+PaO2/FiO2 gradient = 90 / 0.40 = 360.  no effusion seen on bedside TTE.
+Since she was afebrile but neutropenic, she was treated empirically with cefepime/vanco.
+pt was seen by the renal service, and felt not to require acute dialysis on the basis of volume removal.
+repeat CXR on HD#3 showed ?increasing pulmonary edema (felt unlikley given clinical improvement), however was concerning for new consolidations.
+A CT CHEST was ordered to further evaluate, as given neutropenia she was felt susceptible for atypical infections (ie fungal).
+Given her rapid imrovement, pt was empirically placed on a 7d course of cefepime/vanco with resolution of hypoxemia to room air.
+# Afebrile neutropenia: For neutropenia, pt empirically started on cefepime and vancomycin on [**8-23**] for 7 day course, and blood, urine, sputum cultures were negative.
+# Cardiac ischemia: She does not have known coronary disease.
+# Paroxysmal AFIB with RVR: EKGs at OSH were concerning for intermittent afib vs mat vs atrial tachycardia with intermittent block.
+on arrival, pt was in nsr, on doparmine, however, she was acutely sensitive to weaning of dopamine with sinus bradycardia (asymptomatic) when dopamine was weaned from 5mcg/hr to 3mcg/hr.
+This was felt [**1-9**] atenolol toxicity, though she was intermittently hypertensive while bradycardic (CT HEAD negative for intracranial process).
+Further, pt elected to not pursue further chemotherapy, and she was not felt to be a good candidate for pacemaker implant in setting of poor prognosis and neutropenia/thrombocytopenia.
+# Cardiac pump: No known CHF, on admission had ?pericardial knock, with pulsus 8-10mmgHg, though TTE showed no pericardial effusion, ?RV dilation, grossly normal EF (limited study).
+Initial insult felt most likely to be recent chemotherapy [**8-19**], though other causes include recent NSAID use vs [**1-9**] hypotension at OSH.
+Double acid base disorder of AG and non-GAP acidosis was present.
+Respiratory compensation was appropriate for metabolic acidosis felt [**1-9**] ARF.
+For hyperkalemia and mild asterixis, renal recommended kayexalate (which pt vomited) for K=5.7, pt was given insulin, d50, calcium, and HCO3 in d5w overnight with normal K and no concerning EKG changes.
+emergent HD was declined given absence of pericardial effusion, as hyperK, acidemia, and uremia felt stable.
+K improved with autodiuresis in AM and pt eventually able to tolerate kayexalate.
+She required multiple platelet transfusions in setting of GI bleeding and conjunctival hemorrhage.
+# mental status changes -  pt midly confused on admission (A&Ox2), sluggish, and flapping.
+most likely felt [**1-9**] uremia vs infection, however CT HEAD obtained to r/o intracranial bleed given thrombocytopenia, and conjunctival hemhorages concerning for bleeding.
+heme-onc consult obtained to evalute smear to r/o schistocytes and TTP given anemia, thrombocytopenia, uremia/ARF, though INR only 1.2.  no schistocytes seen.
+pt's mental status resolved with improvement in uremia and with antibiotic course as above.
+# Metastatic breast ca s/p chemo x2: Recently s/p chemo (gemecitibine/taxol) [**8-19**] (only her second dose), neutropenic on admission, no reports of fever, though hypotension concerning for sepsis.
+Heme/onc consult assessed peripheral smear as negative for DIC or TTP.
+Per heme-onc she was started on g-csf for neutropenia with recovery of WBC.
+She received ddavp as above for concern for uremic platelets in setting of bleeding.
+Patient also noted mucositis and thrush, treated with magic mouthwash, peridex, nystatin swish and swallow, with returning ability to take small POs.
+# Elevated LFTs - tbil mildly elevated 2.6, pt s/p cholecystectomy however, though felt she could still have CBD stone, CT ABD/PELVIS [**Location (un) 1131**] negative for significant hydro, CBD dilation.
+plan made to follow pt clinically, and obtain repeat imaging if she developed abdominal pain.
+abdominal xray ruled out obstruction, and n/v attributed most likely to chemo.
+also with diarrhea, stool sent for cdiff (though has h/o pelvic radiation).
+on HD#3 renal recommended modest maintenance fluids to keep up with aggresive autodiuresis.
+During the evening of [**2122-9-5**] the patient developed respiratory distress.
+Medications on Admission: atenolol 25mg po qdaily dilaudid prn bone pain compazine prn immodium prn procrit qwk zometa qmo (next [**9-9**])  Discharge Medications: N/A  Discharge Disposition: Expired  Discharge Diagnosis: N/A  Discharge Condition: expired  Discharge Instructions: N/A  Followup Instructions: N/A

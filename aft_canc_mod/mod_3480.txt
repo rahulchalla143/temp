@@ -1,0 +1,41 @@
+Admission Date:  [**2166-11-3**]              Discharge Date:   [**2166-11-19**]  Date of Birth:  [**2085-8-11**]             Sex:   M  Service: CARDIOTHORACIC  Allergies: Sulfa (Sulfonamides)  Attending:[**First Name3 (LF) 2969**] Chief Complaint: Esophageal Cancer   Major Surgical or Invasive Procedure: Upper endoscopy and transhiatal esophagectomy with feeding jejunostomy.
+History of Present Illness: Mr. [**Known lastname **] is an 81-year-old gentleman with diagnosis of esophageal cancer.
+His preoperative endoscope ultrasound stage was T2, N0, and a PET scan showed no evidence of metastatic disease.
+Past Medical History: Hypothyroidism Hypertension Hyperlipidemia Multiple TIAs/CVA [**2151**] BPH PSH: s/p TURP '[**46**], R CEA [**Numeric Identifier 7084**], R Hernia repair '[**50**]   Social History: Married, lives in [**Location 41708**] Tobacco: quit 30 years ago ETOH: none  Family History: non-contributory  Physical Exam: General: 80 year-old male in no apparent distress HEENT: normocephalic, mucus membranes moist Card: regular, rate & rhythm, normal S1,S2, no murmur/gallop or rub Resp: decreased breath sounds otherwise clear GI: bowel sounds positive, abdomen soft non-tender/non-distended Extr: warm no edema Incisions: Left neck clean, dry intact, mid-abdomen with staples clean dry intact.
+Mild erythema along staple line.
+J-tube site clean, no erythema Neuro: non-focal  Pertinent Results: [**2166-11-3**] WBC-5.3 RBC-3.31*# Hgb-10.1*# Hct-29.3* Plt Ct-96* [**2166-11-11**] WBC-16.8* RBC-3.62* Hgb-10.8* Hct-32.7 Plt Ct-335 [**2166-11-18**] WBC-7.4 RBC-3.52* Hgb-10.5* Hct-31.8 Plt Ct-586  [**2166-11-3**] Glucose-131* UreaN-17 Creat-1.0 Na-133 K-3.9 Cl-105 HCO3-20 [**2166-11-11**] Glucose-171* UreaN-19 Creat-0.9 Na-138 K-3.9 Cl-102 HCO3-26 [**2166-11-19**] Glucose-138* UreaN-14 Creat-0.9 Na-131* K-4.4 Cl-96 HCO3-31  CHEST (PA & LAT)  [**2166-11-11**]  FINDINGS: In comparison with the study of [**11-9**], the surgical clips and drain have been removed from the lower left chest.
+There has been some decrease in opacification at the right base, though residual combination of infiltrate of atelectasis, effusion, and possible pneumonia persists.
+There is little change in the increased opacification described previously at the left base.
+Pathology Examination SPECIMEN SUBMITTED: Esophagus and proximal stomach, left gastric lymph nodes.
+Barrett's esophagus with polypoid high grade dysplasia.
+No invasive carcinoma identified.
+Proximal margin with squamous mucosa.
+No glandular mucosa present.
+One lymph node with no tumor seen.
+Left gastric lymph nodes: Seven nodes with no tumor seen.
+CTA CHEST W&W/O C&RECONS, NON-CORONARY  CTA OF THE CHEST: There is no evidence of pulmonary embolism or aortic dissection.
+Heart size is normal and there is a tiny to small pericardial effusion, measuring simple fluid density.
+Scattered coronary calcifications are noted within the LAD and RCA.
+There are large bilateral pleural effusions, right greater than left, with associated atelectasis at the lung bases.
+The lungs demonstrate moderate paraseptal emphysema, worst at the lung apices.
+No suspicious nodules or masses are identified.
+Small mediastinal lymph nodes are noted, which do not meet CT criteria for pathologic enlargement.
+This exam is not tailored for subdiaphragmatic assessment.
+An incompletely characterized cystic lesion is seen off the upper pole of the right kidney - correlation with recent PET CT suggests that this is a large simple cyst.
+Multilevel degenerative changes are seen in the thoracic spine, with prominent anterior osteophytosis.
+No evidence of pulmonary embolism.
+Moderate-sized bilateral pleural effusions with associated atelectasis.
+While in the SICU he was hypertensive and a question of a new right bundle branch block was seen on ECG.
+Cardiology was consulted and he ruled out for an myocardial infarction.
+His pain was managed with an epidural by the acute pain service.
+The neck drain was to bulb with moderate serosanguinous drainage.
+The chest-tube was placed to water seal with no leak.
+On POD #3 the chest-tube and epidural were removed and his pain was managed with a PCA.
+The foley was removed and he voided without difficulty.
+On POD day #7 he was administer PO grape juice which revealed no anastomotic leak.
+He had mild erythema along the staple line of his abdominal wound.
+On POD #9 the inferior portion of the neck wound begin to ooz.
+He continued to require oxygen and on POD 14 a chest CT was obtained and no pulmonary embolism was seen but had bilateral pleural effusions which was tapped.
+A follow-up chest x-ray revealed no pneumothorax.
+Discharge Disposition: Extended Care  Facility: [**Hospital1 11057**] Nursing & Rehabilitation Center - [**Location (un) 3320**]  Discharge Diagnosis: Esophageal Cancer Stage I Hypothyroidism Hypertension Hyperlipidemia CVA Multiple TIA's BPH   Discharge Condition: Good   Discharge Instructions: Call Dr.[**Doctor Last Name 4738**] office [**Telephone/Fax (1) 170**] if you experience chest pain, shortness of breath, fever, chills, nausea, vomiting, diarrhea, or abdominal pain.
+HOLD TUBE FEEDS after Midnight [**11-24**] for barium swallow.

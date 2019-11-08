@@ -1,0 +1,8 @@
+Admission Date:  [**2121-12-11**]              Discharge Date:   [**2121-12-26**]  Date of Birth:  [**2066-1-8**]             Sex:   M  Service: CARDIOTHORACIC  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**Last Name (NamePattern1) 1561**] Chief Complaint: Esophageal Cancer  Major Surgical or Invasive Procedure: laparoscopic esophagogastrectomy.
+History of Present Illness: Mr [**Known lastname 23440**] is a 55M with a history of esophageal cancer and is s/p adjunctive chemorads, staged at T4N1M0.
+He presents one day before surgery for minimally invasive esophagogastrectomy.
+COPD   Social History: 1.
+On [**12-20**], it was noted that his chest tube drainage appeared chylous, and a PICC line was placed to facilitate TPN, as his enteral tube feeds were aggravating the leak.
+On [**12-22**], he was taken back to the operating room for ligation of his thoracic duct, which proceeded well (please refer to the operative note of Dr [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 952**] for further details of that procedure).
+Disp:*qs mL* Refills:*3*   Discharge Disposition: Home With Service  Facility: [**Hospital1 1474**] VNA  Discharge Diagnosis: Esophageal cancer Chylothorax Gastro-esophageal reflux disease.
+Do not drive while taking narcotic pain medications such as percocet or dilaudid.

@@ -1,0 +1,47 @@
+Admission Date:  [**2147-2-9**]              Discharge Date:   [**2147-2-24**]  Date of Birth:  [**2091-8-27**]             Sex:   M  Service: SURGERY  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 668**] Chief Complaint: Hypotension  Major Surgical or Invasive Procedure: Paracentesis x 2 Thoracentesis RIJ central venous line placement Hemodialysis catheter placement Hemodialysis  History of Present Illness: Mr. [**Known lastname 32595**] is a 55 yo male with EtOH cirrhosis (hx of SBP and hepatic encephalopathy), DM who presented to Dr.[**Name (NI) 948**] office today for a regular appointment.
+He also has had decreased PO liquid intake and decreased UOP.
+[**Name (NI) **] was recently admitted at [**Hospital3 **] for 5 days for RLE cellulitis in which he was d/c's one week ago and finished a course of keflex 2 days ago.
+He has had no other changes in his medications and ocntinues to take his lactulolse, titrated to [**4-19**] BMs daily.
+His CXR showed worsening L pleural effusion and he was given vanc/ceftaz.
+Past Medical History: # EtOH induced cirrhosis - Portal hypertension - Grade I esophageal varices - Diuretic refractory ascites.
+- On [**Hospital3 **] list after a recent 40lb weight loss - Multiple admissions to [**Hospital3 3583**] and [**Hospital1 18**] for hepatic encephalopathy - s/p TIPS [**2137**] with frequent revisions [**11/2145**] and then closure  in [**4-/2146**] secondary to hepatic encephalopathy # Pancytopenia -Chronic from underlying liver disease -Baseline HCT in mid 20s -Baseline platelets in 20-40 # CKD with baseline Cr 1.0 # DM2, insulin dependent # s/p cholecystectomy for porcelain gallbladder in [**10/2145**] # Carcinoid tumor in gastric fundus # OSA (doesn't use his home BiPAP) # Squamous cell skin ca on left shoulder # Morbid Obesity # Chronic Venous Stasis  Social History: Lives with his wife.
+Sister with type II diabetes, seizures.
+GENERAL - Middle-aged male sitting in bed in NAD HEENT -  sclerae anicteric, MMD NECK - supple, no thyromegaly, no JVD LUNGS - breathing comfortably.
+Mild rhonchi on right.
+HEART - RRR, no MRG ABDOMEN - normoactive BS, grossly distended, not tense.
+mild TTP RUQ, no TTP elsewhere.
+RUQ healed surgical scar present, umbilical hernia present EXTREMITIES - 1+ LE edema present b/l with venous stasis changes in his lower legs.
+Skin break in RLE, covered with clear dressing, no signs of infection.
+Brief Hospital Course: MEDICINE Course: 55 yo with EtOH cirrhosis admitted for hypotension who was found to have ESBL Ecoli PNA and new ARF believed to be 2/2 HRS now on HD but may also have a component of ATN from hypotension.
+Paroxysmal atrial fibrillation: Pt developed PAF this admission with rapid ventricular response.
+Once his BP was somewhat unstable for SBPs around 80.
+He has known atrial dilation and is likely sensitive to hypervolemia stretching his atria and causing Afib.
+Renal failure: Concern for HRS with worsening creatinine despite IVF and albumin.
+Treated with meropenem for known Ecoli and Klebsiella PNA.
+Repeat PA and LAT CXR with improving edema and no signs of focal infiltrate prior to surgery.
+Transfuse for PLU < 10 or active bleeding.
+Transfuse for HCT < 21 or active bleeding.
+DM2: Chronic issue.
+MICU Course: 1) Hypotension:  Patient presented with hypotension with systolic BP's in 60's while sleeping.
+He was never febrile or tachycardic, and WBC was initially at baseline ~2,000.
+On the day following admission, a diagnostic thoracentesis of his left pleural effusion was performed, with removal of 1 liter serosanguinous transudative fluid.
+Due to persistently low BP's, [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 104**] stim test was performed to rule out adrenal insufficiency with appropriate result 11.7 -> 19.7.
+TTE revealed dilated atria but preserved systolic function.
+- CMV viral load pending  2) Acute renal failure:  On [**2-9**], patient was noted to have decreased urine output in the setting of hypotension.
+Bladder scan revealed urinary retention.
+Renal [**Month/Year (2) 950**] without evidence of hydronephrosis or post-obstructive pathology.
+Per Liver consult recommendations, patieht was started on standing albumin, midodrine, and octreotide for presumed hepatorenal syndrome.
+Renal was subsequently consulted for his acute renal failure.
+On [**2-13**] a hemodialysis catheter was placed by IR, and HD was initiated without incident.
+Sevelamer was initiated for hyperphosphatemia.
+3) Cirrhosis:  Patient has known alcoholic cirrhosis, currently on [**Month/Day (2) 1326**] list.
+He was transfusion dependent for duration of ICU stay but without overt evidence of bleeding.
+5) DM2:  Patient had episodes of borderline hypoglycemia in the setting of ARF.
+6) Pleural effusion:  s/p dignostic thoracentesis on [**2-10**] with removal of 1 liter serosanguinous fluid, consistent with transudate.
+Please see Dr.[**Name (NI) 670**] op note for further detail.
+On POD [**12-16**] his LFTs and INR rose, presenting a picture concerning for impending liver failure.
+At this point, the patient had acute desaturation, became hypotensive, and had no breath sounds on his right side.
+A frozen section demonstrated ischemia but no hepatic necrosis.
+He also became increasingly acidemic.
+By the morning of POD [**2-13**], he continued to have multiple pressor requirements.
+Medications on Admission: lasix 120mg qday (off for 5 days, restarted one week ago) aldactone 50mg (stopped 1.5 weeks ago) rifaximin 600 [**Hospital1 **] cipro 200 qday protonix 40mg qday nadolol 20mg qday lactulose ~ 45ml - titrate to [**4-19**] BMs insuline NPH 75qAM and 70qPM humalogue SSI QID acidophilus keflex QID (finished 5 days ago  Discharge Disposition: Expired  Facility: [**Hospital1 18**]  Discharge Diagnosis: s/p OLT [**2-21**] Acute renal failure Pneumonia Hypotension Pleural effusion Ascites Pancytopenia Coagulopathy Cirrhosis  Discharge Condition: Expired

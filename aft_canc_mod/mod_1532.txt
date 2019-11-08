@@ -1,0 +1,46 @@
+Admission Date:  [**2173-10-25**]              Discharge Date:   [**2173-10-29**]   Service: MEDICINE  Allergies: Vancomycin / Oxycodone / Lorazepam  Attending:[**First Name3 (LF) 3984**] Chief Complaint: Shortness of breath, tachycardia, mouth sores  Major Surgical or Invasive Procedure: None   History of Present Illness: Mr. [**Known lastname 31205**] is an 89 year old male with history of COPD and tracheo-bronchial malacia (recently stented) who is presenting from rehab with tachycardia, worsening oral ulcers and difficulty breathing.
+Patient reports onset 10 days ago with progressive worsening of breathing difficulty, especially worse at night.
+No CP, no cough, no ABP/N/V/F/C, no lower extremity swelling, no increased orthopnea (3 pillows).
+Upon arrival to the ICU team, respiratory therapy was at the bedside and recommended that non-rebreather may be a more comfortable option for him given his extensive oral ulcers which were bleeding.
+On [**2172-10-20**], he had more hoarsness and went for a revision of the T tube with IP.
+Additionally, sputum grew out GPC and GNR and he was placed empirically on vanc and levo (history of Stenotrophomonas, E. coli, and MRSA in bronchial washings from [**2172-10-7**]).
+After discussion with ID fellow, the primary team started cefepime given the resistance of E. coli from culture on [**2172-10-7**], which was sensitive only to zosyn, meropenem, and gentamicin.
+Review of systems: (+) Per HPI (-) Denies fever, chills, night sweats, recent weight loss or gain.
+Denies headache, sinus tenderness, rhinorrhea or congestion.
+Denies chest pain, chest pressure, palpitations, or weakness.
+Denies nausea, vomiting, constipation, abdominal pain, or changes in bowel habits.
+Denies dysuria, frequency, or urgency.
+Denies rashes or skin changes.
+Past Medical History: - Tracheo bronchomalacia s/p stent [**9-5**] and multiple bronchs - s/p tracheostomy [**9-/2172**] - [**Year (4 digits) **] stage III COPD - Paroxysmal Atrial Fibrillation - CAD s/p CABG - CKD (baseline creatinine 1.5-2.1) - Aortic Stenosis - Prostate Ca - CLL - Hypertension - Hyperlipidemia - GERD - Depression - Vit B12 defic - Arthritis - Ventral hernia - Hx of enterococcal urosepsis - Cholecysttectomy PSH: Silicon wire stent placement in [**8-/2171**], s/p CABG and then  stent within last 10 years, CCY  Social History: He lives alone in a senior's facility.
+He has no known exposure to asbestos or tuberculosis, and has no pets.
+Family History: No family history of pulmonary disease  Physical Exam: Admission PE: Vitals: T: 99.1 BP: 116/92 P: 100-140s R: 30 O2: 100% NRB General: Alert, oriented, speaks very softly but appropriate HEENT: Sclera anicteric, oropharynx with bleeding ulcers, very dry Neck: supple, JVP not elevated (~ 7 cm) Lungs: very decreased breath sounds bilaterally, no wheezes, rales, ronchi CV: irregularly irregular, normal S1 + S2, no murmurs, rubs, gallops Abdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly GU: chronic foley Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema  Discharge PE: Continued intermittent difficulty with breathing, improved with suctioning and reassurance.
+Lung volumes are markedly low which limits the [**Month/Day/Year 2742**].
+Allowing for these limitations, there is no focal consolidation, effusion, pneumothorax.
+Mediastinal contour appears grossly stable though when compared with prior CT from [**2172-10-2**] mediastinal widening likely reflects ectatic vasculature.
+There are persistent low lung volumes with bibasilar scattered atelectasis.
+There are no new focal opacities concerning for pneumonia.
+The cardiomediastinal and hilar contours are stable with a tortuous somewhat dilated thoracic aorta.
+IMPRESSION: No significant change since [**2173-10-27**] with no evidence of pneumonia.
+Wide complex rhythm.
+Right bundle-branch block.
+Brief Hospital Course: 89 year old male with PMH of severe COPD and tracheobronchomalacia s/p stenting, atrial fibrillation, aortic stenosis, HTN/HL, and current C. difficile infection who initially presented with tachycardia, mouth sores, and shortness of breath consistent with recurrent COPD exacerbation.
+ACTIVE issues:  # Dyspnea/COPD excacerbation: He presented with significant shortness of breath and tachycardia that improved with CPAP, nebulizers, routine airway care, and re-initiation of steroids.
+We initially prescribed Azithromycin for COPD exacerbation, but then switched him over to levofloxacin to cover a suspected lower lobe pneumonia.
+Albuterol/ipratroprium nebs and prednisone were continued until discharge and the levofloxacin should be continued for another 4 days (5 day course) for a suspected right lower lobe pneumonia.
+For his persistent recurrence of COPD exacerbations, he should be continued on chronic prednisone at 10mg for now.
+# Paroxysmal Atrial fibrillation: We controlled his atrial fibrillation with rate control (uptitration of beta-blocker to metoprolol 25mg TID), rhythm control (amiodarone at prior dosing), and anticoagulation with warfarin as prior.
+We believe that his hypoxia likely contributed to his initial poorly controlled atrial fibrillation.
+# LUE edema:  On admission, his arm was swollen, but ultrasound was negative for DVT and his INR was therapeutic throughout.
+# C. diff infection:  Positive toxin at rehab on [**10-19**].
+# Oral ulcerations: Rehab hospital felt these were due to the linezolid he previously received.
+Herpetic lesions seemed much less likely.
+We decided not to continue using this secondary to worsened pain with the medication.
+# Coronary Artery Disease: s/p CABG [**2156**]( LIMA->LAD, SVG-diagonal,  SVG-OM, SVG-LPL): Continued on statin and BB, ASA, as above.
+# Chronic kidney disease: Cr at baseline (1.4-1.5), likely secondary to chronic hypertension.
+# Aortic stenosis: Moderate with valve area of 1.0-1.2cm2.
+# Depression: Continue olanzapine .
+TRANSITIONAL ISSUES: # Communication: Patient, HCP [**Name (NI) **] [**Name (NI) 31202**] (son) [**Telephone/Fax (1) 31203**] # Code: DNR/DNI  **For medications, respiratory care, and further lab testing, please see page 1**  Medications on Admission: albuterol ipratroprium nebs q6h amidarone 200 mg daily metoprolol 25 [**Hospital1 **] (previously on 50 [**Hospital1 **]) atorvastatin 80 mg daily insulin per sliding scale esomeprazole 40 daily asa 81 daily flagyl 500 mg q8h warfarin 0.5 mg daily   Discharge Medications: 1. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1)  Inhalation Q4H (every 4 hours) as needed for sob, low saturation.
+Discharge Disposition: Extended Care  Facility: [**Hospital1 700**] - [**Location (un) 701**]  Discharge Diagnosis: COPD exacerbation   Discharge Condition: Mental Status: Clear and coherent.
+Discharge Instructions: Dear Mr. [**Last Name (Titles) 31207**],  You were admitted to the [**Hospital1 69**] with shortness of breath.
+You were treated with steroids and breathing treatments.
+You were discharged to a facility that will continue to help you with your breathing.

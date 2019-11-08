@@ -1,0 +1,40 @@
+The patient developed dyspnea and abdominal distension in early [**Month (only) 116**], and was found to have pleural effusions, ascites, and omental caking.
+Cytology showed malignant cells.
+She also notes diffuse burning/achiness with nausea since yesterday.
+Exam notable for decreased breath sounds in left lung field, and abdominal distension.
+CXR shows large left pleural effusion.
+Bedside U/S showed no pericardial effusion.
+CTA chest was without PE, but noted ground glass opacities in the left upper lobe representing early pneumonia or asymmetric pulmonary edema.
+In the MICU, IP performed [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 576**] on her large left pleural effusion.
+Antibiotics were discontinued given lack of evidence of an infection.
+Her tachycardia was felt to be secondary to pain and she was started on morphine prn and tylenol.
+Past Medical History: PAST ONCOLOGIC HISTORY: -Ovarian cancer - Presented in [**2127-5-6**] with increasing abdominal girth and shortness of breath.
+CT torso [**2127-5-22**] showed bilateral pleural effusions and findings concerning for omental caking and malignant ascites.
+Pleural and peritoneal fluid positive for malignant cells, consistent with carcinoma.
+Given elevated CA-125, this was felt to be ovarian cancer, stage IV.
+-Breast cancer - Diagnosed [**2123-8-6**], stage I (T1c, N0) right-sided, mucinous carcinoma, grade 2, ER/PR positive, HER-2/neu, LVI negative.
+-Tobacco: none -EtOH: none -Drugs: none  Family History: Her daughter died of breast cancer in her 40s.
+Physical Exam: ADMISSION EXAM: Vitals: 98.3 94 113/62 19 94% 2L General: Alert, oriented, no acute distress HEENT: Sclera anicteric, MM dry, oropharynx clear, EOMI, PERRL Neck: supple, JVP not elevated CV: Tachycardic, no m/r/g Lungs: Decreased breath sounds and dullness to percussion at left base, otherwise CTAB, [**Female First Name (un) 576**] site mildly tender and c/d/i Abdomen: +BS, soft, markedly distended, mildly tender, no rebound or guarding, +fluid wave, paracentesis site in RLQ with clean dressing Ext: Warm, well perfused, 2+ pulses, no LE edema Neuro: CNII-XII intact, 5/5 strength upper/lower extremities, grossly normal sensation  DISCHARGE EXAM: Vitals: Tm98.5 102/64 (96-105/60s) 70(70-80s) 20 95% RA General: Alert, oriented, no acute distress HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL Neck: supple, JVP not elevated CV: Tachycardic, 2/6 SEM Lungs: Decreased breath sounds at left base, otherwise CTAB, [**Female First Name (un) 576**] site mildly tender and c/d/i Abdomen: +BS, soft, non distended, diffusely tender to light palpation Ext: Warm, well perfused, 2+ pulses, no LE edema  Pertinent Results: ADMISSION LABS: [**2127-6-13**] 04:10PM BLOOD WBC-7.0 RBC-5.06 Hgb-14.9 Hct-46.1 MCV-91 MCH-29.5 MCHC-32.4 RDW-12.7 Plt Ct-304 [**2127-6-13**] 04:10PM BLOOD Neuts-83.4* Lymphs-13.2* Monos-0.9* Eos-2.1 Baso-0.4 [**2127-6-13**] 04:10PM BLOOD Glucose-180* UreaN-15 Creat-0.9 Na-139 K-4.3 Cl-102 HCO3-27 AnGap-14 [**2127-6-13**] 04:10PM BLOOD Calcium-9.1 Phos-3.2 Mg-1.6  DISCHARGE LABS: [**2127-6-17**] 07:20AM BLOOD WBC-4.6 RBC-4.40 Hgb-12.8 Hct-40.1 MCV-91 MCH-29.0 MCHC-31.8 RDW-12.3 Plt Ct-259 [**2127-6-17**] 07:20AM BLOOD Glucose-104* UreaN-11 Creat-0.6 Na-139 K-4.0 Cl-102 HCO3-30 AnGap-11 [**2127-6-17**] 07:20AM BLOOD Calcium-8.7 Phos-2.9 Mg-1.6  PLEURAL FLUID: [**2127-6-14**] 02:53PM PLEURAL WBC-4250* RBC-6250* Polys-0 Lymphs-3* Monos-5* Meso-4* Macro-4* Other-84* [**2127-6-14**] 02:53PM PLEURAL TotProt-3.7 Glucose-48 Creat-0.7 LD(LDH)-326 Amylase-36 Albumin-2.4 Cholest-80 Triglyc-45  ASCITIC FLUID: [**2127-6-13**] 04:59PM ASCITES WBC-1175* RBC-1900* Polys-0 Lymphs-24* Monos-1* Other-75* [**2127-6-13**] 04:59PM ASCITES TotPro-4.2 Glucose-94  MICROBIOLOGY: [**2127-6-17**] STOOL C. difficile DNA amplification assay-PENDING; FECAL CULTURE-PENDING; CAMPYLOBACTER CULTURE-PENDING INPATIENT [**2127-6-14**] PLEURAL FLUID GRAM STAIN- 1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR LEUKOCYTES.
+NO MICROORGANISMS SEEN.
+FLUID CULTURE- NO GROWTH; ANAEROBIC CULTURE-PRELIMINARY NO GROWTH [**2127-6-13**] PERITONEAL FLUID GRAM STAIN- NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.
+NO MICROORGANISMS SEEN.
+FLUID CULTURE- NO GROWTH; ANAEROBIC CULTURE-PRELIMINARY NO GROWTH [**2127-6-13**] BLOOD CULTURE -PENDING [**2127-6-13**] BLOOD CULTURE - PENDING   Brief Hospital Course: 81 yo female with h/o breast cancer, newly diagnosed stage IV ovarian cancer, on Taxol/carboplatin started [**2127-6-10**], presenting with dyspnea found to have a large left pleural effusion s/p thoracentesis.
+ACTIVE ISSUES: # Hypoxia with dyspnea: Pt was admitted with hypoxia and dyspnea, likely related to pleural effusions and ascites.
+She underwent a thoracentesis on day of admission with 1.5-2L of serosanguinous fluid removed.
+Cell count and chemistries revealed and transudative exudate with 84% "other" cells, concerning for malignancy.
+# Ascites: Pt presented with complaints of abdominal distension.
+She has required 1 therapeutic paracentesis in the past, with cytology positive for malignancy.
+Her current ascites was thought to be due to metastatic disease.
+She underwent a therapeutic paracentesis during this admission, with ~3 liters of fluid removed.
+# Stage 4 Ovarian Cancer: Likely cause of patient's effusions, though cytology was still pending at time of discharge.
+She will also discuss possible pleurex catheter if her ascites/pleural effusions continue to re accumulate despite chemotherapy treatment.
+# Neuropathic pain: Pt complained of total body pain and diffuse burning, which was new since starting chemotherapy.
+She was also discharged with a short prescription for Dilaudid, pending titration of her gabapentin.
+# Hyperlipidemia: Continued simvastatin  TRANSITIONAL ISSUES: Pt had thoracentesis with pleural cultures and cytology pending at time of discharge.
+She will need to follow up in pleural clinic for evaluation for re-accumulation of pleural fluid.
+Medications on Admission: anastrazole 1 mg daily (stopped a month ago) -enalapril 20 mg daily -lorazepam 0.5 mg 1-2tabs Q8HRs -ondansetron 8 mg Q8H PRN nausea -simvastatin 30 mg daily -calcium-vitamin D -chemotherapy with taxol/carboplatin   Discharge Medications: 1. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO TID (3 times a day).
+Disp:*90 Capsule(s)* Refills:*0*   Discharge Disposition: Home With Service  Facility: [**Location (un) 86**] VNA  Discharge Diagnosis: PRIMARY: Ovarian cancer with malignant ascites and pleural effusions  SECONDARY: hypertension hyperlipidemia   Discharge Condition: Mental Status: Clear and coherent.
+You were admitted for shortness of breath and abdominal distension.
+You were found to have fluid around the lungs (pleural effusion) and fluid in the abdomen (ascites).
+This fluid accumulation is likely due to your cancer.
+# START gabapentin 300 mg every 8 hours # START dilaudid 2 mg every 6 hours as needed for pain  Continue all other medications as prescribed.

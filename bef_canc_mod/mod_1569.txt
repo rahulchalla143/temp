@@ -1,0 +1,73 @@
+Admission Date:  [**2111-12-18**]              Discharge Date:   [**2111-12-26**]  Date of Birth:  [**2055-3-4**]             Sex:   M  Service: MEDICINE  Allergies: Percocet / Percodan  Attending:[**First Name3 (LF) 425**] Chief Complaint: SOB, s/p PVI  Major Surgical or Invasive Procedure: attempted pulmonary vein isolation endarterectomy of the LCF with bovine patch  History of Present Illness: 56 y/o man with PMHx significant for a-fib on dabigatran (s/p multiple cardioversions, most recently [**2111-11-20**]), CAD s/p multiple PCI (BMS to LAD, multiple BMS to RCA in [**2100**]; [**2101**] ISRS of RCA and proximal RCA stent; [**2104**] DES x2 to proximal and distal RCA), idiopathic dilated cardiomyopathy (EF 20% s/p [**Company **] ICD), PAD, HTN, HLD, OSA presenting after a pulmonary vein isolation today.
+The pt was recently hospitalized at the [**Hospital1 18**] ([**Date range (1) 19710**]) for shortness of breath, likley secondary to atrial fibrillation.
+The pt underwent a TEE to rule out thrombi in the heart [**Doctor Last Name 1754**] and underwent successful cardioversion on [**2111-11-20**].
+He stated his SOB was improved s/p cardioversion and he was discharged in stable condition in sinus rhythm and without complaints.
+Pt was feeling unwell, and electrocardiogram showed underlying atrial fibrillation in a fully ventricularly paced rhythm at 60 beats/minute; the right ventricle is paced from the outflow tract.
+ICD interrogation showed a low OptiVol fluid index.
+Has been back in atrial fibrillation since [**2111-11-25**].
+Over the past 12 months, this has been his sixth episode of atrial fibrillation starting [**Month (only) 956**], [**2111**].
+Procedure was terminated and patient was taken away to the OR for urgent arterial closure.
+He underwent endarterectomy of the LCF with bovine patch with a drain left in place.
+Family reports that he has been having increased leg swelling and dyspnea in the few days preceeding admission.
+Symptomatic atrial fibrillation 2.
+CAD s/p multiple PCIs 3.
+Hypertension 5.
+Hyperlipidemia 6.
+Melanoma ([**Doctor Last Name **] level IV) s/p resection  Social History: Lives with wife and son On disability, sits on the boards of several companies Smoked 1.5 ppd for 20 years, quit 5 years ago No EtOH Distant hx of recreational cocaine use Likes golf   Family History: Mom: Died at 88, cause unknown Dad: Died at 77, CHF Sibs: 2 brothers, 1 with dilated CMP No family history of early MI, arrhythmia, cardiomyopathies, or sudden cardiac death; otherwise non-contributory.
+Sclera anicteric.
+2/6 systolic murmur in the LLSB.
+No rigidity, rebound or guarding.
+EXTREMITIES: 1+ pitting edema of the [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] to the mid-shin.
+Stable cardiac enlargement with interval improvement in aeration in the lungs consistent with resolving pulmonary edema.
+There is persistent retrocardiac opacity and likely layering effusion which may reflect compressive atelectasis although pneumonia cannot be entirely excluded.
+No pneumothorax.
+[**12-20**] Nonspecific bowel gas pattern with several mildly dilated loops of small bowel in the left upper quadrant.
+The imaging appearance would favor postoperative ileus, but early small bowel obstruction cannot be excluded.
+Prominent amount of gas within a moderately distended stomach.
+No evidence of free air.
+[**12-22**] ECHO Mild spontaneous echo contrast is seen in the body of the left atrium.
+No thrombus/mass is seen in the body of the left atrium.
+Moderate spontaneous echo contrast is present in the left atrial appendage.
+No thrombus is seen in the left atrial appendage.
+No spontaneous echo contrast or thrombus is seen in the body of the right atrium or the right atrial appendage.
+No atrial septal defect is seen by 2D or color Doppler.
+There are complex (>4mm) atheroma in the descending thoracic aorta.
+The aortic valve leaflets (3) are mildly thickened.
+Trace aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Mild (1+) mitral regurgitation is seen.
+There is no pericardial effusion.
+IMPRESSION: Moderate spontaneous echo contrast in the left atrial appendage without organized thrombus.
+Diffuse and complex aortic atherosclerosis without mobile components.
+[**12-23**] CT HEAD WITHOUT CONTRAST Subtle changes in the posterior left parietal lobe in the left MCA territory concerning for early acute infarction.
+No acute intracranial abnormality.
+Calcified plaques causing severe stenosis at the origin of the right internal carotid artery.
+Calcified and soft plaques at the left common carotid bifurcation and proximal left internal carotid artery causing mild narrowing.
+There is no evidence of high-grade stenosis or occlusion in arteries of head.
+DISCHARGE LABS:  [**2111-12-26**] 07:00AM BLOOD WBC-13.9* RBC-3.12* Hgb-10.5* Hct-32.3* MCV-104* MCH-33.7* MCHC-32.6 RDW-18.2* Plt Ct-290 [**2111-12-26**] 07:00AM BLOOD Glucose-127* UreaN-68* Creat-1.6* Na-134 K-4.4 Cl-94* HCO3-29 AnGap-15 [**2111-12-26**] 07:00AM BLOOD Calcium-8.8 Phos-3.5 Mg-2.6  Brief Hospital Course: 56M with PMHx significant for atrial fibrillation on dabigatran and previously on Amiodarone (s/p multiple cardioversions, most recently [**2111-11-20**]), CAD s/p multiple PCI (BMS to LAD, multiple BMS to RCA in [**2100**]; [**2101**] ISRS of RCA and proximal RCA stent; [**2104**] DES x2 to proximal and distal RCA), dilated cardiomyopathy (EF 20% s/p [**Company **] ICD), PAD, HTN, HLD, OSA presenting to the CCU after arterial puncture s/p surgical repair c/b hypotension.
+There was evidence of a seroma after the drain was removed which was managed conservatively.
+#Hypotension - Upon presentation to the CCU, he was hypotensive and briefly required dopamine and phenylepherine to maintain his MAP >60.
+The hypotension was thought to be related to the sedation used during his procedure and subsequent surgery, he did not appear hypovolemic and there was no evidence of cardiogenic shock.
+#Rhythm/atrial fibrillation (CHADS2=2) - Pt has refractory AF with multiple prior cardioversions and trial of many antiarrhythmics, including amiodarone.
+During this admission, he remained in artial fibrillation with intermittent V-pacing on telemetry while he was in the CCU.
+In an attempt to chemically convert him to NSR, he was started on doeftilide after a TEE was negative for thrombus in the [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] RA.
+#Pump/coronaries - He has a history of CAD with multiple prior stents.
+He had a cath in [**10/2110**] which showed non-obstructive coronary disease and did not report any chest pain during this admission.
+His ASA and Plavix were initially held after the arterial puncture with repair, but were restarted after discussion with vascular surgery.
+There were no focal neurologic defecits noted, however there was ongoing concern that his mental status was declining and a non-contrast head CT was obtained.
+There was initial concern for a stroke in the left MCA distribution and a code stroke was called, NIHSS was 0.
+A CT perfusion was obtained which showed no evidence of ischemia.
+The initial thought was that he may have global hypoperfusion from severe carotid stenosis with mild hypotension.
+This concern was also dismissed and the prevailing theory was that his mental status changes were a result of delirium from a combination of oxazepam and ambien.
+#Dilated cardiomyopathy (EF=15-20%) - He initially appeared volume overloaded on exam and his family gave a history of worsening dyspnea and LE edema prior to presentation (patient was intubated and initially unable to provide history).
+There was no clear precipitating cause, although reverting back to afib after his last cardioversion likely contributed.
+At discharge, his weight is 92.6kg and his volume status is slightly hypervolemic.
+#Hyperlipidemia - Continued atorvastatin and Zetia  #COPD - Noted on CT scan prior to admission, not reporting any wheezing at admission.
+8. oxazepam 15 mg Capsule Sig: Two (2) Capsule PO HS (at bedtime) as needed for anxiety.
+10. meclizine 12.5 mg Tablet Sig: Two (2) Tablet PO PRN (as needed) as needed for dizziness.
+19. zolpidem 10 mg Tablet Sig: 0.5-1 Tablet PO at bedtime as needed for insomnia.
+7. oxazepam 15 mg Capsule Sig: [**1-18**] Capsules PO at bedtime as needed for anxiety.
+8. meclizine 12.5 mg Tablet Sig: Two (2) Tablet PO Q12H (every 12 hours) as needed for vertiginous symptoms.
+19. zolpidem 5 mg Tablet Sig: 1-2 Tablets PO HS (at bedtime) as needed for insomnia.
+Disp:*30 Tablet, ER Particles/Crystals(s)* Refills:*0*   Discharge Disposition: Home  Discharge Diagnosis: Primary: Atrial fibrillation Secondary: coronary artery disease, dilated cardiomyopathy, hypertension, hyperlipidemia,   Discharge Condition: Mental Status: Clear and coherent.
+Weigh yourself every morning, call Dr. [**Last Name (STitle) 1911**] if weight goes up more than 3 lbs in 1 day or 5 pounds in 3 days.

@@ -1,0 +1,62 @@
+Admission Date:  [**2147-9-19**]              Discharge Date:   [**2147-9-28**]  Date of Birth:  [**2066-10-17**]             Sex:   F  Service: MEDICINE  Allergies: Bactrim Ds  Attending:[**First Name3 (LF) 4071**] Chief Complaint: Palpitations  Major Surgical or Invasive Procedure: Cardiac Catheterization with bare metal stent placement   History of Present Illness: Per Admission Note: Mrs [**Known firstname **] [**Known lastname 108109**] is an 80 yo F w/ remote h/o NHL and recent h/o of bladder CA who presents with palpitations since 8 am, lasting for few min at a time.
+The patient reports having felt palpitations for the first time yesterday morning, which lasted a few seconds.
+The next day, the patient experienced sustained palpitations which did not resolve until later in the afternoon after she had been admitted to the hospital.
+The patient describes that she felt like she wanted to lie down when these palpitation happened and felt a little nauseous and lightheaded.
+No recent GI bleed, hematuria.
+No fevers, cough.
+EKG showed many ectopic beats with rate in the 90s requiring no rate controlling [**Doctor Last Name 360**].
+CXR showed no pulmonary edema.
+Telemetry showed sinus rythm with atrial ectopic beats.
+The patient had an episode of supraventricular tachycardia to 150 which lasted 15s during which the patient remained asymptomatic.
+- Hypothyroisism s/p thyroidectomy.
+- Non-Hodgkins lymphoma s/p MOP/rad [**2117**].
+- PUD- GI bleed [**2098**]'s requiring emergent vagotomy.
+- osteoporosis on Fosamax.
+- Mitral valve prolapse.
+Family History: - son died in 20's of NH lymphoma - mother had a pacemaker in place, died at 92.
+PULM: Mild crackle on left base.
+Left ankle edema (not a new finding) NEURO: AOx3 strength 5/5 throughout.
+No evidence of pulmonary embolism.
+Selective coronary angiography of this right dominant system demonstrated single vessel coronary artery disease.
+The LAD had a subtotal occlusion before S1 with extensive thrombus and slow TIMI 2 flow.
+The LCx and RCA were without visible coronary artery disease.
+Successful thrombectomy, PTCA and stenting of the proximal LAD with overlapping 3.0 x 15mm and 3.0 x 8 mm Vision BMS which were post dilate dto 3.0 with a quantum maverick.
+Final angiography revealed no residual stenosis in the stent, no dissction and TIMI III flow (See PTCA comments) FINAL DIAGNOSIS: 1.
+There is mild symmetric left ventricular hypertrophy with normal cavity size.
+There is mild to moderate regional left ventricular systolic dysfunction with mid- to distal anterior, anteroseptal, apical and distal inferior hypokinesis (mid-LAD territory).
+The aortic valve leaflets (?number) are mildly thickened.
+There is no aortic valve stenosis.
+No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+There is no mitral valve prolapse.
+Trivial mitral regurgitation is seen.
+There is no pericardial effusion.
+There is an anterior space which most likely represents a fat pad.
+IMPRESSION: Mild to moderate regional left ventricular systolic dysfunction, c/w CAD.
+No clinically-significant valvular disease seen.
+No evidence of pulmonary embolism or aortic dissection.
+New bilateral pleural effusions with associated with subsegmental atelectasis, right greater than left.
+Short segment linear filling defect at the origin of the left subclavian artery, which does not appear to represent a focal dissection on reformatted images.
+Diagnostic considerations include a penetrating ulcer or serrated plaque, however, close clinical correlation is recommended, with a three- month followup CTA is recommended to document stability (immediate follow up if symptoms of dissection develop).
+Focal asymmetric thickening at the left anterior trachea.
+Brief Hospital Course: 80 yo F w/ remote h/o NHL and recent h/o of bladder CA who presents with palpitations lasting for few min at a time.
+Found to have STEMI after 2 days in hospital (normal admit ECG) with occlusion of LAD, BMS placed.
+Patient became hypotensive and febrile and sent to the CCU where she received fluids and was given antibiotics, after which hypotension resolved.
+# STEMI: She initially presented with palpitations, no ST changes on initial ECG, and an elevated d-dimer.
+On day 2 of her hospital admission, she developed worsening nausea and vomitting without chest pain.
+A repeat ECG showed ST elevations in leads V2-V3.
+Patient did well after BMS to LAD, but only received 12 out of 18 hrs of integrelin due to hematuria.
+She remained chest pain free and only slight episode of nausea after cath with sedation meds which she states "always happens with meds".
+She was started on [**Last Name (LF) **], [**First Name3 (LF) **], Statin and BB, and a Post-STEMI echo showed hypokinesis in the area of her infarct.
+HypoTN/Fever: CXR was unremarkable and she is w/o sputum production, UA with few RBCs in context of recent cancer Dx; on physical exam she is warm but her WBC is not elevated and lactate is unremarkable and does not appear toxic.
+Overall picture most c/w septic cause but etiology unclear; may be translocating bacteria through the bladder.
+Given possible sepsis physiology, patient was started on zosyn and vanco and given fluids.
+Hypotension resolved with fluids, and fevers resolved although no source of infection was identified.
+Favored etiology was sepsis with UTI with translocation through bladder wall due to existing bladder cancer.
+# Hematuria: After cardiac catheterization, patient had gross hematuria out of her foley.
+This was likely [**1-28**] to bladder cancer with foley trauma and anticoagulation, and integrellin was stopped early (12 of 18 hours).
+Disp:*36 Tablet(s)* Refills:*0*   Discharge Disposition: Home With Service  Facility: [**Hospital 119**] Homecare  Discharge Diagnosis: Primary: ST elevation myocardial infarction Urinary Tract Infection Systemic Inflammatory Response Syndrome  Secondary: Bladder cancer Hypothyroidism   Discharge Condition: stable, ambulatory, pleasant, AAOx3, voiding, and having bowel movements with no complaints, no low grade temperatures for 72 hours.
+Patient is occasionally tachycardic but is now in the 80's.
+Discharge Instructions: You came to the hospital for palpitations, and while you were in the hospital you had a heart attack.
+In addition to your heart attack, you suddenly had decreased blood pressures and developed fevers, so you were taken to the medical intensive care unit, where you were given fluids and were placed on antibiotics.
+You recovered from that stay and were transferred to the floor whereupon you developed some low grade fevers with a urinary tract infection.

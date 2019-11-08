@@ -1,0 +1,27 @@
+Admission Date:  [**2129-8-20**]              Discharge Date:   [**2129-8-28**]  Date of Birth:  [**2105-9-24**]             Sex:   M  Service: NEUROSURGERY  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 1835**] Chief Complaint: headache  Major Surgical or Invasive Procedure: right craniotomy for tumor resection   History of Present Illness: Mr. [**Known lastname **] is a 23 y/o male in previously good health who was moving boxes on [**2129-8-18**] when he noted gradual onset headaches which were localized mostly to the left frontal portion of his head.
+He denies head trauma, loss of consciousness, or other associated neurological symptoms.
+After the pain improved, headache returned today stronger than previously noted.
+He presented to OSH where head CT revealed left parieto-occipital hyperdensity consistent with acute hemorrhage.
+He was transferred to [**Hospital1 18**] ED for neurosurgical evaluation.
+No dysarthria or paraphasic errors.
+No abnormal movements, tremors.
+AOX3, EOMI, no pronator drift.
+Surgical incision was clean dry and intact.
+There are tiny foci of high attenuation in the postoperative bed, which may reflect presence of hemorrhage.
+There is no hydrocephalus, shift of normally midline structures.
+There is no mass effect or edema.
+IMPRESSION: Status post excision of left temporoparietal meningioma, with small foci of hemorrhage and expected postoperative changes.
+After the pain improved, headache returned the following day with stronger intensity, prompting his going to the ED for evaluation.
+By CT an area of questionable mass was identified in the occiput and further work-up was done and inclusive of MRI, CTA/V.
+He went to the OR for resection of this mass via a posteriorly placed incision, and tolerated the procedure well.
+He was maintained in the ICU overnight for monitoring, and transferred to [**Hospital Ward Name **] 11 floor status to following day.
+He was evaluated by PT on POD#2, and determined to be appropriate for home discharge, however the patient continued to be hospitalized secondary to pain Management issues.
+Narcotic agents were changed, and an anti-spasmodic was added, which made a marked difference in pain relief.
+Disp:*50 Tablet(s)* Refills:*0*   Discharge Disposition: Home  Discharge Diagnosis: left parieto-occipital meningioma   Discharge Condition: neurologically stable   Discharge Instructions: DISCHARGE INSTRUCTIONS FOR CRANIOTOMY/HEAD INJURY  ?????
+?Have a family member check your incision daily for signs of infection ?????
+?Take your pain medicine as prescribed ?????
+?Increase your intake of fluids and fiber as pain medicine (narcotics) can cause constipation ?????
+?New onset of tremors or seizures ?????
+?Any confusion or change in mental status ?????
+?Any numbness, tingling, weakness in your extremities ?????
+?Any signs of infection at the wound site: redness, swelling, tenderness, drainage ?????

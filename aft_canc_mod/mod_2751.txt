@@ -1,0 +1,49 @@
+Admission Date:  [**2120-3-13**]              Discharge Date:   [**2120-3-23**]  Date of Birth:  [**2038-4-24**]             Sex:   F  Service: MEDICINE  Allergies: Aspirin / Nsaids / Technetium-[**Age over 90 **]m / Gadolinium-Containing Agents  Attending:[**Doctor First Name 16571**] Chief Complaint: nausea, hypotension, dizziness  Major Surgical or Invasive Procedure: IVC filter placement  History of Present Illness: Patient is an 81 year old female with metastatic melanoma, known metastases to brain and adrenals, who was receiving chemotherapy on day of admission (cycle 2 of dacarbazine), and sent to ED for hypotension after chemo and dizziness on [**2120-3-13**].
+Per admission note from that time, she is poor historian, and details from OMR documentation.
+She presented to chemotherapy with nausea and anxiety.
+She received a bolus of IVF (2L NS in total) with improvement of SBP to 106, but remained orthostatic (BP dropped to 88/60 with sitting).
+She had been vomiting up to 3x daily at home after chemotherapy, with poor PO intake.
+Of note, also c/o indigestion, vague right sided abdominal vs chest discomfort ("dull, achy").
+pt had unremarkable labs including LFTs, except for LDH of 848 and mild anemia with Hct 32.
+Past Medical History: PMH: - Metastatic melanoma, with known brain metastases (see details below) - Hypertension - Osteoporosis - Tuberculosis in [**2057**] and [**2071**] - GERD - Thyroid adenoma diagnosed in [**2072**] - Hiatal hernia - Cholecystectomy in [**2114**] - Hysterectomy in [**2100**] - Diverticulitis with lower GI bleeds - Neurogenic bladder from disk disease - Benign paroxysmal positional vertigo > 10 years .
+Oncologic history: Metastatic Melanoma PRIOR TREATMENT: 1.
+[**Year (4 digits) 4338**] in [**12/2115**] revealed right frontal and left central sulcus metastases with hemorrhage with question of leptomeningeal disease.
+She subsequently underwent stereotactic radiosurgery to the left central sulcus metastasis and the right frontal surgical cavity.
+[**2119-9-15**] had two new subcutaneous nodules in the right lateral abdominal wall and the anterior lower chest wall, progression of bilateral adrenal metastases, new lesion in the anterolateral left kidney, and slight retroperitoneal lymphadenopathy.
+Initiation of treatment with off-study dacarbazine [**2120-2-23**] because of fulminant disease progression at multiple sites.
+mild TTP LLQ ext: [**1-5**]+ pitting edema ankles b/l neuro: AAOx3 Skin: seborrheic keratosis scattered over entire skin  Pertinent Results: ADMISSION LABS:  CBC: [**2120-3-13**] 01:23PM   PLT COUNT-240 [**2120-3-13**] 01:23PM   NEUTS-67.5 LYMPHS-24.1 MONOS-6.8 EOS-1.3 BASOS-0.2 [**2120-3-13**] 01:23PM   WBC-8.6 RBC-3.18* HGB-10.8* HCT-32.2* MCV-101* MCH-33.9* MCHC-33.5 RDW-16.9*  CARDIAC ENZYMES: [**2120-3-13**] 01:23PM   CK-MB-2 cTropnT-<0.01  LIVER FUNCTION TESTS: [**2120-3-13**] 01:23PM   ALT(SGPT)-15 AST(SGOT)-21 LD(LDH)-848* CK(CPK)-9* ALK  CHEMISTRIES: [**2120-3-13**] 01:23PM   GLUCOSE-111* UREA N-11 CREAT-0.7 SODIUM-136 POTASSIUM-3.9 CHLORIDE-100 TOTAL CO2-25 ANION GAP-15 [**2120-3-13**] 01:23PM   ALBUMIN-3.4 CALCIUM-8.4  URINE ANALYSIS: [**2120-3-13**] 07:33PM URINE  MUCOUS-FEW [**2120-3-13**] 07:33PM URINE  GRANULAR-0-2 HYALINE-0-2 [**2120-3-13**] 07:33PM URINE  RBC-0 WBC-[**3-7**] BACTERIA-FEW YEAST-NONE EPI-0 [**2120-3-13**] 07:33PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR GLUCOSE-NEG KETONE-TR BILIRUBIN-SM UROBILNGN-NEG PH-6.5 LEUK-TR [**2120-3-13**] 07:33PM URINE  COLOR-Amber APPEAR-Clear SP [**Last Name (un) 155**]-1.024 [**2120-3-13**] 07:33PM URINE  GR HOLD-HOLD [**2120-3-13**] 07:33PM URINE  HOURS-RANDOM ===============  DISCHARGE LABS:  CBC: [**2120-3-23**] 12:00AM BLOOD WBC-9.5 RBC-2.80* Hgb-9.3* Hct-26.6* MCV-95# MCH-33.3* MCHC-35.0 RDW-18.2* Plt Ct-94*  CHEMISTRIES: [**2120-3-23**] 12:00AM BLOOD Glucose-101 UreaN-23* Creat-0.8 Na-137 K-3.7 Cl-108 HCO3-22 AnGap-11 ================  MICROBIOLOGY:  [**2120-3-14**] 9:25 pm BLOOD CULTURE                              **FINAL REPORT [**2120-3-18**]**     Blood Culture, Routine (Final [**2120-3-18**]):       ESCHERICHIA COLI.
+**FINAL REPORT [**2120-3-17**]**     URINE CULTURE (Final [**2120-3-17**]):       ESCHERICHIA COLI.
+**FINAL REPORT [**2120-3-17**]**     Blood Culture, Routine (Final [**2120-3-17**]):       ESCHERICHIA COLI.
+Blood Culture, Routine (Pending):  ============== ECG [**2120-3-15**]: Sinus tachycardia.
+Occasional premature atrial contractions.
+---- IMAGING STUDIES:  CTA Chest [**2120-3-14**]: IMPRESSION: 1.Findings suggest acute subsegmental pulmonary emboli in the left lower lobe.
+2.Increase in the burden of metastatic disease, including adrenal, pulmonary, nodal, and soft tissue metastasis.
+Ventricular function difficult to assess due to marked tachycardia.
+Mild left ventricular hypertrophy with preserved overall left ventricular function.
+Mild pulmonary hypertension.
+---- Lower Extremity Venous Ultrasounds [**2120-3-18**]: 1.
+No evidence of deep vein thrombosis in either lower extremity.
+Brief Hospital Course: Mrs. [**Known lastname **] is an 81 year old female with metastatic melanoma (known brain mets, adrenal mets), who presented with nausea and hypotension.
+# Urosepsis/hypotension: Patient developed hypotension while on the floor requiring transfer to the ICU.
+On transfer to the ICU the pt had leukocytosis, elevated lactate, and fever, which were concerning for evolving sepsis, with urinary and GI sites as the most likely sources of infection.
+Atrial fibrillation with rapid rate was also likely contributing to poor forward flow.
+The pt was initially on broad-spectrum antibiotics (ceftriaxone, vancomycin and ciprofloxacin) and these were narrowed to ciprofloxacin once the pt's blood and urine cultures grew E. coli sensitive to ciprofloxacin.
+As pt had positive blood cultures it was decided that pt should stay on IV abx and continued for a 14 day course of IV ciprofloxacin (day 1 =[**2120-3-15**], day 14 [**2120-3-28**]).
+Patient was afebrile and hemodynamically stable at time of discharge.
+# Tachycardia/Atrial fibrillation: On transfer to the ICU the pt was alternating between sinus tachycardia (rate 90-120) to what appeared to be atrial fibrillation.
+Pt reverted back into Afib and pt was started on metoprolol, eventually 25mg TID.
+It is possible that this dose of metoprolol may continue to require uptitration for continued rate control.
+# Pulmonary emboli: On admission the pt did have small subsegmental PE's, however no significant hypoxia or tachynpea.
+However, given the patient's high risk for bleeding on anti-coagulation, especially her high risk for bleeding in the brain given her metastatic disease our team felt that ultimately this risk of bleeding outweighed her risk for developing additional thrombi.
+# Acute renal failure: The pt's Cr peaked at 1.7 from 1.
+The patient's ARF was likely due to ATN in the setting of hypotension while septic.
+# Metastatic Melanoma: Given progression of patient's disease in spite of chemotherapy treatment her primary oncologist Dr. [**Last Name (STitle) **] does not plan to offer additional chemotherapy treatment.
+# Anemia: Most likely represents anemia of chronic inflammation.
+# GERD/hiatal hernia: Continued omeprazole, anti-emetics prn  # CODE: The pt was DNR/DNI per discussion the pt's family.
+Medications on Admission: Emend 125 mg (1)-80 mg (1)-80 mg (1) Capsule, Dose Pack Daily Riopan (apparently low sodium maalox) prn Dexamethasone 8mg PO BID PRN nausea Zofran 8mg PO Q8H PRN nausea Compazine 10mg PO Q6H PRN nausea Ativan 0.5mg, 1-2 tabs Q8H prn nausea Levoxyl 125mcg po Daily Omeprazole 20mg PO daily Raloxifene (Evista) 60mg PO daily Acetaminophen 325mg PO q4h prn Ascorbic acid 1000mg PO daily Calclium carbonate Multivitamin, 1 tab PO daily Vitamin E 400 units PO daily VIT C-VIT E-LUTEIN-MINERALS [OCUVITE LUTEIN] -  1 Capsule(s) by mouth daily  Discharge Medications: 1.
+Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation Q6H (every 6 hours) as needed for shortness of breath, wheezing.
+Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1)  Inhalation Q6H (every 6 hours) as needed for shortness of breath, wheezing.
+Discharge Disposition: Extended Care  Facility: [**Hospital 11851**] Healthcare - [**Location (un) 620**]  Discharge Diagnosis: Primary: Pulmonary embolism, urosepsis, atrial fibrillation Secondary: Metastatic melanoma, hypothyroidism, gastroesophageal reflux disease   Discharge Condition: stable   Discharge Instructions: You were admitted to the hospital due to your low blood pressure and nausea.
+We found that had an infection in your urine and in your blood in urine.
+We also determined that you  have a blood clot in your lungs.
+If you experience fevers, chills, night sweats, chest pain or shortness of breath please contact your primary care physician or primary oncologist or come to the emergency department for evaluation.

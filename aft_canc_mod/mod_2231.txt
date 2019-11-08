@@ -1,0 +1,49 @@
+Admission Date:  [**2200-6-11**]              Discharge Date:   [**2200-7-5**]  Date of Birth:  [**2127-9-8**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 2181**] Chief Complaint: altered mental status  Major Surgical or Invasive Procedure: Lumbar puncture Left subclavian central line placement  History of Present Illness: 72yo man h/o Lymphoma dx 2 yrs ago s/p splenectomy, recent CVA [**12-5**], DM, HTN who initally presented to [**Hospital1 1474**] ED on [**2200-6-10**] with change in mental status x 2 days, rigors, and weakness.
+Pt had no HA, neck stiffness, abd pain.
+[**First Name8 (NamePattern2) **] [**Hospital1 1474**] admission note ROS pos for loose stool, rinorrhea/cough and increased L arm weakness.
+Pt was roncherous on exam and CXR revealed a RML infiltrate.
+Head CT was perfomed and was neg for mass effect or bleed.
+Repeat CXR was read as "bibasilar airspace dz, no CHF."
+MRI was negative for new infarct.
+LP was attempted on [**6-11**] unsuccessfully due to body habitus.
+Leukopenia 2.
+initially diagnosed in [**9-1**] when he developed a cough, and then in [**12-2**] when he developed dyspnea and weight loss.
+A pleural effusion was found and drained.
+Pathology showed malignant cells consistent with B-cell clonal lymphoproliferative disorder.
+CT showed splenomegaly; bone scan apparently showed diffuse uptake in sternum, pelvis and lumbar vertebral bodies, suggestive of diffuse bone marrow involvement.
+The patient had a splenectomy, and the pathology was consistent with marginal zone lymphoma.
+CVA [**12-5**] likely watershed infarct from hypotension during sepsis of unclear source.
+HTN 6.
+Family History: Noncontributory  Physical Exam: Vitals: T 102.4, HR 111, 125/57, RR 27, 99% RA Gen: ill appearing, sedated, not arousable to voice HEENT: sclera non-icteric.
+membranes dry NECK: stiff PULM: decreased BS b/l bases with crackles at RLL CV: RRR.
+L knee tenderness to palpation w/ effusion.
+no erythema Neuro: withdrawsgrimaces to painful stimuli.
+no spontaneous motor movements.
+L arm flexed.
+Pertinent Results: CSF fluid: [**2200-6-17**] 05:15AM BLOOD PT-15.5* PTT-50.9* INR(PT)-1.6 [**2200-6-11**] 06:20PM CEREBROSPINAL FLUID (CSF) TotProt-249* Glucose-86 [**2200-6-11**] 06:20PM CEREBROSPINAL FLUID (CSF) WBC-600 RBC-[**2195**]* Polys-61 Lymphs-34 Monos-0 Macroph-5 [**2200-6-11**] 06:20PM CEREBROSPINAL FLUID (CSF) WBC-910 RBC-1075* Polys-61 Bands-1 Lymphs-36 Monos-0 Macroph-2  Joint fluid, left knee: [**2200-6-12**] 10:44AM JOINT FLUID WBC-3556* RBC-[**Numeric Identifier 36021**]* Polys-77* Lymphs-16 Monos-4 Macro-3 [**2200-6-12**] 10:44AM JOINT FLUID WBC-1240* RBC-1620* Polys-81* Lymphs-10 Monos-6 Macro-3 [**2200-6-12**] 10:44AM JOINT FLUID Crystal-NONE [**2200-6-12**] 10:44AM JOINT FLUID Crystal-NONE [**2200-6-11**] 03:47PM OTHER BODY FLUID CD45-DONE Kappa-DONE CD19-DONE Lamba-DONE  HEAD MRI ([**2200-6-19**]): Several foci of increased T1 signal abnormality within the cerebellum and right frontal lobe, which likely represents sequelae from old ischemia.
+No acute ischemia is identified.
+There is no meningeal enhancement or focal abscesses identified.
+Small-bowel obstruction with dilated, edematous proximal small bowel loops.
+Distal small bowel and colon are collapsed.
+Bilateral pleural effusions, right greater than left, with compressive atelectasis.
+The patient was also noted to have swelling of his knees R > L. Due to suspicion for septic joints the patient has bilateral arthrocentesis which inflammatory rather than septic arthritis.
+An MRI head was obtained due to concerns of lethargy and slow movement.
+The study showed evidence of old emboli but no acute changes.
+[**6-19**] ENT consult was called to evaluate the patient for his soft voice and proper closure of his vocal cords.
+ENT saw evidence of bowing of the cords w/ phonation as well as evidence of larygopharyngeal reflux.
+[**6-21**] the patient spiked a fever to 100.8.
+[**6-23**] pt spiked a fever to 100.1 and also had three bouts of emesis after eating lunch.
+Abd plain film showed dilated loops of bowel.
+CT abd showed SBO vs. partial SBO.
+2) L knee pain: Felt to be secondary to trauma of the left knee.
+Arthrocentesis consistent with inflammatory joint.
+No evidence of septic joint or crystal deposition.
+Pain was controlled with tylenol prn.
+3) L arm weakness: Likely manifestation of old infarct.
+4) Anemia and hyperbilirubinemia: Initially he had an indirect bili concerning for hemolysis, however T bili was down-trending and hapto/LDH were within normal limits suggesting against ongoing hemolysis.
+Iron studies were consistent with AOCD + retic count low suggestive of hypoproliferative state (likely secondary to underlying MZL).
+6) phospholipid antibiody - His coags were persistently elevated consistent with his history of IgM antiphospholipid antibody.
+8) Swallow - He failed two swallow evaluations and a dobhoff tube was placed at bedside and he was started on tubefeeds.
+9) Hoarseness - He had a persistently hoarse voice and was evaluated by ENT who felt that he had some reflux, so he was started on protonix.
+Discharge Disposition: Extended Care  Facility: [**Hospital3 7**] & Rehab Center - [**Hospital1 8**]  Discharge Diagnosis: pneumococcal meningitis hypretension left knee arthritis anemia status post tranfusion postitive anticardiolipin antibody type 2 diabetes mellitus impaired swallow reflex   Discharge Condition: patient was speaking softly, oriented x 3, afebrile and improving daily  Discharge Instructions: Please continue all medications as outlined below.
+If you have changes in mental status, fever, chills, neck stiffness, or other concerns, please return to the ED or call your PCP.

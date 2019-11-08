@@ -1,0 +1,56 @@
+Admission Date:  [**2145-11-19**]              Discharge Date:   [**2145-11-23**]  Date of Birth:  [**2068-2-22**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 2181**] Chief Complaint: Increasing pleural effusion  Major Surgical or Invasive Procedure: Pleurex catheter drainage   History of Present Illness: 77M with history of recently diagnosed metastatic NSCLC and known malignant right effusion, presenting with enlarging effusion at rehab, now admitted to MICU with tachypnea and respiratory distress.
+He was diagnosed with lung cancer in [**2145-8-31**] now follows with Dr. [**First Name4 (NamePattern1) 16212**] [**Last Name (NamePattern1) **] at [**Hospital 8**] Hospital.
+In [**Month (only) 359**] he developed acute cord compression and had decompression on [**2145-10-15**].
+He was readmitted to [**Hospital1 18**] from [**Date range (1) 56568**] for shortness of breath with new finding of large right sided pleural effusion and a RUL post obstructive pneumonia; mass abutting RUL bronchus and PA. During last admission he underwent thoracentesis and, later, pleurex catheter placement on [**11-17**].
+Pleural fluid positive for malignant cells, AFB smear negative.
+IP did not feel mass was amenable to stenting.
+When arrived back at rehab, he was sent to the ED due to inability to drain the effusion.
+CXR performed with finding of interval increase in pleural effusion and R lung base opacificition.
+A bedside ultrasound was obtained showing no pericardial effusion.
+Notes he gets dyspneic at times but no different lately.
+Actually denies shortness of breath currently.
+No CP, no pleuritic pain.
+Notes continued numbness and weakness in his lower extremities since his acute cord compression.
++lower extremity edema x few weeks.
++ weight loss.
+Nonsmall Cell Lung Cancer with metastatic disease to the spine - s/p T7-L1 laminectomy, decompression, fusion, and tumor debluking and fusion for acute cord compression on [**2145-10-15**] - Primary Oncologist Dr. [**First Name4 (NamePattern1) 16212**] [**Last Name (NamePattern1) **] 2.
+H/o C diff colitis in [**2145-9-30**] 3.
+COPD 4.
+Atrial fibrillation  Social History: Originally from [**Country 651**], immigrated to the US > 10 years ago; was living with his son and daughter until discharge yesterday (discharged to rehab in [**Hospital1 392**]).
+Family History: No family history of malignancy  Physical Exam: Vitals: T: 99.2 BP: 128/59 P: 76 R: 26 SaO2: 97 RA General: Cachectic male, alert, oriented, moderately tachypneic with some accessory muscle use.
+Lungs: Decreased breath sounds on right, few rales, somewhat rhonchorous with ?pleural rub.
+CV: tachycardic, irregularly irregular, no murmurs, rubs, gallops appreciated Abdomen: soft, thin, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly.
+No calf tenderness.
+There is mild global left ventricular hypokinesis (LVEF = 45 %).
+Systolic function of apical segments is relatively preserved suggesting a non-ischemic etiology.
+The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present.
+Trace aortic regurgitation is seen.
+The mitral valve appears structurally normal with trivial mitral regurgitation.
+There is mild pulmonary artery systolic hypertension.
+There is a trivial anterior pericardial effusion.
+IMPRESSION: Normal left ventricular cavity size with mild global hypokinesis c/w diffuse process (toxin, metabolic, etc.).
+Mild pulmonary artery systolic hypertension.
+[**2145-11-20**] Bilateral lower extremity ultrasound: Peroneal veins not visualized.
+No evidence of deep venous thrombosis.
+[**2145-11-21**] Chest Xray There is essentially no change in chest findings with right upper lobe complete opacification, right pleural effusion, ground-glass opacity and mass-like consolidation in the right lower lobe, nodular opacity projecting in the left upper lobe and peribronchial abnormalities in the left lower lobe or due to patient's known non-small cell lung cancer.
+There are no new lung abnormalities.
+There is no pneumothorax.
+Brief Hospital Course: 77 year old male with metastatic lung cancer and malignant pleural effusion admitted for pleural catheter drainage.
+He was initially admitted overnight to the MICU after experiencing shortness of breath, tachypnea and hypoxia in the emergency room; however, this quickly resolved.
+# Shortness of Breath: He has baseline shortness of breath due to persistent malignant effusion and post-obstructive pneumonia secondary to mass.
+# Pneumonia/Hypoxia: Patient completed a course for post-obstructive pneumonia and other than leukocytosis as below has no other signs or symptoms of infection.
+UA negative, CXR without new findings, C. diff negative as above, blood cultures are no growth to date and patient ruled out for flu, parainfluenza, adenovirus and RSV.
+Tachypnea and hypoxia improved as above with drainage of pleurex.
+# Stage IV NSCL and Malignant effusion: Known mets to spine and malignant effusion.
+# Leukocytosis: C. diff negative, CXR unchanged other than effusion, UA negative and blood cultures no growth to date.
+Patient remained afebrile and non-toxic appearing, though chronically ill.  [**Month (only) 116**] be secondary to malignancy.
+# Tachycardia: Sinus tach vs MAT.
+No clear Afib history and he was intermittently irregular making MAT more likely (though difficult to appreciate p waves when accelerated rhyhtm).
+- roxanol 0.25 ml Q3H prn pain - Omeprazole 40 mg DAILY - Guaifenesin 100 mg/5 mL: 5-10 MLs PO Q6H as needed for cough.
+- Albuterol Sulfate [**1-1**] nebs Q4H prn shortness of breath or wheeze.
+Guaifenesin 100 mg/5 mL Liquid Sig: [**5-9**] mL PO every six (6) hours as needed for cough.
+Albuterol Sulfate 0.63 mg/3 mL Solution for Nebulization Sig: [**1-1**] Nebulizations Inhalation every four (4) hours as needed for shortness of breath or wheezing.
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for Constipation.
+Discharge Disposition: Extended Care  Facility: [**Hospital 392**] Rehabilitation & Nursing Center - [**Hospital1 392**]  Discharge Diagnosis: Primary Diagnosis: Non-small cell lung cancer Malignant pleural effusion  Secondary Diagnosis: COPD   Discharge Condition: Mental Status: Clear and coherent Level of Consciousness: Sleepy but arousable Activity Status: Bedbound   Discharge Instructions: You were admitted to the hospital to have your Pleurex catheter drained.
+You experienced an episode of shortness of breath and were initially admitted to the medical intensive care unit.
+You also had a fast heart rate (atrial fibrillation).

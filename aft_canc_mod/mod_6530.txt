@@ -1,0 +1,63 @@
+Admission Date:  [**2165-3-13**]              Discharge Date:   [**2165-3-25**]  Date of Birth:  [**2081-9-29**]             Sex:   M  Service: MEDICINE  Allergies: Morphine  Attending:[**First Name3 (LF) 4365**] Chief Complaint: Right sided weakness  Major Surgical or Invasive Procedure: TPA administered  History of Present Illness: HPI: Patient is a 83 year old RHM with hx of Afib on Coumadin, DM, CAD, hypercholesterolemia, and mild dementia who was found aphasic with vomitus at 9:40pm.
+His last known well time was 9:30 and when the EMS arrived around 9:50, he was found to be not talking and completely hemiplegic on right side.
+Patient arrived at 1:45 and upon evaluation, he was showing some improvement with moving his right leg which was completely plegic per report.
+NIHSS after IV tPA here in ED: 2 for LOC questions 1 for minor facial paralysis 4 for no movement of RUE 1 for drift of RLE 1 mild/mod sensory loss 3 for mute, global aphasia 2 for severe dysarthria Total 14  Patient was taken for CTA/CTP which showed no hemorrhagic transformation plus patent proximal vessels but did have increased MTT and decreased CBV on reformatted images.
+No infectious symptoms and no report of chest pain.
+However, he did have a bout of pneumonia 2 weeks ago hence was on levaquin for 10 days which finished 5 days prior to admission.
+Patient walks with a cane at baseline and has mild dementia but still highly independent - he still drives, pays own bills and takes own meds.
+Atrial fibrillation on Coumadin 2.
+Hepatocellular carcinoma per biopsy ([**1-7**]) 3.
+HTN 5.
+Hypercholesterolemia 6.
+CAD s/p MI and CABG - LVEF 29% 7.
+Depression 9.
+PVD and claudication   Social History: SH: Lives with wife - highly independently functioning as noted in HPI.
+Quit smoking 20 yrs ago and no EtOH.
+Able to utter "good" and says his name but severe dysarthria.
+Tongue midline and palate elevated symmetrically.
+No observed myoclonus or tremor.
+R pronator drift.
+Reflexes: +2 and symmetric for UEs but trace for L patellar and none for R and no Achilles.
+Toes upgoing bilaterally  Coordination: No dysmetria with FTN but had difficulty comprehending the task.
+No acute intracranial hemorrhage.
+The CT perfusion study demonstrates ischemia in the distribution of the inferior division of the left middle cerebral artery.
+Questionable focal loss of [**Doctor Last Name 352**]/white matter differentiation in the posterior left temporal lobe on the non-contrast CT scan is also inconclusive with respect to the presence of an acute infarction.
+Extensive cervical and intracranial atherosclerosis.
+Moderate, 50% stenosis in the proximal left internal carotid artery.
+Mild stenoses at the origins of both vertebral arteries.
+Abrupt cut-off in a small distal branch of the inferior division of the left middle cerebral artery, likely related to embolic occlusion.
+Not clear if pleural effusions are present.
+Cervical spondylosis.
+Several small diffusion abnormalities in the left temporal and left basal ganglia consistent with acute infarct in the posterior division of the left MCA.
+No evidence of acute large hemorrhage, mass, or small microvascular hemorrhages.
+Small vessel ischemic disease.
+CT head negative for acute process done 1 week after stroke  CXR [**3-22**]: Large left pleural effusion and small right pleural effusion are unchanged.
+Left lower lobe atelectasis is stable.
+There is no pneumothorax.
+No new lung abnormalities are present.
+Brief Hospital Course: A/P: Patient is an 83 yo man with pmhx of DM, HTN, CAD, CHF with EF 20%, Afib, HCC here with acute MCA stroke managed with [**Hospital **] transferred to [**Hospital1 18**] for further management.
+Head CT without acute changes [**3-20**].
+Resolving defecits on exam and dysarrthria improved as well on discharge.
+The elevated INR was thought to be due to lack of nutrition, antibiotics and liver disease (he has HCC).
+Speech and swallow initially thought he was an aspiration risk because of his poor mental status, but as his mental status improved, he was able to eat purreed food with thickened liquids and per nurse was not aspirating at all.
+# Mental status changes: Patient was intermittently agitated and somnolent.
+We treated the UTI with ceftriaxone and the hypernatremia with D5 W and his mental status improved.
+He still has some short-term memory problems but patient has early dementia at baseline.
+# Hypernatremia: likely due to poor po intake when somnolent.
+# CHF with EF 15-20%: Patient received fluids after his stroke and lasix was held.
+He became very overloaded with 2+ pitting edema to his knees on exam and crackles on lung exam.
+On discharge, his respiratory status was improved and his LE edema was resolved.
+We continued him on 40 mg po lasix but his volume status should be watched closely and this should be adjusted based on his clinical exam.
+# Hyperlipidemia: increased atorvastatin on this admission.
+# Dementia: continued donepezil .
+# FEN: restarted pureed diet with thick liquids per s/s eval [**3-22**] and per nurse, no aspiration events.
+# Access: PIV .
+# Code: DNR/I- confirmed with his wife- HCP   Medications on Admission: 1.
+Ipratropium Bromide 0.02 % Solution Sig: One (1) neb Inhalation Q6H (every 6 hours) as needed for wheezing.
+Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1) neb Inhalation Q6H (every 6 hours) as needed for wheezing.
+Discharge Disposition: Extended Care  Facility: [**Hospital1 700**] - [**Location (un) 701**]  Discharge Diagnosis: Primary left mca ischemia s/p iv tpa CHF UTI hypernatremia  Secondary HTN Afib hyperlipidemia dementia   Discharge Condition: Stable   Discharge Instructions: You were initially admitted because of a stroke.
+We also started you on lovenox for atrial fibrillation to help reduce your risk of recurrent stroke.
+While you were here, you became volume overloaded and received lasix and are now improved.
+In addition, you became confused and were diagnosed with a UTI and were hypernatremic.
+You were treated for both of these issues and your confusion improved.
+Please return to the ED if you experience any fever, chest pain, difficulty breathing, abdominal pain or any other concerning symptoms.

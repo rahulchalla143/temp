@@ -1,0 +1,35 @@
+Admission Date:  [**2164-1-13**]              Discharge Date:   [**2164-1-19**]  Date of Birth:  [**2082-4-5**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**Known firstname 5552**] Chief Complaint: hypoxia  Major Surgical or Invasive Procedure: none  History of Present Illness: 81 y/o M w/ Lung Ca, recent MI, emphysema with home O2 2L, over past 1-week has had increasing dyspnea.
+No f/c/ns/chest pain.
+Exam was notable for mild wheeze.
+Patient got CTA for question PE -> negative.
+Was treated as COPD flare.
+T98.2, Bp 151/78, HR 96   Past Medical History: 1) CAD s/p MI in [**2140**] by EKG diagnosis, no admission, no symptoms, ETT/MIBI [**2159**] showing partially reversible defect in RCA distribution.
+No interventions performed.
+2) HTN 3) Hyperlipidemia 4) COPD 5) DJD 6) Thoracic artery aneursym, stable 7) Nonsmall cell lung cancer (see below)  ONCOLOGIC HISTORY: Mr. [**Known lastname 14194**] was in his USOH until [**2163-7-25**] when he presented with hemoptysis and weight loss of 10 pounds over previous 1-2 months.
+He had a CT scan of the chest on [**8-21**] and it showed a 4.1 x 4.0 right hilar mass with subcarinal lymphadenopathy, 19 mm right axillary lymph node as well as multiple right lower lobe and left lower lobe nodules concerning for lung cancer.
+On [**2163-8-28**], he was admitted to [**Hospital1 771**] with chest pain and ruled out for a non-ST elevation MI.
+He was seen by the hematology-oncology consult service while in the hospital and underwent FNA of the right axillary lymph node, the pathology of which showed nonsmall cell cancer, squamous cell type.
+He was discharged on the third of [**Month (only) 359**] and then on [**2163-8-30**], he had a bronchoscopy done for evaluation of his hemoptysis as well as bronchial biopsy and the cytology confirmed metastatic nonsmall cell lung cancer.
+Mother died of breast cancer complications at age 53.
+Sister had breast cancer and lung cancer and died at age 80  Physical Exam: Tmax: 36.8 ?????
+?F)  HR: 91 (91 - 99) bpm  BP: 162/85(104) {151/70(97) - 163/85(108)} mmHg  RR: 25 (24 - 29) insp/min  SpO2: 96%   O2 Delivery Device: Medium conc mask  SpO2: 96%  ABG: 7.45/31/140//0  Physical Examination  General Appearance: Well nourished, No(t) Overweight / Obese, Diaphoretic  Eyes / Conjunctiva: PERRL  Head, Ears, Nose, Throat: Normocephalic  Cardiovascular: (S1: Normal), (S2: Normal), No(t) S3, No(t) S4, No(t) Rub  Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse: Present), (Right DP pulse: Not assessed), (Left DP pulse: Not assessed)  Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Diminished: occasional wheezes, rare)  Abdominal: Soft, Non-tender, Bowel sounds present, No(t) Distended  Extremities: Right: Absent, Left: Absent  Musculoskeletal: No(t) Muscle wasting  Skin:  Not assessed  Neurologic: Attentive, Follows simple commands   Pertinent Results: Labs on Admission: [**2164-1-13**] 03:45PM BLOOD WBC-63.7*# RBC-3.50* Hgb-10.6* Hct-30.5* MCV-87 MCH-30.4 MCHC-34.8 RDW-17.7* Plt Ct-329 [**2164-1-13**] 03:45PM BLOOD Glucose-107* UreaN-23* Creat-0.9 Na-132* K-4.7 Cl-98 HCO3-22 AnGap-17 [**2164-1-14**] 03:14AM BLOOD Calcium-8.9 Phos-5.0* Mg-2.2 [**2164-1-13**] 07:23PM BLOOD Type-ART pO2-140* pCO2-31* pH-7.45 calTCO2-22 Base XS-0 Lactic Acid:2.0 mmol/L .
+No pulmonary embolism or secondary signs of embolism.
+While the right hilar mass, multiple parenchymal lung masses, and thoracic lymphadenopthy have deacreased in size, intra-abdominal metastases, including hepatic metastases, have increased in size.
+Emphysema with upper lobe predominant ground- glass opacity which may represent respiratory bronchiolitis-associated interstitial lung disease.
+Decreased right pleural effusion.
+Known right hilar and right lower lobe masses re-demonstrated with persistent interstitial abnormality of the right lung concerning for possible lymphangitic carcinomatosis.
+No evident new superimposed acute abnormality.
+CXR [**2164-1-17**]: In comparison with the study of [**1-14**], there is persistent enlargement of the right hilum consistent with the mass seen on CT. Increasing opacification in the right upper lobe just above the minor fissure consistent with developing pneumonia.
+Mild atelectatic changes are seen at the left base.
+Brief Hospital Course: 81 y/o M w/ long smoking history, emphysema, metastatic non-small cell lung cancer, CAD, who p/w respiratory distress from COPD flare.
+#Respiratory distress: Secondary to COPD exacerbation.
+Discussed with Heme/Onc to evaluate his leukocytosis and eosinophilia, which was thought likely [**12-26**] underlying cancer and unlikely related to tx with Alimta.
+Captopril was discontinued (started during admission for elevated blood pressure).
+# Urinary retention: Patient demonstrated urinary retention in ICU.
+Albuterol 90 mcg/Actuation Aerosol Sig: Two (2) puffs  Inhalation every four (4) hours as needed for shortness of  breath or wheezing.
+Albuterol 90 mcg/Actuation Aerosol Sig: Two (2) puffs Inhalation every four (4) hours as needed for shortness of breath or wheezing.
+Discharge Disposition: Home With Service  Facility: [**Location (un) 86**] VNA  Discharge Diagnosis: Non-small cell lung cancer COPD Coronary artery disease   Discharge Condition: Good, ambulating, on 3 L NC.
+Discharge Instructions: You were admitted for difficulty breathing due to a COPD flare.
+Continue to take the Albuterol as needed for shortness of breath.
+# ADDED: Prednisone.
+Return to the ER if you experience fever, chills, increased difficulty breathing, chest pain or other concerning symptoms.

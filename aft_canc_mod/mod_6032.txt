@@ -1,0 +1,44 @@
+Admission Date:  [**2166-7-14**]              Discharge Date:   [**2166-7-31**]  Date of Birth:  [**2098-10-31**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 25876**] Chief Complaint: IL-2 treatment for metastatic Renal cell carcinoma  Major Surgical or Invasive Procedure: Chemotherapy Thoracentesis Arterial Line Central Line   History of Present Illness: [**Hospital Unit Name 153**] admission:  67yo M w/ metastatic renal cell carcinoma, s/p cycle 1 week 1 of high dose IL-2.
+Received 8 doses of 9 total, but was stopped due to hypotension.
+Required dopamine gtt on [**7-16**] and [**7-17**] due to hypotension.
+Dopamine gtt stopped on [**7-16**] due to afib w/ RVR + hypotension that developed with its use.
+Troponin leak was felt to be myocarditis by attending, and low dose lopressor was initiated for HR control.
+Past Medical History: # Metastatic renal cell carcinoma - dx [**12-28**] - underwent R nephrectomy -> [**Last Name (un) 19076**] grade II RCC, clear cell type - XRT to L spine (for L4 met) in [**7-28**] - lung nodules noted -> started phase 1 Avastin/sarafamib trial  - taken off study in [**10-28**] due to disease progression - underwent cyberknife to the spine - now starting HD IL-2 due to progression of lung mets - underwent [**Doctor First Name **] [**1-27**] and [**2-27**] for spine stabilization - newly diagnosed L sided pleural effusion -> 2L drained on [**2166-7-14**] # Hypercholesterolemia # Chronic leg edema # DVT w/o sx noted after spine surgery - LENI [**2166-1-29**] showed bilateral popliteal DVT - anticoagulated w/ lovenox - LENI [**2166-6-2**] showed no evidence of DVT   Social History: He is an executive at a nonprofit power company.
+Family History: Significant for father with liver cancer who died at age 67.
+OP clear, no exudates or erythema.
+Could not assess JVP due to body habitus.
+No murmurs appreciated.
+Lungs: Audible wheezing, but no wheezing in lung fields anteriorly, ?
+Unable to sit patient up due to hypotension, but reaching around back heard decreased BS on L, no crackles.
+mild rebound and guarding.
+Could not assess for HSM due to body habitus.
+Now cool, clammy, with decreased capillary refill.
+Pertinent Results: [**2166-7-14**] 12:07PM OTHER BODY FLUID  PH-7.51 [**2166-7-14**] 01:33PM PLEURAL  WBC-260* RBC-[**Numeric Identifier **]* POLYS-2* LYMPHS-35* MONOS-0 MESOTHELI-8* MACROPHAG-54* OTHER-1* [**2166-7-14**] 01:33PM PLEURAL  TOT PROT-4.4 GLUCOSE-143 LD(LDH)-114 ALBUMIN-2.9 CHOLEST-72 [**2166-7-14**] 01:45PM   PT-12.2 PTT-31.1 INR(PT)-1.0 [**2166-7-14**] 01:45PM   PLT COUNT-233 [**2166-7-14**] 01:45PM   WBC-7.1 RBC-4.11* HGB-11.2* HCT-34.7* MCV-84 MCH-27.2 MCHC-32.2 RDW-15.6* [**2166-7-14**] 01:45PM   ALBUMIN-4.0 CALCIUM-9.2 PHOSPHATE-3.6 MAGNESIUM-2.5 [**2166-7-14**] 01:45PM   ALT(SGPT)-12 AST(SGOT)-14 CK(CPK)-128 ALK PHOS-83 TOT BILI-0.3 [**2166-7-14**] 01:45PM   GLUCOSE-102 UREA N-22* CREAT-1.5* SODIUM-138 POTASSIUM-4.6 CHLORIDE-104 TOTAL CO2-24 ANION GAP-15 [**2166-7-31**] 12:00AM BLOOD WBC-17.6* RBC-3.44* Hgb-9.4* Hct-29.3* MCV-85 MCH-27.2 MCHC-32.0 RDW-17.5* Plt Ct-361 [**2166-7-23**] 03:24AM BLOOD Neuts-70 Bands-2 Lymphs-15* Monos-4 Eos-0 Baso-0 Atyps-0 Metas-6* Myelos-3* NRBC-1* [**2166-7-31**] 12:00AM BLOOD Plt Ct-361 [**2166-7-31**] 12:00AM BLOOD Glucose-121* UreaN-19 Creat-1.5* Na-142 K-3.8 Cl-115* HCO3-16* AnGap-15 [**2166-7-31**] 12:00AM BLOOD Albumin-2.1* Calcium-7.0* Phos-2.9 Mg-1.8 ..................... RLE doppler: No evidence of right lower extremity deep venous thrombosis.
+Pleural Fluid: NEGATIVE FOR MALIGNANT CELLS.
+Mild mesenteric stranding and trace mesenteric fluid in the right mid abdomen.
+Close observation may be warranted ......................... PLEURAL ANALYSIS     WBC  RBC  Polys  Lymphs Monos Eos Meso Macro Other [**2166-7-25**] 03:57PM 667* [**Numeric Identifier 98998**]* 20*   75*   1   4*   1 * 1 FEW PLASMACYTOEID LYMPHS SEEN [**2166-7-14**] 01:33PM260*  1 [**Numeric Identifier **]* 2     35*    0  8*  54*   1*    PLEURAL CHEMISTRY TotProt Glucose LD(LDH) Albumin Cholest [**2166-7-25**] 03:57PM    1.6     140 155      1.0 [**2166-7-14**] 01:33PM    4.4     143 114      2.9     72  OTHER BODY FLUID  OTHER BODY FLUID  pH [**2166-7-25**] 04:49PM    7.44 [**2166-7-14**] 12:07PM    7.511 1 PLEURAL FLUID    Brief Hospital Course: Mr. [**Known lastname **] is a 67 yo male initially admitted for IL-2 therapy for metastatic renal cell carcinoma.
+His hospital course was complicated by hypotension and possible GI infection necessitating a short stay in the ICU, but pt recovered and was discharged in stable condition.
+However, pt became hypotensive requiring dopamine with initial episode of A fib on [**7-17**] and occ V tach.
+However, the patient continued to have hypotensive episodes as well as tachycardia and was eventually transferred to [**Hospital Unit Name 153**] on [**7-20**].
+Additionally, surgery was consulted on [**7-20**] for abdominal pain with concern for ischemic bowel given hypotension and elevated lactate, but surgical intervention was indicated at that time.
+Finally, Nephrology was consulted for the management of his hypernatremia and renal failure.
+Renal failure thought to be due to IL-2 coupled with ATN and hypernatremia due to volume depletion.
+MICU course was also complicated by pleural effusion (tapped) and coagulopathy ( INR increased to 3) thought to be due to IL-2 therapy.
+TPN was started on [**7-22**] for poor oral intake and rapid weight loss.
+GI infection: pt had concern of an abdominal infection given elevated lactat, abdominal pain and leucocytosis.
+Pt's symptoms of abdominal pain resolved and pt was able to eat regular diet and was afebrile.
+Acute renal failure- Pt had significant elevation of creatinine while hospitalized (max of 7.1) that was thought to be due to IL-2 therapy with potential element of ATN.
+Additionally pt had hypernatremia that was managed with free water boluses and encouraging PO water intake.
+AFIB WITH RVR: Pt initially found to have A fib on [**7-17**] that spontaneously converted.
+Pt did not have episodes of tachycardia.
+PLEURAL EFFUSION: Pt initially had pleural effusion on [**7-14**].
+Pt again had thoracocentesis once on oncology floor as pt was short of breath and it was done for symptomatic relief.
+Pt was able to be weaned to room air without hypoxia on discharge.
+Exam continued to be suggestive for pleural effusion on discharge, but given that the patient was asymptomatic no repeat thoracocentesis was done.
+The repeat tap appeared to be exudative likely malignant given multiple pulmonary masses.
+Pt will follow up with Dr. [**Last Name (STitle) 1729**] for further management of his renal cell carcinoma.
+Loperamide 2 mg Capsule Sig: One (1) Capsule PO QID (4 times a day) as needed for diarrhea.
+Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO Q4-6H (every 4 to 6 hours) as needed for nausea or anxiety.
+Disp:*30 Tablet(s)* Refills:*0*   Discharge Disposition: Home With Service  Facility: [**Company 1519**]  Discharge Diagnosis: Renal cell cancer treated with IL-2 therapy  Secondary: Hypertension  Discharge Condition: Stable  Discharge Instructions: You were admitted for your treatment of your renal cell cancer with IL-2 therapy.
+While you were here,  you were cared for in the ICU for low blood pressure and kidney failure.
+Please call your physician or go to the ER if you have: * Fever or chills * Severe nausea or vomiting * Shortness of breath * Chest pain * Any other concerning symptom  Followup Instructions: You should see Dr. [**Last Name (STitle) 1729**] on [**8-12**] for follow up appointment at 5:00 PM.

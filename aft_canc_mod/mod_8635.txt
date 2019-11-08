@@ -1,0 +1,57 @@
+Admission Date:  [**2143-3-9**]              Discharge Date:   [**2143-3-12**]  Date of Birth:  [**2058-2-4**]             Sex:   M  Service: MEDICINE  Allergies: Levaquin / Quinolones / Polysorbates  Attending:[**First Name3 (LF) 2009**] Chief Complaint: Left upper quadrant abdominal pain  Major Surgical or Invasive Procedure: None  History of Present Illness: 85 yo M with CAD, COPD on 2L home O2, Parkinson's, Alzheimer's, HTN, multiple back surgeries who presents with severe upper abdominal pain LUQ>RUQ.
+Patient reports no associated fevers, chills, nausea, vomiting, diarrhea, change in stool, blood in stool, or dark/tarry stool.
+He denies cough or change in chronic SOB, but reported pain with deep breaths in the ED which he denies on the floor.
+In the ED he desatted to the high 80s off of O2 and was found to have wheezes in all lung fields, JVP up to the jaw, and 3+ pitting edema bilaterally.
+His abdomen was noted to be tense and tender diffusely, worst in the LUQ.
+CXR showed low lung volumes and linear atelectasis, CT chest that showed possible aspiration, low lung volumes, atelectasis, poor bolus timing, no central or lobar PE.
+CT abd/pelvis showed no acute process.
+He is c/o LUQ pain worsened by leaning to his side.
+Review of systems: (+) Per HPI (-) Denies fever, chills, night sweats, recent weight loss or gain.
+Denies headache, sinus tenderness, rhinorrhea or congestion.
+Denies cough, shortness of breath, or wheezing.
+Denies chest pain, chest pressure, palpitations, or weakness.
+Denies nausea, vomiting, diarrhea, constipation, abdominal pain, or changes in bowel habits.
+Denies dysuria, frequency, or urgency.
+Denies rashes or skin changes.
+Cards: Difficult to ausculate due to loud breath sounds.
+Extremities: wwp, 2+ edema to ankles bilaterally.
+Urine culture ([**2143-3-9**]): No growth .
+Imaging/diagnostics: - CXR ([**2143-3-9**]): Lung volumes are low and there is associated linear subsegmental atelectasis at both lung bases.
+Mild central pulmonary vascular congestoin is likely present.
+There is no pleural effusion, pneumothorax.
+Lumbar spinal fixation hardware is partially imaged.
+IMPRESSION: Mild congestion.
+No acute aortic syndrome.
+Suboptimal opacification of the pulmonary arterial tree, permitting only confident exclusion of central and lobar pulmonary embolus.
+Secretions in the left main stem bronchus, with dependent opacity in the left base, suggesting possible aspiration.
+Low lung volumes, with diffuse dependent atelectasis.
+Bowing of the posterior tracheal wall, suggesting tracheomalacia.
+No acute intra-abdominal process or explanation for left upper quadrant pain.
+Innumerable renal hypodensities, incompletely characterized on this study, though grossly stable from prior examination in [**2142-3-31**].
+Healed sternal fracture, T6 compression fracture, status post kyphoplasty, multiple rib fractures.
+Extensive posterior fusion from T10 through L5 is also unchanged.
+There is a chronically dislocated right femoral prosthesis.
+Pending labs on discharge (to be followed by outpatient PCP) - Blood culture ([**2143-3-9**])   Brief Hospital Course: 85 yo M with CAD, COPD on 2L home O2, tracheomalacia, Parkinson's and Alzheimer's dementia, HTN, multiple back surgeries, and hx of left stomach trauma, admitted to MICU severe upper abdominal pain, now transferred to floor.
+# LUQ Pain: Etiology most likely a combination of increased abdominal distention from constipation (on chronic oxycodone) and gas superimposed on known rib fractures.
+CT abdomen was reassuring in that there is no evidence of splenic infarct, bowel stranding to indicate AMI, gall stones, or pancreatitis.
+Labs are reassuring for the lack of cholestasis, lipase elevation or LFT elevation.
+Old rib fractures again seen.
+No PE or PNA on CTA.
+Abdominal plain film showed dilated loops of bowel without signs of free air.
+Pain treated with tylenol and restarted on home oxycodone dose prior to discharge.
+# Hypoxia: Chronic issue with COPD and tracheomalacia.
+Ruled out PE and pneumonia on CTA.
+# Acute renal failure: On admission Cr elevated at 1.4 which resolved after hydration.
+# Macrocytic Anemia: Slight Hct drop from 35 -> 32.9 but then stable and comparable to baseline.
+No signs of abdominal bleed on CT abdomen.
+# Alzheimers: Continued on Celexa 40 mg PO once a day and Donepezil 10mg QHS.
+# Parkinsons disorder: Continued on Comtan 200 mg PO TID and Carbidopa-Levodopa 25-100 mg TID.
+# h/o Seizure disorder: Continued on Divalproex 250 mg once a day .
+# h/o Prostate cancer: Patient continued on home bicaluamide dose.
+* Oxycodone 5 mg Tablet Sig: [**12-2**] (one-half) q8 PO PRN pain * Celexa 40 mg PO once a day.
+12. guaifenesin 100 mg/5 mL Syrup Sig: Ten (10) ML PO every four (4) hours as needed for cough.
+Discharge Disposition: Extended Care  Facility: [**Hospital **] [**Hospital **] Nursing Home - [**Location (un) **]  Discharge Diagnosis: PRIMARY DIAGNOSIS: Abdominal pain Acute renal failure Constipation .
+SECONADRY DIAGNOSES: Hypoxia COPD Tracheomalacia Anemia GERD Gout Dementia Seizure disorder Prostate cancer Rib fractures   Discharge Condition: Mental Status: Clear and coherent.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Discharge Instructions: Mr. [**Known lastname **], you were admitted to the [**Hospital1 827**] because you had abdominal pain.
+You also have old rib fractures which can contribute to your pain.

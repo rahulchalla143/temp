@@ -1,0 +1,75 @@
+Admission Date:  [**2160-10-13**]              Discharge Date:   [**2160-10-24**]  Date of Birth:  [**2096-4-23**]             Sex:   M  Service: MEDICINE  Allergies: Penicillins / Nsaids / Rapamune  Attending:[**First Name3 (LF) 1666**] Chief Complaint: Complete Heart Block & Ventricular Tachycardia  Major Surgical or Invasive Procedure: s/p temporary pacemaker line removal s/p right PICC line placement (and removal) s/p left PICC line placement ([**2160-10-22**])   History of Present Illness: 64yo man w/ h/o multiple medical problems including [**Name (NI) 2320**], CAD, HepC/ETOH cirrhosis & HCC s/p orthotopic liver tx ('[**57**]) on prograf w/ post-transplant course complicated by renal insufficiency, tracheostomy, chronic colonization/infections w/ mult resistant organisms who was transferred from [**Location (un) 745**] [**Hospital 3714**] Hospital to [**Hospital1 18**] CCU for pacemaker/ICD placement.
+Pt initially presented to NWH on [**2159-10-13**] w/ & AV block in setting of hyperkalemia.
+Pt tx'd w/ RIJ temporary pacing wire at NWH, during which he developed Ventricular Tachycardia.
+Liver transfusion for Hepatitis C/EtOH cirrhosis & hepatocellular carcinoma, on tacrolimus followed by Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 497**].
+OSA/Pickwickian syndrome 5.
+COPD 6.
+Bipolar d/o 9.
+HTN 10.
+Hiatal hernia 12.
+Pulmonary hypertension  Social History: Quit tobacco 8 years ago.
+Family History: Non-contributory  Physical Exam: VS: T: 99.2 HR: 70 RR: 19 bp: 131/91 SpO2: 97% on ventilatory mask 0.35 FIO2 Gen: A&O*4, appears mildly distressed HEENT: PERRLA, EOMI, 2mm pupils Neck: trach, pacemaker insertion site C/D/I Heart: temp pacemaker set at HR 50/ 10mV, RRR Lung: coarse rhonchi louder on LLL than RLL Abd: soft, NT, ND Ext: 0.5cm pustule on distal lateral LLE surrounded by 1 cm erythematous border   Pertinent Results: Admission labs: [**2160-10-13**] 08:22PM URINE  COLOR-Straw APPEAR-Clear SP [**Last Name (un) 155**]-1.014 [**2160-10-13**] 08:22PM URINE  BLOOD-TR NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-NEG [**2160-10-13**] 08:22PM URINE  RBC-0-2 WBC-0-2 BACTERIA-RARE YEAST-NONE EPI-0-2 [**2160-10-13**] 08:21PM   GLUCOSE-272* UREA N-48* CREAT-2.0* SODIUM-143 POTASSIUM-4.7 CHLORIDE-101 TOTAL CO2-31 ANION GAP-16 [**2160-10-13**] 08:21PM   ALT(SGPT)-23 AST(SGOT)-20 ALK PHOS-106 TOT BILI-0.2 [**2160-10-13**] 08:21PM   ALBUMIN-3.2* CALCIUM-8.8 PHOSPHATE-4.2 MAGNESIUM-1.7 [**2160-10-13**] 08:21PM   WBC-4.8 RBC-3.03* HGB-8.8* HCT-24.7* MCV-82 MCH-29.0 MCHC-35.5* RDW-15.7* [**2160-10-13**] 08:21PM   PLT COUNT-175 [**2160-10-13**] 08:21PM   PT-12.5 PTT-25.8 INR(PT)-1.1 .
+CXR: [**2160-10-13**] FINDINGS: A temporary pacemaker lead has been placed via a left internal jugular approach and there is a defibrillator pad overlying the lower right hemithorax.
+There is more marked elevation of the left hemidiaphragm.
+IMPRESSION: Elevated left hemidiaphragm, with no evidence of acute cardiopulmonary process.
+There is mild symmetric left ventricular hypertrophy.
+Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded.
+The aortic root is moderately dilated.
+The aortic valve leaflets (3) are mildly thickened.
+No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Trivial mitral regurgitation is seen.
+There is borderline pulmonary artery systolic hypertension.
+There is a trivial/physiologic pericardial effusion.
+TEE [**2160-10-20**]: Conclusions: No atrial septal defect is seen by 2D or color Doppler.
+There are simple atheroma in the aortic arch.
+The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present.
+No masses or vegetations are seen on the aortic valve.
+Trace aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+No mass or vegetation is seen on the mitral valve.
+Trivial mitral regurgitation is seen.
+There is no pericardial effusion.
+IMPRESSION: No echocardiographic evidence of endocarditis or paravalvular abcess.
+ABD u/s: INDICATION: Liver transplant with LFT abnormalities.
+Incidental note is made of a small cyst in the right lobe of the liver.
+There is no evidence of biliary ductal dilatation.
+[**2160-10-24**] RIGHT LOWER EXTREMITY VENOUS ULTRASOUND: Using the linear probe, grayscale and color Doppler son[**Name (NI) 1417**] of the right common femoral, superficial femoral, and popliteal vessels were performed.
+There is no intraluminal thrombus.
+IMPRESSION: No evidence of DVT.
+Brief Hospital Course: A/P: 64 y.o male w/ h/o HCV cirrhosis s/p liver transplant, and several other comorbidities presents s/p complete heart block.
+#Paroxysmal AV Block: pt presented to OSH w/ AV block, possibly secondary to hyperkalemia, which is thought to be due to pt's FK506/tacrolimus.
+His temp line was eventually removed here as there were no further signs of AV block.
+Pt spiked temps, had (+) bld and line cx's--bld cx grew enterococcus and PICC line grew coag negative staph.
+Given these issues, plan made for pt to have permanent pacer placed after completion of 4wk course of antibiotics, followed by 2wks of monitoring for fever and blood cultures.
+If pt is fever free and has no further positive cultures during this period, he will go for pacemaker placement with Dr. [**Last Name (STitle) **] of [**Hospital1 18**].
+Pt had recurrent fevers during early part of hospital stay.
+Fevers thought to be due to bacteremia--bld cx's grew enterococcus (last (+) blood cx from [**10-14**]), which was sensitive to vanco.
+Source of enterococcus in blood not identified.
+Pt had no further positive blood cultures after those listed above.
+Pt did have pseudomonas in the sputum, which was treated for a period with cefepime.
+However, pt had little evidence of respiratory infection and the pseudomonas was thought to be colonizers, thus the cefepime was discontinued.
+Pt underwent TEE which was negative for endocarditis or paravalvular abscess.
+Given no clear source for enterococcal baceremia & plan for pacemaker in near future, ID recommended longer course of Abx--4 weeks total, starting from date of last positive blood culture [**2160-10-15**].
+It may be possible to change to ampicillin for treatment of enterococcal infection (since amp sensitive); however, this was not done as pt's right arm still emdematous & slightly erythematous from thrombophlebitis (from initial PICC line, which grew coag negative staph, resistant to oxacillin).
+Unfortunately, pt required increased dose of FK506 to keep FK level in target range, which led to frequent elevations in potassium.
+EKG's did not show changes associated with elevated K. .
+# Liver transplant: LFTs bumped [**10-18**], then resolved after discontinuation of fluconazole, which was thought to be the cause.
+No clear evidence of rejection.
+U/S unremarkable.
+# Anemia: pt has baseline anemia of chronic disease.
+Associated swelling & mild erythema.
+No abscess on U/S.
+# Chronic renal insufficiency: developed post-liver transplant.
+# Pain: due to basilic thrombophlebitis and rib pain from coughing.
+# Anxiety/Bipolar Depression: Pt treated w/ Ativan PRN for anxiety & zyprexa for bipolar.
+# H/o diastolic dysfunction: Pt stable throughout admission.
+Repeat echo (EF>65%) & mild LVH, trivial MR & TR.
+#Right leg pain: on morning of discharge, pt complained pain on right posterior thigh.
+However, given his risk for DVT, lower ext u/s was performed, which showed no evidence of DVT.
+Pain resolved w/ MSIR.
+# code status: FULL     Medications on Admission: Prograf 1 mg [**Hospital1 **] Bactrim DS one tablet per day Keflex 500mg PO q6H Diflucan 200mg PO daily Prednisone 5mg PO daily Norvasc 10 mg PO daily Protonix 40mg PO daily Olanzapine 2.5mg PO daily zinc sulfate 220 mg po daily sliding scale insulin PRN Heparin 5000 units subcutaneously TID Ativan 1mg PO q6H PRN Motrin 600mg PO PRN Hydromorphone 0.5-2mg IV q2H PRN Artificial tears Miconazole powder PRN   Discharge Medications: 1.
+Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs Inhalation Q6H (every 6 hours) as needed for SOB, wheeze.
+Sodium Polystyrene Sulfonate 15 g/60mL Suspension Sig: Two (2)  PO q2HR PRN hyperkalemia  for 1 doses.
+Discharge Disposition: Extended Care  Facility: [**Hospital3 105**] Northeast - [**Hospital1 **]  Discharge Diagnosis: Primary: Paroxysmal AV Block Hyperkalemia due to FK506 (tacrolimus) Enterococcal Bacteremia Coagulase negative staphyloccocal PICC infection Right Basilic vein thrombophlebitis .
+Secondary: Orthotopic Liver Transplant Diabetes (type II) tracheostomy Bipolar d/o Chronic Kidney Disease H/o VRE & MRSA   Discharge Condition: Good, afebrile x 7 days, cultures no growth since [**2160-10-15**], minimal activity, potassium 4.1 BUN 34 Crt 1.9   Discharge Instructions: You were admitted to the hospital with an irregular heart rhythm.

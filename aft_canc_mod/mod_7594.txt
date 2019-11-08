@@ -1,0 +1,52 @@
+Admission Date:  [**2185-1-11**]              Discharge Date:   [**2185-1-21**]  Date of Birth:  [**2122-12-5**]             Sex:   F  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 4611**] Chief Complaint: shortness of breath, failure to thrive  Major Surgical or Invasive Procedure: thoracentesis [**2185-1-11**]  History of Present Illness: Mrs [**Known lastname **] is a 62 year-old woman transfered from pulmonary clinic with complaint of SOB and failure to thrive at home.
+This admission identified a left pleural effusion and left hilar mass that underwent CT guided biopsy to reveal small cell lung cancer.
+In addition she complains of anorexia and reports taking very little by mouth.
+She underwent thoracentesis of left pleural effusion in the ED of 1600mL revealing protein of 2.7, LDH 93 and glucose of 101 with 560 WBCs and 185 RBCs.
+Patient denied additional complaints.
+Past Medical History: PAST ONCOLOGIC HISTORY: Pt presented to [**Hospital3 635**] ED 2 weeks ago at which point a left pleural effusion was identified with left hilar mass.
+CT biopsy revealed small cell lung CA.
+PAST MEDICAL HISTORY: Small Cell Lung Cancer diagnosed [**12-27**] at [**Hospital3 **] Hospital- s/p XRT/Chemo HTN Appendectomy  Social History: 20 pack year smoker, lives with her husband.
+Physical Exam: ON ADMISSION: Vitals - T:98.8 BP:132/72 HR:96 RR20: 02 sat:98% on 2L GENERAL: NAD, lying comfortably on bed with nasal canula SKIN: warm and well perfused, no excoriations or lesions, no rashes HEENT: AT/NC, EOMI, anicteric sclera, pale conjunctiva, patent nares, MMM, nontender supple neck, no LAD, no JVD.
+Of note pt with anisocoria R pupil > L by 2mm CARDIAC: RRR, S1/S2, no mrg LUNG: CTAB ABDOMEN: nondistended, +BS, nontender in all quadrants, no rebound/guarding, no hepatosplenomegaly M/S: moving all extremities well, no cyanosis, clubbing or edema, no obvious deformities PULSES: 2+ DP pulses bilaterally NEURO: 5/5 strength bilaterally throughout.
+AT DISCHARGE: vitals - AF Tc 98.6 104-130/60s 80s 20 99-100% 5L down to 95% on 2L HEENT: Corner of right mouth has large mucositis sore with erythematous base but appears to be healing Buttocks: erythematous mildly raw area noted exam otherwise unchanged.
+Extensive central adenopathy in the left hilus and in the mediastinum from the supraclavicular to the subcarinal stations.
+Left hilar adenopathy and adjacent upper lobe lung mass combine to severely narrow the left upper lobe bronchus, producing severe left upper lobe atelectasis.
+Coarse interstitial infiltration left lower lobe, probably combination of atelectasis and obstructed lymphatic drainage.
+Pneumonia is another possibility.
+Severe emphysema.
+Hyperexpansion and diminished vascularity in the superior segment of the right lower lobe could be due to tumor infiltration affecting the superior segment and basal trunk bronchi.
+Possible large left renal and hepatic masses.
+pleural fluid analysis [**1-11**]:   NEGATIVE FOR MALIGNANT CELLS.
+There is a poor R wave progression suggesting prior anteroseptal myocardial infarction.
+No previous tracing available for comparison.
+CXR [**2185-1-11**] IMPRESSION: Limited exam given no prior studies for comparison with large opacity obscuring the majority of the left lung which could be secondary to effusion and consolidation.
+Right effusion and basilar atelectasis with probable background emphysema.
+[**2185-1-12**] left lower extremity ultrasound: All of the deep veins of the left lower extremity from the groin to the popliteal fossa show normal and full compressibility.
+No evidence of DVT.
+RELEVANT LABS FOR HOSPITAL COURSE: CBC: [**2185-1-14**] 05:50AM BLOOD WBC-0.6*# RBC-3.24* Hgb-11.1* Hct-32.3* MCV-100* MCH-34.3* MCHC-34.4 RDW-13.6 Plt Ct-66* [**2185-1-19**] 06:00AM BLOOD WBC-1.6*# RBC-2.88* Hgb-9.8* Hct-28.8* MCV-100* MCH-34.0* MCHC-34.1 RDW-13.5 Plt Ct-90* [**2185-1-21**] 06:56AM BLOOD WBC-11.3*# RBC-3.03* Hgb-10.2* Hct-29.6* MCV-98 MCH-33.8* MCHC-34.6 RDW-13.6 Plt Ct-124* DIFFERENTIALS: [**2185-1-13**] 05:15AM BLOOD Neuts-40.5* Lymphs-53.0* Monos-3.4 Eos-2.4 Baso-0.7 [**2185-1-15**] 06:20AM BLOOD Neuts-11.0* Bands-0 Lymphs-85.0* Monos-2.0 Eos-1.3 Baso-0.8 ANC: [**2185-1-16**] 06:15AM BLOOD Gran Ct-50* [**2185-1-18**] 06:15AM BLOOD Gran Ct-50* [**2185-1-20**] 06:45AM BLOOD Gran Ct-4290 [**2185-1-21**] 06:56AM BLOOD Gran Ct-8470* CHEMISTRY: [**2185-1-20**] 06:45AM BLOOD Glucose-91 UreaN-14 Creat-0.7 Na-136 K-3.2* Cl-96 HCO3-34* AnGap-9 [**2185-1-21**] 06:56AM BLOOD Glucose-84 UreaN-11 Creat-0.8 Na-135 K-3.4 Cl-93* HCO3-36* AnGap-9  Brief Hospital Course: 62 y/o F with recent dx of SCLC presenting [**1-11**] with SOB/FTT, MICU stay for hypoxia requiring bipap resolved with thoracentesis.
+#Respiratory distress - On admission pt found to be hypoxic in high 80s on RA, found with left pleural effusion in the setting of recent diagnosis of small cell lung cancer, see below.
+Cefepime/cipro/vanc started for CAP, but stopped [**1-12**] and the pt was afebrile since.
+# Small cell lung cancer - 20 pack year smoker now with recent diagnosis of SCLC.
+Pt diagnosed [**2184-12-27**] at [**Hospital3 **] hospital, thought to have pneumonia originally.
+# neutropenia - pt s/p carpoplatin etoposide last dose [**2185-1-7**] at [**Hospital3 **] hospital.
+Pt was started on cefepime as there had been concern for post-obstructive pneumonia in the MICU and now severely neutropenic with a distant and prolonged nadir.
+Cefepime  #Anorexia - Pt had c/o dysphagia, yeast found in sputum likely thrush and she was started on fluc for oral candidiasis.
+Tried megace to stimulate appetite, sent pt home with marinol as pt is extremely cachectic.
+#mucositis - in setting neutropenia pt developed severe mucositis and extremely decreased PO intake, see anorexia above.
+#hypokalemic metabolic alkalosis - c/f ATCH release from neoplasm as this is the 2nd most common syndrome in SCLC after SIADH.
+However in the setting of diuretics (pt on HCTZ) it was difficult to asses.
+Pt also thought to have contraction alkalosis from dehydration.
+#dysphagia/anorexia - pt p/w complaints of dysphagia/FTT.
+- continue fluconazole (D#1 [**2185-1-11**] for 7-14d course pending symptom relief) - consider megace or remeron if anorexia persists .
+#insomnia - continue outpatient trazodone, Increased it to 25-50mg prn insomnia.
+HTN - Continued HCTZ inpatient.
+DISCHARGE MEDS FROM CCH [**2185-1-1**]: - Albuterol Nebulizer - Levaquin 750mg daily for 4 days - Nicotine Patch - Oxygen 2 liters around the clock - Protonix 40mg daily - Senokot 2 tabs HS - Trazodone 25mg daily prn - Atenolol 100mg daily - Ultram 25mg q6h prn   Discharge Medications: 1. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: One (1) puff Inhalation QID:PRN as needed for shortness of breath or wheezing.
+Disp:*30 Tablet(s)* Refills:*0* 5. lorazepam 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily) as needed for nausea or anxiety.
+Disp:*800 ML(s)* Refills:*0* 11. oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q4H (every 4 hours) as needed for pain for 5 days: DO NOT DRIVE WHILE TAKING THIS MEDICATION.
+Disp:*90 Tablet(s)* Refills:*0* 13. lidocaine HCl 2 % Solution Sig: One (1) ML Mucous membrane TID (3 times a day) as needed for sore throat.
+Disp:*60 Capsule(s)* Refills:*0* 16. senna 8.6 mg Tablet Sig: One (1) Tablet PO DAILY (Daily) as needed for constipation.
+Disp:*30 packets* Refills:*0*   Discharge Disposition: Home With Service  Facility: [**Hospital **] Medical Supply  Discharge Diagnosis: PRIMARY pleural effusions small cell lung cancer Mucositis Neutropenia  SECONDARY: hypertension   Discharge Condition: Mental Status: Clear and coherent.
+You were admitted with shortness of breath and low oxygen, and found to have fluid in your lungs.
+This fluid was drained, and you went to the ICU to have some breathing support for a short period of time.
+As is to be expected after receiving chemotherapy, your white blood cell counts dropped very low.
+We made the following CHANGES to your medications: STOPPED your atenolol, instead we STARTED metoprolol for blood pressure (take metoprolol, do not take atenolol) STARTED albuterol inhaler for wheezing or shortness of breath INCREASED your trazodone for sleep from 25mg nightly to 25-50mg nightly (in other words take one half or one whole pill depending on how much you need) STARTED oxycodone for pain STARTED caphasol for mouth dryness STARTED tylenol as needed for pain STARTED dronabinol for appetite STARTED lidocaine mouthwash for sore throat STARTED fluconazole (take for 5 more days) STARTED potassium supplements STARTED oxycodone for pain related to mouth sore STARTED senna and docusate, two medications for constipation  Followup Instructions: you will follow up with your oncologist at [**Hospital3 635**] hospital to continue with treatment.

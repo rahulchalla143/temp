@@ -1,0 +1,46 @@
+Admission Date:  [**2199-10-20**]              Discharge Date:   [**2199-10-23**]  Date of Birth:  [**2135-3-22**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 2186**] Chief Complaint: cough  Major Surgical or Invasive Procedure: PICC line placement   History of Present Illness: Mr. [**Known lastname **] is 64-year-old man with liver cirrhosis [**1-19**] NASH, DM, HTN, CHF EF 40%, CAD, Sizure disorder who p/w cough.
+Per report from his nursing home, he has had cough, low grade fever x 3 days.
+Today, he had an episode of likely aspiration while using mouth wash, had a coughing fit and during this episode desat'ed to 80's.
+They state that he has had a ratteling cough for several days but has not appeared unwell.
+They also note that he has normally waxing and [**Doctor Last Name 688**] mental status, that he is not "chatty" normally and that his mental status appears to be at baseline.
+EKG unchanged, trop 0.06.CXR was noted to have hazy RLL and LLL.
+Seizure disorder with history of status epilepticus with recent admission for recurrent seizures & 2 prior admission in [**2197**] & [**2199-1-18**] for status requiring intubation.
+CHF with ejection fraction of 40% on an echo in [**2198-7-18**].
+Coronary artery disease status post cardiac catheterization in [**2187**] w/o stenting.
+History of upper GI bleed status post tips in [**2197**].
+Stage IV sacral decubitus ulcer.
+HEENT: NC/AT, PERRL, EOMI without nystagmus, no scleral icterus noted, MMM, no lesions noted in OP Neck: supple, no JVD or carotid bruits appreciated Pulmonary: Lungs CTA bilaterally Cardiac: RRR, nl.
+S1S2, no M/R/G noted Abdomen: soft, NT/ND, normoactive bowel sounds, no masses or organomegaly noted.
+CHEST (PORTABLE AP) Study Date of [**2199-10-20**] Formal report pending, but right upper and lower lobe consolidations present.
+Brief Hospital Course: 64 year-old man with cirrhosis, type 2 diabetes, coronary artery disease, hypertension, congestive heart failure with EF 40%, and seizure disorder presenting with cough, fevers, and consolidations on chest x-ray consistent with pneumonia.
+Pneumonia: Chest x-ray from admission showed right middle and lower lobe consolidations.
+He was started on vancomycin and ampicillin-sulbactam to complete a two-week course for hospital-acquired versus aspiration pneumonia.
+Hypernatremia: Asymptomatic and due to free water depletion.
+Question urinary tract infection from nursing home: The patient was on nitrofurantoin on admission, and it is unclear whether this was for treatment or prophylaxis of urinary tract infection.
+He can restart nitrofurantoin if this was being given for prophylaxis when the course of vancomycin and unasyn is complete.
+He was treated for pneumonia as above.
+He is not [**Month/Day/Year **] candidate currently due to his multiple comorbiditis.
+Chronic systolic congestive heart failure: EF is 40%.
+The patient was hypovolemic on admission and lasix was held.
+Seizure disorder:  No active issues.
+There was initial confusion regarding his dose of keppra, and the patient was initially given 2250 mg on admission, however, this was subsequently changed to his home dose of 500 mg twice daily.
+Type 2 diabetes: No active issues.
+Coronary artery disease: No active issues.
+He is not on aspirin or statin at baseline, likely due to his liver disease, and this can be readdressed as an outpatient.
+His laboratories should be checked after resolution of this acute illness and his dose of levothyroxine adjusted accordingly.
+His pancytopenia is believed secondary to liver disease.
+Tramadol 50 mg Tablet [**Month/Day (2) **]: One (1) Tablet PO three times a day: hold for oversedation and confusion.
+Heparin, Porcine (PF) 10 unit/mL Syringe [**Month/Day (2) **]: One (1) ML Intravenous PRN (as needed) as needed for line flush.
+Discharge Disposition: Extended Care  Facility: [**First Name4 (NamePattern1) 1820**] [**Last Name (NamePattern1) 731**]  Discharge Diagnosis: Primary diagnoses: Pneumonia (hospital acquired versus.
+aspiration) Hypernatremia Delirium  Secondary diagnoses: 1.
+Seizure disorder with history of status epilepticus with recent admission for recurrent seizures & two prior admission in  [**2197**] & [**2199-1-18**] for status requiring intubation.
+Diabetes - insulin dependent 4.
+Hypothyroidism 5.
+Hypertension 6.
+Congestive heart failure with ejection fraction of 40% on an echo in [**2198-7-18**] 7.
+Coronary artery disease status post cardiac catheterization in [**2187**] w/o stenting 8.
+History of upper GI bleed status post tips in [**2197**] 9.
+Stage IV sacral decubitus ulcer   Discharge Condition: Afebrile, vital signs stable   Discharge Instructions: Dear Mr. [**Known lastname **],  You were transferred to the hospital with fevers and a cough.
+You were found to have a pneumonia and PICC line was placed in your arm so that you can complete a two week course of antibiotics (12 more days).
+You were also noted to have high levels of sodium in your blood, and this is probably because you were not getting enough water in your diet.
+If you develop increased difficulty breathing or any other symptoms which seriously concerns you, please return to the hospital.

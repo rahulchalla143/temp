@@ -1,0 +1,52 @@
+Admission Date:  [**2194-11-25**]              Discharge Date:   [**2194-12-1**]  Date of Birth:  [**2131-8-11**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 896**] Chief Complaint: Shortness of Breath Fatigue  Major Surgical or Invasive Procedure: Endotracheal Intubation   History of Present Illness: 63 year-old man with a history of obesity, longstanding hypertension, diastolic heart failure with preserved LVEF, anemia, mild chronic kidney disease, hyperparathyroidism, and MGUS who has felt sick for 1 week with shortness of breath.
+He also was experiencing dyspnea on exertion, paroxysmal nocturnal dyspnea and orthopnea.
+He also noted chills and cough productive of white yellow sputum and decreased energy.
+He was unable to assess his ankle swelling and does not check his weight.
+He had been admitted for CHF in [**2190**], otherwise his CHF had been relatively well controlled on his home medication.
+He appeared fluid overloaded but had SBP 90-100, so the ED gave 500 cc bolus and then Lasix 60mg IV.
+He had a CXR which showed no acute process.
+On review of systems, he has had a history fo bleeding at time of surgery, but denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, joint pains,hemoptysis, black stools or red stools.
+He denies recent fevers or rigors.
+He denies exertional buttock or calf pain.
+Cardiac review of systems is notable for absence of chest pain, orthopnea, palpitations, syncope or presyncope.
+OTHER PAST MEDICAL HISTORY: MGUS Acquired [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] Disease H/O RESPIRATORY FAILURE H/O RT HEART FAILURE Diastolic dysfunction.
+H/O MORBID OBESITY RENAL INSUFFICIENCY FACTOR VIII DEFICIENCY ERECTILE DIFFICULTY MONOCLONAL GAMMOPATHY HYPERTENSION IRON DEFICIENCY ANEMIA h/o ugi bleed from AV malformation seen on endoscopy 08.
+Family History: Significant for cancer and sickle cell trait  Physical Exam: VS: 100.2  96/55  70  20  92/RA GENERAL: Obese man, mildly uncomfortable.
+Sclera anicteric.
+Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.
+No xanthalesma.
+NECK: JVP hard to assess CARDIAC: Distant heart sounds.
+No thrills, lifts.
+LUNGS: Shallow breaths, minimal breath sounds.
+No HSM or tenderness.
+No abdominial bruits.
+No femoral bruits.
+There are low lung volumes resulting in vascular crowding.
+There is no focal consolidation, effusion, or pneumothorax.
+The heart is slightly enlarged.
+No free air is seen below the right hemidiaphragm.
+IMPRESSION: No acute intrathoracic process.
+Heterogeneous opacification in the left lower lung could be pneumonia.
+There is no pulmonary edema.
+Pleural effusion on the left is likely, small-to-moderate.
+No pneumothorax.
+There is mild vascular congestion.
+There is no pneumothorax or pleural effusion.
+Atelectasis in the right upper lobe and left lower lobe has resolved.
+Brief Hospital Course: Mr. [**Known lastname 99999**] was a 63 year-old man with multiple medical problems including obesity, diastolic congestive heart failure, CRI, vWD ([**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] disease) who presented after a week of increased fatigue and shrotness of breath.
+# Dyspnea: Mr. [**Known lastname 99999**] was admitted to the cardiology service for presumed decompensated congestive heart failure.
+Soon after admission, he became obtunded and was found to be in hypercarbic respiratory failure with a pCO2 of 111.
+A chest X-ray obtained post intubation was concerning for pneumonia and he was started on ceftriaxone and azithromycin on hospital day 2 ([**11-26**].)
+Attempts to wean him from the ventilator initially failed secondary to hypoventilation.
+He was subsequently transfered to the general medicine floor where he did well though he continued to have desaturations.
+He was also provided a trial of CPAP overnight to treat his suspected obstructive sleep apnea.
+In review of his medical record on the 6th hospital day, it was determined that Mr. [**Known lastname 99999**] had evidence of pneumonia prior to intubation and therefore did not need continued treatment with vancomycin and it was discontinued.
+He remained afebrile on the medicine floor and was evaluated by the physical therapy service.
+# Acute on chronic renal failure: Mr. [**Known lastname 99999**] had a baseline creatinine of 1.6.
+# Obesity Hypoventilation: Mr. [**Known lastname 99999**] was morbidly obese with chest wall compliance limited secondary to body habitus.
+# Chronic Diastolic Heart Failure: His right sided heart failure likely contributes to his respiratory dysfunction.
+He has mild pulmonary hypertension on echocardiogram from 3/[**2194**].
+# VWD: Continued on home dose of aminocaproic acid  Medications on Admission: aminocaproic acid [AMICAR]as needed for uncontrolled bleeding carvedilol 25 mg Tablet [**Hospital1 **] furosemide 40 mg Tablet daily lisinopril 10 mg Tablet daily sildenafil 100 mg Tablet 1/4-1 tab daily as needed B complex vitamins [B Complex] 1 capsule daily Calcium 600 + D(3) 600 mg (1,500 mg)-200 unit [**Unit Number **] tab daily.
+Target SpO2 above 90%   Discharge Disposition: Home With Service  Facility: [**Location (un) 86**] VNA  Discharge Diagnosis: Pneumonia Hypercarbic Respiratory Failure   Discharge Condition: Mental Status: Clear and coherent.
+Discharge Instructions: You were admitted to the hospital for shortness of breath and fatigue.
+You were found to have a pneumonia and received antibiotics that helped your breathing.

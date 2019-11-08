@@ -1,0 +1,82 @@
+Admission Date:  [**2157-1-19**]              Discharge Date:   [**2157-2-16**]  Date of Birth:  [**2073-4-5**]             Sex:   M  Service: MEDICINE  Allergies: Penicillins / Bactrim  Attending:[**First Name3 (LF) 898**] Chief Complaint: Transfer from [**First Name4 (NamePattern1) 2299**] [**Last Name (NamePattern1) **] NH for hypotension and hypoxia  Major Surgical or Invasive Procedure: none   History of Present Illness: Mr. [**Known lastname 1683**] is an 83 YOM with dementia, Type 2 Diabetes Mellitus, bladder cancer s/p resection and BCG treatment, and recently discharged for UTI who was at his nursing home yestderday when found to be having chills and lower extremity numbness.
+His vitals were taken and was found to be afebrile 95.7, hypotensive (79/57), tachycardic (120) and hypoxic (O2SAT: 81% on RA).
+Per records he did not have any mental status changes.
+Of note, OSH records from Mr [**Known lastname 1683**] previous D/C summary in OMR report he has had multiple recent UTIs over the past few months including multi drug resistent enterobacter on [**2156-12-12**], Proteus on [**2156-12-20**], as well as Klebsiella in [**Month (only) 359**].
+Mr. [**Known lastname 1683**] was recently discharged from [**Hospital1 **] on [**2156-12-31**] for UTI with pseudomonas resistent to cipro.
+This admission was complicated by delirium and LE DVT for which an IVC filter was placed due to concurrent hematuria.
+On [**2157-1-18**] (the day prior to admission) he presented to the ED b/c of hematuria and passage of clots.
+He was seen by urology and foley irrigation was performed and he was sent out on Levofloxacin with plans to undergo cystoscopy with bladder biopsies and possible resection of TURBT as an outpatient.
+However, the following day he had his hypotensive event described above and was sent to the ED.
+CXR showed no acute pulmonary process.
+He was given vanc and meropenem and, had an IJ placed, 6 L fluid, and foley showed gross hematuria.
+He was transfered to the MICU with concern for urosepsis where his pressure stabilized and he did not require pressors.
+ROS: Difficult to understand pt, unsure if from dementia or adentulous.
+Dementia 4.
+Type 2 Diabetes Mellitus 5.
+Bladder Cancer - s/p transurethral resection in [**7-31**] - completed [**3-29**] BCG treatment (missed treatment 5 [**1-25**] UTI) 8. s/p Stab Wounds 9. h/o RPR - treated in [**2119**] 10. s/p Penile Implant 11.
+Osteoarthritis  Social History: Per previous records, patient could not complete full history with me due to his delirium and dementia.
+Home: lives in [**Location 4367**] [**Hospital3 400**] Facility Occupation: retired long-distance truck driver EtOH: remote history of social alcohol use; denies EtOH in > 45 years Tobacco: remote history of 1 PPD smoking history, could not tell me when he quit Drugs: denies   Family History: Could not complete due to patient's dementia.
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops Abdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly Ext: 2+ pitting edema in left LE and 1+ on right, chronic venous stasis changes to skin of both LEs; DPs difficult to palpate, but feet are warm Neuro: CN grossly intact.
+Responded to questions, but difficult to make out his answers, mildly agitated, not really holding coherent conversation.
+Pertinent Results: LABS ON ADMISSION:  [**2157-1-18**] 10:00AM BLOOD WBC-11.7* RBC-4.20* Hgb-10.4* Hct-32.8* MCV-78* MCH-24.8* MCHC-31.7 RDW-14.7 Plt Ct-257 [**2157-1-18**] 10:00AM BLOOD Neuts-82.9* Lymphs-11.6* Monos-4.7 Eos-0.4 Baso-0.3 [**2157-1-18**] 10:00AM BLOOD PT-14.4* PTT-26.4 INR(PT)-1.2* [**2157-1-18**] 10:00AM BLOOD Glucose-138* UreaN-33* Creat-1.3* Na-144 K-3.9 Cl-100 HCO3-30 AnGap-18 [**2157-1-19**] 05:25PM BLOOD ALT-17 AST-16 LD(LDH)-268* AlkPhos-76 TotBili-0.3 [**2157-1-19**] 05:25PM BLOOD Lipase-68* [**2157-1-19**] 05:25PM BLOOD cTropnT-<0.01 [**2157-1-19**] 07:43PM BLOOD Hgb-8.4* calcHCT-25 O2 Sat-91 [**2157-1-19**] 08:48PM BLOOD Glucose-133* Lactate-1.2 [**2157-1-19**] 05:22PM BLOOD Lactate-6.0* K-5.0  LABS ON DISCHARGE: [**2157-2-14**] 05:53AM BLOOD WBC-6.6 RBC-3.38* Hgb-7.9* Hct-26.0* MCV-77* MCH-23.2* MCHC-30.2* RDW-18.1* Plt Ct-423 [**2157-2-15**] 06:56AM BLOOD WBC-8.0 RBC-3.57* Hgb-8.2* Hct-27.5* MCV-77* MCH-23.0* MCHC-29.8* RDW-17.5* Plt Ct-421 [**2157-2-15**] 06:56AM BLOOD Glucose-141* UreaN-12 Creat-0.6 Na-136 K-4.5 Cl-99 HCO3-29 AnGap-13 [**2157-2-15**] 06:56AM BLOOD Calcium-9.0 Phos-3.0 Mg-1.6 [**2157-2-16**] 05:43AM BLOOD WBC-7.6 RBC-3.50* Hgb-8.2* Hct-26.6* MCV-76* MCH-23.5* MCHC-30.9* RDW-18.0* Plt Ct-495* [**2157-2-16**] 05:43AM BLOOD Glucose-144* UreaN-11 Creat-0.6 Na-134 K-4.3 Cl-97 HCO3-30 AnGap-11 [**2157-2-16**] 05:43AM BLOOD Calcium-9.1 Phos-2.9 Mg-1.8 ******** CXR [**2157-1-20**]: FINDINGS: Lung volumes are markedly diminished with resultant bronchovascular reorientation at the lung bases.
+No consolidation or edema is evident.
+Tortuosity of the thoracic aorta is slightly accentuated due to the low lung volumes.
+Similarly, cardiac size is mildly accentuated, but remains overall within normal limits.
+No definite effusion or pneumothorax is seen.
+Extensive degenerative changes are again seen throughout the thoracic spine.
+There are multiple bilateral rib deformities, presumably due to remote trauma, relatively stable when compared to the prior exam.
+IMPRESSION: Markedly low lung volumes with no acute pulmonary process identified.
+No stones, hydronephrosis or solid mass is identified.
+No perinephric fluid collection is identified.
+Limited views of bladder reveal Foley catheter, with the bladder decompressed.
+There is a heterogeneous 6.7 cm mass in the bladder with vascular waveforms obtained, compatible with the patient's known bladder mass.
+No evidence of hydronephrosis.
+No evidence of perinephric abscess or fluid.
+There is questionable new small focal opacity at the mid portion of the left lung that might represent subpleural atelectasis/nodule seen on the chest CT from [**2157-1-29**], with no new consolidations demonstrated.
+The known pulmonary nodules are partially imaged on the current study due to the suboptimal sensitivity of this portable chest radiograph.
+CT CHEST WITHOUT IV CONTRAST: There are numerous pulmonary nodules throughout all lobes of the lungs consistent with metastatic disease, presumably from the patient's known bladder cancer unless there is an additional unknown primary neoplasm.
+There is no significant pleural effusion.
+There is bilateral mild subsegmental dependent atelectasis.
+There is no mediastinal lymphadenopathy.
+There are numerous coronary artery calcifications, as well as calcification of the aortic arch.
+A right upper extremity PICC terminates with the catheter tip in the lower SVC.
+Small hiatal hernia is present.
+Osseous structures demonstrate numerous left-sided chronic rib fractures at T1-9 as well as right-sided rib fractures at T1-6.
+No suspicious lytic or sclerotic lesions are seen.
+There is mild degenerative change of the thoracic spine.
+Innumerable bilateral pulmonary nodules consistent with metastatic disease.
+No mediastinal lymphadenopathy.
+Chronic rib fractures bilaterally.
+Renal hypodensities most consistent with cysts, better demonstrated on prior studies.
+Brief Hospital Course: 83yo gentleman with h/o bladder cancer, recurrent UTIs, and dementia called out from the MICU for continuing treatment of urosepsis.
+No other clear source of infection as he did not have infiltrate on CXR, no cough, no abdominal pain, BCx NGTD, and no lines on admission.
+Recurrent UTI's likely [**1-25**] bladder cancer and urinary retention.
+# Bladder cancer, hematuria:  Urology took for cystoscopy-> 7cm tumor, unable to resect via scope.
+CT to assess for invasion/ lymph node involvement-> no clear evid of invasion or LN involvement however mult lung nodules concerning for metastatic disease.
+Given massive DVT and need for anticoagulation, discussion had with family/urology/ radiation oncology about possible palliative procedures to stop hematuria and allow for anticoagulation.
+Patient underwent palliative radiation in attempt to control hematuria so that he could have anticoagulation given his large lower extremity DVT as below.
+# DVT: h/o PE [**1-25**] DVT with IVC in place not anticoagulated due to history of hematuria.
+CT scan done for staging as above showed DVT extended up to DVT filter.
+Given that he bled enough to require multiple transfusions during this admission, it was ultimately felt that anticoagulation should be held with the decision to re-start deferred to the outpatient setting.
+# Low grade fevers:  Following treatment with meropenem for urosepsis as above, patient developed recurrent low grade fevers.
+No clear source.
+UCx, BCx, and CXR negative for infection.
+In the end, thought likely due to DVT.
+# Delirium : Continued on aricept.
+Iron studies were consistent with underlying anemia of chronic disease.
+He was transfused a total of 5 units of PRBCs during this admission given blood loss from his friable bladder tumor.
+# Hypernatremia, Mild, Asymptomatic: likely [**1-25**] poor PO water intake.
+# Type 2 DM: controlled with ISS in house.
+Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed for fever or pain.
+Polyvinyl Alcohol 1.4 % Drops Sig: 1-2 Drops Ophthalmic PRN (as needed) as needed for dryness.
+Polyethylene Glycol 3350 17 gram/dose Powder Sig: One (1) packet PO DAILY (Daily) as needed for constipation.
+Bladder Cancer 3.
+Deep venous thrombosis SECONDARY: 1.
+Dementia / deliriium 2.
+Type 2 Diabetes Mellitus 3.
+Hypertension, but not on antihypertensives   Discharge Condition: Mental Status:Confused - always Level of Consciousness: Lethargic but arousable Activity Status: Bedbound   Discharge Instructions: It was a pleasure taking care of you during your admission at [**Hospital1 69**].
+You were admitted for a urinary tract infection.
+You had a catheter in your bladder for some time, but we took this out and you were able to urinate on your own.
+You have a previous diagnosis of left lower leg blood clot.
+We were unable to give you anticoagulant medications for this as you continued to have significant blood in your urine, requiring blood transfusion, after receiving these.
+Please continue, start, or stop your medications as below:  - Continue Citalopram 20 mg daily - Continue Donepezil 5 mg daily - Continue Famotidine 20 mg twice daily - Continue polyethylene glycol for constipation as needed - Continue Senna for constipation prevention - Continue Vitamin D 800 units daily - Stop Fexofenadine - Continue Colace 100 mg twice daily - Continue Tylenol as needed for pain/fever as written - Continue using Humalog Insulin as needed with a sliding scale at meal times and bedtime as taken prior to this admission - Stop Lasix; discuss re-starting this medication as an outpatient.

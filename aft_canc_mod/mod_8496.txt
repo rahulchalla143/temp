@@ -1,0 +1,23 @@
+Admission Date:  [**2133-5-31**]              Discharge Date:   [**2133-6-3**]  Date of Birth:  [**2071-5-26**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 2297**] Chief Complaint: Liver hematoma  Major Surgical or Invasive Procedure: Left hepatic artery embolization  History of Present Illness: Mr. [**Known lastname 35507**] is a 62yo male with PMH significant for hemophilia A, HCC, HIV who is being transferred to the MICU for management of hemoperitoneum.
+Per patient's wife, since being discharged from the hospital on [**Month/Day (2) 2974**] he has been more tired but did not have any abdominal pain until the morning.
+He woke up this morning with severe abdominal pain.
+His wife also noted blood in the toilet after he had a bowel movement.
+CT scan w/o contrast showed a hyperdensity within the left lobe of the liver concerning for hemmorage from his underlying malignancy.
+He was immediately taken to IR for possible embolization of the bleeding vessel.
+No bleeding vessel was found and the patient was then transferred to the MICU for further monitoring.
+Past Medical History: 1) Hemophilia A - followed by Dr [**Last Name (STitle) 13933**], Drs [**Last Name (STitle) 2805**] and [**Name5 (PTitle) **] - arthropathy in elbows, ankles, neck, on Ms Contin - s/p multiple b/l knee replacements 2) HIV/AIDS - followed by Dr [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 6164**] at [**Hospital1 778**] ([**Telephone/Fax (1) 46100**] - [**9-5**]: CD4% 9, CD4:221; CD8% 60, CD8:1412, CD4/CD8 0.2 3) HCV genotype II and IV - followed by Dr [**Last Name (STitle) **]; relapsed [**9-3**] s/p peg interferon and ribavirin for 48 weeks ([**Date range (1) 101752**]).
+- EGD [**12/2131**]: Varices at the lower third of the esophagus.
+Mild  duodenitis.
+Family History: Significant for hemophilia in brother (d of AIDS [**2110**]), other relatives.
+[**Name (NI) **] and [**Name2 (NI) **] d. MVA, Fa w/ vascular dementia d. age 88.
+Physical Exam: vitals T 95.5 BP 126/63 AR RR 15 O2 sat 95% on 3L NC Gen: Patient sleeping but arousable to voice, ashen appearing HEENT: MMM Heart: Sinus tachycardia, no audible m,r,g Lungs: Poor air movement at the bases Abdomen: Distended, tenderness in RUQ, mild guarding but no rebounding Extremities: Cachectic appearing Neuro: +asterexis  Brief Hospital Course: Mr. [**Known lastname 35507**] is a 62yo male with HIV, HCC, and HCV who presents with worsening abdominal pain and found to be bleeding into his liver.
+1)Liver hematoma: Patient presented to emergency room with severe abdominal pain.
+Embolization was attempted on day of admission but no bleeding vessel was found.
+He required multiple transfusions of pRBCs and FFP with mild improvement.
+3)Lactic acidosis: Patient presents with anion gap metabolic acidosis.
+He has component of renal insufficiency as well as bleeding into the liver with worseing liver function also likely contributing.
+He also has portal vein thrombus which may be causing some ischemia to the liver.
+4)Acute renal failure: Patient presents with Cr~1.8 on admission; elevated from baseline of 0.8.
+No history of hepatorenal syndrome.
+Most likely prerenal etiology in light of underlying bleeding and poor PO intake.
+His Cr increased significantly to 2.1 on day of expiration, likely due to significant blood loss and poor perfusion.

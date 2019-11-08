@@ -1,0 +1,48 @@
+Admission Date:  [**2151-2-26**]              Discharge Date:   [**2151-3-6**]  Date of Birth:  [**2088-9-16**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**Last Name (NamePattern1) 4377**] Chief Complaint: neck swelling  Major Surgical or Invasive Procedure: Fiberoptic intubation   History of Present Illness: Ms. [**Known lastname **] is a 62 year old female with a h/o of DVT on coumadin and multiple myeloma with amyloid s/p allo-transplant in [**2143**] in remission until recent evidence of slow disease progression, who presents with chief complaint of pain with swallowing since yesterday evening, accompanied by hoarse voice.
+She denies any difficulty breathing.
+She states that she is able to swallow liquids with some difficulty but is unable to swallow solids.
+Onset of symptoms was yesterday evening with sudden onset of neck swelling, preceded by a sore throat which has since resolved.
+She states that the episode of neck swelling may have been preceded by some coughing, but otherwise is unable to identify a trigger for her symptoms.
+She has had two prior episodes of epiglottitis/supraglottitis in [**2145**] and [**2149**] requiring intubation.
+On arrival to the ED, her VS were: T98.9, HR 103, BP 134/71, RR 12, and SpO2 95% on RA with no evidence of respiratory distress.
+She was scoped by ED resident and epiglottis was visualized; reported as non-inflamed, non-beefy, and non-exudative.
+ROS: She currently has no problems voiding.
+She has also had hematuria since yesterday morning.
+Past Medical History: 1) Multiple myeloma stage III with amyloidosis dx'd in [**2142**], s/p melphalan, vincristine, adria and prednisone and then vincristine, doxorubicin and dexa, with recurrence followed by auto BMT and then mini-allo-BMT in 99 and again with recurrence had donor lymphocyte infusion from brother in [**2145**] 2) Osteopenia s/p zometa infusions 3) HTN 4) Bladder/tongue amyloid 5) DVT [**2142**] L IJ, L sup femoral, L popliteal 6) s/p tonsillectomy 7) Supraglottitis x 2 8) Hx of disseminated herpes in [**2146**] 9) Urge incontinence  Social History: She is married and lives in [**Location 3786**], 2 children, one grandson.
+No masses or palpable lymphadenopathy.
+No carotid bruits on auscultation.
+No suprapubic or flank pain.
+Skin: Multiple papular lesions with hyperpigmentation over lower back and abdomen with satellite lesions extending over similar areas as well as inner left thigh.
+Pertinent Results: 62 F with multiple myeloma with amyloid s/p allo-transplant [**2143**], received donor lymphocyte infusion [**2151-2-5**], Coumadin on DVT, here with supraglottitis and elevated INR.
+1) Supraglottitis: CT neck without contrast showed a large phlegmon with 80 percent supraglottal narrowing and edema, aretinoid edema.
+She was given decadron, PPI, unasyn for epiglottitis, IVIG to help with infections because of her acquired hypogammaglobulinemia from multiple myeloma.
+ENT emergently assessed the patient following admission and found her to have significant supraglottic edema, edematous aretinoids, with low threshold for additional swelling.
+CT neck on [**3-1**] showed improvement in swelling but still unsafe to extubate.
+Per ENT recommendations, she was treated with decadron, IV diphenhydramine, and IV ranitidine as empiric therapy for allergic angioedema.
+Continue to monitor respiratory status.
+Infectious causes of supraglottitis possible, as are non-infectious causes in this BMT patient such as post-transplant lymphoproliferative disorder and graft-versus host disease.
+C1 esterase deficiency also possible.
+4) Hematuria: Urology consulted and felt her hematuria to be possibly c/w urinary obstructive symptoms, likely secondary to elevated INR.
+Renal US was negative for hydronephrosis or any abnormality identified within the kidneys.
+Hematuria now resolved.
+7) PPX: H2 blocker, bowel regimen   Brief Hospital Course: 62 F with multiple myeloma with amyloid s/p allo-transplant [**2143**], received donor lymphocyte infusion [**2151-2-5**], Coumadin on DVT, p/w with supraglottitis and elevated INR.
+On arrival to the floor, her primary complaint was difficulty swallowing and "gurgly" voice since last night.
+She denied any difficulty breathing.
+CT of her neck performed on the evening of admission revealed a large phlegmon with supraglottal narrowing and edema, aretinoid edema.
+She received a transfusion of IVIG given her hypoglobulinemia secondary to multiple myeloma.
+ENT emergently assessed the patient following admission and found her to have significant supraglottic edema, edematous aretinoids, with low threshold for additional swelling.
+CT neck on [**3-1**] showed improvement in swelling but still felt to be unsafe to extubate.
+Ultimately, patient self-extubated again on [**3-2**] and at that point it was felt safe to monitor expectantly without reintubation.
+Infectious causes of supraglottitis possible, as are non-infectious causes in this BMT patient such as post-transplant lymphoproliferative disorder and graft-versus host disease.
+C1 esterase deficiency was ruled out with C1 esterase functional assay WNL.
+Prior to discharge, she was discovered to have multifocal intracranial hemorrhage, and all anti-coagulation plans were aborted.
+3) Subdural hematomas: On the evening of [**3-6**], Ms. [**Known lastname **] complained of headache with radiation to her neck.
+CT head was performed and revealed bilateral subdural hematomas, right greater than left, predominantly composed of acute blood but also demonstrating subacute components.
+An MRI of the head was performed which revealed no lesion or focus of the bleed and stable area of hemorrhage.
+Prior to discharge, a repeat CT of the head was performed, which showed interval decrease in size of extra-axial collection of the left lateral posterior fossa.
+4) Hematuria: Urology consulted and felt her hematuria to be possibly c/w urinary obstructive symptoms, likely secondary to elevated INR.
+Renal US was negative for hydronephrosis or any abnormality identified within the kidneys.
+Discharge Disposition: Home  Discharge Diagnosis: Epiglottitis Subdural hematoma Supratherapeutic INR Hematuria Multiple myeloma h/o DVT   Discharge Condition: Neurologically intact, alert and oriented x 3, guarded for any changes in neurologic status  Discharge Instructions: You were admitted for epiglottitis, and you were intubated to protect your airway.
+You were found to have a subdural bleed in your head, likely due to spontaneous bleeding while on coumadin and/or heparin.
+If you experience any neck swelling or difficulty bleeding, you should seek immediate medical attention.
+You should come to the emergency room immediately if you experience any changes in your vision, balance, memory, or alertness.

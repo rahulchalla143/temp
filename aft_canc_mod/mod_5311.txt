@@ -1,0 +1,45 @@
+Admission Date:  [**2191-11-27**]              Discharge Date:   [**2191-12-6**]  Date of Birth:  [**2115-9-25**]             Sex:   F  Service: MEDICINE  Allergies: Metronidazole / Tape  Attending:[**First Name3 (LF) 3276**] Chief Complaint: seizure  Major Surgical or Invasive Procedure: Tracheal intubation Inferior vena cava filter placement Whole brain irradiation   History of Present Illness: 76-year-old woman with history of recently diagnosed lung adenoca, protein-losing enteropathy, afib, was transferred from [**Hospital 1562**] hospital after having seizure at home.
+Head CT at [**Hospital1 1562**] revealed 3-cm lesion in the right frontal parietal region with no midline shift.
+Repeat head CT showed 3-cm right frontal mass with surrounding edema but no midline shift.
+CXR showed possible developing pneumonia the in the RUL; therefore, the patient was given pip-tazo 4.5 mg IV x 1 and levoflox 750 mg IV x 1.
+ROS: not obtained due to patient's being intubated .
+[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 10919**] and [**Name5 (PTitle) 3274**] - [**2191-1-25**]: admitted for SBO, imaging revealed pulmonary nodules in RUL and RLL as well as possible spine mets with a collapsed T10 and a partially collapsed T12; work-up delayed due to poor clinical status - [**2191-6-26**]: PET revealed that RUL and RLL nodules were FGD avid; considered poor surgical candidate - [**2191-8-26**]: seen by Dr. [**Last Name (STitle) 548**] in spine center, perc biopsy of spine lesions suggested to rule out mets - [**2191-11-18**]: transbronchial bx performed by Dr. [**Last Name (STitle) **], positive for adenocarcinoma * Atrial fibrillation.
+Her course with her protein losing enteropathy and TPN was complicated by line infections and several hospitalizations.
+* Small bowel obstruction managed conservatively in [**2190**].
+* Small bowel obstruction in [**2191-2-25**] requiring exploratory laparoscopic lysis of adhesions and ileocecal bypass.
+Family History: Mother had breast cancer in her 60s.
+Father died of MI at 59, sister with post-polio syndrome, brother with status post CABG, but is very active and has no further heart problems.
+[**Name (NI) **] one in the family with any bowel problems or lung cancer or any other cancers.
+Physical Exam: Vitals: T: BP: HR: RR: O2Sat: GEN: Elderly woman, intubated, nonresponsive HEENT: PERRL, sclera anicteric, ET tube in place NECK: No JVD, carotid pulses brisk, no bruits, no cervical lymphadenopathy COR: nl rate, reg rhythm, nl S1/S2, no m/r/g PULM: coarse breath sounds bilaterally from anterior ABD: Soft, ND, +BS, no HSM, no masses EXT: No C/C/E, no palpable cords, 2+ DP pulses bilaterally SKIN: No jaundice, cyanosis, or gross dermatitis.
+No ecchymoses.
+Pertinent Results: Admission labs [**2191-11-27**] 08:39PM BLOOD WBC-5.8 RBC-4.28 Hgb-12.3 Hct-36.6 MCV-85 MCH-28.7 MCHC-33.6 RDW-16.1* Plt Ct-347 [**2191-11-27**] 08:39PM BLOOD Neuts-83.6* Lymphs-14.7* Monos-1.4* Eos-0.1 Baso-0.1 [**2191-11-27**] 08:39PM BLOOD PT-13.6* PTT-28.0 INR(PT)-1.2* [**2191-11-27**] 08:39PM BLOOD Glucose-153* UreaN-10 Creat-0.6 Na-137 K-3.8 Cl-106 HCO3-22 AnGap-13 [**2191-11-27**] 08:39PM BLOOD ALT-5 AST-8 LD(LDH)-245 AlkPhos-145* TotBili-0.4 [**2191-11-27**] 08:39PM BLOOD Albumin-2.8* Calcium-8.0* Phos-3.2 Mg-1.9  [**11-27**] CT head: IMPRESSION: Right frontal lobe 3 cm mass with surrounding edema.
+No evidence of hemorrhage, shift of midline structures, or herniation.
+[**11-28**] Bilat Venous dopplers: IMPRESSION: DVT involving the right superficial femoral vein.
+Three enhancing lesions in the brain compatible with metastatic disease.
+Suggestion of leptomeningeal seeding by location of 1 or 2 of these lesions.
+Other nonspecific white matter FLAIR abnormalities in the periventricular white matter as well as the left brachium pontis.
+No evidence for obstruction or ileus.
+No intraperitoneal free air or pneumatosis.
+CXR [**12-3**]: IMPRESSION: Development of pleural effusions and volume loss in the left lower lobe.
+Brief Hospital Course: 76-year-old woman with recently diagnosed lung adenocarcinoma with mediastinal node mets, history of protein-losing enteropathy, presented with seizure from home, found to have likely new brain mets.
+Plan: # Seizure with altered mental status: Most likely from new brain lesion, which is concerning for brain mets from her lung ca.
+MRI showed 3 enhancing lesions c/w metastases.
+# Lung cancer: Recent transbronchial biopsy of mediastinal node revealed adenocarcinoma.Biopsy of spinal lesion revealed no tumor and now with new brain mets/ stage IV.
+# Right lower extremity DVT: bilateral LENIs showed DVT and IVC filter was placed.
+Anticoagulation was not started as patient is at risk for bleed with new brain mets.
+# Possible pneumonia: with opacity in RUL, concerning for aspiration in the setting of seizure.
+Patient does have a history of MRSA bacteremia and VRE from abdominal wound.
+Mrs [**Last Name (STitle) **] remained afebrile and was transitioned to PO cefpodoxime and completed a 7 day course of antibiotics.
+# Atrial fibrillation: Remained in sinus rhythm.
+Hold off on warfarin given risk of intracranial bleeding.
+# Protein-losing enteropathy: most recently on TPN in [**2191-5-26**].
+# Code:  DNR/DNI .
+Nystatin 100,000 unit/mL Suspension Sig: Ten (10) ML PO QID (4 times a day) as needed for thrush for 1 months.
+Disp:*1000 ML(s)* Refills:*0*   Discharge Disposition: Home With Service  Facility: [**Hospital1 **] VNA  Discharge Diagnosis: Primary: Seizure Metastatic lung cancer to the brain Community-acquired pneumonia Deep venous thrombosis .
+Secondary: * Lung cancer: adenocarcinoma * Atrial fibrillation.
+* h/o protein-losing enteropathy requiring TPN.
+* h/o recurrent small bowel obstructions requiring exploratory laparoscopic lysis of adhesions and ileocecal bypass.
+Discharge Condition: Good, tolerating POs   Discharge Instructions: You were admitted after having a seizure and found to have a brain mass from your lung cancer.
+Initially you required mechanical ventilation due to your change in mental status.
+You were also found to have a blood clot in your leg and a filter was placed to protect against the blood clot from traveling to your lungs.
+In addition, you were diagnosed with pneumonia and completed a course of antibiotics.

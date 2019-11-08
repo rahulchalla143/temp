@@ -1,0 +1,67 @@
+Admission Date:  [**2104-1-7**]              Discharge Date:   [**2104-2-5**]  Date of Birth:  [**2038-10-3**]             Sex:   M  Service: MEDICINE  Allergies: Dilantin / Sulfa (Sulfonamides) / Unasyn  Attending:[**First Name3 (LF) 18369**] Chief Complaint: Dyspnea  Major Surgical or Invasive Procedure: PICC line placement   History of Present Illness: 65 y/o male with a h/o RCC (dx'd '[**85**]) s/p right nephrectomy, evidence of L renal mass since [**2100**], multiple bony mets, initially p/w path fx of L humerus in [**2100**], with recent hospitalization [**Date range (1) 25253**] for LUE cellulitis d/c'd on course of vacn/unasyn, possibly c/b drug rash, presented to [**Hospital1 18**] on [**1-12**] with dyspnea at rest x 3 days.
+CTA showed moderate b/l pleural effusions, multiple pulm nodules, no PE.
+EKG with no ischemic changes.
+ICU course c/b acute renal failure, elevated troponin,congestive heart failure and increased temp to 100.9 while receiving 4th unit of PRBCs.
+Upon transfer to the floor, patient denies feeling short of breath.
+Past Medical History: Past Medical History: ONC HX: 65-year-old with renal cell carcinoma diagnosed in [**2085**], status post right nephrectomy.
+He did well until [**2100**] when he noticed some tingling in his left elbow.
+In [**2100-2-6**], he sustained a left humerus pathologic fracture.
+Biopsy at the time of broad-plate fixation showed metastatic clear cell carcinoma.
+CT at the time showed two discrete cortical masses in the left kidney upper pole mass being 3 cm in diameter, lower pole mass being 3.5 cm x 5 cm, and a sixth rib lesion.
+There had been some suggestion in [**2100-10-6**] of an increase in size of the left upper pole tumor.
+In [**2101-9-7**], he had minimal asymptomatic progression of the mass above the left renal vein and the expansive lesions within the sixth rib associated with a new soft tissue mass were noted.
+Most recently, he has had difficulty with metastatic tumor nodules in his left arm.
+His Avastin was stopped secondary to concerns of poor wound healing.
+PMH: # metastatic renal cell cancer # hypertension secondary to Avastin and Sutent # cerebral aneurysm, resulting in lack of smell and taste # recent admit for cellulitis possibly c/b osteomyelitis  Social History: 50-pack-year smoking history.
+Parents died of heart disease.
+Physical Exam: VS: 99.9 161/74 90 96%RA 24 hr: +620  LOS:-770 Gen: fatigues appearing, in mild resp distress HEENT: PERRL, sclera-anicteric; OP-clear Neck: JVD to angle of jaw at 45 degrees; +hepatojuglar reflex CVS: s2 s2 RRR o m/r/h Chest: crackes to [**Date range (1) 5082**] on right and [**1-9**] on left with decresed BS; with prolonged expiratory phase ABd: soft, NT ND ext: no c/c/edmea neuro: alert and oriented to person and place; able to repsond appropriately to questions  Pertinent Results: Labs at admission: .
+[**2104-1-7**] CXR Increased interstitial markings and pulmonary vascular prominence are suggestive of a new mild interstitial pulmonary edema.
+Persistent lytic sclerotic lesion in the right sixth rib posteriorly.
+[**2104-1-7**] CTA .
+Extremely limited study from poor contrast opacification.
+No evidence of central pulmonary embolism.
+Innumerable pulmonary nodules concerning for metastases.
+Destructive bony lesions as described above.
+Left upper pole renal cell carcinoma.
+Left adrenal nodule could be a metastasis.
+Some small liver lesions are not definitely cysts and could be metastases.
+Bilateral moderately large pleural effusions, right slightly greater than left.
+Small pericardial effusion.
+EKG: ST@ 100 bpm, nl axis, nl intervals, no T wave inversions, ST changes .
+[**2104-2-5**] WBC-5.8 RBC-2.33* Hgb-7.6* Hct-22.7* Plt Ct-67*# [**2104-2-5**] Neuts-82* Bands-0 Lymphs-12* Monos-4 Eos-1 Baso-0 Atyps-1* Metas-0 Myelos-0 [**2104-2-4**] Gran Ct-5610 [**2104-2-5**] Glucose-140* UreaN-21* Creat-1.0 Na-141 K-4.4 Cl-115* HCO3-20* [**2104-2-4**] ALT-9 AST-4 LD(LDH)-100 AlkPhos-98 TotBili-0.8 [**2104-2-5**] Calcium-6.7* Phos-2.7 Mg-1.9 [**2104-1-8**] Triglyc-95 HDL-30 CHOL/HD-2.5 LDLcalc-27 [**2104-1-23**] Cortsol-20.0 [**2104-1-16**] IgM HAV-NEGATIVE [**2104-1-15**] HBsAg-NEGATIVE HBsAb-NEGATIVE HBcAb-NEGATIVE HAV Ab-POSITIVE [**2104-1-15**] HCV Ab-NEGATIVE  Brief Hospital Course: Mr. [**Known lastname 916**] is a 65 y/o male with metastatic renal carcinoma initially admitted on [**2104-1-7**] with dyspnea, hypertension, and anemia (hct of 18, found to be hemolytic).
+The pt had a brief admission to the [**Hospital Unit Name 153**], with elevated LFT's and ARF followed by rash, fevers, and worsening acute renal failure.
+The pt's course was then c/b thrombocytopenia and cholestasis and low fibrinogen, fevers, neutropenia, thrombocytopenia, increasing coags, worsening renal failure, and increasing bilirubin.
+He was later found to have a Pseudomonas UTI on [**1-29**] along with a new rash and sore throat.
+Sore throat Pt had evidence of well-demarcated lesions in posterior oropharynx, seen first on [**2-2**].
+Anemia Thought to be hemolytic anemia vs. bone-marrow suppression.
+No evidence of bleeding (stools, other than the ones on admission, have been guaiac negative).
+Presented with hemolytic anemia (likely hapten-mediated given beta-lactam exposure), but no evidence of hemolysis (normal haptoglobin, normalizing LDH and bilirubins) in recent days.
+UTI Urine culture positive on [**1-29**] for Pseudomonas (pan-sensitive).
+Fevers initially thought to be secondary to drug effect (Unasyn); antibiotics (Unasyn/Vanco) were discontinued on [**1-20**].
+Acute renal failure On admission, creatinine was 1.0, but he developed acute renal failure after CTA (~1.5).
+Renal consulted [**1-20**], concerned for AIN from Unasyn vs. ATN from vanco vs. pigment induced renal failure.
+Thrombocytopenia Pt's PLTs started trending downward on [**1-18**].
+Bone marrow suppression (from Sutent vs. urosepsis) was most likely cause; initially may have been secondary to an autoimmune process, as platelets improved on steroids (but steroids need to be weaned given infection and recent neutropenia).
+Microangiopathic process less likely (no schistocytes on smear, normal fibrinogen and FDP's).
+Neutropenia ANC is now >1000.
+Lower extremity edema Lower extremities are wrapped in ACE bandages.
+Abdominal distention On physical exam, he had abdominal distention without tympany, and multiple abdominal x-rays had shown no evidence of obstruction or perforation.
+He had minimal bowel sounds, but continued to have bowel movements.
+Abdominal X-Ray on [**1-29**] showed no evidence of free air or obstruction.
+Dyspnea/pulmonary edema Pt was dyspneic with minimal activity.
+Most likely related to pulmonary hypertension (etiology: lymphangitic carcinomatisis vs. COPD vs. both, pulmonary consulted [**2104-1-12**]).
+Renal Cell Carcinoma Considering Avastin as outpatient.
+Hypertension Hypertensive on admission; once Sutent was discontinued, he became normotensive.
+Renal ultrasound showed no evidence of renal artery stenosis.
+Went back on Sutent with BP's as high as 210 systolic; developed hypotension (90's systolic) on [**1-29**], when urine culture grew Pseudomonas.
+Pulmonary hypertension Diagnosed on echo.
+Calcified tendonitis, seen by ortho given concern for fracture (but they determined it was tendonitis).
+Oxycodone for pain management, outpatient follow up.
+Elevated cardiac enzymes.
+Enzymes elevated on admission, cards consulted, decided that it was in the setting of demand ischemia (given increased BP) and no heparin required.
+No further issues.
+Hypothyroidism Continued levothyroxine.
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day) as needed for constipation.
+Nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID (4 times a day) as needed for throat pain.
+Disp:*12 Tablet(s)* Refills:*0*   Discharge Disposition: Home  Discharge Diagnosis: Primary: Pseudomonas urosepsis Pancytopenia Beta lactam allergy Furosemide allergy Hypertension secondary to Sutent Oropharyngeal Candidiasis Acute renal failure, now resolved .
+Secondary: Metastatic Renal Cell Carcinoma   Discharge Condition: The patient was discharged hemodynamically stable and afebrile with appropriate follow up.

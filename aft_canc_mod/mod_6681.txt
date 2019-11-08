@@ -1,0 +1,32 @@
+Admission Date:  [**2135-6-19**]              Discharge Date:   [**2135-6-20**]  Date of Birth:  [**2110-8-18**]             Sex:   F  Service: MEDICINE  Allergies: Diphenhydramine / pseudoephedrine / Latex / Dexamethasone  Attending:[**Last Name (NamePattern4) 290**] Chief Complaint: Airway edema  Major Surgical or Invasive Procedure: None  History of Present Illness: This is a 24 year old female with PMH of metastatic breast cancer to lungs, liver, and bone complicated by multiple vertebral fractures, currently on palliative chemotherapy and XRT for about 1 month, who presented to [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] Hospital for further evaluation of 1 week of persistent nausea and vomiting and was transferred to [**Hospital1 18**] for concern of airway edema seen on imaging.
+She was noted to have abnormal thickening and edema of the aryepiglottic folds, right greater than left, as well as nonspecific circumferential edema at the pharyngeoesophageal junction on a CT scan of her neck at the OSH.
+She was not noted to be in any respiratory distress and did not have any stridor.
+ENT was called to evaluate her airway at which point it was noted that the patient has had a several day history of progressive globus, dysphagia, and odynophagia.
+During her initial wave of palliative radiation to cervical/thoracic spine, she also developed similar symptoms which resolved on steroid therapy that was subsequently stopped about 3 weeks ago.
+She has no audible stridor.
+She otherwise notes diffuse abdominal soreness, but no N/V.
+She mentions a recent episode of oral thrush several weeks ago.
+Review of sytems: (+) Per HPI (-) Denies fever, chills, night sweats, recent weight loss or gain.
+Denies headache, sinus tenderness, rhinorrhea or congestion.
+Denied cough, shortness of breath.
+Denied chest pain or tightness, palpitations.
+Denied nausea, vomiting, diarrhea, constipation or abdominal pain.
+No recent change in bowel or bladder habits.
+Denied arthralgias or myalgias.
+Past Medical History: -Metastatic breast cancer to lungs, liver, and bone complicated by multiple vertebral fractures, currently on palliative chemotherapy and XRT for about 1 month   Social History: Lives at home with mother in [**Name (NI) **]   Family History: Mother with SLE, raynauds.
+No cancer history  Physical Exam: Vitals: T97  BP114/87 RR12  P92  sat97RA General: Alert, oriented, no acute distress HEENT: Sclera anicteric, MMM, oropharynx clear.
+No pharyngeal edema or massesnoted.
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, rhonchi CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops Abdomen:  soft, sore to palpation diffusely, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly GU: no foley Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema  Physical exam on the day of discharge: VS: 97.2, BP 97/65, HR 72, RR 12, 96% RA General: oriented, no acute distress HEENT: Sclera anicteric, MMM, oropharynx clear.
+No pharyngeal edema or massesnoted.
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, rhonchi CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops Abdomen:  soft, sore to palpation diffusely, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly GU: no foley Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema   Pertinent Results: 1.
+Microbiology: - Blood culture ([**2135-6-19**]): pending - Urine culture ([**2135-6-19**]): negative   Brief Hospital Course: Ms. [**Known lastname **] is a 24yoF with metastatic breast cancer currently on chemo/XRT who was transferred to [**Hospital1 18**] out of concern for laryngoedema, and who was found to have supraglottic edema likely related to her therapy.
+# SUPRAGLOTTIC EDEMA:  Her globus, odynophagia, and dysphagia are driven by the edema noted on her laryngeal examination.
+The inflammatory effects of radiation therapy compounded by chemo-induced emesis and recent thrush are probably causing this edema.
+She was instructed to have a follow up with her primary care physician [**Name Initial (PRE) 176**] 1 week of her discharge  # POSITIVE UA:  She has leuks few bacteria on UA.
+Due to her poor immune status from chemo, she received a dose of ceftriaxone in the ED.
+# METASTATIC BREAST CANCER.
+Poor prognosis with widely metastatic disease, undergoing palliative chemo/rads.
+She had Dilaudid for pain control.
+Disp:*270 mL* Refills:*0*   Discharge Disposition: Home With Service  Facility: hospice of [**Location (un) 1121**] and greater [**Location (un) **]  Discharge Diagnosis: PRIMARY DIAGNOSIS: Metastatic breast cancer Laryngitis   Discharge Condition: Mental Status: Clear and coherent.
+Discharge Instructions: Ms. [**Known lastname **], you were admitted to the [**Hospital1 827**] because you had difficulty swallowing and were concerned that your throat was closing.
+We asked the ear, nose, and throat doctors to examine [**Name5 (PTitle) **] and thought it was most likely an infection of the larynx.

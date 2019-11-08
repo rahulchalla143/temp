@@ -1,0 +1,95 @@
+Admission Date:  [**2121-7-18**]              Discharge Date:   [**2121-7-28**]  Date of Birth:  [**2070-12-14**]             Sex:   M  Service: MEDICINE  Allergies: Penicillins  Attending:[**First Name3 (LF) 1363**] Chief Complaint: Dyspnea, chest discomfort  Major Surgical or Invasive Procedure: Thoracentesis Pericardiocentesis  History of Present Illness: 50 year old gentleman with metastatic renal cell carcinoma on chemotherapy (axitinib which the patient was told to stop on [**2121-7-15**] given his worsening fatigue), hypertension, Factor V Leiden and PFO.
+He presents with fatigue and brief dyspnea and lower chest discomfort on changing from lying->sitting and sitting->standing that is worse over the last 3 days but started about 1-2 weeks ago.
+All these symptoms are over the last few days.
+Reported dry cough for a few days.
+denies dysuria or frequency but reports urinary retention due to prior spine metastases that also had lead to left lower extremity weakness.
+He also reports right lower extremity weakness secondary to "spread of tumor".
+CXR was notable for worsened right pleural effusion compared to prior [**2121-7-1**] along with partial lung collapse.
+Bedside echo was significant for large pericardial effusion that is new compared to echo in [**2119**] but was present in series of CT chests in [**2120**] with progressive slight increase in size in between.
+The effusion is echo dense, consistent with blood, inflammation or other cellular elements.
+No right ventricular diastolic collapse is seen.
+Per cardiology assessment in the ED, the patient does not have pulsus nor kussmaul sign.
+Recommended checking pulsus paradoxus every 12 hour with possible pericardiocentesis on [**2121-7-21**].
+His [**Hospital Unit Name 153**] course was notable for continued tachycardia and borderline hypotension.
+IP placed a right pigtail catheter with drainage of 2100cc of serosanguinous fluid.
+A small basilar pneumothorax was seen post-procedure though was felt to represent trapped lung.
+Cardiology consult team further recommended checking pulsus paradoxus every 12 hour and even though there was no tamponade on echo, pericardiocentesis was performed on [**2121-7-21**] due to the maligant nature and liklihood of future tamponade.
+In the CCU he was found to have a small apical left pneumothorax, which has been treated with high flow nasal oxygen.
+He was persistently tachycardic and received roughly 5L of NS with improvement in his hemodynamics.
+He had a cool right foot with poor pulses concerning for ischemia.
+He was broadly covered with vancomycin and cefepime due to a positive urinalysis and persistent tachycardia, but cultures were persistantly negative and his antibiotics were discontinued a few days after to the floor.
+He was discharged home with hospice and symptomatic management.
+Past Medical History: PAST ONCOLOGIC HISTORY: - [**2120-7-5**]: presented to [**Hospital6 1597**] with cold left arm, found to have brachial and radial tumor thrombi in his left arm, s/p thrombectomy.
+CT revealed a 11.4 x 8.6 cm right kidney enhancing mass with central necrosis and calcification, pulmonary and adrenal metastases and lytic lesions in his right acetabulum and lesser trochanter.
+He was also noted to have thrombus in the superior pulmonary vein.
+A TTE showed an atrial PFO.
+MRI Brain showed multifocal intracranial metastases.
+Biopsy of L arm thrombus confirmed poorly differentiated carcinoma.
+- [**2120-9-2**]: Repeat MRI with new metastatic lesions.
+- [**Date range (3) 88900**]: WBXRT - [**Date range (3) 88901**]: Admitted to [**Hospital1 18**] for syncope and hypotension, found to have a PE as well as RP bleed.
+PAST MEDICAL HISTORY: Hypertension Factor V Leiden (heterozygous, 3-8x incr risk) Hx of PE while on Coumadin, transitioned to Lovenox   Social History: Married, no children.
+walks with cane and walker   Family History: Mother with multiple blood clots diagnosed with factor V leiden mutation on chronic anti-coagulation and s/p IVC filter placement.
+Maternal uncle-prostate ca diagnosed at age 50, deceased in 60's.
+No icteric sclerae.
+no JVD HEART: regular rhythm, tachycardic, normal S1,S2.
+No murmurs, rubs, clicks, or gallops LUNGS: Absent BS on right except apex with dullness to percussion.
+No wheezes, rales, or rhonchi on left.
+No organomegaly appreciated.
+EXT: warm, NO clubbing cyanosis or edema.
++2 palpable distal pulses bilaterally.
+No murmurs, rubs, clicks, or gallops LUNGS: decreased BS on right,  dressing is clean on right chest wall.
+ABDOMEN: +BS no TTP EXT: warm, no clubbing cyanosis or edema.
++2 palpable distal pulses bilaterally.
+Pertinent Results: Admission Labs: [**2121-7-18**] 12:30PM BLOOD WBC-15.6*# RBC-5.98 Hgb-16.1 Hct-51.5 MCV-86 MCH-26.8* MCHC-31.2 RDW-16.1* Plt Ct-227 [**2121-7-18**] 12:30PM BLOOD Neuts-79* Bands-1 Lymphs-8* Monos-10 Eos-0 Baso-0 Atyps-0 Metas-0 Myelos-2* [**2121-7-18**] 12:30PM BLOOD PT-11.9 PTT-33.5 INR(PT)-1.1 [**2121-7-18**] 12:30PM BLOOD Glucose-126* UreaN-35* Creat-1.1 Na-138 K-6.0* Cl-99 HCO3-23 AnGap-22* [**2121-7-18**] 07:31PM BLOOD CK(CPK)-22* [**2121-7-18**] 07:31PM BLOOD CK-MB-2 cTropnT-0.02* [**2121-7-18**] 07:31PM BLOOD Calcium-8.6 Phos-2.3* Mg-2.1 [**2121-7-18**] 12:43PM BLOOD Lactate-4.5* K-6.2*  ECHO [**7-18**]: There is moderate symmetric left ventricular hypertrophy.
+Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded.
+There is a large pericardial effusion.
+The effusion is echo dense, consistent with blood, inflammation or other cellular elements.
+No right ventricular diastolic collapse is seen.
+There is brief right atrial diastolic collapse suggestive of elevated intrapericardial pressure without overt tamponade.
+Compared with the prior study (images reviewed) of [**2120-9-13**], pericardail effusion is new.
+CXR [**7-18**]: IMPRESSION:  Significant interval enlargement of the right-sided pleural effusion which is now large.
+Lytic skeletal lesion at level of fourth anterolateral right rib is present and has been more fully evaluated on prior CT of [**2121-6-9**] which documented extensive skeletal metastatic disease.
+Known pulmonary nodules are also seen to better detail on the CT.
+Considering the large size of the effusion and its rapid increase between [**7-1**] and [**2121-7-18**], hemothorax should be considered in the appropriate setting.
+Decrease in right pleural effusion following pigtail pleural catheter placement  and development of a moderate hydropneumothorax.
+Lytic rib metastases.
+There continues to be a lateral and basilar hydropneumothorax with interval decrease in the apical component.
+Patchy opacity at the right lung base reflects partial atelectasis of the right middle and lower lobes.
+There is likely a small residual right effusion.
+Several lytic bone lesions are seen involving the ribs consistent with known metastatic disease.
+Left ventricular systolic function is hyperdynamic (EF>75%).
+There is a small to moderate sized pericardial effusion subtending the inferior and posterior wall of the left ventricle and the inferior (diaphragmatic) wall of the right ventricle.
+The effusion is echo dense, consistent with blood, inflammation or other cellular elements.
+There are no echocardiographic signs of tamponade.
+There is significant, accentuated respiratory variation in mitral/tricuspid valve inflows, consistent with impaired ventricular filling.
+The epicardial surface of the heart appears thickened and heterogeneous in acoustic texture.
+This finding, taken together with the small hyperdynamic configuration of the left ventricle despite removal of most of the pericardial fluid, raises a suspicion for the presence of pericardial constriction, possibly as a result of epicardial metastasis of underlying neoplastic disease.
+CXR [**7-27**]: IMPRESSION:  1) Moderately large right effusion, with underlying collapse and/or consolidation.
+A small amount of streaky pneumomediastinal air is also likely present.
+Brief Hospital Course: 50 year old gentleman with metastatic renal cell carcinoma on chemotherapy, hypertension, Factor V Leiden complicated with PE on Lovenox at home.
+Presented with worsening SOB and chest discomfort, found to have worsening large right pleural effusion compared to [**2121-7-1**] and worsening large pericardial effusion, concerning for malignant process.
+# Dyspnea: multifactorial, most likely secondary to large pleural effusion that is worse compared to prior ([**2121-7-1**]) leading to partial collapse.
+Differential for pleural effusion included malignant process vs parapneumonic effusion.
+This is most consistent with malignant effusion.
+Leukocytosis on admission, but cultures peristantly negative, no improvement on antibiotics (given vancomycin and cefepime).
+His large pericardial effusion (see below) worsened in [**2120**] and was not present in [**2119**].
+# Pericardial effusion: He had a moderate effusions which may have been contributing to his symptoms of fatigue and dyspnea, however he has had slow progression of symptoms over the last 6 months.
+He did not have pulsus paradoxus or kussmaul's sign on exam and TTE did not suggest tamponade.
+There were no complications, but he was monitored in the CCU following the procedure.
+In the CCU patient continued to have persistent hypotension and tachycardia despite pericardial effusion drainage.
+The following day, repeat echo showed no reaccumulation of fluid and he showed no clinical signs of tamponade, so the pericardial drain was pulled.
+However in the TTE, the epicardial surface of the heart appeared thickened and heterogeneous which raised suspicion for the presence of pericardial constriction, possibly as a result of epicardial metastasis of underlying neoplastic disease.
+He was continued on IVF given his preload dependence and was not symptomatic from his hypotension in the systolic 80s.
+# Goals of care: In the CCU and on the floor, patient was seen by palliative care and his outpatient oncologist who had prolonged discussions about patient's and his wife's wishes and goals given his poor prognosis especially with TTE findings of likely metastasis to his heart.
+# Renal cell carcinona: s/p right nephrectomy, Sutent, Cyberknife, WB-XRT, was on Axitinib for progression on MRI (stopped [**2121-7-15**] for possible contribution to his progressive fatigue).
+While undergoing work up of his pericardial effusion, findings on echocardiogram were suggestive of myocardial/epicardial metastases.
+Lovenox was discontinued prior to discharge due to falling platelet counts.
+# Urine retention: patient reports requiring tamsulosin for good urine output with history of self catheterization intermittently.
+Oxycodone SR (OxyconTIN) 10 mg PO QAM please hold if sedated or RR <10 RX *OxyContin 10 mg [**12-23**] tablet(s) by mouth twice a day Disp #*50 Tablet Refills:*0 5.
+Oxycodone SR (OxyconTIN) 20 mg PO QHS hold for somnolence or RR<12 6.
+ZOFRAN ODT *NF* (ondansetron) 8 mg Oral every 8 hours nausea or vomiting RX *ondansetron 8 mg 1 tablet(s) by mouth every 8 hours Disp #*28 Tablet Refills:*1 7.
+Scopolamine Patch 1 PTCH TP Q72H as needed for increased respiratory secretions RX *Transderm-Scop 1.5 mg/72 hour apply one patch to clean dry skin every 72 hr Disp #*10 Transdermal Patch Refills:*0 9.
+Prochlorperazine 5-10 mg PO Q6H:PRN nausea or vomiting RX *prochlorperazine maleate 5 mg [**12-23**] tablet(s) by mouth every 6 hours Disp #*30 Tablet Refills:*1 10.
+Senna 1 TAB PO BID:PRN constipation   Discharge Disposition: Home With Service  Facility: [**Hospital 3005**] Hospice  Discharge Diagnosis: Metastatic renal cell carcinoma   Discharge Condition: Mental Status: Confused - sometimes.
+However, we discovered that your cancer is likely involving your heart.
+You have the following medication changes - please stop axitinib, lovenox, omeprazole, tamsulosin - please start oral morphine concentrate for pain - start zofran, compazine, and ativan for nausea - start ativan for anxiety - start haloperidol for agitation - continue OxyContin (long acting), dexamethasone, laxatives as needed  Followup Instructions: Call hospice or oncology team as needed                                [**Name6 (MD) **] [**Name8 (MD) **] MD, [**MD Number(3) 1368**]  Completed by:[**2121-7-28**

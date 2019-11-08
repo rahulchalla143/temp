@@ -1,0 +1,59 @@
+Admission Date:  [**2197-5-16**]              Discharge Date:   [**2197-5-22**]   Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**Last Name (NamePattern4) 290**] Chief Complaint: GI bleed  Major Surgical or Invasive Procedure: Endoscopy, blood transfusions, platelets EGD   History of Present Illness: Ms. [**Known lastname **] is [**Age over 90 **] yo female with a h/o MDS, pulmonary fibrosis, UGIB and HTN who presents with LGIB.
+She was tachycardic and in atrial fibrillation.
+Labs were notable for elevated creatinine 2.6 (baseline 1 year ago ~2.0), anemic with hct to 17 (baseline 1 year ago ~ 30), trop 0.02, CK 18, INR was 1.6, not anticoagulated.
+Denies having diarrhea prior to this morning, denies noting BRBPR or melena recently.
+No abd pain.
+Did have one episode of emesis this morning, did not notice if there was blood/coffee grounds.
+No chest pain, no palpitations.
+Notes that she usually has shortness of breath for which she will use supplemental 02 at home, but this is no worse than baseline.
+Has noted increase LE edema for the past 10 days or so which she has noted has started to weep.
+Bleeding ulcer and UGI bleed in [**2194**] 2.
+Hypertension 5.
+Pulmonary: Poor air movement, no wheezes or crackles.
+Mild kyphosis.
+No appreciable murmurs.
+Extremities: Weeping edema bilaterally.
+Able to relate history without difficulty.
+No abnormal movements noted.
+[**2197-5-17**] Echo - The left atrium is moderately dilated.
+The right atrium is markedly dilated.
+No atrial septal defect is seen by 2D or color Doppler.
+There is no ventricular septal defect.
+The right ventricular cavity is markedly dilated with moderate global free wall hypokinesis.
+The ascending aorta is mildly dilated.
+The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present.
+Mild (1+) aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Mild to moderate ([**1-27**]+) mitral regurgitation is seen.
+Severe [4+] tricuspid regurgitation is seen.
+There is moderate pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+[**2197-5-16**] EGD - Normal mucosa in the stomach Ulceration in the duodenum (injection, endoclip, thermal therapy) Abnormal mucosa in the duodenum Otherwise normal EGD to second part of the duodenum  [**2197-5-17**] CXR There is a bilateral fluid marking of the interstitium.
+The right costophrenic sinus is obliterated, potentially by a small pleural effusion.
+Severe scoliosis with resulting asymmetry of the rib cage.
+Moderate tortuosity of the thoracic aorta.
+No focal parenchymal opacity suggestive of pneumonia.
+Brief Hospital Course: [**Age over 90 **]yo female with history of bleeding gastric ulcers, myelodysplasia, pulmonary fibrosis, and hypertension was admitted with anemia and GI bleed.
+Upon arrival to the floor, patient underwent an upper EGD which revealed a duodenal ulcer.
+Coagulopathy Patient had an elevated INR of 1.6 on admission.
+This was thought related to a nutritional deficiency in the setting of diarrhea in the days prior to admission.
+Atrial Fibrillation Patient was found to be in atrial fibrillation in the Emergency Department.
+It is unclear if this is an old or new diagnosis as patient reports having been told that she has an abnormal rhythm by her visiting nurse.
+[**First Name (Titles) **] [**Last Name (Titles) 8675**] was slightly elevated at 5.6.
+She is not a candidate for anticoagulation due to her GI bleed.
+Myelodysplasia She has a history of myelodysplasia and was followed by Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 2539**] in hematology clinic at [**Hospital1 18**].
+During a recent appointment with Dr. [**Last Name (STitle) 2539**] in [**3-6**], her WBC was noted to be rising, concerning for development of a malignant process.
+Pulmonary Fibrosis: Patient has a history of pulmonary fibrosis and is on 2L of home oxygen.
+Her O2 requirement was stable.
+Hypertension She has a history of hypertension and is on metoprolol, amlodipine, and HCTZ-triamterene.
+These medications were held upon arrival and in the setting of her GI bleed.
+Acute Renal Failure Patient was in acute renal failure upon arrival with a creatinine of 2.6.
+Duodenal Ulcer 3.
+Acute Renal Failure .
+Hypertension 2.
+Hypertension 5.
+Discharge Instructions: You were admitted to the hospital with lightheadedness due to bleeding from your gastrointestinal tract.
+You had an endoscopy which found a bleeding ulcer.
+We have made the following changes to your medications: - metoprolol - we have discontinued this medication temporarily while you were found to have GI bleed.
+- amlodipine - we have discontinued this medication temporarily while you were found to have GI bleed.
+Please seek immediate medical attention if you develop fevers, shaking chills, feeling light-headed, dizziness, bright red blood per rectum, black stools, vomiting, or bloody vomit, please seek immediate medical attention.

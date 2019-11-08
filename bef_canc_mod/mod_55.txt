@@ -1,0 +1,20 @@
+Admission Date:  [**2118-1-24**]              Discharge Date:   [**2118-1-27**]  Date of Birth:  [**2063-1-8**]             Sex:   M  Service: MEDICINE  Allergies: Penicillins  Attending:[**First Name3 (LF) 949**] Chief Complaint: Hematemesis with melena on [**1-22**], with no repeated incidents of hematemesis or melena  Major Surgical or Invasive Procedure: EGD with banding   History of Present Illness: PCP: [**First Name8 (NamePattern2) 333**] [**Last Name (NamePattern1) 1968**], [**Hospital1 18**] [**Location (un) 55**], Hepatologist [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 497**] .
+HPI:  55M h/o HCV genotype I cirrhosis, complicated by esophageal varices (grade II), presents today after hematemesis x2 on Friday [**1-22**] (2 days prior to presentation) followed by melena x1 on Saturday, neither of which have not recurred.
+On [**1-22**], pt had an uneventful dinner but woke up at night nauseous and then vomited a large amount of blood.
+During this time, pt noted fatigue but no other symptoms.
+ROS:  Fatigue, mild abdominal pain.
+Guaiac-positive brown stool on exam.
+Past Medical History: # HCV genotype I --portal hypertension --esophageal varices, grade II, s/p banding x2, s/p Sodium Morrhuate injections for hemostasis [**2117-12-16**] --splenomegaly --noncavernomatous portal vein thrombus --small nodule (ddx degenerative nodular or hepatocellular carcinoma) .
+# h/o Hemopneumothorax # h/o L arm compound fracture # s/p R knee surgery # s/p R inguinal hernia repair [**2116**]  Social History: # Personal: Lives alone # Professional: Nurse in a medical device company.
+Family History: Father had [**Name2 (NI) 499**] cancer, possibly metastasis from the lung.
+No family history of liver disease.
+Physical Exam: Physical Exam on MICU admission: VS: Temp 98.6, BP 95-100/50, HR 60-62, RR 12-16, O2sat 100RA GEN: Pleasant, comfortable, NAD HEENT: PERRL, EOMI, anicteric, MMM, OP without lesions NECK: No supraclavicular or cervical lymphadenopathy, no jvd, no carotid bruits, no thyromegaly or thyroid nodules RESP: CTA b/l with good air movement throughout CV: RRR, S1 and S2 WNL, no m/r/g ABD: nd, +b/s, soft, nt, spleen palpated to approx.
+2+DTR's-patellar and biceps  Pertinent Results: [**2118-1-24**] WBC-3.2* HGB-9.1*# HCT-24.9*# MCV-97 RDW-14.5 PLT COUNT-36*     NEUTS-48.2* LYMPHS-33.7 MONOS-10.1 EOS-7.4* BASOS-0.6 PT-14.9* PTT-33.0 INR(PT)-1.3* GLUCOSE-97 UREA N-16 CREAT-0.6 SODIUM-137 POTASSIUM-4.1 CHLORIDE-107 TOTAL     CO2-24 ANION GAP-10  ALT(SGPT)-123* AST(SGOT)-142* ALK PHOS-75 TOT BILI-0.8 ALBUMIN-2.7*  Brief Hospital Course: 55M h/o HCV cirrhosis, complicated by portal vein thrombus, recent question of HCC, grade II esophageal varices s/p banding, presents with one episode hematemesis followed by melena, with no other incidents of bleeding, transferred to MICU for urgent EGD and intervention.
+# UGIB, melena: Likely [**2-5**] esophageal varices, as pt is a known cirrhotic.
+Fe supplements for purchase OTC were recommended to the patient to replete acute losses.
+# Thrombocytopenia: Likely [**2-5**] hypersplenism in setting of hepatic cirrhosis.
+# Leukopenia: Currently stable at baseline.
+Also thought to be due to hypersplenism.
+Discharge Disposition: Home  Discharge Diagnosis: Primary diagnoses: Upper GI variceal bleeding Blood loss anemia  Secondary diagnoses: Cirrhosis   Discharge Condition: Vital signs stable, hematocrit stable, tolerating PO diet.
+You were found to have bleeding varices in your esophagus related to cirrhosis.
+Please call your physician if you notice abdominal pain, nausea, bright red blood in your stool or tarry black stools, lightheadedness or any other concerning symptoms.

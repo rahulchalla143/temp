@@ -1,0 +1,14 @@
+Admission Date:  [**2190-4-26**]              Discharge Date:   [**2190-5-2**]  Date of Birth:  [**2128-8-13**]             Sex:   M  Service: UROLOGY  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 1232**] Chief Complaint: Right renal mass  Major Surgical or Invasive Procedure: Right partial nephrectomy - [**2190-4-26**] - Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]   History of Present Illness: The patient is a 61-year-old male with a history of pancreatitis that was worked up and who underwent MRCP which revealed a 2-cm right posterior exophytic renal mass.
+The patient underwent renal mass protocol which revealed approximately a 2.3-cm right posterior interpolar exophytic lesion.
+Past Medical History: HTN Hyperlipidemia Depression Type 2 DM   Social History: No tobacco, 2 glasses of wine/month, no drug use.
+His pain was initially controlled with a PCA, and he was later transitioned to PO pain medication before discharge.
+His NGT was removed on POD 1 and his chest tube on POD 2 with f/u CXR showing no evidence of significant pneumothorax.
+On POD 4, he developed sudden onset of atrial fibrillation with rapid ventricular rate that was not able to be controlled with IV lopressor or diltiazem on the floor.
+He was hemodynamically stable throughout his hospitalization, and did not suffer from acute renal failure at any point.
+On discharge, his pain was adequately controlled on PO pain meds, he was ambulating without difficulty, and his rate and rhythm were controlled on PO lopressor.
+He was given explicit instructions to follow-up with his primary care physician for further modification of his cardiac medications.
+Disp:*60 Tablet(s)* Refills:*2*   Discharge Disposition: Home  Discharge Diagnosis: Right renal mass   Discharge Condition: Stable   Discharge Instructions: -Take your metoprolol as instructed.
+-Call your Urologist's office today to schedule a follow-up appointment in 3 weeks AND if you have any questions.
+-If you have fevers > 101.5 F, vomiting, or increased redness, swelling, or discharge from your incision, call your doctor or go to the nearest ER.
+Call Dr. [**Last Name (STitle) **] to set up follow-up appointment and if you have any urological questions.
+Followup Instructions: Call Dr. [**Last Name (STitle) **] to set up follow-up appointment and if you have any urological questions.

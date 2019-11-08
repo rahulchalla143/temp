@@ -1,0 +1,37 @@
+CC: fever/chills/cough  Major Surgical or Invasive Procedure: Intervential Pulmonology: debriedement and stenting of left bronchus   History of Present Illness: Mr. [**Known lastname 75909**] is a 57 year old man with recent diagnosis of lung cancer who presented to [**Hospital1 **]-[**Location (un) 620**] with fevers, chills, and non-productive cough.
+He initially felt a cough the morning of admission, and over the course of the day felt worse and worse, eventually developing a fever (to 102F) and chills.
+He had bronchoscopy on [**11-16**] that confirmed the tumor obstruction on the left and chest CT confirming mass and likely post-obstructive PNA.
+Pt had MRI and PET CT at OSH for staging of his disease and will have stent placed [**11-17**] by interventional pulmonology.
+Past Medical History: - Asthma/COPD - Recently diagnosed squamous cell lung CA; diagnosed with cough requiring ED visit; 18-lb weight loss; - Positive PPD exposure on INH (had BCG in [**Country 5881**])-negative smear for AFB on recent bronch - History of PE on Lovenox   Social History: Quit smoking 4 weeks ago, had 35 years x 2 ppd.
+Family History: Father died of/with laryngeal cancer  Physical Exam: VITALS: T98.3F, BP 120/76 (on 0.03mcg/hr Levophed), HR 88, RR 21, Sat 96% 2LNC GENERAL: Thin-appearing, no acute distress HEENT: OP clear, EOMI, PERRL NECK: JVP flat CARD: RRR, normal S1/S2, no m/r/g RESP: Decreased breath sounds on left throughout, clear on right, no wheezes ABD: Soft, non-tender, non-distended, + bowel sounds EXT: No peripheral edema   Pertinent Results: CHEST CT: IMPRESSION: 1.
+Large central left perihilar mass obstructing the left upper and lower lobe bronchi with resultant collapse of left lung.
+Findings are consistent with a central lung cancer, likely squamous cell carcinoma.
+Moderate left pleural effusion surrounding the atelectatic left lung.
+Enlarged lower left paratracheal lymph nodes, highly suspicious for malignancy as well as additional non-enlarged upper left paratracheal nodes with similar degree of enhancement.
+Non-enhancing right hilar lymph nodes could potentially also be metastatic.
+Correlative PET imaging may be helpful if warranted clinically.
+Poorly defined peripheral right lower lobe opacity is nonspecific, but may represent focal area of infection, inflammation, or infarction.
+Neoplastic etiology (second primary neoplasm or atypical focus of metastatic disease) is less likely.
+In their absence, short-term followup CT would be recommended _____ could also be helpful for assessing additional smaller peribronchiolar nodules in the right lower lobe.
+Asymmetrical appearance of left supraglottic region, possibly due to asymmetric positioning and dependent secretions.
+Pathology Left mainstem tumor, excision: -Fragments of invasive moderately differentiated squamous cell carcinoma with necrosis arising in association with squamous cell carcinoma in-situ.
+-Focus suspicious for lymphovascular invasion seen.
+[**2150-11-19**] 05:20AM BLOOD WBC-7.7 RBC-3.73* Hgb-11.0* Hct-33.1* MCV-89 MCH-29.5 MCHC-33.2 RDW-13.4 Plt Ct-298 [**2150-11-18**] 08:40AM BLOOD Neuts-78.4* Lymphs-15.3* Monos-4.1 Eos-2.0 Baso-0.2 [**2150-11-19**] 05:20AM BLOOD PT-14.3* PTT-33.2 INR(PT)-1.2* [**2150-11-19**] 05:20AM BLOOD Plt Ct-298 [**2150-11-19**] 05:20AM BLOOD Glucose-95 UreaN-8 Creat-0.7 Na-140 K-3.6 Cl-106 HCO3-26 AnGap-12 [**2150-11-19**] 05:20AM BLOOD ALT-39 AST-31 AlkPhos-89 Amylase-43 TotBili-0.2 [**2150-11-19**] 05:20AM BLOOD TotProt-5.7* Albumin-2.8* Globuln-2.9 Calcium-8.6 Phos-3.0 Mg-2.1 [**2150-11-16**] 04:04AM BLOOD calTIBC-215* Ferritn-224 TRF-165* [**2150-11-15**] 11:26PM BLOOD Lactate-1.1  Brief Hospital Course: 57 year old man with newly diagnosed lung cancer presenting with fever, chills, non-productive cough, and hypotension, found to have post-obstructive pneumonia.
+However, he developed a fever and SOB and hypotension (see below) and was transferred to [**Hospital1 18**] for management.
+He also underwent thoracentesis to further eval for extent of metastatic spread (cytology pending on discharge).
+# Hypotension Patient was transiently in the MICU for hypotension, treated w/ levophed and IVFs.
+The source for hypotension was considered secondary to post-obstructive PNA (below), but may have also been related directly to cytokine release from tumor.
+# Post-Obstructive Pneumonia Presented w/ increased SOB, cough, and fever.
+Radiologically showed atelectasis and consolidation.
+He continued to have fevers with negative blood cultures.
+Fevers in retrospect may have been tumor - fever, however given his clinical state he was continued on PO antibiotics (clinda + cefpodoxime) on discharge for total of 7 days.
+OSH bronchoscopy showed no AFBs.
+#) History of PE Lovenox was held for his procedures.
+The patient was staged further w/ transbronchial lymph node biopsy.
+Thoracentesis was performed to evaluate for malignant cells.
+He was treated w/ a total 10 day course for post-obstructive pneumonia.
+Albuterol 90 mcg/Actuation Aerosol Sig: One (1)  Inhalation four times a day as needed for shortness of breath or wheezing.
+Disp:*14 syringes* Refills:*0*   Discharge Disposition: Home With Service  Facility: [**Company 1519**]  Discharge Diagnosis: Primary: - Squamous cell cancer of the lung - Post-obstructive pneumonia (probable) s/p interventional pulmonology stenting Secondary: - tobacco abuse history - COPD - s.p pulmonary embolus   Discharge Condition: Stable   Discharge Instructions: You were admitted to the hospital with fever and low blood pressure.
+You were found to have lung collapse of the left lung.
+You were also given IV antibiotics for an infection of the lung.
+If you experience any of the following call your doctor or return for evaluation: fevers, chills, shortness of breath, cough, dizzyness, abdominal pain, dark black stool, cough productive with blood, chest pain / pressure, bloody stools.

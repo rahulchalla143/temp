@@ -1,0 +1,29 @@
+Admission Date:  [**2113-10-17**]              Discharge Date:   [**2113-10-23**]  Date of Birth:  [**2051-6-19**]             Sex:   M  Service: MEDICINE  Allergies: Penicillins / hazelnut / lidocaine  Attending:[**First Name3 (LF) 3256**] Chief Complaint: hypotension  Major Surgical or Invasive Procedure: Central venous line placement  History of Present Illness: Patient is a 62 year old male s/p Whipple resection for pancreatic adenocarcinoma poorly differentiated T3N1MX on [**2113-8-21**] who is also s/p port-a-cath placement on [**2113-9-14**] now undergoing chemotherapy with gemcitabine, last received [**2113-9-27**].
+Pt had poor appetite, so had not taken his lispro since Saturday.
+Also with increased Cr so lisinopril held.
+Review of systems: (+) Per HPI (-) Denies  chills, night sweats, recent weight loss or gain.
+Denies headache, sinus tenderness, rhinorrhea or congestion.
+Denies cough, shortness of breath, or wheezing.
+Denies chest pain, chest pressure, palpitations, or weakness.
+Denies nausea, vomiting, diarrhea, constipation, abdominal pain, or changes in bowel habits.
+Denies dysuria, frequency, or urgency.
+Denies rashes or skin changes.
+[**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 1688**] computer science professor but would like to go back to work   Family History: denies FH of liver or pancreatic malignancy Father had throat cancer, but was heavy smoker   Physical Exam: Admission Examination Vitals: T: 98.1 BP: 107/61 P:68 R: 18 O2: 99 General: Alert, oriented, no acute distress HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL Neck: supple, JVP not elevated, no LAD CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops.
+Left chest with protrusion of port-acath, site mildly erythematous, non tender, no frank pus/exudate Lungs: Clear to auscultation bilaterally, no wheezes, rales, rhonchi Abdomen: soft, non-tender, non-distended, bowel sounds present, no organomegaly GU: no foley Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema Neuro: CNII-XII intact, 5/5 strength upper/lower extremities, grossly normal sensation, 2+ reflexes bilaterally, gait deferred.
+Skin: left leg with capillaritis, right leg uninvolved  Discharge exam: VS - Tmax 99.5 118-120/66-70 78-86 95%/RA FSG: 194 218 247 165 262 GEN: NAD, AAOx3 Neck: Bandage on at sight of right IJ clean, intact, dry, no hematoma PULM: CTAB no RRW CV: RRR normal S1/S2, no mrg ABD: Soft, non-tender, nondistended EXT: WWP 2+ pulses palpable bilaterally, no edema, no splinters/nodules of the hands, venous stasis changes in L leg  Pertinent Results: [**2113-10-17**] 12:00AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-300 KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-NEG [**2113-10-17**] 12:00AM   PT-15.9* PTT-34.4 INR(PT)-1.5* [**2113-10-17**] 12:00AM   WBC-4.1 RBC-3.42* HGB-9.4* HCT-28.4* MCV-83 MCH-27.4 MCHC-33.0 RDW-15.0 [**2113-10-17**] 12:00AM   NEUTS-84.4* LYMPHS-10.3* MONOS-5.0 EOS-0.1 BASOS-0.2 [**2113-10-17**] 12:00AM   GLUCOSE-313* UREA N-32* CREAT-1.9* SODIUM-135 POTASSIUM-4.0 CHLORIDE-106 TOTAL CO2-22 ANION GAP-11 [**2113-10-17**] 12:01AM   GLUCOSE-283* LACTATE-2.1*  [**2113-10-17**] 12:01 am BLOOD CULTURE      # 2.
+Oxacillin RESISTANT Staphylococci MUST be reported as also          RESISTANT to other penicillins, cephalosporins, carbacephems,          carbapenems, and beta-lactamase inhibitor combinations.
+Consultations with ID are recommended for all blood cultures          positive for Staphylococcus aureus, yeast or other fungi.
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              STAPH AUREUS COAG +                              | OXACILLIN-------------       R     Aerobic Bottle Gram Stain (Final [**2113-10-17**]):       GRAM POSITIVE COCCI IN CLUSTERS.
+Anaerobic Bottle Gram Stain (Final [**2113-10-17**]):       GRAM POSITIVE COCCI IN CLUSTERS.
+Brief Hospital Course: 62 y/o M with history of pancreatic cancer s/p whipple currently on chemotherapy with gemcitabine with port in place, presenting with fevers and hypotension.
+Active issues: # MRSA Bacteremia: Pt transferred from OSH to [**Hospital1 18**] given persistent hypotension and elevated lactate despite 4L IV fluids.
+He had evident dehiscence of his left chest port, with this compromise of the skin barrier the suspected source for an infection.
+TTE and TEE showed no signs of endocarditis.
+# Acute kidney injury: Cr elevated to 1.9 on admission from baseline of 1.0, improved somewhat with hydration but did not return to baseline (1.4-1.5 range).
+# Diabetes: Patient with hyperglycemia on admission, but no anion gap.
+# Pancreatic adenocarcinoma: poorly differentiated T3N1MX pancreatic adenocarcinoma s/p Whipple resection [**2113-8-21**], recently treated with gemcitabine.
+# Hypertension: home lisinopril held on admission due to hypotension, acute kidney injury.
+Thrombocytopenia noted is suspected to be a side effect of gemcitabine and should continue to be trended.
+Centrum Silver *NF* (multivitamin-minerals-lutein;<br>mv with min-lycopene-lutein;<br>mv-min-folic acid-lutein) 400-250 mcg Oral daily   Discharge Disposition: Home With Service  Facility: Home Solutions  Discharge Diagnosis: MRSA bacteremia Port infection   Discharge Condition: Mental Status: Clear and coherent.
+Discharge Instructions: Dear Mr. [**Known lastname **],  You were admitted to the hospital with fevers and found to have a blood infection due to an infection of your port.
+An echocardiogram showed no signs of infection of your heart.

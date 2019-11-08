@@ -1,0 +1,63 @@
+Admission Date:  [**2111-12-11**]              Discharge Date:   [**2111-12-29**]  Date of Birth:  [**2032-11-16**]             Sex:   F  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 2195**] Chief Complaint: Hemoptysis   Major Surgical or Invasive Procedure: Intubation Bronchoscopy Rigid bronchoscopy Bronchial artery embolization  History of Present Illness: This is a 79 year old female with PMH history significant for TB treated 20 years prior, bronchiectasis on 2L home oxygen, ASD s/p surgical repair with resultant atrial fibrillation, history of subdural hematoma and rectus sheath hematoma secondary to coumadin and multiple TIAs off of anticoagulation, on dabigatran for several weeks who presented initially to OSH for hemoptysis and transferred to [**Hospital1 18**] for further evaluation.
+Per report, patient with several coughing episodes last night with hemoptysis of several teaspoons of bright red blood.
+On the day of admission, patient developed massive amounts of hemoptysis (several cupfulls) at 1PM today, and was taken to an OSH.
+Chest radiograph without acute process.
+Chest radiograph demonstrated opacities bilaterally concerning for blood vs. aspiration.
+IP was consulted and patient was taken emergently to OR for rigid bronchoscopy, which demonstrated large clot in RLL with active oozing around the clot.
+Plan was for IR to evaluate patient for bronchial artery embolization.
+Past Medical History: - atrial fibrillation, previously on coumadin but now on dabigatran - history of subdural bleed 3 years ago while on coumadin with some dysarthria and right sided weakness - history of multiple TIAs (most recently 2 weeks ago) while off coumadin (restarted coumadin several years ago) -> stopped definitively on 10/[**2110**].
+- history of large rectus sheath hematoma in [**8-/2111**] - HTN - GERD - history of TB treated 20 years ago - bronchiectasis with home oxygen of 2L - ASD s/p surgical repair 10 years prior with development of atrial fibrillation after procedure - chronic hyponatremia ?
+GEN: intubated HEENT: pupils round, 3mm, and sluggishly reactive to light RESP: lungs clear to auscultation from the anterior chest wall CV: RRR, S1 and S2 wnl, no m/r/g ABD: soft, nd, +b/s, soft, nt, no masses or hepatosplenomegaly EXT: no c/c/e SKIN: no rashes/no jaundice/no splinters NEURO: Intubated, pupil exam as above.
+Pulm: CTAB, no wheezes or rhonchi Abd: soft, NT, +BS.
+Palpable R periumbical subcutaneous mass, non-tender, non-fluctuant Extremities: wwp, no edema in LE bilaterally.
+Patchy opacities throughout the lungs may represent aspiration or hemorrhage in this patient with hemoptysis.
+Prominent right apical opacity may be prominent assymetic pleural thickening.
+Recommend correlation with history of malignancy and chest CT for further evaluation.
+Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded.
+The aortic valve leaflets are mildly thickened.
+There is no aortic valve stenosis.
+Mild (1+) aortic regurgitation is seen.
+Mild to moderate ([**11-29**]+) mitral regurgitation is seen.
+Moderate [2+] tricuspid regurgitation is seen.
+There is moderate pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+Normal biventricular cavity sizes with preserved global biventricular systolic function.
+Pulmonary artery hypertension.
+Moderaet mitral regurgitation.
+Mild aortic regurgitation.
+Noted was a large amount of clot burden on the right side, but no active bleeding.
+The left side was clear and some minimal areas of secretions were all cleared with the flexible scope.
+Large amounts of clot were removed from the all segments of the right lower lobe, including the posterior segment as well as the right middle lobe.
+There were no signs of active bleeding.
+No endobronchial lesion visualized.
+The procedure was ended with no complications.
+79F w/PMH significant for bronchiectasis, afib s/o IR guided embolization for hemoptysis now called out from MICU for continued medical management of VAP; episode of chest pain during admission w/EKG changes, CEs negative x 3. .
+# Hemoptysis: Resolved s/p right bronchial artery embolization.
+Initially unclear etiology, with broad differential including bleeding in setting of bronchiectasis on dabigatran and overlying infection.
+Double lumen endotracheal tube was in place to protect the left lung from future bleeding and underwent emergent IR bronchial artery embolization of right bronchial artery embolization using 300-500 mic embospheres -> enlarged hypertrophic arteries suggestive of bleeding.
+She had a repeat bronch showing no bleeding but copiuous secretions concerning for a VAP which was treated as below.
+Her hematocrits remained stable and after consultation with her PCP it was decided that she would no longer be an anticoagulation candidate but could be restarted on asprin 325mg daily for stroke prevention in setting of AFib with recent TIAs.
+# Respiratory Failure/VAP.
+Intitially was intubated in the setting of hemoptysis however once bleeding resolved she continued to have RLL collapse on XRay concerning for another process.
+A bronch revealed no bleeding but copious secretions concerning for VAP.
+She was treated with Vanc and Zosyn until sputum and BAL cultures grew out two strains GNRS and antibiotics were broadened to Tobramycin.
+# Atrial fibrillation: Developed secondary to ASD surgical repair.
+Patient with history of cerebral bleed on coumadin and TIA without anticoagulation.
+Anticoagulation was held in the setting of hemoptysis and as above after consultation with her PCP she was restarted only on Aspirin 325mg daily for CVA ppx.
+Her home rate controlling agents were initially held in the setting of her bleed and slowly added back (metoprolol, diltiazem, and digoxin).
+Had episodes of afib with RVR in ICU, now resolved.
+# Diarrhea: In setting of tube feeds via NGT while patient was being cleared by speech and swallow.
+Denied abdominal pain, N/V, remained afebrile; C. diff negative x 2 and no leukocytosis.
+# Chest pain: 30 minute episode of L sided chest pressure [**4-1**] days prior to discharge, resolved with SLNG x 1, dynamic EKG changes notable for ST depressions in lateral leads, resolved when chest pain free.
+# Thrombocytosis: Isolated thrombocytosis without elevated WBC, fevers or other signs or symptoms of infection.
+# Code: Full  Medications on Admission: - albuterol inhaler - aspirin 81mg PO daily - cardizem CD 240mg PO daily - colace - combivent 2 puffs qid - dabigatran 150mg PO BID - demeclocycline 150mg PO BID - digoxin 0.25mg MWF, 0.125 other days - flonase - lasix 60mg PO daily - prilosec 20mg PO daily - spiriva - toprol 50mg PO daily - zyrtec 10mg PO daily  Discharge Medications:   1. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: [**11-29**]  Inhalation every six (6) hours as needed for shortness of breath or wheezing.
+Combivent 18-103 mcg/Actuation Aerosol Sig: Two (2) Inhalation four times a day as needed for shortness of breath or wheezing.
+Outpatient Lab Work Check CBC and CHEM-7 in 1 week ([**2112-1-5**]) to monitor for resolution of isolated thrombocytosis & check renal function and potassium after starting lisinopril.
+Discharge Disposition: Extended Care  Facility: [**Hospital1 **] at [**Hospital 4415**]  Discharge Diagnosis: Primary: Hemoptysis, ventilator associated pneumonia, chest pain Secondary: Bronchiectasis, atrial fibrillation  Discharge Condition: Mental Status: Clear and coherent.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+The bleeding was controlled and you did not have any more cough with blood after the breathing tube was taken out.
+You were also found to have a lung infection and received antibiotics.
+You had some chest pressure while you were in the hospital; you did NOT have a heart attack.
+- INCREASE Toprol XL to 150mg daily by mouth for your heart rate and blood pressure - INCREASE aspirin to 325mg daily by mouth for your heart and to thin your blood .
+- START simvastatin 40mg by mouth daily for your heart - START lisinopril 5mg by mouth daily for your heart and blood pressure - START quetiapine 12.5 mg at night as needed for anxiety/insomnia .
+In 1 week ([**2112-1-5**]) you should get outpatient lab work to check a CBC and CHEM-7 in  to monitor for resolution of your high platelet count & check your kidney function and potassium after starting lisinopril.

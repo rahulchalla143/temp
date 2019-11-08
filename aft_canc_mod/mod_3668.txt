@@ -1,0 +1,31 @@
+Admission Date:  [**2144-4-30**]              Discharge Date:   [**2144-5-7**]  Date of Birth:  [**2111-10-7**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 398**] Chief Complaint: respiratory failure, eval for trach  Major Surgical or Invasive Procedure: ETT at OSH and extubation PICC line placement and removal   History of Present Illness: This is a 32 y/o male with neurofibromatosis, s/p multiple cervical and thoracic surgeries c/b paraplegia [**2141**], progressive scoliosis, who now p/w progressive respiratory failure.
+He initially presented to his PCP [**Last Name (NamePattern4) **] [**2144-4-24**] with symptoms of progressive dyspnea without any associated symptoms of f/c/s, cough, chest pain, or sputum.
+He was further admitted to the OSH ICU for hypoxemic, hypercarbic respiratory failure.
+Of note, patient had a Klebsiella UTI at OSH, was started on Zosyn on [**2144-4-28**].
+Patient denies any current symptoms and is comfortable.
+Neurofibromatosis dx [**2127**] 2. h/o multiple thoracic and cervical spine fibromas causing obstruction ([**2130**], [**2131**], [**2138**]) c/b paraplegia in [**2141**] after cervical laminectomy with tumor and hardware removal 3. significant scoliois requiring fusion in [**2132**], repeat [**2133**] 4. h/o hypothalamic cystic brain tumor, s/p surgery and VP shunt [**2134**] 5. h/o PE in setting of spinal surgery [**2141**] 6. h/o ileus in [**1-1**] 7. h/o recurrent UTI's   Social History: Lives at home with his father, who is his caretaker.
+Family History: Mother passed away from breast CA, also had h/o neurofibromatosis.
+Intubated, ETT in place Neck: supple, large, unable to extend the neck Chest: diminished BS b/l, L>R CV: RRR s1 s2 normal, no m/g/r Abd: soft, obese, NT, NABS Ext: no c/c/e, withdrawn and slightly spastic Neuro: AO x 3, able to move left arm and wiggle toes.
+CT Trachea [**5-1**] 1) Left upper lobe collapse with abrupt termination of the left upper lobe bronchus, most likely due to extrinsic compression from large left lateral thoracic wall neurofibroma.
+Partial collapse of left lower lobe may also be due to this process.
+If warranted clinically, correlative bronchoscopy may be helpful to exclude any associated intrinsic abnormality.
+2) No definite evidence of tracheobronchomalacia, though the intubated portion of the trachea is difficult to assess due to the endotracheal tube.
+3) Small right pleural effusion.
+4) Multiple neurofibromas in paraspinal, thoracic wall, and subcutaneous locations.
+Similar mediastinal and retroperitoneal lesions may also represent neurofibromas.
+Extension of paraspinal neurofibromas into the spinal canal could be further assessed by MRI if warranted clinically.
+5) Dilated air filled small bowel loops; please correlate with clinical history, and if needed, imaging of the abdomen to exclude small bowel obstruction.
+Brief Hospital Course: A/P - 32 y/o male with neurofibromatosis, s/p multiple cervical and thoracic surgeries, scoliosis, p/w respiratory failure.
+# Respiratory failure - progressive, hypoxemic & hypercarbic respiratory failure.
+CT chest showed LUL collapse liikely from extrinsic compression from large neurofibroma.
+They felt that given his neck anatomy he would require a partial manubrectomy/sternectomy to place the tracheostomy and he would face long term consequences including granulation tissue formation as well as skin breakdown given the flexed position of his neck.
+He will continue to f/u with Dr. [**Last Name (STitle) **] from [**State 1727**] to monitor his pulmonary status.
+# Klebsiella UTI - recorded at OSH, resistant to fluroquinolones, started on Zosyn on [**2144-4-28**] which continued for 7 days (end date [**2144-5-4**]).
+# F/E/N - PO diet as tolerated .
+# PPx - heparin SC, aggressive bowel regimen .
+# Access - right femoral line [**2144-4-29**], d/c'd [**2144-5-2**], PICC placed on [**2144-5-2**] and removal on day of discharge.
+# Communication - father, [**Name (NI) 449**] [**Name (NI) 37557**] .
+# Dispo - Discharged home on home oxygen, nightly BiPAP.
+Discharge Disposition: Home  Discharge Diagnosis: Neurofibromatosis Hypoxemic resp failure due to restrictive lung physiology OSA   Discharge Condition: Stable to be discharged home in good condition.
+Discharge Instructions: You were admitted for evaluation for tracheostomy.
+Please take all medications as prescribed  Follow up as per below  Seek medical attention immediately if you experience new symptoms including shortness  Followup Instructions: Please contact Dr. [**First Name8 (NamePattern2) 449**] [**Last Name (NamePattern1) 73310**] office when you return to [**State 1727**] to schedule a follow up appointment with a pulmonologist.

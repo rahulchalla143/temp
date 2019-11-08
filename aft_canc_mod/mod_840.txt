@@ -1,0 +1,66 @@
+Admission Date:  [**2144-3-14**]              Discharge Date:   [**2144-3-19**]  Date of Birth:  [**2081-1-11**]             Sex:   M  Service: MEDICINE  Allergies: Cefepime  Attending:[**Last Name (NamePattern1) 495**] Chief Complaint: Fever, tachycardia  Major Surgical or Invasive Procedure: Central venous line Swan-Ganz catheter Arterial Line Endotracheal Intubation  History of Present Illness: Mr. [**Known lastname **] is a 63 year-old gentleman with recently diagnosed anaplastic T-cell lymphoma status post 1 cycle of CVP with radiographic improvement, also with a history of DM type 2 and CAD status post CABG in [**2129**] and recent NSTEMI, who presents from rehab with fever.
+He was recently discharged from [**Hospital1 18**] following a prolonged hospitalization during which the diagnosis of anaplastic T-cell lymphoma was made in the setting of clinical B symptoms and periportal lymphadenopathy, confirmed on lymph node biopsy.
+His hospital course was further complicated by a troponin leak consistent with probable NSTEMI with new WMA on echo and systolic dysfunction.
+He had persistent fevers which improved following chemotherapy, presumed secondary to lymphoma.
+Other events of note included spontaneous bilateral retroperitoneal bleeds (while on anticoagulation) with a requirement for transfusional support (required about 17U PRBC).
+A CT scan showed radiographic response.
+He now returns with fever and hypoxia at [**Hospital1 **] (88% RA, T-102.5).
+In this setting, he had a troponin leak to 1.04 (with no ischemic EKG changes, no symptoms).
+He was given some IVF (2.5 L), but was intermittently tachycardic with fevers so was admitted to the ICU for closer monitoring.
+Specifically, he has no dyspnea, no cough, no chest pain, no palpitations, no dysuria, no hematuria, no nausea/vomiting, no diarrhea  Past Medical History: ONCOLOGIC HISTORY: As noted above, Mr. [**Known lastname **] was diagnosed with anaplastic large cell lymphoma in [**1-/2144**] after he presented with B symptoms and periportal lymphadenopathy.
+Immunophenotyping on a lymph node biopsy specimen was consistent with anaplastic T-cell lymphoma.
+Anaplastic T-cell lymphoma as detailed above.
+Type 2 diabetes (HgbA1c 8.2 in [**2142-8-6**]) complicated by retinopathy and neuropathy, as well as autonomic dysfunction.
+CAD status post 4-vessel CABG in [**2129**], recent NSTEMI 4.
+CHF: Systolic dysfunction, presumed ischemic cardiomyopathy with EF 40-45% on last echo [**2144-2-21**], regional WMA.
+Persantine MIBI in [**1-/2144**] with no ischemic EKG changes or anginal symptoms, new mild fixed inferior perfusion defect.
+Ulcerative colitis times 15 years.
+Status post Nissen fundoplication for hiatal hernia [**2136**].
+RP bleed s/p fall [**2-12**] in setting of anticoagulation; required 17 U PRBC  Social History: Recently retired from work running autobody shop, following multiple knee surgeries.
+No known blood transfusions.
+Family History: Notable for diabetes.
+[**Name (NI) **] mother had coronary artery disease and sister has [**Name (NI) 4522**] disease.
+No large pleural effusion.
+Mild stable cardiomegaly.
+Interval increase in size of left pelvic retroperitoneal hematoma without evidence of active bleeding.
+No significant change in bilateral psoas hematomas.
+Patchy atelectasis and minimal left pleural effusion at the lung bases.
+Fat containing left inguinal hernia.
+Study is limited for evaluation of potential abscess or lymphadenopathy given lack of IV contrast administration.
+That said, there are no definite intra-abdominal abscesses identified.
+The bilateral retroperitonal hematomas have slightly decreased in size since previous study.
+Diffuse bilateral patchy airspace opacity consistent with pneumonia.
+Bilateral small pleural effusions, more prominent on the left.
+No definite liver lesions identified on this noncontrast view and no definite intra- or extra-hepatic biliary ductal dilatation identified.
+Moderate gallbladder wall thickening without evidence of pericholecystic fluid, wall distention or other signs for acute cholecystitis.
+Findings may reflect third spacing given the ascites seen on the recent CT study.
+Normal son[**Name (NI) 493**] appearance of the liver without evidence of mass or biliary ductal dilatation.
+Brief Hospital Course: 63M with anaplastic T-cell lymphoma, DM2, CAD s/p CABG in '[**29**], CHF, hyponatremia, retroperitoneal bleeding s/p fall admitted from [**Hospital1 **] after a prolonged hospitalization for new diagnosis of anaplastic T-cell lymphoma s/p CVP with fevers, hypotension and troponin elevation, found to have multifocal pneumonia with the development of severe septic shock.
+CT torso and RUQ ultrasound without evidence of intra-abdominal pathology.
+The patient was started on vanco/[**Last Name (un) 2830**]/flagyl/azithro for multifocal PNA and caspofungin added for fungal coverage.
+No organisms were recovered from BAL, sputum, blood, or urine cultures.
+Stress dose steroids were initiated and then discontinued given appropriately elevated serum cortisol.
+MICU Course as follows - [**3-15**]: Increasing respiratory distress, CXR revealed worsened pulmonary edema and he was given lasix with symptomatic improvement.
+Flagyl added given concern for potential aspiration.
+Given increased O2 demand and poor UOP,he was bolused with NS total [**2137**] cc with some improvement in symptoms and UOP.
+[**3-17**]: Overnight, intubated for respiratory distress and started on levophed for hypotension.
+CT Torso performed, no obvious abdominal abscess or liver/biliary pathology.
+[**3-18**]: Worsening lactic acidosis and multi-organ dysfunction.
+Renal consult for acid-base management.
+[**3-19**]: Family was contact[**Name (NI) **] given worsening sepsis and poor prognosis.
+Also with pulmonary edema.
+- Increased PEEP, ARDSnet protocol  - Sedated with Fentanyl and Versed .
+Elevated filling pressures on Swan-Ganz suggest some component of heart failure but predominately septic physiology.
+Brief runs of SVT, likely atrial tach, as well as frequent PVCs noted.
+#) Acute Renal Failure.
+Likely ATN [**2-7**] hypotension from sepsis.
+Renal consulted for acid-base management.
+s/p RP bleed after fall while anticoagulated.
+No evidence hemolysis; haptoglobin has been high in past, indirect bilirubin not high.
+Recent CT abd/pelvis suggestive of systemic response with reduced lymphadenopathy.
+Continued on reglan, ativan prn for gastroparesis.
+#) Ulcerative Colitis.
+No GI complaints during admission.
+Likely secondary to retroperitoneal bleeding (vs. elev LDH [**2-7**] malignancy), then worsened during sepsis.
+CT abdomen and RUQ U/S unrevealing.
+#)  Dispo: Expired  Medications on Admission: Folic Acid 1 mg PO DAILY Lasix 40 mg SSI, NPH 24/6 Losartan 35 mg Reglan 20 mg TID Lopressor 25 mg TID Nystatin swish Protonix 40 mg Senna Trazodone 75 mg qhs Zinc Ambien Albuterol ASA 81 mg Dulcolax Oxycodone PRN pain Vanco/Levo/flagyl (started [**3-13**])  Discharge Medications: None  Discharge Disposition: Expired  Discharge Diagnosis: Sepsis  Discharge Condition: Deceased  Discharge Instructions: None  Followup Instructions: None

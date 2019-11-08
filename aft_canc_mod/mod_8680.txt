@@ -1,0 +1,37 @@
+Admission Date:  [**2123-9-18**]              Discharge Date:   [**2123-9-26**]  Date of Birth:  [**2057-9-1**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 5552**] Chief Complaint: altered mental status  Major Surgical or Invasive Procedure: none  History of Present Illness: 66 yo man with a remote sz hx and Stage III metastatic NSCLC dx [**3-6**] w/ recent diagnosis of carcinomatous meningitis s/p chemo and XRT (completed [**8-31**]) transferred from [**Hospital 100**] Rehab after being found unresponsive.
+In the ED he had a witnessed GTC seizure and was intubated for airway protection.
+He has a low grade fever, severe hypertension and tachycardia.
+His Head CT does not show evidence of an acute infarct.
+Past Medical History: ONC HISTORY [**2123-3-29**] with SVC syndrome secondary to 3.3 x 3.0 x 3.6 cm mass in the right paratracheal space obstructing venous flow.
+In addition, he had a 5.0 x 4.8 x 5.7 cm mass centered within the right middle lobe adjacent to the right atrium and potentially invading into the extrapericardial fat.
+Staging workup showed no evidence of metastatic disease, and he commenced a combination of radiation therapy with weekly paclitaxel (50 mg/m2) and carboplatin (AUC 2) on [**2123-4-29**].
+During his last hospitalization, the patient was found to have leptomeningeal spread of his disease via lumbar puncture.
+Coronary artery disease, status post MI with a stent placement in [**2114**] 2.
+Hypertension 3.
+Hypercholesterolemia 4.
+One of his brothers died at age 62 from complications of pneumonia but was previously diagnosed with a lung cancer in his mid 50s.
+There are no other known malignancies in his family.
+Physical Exam: Admission: VS T 98.1 P 92 BP 127/86 R 17 O2 sat 99% on 100% FI02 TV 400, R 14, FI02 100 and 5 peep Gen- intubated and sedated HEENT- NCAT, anicteric, pupils small but reactive, OP positive for thrush and dry MMM Cor- RRR S1S2 no murmurs heard over the vent Pulm- anterior/lateral clear Abd- +bs, soft, nt, nd Extrem- no cce Neuro- sedated   Pertinent Results: COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct [**2123-9-25**] 07:12AM    7.1 4.59* 12.7* 39.4* 86 27.7 32.2 17.2* 329 [**2123-9-24**] 10:45AM    7.0 4.25* 11.8* 36.1* 85 27.7 32.7 17.2* 297 [**2123-9-20**] 04:00AM    10.2 3.79* 10.6* 31.9* 84 28.0 33.3 17.1* 280 [**2123-9-19**] 04:19AM    7.7 3.91* 11.2* 32.9* 84 28.6 34.0 17.8* 321 [**2123-9-18**] 07:26PM    9.1 4.42* 12.7* 38.7* 87 28.7 32.8 17.9* 447* .
+Subcentimeter enhancing lesion in the left cerebellar hemisphere may represent a metastatic focus.
+EEG [**2123-9-19**] This is an abnormal portable EEG due to frequent bursts of generalized delta frequency slowing in the setting of a slow and  disorganized background, consistent with a mild global encephalopathy.
+This suggests bilateral subcortical or deep midline dysfunction.
+Medications, metabolic disturbances, infections, and anoxia are among the common causes of encephalopathy.
+There were no focal or epileptiform features, although encephalopathic patterns can sometimes obscure focal findings.
+No electrographic seizures were noted.
+Brief Hospital Course: ASSESSEMENT/PLAN: 66 yo man with NSCLC with mets to leptomeninges s/p WBXRT who presents with mental status changes and witnessed seizure in ED intubated for airway protection admitted to [**Hospital Unit Name 153**].
+Found to have enterococcus UTI.
+# Mental status changes: Pt found to be unresponsive at the nursing home, had seizure in the ED.
+Neurology c/s: EEG mild global encephalopathy which could have been attributed to a variety of reasons including worsening brain involvement of NSCLC, infection, electrolyte disturbances, ischemia.
+Initially started on vanc/ctx for possible meningitis however d/c'ed.
+MRI head showed improvement in leptomeningeal enhancement however possible new met to L cerebellum.
+# Seizures: Origninally ntubated for airway protection but extubated without complications on the day after admission.
+Seizure was most likely due to leptomeningeal involvement of cancer with lowering of seizure threshold by UTI.
+Head CT didnot reveal any interval changes.
+#UTI: Found to have UTI with vanc and ampicillin sensitive enteroccous.
+# NSCLC with mets to leptomeninges: Most recently whole brain XRT [**2123-8-31**].
+new metastatic focus.
+# Electrolyte imbalance: Hypercalcemia & hypokalemia in the setting of dehydration and seizures.
+# h/o SIADH: No acute issues.
+Nystatin was initiated QID and continued during his stay, needs to be continued until thrush resolved.
+# Code: DNR/DNI .
+Discharge Disposition: Extended Care  Facility: [**Hospital6 459**] for the Aged - [**Location (un) 550**]  Discharge Diagnosis: Mental status changes Seizures Metastatic NSCLC Hypertension CAD s/p MI   Discharge Condition: Stable, afebrile, pain free.

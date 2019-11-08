@@ -1,0 +1,12 @@
+Admission Date:  [**2122-10-20**]       Discharge Date:  [**2122-11-27**]  Date of Birth:   [**2050-4-2**]       Sex:  M  Service:  Surgery, Green Team  HISTORY OF PRESENT ILLNESS:  The patient is a 72-year-old gentleman with a past medical history of hypertension, a 50-year smoking history, alcohol abuse, and chronic obstructive pulmonary disease who presented to Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 1888**] with a large polyp in the right colon.
+There were no operative complications.
+The patient was kept intubated overnight on the first night due to marginal respiratory effort.
+In the afternoon on postoperative day one, he was noted to be tachycardic and agitated.
+A workup indicated that at that point he had entered delirium tremens.
+NEUROLOGIC ISSUES:  The patient was started on Ativan for his delirium tremens, and this Ativan was required for extreme agitation for a number of weeks.
+He has also been diagnosed with metabolic encephalopathy and has a variable examination; at times only tracking with his eyes but not following commands and at other times attempting to speak and following commands.
+Neurologically, he also had a fall out of bed in early [**Month (only) 359**].
+A full workup was done for that including a head computed tomography and a head and neck magnetic resonance imaging; all of which were negative.
+CARDIOVASCULAR ISSUES:  From a cardiovascular standpoint, he flipped into atrial fibrillation at the time of the onset of his delirium tremens.
+RESPIRATORY ISSUES:  The patient has respiratory failure.
+INFECTIOUS DISEASE ISSUES:  From an Infectious Disease standpoint, the patient is currently on tobramycin and meropenem as coverage for Campylobacter and Pseudomonas pneumonia.

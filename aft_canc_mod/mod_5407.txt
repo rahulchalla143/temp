@@ -1,0 +1,62 @@
+Admission Date:  [**2198-11-1**]              Discharge Date:   [**2198-11-14**]  Date of Birth:  [**2135-3-22**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 3705**] Chief Complaint: fever, hypotension  Major Surgical or Invasive Procedure: EGD PEG placement PICC placement   History of Present Illness: HPI: 63 male with a history of end-stage liver disease secondary to non-alcoholic steatohepatitis, seizure disorder, type 2 diabetes, hypothyroidism presents with fevers and hypotension and profound dehydration from [**Hospital1 **].
+Per their records, he had been having fevers for several days.
+It was considered that he could have a nasal source from chronic dobhoff.
+He has poor baseline functional status, and is not able to relate any complaints.
+He had some green diarrhea on the day prior to presentation and his blood sugars had been very high for the past several days (300's).
+He was treated for his seizures, which were felt secondary to his elevated ammonia level.
+He also developed sepsis and was started on CVVH.
+His blood cultures at that time had coag negative staph and vanco-sensitive enterococcus.
+He also had an episode of VT and an echo at the time revealed a decreased EF of approximately 40%.
+He was in in acute renal failure.
+Past Medical History: PMHx: - NASH cirrhosis, on transplant list - HCC - Diabetes Mellitus Hypertension - Seizure disorder - Hypothyroidism - GERD - CHF, TTE in [**2198-8-10**] demonstrated LVEF 40% with regional LV wall motion abnormalities, which was new as compared to [**3-/2198**] (EF at that time was >55%.
+- CAD, s/p cardiac cath in [**2187**] for planned PTCA of RCA which failed secondary to occlusion and dissection; followed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] - Hyperlipidemia - UGIB s/p TIPS [**12/2197**]  Social History: Remote smoking history, married.
+Family History: NC  Physical Exam: Physical Exam on Admission:  Physical Examination: VS Tm 101.2 Tc 97.4  98/52  78  28  100% on 35% trach mask General: Elderly, ill appearing male, lying in bed, NAD HEENT: MMdry, white film on tongue, poor dentition, PERRL Neck: supple, no LAD, trach in place, JVP flat Lungs: Coarse BS bilaterally Cardiac: Regular, II/VI HSM at apex, no S3 or S4 Abdomen: obese, sl distended, nt, pos BS GU: No scrotal edema Extr: Trace LE swelling.
+Upper extremities with 2+ pitting edema in the forearms.
+CXR: Persistent atelectasis within the right perihilar region and left lung base.
+Abd u/s [**11-2**] FINDINGS: There is no ascites identified in the abdomen.
+No new liver masses are identified, and there is no biliary dilatation identified.
+Velocities within the TIPS shunt are 30, 96, and 282 in the proximal, mid and distal portions respectively.
+Elevated velocities within the distal portion are concerning for a distal stenosis.
+Brief Hospital Course: A/P [**11-11**]: 63M h/o ESLD [**1-19**] NASH, HCC, seizure disorder, DM2, hypothyroidism, poor baseline mental status (unable to speak, unable to move extremities at baseline per wife), admitted from rehab via [**Name (NI) **] with fevers, hypotension, profound dehydration, and electrolyte derangements, now with improved mental status after rehydration.
+# Fevers/hypotension: His initial presentation was felt to be concerning for sepsis in light of fevers prior to admission.
+The possible sources of infection were felt to include decubitus ulcer, GI/diarrhea, UTI, pulmonary.
+He was initially covered with linezolid with history of VRE, which was switched to daptomycin, piperacillin/tazobactam, and metronidazole for broad coverage.
+His chest x-ray showed no pneumonia.
+He had no recurrent fevers and blood and urine cultures and stool C. diff were negative.
+Given this clinical picture, hypovolemia from dehydration rather than sepsis was considered the most likely cause of hypotension.
+Seizures during his prior admission were primarily absence in nature, as he would stare off and become non-responsive, but no rhythmic motions were noted.
+The Epilepsy service was consulted to assist with management of his several anti-epileptics.
+Given his low albumin, corrected phenytoin levels (goal 20-30) and free phenytoin levels (goal 2-2.5) were followed.
+Continuous EEG monitoring x 2 days demonstrated slow background but no rhythmic epileptiform activities, ruling out subclinical seizures.
+He was also placed on lorazepam 0.75 mg TID for seizure prophylaxis in the setting of lowered seizure threshold.
+His phenytoin dose was further decreased to 150mg per PEG TID after his free phenytoin level returned elevated at 2.9.
+He had periods of increased lucidity with orientation to person and place.
+# UGIB: On [**11-8**], patient had coffee-ground emesis.
+Noticed some brown mucous at trach site.
+NG lavage showed coffee grounds but no bright red blood.
+EGD on [**11-9**] showed small hiatal hernia and grade B esophagitis with contact bleeding in the lower third of the esophagus.
+Consider holding aspirin for 2 weeks (to restart on [**11-18**]) to allow mucosa to heal, in light of risk of recurrent life-threatening GI bleeding.
+# Hypernatremia:  Hypernatremia to 166 on admission was considered most likley due to hypovolemia given his clinical exam and improvement with replacement of his 8L free water deficit.
+# CAD: Patient has history of CAD, and had elevated troponin on admission, but was unable to give a history of chest pain.
+Acute renal failure was considered a possible contributor to elevated troponin levels, and his CK trended downwards.
+His aspirin was held in the setting of an upper GI bleed as above.
+# Decubitus ulcer / heel blisters: Pt was admitted with stage 2 ulcer on coccyx and pressure blisters on heels.
+# ESLD/cirrhosis: He has a history of HCC and NASH cirrhosis, and is s/p TIPS after a GI bleed.
+He was previously considered for liver transplant but has been delisted due to his baseline mental status.
+A RUQ US was performed on admission with some concern for TIPS stenosis.
+IR assessed the TIPS under fluoroscopy and found mild narrowing but no hemodynamically significant stenosis.
+His ammonia level was found to be elevated from baseline as above, although his mental status remained at baseline.
+# Pancytopenia: Patient was found to be pancytopenic (but not neutropenic) on admission, with low platelets and leukopenia thought likely secondary to chronic liver disease/sequestration, and low hematocrit thought likely secondary to anemia of chronic disease.
+His hematocrit was stable after resuscitation from GI bleed as above.
+# Respiratory failure s/p tracheostomy: No respiratory difficulties during this admission with stable oxygen saturation on baseline 35% trach mask.
+Hypovolemia on admission was corrected with aggressive fluid resuscitation.
+Patient subsequently developed anasarca due to low albumin state, although respiratory status was not compromised.
+Hypernatremia as above.
+Albuterol Sulfate 0.083 % (0.83 mg/mL) Solution [**Hospital1 **]: One (1) nebulizer Inhalation Q4H (every 4 hours) as needed for shortness of breath or wheezing.
+Ipratropium Bromide 0.02 % Solution [**Hospital1 **]: One (1) nebulizer Inhalation Q4H (every 4 hours) as needed for shortness of breath or wheezing.
+Discharge Disposition: Extended Care  Facility: [**Hospital3 7**] & Rehab Center - [**Hospital1 8**]  Discharge Diagnosis: Primary: Hypernatremia Hypovolemia Upper GI bleed Sacral decubitus ulcer  Secondary: Epilepsy CAD CHF   Discharge Condition: Stable, mental status at baseline, BP stable, electrolytes within normal limits   Discharge Instructions: You were admitted to the hospital with fever, low blood pressure, and a very high sodium level.
+No source of infection was discovered despite extensive testing and your fever never recurred, so you were taken off antibiotics.
+You had continuous EEG monitoring that did not show any evidence of seizure activity.
+You had some bleeding from your stomach which was thought to be secondary to irritation of the stomach lining.
+You were given a few doses of IV furosemide for edema in your arms and legs.
+If you experience low blood pressure, fever, blood in vomit or stool, seizure activity, change in mental status from your baseline, or other concerning symptoms, please call your doctor or go to the ER.

@@ -1,0 +1,72 @@
+Admission Date:  [**2188-2-15**]              Discharge Date:   [**2188-2-20**]  Date of Birth:  [**2132-2-8**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 425**] Chief Complaint: chest pain  Major Surgical or Invasive Procedure: none   History of Present Illness: 56-year-old man with history of CAD (angioplasty in [**2177**], [**Year (4 digits) 32522**] in LCx in [**2184**]), small-cell lung cancer, type II DM, hyperlipidemia, hypertension was transferred from [**Hospital1 **] with tamponade.
+The patient had a chest CT for lung cancer that showed a large pericardial effusion.
+He had an echo that showed EF 65-70%, large circumferential pericardial effusion with evidence of diastolic collapse of RA but not RV.
+ECG showed no active ischemic changes and troponin T was < 0.01.
+Repeat echo showed a 1-cm decrease in circumferential pericardial effusion.
+He was transferred to [**Hospital1 18**] for further management, including possible percardial window.
+On review of systems, he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.
+He denies recent fevers, chills or rigors.
+He denies exertional buttock or calf pain.
+Cardiac review of systems is notable for absence of chest pain, dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope.
+CARDIAC RISK FACTORS:: Diabetes (+), Dyslipidemia (+), Hypertension (+) 2.
+OTHER PAST MEDICAL HISTORY: type II diabetes: was on oral hypoglycemics then insulin, but has been off insulin and meds for more than 1 year due to reportedly normal glucose   Family History: No history of heart disease or DM.
+Sclera anicteric.
+Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.
+No xanthalesma.
+No thrills, lifts.
+LUNGS: No chest wall deformities, scoliosis or kyphosis.
+Bibasilar crackles.
+No HSM or tenderness.
+No abdominial bruits.
+No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+There is moderate symmetric left ventricular hypertrophy.
+Tissue Doppler imaging suggests an increased left ventricular filling pressure (PCWP>18mmHg).
+with mild global free wall hypokinesis.
+The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present.
+Mild (1+) aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+There is no mitral valve prolapse.
+Mild (1+) mitral regurgitation is seen.
+There is borderline pulmonary artery systolic hypertension.
+There is a moderate to large sized pericardial effusion.
+No right atrial or right ventricular diastolic collapse is seen.
+There is significant, accentuated respiratory variation in mitral/tricuspid valve inflows, consistent with impaired ventricular filling.
+Compared with the prior study (images reviewed) of [**2185-1-10**], the left ventricle appears hypertrophied and small, consistent with underfilling.
+The moderate to large pericardial effusion is new with early tamponade physiology.
+Mild aortic regurgitation is new.
+There is a mass lateral to the left atrium.
+There is mild regional left ventricular systolic dysfunction with focal mild hypokinesis of the basal half of the inferolateral wall.
+The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present.
+Mild (1+) aortic regurgitation is seen.
+Mild to moderate ([**1-25**]+) mitral regurgitation is seen.
+There is a moderate sized circumferential pericardial effusion most prominently (1.5cm) inferior to the left ventricle and around the right atrium with less (<1cm elsewhere).
+There are no echocardiographic signs of tamponade.
+Clinical decisions regarding the need for prophylaxis should be based on clinical and echocardiographic data.
+Large mixed attenuation but predominantly hyperdense collection which appears to display mass effect on the adjacent left lobe of the liver is highly concerning for a large intraperitoneal or possibly subcapsular hemorrhage.
+Tiny pockets of air identified and may be related to recent procedure.
+Underlying mass lesion is a source of the hemorrhage cannot be excluded without IV contrast.
+Moderate amount of intra- abdominal and intrapelvic ascites of which has a hemorrhagic component within the pelvis.
+Ill-defined soft tissue mass within the posterior mediastinum, which appears to extend into/through the pericardium and possibly into the left atrium.
+This mass extends towards the bifurcation of the lingular and lower lobe bronchus and results in postobstructive changes involving the lingula and lower lobes.
+Superinfection of these atelectatic portions of lung cannot be excluded by imaging.
+Appearnce of the volume loss may also be related to prior XRT.
+Moderate to large pericardial effusion.
+Small bilateral pleural effusions.
+No regions of hemorrhage are identified within these fluid collections.
+Ill-defined hyperdense 3 x 3 cm right-sided peritoneal mass adjacent to the right paracolic gutter is suspicious for peritoneal metastasis or well formed hematoma.
+Multiple small bilateral pulmonary nodules as described above.
+Exophytic left upper pole renal lesion which is not clearly a simple cyst.
+Dedicated contrast enhanced cross-sectional imaging (MRi or CT) is recommended when feasible to exclude underlying renal cell carcinoma/metastasis.
+RUQ US ([**2-16**]) IMPRESSION: In conjunction with the same day CT, a heterogeneous fluid collection surrounding and causing mass effect upon the the left hepatic lobe likely represents hemorrhage, largely subcapsular in location.
+Brief Hospital Course: Mr [**Known lastname 64645**] is a 56-year-old man with history of small cell lung cancer, CAD (BMS in [**2177**], [**Year (4 digits) 32522**] in LCx in [**2184**]), type II DM, IV drug use was transferred from OSH with pericardial effusion.
+# Pericardial effusion: Large pericardial effusion noted at OSH on chest CT; TTE showed large circumferential pericardial effusion with diastolic collapse of RA but not RV.
+Pt was treated with pericardiocentesis but minimal fluid drained.
+The effusion is likely malignant in etiology, caused by progression of his known small cell lung cancer.
+# CAD: s/p angioplasty in [**2167**] and [**Year (4 digits) 32522**] in LCx in [**2184**].
+No ischemic changes on ECG.
+# Small cell lung cancer: chest CT reportedly showed recurrent lung tumor.
+# DM2: reportedly off insulin and oral meds due to normoglycemia.
+Discharge Disposition: Home  Discharge Diagnosis: primary:  pericardial effusion secondary:  small cell lung cancer, coronary artery disease, type 2 diabetes, hyperlipidemia, hypertension   Discharge Condition: stable, with persistent pericardial effusion   Discharge Instructions: You were transferred to [**Hospital1 18**] for a pericardial effusion.
+In the hospital you were found to have some bleeding around your liver.
+Please return to the hospital if you have shortness of breath, chest pain, high fevers and chills, or other symptoms that are concerning to you.

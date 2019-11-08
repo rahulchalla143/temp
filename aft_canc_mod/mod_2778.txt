@@ -1,0 +1,42 @@
+Admission Date:  [**2142-5-18**]              Discharge Date:   [**2142-6-2**]   Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 6180**] Chief Complaint: Abdominal pain  Major Surgical or Invasive Procedure: None  History of Present Illness: 80M Chinese-speaking with Hepatitis B, hepatoma s/p Radiofrequency ablation on [**2142-5-3**] who presented to ED with abdominal pain that patient thought was constipation (no BM x few days).
+He was having an annual physical in [**Month (only) 547**] with AFP checked due to history of hepatitis B.
+He has a long history of hepatitis B as does his wife and two sons.
+[**Name (NI) 6**] ultrasound was done on [**2142-3-21**] that showed a five centimeter mass in the left hepatic lobe and two masses in the right hepatic lobe, the largest measuring two centimeters.
+No biopsy was done, but due to the history and the AFP it is assumed that he has hepatocellular carcinoma.
+Pt returned to [**Location **] c/o abd pain and decreased [**Known firstname **] intake over 2 weeks PTA.
+Denied N/V, diarrhea, BRBPR, or respiratory Sx.
+In ED, T100.3, WBC 16.5 w/neutrophilia, lactate 5.4, and became hypotensive to SBP 80s so started on sepsis protocol.
+Central line placed, given 9L IVF, started on levophed x3hrs, vanco/levo/flagyl for suspected GI vs resp source.
+Past Medical History: -Hepatitis B -Hepatoma: Dx [**2142-3-21**]; s/p radiofreq ablation [**2142-5-3**]; followed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] -diabetes mellitus, type 2, Dx last yr, no meds just diet & exercise -?glaucoma -hearing loss   Social History: He does not smoke or drink.
+Family History: Significant for father with liver cancer who died at age 85.
+Physical Exam: GENERAL:  Mildly ill appearing male, in no acute distress.
+Oropharynx is without lesions or erythema.
+MMM LYMPHATICS:  No cervical, supraclavicular, axillary, or inguinal adenopathy.
+No wheezes or rhonchi.
+No ascites appreciated.
+EXTREMITIES:  Without clubbing, cyanosis, hands and feet with trace edema.
+Pertinent Results: CXR [**2142-5-20**]: There is continued mild congestive heart failure with slightly increased moderate-sized right pleural effusion.
+The possibility of superimposed pneumonia cannot be excluded.
+No pneumothorax is identified.
+There is diffuse dilatation of the bowel, probably due to ileus.
+CT abd [**2142-5-18**]: IMPRESSION: 1) No evidence of hematoma or abscess.
+2) Hypodense areas in the liver consistent with post-RF ablation changes.
+3) Focus of enhancement adjacent to the right lobe RF ablations site, raising concern for persistent hepatoma.
+4) Likely bibasilar atelectasis, although the presence of infection cannot be entirely excluded.
+RUQ Ultrasound ([**2142-5-18**]) IMPRESSION: 1) Multiple areas of heterogeneous echotexture consistent with prior RF ablations sites.
+2) No intra or extra-hepatic biliary ductal dilatation.
+There is mild symmetric left ventricular hypertrophy.
+Left ventricular systolic function is hyperdynamic (EF>75%).
+The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present.
+The mitral valve leaflets are mildly thickened.
+There is no mitral valve prolapse.
+The tricuspid valve leaflets are mildly thickened.
+There is moderate pulmonary artery systolic hypertension.
+There is a trivial/physiologic pericardial effusion.
+Brief Hospital Course: The patient is an 80 yo chinese-speaking male with hepatitis B and hepatoma s/p radiofrequency ablation on [**2142-5-3**] who was admitted to [**Hospital1 18**] on [**2142-5-18**] with enterococcus bacteremia and sepsis admitted to the ICU on the MUST protocol.
+He found to have adreanl insufficency and started on steroids.
+CXR showed a greated increased right pleural effusion.
+He continued to become tachycardiac and O2 requirements increased from 2L NC to 100% NRB.
+After several days of fluid resusitation, the patient became increasingly fluid overloaded.
+No other medications.
+Discharge Disposition: Expired  Facility: [**Hospital1 18**]  Discharge Diagnosis: Hepatitis B Hepatoma Respiratory Failure Sepsis  Discharge Condition: Death

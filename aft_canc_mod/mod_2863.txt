@@ -1,0 +1,63 @@
+Admission Date:  [**2152-12-31**]              Discharge Date:   [**2153-1-8**]  Date of Birth:  [**2095-9-18**]             Sex:   M  Service: MEDICINE  Allergies: Asparagus  Attending:[**First Name3 (LF) 1436**] Chief Complaint: Transfer from [**Hospital1 **] for pericardiocentesis with pigtail catheter placement.
+Major Surgical or Invasive Procedure: Right heart catheterization Pericardiocentesis with pericardial drain placement [**2153-1-1**] Right thoracentesis [**2153-1-3**] Left thoracentesis [**2153-1-5**]   History of Present Illness: Mr. [**Known lastname **] is a 57 year old male with history of hyperlipidemia and GERD, who is transferred to [**Hospital1 18**] from [**Hospital1 **] for urgent pericardiocentesis with drain placement.
+His symptoms began 1 week prior to admission, when he awoke with malaise, cough, and sore throat.
+His malaise became worse through the week, and he complained of fevers/chills, as well as n/v/d the day before presentation to [**Hospital1 **] on [**2152-12-30**].
+A CXR revealed RLL and RUL infiltrates, and his wbc count was 13.2 with mild L shift.
+An echo done later that night showed a large pericardial effusion, and decision was made to transfer patient to [**Hospital1 18**] for pericardiocentesis and pigtail catheter placement.
+They deny that he complained of any previous cough, no previous n/v/d, no anorexia or weight loss.
+He did have hematochezia approximately 3 weeks ago, however attributed it to a hemorrhoid, and it resolved.
+Unsure if he has ever had a PPD test.
+Abd: NABS, soft, obese, no dullness to percussion.
+Pertinent Results: [**2152-12-31**] WBC-13.6* Hgb-9.3* Hct-28.4* MCV-91 MCHC-32.8 RDW-14.2 Plt Ct-224 [**2153-1-7**] WBC-10.6 Hgb-12.0* Hct-36.9* MCV-90 MCHC-32.6 RDW-14.4 Plt Ct-313 [**2152-12-31**] Neuts-89.5* Bands-0 Lymphs-7.0* Monos-3.1 Eos-0.1 Baso-0.2 [**2153-1-5**] Neuts-88.5* Lymphs-6.4* Monos-4.7 Eos-0.4 Baso-0  [**2152-12-31**] PT-23.1* PTT-40.2* INR(PT)-3.4 [**2153-1-5**] PT-13.4 PTT-23.9 INR(PT)-1.1  [**2152-12-31**] Glucose-94 UreaN-69* Creat-2.1* Na-145 K-4.1 Cl-110* HCO3-17* [**2153-1-2**] Glucose-116* UreaN-55* Creat-1.0 Na-148* K-3.2* Cl-117* HCO3-25 [**2153-1-7**] Glucose-98 UreaN-11 Creat-0.5 Na-141 K-3.6 Cl-107 HCO3-24  [**2152-12-31**] ALT-2911* AST-3424* LD(LDH)-6996* CK(CPK)-2782* AlkPhos-71 TotBili-0.7 [**2153-1-2**] ALT-3119* AST-1643* LD(LDH)-2252* CK(CPK)-1316* AlkPhos-90 TotBili-0.9 [**2153-1-5**] ALT-1069* AST-142* LD(LDH)-457* AlkPhos-177* TotBili-1.6* [**2153-1-6**] ALT-620* AST-68* LD(LDH)-306* AlkPhos-140* Amylase-80 TotBili-1.1  [**2152-12-31**] Albumin-2.9* Calcium-6.7* Phos-7.6* Mg-2.5 [**2153-1-7**] Calcium-8.0* Phos-2.2* Mg-1.8  [**2153-1-2**] Iron-35* calTIBC-191* Ferritn-GREATER TH TRF-147*  [**2152-12-31**] Cortsol-53.8*  05:33AM BLOOD HBsAg-NEGATIVE HBsAb-NEGATIVE IgM HAV-NEGATIVE  [**2153-1-6**] BLOOD CEA-78*  FLUID STUDIES:  [**2152-12-31**] PERICARDIAL FLUID WBC-2700* HCT,fl-26* Polys-37* Lymphs-8* Monos-5* Eos-1* Atyps-2* Macroph-31* Other-16* TotPro-5.6 Glucose-29 LD(LDH)-831 Amylase-35 Albumin-3.3  [**2153-1-3**] PLEURAL WBC-2500* RBC-[**Numeric Identifier 59406**]* Polys-13* Lymphs-72* Monos-1* NRBC-3* Meso-6* Macro-2* Other-3* TotProt-2.6 Glucose-125 LD(LDH)-443  [**2153-1-5**] PLEURAL WBC-278* RBC-[**Numeric Identifier 59407**]* Polys-21* Lymphs-32* Monos-0 Macro-4* Other-43* TotProt-2.4 Glucose-106 LD(LDH)-423 Albumin-1.4  MICRO:  [**2153-1-1**] 12:44 am BLOOD CULTURE     Site: A LINE                              **FINAL REPORT [**2153-1-7**]**     AEROBIC BOTTLE (Final [**2153-1-7**]):    NO GROWTH.
+ANAEROBIC BOTTLE (Final [**2153-1-7**]):    NO GROWTH.
+NO MICROORGANISMS SEEN.
+ANAEROBIC CULTURE (Final [**2153-1-9**]):    NO ANAEROBES ISOLATED.
+ACID FAST SMEAR (Final [**2153-1-4**]):       NO ACID FAST BACILLI SEEN ON DIRECT SMEAR.
+ACID FAST CULTURE (Final [**2153-3-5**]):    NO MYCOBACTERIA ISOLATED.
+Baseline right atrial pressure was markedly elevated with a mean pressure of 30 mmHg.
+A promenent pulsus paradoxus was noted in the femoral  arterial tracing, all signs consistent with pericardial tamponade.
+Successful pericardiocentesis with drainage of approximately 800 cc of grossly bloody fluid.
+Selective coronary angiography demonstrated minimal luminal  irregularities, with no obstructive lesions in the LMCA, LAD, LCX, or RCA.
+Post-pericardiocentesis hemodynamics demonstrated marked respiratory variation in the intracardiac pressure tracings, with pericardial pressure of 10mmHg, and RA pressure remaining elevated.
+The PCWP was elevated at 18mmHg, and the cardiac index was low-normal.
+Effusive constrictive syndrome.
+Chest Portable [**2153-1-1**]:  IMPRESSION: Widened mediastinum and rounded enlargement of the right hilar contours, concerning for lymphadenopathy from a neoplastic process.
+Multifocal pulmonary opacities most prominent in the right upper lobe and retrocardiac portions of the lower lobes, which may be due to the history of pneumonia.
+Mild (1+) mitral regurgitation is seen.
+There is mild pulmonary artery systolic hypertension.
+There is a small echodense pericardial effusion located and anterior to the left ventricle and extending around the left venticular apex with minimal effusion anterior to the right ventricle.
+No evidence for tamponade or constriction are seen.
+Right upper lobe lung mass with extensive mediastinal and hilar lymphadenopathy, suspicious for primary lung cancer with extensive nodal spread.
+No pulmonary embolism.
+Small low attenuation lesion in the liver too small to characterize.
+No lymphadenopathy within the abdomen or pelvis.
+Moderate-to-large bilateral pleural effusions with lower lobe consolidation and collapse.
+The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic regurgitation.
+Mild (1+) mitral regurgitation is seen.
+There is no pericardial effusion.
+CT head [**2153-1-6**]:  IMPRESSION: No evidence of intracranial metastases.
+Bone Scan [**2153-1-8**]:  IMPRESSION: No foci of osseous metastatic disease.
+PATHOLOGY:  Pericardial fluid [**2153-1-1**]: DIAGNOSIS: Positive for malignant cells, consistent with poorly   differentiated non-small cell carcinoma.
+A few atypical but degenerated epithelial cells present in a   background of pulmonary macrophages, bronchial cells,   squamous cells and inflammatory cells.
+Suspicious for metastatic non-small carcinoma.
+Rare highly atypical epithelial cells present, especially in   additionally prepared cytospin slide and Heme slide (1403D;   [**2153-1-3**]).
+Note: Immunostains performed on cytospin slides including   monoclonal CEA, calretinin, CK7 and CK20 are not   contributory due to scant atypical cells and high background   staining.
+Brief Hospital Course: 57 year old male ex-smoker with hyperlipidemia and GERD, who presented to OSH with multilobar pneumonia, large pericardial effusion, desaturation requiring extubation, transferred to [**Hospital1 18**] for urgent pericardiocentesis with pericardial drain placement.
+1) Hypotension, shock:  Thought to be cardiogenic in nature, secondary to tamponade as demonstrated on echo and confirmed in the cath lab.
+He received fluids and his hemodynamics markedly improved after drainage of his pericardial effusion.
+2) Pericardial effusion:  On arrival, 850 cc of hemorrhagic fluid were drained in cath lab.
+Given the patient's bilobar pneumonia, mildly elevated calcium at OSH, and heavy smoking history, there was concern for bronchogenic carcinoma.
+3) Non-small cell lung cancer:  A CT of his chest demonstrated a 3.5 x 3.5 cm mass within the right upper lobe medially; areas of collapse/consolidation adjacent to this; extensive lymphadenopathy within the prevascular, pretracheal, subcarinal, and right hilar regions, the largest lymph node conglomerate measuring 2.3 x 5.8 cm in the subcarinal region; no pathologically enlarged axillary lymph nodes; 3.1 x 2.7 cm right paratracheal lymph node as well as a 2.4 x 2.9 cm left prevascular lymph node; right hilar lymph node measuring approximately 2.8 x 2.7 cm.
+As above, the cytology from his pericardial effusion was consistent with a poorly differentiated non-small cell lung cancer, making bronchoscopic biopsy unecessary.
+A staging workup was negative for brain or bone metastases, and the remainder of his CT did not show intra-abdominal metastases.
+He was comfortably breathing room air on discharge, and had been afebrile for days.
+found to have elevated creatinine on presentation to OSH - thought to be pre-renal from dehydration in the setting of infxn, nausea and vomiting.
+6) Anion gap metabolic acidosis:  He had a gap acidosis on arrival, thought secondary to his lactate of 14, which trended down concurrent with gap closure.
+7) Elevated LFTs: His transaminases were in the thousands on arrival, with elevated PT, thought secondary to shock liver.
+Troponin was elevated at 0.13, however given his normal CK-MB, this was attributed to impaired clearance with renal failure, and the stress on the heart given his effusion and cardiogenic shock.
+To facilitate extubation and improve oxygenation, the patient had bilateral thoracenteses prior.
+Both taps yielded 1L of sanguinous fluid, positive for atypical cells.
+10) Anemia:  His iron studies were consistent with anemia of chronic inflammation.
+Discharge Disposition: Home  Discharge Diagnosis: Non-small cell lung cancer Pericardial effusion Pleural effusions bilaterally Pneumonia Acute renal failure, now resolved   Discharge Condition: Good, stable.
+Seek medical help if you become more short of breath, or develop lightheadedness or chest pain.
+You may need to contact your primary care doctor to obtain a referral for the oncology and pulmonary appointments.

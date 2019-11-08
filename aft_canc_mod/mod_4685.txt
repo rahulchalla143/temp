@@ -1,0 +1,89 @@
+Admission Date:  [**2191-8-26**]              Discharge Date:   [**2191-9-7**]  Date of Birth:  [**2111-2-8**]             Sex:   F  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 5141**] Chief Complaint: work-up of endobronchial mass  Major Surgical or Invasive Procedure: Thoracentesis PICC line placement   History of Present Illness: Primary Oncologist: [**Location (un) **], [**Name8 (MD) **] NP [**Last Name (LF) **], [**First Name7 (NamePattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **] .
+Chief Complaint:  transfer from OSH for post obstructive PNA / eval and management, Metastatic Melanoma.
+She was found to have afib with RVR, was treated with dilt, and on her request trasferred to an other OSH (see outside records).
+She was treated with Zosyn and levofloxacin for post obstructive pna, given extensive pulmonary disease on OSH Ct.
+Per recommendation of primary oncologist Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 87663**], radiation to obstructing endobronchial lesion should be considered, and was therefore accepted by Dr. [**Last Name (STitle) **] to be transferred to [**Hospital1 18**].
+Currently patient reports no SOB (although in obviouse respiratory dysstress)   .
+Review of Systems: (+) Per HPI (-) Review of Systems: GEN: No fever, chills, night sweats, recent weight loss or gain.
+HEENT: No headache, sinus tenderness, rhinorrhea or congestion.
+CV: No chest pain or tightness, palpitations.
+PULM: No cough, shortness of breath, or wheezing.
+GI: No nausea, vomiting, diarrhea, constipation or abdominal pain.
+No recent change in bowel habits, no hematochezia or melena.
+GUI: No dysuria or change in bladder habits.
+MSK:  No arthritis, arthralgias, or myalgias.
+DERM: No rashes or skin breakdown.
+Past Medical History: Past Oncologic History: -[**2187**] she was diagnosed with right upper arm melanoma limited to the dermis.
+-In [**2188**] she was found to have multiple PET avid pulmonary nodules.
+The pathology examination showed metastatic malignant melanoma.
+- In [**2189-8-1**] started chemotherapy with temozolomide with initial decrease of the pulmonary lesions and than disease stability.
+- Disease progression was further documented by CT chest ([**2191-5-5**]), the brain CT was negative for metastatic disease.
+Other Past Medical History: Essential thrombocythemia on hydroxyurea A.Fib on coumadin, s/p pacemaker placement HTN Aortic stenosis and moderate MR DCIS of the left breast Hx of Barrett's esophagus s/p hysterectomy in [**2160**]  Social History: married with 5 children, used to smoke 1ppd, quit over 20 years ago.
+Pulm: decrease breath sounds, with bilateral basal crackles.
+Abd: BS+, soft, NT, no rebound/guarding, Extremities: no edema.
+[**4-6**] harsh systolic murmur best heard over LUSB with palpable thrill.
+Crackles at left base.
+ABDOMEN: Mildly tender to palapation suprapubically.
+SKIN: Continued rash diffusely over back with 1-2mm discreet erythematous macules.
+Moderate right pleural effusion with subsequent right atelectasis.
+Mild cardiomegaly, signs of mild fluid overload.
+Increased size of the left hilus that should be further evaluated by CT. No evidence of pneumonia.
+CXR ([**8-28**]): Severe cardiomegaly and enlarged main and left pulmonary arteries are unchanged.
+Moderate right pleural effusion with adjacent atelectasis is unchanged.
+Left lower lobe atelectasis has worsened.
+There is no evident pneumothorax.
+Again seen is severe cardiomegaly with enlargement of the pulmonary arteries which are unchanged.
+Moderate right and mild left pleural effusions with adjacent lung atelectasis remain stable since the prior radiograph.
+A small nodular opacity in the left upper lung on correlation with chest CT dated [**2191-7-25**] represents lung nodule and in view of history is concerning for metastasis.
+There is no pneumothorax.
+CXR ([**8-29**]): Moderate-to-severe cardiomegaly and hugely dilated main and left pulmonary arteries are longstanding.
+The extent and nature of bibasilar consolidative abnormalities are better displayed by the concurrent chest CTA reported separately showing left lower lobe atelectasis and a large right lower lobe pneumonia.
+Small bilateral pleural effusions are also present.
+No pneumothorax.
+The right atrium is moderately dilated.
+There is mild symmetric left ventricular hypertrophy.
+There is right venticular hypertrophy.
+There is abnormal septal motion/position consistent with right ventricular pressure/volume overload.
+The aortic valve leaflets are mildly thickened (?#).
+There is no aortic valve stenosis.
+No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+There is severe mitral annular calcification.
+Mild (1+) mitral regurgitation is seen.
+The tricuspid valve leaflets are mildly thickened.
+There is mild tricuspid stenosis (area >1.5cm2).
+There is moderate pulmonary artery systolic hypertension.
+There is at least moderate pulmonic valve stenosis (severity of the gradient may be underestimated).
+Significant pulmonic regurgitation is seen.
+There is no pericardial effusion.
+No evidence of pulmonary embolism.
+Right lower lobe pneumonia with simple mild-moderate right and moderate left pleural effusion with adjacent atelectasis.
+Dilated main and left pulmonary artery with sparing of right pulmonary artery is suggestive of pulmonary stenosis.
+Global cardiomegaly with dominant right chamber involvement, sever calcification of mitral annulus and mild calcification in the pulmonary outflow tract likely involving pulmonary valve.
+Stable left upper lobe pulmonary nodule since [**2191-7-25**].
+Evaluation of another known nodule in the right lower lobe which was limited due to right lower lobe consolidation.
+Multiple enlarged mediastinal lymph nodes.
+Mild pulmonary edema.
+Brief Hospital Course: =================================== BRIEF HOSPITAL SUMMARY =================================== Mrs. [**Known lastname 66402**] was admitted to this hospital from an OSH for expedited work-up of new pulmonary masses, likely secondary to metastatic melanoma.
+Her hospital course was complicated by pleural effusions, chronic hypoxemia and urinary tract infection.
+=================================== ACTIVE ISSUES =================================== # Hypoxemia: Patient transferred with new oxygen requirement and endobronchial mass.
+Initial decompensation was thought to be [**2-2**] post obstructive pneumonia.
+In ICU, patient diuresed aggressively with IV lasix with improvement of hypoxia to 4LNC.
+Pt completed course of antibiotics for post-obstructive pneumonia on [**9-6**].
+Pt continued to require 4LNC thought to be [**2-2**] endobronchial mass however intervention was deffered to outpatient follow with interventional pulmonary.
+# Metastatic melanoma: Patinet with history melanoma and possible metatstic lesions to lung causing hypoxia.
+No further decisions were made regarding goals of care.
+# Afib: Patient suffered from rapid afib with rapid ventricular response.
+However head imaging should be completed prior to starting warfarin to rule out mets to brain .
+# Urinary Tract Infeciton: Patient had foley catheter while in ICU.
+# Acute Renal Failure: Pt had Cr to 1.3, which was in setting of diuresis.
+Medications on Admission: Niacin 500 mg , t tabs qhs xopenex nebs q4hr prn lactulose prn constipation humalog ss hydroxyurea 500 mg q48hr heparin s.c 5000 units tid advair 250/50 [**Hospital1 **] diltiazem 60 mg q6h asa 81 mg zosyn 3.375 q 6hr ppi 40 mg daily tylenol prn zofran prn  Discharge Medications: 1. niacin 100 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+PO DAILY (Daily) as needed for constipation.
+6. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day) as needed for constipation.
+7. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+Discharge Disposition: Extended Care  Facility: [**Hospital6 1293**] - [**Location (un) 1294**]  Discharge Diagnosis: Primary Diagnosis: metastatic melanoma  Secondary Diagnosis: post-obstruction pneumonia   Discharge Condition: Mental Status: Confused sometimes Level of Consciousness: Alert and interactive.
+Discharge Instructions: You were admitted to the hospital because you were having shortness of breath.
+A bronchoscopy was completed which showed a mass in your airway and thus you were transferred to [**Hospital1 18**] for further care.
+You completed the course of antibiotics for the pneumonia prior to discharge.
+You were given medication to help slow heart rate down.
+You also developed a urinary tract infection while admitted and were started an antibiotic.

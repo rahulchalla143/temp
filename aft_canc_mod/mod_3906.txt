@@ -1,0 +1,63 @@
+Admission Date:  [**2104-9-24**]              Discharge Date:   [**2104-9-30**]  Date of Birth:  [**2051-3-24**]             Sex:   M  Service: MEDICINE  Allergies: Colchicine / Protein Powder  Attending:[**First Name3 (LF) 12**] Chief Complaint: Joint pains, RUQ pain  Major Surgical or Invasive Procedure: EGD [**9-30**]   History of Present Illness: Pt is a 53 yo M with PMH of metastatic esophageal cancer (liver, lung, bone mets), known LE DVT on lovenox, ESRD [**2-2**] IgA s/p renal transplant who presented with diffuse arthralgias and RUQ/pleuritic chest pain.
+CTA revealed acute PE involving segmental branches to RLL and RUL PNA.
+Bedside ECHO revealed no RV strain.
+Past Medical History: Gastric ulcer as above endstage renal disease due to IgA nephropathy kidney transplant [**2091**] and [**2101**] status post right arm AVF avascular necrosis of the bilateral hips, cataracts status post extraction, gout, squamous cell carcinoma of the face x3 status post umbilical hernia repair status post ventral hernia repair mass  Social History: Lifetime nonsmoker.
+He drinks occasionally and notes no exposure to asbestos or radiation.
+Physical Exam: VS: T 98.4 HR 136 BP 147/97 RR 17 99% RA GEN: Middle aged man in acute distress, moaning in pain from joints.
+No joint swelling or erythema.
+Findings consistent with acute pulmonary embolism.
+Right upper lobe pneumonia.
+Interval increase in size of multiple pulmonary nodules.
+Interval increase in size of hypodense liver lesions.
+Findings consistent with known esophageal carcinoma post-stenting.
+Knee XR bilateral [**9-25**] - Mild osteoarthritis.
+No radiographic evidence of gout or avascular necrosis.
+CXR [**9-25**] - Cavitating ill-defined density in the right upper lobe suggestive of pneumonic consolidation, however, a neoplasm cannot be entirely excluded and follow up to clearance is recommended.
+Within the limitation of this radiograph, the impression is that there is an improvement of the right upper lobe as well as left lower lobe opacities consistent with resolution of infectious process/aspiration.
+No other abnormalities are seen within the limitation of this limited radiograph.
+CXR [**9-28**] -  Both extent and the density of the previous right upper lobe opacity has markedly decreased.
+On today's examination, only subtle remnant opacities are seen.
+The other lung parenchyma still displays subtle opacities in the left lung, at the level of the hilus and in projection on the left costophrenic sinus.
+A linear opacity is seen in the right upper lobe.
+There is moderate symmetric left ventricular hypertrophy.
+Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded.
+There is a mild resting left ventricular outflow tract obstruction.
+The aortic root is mildly dilated at the sinus level.
+The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic stenosis.
+No masses or vegetations are seen on the aortic valve, but cannot be fully excluded due to suboptimal image quality.
+No masses or vegetations are seen on the mitral valve, but cannot be fully excluded due to suboptimal image quality.
+There is systolic anterior motion of the mitral valve leaflets.
+Trivial mitral regurgitation is seen.
+There is a small pericardial effusion.
+Compared with the prior study (images reviewed) of [**2104-9-24**], the mild resting LVOT gradient and valvular systolic anterior motion of the mitral valve are more apparent.
+No vegetations identified, but the image quality was suboptimal.
+EGD [**9-30**]: Localized erythematous mucosa with edema and friability noted in the esophagus adjacent to the proximal border of the metal stent.
+No frank ulceration or active bleeding noted.
+This could represent tumor, reactive process or less likely varices.
+Brief Hospital Course: ASSESSMENT: Mr. [**Known lastname 36365**] 53 yo M with PMH of metastatic esophageal cancer (liver, lung, bone mets), known LE DVT on lovenox, ESRD [**2-2**] IgA s/p renal transplant who presented with diffuse arthralgias and RUQ/pleuritic chest pain and found to have PE and RUL pna.
+Also had an episode of hematemesis vs coffee ground emesis in ED prior to admission.
+## Pulmonary Embolism: Patient developed embolism in setting of known DVT and missing a dose of lovenox at home (although unclear as this may not represent Lovenox failure, as he had a known DVT at the time which could have embolized).
+TTE did not demonstrate right heart strain which suggests that the PE is likely small.
+Very difficult management given recent hematemesis, but likely benefits of anticoagulation outweigh risks of holding lovenox given no more episodes of hematemesis since ED.
+Cefepime and vancomycin were discontinued at the time of discharge, as his chest x-ray had resolved, suggesting no infectious process was present.
+Upon further questioning patient had a small amout of black vomitus that was no gross blood but more consistent with coffee ground emesis.
+This was in the setting of a heparin bolus which was likely responsible for some worsening of chronic bleeding from esophageal tumor.
+Also known to have gastric ulcers that could be responsible.
+No further episodes since event in ED.
+PPI was continued and serial Hcts were performed to r/o acute bleed.
+EGD was performed and demonstrated no bleeding source; no intervention was performed.
+Possible SIADH in setting of malignancy.
+No effusion or erythema on exam.
+No eosiniphilia.
+No cyanosis of extremities so unlikely mircoemboli.
+Allergic to colchicine.
+Knee xr negative for avascular necrosis in setting of steroids.
+## PUD: Potentially etiology of coffee ground emesis in ED.
+They were held in the hospital in the setting of questionable hemodynamic instability.
+Disp:*6 Tablet(s)* Refills:*0*   Discharge Disposition: Home  Discharge Diagnosis: Primary Diagnosis: pulmonary embolism Upper GI Bleed .
+Secondary: Pneumonia, esophageal cancer, gastric ulcer, IGA nephropathy s/p kidney transplant, AVN of bilateral hips, HTN, hyperlipidemia, gout   Discharge Condition: Stable   Discharge Instructions: You presented to the hospital with pain and shortness of breath.
+You were found to have a blood clot in your lungs and you were treated with lovenox to thin your blood.
+You were also found to have a pneumonia and were treated with antibiotics.
+You had one episode of bloody vomit and an upper endoscopy was performed on [**2104-9-30**].
+Your stent was found to be intact and there was no frank ulceration or active bleeding noted.
+Please seek immediate medical attention for fevers, chills, cough, increased sputum production, shortness of breath, loss of conciousness, or any other change in your baseline health status.

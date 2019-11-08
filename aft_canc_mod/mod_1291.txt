@@ -1,0 +1,76 @@
+Admission Date:  [**2201-4-24**]              Discharge Date:   [**2201-5-2**]  Date of Birth:  [**2137-6-18**]             Sex:   M  Service: MEDICINE  Allergies: Quinolones  Attending:[**First Name3 (LF) 2009**] Chief Complaint: seizure   Major Surgical or Invasive Procedure: 1. arterial line placed 2. bronchoscopy  History of Present Illness: 63 yo M h/o HLD, BPH, ETOH abuse, has had dry cough for several months.
+Seen by ENT at [**Hospital **] and dx with atrophic rhinitis.
+CXR suggestive of RML PNA and possible post obstructive PNA.
+Repeat CXR today showed persistant RML opacity, c/f underlying mass.
+CT Scan showed 3.6 cm in lungs and liver and osseus mets.
+Patient was given CTX and levo for post obstructive PNA.
+Patient was admitted to floor where he complained of RUE pain before having a [**12-28**] minute tonic/clonic seizure witness by his wife.
+He did not recieve ativan or other anti-epiletics.
+No reports of HA, dizzyness or other focal neurologic disorders.
+No nausea or vommiting.
+His father died of coronary disease at age 58 and mother of breast cancer at age 84.
+BP 116/66 HR 93 RR 18  99% O2 sat on PSV 10/5 FIo2 0.5 Lungs clear anteriorly CV RRR distinct S1 and S2 Abdomen soft, nontender Extremities warm Neuro exam not noted  Discharge physical exam VSS Lungs clear CV RRR No pronator drift Ataxic gait Mental status close to baseline.
+CXR [**4-24**]: IMPRESSION: Persistent right middle lobe opacities.
+[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 26216**], there is concern for underlying mass lesion.
+Obstructing right middle lobe mass, with post-obstructive pneumonia and ipsilateral bronchovascular spread.
+Suspicious 1.2-cm soft tissue nodule in the right upper renal pole.
+This constellation of findings is highly suggestive of stage IV metastatic lung cancer.
+Obstructing right middle lobe mass, with post-obstructive pneumonia and ipsilateral bronchovascular spread.
+Suspicious 1.2-cm soft tissue nodule in the right upper renal pole.
+MRI [**4-25**]: IMPRESSION: Findings are consistent with multiple brain metastases in the supra- and infratentorial region.
+Mild surrounding edema seen.
+No midline shift or hydrocephalus.
+Bone scan [**5-1**]: Multiple increased areas of uptake in the spine, left shoulder, ribs and pelvis consistent with metastatic disease.
+No metastatic carcinoma seen.
+Liver biopsy [**4-28**]: Needle biopsy of liver: Metastatic adenocarcinoma.
+The findings are consistent with a tumor of lung origin.
+Also [**4-28**]: FNA, and touch prep of core, liver:    POSITIVE FOR MALIGNANT CELLS, CONSISTENT WITH CARCINOMA.
+EEGS: [**4-25**]: This is an abnormal continuous EEG due to the presence of a burst suppression pattern where the bursts consist of a mixed alpha/beta frequency activity seen with an anterior predominance.
+This pattern is suggestive of a spindle coma which may be secondary to medication effects (most commonly benzodiazepines, barbiturates, or tricyclics).
+There were no focal abnormalities or epileptiform features seen.
+[**4-26**]:This is an abnormal continuous EEG due to the presence of prolonged periods of generalized, mixed theta and delta frequency slowing interrupted by occasional periods of alpha frequency activity with an anterior predominance.
+This pattern is suggestive of a moderate to severe diffuse encephalopathy commonly seen with medication effect, metabolic disturbance, or infection.
+Compared to the previous tracing, the periods of mixed theta and delta slowing are more prolonged and frequent possibly consistent with a lightening of sedation effect.
+There are no focal abnormalities or epileptiform features seen.
+[**4-27**]: This is an abnormal 24-hour video EEG due to the slow and disorganized background of [**4-1**] Hz with bursts of generalized delta frequency slowing, indicative of a moderate encephalopathy.
+Again seen were periods of generalized mixed alpha and beta frequency activity, which were far less prolonged and noticeable than the previous day's recording.
+However, rare generalized sharp and slow wave discharges were seen and indicate generalized cortical irritability.
+No clear electrographic seizures were seen.
+[**4-28**]: This is an abnormal EEG telemetry due to the presence of a disorganized, mixed alpha and theta frequency background, alternating with periods of [**12-28**] Hz frontally predominant generalized detla slowing.
+This pattern is indicative of a moderate encephalopathy, commonly seen with medication effect, metabolic disturbance, or infection.
+In addition, the frequent periods of generalized rhythmic delta activity with embedded sharp waves are suggestive of a diffuse cortical irritability, these were less prominent than the previous day's recording.
+There were no definite electrographic seizures seen.
+MICRO: Bcx: negative BAL: [**2201-4-25**] 12:21 pm BRONCHOALVEOLAR LAVAGE     GRAM STAIN (Final [**2201-4-25**]):  NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.
+NO MICROORGANISMS SEEN.
+FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED.
+ACID FAST SMEAR (Final [**2201-4-27**]):       NO ACID FAST BACILLI SEEN ON DIRECT SMEAR.
+NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR.
+Pending tests: ACID FAST CULTURE (Preliminary):  pending Dilantin level [**5-1**]   Brief Hospital Course: HOSPITAL COURSE: Mr. [**Known lastname **] is a 63 yo man with prior history of etoh abuse and smoking, transferred from ICU after admission to the medical service with pneumonia, and found to have a post obstructive pneumonia with a lung mass.
+CT also showed liver and osseous metastases.
+Brain MRI showed brain metastases.
+His course was also notable for an acute delirium, subsequently resolved.
+# Metastatic lung cancer: Pt had mets suggested by CTAP to liver & bone, and mets in brain by MRI.
+Bone scan revealed multiple areas of ossesous metastatic disease, including ribs, left shoulder, bilateral pelvis and spine.
+# Seizure with brain metastases: He had a seizure shortly after presentation, and was seen by neurology.
+It was attributed to metastatic disease and lowered seizure threshhold due to florquinolone usage.
+Pt had CT head demonstrating vasogenic edema.
+An EEG was placed and showed high cortical irritability but no further seizures.
+After discharge from the ICU, he had no further seizure activity.
+He was seen by radiation oncology and underwent whole brain radiation starting on [**4-30**] without complications.
+# Acute respiratory distress: Intubated for airway protection in setting of seizures.
+Pt was extubated on [**4-26**] without complication.
+# Post obstructive Pneumonia: As suggested by CT. Pt with recent reported fevers, but only low grade temps in MICU.
+He was treated for 8 days, with no fevers.
+# Acute delirium.
+While in the ICU, he developed an acute delirium after extubation.
+# Lactic acidosis: Most likley etiology is [**1-28**] to seizure.
+Pt was ruled-out for MI with serial cardiac enzymes.
+Lactic acidosis resolved.
+# Steroid induced hyperglycemia: HE was started on ISS as on decadron, and then transitioned to po glipizide, with glucometer monitoring.
+Outstanding tests at discharge: dilantin level pending AFB culture pending .
+9. acetaminophen 500 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed for fever, pain.
+)(s)* Refills:*1* 12. trazodone 50 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) as needed for insomnia.
+Dispense #1 No refills.
+Dispense #100 1 refill   Discharge Disposition: Home With Service  Facility: [**Location (un) 86**] VNA  Discharge Diagnosis: Seizure Post obstructive pneumonia Metastatic lung cancer Acute delirium Gait instability  Discharge Condition: Ataxic gait, some slowed responses, requires walker for ambulation  Discharge Instructions: You were admitted with a cough, and then subsequently had a seizure.
+The evaluation that we did found metastatic cancer originating in your lungs, and also in your bones, liver and brain.
+(HIGH SUGARS) Start TYLENOL 500 mg 1-2 tabs, up to 4 tablets per day, for pain   Followup Instructions: Radiation therapy - Monday, 9AM .

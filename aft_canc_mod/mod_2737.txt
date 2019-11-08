@@ -1,0 +1,78 @@
+Admission Date:  [**2129-5-7**]              Discharge Date:   [**2129-5-30**]  Date of Birth:  [**2084-8-24**]             Sex:   F  Service: MEDICINE  Allergies: IV Dye, Iodine Containing Contrast Media / Penicillins  Attending:[**First Name3 (LF) 1515**] Chief Complaint: hypotension  Major Surgical or Invasive Procedure: Chest tube Endotracheal intubation Central line CVVH, hemodialysis Laparoscopic Right Adrenelectomy, Urology   History of Present Illness: The patient is a 44 yo woman with h/o anxiety who presented to an OSH ED with abdominal pain.
+Mrs. [**Known lastname 8738**] was reportedly in her normal state of health until approximately 9 am this morning, when she developed abdominal pain.
+She vomited twice and then developed worsening abdominal pain radiating to her back.
+She also had associated palpitations and diaphoresis.
+She was initially given Zofran, 1L of NS, and she was ordered for a CTA to evaluate for PE and aortic dissection.
+While in the CT scanner, she became increasingly hypoxic and confused and was emergently intubated.
+She was also given Diltiazem 10 mg IV for tachycardia and received one dose of Lasix 60 mg IV.
+EKG at the time demonstrated STE in V2 with ST depressions in V3-V6, so she was sent to [**Hospital1 18**] for urgent cardiac catheterization.
+In the cath lab, she was found to have clean coronary arteries.
+She developed tachycardia to the 160s, for which she received Adenosine x3 and carotid massage, which did not improve the tachycardia.
+She became hypotensive to SBP of 70, was started on Levophed, and was transferred to the CCU.
+Otherwise, she has had no recent complaints.
+EOMI CARDIAC: Regular, No m/r/g.
+EXTREMITIES: Lower extremity swelling bilaterally SKIN: No rashes appreciated.
+Plasma Metanephrines and MEN2 AND FMTC MUTATIONS:   Test                          Result              Reference Range/Units EXONS 10,11,13-16             SEE NOTE  RESULT: NO MUTATION DETECTED  Interpretation: Nucleotide sequence analysis of the RET [**Last Name (un) **]-oncogene (exons 10, 11, 13, 14, 15, and 16) was negative for mutations associated with MEN2 or FMTC.
+This assay will not detect all mutations causing MEN2 or FMTC.
+Multiple endocrine neoplasia type 2 (MEN2) is an autosomal dominant genetic disorder with a high lifetime risk of medullary thyroid cancer.
+Mutation identification can be used to confirm a diagnosis, screen individuals at risk for familial disease, or distinguish familial from sporadic disease.
+STUDIES: [**5-7**] TTE:  Overall left ventricular systolic function is severely depressed (LVEF= 20 %) secondary to akinesis of all basal segments, hypokinesis of the midventricular segments, and relative preservation of apical function, although the true apex was poorly visualized.
+No aortic regurgitation is seen.
+The mitral valve appears structurally normal with trivial mitral regurgitation.
+There is no pericardial effusion.
+However, there has also been the development of a large left pneumothorax.
+Transabdominal U/S: IMPRESSION: 8.9 cm right adnexal mass appears to engulf the right ovary but does not appear to arise from it and appears immediately adjacent to the right uterine fundus, though it does not show typical signs that it arises from it.
+Differential includes pheochromocytoma, adrenocortical carcinoma, or metastasis.
+Compared with the findings of the prior study (images reviewed) of [**2129-5-12**], the left ventricular ejection fraction is increased  Pathology: Right Adrenal Gland Tissue: Pending   Brief Hospital Course: # Adrenal mass: On admission to [**Hospital1 **]-[**Location (un) 620**], CT-A was performed to evaluate for PE (was negative for PE).
+Incidentally, a 5 cm adrenal mass was seen as well as a 9 x 6 cm mass on the right ovary.
+The 5-cm adrenal mass was 50-70 Hounsfield units and was concering for pheochromocytoma.
+Plasma metanephrines were > 500x normal.
+Endocrine felt strongly that the mass was consistent with pheochromocytoma.
+Final pathology results of adrenal tissue pending at time of discharge.
+# HYPOTENSION: Initially thought to be secondary to cardiogenic versus septic shock, also in differential was anaphylaxis from IV contrast.
+On exam patient with peripheral vasocontriction, ECHO demonstrating depressed EF 20-25% with apical sparing, PCWP of 25, CXR with pulmonary edema -> all suggestive of cardiogenic shock.
+Patient with leukocytosis to 21.3, bands 4% and febrile without a clear source of infection though patient did report abdominal pain to her family earlier in the day.
+Given her troponin elevation to 6.22 (in the abscence of shock liver lab values), myocarditis was high on differential.
+Other considerations included pheochromocytoma causing catecholamine-induced cardiomyopathy in reverse Takasubo distribution.
+Her echo with apical sparing were consistent with a catecholamine-induced cardiomyopathy, and her hypertension on presentation as well as reports of episodic diaphoresis and nausea from her husband, were all consistent with pheochromocytoma.
+# Hypertension: After resolution of the above hypotension, the patient had episodic hypertension.
+Despite this, the patient had intermittent episodes where BP acutely raised to 200s/100s.
+# SYSTOLIC HEART FAILURE: Cardiac cath demonstrated no coronary disease but elevated PCWP to 25.
+ECHO showed depressed EF 20-25% with apical sparing, and troponin was elevated to 7.
+These findings were thought to be most likely related to catecholamine-induced cardiomyopathy and myocarditis.
+Repeat TTE after resolution of hypotension showed slightly improved EF, but with persistent systolic dysfunction.
+# HYPOXIC RESPIRATORY FAILURE: Likely caused by pulmonary edema due to systolic CHF and possibly anaphylaxis.
+She was ventilated, and acidemia corrected with bicarbonate.
+Once her blood pressure stabilized, fluid was removed with CVVHD and her mental status improved, she was extubated on [**2129-5-15**] without any complications.
+# Altered Mental Status: After intubation, the patient was initially sedated with midazolam and fentanyl drips.
+Fent/midazolam drips were stopped 4-5 days into admission, but were thought to have accumulated in the setting of renal and liver failure.
+# ACUTE RENAL FAILURE: Likely secondary to hypotension and consequent dense ATN, her creatinine continued to rise and she made <10cc/h of urine in the first few hours at [**Hospital1 18**].
+# PHEUMOTHORAX:  After placement of hemodialysis line, patient was noted to become progressively more hypotensive and difficult to oxygenate the night of admission on [**2129-5-7**].
+She was found to have a large left pneumothorax with diaphragmatic eversion and mediastinal shift.
+Needle decompression followed by chest tube placement were undertaken, and her hypotension and hypoxia improved considerably after this on [**2129-5-8**].
+# METABOLIC ACIDOSIS: Gap acidosis likely secondary to elevated lactate/hypoperfusion.
+In the setting of concominant pressor-requiring hypotension, she was given bicarb gtt and  She later developed a concominant alkalosis (normal bicarb and anion gap 25) due to the CVVHD bath.
+# TACHYCARDIA: Sinus, initially in the 150s, secondary to hypotension initially.
+HR improved to the 120s after hypotension resolved, and was likely secondary to underlying hyper-adrenergic state.
+At discharge patient had heart rates ranging 80-100s on Metoprolol.
+# Fever: The patient was febrile to 102 on admission and began to spike fevers again on [**5-11**].
+CXR did not show infiltrate concerning for infection.
+The drop was thought to be secondary to decreased production in the setting of critical illness - retic count was suppressed at ~ 1% and also RP bleed, likely from cardiac cath on [**5-7**].
+CT scan on [**5-17**] showed RP bleed contained within the pelvis.
+# Shock Liver: After admission and hypotension the first night of admission, the patient's liver enzymes rose - ALT/AST were in the 20,000s.
+Patient to have basic metabolic profile checked two days after discharge.
+Outstanding tests: final pathology report from right adrenal tissue and urine culture.
+Medications on Admission: Clonazepam prn for anxiety MVI daily Fish Oil daily Excedrin prn for headache  Discharge Medications: 1.
+Outpatient Lab Work check Chem-7, Ca, Mag and Phos, CBC on Wednesday [**6-1**] with results to [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 1366**], MD [**Telephone/Fax (1) 721**] and [**Last Name (un) **],PERMINDER [**Telephone/Fax (1) 29110**]  2. acetaminophen 500 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed for headache.
+3. clonazepam 1 mg Tablet Sig: One (1) Tablet PO three times a day as needed for anxiety.
+Disp:*30 Cap(s)* Refills:*2* 9. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO twice a day as needed for constipation.
+[**Hospital Ward Name 121**] 7 Hemodialysis Operating Unit:[**Hospital1 18**] Office Location:W/[**Hospital Ward Name **] Office Phone:([**Telephone/Fax (1) 61652**] Office Fax:([**Telephone/Fax (1) 61653**]   Discharge Disposition: Home With Service  Facility: [**Company 1519**]  Discharge Diagnosis: Right adrenal mass/pheochromocytoma s/p adrenalectomy Acute Systolic Dysfunction, now resolving Acute Tubular necrosis Delerium Anemia   Discharge Condition: Mental Status: Clear and coherent.
+Discharge Instructions: You were admitted with abdominal pain and we found a mass on your adrenal gland that we think is a pheochromocytoma.
+This mass caused changes in your blood pressure and acute kidney failure.
+Your heart became weak because of your illness but is improving and almost normal now.
+You still have some fluid overload because of your kidney dysfunction.
+You were confused in the CCU because of your sickness and the medicines you received.
+You may have some memory issues and occasional confusion over the next week or so but please call Dr. [**Last Name (STitle) 11302**] if you notice this is worsening.
+We made the following changes to your medicines: 1.Take tylenol instead of excedrin for any pain 2.
+START taking ferrous sulfate (iron) to treat your anemia 3.
+START taking docusate (colace) to prevent constipation with the iron 4.

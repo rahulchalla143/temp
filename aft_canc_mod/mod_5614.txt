@@ -1,0 +1,50 @@
+Admission Date:  [**2131-12-31**]              Discharge Date:   [**2132-1-4**]  Date of Birth:  [**2060-3-7**]             Sex:   M  Service: NEUROLOGY  Allergies: Procardia / Aliskiren  Attending:[**First Name3 (LF) 8850**] Chief Complaint: Altered Mental Status.
+History of Present Illness: Mr. [**Known firstname 95455**] [**Known lastname 95456**] is a 71-year-old man with a history of diastolic CHF, CAD, type II diabetes mellitus, and most recently a insular glioblastoma diagnosed in [**2131-9-16**] now status post radiotherapy and temzolomide currently being managed by Dr. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 724**].
+Mr. [**Known lastname 95456**] presents from his [**Hospital1 1501**] after having acute onset of lethargy at 06:00 p.m. this evening.
+At around 11:30 pm he was noted to have increased left sided weakness and new left sided facial droop.
+He was brought to [**Hospital1 18**] Emergency Department by EMS for further evaluation of his altered mental status.
+Patient was found to be lethargic but arousable.
+Given evidence of bleed they recommended holding home aspirin and maintaining blood pressure control.
+He recommended further imaging only if significant change in neurologic examination.
+Chest X-ray was without evidence of an acute cardiopulmonary process.
+Patient received no medications or IV fluids prior to transfer to the Medicine ICU for serial neurologic examinations.
+He attempts to follow simple commands but is too lethargic to follow any complex commands or to speak in full sentences.
+Patient does deny any headache, chest pain, shortness of breath, abdominal pain.
+Per OMR he has urinary incontinence.
+Past Medical History: -Right frontotemporal glioblastoma multiforme WHO Grade IV, status post biopsy on [**2131-9-27**], on protocol using hypofractionated involved-field radiotherapy with temozolomide followed by Cyberknife boost -Ischemic stroke -Malignant HTN -CAD s/p IMI -Chronic diastolic CHF -PAF (ED visit [**7-25**]) -Type II diabetes mellitus -Anxiety/Depression  Social History: He is a resident of [**First Name5 (NamePattern1) 4542**] [**Last Name (NamePattern1) 19207**] & Nursing Center in [**Location (un) 38**], MA.
+Family History: Father: Type [**Name (NI) **] diabetes and hypertension.
+GENERAL:  Lethargic, opens right eye to loud verbal stimuli SKIN:  No rasheS, jaundice, or splinters HEENT:  Left eye s/p cataract surgery, left pupil appears chronically dilated, right eye pupil 3 --> 2 mm, EOMI, anicteric, dry MM, no supraclavicular or cervical lymphadenopathy, no JVD, no thyromegaly or thyroid nodules CARDIOVASCULAR:  Irregular, bradycardic S1 and S2 wnl, no m/r/g PULMONARY:  Irregular respirations concerning for sleep apnea versus [**Last Name (un) 6055**]-[**Doctor Last Name **] respirations, rhonchorus breath sounds at bilateral bases ABDOMEN:  Non-distended, positive bowel sounds, soft, non-tender, and without masses EXTREMITIES:  No clubbing, cyanosis, or edema DRAINS:  Portacath in place, Foley catheter in place.
+He is lethargic, keeps eyes open for only seconds, answers questions appropriately, cooperative while awake, and has mild left-sided facial droop.
+Patient able to wiggle fingers and toes in both hands and feet symmetrically.
+Large mass in the right frontal lobe with adjacent new hemorrhage at the right putamen.
+Subacute infarcts in the right occipital lobe and right posterior corona radiata.
+No subfalcine herniation or uncal herniation.
+No hydrocephalus.
+No focal lung consolidation.
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              PROTEUS MIRABILIS                              | AMPICILLIN------------  =>32 R AMPICILLIN/SULBACTAM--     4 S CEFAZOLIN-------------   <=4 S CEFEPIME--------------   <=1 S CEFTAZIDIME-----------   <=1 S CEFTRIAXONE-----------   <=1 S CIPROFLOXACIN---------   =>4 R GENTAMICIN------------   <=1 S MEROPENEM-------------<=0.25 S PIPERACILLIN/TAZO-----   <=4 S TOBRAMYCIN------------   <=1 S TRIMETHOPRIM/SULFA----  =>16 R [**2131-12-31**] MRSA SCREEN MRSA SCREEN-NEGATIVE  Labs on admission: [**2131-12-31**] 05:05AM BLOOD WBC-10.0 RBC-4.03* Hgb-12.0* Hct-36.0* MCV-89 MCH-29.8 MCHC-33.4 RDW-17.0* Plt Ct-255 [**2131-12-30**] 11:38PM BLOOD Neuts-86.9* Lymphs-8.8* Monos-3.8 Eos-0.2 Baso-0.3 [**2131-12-31**] 05:05AM BLOOD PT-11.7 PTT-21.6* INR(PT)-1.0 [**2131-12-31**] 05:05AM BLOOD Glucose-160* UreaN-43* Creat-1.0 Na-143 K-3.8 Cl-101 HCO3-34* AnGap-12 [**2131-12-31**] 05:05AM BLOOD ALT-21 AST-17 CK(CPK)-50 AlkPhos-89 TotBili-0.5 [**2131-12-31**] 05:05AM BLOOD CK-MB-4 cTropnT-0.09* [**2131-12-31**] 05:05AM BLOOD Calcium-8.7 Phos-4.4 Mg-2.2 [**2131-12-31**] 04:51AM BLOOD Type-ART pO2-76* pCO2-42 pH-7.50* calTCO2-34* Base XS-7 [**2131-12-31**] 04:51AM BLOOD Lactate-1.3 [**2131-12-31**] 04:51AM BLOOD freeCa-1.14  Labs on discharge: [**2132-1-4**] 04:30AM BLOOD WBC-10.7 RBC-3.42* Hgb-10.3* Hct-29.9* MCV-88 MCH-30.3 MCHC-34.5 RDW-16.6* Plt Ct-238 [**2132-1-4**] 04:30AM BLOOD Glucose-160* UreaN-49* Creat-1.0 Na-142 K-3.6 Cl-106 HCO3-27 AnGap-13 [**2132-1-4**] 04:30AM BLOOD Calcium-8.7 Phos-2.9 Mg-2.2  Finger stick glucose on day of discharge: 331 <-- 143 <-- 220 <-- 298  Brief Hospital Course: Patient with acute mental status change found to have intraparenchymal hemorrhage at site of glioblastoma multiforme on CT scan.
+(1) Altered Mental Status:  His head CT shows increased hemorrhage around known glioblastoma multiforme.
+It is not clear whether his symptoms on presentation are secondary to this hemorrhage, increased edema from his tumor, possibly a new ischemic stroke, or the UTI.
+Patient's known intracranial lesion also raises concern for seizure activity though this is less likely given his seizure prophylaxis and clinical history.
+There was no evidence of intoxication or other metabolic etiologies to explain his lethargy.
+Throughout the day of admission, the patient's mental status improved without intervention.
+He has baseline confusion and at times seems that he did not fully comprehend certain questions despite being A&O x3.
+(2) Intraparenchymal Hemorrhage:  Patient with acute mental status change found to have intraparenchymal hemorrhage at site of glioblastoma multiforme on CT scan.
+There was no history of recent head trauma or use of anticoagulation, except for aspirin 325 mg daily.
+Serial neurological exams were done and there was clinical improvement.
+It is believed that the intracranial hemorrhage has stabilized and the patient was transferred from the intensive care unit to the floor.
+(5) Elevated Cardiac Enzymes:  Patient has known history of CAD s/p IMI.
+Patient denies symptoms of chest pain or shortness of breath.
+His elevated cardiac may be due to demand in the setting of hypertension as patient has a history of poorly controlled blood pressures and atrial fibrillation.
+He was not started on treatment for ACS as it was not believed that this was the cause of his elevated troponins.
+In addition, given recent bleed heparin and aspirin would be contraindicated in this patient given recent cranial bleed.
+Patient denied chest pain, shortness of breath, nausea or diaphoresis during his admission on the floor.
+Labetolol was decreased during ICU stay due to persistent sinus bradycardia; pressures remained in the 140s-160s.
+(7) Chronic Diastolic Heart Failure:  Patient with significant history of multiple intubations for dCHF exacerbations.
+Patient denied SOB during admission after receiving several gentle IV fluid boluses.
+His lower extremity edema was stable during admission.
+Medications on Admission: - AMLODIPINE- 10 mg daily, last received [**12-30**] @ 2PM - DIOVAN 160 mg [**Hospital1 **], last received [**12-30**] @ 6AM - BUSPIRONE- 5 mg [**Hospital1 **], last received [**12-30**] @ 8PM - CLONAZEPAM- 0.5 mg Tablet qHS, last received [**12-29**] - CLONIDINE- 0.2 mg/24 hour 2 Patches Weekly on Saturdays, last received [**12-29**] - DEXAMETHASONE- 3 mg [**Hospital1 **], last received [**12-30**] @ 8PM - EPLERENONE- 50 mg daily, last received [**12-30**] @ 8AM - GLYBURIDE- 5 mg [**Hospital1 **] - Lantus 75 units at bed time, last received [**12-30**] - LABETALOL- 200 mg tab, 4 tablets [**Hospital1 **], last received [**12-30**] @ 8PM - LEVETIRACETAM- 500 mg tab, 1 tab, TID, last received [**12-30**] @ 10PM - OMEPRAZOLE- 20 mg Capsule, 1 tab, daily, last received [**12-30**] @ 8AM - SIMVASTATIN- 40 mg Tablet, 1 tab, daily, last received [**12-30**] @ 5PM - TIMOLOL [BETIMOL]- 0.5 % Drops- 1 gtt(s) OU twice a day - TORSEMIDE- 10 mg tab, 3 tabs, daily, last received on [**12-30**] @ 8AM - ACETAMINOPHEN- 325 mg, 2 tabs, q4h PRN for pain - ASPIRIN- 325 mg Tablet, 1 tab, daily, last received [**12-30**] @ 8AM - DOCUSATE SODIUM- 100 mg, 1 tab, [**Hospital1 **], last received on [**12-30**] - SENNA- 8.6 mg tab, 1 tab, [**Hospital1 **] PRN (received none in [**Month (only) **]) - Nitroglycerin 0.4 mg SL tab PRN for chest pain, last received on [**12-25**] once with chest pain resolved - Milk of Mag, 30 ml by mouth if no BM in 48 hours prn - Bisacodyl 10 mg supp, insert 1 PR if no BM in 12 hours after MOM - [**Name (NI) 20342**] enema, insert 1 PR if no BM in 12 hours after suppository - Magnesium citrate, 1 bottle PO if no BM in 12 hours after [**Name (NI) **] enema PRN unless contraindicated  Discharge Medications: 1.
+Clonazepam 0.5 mg Tablet Sig: One (1) Tablet PO at bedtime as needed for insomnia.
+Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO every four (4) hours as needed for pain/fever.
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+Discharge Disposition: Extended Care  Facility: [**First Name4 (NamePattern1) 1188**] [**Last Name (NamePattern1) **] - [**Location (un) 538**]  Discharge Diagnosis: Glioblastoma mulitiforme Urinary tract infection  Discharge Condition: Mental Status:  Clear and coherent.
+Activity Status:  Out of Bed with assistance to chair or wheelchair.

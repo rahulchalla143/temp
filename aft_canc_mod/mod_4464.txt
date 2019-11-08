@@ -1,0 +1,48 @@
+Admission Date:  [**2193-8-23**]              Discharge Date:   [**2193-9-7**]  Date of Birth:  [**2121-7-7**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 3326**] Chief Complaint: Respiratory Failure  Major Surgical or Invasive Procedure: Bronchoscopies Pulmonary Stent placement, Right Bronchus Intermedius  History of Present Illness: 72 y/o male with COPD, CAD s/p angioplasty in [**2180**], afib and small cell lung CA who started [**First Name9 (NamePattern2) 3454**] [**8-19**] with carboplatin/VP-16 in [**State 1727**].
+He initially presented to SMMC on [**8-23**] with hypotension after accidental overdose on diltiazem.
+There, a CXR showed R lung white out and was transferred to [**Hospital1 18**] for bronch given concern for mass compression of the bronchus.
+Chest CT at [**Hospital1 18**] showed large centrally obstructing mass with right apical pneumothorax, right middle and lower lobe opacity, pigtail was placed.
+Patient continued to be intubated after the bronch and developed hypotension requiring pressors.
+Patient also noted to be neutropenic thought likely [**1-7**] [**Month/Day (2) 3454**] and sepsis and patient with afib with RVR on a dilt gtt.
+Patient self-extubated on [**8-26**] and was subsequently re-intubated for hypoxia and respiratory distress.
+Past Medical History: Extensive Small Cell Lung Cancer COPD CAD  Social History: From [**State 1727**].
+Occlusion of the right main bronchus from the surrounding nodular conglomerate mass, in keeping with diagnosis of lung cancer with complete collapse of the right lung and surrounding pleural effusion with pleural enhancing lesions probably metastases.
+Minimal left pleural effusion with associated airspace opacities at the left lung base, could be interstital lung disease, basilar atelectasis, mild aspiration, however, superinfection cannot be excluded.
+Innumerous enlarged lymph nodes in the mediastinum and hila bilaterally concerning for metastatic deposits.
+No PE or dissection of the thoracic aorta.
+Innumerous liver lesions consistent with metastasis.
+Moderate right apical pneumothorax, as communicated to Dr. [**Last Name (STitle) **] by telephone.
+Large centrally obstructing mass with epicenter in right hilum.
+Right mid and lower lung opacities, which may be due to post-obstructive atelectasis/pneumonitis, but reexpansion pulmonary edema is also possible in setting of recent thoracentesis.
+Radiology Report	CT HEAD W/ & W/O CONTRAST	Study Date of [**2193-8-25**] 8:45 AM IMPRESSION:  No evidence of intracranial metastatic disease.
+MRI is more sensitive for small metastatic lesions.
+Aerosolized secretions in the left sphenoid sinus could indicate acute sinusitis.
+Opacities in right upper lobe likely a combination of post-obstructive changes or metastatic disease.
+No significant change in extensive metastatic disease including nodal conglomerate within the mediastinum and bilateral hilar regions, encasing the right main stem bronchus.
+Extensive pleural plaques and pleural nodularity along with multiple lung nodules and liver lesions concerning for metastatic disease, unchanged.
+Interval decrease in bilateral pleural effusions.
+No change in bilateral basilar airspace opacities.
+Radiology Report	CHEST (PORTABLE AP)	Study Date of [**2193-9-6**] 12:45 AM IMPRESSION: AP chest compared to [**9-4**]: Some of bibasilar opacification is due to persistent pulmonary edema, but the more severe abnormality on the left is pneumonia or pulmonary hemorrhage progressed since [**7-4**], accompanied by small to moderate left pleural effusion, has not appreciably changed.
+Although heart size is normal, mediastinal vascular engorgement suggests volume overload.
+No pneumothorax.
+Brief Hospital Course: Mr. [**Name13 (STitle) 84549**] was a 72 year old male with COPD, CAD initially presented to an outside hospital on [**8-23**] with hypotension secondary to a diltiazem overdose, noted to have post-obstructive PNA and transferred to [**Hospital1 18**] on [**8-24**] for bronch and stent placement.
+He was then noted to have a pneumothorax requiring chest tube placement, then was transferred from the Surgical ICU to the Medical ICU for initiation of radiation therapy in the setting of continued hypoxic respiratory failure and hypotension requiring pressors.
+# Hypoxic Respiratory Failure: Patient was initially intubated for bronchoscopy and stent placement into his right bronchus intermedius/right mainstem to help alleviate obstruction from tumor burden.
+In addition to his underlying COPD and post-obstructive PNA secondary to lung tumor burden, his initial course was also complicated by a PNX.
+The patient had self-extubated once early during his hospitalization and required re-intubation for hypoxia and work of breathing.
+He had multiple bronchoscopies throughout hospitalization to evaluate for worsening respiratory status.
+He was started on empiric broad spectrum antibiotics for post-obstructive pneumonia and transferred to the MICU.
+He received Radiation Therapy to his chest to help shrink the pulmonary tumor and help prevent post-obstructive atelectasis.
+XRT has the potential to cause increased edema in the lungs, for which the team monitored.
+He was not able to tolerate trials of Pressure Support, which had resulted in increased agitation, exacerbation of his rapid Afib and subsequent hypotension.
+#Hypotension: Mr. [**Last Name (Titles) 84550**] hypotension was secondary to sepsis from his complicated pneumonia.
+#Pancytopenia: His pancytopenia was secondary to the chemotherapy he had received for metastatic small cell lung cancer within a week before hospitalization.
+The patient was initially neutropenic but recovered his blood counts within a couple of weeks.
+#Transaminitis: The patient's elevated LFTs were thought to be secondary to his chemotherapy regimen and trended down slowly with time.
+He likely had a baseline LFT elevation due to his known liver metastases.
+Because the patient also had a pressor requirement to maintain his blood pressure, the sotalol was discontinued, while the diltiazem was continued at more frequent dosing.
+He was not anticoagulated during his stay due to his initial pancytopenia.
+#Small Cell Lung CA: The patient had extensive small cell lung cancer with known lung metastases and was status post a recent round of chemotherapy.
+Head CT with and without contrast showed no metastases.
+In addition, if this past round of chemotherapy had caused such significant complication for the patient, he would have been likely to develop further complications with another round even if he could have recovered this time.
+He received 5 doses of palliative radiation therapy to his chest to try to reduce the size of the tumor during his hospitalization.

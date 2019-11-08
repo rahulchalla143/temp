@@ -1,0 +1,12 @@
+Name:  [**Known lastname 4793**], [**Known firstname 4794**]                     Unit No:  [**Numeric Identifier 4795**]  Admission Date:  [**2123-1-3**]     Discharge Date:  [**2123-1-9**]  Date of Birth:   [**2067-10-10**]     Sex:  M  Service:  BONE MARROW TRANSPLANT  ADDENDUM:  On [**2123-1-4**], an MRI was obtained of the head which showed a small area of enhancement in the left motor cortex which may represent an AVM versus small hemorrhage, but in either case it does not represent a septic embolism.
+The patient had an ultrasound drainage of the left elbow abscess of 6 cc of fluid which was sent off for Gram's stain and culture.
+The patient had an MR of the calves which showed the right calf had a tiny abscess in the lateral soleus muscle and the left calf had a tiny abscess in the posterior tibialis muscles.
+Interventional Radiology felt that these abscesses were too small to be drainable.
+Infectious Disease suggested a TEE and a torso CT to look for endocarditis or further abscesses.
+PE was performed and showed only mild MR.  [**Name13 (STitle) **] evidence of endocarditis.
+Torso CT showed no evidence of abscesses and a mildly thickened bladder wall which could be consistent with cystitis.
+Orthopedics reevaluated the patient after such a small amount of fluid was drained from the left elbow and they took him to the ER where more fluid was drained.
+[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 2021**]-[**Location (un) 2022**] drain was left in the elbow for 24 hours and drained a moderate amount of serosanguinous fluid, after which it was pulled.
+The patient's arm was left in an elbow splint with compression bandage.
+DISCHARGE STATUS:  The patient is to follow-up with Dr. [**Last Name (STitle) **] for removal of elbow splint and left arm compression bandage in ten days on [**2123-1-18**] at 11:30 a.m. in the [**Hospital Ward Name **] Building.
+The patient is to return for his next round of chemotherapy for his mantle cell lymphoma two weeks after the end of his antibiotics.

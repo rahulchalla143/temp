@@ -1,0 +1,34 @@
+Admission Date:  [**2165-7-1**]              Discharge Date:   [**2165-7-5**]  Date of Birth:  [**2094-12-16**]             Sex:   M  Service: MEDICINE  Allergies: Sulfate Salt  Attending:[**First Name3 (LF) 1253**] Chief Complaint: upper GI bleed  Major Surgical or Invasive Procedure: EGD  History of Present Illness: 70 yo M with unresectable hepatocellular carcinoma and Child Class A Hep B cirrhosis s/p chemo-embolization early [**6-/2165**] admitted [**2165-7-1**] with an upper GI bleed to the [**Hospital Unit Name 153**].
+Of note, he was recently admitted to [**Hospital1 18**] [**Date range (1) 61140**] with acute renal failure.
+After discharge from the hospital he developed melena at home.
+An upper endoscopy revealed a single non-bleeding 15 mm ulcer on the anterior wall of the first part of the duodenum and esophagitis.
+Recently, he was noted to have liver masses on ultrasound and an AFP of 100.
+A CT performed on [**2165-5-14**] demonstrated a large lesion in the caudate lobe measuring 9.6 cm and a second lesion in segment VI of the right lobe measuring 6.3 cm.
+There were also multiple lymph nodes in the porta hepatis and with the common hepatic artery concerning for local disease spread.
+There was also a 1.1 cm left adrenal nodule identified.
+Hypertension 3.
+Chronic venous insufficiency resulting in chronic lower extremity edema and chronic venous stasis changes associated with the skin.
+Type 2 diabetes controlled with diet and medication.
+History of splenectomy, status post thrombocytopenia approximately 15 years ago in [**Country 651**], it is unclear whether he received vaccinations for this.
+Denies any illicit IV drug abuse history or tattoos and no history of blood transfusions.
+Family History: Notable for grandparents with hepatitis B, though no confirmed diagnoses of hepatocellular carcinoma.
+Has tenderness and mass in RUQ.
+No peritoneal signs or rebounding.
+- Extremities: 3+ edema to upper thigh, [**Male First Name (un) **] hose in place - Skin: Diffuse erythematous, maculopapular rash on trunk predominantly  Pertinent Results: [**2165-6-30**] 07:05AM BLOOD WBC-3.6* RBC-3.11* Hgb-9.8* Hct-31.0* MCV-100* MCH-31.7 MCHC-31.7 RDW-18.8* Plt Ct-167 [**2165-7-5**] 07:42AM BLOOD WBC-4.2 RBC-2.95* Hgb-9.6* Hct-30.2* MCV-102* MCH-32.4* MCHC-31.8 RDW-21.6* Plt Ct-188 [**2165-7-2**] 04:25AM BLOOD PT-15.4* PTT-29.3 INR(PT)-1.4* [**2165-7-5**] 07:42AM BLOOD Glucose-94 UreaN-27* Creat-1.2 Na-135 K-3.9 Cl-106 HCO3-21* AnGap-14  [**2165-6-30**] 07:05AM BLOOD ALT-63* AST-111* LD(LDH)-269* AlkPhos-125 TotBili-2.9* [**2165-7-2**] 04:25AM BLOOD ALT-53* AST-120* LD(LDH)-303* AlkPhos-114 TotBili-1.5 [**2165-7-2**] 04:25AM BLOOD Albumin-2.2* Calcium-8.1* Phos-2.1* Mg-1.9 Iron-27* [**2165-7-2**] 04:25AM BLOOD calTIBC-131* VitB12-1899* Folate-11.9 Ferritn-665* TRF-101*  HELICOBACTER PYLORI ANTIBODY TEST (Final [**2165-7-3**]): POSITIVE BY EIA.
+EGD:  Excavated Lesions: A single non-bleeding 15 mm ulcer was found on the anterior wall of the first part of the duodenum.
+Impression: Grade 2 esophagitis in the lower third of the esophagus compatible with reflux esophagitis Ulcer in the first part of the duodenum   Brief Hospital Course: Patient presented to ED with melena and was found to have marked drop in hemocrit in one day (from 31 to 26.2).
+Prior to admission, patient had chemo-embolization with adriamycin of his hepatocellular carcinoma.
+Patient was found to have guaiac positive stool.
+Because of concern for variceal bleed given history of Hep B cirrhosis, empiric octreotide therapy was started and CTX x 1 dose was given for SBP prophylaxis.
+GI performed an EGD which revealed a 15mm nonbleeding ulcer in the first part of the duodenum.
+# HBV cirrhosis: Chronic HBV infection.
+# Rash: Pt was found to have a diffuse pruritic rash over his body, with high suspicion for drug rash from Albumin provided during the previous hospitalization.
+Related to underlying liver disease and venous damage from RFAs.
+He was not anticoagulated due to his recent GI bleed.
+# HTN: On Clonidine and lisinopril at home - Continued home clonidine 0.1 mg PO BID - continued lisinopril .
+# Diabetes: - continued holding metformin and continue ISS for now .
+# DVT PPX: Pt received DVT prophylaxis with pneumatic boots given recent bleed .
+Discharge Disposition: Home  Discharge Diagnosis: # Acute blood loss anemia # Duodenal ulcer/H.pylori serology positive # Hepatocellular carcinoma # Chronic Hepatitis B # Liver cirrhosis # Drug rash # Hypertension, benign # T2DM   Discharge Condition: Mental Status: Clear and coherent.
+Discharge Instructions: You were admitted with bleeding from your duodenum (upper GI tract).
+You were found to have a bleeding ulcer, and you were treated with medications to help stop the bleeding.
+You were found to have an infection in your stomach, which puts you at risk for ulcers, so you have been started on treatment for this.

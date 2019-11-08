@@ -1,0 +1,44 @@
+Admission Date:  [**2113-7-12**]              Discharge Date:   [**2113-7-18**]  Date of Birth:  [**2034-2-3**]             Sex:   M  Service: MEDICINE  Allergies: Novocain / ciprofloxacin  Attending:[**First Name3 (LF) 3021**] Chief Complaint: Loose dark stools.
+[**2113-7-13**]: Upper endoscopy with esophageal varices sclerotherapy.
+History of Present Illness: 79 year old male with adenocarcinoma of colon s/p 11 cycles 5-FU (last dose [**2113-7-8**]) who presented to OSH after experiencing 6 episodes 'dark chocolate pudding' stools last night.
+Patient denies history of GI bleed, not on coumadin, denies other medical problems besides adenocarcinoma.
+In the ED, initial VS were: 103 102/83 18 99% 2L  As per ED, rectal exam was positive for melena.
+Physical Exam: ADMISSION EXAM: Vitals: 95 BP 114/67 SpO2 98% on RA General: Alert, oriented, no acute distress HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL Neck: supple, JVP not elevated, no LAD CV: Regular rate and rhythm, normal S1 + S2, soft systolic murmur Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi Abdomen: soft, non-distended, bowel sounds present, no organomegaly, no tenderness to palpation, no rebound or guarding  GU: no foley Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema Neuro: CNII-XII intact, 5/5 strength upper/lower extremities, grossly normal sensation, 2+ reflexes bilaterally, gait deferred.
+GI Endoscopy reports: [**7-12**]: Impression: moderate esophagitis Grade II Varices at the lower third of the esophagus Blood in the stomach body Medium hiatal hernia Normal mucosa in the duodenum Mucosa suggestive of Barrett's esophagus Otherwise normal EGD to third part of the duodenum Recommendations: No clear source of upper GI bleed found.
+Differentials include: distal esophagitis, esophageal varices or Dieulafoy's lesion (since they can bleed intermittently) or small bowel metastasis distal to third portion of duodenum.
+Start Octreotide drip and continue for 72 hours given grade II esophageal varices and uncertainty if they are the cause of bleeding.
+Since, no clear source of bleeding found, it is possible that the bleeding is secondary to small bowel metastasis.
+[**2113-7-13**] EGD: Impression: Varices at the lower third of the esophagus Esophageal stricture Otherwise normal EGD to third part of the duodenum Recommendations: -If rebleeds, will need to alert the liver service for glue injection of varices -Given no evidence of cirrhosis, change from ceftriaxone to ciprofloxacin for a total course of 5 days for prophylaxis -Will need repeat EGD with Dr. [**First Name8 (NamePattern2) **] [**Name (STitle) **] in 2 weeks -Nonurgent video swallow to evaluate the esophageal ring in order to guide if further EGDs with banding device can be attempted -OK to stop PPI, but continue octreotide drip for now -Two peripheral IV's at all times, serial Hcts with goal Hct 25 (avoid overtransfusion in setting of portal hypertension) .
+[**2113-7-12**] CT ABD: IMPRESSION: Limited assessment demonstrating cecal mass, no active site of arterial extravasation, cholelithiasis, splenic enlargement, and multiple liver metastases.
+Splenic enlargement is worrisome for sequelae of portal hypertension or an infiltrative process otherwise than metastatic colon carcinoma.
+Heterogeneous hepatic echotexture compatible with metastatic disease.
+[**2113-7-13**] CXR: FINDINGS:  No previous images.
+Cardiac silhouette is within normal limits and there is no pulmonary vascular congestion or pleural effusion.
+No discrete pneumonia.
+[**2113-7-17**] VIDEO SWALLOW: IMPRESSION:  No evidence of aspiration, penetration, or obstruction.
+[**2113-7-17**] ECHO: IMPRESSION: No valvular vegetations seen.
+# Upper GI bleed: In the ICU, EGD [**2113-7-12**] showed moderate esophagitis, grade II distal esophageal varices, and blood in the stomach, but no active source of bleeding.
+This showed evidence of recent bleeding from esophageal varices.
+There was also an esophageal stricture.
+RUQ US only showed metastatic disease.
+Cipro changed back to ceftriaxone due to a rash and for treatment of Strep viridans bacteremia.
+# Diarrhea: Due to upper GI bleed.
+# Coagulopathy: Likely due to liver dysfunction from metastatic disease.
+TTE negative for vegetations.
+TEE contraindicated due to recent bleeding esophageal varices.
+- Sensitivity to ceftriaxone still PENDING.
+- F/U cultures and sensitivities.
+# Anemia/thrombocytopenia: Baseline anemia and thrombocytopenia are likely due to chemotherapy.
+Anemia worse with acute GI bleed; stabilized.
+# Leukocytosis: Due to infection +/- G-CSF.
+# Abnormal LFTs: Due to liver mets.
+# Pain: None.
+# DVT prophylaxis: Pneumoboots.
+# CODE: FULL.
+Esophageal varices.
+Metastatic colon cancer.
+This showed esophageal varices (swollen blood vessels), the likely source of bleeding.
+Banding of the esophageal varices was attempted, but unsuccessful.
+Then the varices were sclerosed (burned) to prevent future bleeding.
+A blood culture from the day you were admitted grew a bacteria called Streptococcus viridans.
+Echocardiogram showed no bacterial growth on the heart.

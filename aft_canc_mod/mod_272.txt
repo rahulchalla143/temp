@@ -1,0 +1,44 @@
+Admission Date:  [**2153-6-16**]              Discharge Date:   [**2153-7-28**]  Date of Birth:  [**2086-12-14**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 3233**] Chief Complaint: AML requiring induction chemotherapy  Major Surgical or Invasive Procedure: PICC line placement, PICC line removal Lumbar Puncture Hemodialysis Several blood and platelet transfusions   History of Present Illness: Mr. [**Known lastname 9025**] is a 65 year old gentleman with a history of CMML and recurrent AML who presents for induction chemotherapy.
+Patient underwent induction chemotherapy in [**2151-8-20**], complicated by renal failure and need for hemodialysis for several weeks.
+On review of systems, patient has persistent dry cough since [**Month (only) 956**].
+He also notes reflux symptoms exacerbated by movement, actively sitting up or lying down.
+He does note that his fatigue has been worsening over the last couple of weeks, though he is still able to care for himself independently at home.
+He notes that he has chronic post-nasal drip for years which has not affected his cough in the past.
+Past Medical History: - Chronic Monocytic Myelogenous Leukemia - Acute Myelogenous Leukemia s/p induction [**10/2151**] and re-induction therapy - Chronic renal insufficiency with baseline creatinine 3.0-3.5, required temporary hemodialysis while on induction therapy with 7+3 in [**2151**] - Non-obstructive nephrolithiasis --> ?Urate Nephropathy - Brief hospitalization in [**2151**] for [**Last Name (un) **] and gross hematuria - Right sided inguinal hernia - per CT, contains predominantly fat, not bowel - Splenomegaly - GERD - duodenitis - Eczema - severe - Asthmatic bronchitis, diagnosed in [**2139**] - Herpes zoster, [**2144**].
+- Basal cell cancer, removed from his nose in Spring [**2148**].
+ONCOLOGIC HISTORY: CMML - [**7-/2146**]-sumer [**2151**] followed by Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] - [**2151**] summer - transformation to AML and rise in baseline Cr --> care transferred to Dr. [**Last Name (STitle) **], started on Hydrea - [**2151-8-20**] - induction chemotherapy w idarubicin and ARA-C (7+3), cut short [**2-20**] worsening renal dysfunction, requiring HD for several weeks; renal dysfunction [**2-20**] tumor lysis syndrome vs tumor infiltration vs ATN - Re-induction chemotherapy [**2-20**] persistent AML upon restaging marrow; re-induction done while still on HD in [**2151**] - [**2152-2-20**] - subsequent bone marrow biopsy showed continued CMML and remission of AML ; started on Hydrea, which he has been taking intermittently - persistent renal insufficiency not requiring HD - [**2152-4-4**] -- hospitalized w abd pain, constipation, CT showed hydronephrosis and stones --> likely Urate Nephropathy, was started on allopurinol ; [**2153-4-10**] ultrasound showed slight improvement of hydronephrosis ; pt followed by nephrology as outpatient ; [**4-11**] returned for gross hematuria - new lymphadenopathy per CT scan in [**Month (only) **] - [**2153-4-6**] Bone Marrow consistent with CMML, still in remission for AML - Allogenic transplant and post-remission chemotherapy were deffered in setting of renal failure .
+Family History: No family history of hematologic disorders.
+Mother died of colon cancer at 58.
+Father died from cardiovascular disease at 72.
+Physical Exam: VITAL SIGNS: 99.0   93/48  77  18  97%RA GENERAL:  lying supine, easily able to sit up, in no acute distress.
+HEENT: Oropharynx clear, no ulcerative lesions noted NECK:  Supple, diffuse bilateral cervical lymphadenopathy, particularly posteriorly L>R.
+HEART:  Regular rhythm (irregular rhythm on EKG) normal rate, +systolic murmur loudest at LUSB ABDOMEN:  Soft, nontender, nondistended with normoactive bowel sounds, +massive splenomegaly EXTREMITIES:  No peripheral edema, good DP pulses SKIN:  Warm, dry.
+Mild brownish bruising on left forearm.
+Compared to admission, the pt was weaker, deconditioned, with 3+ edema of the ankles and mild crackles throughout lung fields.
+CBC Diff shows ~14% blasts which is elevated from prior, but counts 4 days ago showed 12% blasts.
+He was incidentally found to have asymptomatic coag neg staph bacteremia in multiple BCx bottles and his chemo was stopped so he only received 3/5 doses.
+This was concerning as his counts dropped but still was noted to have blasts in his peripheral blood, concerning for inadequate chemo dose.
+Another line was placed and the pt was doing well until on [**6-30**] he developed acute neutropenic sepsis with 3/3 bottles of pan-sensitive pseudomonas.
+Due to hypotension and fevers >103 he was sent to the ICU overnight with broad spectrum abx and pressors.
+he was improving until [**7-7**] when he was found to have acute mental status changes characterized by difficulty with word finding, perseveration, AOx1.
+He underwent CT head noncon which was neg for bleed or acute process.
+He was started on treatment dose IV acyclovir for HSV consideration, although leukemic involvement was also concerning given the pt's suboptimal chemo regimen due to premature interruption as noted above.
+On [**7-13**] he spiked a neutropenic fever and was found to be +parainfluenza type 3.
+Once he had completed more than the full course for F+N and had been afebrile x several days and was no longer neutropenic, the vanc and cefepime were discontinued and the patient remained afebrile for the remainder of his admission.
+Vori was continued due to history of lung nodules and necrotizing PNA concerning for aspergillus.
+On discharge the patient was afebrile, non-neutropenic, without signs of infection other than a mild cough.
+# Cough/Reflux Patient had RSV pneumonia in [**2153-2-19**] and has persistent dry cough with mild sputum production occasionally.
+Prior to starting chemotherapy, will need to ensure that patient is stable without infection.
+Cough sounds GERD related by history, as he has significant reflux and may actually be at risk for Barrett's esophagus.
+Pulm was initially consulted as the pt was noted to have small nodules in his chest CT that were read as concern for 'acute infx' although per pulm consult team and ID it was thought to be low likely.
+He was started on ppx vori and no bronch/BAL was done due to neutropenia and low yield study.
+# Chronic Renal Failure Cr at 3.7 on admission.
+Patient's basline creatinine 3.0-3.5 after temporarily requiring dialysis with previous induction therapy for AML in [**2151**].
+He does have known nephrolithiasis with secondary hydropnephrosis, likely also contributing to renal failure.
+With MEC chemotherapy regimen, there was concern for further nephtoxicity.
+Non-gap acidosis, likely secondary to renal failure -- pt not taking sodium bicarbonate tablets at home as prescribed because it makes him nauseated.
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: Two (2) Puff Inhalation q4h-prn as needed for sob, wheeze.
+Disp:*60 Tablet(s)* Refills:*2*   Discharge Disposition: Home With Service  Facility: [**Company 1519**]  Discharge Diagnosis: Primary Diagnosis: Acute Myelogenous Leukemia  Secondary Diagnoses: Chronic renal insufficiency, bacteremia, pseudomonal sepsis, parainfluenza infection, altered mental status-resolved Chronic Monocytic Myelogenous Leukemia Splenomegaly Gastroesophageal Reflux Disease   Discharge Condition: Mental Status: Clear and coherent.
+Discharge Instructions: Dear Mr. [**Known lastname 9025**], You were admitted to the hospital because you had a recurrence of your AML, you received 3/5 doses of induction chemotherapy which was stopped due to a blood infection.
+Your admission was further complicated by another blood infection that caused you to be septic, a viral respiratory infection, and an acute alteration of your mental status which has now resolved.

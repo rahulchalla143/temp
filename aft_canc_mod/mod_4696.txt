@@ -1,0 +1,52 @@
+Admission Date:  [**2118-3-7**]              Discharge Date:   [**2118-3-11**]  Date of Birth:  [**2063-1-16**]             Sex:   F  Service: MEDICINE  Allergies: Strawberry / Watermelon / [**Location (un) **] Peel Tincture,Sweet / Carrot  Attending:[**First Name3 (LF) 10323**] Chief Complaint: Pre-syncope  Major Surgical or Invasive Procedure: None  History of Present Illness: This is a 55 yo woman with progressive metastatic RCC s/p IL2, s/p cardiac arrest earlier this year, CHF with EF 35-40%, who presents weakness and an episode of syncope earlier today.
+She denies any preceding palpitations or chest pain, and denies every feeling confused.
+No incontinence.
+She does state that in retrospect she had some urgency with urination over the last few days but no increased frequency or dysuria.
+No fevers or chills at home.
+Has had a dry cough for the past few weeks, non-productive.
+Head CT was not done given no focal findings.
+She developed hypotension and [**Last Name (un) **] in the setting of high-dose IL-2 biotherapy initiation.
+She was transferred to the MICU after she devloped IL-2 myocarditis and ventricular tachycardia that progressed to pulseless VT. She was resuscitation but her post arrest ECHO showed depressed global left ventricular systolic function.
+Of note, she was also treated for a pansensitive Klebsiella and E.Coli UTI during that admission with Cetriaxone and then Cefpodoxime.
+She has also been following with [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] and [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]; they discontinued her amiodarone because of transaminitis and she was started on Toprol 3 days ago and her cardiolgists are considering ICD.
+On arrival to the ICU, the patient was comfortable, without any pain or complaints.
+Past Medical History: Metastatic RCCA -- [**2117-7-28**] revealed metastatic RCC clear cell origin -- CT showed b/l pulmonary nodules -- Right nephrectomy [**2117-9-6**] -- right forearm mass resected on [**2117-10-26**] -- left clavicle soft tissue mass HTN Parathyroid Adenoma Hyperlipidemia Anxiety Internal Hemorrhoids   Social History: Married and lives with her husband in [**Name (NI) **].
+No IVDU   Family History: non-contributory  Physical Exam: ADMISSION EXAM: Vitals: BP 101/42, 70, 16 98% 2L-> RA GEN: Well appearing, awake and alert, A+Ox3 HEENT: Small abrasion with scab over L forehead with 3 cmx3cm area of swelling.
+EOMI, PERRL, sclera anicteric, no epistaxis or rhinorrhea, dry MM.
+Throat non-erythematous, no lesions or exudate NECK: No JVD CHEST: left clavicle soft tissue mass 5cm, Right IJ CVL COR: RRR, no M/G/R, normal S1 S2 PULM: Lungs CTAB, no W/R/R ABD: Soft, NT, ND, +BS, no HSM, no masses; small well healed surgical scars EXT: No LE edema, palpable pedal pulses.
+SKIN: No jaundice, no rashes, no open lesions.
+Occasional scarred acne-like lesions across back.
+No ecchymoses.
+IMAGING: [**2118-3-7**] CXR: IMPRESSION: Allowing for differences in technique, mild interval increase in the known largest metastatic nodule in the right lung base.
+No pulmonary embolism.
+There is moderate to severe global left ventricular hypokinesis (LVEF = 30 %).
+[Intrinsic left ventricular systolic function is likely more depressed given the severity of valvular regurgitation.]
+The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present.
+No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+There is no mitral valve prolapse.
+An eccentric, posteriorly directed jet of Moderate (2+) mitral regurgitation is seen.
+Moderate [2+] tricuspid regurgitation is seen.
+There is moderate pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+[**2118-3-10**] CXR: IMPRESSION: Slight increase in size of small right-sided pleural effusion with new consolidation at the base of the right lower lobe which could represent pneumonia in the appropriate clinical setting.
+Brief Hospital Course: 54 year-old female with a history of metastatic renal cell carcinoma who presented after a pre-syncopal event and hypotension in ED.
+[**Hospital Unit Name 13533**]: # Hypotension: Initially thought to be urosepsis and exacerbated by recent initiation of B-blocker.
+Of note, other possible explanations could be adrenal tumor invasion knowing metastatic RCC, but recent CT of Ab/Pelvis did not show any evidence of this and patient had a normal cortisol.
+It is likely that her hypotension was in the setting of her initiation of metoprolol succinate 25mg PO Daily.
+SHe was sent home on no medications for her underlying heart arrhythmias and will follow up in the outpatient setting for further management.
+# CHF w/ hx VT: Patient developed O2 requirement in the [**Hospital Unit Name 153**] in the context of fluid resuscitation.
+# Pre-syncope: Likely due to hypotension given her history of pre-syncopal symptoms.
+# Hx head trauma during syncope: The patient had a non focal neurological exam on admission, with no headache.
+No imaging performed.
+# Anemia: HCT dropped slightly after IVF administration but was stable.
+Workup on last admission consistent with anemia of chronic disease.
+# Transaminitis: LFTs elevated but trending down from prior.
+# Hypoalbuminemia: Chronic, likely due to RCC.
+Ambien 10 mg Tablet Sig: One (1) Tablet PO at bedtime as needed for insomnia.
+Disp:*12 Tablet(s)* Refills:*0*   Discharge Disposition: Home  Discharge Diagnosis: Primary Diagnosis: Congestive Heart Failure Hypotension secondary to Beta Blocker use .
+Secondary Diagnosis: Metastatic Renal Cell Cancer   Discharge Condition: Mental Status: Clear and coherent.
+You were admitted after fainting and we found that you had very low blood pressure.
+We think this was due to your heart failure and the administration of your metoprolol.
+We also did an echo while you were here that showed that you continue to have heart failure.
+While on the floor you had a fever and were found to have pneumonia.

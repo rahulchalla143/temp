@@ -1,0 +1,56 @@
+Admission Date:  [**2194-2-26**]              Discharge Date:   [**2194-4-8**]  Date of Birth:  [**2115-9-30**]             Sex:   M  Service: MEDICINE  Allergies: Cytarabine  Attending:[**First Name3 (LF) 7591**] Chief Complaint: dizziness  Major Surgical or Invasive Procedure: none  History of Present Illness: 78 yo Cantonese speaking male started noticing dizziness about 5 days ago.
+He did not have any tinnitus, hearing loss, ear pain or drainage, headache, visual changes, focal neurological changes.
+His PCP drew some labs and he was found to have neutropenia and anemia and pt was asked to see PCP again today.
+Over the last 2 days, his dizziness had been improving and currently he does not have any dizziness anymore.
+Other than the herbal tea, he denies ingesting any other over the counter or herbal medications.
+He does not get medications from anyone other that his PCP and has been on the same medications for years     Other than recent dizziness he has not fallen ill in the last few months, he does not have any sick contacts and has not had any foreign travel.
+He denies easy bruising or bleeding     He denies chest pain, shortness of breath, cough, nausea/vomiting/diarrhea, deneis urinary symptoms  ROS: -Constitutional: [x]WNL []Weight loss []Fatigue/Malaise []Fever []Chills/Rigors []Nightweats []Anorexia -Eyes: [x]WNL []Blurry Vision []Diplopia []Loss of Vision []Photophobia -ENT: [x]WNL []Dry Mouth []Oral ulcers []Bleeding gums/nose []Tinnitus []Sinus pain []Sore throat -Cardiac: [x]WNL []Chest pain []Palpitations []LE edema []Orthopnea/PND []DOE -Respiratory: [x]WNL []SOB []Pleuritic pain []Hemoptysis []Cough -Gastrointestinal: [x]WNL []Nausea []Vomiting []Abdominal pain []Abdominal Swelling []Diarrhea []Constipation []Hematemesis []Hematochezia []Melena -Heme/Lymph: [x]WNL []Bleeding []Bruising []Lymphadenopathy -GU: [x]WNL []Incontinence/Retention []Dysuria []Hematuria []DIscharge []Menorrhagia -Skin: [x]WNL []Rash []Pruritus -Endocrine: [x]WNL []Change in skin/hair []Loss of energy []Heat/Cold intolerance -Musculoskeletal: [x]WNL []Myalgias []Arthralgias []Back pain -Neurological: [x] WNL []Numbness of extremities []Weakness of extremities []Parasthesias []Dizziness/Lightheaded []Vertigo []Confusion []Headache -Psychiatric: [x]WNL []Depression []Suicidal Ideation -Allergy/Immunological: [x] WNL []Seasonal Allergies .
+Diabetes Mellitus  Social History: Lives with wife.
+Does not have intercourse with anyone other than wife.
+Family History: No one in family has hx of cancer/blood disorders  Physical Exam: Physical Exam: Appearance: NAD Vitals: T:98.4 BP:103/64 HR:93 RR: 16 O2:99  %  RA Eyes: EOMI, PERRL, conjunctiva clear, anicteric, ENT: Moist Neck: No JVD, no LAD Cardiovascular: RRR, nl S1/S2, no m/r/g Respiratory: CTA bilaterally, comfortable, no wheezing, no ronchi, no rales Gastrointestinal: soft, non-tender, non-distended, normal bowel sounds Musculoskeletal/Extremities: no clubbing, no cyanosis, no joint swelling, no edema in the bilateral extremities Neurological: Alert and oriented x3, fluent speech, no pronator drift, no asterixis, sensation WNL, CNII-XII intact Integument: warm, no rash, no ulcer Psychiatric: appropriate, pleasant Hematological/Lymphatic: No cervical, supraclavicular, axillary, or inguinal lymphadenopathy GU: no CVAT   Pertinent Results: [**2194-2-26**] 10:50AM   WBC-0.9* RBC-2.78* HGB-9.6* HCT-27.1* MCV-97 MCH-34.7* MCHC-35.6* RDW-15.6* [**2194-2-26**] 10:50AM   NEUTS-10* BANDS-0 LYMPHS-80* MONOS-10 EOS-0 BASOS-0 ATYPS-0 METAS-0 MYELOS-0 [**2194-2-26**] 10:50AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-1000 KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-NEG [**2194-2-25**] 09:33AM   UREA N-16 CREAT-0.7 SODIUM-133 POTASSIUM-4.3 CHLORIDE-97 TOTAL CO2-27 ANION GAP-13 [**2194-2-25**] 09:33AM   TSH-0.90  Brief Hospital Course: AP: 78 yo Chinese male w PMHx of T2DM presents with 4-5 day hx of dizziness which is now resolved and found to have neutropenia and anemia and AML.
+Leukemia: Patient presented with neutropenia and anemia.
+His counts dropped as expected and he developed severe abdominal pain and fevers (discussed below).
+He was noted to have some atypical cells in his peripheral smear.
+He never had a day 14 BM biopsy because of his clinical deterioration during that time.
+T2DM: Holding outpatient oral regemin and treating with lantus at night and sliding scale.
+Patient had increased inslulin requirements while on steroids.
+Then he had pretty well controlled diabetes until the week prior to discharge when he started having pretty severe hyperglycemia.
+# Febrile neutropenia / Fungemia - while patient was having fevers during his nadir, he had a positive blood cutlure growing [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 563**].
+Eventually when he had elevated LFTs, we switched his micafungin to anidlofungin per ID recs.
+During this time, he was having severe abdominal pain, so with worries for hepatosleno candidemia, we did an MRI that did not show any involvement.
+His abdominal pain improved, but he contined to have elevated LFTs despite switching antifungals.
+He also was hyperglycemic and tachycardic which would lead more to continued infection.
+# Elevated LFTs - after having fungemia, he had elevated LFTs which were thought to likely be due to med effect v. hepatospleno candidemia.
+His MRI was negative, but he continued to have clinical signs of infection (although never spiked another fever once on antifungals).
+# Abdominal pain - while patient was in his nadir of his counts, he developed severe abdominal pain, which caused him to stop eating.
+He was placed on TPN because of his poor PO intake.
+He had two CT scans that did not show any bowel infection or typhlitis.
+It did show severe constipation.
+He was treated for his constipation and his symptoms improved.
+When his counts recovered, he no longer had abdominal pain and was eating very very well by the time of discharge.
+# Enterococcus UTI: Diagnosed from urine culture in the ED and treated with cefepime.
+Patient was spiking fevers after that which were attributed to Leukemia but as he was neutropenic he was continued on a course of Vancomycin and cefepime for neutropenic fevers until his count recovers.
+He had second fevers while on vanco/cefepime and found to have fungemia (as discussed above).
+# Stridor/respiratory distress: The patient was started on chemotherapy on [**3-6**].
+After his first dose, he developed acute respiratory distress, with tachypnea and audible stridor.
+He was presumed to have an anaphylactic reaction to his chemotherapy, and was given solumedrol 125mg IV X1, Benadryl 25mg IV X1, inhaled racemic epinephrine, and epinephrine .3mg IM X1.
+His respiratory distress did not subside, and he was transferred to the [**Hospital Unit Name 153**] emergently for intubation.
+Anesthesia intubated the patient without complications, and did not observe swollen or edemetous trachea or vocal cords.
+It could not be determined if he actually had a reaction to the chemo or a transfusion reaction.
+His blood was sent for a transfusion reaction but none could be identified.
+He had no other respiratory symptoms except one day of wheezing which was likely due to fluid overload and disappeared after being diuresed.
+# Gluteal Hematoma: Patient had a traumatic bone marrow biopsy complicated by a gluteal hematoma.
+This eventually extended down his thigh and was likely the cause of a hematocrit drop.
+There was no evidence of compartment syndrome and he was transfused.
+He improved with supportive care.
+Neutropenia/Anemia 2.
+Diabetes 4.
+Fungemia 5.
+Right when you started you had a bad reaction to either some blood or the chemo.
+You were given medications to prevent another reaction with blood.
+While your white count was low, you got an infection with [**Female First Name (un) **] (a type of yeast/fungus).
+You were very sick and had a lot of abdominal pain during this time, too.
+We treated you with antibiotics.
+We think your pain was mostly from constipation.
+You also likely had the fungus infection in your liver.
+Please return to the hospital for any fevers, chills, redness or pain around your PICC line, chest pain, shortness of breath, abdominal pain, worsening diarrhea, constipation or any other concerns.

@@ -1,0 +1,42 @@
+Admission Date:  [**2111-3-17**]              Discharge Date:   [**2111-4-4**]  Date of Birth:  [**2031-10-2**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 2234**] Chief Complaint: Fever, Tachycardia  Major Surgical or Invasive Procedure: None  History of Present Illness: 79F w/ DM type 2, arthritis recent admission to [**Hospital1 18**] in [**2111-1-31**] -[**2111-2-18**] for subdural hematoma after a fall with hospital course complicated by altered mental status requiring intubation, DKA, PNA, UTI and s/p PEG.
+She was dicharged to [**First Name4 (NamePattern1) 1188**] [**Last Name (NamePattern1) **] on [**2111-2-18**] and now:  presents after large emesis at 1AM there and subsequently developed SOB and rhonchi.
+At 5AM, she was noted to have rhonchi and RR 32 with HR 135, so she was sent to [**Hospital1 **] with concern for aspiration.
+EKG revealed sinus tachycardia.
+Past Medical History: - recent SDH followed by neurosurgery, new aphasic baseline - DM2 w/retinopathy and neuropathy - Arthritis - Right Hip fracture [**2108**]   Social History: Previously lived at home with her husband, one -two drinks per night, no tobacco, walked with a walker   Family History: non-contributory  Physical Exam: T: 100.6 (rectal) BP: 112/35 HR: 120's RR: 24 O2Sats: 97%RA Gen: opens eyes to gentle shaking and noise, but does not follow commands HEENT: Pupils: Left 1mm, surgical, Right 2-1mm EOMs- unable to test Lungs: coarse BS bilaterally Cardiac: tachycardic, no murmurs Abd: Soft, NT, BS+; peg tube insertion well healed, no erythema  Extrem: Warm and well-perfused, no skin breakdown, no erythmea or swelling Neuro: opens eyes to shaking and loud noise Motor: Normal bulk and tone bilaterally.
+At last admission: C. diff neg X 3, enterococcus (pan-sensitive) UTI, blood cx NGTD  [**2111-3-17**] 07:20AM BLOOD WBC-17.1* RBC-3.14* Hgb-9.0* Hct-29.1* MCV-93 MCH-28.7 MCHC-30.9* RDW-17.0* Plt Ct-1239* [**2111-3-17**] 07:20AM BLOOD Neuts-85.0* Bands-0 Lymphs-8.1* Monos-2.3 Eos-4.3* Baso-0.2 [**2111-3-17**] 07:20AM BLOOD Glucose-125* UreaN-20 Creat-0.6 Na-135 K-5.2* Cl-100 HCO3-23 AnGap-17 [**2111-3-18**] 02:05AM BLOOD Glucose-83 UreaN-8 Creat-0.4 Na-132* K-3.9 Cl-104 HCO3-20* AnGap-12 [**2111-3-18**] 02:05AM BLOOD ALT-15 AST-27 LD(LDH)-267* AlkPhos-124* TotBili-0.2 [**2111-3-17**] 06:25PM BLOOD cTropnT-0.03* [**2111-3-17**] 07:20AM BLOOD CK-MB-NotDone cTropnT-0.02* [**2111-3-18**] 02:05AM BLOOD Albumin-2.3* Calcium-7.3* Phos-2.5* Mg-1.4*     RADIOLOGY  Final Report  CTA CHEST W&W/O C&RECONS, NON-CORONARY  [**2111-3-17**] 10:32 PM  CTA CHEST W&W/O C&RECONS, NON-  Reason: pls eval for PE Field of view: 36 Contrast: OPTIRAY  [**Hospital 93**] MEDICAL CONDITION: 79 year old woman with recent SDH and decreased mobility at rehab now with fever, tachypnea, tachycardia REASON FOR THIS EXAMINATION: pls eval for PE CONTRAINDICATIONS for IV CONTRAST: None.
+HISTORY: 79-year-old male with recent subdural hemorrhage and decreased mobility, now presenting with fever, tachycardia, to rule out pulmonary embolism.
+FINDINGS:  CT CHEST WITH AND WITHOUT INTRAVENOUS CONTRAST:  There is no pulmonary embolism or aortic dissection.
+There are small bibasal effusions with extensive consolidation in the left lower lobe most likely infectious or may be related to aspiration.
+There is biapical pleural thickening and scarring.
+There is a hiatus hernia containing food residue.
+MUSCULOSKELETAL: There are extensive multilevel degenerative changes present in the spine.
+No pulmonary embolism or aortic dissection.
+Consolidation at the left lung base along with small bibasal effusions likely infectious or may be related to aspiration.
+RADIOLOGY  Final Report  CT HEAD W/O CONTRAST  [**2111-3-18**] 3:49 PM  CT HEAD W/O CONTRAST  Reason: pls eveal for worsening SDH or increased ICP  [**Hospital 93**] MEDICAL CONDITION: 79 year old woman with hx SDH, now declined mental status REASON FOR THIS EXAMINATION: pls eveal for worsening SDH or increased ICP CONTRAINDICATIONS for IV CONTRAST: None.
+FINDINGS: Redemonstrated is evolving hemorrhage within the right frontal lobe, unchanged in size.
+The small mass effect along the right frontal [**Doctor Last Name 534**] is also unchanged.
+There is a small resolving subdural hemorrhage in the left parietal lobe that has slightly decreased in size.
+No new hemorrhage is identified.
+The appearance of the ventricular system is unchanged, remarkable for involutional change.
+Periventricular white matter hypodensities and the osseous structures are unchanged, with redemonstration of a displaced right occipital and temporal bone fractures with opacification of the mastoid air cells.
+IMPRESSION: Overall, no significant interval change without acute hemorrhage.
+Brief Hospital Course: 79 yo hx DM2 recently admitted for SDH and at rehab who now p/w fevers, tachycardia, emesis and likely aspiration PNA vs pneumonitis.
+#ASPIRATION PNA: fever, leukocytosis & LLL consolidation on CT most likely due to aspiration PNA vs pneumonitis.
+Pt was ruled out for influenza A/B.
+She completed a course of Vancomycin and cefepime for aspiration pneumonia.
+Respiratory status improved, she was breathing comfortably on room air without fever for several days prior to transfer back to nursing home.
+Follow up CT chest showed resolving LLL pneumonia and atelectasis, no evidence of PE.
+#h/o ?
+C. Diff, -early in hospitalization she was continued on treatment for for C. Diff as she was recently positive & being treated with Flagyl at OSH.
+# Subdural hemorrhage: family was concerned that pt was having MS changes on [**3-18**], non-con head CT was essentially unchanged.
+Pt is followed by Dr. [**Last Name (STitle) **] for SDH as outpt.
+CSF cell counts were normal, no evidence of infection, cultures were negative.
+She was continued on seizure prophylaxis, without evidence of seizure activity Amantadine was started per neurology recomendations to see if it would help improve her mental status.
+Her baseline since her subdural hematoma is non-verbal, not following commands, sometimes opens eyes.
+# Sinus Tachycardia: persistent chronic tachycardia without apparent etiology, but multiple possibilities including fever, hypovolemia, pe, or central process.
+Tachycardia persisted after fever resolved, after volume resuscitation with ivfs ct chest was negative for PE.
+Of note, had been on beta blocker on admit--was discontinued here initially with acute illness.
+Could consider re-starting at rehab if ongoing tachycardia.
+Medications on Admission: MEDS (from rehab): tylenol vitamin D 400 daily calcium 500 daily keppra 500 mg (5ml) oral solution QAM; 1000mg QPM prevacid 30 daily metoprolol 25 mg daily SQ heaprin milk of magnesia loperamide Ceftriaxone 2 gm IV (started [**3-4**]) fluconazole 400 mg then 200 mg daily (started [**3-4**]) levaquin 500 mg flagyl 500 mg Q8H started [**2111-3-6**] lantus 44 units + regular SS   Discharge Medications: 1.
+Discharge Disposition: Extended Care  Facility: [**Hospital3 1186**] - [**Location (un) 538**]  Discharge Diagnosis: 1.Aspiration pneumonia 2.tachycardia 3.subdural hematoma / frontal contusion/intracerebral hemorrhage 4.
+DM II uncontrolled with complications  Discharge Condition: afebrile, breathing comfortably, nonverbal, opens eyes  Discharge Instructions: All medications as prescribed.

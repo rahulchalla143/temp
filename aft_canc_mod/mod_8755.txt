@@ -1,0 +1,33 @@
+Admission Date:  [**2160-11-16**]              Discharge Date:   [**2160-11-19**]  Date of Birth:  [**2085-8-22**]             Sex:   M  Service: MEDICINE  Allergies: Aspirin / Indomethacin / Ciprofloxacin / Probenecid / Allopurinol And Derivatives / Phenytoin / Keflex  Attending:[**First Name3 (LF) 2024**] Chief Complaint: Hypotension  Major Surgical or Invasive Procedure: None  History of Present Illness: 75 year old gentleman with a PMH significant for HCV cirrhosis c/b HCC s/p lobe resection in [**2156**], POD 12 from craniotomy for SDH now admitted to the [**Hospital Unit Name 153**] for fever, rash, and hypotension.
+He was started on keflex yesterday for possible superficial phlebitis at an old PIV site, and denies any localizing symptoms including HA, menigismus, cough, shortness of breath, dysuria, n/v/d.
+Of note, the patient was admitted to [**Hospital1 18**] under the Neurosurgical service from [**Date range (1) 30844**] after a fall with bilateral SDH, and underwent right craniotomy on [**11-5**], and ultimately was discharged to rehab on dilantin for seizure prophylaxis.
+In addition, he was started on keflex the day prior to admission for question of cellulitis on his left forearm at the location of a prior PIV site.
+Currently, the patient is resting comfortably without complaints.
+Hypertension 2.
+Hypothyroidism 3.
+Hepatocellular carcinoma   Social History: Single.
+Skin: Stapled surgical site on cranium without surround erythema .
+Extremities: wwp, no edema.
+no gross deficit   Pertinent Results: Admission Results: .
+CXR ([**2160-11-16**]): No acute cardiopulmonary process.
+CT Head With and Without Contrast ([**2160-11-16**]): Stable appearance of evolving bilateral subdural hematomas and interval resorption of postoperative pneumocephalus, with no concerning enhancement.
+Heterogeneous liver with lesions consistent with multifocal hepatocellular carcinoma.
+Last Updated on [**2160-11-17**]  Brief Hospital Course: 75 year old gentleman with a PMH significant for HCV cirrhosis complicated by HCC s/p lobe resection in [**2156**], who presented on post-operative day 12 from craniotomy for a subdural hematoma with fever, rash, and hypotension.
+Hypotension and Fever: There was immediate concern for sepsis on presentation to the ED, although no apparent source was isolated and no significant fever was recorded in the hospital (had 100.4 on admission to the ED).
+A RUQ ultraound was performed that confirmed a moderate amount of ascites and patency of the hepatic vessels, but the abdomen was not tender and the suspicion for SBP was low.
+Adrenal insuficiency was ruled out per cosyntropin test.
+The patient did receive a dose of Vancomycin and Levofloxacin in the ED but none were continued in the ICU as the patient remained afebrile and the ICU team's suspicion for infectious process was low.
+Dilantin was considered as a possible etiology for his presentation, especially given the acute renal failure and associated morbilliform rash, as a type IV drug reaction, including DRESS, though no eosinophilia was noted on differential.
+The patient remained afebrile and normotensive during his ICU stay and the day after admission was transferred to the oncology service.
+Acute Renal Failure: Patient was admitted with a serum creatinine of 1.2, up from a known baseline of 0.9 to 1 likely pre-renal failure in the setting of hypotension.
+Elevated Liver Enzymes: 2/2o Hepatitis C Cirrhosis and Hepatocellular Carcinoma: Patient failed Interferon and Ribavirin in the past.
+# Metabolic Acidosis: initially normochloremic with slightly elevated AG, then hyperchloremic with normal anion gap.
+Likely initially [**1-15**] to tissue hypoperfusion given the elevated lactate on admission.
+Also contributed to by renal failure.
+# Anemia: at baseline of 30-35.
+Had initial drop of Hct secondary to rehydration and resolution of Hemmoconcentration, Hct back to baseline at discharge.
+Of note patient found to have increased palpable right lower thyroid lobe.
+Discharge Disposition: Extended Care  Facility: [**Location (un) 23095**]  Discharge Diagnosis: Suspected Drug Reaction/Anaphylaxis CAVE PHENYTOIN CAVE CEPHALEXIN s/p craniotomy for bilateral acute on chronic sub dural hemmorahge Hepatitis C cirrhosis Hepatocelular Carcinoma   Discharge Condition: Mental Status: Clear and coherent.
+Discharge Instructions: You were admitted because of rash and low blood pressure.
+We believe this event may have been due to reaction or allergy to medications you were taking either Dilantin (phenytoin) or Keflex (cephalexin).
+Please discussed imaging of your thyroid gland with your primary care provider.

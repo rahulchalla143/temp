@@ -1,0 +1,72 @@
+Admission Date:  [**2185-2-15**]              Discharge Date:   [**2185-2-17**]  Date of Birth:  [**2104-2-3**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 1145**] Chief Complaint: chest pain  Major Surgical or Invasive Procedure: Diagnostic cardiac catheterization   History of Present Illness: This is an 81 yo female with metastatic neuroendocrine tumor on home hospice, h/o CVA, rheumatoid arthritis, diabetes, hypertension, hyperlipidemia who presented to the [**Hospital1 **] emergency room with chest discomfort and malaise.
+She began experiencing chest discomfort at 12:30 during the night, and took some nitroglycerin with partial relief, but did not tell the family because she was hoping it would resolve.
+By the morning, patient was becoming dyspneic and felt nauseous, and requested to come to the hospital.
+Chest pain had resolved on arrival to [**Hospital1 **] Emergency room, but she was noted to have ST elevations in III and aVF with prominent R-wave with ST depressions in V1-V2.
+Left heart catheterization demonstrated LVEDP of 40mmHg, LAD with diffuse disease and a 99% mLAD stenosis, LCx with diffuse disease, 50% pLCx stenosis, 90% mLCx lesion after OM1, 70% OM1, pRCA occlusion with large conus with 80% stenosis giving collaterals to LAD and RCA.
+On review of systems, she denies any prior history deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, cough, hemoptysis, black stools or red stools.
+She denies recent fevers, chills or rigors.
+She denies exertional buttock or calf pain.
+Cardiac review of systems is notable for absence of orthopnea, ankle edema, palpitations, syncope or presyncope.
+CARDIAC HISTORY: Ventricular tachycardia #.
+History of MI and Ventricular tachycardia in [**8-/2184**], on amiodarone, ICD declined #.
+Ischemic cardiomyopathy with LVEF 35% in [**1-/2184**] at [**Hospital1 **] 3.
+H/o right-sided CVA in [**2157**] #.
+H/o Bell's Palsy with residual deficits of facial muscles.
+History of Neuroendocrine tumor with liver metastasis #.
+History of Renal cell CA #.
+H/o small-bowel obstruction, S/p exploratory laparotomy #.
+Rheumatoid arthritis #.
+Hypertension #.
+Diabetes mellitus - on oral metformin #.
+Hyperlipidemia #.
+Sclera anicteric.
+Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.
+No xanthalesma.
+II/VI systolic murmur.
+No thrills, lifts.
++ S3 LUNGS: No chest wall deformities, scoliosis or kyphosis.
+CTAB, no crackles, wheezes or rhonchi.
+No HSM or tenderness.
+No abdominial bruits.
+No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+EKG [**2185-2-16**] - Sinus rhythm.
+The previously mentioned multiple abnormalities persist without diagnostic interim change.
+[**2185-2-15**] - Echo: The left atrium is mildly dilated.
+There is moderate to severe regional left ventricular systolic dysfunction with an apical left ventricular aneurysm and an inferobasal left ventricular aneurysm.
+There is no aortic valve stenosis.
+Mild (1+) aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Mild to moderate ([**1-14**]+) mitral regurgitation is seen.
+The tricuspid valve leaflets are mildly thickened.
+There is borderline pulmonary artery systolic hypertension.
+Significant pulmonic regurgitation is seen.
+There is no pericardial effusion.
+There is a small (~0.5 cm) mobile echodense structure adjacent to the apical anterior wall consistent with probable thrombus.
+Selective coronary angiography of this right dominant system revealed three vessel disease.
+The LMCA had mild disease.
+The LAD was diffusely diseased with 99% stenosis at the mid segment.
+The LCX was diffusely diseased with 50% stenosis at the proximal segment, 90% stenosis at the mid segment after the first OM, and there was 70% stenosis within the first OM.
+Limited resting hemodynamics demonstrated elevated left sided filling pressures consistent with diastolic dysfunction, with LVEDP 40 mm Hg.
+Careful pullback across the aortic valve did not reveal a significant gradient.
+Patient was symptom free, and ECG done during catheterization showed resolution of ST segment changes.
+Severe diastolic ventricular dysfunction.
+Brief Hospital Course: 81 yo female with history of ischemic cardiomyopathy, apical aneurysm, CVA, CHF, presents with chest pain in setting of uncontrolled hypertension now s/p cardiac catherization.
+As patient was pain free with resolution of ST changes elected to pursue conservative management with BP control and diuresis and would consider PCI if recurrent symptoms.
+# Chest pain: ST-elevations may have been secondary to aneurysmal changes noted on [**Hospital3 4107**] echocardiogram and confirmed on echocardiography today at [**Hospital1 18**].
+Lack of significant biomarker elevation suggests against significant ischemic territorial STEMI, and angiography suggests chronic RCA given collateralization.
+Patient may have had symptoms secondary to uncontrolled hypertension.
+STarted patient on Imdur 30 mg PO daily for both blood pressure and anginal control.
+# Hypertension - Patient maintained as outpatient on BB, ACEi.
+# Chronic systolic congestive heart failure: Euvolemic with ischemic cardiomyopathy.
+Echocardiogram with aneurysmal changes, possible thrombus in LV.
+# Chronic renal failure - baseline unknown, Cr currently 1.5 and stable, potassium stable, continue to monitor.
+# Rhythm - history of ventricular tachycardia, continued amiodarone and BB, repleted electrolytes as needed.
+# Diabetes - Insulin sliding scale in house, cahnged back to metformin on discharge.
+# Neuroendocrine carcinoma - Continue fentanyl patch, senna, docusate, lorazepam, acetaminophen.
+# Rheumatoid arthritis - restart methotrexate and prednisone on discharge.
+Nitroglycerin 0.3 mg Tablet, Sublingual Sig: One (1) tablet Sublingual as needed as needed for chest pain: please hold for BP < 100.
+Disp:*60 Tablet(s)* Refills:*2*   Discharge Disposition: Home With Service  Facility: Hospice of [**Location (un) 86**] and Greater [**Hospital1 1474**]  Discharge Diagnosis: Primary: acute coronary syndrome .
+Secondary: rheumatoid arthritis, CAD, neuroendocrine tumor  Discharge Condition: Afebrile, vital signs stable, chest pain free  Discharge Instructions: You were admitted for chest pain.
+We did a catheterization which showed chronic heart disease but no clear signs of an acute heart attack.
+We also did blood tests which showed that you did not have a heart attack.

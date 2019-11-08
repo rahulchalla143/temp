@@ -1,0 +1,36 @@
+Admission Date:  [**2147-9-5**]              Discharge Date:   [**2147-9-8**]  Date of Birth:  [**2075-12-19**]             Sex:   F  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 10593**] Chief Complaint: Low platelets  Major Surgical or Invasive Procedure: none   History of Present Illness: HOSPITALIST ADMIT NOTE (transfer from ICU)  Ms. [**Known lastname **] is a 71 year-old woman with gliobastoma multiforme and hypertension.
+Patient was diagnosed with gliobastoma multiforme on [**2147-7-3**]; she started radiation therapy and temodar on [**2147-8-1**] and is to complete therapy on [**2147-9-7**].
+She had no complaints during her visit except chronic left sided weakness.
+She had no complaints.
+Cefepime was continued, though she was afebrile, without localizing symptoms, and no notable findings on blood cultures, UA/urine culture, or CXR as of yet.
+Upon transfer to the [**Hospital1 **] today, she still has no complaints.
+She denies recent fevers or chills.
+No recent shortness of breath, cough, sore throat, or URI symptoms.
+Denies headaches or myalgias.
+No abdominal pain, nausea, vomiting, or diarrhea.
+No blood in stool or in urine.
+Does note some mild bleeding of gums with brushing.
+Has had decreased po intake recently to attempt to decrease the amount she urinates due to difficulty getting on bedpan at rehab.
+Review of systems: (+) Per HPI (-) Denies fever or chills.
+Denies headache, sinus tenderness, rhinorrhea or congestion.
+Denies cough, shortness of breath, or wheezing.
+Denies nausea, vomiting, diarrhea, constipation, abdominal pain, or changes in bowel habits.
+Denies dysuria, frequency, or urgency.
+Past Medical History: -GBM [**2147-5-19**]- Progressive left sided weakness [**2147-6-22**]- Brain CT showed right large heterogeneous nodular mass with peripheral enhancement and central necrosis [**2147-7-3**] CT guided brain stereostatic biopsy [**2147-7-3**] Pathology showed Gliobastoma Multiforme [**2147-8-1**] Started Radiation therapy (800 cGY of 6000 cGY) and temodar .
+No ulcers noted.
+Neck: supple, no LAD Lungs: good air movement, no crackles or wheezes CV: Regular rate and rhythm, soft S1/S2, no murmur Abdomen: soft, non-tender, non-distended, bowel sounds present Ext: warm, 2+ DP pulses, no edema; wearing pneumatic boots Neuro: Alert, oriented x3 ("[**Hospital3 **]", "[**2147-9-6**]").
+71F with glioblastoma multiforme, on temozolomide and XRT, referred from clinic to the ED on [**9-5**] because of thrombocytopenia and neutropenia, found to be hypotensive (BP 80s), and sent to ICU.
+Possible etiologies of her hypotension included volume depletion, adrenal insufficiency (dose of dexamethasone had recently been decreased from 6 mg to 4 mg daily), and infection/sepsis.
+She was seen by Neuro-Oncology, who felt that the decline in her cell counts was due to temozolomide.
+However, she remained afebrile throughout this hospitalization (>48h), cultures were negative, CXR showed no sign of pneumonia, and cefepime was discontinued on [**2147-9-8**].
+Prior to this admission, her dose had been decreased from 6 mg to 4 mg. Would monitor for signs of adrenal insufficiency.
+Keppra was continued for seizure prophylaxis.
+6. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+7. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day) as needed for constipation.
+9. lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for anxiety.
+Disp:*30 Tablet(s)* Refills:*0*   Discharge Disposition: Extended Care  Facility: [**Hospital 100**] Rehab  Discharge Diagnosis: Glioblastoma multiforme Neutropenia, drug-induced Anemia Thrombocytopenia   Discharge Condition: Mental Status: Clear and coherent.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Discharge Instructions: Ms. [**Known lastname **], you were admitted because of low platelet count, and low blood pressure.
+You have neutropenia (low white blood cell count), which reduces your body's ability to fight infection.
+Signs of infection may include fever, cough, shortness of breath, pain or frequency with urination, diarrhea, or abdominal pain.
+If you develop fever, chills, cough, shortness of breath, abdominal pain, diarrhea, changes in urination (pain, frequency), bleeding, or any other concerning symptoms, please contact one of your doctors, or consider returning to the emergency department.

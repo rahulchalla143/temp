@@ -1,0 +1,27 @@
+Admission Date:  [**2107-12-12**]              Discharge Date:   [**2107-12-17**]   Service: MEDICINE  Allergies: Levofloxacin  Attending:[**First Name3 (LF) 4057**] Chief Complaint: Fever, sore throat  Major Surgical or Invasive Procedure: NONE   History of Present Illness: [**Age over 90 **]-year-old male with metastatic prostate cancer presented to the ED with fever, sore throat, and malaise that started last Thursday.
+He had presented previously to the ED on [**2107-12-8**] with similar symptoms (ANC of 484) and was discharged home on a 4 day course of Azithromycin.
+Prostate Cancer diagnosed [**2-/2106**] with [**Doctor Last Name **] Score 4+4=8 and  4+5=9.
+Bone scan [**2106-3-22**] revealed numerous osseous metastases.
+CT  abdomen [**Last Name (un) 22315**] multiple bony mets involving pelvis and ninth left rib, as well as soft tissue abnormality on right seminal vesicle concerning for tumor extension.
+Family History: His father had a history of prostate cancer, but died at 69 years after a fall.
+His brother died at 82 years of metastatic prostate cancer.
+His sister died at [**Age over 90 **] years and had  no history of malignancy.
+Physical Exam: T: 98.1 BP: 103/47 HR: 59 RR: 21 O2 96% RA Gen: Pleasant, elderly male in NAD HEENT: No conjunctival pallor.
+In brief, Mr. [**Known lastname 103705**] is a [**Age over 90 **] year old gentleman with a history of metastatic prostate cancer on mitoxantrone who initially presented with malaise, sore throat, and fevers.
+Prior to his admission on [**2107-12-12**], he was seen in the ED [**2107-12-8**] for these complaints and was discharged to home with a prescription for azithromycin.
+However, his symptoms failed to improve after treatment so he re-presented to the ED on [**2107-12-12**].
+In the ED, he received cefepime, vanco, and fluconazole as he had recently been neutropenic and was admitted to OMED on [**2107-12-12**].
+There was no obvious source of infection with normal U/A and CXR.
+On the evening of [**2107-12-13**], patient had a witnessed aspiration event with associated hypoxia.
+He had SBP readings in the 80s, although asymptomatic, and he received IVF with SBP to 100s.
+Labs during his MICU stay revealed an increase in WBC count (4->7), significant bandemia of 42%, slight Hct drop (stable on repeat), and stable thrombocytopenia.
+# Prostate cancer: Patient's prednisone was held while concern for infection, then restarted on the day of discharge.
+There was no chemo given during the hospitalization, patient was followed up as an outpatient - Tx as per outpatient oncology team - restart prednisone tomorrow .
+nausea and vomiting Vitamin C [**2098**] mg daily Colace 100 mg b.i.d Multivitamin one tablet daily MiraLax p.r.n.
+Miralax 17 gram (100 %) Powder in Packet Sig: One (1) capful PO once a day as needed for constipation.
+Discharge Disposition: Home With Service  Facility: [**Hospital1 **] Family & [**Hospital1 1926**] Services  Discharge Diagnosis: Primary Diagnosis: Bronchitis Aspiration Prostate Cancer   Discharge Condition: Stable on room air.
+Discharge Instructions: You came to the hospital with sore throat, fever and difficulty swallowing.
+We treated you with antibiotics.
+You apirated on your food and this caused you to have difficulty breathing.
+We had our speech and swallow team evaluate you and they recommended that you have a thick liquid diet, they will send someone to your home to help you with your diet.
+If you have any difficulty breathing, chest pain, shortness of breath, fever, nausea vomiting or diarrhea, or any other symptoms that are concerning to you please call your doctor or come to the emergency room.

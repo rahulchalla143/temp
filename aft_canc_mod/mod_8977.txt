@@ -1,0 +1,134 @@
+Admission Date:  [**2123-5-10**]              Discharge Date:   [**2123-7-2**]  Date of Birth:  [**2079-11-21**]             Sex:   M  Service: MEDICINE  Allergies: Penicillins / morphine  Attending:[**First Name3 (LF) 7591**] Chief Complaint: knee pain, fevers, concern for acute leukemia   Major Surgical or Invasive Procedure: [**2123-5-10**]: PICC line placement [**2123-5-13**]: Bronchoscopy [**2123-5-14**]: Pericardiocentesis and cardiac catherization [**2123-5-19**]: Central line placement [**2123-5-24**]: Lumbar puncture [**2123-6-16**]: EGD and sigmoidoscopy [**2123-5-11**] and [**2123-6-11**]: Bone marrow biopsy   History of Present Illness: 43M with history of GERD and chronic right knee pain who initially presented to [**Hospital6 33**] on [**2123-5-7**] with progressively worsening right knee pain/swelling with presumed septic artritis and meniscal injury, whose course was complicated by pneumonia, neutropenic fever, and concern for acute leukemia, and who is transferred now to [**Hospital1 18**] for further evaluation including bone marrow biopsy.
+He has a history of chronic intermittent right knee pain since age 16, when he underwent arthroscopic surgery.
+In [**Month (only) 359**], he exacerbated his right knee pain while participating in physical therapy for his back.
+Plan was for arthroscopic surgery in Novemeber, but this was delayed when he developed swelling in the setting of a jaw infection, requiring a 4 day hospital admission, IV antibiotics and oral surgery with teeth removal.
+Plan was for knee surgery to proceed on [**2123-5-20**], however approximately one week ago he developed progressively worsening knee pain and swelling, to the point where he was unable to bear weight.
+Saw his PCP, [**Name10 (NameIs) 1023**] ordered an ultrasound that per report was negative for DVT or cyst in RLE.
+However, pain worsened and he went to ED at [**Hospital3 **] on [**5-7**].
+Was followed by ID consulting team, who felt this was concerning for septic arthritis despite low WBC.
+Chest CT [**5-8**] showed no evidence of PE but did show some signs of evolving right sided pneumonia.
+PT then spiked fever to 102.8, started  on vanc/imipenem/azithro for neutropenic fever although cultures with no growth to date.
+Was seen by Heme/Onc consultants, who had concern for acute leukemia.
+Reports intermittent fevers/chills, and diffuse pain most notable in right knee.
+Non-productive cough and dyspnea since yesterday, as well as a dull chest pain in region of lower left ribs.
+Has history of epistaxis in [**Doctor Last Name 6165**], no recent epistaxis or other bleeding.
+(-) Denies night sweats, headache, nausea, vomiting, diarrhea, abdominal pain, dysuria, frequency, urgency, or hematuria.
+Denies rashes or skin changes.
+No recent bruising.
+Past Medical History: GERD Right meniscal tear, s/p right knee arthroscopy, meniscectomy, and synovectomy [**2123-5-7**] Recent jaw infection ([**11/2122**])   Social History: Lives at home with wife and daughter.
+Physical Exam: ADMISSION EXAM: Vitals: T: BP:120/68 P:124 R:26 18 O2: 96% General: Alert, oriented, no acute distress HEENT: Sclera anicteric, MMM, oropharynx clear Neck: supple, JVP not elevated, no LAD Lungs: Clear to auscultation bilaterally, no wheezes, rales, rhonchi CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops Abdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly GU: no foley Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema  DISCHARGE EXAM: General: Alert, oriented, no acute distress HEENT: Sclera anicteric, MMM, oropharynx clear Neck: supple, JVP not elevated, no LAD Lungs: Clear to auscultation bilaterally, no wheezes, rales, rhonchi CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops Abdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly GU: no foley Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema  Pertinent Results: ADMISSION LABS: [**2123-5-10**] 08:05PM BLOOD WBC-16.2* RBC-2.61* Hgb-9.0* Hct-27.9* MCV-107* MCH-34.4* MCHC-32.2 RDW-15.0 Plt Ct-139* [**2123-5-10**] 08:05PM BLOOD Neuts-8* Bands-4 Lymphs-9* Monos-3 Eos-0 Baso-1 Atyps-0 Metas-1* Myelos-1* Other-73* [**2123-5-10**] 08:05PM BLOOD Hypochr-2+ Anisocy-1+ Poiklo-1+ Macrocy-2+ Microcy-NORMAL Polychr-1+ Ovalocy-OCCASIONAL Tear Dr[**Last Name (STitle) 833**] [**2123-5-10**] 08:05PM BLOOD PT-16.7* PTT-29.7 INR(PT)-1.6* [**2123-5-10**] 08:24PM BLOOD Fibrino-640* [**2123-5-10**] 08:05PM BLOOD Glucose-125* UreaN-17 Creat-0.9 Na-134 K-3.8 Cl-99 HCO3-26 AnGap-13 [**2123-5-10**] 08:05PM BLOOD ALT-21 AST-30 LD(LDH)-174 AlkPhos-43 TotBili-0.8 [**2123-5-10**] 08:05PM BLOOD Albumin-3.1* Calcium-8.0* Phos-1.0* Mg-2.1 UricAcd-5.8 [**2123-5-10**] 09:00PM BLOOD Lactate-1.4 [**2123-5-11**] 04:22AM BLOOD freeCa-1.08*  MICROBIOLOGY: Blood Cultures: 4/17 [**5-12**] 4/19 [**5-18**] 4/25 [**5-20**]  4/27 [**5-22**] 4/29 [**5-25**] 5/2 [**5-27**] 5/4 [**6-3**] [**6-5**]: No growth Blood cultures [**6-26**] and [**6-28**]: NGTD  Urine cultures: 4/17 [**5-12**] 4/22 [**5-26**] 5/10 [**6-6**] [**6-26**]: No significant growth  BAL [**5-13**] [**5-28**]: No significant growth  Pericardial fluid [**5-14**]: No significant growth  CSF [**5-24**] No signficant growth  Stool CDiff: 4/19 [**5-21**] 5/5 [**6-12**]: Negative  ONLY PERTINENT +VE: VIRAL CULTURE: R/O CYTOMEGALOVIRUS (Final [**2123-6-2**]): RHINOVIRUS.
+There is no evidence of complications, notably no pneumothorax, the course of the catheter is unremarkable.
+An area of retrocardiac atelectasis is seen.
+In addition, entire right hemithorax is showing increased radiodensity, which is presumably caused by patient positioning.
+Mild enlargement of the left atrium.
+Borderline cardiomegaly with mild fluid overload.
+No larger pleural effusions.
+No evidence of focal parenchymal opacity suggesting pneumonia.
+Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded.
+There is no aortic valve stenosis.
+No aortic regurgitation is seen.
+There is no mitral valve prolapse.
+Mild (1+) mitral regurgitation is seen.
+There is a small pericardial effusion.
+No right atrial or right ventricular diastolic collapse is seen.
+There is significant, accentuated respiratory variation in mitral/tricuspid valve inflows, consistent with impaired ventricular filling in the absence of frank cardiac tamponade.
+Airspace opacity at the right upper lobe and superior segment of the right lower lobe compatible with pneumonia; small-to-moderate bilateral pleural effusions and small-to-moderate pericardial effusion, all of which fluid is simple in nature.
+Scattered areas of prominent lymph nodes and splenomegaly compatible with patient's known diagnosis of leukemia.
+TTE [**5-13**] There is a small pericardial effusion.
+There are no echocardiographic signs of tamponade.
+Trivial pericardial effusion with likely cellular debris without echocardiographic signs of tamponade.
+Abnormal septal motion with significant respiratory variation and significant respiratory variation in mitral valve inflow suggestive of constrictive physiology.
+CHEST AP [**5-15**] 1) New/worsening left lower lobe collapse and/or consolidation, concerning for an area of pneumonic infiltrate.
+2) Worsening opacity in the right lung diffusely could reflect worsening pneumonic infiltrate as well.
+Bilateral small pleural effusion with mild increase in the amount of fluid in the left pleura.
+Mild edema in the right lower abdominal wall.
+Right pleural effusion is now partially loculated with fluid in the fissures.
+The left pleural effusion is slightly increased.
+Multifocal heterogenous opacities in the left upper lobe and lingula are worse.
+Marked peribronchovascular wall thickening in the lower lobes, right greater than left, with subsegmental atelectasis is similar.
+Scattered borderline enlarged lymph nodes are unchanged from [**2123-5-12**].
+CT HEAD [**5-23**] There is no evidence of hemorrhage, infarction, edema, mass, or shift of normally midline structures.
+There is minimal mucosal thickening of the right sphenoid sinus.
+There is opacification of the left mastoid air cells.
+Although this may be chronic, consider the possibility of acute infectious mastoiditis.
+RIGHT LENI [**5-23**] No DVT in the right lower extremity.
+No evidence for central pulmonary embolism.
+Findings most consistent with multifocal pneumonia, with slight increase in left lower lobe opacities, and bilateral pleural effusions.
+Left ventricular systolic function is hyperdynamic (EF>75%).
+There is abnormal septal motion/position.
+There is no aortic valve stenosis.
+No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Mild (1+) mitral regurgitation is seen.
+The tricuspid valve leaflets are mildly thickened.
+There is borderline pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+There is an anterior space which most likely represents a prominent fat pad.
+There are no echocardiographic signs of tamponade.
+Mild pulmonary edema, large loculated right effusion.
+The multifocal patchy abnormalities identified in chest CT are not particularly well seen on current chest radiograph.
+Incompletely visualized multifocal opacifications in the bilateral lung bases, consistent with edema and multifocal pneumonia, better assessed on recent CTA.
+Decreased size of bilateral pleural effusions, now small in size.
+No evidence of bowel obstruction.
+Resolving increased attenuation of jejunal mesentery with relative sparing of fat surrounding mesenteric vessels, is most consistent with resolving mesenteric panniculitis.
+Interval improvement in now trace pleural effusions.
+Mild fat stranding within the mesorectum without associated adenopathy or abnormal CT appearance of the rectum.
+EGD [**2123-6-16**]: Normal mucosa in the esophagus Normal mucosa in the stomach (biopsy) Friability and erythema with scalloping of the mucosa in the duodenal bulb and first part of the duodenum compatible with duodenitis (biopsy) Otherwise normal EGD to third part of the duodenum  SIGMOIDOSCOPY [**2123-6-16**]: Nodularity and friability in the rectum (biopsy) Normal mucosa in the sigmoid colon (biopsy) Otherwise normal sigmoidoscopy to descending colon  Renal US [**2123-6-23**]: FINDINGS:  The renal cortices are diffusely echogenic bilaterally compatible with medical renal disease.
+No hydronephrosis, stone or mass is seen.
+IMPRESSION:  Echogenic kidneys compatible with medical renal disease without evidence of hydronephrosis.
+No atrial septal defect is seen by 2D or color Doppler.
+There is no ventricular septal defect.
+There is abnormal septal motion/position.
+The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic stenosis or aortic regurgitation.
+The mitral valve appears structurally normal with trivial mitral regurgitation.
+There is no mitral valve prolapse.
+There is mild pulmonary artery systolic hypertension.
+There is a trivial/physiologic pericardial effusion.
+There are no echocardiographic signs of tamponade.
+Labs on discharge:  [**2123-7-2**] 12:00AM BLOOD WBC-8.3 RBC-2.97* Hgb-9.0* Hct-26.6* MCV-90 MCH-30.2 MCHC-33.7 RDW-16.9* Plt Ct-109* [**2123-7-2**] 12:00AM BLOOD Neuts-88.9* Lymphs-4.1* Monos-3.8 Eos-1.9 Baso-0.4 [**2123-6-28**] 12:10AM BLOOD Hypochr-1+ Anisocy-OCCASIONAL Poiklo-1+ Macrocy-OCCASIONAL Microcy-NORMAL Polychr-NORMAL Ovalocy-1+ Schisto-OCCASIONAL Burr-1+ Tear Dr[**Last Name (STitle) **]1+ [**2123-7-2**] 12:00AM BLOOD PT-11.2 PTT-27.9 INR(PT)-1.0 [**2123-7-2**] 12:00AM BLOOD Fibrino-258 [**2123-7-2**] 12:00AM BLOOD Glucose-126* UreaN-26* Creat-1.3* Na-135 K-3.9 Cl-99 HCO3-26 AnGap-14 [**2123-7-2**] 12:00AM BLOOD ALT-29 AST-22 LD(LDH)-176 AlkPhos-149* TotBili-0.5 [**2123-7-2**] 12:00AM BLOOD Calcium-8.6 Phos-3.4 Mg-1.9  Brief Hospital Course: 43 y/o M without significant past medical history who presented to OSH with right knee pain and fever, transferred to [**Hospital1 18**] for treatment of acute monocytic leukemia, M5a, s/p 7+3 with daunorubicin and cytarabine induction on [**2123-5-14**] and HiDAC consolidation on [**2123-6-25**] with a hospital course complicated by effusive-constrictive pericarditis, pneumonia, persistent fevers and severe pain with mucositis.
+#Acute Monocytic leukemia (M5a) - Patient was admitted with an elevated WBC count with monocytic predominance.
+He was diagnosed with new onset Acute Monocytic Leukemia (M5a) on bone marrow biopsy.
+He was initially treated with alloprinol 300 mg PO daily to decrease uric acid production.
+[**Hospital1 **] tumor lysis labs were monitored without evidence of acute tumor lysis syndrome.
+Repeat bone marrow biopsy on [**6-11**] showed NO DISEASE.
+HiDAC therapy was complicated by a morbilliform rash, thought to be [**2-25**] ara-C, as pt had similar rash during 7+3 induction chemo, for a which a biopsy was consistent with chemotherapy-induced reaction.
+# Febrile neutropenia: The patient was started on treatment for pneumonia (seen on CT) with vancomycin and imipenem at OSH prior to transfer.
+Patient developed rash initially concerning for reaction to meropenem  and he was switched to cefepime prior to transfer to the floor.
+Patient remained afebrile from [**Date range (1) **].
+He developed new fevers on [**5-18**] and metronidazole was started after abdominal CT on [**5-20**] showed concern for panninculitis.
+His fevers remained constant and LENI's of his right lower leg on [**5-20**] and [**5-23**] were negative.
+CSF showed no evidence of infection.
+Cefepime was switched to aztreonam given concern for worsening drug rash.
+At this time, additional sources of fever included right subscapular pleural effusion, which was unable to be sampled due to need for CT guidance and patient's clinical status.
+The only positive culture data was when the pt grew rhinovirus on BAL so was given IVIG.
+# Delerium: Patient developed increasing disorientation starting [**5-22**].
+LP on [**5-24**] showed no evidence of CNS infection or leukemic involvement.
+He remained delirous at this time, as he subsequently developed hypernatremia.
+Upon correction of hypernatremia with D5 and limiting use of narcotic pain medication, patient's mental status improved.
+Severe illness with disturbance in sleep wake cycle was also thought to be contributing to delerium, and patient was started on trazodone qhs to attempt to normalize sleep-wake cycles.
+As patient's mucocitis became severe enough to prevent po medication intake, zyprexa zydis was substituted for this purpose.
+# Effusive-Constrictive Pericarditis:  Noted on admission to [**Hospital Unit Name 153**] and thought likely due to leukemic infiltration.
+The patient had a right heart cath on [**5-14**] which showed evidence of tamponade physiology which did not improve after drainage of approximately 250 cc fluid.
+Patient continued to have pathologic pulsus paradoxus in the ICU.
+Pericardial drain removed [**5-15**] due to poor output.
+Repeat echo on [**5-17**] could not exclude constriction but no tamponade physiology noted, EF 65%.
+Repeat CT scans and TTE on [**5-26**] showed resolution of pericardial effusion but persistent constrictive physiology due to pericarditis.
+TTE prior to discharge however showed a preserved EF without pericardial effusion.
+# Hypernatremia: Developed hypernatremia [**5-24**] with Na rising from 143 to 149.
+# Multiple small dark stools: He had several low volume bloody movements starting on [**6-1**] and on [**6-3**].
+Patient was evaluated by GI who performed an EGD and flex sig which did not show findings consistent with his symptoms.
+# Right knee swelling (s/p arthroscopic washout and medial meniscal debridement and synovectomy at OSH):  Remained swollen and tender during hospital course.
+Given concern for persistent septic arthritis, orthopedics attempted arthrocentesis on [**5-23**] which did not return synovial fluid.
+Additionally, LENI US of right leg was negative for DVT on [**5-20**] and [**5-23**].
+Suspect likely due to leukemic synovitis, which is rare, but is associated with leukemias of monocytic lineage, generally in an area with a pre-existing injury like with this patient.
+Additional leg swelling likely secondary to buildup of edema in setting of knee surgery on that leg.
+Pt's knee pain was well controlled with pain medications at the time of discharge.
+# [**Last Name (un) **]: Pt's Cr became persistently elevated around [**6-3**] following dye load.
+# Elevated INR: Unclear etiology.
+No signs of bleeding.
+Medications on Admission: Home Medications: Ibuprofen 400 mg QID prn pain Prilosec 20 mg [**Hospital1 **]  Medications on Transfer: Tylenol prn Azithromycin 500mg daily Dilaudid 1mg Q2H prn pain Imipenem 500mg IV Q6H Toradol prn Demerol prn Zofran prn Vancomycin 1500mg Q12H Lovenox 40mg daily   Discharge Medications: 1. olanzapine 5 mg Tablet, Rapid Dissolve Sig: One (1) Tablet, Rapid Dissolve PO QHS (once a day (at bedtime)) for 30 days.
+Disp:*60 Capsule(s)* Refills:*0* 6. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation for 30 days.
+Disp:*qs * Refills:*0* 8. diphenhydramine HCl 25 mg Capsule Sig: One (1) Capsule PO three times a day as needed for itching for 10 days.
+Disp:*30 Capsule(s)* Refills:*0* 9. oxycodone 5 mg/5 mL Solution Sig: Ten (10) ml PO three times a day as needed for pain for 30 days.
+Disp:*100 ml* Refills:*0*   Discharge Disposition: Home With Service  Facility: [**Location (un) 511**] Home Health Services  Discharge Diagnosis: Primary: Acute myeloid leukemia  Secondary: Pericarditis Pneumonia Septic knee Acute kidney injury Mucositis   Discharge Condition: Mental Status: Clear and coherent.
+You had many complications from the treatment, for which you have recovered very nicely.

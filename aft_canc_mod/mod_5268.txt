@@ -1,0 +1,61 @@
+Admission Date:  [**2148-6-13**]              Discharge Date:   [**2148-6-25**]  Date of Birth:  [**2089-11-5**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**Known firstname 6169**] Chief Complaint: leukocytosis of unclear etiology  Major Surgical or Invasive Procedure: bedside debridement of failed skin graft from outside hospital R IJ placement and removal PICC placement  History of Present Illness: Patient is a 58M with no significant past medical history who was admitted from clinic for further evaluation after being evaluated in Dr.[**Name (NI) 6168**] clinic for WBC of 83.9, with peripheral smear showing 8% blasts and atypical cells.
+Patient reports that 4 weeks ago he developed a large "boil" on his right thigh, associated with fevers to 104.
+Received tagged red cell scan which lit up in area of thigh lesion, but no other abnormalities.
+Received skin flap over thigh lesion subsequently.
+Tried topical steroids with some relief.
+When the above issues were transpiring, patient saw a dermatologist and was started on oral steroids, and reports improvement in macular-appearing lesions on his body.
+Was also on Doxepin for itching associated with rash.
+On review of systems, patient denies any abdominal pain, nausea, vomiting, shortness of breath or chest pain.
+Reports unintentional weight loss over 40 lbs over the past year, from 260 to 219.
+Reports having chills over the last couple of weeks, and fevers for 4 days as mentioned above.
+No loss of appetite.
+No melena or hematochezia.
+No joint pain or myalgias.
+No urinary complaints.
+No cervical or submandibular lymphadenopathy.
+II/VI systolic murmur LUSB -> apex.
+EXT: No clubbing or edema.
+([**2148-6-13**]) CXR: IMPRESSION: AP chest reviewed in the absence of prior chest radiographs: Lungs are fully expanded and clear.
+No pleural abnormality.
+([**2148-6-14**]) CTA: IMPRESSION: No evidence for PE or dissection.
+Slightly echogenic appearance of liver, borderline by ultrasound, but consistent with mild fatty infiltration present on the recent CT. 2.
+Hypoechoic area near the gallbladder fossa, suggestive of focal fatty sparing, in spite of its mass-like appearance.
+([**2148-6-14**]) ECHO: The left atrium is moderately dilated.
+Left ventricular systolic function is hyperdynamic (EF>75%).
+There is a mild resting left ventricular outflow tract obstruction in the setting of tachycardia and hyperdynamic LV function.
+The ascending aorta is mildly dilated.
+The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic regurgitation.
+The mitral valve appears structurally normal with trivial mitral regurgitation.
+There is a trivial/physiologic pericardial effusion .
+([**2148-6-13**]): Bone Marrow Biopsy --FISH: An expanded population of myelomonocytic precursor with increased myeloblasts (12% of total events) is present.
+These findings are in keeping with the morphologic diagnosis of myeloproliferative/myelodysplastic syndrome (MPD/MDS), an overlap syndrome.
+--Bone marrow aspirate and core biopsy: Markedly hypercellular myeloid-dominant bone marrow with trilineage dysmyelopoiesis and ringed sideroblasts, consistent with a myeloproliferative/myelodysplastic syndrome (overlap syndrome).
+See note Note:  Though blasts are increased both in peripheral blood and bone marrow they do not reach levels consistent with acute leukemia.
+In addition, some of the morphologic findings, such as peripheral blood monocytosis and increased promonocytes in the bone marrow raise the possibility of chronic myelomonocytic leukemia (CMML), perhaps the best well-defined MDS/MPD.
+However, no history of monocytosis was elicited and in fact a year ago the patient reportedly have cytopenia.
+Moreover, the neutrophilic and erythroid series exhibit extensive dyspoiesis, greater than usually seen in CMML with markedly elevated WBC.
+Cytogenetic studies may be very helpful in further defining this condition since translocation of PDGFR is present in a fraction of CMML patients.
+Though morphologically atypical for chronic myeloid leukemia (CML), cytogenetic/molecular studies for [**Location (un) 5622**] chromosome/bcr-abl need to be performed to rule out an atypical presentation of CML.
+Brief Hospital Course: Patient is a 58 year-old gentleman who was admitted from clinic for further management of leukocytosis of 80,000 of unclear etiology.
+# LEUKOCYTOSIS Etiology of leukocytosis was multifactorial, including steroid use, possible infection, and underlying myeloproliferative/myelodysplastic disorder, with the latter diagnosis predominating: - INFECTIOUS: Patient with recent R thigh carbuncle/abscess that was drained and debrided at outside hospital, then grafted.
+Patient developed low grade fever thereafter, and it was felt that fever was due to cytokine release from lysis of cells secondary to chemotherapy (see below) and not infection.
+No other localizing sources for infection could be found, CXR/UA/Blood cultures were without growth.
+- HEME/ONC: Bone Marrow biopsy showed myeloproliferative/myelodysplastic overlap syndrome.
+Given concerns for leukostasis from marked leukocytosis, patient started on hydroxyurea and prophylactic allopurinol was added to regimen.
+Patient was transferred to the [**Hospital Unit Name 153**] for further management given concerns of respiratory demise from leukostasis.
+Pulmonology team was consulted, felt that hypoxia was mainly attributable to fluid overload based on Chest CT findings.
+Patient's symptoms improved with diuresis and was weaned off supplemental oxygen relatively rapidly.
+Patient tolerated chemotherapy, and leukocytosis responded well.
+Topical steroids were recommended as needed, but rash did not worsen and patient was not symptomatic from it.
+Oral steroids were later added back to regimen as adjunctive treatment of underlying myelodysplastic disorder.
+# EPIGASTRIC DISCOMFORT Patient with episode of diaphoresis and epigastric discomfort on evening of [**6-13**], with T spike to 101.
+Suspected that this was due to plastics manipulation of abscess with SIRS-like response.
+No EKG changes, CTA negative for PE or dissection.
+Patient hsd been having similar episodes for the past 5-6 days, unclear whether this was due to underlying leukocytosis cuasing leukostasis, or GERD.
+# PAROXYSMAL ATRIAL FIBRILLATION 3 days after admission, patient went into Afib with RVR to 140s-150s.
+ECHO showed preserved EF with dilated left atrium.
+Chest CT confirmed presence of fluid overload.
+No further episodes were experienced.
+Medications on Admission: none before recent admission Doxepin 25 TID (has not taken for last 5 days, was on it for itch) Prednisone 60mg PO qd Prilosec Drops for glaucoma, does not recall name Tenovite 0.05% cream for skin lesions Vicodin for pain, has not taken in several days   Discharge Medications: 1.
+Disp:*30 Tablet(s)* Refills:*2*   Discharge Disposition: Home With Service  Facility: Critical Care Systems  Discharge Diagnosis: AML/MDS Right leg ulceration Paroxysmal Atrial Fibrillation Likely [**3-14**] Fluid Overload  Discharge Condition: Stable   Discharge Instructions: 1.
+Seek medical care for any concerning symptoms including fevers, chills, chest pain, shortness of breath, abdominal pain, nausea, or any other concerning symptoms.

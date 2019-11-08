@@ -1,0 +1,125 @@
+Admission Date:  [**2195-3-10**]              Discharge Date:   [**2195-4-23**]  Date of Birth:  [**2116-4-15**]             Sex:   M  Service: MEDICINE  Allergies: Ibuprofen  Attending:[**First Name3 (LF) 3913**] Chief Complaint: new diagnosis AML with blast crisis  Major Surgical or Invasive Procedure: Pheresis catheter placement, PICC placement x 2, foley catheterization x 2, Lumbar Puncture x 3, Bone Marrow Biopsy x 1, EGD with placement of 2 clips   History of Present Illness: This is a 79 year old man with history of atrial fibrillation status post watchman device with hyperlipidemia who was initially admitted to [**Hospital1 18**] on [**2195-3-10**] with a blast crisis now s/p multiple complications detailed below who is being transferred from 7F for an upper GI bleed.
+He was admitted from [**Hospital3 **] with an acute blast crisis after having low grade temperatures and fatigue at home which was initially diagnosed as acute pharygnitis and then progressed to n/v and abdominal pain as well as oliguria.
+Since admission, initially to the [**Hospital Unit Name 153**], he was started on leukophoresis x3 on [**3-11**], hydrea, 3 days of Idarubicin and 7 days of [**Month/Year (2) **]-C, and required CVVH for renal failure with subsequent improvement in creatinine.
+Course was complicated by tumor lysis syndrome which improved with CVVH, allpurinol, plasmapheresis.
+His CSF showed an atypical cell and thus he received three rounds of IT chemo (2xMTX and 1xAraC).
+His counts recovered though this was complicated by neutropenic fever and was started on vancomycin, cefepime, flagyl and micafungin with resolutions of fevers.
+His fevers then recurred and he was found to have CT findings concerning for angioinvasive aspergillus, blood cultures positive for VRE and C. [**Month/Year (2) 48411**].
+He was also recently diagnosed with an enterobacter UTI and is completing a 7 day course of Cipro for complicated UTI.
+His course was also complicated by a PICC-line associated DVT in R brachiocephalic subclavian vein, initially treated with heparin gtt and then lovenox with factor Xa level titration.
+He also had a significant lower extremity [**Month/Year (2) **] followed by dermatology with biopsy consistent with drug hypersensitivity to [**Month/Year (2) **]-C, now much improved.
+He has had persistent anemia, thrombocytopenia treated with intermittent prbcs and plts prn.
+His digoxin had been discontinued due to fluctuated renal funtion and his metoprolol had been uptitrated for HR control as he is chronically in atrial fibrillation.
+He additionally has hypocalcemia after treatment of hypercalcemia 2.2 tumor lysis and was followed by endocrinology who recommended discharge with Vit D and calcium carbonate.
+He then had the sudden urge to vomit and had a large emesis of coffee grounds at around 2100.
+He denies any epigastric pain at any time.
+He then settled down and awoke this morning and had one episode of gross OB positive stool then frank melena at 8:30 am.
+Given ongoing melena, GI and primary team recommended monitoring in ICU and EGD today.
+He has no nausea, GI upset, chest pain, abdominal pain, urge to have a BM, dysuria, lightheaded or dizziness, weakness or other symptoms.
+Family History: Reviewed and noncontributory for hematologic malignancy.
+Physical Exam: General: Alert, oriented, no acute distress HEENT: Sclera anicteric, MMM, oropharynx clear Neck: supple, JVP not elevated, no LAD Lungs: Clear to auscultation bilaterally, no wheezes, rales, rhonchi CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops Abdomen:  soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly GU: no foley Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema  Pertinent Results: **Labs on Admission** .
+**Microbiology** Blood Cxs: VRE x [**4-4**], [**4-5**]          : C. [**Month/Year (2) **], [**4-3**] Urine Cxs: Enterobacter Aerogenes on [**4-13**] Cdiff: negative x6 [**3-19**] IV catheter tip: coag neg staph [**3-21**] mycolytic cxs: negative Skin biopsy: no organisms CSF: no organisms Legionella: negative Resp viral cxs: Crytptococcal: negative Galactomannan: [**4-3**] (1.5 = POSITIVE), [**4-13**] (0.1 = NEGATIVE) B-Glucan: > Assay [**4-3**]  **Images** [**3-10**] CXR: IMPRESSION: Patchy ill-defined opacities in both lung bases which may represent areas of infection rather than atelectasis.
+The aortic root is mildly dilated at the sinus level.
+The aortic arch is mildly dilated.
+The aortic valve leaflets (3) are mildly thickened.
+There is no aortic valve stenosis.
+No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Mild (1+) mitral regurgitation is seen.
+The tricuspid valve leaflets are mildly thickened.
+There is mild pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+CXR [**3-18**]:  Findings most suggestive of interstitial edema.
+However, given the history of neutropenic fever, atypical pneumonia could also be considered in etiology for the interstitial abnormality.
+[**3-21**] Abdomen: Supine and left lateral decubitus views of the abdomen are submitted for interpretation.
+They demonstrate a nonobstructed bowel gas pattern, and no evidence of free intraperitoneal air.
+Within the imaged portion of the lower chest, a small right pleural effusion and bilateral retrocardiac opacities appear relatively similar to a dedicated chest x-ray of [**2195-3-18**].
+No evidence of acute sinusitis.
+Mild sinus mucosal disease as described.
+Evidence of encephalomalacia related to prior watershed infarct in left frontal lobe.
+Multiple bilateral poorly defined pulmonary opacities, some of which have a nodular configuration, and one of which has a wedge-shaped morphology.
+In conjunction with areas of adjacent ground-glass opacification, these findings are highly concerning for an angioinvasive fungal infection.
+Smooth septal thickening likely due to hydrostatic edema.
+Moderate right and small left pleural effusion.
+Metallic device at junction of left superior pulmonary vein and left atrium, possibly due to patient's previous Watchman procedure.
+**Pathology** [**3-11**]: Bone marrow with extensive involvement by acute myelogenous leukemia renal U/S [**3-12**]: Normal-sized kidneys without evidence of hydronephrosis.
+Diffusely abnormal bone marrow, which likely reflects a marrow infiltrating process given the patient's history of AML.
+Multilevel degenerative changes as detailed above, worst at the right L5-S1 neural foramen, where there is severe neural foraminal narrowing and mass effect on the exiting right L5 nerve root.
+[**3-25**] Skin, left calf, punch biopsy (A):      - Squamous atypia of basilar epidermis and atypia of superficial vascular endothelium consistent with chemotherapy effect.
+- Extravasated erythrocytes consistent with non-inflammatory purpura.
+[**3-28**] spinal fluid: negative for malignant cells .
+[**3-30**] BM bx: MARKEDLY HYPOCELLULAR MARROW WITH FEATURES CONSISTENT WITH CHEMOTHERAPY INDUCED ABLATION.
+THERE IS NO MORPHOLOGIC EVIDENCE OF ACUTE MYELOID LEUKEMIA.
+[**4-6**] TTE The left atrium is mildly dilated.
+The right atrium is moderately dilated.
+The right ventricular cavity is mildly dilated with borderline normal free wall function.
+The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present.
+No masses or vegetations are seen on the aortic valve.
+No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+There is no mitral valve prolapse.
+No mass or vegetation is seen on the mitral valve.
+Mild (1+) mitral regurgitation is seen.
+The tricuspid valve leaflets are mildly thickened.
+There is mild pulmonary artery systolic hypertension.
+There is a very small pericardial effusion located adjacent to the inferolateral wall.
+Low normal left ventricular systolic function in the setting of tachcardia (?atrial fibrillation).
+Mild pulmonary hypertension.
+No evidence of endocarditis.
+No focal hepatic lesion.
+Patchy nodular airspace disease of the visualized lung bases better seen on recent dedicated chest CT of [**2195-4-3**].
+Small-to-moderate bilateral pleural effusions.
+Evidence of iron deposition in liver and spleen probably related to transfusion therapy .
+[**4-15**] CXR Multifocal bilateral large airspace opacities consistent with patient's history of Aspergillus infection have improved in the right upper lobe.
+Small bilateral pleural effusions are larger on the left side.
+There is no evident pneumothorax.
+A clot is redemonstrated in the distal right subclavian and axillary veins, seen on the prior ultrasound examination from [**2195-4-8**].
+[**4-20**]: EGD Findings: Esophagus: Other Small hiatal hernia was noted.
+Hernia side of GE junction had evidence of moderate to large size ulceration with significant clot over it.
+There was stigmata of recent bleeding and mild oozing.
+There was no bleeding site in the stomach or duodenum evident and no old blood in either place.
+There was mild gastritis and duodenitis present.
+No active bleeding at end of procedure.
+Repeat EGD in [**12-25**] week to ensure resolution and no underlying mass lesion.
+Brief Hospital Course: SUMMARY 78 y/o Political Theorist with PMH of Atrial Fibrillation s/p Watchman procedure presents with M5-AML Blast Crisis and Leukostasis.
+# AML M5 Type, Leukostasis with Leukemic Infiltration of Lungs, Kidneys, s/p Leukopheresis x 3 # Tumor Lysis, s/p Rasburicase # Acute Renal Failure, "Blast-Casts" in urine, s/p CVVH # Leukopoenia, s/p 3 then 7 ([**Last Name (LF) **], [**First Name3 (LF) **]-C) # One Atypical Cell in CSF, s/p IT Chemotherapy (5/5,[**3-28**] and [**4-9**])  Originally presenting to his PCP with [**Name Initial (PRE) **] sore throat and diagnosed with strep throat (at which time he had a normal CBC), his symptoms progressed to include dyspnea and olgiuria.
+He presented with a Creatinine of 7, elevated Ca, Phos, extremely elevated LDH and a CXR c/w with PNA or leukemic infiltration.
+On [**3-12**], he was also started on CVVH concommitantly with 3 days of Idarubicin, which restarted his tumor lysis.
+On [**3-17**], CVVH was discontinued, the patient was transferred to the floor and completed a full course 7 days of [**Month/Year (2) **]-C. His CSF showed an atypical cell and thus received three rounds of IT chemo (2xMTX and 1xAraC).
+His counts would later recover with some complications.
+# Neutropenic fever # VRE Sepsis # [**First Name5 (NamePattern1) 564**] [**Last Name (NamePattern1) **] Sepsis # Aspergillus Lung Disease, Angioinvasive # Immune Reconstitution Inflammatory Syndrome # Enterobacter Aerogenes UTI  Pt developed neutropenic fever and was started on cefepime, vancomycin, flagyl and micafungin during the course of his hospitalization, with initial resolution of his fevers.
+His fevers then recurred and he was found to have CT findings concerning for angioinvasive aspergillus, blood cultures positive for VRE and C. [**Last Name (NamePattern1) **] that prompted line removal.
+He was diagnosed with [**Doctor First Name **] and started on 3 days of 120 mg SoluMedrol with a 3 day taper, to good effect (clinically, less O2 requirement and radiologically, improved CXR).
+# DVT   Patient developed a provoked, PICC-line associated DVT in his Right Brachiocephalic-Subclavian vein that was treated out of concern that it was an infected clot, first with heparin gtt then with Xa-factor titrated doses of LMWH.
+His upper extrem DVT also has less risk for PE compared to LE DVT.
+# Cholestatic hepatitis: Also associated with mild transaminitis.
+Thought to be secondary to medication effects (voriconazole, daptomycin) which were held but now restarted.
+MR abdomen was performed on [**4-16**] which did not show a focal hepatic lesions and a normal biliary tree.
+Iron deposition thought to be secondary to transfusion therapy.
+He did have an abnormal US on [**4-7**] with gallbladder sludge and and mild intrahepatic bile duct dilatation.
+Patient has no clinical signs or symptoms of cholecystitis at this time.
+His statin was held for now but may be restarted as an outpatient if his LFTs normalize.
+# Hematuria: initially resolved with foley removal, however then recurred later in the course of the hospitalization in the setting of low platelets.
+# [**Name (NI) **]  pt seen by dermatology who biopsied the lesions on his legs.
+# Anemia / Thrombocytopenia  Related to blast crisis and bone marrow insufficiency.
+# Atrial Fib s/p Watchman Procedure  chronically in AF.
+Digoxin level was normal on admission in the setting of ARF and was held while patient was on CVVH.
+He required uptitration of metoprolol for rate control.
+He does not require anticoagulation, given his watchman procedure.
+Some may be dependent edema due to relative immobilization.
+# Hyper/hypo-calcemia - hypercalcemia related to tumor lysis and ARF.
+Completely resolved with aggressive hydration, however then became hypocalcemic with low vitamin D levels.
+# HTN:  Patient had labile blood pressures as high as SBP 190.
+# GI bleed:  On evening on [**4-19**] patient had 2 episodes of coffee ground emesis and a systolic blood pressure in the 70s.
+On [**4-20**] he had multiple episodes of melana and was transferred to the ICU for urgent upper endoscopy.
+EGD revealed an ulcer with a clot on the gastric side of the GE junction; two clips were placed endoscopically.
+He was continued on a PPI twice a day and should have a repeat EGD in [**12-25**] weeks to assess for resolution of the ulcer and look for a mass under the clot.
+Camphor-Menthol 0.5-0.5 % Lotion Sig: One (1) Appl Topical QID (4 times a day) as needed for itching.
+Loperamide 2 mg Capsule Sig: Two (2) Capsule PO Q4HR PRN () as needed for diarrhea.
+Polyvinyl Alcohol-Povidone 1.4-0.6 % Dropperette Sig: [**11-22**] Drops Ophthalmic PRN (as needed) as needed for dry eye.
+Menthol-Cetylpyridinium 3 mg Lozenge Sig: One (1) Lozenge Mucous membrane PRN (as needed) as needed for sore throat.
+Zolpidem 5 mg Tablet Sig: 1-2 Tablets PO HS (at bedtime) as needed for insomnia.
+Discharge Disposition: Extended Care  Facility: The Meadows - [**Location 9583**]  Discharge Diagnosis: Primary: Acute Myelogenous Leukemia, Blast Crisis Secondary: Acute Renal Failure, Vancomycin-Resistant Enterococcal Sepsis, Non-Albicans Candidemia, Aspergillus Lung Disease, Immune Reconstitution Inflammatory Syndrome, Enterobacter Aerogenes UTI, Cerumen Impaction, upper GI bleed   Discharge Condition: Mental Status: Clear and coherent.
+You were admitted with new Leukemia.
+STOP MEDICATION aspirin - please do not take any aspirin, NSAIDs, or blood thinners given you had a life threatening upper GI bleed Digoxin - you may restart this medication in the coming weeks if your kidney function remains normal Metoprolol succinate Ramipril - you may restart this medication in the coming weeks if your kidney function remains normal Lipitor - please stop taking this medication as your liver function tests are elevated .
+Return to the hospital if you have fevers, chills, difficulty breathing or any other symptoms that concern you.

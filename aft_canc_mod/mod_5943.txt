@@ -1,0 +1,81 @@
+Admission Date:  [**2173-11-11**]              Discharge Date:   [**2173-11-30**]   Service: MED  Allergies: Food Extracts  Attending:[**First Name3 (LF) 281**] Chief Complaint: Atrial fibrillation with rapid ventricular response.
+Acute renal Failure  Major Surgical or Invasive Procedure: Cardioversion times two ([**2173-11-12**] and [**2173-11-16**]) AV node ablation ([**2173-11-19**]) Pacemaker placement ([**2173-11-19**])   History of Present Illness: [**Age over 90 **] year old man with a history of prostate cancer, stroke, paroxysmal atrial fibrillation who was recently discharged to [**Hospital 100**] rehab after an admission for frequent falls.
+He had a history of atrial fibrillation during that recent admission; however, he was not continued on anticoagulation due to frequent falls.
+While at [**Hospital 100**] rehab, he had an elevation in his BUN and creatine.
+He was transfered to the [**Hospital1 **] emergency department for evaluation of acute renal failure.
+In the ED, he was found to be in atrial fibrillation with a heart rate to the 130s.
+The patient was assymptomatic without chest pain, shortness of breath, or palpitations.
+On review of systems, the patients notes a productive cough for one week but denies fever, chills, nausea, or vomiting.
+Macular degeneration 3.
+Paroxysmal atrial fibrillation 5.
+History of prostate cancer 6.
+Questionable history of parkinsonism 7.
+Right renal mass.
+Depression 10.
+Dementia 11.
+Left cerebral subdural hemorrhage.
+Multifocal Atrial Tachycardia 13.
+CHF: severely depressed EF 17.
+He was alert to person and to place with an expressive aphasia.
+He had dry mucous membranes.
+His cardiac exam had an irregular rate, tachycardic, with a clear S1 and S2, no murmurs, rubs or gallops.
+On pulmonary exam, he had left mid-lung crackles without wheezes.
+His extremeties were warm without cyanosis, 2+ pitting edema bilaterally, and his distal pulses were 2+ bilaterally.
+Pertinent Results: [**2173-11-11**] 06:40PM   CK(CPK)-73 [**2173-11-11**] 06:40PM   cTropnT-0.10* [**2173-11-11**] 06:40PM   GLUCOSE-253* UREA N-75* CREAT-2.5*# SODIUM-134 POTASSIUM-4.9 CHLORIDE-96 TOTAL CO2-20* ANION GAP-23* [**2173-11-11**] 06:40PM   CALCIUM-8.4 MAGNESIUM-2.3 [**2173-11-11**] 06:40PM   WBC-9.6# RBC-3.43* HGB-9.9* HCT-31.1* MCV-91 MCH-29.0 MCHC-32.0 RDW-15.8* [**2173-11-11**] 06:40PM   NEUTS-84.6* LYMPHS-9.1* MONOS-5.9 EOS-0.1 BASOS-0.2 [**2173-11-11**] 06:40PM   PLT COUNT-230 [**2173-11-11**] 06:40PM   PT-15.1* PTT-27.0 INR(PT)-1.4  [**2173-11-30**] 06:30AM BLOOD WBC-3.1* RBC-3.47* Hgb-9.8* Hct-29.8* MCV-86 MCH-28.3 MCHC-33.0 RDW-15.7* Plt Ct-159 [**2173-11-29**] 06:30AM BLOOD WBC-3.1* RBC-3.51* Hgb-9.8* Hct-30.1* MCV-86 MCH-28.0 MCHC-32.7 RDW-15.6* Plt Ct-161 [**2173-11-28**] 06:35AM BLOOD WBC-3.7* RBC-2.96* Hgb-8.6* Hct-25.3* MCV-85 MCH-29.1 MCHC-34.0 RDW-16.1* Plt Ct-141* [**2173-11-27**] 03:55PM BLOOD Hct-28.7* [**2173-11-27**] 07:20AM BLOOD WBC-5.6 RBC-3.23* Hgb-9.2* Hct-27.9* MCV-86 MCH-28.3 MCHC-32.9 RDW-16.2* Plt Ct-127* [**2173-11-26**] 06:25AM BLOOD WBC-6.6 RBC-2.88* Hgb-8.2* Hct-25.0* MCV-87 MCH-28.5 MCHC-32.9 RDW-16.5* Plt Ct-113* [**2173-11-25**] 06:55AM BLOOD WBC-7.4 RBC-3.14* Hgb-8.9* Hct-27.3* MCV-87 MCH-28.5 MCHC-32.8 RDW-16.4* Plt Ct-123* [**2173-11-28**] 06:35AM BLOOD Plt Ct-141* [**2173-11-27**] 03:55PM BLOOD PT-14.0* PTT-30.3 INR(PT)-1.2 [**2173-11-27**] 07:20AM BLOOD Plt Ct-127* [**2173-11-26**] 06:25AM BLOOD Plt Ct-113* [**2173-11-26**] 06:25AM BLOOD PT-14.3* PTT-29.7 INR(PT)-1.3 [**2173-11-25**] 06:55AM BLOOD Plt Ct-123* [**2173-11-25**] 06:55AM BLOOD PT-14.3* PTT-28.3 INR(PT)-1.3 [**2173-11-24**] 08:30AM BLOOD Plt Ct-132* [**2173-11-23**] 06:10AM BLOOD Plt Ct-143* [**2173-11-22**] 06:05AM BLOOD Plt Ct-131* [**2173-11-30**] 06:30AM BLOOD Glucose-112* UreaN-26* Creat-1.1 Na-140 K-3.6 Cl-104 HCO3-26 AnGap-14 [**2173-11-29**] 06:30AM BLOOD Glucose-110* UreaN-28* Creat-1.1 Na-140 K-3.8 Cl-104 HCO3-26 AnGap-14 [**2173-11-28**] 06:35AM BLOOD Glucose-107* UreaN-27* Creat-1.2 Na-139 K-3.7 Cl-102 HCO3-27 AnGap-14 [**2173-11-27**] 03:55PM BLOOD UreaN-28* Creat-1.2 K-4.3 Cl-102 [**2173-11-27**] 07:20AM BLOOD Glucose-111* UreaN-25* Creat-1.1 Na-140 K-3.9 Cl-103 HCO3-25 AnGap-16 [**2173-11-26**] 06:25AM BLOOD Glucose-152* UreaN-22* Creat-1.2 Na-141 K-3.7 Cl-104 HCO3-26 AnGap-15 [**2173-11-25**] 06:55AM BLOOD Glucose-130* UreaN-22* Creat-1.1 Na-141 K-4.2 Cl-102 HCO3-26 AnGap-17  ---- [**2173-11-29**] 11:19 am URINE     URINE CULTURE (Pending): ---- [**2173-11-24**] 12:51 pm BLOOD CULTURE                              **FINAL REPORT [**2173-11-30**]**     AEROBIC BOTTLE (Final [**2173-11-30**]):    NO GROWTH.
+ANAEROBIC BOTTLE (Final [**2173-11-30**]):    NO GROWTH.
+---- Time Taken Not Noted     Log-In Date/Time: [**2173-11-24**] 12:50 pm       BLOOD CULTURE                              **FINAL REPORT [**2173-11-30**]**     AEROBIC BOTTLE (Final [**2173-11-30**]):    NO GROWTH.
+ANAEROBIC BOTTLE (Final [**2173-11-30**]):    NO GROWTH.
+---- Date: [**2173-11-26**] Signed by [**Last Name (NamePattern4) 57715**] [**Last Name (NamePattern1) 15102**], CCC-SLP on [**2173-11-26**] Affiliation: [**Hospital1 18**]   Title: REPEAT BEDSIDE SWALLOWING EVALUATION BEDSIDE SWALLOWING EVALUATION:  HISTORY: Returned today to reattempt the consult for this [**Age over 90 **] year old man who was admitted to [**Hospital1 18**] on [**2173-11-22**] for ARF and rapid ventricular rate a-fib, dehydration and pna.
+PMH includes: CVA [**79**] yrs ago resulting in gait ataxia and dysarthria, PAF, h/o prostate cancer, frequent falls, a question of Parkinsonism, w/recent admit ([**2173-11-1**]) for multiple recent falls and for rehab placement.
+Pt's language was notable for perseverative jargon with occasional words interspersed, but not appropriate to context.
+No residue noted with purees or with liquids, again once the pt swallowed them.
+Laryngeal elevation appeared to palpation and timely, when the pt was awake.
+No overt cough, throat clear or change in vocal quality noted however.
+SUMMARY / IMPRESSION: Pt is not demonstrating any overt s/s aspiration at b/s, however the pt is NOTABLY LETHARGIC, and FALLS ASLEEP WITH FOOD/LIQUID IN HIS MOUTH, placing him at risk for aspiration.
+However, given effort of chewing, this may actually increase fatigue and place him at further risk for decreased po intake and falling asleep while eating.
+Lastly, left a basic communication board with pt at b/[**Name Initial (MD) **] [**Name8 (MD) **] RN's request, however the given pt's h/o macular degeneration and current altered MS, he is not likely to engage in this as alternate communication means.
+2.PO meds as tolerated, with purees or liquids.
+5.Maintain basic aspiration precautions.
+---- Neurophysiology Report EEG Study Date of [**2173-11-27**]    OBJECT: [**Age over 90 **]-YEAR-OLD MAN WITH ATRIAL FIBRILLATION AND A PACEMAKER WITH A HISTORY OF APHASIA NOW WITH WORSENING APHASIA.
+REFERRING DOCTOR: DR. [**First Name (STitle) **] [**Doctor Last Name **]   FINDINGS: ABNORMALITY #1: There is mild to moderate amplitude, intermittent mixed theta and delta frequency slowing seen independently in the fronto-central regions, more so on the right.
+ABNORMALITY #2: There is occasional low amplitude generalized delta frequency slowing.
+CARDIAC MONITOR: Shows a wide complex rhythm with a rate of 90 bpm and frequent ectopy.
+IMPRESSION: This is a mildly abnormal portable EEG due to the presence of independent mixed delta and theta frequency slowing seen over the fronto-cental regions, more so on the right.
+This finding suggests subcortical dysfunction in the these regions and it is a relatively non-specific finding with regard to an evaluation for  seizures.
+In addition, occasional low amplitude generalized delta frequency slowing was seen, which suggests deep midline subcortical dysfunction.
+No epileptiform abnormalities were seen.
+Note was made of a wide complex rhythm with ectopy on the cardiac monitor.
+INTERPRETED BY: [**Last Name (LF) **],[**First Name3 (LF) **] W.  ----   Brief Hospital Course: Assessment and Plan: [**Age over 90 **] year old former physician with [**Name Initial (PRE) **] history of prostate cancer, stroke, paroxysmal atrial fibrillation who was recently discharged to [**Hospital1 100**] REhabilition Center for the Aged after an admission ofr frequent falls admitted with atrial fibrillation in the setting of pneumonia.
+Atrial fibrillation was not controlled with medical medical management and the improvement of the patient's pneumonia, so the patient had AV nodal ablation and placement of a dual chamber pacemaker.
+He was [**Hospital 35261**] transferred from the cardiac care unit to the medicine service for a change in mental status involving somnolence and worsened aphasia which resolved after continuation of the medication abilify.
+At that time, he became hypotensive and required a dopamine drip for less than a day to maintain a MAP of 60.
+The morning of [**11-13**], he reverted to atrial fibrillation.
+He remained in sinus rhythm until the morning of [**11-18**] when he reverted to atrial fibrillation.
+Acute Renal Failure: On admission, he appeared intravascularly dry on physical exam.
+He was gently hydrated with 800 cc of IV fluids even though he had known poor left ventricular function.
+He was subsequently started on a nesiritide drip due to an increase in CHF.
+His acute renal failure improved with the nesiritide treatment over the course of 3 days.
+Heart Failure:  On admission, he had evidence of mild pulmonary edema on chest x-ray.
+The next day, he had evidence of increased pulmonary edema.
+Change in mental status:   Later in his hospitalization, the patient experienced mental status changes including excessive somnolence, worsening Wernicke's aphasia and worsening paraphasia and neologisms.
+The mental status changes were reminiscent of the patients recent stroke months prior to admission and were thought to represent recrudescence of prior stroke symptoms in the setting of illness.
+These mental status changes resolved with discontinuation of Abilify.
+Head CT documented stable, old left lentiform nucleus lacunar infarction, no new acute stroke, and no further change in a chronic bifrontal subdural hematoma that had previously demonstrated small interval increase.
+Portable EEG documented a mildly abnormal EEG likely suggestive of subcortical dysfunction in the right fronto-central and deep midline subcortical regions but was non-specific for an evaluation of seizure.
+No epileptiform abnormalities were seen on EEG.
+The patient had no signs or symptoms of meningismus and an LP was not thought to be of clinical utility.
+It was also considered that the patient might have a neuroleptic hypersensitivity disorder, but this finding is often seen in the context of [**Last Name (un) 309**] body dementia and the patient did not have hallucinations, altered sleep-wake cycle, or other findings that would support this diagnosis.
+Coronary Artery Disease: He has no history of coronary artery disease.
+Pneumonia:  On initial presentation, he had focal rhonchi in the left mid lung field with a productive cough.
+Hematuria: On [**2173-11-16**], he had gross hematuria without clots.
+However, after pacemaker placement, he did receive 48 hours of vancomycin, which would also have covered this asymptomatic bacturia.
+Left hand thrombophlebitis: Treated with a 2-day course of vancomycin and later iwth a 5-day course of keflex, due to finish [**2173-12-3**] after discharge to prevent any ascending infection of an ipsilaterally place pacemaker.
+KUB was ordered secondary to abdominal distention, which later improved on an increased bowel regimen.
+The patient developed right hand swelling and hand radiography documented scapholunate advance collapse (SLAC) fracture in the hand.
+He required lowering of his phosphorous and repletion of potassium and magnesium during this admission.
+Speech and swallow consultation documented that the patient was safe to swallow ground solids and nectar thickened liquids but needed frequent arousal often to prevent falling asleep before swallowing.
+Chronic anticoagulation with warfarin or heparin was considered to not be in the patient's long-term interest because of his fall risk and because of the increased risk of these medications worsening a chronic subdural hematoma.
+He has follow-up appointments scheduled and will, however require glucose monitoring in the week following discharge to monitor for hypoglycemia following institution of glucotorl XL as above.
+Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 4 to 6 hours) as needed for fever, pain.
+Ipratropium Bromide 0.02 % Solution Sig: One (1) neb Inhalation Q6H (every 6 hours) as needed for shortness of breath or wheezing.
+Discharge Disposition: Extended Care  Facility: [**Hospital6 459**] for the Aged - [**Location (un) 550**]  Discharge Diagnosis: Atrial Fibrillation Acute Renal Failure Congestive Heart Failure Pneumonia Chronic subdural hematoma   Discharge Condition: Stable and improved.

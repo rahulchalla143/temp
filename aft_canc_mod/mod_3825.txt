@@ -1,0 +1,53 @@
+Admission Date:  [**2182-5-1**]              Discharge Date:   [**2182-5-6**]  Date of Birth:  [**2099-9-16**]             Sex:   M  Service: MEDICINE  Allergies: Amoxicillin  Attending:[**First Name3 (LF) 1990**] Chief Complaint: Shortness of [**First Name3 (LF) **]  Major Surgical or Invasive Procedure: None  History of Present Illness: Identifer: Dr. [**Known lastname 4901**] is an 82 y/oM with a h/o CAD s/p NSTEMI, advanced Parkinson's Disease, recently diagnosed moderate-poorly differentiated adenocarcinoma of the liver (cholangio vs. met of unknown primary) with lymphatic invasion, history of recent hematuria, and history of prior UTIs with ESBL producing organisms.
+He presents to the [**Hospital1 18**] from [**Hospital1 5595**] with shortness of [**Hospital1 1440**], found at [**Hospital1 5595**] to have RLL pneumonia.
+He has had several days of profound fatigue.
+He states that he regularly has some chest pain, both on exertion and at rest, typically once a day, including the morning of admission, though he does not think this has changed recently.
+He does have some worsening shortness of [**Hospital1 1440**], and some cough.
+He developed leukocytosis on [**2182-4-30**] from 7.1 -> 12.7 with 91% PMN no bands.
+ECG showed appreciable inferolateral ST depressions, and a troponin was checked and was elevated at 2.18.
+Cards was consulted, but given his overal condition felt he was not a candidate for early revascularization and recommended heparin gtt.
+Past Medical History: 1)Parkinson's disease/Autonomic dysfunction 2)3-Vessel Coronary Artery Disease - medically managed-[**2180**] for NSTEMI 3)Hypertension - hypertensive urgency in [**2180**] with NSTEMI 4)Hx of recurrent ESBL - Klebsiella Urinary Tract Infection with hx of Sepsis in [**11-9**] 5)Chronic renal insufficiency (baseline creat 1.2-1.5) 6)Chronic lower back pain 8)h/o melanoma s/p resection 20yrs ago 9)GERD 8)BPH 9)Chronic Systolic Heart Failure, EF~50%.
+13)Hx MRSA Pneumonia.
+16)Spinal Stenosis partial paralysis.
+Lives with wife at [**Name (NI) 5595**] Walks with walker in his room when well and then largely wheelchair bound Recent falls + Unsteady gait + Visual aides   Family History: son and daughter have renal cysts.
+GRAM POSITIVE BACTERIA.
+Alpha hemolytic colonies consistent with alpha streptococcus or          Lactobacillus sp.
+<br> [**Known lastname **],[**Known firstname **] DR [**Medical Record Number 53950**] M  82  [**2099-9-16**]  Radiology Report CHEST (PORTABLE AP) Study Date of [**2182-5-1**] 4:52 PM   [**Last Name (LF) **],[**First Name3 (LF) **] EU   [**2182-5-1**] 4:52 PM CHEST (PORTABLE AP)   Clip # [**Clip Number (Radiology) 53951**] Reason: Evaluate for infiltrate/edema    [**Hospital 93**] MEDICAL CONDITION:    82 year old man with sob REASON FOR THIS EXAMINATION:    Evaluate for infiltrate/edema    Final Report CHEST RADIOGRAPH PERFORMED ON [**2182-5-1**]  Comparison is made with a prior chest radiograph from [**2182-3-15**].
+Prior chest CT from [**2178-10-30**] is also available for comparison.
+CLINICAL HISTORY: 82-year-old man with shortness of [**Month/Day/Year 1440**].
+Evaluate for pneumonia or edema.
+There are increased patchy opacities involving both lungs which is most compatible with multifocal pneumonia, though mild superimposed congestion cannot be excluded.
+There may be small bilateral pleural effusions.
+There is no pneumothorax.
+IMPRESSION: Findings most compatible with multifocal pneumonia with possible superimposed mild congestion, bilateral small pleural effusions.
+<br>  [**5-5**] EKG - sinus, 1st degree block - noted ST/TW changes from admission - without changes, mild prolonged Qtc <br>  [**5-2**] Echo - EF noted 45-50% <br> The left atrium is dilated.
+There is mild symmetric left ventricular hypertrophy with normal cavity size.
+There is mild regional left ventricular systolic dysfunction with akinesis of the inferior wall and hypokinesis of the inferior septum.
+Tissue Doppler imaging suggests an increased left ventricular filling pressure (PCWP>18mmHg).
+The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present.
+Mild (1+) aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Mild (1+) mitral regurgitation is seen.
+There is no pericardial effusion.
+Compared with the prior study (images reviewed) of [**2181-2-1**], the inferior septum appears mildly hypokinetic on the current study and the inferior wall is frankly akinetic.
+Brief Hospital Course: 82M with metastatic adenocarcinoma of unknown prior, CAD, advanced Parkinson's Disease p/w PNA and UTI from [**Hospital 100**] Rehab - found also to have positive biomarkers for NSTEMI (due to demand stress) - admitted to [**Hospital Unit Name 153**] - cardiology notified - tx with hep gtt - otherwise just medical management, and with abx for PNA.
+Geriatrics service consulted (Dr. [**Last Name (STitle) **] over weekend) for assistance - note after full discussion with pt and family - pt wants aggressive treatment as possible (including full onc evaluation that is planned for [**2182-5-13**] as outpt with Dr. [**Last Name (STitle) **] (has been notified and aware of patient's concerns).
+Pt without CP complaints past 48h with EKGs without changed today from initial admission - however trop further elevated than admission levels (mid 2 range) now at 4.37 - with lack of sx or ekg changes will cont current managment acutely but asking for full cardiology evaluation for further assistance (as pt is interested in aggressive treatment options after full discussion).
+Dispo: await cardiology assessment, noted mid-line access lost over weekend, PICC nurse unable to access - awaiting IR PICC access in am - once PICC placed and cardiology eval completed - can transfer to back to [**Hospital **] rehab.
+Pt tx with vanc/[**Last Name (un) 2830**]/levoflox with double coverage for gram negatives in ICU - on [**5-3**] on floor - with pt doing better - d/c levoflox - BCx without growth to date - no sputum sent for cx prior - given [**Hospital **] hospital stay and from NH - will cont coverage for HAP with vanc - and cont meropenum course.
+However on [**5-5**] - pt lost complete access - PICC nurse unable to attain any access, and unable to locate site for EJ attempt - given clinical stability AND that pt with PNA process not UTI - will cont treatment with just levofloxacin po - and restart today - and d/c meropenem as a result.
+<br>  # UTI: h/o ESBL Klebsiella in the last.
+However with 5/27 UCx results - no active infection from urinary tract - so abx for PNA process as above (thus ok to change to levofloxacin from meropenem).
+<br>  # NSTEMI: positive biomarkers, ST depressions on ECG and new inferior akinesis on echo.
+AMI is likely a couple of days prior to admission given the relatively low CK and more elevated troponins vs more demand effects from infection.
+<br>  # metastatic CA: Patient was recently diagnosed with metastatic adenocarcinoma of unknown primary.
+<br>  # anemia:  likely due to hematuria.
+Stable, hematuria resolved.
+# CKD, stage III Cr at baseline (1.3 - 1.6)  # Hyponatremia - mild - and more hypervolemia per exam.
+-gave 1x dose lasix 40mg IV [**5-4**] with improvement today - remained stable, only mildly low at 130  # [**Month/Year (2) 53947**]: c/w sinemet/mirapex   Medications on Admission: oxyCONTIN 20mg PO BID  Miralax 17gm po qOD  pramipexole 0.125mg PO TID  Norvasc 5mg PO daily  Sinemet 25/100 PO BID 9am 2pm, 6,11, 16h  vitamin d 1000 units daily  docusate sodium  iron 325mg PO BID  finasteride 5mg PO daily  Gabapentin 300mg PO qhs  imdur 60mg PO daily  mrimidone 25mg PO qHS  Senna 1 tablet PO daily [**Hospital1 **]  Sertraline 12.5mg PO daily  Simvastatin 40mg pO qHS  flomax 0.4mg PO qhs  lisinopril 10mg PO daily  prilosec 20mg po daily   Discharge Medications: 1.
+Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed for fever, pain.
+Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1) mL Injection three times a day: sub cutaneuous, for DVT prophylaxis.
+Discharge Disposition: Extended Care  Facility: [**Hospital6 459**] for the Aged - MACU  Discharge Diagnosis: # Hospital Acquired Pneumonia # NSTEMI/CAD # metastatic cancer of unknown primary # chronic kidney disease # parkinson's disease   Discharge Condition: stable   Discharge Instructions: Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight > 3 lbs.
+Adhere to 2 gm sodium diet <br>  Your diagnoses are as below - you are going to be finish your antibiotic treatment for your infection as below.
+Your overall weakness currently as we had discussed is related to your severe dehabilitation from the recent infection in setting of all your on-going chronic medical problems including the cancer.
+<br>  If you re-develop a fever, worsening shortness of [**Date Range 1440**] or chest pain, or any other concering symptom - have your provider evaluate you and/or return to the hospital.

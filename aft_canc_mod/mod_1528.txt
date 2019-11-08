@@ -1,0 +1,54 @@
+Admission Date:  [**2192-4-25**]              Discharge Date:   [**2192-6-4**]   Service: SURGERY  Allergies: Vancomycin Hcl/D5w  Attending:[**First Name3 (LF) 2534**] Chief Complaint: SOB/DOE  Major Surgical or Invasive Procedure: evacuation of retroperitoneal hematoma excision of periaortic lymph nodes ligation of [**Female First Name (un) 899**] repair of iatrogenic splenic lac  History of Present Illness: 84 yo man w/ h/o AS, COPD, PVD who p/w SOB/dyspnea.
+Pt is a poor historian, but per pt, describes decreased functional status over sub-acute time course, with decrease mobility/increased sedentary lifestyle over at least past 1 month due to increased SOB/DOE.
+Pt states has had "more difficulty" with his breathing over this past month, describes SOB at rest and with exertion, to point where he became too uncomfortable so came to ED.
+He presented to [**Hospital1 **] [**Location (un) 620**] with these complaints and was found to have T 99.4, HR 100 (sinus), RR 40-50, BP 165/56, O2 84-86% on RA, 100% on NRB.
+Has had been kept on vent--thought to have COPD exacerbation, as well as CHF & possible PNA.
+Question of PE also raised as D-Dimer elevated.
+LENIs (-), though no CTA given renal dysfunction, nor V/Q given underlying lung disease.
+No HSM or tenderness.
+No femoral bruits.
+Pertinent Results: On admission:  [**2192-4-26**] 12:26AM BLOOD WBC-14.5* RBC-4.29*# Hgb-13.1*# Hct-38.3*# MCV-89 MCH-30.5 MCHC-34.1 RDW-13.5 Plt Ct-307#  [**2192-4-26**] 12:26AM BLOOD PT-13.6* PTT-26.5 INR(PT)-1.2*  [**2192-4-27**] 05:10AM BLOOD D-Dimer-2592* [**2192-4-26**] 12:26AM BLOOD Glucose-185* UreaN-36* Creat-1.5* Na-140 K-4.5 Cl-97 HCO3-34* AnGap-14  [**2192-4-26**] 06:00AM BLOOD ALT-46* AST-68* LD(LDH)-478* CK(CPK)-128 AlkPhos-76 TotBili-0.6 [**2192-5-1**] 09:37AM BLOOD Lipase-128*  [**2192-4-26**] 12:26AM BLOOD Calcium-8.9 Phos-4.8* Mg-2.3 [**2192-4-25**] 11:23PM BLOOD Type-ART pO2-70* pCO2-67* pH-7.34* calTCO2-38* Base XS-6  CHEST (PORTABLE AP) The heart size is mildly enlarged but grossly unchanged.
+Perihilar opacities involving the lower lobes are demonstrated, right slightly worse than left and might represent pulmonary edema with asymmetric appearance due to underlying emphysema.
+Small right pleural effusion cannot be excluded.
+The slight asymmetry between the lungs might represent underlying right lower lobe infectious process which can be better characterized after resolving of pulmonary edema.
+developed acute renal failure/:  [**2192-5-1**] 05:02AM BLOOD Glucose-266* UreaN-105* Creat-3.0* Na-138 K-7.1* Cl-102 HCO3-19* AnGap-24*  [**2192-5-1**] 11:43PM BLOOD WBC-18.2* RBC-2.38* Hgb-7.4* Hct-20.5* MCV-86 MCH-31.0 MCHC-36.0* RDW-14.8 Plt Ct-86* [**2192-5-1**] 11:08AM BLOOD WBC-34.1* RBC-2.17* Hgb-6.7* Hct-19.6* MCV-90 MCH-30.7 MCHC-34.1 RDW-14.0 Plt Ct-241 [**2192-5-1**] 02:08PM BLOOD ALT-7470* AST-9415* LD(LDH)-[**Numeric Identifier 31194**]* AlkPhos-46 Amylase-700* TotBili-1.0 [**2192-5-1**] 12:30PM BLOOD Type-ART pO2-389* pCO2-65* pH-7.24* calTCO2-29 Base XS--1 Intubat-INTUBATED Vent-CONTROLLED [**2192-5-1**] 05:43AM BLOOD Lactate-9.3* [**2192-5-1**] 08:06PM BLOOD freeCa-0.95*  ABDOMEN (SUPINE & ERECT) PORT IMPRESSION: No evidence of free air or pneumatosis, however, plain radiograph is insensitive in the evaluation of bowel ischemia and if there remains clinical concern, CT is recommended to further evaluate.
+Findings are consistent with hemorrhagic ascites; no fresh hemorrhage or definitive source is evident on these images.
+The hemorrhagic ascites does extend to the aorta and paraaortic region, which were evacuated on the patient's recent surgery.
+A splenic laceration is felt to be less likely.
+A mass within the abdomen or underlying lesion cannot be distinguished on this examination; a followup CT examination is recommended.
+Thickening of small bowel loops may be incident to ischemia, edema, or hemorrhage.
+Bilateral pleural effusions and pulmonary findings as described above.
+Retroperitoneal hematoma extending along the left posterior pararenal space inferiorly as far as the left groin and has decreased in size when compared with the previous CT from two weeks prior.
+Bilateral pleural effusions with associated atelectasis, pleural calcification.
+Sigmoid diverticulosis without evidence of diverticulitis.
+In general, Mr. [**Known lastname **] arrived at [**Hospital1 **] [**Location (un) 620**] with increasing SOB/DOE, tx for acute exacerbation of CHF, and t/f to [**Hospital1 18**] for further care.
+In ICU, con't resp failure, intubated and tx for COPD, CHF, PNA, afib, glycemic control, HTN and renal issues.
+On day 7, Mr. [**Name13 (STitle) 1025**] developed ARF, a lactic acidosis, increased ventilatory needs and worsening hemodynamic status.
+An abdominal US was NEG and KUB gave no evidence.
+He developed increased abdominal girth, and it was decided to take him for ex-lap for sepsis, increased abdominal girth, ARF and lactic acidosis for possible gut ischemia/infarct.
+Upon exploration, a retroperitoneal hematoma was discovered and evacuated, a large adhesed periaortic LN was excised and sent to path (found to be paraganglioma) along with the the [**Female First Name (un) 899**] ligated and a iatrogenic slenic lac controlled.
+He developed a Klebsiella pneumonia which was treated w/ appropriate ABx.
+Neuro: Throughout hospital stay, pt was sedated appropriately for ventilation and analgesia was maintained as appropriate.
+Throughout his stay, neuro checks proved a waxing and [**Doctor Last Name 688**] type picture with propofol for sedation, and haldol for agitation as per the MICU team.
+CV: Pt had new issue of atrial fibrillation.
+During MICU stay needed pressors of DA and levophed to maintain BP on [**5-1**] at same time became olguric and septic as described.
+He experienced a bump in TnI, likely due to demand ischemia.
+He has runs of HTN which responded well to BP meds including metop, hydralazine and clonidine.
+Postoperatively he remained stable on his Rx and had no further issues.
+Pulm: With the initiating CC of SOB/DOE pt was treated for CHF exacerbation with lasix, nitro, nebs and t/f to [**Hospital1 18**].
+The last week of admission, the patient developed a pleural effusion and 2.5L of fluid that did not grow organisms.
+Early diuresis for CHF was aggressive and preceeded ARF.
+The question of possible bowel ischemia proved untrue with the ex-lap, but findings as described above.
+Prior to the OR he received a ABd US, only showing cholelithiasis w/o cholecystitis and NL portal flow.
+He was afebrile but had increased WBC count of 47.9, 29% PMNs.
+Pt had bouts w/ fever, though has been stable and afebrile on d/c.
+GU/Renal: As described, on day 7, pt experienced ARF and was evaluated by renal.
+ARF was from ATN secondary to decreased renal perfusion from hypotension and retroperitoneal bleed.
+Early in hospital course, glucose rose to 180-200's likely secondary to steroids.
+Artificial Tear with Lanolin 0.1-0.1 % Ointment Sig: One (1) Appl Ophthalmic PRN (as needed).
+Discharge Disposition: Extended Care  Facility: [**Hospital3 105**] Northeast - [**Location (un) 38**]  Discharge Diagnosis: Congestive heart failure Chronic obstructive pulmunary disease Acute Renal failure Extra-adrenal paraganglioma Retroperitoneal hematoma   Discharge Condition: good  Discharge Instructions: During your hospital stay, you were treated for acute exacerbation of congestive heart failure and chronic obstructive pulmonary disease.
+During your stay you suffered acute renal failure and had to go to surgery for a retroperitoneal hematoma.
+In the surgery, a large lymph node surrounding your aorta was removed, an artery called the inferior mesenteric artery was tied off in the process, and a small laceration to your spleen occurred and was repaired without complication.
+The endocrinologists were unable to definitively diagnose this mass in the setting of your acute illness, and it is suggested that you follow up with this as an outpatient after you rehabilitiation.
+In your recovery, you have had a pneumonia that has been treated with antibiotics.
+If you experience any worrisome symptoms including increased shortness of breath or trouble breathing, chest pain, fever, chills, severe abdominal or back pain, or anything else that worries you please seek medical attention.

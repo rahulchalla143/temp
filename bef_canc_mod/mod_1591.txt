@@ -1,0 +1,56 @@
+Admission Date:  [**2173-2-3**]              Discharge Date:   [**2173-2-10**]  Date of Birth:  [**2092-2-13**]             Sex:   M  Service: MEDICINE  Allergies: Penicillins / Cephalosporins / Carbapenem / A.C.E Inhibitors / Angiotensin Receptor Antagonist  Attending:[**First Name3 (LF) 14145**] Chief Complaint: shortness of breath  Major Surgical or Invasive Procedure: right heart catheterization, pericardiocentesis  History of Present Illness: 80-year-old man with CAD (LAD and OM1 stents in [**2167**]), systolic CHF (EF 45%), HTN, HL, DM2, CKD (baseline Cr 3.0), who presented with a few days of dyspnea at rest and on exertion.
+He presented to the ED, was found to be hypotensive with echo showing RV diastolic collapse and respiratory variation in mitral/tricuspid inflows, consistent with impaired filling/tamponade physiology.
+On review of systems, he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.
+He denies recent fevers, chills or rigors.
+He denies exertional buttock or calf pain.
+Cardiac review of systems is notable for absence of chest pain, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope.
+CARDIAC RISK FACTORS:: Diabetes (+), Dyslipidemia (+), Hypertension (+) 2.
+CARDIAC HISTORY: * Systolic CHF (Echo [**Hospital1 18**] [**6-/2171**] with EF 45-50%) * CAD s/p MI in [**2166**] -CABG: none -PERCUTANEOUS CORONARY INTERVENTIONS: LAD stent [**11/2167**], OM1 stent [**12/2167**], restenosis s/p balloon angio [**1-/2169**] -PACING/ICD: none 3.
+OTHER PAST MEDICAL HISTORY: * Diabetes Type II (on home insulin, with peripheral neuropathy,  nephropathy) * Chronic Kidney Disease (baseline Cr 3-3.5) * Type 4 [**Year (4 digits) 2793**] Tubular Acidosis (hypoaldosteronism, hyperkalemia) * Anemia (baseline Hct 30) * Fulminant C.diff colitis (s/p total colectomy with ileostomy)  * [**Year (4 digits) 2793**] Cell Cancer (s/p partial R nephrectomy [**2-/2166**]) * Prostate Cancer (s/p XRT) * Depression * OSA on BiPAP at home * Mid-shaft, surgical neck humerus fracture ([**7-/2169**]) in setting  of several falls * Nephrectomy [**2-/2166**] (for [**Year (4 digits) **] cell carcinoma) * Total colectomy with ileostomy [**2167**](for C. diff colitis)   Social History: Pt lives alone.
+[**2173-2-3**] transthoracic echo: There is mild regional left ventricular systolic dysfunction with thinning and akinesis of the basal to mid inferolateral wall.
+The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present.
+No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+There is no mitral valve prolapse.
+There is a moderate sized pericardial effusion.
+There is right ventricular diastolic collapse, consistent with impaired fillling/tamponade physiology.
+There is significant, accentuated respiratory variation in mitral/tricuspid valve inflows, consistent with impaired ventricular filling.
+There is RV diastolic collapse and respiratory variation in mitral/tricuspid inflows, consistent with impaired filling/tamponade physiology.
+Right heart catheterization demonstrated elevated right sided  pressures with diastolic equalization (mean RA 29mmHg, RVEDP 29mmHg) and elevated intrapericardial pressures (24mmHg).
+Pulmonary arterial  pressures were elevated (58/31/39 mmHg) and left sided filling pressures were elevated (mean PCWP 39mmHg).
+Limited resting hemodynamics after pericardiocentesis demonstrated significant improvement of intrapericardial pressures (to 10mmHg).
+Cloudy serosanguinous pericardial fluid was sent for biochemical, cytological, and microbiological analyses.
+An echocardiogram performed after pericardiocentesis demonstrated significant reduction of pericardial effusion and resolution of tamponade physiology.
+TTE ([**2-9**]): There is mild symmetric left ventricular hypertrophy with normal cavity size.
+There is mild to moderate regional left ventricular systolic dysfunction with dyskinesis of the basal inferolateral wall and akinesis of the basal half of the inferior wall.
+There is a moderate sized, echo-dense pericardial effusion without echocardiographic signs of tamponade or constriction.
+The regional left ventricular systolic dysfunction is more pronounced.
+RADIOLOGY: CT Head ([**2-6**]) IMPRESSION: Although the sensitivity of non-contrast CT in the evaluation of intracranial metastases is limited, no obvious metastasis is identified.
+Heterogeneous, moderate pericardial effusion, somewhat increased from [**2172-5-29**], containing areas of increased density likely representing hemorrhage secondary to recent pericardiocentesis.
+Enlarged retroperitoneal lymph node, 12 mm in short axis diameter.
+No other evidence of residual or recurrent disease.
+Extensive atherosclerotic disease, with involvement of the coronary arteries.
+Small left pleural effusion with left lower lobe atelectasis.
+Brief Hospital Course: Mr [**Known lastname **] is an 80-year-old man with CAD (LAD and OM1 stents in [**2167**]), systolic CHF (EF 45%), HTN, HL, DM2, CKD (baseline Cr 3.0) presented with shortness of breath and was found to have cardiac tamponade physiology on echo in the ED.
+# Pericardial Effusion: There was tamponade physiology on the initial echo.
+Potential etiologies included uremia, infections, neoplasm, myocarditis, hypothyroidism (but TSH normal on [**2173-1-25**]).
+Fluid gram stain was negative for infection.
+There was no history of trauma or prior chest XRT.
+Thus, the most likely cause was uremia secondary to worsening [**Date Range **] failure.
+Repeat echo the following day showed no evidence of tamponade, although an echo-dense moderate effusion persisted.
+TTE on discharge showed stable moderate effusion and newly-observed wall-motion abnormalities (though pt remained asymptomatic).
+Potential etiologies of the pericardial effusion were considered.
+Other causes considered included infections (cultures from fluid were negative), neoplasm (no malignant cells on cytology, no malignancy seen on torso/head CT), autoimmune causes ([**Doctor First Name **], dsDNA were negative), myocarditis, hypothyroidism (TSH was normal).
+At discharge the most likely explanation was viral, since he had a PNA in the proceeding weeks.
+# Coronaries: There was no chest pain or evidence of active ischemia.
+# Diabetes: Home dose of Lantus and Humalog sliding scale were given initially, but blood glucose values were frequently in the 300s.
+# Acute on chronic kidney disease:  Creatinine was 4.6 on admission, increased from 3.0 at baseline.
+This was thought to be prerenal in the setting of poor cardiac output from tamponade.
+# Hypertension:  Amlodipine and torsemide were held initially out of concern for hypotension.
+Will need out pt follow up since pt has hx of malignancy in the past.
+Oxycodone 5 mg Tablet Sig: One (1) Tablet PO every 6-8 hours as needed for pain for 20 doses.
+Discharge Disposition: Home With Service  Facility: [**Hospital 119**] Homecare  Discharge Diagnosis: cardiac tamponade secondary to pericardial effusion acute on chronic kidney failure .
+diabetes mellitus, type 2 hypertension hyperlipidemia coronary artery disease chronic systolic congestive heart failure neuropathy  Discharge Condition: stable  Discharge Instructions: You were admitted to the hospital with shortness of breath.
+You were found to have pericardial effusion causing tamponade (fluid around your heart compromising your heart function).
+If you have fever, chest pain, shortness of breath or any other concerning symptoms, please call your physician [**Name Initial (PRE) 2227**].
+Followup Instructions: Please call Dr [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] office for echocardiogram and followup appointment for Friday, [**2-12**].

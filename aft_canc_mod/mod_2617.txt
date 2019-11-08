@@ -1,0 +1,41 @@
+Admission Date:  [**2163-3-18**]              Discharge Date:   [**2163-3-24**]   Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 1115**] Chief Complaint: hypotension  Major Surgical or Invasive Procedure: PICC line placement  History of Present Illness: [**Age over 90 **]M is admitted to the ICU for hypotension in the setting of an aspiration event.
+The son reports that he has been aspirating often however yesterday he had one aspiration event whcih was worse than usual.
+Today, patient was noted to be somnolent and lethargic and confused, his blood pressure was 80's systolic and EMS was called who noted SBP 60/p and .
+CXR shows bibasilar consolidation.
+his son translated, patient was oriented to hospital reported dyspnea and cough and abdominal pain with palpation however was unable to contribute further to the interview.
+The son reports that the patient had been having diarrhea 2 weeks ago but that the diarrhea had resolved.
+Family History: Denies family history of coronary artery disease, hypertension.
+Physical Exam: Admission exam: Vitals: T:99.7 BP:97/56 P:95 R: 26 O2: 93% General: Somnolent breathing comfortably with audiable upper airway secretions HEENT: Sclera anicteric, mucous membs dry Neck: supple, JVP not elevated, Lungs: R>L ronchi, equal air entry BL CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops Abdomen: Distended, diffusely tender to palpatation, bowel sounds normoactive, no rebound, no guarding.
+GU: foley in place Ext: warm, well perfused, 2+ pulses, no edema Neuro: Equal handgrip BL, moving all extremities, responding to simple commands.
+Given the relative asymmetry in the setting of low lung volumes, atelectasis is favored, although early developing pneumonia or possibly aspiration cannot be entirely excluded.
+The large left perihilar mass lesion appears relatively distinct from the hilar vessels.
+Portable abd REASON FOR EXAMINATION: Microcytosis and distended abdomen.
+Portable AP radiograph of the abdomen was reviewed with no prior studies available for comparison.
+There is diffuse dilatation of the small bowel up to 3.7 cm.
+Large, partially calcified mediastinal mass with narrowing of the left brachiocephalic vein.
+Primary differential considerations include thymoma or teratoma.
+Bibasilar opacities likely represents aspiration or pneumonia, less likely atelectasis.
+No evidence of small bowel obstruction, though small bowel is diffusely and mildly dilated.
+Redundant, air-filled and dilated sigmoid colon with stool-filled and slightly hyperemic rectal wall with an area of mild focal narrowing (2.5 cm at narrowest caliber) at the rectosigmoid junction.
+It is unclear if this appearance may be secondary to peristalsis, but a stricture or mass cannot be excluded.
+Direct inspection with proctoscopy or sigmoidoscopy is recommended to rule out underlying mass.
+Mild to moderate tracheo- and bronchomalacia.
+Multilevel degenerative changes of the lumbar spine and old, not completely healed left posterior rib fractures.
+Brief Hospital Course: A [**Age over 90 **] yoM with history hypertension, thymoma, and aspiration admitted to the ICU for hypotension and hypoxia in the setting of recent aspiration event.
+#Septicemia / Aspiration pneumonia: With lactate elevation, bandemia, and CXR findings of bibasilar consolidation, he was found to have sepsis seconday to pneumonia.
+Abdominal CT showed "Redundant, air-filled and dilated sigmoid colon with stool-filled and slightly hyperemic rectal wall with an area of mild focal narrowing (2.5 cm at narrowest caliber) at the rectosigmoid junction.
+It is unclear if this appearance may be secondary to peristalsis, but a stricture or mass cannot be excluded.
+Direct inspection with proctoscopy or sigmoidoscopy is recommended to rule out underlying mass."
+This finding was discussed with the patient's son / HCP [**Name (NI) **], who determined that further investigation of this thickening / mass is NOT consistent with the patient's goals of care.
+# Aspiration: Seen by speech and swallow team for ongoing aspiration.
+They understand there is a high risk for recurrent aspiration pneumonia.
+# Pyuria:  UA mildly positive, urine culture grew coag negative staph which is covered with broad spectrim antibiotics as above.
+# Acute renal insufficiency: Basline Cr 1.0, creatinine up to 1.8 on admission, likely pre-renal from hypovolemia.
+# Chest mass: patient with questionable hx of thymoma which is likely the left sided mass seen on CXR and CT - given tissue components, mass in chest is most likely to be teratoma.
+This is likely reason for wheezing as pt has large airway compression visualized on CT chest (see report above).
+Records obtained from [**Hospital1 **] reveal mass has increased in size ~1 cm from prior imaging studies.
+[**Doctor First Name **] / HCP states that further workup of this mass with biopsy or excision is NOT consistent with his father's goals of care.
+#: Code status: Code status DNR/DNI, and do not place central line, no aggressive or invasive measures.
+Discharge Disposition: Extended Care  Facility: [**Hospital6 1643**]  Discharge Diagnosis: Bacterial pneumonia Hypoxic respiratory failure / Sepsis Metabolic encephalopathy Acute renal failure   Discharge Condition: Mental Status: Confused - always.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Discharge Instructions: You were admitted with aspiration pneumonia, acute renal failure and sepsis which improved with IV antibiotics.

@@ -1,0 +1,47 @@
+Admission Date:  [**2153-10-3**]              Discharge Date:   [**2153-10-4**]  Date of Birth:  [**2088-6-17**]             Sex:   M  Service: MEDICINE  Allergies: Penicillins / albuterol  Attending:[**Last Name (NamePattern4) 290**] Chief Complaint: AMS, hypotension   Major Surgical or Invasive Procedure: None  History of Present Illness: 65M with PMH of paraplegia s/p C5/C7 w/ suprapubic catheter, MRSA UTI, PE, DVT, and c. diff who presents with one day of altered mental status and hypotension.
+The staff noticed that he was more lethargic and had some abdominal distension.
+Approx 30 min after transfering to wheelchair, pt became unresponsive.
+VS were afebrile, SBP 74-84/x, HR 50-60, with exam notable for distended abdomen (nontender), possible L posterior wheeze, and thick cloudy urine from SPT.
+Imaging was reviewed by neurology, who felt there was no visible basal ganglia bleed on NCHCT.
+He was admitted to MICU for management of possible urosepsis and AMS.
+He complained of neck pain similar to what he has had the last 7 years since his neck injury and headache which he gets from time to time.
+No CP, SOB, fever, chills, nausea, vomiting, or diarrhea.
+He reports that for the last few months he has been experiencing worsening fatigue and sleepiness.
+He has also had dizzy spells with transfers to wheelchair on and off.
+Other new symptoms over the last few months include memory loss, tremor in hands, and SOB lying flat.
+Past Medical History: MRSA/VRE UTI C. Diff Paraplegia [**1-4**] trauma at C5/C7 CVA Acute respiratory failure [**1-4**] PE, s/p IVC filter Chronic SFV thrombosis Hypoxemia PAF GERD Spinal stenosis Pleural effusion Cardiomegaly Phimosis and balanoposthitis HTN Anxiety Sacral decub OA groin cellulitis chronic back pain BPH Psychotic disorder NOS  Social History: Former carpenter who had accident on the job 7 yrs ago with cervical SC injury.
+Family History: Multiple cancers - mother [**Name (NI) **], GF lung, sister [**Name (NI) **], [**Name2 (NI) 39378**] lung Aunt with CVD    Physical Exam: Vitals: afebrile, 113/62, 81, 11, 96%RA General: Alert, oriented, no acute distress, appears somnolent when not participating in conversation HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL Neck: supple, JVP not elevated, no LAD CV: irregularly irregular, nl rate, normal S1 + S2, no murmurs, rubs, gallops Lungs: Clear to auscultation bilaterally with decr breath sounds at right base, no wheezes, rales, rhonchi Abdomen: soft, non-tender, non-distended, bowel sounds present, no organomegaly GU: SPT in place, dressed, no edema or erythema, nontender.
+no penile redness or discharge Ext: warm, well perfused, 2+ pulses, 2+ pitting edema in [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) 6816**] Neuro: CN II-XII intact, upper extremeties tremulous with action and at rest, contractures in the hands bilaterally, increased tone in UEs.
+No signs of pneumonia or CHF.
+No intracranial hemorrhage, edema, mass effect, or vascular territorial infarct.
+Stable appearance of bilateral globus pallidus calcifications.
+There is no shift of the normally midline structures.
+Large amount of right and small amount of left external auditory canal cerrumen.
+Minimal mucosal thickening in the ethmoid air cells.
+IMPRESSION: No acute intracranial process.
+Bilateral basal ganglia calcifications.
+Brief Hospital Course: 65M with PMH of paraplegia [**1-4**] trauma, recurrent UTI with SPT, PAF, PE who presents with 1 day of lethargy and hypotension.
+Autonomic dysfunction was considered a likely contributor given patient's paraplegia and history of orthostasis.
+Urosepsis was also considered given UA (mildly positive in setting of suprapubic catheter) and history of MRSA and VRE UTI's.
+It would be important to simply his pain and anxiety medication regimen.
+Although there was concern for an intracranial bleed at OSH, CT head here was negative.
+Polypharmacy in the setting of numerous sedating medications vs. infection was determined to be the most likely etiology of AMS.
+His head CT showed no signs of intracranial bleed, and he was restarted on his home coumadin dose.
+Chronic pain: Morphine sulfate SR QID was changed to Morphine Sulfate IR QID given concern for sedation contributing to hypotension.
+History of C. diff: Patient has no diarrhea at present  3.
+Morphine SR (MS Contin) 15 mg PO QID hold for oversedation or RR <12 3.
+Baclofen 10 mg PO TID hold for oversedation or RR<12 6.
+Clonazepam 2 mg PO BID hold for RR<12 or oversedation 8.
+Milk of Magnesia 30 mL PO DAILY: SUN,TUES,THURS,SAT hold for loose stool 10.
+Gabapentin 300 mg PO TID hold for oversedation or RR<12 13.
+Lorazepam 1 mg PO TID hold for oversedation or RR<12 17.
+Baclofen 10 mg PO TID hold for oversedation or RR<12 5.
+Clonazepam 2 mg PO BID hold for RR<12 or oversedation 7.
+Gabapentin 300 mg PO TID hold for oversedation or RR<12 10.
+Lorazepam 1 mg PO TID hold for oversedation or RR<12 11.
+Milk of Magnesia 30 mL PO DAILY: SUN,TUES,THURS,SAT hold for loose stool 12.
+Vitamin D 50,000 UNIT PO 1X/WEEK (WE)   Discharge Disposition: Extended Care  Facility: [**Location (un) 32944**] Village & Rehabilitation Center - [**Location (un) 32944**]  Discharge Diagnosis: Hypotension UTI   Discharge Condition: Mental Status: Clear and coherent.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Discharge Instructions: Dear Mr. [**Known lastname **],  You were admitted to the [**Hospital1 69**] for low blood pressure and altered mental status.
+Your symptoms were most likely due to an infection of your urine, to autonomic dysfunction related to your paralysis, or to the medications you take for pain (which can lower blood pressure).
+You were started on an antibiotic for your urinary tract infection and your blood pressures improved.

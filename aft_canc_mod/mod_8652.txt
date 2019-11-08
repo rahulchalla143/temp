@@ -1,0 +1,47 @@
+Admission Date:  [**2101-6-7**]              Discharge Date:   [**2101-9-18**]  Date of Birth:  [**2063-6-13**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 7934**] Chief Complaint: Respiratory arrest    Major Surgical or Invasive Procedure: Central Line Placement Transjugular liver biopsy  History of Present Illness: HPI - This is a 37 y/o male with relapsed AML, s/p unrelated unmatched alloBMT day +59, course c/b VRE bacteremia ([**7-14**]), aspergillus lung infection in [**2099**], GVHD, recent stay in [**Hospital Unit Name 153**] for sepsis of unclear etiology (although grew pseudomonas and enterococcus from pus from foley catheter) on long-standing broad-spectrum abx, who was transferred to the ICU this afternoon s/p code blue for respiratory arrest.
+This afternoon, the patient was sitting in his chair and was noted to become hypotensive from a lying to sitting position (SBP drop to 70's) and suddenly unresponsive with hypoxia on 4L, with sats of 80's on NRB.
+At the time of intubation, he was noted to have brown, copious secretions at the back of his throat, requiring suctioning.
+Past Medical History: 1)ONCOLOGY HX - - presented in [**7-30**] w/ new R sided neck discomfort, swelling, fevers - WBC in ED showed 20 K, 74% atypicals - BM bx (sternal aspirate) showed AML FAB M2 - recieved induction w/ idarubicin and cytarabine, then hiDAC x2  - repeat BM bx showed complete remission - admitted [**2100-12-6**] for autoBMT, conditioned w/ busulfan/cytoxan - thrombocytopenia in [**1-31**] -> BM negative in [**2-28**] - relapsed AML in [**3-31**] (94% blasts on smear) - treated w/ MEC (last day [**2101-4-22**]) - prolonged neutropenia -> never recovered his counts - BM at day 16 empty, then showed relapse in [**5-31**] - admitted on [**2101-6-7**] with sepsis (VRE bacteremia) - disease progressed - went for unmatched, unrelated mini-alloBMT on [**2101-7-14**] (conditioned w/ TBI, pentastatin) - post-transplant course complicated by grade IV GVHD of gut, skin, liver -[**7-30**]: new right sided neck discomfort with fevers, painful swelling -WBC in ED showed 20 K, 74% atypicals -BM bx (strenal aspirate) FAB M2 -recieved idarubicin and cytarabine - Repeat BM bx showed complete remission 2.
+Left thigh furuncle s/p surgical debridement was on daptomycin, metronidazole, and cipro.
+DM 1, insulin dependent, on lantus 4.
+VRE bacteremia   Social History: He works in the real estate business and plans on going into appraisals.
+Family History: No known history of leukemias or other cancers within the family.
+His father had heart disease and multiple sclerosis.
+HEENT: Sclera + significant icterus, tears are icteric.
+CV: RRR, nl S1, S2, no m/r/g.
+Pulm: dullness at bases b/l, with few anterior wheezes.
+The liver demonstrates diffuse increase in echogenicity consistent with fatty infiltration.
+No focal hepatic lesions are identified.
+There is no intra- or extra-hepatic biliary ductal dilatation.
+The gallbladder contains shadowing stones and sludge, but there is no evidence of wall thickening, or pericholecystic fluid.
+There is no ascites.
+Limited views of the right kidney demonstrate no hydronephrosis.
+[**2101-8-4**] Colonoscopy: scattered areas of ereythema throughout the colon [**2101-8-7**] CT Abdomen/pelvis: Diffuse wall thickening and luminal narrowing of the entire large and small bowel, with segments of small bowel demonstrating an intramural low attenuation rim; these findings are suggestive of graft versus host disease given the history of allogenic [**Month/Day/Year 3242**].
+Distended stomach with no contrast seen to pass past the antrum; a delayed KUB could be obtained to ensure passage of barium and exclude gastroparesis or obstruction.
+Ground glass and tree-in-[**Male First Name (un) 239**] opacities involving the right middle lobe and left lower lobes.
+Small bilateral pleural effusions.
+Small pericardial effusion.
+4-mm focal nodule at the left lung base with a ground glass halo.
+Findings are nonspecific, but most suggestive of an infectious process.
+[**2101-8-16**] EGD: Erythema and nodularity in the whole duodenum compatible with duodenitis (biopsy) Biopsies were taken from the duodenum for viral culture and histology Otherwise normal EGD to second part of the duodenum [**2101-8-26**]: Duplex doppler US liver: Moderately distended gallbladder with sludge and stones, but gallbladder wall thickening not as prominent on today's study.
+Cholecystitis is not currently suspected, but if clinical suspicion persists or increases, repeat ultrasound and/or HIDA scan can be performed.
+[**2101-8-29**] CT abdomen: Diffuse ill-defined patchy pulmonary opacities are diffuse infection versus asymmetric pulmonary edema.
+There are enlarging and moderate bilateral pleural effusions.
+New small fluid in the abdomen and pelvis secondary to third spacing.
+Evaluation of the bowel is limited given lack of IV contrast, but bowel wall thickening is again seen suggestive of graft versus host disease.
+[**9-12**] CXR - pulmonary edema, improved from CXR on [**2101-8-30**]  Brief Hospital Course: A/P: Patient is a 38yo male w/ DM, relapsed AML neutropenic, with acute respiratory failure  1.
+Respiratory distress/arrest: Pt emergently intubated on the floor due to acute respiratory failure.
+Etiology for respiratory arrest on admission continues to remain unclear, possible acute worsening of pleural effusions secondary to GVHD versus infection.
+Additionally mucous plugging versus aspiration pneumonia should also be considered.
+Pt does have pleural effusions on cxray but after [**Date Range 3242**] at this time is recommending not to tap.
+He was intermittenly treated with Albumin, fluids, and Lasix since the housestaff team was unsure about his volume status, despite him being extremely edematous on exam.
+Hyperbilirubinemia: The most likely cause of this conjugated hyperbilirubinemia is acute hepatic GVHD.
+Pt underwent a transjugular liver biopsy, as per hepatology,  but there was not enough tissue sample to analyze.
+He also likely has a component of hemolysis giving rise to indirect bilirubinemia [**1-27**] mismatched allo.
+AML - Given mismatched alloBMT, has low grade hemolysis contributing to his hyperbilirubinemia.
+He remained anemic and thrombocytopenic during his stay in the [**Hospital Unit Name 153**] requiring multiple RBC and platelet transfusions.
+GVHD: Likely affecting both the gut and liver - ongoing, with intermittent GI bleed.
+He was continued on Cyclosporine, IV PPI and sucralfate for his GI regimen.
+Access - Right IJ Quad, R arterial radial line.
+Communication - with pt, pt's girlfriend/HCP [**Name (NI) 1356**] ([**Telephone/Fax (1) 111400**])  Pt passed away on [**2101-9-18**] from respiratory failure after the family decided to change code status to CMO.
+Medications on Admission: Tacrolimus suspension 2mg PO BID Quetiapine 25mg PO QHS Caphasol 30mL MM QID Sucalfate 1gm PO QID Nifedipine 10mg PO Q8 RISS + 15u Lantus QHS Ambisome 500mg IV Q24 Metoprolol 25mg PO BID Mycophenolate 750mg IV QAM (7), 500mg Qnoon (15), 750mg PO QPM (23) Fentanyl patch 75mcg TP Q72 Ursodiol 300mg PO QAM, 600mg PO QPM Dental gel 1 app TP [**Hospital1 **] Clotrimazole 1 troc PO QID Mg, KPhos, Ca, KCl sliding scales Methylprednisolone 50mg IV Q12 Cyclosporine cont infusion 180mg IV QD Ciprofloxacin 250mg IV Q12 (started [**8-28**]) Daptomycin 450mg IV Q24 (started [**8-29**]) Lasix 40mg IV x1 on [**2101-8-28**]  Discharge Medications: Pt died on [**2101-9-18**]  Discharge Disposition: Home  Discharge Diagnosis: Respiratory failure Hepatic failure AML   Discharge Condition: Pt died on [**2101-9-18**]  Discharge Instructions: Pt died on [**2101-9-18**]  Followup Instructions: Pt died on [**2101-9-18**]

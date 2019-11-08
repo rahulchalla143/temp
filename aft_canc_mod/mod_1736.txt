@@ -1,0 +1,74 @@
+Admission Date:  [**2124-10-17**]              Discharge Date:   [**2124-10-27**]  Date of Birth:  [**2060-3-18**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 5552**] Chief Complaint: abdominal pain and swelling  Major Surgical or Invasive Procedure: paracentesis  History of Present Illness: Pt is a 64 yo male with CLL, chronic hemolytic anemia, h/o PCP, [**Name10 (NameIs) 1023**] is s/p recent chemo on [**2124-10-12**] (Cytoxan, Dexamethasone, Vincristine, Rituxan) who presents with abdominal pain.
+He has had increasing abdominal pain and ascites for the past 10 days.
+Per pt, paracentesis was attempted x 2 while he was an inpatient, both times failing.
+He was discharged home, and returned to the ED on [**2124-10-16**] with increasing abdominal pain described as "a pressure," and "like a pregnant woman," and was an [**9-20**].
+With pain medication, it came down to a 6/10.
++ Fevers at home prior to chemo last week, though pt did not measure them.
++nausea and abdominal pain getting worse over past ten days.
+CT ab/pelvis showed increased intraabdominal ascites with increased nodularity in the omentum and peritoneum since recent ([**2124-10-9**]) scan.
+Malignant R multiloculated and trabeculated pleural effusion s/p 1.5L thoracentesis [**2124-4-18**], s/p right lung decortication [**2124-5-3**].
+Autoimmune hemolytic anemia on chronic prednisone 5.
+Family History: Mother died at age 86 of CLL Father died at age 76 Two brothers alive and well  Physical Exam: VS: T: 98.6; BP: 105/61; P: 97; RR:18; O2: 94% RA Gen: cachectic male with large protruding abdomen, russian accent   speaking in full sentences in NAD HEENT: PERRLA; EOMI; mild icteric sclera.
+Prominent S2 with hyperdynamic precordium Lungs: Decreased BS at bases.
+No focal W/R.
+Abd: markedly distended and firm.
++tenderness upon   percussion throughout, without rebound or guarding.
+No caput medusa.
+Ext: 2+ pitting edema b/l to midcalf.
+Interval increase in the amount of intra-abdominal ascites with increased nodularity in the omentum and peritoneum since the [**2124-10-9**] scan.
+This finding may represent sequelae from infected ascites versus peritoneal carcinomatosis, which would be uncommon in chronic lymphoid leukemia.
+2.Interval increase in the bilateral lung base pleural effusions with compressive atelectasis.
+Unchanged soft tissue nodule at the right lung base, which may represent sequelae from prior chest tube placement, however, metastatic disease cannot be excluded.
+Interval near resolution of left lung base soft tissue nodule better appreciated on the [**2124-10-9**] examination.
+Stable appearance of intraabdominal and intrapelvic lymphadenopathy.
+[**2124-10-16**]-CXR AP- Persistent blunting of the right costophrenic angle.
+There is interval development of slight blunting of the left costophrenic angle, possibly representing a small effusion .
+Aberrant color flow is seen in the proximal main portal vein, which is likely artifactual.
+Cursory examination of the abdomen reveals a significant interval decrease in the amount of ascites consistent with recent paracentesis.
+[**2124-10-17**]: Abdominal US IMPRESSION: No portal venous thrombus identified .
+Flow cytometry may be useful to rule out CLL in ascitic fluid, if clinically indicated .
+[**2124-10-20**]: Paracentesis of Abdomen: IMPRESSION: Successful paracentesis with removal of 3.25 liters of serous yellow ascites fluid, and with fluid sent for both microbiology, as well as chemistry and hematology examinations.
+Interval complete reversal of portal vein flow, without intraluminal thrombus identified.
+Moderate/large intra-abdominal ascites.
+Gallbladder sludge without evidence of cholecystitis.
+Moderate amount of ascites is present.
+Edematous/indurated appearance of the omentum, without definite infiltrative involvement.
+Right lower lobe lung nodule and bilateral atelectasis as previously described .
+Microbiology Data: [**2124-10-19**]: Blood Cultures: AEROBIC BOTTLE (Final [**2124-10-19**]):       ESCHERICHIA COLI.
+ANAEROBIC BOTTLE (Final [**2124-10-19**]):       ESCHERICHIA COLI.
+ESCHERICHIA COLI.
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              ESCHERICHIA COLI                              | AMPICILLIN------------   <=2 S AMPICILLIN/SULBACTAM--   <=2 S CEFAZOLIN-------------   <=4 S CEFEPIME--------------   <=1 S CEFTAZIDIME-----------   <=1 S CEFTRIAXONE-----------   <=1 S CEFUROXIME------------     4 S CIPROFLOXACIN---------   =>4 R GENTAMICIN------------   <=1 S IMIPENEM--------------   <=1 S LEVOFLOXACIN----------   =>8 R MEROPENEM-------------<=0.25 S PIPERACILLIN----------   <=4 S PIPERACILLIN/TAZO-----   <=4 S TOBRAMYCIN------------   <=1 S     ANAEROBIC BOTTLE (Final [**2124-10-19**]):       ESCHERICHIA COLI.
+Lactate K [**2124-10-25**] 05:24PM    10.0*1 7.2*1 [**2124-10-17**] 05:42AM    3.6* [**2124-10-17**] 12:35AM    3.5* [**2124-10-16**] 05:10PM    4.8*1   Brief Hospital Course: Impression/Plan: 64 yo male with CLL, with suspected infiltration to liver and spleen, s/p recent chemo and failed paracentesis attempts on prior admission, presents with 10 day history of abominal pain and increasing ascites.
+Diagnostic paracentesis consistent with bacterial peritonitis.
+Patient later found to have E Coli bacteremia, worsening lymphocyte predominance from CLL and positive HBV viral load.
+Throughout this last hospitalization, the patient's WBC count rose from < 10 to the high 20s and once to >40 with lymphocytic predominance and many smudge cells.
+The patient's primary oncologist and covering oncologists on the floor discussed with the family on multiple occasions that there were no further treatment options available for this disease at this time.
+# Liver failure: - Diagnosed on the basis of clinical condition (edema, pulmonary crackles, ascites), signs of portal hypertension as well as laboratory data.
+- He had Active Hepatitis B viral Infection by viral load >38,000 - This was only an estimate of his hepatitis B infection [**Numeric Identifier 29894**] viral copies was the upper limit of normal.
+There was also the possibility of contributions from liver invasion by CLL.
+-U/S with Dopplers showing patent vasculature on initial exam, but on [**10-23**], Ultrasound showed complete reversal of blood flow in the liver.
+DEspite this, his LFTS remained elevated and his total bilirubin continued to rise.
+In addition, on his initial presentation, patient had elevated lactate, which could have reflected sepsis/liver failure or CLL.
+It was felt that the patient may have had problems processing lactate due to worsening liver failure.
+Patient had moderate to large amounts of ascites in his abdomen.
+For the ascites he was tapped in the ED and found to have bacterial peritonitis.
+This, as well as the possibility of sepsis on admission, was treated initially with Vancomycin, Ceftriaxone and Flagl in the ED - then the antibiotic regimen was changed to Cefepime and levofloxacin to double cover for pseudomonas and other GNRs.
+His SAAG >1, so ascites likely secondary to portal HTN +/- HBV reactivation +/- hepatic infiltration from CLL.
+COuld have been attributed to portal hypertension or malignancy .
+Patient had a MELD score of 28 which indicated that the patient had an extremely poor short term prognosis.
+Hence, he was not a candidate for a liver transplant.
+# Renal Failure: - From [**10-18**] - [**10-27**] patient's Cr rose from 0.7 -> 3.7 - Hepatorenal syndrome was considered to be high on the differential for this given [**Last Name (un) 8692**] liver failure.
+Patient had decreasing urine output and renal service was asked to consult on how to improve urine output.
+It was felt from the medical team's standpoint that the patient's decreased UO was due to his low BP, hepatorenal syndrome and potential obstructive uropathy.
+Dialysis was not felt to be an option at this time despite his high K. Because of peaked T waves on EKG, he was given calcium gluconate to stabilize his myocardium.
+He could not be given oral kayexalate because of his poor mental status.
+# E. coli bacteremia: likely source is GI causing bacterial peritonitis and spread to blood.
+Patient was afebrile but was on high dose steroids.
+During this admission, patient was found by nursing staff trying to climb out of bed and intermittently disoriented-- which along with his rising LFTs indicated that patient was likely developing hepatic encephalopathy.
+Lactulose and rifaximin for hepatic encephalopathy.
+Social:  CPR not indicated in light of end-stage CLL and worsening liver failure.
+On the floor, pt was DNR/DNI as per patient's wife - this was discussed with wife on multiple occasions with multile physicians.
+Despite being DNR/DNI, patient's wife asked for potential ICU care for this patient; hence the ICU team was notified and assessed patient and agreed to intervene if there were any acute changes in his condition.
+This goal of care was discordant with previous discussions and the ethics service was requested to help to correlate the goals of care of the family, the medical team and the consultant teams.
+In the early morning (2am) of [**2124-10-27**], patient experienced respiratory distress.
+Patient was found to be apneic and without signs of life at 5am on RN check in on patient.

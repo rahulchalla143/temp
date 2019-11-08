@@ -1,0 +1,39 @@
+Admission Date:  [**2110-8-22**]              Discharge Date:   [**2110-9-3**]  Date of Birth:  [**2052-9-21**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 3326**] Chief Complaint: Fatigue and pancytopenia  Major Surgical or Invasive Procedure: Bone marrow biopsy  History of Present Illness: Mr. [**Known lastname 21540**] is a 57 year old with a PMH significant for HIV with a recent admission at [**Hospital1 34**] for pancytopenia.
+Per nightfloat admission History and Physical, the patient states that he initially started experiencing symptoms of dry cough and fatigue at the end of [**Month (only) **].
+The patient has been HIV positive since [**2099**], stable until 3 weeks ago when presented to S. [**Hospital **] hospital with fevers and pancytopenia.
+He also endorses low grade fever at that time.
+His bili, AST/ALT were also mildly elevated.
+CT chest/abd was only notable for fatty infiltration of the liver, spenomegaly, and mild atelectasis.
+While there, he received multiple transfusions, bone marrow bx preliminary dx was myelodysplasia and he was discharged to home approximately a week ago.
+Currently, he states that he is fatigued but otherwise resting comfortably without complaints.
+Past Medical History: HIV since [**2099**], [**5-6**] CD4 471 vl <50 cop/ml h/p PCP PNA six [**Name9 (PRE) 1686**] ago HTN Hyperlipidemia ?
+of childhood blood disorder  Social History: Currently unemployed.
+Ext: 1+ dp b/l, no c/c/e Skin: No rashes or other observed lesions.
+There are mild degenerative changes seen in the mid thoracic spine.
+No priors for comparision  Bone Marrow bx [**2110-8-5**]: hypercellular marrow showing erythro hyperplasia with left shift, myeloid left [**Hospital1 **] shift.
+NO evidence of lymphoma.
+CD117 focally positive.
+GPH-A postive  TTE [**8-28**]: The left atrium is mildly dilated.
+The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic regurgitation.
+No masses or vegetations are seen on the aortic valve.
+The mitral valve appears structurally normal with trivial mitral regurgitation.
+No mass or vegetation is seen on the mitral valve.
+There is mild pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+LABS: [**2110-8-22**] 06:43PM   GLUCOSE-103 UREA N-10 CREAT-0.6 SODIUM-137 POTASSIUM-4.9 CHLORIDE-101 TOTAL CO2-25 ANION GAP-16 [**2110-8-22**] 06:43PM   LD(LDH)-1258* TOT BILI-1.5 [**2110-8-22**] 06:43PM   HAPTOGLOB-<20* [**2110-8-22**] 06:43PM   LACTATE-2.2* [**2110-8-22**] 06:43PM   WBC-1.4*# RBC-2.55* HGB-7.9*# HCT-21.1*# MCV-83# MCH-30.8# MCHC-37.3* RDW-17.1* [**2110-8-22**] 06:43PM   NEUTS-6* BANDS-0 LYMPHS-91* MONOS-3 EOS-0 BASOS-0 ATYPS-0 METAS-0 MYELOS-0 [**2110-8-22**] 06:43PM   HYPOCHROM-NORMAL ANISOCYT-1+ POIKILOCY-OCCASIONAL MACROCYT-NORMAL MICROCYT-1+ POLYCHROM-NORMAL OVALOCYT-OCCASIONAL [**2110-8-22**] 06:43PM   PT-16.1* PTT-29.6 INR(PT)-1.4* [**2110-8-22**] 06:43PM   FIBRINOGE-664* D-DIMER-1102* [**2110-8-22**] 06:43PM   GRAN CT-270* [**2110-8-22**] 06:43PM   RET AUT-0.6* [**2110-8-22**] 06:43PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-4* PH-6.0 LEUK-NEG  Brief Hospital Course: A/P: Mr. [**Known lastname 21540**] is a 57 year old gentleman with a PMH significant for HIV diagnosed in [**2098**] transferred from [**Hospital1 34**] for further diagnostic evaluation of pancytopenia found to have leukemia.
+He had an inital bone marrow biospy at the OSH which was inconclusive.
+Leading diagnoses included Ehrlichiosis (so he was started on doxycyline empirically while the test was pending) and parvovirus (for which he received two treatments of IVIG).
+During workup for pancytopenia, DIC labs were sent and were negative, as were peripheral smear for schistocytes, as well as hemolysis labs which were consistent with a moderate amount of hemolysis.
+Smear for babesia x 3 was negative.
+On [**8-28**] the bone marrow biopsy results returned without evidence of parvovirus infection and with evidence of erythroleukemia so he was transferred to the oncology service for initiation of chemotherapy.
+# Neutropenic fevers: The patient was intially started on cefepime for his fevers, however ID felt this was not needed and it was stopped.
+# SOB/Hypoxia: Likely secondary to anemia versus pulmonary process.
+A chest CT in the OSH has shown no airway disease.
+He remained only mildly symptomatic on exertion.
+On [**8-31**], pt became acutely dyspneic while maintaining his sats.
+ABG performed at the time was relatively unchanged from prior, showing a respiratory alkalosis and possibly worsened A-a gradient (PO2 83.)
+CXR showed no consolidation/pneumothorax.
+In the [**Hospital Unit Name 153**], he transitioned back to 4LNC, satting 96% with reassurance by his partner and nursing, suggesting a likely anxiety component to his acute SOB, as respiratory rate improved from 40s to high 20s.
+Unfortunately, he again became increasingly hypoxic and chest x-ray on [**2110-9-2**] showed rather rapid progression of bilateral parenchymal densities and his respiratory state decompensated to the point of needing intubation and vent dependency.
+He also became extremely confused and agitated likely secondary to extreme hypoxic state.
+During this time he also had dramatic ARF indicated by rapidly rising BUN/Cr and LDH levels >[**Numeric Identifier 7923**] and markedly rising LFTs indicating rapid multi-system organ failure.

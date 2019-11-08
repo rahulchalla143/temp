@@ -1,0 +1,59 @@
+Admission Date:  [**2148-10-11**]              Discharge Date:   [**2148-10-15**]  Date of Birth:  [**2086-5-2**]             Sex:   F  Service: MEDICINE  Allergies: ibuprofen / lisinopril / hydrochlorothiazide  Attending:[**First Name3 (LF) 602**] Chief Complaint: presyncope, palpitations  Major Surgical or Invasive Procedure: None   History of Present Illness: Ms [**Known lastname 406**] is a 62 y/o F with recently diagnosed pancreatic adenocarcinoma (last dose of chemo three days ago) as well as Htn, T2DM, who presented to the ED from her oncologist's office with postural palpitiations and lightheadedness since this morning.
+She has no history of any tachycardias in the past.
+She had chills last evening, but no other localizing infectious symptoms.
+Denies cough, dyspnea, dysuria/polyuria, abdominal pain, diarrhea, nausea/vomiting, or neck stiffness.
+She has bilateral calf edema that is stable.
+Exam notable for normal mentation, sinus tachycardia and symmetric bilateral calf edema.
+Labs revealed elevated WBC count with left shift but no bandemia, stably low hct, mildly elevated creatinine to 1.1 and bicarbonate of 19.
+She was given 2L NS for BP support.
+ECG was initially thought to be sinus tachycardia, but repeat ECG was c/w atrial flutter with 2:1 conduction.
+CXR x2 showed pulmonary edema, and CTA showed no PE but +small airways disease or atelectasis; note made of stale pancreatic mass and diverticulosis.
+She developed hypoxia to the high 80s, and was placed on Bipap.
+Given pulmonary edema and need for Bipap, she was given 20 mg IV furosemide; O2 sats improved to 97% on 4L NC.
+Bedside cardiac ultrasound showed a non-circumferential pericardial effusion, and "good squeeze."
+She was also given vancomycin and cefepime out of concern for septic etiology for hypotension and tachycardia.
+She had no fevers in the ED.
+On the floor, the patient reports feeling tired and weak, but denies any dyspnea, chest pain, palpitations, fevers, chills, sweats, or abdominal pain.
+Review of systems: (+) Per HPI (-) Denies recent weight loss or gain, headache, rhinorrhea or congestion, cough, wheezing, nausea, vomiting, diarrhea, constipation, arthralgias or myalgias.
+Denies rashes or skin changes.
+Past Medical History: -Locally advanced pancreatic adenocarcinoma - s/p 2 cycles of gemcitabine (started on [**2148-9-3**], last dose was on [**10-8**] - C2D8 Gemzar), plans for radiation -Type 2Diabetes - requiring insulin -PVD -HTN -Neuropathy -Hip pain and Discomfort -Sciatica -Herniated disk -Hysterectomy -spinal surgery -back surgery -subclavian bypass for subclavian stenosis syndrome   Social History: Lives in [**Location 1468**] with her husband and son.
+No alcohol or illicits.
+Family History: A sister had breast cancer with metastasis to the brain.
+Sister has atrial fibrillation, and mother had CHF.
+Physical Exam: PE on Admission: Vitals: T:98.5 BP:143/66 P:95 R:21 O2:92% 4L General: Well nourished adult female appears fatigued but alert, oriented, no acute distress.
+Supple, no LAD Lungs: Mild crackles at bilateral bases, no wheezes, rhonchi CV: RRR, normal S1/S2, no M/R/G Abdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly GU: foley catheter in place Ext: Symmetric 1+ edema to mid shins, bilaterally.
+No cyanosis or clubbing.
+No pulmonary embolism.
+Pulmonary edema with small bilateral effusions and atelectasis.
+Coronary artery disease with small pericardial effusion.
+Fullness of the left adrenal gland suspicious for metastasis.
+Extensive atherosclerotic disease of the abdominal aorta with diminished flow within the left external iliac artery.
+Sigmoid diverticulosis without diverticulitis.
+[**2148-10-11**]   Radiology CHEST (PORTABLE AP) No significant interval change from study obtained two hours previously.
+Continued mild pulmonary edema and bibasilar atelectasis.
+[**2148-10-11**]   Radiology CHEST (PA & LAT) Cardiogenic pulmonary edema.
+Recommend repeat radiography after appropriate diuresis to assess for underlying infection.
+[**10-15**] Echocardiogram: IMPRESSION: Mild symmetric left ventricular hypertrophy with preserved global and regional biventricular systolic function.
+Small circumferential pericardial effusion.
+Mild PA systolic hypertension.
+Labs on Discharge:  [**2148-10-15**] 06:00AM BLOOD WBC-14.2* RBC-3.17* Hgb-9.7* Hct-27.6* MCV-87 MCH-30.6 MCHC-35.2* RDW-16.4* Plt Ct-150 [**2148-10-15**] 06:00AM BLOOD Glucose-132* UreaN-24* Creat-1.1 Na-139 K-3.8 Cl-102 HCO3-24 AnGap-17  Studies Pendig on Discharge: None  Brief Hospital Course: 62 yo F with locally advanced pancreatic cancer undergoing gemcitabine chemotherapy admitted with rapid atrial flutter and pulmonary edema.
+#Acute diastolic heart failure: Patient developed pulmonary edema and was initially admitted to the ICU.
+It is unclear the exact cause of heart faiulre but was likely due to rapid atrial flutter and exacerbated by 2L NS she received in the emergency department for an initial concern for sepsis.
+Her echocardiogram showed mild LVH with EF>65% and no focal WMA and mildly elevated PASP.
+Given her rapid improvement and that her probable inciting factor was corrected prior to discharge she was not discharged on maintenance diuretic therapy.
+The patient was instructed to call her doctor if she experienced weight gain at which time maintenance diuretic regimen could be discussed.
+#Atrial flutter: Patient presented with atrial flutter with ventricular rate at 150bpm.
+Patient was treated with Diltiazem with reduction in heart rates and return to sinus rhythm with PACs.
+On discharge patient had HR ~110 with stable blood pressure and without symptoms during ambulation with physical therapy.
+Given the rapid return to sinus rhythm and symptomatic palpitations with her atrial flutter, the decision was made after discussion with oncology to hold off on initiation of Coumadin, but re-consider if she has recurrence of her symptoms.
+#Locally advanced pancreatic cancer: Patient had an abdominal CT which showed stable pancreatic mass, but new fullness of the left adrenal potentially consistent with adrenal metastasis.
+Metformin was held during hospitalization as she received IV contrast as part of a PE protocol CT. Metformin was held on discharge given the recent CTA until her PCP appointment and recheck of BUN/Cr to make sure stable as she had good blood sugar control off metformin in house.
+#Disposition: Home with PCP and Oncology followup of atrial flutter, heart rate, blood pressure, heart failure, and anemia.
+7. zolpidem 5 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime) as needed for insomnia.
+6. zolpidem 5 mg Tablet Sig: 1-2 Tablets PO HS (at bedtime) as needed for insomnia.
+7. hydrocodone-acetaminophen 5-500 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for back pain.
+Medication Changes ADDITIONS:  CHANGES: 1) Please do not take your metformin until you have seen your PCP to make sure that your kidney function remains normal 15. diltiazem HCl 180 mg Tablet Extended Release 24 hr Sig: Two (2) Tablet Extended Release 24 hr PO once a day: If you feel dizzy or lightheaded while taking this medication, please call your doctor.
+[**Last Name (Titles) **]:*60 Tablet Extended Release 24 hr(s)* Refills:*2*   Discharge Disposition: Home  Discharge Diagnosis: Atrial flutter Heart failure/pulmonary edema Anemia   Discharge Condition: Mental Status: Clear and coherent.
+Discharge Instructions: You were admitted because of an abnormal heart rhythm (atrial flutter) and a fast heart rate, which was likely the cause of your lightheadedness and palpitations.
+You were also found to have heart failure as a result of your high heart rate.
+Also, please monitor your weight daily and if you note an increase in your weight by more than 3 lbs over a [**1-25**] day period, please call your PCP as this may be a sign of increased fluid that can be treated with diuretics.

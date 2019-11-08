@@ -1,0 +1,63 @@
+Admission Date:  [**2140-7-28**]              Discharge Date:   [**2140-8-2**]  Date of Birth:  [**2080-9-28**]             Sex:   M  Service: MEDICINE  Allergies: Codeine  Attending:[**Last Name (NamePattern1) 9662**] Chief Complaint: Seizure  Major Surgical or Invasive Procedure: None  History of Present Illness: 59M with a PMH of T2DM on insulin, ESRD not on dialysis s/p open peritoneal dialysis catheter placement [**2140-7-15**] due to have first dialysis [**2140-7-28**], HTN, HLD, CAD s/p 4 stents in [**2136**], CML recently stopped dasatinib on recent admission, depression who presents as an OSH transfer following altered mental status and seizures and is now being transferred to the ICU for concern for hypertensive emergency.
+Recently admitted from 8/8-15/[**2139**] for volume overload and fatigue with culture negative diarrhoea in addition to worsening of his chronic renal failure up to Cr 5.6 ([**2140-7-13**]) which improved with holding his diuretics and hydration and returned patient's baseline of Cr~[**2-7**].
+Given persistence of CKD without improvement he was due to start peritoneal dialysis today.
+No shaking or seizure activity at that time.
+No prior history of seizures.
+Started on phenytoin and transferred to [**Hospital1 18**] for further evaluation and management given his new onset seizures.
+He had no further seizures however he was felt to have continuing altered mental status.
+His renal attending saw him and was concerned that his AMS could be due to HTN encephalopathy and is requesting that he be transferred to the MICU for aggressive BP control with a labetalol drip.
+On arrival to the MICU he appeared slightly agitated but otherwise in no acute distress.
+Past Medical History: -type 2 diabetes, -leukemia/CML -hypertension -coronary artery disease status post stenting in [**2136**] -obesity -depression, -hyperlipidemia.
+Family History: no known history of kidney problems in family  Physical Exam: EXAM ON ADMISSION: General: Alert, oriented, no acute distress HEENT: Sclera anicteric, dry MM, oropharynx clear, EOMI, PERRL Neck: supple, JVP not elevated, no LAD CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi Abdomen: soft, non-tender, non-distended, bowel sounds present, no organomegaly GU: no foley Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis, 1+ edema Neuro: CNII-XII intact, 5/5 strength upper/lower extremities, grossly normal sensation, 2+ reflexes bilaterally, gait deferred   EXAM ON DISCHARGE: VS - Temp 98.7 F (afeb), BP 138/68 (126-156/60-80), HR 79 (60s-80s), R 20, SaO2 95%RA GENERAL - well-appearing man in NAD, comfortable, appropriate, currently being dialyzed on PD HEENT - NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear NECK - supple, no thyromegaly, no JVD, no carotid bruits LUNGS - CTA bilat, no r/rh/wh, good air movement, resp unlabored, no accessory muscle use HEART - PMI non-displaced, RRR, no MRG, nl S1-S2 ABDOMEN - NABS, soft, slightly distended, slightly tender near PD catheter site.
+[**2140-7-28**] Dialysate fluid:    GRAM STAIN (Final [**2140-7-28**]):       NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.
+NO MICROORGANISMS SEEN.
+FLUID CULTURE (Final [**2140-7-31**]):    NO GROWTH.
+[**2140-7-28**] MRSA screen: No MRSA isolated.
+IMAGING: [**2140-7-28**] EEG: FINDINGS: ABNORMALITY #1: There were frequent bursts of mixed frequency slow with a generalized distribution.
+There were also less frequent bursts of slowing in the right or left temporal region, independently.
+BACKGROUND: Included some 9 Hz alpha frequency posteriorly in wakefulness.
+SLEEP: The patient progressed from wakefulness to drowsiness but did not appear tender stage II of sleep during this recording.
+IMPRESSION: Abnormal EEG due to the bursts of slowing, most of them generalized but with some of these findings suggest multifocal subcortical dysfunction.
+Vascular disease is the most common cause at this age.
+The generalized slowing implies a dysfunction and midline structures, but this is not specific with regard to etiology.
+There was no particularly prominent posterior slowing.
+There were no epileptiform features.
+[**2140-7-28**] Non-contrast head CT: There is no evidence of hemorrhage, edema, mass effect, or large acute territorial infarction.
+The ventricles and sulci are slightly prominent for age, likely related to minimal atrophy.
+No fracture is identified.
+IMPRESSION:  No intracranial hemorrhage or mass effect.
+There is moderate cardiac enlargement.
+No typical configurational abnormality is present.
+The pulmonary vasculature demonstrates bilateral perivascular haze, consistent with venous congestion.
+This probably explains the bilateral pleural effusions blunting the lateral pleural sinuses, more on the right than the left.
+Similar findings consistent with chronic CHF and bilateral pleural effusion was already present on the previous chest examination of [**2140-7-13**].
+Increasing basal density on the right side suggest that the pleural effusion has increased.
+No acute pulmonary processes can be identified.
+[**2140-7-29**] MRI head: There is no acute intracranial hemorrhage or acute transcortical infarction.
+There are a few subcortical foci of height and signal predominantly in the parietal and occipital lobes, which may be seen in the setting of PRES.
+No associated mass effect or edema.
+No chronic blood products.
+There is minimal mucosal thickening in the right aspect of the sphenoid sinus.
+IMPRESSION:  Mild subcortical changes predominantly in the parietooccipital white matter which may be seen in the setting of PRES.
+No evidence for acute ischemia.
+[**2140-7-30**] KUB: No previous images.
+Brief Hospital Course: 59M with a PMH of T2DM on insulin, ESRD just started on PD [**2140-7-28**], HTN, HLD, CAD s/p 4 stents in [**2136**], CML, transferred from OSH with altered mental status, seizures and hypertensive emergency.
+ACTIVE ISSUES: # Hypertensive Emergency:  Unclear cause of hypertension prior to admission, as outpatient [**Year (4 digits) **] Dr. [**First Name (STitle) 805**] reports that patient has excellent complicance.
+[**Month (only) 116**] have been cause of patient's AMS prior to admission, as he has evidence of PRES on MRI.
+His carvedilol increased to 25mg [**Hospital1 **] but then decreased to 9.75mg [**Hospital1 **] due to asymptomatic bradycardia.
+Diltiazem changed to amlodipine in setting of asymptomatic bradycardia.
+# Seizures and AMS: Single seizure at OSH without prior history of seizures.
+Most likely etiology is hypertensive encephalopathy or PRES.
+EG without epileptiform features.
+Neuro believes toxic-metabolic encephalopathy is also on the differential.
+Other possible etiologies include hypercalcemia and uremia.
+# Hypercalcemia: With hyperparathyroidism, secondary to CKD.
+A low calcium bath was used.
+Some bruising surrounding PD catheter (placed on 10th) but without evidence of infection or active bleeding.
+After this has been done, he will be seen in [**Hospital 878**] clinic, and given instructions on whether to continue or stop Keppra.
+# Patient noted to have asymptomatic ST-elevations on EKGs, which by review of Cardiology Fellow, were deemed consistent with J-point elevations.
+Clinical picture was not consistent with acute ischemia.
+Epoetin Alfa 10,000 units SC AS DIRECTED 16. glimepiride *NF* 2 mg ORAL QAM   Discharge Disposition: Home With Service  Facility: Steward home care  Discharge Diagnosis: PRIMARY DIAGNOSES: seizure hypertensive emergency ESRD on peritoneal dialysis  SECONDARY DIAGNOSES: insulin-dependent diabetes hypertension hyperlipidemia CAD s/p 4 stents CML depression   Discharge Condition: Mental Status: Clear and coherent.
+You were admitted with a seizure and altered mental status, and were found to have very elevated blood pressures.
+A CT scan of your head showed that you had no bleeding in your brain.
+An MRI of your brain showed that your seizures may have been related to the high blood pressures.

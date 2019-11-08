@@ -1,0 +1,76 @@
+Admission Date:  [**2170-5-19**]              Discharge Date:   [**2170-8-7**]  Date of Birth:  [**2136-7-24**]             Sex:   M  Service: EMERGENCY  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 2565**] Chief Complaint: Fevers and dyspnea  Major Surgical or Invasive Procedure: [**2170-5-22**] - Intubation [**2170-5-22**] - Bronchoscopy [**2170-5-26**] - Extubation [**2170-6-13**] - Gastric Tube Placement [**2170-7-16**] - PICC line placement [**2170-7-25**] -tracheal intubation [**2170-8-6**] -extubation  History of Present Illness: Mr. [**Known lastname **] is a 33 year old male with h/o large B-cell lymphoma status post allogenic stem cell transplant in [**2166**], complicated by severe graft versus host disease of the skin and oral mucousa, and recent admission 5/11-23/08 for pneumosepsis and subsequently went to [**Hospital1 **] for rehabilitation.
+While at [**Hospital1 **] he developed fever to 102.5 with associated nausea and vomiting and abdominal pain.
+He was noted to be hypoxic and placed on NRB satting 94%, HR 160s increased from baseline 120s.
+He continued to have fever and was noted to be "looking worse" prior to transfer to [**Hospital1 18**].
+He reported fevers, chills, cough and shortness of breath.
+He also noted abdominal pain.
+Past Medical History: # Large B cell lymphoma, s/p sibling-matched allogenic SCT in [**6-/2167**] - c/b severe GVHD of skin, GI/mouth - had been receiving photopheresis - TPN dependent (via PICC) # Migraines # h/o vaso-vagal syncope with blood draws # h/o bacteremia # Steroid myopathy # Moraxella sinusitis # Cardiomyopathy - TTE [**4-5**] EF 45-50% - Likely multifactorial: chemotherapy, radiation, GVHD, tachycardia # Fungemia with [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 29361**] ONCOLOGIC HISTORY: The patient was diagnosed with diffuse large B-cell lymphoma in  [**9-/2165**] and treated with eight cycles of R-CHOP and 25 doses of  XRT, finished in 6/[**2165**].
+In [**6-/2166**], relapsed with disease found in periaortic lymph nodes and in the spleen.
+Follow up PET scan on [**2167-1-30**] demonstrated recurrent persistent uptake in the spleen, mesentery, and with new liver and pulmonary lesions.
+Liver biopsy demonstrated diffuse large B-cell lymphoma and he was treated with three weekly doses of Rituxan but continued to progress.
+He has had severe chronic GVHD of the skin and oropharyngeal mucosa; he completed Rituxan weekly x4 for GVHD at end of [**2170-1-27**].
+He has been out of work for several years due to his hospitalizations.
+Family History: His paternal grandmother had breast cancer and a paternal uncle had cancer of an unknown etiology.
+His father had diabetes and died of a myocardial infarction.
+Dry mucous membranes Neck: Leathery skin, no apparent LAD.
+Lungs: Decreased BS at bilateral bases, diffusely rhonchorous.
+Cardiac: Tachycardic, regular, S1, S2, no m/g/r.
+Abdomen: Firm to palpation, non-tender, non-distended, +BS, difficult to assess for HSM due to thickened skin.
+Areas of hypo and hyperpigmentation over face, back, arms, abdomen.
+New right lower lobe consolidation, concerning for pneumonia.
+Markedly increased left-sided pleural effusion with consolidation.
+Fluid- filled airways within LLL may represent aspiration or mucous impaction.
+Stable multifocal bilateral opacities and ground-glass opacities.
+No acute intra-abdominal pathology.
+Multiple bilateral healing rib fractures.
+Gallbladder appears normal without evidence of gallstones.
+Diffuse mild increased hepatic echotexture consistent with diffuse fatty infiltration, although other advanced forms of liver disease such as cirrhosis or fibrosis cannot be excluded based on this study.
+No acute intra-abdominal process.
+Persisting left pleural effusion, with associated left lower lobe atelectasis.
+Improvement of airspace opacity in the right lower lobe, with only residual patchy consolidation.
+[**6-26**] Video Swallow Studie: Mild-to-moderate dysphagia with one episode of trace penetration and aspiration.
+contrast in colon invokes patency.
+In the absence of air in small bowel an obstruction of fluid filled loops cannot be excluded, but could be evaluated with CT if warranted.
+[**7-25**] CT of head: No evidence of acute intracranial hemorrhage.
+Right maxillary retention cyst and bilateral mastoid opacification, not adequately assessed.
+Brief Hospital Course: 33yo M with large B-cell lymphoma s/p allogeneic stem cell transplant '[**66**], complicated by severe chronic Graft vs.
+Prior to this admission pt was recently admitted ([**4-8**] - [**4-20**]) due to pneumosepsis and tx with ceftriaxone.
+Pt was d/c and went to [**Hospital **] rehab, but he became hypoxic to low 90s, with lower BP, febrile to 102.5, HR 160s incr from baseline 120s, along with n/v and abdominal pain.
+Pt was found to have new RLL consolidation and increased moderate left sided pleural effusion with compressive LLL atelectasis.
+Thus pt was re-admitted (current admission) on [**5-19**] with pneumonia to the [**Hospital Unit Name 153**].
+He was admitted with a non-rebreather to keep 02 sats in 90s, but eventually went into respiratory failure, and intubated likely due to worsening hypoxia [**12-30**] pulm edema.
+It was thought that this multifocal lung infection was likely due to Strep pneumoniae +/- Rhinovirus pneumonia.
+Pt also had pain with swollowing, and switched to IV meds, and could not tolerate his Gleevac.
+Once on the floor pt developed pancreatitis and transaminitis, although the lipase remained elevated pt eventually stopped complaining of mid-epigastric pain - but it was unclear to the team why these enzymes remained elevated.
+Pt also has an elevated LDH - differential: wbc/rbc hemolysis vs PCP (but pt gets daily atorvoquone as prophylaxsis), and all appear unlikely - unknown why pt has elevated LDH, but may be related to above issue.
+The pt's pneumonia is resolving well.
+The latest CT chest on [**6-27**] showed "Marked improvement in bibasilar consolidation, with mild residual RLL abnormality with impacted bronchi and peribronchial infiltration.
+No new consolidations.
+Decreased but persistent moderate non-hemorrhagic left pleural effusion resulting in extensive left lower lobe atelectasis."
+The main issue, prior to the pneumonia and currently, is his severe chronic GVH.
+His GVH is causing (1) scleroderma-like, leathery, thickening of skin on his entire body leading to immobility and pain with movement from his tense skin, and (2) GI effects - pt originally had severe oral ulcerations now resolved, but currently continues to have aphagia and dysmotility.
+[**Name (NI) 1917**] pt had abdominal pain at the skin around the PEG site.
+This pain was separate from the pain he had from the pancreatitis, and was initially attributed to his associated skin tightening from GVH since it was worse with movement.
+Pt had mild improvement with lidocaine patch, but the pain was severe and started on Morphine PCA, and as this was becoming an unresolving pain Pain Service recommended transitioning to methadone.
+On [**6-22**] pt had CT Abd showing no acute intra-abdominal process.
+Thus, we asked IR to perform a flow study to evaluate for impingement and patency (due to concurrent high-residuals from tube feeds - see below/next paragraph), and the study on [**6-26**] showed normal flow.
+There was no change and on [**6-28**] swab was repeated again showing skin flora, but continued to have purulent discharge and mild erythema around site.
+Pt was started on Zosyn/Vanco for this PEG infection, and in [**11-29**] days pt's purulent discharge and erythema resolved along with near resolution of pt's abdominal pain at the site.
+While this issue was resolved, pt continues to have diffuse abdominal pain, at baseline [**2-5**].
+The current thought is that the abdominal pain may be due to direct effect of GVH on his bowel.
+Pt's TF were started at 5-10cc/hr and could not be advanced (goal 40cc/hr) due to very high residuals (>100cc whenever checked).
+Pt's gastroparesis was so severe that tube feeds were stopped.
+GI thought gastroparesis was due to the high level of narcotics (pt was getting for abdominal pain).
+This was first tolerated without emesis on [**7-6**].
+Pt is already showing very mild improvements in skin turgor and range of movement of extremities (from 4d of Gleevac).
+Goal is to decrease narcotic requirement as much as possible to help with GI motility.
+Also side note, Pt developed increased SOB on [**6-29**], with decreasing O2 sat to 90% (pt became very anxious since he knew this is what sent him to the ICU in the first place).
+Pt's EKG had ST changes from previous, but cardiology consult said these were early repolarizations, and not worrisome of ACS and CE negative.
+Pt's CXR/Chest CT did not show worsening of pneumonia, and actually showed mild improvement.
+Pt was already anti-coagulated with Fondaparinox for a PE in [**2-3**] (attributed cause of his persistent tachycardia).
+And pt already had a known history of cardiomyopathy with TTE on [**2170-4-17**] showing EF 45-50%, likely multifactorial- chemotherapy, radiation, GVHD, longstanding hypertension/tachycardia.
+Patient became tachypneic and with agonal breaths.
+Patient was found to have a small consolidate on CXR and was started on Vancomycin for s. aureus pneumonia.
+He repeatedly retained CO2 to levels similar to intubation, despite [**Last Name (un) 10737**] in very low dose of fentanyl for pain control.
+Patient was explained the risk and benefits of receiving lorazepan (half a dose than before) and wanted his anxiety treated though risks included potential respiratory failure and death.
+Given his underlying condition, he wished primary goal to be comfort and did not want to be re-intubated or receive agressive care.

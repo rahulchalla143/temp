@@ -1,0 +1,21 @@
+Admission Date:  [**2102-8-29**]              Discharge Date:   [**2102-9-6**]   Service: UROLOGY  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 11304**] Chief Complaint: Gross hematuria  Major Surgical or Invasive Procedure: Radical laparascopic nephrectomy - Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 3748**]- [**2102-8-29**]   History of Present Illness: 85F with gross hematuria, cytology +, CT: 3-cm right renal pelvis transitional cell collecting system tumor  Past Medical History: HTN, Hyperlipidemia, Kidney stones, Hx Breast CA, benign cystic pancreatic mass, herpes zoster  Social History: No tobacco/EtOH  Pertinent Results: [**2102-9-4**] 11:10AM BLOOD WBC-7.2 RBC-4.07* Hgb-11.3* Hct-35.8* MCV-88 MCH-27.8 MCHC-31.6 RDW-15.1 Plt Ct-401 [**2102-9-4**] 11:10AM BLOOD Glucose-168* UreaN-18 Creat-1.1 Na-144 K-4.0 Cl-108 HCO3-24 AnGap-16  Brief Hospital Course: Patient was admitted to Urology on [**2102-8-29**] after undergoing laparoscopic right nephroureterectomy.
+No concerning intraoperative events occurred; please see dictated operative note for details.
+On POD0, pain was well controlled on PCA, hydrated for urine output >30cc/hour, provided with pneumoboots and incentive spirometry for prophylaxis, and was out of bed to theh chair.
+On POD 1, the patient was disoriented with PCA, so narcotics were discontinued and toradol was implemented for pain control.
+On POD 2, the patient ambulated with assistance and was restarted on home medications (verapamil, lisinopril, meclizine), basic metabolic panel and complete blood count were checked.
+In the afternoon of POD 2, the patient became bradycardic and hypotensive x 2 episodes.
+The first episode, the patient's HR and BP returned to [**Location 213**] with only 1 L fluid bolus.
+The patient was transferred to the ICU for hemodynamic monitoring.
+The etiology of the bradycardia was unclear, and thought to be a profound vagal response or due to home verapamil dosing.
+Echo showed EF of 60% to 65%, Mild symmetric left ventricular hypertrophy with preserved global biventricular systolic function.
+Mild pulmonary hypertension.
+Small circumferential pericardial effusion.
+On POD 4, urethral catheter (foley) were removed without difficulty.
+Geriatric consult was requested on POD 7 due to delerium during hospital course, and they deemed the patient appropriate for discharge from their standpoint.
+On POD 8, the patient was discharged to home with VNA/PT in stable condition, eating well, ambulating independently, voiding without difficulty, and with pain control on oral analgesics.
+On exam, incisions were clean, dry, and intact, with no evidence of hematoma collection or infection.
+Disp:*30 Tablet(s)* Refills:*2*   Discharge Disposition: Home With Service  Facility: [**Hospital1 1474**] VNA  Discharge Diagnosis: Renal cell carcinoma status post right nephroureterectomy   Discharge Condition: Stable   Discharge Instructions: -You may shower but do not bathe, swim or immerse your incision.
+-Do not drive or drink alcohol while taking narcotics  -Resume all of your home medications-Call your Urologist's office today to schedule/confirm your  follow-up appointment in 3 weeks AND if you have any questions.
+-If you have fevers > 101.5 F, vomiting, or increased redness, swelling, or discharge from your incision, call your doctor or go to the nearest ER  -Call Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 3748**] upon discharge to arrange/confirm follow-up appointment and if you have any urological questions.
+[**Telephone/Fax (1) 3752**]  -Please follow up with your PCP related to management of hypertension and discontinuance of one of your medication (Verapamil), and an increase of your daily dosage of Lisinopril to 20 mgs daily.
+Followup Instructions: -Call Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 3748**] to set up follow-up appointment and if you have any urological questions.

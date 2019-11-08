@@ -1,0 +1,67 @@
+Admission Date:  [**2193-11-11**]              Discharge Date:   [**2193-12-2**]  Date of Birth:  [**2141-5-30**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 30**] Chief Complaint: hyponatremia  Major Surgical or Invasive Procedure: Tracheal intubation Central line placement  History of Present Illness: 52 yo m with schizophrenia, HOCM, found at group home face down in pool of vomit, found to have Na 99 at [**Hospital 46**] Hosp, got hypertonic saline, corrected to 107 by the time he got to our ED.
+Hyponatremia thought [**1-17**] psychogenic polydipsia.
+Became subsequently hypernatremic, thought to have renal DI due to lithium that he took in [**2189**].
+Renal following.
+CT abd found mass c/w renal cell CA, needs workup (onc has not yet been consulted).
+On the floor, the patient was hypertensive to 180 SBP and was given Hydral IV 10mg x 1.
+Multilevel degenerative change with no fracture identified.
+Mild overdistention of the endotracheal tube cuff.
+Posterior opacity in the right upper lung, possible aspiration .
+No definite fracture identified.
+Moderate ethmoid sinus opacification and air-fluid level in the left maxillary sinus in this intubated patient.
+There is no hyperdensity within the fluid in the left maxillary sinus to suggest an occult fracture.
+No evidence of acute intracranial hemorrhage.
+No fracture identified.
+Moderate ethmoid sinus opacification with air-fluid level in the left maxillary sinus likely due to intubation.
+4-cm heterogeneous left renal mass, highly suspicious for renal cell carcinoma.
+As this study was performed without IV contrast, either a dedicated CT urogram or MRI is recommended to further assess.
+Trace amount of left perinephric fluid and stranding, however, no evidence of significant retroperitoneal or intraperitoneal hematoma.
+Bibasilar consolidation and small effusions, most likely relating to aspiration.
+Asymmetric enlargement of the left gluteal minimus muscle with prominent subcutaneous stranding, consistent with contusion.
+Very limited study for assessing for any other potential lesions or metastases without IV or oral contrast.
+EEG: This is a moderately abnormal EEG due to the presence of a slow and unvarying background, consistent with a moderate encephalopathy of toxic, metabolic, and/or anoxic etiology.
+No evidence of ongoing seizures was seen despite the presence of limb jerks as recorded by the technologist.
+MRI: There is no slow diffusion to indicate an acute infarct.
+There is mild sulcal prominence as noted on the prior examination of [**2190-8-4**].
+There is ventricular prominence also.
+Could this patient have mild communicating hydrocephalus?
+There is extensive pansinus opacification.
+There are no enhancing abnormalities.
+There is no midline shift, mass effect or hydrocephalus.
+There are no areas of abnormal magnetic susceptibility.
+Brief Hospital Course: 52 year old male with hyponatremia, possible aspiration on CT, intubated for airway protection.
+# Hyponatremia - From psychogenic polydipsia.
+patient was initially given hypertonic saline for short interval.
+With fluid restriction, patient became hypernatremic, which was attributed to diabetes insipidus in the context of past Lithium use.
+He likely has greater than 4L free water requirement and should be allowed to drink to thirst only instituting fluid restriction if Na<130.
+# Hypotension: briefly after admission Mr. [**Known lastname **] became tachycardic and hypotensive requiring large volume repletion.
+It was likely that his hypotension was [**1-17**] both volume depletion, sepsis, and hypertrophic obstructive cardiomyopathy.
+He was started on levofloxacin and flagyl to cover for aspiration pneumonia which was switched to vanco/zosyn as below.
+Given that no gram negative rods were present on sputum culture or gram stain, a total of 8 days would be sufficient.
+# Altered mental status: difficulty to wean of sedation with intermittent unresponsiveness.
+EEG ruled out seizure acitvity.
+MRI did not show any evidence of stroke or anoxic brain injury.
+Delirium was monitored on the floor with the help of psychiatry, and mental status cleared several days prior to discharge.
+# Pnuemonia: Mr [**Known lastname **] was treated for aspiration pneumonia on admission with levofloxacin and flagyl; he later developed fevers refarctory to this and was changed to vancomycin and zosyn for empiric VAP.
+# hypertension: later in Mr. [**Known lastname **] course he developed severe hypertension in the 200/110 range and was started on a labetalol drip which was eventually weaned and he was changed to a regimen of amlodipine 100po tid + captopril 25 tid + amlodipine 10.
+His SBP was well controlled, and eventually, we d/c'd the captopril as he was only about 100's systolic with a rising creatinine.
+# Renal mass: very suspicious for renal cell carcinoma.
+It was explained to him that the findings on the CT scan showed a mass in the kidney and that it was suspicious for cancer and further, if it's not definitively diagnosed and treated, that it could spread and he could die.
+He was asymptomatic and it resolved spontaneously.
+EP was consulted who felt that he was a candidate for ICD placement in light of his HOCM, however other medical issues including renal mass as above needed to be evaluated prior to any intervention, and that he can follow up in their outpatient clinic.
+# Renal failure: Mr [**Known lastname **] was admitted with a Cr of 1.1 and had a Uprot/Cr ratio of 1.2 indicating likely chronic renal disease.
+Could be secondary to the renal mass, which needs to be further evaluated.
+# Metabolic Derangements: The patient had several days of hypercalcemia and hyperkalemia, which was attributed to the patient focusing on drinking extreme amounts of Ensure and then Nepro in the setting of his renal failure.
+After stopping all supplements, these electrolyte abnormalities resolved.
+Psychogenic Polydipsia 5.
+Ventilator-associated Pneumonia 6.
+Non-Sustained Ventricular Tachycardia 8.
+Hypercalcemia, Hyperkalemia 9.
+Anemia of Inflammation.
+4-cm left renal mass, highly suspicious for RCC.
+Hypertrophic Cardiomyopathy.
+Chronic Kidney Disease Stage III.
+Schizophrenia   Discharge Condition: Stable, afebrile, ambulating   Discharge Instructions: You were admitted for a dangerously low serum sodium level secondary to your diagnosis of psychogenic polydipsia.
+During your admission you were also treated for pneumonia.
+If you experience shortness of breath, chest pain, confusion, fevers/chills or seizures please seek medical attention immediately.
+Please follow up for your psychogenic polydipsia and question of diabetes insipidus, in the [**Hospital 2793**] Clinic in the [**Hospital Ward Name 23**] Building at [**Hospital1 69**] with [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] [**Name8 (MD) **], MD Date/Time: [**2193-12-18**] @ 1:00pm.

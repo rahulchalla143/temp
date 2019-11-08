@@ -1,0 +1,65 @@
+Admission Date:  [**2196-11-6**]              Discharge Date:   [**2196-11-10**]  Date of Birth:  [**2132-7-5**]             Sex:   F  Service: MEDICINE  Allergies: Bactrim  Attending:[**Last Name (NamePattern1) 1136**] Chief Complaint: Dyspena, cough, and muscle weakness  Major Surgical or Invasive Procedure: None.
+History of Present Illness: Ms [**Known lastname **] is a 64 yo female with pmh of asthma, COPD on 3 L NC, dCHF, a.fib, hx of DVT, and htn admitted to the [**Hospital Unit Name 153**] due to hyperkalemia and concern for her tenuous respiratory status.
+Denies fevers or CP, but does admit to a productive cough for two days.
+She states for the past few days she had decreased po intake due to a general feeling of unwellness.
+She admits to recent rhinorrhea, and pain after finishing urination as well as polyuria.
+Has stable orthopnea, denies PND or new lower extremity edema.
+No recent sick contacts.
+She took 50 mg po prednisone at home the night before admission and nebs x 2, however her symptoms worsened so this morning she called EMS.
+She had a CXR which was found concerning for PNA so she was given 750 mg po levofloxacin.
+Her inital EKG had a widened QRS and peaked T-waves so she was given 10 mg IV insulin, 1 amp D50, 1 amp sodium bicarb, and 1 gm calcium gluconate all x 2 with eventual improvement in her EKG findings.
+She was also given 60 grams of kayexalate and had one bowel movement prior to leaving the ED.
+On arrival to the [**Hospital Unit Name 153**] she states her dyspnea has improved somewhat at rest, but she still gets dyspneic with movements.
+Denied nausea, vomiting, diarrhea, constipation or abdominal pain.
+No recent change in bowel or bladder habits.
+Denied arthralgias or myalgias.
+Asthma - has been intubated 3 times in the past 30 years for acute exacerbations in the setting of a pulmonary infection.
+Obstructive Sleep Apnea 5.
+Hypertension 6.
+Peptic ulcer disease 7.
+Anemia/ hx of GI bleed 8. h/o DVT; Coumadin stopped because of melenic episode 9.
+Atrial fibrillation during her last hospitalization 10.
+Family History: There is no family history of premature coronary artery disease or sudden death.
+Her family history is notable for multiple family members with hypertension, father who died of lung cancer, and mother who died of CVA and hypertension.
+Physical Exam: Vitals:  T 99 BP 144/94  P 90  RR 26  Sat 98% on 2 L NC General: Alert, appropriate, no acute distress at rest, but visibily has increased work of breathing after any movement.
+HEENT: Sclera anicteric, MM dry, oropharynx clear Neck: supple, JVP not elevated, no LAD Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi CV: Slightly tachycardic and regular, normal S1 + S2, [**4-8**] systolic murmur present, heard best at the LUSB Abdomen:  +BS, soft, obeses, non-tender, non-distended BACK: no CVA tenderness GU: Foley present Ext: warm, well perfused, venous stasis changes present Neuro: CN II-XII grossly intact, sensation to light touch intact throughout.
+Pertinent Results: ADMISSION [**Month/Day (1) **]: [**2196-11-6**] inr 1.1 / ptt 26.4 WBC 3.6 / hct 34.1 / Plt 152 Ca 9.5 / Mg 2.6 / phos 3.6 Na 132 / K 8.4 / Cl 106 / CO2 20 / BUN 35 / Cr 1.8 / BG 150  DISCHARGE [**Month/Day/Year **]: WBC 4 / Hct 33.6 / Plt 180 N 57 / L 36 / M 6 / E 1 / B 0 Na 141 / K 3.7 / Cl 103 / CO2 27 / BUN 34 / Cr 1.4 / BG 84 Ca 8.4 / Mg 2.1 / Phos 3.9  MICROBIOLOGY: [**2196-11-6**] Urine Cx - Klebsiella - pan-sensitive [**2196-11-6**] Sputum Cx - NGTD [**2196-11-6**] Blood Cx - NGTD [**2196-11-8**] Blood Cx - NGTD  STUDIES: [**2196-11-6**] CXR - Stable cardiomegaly.
+Small to moderlate left pleural effusion with overlying atelectasis, again seen.
+Brief Hospital Course: 64yo with history of COPD and atrial fibrillation was admitted with shortness of breath found secondary to pneumonia triggering COPD exacerbation.
+She was also found to have acute renal failure with creatinine to 1.8 associated with a Klebsiella urinary tract infection and marked hyperkalemia to K 8.4.
+Acute exacerbation of COPD The patient was found to have a pneumonia, the likely trigger of her Asthma/COPD exacerbation.
+She was started on Levofloxacin for treatment of community acquired pneumonia and given a dose of IV steroids in the ED.
+Ms. [**Known lastname **] does have a history of diastolic heart failure and presented with an elevated BNP in the 3000s; however, she was found to be dry clinically and was not believed to have an acute exacerbation of her heart failure.
+Her BNP was likely elevated as a result of right heart strain in the setting of acute pneumonia and COPD exacerbation.
+The patient has a baseline O2 requirement of 3L on nasal cannula at home; she was saturating at 98-100% on 2L nasal cannula upon discharge.
+She is also on ceftriaxone and azithromycin for treatment of community acquired pneumonia.
+Acute renal failure: The patient's baseline Cr is 0.9 - 1.1, and her Cr in the ED was found to be elevated to 1.8.
+Her history suggests that she had poor PO intake for several days prior to admission; her ARF was likely of prerenal etiology and secondary to continued diuretic use in the setting of decreased PO intake.
+Patient has a history of diastolic heart failure and remarkable lower extremity edema in the past.
+She was taking KCl 20 mg po bid and aldactone 100 mg po daily as an outpatient which likely contributed to her hyperkalemia in the setting of ARF.
+She was admitted directly to the ICU, where she was treated with further insulin, dextrose, bicarbonate, adn kayexalate; her potassium responded well and was brought down to 4.8 by the next afternoon, so she was transferred to the floor.
+Urinary tract infection: The patient was found to have a urinary tract infection; the levofloxacin and ceftriaxone she was getting for pneumonia adequately covered for her urinary tract infection.
+She did describe symptoms of urinary retention and overflow incontinence, which would increase the risk of urinary tract infection.
+Muscle Weakness: The patient complained of symptoms of proximal muscle weakness, which started the day she was admitted, likely related to her hyperkalemia.
+Her symptoms subjectively improved somewhat as her potassium level decreased, which would not be consistent with a spinal nerve compression.
+The patient stated that the last time she used steroid therapy for her COPD was about 1 year ago, so she was unlikely to have steroid-induced myopathy.
+She showed no clinical evidence of bleeding, though she had a known GI bleed in the past.
+Leukopenia Patient's WBC has ranged between [**3-9**] primarily in the past and was stable in this range during this hospitalization.
+Atrial Fibrillation She has atrial fibrillation and is on rate control with both metoprolol and diltiazem.
+Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1) neb Inhalation Q4H (every 4 hours) as needed for shortness of breath, wheezing.
+Pneumonia 2.
+COPD, Acute Exacerbation 3.
+Acute Renal Failure 4.
+Hyperkalemia 5.
+Urinary Tract Infection 6.
+Atrial Fibrillation  SECONDARY DIAGNOSIS: 1.
+Anemia 2.
+Discharge Instructions: You were admitted to the hospital for treatment of shortness of breath.
+For your shortness of breath, you were thought to have a pneumonia and COPD exacerbation.
+You were also found to have kidney failure and urinary tract infection.
+You were treated with a urinary tract infection which is now much improved.
+Likewise your kidney failure is much improved.
+- diltiazem - we have increased this medication to 360mg daily, which is increased from 180mg daily.
+- aldactone - we have stopped this medication due to your elevated potassium levels.
+- prednisone - this is a steroid to help treat your COPD exacerbation.
+Please seek immediate medical attention if you develop fevers, shaking chills, night sweats, worsened shortness of breath, worsened cough, increased lower extremity swelling, light-headedness, \ passing out, or muscle aches.

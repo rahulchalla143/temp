@@ -1,0 +1,49 @@
+Admission Date:  [**2102-4-6**]              Discharge Date:   [**2102-4-14**]   Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**Last Name (NamePattern4) 290**] Chief Complaint: Dyspnea  Major Surgical or Invasive Procedure: Endotracheal intubation Flexible bronchoscopy [**2102-4-8**]  History of Present Illness: Ms. [**Known firstname 79145**] is a [**Age over 90 **] year-old female with a history of HTN, DM, ?chronic aspiration, and Alzheimer's dementia who was transferred from the ED intubated after presenting with hypoxia and tachypnea.
+She was in her usual state of health until two days ago when she began experiencing a nonproductive cough and dyspnea.
+She appeared to be in acute respiratory distress, with increased work of breathing.
+She was started on levofloxacin and ceftriaxone and intubated because of worsening tachypnea and hypoxia and then transferred to the [**Hospital Unit Name 153**].
+Review of systems is otherwise negative for fevers, chills, arthralgias, nausea, vomiting, diarrhea, and chest pain.
+Ms. [**Known lastname 22114**] has chronic constipation at baseline.
+Past Medical History: HTN DM2 (diet controlled) ?Chronic aspiration Alzheimer's dementia Breast cancer (diagnosed seven years ago) Lower back pressure ulcer  Social History: Ms. [**Known lastname 22114**] is Russian speaking and wheelchair bound at baseline.
+Family History: No heart disease or diabetes.
+No conjunctival pallor.
+No scleral icterus.
+Neck Supple, No LAD, No thyromegaly.
+No murmurs, rubs or [**Last Name (un) 549**].
+No HSM EXTREMITIES: Muscle wasting, no edema or calf pain, 2+ dorsalis pedis/ posterior tibial pulses.
+Pertinent Results: [**2102-4-14**] 04:13AM BLOOD WBC-10.9 RBC-4.05* Hgb-12.3 Hct-37.3 MCV-92 MCH-30.4 MCHC-33.0 RDW-14.5 Plt Ct-384 [**2102-4-6**] 04:15PM BLOOD WBC-15.7*# RBC-4.37 Hgb-13.5 Hct-40.0 MCV-92 MCH-30.9 MCHC-33.8 RDW-15.1 Plt Ct-351 [**2102-4-10**] 03:38AM BLOOD Neuts-72.0* Lymphs-21.0 Monos-4.8 Eos-1.9 Baso-0.3 [**2102-4-11**] 03:39AM BLOOD PT-13.5* PTT-25.8 INR(PT)-1.2* [**2102-4-14**] 04:13AM BLOOD Glucose-123* UreaN-25* Creat-1.1 Na-141 K-4.2 Cl-97 HCO3-36* AnGap-12 [**2102-4-8**] 04:44AM BLOOD ALT-38 AST-30 LD(LDH)-159 AlkPhos-134* TotBili-0.3 [**2102-4-6**] 04:15PM BLOOD cTropnT-<0.01 [**2102-4-6**] 04:15PM BLOOD CK-MB-NotDone proBNP-5423* [**2102-4-13**] 04:48AM BLOOD Calcium-8.6 Phos-2.6* Mg-2.2 [**2102-4-12**] 03:12PM URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.010 [**2102-4-12**] 03:12PM URINE Blood-MOD Nitrite-NEG Protein-30 Glucose-NEG Ketone-10 Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-SM [**2102-4-12**] 03:12PM URINE RBC-92* WBC-14* Bacteri-FEW Yeast-NONE Epi-0  Urine, Blood and sputum cultures negative  Studies: ECHO: EF 70-75%, Preserved regional and global biventricular systolic function.
+Severe pulmonary hypertension.
+Moderate mitral regurgitation.
+Mild to moderate functional mitral stenosis from mitral annular calcification.
+Mild to moderate tricuspid regurgitation.
+Limited evaluation of gallbladder without evidence of cholelithiasis.
+Mass and hepatic calcifications are better evaluated on concurrent CT abdomen.
+Splenic calcifications suggest prior granulomatous disease.
+Large to moderate amount of bilateral pleural effusion associated with adjacent atelectasis.
+Multifocal areas of consolidation of right upper lobe, right middle lobe, and both lower lobes are probably related to pneumonia.
+Known mass in left axilla that seems to be invading the left breast.
+Multiple calcified nodules in the liver and spleen suggest prior granulomatous exposure.
+Hypodense mass in right hepatic lobe.
+CXR [**2102-4-13**]: There is interval development of new whiteout of right hemithorax with right mediastinal shift, finding consistent with a complete atelectasis of the right lung.
+Given the rapid development it is consistent with a mucus plug aspiration.
+The left lung aeration is preserved and demonstrates the presence of a mild to moderate pulmonary edema.
+A left pleural effusion is present.
+Brief Hospital Course: Ms. [**Known lastname 22114**] is a [**Age over 90 **] year-old female with a history of HTN, DM, ?chronic aspiration, and Alzheimer's dementia who was transferred from the ED intubated after presenting with hypoxia and tachypnea.
+Respiratory failure/Pneumonia:  Patient presented with hypoxia and tachypnea and chest radiograph c/w a LUL consolidation pneumonia.
+She was started on ceftriazone/azithromycin for community acquired pneumonia on presentation.
+On her second hospital day her chest radiograph changed significantly with the consolidation in her left upper lobe generally resolving suggesting this was more consistent with mucous plugging and volume loss.
+She went on to have a CT scan that showed multifocal pneumonia as well as probable pulmonary edema with large bilateral pleural effusions.
+Given that her pulmonary edema and large pleural effusions were likely contributing to her volume loss and respiratory compromise an attempt was made to diurese with furosemide boluses, to which she responded well with decreasing oxygen requirements, down to 4L NC at dischage.
+Pt also had intermittent lobar collapse, thought to be due to mucous plugging and aspirating of secretions.
+Hypertension:  The patient has severe and labile hypertension and was continued  on an aggressive anti-hypertensive regimen at home including beta [**Last Name (LF) 7005**], [**First Name3 (LF) 14595**]-1 [**First Name3 (LF) 7005**], CCB, and ACE inhibitor.
+In the setting of diuresis, pt was intermittently hypotensive requiring fluid boluses.
+Alzheimer's dementia:  The patient has severe dementia at baseline, but is on no treatment for this at home.
+As of extubation her mental status was at baseline (opens eyes to voice but does not interact or follow commands).
+Breast cancer:  The patient has a necrotic mass in her left axilla of locally advanced breast cancer.
+No aggressive therapies are being pursued.
+Discharge Disposition: Extended Care  Facility: [**Hospital6 459**] for the Aged - MACU  Discharge Diagnosis: Pneumonia  Secondary: Hypertension   Discharge Condition: Stable, breathing comfortably on 4L NC.
+Discharge Instructions: Ms [**Known lastname 22114**]: You were admitted with shortness of breath and low blood oxygen levels and you were intubated (a breathing tube was placed) in the emergency room because of your shortness of breath.
+You were found to have a pneumonia and you were treated with antibiotics.
+Your pneumonia improved, but you continued to be short of breath due to aspiration of your saliva and heart failure.
+Because your cough is very weak you continued to have difficulties during this admission with secretions, and several times your secretions would fill your airway and cause collapse of the lung which we would then see on xray.
+Adhere to 2 gm sodium diet Fluid Restriction: 1.5 L. If you develop shortness of breath, chest pain, or any other concerning symptom please call your primary care doctor or return to the hospital.

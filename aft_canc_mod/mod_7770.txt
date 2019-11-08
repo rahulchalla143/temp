@@ -1,0 +1,51 @@
+Admission Date:  [**2133-3-15**]              Discharge Date:   [**2133-4-5**]   Service: CARDIOTHORACIC  Allergies: Codeine / Cortisone / Lipitor / Lisinopril  Attending:[**First Name3 (LF) 922**] Chief Complaint: SOB/edema  Major Surgical or Invasive Procedure: s/p CABGx3(LIMA->LAD, SVG->[**Last Name (LF) **], [**First Name3 (LF) **])/MV repair(26mm annuloplasty band)/MAZE [**3-23**]  History of Present Illness: 84 Y F w/ hx afib on coumadin/amio, diastolic heart failure, admitted [**2133-3-15**] with flash pulmonary edema in setting of hypertensive emergency.
+Pt felt very itchy, with headache, rapid heart rate and SOB; thought related to not taking hydroxyurea, as that has helped with her itchines in the past but became progressively more short of breath and decided to call EMS.
+Per Dr. [**Name (NI) 93802**] note she had a recent stress with possible RCA stenosis and moderate AS.
+Pt denies any dietary indiscretion, any medication changes other than beging started on Levothyroxine and aspirin 81mg recently.
+She denies any weight changes or increased lower extremity edema.
+Past Medical History: - Diastolic and systolic CHF EF 45% 10/07 TTE, diastolic CHF 65% on pMIBI [**10-16**] - AFIB on coumadin - Mild AS - TIA [**4-12**] - Polycythemia [**Doctor First Name **] - phlebotomized in past, maintained on hydroxyurea - HTN - Hypercholesterolemia - Cataracts - LBBB, first degree AV block - Asthma - diagnosed in her 70s - Peripheral neuropathy   Social History: Lives alone in [**Location (un) **], independent ADLs, previously worked as  a bookkeeper.
+Echo ([**2133-3-16**]): The left atrium is mildly dilated.
+The right atrium is moderately dilated.
+There is mild symmetric left ventricular hypertrophy with normal cavity size and global systolic function (LVEF>55%).
+The aortic valve leaflets (3) are mildly thickened.
+There is a minimally increased gradient consistent with mild aortic valve stenosis (valve area 1.4cm2) The mitral valve leaflets are mildly thickened.
+Moderate (2+) mitral regurgitation is seen.
+There is mild pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+However, there are still signs of interstitial fluid overload and a clear cardiomegaly.
+No evidence of pleural effusions.
+Evaluate for effusion and lead placement.
+There is slight increase in size of the bilateral moderate pleural effusions left greater than right.
+There is linear atelectasis in the left base.
+DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 10270**]  [**Hospital1 18**] ECHOCARDIOGRAPHY REPORT  [**Known lastname **], [**Known firstname 10900**]       [**Hospital1 18**] [**Numeric Identifier 93803**]Portable TTE (Complete) Done [**2133-3-26**] at 5:36:58 PM      FINAL Referring Physician     [**Name9 (PRE) **] Information [**Name9 (PRE) **], [**First Name3 (LF) 177**] [**Hospital Unit Name 927**] [**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2048-6-27**] Age (years): 84 F  Hgt (in): 63 BP (mm Hg): 84/53  Wgt (lb): 180 HR (bpm): 88  BSA (m2): 1.85 m2 Indication: H/O cardiac surgery.
+Left ventricular function.
+ICD-9 Codes: 414.8, 424.0 Test Information Date/Time: [**2133-3-26**] at 17:36    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 171**], MD Test Type: Portable TTE (Complete) Son[**Name (NI) 930**]: [**First Name8 (NamePattern2) 4134**] [**Last Name (NamePattern1) 4135**], RDCS Doppler: Full Doppler and color Doppler Test Location: West SICU/CTIC/VICU Contrast: None Tech Quality: Suboptimal Tape #: 2008W032-0:40 Machine: Vivid [**6-15**] Echocardiographic Measurements Results  Measurements  Normal Range Left Ventricle - Ejection Fraction:  >= 55%  >= 55% Aorta - Sinus Level:  3.0 cm  <= 3.6 cm Aorta - Ascending:  *3.8 cm  <= 3.4 cm Aorta - Arch:  3.0 cm  <= 3.0 cm Aortic Valve - Peak Velocity:  1.2 m/sec  <= 2.0 m/sec Mitral Valve - Mean Gradient:  2 mm Hg Mitral Valve - E Wave:  1.3 m/sec Mitral Valve - E Wave deceleration time:  *315 ms  140-250 ms TR Gradient (+ RA = PASP):  *30 mm Hg  <= 25 mm Hg  Findings This study was compared to the prior study of [**2133-3-16**].
+Abnormal diastolic septal motion/position consistent with RV volume overload.
+Mildly dilated ascending aorta.
+AORTIC VALVE: Moderately thickened aortic valve leaflets.
+Borderline PA systolic hypertension.
+Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded.
+There is abnormal diastolic septal motion/position consistent with right ventricular volume overload.
+The ascending aorta is mildly dilated.
+Significant aortic stenosis is present (not quantified).
+No aortic regurgitation is seen.
+A mitral valve annuloplasty ring is present.
+Trivial mitral regurgitation is seen.
+There is borderline pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+Normally-functioning mitral annuloplasty ring.
+Magnitude of aortic stenosis is likely similar, but was not quantified as well on the current study.
+CXR showed new pulmonary edema.
+She was then started on a Lasix gtt and also on a Nitro gtt for persistent hypertension with pressures in the 200 which subsequent pressures in the 120 range.
+An EKG showed lateral STD in the setting of hypertensive emergency.
+She has remained afebrile and without focal signs of infection although yesterday pm had a rise in WBC to 16  Labs on presentation also notable for an INR of 4 on presentation, coumadin was held.
+unclear what caused acute exacerbation (ischemia vs. hypertensive crisis).
+Pt had negative enzymes, and no EKG changes but transferred to [**Hospital Ward Name 121**] 3 for possible cath given recent stress with possible RCA lesion as culprit and no other clear source of acute HF.
+Pt was kept there for 2 days while waiting for INR to drift down and giving vit K for this so she could proceed to cardiac catheterization (She has history of Afib on coumadin) She was found to have 3VD on cath on [**2133-3-19**] (70% LAD, 90% LCx, 60% RCA) --> therefore the plan was for CABG the following monday with possble mitral valve replacement given significant MR.
+Her aorta pressures were elevated to 180's at the time of cath and she developed flash pulmonary edema and SOB.
+She was continued on ASA, no beta blocker since borderline bradycardic, no statin since LDL 76 in [**10/2132**] off statins and no acute MI.
+Workup for CABG was completed wiht carotid u/s without stenosis, vein mapping performed and lesser saph identified, LFTs WNL, albumin WNL, HbA1c WNL, Dental constult ok.  On [**3-21**] pt became dehydrated and orthostatic, feeling lightheaded and with a vagal response when standing up.
+Postoperatively her rhythm was asystolic recovering to junctional then slow atrial fibrillation, for which she was unsuccessfully cardioverted.
+Electrophysiology was consulted and on [**2133-3-27**] a PPM was placed.She was anticoagulated with Coumadin and Heparin for underlying AFib.
+Discharge Disposition: Extended Care  Facility: [**Hospital6 459**] for the Aged - MACU  Discharge Diagnosis: s/p  CABG x3/MV repair (26 mm annuloplasty)/MAZE/hypothyroidism, asthma, CHF, AF, TIA, polycythemia [**Doctor First Name **], HTN, ^chol., peripheral neuropathy, cataracts, s/p bil.
+rotator cuff injuries   Discharge Condition: good   Discharge Instructions: Please shower daily including washing incisions, no baths or swimming Monitor wounds for infection - redness, drainage, or increased pain Report any fever greater than 101 Report any weight gain of greater than 2 pounds in 24 hours or 5 pounds in a week No creams, lotions, powders, or ointments to incisions No driving for approximately one month No lifting more than 10 pounds for 10 weeks Please call with any questions or concerns [**Telephone/Fax (1) 170**]   Followup Instructions: Dr [**Last Name (STitle) 914**] in 4 weeks ([**Telephone/Fax (1) 170**]) please call for appointment  Dr [**Last Name (STitle) 1270**] in 1 week ([**2133**]) please call for appointment Wound check appointment [**Hospital Ward Name 121**] 2 as instructed by nurse ([**Telephone/Fax (1) 3071**]) Already scheduled appointments: Provider:  [**Name10 (NameIs) 676**] CLINIC Phone:[**Telephone/Fax (1) 59**] Date/Time:[**2133-4-3**] 9:00 Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 9052**], MD Phone:[**Telephone/Fax (1) 22**] Date/Time:[**2133-4-17**] 10:30 Provider: [**First Name8 (NamePattern2) 161**] [**Name11 (NameIs) 162**] [**Name8 (MD) 163**], MD Phone:[**Telephone/Fax (1) 921**] Date/Time:[**2133-4-20**] 3:30    Completed by:[**2133-3-31**

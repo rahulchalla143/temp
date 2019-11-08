@@ -1,0 +1,31 @@
+Admission Date:  [**2114-8-14**]              Discharge Date:   [**2114-8-23**]  Date of Birth:  [**2073-10-3**]             Sex:   F  Service: MEDICINE  Allergies: Bactrim  Attending:[**Doctor Last Name 10493**] Chief Complaint: fever  Major Surgical or Invasive Procedure: Left above knee amputation  History of Present Illness: 40 year old woman with multiple medical problems including DMI, sCHF EF 40%, h/o MDR recurrent UTIs, PVD (s/p b/l [**Doctor Last Name 6024**]) with non-healing stump wound infection, presents from [**Hospital **] clinic (saw Dr. [**Last Name (STitle) 9461**] where she was noted to be febrile and labs revealed acute kidney injury with leukocytosis.
+She is scheduled for left stump revision [**2114-8-24**] to revise non-healing ulcerative wound.
+She has had several episodes of diarrhea over the past 4 days, no melena/hematochezia or associated abdominal pain, N/V.
+She denies F/C, CP/SOB or cough, dysuria or hematuria.
+Labs revealed leukocytosis and [**Last Name (un) **] with hyperkalemia 7.0 (no ECG changes).
+Past Medical History: --Diabetes mellitus type I (last A1c was 7.9% [**2113-8-31**]) --Peripheral [**Month/Day/Year 1106**] disease s/p bilateral BKAs --Systolic CHF (EF=40% in [**6-/2113**]) --NSTEMI in [**12/2111**] in the setting of [**Year (4 digits) 6024**] --MRSA empyema in left lower lobe and PEA at [**Hospital1 2025**] in [**2112-11-3**] --Recurrent urinary tract infections, growing MDR organisms --Depression --Chronic anemia --Dyslipidemia --Hypertriglyceridemia --h/o retinal detachment in OS --h/o ARDS secondary to sepsis --h/o cocaine abuse   Social History: She lives in an apartment with her 18 yo daughter.
+HEENT: PERRLA, EOMI, MMM, OP no lesions or erythema NECK: Supple HEART: RRR, no MRG LUNGS: CTA bilat, no r/rh/wh, resp unlabored.
+ABDOMEN: Soft/NT, mildly distended, no masses or HSM, no R/G EXTREMITIES: WWP, no c/c/e, 2+ peripheral pulses.
+SKIN: open left [**Year (4 digits) 6024**] stump wound with areas of pustular exudate and granulation tissue, painful to the touch, leg is warm, femoral pulse 1+ NEURO: A&Ox3, CNs II-XII intact, muscle strength 5/5 throughout but limited by pain, sensation grossly intact throughout  DISCHARGE PHYSICAL EXAM: VS: 98.4 144/86 82 18 98% Gen: AOx3, no apparent distress CV: RRR S1/S2 heard.
+Pulm: CTAB no crackles or wheezes Abd: soft, NT, +BS.
+**FINAL REPORT [**2114-8-22**]**     GRAM STAIN (Final [**2114-8-16**]):       NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.
+NO MICROORGANISMS SEEN.
+| AMPICILLIN------------    16 R LINEZOLID-------------     1 S PENICILLIN G----------  =>16 R TETRACYCLINE----------  =>32 R VANCOMYCIN------------       R     ANAEROBIC CULTURE (Final [**2114-8-20**]):    NO ANAEROBES ISOLATED.
+Brief Hospital Course: PATIENT: 40 yo M with DMI, sCHF EF 40%, h/o MDR recurrent UTIs, PVD (s/p b/l [**Month/Day/Year 6024**]) with non-healing stump wound infection, admitted for acute on chronic kidney injury.
+ACUTE ISSUES: # left [**Year (4 digits) 6024**] site osteomyelitis vs. myositis: Ms. [**Known lastname 1683**] presented to the ED with a warm and painful left [**Known lastname 6024**] stump, as well as fever and leukocytosis.
+Her wound was open with pustular exudate and granulation tissue.
+Infectious disease consult suggested that the wound was the most likely cause of her infection, given a normal urinalysis, chest xray, and negative stool c. diff toxin.
+Her inability to heal the left [**Known lastname 6024**] stump was likely related to constant weight bearing.
+She was then transferred to the ICU for post-op monitoring, and then transferred to the floor for pain management.
+# Acute on chronic renal failure: on admission, Ms. [**Known lastname 1683**] [**Last Name (Titles) 32436**]e had increased to 3.6 (baseline 1.7-2.2) and her potassium was 7.0.
+# Bone culture - culture of a bone sample from her AKA grew Enterococcus and coag negative staph.
+Pathology of the amputated bone showed no evidence of osteomyelitis.
+CHRONIC ISSUES: # pain control - phantom limb pain as well as surgery pain.
+PCA pump used while admitted for pain control.
+# diabetes mellitus type 1 - glucose was difficult to control while inpatient given her variable PO intake.
+# sCHF - no evidence of heart failure on this admission.
+Discharge Instructions: Ms. [**Known lastname 1683**], you were admitted for an infection in your left leg.
+We discussed your leg with the [**Known lastname 1106**] surgeons and the infectious disease specialists, who felt that your infection was severe and that you would need another surgery.
+Initially you were transferred to the ICU for monitoring, and then transferred back to the floor.
+We managed your pain with patient controlled analgesia and that transitioned you to oral pain medications.
+There was concern of an infection in the bone biopsy that was sent from your surgery, so you were sent home on IV antiobiotics  Medications: continue your home medication regimen as prescribed by Dr. [**Last Name (STitle) 1007**] START Vancomycin orally 125mg every 6 hours for 21 days START Vancomycin IV 500mg every other day for 7 doses starting [**8-24**] STOP lisinopril  Followup Instructions: Department: INTERNAL MEDICINE When: TUESDAY [**2114-8-28**] at 1:30 PM With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 10491**], MD [**Telephone/Fax (1) 10492**] Building: LM [**Hospital Ward Name **] Bldg ([**Last Name (NamePattern1) **]) [**Location (un) 24**] Campus: WEST     Best Parking: [**Hospital Ward Name **] Garage  Department: INFECTIOUS DISEASES When: [**2114-9-6**] - 11:00am With: [**Name6 (MD) **] [**Name8 (MD) 32437**],MD  Name: [**Last Name (LF) 1391**], [**First Name7 (NamePattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **] Location: [**Hospital1 **] Address: [**Doctor First Name **] STE 5C, [**Location (un) **],[**Numeric Identifier 718**] Phone: [**Telephone/Fax (1) 1393**] When: Wednesday, [**2113-9-12**]:45AM                                [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 10491**] MD, [**MD Number(3) 10495**]

@@ -1,0 +1,45 @@
+Admission Date:  [**2120-12-24**]              Discharge Date:   [**2121-1-10**]  Date of Birth:  [**2055-4-28**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 3276**] Chief Complaint: SOB/fever  Major Surgical or Invasive Procedure: Doboff tube placed by interventional radiology PICC Placement on Right arm Left sided thoracentesis   History of Present Illness: Pt is a 65 y.o male with h.o esophageal ca s/p surgical intervention, chemo/radiation, MI, HTN, HL who presents with SOB/fever/orthopnea.
+Pt is a transfer from OSH where CTA performed showed a large R.sided consolidation with b/l effusion R>L.
+Due to BNP and CXR findings pt was given vanco/levo/ctx for PNA.
+Otherwise denies headache/lh/dizziness/blurred vision/+palpit chronic, -abd pain/n/v/d/c/melena/brbpr, dysuria/hematuria, joint pain/skin rash, +poor po intake.
+Reports sometimes difficulty with swallowing, unsure if chokes/coughs during eating.
+Past Medical History: esophageal ca s/p esophagectomy [**8-5**], radiation+chemo weight loss HTN HL MI [**2109**] s/p CCY   Social History: He is married.
+Family History: His mother is alive at age 88 with breathing difficulties and memory loss and heart problems.
+He has a sister who died at age 61 of pancreatic cancer and a sister who is alive at age 54.
+There is no other family history of breast, ovarian, uterine, or colon cancer.
+neck: +JVP to thyroid cartilage, supple no LAD chest: b/l ae, poor effort, decreased breath sounds RML/RLL, also LLL.
+ECHO [**12-24**]: Compared with the findings of the prior study (images reviewed) of [**2119-9-25**], anteroseptal hypokinesis with focal apical akinesis is now present.
+Bilateral pleural effusions that are increased compared to [**2120-7-30**].
+Compressive atelectasis of the right lower lobe with possible  superinfection.
+Collapse of the distal esophagus and stomach, which precludes evaluation for mass.
+No evidence of intra-abdominal fluid collection or abscess.
+Interval loss of the subcutaneous fat plane in the left mid abdomen.
+Moderate pleural effusions, left greater than right.
+The left effusion is slightly smaller.
+The right pleural effusion is unchanged with persistent loculation laterally.
+Unchanged right lower lobe consolidation.
+Specifically, evaluation for upper abdominal lymphadenopathy is suboptimal.
+Thoracentesis: [**2120-12-30**] 12:37PM PLEURAL WBC-50* RBC-[**Numeric Identifier **]* Polys-6* Lymphs-83* Monos-10* Macro-1* [**2120-12-30**] 12:37PM PLEURAL TotProt-2.7 Glucose-84 LD(LDH)-84 Albumin-1.7 Pleural fluid cytology: NEGATIVE FOR MALIGNANT CELLS.
+Brief Hospital Course: The patient is a 65 year old man with a history of hypertension, hyperlipidemia and esophageal ca s/p surgerical intervention/chemo/radiation, admitted to the ICU with SOB, fever, orthopnea.
+#SOB/fever: CXR on admission with bibasilar opacities; left side noted to be chronic.
+Also, difficult to track esophagus but still a question of fistula or obstruction.
+Additionally, BNP elevated on admission and CHF was also considered (see below).
+A thoracentesis was performed to alleviate some of his SOB/O2 requirement and assess for a malignant effusion.
+Pleural fluid was negative for malignancy, but recurrence was still highly suspected with elevated CEA and continued weight loss.
+#CAD- BNP elevated on admission.
+ECHO showed interval change from previous with moderately-to-severely depressed (ejection fraction 30 percent).
+#Esophageal ca:  Paitent reported extensive weight loss and diminished appetite.
+Oncology was consulted; CEA noted to be elevated at 90.
+# Nutrition: Speech and swallow felt he was too ill for inital evaluation.
+He was made NPO for concern of aspiration risk.
+# Acute likely systolic CHF: Patient with new diagnosis of CHF with pleural effusion and EF of 30%.
+He was diuresed until his Cr elevated slightly, but his effusions remained.
+# Anemia: Iron studies consistent with ACD .
+# Goals of care: as noted above, Dr. [**Last Name (STitle) 3274**] discussed likelyhood of recurrence of cancer given elevated CEA and continued loss of appetite and weight.
+Morphine Concentrate 20 mg/mL Solution [**Hospital1 **]: 10-20 mg PO Q1hrs as needed: for respiratory distress.
+Discharge Disposition: Extended Care  Facility: [**Last Name (un) 14710**] House (Hospice Home) - [**Location (un) 620**]  Discharge Diagnosis: Aspiration Pneumonia weight loss Esophogeal cancer   Discharge Condition: Feeling well, on 3L O2, comfortable.
+Discharge Instructions: You were admitted to the hospital because of shortness of breath.
+While a tap of fluid around your lung did not show malignancy, we continue to suspect that you have a cancer recurrence.
+After discussion with Dr. [**Last Name (STitle) 3274**] about signs that indicate cancer recurrence, it was decided to shift goals of care to comfort oriented care.
+You were given morphine as needed for SOB and other meds as needed for comfort.
+Followup Instructions: Please call Dr. [**Last Name (STitle) 3274**] at ([**Telephone/Fax (1) 3280**] as needed for an appointment.

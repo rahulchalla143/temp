@@ -1,0 +1,48 @@
+Admission Date:  [**2197-7-15**]              Discharge Date:   [**2197-8-7**]  Date of Birth:  [**2135-7-23**]             Sex:   M  Service: OMED  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 6169**] Chief Complaint: facial swelling  Major Surgical or Invasive Procedure: [**7-15**]:Portacath removal from L chest by IR.
+[**7-15**]:IR venogram of SVC with direct clot lysis by TPA.
+[**7-18**]:Repeat venogram and additional clot lysis by TPA.
+History of Present Illness: Mr. [**Known firstname 25368**] [**Known lastname 39602**] is a 61-year- old gentleman with a history of plasmacytoma/multiple myeloma.
+Since then has been fairly well, without major signs/symptoms of his underlying disease.
+He has been extremely fatigued with very little appetite.
+At [**Hospital3 **], pt was noticed to have redness and veins bulging from neck and forehead.
+Family History: Grandfather skin cancer Mother skin cancer Father CAD   Physical Exam: VS  98.3  155/74  81  15  97 RA  GEN lying in bed comfortable NAD SKIN facial erythema HEENT  PEERL, EOMI, MMM, prominent forehead and neck veins, neck supple CV  RRR no m/r/g CHEST: L chest portacath site draining blood bandaged, CTA b/l ABD soft NT ND + BS - HSM EXT  warm no c/c/e NEURO A & O x 3  Pertinent Results: SVC GRAM 1) Thrombosis of the superior vena cava and proximal portions of the right subclavian and internal jugular veins.
+--- CT [**7-15**] IMPRESSION: Bypass of superior vena cava by intravenous contrast with filling of multiple venous collaterals consistent with SVC thrombosis.
+No significant lymphadenopathy identified --- VQ SCAN IMPRESSION: No evidence of pulmonary embolism.
+The left atrium is mildly dilated.
+The aortic valve leaflets (3) are mildly thickened.
+The mitral valve leaflets are mildly thickened.
+Trivial mitral regurgitation is seen.
+No evidence of endocarditis seen.
+--- Tagged WBC SCAN IMPRESSION: 1) No definite evidence of an infectious source.
+2) Resolving small emboli of clumped tracer material --- CT ABDOMEN/CHEST IMPRESSION: 1.
+Left anterior chest wall cystic lesion.
+Small bilateral pleural effusions, new since the prior study.
+--- CXR [**8-1**] IMPRESSION: Bilateral pleural effusions again seen, with slight interval worsening.
+No other interval change.
+---  Brief Hospital Course: A/P 61 yo male with multiple myeloma w/ fractures of humerus and vertebrae status post BMT admitted for SVC thrombosis at portacath s/p thrombectomy and clot lysis w/ TPN.
+SVC thrombosis: His portacath was thought to be the nydus for clot formation as a result of hypercoagulability secondary to underlying malignancy.
+However, while receiving tPA, he began bleeding from the port removal site which was eventually controlled with a pressure dressing.
+Of note, he had residual clot seen in the left brachiocephalic vein and the right internal jugular vein.
+He remained stable, with no additional thrombus or signs of SVC blockage.
+Multiple Myeloma: Patient presented with complaints of back pain, fatigue, and weight loss over the 2 weeks prior to admission.
+Likewise, urine protein electropheresis identified a band containing 70% of the total urine protein and revealed the presence of Bence-[**Doctor Last Name **] proteins.
+Repeat SPEP 10 days later demonstrated an increase in the representation of IgG in total serum protein to 25%, 1968mg/dL, which was concerning for further evidence of relapse.
+FUO: On the day before his SVC stent was placed Mr [**Known lastname 39602**] had a fever to 101.
+On the day of his stent, he was 101 again, then had a 102.3 fever the following day.
+At this point, he had a VQ scan to rule out PE, as he did have clot remaining in his body, but it was negative.
+An echo showed no endocarditis.
+Other possibilities included drug fever and tumor fever.
+Myeloma is not known to cause fever, and especially not fevers to the 103s as he was exhibiting.
+His medication list was reviewed and nothing known to cause fever was found.
+He did have one episode of itchy rash that resolved with Benadryl and a 5% incidence of eos of his diff.
+His portacath removal site was considered as a source and eventual I&D revealed no evidence of infection.
+At this point, there was still no culture growth and no known source of infection, although patient did begin to have occasional episodes of diarrhea, which was ultimately found to be positive for Clostridium difficile.
+Therefore, given the absence of any obvious symptoms or signs of infection or morbidity as a result of the etiology of the fever, all antibiotics were stopped (except for metronidazole), and patient continued to do well with only acetaminophen for treatment of fever.
+His stools were initially guaiac negative, he had no hematuria, hemptysis, or obvious bleeding source.
+Given the lack of evidence for hemolysis or loss of red blood cells, the low blood count was concerning as further evidence of myeloma relapse with marrow infiltration.
+Therefore, it was thought that patient's renal insufficiency was likely a result of multiple rounds of contrast dye insult during initial hospital course.
+Although urine output continued to be adequate, patient's serum creatinine stabilized at ~1.6 (baseline had been 0.7 on admission), which was concerning for an irreversible contrast nephropathy in the setting of likely relapse of myeloma and Bence [**Doctor Last Name **] proteinuria.
+At the time of discharge, patient was continuing to have occasional fevers, but had no signs or symptoms of infection.
+Patient was to return to clinic for follow up of possible myeloma relapse.
+Disp:*30 Tablet(s)* Refills:*0*   Discharge Disposition: Home  Discharge Diagnosis: Clostridium difficile colitis SVC syndrome Plasmacytoma Anemia s/p tPA lysis of SVC clot   Discharge Condition: good  Discharge Instructions: The only medications you're going out on are coumadin and epo.
+Please call your the BMT doctor on call at [**Telephone/Fax (1) 8717**] (ask them to page the BMT doctor on call) or return to the hospital if you experience a fever above 100.4, or have abdominal pain, chest pain, shortness of breath, dizziness, or a recurrence of your face and neck swelling.

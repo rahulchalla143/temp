@@ -1,0 +1,65 @@
+Admission Date:  [**2118-6-22**]              Discharge Date:   [**2118-7-15**]  Date of Birth:  [**2056-5-3**]             Sex:   F  Service: EMERGENCY  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 2565**] Chief Complaint: Failure to wean from mechanical ventilation  Major Surgical or Invasive Procedure: [**2118-6-23**] Dynamic flexible bronchoscopy [**2118-6-27**] Rigid bronchoscopy; decannulation of [**Last Name (un) 295**] tracheostomy tube; flexible bronchoscopy; airway surveillance and therapeutic aspiration; #14 10 x 10 Dumon silicone Y- stent placement.
+Rigid bronchoscopy.
+[**2118-7-11**] PICC placement   History of Present Illness: The patient is a 62F with a medical history of SLE, mechanical ventilation s/p tracheostomy ([**2116**]) with worsening ventilator requirement transferred from outside hospital for interventional pulmonary evaluation.
+She underwent tracheostomy in [**9-/2117**] with unclear etiology of her respiratory failure.
+Per mother no history of respiratory disease but underwent colonoscopy and required intubation during this for respiratory distress.
+While at nursing home became progressively difficult to wean from ventilator, becoming short of breath after several minutes.
+Regarding her outside hospital course, she was found to have multi-drug resistant pseudomonas in her sputum and was treated with ceftazidime and amikacin.
+Per notes there is history of para-esophageal rupture with fluid collection.
+On bronchoscopy appeared to have collapsing distal tracheal walls and proximal mainstem bronchi.
+CT showed chronic appearing infiltrates and possibly decreased airway diameter with extensive vertebral compression fractures also with breast mass (biopsy negative).
+She is transferred to [**Hospital1 18**] for interventional pulmonary evaluation and possible airway stenting.
+On the floor, she has no complaints.
+Past Medical History: Multidrug resistant pseudomonal pneumonia Chronic hypoxemic respiratory failure Tracheobronchomalacia Mixed connective tissue disease Hypothyroidism Diabetes mellitus Depression Anxiety Thoracic spine compression fractures   Social History: Tobacco:non smoker Alcohol: none Lives in nursing home Occupation: Former biochemist   Family History: No lung cancer or congenital lung diseases   Physical Exam: DISCHARGE PHYSICAL EXAM BP 99/69  HR 90s  O2 sat 100% on 50% trach collar GEN: Appears comfortable HEENT: PERRL, sclera anicteric, OP clear with MMM NECK: supple without JVP or LAD CV: regular rate nl S1S2 no m/r/g LUNG: unlabored respiration, good air movement, crackles at bases ABD: soft, NTND normoactive VS SKIN: diaphoretic, no rashes EXT: bilateral 1+ edema, cool, 1+ distal pulses NEURO: Awake, nonverbal, follows commands   Pertinent Results: EMG:  Mildly abnormal study.
+There is no clear electrophysiologic evidence for a generalized polyneuropathy.
+There is very subtle evidence for a mild, proximal myopathy without denervating features; this does not suggest an acute quadriplegic myopathy or critical illness neuromyopathy.
+There is no evidence to suggest a disorder of motor neurons or their axons.
+Repetitive stimulation of the facial nerve did not demonstrate any evidence for a disorder of neuromuscular transmission.
+CT Chest [**2118-6-23**] IMPRESSION: Decreased lung volumes and diffuse ground glass opacity may relate only partially to hypoventilation, in the absence of little clinical history or previous imagig, the differential diagnosis for this appearance is broad.
+It may represent a resolving acute lung injury, diffuse infectious process or COP.
+Comparison with previous imaging would assist in determining the time course and possible etiology of this diffuse abnormality.
+No pulmonary embolism.
+Diffuse ground-glass opacities with subpleural reticular opacities and mild basilar predominance are most consistent with non-specific interstitial pneumonia (NSIP) pattern of interstitial lung disease, without fibrosis.
+Severity and extent is similar to that seen eight days prior, with no new superimposed pulmonary process.
+Tracheostomy tube and tracheal Y stent in place, without evidence of complication.
+Status post distal esophageal resection with gastric pull-up repair, with fluid seen within the dilated esophagus into the upper thorax, increasing risk for aspiration.
+Fat containing hiatal hernia surrounding gastric pull-up.
+Kyphosis, but no retropulsion.
+Mass or post-treatment changes are considerations.
+Recommend correlation with mammography on a non-urgent basis.
+New area of consolidation in the right upper lobe concerning for infection.
+Stable appearance of diffuse ground-glass and reticular opacities which may be seen in nonspecific interstitial pneumonia.
+EEG [**2118-7-8**] IMPRESSION: This is an abnormal EEG due to the presence of background activity that was slower than average and disorganized.
+This pattern may be seen in moderate encephalopathies of toxic, metabolic or anoxic etiology, or may be seen in the context of extensive lesions of bilateral subcortical or deeper midline structures.
+No evidence of ongoing or potential epileptogenesis was seen at the time of this tracing.
+No acute intracranial process.
+Well calcified round lesion in the right frontal lobe.
+[**2118-7-12**]:  CT abdomen/pelvis: No evidence for intra-abdominal abscess or colitis .
+MODERATE GROWTH.
+DORIPENEM SUSCEPTIBILITY REQUESTED BY DR [**Last Name (STitle) 2323**].
+DORIPENEM = NONSUSCEPTIBLE; SENT TO [**Hospital1 4534**] FOR CONFIRMATION.
+MODERATE GROWTH.
+DORIPENEM SUSCEPTIBILITY REQUESTED BY DR [**Last Name (STitle) 2323**].
+DORIPENEM = NONSUSCEPTIBLE; SENT TO [**Hospital1 4534**] FOR CONFIRMATION.
+MODERATE GROWTH.
+DORIPENEM SUSCEPTIBILITY REQUESTED BY DR [**Last Name (STitle) 2323**].
+DORIPENEM = NONSUSCEPTIBLE; SENT TO [**Hospital1 4534**] FOR CONFIRMATION.
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              PSEUDOMONAS AERUGINOSA                              |          PSEUDOMONAS AERUGINOSA                              |          |          PSEUDOMONAS AERUGINOSA                              |          |          | PROTEUS MIRABILI                              |          |          |          |         PSEUD                              |          |          |          |         | AMIKACIN--------------    16 S       16 S       32 I      16 S AMPICILLIN------------                                   =>32 R AMPICILLIN/SULBACTAM--                                      8 S CEFAZOLIN-------------                                    <=4 S CEFEPIME--------------    32 R     =>64 R       16 I      <=1 S    =>64 R CEFTAZIDIME-----------    32 R     =>64 R       16 I      <=1 S    =>64 R CEFTRIAXONE-----------                                    <=1 S CIPROFLOXACIN---------   =>4 R      =>4 R      =>4 R      =>4 R     =>4 R GENTAMICIN------------  =>16 R     =>16 R     =>16 R      <=1 S    =>16 R MEROPENEM-------------     8 I     =>16 R        4 S   <=0.25 S    =>16 R PIPERACILLIN/TAZO----- =>128 R    =>128 R    =>128 R      <=4 S   =>128 R TOBRAMYCIN------------  =>16 R     =>16 R     =>16 R      <=1 S    =>16 R TRIMETHOPRIM/SULFA----                                   =>16 R  Labs at discharge:  WBC  RBC   Hgb   Hct   MCV  MCH   MCHC  RDW   Plt Ct 10.0 2.87* 9.5*  30.6   96  33.0* 34.3  19.0*  205  Glucose UreaN Creat  Na  K    Cl  HCO3 AnGap   921     16   0.4  143 2.8   97  39*   10  TSH 3              Brief Hospital Course: Multidrug resistant pseudomonal pneumonia - Treated with cefepime [**Date range (1) 87401**].
+Chronic hypoxemic respiratory failure - Pressure support was weaned throughout her hospital stay and she tolerated intermittent trach mask for up to 6-8 hour periods prior to discharge.
+Tracheobronchomalacia - Bronchoscopy [**2118-6-23**] showed severe tracheobronchomalacia of distal trachea, right main stem and bronchus intermedius.
+A silicone Y-stent was placed [**6-27**] but subsequently removed [**7-7**] due to migration and intermittent airway obstruction, and a lack of clinical improvement.
+Nicotinic acid deficiency - Undetectable levels of nicotinic acid and nicotinuric acid in the blood.
+Mixed connective tissue disease - Tapered prednisone to 7.5 mg daily.
+Hypothyroidism - Continued levothyroxine.
+Diabetes mellitus - Continued insulin sliding scale.
+Chronic pain secondary to compression fracture - Continued narcotic regimen but discontinued tramadol due to the risk of serotonin syndrome when given with venlafaxine.
+Medications on Admission: - tylenol prn - albuterol Q6hr prn - ascorbic acid 250 daily - mylanta 30ml Q6hr prn - calcium carbonate 500mg daily - clonazepam 1mg po Q12hr - colase 100mg TID - ferrous sulfate 4.2ml daily - lasix 20mg daily - neurontin 600 QID - heparin 5000 SQ TID - vicodin 5mg Q8hr - ibuprofen 200mg Q6hr prn - insulin sliding scale - combivent 4 puff MDI Q6hr - jevity 1.2 calories 65cc/hr - lactobacillus [**Hospital1 **] - levothyroxine 150mcg daily - lorazepam 0.5mg Q6hr prn anxiety - reglan 10mg Q8hr prn - milk of magnesia 10mg daily prn - MVI daily - nystatin 5ml po QID - olanzapine 2.5mg QHS - zofran 4mg Q8hr prn nausea - pantoprazole 40mg [**Hospital1 **] - prednisone 10mg daily - senna 2 tablets [**Hospital1 **] - tramadol 50mg TID - venlafaxine 37.5mg QHS and 50mg daily - polyvinyl alcohol eye drops [**Hospital1 **] prn  Discharge Medications: 1.
+Docusate Sodium 50 mg/5 mL Liquid [**Hospital1 **]: Ten (10) mL PO BID (2 times a day) as needed for constipation.
+Nystatin 100,000 unit/mL Suspension [**Hospital1 **]: Five (5) ML PO QID (4 times a day) as needed for thrush.
+Polyvinyl Alcohol-Povidone 1.4-0.6 % Dropperette [**Hospital1 **]: [**12-4**] Drops Ophthalmic PRN (as needed) as needed for dry eyes.
+Senna 8.6 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+Miconazole Nitrate 2 % Powder [**Last Name (STitle) **]: One (1) Appl Topical [**Hospital1 **] (2 times a day) as needed for redness.
+Milk of Magnesia 400 mg/5 mL Suspension [**Date Range **]: Fifteen (15) cc PO twice a day as needed for constipation.
+Discharge Disposition: Extended Care  Facility: [**Location (un) 32674**] - [**Location (un) **]  Discharge Diagnosis: Multidrug resistant pseudomonal pneumonia Chronic hypoxemic respiratory failure Tracheobronchomalacia Toxic-metabolic encephalopathy Meningioma Mixed connective tissue disease Hypothyroidism Diabetes mellitus   Discharge Condition: Mental Status: Confused - sometimes.
+Discharge Instructions: You were admitted to the hospital with difficulty weaning from the ventilator likely due to a condition called tracheobronchomalacia (TBM).
+You were diagnosed with pneumonia which was treated with antibiotics.

@@ -1,0 +1,50 @@
+Admission Date:  [**2149-10-20**]              Discharge Date:   [**2149-10-25**]  Date of Birth:  [**2086-3-7**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**Last Name (NamePattern1) 1171**] Chief Complaint: SOB, LE edema, decreased urine ouput  Major Surgical or Invasive Procedure: Cardiac catheterization  History of Present Illness: Mr. [**Known lastname 57523**] is a 63 y.o.
+Male w/ DM, ESRD on PD, CABG (15yrs ago), A. fib on Coumadin, CLL who initially presented to [**First Name4 (NamePattern1) 8125**] [**Last Name (NamePattern1) **] w/ 2 weeks of progressive shortness of breath and LE edema.
+The evening prior to admission, he noted some SOB as well as lower extremity edema and decided to come to the ED.
+Although this represents an acute issue he does notice over the past 2 weeks a mild progression of DOE and lower extremity edema.
+He has also noted a decrease in his urinary output, he usually urinates 700cc a day approximately, however over the past 2 weeks he has been putting out 250cc.
+His BUn/Cr were also markedly elevated at 106 and 12.1.
+CBC showed a mild leukocytosis of 11.8, that was neutrophillic (86.3%).
+An EKG showed atrial fibrillation with no acute ST changes.
+CXR showed fluid overload state.
+On the floor, he developed worsening dyspnea and was placed on a non-rebreather mask with O2 saturations in the high 90s.
+He received an 80 mg dose of IV lasix followed by a 120 mg dose of IV lasix with no significant improvement.
+He received a repeat CXR which showed bilateral pulmonary infiltrates that radiology felt was consistent with ARDS.
+Past Medical History: CKD on PD started [**11-21**] DMII HTN CAD, S/P CABG [**2136**] S/P CCY S/P L knee arthroscopy S/P L ankle fx S/P 5th L toe amputation for osteomyelitis H/O "fluid in lungs" Neuropathy Retinopathy   Social History: Married, has grown children, smokes cigars occassionally, rare glass of wine, no drugs   Family History: [**Name (NI) 59483**], Father CAD  Physical Exam: ADMISSION PHYSICAL EXAM VS: T=98.8 BP=162/103 HR=92 RR=16 O2 sat=92% on 2L GENERAL: Caucasian Male laying down in bed in NARD HEENT: Sclera anicteric.
+CARDIAC: Irregularly irregular S1, S2, no m/g/r, RRR LUNGS: Crackles noted mid thorax down b/l ABDOMEN: Soft, NT, ND.
+Selective coronary angiorgraphy in this right dominant system  demonstrated native three vessel coronary artery disease.
+The LMCA had moderate diffuse disease.
+Limited resting hemodynamics revealed moderate systemic arterial systolic hypertension SBP 164 mmHg.
+ECHOCARDIOGRAM The left atrium is moderately dilated.
+There is mild symmetric left ventricular hypertrophy with normal cavity size.
+Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded.
+The aortic root is mildly dilated at the sinus level.
+The ascending aorta is mildly dilated.
+The ascending aorta is mildly dilated.
+The aortic valve leaflets (3) are mildly thickened.
+No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Mild (1+) mitral regurgitation is seen.
+There is no pericardial effusion.
+CHEST X RAY IMPRESSION: No acute intrathoracic abnormality or significant change from prior.
+Male with ESRD on PD [**2-18**] diabetic nephropathy, CAD s/p distant CABG, DM II presenting with hypervolemia in the setting of high sodium intake, with worsening lower extremity edema, worsening short of breath, and reduced urine output.
+Dyspnea/Volume Overload: Patient presented in acute respiratory distress and required a MICU transfer requiring non-invasive ventilation.
+Respiratory distress appeared [**2-18**] fluid overlead.
+Given poor response of UOP to lasix, Renal was consulted to increase PD cycles with concentrated dialysate.
+It was unclear whether worsening renal function or cardiac decompensation caused respiratory distress.
+Lungs with minimal rales at bases.
+Etiology of vol overload thought to be [**2-18**] salt indiscretion and decreased UOP.
+Symptoms improved after dialysis with high osmotic draw.
+We continued with daily weights, fluid restricction to 1.5L, and a low Na and Renal diet.
+# Troponin Leak v. NSTEMI: Pt remains CP free.
+A cath was done in case of NSTEMI, however no intervention was done as existing CAD was seen on cath without focal occlusive lesion requiring stent.
+THe pt was started on plavix, but as there was no NSTEMI and the troponin leak was thought likely [**2-18**] volume overload and cardiac strain, the plavix was d/c'ed prior to discharge.
+# Hypertension: Likely related to volume overload.
+# ESRD on PD: PD tx per renal dialysis team.
+Seems to have stopped bleeding once coumadin was stopped.
+# DM II: continued on home regimen of humalog 70/30, ISS and checked CBGs QID.
+# Atrial fibrillation: Rate controlled.
+Did not feel the need to bridge from heparin to coumadin as pt has not had previous h/o stroke.
+Discharge Disposition: Home  Discharge Diagnosis: Volume overload   Discharge Condition: Mental Status: Clear and coherent.
+You were admitted to [**Hospital1 18**] with shortness of breath thought due to too much fluid.
+We also performed a cardiac catheterization as you had an elevation in your cardiac enzymes.

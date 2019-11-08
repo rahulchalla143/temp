@@ -1,0 +1,93 @@
+Admission Date:  [**2157-8-1**]              Discharge Date:   [**2157-8-18**]  Date of Birth:  [**2083-7-26**]             Sex:   F  Service: MEDICINE  Allergies: Sulfa (Sulfonamide Antibiotics) / Morphine / Erythromycin Base / Desipramine / Ace Inhibitors / Codeine / Nifedipine  Attending:[**First Name3 (LF) 1253**] Chief Complaint: Shortness of breath, tachycardia  Major Surgical or Invasive Procedure: DC Cardioversion   History of Present Illness: 74 yo F with PMH significant for pancreatic CA s/p Whipple's procedure and chemotherapy, HTN, HLD, CKD, DM 2, recurrent C. diff and UTI, and recent left femur fracture, presents with shortness of breath and tachycardia, found to have pulmonary embolism and atrial flutter with RVR.
+Patient reports that she was experiencing shortness of breath this AM at [**First Name4 (NamePattern1) 2299**] [**Last Name (NamePattern1) **] and was noted to be tachypneic up to the 30s.
+Otherwise, reports diarrhea from C. diff, increased upper extremity edema over the past 2 days, and worsening wheeze.
+Of note, patient was found to have a non-occlusive left popliteal DVT on LENI in [**2157-5-29**].
+On [**2157-7-16**], she syncopized and sustained a fall from standing height at rehab, resulting in left oblique displaced comminuted midshaft femur fracture.
+Two day prior to admission, patient noted increased swelling in her upper extemities.
+Also reports having a repeat LENI done of the left leg which showed disappearance of the previously noted DVT.
+CT head was performed to ruled out metastasis which was negative.
+Denied chest pain however does report wheezing and shortness of breath.
+Past Medical History:  - Pancreatitis in [**2156-3-15**] at [**Hospital1 112**].
+MRI/MRCP on [**2156-9-29**] showed a 2 cm cystic mass of the pancreatic head with obstruction of the pancreatic and bile ducts.
+Brushing at the time of ERCP was suspicious for adenocarcinoma.
+She had an EUS on [**2156-11-8**] and FNA biopsy revealed malignant cells consistent with adenocarcinoma.
+Staging CT on [**2156-11-13**] revealed a 1.9 cm x 1.6 cm hypoattenuating pancreatic head mass with post-obstructive pancreatic ductal dilatation to 6mm.
+No evidence of local, hepatic or vascular invasion; scattered celiac axis and porta hepatis LNs measuring up to 1.2 cm.
+She had stayed in Rehab until the  beginning of [**2157-1-12**] and then shortly after she was discharged from rehab, she was admitted to [**Hospital1 **] on [**2157-1-28**] for C diff, UTI and acute renal failure.
+[**2157-3-11**] Cycle 2 Gemzar 800mg/m2 [**2157-3-25**] 2u pRBC tx [**Hospital1 **] [**2157-4-7**] Cycle 3 week 1 Gemzar 800mg/m2 [**2157-4-14**] Cycle 3 week 2 Gemzar 800mg/m2 [**2157-4-21**] Cycle 3 week 3 Gem 800 mg/m2, 25% dose reduction [**2157-4-21**] 2u pRBC tx [**Hospital1 **] [**2157-5-12**] Cycle 4 week 1-delayed by one week due to diarrhea, elevated Cr and fatigue [**2157-5-19**] Cycle 4 Week 2 Gemzar 800mg/m2 [**Date range (1) 29228**] Admitted to [**Hospital1 18**] for chemotherapy induced anemia, transfused 3 units PRBCs, diagnosed with left popliteal DVT, declines anticoagulation [**2157-6-9**] Cycle 5 Week 1 Gemzar 800mg/m2-start 2 weeks on/ 1 week off [**2157-6-23**] 2u pRBC tx [**Hospital1 **] .
+- History of DVT ([**2157-5-29**]) on LENI at [**Hospital1 18**] - Clostridium difficile colitis as above - Stage III chronic kidney disease (baseline Cr 1.7) - Diabetes mellitus type 2 - Hypertension - Hyperlipidemia - Gastroesophageal reflux disease - Diverticulosis with recurrent lower GI bleeding, etiology has been unclear despite workup but presumed diverticular.
+- Renal Stone: Left staghorn calculus - Depression, which is longstanding and difficult to treat.
+- Degenerative joint disease - Gout   Social History: Patient lives alone in [**Location (un) 86**], and relies on her sister for needed support.
+Physical Exam: Adm PE:  General: obese woman, lying in bed, in mild distress HEENT: Sclera anicteric, MMM, oropharynx clear Neck: supple, JVP difficult to appreciate due to body habitus Lungs: Diffuse expiratory wheezes, crackles at both bases CV: Regular and tachycardic, normal S1 + S2, no murmurs, rubs, gallops Abdomen:  soft, distended, well-healed scar, left LLQ with subcutaneous edema, no rebound tenderness or guarding, no organomegaly GU: Foley draining dark fluid Ext: warm, venous stasis changes on right shin, with 2+ edema up to the knee, left leg with surgical scar at knee, in airboot, intact PD pulses  Discharge PE: 97.6  140/86  87  18  97% 2L   Pertinent Results: 1.
+Acute PE involving segmental lower lobe pulmonary arteries.
+Moderate pericardial effusion with possible tamponade given flattening of the interventricular septum.
+Bilateral pleural effusions, lower lobe atelectasis and ground-glass alveolar opacities suggesting mild pulmonary edema.
+Rib lesions as detailed, most focal at the 7th right posterior rib, ??
+- CT head ([**2157-8-1**]): No acute intracranial process.
+- Echocardiogram ([**2157-8-2**]): The left atrium is moderately dilated.
+There is mild symmetric left ventricular hypertrophy with normal cavity size and regional/global systolic function (LVEF>55%).
+The right ventricular cavity is mildly dilated with borderline normal free wall function.
+The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present.
+No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Trivial mitral regurgitation is seen.
+There is borderline pulmonary artery systolic hypertension.
+There is a very small pericardial effusion.
+There is significant, accentuated respiratory variation in mitral/tricuspid valve inflows, likely secondary to a sizeable *pleural* effusion.
+IMPRESSION: Very small pericaridial effusion without tamponade physiology.
+Mild right ventricular systolic dysfunction.
+Preserved global and regional left ventricular systolic function.
+Compared with the prior study (images reviewed) of [**2157-7-18**], right ventricle is slightly hypokinetic.
+Pleural effusion is new.
+[**2157-8-5**] left femur xray: Atherosclerotic vascular calcifications.
+No evidence for hardware loosening or osteolysis.
+Again seen is a spiral distal femoral diaphysis fracture with improved anatomic alignment.
+No significant healing.
+Degenerative changes of the left hip and left knee, not significantly changed.
+There is pulmonary vascular redistribution with perihilar haze and ill-defined vasculature consistent with CHF.
+There is a small left effusion and volume loss in both lower lungs.
+There is still substantial atelectasis at both lung bases and a small left pleural effusion.
+Heart is at least mildly enlarged, but there is no pulmonary edema and vascular congestion is minimal.
+There may have been pulmonary edema previously.
+No pneumothorax.
+[**2157-8-18**] TEE Conclusions No spontaneous echo contrast or thrombus is seen in the body of the left atrium/left atrial appendage or the body of the right atrium/right atrial appendage.
+No atrial septal defect is seen by 2D or color Doppler.
+There are simple atheroma in the descending thoracic aorta and aortic arch to 35 cm from the incisors.
+No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Trivial mitral regurgitation is seen.
+The tricuspid valve leaflets are mildly thickened.
+There is a trivial/physiologic pericardial effusion.
+IMPRESSION: No evidence of spontaneous echo contrast or intracardiac thrombus.
+Simple atheroma in the aortic arch and descending thoracic aorta.
+Anticoagulation:          INR                   Warfarin dose 7/4       3                    4 [**8-16**]       3.3                  3 [**8-17**]       3.8 (am)- 4.7 (pm)   [Vitamin K 1 mg po x1] [**8-18**]       3                    pending  Discharge labs: WBC 5.9  Hgb 11.1  HCT 34.9  PLT 308 Na 141 K 3.7  Cl 109  HCO3 25  BUN 18  Cr 1.5  Glu 63  TSH 12 CA19-9 8  Brief Hospital Course: 74 yo F with PMH significant for pancreatic CA s/p Whipple's procedure and chemotherapy, HTN, HLD, CKD, DM 2, recurrent C. diff and UTI, and recent left femur fracture, presented with shortness of breath and tachycardia, found to have pulmonary embolism and atrial flutter with RVR leading to hypotension requiring transfer to the ICU.
+# Respiratory distress: In part due to fluid overload.
+She was found to have pleural effusions and paricardial effusion (no tampanade).
+Her lasix may need further dose titration for response.
+# Pulmonary embolism: CTA showed right basal segmental PE with ?
+left segmental PE, which corrolates to her presenting symptoms of dyspnea and tachycardia.
+She had a small pericardial effusion on CTA but no tamponade physiology on echocardiogram or pulsus paradoxus (8mmHg -> 8mmHg) exam.
+Pt's INR had become supratherapeutic, likely d/t interaction with amiodarone.
+Please see results section for recent INR's and corresponding warfarin dosing.
+# Aflutter with RVR/Hypotension: On admission, HR >130 with sBP 80-90s.
+Despite amiodarone, she remained in atrial flutter with sustained HR approx 100.
+# Urinary tract infection: Urinalysis on admission was grossly positive.
+Her UA was persistently elevated with leukocytes.
+Given lack of fever or WBC, the decision was made to wait until urine culture resulted before starting antibiotics despite a UA with persistent pyuria.
+# [**Last Name (un) **]: Likely pre-renal secondary to poor forward flow in the setting of afib with RVR and volume overload.Her creatinine peaked at 2.3, five days after contrast load.
+# Anasarca/Edema # Severe malnutrition Pt was treated with IV lasix during this admission to treat severe diffuse edema and whole body fluid overload.
+# C. diff colitis: C. diff toxin positive in [**6-22**] and has long history of C. diff colitis since Whipple procedure in [**2156**].
+Despite treatment with po flagyl, she began to develop severe diarrhea, and c-diff tox screen turned positive (negative earlier in the admission).
+She was changed to po vancomycin, and her diarrhea improved.
+# Type 2 Diabetes: Pt was treated with Lantus and sliding scale insulin during this admission.
+# Left femur fracture on previous admission:  She was seen by orthopaedics who removed sutures/staples.
+# Pancreatic cancer: Followed by Atrius oncologist Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 349**] who followed during the admission.
+Flagyl 500 mg PO q8hr (planned for [**2157-7-20**] - [**2157-8-2**]) 11. senna 8.6 mg PO BID prn constipation 12. bisacodyl 10 mg PO DAILY (Daily) prn constipation 13. oxycodone 10 mg PO Q3H 14.
+Lovenox 40 mg/0.4 mL 1 syringe qd 16. lorazepam 0.5 mg PO Q8H prn for anxiety.
+17. calcium carbonate 200 mg calcium (500 mg) Tablet PO QID (4 times a day) prn for heart burn.
+7. lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for anxiety.
+8. calcium carbonate 200 mg calcium (500 mg) Tablet, Chewable Sig: One (1) Tablet, Chewable PO QID (4 times a day) as needed for heart burn.
+Discharge Disposition: Extended Care  Facility: [**First Name4 (NamePattern1) 533**] [**Last Name (NamePattern1) **] for Extended Care - [**Location 1268**]  Discharge Diagnosis: # Pulmonary embolism # Atrial flutter # C-diff colitis # Anasarca/Edema # Severe malnutrition # Acute renal failure   Discharge Condition: Mental Status: Clear and coherent.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Discharge Instructions: You were admitted with a fast heart rate and were found to have a new pulmomary embolism as well as a heart rhythm called atrial flutter.
+The pulmonary embolism (=blood clot in lung) was treated with heparin and transitioned to coumadin.

@@ -1,0 +1,37 @@
+Admission Date:  [**2138-9-4**]              Discharge Date:   [**2138-9-6**]   Service: MEDICINE  Allergies: Penicillins  Attending:[**First Name3 (LF) 689**] Chief Complaint: Hypotension   Major Surgical or Invasive Procedure: none  History of Present Illness: This is an 86-year-old woman history of [**First Name3 (LF) 499**] cancer s/p resection who presented to her primary care physician [**Last Name (NamePattern4) **] [**9-4**] with a 1-week history of feeling fatigued and increased abdominal distension.
+Per the office note, patient has felt "miserable" with extreme fatigue and weakness for one week.
+She has also had dry cough with occasional left-sided chest pain occurring with cough.
+She endorsed anorexia and minimal urine output.
+She has not had nausea or vomiting, but she has had a few episodes of diarrhea with no significant bleeding.
+In the ED, her initial vitals were significant for hypotension (SBP 90s-100) despite 1.5 liters intravenous fluid.
+Her blood work showed acute kidney injury with a creatinine of 1.7 from baseline 1.0.
+CT [**Last Name (un) 103**]/pelvis with contrast showed numerous enlarged lymph nodes and renal hypodensities.
+As she remained persistently hypotensive after volume rescuscitation in the ED, she was admitted to the intensive care unit.
+At time of admission, she had received 3L IVF, with SBPs ranging 90-100 and very low urine output.
+Denies significant weight loss.
+Past Medical History: --OSTEOPOROSIS: only intermittently on Actonel b/c of GERD --HYPERLIPIDEMIA --HYPOTHYROIDISM --[**Last Name (un) **] CANCER s/p left colonic resection for [**Location (un) **] B tumor, in [**State 2748**]; last surveillance colonoscopy done in [**2136**], notable for ascending and sigmoid diverticulosis --CLAUSTROPHOBIA --CATARACTS --HYPERTENSION --URINARY INCONTINENCE --GASTROESOPHAGEAL REFLUX --HEARING LOSS   Social History: Lives at home with husband.
+Physical Exam: VS: Temp:98.9 BP: 131/73 HR: 76 RR: 20 O2sat: 98%RA GEN: pleasant, comfortable, NAD HEENT: PERRL, EOMI, anicteric, MMM, op without lesions, no supraclavicular or cervical lymphadenopathy, no jvd, no carotid bruits, no thyromegaly or thyroid nodules.
+No rebound tenderness or guarding.
+Well-healed transverse surgical scar over mid-abdomen.
+No secondary excoriations.
+Mild left axis deviation, possibly physiologic.
+No ischemic ST-T wave changes.
+Generalized lymphadenopthy from a coincident nonneoplastic systemic illness may be considered, but felt less likely.
+Chest Radiograph [**2138-9-4**]: IMPRESSION: No acute intrathoracic abnormality.
+Brief Hospital Course: in summary an 86-year-old woman with remote history of [**Year (4 digits) 499**] cancer s/p resection, hypertension, and hyperlipidemia presents from primary care office with one week of increasing abdominal distension, anorexia, fatigue and poor urine output, admitted to the ICU for further work-up of hypotension and acute kidney injury.
+Hypotension: Pt vaguely described intermittent anorexia and mild nausea over the last week, concerning for volume depletion.
+No clear signs of infection, though perhaps symptoms of fatigue, malaise, anorexia, and drenching sweats point to systemic process.
+Not on recent steroid therapy, making adrenal insufficiency less likely.
+Responded well to volume resuscitation, with no need for vasopressors.
+Acute kidney injury (Cr 1.7): likely perfusion-related kidney injury in the setting of poor po intake.
+UA negative, though specific gravity of 1.030 suggests volume depletion.
+FeNa 0.8%, FeUrea 30.6%, consistent with pre-renal state.
+Enlarged abdominal lymph nodes, splenomegaly, thrombocytopenia and atypical lymphocytosis: In setting of one year of drenching night sweats, this is concerning for lymphoproliferative disorder vs hematologic malignancy.
+LDH elevated to 373.
+# Transaminitis: Elevated ALT/AST from prior.
+[**Month (only) 116**] represent viral infection (viral hepatitis vs systemic viral infection).
+No referable symptoms to right upper quadrant.
+# Hyperlipidemia: patient with elevated transaminases; statin and fibrate held as above  Medications on Admission: --Amlodipine 2.5 mg once daily --Atorvastatin 40 mg once daily --Fenofibrate 145 mg once daily --Hydrochlorothiazide 25 mg once daily --Levothyroxine 125 mcg once daily --Lisinopril 40 mg once daily --Metoprolol succinate 75 mg once daily --Potassium chloride 10 mEq once daily --Aspirin 81 mg once daily --Multivitamin once daily --calcium dose unclear --[**Name2 (NI) 42298**]-3 fatty acids dose unclear   Discharge Medications: 1. allopurinol 100 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Discharge Disposition: Home  Discharge Diagnosis: Primary Diagnoses: Hypotension Acute Renal Failure Pelvic and Retroperitoneal Lymphadenopathy  Secondary Diagnoses:   Discharge Condition: Mental Status: Clear and coherent.
+Discharge Instructions: You were admitted to the intensive care unit due to low blood pressure and abnormal kidney function.
+Your liver tests also showed some mild inflammation in your liver.

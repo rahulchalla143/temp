@@ -1,0 +1,58 @@
+Admission Date:  [**2153-12-18**]              Discharge Date:   [**2153-12-19**]  Date of Birth:  [**2096-9-30**]             Sex:   F  Service: MEDICINE  Allergies: Clozapine / Phenothiazines  Attending:[**Last Name (NamePattern4) 290**] Chief Complaint: hypoxia  Major Surgical or Invasive Procedure: none  History of Present Illness: Ms. [**Known lastname **] is a 57yo woman with laryngeal carcinoma s/p recent trach and PEG, schizoaffective disorder, and COPD admitted with hypoxia.
+At the end of [**Month (only) 359**], she was admitted to [**Hospital1 18**] after a laryngeal mass was found on imaging for evaluation of hoarseness.
+Biopsy demonstrated invasive squamous cell carcinoma.
+She had dysphagia and failed her swallow evaluation, so a PEG tube was placed.
+Today, the covering MD [**First Name8 (NamePattern2) **] [**Last Name (Titles) **] was called because of an increased oxygen requirement.
+On ROS, she endorses a cough productive of sputum and a sore throat that comes and goes.
+No fevers or chills.
++20 pound weight loss prior to last hospitalization in [**Month (only) **].
+On exam, she was noted to have some white-colored sputum.
+Past Medical History: Laryngeal squamous cell carcinoma, diagnosed [**2153-11-11**] s/p Trach and PEG [**2153-11-11**] Schizoaffective Disorder with concern for poor ability to make medical decisions - evaluated by psychiatry [**11/2153**] with plan to make decisions jointly between patient, her sister [**Name (NI) 382**] and her mother Coronary Artery Disease s/p MI at age 34 Hypertension Hyperlipidemia COPD, not on home oxygen Crohn's Disease Neurogenic Bladder Osteoarthritis with Back Pain   Social History: Prior to her illness, she lived with her mother, who was recently admitted to [**Hospital1 18**].
+She used to work as a nurse's aide but stopped because of her psychiatric disease.
+Smoked [**1-12**] PPD for 30+ years and quit at the time of diagnosis of her laryngeal cancer.
+Father had heart disease.
+Physical Exam: VS:   98.2   90/63    88    13   92% on 35% by Trach mask GENERAL: Pleasant, thin woman in no distress.
+No scleral icterus.
+No air leak appreciated on exhalation.
+No murmurs, rubs or [**Last Name (un) 549**].
+LUNGS:  Clear to auscultation without crackles or wheezes.
+No HSM EXTREMITIES: No edema or calf pain, 2+ dorsalis pedis SKIN: No rashes/lesions, ecchymoses.
+4/5 strength in UE b/l, both distal and proximal and [**3-15**] in proximal LE b/l and [**4-15**] in distal LE.
+CXR [**12-19**] Question retrocardiac left lower lobe atelectasis versus aspiration versus early pneumonia.
+No pulmonary embolism, aortic dissection, or aneurysm.
+Bibasilar consolidations seen dependently with scattered impacted airways.
+This confluence of findings is most consistent with aspiration.
+Prominent subcarinal lymph node (12mm), appearing new from [**Month (only) **].
+There is mild regional left ventricular systolic dysfunction with severe hypokinesis of the distal septum and apex.
+No aortic regurgitation is seen.
+The mitral valve appears structurally normal with trivial mitral regurgitation.
+There is no mitral valve prolapse.
+The estimated pulmonary artery systolic pressure is high normal.
+There is no pericardial effusion.
+IMPRESSION: Normal left ventricular cavity size with mild regional systolic dysfunction c/w CAD (distal LAD distribution).
+Brief Hospital Course: 57 yo woman with laryngeal cancer s/p trach but not ventilator dependent admitted with hypoxia and hypotension.
+# HYPOXEMIA:  Felt to be most likely COPD exacerbation versus mucous plugging.
+Aspiration pneumonitis was also considered, as patient may have difficulty managing secretions.
+She also had a reported sputum culture from [**2153-12-12**] growing Pseudomonas, but her presentation was felt to be less consistent with pneumonia given her lack of fever and leukocytosis.
+Based on the sensitivity results of the sputum culture, her antibiotics can be narrowed to a single [**Doctor Last Name 360**] as appropriate.
+Other causes of hypoxia were ruled out as follows; CTA was negative for PE, physical exam and TTE were not consistent with heart failure, and influenza DFA was negative.
+# HYPOTENSION (NOT SHOCK): Blood pressure in clinic last week was 128/75.
+Most likely explanation for her hypotension is hypovolemia given that she did not receive receive tube feeds on the day of admission, and appeared dry clinically.
+She had a normal lactate and remained hemodynamically stable throughout admission without any evidence of end organ dysfunction.
+She was treated with IV fluid boluses and her hypotension resolved.
+[**Month (only) 116**] be due to functional decline in setting of long hospitalization and new malignancy.
+Electrolytes remained within normal limits and the patient had no focal neurologic deficits.
+# HTN and possible h/o MI:  EKG at baseline and no evidence of any cardiac dysfunction at present.
+# Anemia:  Baseline hct 30-33, hct at admission was 26.7.
+Recent iron studies suggestive of anemia of chronic disease.
+No evidence of acute blood loss.
+CODE STATUS:  FULL (confirmed)   Medications on Admission: MEDICATIONS at [**Hospital1 **]: ASA 81mg daily Nicoderm 7mg patch daily Zyprexa 2.5mg Q12H Zyprexa 1.25mg Q12H prn Simvastatin 20mg QHS Lansoprazole 30mg daily Atrovent 2 puffs QID prn Albuterol 2 puffs QID prn dyspnea Tylenol prn Multivitamin Lactulose prn Senna prn Docusate prn  ALLERGIES: Clozapine -- lightheadedness, headache Phenothiazine -- "felt drugged"   Discharge Medications: 1.
+Olanzapine 2.5 mg Tablet [**Hospital1 **]: 0.5 Tablet PO BID (2 times a day) as needed for agitation.
+Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization [**Last Name (STitle) **]: One (1)  Inhalation Q3H (every 3 hours) as needed for shortness of breath or wheezing.
+Senna 6.5 % Liquid [**Last Name (STitle) **]: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+Docusate Sodium 100 mg Capsule [**Last Name (STitle) **]: One (1) Capsule PO BID (2 times a day) as needed for constipation.
+Acetaminophen 325 mg Tablet [**Last Name (STitle) **]: 1-2 Tablets PO every [**6-18**] hours as needed for fever or pain.
+CefePIME 2 g IV Q12H Day 1 = [**12-18**], plan to end on [**12-24**]   Discharge Disposition: Extended Care  Facility: [**Hospital3 7**] & Rehab Center - [**Hospital1 8**]  Discharge Diagnosis: Primary Diagnoses: Transient hypoxia, secondary to COPD exacerbation versus mucous plugging Laryngeal squamous cell cancer  Secondary Diagnoses: Schizoaffective disorder, coronary artery disease, hypertension, neurogenic bladder, anemia, GERD, hyperlipidemia.
+Discharge Condition: Vital signs stable, afebrile, A&O x 3, SaO2 100% on trach mask (FiO2 35%)   Discharge Instructions: You have a diagnosis of laryngeal cancer and chronic lung disease, and were admitted to the hospital for low oxygen and low blood pressure.
+You were treated with antibiotics and IV fluids for a possible lung infection and your oxygen levels and low blood pressure improved.
+If you experience shortness of breath, chest pain, abdominal pain, fevers, or if you feel worse in any way, seek immediate medical attention.

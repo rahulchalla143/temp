@@ -1,0 +1,56 @@
+Admission Date:  [**2191-10-21**]              Discharge Date:   [**2191-10-29**]  Date of Birth:  [**2122-1-2**]             Sex:   M  Service: NEUROLOGY  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 6075**] Chief Complaint: aphasia, R sided weakness  Major Surgical or Invasive Procedure: tPA administration  History of Present Illness: 69 yo male w/ PMHx sig for breast ca s/p mastectomy, hepatocellular ca s/p hepatic lobectomy, renal cell ca s/p right nephrectomy and past TIA who p/w acute onset speech difficulties.
+Past Medical History: grade III infiltrating ductal carcinoma s/p mastectomy hepatocellular carcinoma s/p right hepatic lobectomy renal cell ca s/p radical right nephrectomy hemachromatosis, intermittently has phlebotomy type 2 diabetes diagnosed in [**2181**] history of TIA in [**2179**] and takes aspirin daily, apparently has been on coumadin in the past.
+history of a ruptured diverticular disease history of mild COPD hypertension status post motor vehicle accident in [**2144**].
+Physical Exam: On admission:  Vitals: T 97.9; BP 152/72; P 78; RR 16; 97% RA General: lying in bed NAD HEENT: NCAT, moist mucous membranes Neck: supple, no carotid bruit Pulmonary: CTA b/l Cardiac: regular rate and rhythm, with no m/r/g Carotids: no blood flow murmur Abdomen: soft, nontender, non distended, normal bowel sounds Extremities: no c/c/e.
+LOC - 0 LOC ?
+'s - 1 LOC Commands - 2 Best gaze - 0 Visual Fields - 0 Facial paresis - 2 Right arm - 2 Left arm - 0 Right leg - 0 Left leg - 0 Sensory - 0 Language - 1 Dysarthria - 0 Neglect - 1  Total 9  General: lying in bed NAD HEENT: NCAT, moist mucous membranes Neck: supple, no carotid bruit Pulmonary: CTA b/l Cardiac: regular rate and rhythm, with no m/r/g Carotids: no blood flow murmur Abdomen: soft, nontender, non distended, normal bowel sounds Extremities: no c/c/e.
+No left/right mismatch.
+Mild right sided neglect.
+Coordination: [**Doctor First Name **] slightly dysmetric on L, not tested on R.  Gait: deferred.
+Pertinent Results: Admission labs: 137  113  34  164 - - - - - - gluc 164 5.1  15  1.9 Ca: 8.9 Mg: 2.2 P: 3.6  WBC 12.4  HCT 43.8  PLT 291 N:73.0 L:17.1 M:3.4 E:6.1 Bas:0.4  PT: 14.2  PTT: 28.6  INR: 1.3  Radiology: CT head - There is some motion artifact on the examination.
+There is no acute intracranial hemorrhage or shift of midline structures.
+There is no hydrocephalus.
+Hypodensities in the subcortical white matter as described on the earlier studies are unchanged as are hypodensities in the basal ganglia.
+[**Doctor Last Name **]-white matter differentiation appears to still be preserved with no new clear area of acute infarction.
+IMPRESSION: No acute intracranial hemorrhage.
+There is an acute infarction in the left middle cerebral artery territory with focal areas of restricted diffusion seen peripherally in the left MCA distribution near the cranial vertex.
+Additionally, there is a more wedge-shaped area of restricted diffusion in the far posterior left parietal lobe.
+There is some increased FLAIR signal intensity corresponding to areas of restricted diffusion.
+No obvious susceptibility artifacts are identified to suggest hemorrhagic transformation.
+However, there is circumferential mucosal thickening, mild in the right and moderate in the left maxillary sinuses.
+There is also a small amount of fluid seen in the sphenoid sinus.
+MR ANGIOGRAM: There is irregularity and thickening seen of the extracranial left internal carotid artery at the skull base with narrowing of signal intensity in the center of the artery.
+Evaluation for aneurysm is not possible due to the motion artifact.
+Acute infarction of left middle cerebral artery territory as described above.
+Given the multifocal, non-confluent areas of restricted diffusion, this suggests an embolic event.
+No evidence of hemorrhagic transformation.
+MR [**First Name (Titles) 20827**] [**Last Name (Titles) 4059**] irregularity and thickening of the extracranial left internal carotid artery at the skull base.
+There is signal intensity seen throughout the intracranial arterial circulation suggesting no significant stenosis.
+Carotid u/s: No evidence of carotid stenosis bilaterally.
+Repeat HCT [**10-21**]: No acute intracranial hemorrhage.
+Unchanged appearance of probable old infarcts in the frontal lobes, basal ganglia, and pons as described.
+HCT [**10-22**]: Increased hypodensity along the left frontal and parietal regions, consistent with the evolving left MCA stroke.
+New approximately 1.6 x 0.9 cm hyperdensity is seen within the subcortical region of the left parietal lobe, consistent with blood.
+This could represent petechial hemorrhage, although developing hematoma cannot be excluded.
+HCT [**10-23**]: Hypodensity involving the [**Doctor Last Name 352**] and white matter in the left frontal and parietal lobes, consistent with infarction is again demonstrated, not significantly changed compared to the previous study.
+Focal area of hyperdensity in the left superior parietal lobe is also unchanged, consistent with blood products.
+There is no subfalcine herniation, and negigible compression of the left lateral ventricle.
+Opacification in the frontal sinus, ethmoid sinuses, maxillary sinuses, and sphenoid sinus is again demonstrated, most evident in the left maxillary sinus, with some loss of ethmoid septae- has there been prior sinus surgery?
+ECHO: No cardiac source of embolism identified.
+?A possible new distal septal wall motion abnormality may be present.
+MRA: There is an area of suspected high-grade stenosis at the distal left internal carotid artery, as it enters the petrous segment.
+CTA of head:  Brief Hospital Course: Impression: 69yo man w/ PMH significant for breast cancer, renal cell ca, and hepatocellular ca who p/w acute onset difficulty speaking and RUE weakness.
+The most likely etiology of these symptoms was an embloic stroke in the left superior division MCA territory.
+On arrival within the 3hr IV tPA window, he had a head CT showing no evidence of hemorrhage.
+Within one hour of the tPA he seemed to improve, with better language function (able to string short sentences together, approx 7 words long) and improved right arm strength (could hold the arm off the bed and provide some resistance to testing, with persistent hand and wrist weakness).
+He went for MRI which showed evidence of a left MCA stroke consistent with embolic etiology.
+MRA of the brain had a questionable thickening in the left carotid, and this was repeated later in his hospital course.
+He went immediately to carotid u/s for further evaluation, which showed no stenosis.
+A head CT showed no evidence of hemorrhage.
+He had no hypotension.
+His repeat head CT the next day showed a small focus of hemorrhage, but he began to improve.
+An ECHO showed no evidence of PFO, ASD, or thrombus, but did demonstrate a new area of hypokinesis.
+This was followed up with a CTA, which showed significant ICA stenosis.
+Heparin (Porcine) in D5W 100 unit/mL Parenteral Solution Sig: 1100 (1100) units/hour Intravenous  ASDIR (AS DIRECTED): Continue heparin gtt with goal PTT 50-70 until therapeutic INR on coumadin.
+Discharge Disposition: Extended Care  Facility: [**Hospital3 1107**] [**Hospital **] Hospital - [**Location (un) 38**]  Discharge Diagnosis: Stroke  Hepatocellular carcinoma s/p hepatic lobectomy, renal cell cancer s/p right nehprectomy, breast cancer s/p mastectomy, s/p colon resection for diverticulosis, TIA   Discharge Condition: Improved - has some trouble with comprehension, continues to have word finding difficulties, right arm weakness.
+Please return to the emergency department for worsening symptoms or new numbness/tingling/weakness.

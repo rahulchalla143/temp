@@ -1,0 +1,42 @@
+Admission Date:  [**2103-8-26**]              Discharge Date:   [**2103-10-11**]  Date of Birth:  [**2054-6-24**]             Sex:   M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 3913**] Chief Complaint: Epistaxis and petechiae on lower extremities  Major Surgical or Invasive Procedure: s/p splenectomy  History of Present Illness: 49 y/o male with HIV/AIDS, CD4 8, on ART, and diagnosed with DLBCL in [**2103-6-13**], was just discharged home after a lengthy hospitalization during which his lymphoma was diagnosed, and he was started on [**Hospital1 **], received 2 cycles of chemotherapy, finished 2nd cycle (per patient) on [**2103-8-24**].
+Since Friday ([**8-24**]), he noticed intermittent episodes of small amounts of epistaxis from his left nostril which was followed by appearance of petechiae on bilateral lower extremities involving inner aspect of thigh and on shin.
+Past Medical History: #HIV/AIDS--CD4-57/4%, VL [**Numeric Identifier 14614**] on [**2101-10-5**], not on meds since then; Nadir CD4 57 prior to [**5-/2103**] admit, no documented thrush or CMV in past Prior treatment includes: LAM/ZDV/EFV, ?NFV;  TDF/FTC with FD LPV/r (started [**2096-11-26**], stopped [**2096-12-19**] due to diarrhea but restarted by [**1-3**], discontinued by [**7-/2097**]);  TDF/FTC and ATV/r (started [**7-/2098**], self-discontinued [**12/2098**]) RPR non-reactive [**2099-5-5**].
+Physical Exam: VS: Tc 98.1  HR: 82  BP: 104/56  RR: 16  02: 99% RA  GEN: pleasant, A&Ox3, NAD HEENT: NCAT, PERRL, mildly injected conjunctivae b/l, EOMI, sclerae anicteric, neck supple, MMM, poor dentition, no LAD CV: RRR, normal S1, S2, no M/G/R PULM: good air movement, no wheezes, no rales BACK: no focal tenderness, no CVAT, has a small healing ulcer in coccyx measuring 0.5 x 0.5 cm.
+GI: normoactive BS, soft, non-tender, non-distended, no HSP MSK: no joint swelling or erythema EXT: warm and well perfused, no edema, 2+ DP pulses palpable bilaterally, small area of skin breakdown on R knee LYMPH: no cervical, axillary LAD; SKIN: no rashes, no jaundice.
++ petechiae on b/l LE on inner aspect of thigh and over the shin NEURO: AAOx3, 4/5 strength in bil UE, [**5-17**] in RLE, [**4-17**] in L LE; CN intact.
+[**2103-8-18**] Chest X Ray: No evidence for active cardiopulmonary disease.
+Dramatic interval improvement in multiple bilateral ground-glass opacities with minimal if any residual opacities remaining.
+Moderate bilateral effusions with associated atelectasis are non-hemorrhagic.
+[**2103-7-19**]: MR head: Prominence of ventricles and sulci consistent with global cerebral atrophy given the history of HIV/AIDS.
+Few T2 and FLAIR  hyperintensities in the subcortical and periventricular white matter consistent with chronic small vessel ischemic disease.
+[**2103-7-11**] BM biopsy: DIFFUSE INVOLVEMENT BY NON-HODGKIN'S LYMPHOMA (DIFFUSE LARGE B-CELL LYMPHOMA).
+Immunoflourescent test for Pneumocystis jirovecii (carinii) (Final       [**2103-9-6**]):       SPECIMEN NOT PROCESSED DUE TO: QUANTITY NOT SUFFICIENT.
+FUNGAL CULTURE (Final [**2103-9-21**]):       GRAM STAIN OF THIS SPECIMEN INDICATES CONTAMINATION WITH       OROPHARYNGEAL SECRETIONS AND INVALIDATES RESULTS.
+Immunoflourescent test for Pneumocystis jirovecii (carinii) (Final       [**2103-9-17**]):    NEGATIVE for Pneumocystis jirovecii (carinii)..     FUNGAL CULTURE (Final [**2103-10-1**]):       [**Female First Name (un) **] ALBICANS, PRESUMPTIVE IDENTIFICATION.
+ACID FAST CULTURE (Preliminary):    NO MYCOBACTERIA ISOLATED.
+ACID FAST SMEAR (Final [**2103-9-18**]):       NO ACID FAST BACILLI SEEN ON DIRECT SMEAR.
+NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR.
+Screen predicts possible synergy with selected          penicillins or vancomycin.
+Screen predicts possible synergy with selected          penicillins or vancomycin.
+GRAM POSITIVE COCCI IN PAIRS AND CHAINS.
+Anaerobic Bottle Gram Stain (Final [**2103-10-5**]):       GRAM POSITIVE COCCI IN PAIRS AND CHAINS.
+[**2103-10-11**] 06:10AM BLOOD WBC-12.2* RBC-2.11* Hgb-6.1* Hct-19.7* MCV-93 MCH-29.0 MCHC-31.2# RDW-17.6* Plt Ct-13*  Brief Hospital Course: Mr. [**Known lastname 14619**] is a 49 y/o M with AIDS, DLBCL, discharged from [**Hospital1 18**] (treated for AIDS dementia, cerebral histoplasmosis, DLBCL) on [**2103-8-25**], returned from nursing home on [**2103-8-26**] with petechiae, epistaxis and thrombocytopenia (plt count at 1), s/p open splenectomy on [**9-13**] for refractory ITP, complicated by hypoxemic respiratory failure requiring intubation, now s/p extubation and received ICE chemotherapy for DLBCL  complicated by persistent VRE bactermia which resulted in his death.
+#.thrombocytopenia/ITP- The patient presented with petechiae, epistaxis and a platelet count at 1.
+During the patient prior hospitalization, he became refractory to platelet transfusions, and an anti-platelet antibody screen was found to be positive.
+The splenectomy was complicated post-op by a large incision hematoma and hypoxemic respiratory failure requiring intubation (see below).
+#.DLBCL-  A bone marrow on [**2103-9-6**] demonstrated hypocellular regenerating marrow, but no diagnostic morphologic nor immunophenotypic evidence of lymphoma.
+Yet, circulating atypical lymphoma cells were present on peripheral blood smears.
+A peripheral smear on [**2103-10-8**] demonstrated findings consistent with involvement by previously diagnosed CD5 positive large B-cell lymphoma.
+#.Hypoxemic Respiratory Failure- On [**2103-9-15**] (post op day 2), the patient was transferred to the ICU for altered mental status, fever, and hypoxemic respiratory failure.
+A CXR was concerning for LLL infiltrate/pneumonia, and a BAL was performed, which grew only normal respiratory flora.
+The patient was palliatively extubated on [**9-22**] and his mental status improved.
+#.Fever/Bactermia- The patient was neutropenic after receiving ICE therapy on [**9-22**].
+[**Name (NI) 14624**] Pt found to be persistently bacteremic with VRE despite linezolid therapy.
+Bicarbonate decreased to 10 and pt became increasingly tachypneic.
+Pt did not want further invasive testing and pt would not likely survive any aggressive intervention.
+Pt's blood pressure dropped, breathing worsened, and pt was unresponsive to painful stimulus or verbal cues by the afternoon of [**2103-10-11**].
+Disp:*90 ML(s)* Refills:*2* 12. quetiapine 25 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) as needed for insomnia.
+)(s)* Refills:*2* 15. senna 8.6 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day) as needed for constipation.
+Disp:*60 Tablet(s)* Refills:*0* 16. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO TID (3 times a day) as needed for constipation.
+Disp:*90 Capsule(s)* Refills:*0* 17. lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO once a day as needed for constipation.
+Disp:*qs * Refills:*0*   Discharge Medications: none  Discharge Disposition: Expired  Discharge Diagnosis: diffuse large b-cell lymphoma thrombocytopenia anemia vancomycin-resistant Enterococcal bacteremia hypoxemic respiratory failure idiopathic thrombocytopenic purpura splenectomy with subsequent incisional hematoma HIV/AIDS death  Discharge Condition: death  Discharge Instructions: none  Followup Instructions: none

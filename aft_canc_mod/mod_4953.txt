@@ -1,0 +1,64 @@
+Admission Date:  [**2198-5-31**]              Discharge Date:   [**2198-6-28**]  Date of Birth:  [**2128-11-29**]             Sex:   F  Service: SURGERY  Allergies: aspirin  Attending:[**First Name3 (LF) 14255**] Chief Complaint: Acute Renal Failure  Major Surgical or Invasive Procedure: [**2198-6-1**] Diagnostic Paracentesis [**2198-6-21**] EGD: feeding tube placement, duodenal polyp biopsy [**2198-6-22**] EGD: duodenal stalk identified as source of melena, endoclip placed  History of Present Illness: Patient is a 69yo F with history of schistosomiasis cirrhosis c/b diuretic refractory ascites, portal hypertension and encephalopathy currently on transplant list, IDDM, HTN and HLD who was directly admitted from home by Dr. [**Last Name (STitle) **], outpatient Hepatologist for acute renal failure.
+Patient was recently discharged from [**Doctor Last Name 3271**]-[**Doctor Last Name 679**] service on [**2198-5-25**] where she was admitted for abdominal distension.
+Diuretics were not restarted and no medication changes were made.
+Diuretics were discontinued [**2198-5-9**] because acute renal failure.
+No documentation of creatinine on admission as labs drawn at another facility and faxed to Dr.[**Name (NI) 9920**] office.
+Patient does endorse occasional lightheadedness and occasional back pain.
+Past Medical History: - Schistosomiasis complicated by cirrhosis and ascites requiring  multiple large-volume paracenteses - Hepatic encephalopathy - Hypertension - IDDM - Dyslipidemia - Nephrolithiasis  Social History: Originally from [**Male First Name (un) 1056**], moved to the US in [**2157**].
+Tanned and mildly jaundice with some sclera icterus HEENT: Sclera slightly icteric.
+RRR, S1 S2 clear and of good quality without murmurs, rubs or gallops.
+CTAB, no crackles, wheezes or rhonchi.
+Dullness to percussion over dependent areas but tympanic anteriorly.
+EXTREMITIES: Warm and well perfused, no clubbing or cyanosis.
+No asterixis  Discharge Exam: Expired  Pertinent Results: Admission Labs: [**2198-5-31**] 08:12PM BLOOD WBC-4.7 RBC-2.65* Hgb-8.4* Hct-27.2* MCV-103* MCH-31.5 MCHC-30.7* RDW-18.0* Plt Ct-92* [**2198-5-31**] 08:12PM BLOOD PT-21.4* PTT-41.8* INR(PT)-2.0* [**2198-5-31**] 08:12PM BLOOD Glucose-184* UreaN-28* Creat-2.0* Na-128* K-5.0 Cl-97 HCO3-22 AnGap-14 [**2198-5-31**] 08:12PM BLOOD ALT-30 AST-69* LD(LDH)-282* AlkPhos-199* TotBili-6.1* [**2198-5-31**] 08:12PM BLOOD Albumin-3.7 Calcium-9.8 Phos-2.7 Mg-2.2  Paracentesis Fluid: [**2198-6-1**] 02:51PM ASCITES WBC-250* RBC-2825* Polys-21* Lymphs-16* Monos-62* Mesothe-1* [**2198-6-1**] 02:51PM ASCITES TotPro-1.0 Albumin-LESS THAN  Discharge Labs: Expired *****************  Reports:  Chest x-ray [**2198-6-13**] Moderate to severe pulmonary edema.
+Retrocardiac opacity may represent atelectasis and/or consolidation.
+TTE [**2198-6-14**] The left atrium is mildly dilated.
+The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present.
+No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Mild to moderate ([**1-15**]+) mitral regurgitation is seen.
+The tricuspid valve leaflets are mildly thickened.
+There is moderate pulmonary artery systolic hypertension.
+There is a trivial/physiologic pericardial effusion.
+Brief Hospital Course: Patient is a 69yo F with history of schistosomiasis cirrhosis c/b diuretic refractory ascites, portal hypertension and encephalopathy currently on transplant list, IDDM, HTN and HLD who was directly admitted from home for acute renal failure.
+# Acute Renal Failure: Baseline Cr < 1.5.
+No evidence of infection on admission without fevers, chills, nausea, vomiting, suprapubic tenderness or dysuria, UA with epis and does not indicate UTI.
+On HD 2 H/H was low so instead of albumin patient was volume challenged with 1 unit PRBCs and 25grams of albumin (1 unit PRBCs=25 grams albumin).
+After failed improvement diagnosis of hepatorenal synrome was made and midodrine/octreotide were started and uptitrated without improvement in creatinine.
+Cr steadily continued to rise, patient became oliguric and was volume overloaded.
+However, given active bleeding (see below), she was trasferred to SICU and started on CVVH.
+# Cirrhosis: Chronic, related to schistosomiasis complicated by diuretic refractory ascites, chronic renal failure, portal hypertension, thrombocytopenia, prior SBP and encephalopathy.
+MELD 20 on admission with Childs Class C. Without evidence of encephalopathy, hepatic decompensation or asterixis on admission.
+Continued Ciprofloxacin for SBP prophylaxis.
+MELD rose to >30 in setting of hepatorenal syndrome and patient was listed for ABO incompatible liver.
+# Pulmonary edema: Pt w/ pulm edema on CXR on [**6-13**] and mildly symptomatic.
+Less likely cirrhosis induced cardiomyopathy.
+Repeat TTE with still normal EF but new moderate PA systolic HTN.
+In setting of rapidly progressive HRS, pt became oliguric and was unable to mobilize fluid.
+This was likely [**2-15**] mild oral trauma in the setting of coagulopathy--INR 3.6, platelets 75.
+As soon as pressure was released, active bleeding was visualized.
+Tamponaded bleed for ~10 minutes, but again continued to have uncontrollable bleed and was transferred to SICU on the transplant surgery service for elective intubation and packing.
+The lesion was cauterized and the bleeding was controlled.
+# Hyponatremia: Hypervolumic hyponatremia from cirrhosis.
+Albumin and PRBCs given for intravascular volume and patient kept on 1.5L fluid restricted diet.
+She remained hyponatremic so fluid restricted further to 1.2L with improvement in Na.
+# Acute anemia: Patient with chronic anemia related to cirrhosis though with acute drop on HD 2.
+Unclear etiology without GIB during admission.
+Unknown if patient has varices without endoscopy in our system and is not on beta-blocker so presumably none on prior endoscopy.
+Possible hct drop was in setting of volume challenge overnight and dilutional effect though WBC and platelets unchanged.
+She was transfused 1 unit PRBCs both for anemia and volume challenge.
+The evening following the EGD, she had several episodes of melena thus prompting transfer to the ICU to facilitate repeat emergent EGD.
+The EGD [**6-22**] showed a lot of old blood around the polyp, but no active bleed from the stalk.
+The first few days in the SICU she remained HD stable, but continued to have melena with an unstable hematocrit.
+We were unable to completely correct her, and she began having significant oral bleeding.
+By [**2198-6-25**], she was coughing blood, had an increased oxygen requirement.
+She remained encephalopathic and was not protecting her airway sufficiently so she was intubated.
+After intubation she had a pressor requirement which remained until time of death.
+She was started on broad spectrum antibiotics (vanc/zosyn/mica) and a CT torso showed severe pneumonia with very little residual aerated lung volume.
+On [**6-26**] she was begun on CVVH for acidosis and had increased pressor requirement with the addition of vasopressin.
+On [**6-27**] she had increased pressor requirement and markedly increased oral bleeding.
+Transfusions continued and she remained on high dose levo/vaso, though her pressor requirement was slightly less than the day prior.
+She became hypotensive despite increasing her pressor doses.
+Melena and oral bleeding increased and she grew increasingly tachycardic.
+Another family meeting was held and we discussed that she was decompensating rapidly and likely had an unsurvivable condition.
+She was transitioned to comfort care at 7pm, though the endotracheal tube was left in to prevent aspirating blood which we felt would cause her too much discomfort.

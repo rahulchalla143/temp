@@ -1,0 +1,26 @@
+Admission Date:  [**2169-2-10**]              Discharge Date:   [**2169-2-20**]   Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 1253**] Chief Complaint: Altered mental status  Major Surgical or Invasive Procedure: PICC line placement   History of Present Illness: History obtained from medical records.
+This is a [**Age over 90 **] year-old female with a history of dementia and HTN who presents with fever, tachycardia, and hypoxia from [**First Name4 (NamePattern1) 2299**] [**Last Name (NamePattern1) **].
+Pt treated for bronchitis with levaquin 250 mg X 7 days starting on [**1-29**].
+Per PCP [**Name9 (PRE) 7421**], there was some concern for an aspiration event.
+Labs notable for WBC 30.1 without associated left shift or bands, Na 169, BUN 116, Cr 2.6, AG 18, and lactate 2.0.
+bilateral upper lobe opacities, final read pending.
+Degenerative joint disease.
+Status post multiple falls with a gait disturbance.
+CXR [**2169-2-14**]: FINDINGS: Persistent cardiomegaly and pulmonary vascular engorgement.
+Diffuse hazy opacities are again demonstrated in the right lung without substantial change.
+As noted previously, this could be due to resolving asymmetrical pulmonary edema or infection.
+New area of opacity has developed in the left retrocardiac region, and may reflect atelectasis, aspiration, or early focus of pneumonia.
+Micro:    MRSA SCREEN (Final [**2169-2-15**]):       POSITIVE FOR METHICILLIN RESISTANT STAPH AUREUS.
+Leukocytosis initially improved, but recently has been trending up.
+Altered mental status: combination of sepsis and hypernatremia on baseline dementia.
+- patient on D5W for mild hypernatremia and sl increased Cr.
+Urine eosinophils negative, renal ultrasound without obstruction.
+Hypernatremia: due to poor po intake and ongoing lasix prior to admission.
+Will  maintain on discharge for continued IV hydration as outpt for several days.
+Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every 4 hours) as needed for fever, pain.
+Aspiration pneumonia 2.
+Hypernatremia 4.
+Acute renal failure 5.
+Urinary tract infection 6.
+Acute blood loss anemia 7.
+Dementia   Discharge Condition: Stable   Discharge Instructions: You were admitted with an aspiration pneumonia and urinary tract infection, with associated dehydration.

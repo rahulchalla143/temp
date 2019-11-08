@@ -1,0 +1,64 @@
+Admission Date:  [**2151-11-30**]              Discharge Date:   [**2151-12-21**]  Date of Birth:  [**2079-7-18**]             Sex:   M  Service: MEDICINE  Allergies: Bactrim  Attending:[**First Name3 (LF) 832**] Chief Complaint: Hypotension  Major Surgical or Invasive Procedure: Intubation and Mechanical Ventilation Hemodialysis   History of Present Illness: 72 year old male with h/o CVA with expressive aphasia, OSA, AS, CAD, OSA on BiPap and chronic systolic CHF (EF30-35%) who was sent in to the ED by his VNA for hypotension (SBPs in 80s), slurred speech, lethargy/unresponsiveness.
+Of note, the patient was recently discharged home from a rehabilitation facility following an admission at [**Hospital1 18**] for altered mental status and acute renal failure.
+Initial labs in the ED revealed a sodium of 130, K of 7.4 without evidence of peaked T waves on EKG, a BUN of 207, a serum creatinine of 7.0, a BNP of [**Numeric Identifier 37155**], and a Troponin-I of 0.12.
+Initial ABG showed profound acidosis: 7.01/90/135/25 which was persistent through the afternoon.
+He also received ASA 600 mg PR given his elevated troponins.
+Of note, pt was recently admitted for AMS/unresponsiveness in the setting of having taken Ativan for abdominal MRI.
+He was admitted to MICU for acute on chronic respiratory acidosis (thought to be due to Ativan o/d, obesity hypoventilation syndrome, and diaphragm paresis); there he was weaned from Bipap uneventfully, and was diuresed for volume overload.
+Before this, he's had several admissions for HF exacerbations with documented weight gains, HF symptoms, and was diuresed each time.
+A complete ROS was unable to be obtained as the patient was intubated by arrival to the floor but the patient's son stated that his father had a cold over the last month with a productive cough and rhinorrhea but no fevers (no further ROS was obtainable as he had not seen his father in days).
+Past Medical History: - Coronary artery disease s/p stent (LCx, [**2145**] at [**Hospital1 882**]) - Chronic systolic and diastolic CHF (EF 30-35%) - Aortic stenosis (1.2cm2) - CVA [**2145**], left MCA with expressive aphasia, motor planning deficits, right-sided neglect.
+On coumadin in the past, stopped due to GI bleed - GI bleed [**2146**], due to hemorrhoids.
+Also [**6-/2151**] due to hemorrhoids and coumadin stopped.
+- BPH - Prostate CA, [**Doctor Last Name **] 3+3, s/p XRT [**2142**] - Hyperlipidemia - Hypertension - Thalassemia trait - G6PD, class I - severe - History of tobacco abuse (20 years total) - OSA on BiPap 16/13 at home at night.
+O2 sat 85% at rest, on 2L  home O2 - Moderate pulmonary hypertension - Gout - Chronic back pain and lumbar spinal stenosis - Light eye blindess [**1-12**] trauma - Burn to L shoulder as a child - Osteoarthritis - H/o colon polyp - H/o pancreatitis  Social History: Lives alone in [**Location (un) 686**].
+Family History: Mother deceased from MI at age 37.
+Father deceased with CVA and lung cancer.
+Brother deceased from esophageal cancer  Physical Exam: Admit Exam: 93 --> 95.5   p77   113/63  (sbp 83-113)  rr 12-20  92-99% on vent 28% Obese, intubated sedated gentleman.
+L eye appears atrophic compared to R. Short, stout neck, with difficult to assess JVP's Lungs rhonchorous with bronchial vented breath sounds, no clear crackles though RRR with AS type murmur along precordium, with S2 audible along LSB, disappears at apex.
+Proximal extremities initially cool to touch, now warm with Bair Hugger on  Discharge Exam:  Pertinent Results: [**2151-11-30**] 12:00PM BLOOD WBC-7.1 RBC-3.99* Hgb-10.0* Hct-31.2* MCV-78* MCH-25.0* MCHC-31.9 RDW-17.2* Plt Ct-157 [**2151-11-30**] 12:00PM BLOOD PT-14.1* PTT-32.3 INR(PT)-1.2* [**2151-11-30**] 12:00PM BLOOD Glucose-158* UreaN-207* Creat-7.0*# Na-130* K-8.4* Cl-94* HCO3-20* AnGap-24* [**2151-12-7**] 06:45AM BLOOD Glucose-105* UreaN-14 Creat-1.0 Na-145 K-3.9 Cl-106 HCO3-34* AnGap-9 [**2151-12-13**] 09:20AM BLOOD Glucose-144* UreaN-77* Creat-6.8* Na-135 K-4.9 Cl-95* HCO3-24 AnGap-21*  [**11-29**] CT HEAD: No evidence of an acute intracranial process.
+Large chronic infarction in the left hemisphere.
+[**11-29**] CXR  FINDINGS: Evaluation is limited due to low lung volumes and body habitus.
+Right apical opacity correlates with a distend right internal jugular vein.
+Linear and bibasilar opacities most likely reflect atelectasis.
+No pneumothorax is seen.
+IMPRESSION: Findings compatible with chronic congestive heart failure.
+[**11-30**] TTE The left atrium is mildly dilated.
+Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded.
+The right ventricular cavity is mildly dilated with borderline normal free wall function.
+There is severe aortic valve stenosis (valve area 1.0cm2).
+Mild to moderate ([**12-12**]+) aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+There is no mitral valve prolapse.
+Trivial mitral regurgitation is seen.
+There is no pericardial effusion.
+IMPRESSION: Severe aortic valve stenosis.
+Normal biventricular cavity sizes with preserved global biventricular systolic function.
+Mild-moderate aortic regurgitation.
+The severity of aortic regurgitation is similar.
+CXR [**12-15**]: FINDINGS: In comparison with the study of [**2151-12-9**], there are continued low lung volumes, which enhances the prominence of the transverse diameter of the heart.
+Some indistinctness of pulmonary vessels is consistent with increased pulmonary venous pressure.
+There are some areas of atelectasis at the bases.
+A small area of asymmetry in the mid zone on the right could conceivably represent a developing focus of consolidation, though it could merely reflect some crowding of engorged vessels.
+Brief Hospital Course: 72 year old male with h/o CAD s/p stent to LCx, s/dCHF (30-35%) with AR/AS/MR/TR/pulmHTN, CVA with expressive aphasia, OSA on BiPap and ?
+home 2L NC who presented with unresponsiveness and hypoTN and found to have profound respiratory and metabolic acidosis, ARF, hyperK, pancreatitis.
+Hypercarbic respiratory failure: Thought to be secondary to worsening metabolic acidosis from renal failure and was unable to keep up respiratory rate to compensate and fatigued.
+Acute renal failure: Initially pre-renal in nature with hypovolemia on initial exam, FeNa < 1%, FeUrea < 35%.
+Hyperkalemia that was present on admission resolved as renal function improved.
+However, on [**12-8**] developed recurrent ARF with Cr bumping to 3 and peaking at 7.7.
+Dopplers showed no evidence of thrombosis.
+He was started on dialysis for three sessions after he developed hyperkalemia, hypocalcemia and possible uremia.
+Several of the patient's nephrotoxic medications were discontinued including allopurinol, lisinopril, spironolactone, gabapentin and torsemide because of kidney failure.
+The remainder of these medications should remain discontinued until re-addressed at his primary care doctor's office and renal clinics.
+ABG showed respiratory acidosis and hypercarbia.
+He had no injuries.
+Aortic stenosis/diastolic CHF:  He had evidence of volume overload on exam, prior to dialysis.
+He is preload dependent due to aortic stenosis.
+He would benefit from low dose diuretic as an outpatient, though this cannot be restarted currently because of renal dysfunction.
+# Goals of Care: Palliative care consulted given medical complexity and poor long term prognosis.
+8. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: 1-2 Puffs Inhalation Q4H (every 4 hours) as needed for wehezeing.
+Discharge Disposition: Extended Care  Facility: [**Hospital **] Health Care  Discharge Diagnosis: Hypercarbic respiratory failure Aspiration PNA Acute renal failure - ATN OSA   Discharge Condition: Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Mental Status: Confused - sometimes.
+Discharge Instructions: You were admitted with respiratory failure, pneumonia and kidney failure.
+Have your blood drawn in 5 days to evaluate the progress of your kidney function.
+Many of your home medications were discontinued, including allopurinol, lisinopril, spironolactone, gabapentin and torsemide because of kidney failure.

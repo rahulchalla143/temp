@@ -1,0 +1,47 @@
+Admission Date:  [**2127-8-4**]              Discharge Date:   [**2127-8-15**]  Date of Birth:  [**2046-1-2**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 905**] Chief Complaint: BRBPR  Major Surgical or Invasive Procedure: Left Internal Jugular Cordis Catheter Foley Catheter Gastroduodenal Artery Embolization   History of Present Illness: HPI: 81 yo M physician with metastatic lung CA to brain s/p chemo and XRT on steroids, h/o hyponatremia-SIADH from lung CA, renal failure from ATN baseline Cr 1.1-1.9, recently discharged to rehab on [**8-1**] presents with Melena.
+No prior h/o GIB, no recent NSAID use.
+ED Course: Initial VS T 98.0 BP 102/63 HR 105 RR 18 100% 2LNC, intial hct 23 (20 point HCT drop from [**8-1**]), NGL negative, received 2 L IVF for decreased SBP 78/45 improved to low 100s, 1 UPRBC on transfer to MICU, GI consulted in ED, Protonix 40mg IV x1 given.
+Past Medical History: -Metastatic Non Small Cell Lung CA to Brain underwent 1 cycle of Carboplatin 5 AUC and Taxol 200mg/m2 on [**2127-6-20**] and XRT -Anxiety with paranoid thinking- worsened with current illness -DM- induced by decadron -Thrush-radiation induced -BPH -Melanoma -Atrial fibrillation - noted on last hospitalization in [**Location (un) 7349**]  Social History: Former practicing psychiatrist at [**Hospital1 1872**] until one month ago when mental status began to deteriorate.
+Family History: non-contributory  Physical Exam: VS: 97.1 BP 106/64 HR 100 RR 20 100%2LNC GEN: NAD HEENT: MMM, No oral lesions/no mucositis, PERRL RESP: CTABL, No crackles, no wheezing CV: Irregular, Nml S1, S2, no M/R/G ABD: Soft ND, tender at LUQ/LLQ area, no rebound, no guarding +BS EXT: 2+ edema at ankles, warm, dopplerable pulses NEURO: A&O x1 (person only), no focal neuro deficits, no facial droop, voice/speech fluent, states he's confused, follows commands appropriately, understands he's here for bleeding, strength 4/5 throghout, normal sensation throughout  Pertinent Results: Admission Labs: [**2127-8-4**] 07:55PM   WBC-9.4 RBC-2.72*# HGB-8.0*# HCT-23.7*# MCV-87 MCH-29.5 MCHC-33.8 RDW-15.9*   NEUTS-73* BANDS-4 LYMPHS-16* MONOS-6 EOS-0 BASOS-0 ATYPS-0 METAS-0 MYELOS-1* NUC RBCS-1*  CALCIUM-8.3* PHOSPHATE-2.6* MAGNESIUM-1.8 [**2127-8-4**] 07:55PM   CK-MB-NotDone cTropnT-0.08* [**2127-8-4**] 07:55PM   CK(CPK)-29* [**2127-8-5**] 01:05AM BLOOD CK-MB-NotDone cTropnT-0.08* [**2127-8-5**] 01:05AM BLOOD CK(CPK)-30*  GLUCOSE-128* UREA N-81* CREAT-1.9* SODIUM-135 POTASSIUM-5.7* CHLORIDE-100 TOTAL CO2-27 ANION GAP-14  HGB-8.1* calcHCT-24 K+-5.4*  [**8-4**] EGD: Findings: Esophagus: Normal esophagus.
+There was a large overlying blood clot which could not be cleared by aggressive irrigation.
+Full circumference of ulcer could not be visualized given size and presence of large clot- decision made not to inject or cauterize.
+Impression: Ulcer in the proximal bulb Recommendations: High risk for large re-bleed.
+[**2127-8-5**] EKG: Atrial fibrillation with rapid ventricular response.
+Progressive fullness in the right lower paratracheal region could be due to seriously engorged azygos vein and possible accompanying adenopathy.
+Previous right upper lobe edema or consolidation has largely cleared since [**8-4**].
+Differential diagnosis of transient lobar edema includes acute mitral regurgitation and pulmonary venous thrombosis.
+Heart size is normal and there is no left pleural effusion.
+Following the removal of the left central venous catheter there has been no generalized mediastinal widening to suggest hemorrhage.
+Progressive fullness in the right lower paratracheal region could be due to seriously engorged azygos vein and possible accompanying adenopathy.
+Previous right upper lobe edema or consolidation has largely cleared since [**8-4**].
+Differential diagnosis of transient lobar edema includes acute mitral regurgitation and pulmonary venous thrombosis.
+Heart size is normal and there is no left pleural effusion.
+Following the removal of the left central venous catheter there has been no generalized mediastinal widening to suggest hemorrhage.
+[**2127-8-9**] ECG - Atrial fibrillation with a rapid ventricular response.
+Since the previous tracing of [**2127-8-5**] no significant change  Discharge Labs:  [**2127-8-13**] 07:10AM BLOOD WBC-5.9 RBC-4.10* Hgb-12.1* Hct-36.0* MCV-88 MCH-29.4 MCHC-33.5 RDW-16.4* Plt Ct-234 [**2127-8-13**] 07:10AM BLOOD Glucose-93 UreaN-26* Creat-2.3* Na-139 K-4.4 Cl-106 HCO3-23 AnGap-14 [**2127-8-13**] 07:10AM BLOOD Calcium-8.4 Phos-3.1 Mg-1.9   Brief Hospital Course: AP: 81 yo M with metastatic Lung CA to brain, AF, presents with Melena.
+# UGIB: Patient found with significant HCT drop from most recent admission 45-->23 and BRBPR on admission.
+EGD in unit per GI on night of admission showed a large 3.5cm ulcer was found on the posterior duodenal bulb with a very large adherent clot.
+Gen surgery was consulted that evening, however given his commorbidities of metastatic Lung CA with brain mets they deferred invasive surgical intervention.
+On up titration of Diltiazem, patient experienced episodes of hypotension.
+By [**8-11**], his BPs were at his presumed baseline (110-140 systolic), though he was found to be slightly volume overloaded on lung exam.
+# Acute on CRF: Patient w/ baseline cr of 1.1 - 1.9, sustained acute renal failure secondary to hypotension in setting of UGIB.
+#Onc: Patient w/ known metastic lung cancer to brain.
+Continued supportive care, pain control prn.
+# Respiratory Distress: Likely result of worsening albumin status with fluid extravesation into lungs on top of poor clearance of oral secretions and likely aspiration.
+# UTI: The patient was found with urinary frequency, sometimes complaining of pain as well.
+UCx revealed Enterococci (Sensitive to Ampicillin, Nitrofurantoin, Vancomycin; Resistant to Tetracycline), so he was begun on a 7-day course of Amoxicillin, beginning on [**8-10**].
+Urinalysis showed [**2-24**] WBC and moderate bacteria.
+As of [**8-13**], he continued to complain of pain on urination.
+# Depression/Mental Status Changes: Patient with known baseline of anxiety and depression.
+Episodes of confusion, and combativeness, especially at night occurred throughout admission.
+Current confusion most likely related to known brain metasteses and UTI.
+# PPX - Patient was continued on IV PPI [**Hospital1 **] and then switched to oral PPI once daily on discharge.
+# ACCESS - Left IJ cordis removed on [**8-7**] without complication.
+# DISPO - To hospice for end of life care.
+Acetaminophen 650 mg Q6HR prn fever #.
+Haloperidol 0.5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) as needed for agitation.
+Discharge Disposition: Extended Care  Facility: [**Hospital3 1186**] - [**Location (un) 538**]  Discharge Diagnosis: Metastatic Lung Cancer Atrial Fibrillation with rapid ventricular rate Upper Gastrointestinal bleed   Discharge Condition: Seriously ill with respiratory compromise.
+Discharge Instructions: You have been treated for a gastroentestinal bleed during your hospital stay with IV fluids and blood and embolization of an artery in your stomach.
+You experience no further bleeding episodes after this point.
+During your stay you also had a rapid irregular heart beat that was complicated by low blood pressure.
+You were treated with diltiazem with resolution of your rapid heart rate.

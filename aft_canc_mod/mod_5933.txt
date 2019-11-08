@@ -1,0 +1,76 @@
+Admission Date:  [**2197-8-13**]              Discharge Date:   [**2197-8-24**]  Date of Birth:  [**2129-4-5**]             Sex:   M  Service: MEDICINE  Allergies: Amoxicillin  Attending:[**First Name3 (LF) 633**] Chief Complaint: Hypoxia, cough  Major Surgical or Invasive Procedure: G-tube clogging, replacement with 22F foley   History of Present Illness: 68 year old male with stage II-III esophageal cancer receiving treatment with chemoradiation and recently admitted from [**2197-8-3**] to [**2197-8-8**] for cycle #4 cisplatin/5FU who presents from [**Hospital 7137**] with hypoxia and tachycardia.
+Physical exam showed tachypnea with increased respiratory effort and diffuse rhonchi throughout.
+Labs showed leukocytosis to 26.6 with 92% neutrophils, sodium 131, bicarb 20, BUN 30, lactate 4.1, and Troponin < 0.01.
+CXR showed bilateral patchy infiltrates.
+The mass includes the esophagus andobliterates its lumen.
+[**2197-3-23**] Head MRI: no evidence of metastatic disease.
+[**2197-3-23**] PET: left mediastinal mass with avid FDG uptake, no definitive metastatic disease.
+[**2197-3-27**]: Upper esophageal mucosal biopsy: gastric type mucosa consistent with heterotrophic gastric tissue.
+Cell block showed poorly differentiated carcinoma.
+[**2197-4-13**]: left portacath, open G-tube, tracheal stent replacement by thoracic surgery.
+[**2197-6-4**] Pt admitted for aspiration pneumonia with hypoxia.
+He was a small business owner with many friends.
+- Illicits: None.
+Alert, oriented, no acute distress.
+Lungs: Coarse breath sounds and rhonchi throughout.
+Decreased breath sounds and egophony at left base.
+Non-specific lateral T wave changes.
+Atrial premature beats are not seen on the current tracing.
+CXR [**8-13**]-IMPRESSION: Left mid to lower lung consolidation, worrisome for pneumonia.
+CXR [**8-14**]- IMPRESSION: Progressive infrahilar left greater than right opacification could relate to either aspiration and/or infection, with superimposed component of atelectasis.
+A mild left pleural effusion might have newly occurred.
+Otherwise, the radiograph is constant in appearance, including the left pectoral Port-A-Cath and the tracheal stent.
+Head CT [**8-19**]-IMPRESSION: No evidence of intracranial lesions.
+Increased ground-glass and consolidative appearance of both lower lobes and the dependent aspect of the upper lobes, likely represent infectious etiology such as pneumonia/aspiration, and are less typical of metastatic lesions.
+Increased endoluminal soft tissue attenuation at the trachea at the distal end of the stent is nonspecific and may be secondary to secretions, although tumor infiltration cannot be excluded.
+Either repeat imaging or correlation with bronchoscopy may yield further assessment.
+Asymmetry in the region of the right false cords is better seen on the CT of the neck performed concurrently, and would be better assessed by direct visualization as indicated.
+The balloon projects over the stomach, expected contrast markings of the stomach and the duodenum.
+Brief Hospital Course: 68 year old male who presents with hypoxia and tachycardia and was found to have presumed aspiration pneumonia and hyponatremia in the setting of stage II-III esophageal cancer receiving treatment with chemoradiation and recently admitted from [**2197-8-3**] to [**2197-8-8**] for cycle #4 cisplatin/5FU.
+# Hypoxia: In the emergency department, the patient had O2 saturation in the low 80s and required supplemental oxygen with a face mask.
+The first night in the ICU he again desaturated to the low 80s and required face mask for several hours.
+This was thought to be due to significant mucus production and decreased cough.
+The second day in the ICU his cough and oxygenation improved, and he was maintained on nasal cannula between 2-4L.
+Treatment included antibiotics for presumed pneumonia (as below), hydration, and pulmonary hygiene to assist mucus clearance.
+We suspect that his pneumonia was at least in part related to his secretions related to his esophageal mass and oral secretions.
+His hypoxia resolved while on treatment for the pneumonia.
+Discussed with patient and his family that given his mass and NPO status, pt is at continued risk of aspiration and recurrent pneumonia.He has been on room air for days.
+# Pneumonia (health care acquired) Likely cause of fever, hypoxia given new consolidation on CXR.
+Additional sources considered included a TE fistula (secondary to disease and tracheal stenting), reflux from tube feeds, or HCAP.
+Blood and sputum cultures were sent, although unfortunately sputum samples were not sufficient for testing.
+Blood cultures did not reveal evidence of acute bacterial infection.
+Antibiotics were started to cover possible sources of infection (vancomycin and cefepime).
+# Hypotension: On arrival to the ICU, the patient was hypotensive with BP 88/60.
+He did not have recurrence of hypotension, but did require IV fluids for hyponatremia related to presumed dehydration at a later point in his hospital stay.
+Other possible etiologies include [**Name (NI) **] (pt was on vanco PO in outpt setting prior to admit), G-tube (although site looks clean) and UTI (but has clean UA).
+Pt did have increase in diarrhea while on antibiotic therapy.
+# Urinary retention: This was an issue during the patient's last hospitalization and he was empirically started on [**Name (NI) 32316**].
+# C.diff colitis: The patient was started on PO vancomycin for C difficile colitis on his prior admission.
+His dose was increased to 500mg qid during his admission, when his diarrhea was noted to increase in frequency and there was concern for the need for ongoing IV antibiotics which could be worsening his [**Name (NI) 29218**].
+# Hyponatremia: On presentation, the patient was mildly hyponatremic to 131.
+Urine electrolyte testing revealed a possible component of SIADH, probably secondary to his pulmonary disease.
+There was likely some degree of total body salt deficit, which improved with IV normal saline, but remained below his usual baseline sodium level.
+He has had many hospitalizations during the last few months, and has been frustrated by the perceived lack of progress.
+# Headache: Per his friends, he has been having progressively worsening headaches over the last few weeks.
+He had a CT head on [**2197-5-13**] with no acute findings and PET imaging on [**2197-6-27**] without apparent intracranial findings, although this did not extend above the sinuses.
+Although this could have a benign source, it was concerning for possible metastatic disease.
+A head CT with contrast was pursued while inpatient given his ongoing headaches, to preclude metastasis, which did not show evidence of metastasis.
+Pt was given oxycodone and tylenol for pain control.
+This was discussed with outpatient oncologist [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 5280**] [**8-19**], who agreed with CT scans to assess for metastasis.
+CT scan showed redemonstration of a cervical esophageal mass posterior to the thyroid and endoluminal soft tissue attenuation in the proximal trachea at distal end of tracheal stent concerning for tumor and secretions.
+Findings were discussed with patient's oncologist Dr. [**Last Name (STitle) 45322**] who has arranged for a PET scan to determine if these findings are related to scar vs. continued mass.
+#Anemia, likely hypoproliferative due to chemo: Anemia likely due to marrow suppression.
+Tubefeeding: Start After 12:01AM; Nutren 2.0 Full strength; Starting rate: 30 ml/hr; Advance rate by 10 ml q4h Goal rate: 50 ml/hr Residual Check: q4h Hold feeding for residual >= : 200 ml Flush w/ 150 ml water q6h .++can consider speech and swallow exam at rehab, if indicated++  # FEN: IVF boluses as needed, replete electrolytes, Tube feeds # Prophylaxis: Subcutaneous heparin, pneumoboots # Access: peripherals/port-a-cath # Communication: Patient # Code: DNR/DNI # Disposition: to rehab today.
+DAILY MONITORING OF I/O'S WITH DIARRHEA TO ENSURE EVEN.
+Medications on Admission: Vancomycin 125 mg PO TID per G tube Neupogen 300 mcg IJ daily for 7 days (begin [**2197-8-9**] pm) DuoNeb (0.5 mg-3 mg) IH Q6H PRN SOB or wheezing [**Month/Day/Year 32316**] 0.4 mg PO QHS per G tube Omeprazole 20 mg PO BID per G tube Zofran (4 mg/5 mL) [**5-16**] ml PO TID PRN nausea per G tube Prochlorperazine 5-10 mg PO Q6H PRN nausea per G tube Bismuth subsalicylate (262 mg/15 ml) 15-30 mL PO QID PRN per G tube Calcium carbonate (500 mg/5 mL) 5 ml PO TID PRN per G tube Lactobacillus acidophilus 1 cap PO BID per G tube Scopolamine 1.5 mg Patch 2 patches Q72H Citalopram 20 mg PO daily per G tube Methylphenidate 20 mg PO BID per G tube Trazodone 25 mg PO QHS per G tube Fentanyl 75 mcg/hr Patch one patch Q72H Oxycodone (5 mg/5 mL) 5 ml PO Q4H PRN pain Caphosol 30 mL ORAL TID Swish and spit Multivitamin (Liquid) PO daily   Discharge Medications: 1. cefepime 2 gram Recon Soln [**Month/Year (2) **]: Two (2) grams Intravenous three times a day for 3 days: Last day of therapy is [**8-26**].
+DuoNeb 0.5 mg-3 mg(2.5 mg base)/3 mL Solution for Nebulization [**Month/Year (2) **]: [**1-8**] nebs Inhalation every six (6) hours as needed for shortness of breath or wheezing.
+7. bismuth subsalicylate 262 mg/15 mL Suspension [**Month/Year (2) **]: 15-30 mL PO four times a day as needed for indigestion.
+8. calcium carbonate 500 mg/5 mL (1,250 mg/5 mL) Suspension [**Month/Year (2) **]: Five (5) ml PO three times a day as needed for heartburn.
+13. trazodone 50 mg Tablet [**Month/Year (2) **]: 0.5 Tablet PO HS (at bedtime) as needed for insomnia.
+20. senna 8.8 mg/5 mL Syrup [**Last Name (STitle) **]: [**5-16**] mL PO BID (2 times a day) as needed for Constipation.
+PO DAILY (Daily) as needed for Constipation.
+Discharge Disposition: Extended Care  Facility: [**Hospital3 2558**] - [**Location (un) **]  Discharge Diagnosis: Primary Diagnosis: Acute bacterial aspiration pneumonia, health care associated Clostridium difficile diarrhea infection -hyponatremia  Secondary Diagnoses Esophageal Cancer ADHD [**Doctor Last Name 9376**] Syndrome G-tube dislodgement   Discharge Condition: Mental Status: Clear and coherent.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Discharge Instructions: You were admitted with difficulty breathing and found to have a pneumonia.
+You were treated with antibiotics and you symptoms improved.
+You have also been started on viscous lidocaine for mouth pain and a bowel regimen to prevent constipation while you are on the pain regimen with oxycodone and fentanyl.

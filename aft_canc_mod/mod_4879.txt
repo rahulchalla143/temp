@@ -1,0 +1,95 @@
+Admission Date:  [**2111-10-13**]              Discharge Date:   [**2111-10-19**]  Date of Birth:  [**2048-5-26**]             Sex:   M  Service: MEDICINE  Allergies: Zestril  Attending:[**Doctor First Name 2080**] Chief Complaint: Ventricular tachycardia  Major Surgical or Invasive Procedure: [**2111-10-13**] - Cardiac Catheterization   History of Present Illness: The patient is a 63M with ALS, HIV on HAART with undetectable VL (per pt), hepatitis C, recent diagnosis of esophageal adenocarcinoma admitted to [**Hospital 2725**] Hospital from home on [**10-10**] with left sided weakness, slurred speach, and altered mental status.
+He was evaluated by [**Month/Year (2) **], head CT negative, head MRI/MRA with old small vessel disease with no acute infarction.
+[**Month/Year (2) 878**] thought may have been TIA or possibly worsening of ALS.
+Then on the evening of [**10-12**] when eating a [**Location (un) 6002**], telemetry alarmed for 2 minute episode of ventricular tachycardia per report (rhythm strip not included in OSH records).
+RN responded and found patient with mouth full of food, cleared airway, patient started taking shallow breaths, was diaphoretic and complained on non-specific pain.
+There were no compressions or shocks administered as he spontaneously converted to SR. EKG after the event reported to have ST elevation V1-V4.
+He informed the ICU team that was having chest pain on transfer.
+On review of systems, he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.
+He denies recent fevers, chills or rigors.
+He denies exertional buttock or calf pain.
+Cardiac review of systems is notable for absence of chest pain, dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope.
+-Hepatitis C with no history of treatment.
+-Hypertension -L2 compression fracture -GERD -PUD with GI bleed -Status post PEG placement [**2110**] but takes nutrition PO  Social History: - Married, lives w/ son and grandson - Previously worked in electronics, on disability - Tobacco history: no current smoking, 60 pack year hx - ETOH: denies - Illicit drugs: denies current IVDA  Family History: - No family history of early MI, arrhythmia, cardiomyopathies, or sudden cardiac death; otherwise non-contributory.
+Sclera anicteric.
+Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.
+No xanthalesma.
+No thrills, lifts.
+LUNGS: No chest wall deformities, scoliosis or kyphosis.
+No HSM or tenderness.
+No abdominial bruits.
+No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+MICROBIOLOGY: [**2111-10-14**] 11:05 am URINE CULTURE (Final [**2111-10-15**]): NO GROWTH.
+IMAGING / STUDIES: # Portable TTE ([**2111-10-13**] at 11:45:20 AM): There is mild symmetric left ventricular hypertrophy.
+There is moderate to severe regional left ventricular systolic dysfunction with inferior/inferolateral akinesis.
+with mild global free wall hypokinesis.
+The aortic root is mildly dilated at the sinus level.
+The ascending aorta is mildly dilated.
+The aortic valve leaflets (3) are mildly thickened.
+Trace aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Mild (1+) mitral regurgitation is seen.
+The left ventricular inflow pattern suggests impaired relaxation.
+The tricuspid valve leaflets are mildly thickened.
+There is no pericardial effusion.
+Selective coronary angiography of this right dominant system demonstrated no angiographically significant epicardial coronary artery disease.
+Limited resting hemodynamics revealed systemic arterial normotension.
+No angiographically apparent epicardial coronary artery disease.
+Systemic arterial normotension.
+# CT HEAD W/O CONTRAST ([**2111-10-19**] at 2:55 AM): FINDINGS: There is no evidence infarction, hemorrhage, mass effect, edema, or shift of normally midline structures.
+Ventricles and sulci are prominent, suggestive of parenchymal involution.
+Periventricular white matter hypoattenuation about the frontal horns likely represent small vessel ischemic disease.
+There is polypoid mucosal disease within the right maxillary and sphenoid sinuses.
+There is no evidence of fracture.
+No evidence of hemorrhage or fracture.
+Moderate cerebral parenchymal involution and small vessel ischemic disease.
+Right maxillary and sphenoid sinus disease.
+Brief Hospital Course: Primary Reason for Hospitalization: =================================== 63M with ALS, HIV on HAART with undetectable VL (per pt), hepatitis C (written in records, antibody positive, reported by primary care physician as not having hepatitis), recent diagnosis of esophageal adenocarcinoma admitted to [**Hospital 2725**] Hospital  and transferred to [**Hospital1 18**] following presumed episode of ventricular tachycardia.
+ACTIVE ISSUES: =============== # WIDE COMPLEX TACHYCARDIA - Patient presented without a known history of coronary artery disease with largely preserved EF on most recent available echocardiogram from his outside hospital.
+He was presumed to have sustained wide complex tachycardia with an episode of unresponsiveness at the outside hospital.
+He did not receive shocks or resuscitation at that time.
+It was possible that it was a primary ischemic cardiac event.
+It is also possible that it was a non-cardiac event such as respiratory arrest due to obstructed airway, from a food bolus.
+Regardless, the patient had anterior EKG changes and an elevated Troponin indicating myocardial infarction likely in the LAD territory versus myocarditis.
+His cardiac cath ([**10-13**]) showed no evidence of significant coronary disease, however.
+He also had a 2D-Echo on [**10-13**] which showed moderate to severe regional left ventricular systolic dysfunction with inferior/inferolateral akinesis with an LVEF of 30%.
+We also uptitrated his beta-blocker to 75 mg by mouth three times daily with good effect, given some tachycardia and hypertension.
+We also considered placement of an ICD given his inferior or inferolateral hypokinesis and presumed V.tach event, but this must be weighed against life expectancy given his esophageal adenocarcinoma and progressive ALS diagnosis.
+He was not started on any anti-arrhythmics and had no further issues with dysrrhythmia.
+# ASPIRATION - The patient presented with a mild oxygen requirement and decreased breath sounds at bases with CXR showing bibasilar haziness concerning for aspiration pneumonitis.
+He remained afebrile and without leukocytosis.
+We did start utilizing his PEG tube this admission and speech and swallow evaluation noted the need for thin liquids and soft-moist consistency diet given his risk of aspiration.
+# Acute Encephalopathy ??????
+He began to develop agitation in the evenings with some delirium noted on HOD#2.
+An infectious work-up showed a reassuring urinalysis and his urine and blood cultures were reassuring; a CXR was reassuring.
+We also dosed low dose Seroquel in the evenings for agitation with some benefit.
+# FALL - He had a likely mechanical fall in the setting of his ALS and trying to use the bathroom by himself on the evening of [**2111-10-18**].
+Head CT was negative for fracture or intracranial bleeding.
+No other injuries were sustained.
+# HYPERTENSION - Evidence of elevated systolic pressures even when not agitated.
+# ALS - stable disease without current issues; we continued Rilutek.
+# ESOPHAGEAL ADENOCARCINOMA - seen by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD (Thoracic Surgery) in [**8-/2111**] who said he was non-operative and could benefit from radiation; Dr. [**Last Name (STitle) **] from Heme-Onc saw him as well - patient not likely chemoradiation therapy candidate given other co-morbidities and patient disinterest in aggressive therapy; will need repeat endoscopy and EUS in [**2-18**] months for re-evaluation of disease progression.
+# CHRONIC SYSTOLIC HEART FAILURE (EF 30%): Nonischemic cardiomyopathy given clean coronaries.
+# GERD - We continued his Omeprazole without issue.
+8. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+Wide complex tachycardia 2.
+Systolic heart failure (left systolic dysfunction) .
+Human Immunodeficiency Infection (HIV) 2.
+Amyotrophic Lateral Sclerosis (ALS) 3.
+Hypertension 4.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+You were admitted to the Cardiac Intensive Care Unit (CCU) at [**Hospital1 69**] on CC7 regarding management of a presumed atypical heart rhythm.
+You had a cardiac catheterization which showed no evidence of significant coronary disease.
+You also had an echocardiogram (heart ultrasound) which showed a low ejection fracture and some heart failure.
+You did have some issues with agitation and delirium, which was attributed to your intensive care unit stay.
+Please call your doctor or go to the emergency department if: * You experience new chest pain, pressure, squeezing or tightness.
+* You develop new or worsening cough, shortness of breath, or wheezing.
+* You are vomiting and cannot keep down fluids, or your medications.
+* If you are getting dehydrated due to continued vomiting, diarrhea, or other reasons.
+Signs of dehydration include: dry mouth, rapid heartbeat, or feeling dizzy or faint when standing.
+* Your pain is not improving within 12 hours or is not under control within 24 hours.
+* Your pain worsens or changes location.
+* You have shaking chills, or fever greater than 101.5 degrees Fahrenheit or 38 degrees Celsius.
+* You develop any other concerning symptoms.
+* Upon admission, we ADDED: INCREASED: Metoprolol from 50 mg by mouth twice daily to 75 mg three times daily INCREASED: Lisinopril from 20 to 40 mg by mouth daily STARTED: Senna 8.6 mg 1 tab by mouth twice daily and Colace 100 mg by mouth twice daily for constipation STARTED: Lactulose 30 mL by mouth every 8 hours as needed for constipation STARTED: Acetaminophen 650 mg by mouth every 6 hours as needed for pain or fever DECREASED: Neurontin from 900 mg to 300 mg by mouth three times daily .

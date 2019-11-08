@@ -1,0 +1,50 @@
+Admission Date:  [**2146-2-19**]              Discharge Date:   [**2146-3-3**]  Date of Birth:  [**2097-10-29**]             Sex:   M  Service: MEDICINE  Allergies: Penicillins / Abacavir  Attending:[**First Name3 (LF) 9598**] Chief Complaint: febrile neutropenia  Major Surgical or Invasive Procedure: Lumbar puncture   History of Present Illness: 48 y/o M with AIDS-related Burkitt's lymphoma who was recently hospitalized [**2146-2-7**] to [**2146-2-13**] for chemotherapy with R-IVAC (rituximab, ifosfamide/mesna, etoposide,ara-C, and intrathecal methotrexate).
+He presented to the [**Hospital 478**] clinic today and was found to have fever and neutropenia.
+He reports that he has not had a fever until today.
+He also reported a left-sided temporal headache that has continued since his prior hospitalization.
+He reports that he has some light sensitivity but denies any neck stiffness.
+He reports diarrhea that has been continuing since the start of his therapy, but denies any blood in his stools.
+He also reports some sensitivity to smells.
+Denies chest pain or tightness, palpitations.
+No recent change in bowel or bladder habits.
+Past Medical History: [**Known firstname **] was diagnosed with HIV infection in [**2144-10-5**].
+In [**2145-10-5**], [**Known firstname **] noted tightness and pressure across his left chest associated with a new mass.
+The external mass resolved 100% within two days.
+At no point did patient develop tumor lysis syndrome.
+Course was complicated by peri-orbital cellulitis in the setting of grade 4 neutropenia.
+He did well though did develop perianal mucositis.
+PET/CT done after 2 cycles of therapy showed resolution of his disease.
+Other past medical history: 1) HIV infection as above; medication-related diarrhea, typically twice a day 2) Depression since [**2144**] 3) Hypertension since [**2143**] 4) Dental extractions 5) Left humerus spiral fracture in [**2136**] after falling down flight of stairs  Social History: Single gay man, not currently in a relationship, not currently sexually active.
+He smokes marijuana occasionally for relief of nausea and poor appetite.
+Vitals: T 99.8; BP 140/90; HS 95; RR 20; SaO2 97% on RA HEENT: EOMI, PERRL, OP clear and non-erythematous without evidence of mucositis.
+NECK: Supple LUNGS: CTA bilaterally CARDIOVASCULAR: RRR; No murmurs, rubs, or gallops appreciated ABDOMEN: BS present; S/NT/ND NEURO: Alert; NAD; No focal neurologic deficits noted.
+Respiratory Viral Antigen Screen (Final [**2146-2-22**]):       Positive for Respiratory viral antigens.
+Respiratory Virus Identification (Final [**2146-2-22**]):       POSITIVE FOR RESPIRATORY SYNCYTIAL VIRUS (RSV).
+Viral antigen identified by immunofluorescence.
+CXR: IMPRESSION: No evidence of acute cardiopulmonary process.
+No acute findings in the brain, no enhancing masses.
+Mild ethmoid, and sphenoid sinus mucosal thickening.
+Stable appearance of the Ommaya catheter without abnormal intracranial enhancement or other acute findings.
+Brief Hospital Course: # neutropenic fever - Patient presented with ANC 0 and fevers to 103 and was started on vancomycin/cefepime empirically.
+Blood cultures, urine cultures showed no growth.
+The patient began to complain of severe headaches during the hospitalization, which raised the concern of meningitis.
+The patient had no mental status changes (although did have increased irritability), no meningeal signs.
+As there was concern that the patient's antibiotic regimen was insufficiently covering CNS infections, he was transferred to the [**Hospital Unit Name 153**] for an LP to be performed as well as the meropenem desensitization protocol (patient with anaphylaxis to PCN, ~1% chance of crossreactivity with meropenem).
+After returning to the floor from the [**Hospital Unit Name 153**], patient continued to have persistent fevers and now began to complain of nasal/chest congestion.
+Microbiology testing revealed positive viral DFA for RSV.
+The patient's frequency of fevers decreased but he continued to have severe HA.
+Given his continued severe symptoms, even in the setting of an ANC which had now risen to >1000, an MRI brain was performed, which showed evidence of severe pansinusitis.
+The patient was switched to levofloxacin to provide superior atypical coverage.
+# HIV - Most recent CD4 count was 479 and VL was less than 48 copies/mL in 10/[**2145**].
+He was switched to Atripla for his HAART regimen.
+# anemia / thrombocytopenia - The patient had severe anemia and thrombocytopenia during his hospitalization thought [**3-8**] myelosuppresion.
+Zolpidem 5 mg Tablet Sig: 1-2 Tablets PO HS (at bedtime) as needed for insomnia.
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+Sodium Chloride 0.65 % Aerosol, Spray Sig: [**2-5**] Sprays Nasal QID (4 times a day) as needed for congestion.
+Lorazepam 1 mg Tablet Sig: One (1) Tablet PO every six (6) hours as needed for anxiety, nausea.
+Discharge Disposition: Home  Discharge Diagnosis: Primary: RSV infection, sinusitis, febrile neutropenia, Burkitt's lymphoma .
+Secondary: HIV  Discharge Condition: Activity Status:Ambulatory - Independent Level of Consciousness:Alert and interactive Mental Status:Clear and coherent   Discharge Instructions: You were admitted for fevers and low blood counts.
+Your blood cultures were negative, but you were found to have a viral infection called RSV which causes colds and flu like illnesses.
+You were also found to have sinusitis, which is being treated with an antibiotic called levofloxacin.
+Please take senna and colace while taking pain medications to decrease constipation as a side effect 7.
+Please take ibuprofen 200mg twice daily to decrease pain and inflammation .

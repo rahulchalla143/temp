@@ -1,0 +1,45 @@
+Admission Date:  [**2103-11-2**]              Discharge Date:   [**2103-11-21**]  Date of Birth:  [**2058-7-4**]             Sex:   M  Service: MEDICINE  Allergies: Bleomycin / Bactrim / IV Dye, Iodine Containing  Attending:[**First Name3 (LF) 3913**] Chief Complaint: Respiratory distress  Major Surgical or Invasive Procedure: Mechanical ventilation ([**Date range (1) 3927**]/08)  History of Present Illness: 45 yo M with PMH of recurrent Hodgkin's lymphoma (since [**2094**]) s/p auto and allogeneic transplant with recurrence, last chemotherapy (gemcitabine, navelbine, decadron [**2103-8-30**]), ?
+of bleomycin toxicity recently discharged after prolonged hospitalization with MICU stay, [**Month/Day/Year 1065**] pneumonia, complicated by renal failure requiring temporary hemodialysis, who presented with SOB.
+He states this feels like an asthma exacerbation.
+Was febrile when seen in clinic to 102, 88% on RA, was noted to be wheezing and tachycardic.
+Pt became progressively tachypneic and [**Hospital Unit Name 153**] was called to evaluate patient.
+He was intubated on arrival without complication  ROS: Denies any recent sick contacts.
+Notes mild pleuritic chest pain and nausea.
+No emesis, abdominal pain, diarrhea, brbpr, urinary complaints.
+- Prior severe pneumonias, including likely prior [**Year (4 digits) 1065**] infection.
+- Hypothyroidism - Asthma - HBV core Ab positive - S/p biliary stent  Social History: On disability.
+Slight decrease in small left pleural effusion and unchanged small right pleural effusion.
+No change in the appearance of the central venous catheter.
+No pulmonary edema.
+Multifocal pneumonia progressed since [**2103-10-24**] Chest CT, but improved when chest radiographs are reviewed between [**11-2**] and [**11-5**].
+Right infrahilar mass decreased in size since [**2103-1-30**], retroperitoneal adenopathy and left adrenal mass decreased since [**2103-10-5**].
+Brief Hospital Course: 45 yo M with a long history of recurrent Hodgkin's lymphoma s/p allogeneic transplant with recurrence admitted with fever, hypoxia and new pulmonary infiltrates, intubated given respiratory distress.
+RESPIRATORY DISTRESS & ICU COURSE: Transferred to MICU the morning after admission on [**11-3**] and intubated for respiratory distress.
+Intubated on presentation to ICU for respiratory distress.
+Thought initially to have pneumonia - infiltrates in RUL and RML.
+Bronchoscopy demonstrated mild erythema of airways but no visible obstruction.
+With lack of success with antibiotics, thought then switched to possibility of fluid overload.
+Vigileo showed CO=9.6, CI=5.8, indicating hypervolemia with good cardiac function.
+A TTE demonstrated preserved EF with new TR gradient.
+HYPOXIA/PNEUMONIA - Hypoxia was thought to be either from a [**Month/Year (2) 1065**] infection that returned following the discontinuation of posaconazol, or from a new bacterial pneumonia.
+All diagnostic studies were negative except for some pleural gram stains showing GPC and a positive b-glucan (drawn before IVIG).
+A repeat beta-glucan was elevated (> 500), but as this was drawn after IVIG, this was of unclear significance.
+He had a low-grade temp to 100 and mild hypotension on [**11-14**] concerning for infection.
+Repeat chest CT showed interval improvement.
+He remained afebrile with normal pressures off antibiotics.
+Mild fevers and hypotension were thought not to be related to infection ** Posaconazole needs to be continued, start date [**2103-11-2**].
+# HODGKIN'S LYMPHOMA.
+Given acute respiratory failure and possible infection, further treatment was delayed.
+# DECONDITIONING - His multiple hospitalizations and chronic disease have left him severly deconditioned.
+# ACUTE RENAL FAILURE.
+Falling since last admission when patient was suspected of having renal failure secondary to contrast.
+Last admission which required HD; had renal biopsy at that time with findings consistent with ATN.
+His creatinine on discharge was 1.6  # HISTORY OF BLEOMYCIN TOXICITY.
+# HYPOTHYROIDISM.
+# HBV core Ab positive.
+# Code: Full.
+Lorazepam 0.5 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours) as needed for anxiety, nausea.
+Heparin Lock Flush (Porcine) 100 unit/mL Syringe Sig: Five (5) ML Intravenous PRN (as needed) as needed for DE-ACCESSING port.
+Olanzapine 2.5 mg Tablet Sig: One (1) Tablet PO at bedtime as needed for insomnia.
+Discharge Disposition: Extended Care  Facility: [**Hospital6 1643**]  Discharge Diagnosis: HYPOXIC RESPIRATORY FAILURE PNEUMONIA HODGKIN'S LYMPHOMA DECONDITIONING ACUTE RENAL FAILURE HYPOTHYROIDISM   Discharge Condition: T 97.5 HR 102 BP 130/85 RR 18 Sat 95/RA Well appearing.
+Discharge Instructions: You were admitted for respiratory distress, which was thought to be caused by a [**Hospital6 1065**] pneumonia as well as fluid in your lungs.

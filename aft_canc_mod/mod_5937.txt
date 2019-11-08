@@ -1,0 +1,41 @@
+Admission Date:  [**2117-11-18**]              Discharge Date:   [**2117-11-24**]   Service: MEDICINE  Allergies: Ciprofloxacin / Amiodarone  Attending:[**Doctor First Name 1402**] Chief Complaint: transfer from [**Hospital 7168**] hospital for ventricular tachycardia and potential EP study and ablation procedure  Major Surgical or Invasive Procedure: [**2117-11-19**] EP study for VT ablation [**2117-11-19**] Pericardiacentesis with drain [**2117-11-20**] Drain removed   History of Present Illness: Mr [**Known lastname 32729**] is an 82 yo with h/o CAD s/p large anterior MI at age 36 with EF 25%; 2 vessel CAGB in [**2104**] (LIMA to LAD; SVG to OM); s/p SNTEMI [**10/2114**] with stent to native L circ.
+He had a pacemaker/defibrillator placed in [**2114**] for primary prevention; he had an episode of VTach in [**2115**] causing syncope and was begun on amiodarone (d/c'd) and then procainamide since 4/[**2116**].
+Later that day he reported associated light headedness/diaphoresis which prompted him to go to the ED.
+He denied any chest pain or shortness of breath, LOC associated with these episodes.
+At [**Location (un) 14078**] he was found to have 150 episodes of VT. Overnight he evidently had 10 episodes ventricular tachycardia (asymptomatic) and is transferred to [**Hospital1 18**] for EP study and possible ablation.
+His walking is limited by orthopedic problems rather than dyspnea.
+Past Medical History: # CAD s/p large anterior MI at age 36; # 2 vessel CABG [**2101**] LIMA to LAD; SVG to OM # NSTEMI [**10/2114**] s/p stent to native L circ.
+# CHF with LV EF of 25% # Ventricular Tachycardia: had pacemaker placed in [**2114**] for primary prevention (MADIT criteria); had [**Hospital1 18**] hospitalization [**3-26**] (started on amio; d/c'd due to "balance disorder/falls"), started on procainamide [**12/2116**]; decreased from 1000mg tid to 500mg tid with level 7.2 on [**10-15**].
+# s/p [**Company **] [**Last Name (un) **] pacer/defibrillator [**2116-12-31**] (Madit II criteria) # atrial flutter: recenty hospitalized at [**Hospital1 18**] # CRI with baseline Cr in low 2 range # ??
+?L arm emolism; on coumadin since [**7-/2116**] # B achilles tendon rupture [**12-24**] ciprofloxacin # Prostate CA: s/p brachytherapy # osteoarthritis (currently taking prednisone) .
+Remote smoking history, no EtOH  Family History: Father died with CAD; healthy son; daughter with [**Name2 (NI) 95740**]  Physical Exam:  HR 63 (atrially paced); BP 104/76; T 98.1; RR 13 98% RA Gen: well-appearing elderly male in NAD HEENT: NCAT, MMM CV: RRR grade 2-3/6 mid-peaking systolic murmur heard best at RUSB and LUSB; No radiation to carotids or axilla.
+No JVD Pulm: Clear B Abd: s/nd/nt Extremities: warm, well-perfused; 2+ DP pulses B; good groin pulses, no bruits   Pertinent Results: [**2117-11-18**] 01:56PM   PT-22.8* PTT-33.2 INR(PT)-2.3* [**2117-11-18**] 01:56PM   PLT COUNT-195 [**2117-11-18**] 01:56PM   WBC-6.5 RBC-4.19* HGB-12.9* HCT-38.2* MCV-91 MCH-30.8 MCHC-33.8 RDW-13.9 [**2117-11-18**] 01:56PM   ALBUMIN-4.0 CALCIUM-9.4 PHOSPHATE-2.5* MAGNESIUM-2.1 [**2117-11-18**] 01:56PM   GLUCOSE-114* UREA N-36* CREAT-2.2* SODIUM-137 POTASSIUM-4.6 CHLORIDE-103 TOTAL CO2-27 ANION GAP-12 .
+There is a moderate sized pericardial effusion.
+There is severe right ventricular compression, consistent with impaired fillling/tamponade physiology.
+There is moderate to severe regional left ventricular systolic dysfunction.
+No masses or thrombi are seen in the left ventricle.
+The mitral valve leaflets are mildly thickened.
+There is a small to moderate sized pericardial effusion measuring ~1.2cm anterior to the right ventricle and right atrium, and <1cm posterior to the left ventricle and left atrium.
+Transmitral Doppler does not suggest hemodynamic compromise.
+Compared with the prior study (images reviewed) of [**2117-11-23**], the size of the posterior effusion is slightly smaller.
+Brief Hospital Course: A/P 82 yo with CAD s/p old IMI, 2 vessel CABG in [**2101**], NSTEMI in [**2113**] with stent to native L circ, CHF with EF 25-30%, VT s/p ICD placement presenting with recurrent VT.
+Briefly, Mr [**Known lastname 32729**] was admitted w/o evidence of sustained VT on telemetry.
+He had successful ablation of LV scar but this procedure was complicated by pericardial effusion/tamponade.
+He had a successful VT ablation with mapping complicated by bloody pericardial effusion/tamponade and groin bleed (see below).
+Mr [**Known lastname 95741**] ablation was complicated by hemorrhagic effusion causing tamponade requiring pericardial drain (140cc off).
+The drain was pulled and repeat eccho initially showed some small reaccumulation which was subsuquently stable with no evidence tamponade.
+During hospitalization had several episodes of hypotension, one resolving with draining of pericardial fluid, one with a NS bolus of 500cc and dopamine.
+# Groin Bleed/Hematoma: Patient had groin bleed/hematoma in setting of elevtaed INR (coumadin outpt) and instrumentation in fem art for EP study.
+# Rigors/Fever: Patient had rigors during groin bleed Differential includes transfusion reaction from FFP or bacteremia (transient or otherwise) from lines/lungs.
+Not an acute issue .
+# L arm thrombosis: Discontinued anticoagulation as he has been anticoagulated for over 6 mos and likely no further indication.
+# Arthritis: continued prednisone as per outpatient PCP (although this is not likely an appropriate regimen).
+# Prostate CA: outpt managmement, continued home medications of flomax and detrol.
+# Mr [**Known lastname 32729**] is discharged with f/u in 2 days with Dr. [**Last Name (STitle) **].
+Disp:*30 Tablet Sustained Release 24HR(s)* Refills:*2*   Discharge Disposition: Home With Service  Facility: [**Location (un) 932**] VNA  Discharge Diagnosis: Primary diagnosis: Ventricular tachycardia cardiac tamponade systolic left ventricular dysfunction congestive heart failure chronic renal insufficiency CAD .
+Secondary diagnosis: arthritis prostate CA GERD   Discharge Condition: ambulating, tolerating oral intake, vital signs stable.
+If this fluid reaccumulates you could have symptoms such as light headedness, severe fatigue, low blood pressure, lower extremity swelling, or difficulty breathing.
+If you have any of these symtpoms you should go to the emergency room or seek prompt medical attention.
+You should also seek medical attention if you have chest pain, worsening shortness of breath, palpitations, fevers, or for any other concerns.
+You are being treated with antibiotics, Keflex or cephalexin, and should continue a total 7 day course.
+YOu should continue with a low sodium diet (2grams per day) and weigh yourself daiy; if you gain >2lbs or if you have trouble breathing you should contact your doctor.

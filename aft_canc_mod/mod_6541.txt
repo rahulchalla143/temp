@@ -1,0 +1,60 @@
+Admission Date:  [**2171-4-2**]              Discharge Date:   [**2171-4-6**]  Date of Birth:  [**2112-2-27**]             Sex:   F  Service: MEDICINE  Allergies: aspirin / Penicillins / Ceclor / clindamycin / ibuprofen / Erythromycin Base / naproxen  Attending:[**Doctor First Name 3298**] Chief Complaint: Altered mental status  Major Surgical or Invasive Procedure: none  History of Present Illness: Ms. [**Known lastname 82967**] is a 59-year-old female with a history of polycythemia [**Doctor First Name **], hypertension and chronic pain who is presenting with altered mental status.
+Otherwise, the patient is unable to provide much history; however, she did have some pain with palpation of her right upper quadrant.
+Neither the patient nor her wife can remember any trauma to her left leg (though she had a recent fall with a fracture of her left humerus).
+She was noted to have a large area of erythema and tenderness to palpation of the left lower extremity that was marked which involved a large portions of her calf as well as her distal thigh.
+CT scan of her abdomen showed a small gallbladder, making cholecystitis unlikely although not completely excluded; with hyperdense contents which suggest stones or sludge.
+Fatty liver and splenomegaly: although splenomegaly is not specific, concern is raised for steatohepatitis or cirrhosis.
+Review of systems: (+) Per HPI (-) Denies fever, chills, night sweats, recent weight loss or gain.
+Denies headache, sinus tenderness, rhinorrhea or congestion.
+Denies cough, shortness of breath, or wheezing.
+Denies chest pain, chest pressure, palpitations, or weakness.
+Denies nausea, vomiting, diarrhea, constipation, abdominal pain, or changes in bowel habits.
+Denies dysuria, frequency, or urgency.
+Denies rashes or skin changes.
+Hypertension 2.
+Degenerative disc disease 3. chronic pain 4.
+Polycythemia [**Doctor First Name **] followed by [**Last Name (LF) 1852**], [**First Name7 (NamePattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]   Social History: Ms. [**Known lastname 82967**] lives with her wife in [**Location (un) 83264**], [**State 350**].
+She has an odd affect with tangential thinking.
+Inattentive and unable to do months of the year in reverse HEENT - NC/AT, EOMI, sclerae anicteric, Adentulous, MMM, OP clear NECK - supple, no [**Doctor First Name **], no thyromegaly, no JVD, no carotid bruits  LUNGS - CTA bilaterally, moving air well and symmetrically HEART - S1 S2 clear and of good quality, tachycardic, 3/6 SEM RUSB ABDOMEN - NABS, Obese, soft/NT/ND, no masses or HSM EXTREMITIES - WWP, 2+ peripheral pulses (radials, DPs).
+Chronic venous stasis skin changed on bilateral LE.
+Left lower leg with significant erythema from knee to groing along medial aspect tracking in a linear pattern along medial aspect of thigh.
+Marked fatty infiltration of the pancreas, which can be seen as a manifestation of chronic pancreatic inflammation, although other etiologies such as cystic fibrosis could generate such an appearance.
+Mild-to-moderate splenomegaly including small infarcts.
+Splenomegaly in association with fatty liver may raise concern for steatohepatitis or cirrhosis with portal hypertension as the etiology for splenomegaly, although the appearance is not entirely specific.
+Although no complex features are apparent based on CT imaging, particularly based on size and the limitations of CT assessment, when clinically appropriate, evaluation with ultrasound is recommended.
+Mild left inguinal lymphadenopathy, likely reactive; correlation with physical findings involving the left lower extremity is recommended.
+LENI [**4-3**] IMPRESSION: No evidence of deep vein thrombosis either right or left lower extremity.
+Findings above of subcutaneous edema and circumferential skin thickening, which in the right clinical setting may represent [**Month/Year (2) **].
+No focal fluid collections to suggest abscess.
+No subcutaneous emphysema.
+Scattered degenerative changes of the left lower extremity.
+CXR [**4-3**]: FINDINGS: In comparison with the study of [**2168-8-25**], there is little change.
+Continued low lung volumes most likely account for the prominence of the cardiac silhouette.
+No pneumonia, vascular congestion, or pleural effusion.
+Brief Hospital Course: Ms. [**Known lastname 82967**] is a 59 y/o female with a history of polycythemia [**Doctor First Name **], hypertension and chronic pain who presented with altered mental status and [**Doctor First Name **].
+Non-purulent, no necrosis on CT.  Tx initially with Vancomycin/Levofloxacin given allergy profile (anaphylaxis to PCNs and Clindamycin).
+LENI was negative for DVT.
+Although cephalosporin regimen would be most optimal, due to severe reaction type and potential crossreactivity, vancomycin was selected for treatment.
+# Altered mental status.
+Toxic-metabolic encephalopathy secondary to the patient's left leg [**Hospital1 **].
+Head CT not suggestive of hemorrhage.
+# LFTs: Isolated ALP elevation associated with slightly elevated T.Bili to 1.2 from 0.5.
+AST also elevated but ALT flat would suspect mitochondrial dysfunction.
+In ED patient complained of RUQ pain and nausea consitent with cholecystitis.
+CT scan could not definitely rule out cholecystitis.
+Patient has habitus and epidemiology for cholelithiasis but with improved mental status she has no RUQ pain or [**Doctor Last Name **] sign on exam with improvement in mental status so did not pursue a second RUQ US.
+Fever curve also improved on only Vancomycin without GNR or anaerobic coverage.
+#  Tachycardia: Sinus tachycardia to 120s consistently in the MICU.
+Initially thought related to sepsis but did not improve with downtrend of fever curve or improvement in [**Doctor Last Name **].
+Patient with chronic pain on Methadone so pain may be contributing as well.
+Low likelihood for PE without hypoxia, tachypnea, chest pain and LENIs negative for DVT.
+# Hypertension: Chronic, Lisinopril recently restarted with resolution of sepsis but she remained hypertensive.
+Day of discharge she became hypotensive and orthostatic which, per patient's wife, usually happens when increasing BP meds.
+# DJD/chronic pain: Continue methadone but tizanidine and gabapentin were initially held in setting of delirium but restarted prior to discharge  # [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **].
+# Incidentalomas: Splenic infarcts likely PCV related in addition to splenomegaly.
+Large right adenexal cyst can be worked up as outpatient  TRANSITIONAL ISSUES: - Follow up incidentalomas, patient should have adenexal cyst monitored as an outpatient - Better control of hypertension is essential in this patient - Careful with BP meds given profound orthostasis when starting CCB - CODE STATUS: Presumed Full - CONTACT: Wife and HCP [**Name (NI) 636**] [**Name (NI) 82967**] [**0-0-**]   Medications on Admission: - lisinopril 40 mg PO BID - methadone 20 mg PO QID - methadone 10 mg PO Daily - tizanidine 4 mg PO TID - tizanidine 2 mg PO BID - gabapentin 600 mg PO Q4H - lorazepam 0.5 mgPO Q4H as needed for anxiety - Plavix 75 mg Tablet PO once a day - Colace 100 mg PO twice a day as needed for constipation  Discharge Medications: 1. docusate sodium 50 mg/5 mL Liquid Sig: One (1) dose PO BID (2 times a day).
+2. lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 hours) as needed for anxiety.
+Discharge Disposition: Home  Discharge Diagnosis: [**Telephone/Fax (1) **] Encephalopathy Polycythemia [**Doctor First Name **] Hypertension   Discharge Condition: Mental Status: Confused - sometimes.
+You were admitted to [**Hospital1 69**] because of confusion and an infection in the skin of your thigh.
+You were initially admitted to the ICU because of concern for sepsis and you were treated with IV antibiotics with improvement in mental status and skin infection.
+The following changes to your medications were made: - START Bactrim 2 DS tablets twice daily until [**2171-4-11**] - DECREASE your lisinopril to 40mg tabs, 1 tab daily - No other changes were made, please continue taking your home medications as previously prescribed  Followup Instructions: Name: [**First Name11 (Name Pattern1) 177**] [**Last Name (NamePattern4) 83266**], MD Specialty: Primary Care When: Friday [**4-12**] at 11:30am Location: [**Hospital3 **] HEALTH CENTER Address: [**Street Address(2) 83267**], [**Location (un) **],[**Numeric Identifier 17464**] Phone: [**0-0-**]

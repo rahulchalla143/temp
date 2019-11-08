@@ -1,0 +1,68 @@
+[** **] Date:  [**2128-5-26**]              Discharge Date:   [**2128-6-3**]  Date of Birth:  [**2056-3-12**]             Sex:   F  Service: MEDICINE  Allergies: Sotalol / lisinopril  Attending:[**Last Name (NamePattern1) 1167**] Chief Complaint: hyponatremia and lethargy  Major Surgical or Invasive Procedure: [**2128-5-27**] right heart catheterization   History of Present Illness: Ms. [**Known lastname 100868**] is a 72F with history of end-stage non-ischemic dilated CMP w/ EF 20%, complete heart block s/p PPM/ICD, and primary effusion lymphoma s/p chemotherapy ([**2128-4-29**]) who now presents with hyponatremia to 120 and [**Last Name (un) **] with creatinine to 3.0 from baseline 1.6-1.9.
+She has been abiding by her fluid restriction and has been seeing Dr. [**First Name (STitle) 437**] and [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] at all of her scheduled appointments.
+Exam in the ED was notable for no JVD, mildly decreased lung sounds to bases likely representative of bilateral pleural effusions, [**1-9**]+ LE edema.
+III/VI systolic murmur with blunted S2.
+She has end-stage heart failure and the family (mainly her son [**Name (NI) **], primary caretaker) has been somewhat resistant to the idea of how sick she is.
+We agreed to try hypertonic saline VERY slowly to try to avoid volume overload but make her feel better (raise her sodium).
+Urine lytes had a Na of less than 10 with an osmolality 320 in the face of serum osmoles 300 (inappropriate concentration in the face of hyponatremia and volume overload).
+She does not have chest pain, orthopnea, shortness of breath, or palpitations.
+REVIEW OF SYSTEMS On review of systems, she denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, cough, hemoptysis, black stools or red stools.
+She denies recent fevers, chills or rigors.
+She denies exertional buttock or calf pain although she does not walk much at home.
+Cardiac review of systems is notable for absence of chest pain, dyspnea on exertion, orthopnea, palpitations, syncope or presyncope.
+She does have ankle edema and PND x1 the day PTA.
+CARDIAC HISTORY: - PERCUTANEOUS CORONARY INTERVENTIONS: Cath in [**2108**] @ [**Hospital1 2025**] with clean coronaries per report - PACING/ICD: Dual Chamber [**Company 1543**] Virtuoso DR [**Last Name (STitle) **] in [**5-/2124**] as replacement of [**Company **] gem for imminent pocket erosion.
+- Nonischemic Dilated Cardiomyopathy, sCHF (LVEF 20% [**2-/2128**]) - Complete heart block s/p ICD - Severe tricuspid regurgitation - Pulmonary artery systolic hypertension (TTE [**2-/2128**]) - Atrial fibrillation on warfarin and amiodarone.
+OTHER PAST MEDICAL HISTORY: - Primary effusion Lymphoma including in the pericardial space with h/o tamponade s/p rx with velcade x 3 cycles and doxil x 2 cycles - hypercalcemia - Osteoporosis - GERD - E. Coli cystitis [**11/2127**] treated with 7 days of cipro - C. diff with PO metronidazole ([**11/2127**]) x14 days - Chronic kidney disease baseline Cr 1.4-1.6  Social History: She is originally from Sicily, [**Country 2559**], and immigrated in [**2084**], Italian speaking, can speak some English.
+She denies any family history of leukemia or lymphoma.
+She reports that her father had heart disease.
+Sclera anicteric.
+Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.
+No xanthalesma.
+Prominent RV heave.
+4/6 systolic murmur.
+LUNGS: No chest wall deformities, scoliosis or kyphosis.
+CTAB, no crackles, wheezes or rhonchi but generally decreased breath sounds bilaterally ABDOMEN: Soft, NTND.
+No HSM or tenderness.
+EXTREMITIES: 1+ pitting edema bilaterally to mid-shin.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+The left ventricular cavity is mildly dilated.
+There is abnormal septal motion/position consistent with right ventricular pressure/volume overload.
+The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present.
+Mild to moderate ([**12-8**]+) aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+An eccentric, posteriorly directed jet of at least moderate (2+) mitral regurgitation is seen.
+Severe [4+] tricuspid regurgitation is seen.
+Significant pulmonic regurgitation is seen.
+There is a trivial/physiologic pericardial effusion.
+IMPRESSION: Mildly dilated left ventricle with normal wall thickness and severely depressed global left ventricular systolic function.
+Mild to moderate aortic regurgitation.
+At least moderate mitral regurgitation.
+Severe tricuspid regurgitation.
+Indeterminate pulmonary artery systolic pressure.
+DISCHARGE LABS:  Brief Hospital Course: Ms. [**Known lastname 100868**] is a 72 year old female with history of primary effusion lymphoma (PEL) and non-ischemic dilated cardiomyopathy, EF 20%, who presented with hyponatremia and acute renal failure in the setting of volume overload.
+She was started on milrinone continuous infusion; CO increased to 3.1 from 2.9, f/u ECHO did not show significant change but her symptoms improved.
+# Hyponatremia: Urine osmoles showed inappropriately concentrated urine in the face of hyponatremia and volume overload.
+This was supported by low urine Na, suggesting the kidneys were seeing poor forward flow and trying to augment volume and Na.
+Got hypertonic saline with good results: Na increased to 122 --> 126 --> 132 and patient's lethargy resolved.
+Since we felt her hyponatremia was due to heart failure and poor renal perfusion, she was managed with milrinone as below as well as salt tabs.
+# Chronic systolic heart failure (sCHF): Non-ischemic etiology and symptoms are predominantly right-sided, likely due to wide open tricuspid regurgitation.
+Had continued with hypervolemia symptoms and weight gain despite spironolactone 25 mg daily and torsemide 80 mg daily at home.
+Mild to moderate aortic regurgitation.
+At least mild to moderate mitral regurgitation.
+Severe tricuspid regurgitation.
+At least moderate pulmonary artery systolic hypertension.
+Pulmonary diastolic hypertension appreciated.
+A slight decrease in left ventricular cavity size from 5.8 centimeters to 5.6 centimeters is appreciated, but may be due to a positional/angular change of the transducer used in obtaining the images, rather than a true decrease in dimension."
+She is no longer on ACE inhibitors because of her renal function and because her heart remodeling is considered complete.
+We discussed with her and her family that she had end-stage heart failure and likely around 6 months to live.
+# Acute kidney injury ([**Last Name (un) **]): Her [**Last Name (un) **] was likely related to poor renal perfusion from worsening heart failure as well.
+With addition of milrinone, her Cr improved from 3.1 on [**Last Name (un) **] to 2.0  # atrial fibrillation (Afib): Chronic afib status post ICD and now constantly v-paced.
+# Somnolence: Initially was lethargic for 1 week prior to [**Month/Year (2) **] and taking decreased POs.
+Likely multifactorial with contributions from hyponatremia as well as uremia.
+FEN: HH PO, 2 gm Na restriction, 1000 ml fluid restriction CODE: DNR/DNI confirmed EMERGENCY CONTACT:  [**Name (NI) **] [**Telephone/Fax (1) 100871**] son/HCP  TRANSITIONAL ISSUES: - Continue discussions with patient and family about her prognosis from heart failure and PEL.
+Prochlorperazine 10 mg PO Q6H:PRN nausea   Discharge Disposition: Home With Service  Facility: [**Company 1519**]  Discharge Diagnosis: PRIMARY DIAGNOSIS chronic systolic heart failure--EF 20%, non ischemic .
+Secondary diagnosis: Complete heart block Primary effusion lymphoma Atrial fibrillation   Discharge Condition: Improved Mental Status: Clear and coherent.
+We think that both of these problems were because your heart failure was worsening and the blood was not circulating well to the kidneys.
+However, this medication does not change the overall poor prognosis of your heart failure.
+Also, weigh yourself every morning, call Dr. [**First Name (STitle) 437**] if weight goes up more than 3 lbs in 1 day or 5 pounds in 3 days.

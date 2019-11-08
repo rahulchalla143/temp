@@ -1,0 +1,16 @@
+Name:  [**Known lastname **],[**Known firstname 11840**] [**Doctor Last Name **]                    Unit No:   [**Numeric Identifier 14448**]  Admission Date:  [**2169-6-16**]              Discharge Date:   [**2169-6-30**]  Date of Birth:  [**2110-8-20**]             Sex:   M  Service: MEDICINE  Allergies: Unasyn  Attending:[**First Name3 (LF) 4148**] Addendum: HOSPITAL COURSE REVISED/UPDATED: 58yo man with Stage III esophageal CA and PEs on warfarin s/p EGD and biopsy of mass [**2169-6-16**] in the setting of supratherapeutic INR who was admitted to the ICU after 75cc hematemesis post-procedure.
+# Hematemesis: One episode post-EGD in the setting of supratherapeutic INR.
+Changed PPI from IV to PO: pantoprazole IV BID to lansoprazole PO BID for esophagitis seen on biopsy.
+# Chronic PEs: Multiple PEs seen on CT 2/[**2168**].
+# Esophageal CA: Likely has residual disease after XRT and 4 cycles of 5-FU/cisplatin based on EDG.
+Biopsy [**2169-6-16**] showed esophagitis and atypia.
+Dysphagia likely due to near complete obstruction from blood clots in tracheal stent; improved post-EGD.
+# Pneumonia/tracheo-esophageal fistula: Cough after drinking post-EGD [**2169-6-18**].
+Levofloxacin and metronidazole Day #1 [**2169-6-17**], switched to metronidazole, vancomycin, and cefepime for nosocomial/aspiration pneumonia [**2169-6-22**].
+No positive culture data and with evidence of fistula, risk of GI flora supercedes MRSA; D/C'd vancomycin [**2169-6-25**].
+Sputum cx contaminated; no additional sputum was produced.
+Pain improved.
+# Constipation: Resolved.
+# GI PPx: PPI [**Hospital1 **] for hematemesis.
+# DVT PPx: Restarted warfarin for PEs.
+# Code: FULL.

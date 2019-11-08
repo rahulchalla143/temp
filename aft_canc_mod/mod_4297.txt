@@ -1,0 +1,51 @@
+Admission Date:  [**2110-4-3**]              Discharge Date:   [**2110-4-16**]  Date of Birth:  [**2089-10-18**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**Last Name (NamePattern4) 290**] Chief Complaint: multifocal bacterial pneumonia; probable viral illness  Major Surgical or Invasive Procedure: bronchoscopy intubation/extubation mechanical ventilation   History of Present Illness: 20 yo female [**University/College 86794**] student presents with multifocal pneumonia.
+The following day, developed a cough as well, which progressively worsened through the next several days and became productive of yellow-green sputum.
+Her fevers continued to progress, and presented to the ED and was found to have a fever of 105.4.
+She has had a couple of post-tussive emesis, but denies nausea; only abd discomfort d/t muscular strain from cough.
+Nasal swab for influenza was negative, but pt had been on Tamiflu >24 hrs.
+CXR yesterday showed small retrocardiac pneumonia, but per discussion with Radiology, today's CXR is much worse with LLL white-out and bronchograms, and RUL and RLL involvement as well.
+ROS: +: as per HPI, and fever, chills/rigors, night sweats, anorexia, sore throat, chest pain with cough, minimal SOB, cough, headache several days ago (now resolved), mild myalgias - most notable lower back (pt states not uncommon for her), mild-moderate dizziness with standing - improved s/p IVF.
+Past Medical History: Hx pyloric stenosis as an infant  Social History: [**Location 86794**] student.
+No recent heavy drinking.
+RESP: Able to speak in full sentences without difficulty.
+Large area of bronchial breath sounds with +egophony LLL fields.
+Other areas with good AE, and minimal insp rales.
+Ext:  No CEE.
+CXR [**4-3**] (per conversation with Radiology): Multifocal pneumonia, with dramatic worsening since yesterday.
+Worst in LLL, with near white-out and air bronchograms, as well as areas in RLL and RUL.
+No LAD, no pleural effusion.
+CXR [**4-2**]: CHEST, FRONTAL AND LATERAL VIEWS: Dense retrocardiac consolidation is concerning for pneumonia of the superior segment of the left lower lobe.
+Increased density of the left hilus may be due to the pneumonia; however, a follow-up chest radiograph in 6 weeks is recommended to ensure resolution of these findings.
+[**2110-4-3**] Influenza A/B by DFA DIRECT INFLUENZA A ANTIGEN TEST-Neg; DIRECT INFLUENZA B ANTIGEN TEST-Neg INPATIENT  CT CHEST [**4-3**]: 1.
+Severe bilateral pneumonia affecting the left lung to a greater degree than the right, with an associated moderate left parapneumonic effusion.
+There are no CT findings to suggest an empyema, but correlation with thoracentesis may be helpful if this diagnosis is being entertained clinically.
+Enlarged mediastinal and hilar lymph nodes, consistent with hyperplastic nodes in the setting of a severe pneumonia.
+LOWER EXTREMITY NON-INVASIVE [**4-9**] IMPRESSION: No deep venous thrombosis.
+Interval increase in the degree of patchy and ground-glass opacities noted throughout the lungs, now extending into portions of previously spared lung.
+Also noted are increasing bilateral pleural effusions.
+Given these findings, progressive pneumonia versus other etiologies such as ARDS are not entirely excluded.
+Bilateral consolidative opacities at the lung bases, slightly improved at the left lung base, consistent with the known multifocal pneumonia.
+No abnormality identified within the abdomen or pelvis.
+CXR [**4-14**]: Compared to the prior study, there is slight improvement in the left basal aeration with still present significant left retrocardiac consolidation most likely consistent with atelectasis with potential superimposed infection and small pleural effusion.
+No evidence of pneumothorax is present in this supine radiograph, but repeated examination with upright radiograph is recommended to exclude the possibility of subtle pneumothorax given the history of pleural tapping.
+Right basal opacity is unchanged.
+Mild fluid overload is present.
+Brief Hospital Course: 20 yo female college student presents with multifocal pneumonia, with signif white-out of LLL, and also with involvement of RLL and RUL, without pleural effusions, despite levofloxacin which was started approx 36 hours prior to admission.
+Suspect pt may have had a viral infection with superimposed bacterial pneumonia.
+# hypoxic respiratory failure.
+She became progressively hypoxic, and tachypneic with RR in the 50s, with significant respiratory distress.
+On [**2110-4-6**], she became acutely hypoxic with coughing to an SpO2 of the 60s, with a very slow recovery to an SpO2 in the high .
+Patient was electively intubated for hypoxia, requiring high levels of sedation with midazolam and fentanyl, and ultimately paralysis with vecuronium.
+A CXR demonstrated diffuse interstitial markings, presumably from pulmonary edema.
+Extubation was delayed for several days secondary to tongue swelling.
+She had initial difficulty with swallowing but was evaluated by speech & swallow therapy, who felt it was safe for her to try eating, which she did so without significant difficulties.
+# multifocal pneumonia.
+Given pattern of pneumonia, clinical suspicion was high for Streptococcus pneumoniae, although the initial cause may have been a viral infection with a bacterial superinfection.
+On day 8, CTX was discontinued as patient had persistent low grade temps and ID felt that CTX could be causing drug fever.
+Antibiotics were then stopped and the patient remained subsequently afebrile and stable from a cardiopulmonary standpoint.
+# deconditioning - The patient became deconditioned during this hospital stay and will need outpatient physical therapy.
+Discharge Disposition: Home  Discharge Diagnosis: Primary Diagnosis: 1. community-acquired multifocal pneumonia complicated by respiratory failure and mechanical ventilation   Discharge Condition: Mental Status: Clear and coherent Level of Consciousness: Alert and interactive Activity Status: Ambulatory - Independent   Discharge Instructions: You were seen at [**Hospital1 18**] for pneumonia complicated by difficulty breathing that required a breathing tube and mechanical ventilation.
+Your pneumonia responded appropriately to intravenous antibiotics and your breathing tube was removed without difficulty or complications.
+You do not need to continue antibiotics for your pneumonia after discharge.
+Additionally, you had a fungal infection of your skin treated with fluconazole.
+The following medications were changed during your hospitalization: ADDED fluconazole to treat your fungal infection  Followup Instructions: Appointments have been scheduled for you with both a primary care physician (Dr. [**Last Name (STitle) **] and the allergist (Dr. [**Last Name (STitle) 2603**].

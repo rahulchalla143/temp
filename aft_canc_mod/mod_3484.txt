@@ -1,0 +1,51 @@
+Admission Date:  [**2145-12-15**]              Discharge Date:   [**2145-12-28**]  Date of Birth:  [**2084-8-9**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 5552**] Chief Complaint: from ED for sepsis  Major Surgical or Invasive Procedure: placement of biliary drains   History of Present Illness: The pt.
+is a 61 year-old male with h/o pancreatic cancer who presented with fevers to the ED on [**12-15**].
+However, he was unable to reach the major papilla for endoscopic intervention.
+Yesterday, he called Dr. [**Last Name (STitle) **] saying he had a fever and he was restarted on Levaquin.
+Sepsis protocol was initiated.
+He was recusistated with 7 L NS and BP improved.
+CT of abd did not show any acute process (per report from ED) .
+complains of pain at the drain site and some moderate back pain he gets when lying down.
+Has had recent fever and chills.
+Denied headache, sinus tenderness, rhinorrhea or congestion.
+Denied cough, shortness of breath.
+Denied chest pain or tightness, palpitations.
+Denied vomiting, diarrhea, constipation or abdominal pain.
+No recent change in bowel or bladder habits.
+Denied arthralgias or myalgias.
+Pancreatic cancer with hepatic and pulmonary metastasis: from OMR: In the summer of [**2142**], he develped DM II and steatorrheas very quickly, CT scan showed a mass in the head of his pancreas.
+Pathology demonstrated a moderate to poorly differentiated adenocarcinoma at the head of the pancreas with positive margins at the SMA and with positive lymph nodes, eight out of eight.
+he then underwent a right VATS for lund nodules which showed pancreatic adneocarcinoma.
+A CAT scan done on [**11-26**] showed some progression of the target lesions in his lungs so he was removed from protocol.
+He received no treatment since infusional Gemcitabine until his CAT scan showed new multiple hepatic metastases.
+He was being treated on the Xelox protocol but developed severe diarrhea (grade 2), hand foot syndrome (grade 2) and dehydration.
+His feet were very painful and he was having difficulty walking.
+appears to be splinting in pain HEENT: NC/AT, PERRL, EOMI without nystagmus, + scleral icterus noted, MMM, + subuncal icterus Neck: supple, no JVD or carotid bruits appreciated Pulmonary: Lungs with bibasilar crackles.
+S1S2, no M/R/G noted Abdomen: soft, NT/ND, normoactive bowel sounds, no masses or organomegaly noted.
+pain on palpation of his left lateral side Extremities: No C/C/E bilaterally, 2+ radial, DP and PT pulses b/l.
+Able to relate history without difficulty.
+Interval progression of pulmonary metastases.
+Persistent intrahepatic biliary ductal dilatation throughout most of the liver.
+Similar appearance of multiple hepatic metastases.
+New percutaneous biliary drain.
+No opacification of the left-sided bile ducts was achieved with contrast injection.
+male with metastatic pancreatic cancer s/p percutaneous biliary drain placement who returned with septic shock.
+# Sepsis with e. coli bacteremia: Patient was admitted to the intensive care unit in septic shock with a bandemia, elevated lactate, hypotension, and fever.
+His blood cultures and biliary fluid subsequently grew e. coli and the vancomycin was discontinued.
+IR was reconsulted, the cholangiogram showed obstruction of the left sided bile duct and a second biliary drain was placed to improve drainage.
+Patients fever curve declined overall, although he continued to have low grade fevers.
+His WBC count declined, but his TB remained markedly elevated.
+Continued biliary obstruction was attributed to the progression of his metastatic pancreatic cancer.
+# Metastatic pancreatic cancer: Patient was made aware of his CT scan results which showed progression of his cancer.
+He met with Dr. [**Last Name (STitle) **] regarding further possible treatments and it was ultimately decided that he would go to home hospice.
+# Anemia: Patient's hematocrit was slowly down trending throughout this hospitalization which was attributed to frequent blood cultures and labs as well as hemodilution.
+# Low back pain: Chronic condition worsened by prolonged bed rest.
+# Thrombocytopenia: Patient had thrombocytopenia initially which resolved without intervention and was attributed to sepsis/consumption.
+# Hyponatremia: The patient had a mild hyponatremia which did not respond to hydration.
+# DM: Diet controlled, continued on FS QID with ISS # Pancreatic insufficiency: Continued patient on Creon 20 with meals.
+# h/o HTN: Lisinopril was held due to hypotension # Hyperlipidemia: Held lipitor in setting of liver dysfunction   Medications on Admission: 1. protonix 2. compazine 3. celexa 4. lisinopril 5.
+PO DAILY (Daily) as needed for constipation.
+Discharge Disposition: Home With Service  Facility: [**Company 1519**]  Discharge Diagnosis: Primary Diagnoses: Pancreatic cancer with hepatic and pulmonary metastases E. coli bacteremia and sepsis hyponatremia, likely due to SIADH thrombocytopenia, likely due to sepsis Secondary Diagnoses: diabetes, secondary to pancreatic cancer pancreatic insufficiency hyperlipidemia   Discharge Condition: stable   Discharge Instructions: If you experience worsening fevers, chills, abdominal pain, or other concerning symptoms, please call your doctor or return to the emergency room for evaluation.
+We have been holding your lisinopril due to low blood pressure.
+We have been holding your lipitor due to abnormalities in your liver function tests.
+Contact them sooner if there are any problems with the drains.

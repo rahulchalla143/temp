@@ -1,0 +1,45 @@
+Admission Date:  [**2122-1-26**]              [**Year/Month/Day **] Date:   [**2122-2-2**]  Date of Birth:  [**2056-2-12**]             Sex:   M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**Last Name (NamePattern4) 290**] Chief Complaint: abdominal pain  Major Surgical or Invasive Procedure: paracentesis (10L removed)  History of Present Illness: This is a 65 year old male with a history of end-stage renal disease (on HD), cirrhosis secondary to alcohol with multiple complications (see below) and insulin dependant diabetes who presents with abdominal pain and malaise.
+For the past couple days, his wife noted that he was increasingly lethargic and that he was complaining of abdominal pain.
+4 days prior to presentation, he had been tapped therapeutically and 12 L of fluid was drained; he does get weekly paracenteses for recurrent ascites following a failed TIPS.
+He was initiated on HD in [**2121-9-20**] for hepatorenal syndrome, the hemodialysis being a bridge until he gets a transplant.
+In the emergency department, diagnostic paracentesis revealed > 4000 WBCs in para fluid suggestive of spontaneous bacterial peritonitis.
+Past Medical History: -Alcohol-related cirrhosis complicated by esophageal varices, encephalopathy, refractory ascites s/p TIPS which is likely no longer patent, h/o hepato-renal syndrome requiring admission to [**Hospital1 18**] from [**2121-4-18**] to [**2121-4-30**], and h/o SBP on Cipro ppx.
+-IDDM -Hypothyroid -Pituitary mass -h/o nephrolithiasis -h/o +PPD -ESRD on HD MWF, initiated [**2121-9-20**]   Social History: Lives w/ wife at home.
+Physical Exam: ADMISSION PHYSICAL EXAM VS: SBP 93/55, HR 99, SpO2 99% RA, temp 98, RR 12 Gen: Portuguese-speaking male, dark-skinned, drowsy, but otherwise arousable and oriented, in no apparent distress Cardiac: Nl s1/s2 RRR, no murmurs appreciable Pulm: clear bilaterally, no accessory muscle use Abd: grossly distended with dullness to percussion throughout consistent with significant ascites Ext: 1+ edema bilaterally, warm  [**Year (4 digits) 894**] PHYSICAL EXAM General Appearance: Thin, with protuberant abdomen.
+A left IJ tunneled dialysis catheter is again noted with its tip residing in the expected location of the right atrium.
+There is linear opacity in the left retrocardiac space, likely representing atelectasis.
+No definite signs of pneumonia or CHF.
+No pleural effusion or pneumothorax.
+Mediastinal contour appears stable with atherosclerotic calcifications along the aortic knob.
+IMPRESSION: Basilar atelectasis without definite signs of pneumonia.
+No evidence of perforation, abscess formation or hemorrhage.
+Severe liver cirrhosis with splenomegaly and large amount of ascites.
+Filling defect is seen in the distal SMV, at the portal confluence, the proximal portal vein, and the TIPS stent, representing thrombosis or flow artifact.
+Evaluation is limited due to lack of multiphase imaging.
+Massive ascites.
+Cirrhotic appearing liver with splenomegaly.
+Technically limited study, demonstrating diffuse gaseous distention of the large and small bowel, most consistent with ileus.
+The examination was performed at near expiration, which crowds and dilates pulmonary vasculature and is responsible for severe left lower lobe atelectasis.
+There is no pneumothorax.
+PERITONEAL FLUID [**2122-1-26**] AND [**2122-1-27**] ESCHERICHIA COLI AMPICILLIN------------  =>32 R AMPICILLIN/SULBACTAM--  =>32 R CEFAZOLIN-------------   <=4 S CEFEPIME--------------   <=1 S CEFTAZIDIME-----------   <=1 S CEFTRIAXONE-----------   <=1 S CIPROFLOXACIN---------   =>4 R GENTAMICIN------------   <=1 S MEROPENEM-------------<=0.25 S PIPERACILLIN/TAZO-----       R TOBRAMYCIN------------  =>16 R TRIMETHOPRIM/SULFA----  =>16 R   Brief Hospital Course: 65 year old male with a history of EtOh-cirrhosis, on transplant list, complicated by hepato-renal syndrome on HD, presenting with worsening abdominal pain and fatigue.
+# Transition to Comfort Care: the patient's TIPS was found to be not patent and the patient was not considered a transplant candidate in the near future.
+# Sepsis - Abdominal pain is present on review of systems; diagnostic paracentesis reveals a WBC count of >4000 with >90% polys consistent with either SBP or secondary bacterial peritonitis (given repeated taps), but no perforation or abscess seen on CT abdomen.
+Alkaline phosphatase is elevated which could be secondary to TIPS.
+There is concern that a clot in the TIPS could be infected.
+He was treated empirically initially with vanc and zosyn, the vancomycin was changed to daptomycin for VRE given hx of VRE in peritoneal fluid in [**2119**] and chronic thrombocytopenia (so avoid linezolid).
+He did receive albumin for SBP despite already having HRS and being on HD.
+# Ileus: the patient developed a severe ileus, which was thought to be [**1-22**] his peritonitis and his ascites.
+An NGT was placed with relief of nausea and vomiting, and he was discharged with this tube to hospice for intermittent suctioning.
+# Anemia: the patient has had an acute hematocrit drop from 28 to 21.
+The patient has baseline anemia, likely secondary to kidney disease and liver disease; prior iron studies consistent with anemia of chronic disease.
+In the setting of acute hematocrit drop, concern for bleed; no signs of acute bleeding despite history of varices.
+No signs of hemorrhage on CT abd.
+# Cirrhosis - Secondary to EtOH.
+Complicated by esophageal varices, hepatic encephalopathy, and refractory ascites s/p TIPS that is no longer patent.
+He did receive a therapeutic paracentesis with removal of 10L of fluid on [**2122-1-28**].
+After that point, although he was in pain with his distension, the patient could not have another paracentesis as his hypotension was preventative.
+# End stage renal disease - Hemodialysis for hepatorenal syndrome in setting of cirrhosis.
+No evidence of incarceration/strangulation.
+This has been one of the patient's most significant sources of discomfort and embarassment for several years however he has been told that he is not a candidate for surgical repair until after he has a liver transplant.
+9. insulin lispro 100 unit/mL Solution Sig: please see below units Subcutaneous four times a day: as directed 4 times a day per sliding scale sliding scale: (<70) no insulin.
+Disp:*2 bottle* Refills:*0*   [**Name8 (MD) **] Disposition: Home with Service  [**Name8 (MD) **] Diagnosis: patient expired Primary Diagnosis: alcoholic cirrhosis hepatorenal syndrome on hemodialysis hepatic encephalopathy  Secondary diagnosis: hypothyroidism insulin dependent diabetes   [**Name8 (MD) **] Condition: patient expired.

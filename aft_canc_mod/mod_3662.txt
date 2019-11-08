@@ -1,0 +1,37 @@
+Admission Date:  [**2168-11-16**]              Discharge Date:   [**2168-11-23**]  Date of Birth:  [**2097-9-4**]             Sex:   M  Service: MEDICINE  Allergies: Penicillins / Amoxicillin  Attending:[**First Name3 (LF) 3276**] Chief Complaint: shortness of breath  Major Surgical or Invasive Procedure: bronchoscopy  History of Present Illness: CC: SOB, cough .
+HPI:  71 yo M with recent diagnosis of metastatic nonsmall cell lung cancer (unresectable stage IV) s/p first treatment of taxol, carboplatin, and zometa on [**2168-11-15**] presents with worsening SOB, cough, and fever.
+This am he awoke with fever to 100.6 and worsening productive cough.
+A Chest CT revealed a large left pleural effusion and LLL/lingular/portions of LUL collapse (worsened significantly compared to [**2168-10-22**]).
+Past Medical History: - metastatic nonsmall cell lung cancer (unresectable stage IV) s/p Taxol, Carboplatin, and Zometa on [**2168-11-15**] - gout  Social History: quit smoking 53 years ago, smoked 20 pack years.
+asbestos exposure while in military lives with wife, is retired employed previously as electrician Daughter [**Name8 (MD) **] RN @ [**Hospital1 18**]   Family History: father died 83years lung cancer mother died of liver cancer, ?
+age sister CAD, s/p CABG  Physical Exam: Tm 102 Tc 101.4 BP 80/45 HR 95 RR 14 Sat 100% AC Vt 550/RR 14/PEEP 12/FiO2 100% Gen: intubated, sedated HENNT: MMM, anicteric Neck: no LAD, no JVD CV: tachy, regular, nl S1S2, No M/R/G Lungs: coarse breath sounds, bibasilar crackles, no wheezes Abd: soft, NT/ND, +BS, No HSM Ext: no edema, strong DP/PT pulses bilaterally Neuro: moving all extremeties  Pertinent Results: [**2168-11-16**] 10:51PM   TYPE-[**Last Name (un) **] TEMP-38.4 RATES-16/ PO2-155* PCO2-42 PH-7.37 TOTAL CO2-25 BASE XS-0 -ASSIST/CON INTUBATED-INTUBATED [**2168-11-16**] 09:47PM PLEURAL  TOT PROT-4.3 GLUCOSE-185 LD(LDH)-273 [**2168-11-16**] 09:47PM PLEURAL  HCT-2.5* [**2168-11-16**] 09:47PM PLEURAL  WBC-2922* RBC-[**Numeric Identifier 62249**]* POLYS-17* LYMPHS-37* MONOS-18* EOS-2* ATYPS-7* MESOTHELI-2* MACROPHAG-2* OTHER-15*  .
+No evidence of pulmonary embolism.
+2. large left pleural effusion and collapse of left lower lobe, lingula and portions of the left upper lobe have worsened significantly compared to [**2168-10-22**].
+Occlusion of the left lower lobe and lingular bronchi 3.
+Bulky mediastinal and bilateral hilar adenopathy.
+New pathological fracture of the left seventh rib.
+Patchy opacity within the right lower lobe, likely reflecting an infectious or inflammatory process.
+- CXR [**2168-11-16**]: Interval increased left pleural effusion, and increasing parenchymal opacities in left lower lobe and lingula.
+Given the known lesions in the left hila, this is concerning for postobstructive pneumonia/atelectasis.
+Left rib met.
+- MRI head [**2168-11-5**]: Mild-to-moderate brain atrophy.
+No enhancing lesions are seen.
+No evidence of mass effect or hydrocephalus.
+The intensity of this uptake is greater than expected for postobstructive inflammatory change alone and is consistent with the given history of non-small cell lung cancer.
+FDG-avid bilateral hilar adenopathy and widespread bilateral mediastinal adenopathy.
+Multiple foci of FDG-avid lytic metastases involving the left scapula, the left lamina of T1, the right 5th rib (with pathologic fracture), the left 7th rib, the right sacrum and right acetabulum.
+- Chest CT [**2168-10-22**]: bulky, bilateral mediastinal lymphadenopathy as well as bilateral hilar adenopathy, the largest lymph nodes include a subcarinal node or mass measuring approximately 2.5 cm x 3.5 cm in diameter.
+There are also bilateral calcified pleural plaques present.
+The lower lobe is partially collapsed, and within the area of enhancing atelectatic lung, there is a low-density rounded area measuring 2.0 cm x 1.8 cm in diameter.
+The lungs also demonstrate emphysematous changes, also was found to have a small-to-moderate pleural effusion and a small pericardial effusion.
+Additional central peri-bronchovascular thickening in the left lower lobe was found which could be related to lymphatic obstruction or localized lymphangitic spread of tumor.
+Brief Hospital Course: A/P: 71 yo M with recently diagnosed metastatic non small cell lung cancer (unresectable stage IV) s/p first treatment of Taxol, Carboplatin, and Zometa on [**2168-11-15**] presents with worsening cough and fever.
+Patient's shortness of breath, cough and fever were likely secondary to a post-obstructive pneumonia in setting of a known malignancy.
+CT chest revealed a large left pleural effusion and collapse of left lower lobe, lingula and portions of the left upper lobe.
+Shortly after transfer to the ICU patient became hypoxic and required intubation.
+Tap of left pleural effusion on [**11-16**] was positive for non-small cell carcinoma.
+Bronchial washings, subcarinal mass, and paratracheal lymph node obtained on [**11-19**] were again consistent with malignancy.
+Repeated blood, sputum, and urine cultures did not identify etiology of infection; viral screen also negative.
+Course was further complicated by developing neutropenia (s/p chemotherapy).
+Despite the placement of a second chest tube, patient continued to have hypoxic respiratory failure, secondary to large malignant pleural effusion and left lung collapse.
+Patient became hypotensive, likely secondary to sepsis, and required pressors and fluid boluses to maintain his CVP and urine output.

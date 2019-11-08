@@ -1,0 +1,50 @@
+Admission Date:  [**2172-2-12**]              Discharge Date:   [**2172-2-18**]  Date of Birth:  [**2088-9-22**]             Sex:   M  Service: MEDICINE  Allergies: Vancomycin  Attending:[**First Name3 (LF) 3531**] Chief Complaint: hypotension  Major Surgical or Invasive Procedure: none  History of Present Illness: This is an 83 y.o male with a history of MDS, HTN, gout, CVA, afib, CHF, colon cancer s/p colectomy with ostomy who initially presented to [**Location (un) 620**] with weakness and chills.
+There, he was found to have an elevated WBC from baseline, decreased platelet counts and positive UA.
+He was found to have questionable ischemic vs. emboli to the finger.
+Vascular surgery was consulted who believed this to be consistent with bruising, no concern for ischemia.
+He was given ceftaz and linezolid empirically as well as stress dose steroids.
+On arrival to the [**Hospital Unit Name 153**], the patient stated that his only concern was left shoulder pain for a few days-inside the joint, some radiation, no paresthesias or weakness.
+Pt's aid reported increased diarrhea and output from the stoma that "smells like C.diff" with some blood.
+Pt's aid reported that he was on amoxicillin last week for dental procedure.
+Antibiotic coverage was changed to cipro and flagyl to cover for suspected GU source of infection and C diff.
+He was not transfused blood or platelets, because he has been trending down over the past month.
+Currently, the patient complains of not being able to eat the things he likes because of diet restrictions, but has no other complaints.
+Denies headache/dizziness/blurred vision/ST/rhinorrhea/cough/cp/sob/palps/abd pain/n/v/conspt/dysuria change in urine output or color/other joint pain/skin rash.
+Past Medical History: - MDS - advanced, seems to be progressing over the course of the past few months - Stroke x 2 in the past- retinal artery occlusion resulting in L eye blindness a few years ago, and a stroke when he was 45 that he thinks presented as L face numbness and "trouble getting his feet to do what his brain told them" - bilateral carotid stenosis- 60-69% R and L in [**12-22**] - congenital hip dysplasia, wheelchair bound - peripheral vascular disease - sleep apnea - L5-S1 discitis s/p laminectomy and excision in 5/00 - colon cancer status post colectomy in [**2157**] - hypertension - gout - spinal stenosis, status post back surgery complicated by osteo - atrial fibrillation, noted during [**6-18**] hospitalization   Social History: He is of Italian descent, both parents came from Abruzzi.
+Has one glass of wine every day, but has a reported history of alcohol abuse.
+No conjunctival pallor.
+No scleral icterus.
+Neck Supple, No LAD, No thyromegaly.
+[**2-22**] systolic murmur at RUSB.
+no rubs or [**Last Name (un) 549**].
+EXTREMITIES: No edema or calf pain, 2+ dorsalis pedis/ posterior tibial pulses.
+L.2nd finger with ecchymotic blister on palmar surfarce of distal finger pad.
+R.3rd finger with small ecchymotic area on dorsal 3rd finger.
+no pain on passive rOM, no erythema or warmth.
+appears of hands c/w rheumatoid arthritis.
+[**2172-2-12**]  CXR:  IMPRESSION: No acute pulmonary process.
+Stable chest x-ray examination with the exception of two linear metallic objects projecting over the oral cavity.
+Microbiology: [**2172-2-13**]  FECES POSITIVE FOR C. DIFFICILE TOXIN BY EIA.
+Brief Hospital Course: This is a pleasant 83 y.o male with a history of HTN, advanced MDS, a fib, CVA, colon cancer s/p ostomy admitted to the [**Hospital Unit Name 153**] for hypotension in the setting of infection, likely GU and GI sources.
+Hypotension/SIRS - secondary to C diff colitis:  On presentation the patient had significant leukocytosis (upwards of 40 at [**Location (un) 620**]), hypotension, hypothermia, and elevated lactate.
+The most likely source of his infection was GI, given increased stool output from ostomy per 24 hour caregivers with recent antibiotic use for dental procedure.
+The patient's hypotension and elevated lactate resolved and leukocytosis improved after 2L IV NS in ED and broad spectrum antibiotics.
+The patient did not have evidence of any other source of infection during his hospital stay.
+Advanced MDS:  Anemia and Thrombocytopenia - Seemed to be progressing over the past month per his primary care physician and primary oncologist.
+Likely the patient's bruising/blood blisters on his fingers were related to his decreased platelet count.
+Platelets were transfused given increased bleeding from ostomy, likely related to colitis.
+Likely end stage disease, but family would like to change oncology care to [**Hospital1 18**].
+Non-gap metabolic acidosis:  Secondary to increased amounts of output from ostomy.
+Acute renal failure:  Secondary to dehydration given prerenal picture.
+T wave inversions:  Present in V2-v5 on admission, likely related to demand ischemia in the setting of infection and anemia.
+Trop 0.05 then 0.03, 0.03 in the setting of acute renal failure.
+The patient and family were aware of the risk of bleeding outweighing risk of stroke.
+Restarted toprol during stay and asked to restart lasix on discharge given scrotal, penile and leg edema following multiple transfusions.
+Trazodone 50 mg Tablet Sig: 0.25 Tablet PO HS (at bedtime) as needed for insomnia.
+Ativan 0.5 mg Tablet Sig: One (1) Tablet PO every 6-8 hours as needed for anxiety for 7 days.
+Disp:*30 Tablet(s)* Refills:*0*   Discharge Disposition: Home With Service  Facility: [**Company 1519**]  Discharge Diagnosis: Primary Diagnoses: Advanced MDS - anemia and thrombocytopenia C. Diff Colitis .
+Secondary Diagnoses: Hypertension Atrial Fibrillation Gout history of colon cancer   Discharge Condition: Mental Status:Confused - sometimes Level of Consciousness:Alert and interactive Activity Status:Out of Bed with assistance to chair or wheelchair   Discharge Instructions: You were admitted to [**Hospital1 18**] for evaluation of low blood pressures and increased output from your ostomy.
+You were found to have an infection in your abdomen called C. diff colitis.
+You were treated with antibiotics for this infection.
+You were also found to have low platelet and red blood cell counts.
+Medication Changes: START Flagyl 500mg every 8 hours for 7 days START Ativan 0.5mg as needed for anxiety STOP Coumadin STOP Lipitor STOP Lasix (you may need to restart this medication when the output of your ostomy decreases and returns to normal)  Followup Instructions: Please follow up with your primary care physician, [**Last Name (NamePattern4) **].

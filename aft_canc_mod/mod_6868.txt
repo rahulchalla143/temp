@@ -1,0 +1,103 @@
+Admission Date:  [**2148-4-18**]              Discharge Date:   [**2148-5-24**]  Date of Birth:  [**2075-8-22**]             Sex:   F  Service: MEDICINE  Allergies: Codeine / Penicillins  Attending:[**First Name3 (LF) 3984**] Chief Complaint: Recurrent HTLV1 associated adult T-cell leukemia/lymphoma  Major Surgical or Invasive Procedure: None  History of Present Illness: This is a 72 year old female with past medical history of hypertension, coronary artery disease, and hyperlipidemia who was newly diagnosed with the lymphomatous form of HTLV associated T-Cell lymphoma/leukemia in [**2147-5-30**].
+She received fluids and bisphosphonate for hypercalcemia and CHOP*1 before being discharged on Zidovudine and Interferon alpha therapy.
+Interferon had to be discontinued due to cytopenias and AZT was continued through [**Month (only) 547**] of this year.
+Next, she received two additional cycles of CHOP + Denileukin diftitox consolidation before proceeding to maintenance therapy with Denileukin diftitox two doses Q14 days.
+Unfortunately, in [**2147-1-28**] the patient began to experience a hematologic relapse with a rise in her WBC to 9.4 and atypical lymphs on a CBC from [**2148-2-9**].
+She was admitted to NEBH from [**Date range (3) 79098**] with neutropenic fever and phayrngitis for which she was treated with levofloxacin.
+Since that admission, she reported dealing with recurrent lymphadenopathy with palpable cervical, preauricular, occipital, and axillary nodes.
+She had also developed fevers and night sweats over the past four days prior to admission.
+She had a repeat chest CT on [**2148-4-9**] that showed increased lymphadenopahthy.
+She had a brief stay in the Medical ICU ([**Hospital Ward Name 332**]) from respiratory distress, which was felt to be pulm edema and was treated with aggressive diuresis.
+She was then tried on ARA-G (last course was on [**5-15**]) but was running into problems with tumor lysis syndrome and the fluids necessary to treat/prevent this.
+She was also started on vanc/levofloxacin for suspected line infection and pneumonia on [**5-20**].
+Physical Exam: VS: T 99.0, BP 104/60, HR 80, RR 16, O2 Sat 98% on 2L Gen: Well appearing, NAD HEENT: Normocephalic, anicteric, PERRL, OP benign, MMM Neck: Supple, no thyroid nodules Lymphadenopathy: There are numerous 1-2 cm posterior cervical lymph nodes, one 1-2 cm right pre-auricular node, a one cm left sided occipital node, multiple supraclavicular nodes bilaterally, an approximately 2 cm right sided axillary node and a 1.5 cm left sided node, these are all mobile and rubbery, inguinal exam was deferred, no antecubital or popliteal lymphadenopathy appreciated CV: RRR, [**12-5**] PSM; mild jugular venous distension; no carotid bruits; DP, PT, Radial, and carotid pulses 2+ bilaterally Pulm: Expansion equal bilaterally, mild bilateral inspiratory crackles.
+Abd:Soft, NT, ND, BS+, no organomegaly or masses appreciated Extrem: Warm and well perfused, no C/C/E, there is some scarring around her left ankle related to a childhood injury per the patient Neuro: A and O*3, CNII-XII grossly intact, strength 5/5 in all extremities Psych: Pleasant, cooperative, thought process linear and goal-directe  Pertinent Results: LABORATORY RESULTS =================== On Presentation: WBC-11.1*# RBC-2.81* Hgb-8.7* Hct-27.2* MCV-97 RDW-19.5* Plt Ct-150# -Neuts-44* Bands-0 Lymphs-29 Monos-14* Eos-6* Baso-1 Atyps-4* Metas-1* Myelos-1* -RBC Morph:Hypochr-OCCASIONAL Anisocy-1+ Poiklo-OCCASIONAL Macrocy-1+ Microcy-NORMAL Polychr-NORMAL Tear Dr[**Last Name (STitle) 833**]) PT-12.7 PTT-26.4 INR(PT)-1.1 Glucose-142* UreaN-18 Creat-1.0 Na-142 K-4.1 Cl-106 HCO3-25 AnGap-15 ALT-18 AST-40 LD(LDH)-671* AlkPhos-87 TotBili-0.2 Calcium-9.4 Phos-3.5 Mg-2.0 UricAcd-5.0  On Discharge ([**2148-5-23**]): WBC 57 RBC 3.82 HGB 11.6 HCT 37.1 PLT 24  Na 139 K 5 Cl 92 HCO3 13 BUN 42 Creat 2.2 Glucose 109  ALT 40 AST 110 LDH 1827 Alk Phos 120 Amylase 19 TBili 0.7 Lipase 10  CK MB 3 Troponin T 0.36  Ca 8.6 Phos 6.9 Mg 2.1  ABG 7.36/110/21  Lactate 13.0 Other Labs: [**2148-4-21**] 05:42AM BLOOD CK-MB-7 cTropnT-0.37* proBNP-[**Numeric Identifier 79099**]* [**2148-4-21**] 02:58PM BLOOD CK-MB-7 cTropnT-0.20* [**2148-4-22**] 05:45AM BLOOD CK-MB-3 cTropnT-0.26* [**2148-4-23**] 12:30AM BLOOD CK-MB-4 cTropnT-0.10*  MICROBIOLOGY ============== Blood Culture [**2148-4-22**]:       STAPHYLOCOCCUS, COAGULASE NEGATIVE.
+SENSITIVITIES: MIC expressed in MCG/ML _______________________________________________________________                              STAPHYLOCOCCUS, COAGULASE NEGATIVE                              | ERYTHROMYCIN----------   =>8 R GENTAMICIN------------     8 I LEVOFLOXACIN----------   =>8 R OXACILLIN-------------   =>4 R RIFAMPIN-------------- <=0.5 S TETRACYCLINE----------     2 S VANCOMYCIN------------     2 S  All other blood and urine cultures no growth to date Rapid respiratory viral screen on [**2148-4-25**] with no viral antigens detected.
+OTHER RESULTS =============== Chest Radiograph [**2148-4-18**]: IMPRESSION: No acute intrathoracic process.
+No evidence of pneumonia.
+Moderate increase in size of the pre-existing mediastinal lymph nodes.
+No evidence of abdominal lymph nodes.
+No evidence of osteolytic lesions.
+Interval increase left lateral breast lymphadenopathy, abutting the pectoralis.
+Differential includes lymphoma versus breast origin.
+Interval increase of retroperitoneal lymphadneopathy.
+Unchanged thickened distal antrum and pylorus.
+Transthoracic Echocardiogram [**2148-4-18**]: IMPRESSION: Mild regional left ventricular systolic dysfunction (EF 45%), c/w CAD.
+Mild right ventricular systolic dysfunction.
+Mild aortic regurgitation.
+Mild pulmonary hypertension.
+Compared with the prior study (images reviewed) of [**2147-6-3**], regional left ventricular systolic dysfunction is more evident because of a technically-better study.
+Sinus tachycardia, probably with atrial premature beats.
+Right bundle-branch block.
+ST-T wave abnormalities.
+ST-T wave abnormalities are new.
+Right bundle-branch block.
+Chest Radiograph [**2148-4-22**]: IMPRESSION: Findings still suggest pulmonary edema, less likely widespread hemorrhage.
+Transthoracic Echocardiogram [**2148-4-23**]: IMPRESSION: Moderate regional and global left ventricular systolic dysfunction (EF 30%).
+Dilated right ventricle with mild global systolic dysfunction.
+Mild to moderate mitral regurgitation.
+Moderate to severe tricuspid regurgitation.
+Mild pulmonary hypertension.
+Dilated coronary sinus.
+Severity of valvular regurgitation is greater.
+No free air.
+No bowel obstruction.
+CXR [**5-23**] REASON FOR EXAMINATION: Acute tachypnea, recent intubation.
+The ET tube tip at the origin of the right main bronchus and should be pulled back at least 3 cm.
+There is no change in the cardiomegaly, left basal atelectasis and bilateral pleural effusions.
+The patient is in mild volume overload that is not significantly different from the prior study.
+Brief Hospital Course: 72 year old female with coronary artery disease and hypertension presenting with recurrent HTLV-1 associated Adult T-Cell Leukemia/Lymphoma (ATLL) after 8 cycles of CHOP w/denileukin diftitox.
+1) Adult T-Cell Leukemia/Lymphoma (lymphomatous form): The patient was admitted for further treatment of her ATLL.
+Her major symptoms from this lymphoma were her significant lymphadenopathy as well as her fevers and night sweats.
+Nevertheless, as she was proceeding with [**Hospital1 **], which has a much lower risk of cardiac toxicity secondary to the anthracycline being given as a slow infusion, the possible benefits of [**Hospital1 **] were considered to outweigh the risks.
+[**Hospital1 **] was given per protocol with our standard premedication regimen of ondansetron and 100 mg of prednisone daily for nausea and the patient initially tolerated it well with minimal nausea and no other issues.
+Unfortunately, [**Hospital1 **] was stopped on [**2148-4-21**] during an episode of acute respiratory distress and was not restarted given concern for incremental cardiotoxcity from the anthracycline.
+Despite her limited course of chemotherapy the patient responded well with significant decrease in her palpable lymphadenopathy and a drop in her LDH.
+She was briefly placed on filgrastim for concern of preventing her nadir given concern of an active bacteremia (see below) but this was stopped on [**2148-4-29**] without significant leukopenia and she was never neutropenic.
+She did develop anemia and thrombocytopenia requring pRBC transfusions, but never had signs of bleeding.
+She also had mild mucositis treated with local cares with good improvement in her symptoms and she took good PO throughout her hospitalization.
+After the patient was presumed stable with regards to her systolic CHF decompensation and febrile illness, she was treated with ARA-G therapy day one [**2148-5-8**].
+She was monitored for signs of neurotoxicity.
+Neurology was consulted regarding her recent treatment with ARA-G.  She had a non-contrast head CT which did not show evidence of acute process.
+She also had an LP which did not show evidence of infection or malignant process.
+On the evening of admission to the [**Name (NI) 153**], pt had been complaining of abdominal pain.
+An abdominal x-ray prelim read showed no evidence of free air, no air-fluid levels, only a large air-filled stomach.
+A NGT was placed, and subsequent Xray showed complete decompression of the stomach.
+In between breaths, she only complained of difficulty breathing.
+2) Acute systolic heart failure:  The patient had a previous history of reported coronary artery disease but a previous clean catheterization per report.
+At admission an echocardiogram was obtained that showed an EF of 45% and a local wall motion defect consistent with ischemic cardiomyopathy.
+She had no shortness of breath or chest pain throughout this course.
+She had received 20 mg of IV furosemide with this blood given known low-ish ejection frection.
+Later that evening, however she developed acute shortness of breath.
+Chest rardiograph revealed acute pulmonary edema and so she received 40 mg IV furosemide and had 0.5 inch nitro paste placed.
+Her cardiac enzymes returned with mildly positive troponin (0.37) and negative ck-mb (tropnonin steadily declined afterward and CK-MB never came out of normal range.
+Cardiology consult thought this was most likely due to demand ischemia and heart failure (BNP was 18,063) rather than acute ischemia.
+She had some mild feeling of chest pressure at the worst of her respiratory symptoms but was otherwise without chest pain and she improved quickly with diuresis and she was transferred back to the floor on the evening of [**2148-4-22**].
+Repeat echocardiogram showed diffuse hypokinesis and a decreased EF to 30%.
+The diffuse hypokinesis continued to suggest a general cardiomyopathy overlying ischemic cardiomyopathy (with adriamycin considered the most likely cause).
+Aspirin was held given concern for recent chemotherapy and thrombocytopenia, but she was started on a good heart failure regimen with long acting beta blocker and low dose of short acting ACEi (as her BP's were relatively low).
+She was eventually transitioned to long acting ACEi in order to address dosing concerns with her marginal BP's, but was not continued as the patient's blood pressure was marginal.
+The patient remained mildly hypotensive, thus metoprolol was decreased to 12.5mg [**Hospital1 **].
+During the course of ARA-G, the patient required extensive diuresis given the large amount of fluids to prevent tumor lysis syndrome.
+During her course on the oncology med service she episodes of dyspnea with O2 desats at night and tachypnea with crackles in her lungs, which responded to lasix at increasing doses up to 300 mg per night.
+On [**5-23**], despite a negative fluid balance during the day, she had an acute episode of dyspnea characterized by labored breathing, clear lungs, and desaturations that did not improve with nebs/O2 mask.
+An ABG revealed a metabolic acidosis (lactate 13) with compensating respiratory alkalosis(CO2 21).
+At this point, due to her labored breathing and deteriorating condition, she was transferred to the [**Hospital Unit Name 153**] and intubated as an immediate discussion with family decided that it would be appropriate for the patient to be intubated.
+She defervesced with therapy but spiked a fever to 102.7 in the ICU and was empirically started on vancomycin and meropenem.
+Cultures grew coagulase negative staph while she was in the unit.
+Meropenem was stopped the following day but vancomycin was continued given the patient's blood culture came back positive and she had an indwelling port for chemotherapy.
+In an attempt to preserve the port, the decision was made to try and treat through the infection so surveillance cultures were taken for the following days.
+Culture from [**2148-4-23**] did also grow coagulase negative staph but all other cultures returned negative for growth.
+A CXR was done which showed evidence of infiltrate, a follow up Chest CT showed ground glass opacities on the left side.
+Pulmonary was consulted for possible bronchoscopy, however the decision was made to treat for possible pulmonary infection empirically with levofloxacin for 7 days.
+She was mildly hypotensive, tachycardic, decreased urine output, and had no other localizing symptoms other than generalized weakness.
+Vancomycin and Levofloxacin were restarted on [**2148-5-20**] to treat the presumed line infection and possible pulmonary source.
+4) Abdominal Pain: On [**2148-4-23**] after transfer back to the floor the patient developed an episode of acute abdominal pain.
+This was diffuse abdominal pain without rebound or guarding and with active bowel sounds.
+Abdominal exam revealed distension and tenderness but good bowel sounds.
+As the patient reported not having had a bowel movement in two days and feeling constipated this was most likely thought to be due to ileus probably secondary to the vincristine she received as well as her diet change in the hospital and pain medicine she received in the ICU.
+This resolved by the following day after being put on more aggressive medications for dyspepsia and after having a large bowel movement on a better stool softening regimen.
+5) Rash:  The patient developed a rash following using topical lotion.
+Dermatology was consulted and did a skin biopsy which showed likely hypersensitivity reaction.
+Lymphoma involvement of the skin was considered, but the pathology showed intraepidermal lymphocytes, mounded parakeratosis, dermal erythrocyte extravasation, and superficial perivascular lymphocytic inflammation with scattered interstitial eosinophils consistent with hypersensitivity reaction.
+Prophylaxis: She was on TMP-Sulfa for PCP prophylaxis at home and was started on acyclovir for viral prophylaxis when she was admitted given her presumed T cell dysfunction and vulnerability to viral infections, these were discontinued prior to discharge as she was not neutropenic.

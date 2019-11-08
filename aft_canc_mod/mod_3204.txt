@@ -1,0 +1,27 @@
+Admission Date:  [**2169-12-7**]              Discharge Date:   [**2169-12-9**]  Date of Birth:  [**2130-2-9**]             Sex:   M  Service: MEDICINE  Allergies: Ampicillin / Ancef  Attending:[**First Name3 (LF) 898**] Chief Complaint: Tx from [**Hospital1 **] -Need for eval for pacemaker   Major Surgical or Invasive Procedure: None  History of Present Illness: This is a 39 year old male with a history of paraplegia after a car accident at the age of 19 who was in [**Hospital1 **]-Need for a UTI.
+Patient has a history of UTIs and was being treated with imipenum given past reistance patterns.
+He was in the ICU for concern for urosepsis when he started having sinus pauses to the 30s.
+A cardiologist as OSH [**Hospital1 653**] a cardiologist at [**Hospital1 **] and the plan was to have the patient transferred to [**Hospital1 **] for eval for a pacer.
+C4/C5 Spinal Cord Injury (17 y/a)due to MVA - can move arms slightly cannot move legs 2.
+Seizure Disorder ('[**62**]-'[**63**]) 4.
+Multiple past urinary tract infections including w mild UAs per [**Month (only) 116**] discharge summary, have included Klebsiella, ESBL E coli, enterococcus.
+Myelodysplastic syndrome (leukopenia and anemia)  Social History: Lives with roommates in house in [**Location (un) 620**], MA.
+HEENT: Sclera anicteric, MMM, oropharynx clear Neck: supple, JVP not elevated, no LAD Lungs: CTA b/l CV: bradycardic, normal S1 + S2, no murmurs, rubs, gallops Abdomen:  urostomy and bowel cateter site clean, soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly GU: foley intact Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema Neuro: Right eye prosthesis.
+CN II-XII intact, minimal movement of upper extremities, no movement of lower extremities.
+Pertinent Results: [**2169-12-7**] 10:28PM BLOOD WBC-4.3 RBC-2.69* Hgb-8.7* Hct-25.9* MCV-96 MCH-32.3* MCHC-33.6 RDW-17.1* Plt Ct-67*# [**2169-12-7**] 10:28PM BLOOD Plt Ct-67*# [**2169-12-7**] 10:28PM BLOOD Glucose-90 UreaN-29* Creat-1.2 Na-145 K-4.5 Cl-110* HCO3-26 AnGap-14 [**2169-12-7**] 10:28PM BLOOD Calcium-8.3* Phos-3.5 Mg-1.9 [**2169-12-7**] 10:28PM URINE Color-Straw Appear-Clear Sp [**Last Name (un) **]-1.006 [**2169-12-7**] 10:28PM URINE Blood-SM  Nitrite-NEG Protein-100 Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-LG [**2169-12-7**] 10:28PM URINE RBC-3* WBC-27* Bacteri-FEW Yeast-NONE Epi-0 [**2169-12-7**] 10:28PM URINE Mucous-RARE  [**12-7**] Urine culture pending  Brief Hospital Course: 39-year-old male, with a C5 quadriplegia, history of recurrent urinary tract infections, bladder dysfunction that requires frequent bladder cath, previous history of bradycardia, who was initially admitted to [**Hospital1 **] [**Location (un) **] with severe UTI and concerns for sepsis, transferred to [**Hospital1 18**] for evaluation of pacemaker.
+# Sinus Bradycardia: This has been documented in the past (see previous D/C summary).
+It appears he does have a first degree heart block on EKG.
+Given that po baclofen was recently stopped, no further changes were made.
+Telemetry monitoring revealed sinus bradycardia at stable rate (no gradula slowing) with sinus pause 5.0 seconds (on multiple occassions) with subsequent resumption of SR at same rate.
+He had one episode of asymptomatic sinus bradycardia in the morning with heart rate down to 38.
+No pauses were noted at that time.
+# Seizure: No seizure activity during admisison.
+Based upon the patient's history of significant clostridium difficile infection with previous antibiotic use, the patient should be covered with flagyl while on antibiotics and for 2 weeks after completion of antibiotics.
+There was no evidence of C. diff infection during this admission, but we recommend hypervigilence for any signs or symptoms concerning for clostridium difficile infection.
+# Depression: While at [**Hospital1 **], the patient's zoloft was temporarily discontinued based upon concerns for his decreased mental status.
+# Anemia: The patient appeared to be at his baseline hematocrit (or slightly improved) at 25.9.
+His anemia was likely related to myelodysplastic syndrome and was monitored througout the admission.
+Medications on Admission: Sertraline 100 mg DAILY Senna 8.6 mg 4 Tablets PO q T/T/S Levetiracetam 1000 mg [**Hospital1 **] Trazodone 50 qHS prn B Complex Plus Vitamin C 15-10-50-5-300 mg daily Docusate Sodium 400 mg qT/T/S Bisacodyl 20mg qT/T/S Saline Flushes through bowel catheter to promote BM.
+Trazodone 50 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) as needed for insomnia.
+Heparin, Porcine (PF) 10 unit/mL Syringe Sig: 1-2 MLs Intravenous PRN (as needed) as needed for line flush.
+Discharge Disposition: Extended Care  Facility: [**Hospital1 700**] - [**Location (un) 701**]  Discharge Diagnosis: Primary diagnosis: Sinus Bradycardia Urinary tract infection  Secondary diagnosis: Paraplegia   Discharge Condition: Mental Status:Clear and coherent Level of Consciousness:Alert and interactive Activity Status:Out of Bed with assistance to chair or wheelchair   Discharge Instructions: You were admitted for evaluation of sinus bradycardia (slow heart rate).

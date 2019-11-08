@@ -1,0 +1,46 @@
+Admission Date:  [**2146-11-4**]              Discharge Date:   [**2146-11-16**]   Service: CARDIOTHORACIC  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 165**] Chief Complaint: Chest pain  Major Surgical or Invasive Procedure: [**2146-11-11**]  off pump cabg x5 (LIMA to LAD, SVG to OM1 sequentially to OM 2, SVG to DIAG, SVG to PDA)   History of Present Illness: Mrs. [**Known lastname **] is an 85 yo woman with lymphoma s/p rituximab/Zevelin ~6 weeks ago (in nadir now) and recent admission to [**Hospital1 18**] with NSTEMI managed medically who presented to [**Hospital1 18**]-[**Location (un) 620**] on [**11-2**] with chest pain.
+There, her CKs were flat, and her chest pain resolved.
+She received a bag of platelets for thrombocytopenia and aspirin 81 mg was started.
+She also apparently had volume overload in the setting of a blood transfusion.
+An echocardiogram revealed globally depressed systolic function (LVEF 35-40%), which is worse than her echocardiogram during her last admission to [**Hospital1 18**].
+In addition, a Foley catheter was placed for urinary frequency, and a urine culture grew out >100,000 Enterococcus.
+She reports that she awoke from sleep with 2 episodes of chest pain.
+They were not associated with shortness of breath, nausea or diaphoresis.
+She currently denies chest pain or shortness of breath, and reports that she was chest pain-free at [**Hospital1 **].
+On review of systems, she denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.
+She denies recent fevers, chills or rigors.
+She denies exertional buttock or calf pain.
+Past Medical History: HTN High Grade B cell NHL -Diagnoses [**6-/2146**] -s/p three cycles R-CHOP on [**8-3**], nadir 4-8 weeks -Now on rituximab or Zevalin (research protocol) Colon cancer in [**12/2143**] B12 deficiency .
+Cardiac Risk Factors: (-) Diabetes, (-) Dyslipidemia, (+) Hypertension .
+Cardiac History: s/p recent NSTEMI with planned medical management   Social History: She denies any tobacco or alcohol use.
+Her sister was diagnosed with uterine cancer and recently died.
+Her other brother is alive after having a nephrectomy for renal cancer.
+She also has family history of coronary artery disease in many of her seven siblings.
+Sclera anicteric.
+Conjunctiva had mild pallor  Neck: Supple with JVP of 6 cm.
+No thrills, lifts.
+No HSM or tenderness.
+No abdominial bruits.
+No femoral bruits.
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+Selective coronary angiography of this right dominant system demonstrated multi-vessel coronary artery disease.
+The LAD has a 80% stenosis at the origin, 80% mid stenosis, and all diagonals diffusely diseased with 100% in the inferior branch of the 3rd diagonal.
+The LCx has a 90% stenosis at the origin.
+The RCA has a 60% stenosis at the origin, a long 90% mid level stenosis, and a 80% distal stenosis with left to right collaterals.
+Multi-vessel coronary artery disease.
+Brief Hospital Course: Mrs. [**Known lastname **] is an 85 yo woman with HTN and NHL s/p recent chemotherapy and a recent discharge from [**Hospital1 18**] with after an NSTEMI treated medically.
+She presented to [**Hospital1 **] [**11-2**] with intermittent chest pain.
+Given history of unstable angina and recent MI she was taken to [**Hospital1 18**] for catheterization.
+On catheterization, she was found to have severe distal L main along with three vessel disease.
+Ruled out for acute MI with flat CKs at [**Location (un) 620**].
+She went for cath on [**11-9**] which revealed distal L main along with 3 vessel disease.
+Pump:  Echo at OSH with interval worsening of systolic dysfunction.
+Became symptomatically volume overloaded after receiving PRBCs and Plts at the OSH, which was respsonsive to Lasix 20mg IV.
+She was pancytopenic on admission with borderline neutropenia (ANC 710).
+Heme/Onc was consulted who felt that her counts would begin to improve.
+Pancytopenia/Anemia: Was thought likely due to marrow suppression from chemotherapy.
+She grew >100K of enterococcus sensitive to Ampicillin and Vancomycin.
+Mediastinal tubes and pacing wires removed, but left pleural tube remained for a pleural effusion.
+Swallowing evaluation also done to assess risk of aspiration and ground solids and thin liquids were recommended.
+Left chest tube was pulled without incident.
+Medications on Admission: Metoprolol 100 mg tid Furosemide 20 mg daily Vitamin B12 100 mcg daily Simvastatin 80 mg daily MVI 1 daily Omeprazole 20 mg daily Aspirin 81 mg daily   Discharge Disposition: Extended Care  Facility: [**Hospital 11851**] Healthcare - [**Location (un) 620**]  Discharge Diagnosis: CAD s/p OPCABG x5 lymphoma HTN MI B12 deficiency  Discharge Condition: stable  Discharge Instructions: SHOWER DAILY and pat incisions dry no lotions, creams, or powders on any incision no driving for one month no lifting greater than 10 pounds for 10 weeks call for fever greater than 100.5, redness or drainage  Followup Instructions: see Dr. [**Last Name (STitle) 5292**] in [**2-15**] weeks see Dr. [**First Name (STitle) **] in [**3-19**] weeks see Dr. [**First Name (STitle) **] in 4 weeks  [**Telephone/Fax (1) 170**]                                [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(2) 173**]  Completed by:[**2146-11-16**

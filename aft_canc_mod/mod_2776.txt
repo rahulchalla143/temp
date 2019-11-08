@@ -1,0 +1,14 @@
+CHIEF COMPLAINT:  This is a 78-year-old male with an enlarging neck mass.
+HISTORY OF PRESENT ILLNESS:  This 78-year-old male with a 6- week history of a sore throat, dysphagia and difficulty breathing who appeared to have a thyroid mass on exam by his physician.
+[**Name10 (NameIs) **] underwent a CT scan with fine needle aspiration which was indeterminate in an outside hospital and he was seen by Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] who felt that based on the symptoms of his thyroid mass that it may be a thyroid cancer.
+PAST MEDICAL HISTORY:  Past medical history is significant for peripheral vascular disease, aortic aneurysm, CREST syndrome, scleroderma, CAD with CHF, paroxysmal atrial fibrillation, iron deficiency anemia, gout, chronic renal failure, deep venous thrombosis, asbestosis, hypertension, hypothyroidism.
+PAST SURGICAL HISTORY:  Past surgical history is significant for bilateral femoral to dorsal pedal bypass grafts with saphenous vein for treatment of bilateral thrombosed popliteal aneurysms.
+REVIEW OF SYSTEMS:  Significant for occasional shortness of breath, dyspnea on exertion, otherwise unremarkable.
+HOSPITAL COURSE:  The patient was admitted to the surgical service and on [**6-26**], underwent a neck exploration with biopsy of the central portion of the thyroid and tracheostomy for an obstructing goiter.
+He was seen by hematology/oncology on [**6-28**] for treatment of his B-cell lymphoma and he was transferred to the hematology/oncology service for that.
+On [**7-3**], however, he underwent a CT scan for abdominal pain and was found to have a ruptured retroperitoneal aortic aneurysm.
+He was emergently taken to the operating room by Dr. [**Last Name (STitle) 1391**] and he underwent a repair of a ruptured aortic aneurysm.
+Postoperatively, he was noted to have pale bilateral lower extremities.
+He was taken back to the operating room for bilateral femoral embolectomies because of progressive ischemia of his bilateral lower extremities.
+Postoperatively, however, he had persistent ischemia of both lower extremities.
+His extremities were completely demarcated at the mid thigh and given his degree of progressive renal failure/anuria, hypotension requiring pressors, respiratory failure requiring ventilator support and peripheral vascular disease with ischemia of both lower extremities that was going to require bilateral lower extremity amputations, his family deemed that they did not want to pursue any further aggressive treatment options and the patient was made comfort measures only.

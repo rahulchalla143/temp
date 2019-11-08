@@ -1,0 +1,58 @@
+Admission Date:  [**2192-3-21**]              Discharge Date:   [**2192-4-17**]  Date of Birth:  [**2117-8-8**]             Sex:   F  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 3326**] Chief Complaint: Dyspnea  Major Surgical or Invasive Procedure: intubation bilateral thoracentesis with pigtail catheter placement talc pleurodesis  History of Present Illness: 74 y/o F with hx of pneumonia and atypical cells on thoracentesis, treated several approximately 1.5 weeks ago at [**Hospital 1281**] hospital, with levoflox for 10 days, presents with acute respiratory failure.
+Last few days has been increasingly shortness of breath at home.
+Has had dry, non-productive cough.
+Was thought she was still just recovering from recent pneumonia.
+She was not having fevers or chills.
+She had triggered in triage for hypoxia to 50s.
+She had a CXR showing effusion and potentially recurrent pneumonia.
+She was autopeeping and overbreathing the vent prior to arrival to the floor.
+Past Medical History: Recent pneumonia HTN Hyperlipidemia  Social History: lives with her son; widowed.
+Physical Exam: VS: 99.6 (101.1) 134/74 96 18 100% RA 920/227+inc GA: AOx3 (person, place, read date from calender on wall, president), tachypneic but in no respiratory distress HEENT: PERRLA.
+Pulm: diffuse crackles with decreased air movement throughout, LUL was the only area with normal breath sounds Abd: soft, obese, distended, NT, +BS.
+Skin: W/D/I Neuro: somewhat poor historian, said things that werent clearly sensical from time to time   Pertinent Results: ADMISSION LABS CBC: WBC-14.2* RBC-5.02 Hgb-15.0 Hct-46.2 MCV-92 MCH-29.9 MCHC-32.5 RDW-12.8 Plt Ct-553* Diff: Neuts-84.3* Lymphs-9.2* Monos-5.5 Eos-0.5 Baso-0.3 Coags: PT-14.2* PTT-20.8* INR(PT)-1.2* Chemistries: Glucose-197* UreaN-45* Creat-1.7* Na-137 K-8.5* Cl-96 HCO3-28 AnGap-22* ALT-19 AST-46* LD(LDH)-495* CK(CPK)-407* AlkPhos-96 TotBili-0.3 Calcium-10.1 Phos-7.2* Mg-2.9* Cardiac Enzymes: cTropnT-0.39* proBNP-6293* Lactate-4.0*  MICRO DATA [**2192-4-1**] 12:51AM URINE Color-Yellow Appear-Hazy Sp [**Last Name (un) **]-1.014 [**2192-4-1**] 12:51AM URINE Blood-SM  Nitrite-NEG Protein-30 Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG [**2192-4-1**] 12:51AM URINE RBC-8* WBC-18* Bacteri-NONE Yeast-FEW Epi-<1 [**2192-4-1**] 12:51AM URINE CastGr-11* CastHy-6* [**2192-3-22**] 01:41PM PLEURAL WBC-1500* RBC-[**Numeric Identifier 16351**]* Polys-4* Lymphs-28* Monos-6* Meso-47* Other-15* [**2192-3-22**] 01:41PM PLEURAL TotProt-4.2 Glucose-102 LD(LDH)-599 [**2192-3-21**] BLOOD CULTURE x 2 Negative [**2192-3-22**] PLEURAL FLUID   GRAM STAIN (Final [**2192-3-22**]):       NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.
+NO MICROORGANISMS SEEN.
+FLUID CULTURE (Final [**2192-3-25**]):    NO GROWTH.
+ANAEROBIC CULTURE (Final [**2192-3-28**]):    NO GROWTH.
+RESPIRATORY CULTURE (Final [**2192-3-24**]):    NO GROWTH.
+URINE CULTURE (Pending):  CXR [**2192-3-21**] Large bilateral pleural effusions, left greater than right with underlying atelectasis and central vascular congestion.
+No pulmonary embolism.
+Small peribronchial nodular opacities in the lingula likely representing an acute infectious process.
+Large right pleural effusion with associated right lower lobe collapse and leftward mediastinal shift.
+Small-to-moderate left pleural effusion with left pleural drain in place.
+A small loculated left-sided pleural effusion appears unchanged.
+There is increased opacity obscuring the right hemidiaphragm likely representing a combination of increasing effusion and atelectasis.
+No pneumothorax is appreciated.
+There is a persistent right-sided pleural effusion which appears relatively stable since the previous study.
+There are low lung volumes.
+Increased density at the right base and perihilar areas are again seen.
+CT CHEST [**2192-4-1**] (pending)   Brief Hospital Course: Ms. [**Known lastname 90426**] is a 74y/o lady who presented with acute respiratory failure due to malignant effusion and was found to have serous ovarian adenocarcinoma.
+Ms. [**Known lastname 90426**] had multiple medical issues stemming from newly diagnosed metastatic ovarian cancer.
+Those issues included malignant pleural effusions which led to respiratory distress and respiratory failure leading to intubation.
+Similarly, she had a distended abdomen from carcinomatosis.
+Finally she developed renal failure after one dose of chemotherapy, from which her kidney's did not rebound.
+ACTIVE ISSUES IN THE ICU: .
+# Respiratory failure on presentation: due to malignant effusion.
+Echocardiogram showed a hypokinetic right ventricle suggestive of PE, so a CT angiogram of her chest was performed which showed no evidence of PE.
+Initial CXR demonstrated large bilateral pleural effusions with evidence of pneumonia, and she was started on vancomycin and cefepime for healthcare associated pneumonia.
+Outside records obtained from [**Hospital 1281**] hospital indicate that a pleural fluid analysis revealed malignant cells, most likely papillary serous adenocarcinoma, most consistent with origin from Muellerian duct.
+Her pleural effusions were tapped and pleural fluid analysis were consistent with exudate and cytology was preliminarily positive for malignancy.
+She bit through the ET tube cuff pilot line on hospital day 6, and was extubated without complication.
+# Septic Shock:  Patient was started on vancomycin and cefepime for presumed hospital acquired pneumonia.
+Echocardiogram demonstrated normal ejection fraction with no focal wall motion abnormalities.
+# Elevated troponin: Likely demand ischemia in the setting of sepsis.
+No changes suggestive on infarct on EKG, no all motion abnormalities on echo.
+# Intermittent Hypoxia: combination of recurrent effusions, CHF, and HCAP.
+# Recurrent effusions: malignant.
+She had evidence of reaccumulation.
+If her pulmonary disease is due to her peritoneal disease, paracentesis may need to be considered........... .
+# CHF: right- and left- sided.
+Echocardiogram had shown a hypokinetic/dilated right ventricle and she has JVD/LE edema and in addition to these signs of RHF she also likely has pulmonary edema.
+Upon arrival to the Oncology floor, given her recent fever, hypoxia, and unresolved leukocytosis she was restarted on Vanc/Cefepime ([**4-1**]) and Flagyl was added to cover for anaerobes in the case of aspiration.
+# Leukocytosis/Fever: likely HCAP but evaluated for other causes as well.
+IP requested avoiding anti-inflammatory meds as the inflammation is necessary for success of pleurodesis.
+# Acute Kidney Injury: Pre-renal.
+# Hypertension: BP reasonably controlled.
+On transfer from the ICU to the floor, she was mildy hypertensive and diovan 80mg PO daily was started.
+# Ovarian cancer: metastatic serous adenocarcinoma.
+CT abdomen/pelvis without contrast at [**Hospital 1281**] Hospital on [**2192-3-8**] showed ascites but no definite disease; however, this was a very limited study secondary to lack of contrast.
+Palliative chemo with carbotaxol is a possibility; while her respiratory status was tenuous this was not pursued.

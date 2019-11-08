@@ -1,0 +1,54 @@
+Admission Date:  [**2172-2-14**]              Discharge Date:   [**2172-2-19**]  Date of Birth:  [**2097-10-28**]             Sex:   M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 2265**] Chief Complaint: ICD Firing  Major Surgical or Invasive Procedure: none   History of Present Illness: Mr [**Known lastname 25268**] is a 74 year old genetleman with history of CAD s/p CABG, MI, ICD placement atrial fibrillation on coumadin whop resented today after a firing of his ICD.
+He denied any symptoms of light headedness, chest pain, or palpitations prior.
+He was taken to an OSH where he developed mild respiratory distress resolved with 2L O2,CXR showed mild CHF.
+EKG showed NSR @ 92 with LVH and ST changes consistent with inferolateral ischemia.
+He had a similar episode in [**2164**] where device fired due to atrial fibrillation.
+Of note he was hospitalized at [**Hospital1 112**] from [**2172-2-1**] to [**2172-2-8**] for urosepsis secondary to obstructive nepholithiasis s/p L percutaneous neprhostomy tube and L utereral stent placement, multifocal pneumonia, afib with RVR and NSTEMI.
+On [**2172-2-2**] he was extubated, folliwing he developed AMS and flash pulmonary edema which resolved with BiPAP and diuresis.
+TTE showed global hypokinesis with EF of 45%.
+On review of systems, he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.
+He denies recent fevers, chills or rigors.
+He denies exertional buttock or calf pain.
+Cardiac review of systems is notable for absence of chest pain, dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope.
+OTHER PAST MEDICAL HISTORY: afib on coumadin Fem [**Doctor Last Name **] bypass in [**2147**] colon cancer s/p SBR in [**2155**] skin cancer s/p resception and chemotherapy  Social History: - Tobacco history: 30pack years, quit in [**2143**] - ETOH: none - Illicit drugs: none  Family History: - No family history of early MI, arrhythmia, cardiomyopathies, or sudden cardiac death; otherwise non-contributory.
+Sclera anicteric.
+Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.
+No xanthalesma.
+Soft systolic murmur at apex.
+No thrills, lifts.
+No chest wall deformities, scoliosis or kyphosis.
+No HSM or tenderness.
+No abdominial bruits.
+No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+ECHO: There is mild symmetric left ventricular hypertrophy.
+There is severe regional left ventricular systolic dysfunction with basal to mid inferior and inferolateral akinesis.
+The right ventricular cavity is mildly dilated The right ventricular cavity is dilated with mild global free wall hypokinesis.
+The ascending aorta is mildly dilated.
+The aortic arch is mildly dilated.
+The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present.
+No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Mild to moderate ([**1-26**]+) mitral regurgitation is seen.
+The tricuspid valve leaflets are mildly thickened.
+There is moderate pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+IMPRESSION: Severe focal LV hypokinesis, consistent with prior inferior/inferolateral infarction.
+Hypertrophied, dilated and depressed right ventricle with moderate pulmonary artery systolic hypertension.
+At least mild to moderate mitral regurgitation.
+Dilated thoracic aorta.
+[**2172-2-19**] 06:20AM BLOOD WBC-4.3 RBC-3.34* Hgb-9.7* Hct-29.0* MCV-87 MCH-29.1 MCHC-33.6 RDW-17.9* Plt Ct-514* [**2172-2-19**] 06:20AM BLOOD PT-26.3* INR(PT)-2.5* [**2172-2-19**] 06:20AM BLOOD Glucose-91 UreaN-22* Creat-1.1 Na-137 K-4.5 Cl-98 HCO3-34* AnGap-10   Brief Hospital Course: 74 year old male with history of CAD s/p CABG, recurrent MI in [**2165**], VT with ICD, PAF with inappropriate ICD response, who presents with inappropriate ICD firing after prolonged hospitalization for urosepsis and respiratory distress.
+# Afib with RVR: Patient was previously on nadolol 80mg which was recently changed to metoprolol 25mg daily.
+This reduction in dose was likely secondary to hypotension in the setting of sepsis.
+He subsequently had 2 episodes of Afib with RVR requiring IV lopressor and dilt.
+# CHF: Patient extremely volume overloaded on admission.
+It appears that he has had some depression of his cardiac function since his prior outpatient ECHO.
+this may be secondary to NSTEMI associated with PEA arrest.
+It may also be a critical illness myopathy that would take time to resolve.
+# Elevated troponin - likely secondary to ischemic injury caused by defibrillator firing.
+Disp:*30 Tablet(s)* Refills:*2*   Discharge Disposition: Home With Service  Facility: [**Location (un) 86**] VNA  Discharge Diagnosis: Atrial fibrillation with Rapid Ventricular response Acute systolic congestive heart Failure Hypertension   Discharge Condition: Mental Status: Clear and coherent.
+Discharge Instructions: Your ICD fired for a rapid atrial fibrillation rhythm.
+Dr. [**First Name (STitle) **] also adjusted the ICD settings so it can better distinguish between atrial fibrillation and a dangerous rhythm.
+Your echocardiogram showed that your heart function is weaker than before and you developed some fluid overload in your lungs and legs.
+We gave you high doses of a diuretic, Furosemide (lasix) to get rid of the excess fluid.
+Weigh yourself every morning, call Dr. [**Last Name (STitle) 6512**] if weight goes up more than 3 lbs in 1 day or 5 pounds in 3 days.

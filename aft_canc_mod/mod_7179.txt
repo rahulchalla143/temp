@@ -1,0 +1,28 @@
+Admission Date:  [**2170-12-15**]              Discharge Date:   [**2170-12-24**]  Date of Birth:  [**2112-10-22**]             Sex:   F  Service: SURGERY  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 695**] Chief Complaint: Fever  Major Surgical or Invasive Procedure: [**2170-12-20**]: PICC line placement   History of Present Illness: 58yo F well-known to Hepatobiliary / Transplant / West 1 surgical service from recent admission [**Date range (1) 106084**] for obstructive jaundice ultimately leading to a new diagnosis of cholangiocarcinoma with metastatic disease to her sigmoid colon.
+She was treated with biliary stenting, currently with two bare metal stents within CBD / L hepatic duct (placed endoscopically) and within R hepatic duct (placed percutaneously), as well as colonic stent.
+Overnight she experienced a fever to 102, presented to an OSH ED, was noted to be hypotensive and bolused 3L of IVF, then transferred here for resumption of care.
+ROS: Pt denies abdominal pain except for low-grade pain along RUQ which she has had since last admission.
+Denies chest pain, shortness of breath, or cough.
+Denies dysuria or frequency.
+Pertinent Results: [**11-30**]:  Colon, distal sigmoid, "mass  at 20 cm"; biopsy (A):Comment: The tumor is present within the lamina propria, and is without a recognizable precursor lesion.
+The immunophenotype and the lack of a precursor lesion are not characteristic of a primary colonic carcinoma.
+Given the imaging findings metastatic pancreaticobiliary carcinoma is likely though other primary sites, including gastric and gynecologic, could be considered  [**11-26**] ERCP:  ADENOCARCINOMA.
+Labs on Admission: [**2170-12-15**] WBC-41.9*# RBC-3.15* Hgb-9.4*# Hct-27.6* MCV-88 MCH-29.9 MCHC-34.2 RDW-14.0 Plt Ct-376 PT-17.2* PTT-29.6 INR(PT)-1.6* Glucose-115* UreaN-11 Creat-0.8 Na-138 K-3.4 Cl-103 HCO3-24 AnGap-14 ALT-58* AST-52* AlkPhos-479* TotBili-1.1 Lipase-38 Albumin-2.2* Calcium-6.1* Phos-2.7 Mg-1.0* On Discharge: [**2170-12-24**] WBC-16.9* RBC-2.76* Hgb-8.3* Hct-24.2* MCV-88 MCH-30.2 MCHC-34.4 RDW-14.5 Plt Ct-595* Glucose-86 UreaN-7 Creat-0.6 Na-138 K-3.8 Cl-103 HCO3-28 AnGap-11 ALT-13 AST-12 AlkPhos-185* TotBili-0.6 Calcium-8.2* Phos-3.5 Mg-2.0  Brief Hospital Course: The patient was admitted to [**Hospital1 18**] on [**12-15**] with concerns for septic shock.
+She is a 58 yo female with cholangiocarcinoma, likely metastatic to the colon (with a colonic mass s/p stent placement) and s/p multiple biliary stents, currently with two bare metal stents within CBD / L hepatic duct (placed endoscopically) and within R hepatic duct (placed percutaneously) on [**12-11**].
+She was continued on the zosyn for the bacteremia and flagyl for presumptive C. difficile colitis.
+She underwent a CT scan of the abd to search for a presumed GI source of her bacteremia.
+It revealed persistent and unchanged hepatic lesions compatible with metastatic disease, colitis of the right ascending colon and the distal transverse /splenic flexure (thickened colonic wall), a small amount of ascites and free pelvic fluid, and a RML infiltrate.
+On [**12-17**] she was awoke tachycardic, tachypneic, hypertensive and with rigors w/fever 101 presumed to be still septic, that resolved w/zopenex nebulizer and demerol.
+CXR revealed increasing b/l opacities concerning for pulmonary edema.
+She underwent a CTA of that chest that revealed bilateral multifocal consolidations, worsening pleural effusions, now moderate on the left and large on the right, Anasarca, ascites, persistent hepatic lesion compatible with metastatic cholangiocarcinoma, lucency in vertebral body of L1, worrisome for metastasis.
+The likely source of her bacteremia is either pneumonia or colitis.
+Following normalization of her hemodynamics and control of her pneumonia, the patient was aggressively diuresed for b/l pleural effusions (thought secondary to fluid resuscitation vs parapneumonic vs malignant, though no tap performed).
+Her effusions improved over time, and on [**12-23**] she was without any oxygen requirement at rest and ambulating.
+The patient also complained of loose stool; she was tested for C dif that was negative x5, though was treated empirically with flagyl.
+The diarrhea has decreased in frequency over her hospitalization.
+By the time of discharge she was tolerating a regular diet, though remained with some residual nausea treated well with zofran PRN.
+She developed a superficial thrombophlebitis of her right upper extremity that resolved with heat packs.
+At the time of dictation the patient is without pain, on room air both at rest and while ambulating, has documented negative blood cultures ([**12-17**]), is tolerating a regular diet, urinating well and without other complaints.
+Finally, the patient does have metastatic cholangiocarcinoma to the sigmoid colon, and so further symptoms are likely to occur in the future.
+Ambien 5 mg Tablet Sig: One (1) Tablet PO at bedtime as needed for insomnia.
+Discharge Disposition: Home With Service  Facility: [**Company 1519**]  Discharge Diagnosis: Septic shock with E coli bacteremia Pneumonia Cholangiocarcinoma   Discharge Condition: Stable/Fair   Discharge Instructions: Please call Dr [**Last Name (STitle) 4727**] office at [**Telephone/Fax (1) 673**] for fever greater than 101, chills, nausea, vomiting, diarrhea, increased abdominal apin, yellowing of skin or eyes, inability to take adequete food and fluids.

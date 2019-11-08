@@ -1,0 +1,24 @@
+Admission Date:  [**2157-4-3**]              Discharge Date:   [**2157-4-6**]  Date of Birth:  [**2091-11-29**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 1042**] Chief Complaint: GI BLEED  Major Surgical or Invasive Procedure: colonoscopy   History of Present Illness: This is a 65 year-old female with a history of diverticulitis and IDDM who presented with BRBPR x 1 days.
+The night PTA she had diarrhea and then later had a BM with BRBPR and noted blood filling the toilet bowel.
+She continued having BRBPR and c/o feeling lightheaded and weak.
+She was transferred to [**Hospital1 18**] for possible tagged red cell scan.
+Past Medical History: h/o diverticulitis, s/p ruptured diverticulitis 20 yrs ago s/p colostomy and reversal one yr later IDDM CAD s/p stent placement (?
+4 yrs ago)-cardiologist is [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 9035**] at [**Hospital6 10353**] HTN hyperlipidemia h/o nephrolithiasis Barrett's Esophagus bipolar d/o  Social History: Lives alone.
+PULM: Lungs CTAB, no W/R/R.
+EXT: 2+ b/l pitting edema, with mild erythema and scabbing over the shins c/w chronic venous stasis changes.
+Pertinent Results: [**2157-4-3**] 07:54PM   CK(CPK)-62 [**2157-4-3**] 07:54PM   CK-MB-NotDone cTropnT-0.04* [**2157-4-3**] 07:54PM   HCT-31.7* [**2157-4-3**] 05:28PM   HCT-30.3* [**2157-4-3**] 12:58PM   HCT-34.4* [**2157-4-3**] 09:58AM   GLUCOSE-162* UREA N-39* CREAT-1.7* SODIUM-142 POTASSIUM-4.8 CHLORIDE-110* TOTAL CO2-25 ANION GAP-12 [**2157-4-3**] 09:58AM   estGFR-Using this [**2157-4-3**] 09:58AM   CK(CPK)-83 [**2157-4-3**] 09:58AM   CK-MB-4 cTropnT-0.03* [**2157-4-3**] 09:58AM   WBC-10.9 RBC-3.76* HGB-10.8* HCT-32.3* MCV-86 MCH-28.6 MCHC-33.3 RDW-15.5 [**2157-4-3**] 09:58AM   NEUTS-73.7* LYMPHS-19.8 MONOS-3.9 EOS-2.3 BASOS-0.3 [**2157-4-3**] 09:58AM   PLT COUNT-251 [**2157-4-3**] 09:58AM   PT-12.4 PTT-18.0* INR(PT)-1.0 [**2157-4-3**] 09:14AM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.017 [**2157-4-3**] 09:14AM URINE  BLOOD-TR NITRITE-NEG PROTEIN-100 GLUCOSE-100 KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-NEG [**2157-4-3**] 09:14AM URINE  RBC-0-2+ WBC-0-2 BACTERIA-OCC YEAST-NONE EPI-0-2 [**2157-4-3**] 09:14AM URINE  AMORPH-MANY .
+[**2157-4-5**] Colonoscopy: Diverticulosis of the sigmoid colon Polyp in the proximal ascending colon Polyp in the sigmoid colon (15cm) Otherwise normal colonoscopy to cecum  Brief Hospital Course: This is a 65 year-old female with a history of diverticulitis who presents with lower GI bleed.
+#GI Bleed, lower, with acute anemia from blood loss: History notable BRBPR, no abdominal pain, and negative NGL.
+Given the presence of diverticulosis on colonoscopy, although without active bleeding visualized, this was most likely a diverticular lower GI bleed.
+The patient was initially admitted to the ICU, but she remained hemodynamically stable and no further bleeding was noted, and so she was transferred to the floor where she remained stable.
+# Acute on chronic renal failure: Cr 1.7 on admission, improved to 1.2 with hydration.
+The patient had pre-renal acute renal failure due to dehydration and hypovolemia in the setting of GI bleeding.
+She also has chronic kidney disease due to DM and HTN, with baseline [**Last Name (STitle) **] 1.2-1.6 according to her PCP.
+# H/o coronary artery disease: Patient with history of CAD s/p 3 stents placed ~4 yrs ago.
+3 sets of cardiac markers were negative in the setting of nonspecific TWIs on EKG.
+# Bipolar d/o: Continued outpatient wellbutrin and lamictal.
+# HTN: Norvasc and lisinoril were held initially in the setting of GI bleed.
+Discharge Disposition: Home  Discharge Diagnosis: Primary Diagnosis: gastrointestinal bleeding, diverticulosis Secondary Diagnosis: diabetes type 2, hypertension, coronary artery disease   Discharge Condition: good   Discharge Instructions: You were hospitalized with a GI bleed.
+You likely had bleeding from diverticulosis, but this resolved on its own.
+You also were found to have polyps, which were not removed because you were recently on plavix.
+If you have recurrent rectal bleeding, fever, chills, chest pain, shortness of breath, abdominal pain, or any other concerning symptoms, please call your doctor or return to the emergency room.

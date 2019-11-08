@@ -1,0 +1,43 @@
+Admission Date:  [**2198-3-9**]              Discharge Date:   [**2198-3-16**]  Date of Birth:  [**2132-7-5**]             Sex:   F  Service: MEDICINE  Allergies: Bactrim  Attending:[**First Name3 (LF) 613**] Chief Complaint: Shortness of breath  Major Surgical or Invasive Procedure: None   History of Present Illness: Patient is a 65 year old female with past medical history significant for diastolic heart failure, moderate aortic stenosis with valve area of [**2-3**].2 cm2, bronchietasis and COPD with stage II gold criteria and home oxygen 2-4L who was recently admitted to [**Hospital1 18**] from [**2197-12-23**] - [**2198-1-2**] for hypercarbic respiratory failure requiring intubation and improvement with aggressive diuresis and treatment for hospital acquired pneumonia/COPD exacerbation with prednisone and Vancomycin/meropenem/azithromycin.
+She was noted to have diarrhea two days ago with productive [**Year (4 digits) **] (different from her usual [**Year (4 digits) **]), shortness of breath, hand tremors and occassional pleuritic left chest wall pain yesterday.
+She reports her only sick contact is her daughter who also had diarrhea but no pulmonary symptoms.
+She was brought to [**Hospital1 18**] ED for evaluation of her shortness of breath.
+Her chest x-ray was concerning for new right lower infiltrate.
+- GERD - Anemia (history of GI bleeding) - Leukopenia, long standing, unclear etiology - Hyperglycemia when previously on prednisone - Diastolic heart failure, LVEF > 55%, [**8-/2197**] - Aortic stenosis (valve area 1.0-1.2 cm^2) - Moderate pulmonary HTN, PCWP > 18 - Atrial fibrillation (on dilt +/- beta blocker), no anticoagulation due to history of GI bleeding  Social History: -Smoking/Tobacco: quit smoking in [**2172**] (20 pack years) -EtOH: None -Illicits: None -Lives at/with: sister (a nurse) in [**Name (NI) 4628**], was in rehab until  [**12-4**]; has 3 children, 1 died @ 27 in [**4-/2197**] from asthma complication, has a daughter who's a CNA.
+-Mother died of CVA -Father died of lung CA  Physical Exam: ON ADMISSION: VS: 97.1 109/44 121 97% CPAP 10/5 GEN: Female in moderate distress.
+Could not appreciate JVD PULM:  Poor air movement.
+Coarse breath sounds appreciated bilaterally but no inspiratory crackles.
+CARD:  holosytolic murmur appreciated along the sternal border ABD:  Soft, nontender and nondistended.
+SKIN: Statis dermatitis rash bilaterally.
+LEGIONELLA CULTURE (Preliminary):    NO LEGIONELLA ISOLATED.
+[**2198-3-9**] BLOOD CULTURE X 2: PENDING [**2198-3-9**] URINE: Legionella Urinary Antigen  (Final [**2198-3-10**]):       NEGATIVE FOR LEGIONELLA SEROGROUP 1 ANTIGEN.
+FECAL CULTURE (Pending):     CAMPYLOBACTER CULTURE (Final [**2198-3-13**]):    NO CAMPYLOBACTER FOUND.
+STUDIES: [**2198-3-9**] EKG: Atrial fibrillation with rapid ventricular response.
+Diffuse baseline artifact with uninterpretable ST-T waves in leads V1-V3.
+Non-specific diffuse ST-T wave changes.
+[**2198-3-9**] CXR: Lower lung consolidations concerning for pneumonia, possible small effusions.
+No change in the appearance of the right PICC line.
+There is enlargement of the cardiac silhouette with mild engorgement of pulmonary vessels that has improved since the prior study.
+Opacification at the left base again suggests volume loss or superimposed consolidation.
+The possibility of a central obstructing lesion must again be considered.
+Brief Hospital Course: 65 year old female with past medical history significant for diastolic heart failure, moderate aortic stenosis with valve area of [**2-3**].2 cm2, bronchietasis and COPD with stage II gold criteria and home oxygen 2-4L admitted with one day history of shortness of breath, change in her productive [**Date Range **] and pleuritic chest pain.
+COPD exascerbation and decompensated dCHF: This was attributed to elements of COPD exacerbation and her diastolic heart failure.
+She was diuresed with lasix; given a significant metabolic alkalosis she was briefly treated with acetazolamide with continued diuresis.
+Prior to discharge, we held one dose of torsemide and prescribed half of a dose on the morning of [**2198-3-16**], with resuming her home dose in the evening on [**2198-3-16**] because of metabolic alkalosis.
+Urinary tract infection: Grew out pan sensitive klebsiella in her urine.
+She was started on levofloxacin (at the time for empiric coverage of respiratory organisms when this was being entertained on the SOB ddx) and then transitioned to cipro when sensitivies grew out (and PNA was felt less likely) for a total of a 3 day course.
+She had episodes of inconitnence in the setting of a foley that was traumatically partially removed.
+He continued to have episodes of RVR, and given her borderline blood pressures, we started metoprolol 25mg [**Hospital1 **] and uptitrated to 37.5mg which caused her to have mildly worse [**Last Name (LF) **], [**First Name3 (LF) **] we decreased it to 25mg [**Hospital1 **], with a decrease in incidence of RVR.
+She was anticoagulated with aspirin alone given a history of a prior GI bleed.
+Access: Ms. [**Known lastname **] has a PICC line in her right brachial vessel which terminates at the junction of the SVC and right atrium.
+16. diltiazem HCl 420 mg po qdaily   Discharge Medications: 1. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for Constipation.
+11. acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed for headache.
+15. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: 1-2 puffs Inhalation every four (4) hours as needed for shortness of breath or wheezing.
+Discharge Disposition: Extended Care  Facility: [**Hospital **] Hospital for Continuing Medical Care - [**Location (un) 1121**] ([**Hospital3 1122**] Center)  Discharge Diagnosis: Primary: COPD exacerbation acute on chronic diastolic congestive heart failure Atrial fibrillation with rapid ventricular response Urinary tract infection Secondary: Anemia of chronic disease Depression   Discharge Condition: Mental Status: Clear and coherent.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+You were admitted to [**Hospital1 18**] because of difficulty breathing beyond your baseline.
+They treated your COPD with steroids and non-invasive ventilation (BiPap) to help dampen the inflammation in your lungs.
+We also found that you had fluid on your lungs and gave you diuretics IV to help pull that fluid off (lasix).
+Also, your abnormal heart rhythm, called atrial fibrillation was abnormally fast.
+Over the course of your stay, you became weak because of your illness, and will require a short stay in rehab to help you transition home.
+Finally, you had a urinary tract infection which we treated with Cipro for three days.

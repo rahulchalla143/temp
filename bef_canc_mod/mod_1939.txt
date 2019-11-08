@@ -1,0 +1,64 @@
+Admission Date:  [**2168-10-5**]              Discharge Date:   [**2168-10-11**]  Date of Birth:  [**2091-2-18**]             Sex:   M  Service: MEDICINE  Allergies: Nsaids/Anti-Inflammatory Classifier / Vancomycin / Flagyl  Attending:[**First Name3 (LF) 1973**] Chief Complaint: Septic Shock, UTI, GI Bleed due to Gastic Ulcers, Obstructing Ureteral Stone, Hypokalemia  Major Surgical or Invasive Procedure: Left nephrostomy on [**2168-10-5**] EGD on [**2168-10-5**] EGD on [**2168-10-7**]   History of Present Illness: 77 year old Male with h/o CAD s/p CABG and stent placement, pacemaker, hemorrhagic frontal CVA [**2152**] with residual effects, prior DVT and PE (20 years ago), BPH, Type 2 DM, benign hypertension, ulcerative colitis (with h/o of admissions for GI bleeding) transferred from [**Hospital1 **] [**Location (un) 620**] due to GI bleed and septic shock due to UTI with obstructive kidney stone.
+Patient is homebound at baseline but ambulates with walker and requires assitance with ADL's.
+He has recent history of recurrent UTI and had a cystoscopy on [**9-30**] for work-up of persistent hematuria.
+Following the fall he had a persistent cough and then developed large amounts of dark vomitus.
+At [**Hospital1 18**] [**Location (un) 620**] was HD stable with SBP in the 140's, found to have positive NG lavage that did not clear, was noted febrile to 102, with positive UA and CT abdomen/pelvis showing 1cm obstructing left kidney stone at the UPJ.
+CT head and CXR showed no acute processes.
+Patient was last admitted to our institution in [**2168-5-4**] for UTI with pan-sensitive e.coli.
+Per his last PCP note from [**8-/2168**] he was since treated twice for UTI and had persistent microscopic hematuria despite completion of treatment.
+He does have known prostatic enlargement and some lower urinary tract symptoms and he is followed by Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 986**] at NWH for this.
+- EKG showed afib HR 70s, had asymptomatic nonsustained VT with pulse.
+He was in a wide complex tachycardia, and EP was consulted, who felt this was his usual atrial tachycardia with abberency.
+A repeat lavage posivice for cofee-grounds.
+A Nephrostomy tube was inserted with good drainage, with relief of the obstructing Left Ureteral stone.
+Past Medical History: - hemorrhagic frontal CVA [**1-6**] heparin about ~16 years ago - CAD s/p quadruple bypass [**2152**] (LIMA-LAD, SVG PL/PDA, SVG-OM) and later BMS to ostial SVG-PL/PDA and PTCA of LIMA-LAD.
+- s/p dual chamber [**Company 1543**] pacemaker in [**2157**] - Depression - Anxiety - h/o body dysmorphia, controlled on medication - Type 2 DM ~ 20 years with peripheral neuropathy - H/o DVT complicated by PE about 19 years ago - H/o PNA - HTN - Ulcerative colitis, last colonoscopy in [**2162**] showing erythema  and ulcers in the rectum and sigmoid - BPH - s/p neck surgery - h/o thrombocytopenia  Social History: Lives with wife who helps with ADLs in [**Location (un) 37666**].
+Family History: - Father died in 80s [**1-6**] DM - Mother died in 70s [**1-6**] alcoholism - Brother died in 40s of esophageal hemorrhage - Otherwise h/o mental illness  Physical Exam: ADMISSION EXAM: Vitals: T: 100.0, 156/73, 69, 20, 97% General: AlertX3, no acute distress.
+HEENT: pale, anicteric, MMM Skin: warm and dry Neck: supple, JVP not elevated, no LAD, surgical scar right neck.
+Lungs: CTAB, no wheezes, rales, ronchi CV: irregular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops Abdomen: Soft, normal BS, non-tender, no rebound tenderness or guarding, no organomegaly, No CVA tenderness GU: foley in place with hazy concentrated urine Ext: 2+ pulses, no clubbing, cyanosis or edema Back: Left Nephrostomy in place   Pertinent Results: [**2168-10-11**] 04:48AM BLOOD WBC-6.5 RBC-3.78* Hgb-10.2* Hct-30.9* MCV-82 MCH-27.1 MCHC-33.1 RDW-15.7* Plt Ct-82* [**2168-10-6**] 03:24AM BLOOD WBC-12.2* RBC-3.68* Hgb-10.3* Hct-29.3* MCV-80* MCH-28.1 MCHC-35.2* RDW-15.0 Plt Ct-78* [**2168-10-5**] 05:29PM BLOOD WBC-10.5# RBC-3.88* Hgb-11.1* Hct-31.2* MCV-80* MCH-28.5 MCHC-35.4* RDW-14.9 Plt Ct-81* [**2168-10-5**] 09:00AM BLOOD WBC-8.3# RBC-4.30* Hgb-12.2* Hct-35.6* MCV-83 MCH-28.4 MCHC-34.3 RDW-14.6 Plt Ct-105* [**2168-10-5**] 09:30PM BLOOD Neuts-76* Bands-12* Lymphs-6* Monos-4 Eos-0 Baso-0 Atyps-0 Metas-2* Myelos-0 [**2168-10-5**] 09:00AM BLOOD Neuts-77* Bands-17* Lymphs-4* Monos-2 Eos-0 Baso-0 Atyps-0 Metas-0 Myelos-0 [**2168-10-6**] 03:24AM BLOOD PTT-36.7* [**2168-10-5**] 01:07PM BLOOD PT-13.4 PTT-22.1 INR(PT)-1.1 [**2168-10-5**] 09:00AM BLOOD PT-13.5* PTT-22.6 INR(PT)-1.1 [**2168-10-5**] 09:00AM BLOOD PT-13.5* PTT-22.6 INR(PT)-1.1 [**2168-10-11**] 04:48AM BLOOD Glucose-114* UreaN-7 Creat-0.6 Na-140 K-3.0* Cl-110* HCO3-24 AnGap-9 [**2168-10-10**] 07:05AM BLOOD Glucose-119* UreaN-8 Creat-0.7 Na-143 K-2.9* Cl-113* HCO3-24 AnGap-9 [**2168-10-9**] 06:00AM BLOOD Glucose-107* UreaN-9 Creat-0.7 Na-142 K-2.7* Cl-110* HCO3-24 AnGap-11 [**2168-10-7**] 06:45AM BLOOD Glucose-84 UreaN-30* Creat-1.1 Na-145 K-3.2* Cl-114* HCO3-24 AnGap-10 [**2168-10-5**] 09:37PM BLOOD Glucose-132* UreaN-31* Creat-1.2 Na-145 K-3.2* Cl-116* HCO3-17* AnGap-15 [**2168-10-5**] 01:07PM BLOOD Glucose-218* UreaN-28* Creat-1.2 Na-143 K-3.9 Cl-111* HCO3-20* AnGap-16 [**2168-10-5**] 09:00AM BLOOD Glucose-207* UreaN-31* Creat-1.1 Na-143 K-3.3 Cl-107 HCO3-26 AnGap-13 [**2168-10-5**] 09:00AM BLOOD ALT-18 AST-27 CK(CPK)-50 TotBili-0.5 [**2168-10-5**] 09:00AM BLOOD Lipase-31 [**2168-10-5**] 09:00AM BLOOD cTropnT-<0.01 [**2168-10-11**] 04:48AM BLOOD Calcium-8.2* Phos-2.2* Mg-1.6 [**2168-10-10**] 07:05AM BLOOD Calcium-8.3* Phos-2.0* Mg-1.8 [**2168-10-9**] 06:00AM BLOOD Calcium-8.4 Phos-2.2* Mg-1.5* [**2168-10-7**] 06:45AM BLOOD Calcium-8.8 Phos-2.3* Mg-2.0 [**2168-10-5**] 09:37PM BLOOD Calcium-8.2* Phos-2.6* Mg-1.8 [**2168-10-5**] 09:00AM BLOOD Albumin-3.6 Calcium-9.5 Phos-1.2* Mg-1.6 [**2168-10-6**] 09:02AM BLOOD Type-ART Temp-36.3 pO2-96 pCO2-34* pH-7.38 calTCO2-21 Base XS--3 [**2168-10-5**] 09:53PM BLOOD Type-[**Last Name (un) **] pO2-57* pCO2-44 pH-7.28* calTCO2-22 Base XS--5 Comment-GREEN TOP [**2168-10-5**] 09:22AM BLOOD pH-7.30* [**2168-10-6**] 09:02AM BLOOD Lactate-1.3 Na-142 Cl-3.4* [**2168-10-5**] 09:22AM BLOOD Glucose-187* Lactate-3.7* Na-143 K-3.3 Cl-104 calHCO3-24 [**2168-10-5**] 09:22AM BLOOD Hgb-11.9* calcHCT-36 [**2168-10-5**] 09:22AM BLOOD freeCa-1.23 [**2168-10-5**] 09:00AM URINE Color-Straw Appear-Hazy Sp [**Last Name (un) **]-1.042* [**2168-10-5**] 09:00AM URINE Blood-MOD Nitrite-NEG Protein-TR Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-LG [**2168-10-5**] 09:00AM URINE RBC-92* WBC->182* Bacteri-MOD Yeast-FEW Epi-0 [**2168-10-5**] 09:20AM URINE Hours-RANDOM UreaN-447 Creat-32 Na-88 K-35 Cl-100 [**2168-10-5**] 09:20AM URINE Osmolal-528  ECG Study Date of [**2168-10-5**]  8:39:46 AM   Sinus arrhythmia.
+Inferoposterior myocardial infarction of indeterminate age.
+Non-specific anterior T wave changes.
+Small amount of urine sample sent for laboratory analysis.
+No hydronephrosis or hydroureter.
+Multiple echogenic foci, which may represent air or less likely nonobstructive left renal calculi.
+Stomach:  Lumen: A small size hiatal hernia was seen.
+Other Multiple red circular lesions of the same diameter were noted in the stomach body.
+The final two lesions were flat with apparent submucosal hemorrhage.
+Taken together, these lesions appeared consistent with significant NG trauma.
+Impression: Gastric bezoar Circular lesions likely NGT trauma as noted above Food in the Distal esophagus Small hiatal hernia Otherwise normal EGD to third part of the duodenum  EGD Friday, [**2168-10-7**] Findings: Esophagus:  Mucosa: A salmon colored mucosa suggestive of short segment (about 2cm) Barrett's Esophagus was found.
+Biopsies were not taken given recent Upper GI bleed.
+Stomach:  Excavated Lesions A single superficial 3-4 mm ulcer was found in the stomach body.
+There was no high risk associated stimgata.
+Impression: Mucosa suggestive of short segment Barrett's esophagus Ulcer in the stomach body Pills in the duodenum Otherwise normal EGD to third part of the duodenum   Brief Hospital Course: 77M with h/o CAD s/p CABG and stent placement, pacemaker, hemorrhagic frontal CVA [**2152**], prior DVT and PE, BPH, type 2 DM, Hypertension, ulcerative colitis (with h/o of admissions for GI bleeding) transferred from [**Hospital1 **] [**Location (un) 620**] with GI bleed and septic shock due to UTI with obstructive kidney stone.
+# Septic Shock from Bacterial UTI with Proteous, infected ureteral stone: admitted with fevers and positive UA in the setting of obstructive kidney stone and recent cystoscopy.
+- Zosyn empirically for gram negative and anaerobe coverage in the setting of recent instrumentation/hospitalization, which was changed on [**10-8**] to ceftriaxone with sensitivities.
+- Pt was initially hypotensive to 70s on admission so gave fluid boluses and started on levophed, with good result, patient transferred to the floor on [**10-6**].
+- CT A/P at [**Location (un) 620**] showed multiple left renal calculi with mild left hydronephrosis and delayed nephrogram c/w acute obstruction as well as cystitis.
+Concern was for infected fluid collection behind stone so he underwent nephrostomy tube placement by IR to drain renal pelvic space behind stone.
+# Hypokalemia, Hypomagnesemia - Patient has required almost daily supplementation.
+# Upper GI bleed due to gastric ulcers: Initially presented to outside hospital with coffee-ground emesis.
+GI was consulted and performed EGD on [**2168-10-5**] which showed multiple circular lesions consistent with NG trauma, as well as large bezoar, with no evidence of recent or active bleeding.
+A repeat EGD was performed on [**2168-10-7**], which showed a superficial ulcer in the stomach body and short-segment Barrett's esophagus.
+EP was consulted to interrogate his pacemaker and found that he had an episode of asymptomatic wide-complex tachycardia.
+EP described it as an atrial tachy-arrhythmia with aberrancy and subsequently re-programmed the pacer to detect it at 135bpm.
+CT head showed no acute intracranial process.
+# Atrial Tachycardia with Abberency - The patient frequently goes into a wide complex rhythm.
+# Acute renal failure: This was thought to result from a combination of septic shock as well as the obstructing calculus.
+# Extrapyramidal syndrome: The patient was noted to have tremor and bilateral cogwheel rigidity.
+Most likely parkinson's or vascular EP syndrome but in the setting of enlarged ventricles on CT head, urinary incontinence and his h/o recurrent fall.
+# CAD s/p CABG / chronic systolic CHF / Benign Hypertension: ischemic cardiomyopathy with EF 35-45% at baseline.
+held ACE-I and BB initially in the setting of bleeding and sepsis.
+# Ulcerative colitis: Continued asacol.
+# Type 2 Diabetes Controlled without Complications: Continued standing NPH and sliding scale  # Depression - continued lexapro, seroquel, ritalin  # Constipation - patient became highly constipated, but was succesfully treated with PEG over 3 days.
+3. heparin, porcine (PF) 10 unit/mL Syringe Sig: Two (2) ML Intravenous PRN (as needed) as needed for line flush.
+4. sodium chloride 0.9 % 0.9 % Syringe Sig: Three (3) ML Injection Q8H (every 8 hours) as needed for line flush.
+10. polyethylene glycol 3350 17 gram/dose Powder Sig: One (1) packet PO DAILY (Daily) as needed for constipation.
+12. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+14. ceftriaxone in dextrose,iso-os 1 gram/50 mL Piggyback Sig: One (1) gram Intravenous Q24H (every 24 hours): until lithotripsy procedure.
+Discharge Disposition: Extended Care  Facility: [**Location (un) 582**] at [**Location (un) 620**]  Discharge Diagnosis: Septic shock GI bleed due to Gastic Ulcers Barrett's esophagus Obstructive nephrolithiasis Acute kidney injury Bacteremia Urinary Tract Infection Hypokalemia Hypomagnesemia Constipation Chronic Systolic CHF CAD Bypass Vessle Depression  Discharge Condition: Mental Status: Clear and coherent.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Discharge Instructions: You were admitted for treatment of your blood in your vomit, an infected kidney stone, and urinary tract infection with septic shock.
+You had an upper endoscopy which showed a large collection of undigested food in your stomach.
+Repeat endoscopy showed a small ulcer in your stomach and abnormal lining of your esophagus called barrets esophagus.
+You will need to complete antibiotics until you have your lithotripsy with Dr. [**Last Name (STitle) 103548**].
+You have also had low potassium levels, which the rehab will continue to monitor, and they can give you potassium as needed.

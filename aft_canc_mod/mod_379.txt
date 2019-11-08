@@ -1,0 +1,30 @@
+Admission Date:  [**2116-7-30**]              Discharge Date:   [**2116-8-19**]   Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 3016**] Chief Complaint: N/V, fever  Major Surgical or Invasive Procedure: ERCP with external stent placement Percutaneous biliary drainage  History of Present Illness: 89 year old female with terminal metastatic colon cancer with plans for hospice complicated by biliary stricture s/p stenting who was recently admitted for possible cholangitis and pseudomonas bacteremia.
+She now presents with fevers and N/V.
+Past Medical History: Metastatic colon CA Biliary stricture Pseudomonas bacteremia Anemia Breast CA s/p L mastectomy h/o lower extremity DVT, s/p IVC filter in [**2-8**] HTN Hyperlipidemia CAD, h/o NSTEMI .
+Family History: NC  Physical Exam: VITAL SIGNS: Temperature: 98.3 Blood pressure: 96/45 Heart rate: 74 Resp rate: 20, 96%2L GENERAL:  elderly woman in no acute distress.
+No murmurs, rubs, or gallops.
+EXTREMITIES:  No edema.
+There was mild post-obstructive dilation.
+Some sludge and tissue debris was extracted successfully using a 15 mm RX balloon.
+Percutaneous cholangiogram demonstrating dilated left biliary ducts with some filling of the right-sided ducts.
+A/P: 89 year old female with metastatic colon cancer c/b biliary stricture requiring stenting and recent admit for cholangitis and bacteremia who now presents with fever, leukocytosis, and worsened LFTS.
+#) Cholangitis: The patient was taken for ERCP and found to have an obstructed bile duct.
+She remained afebrile and was discharged on cephalexin and cipro based on sensitivities.
+Note that the patient has a history of chronic intrahepatic bile duct obstruction which is thought to potentially represent a cholangiocarcinoma versus colon cancer metastasis with bile duct obstruction.
+However, this has not been further evaluated because the patient has metastatic colon cancer and the goals of care at this time are comfort based, per the patient's discussion with her outpatient oncologist, Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] (see OMR notes).
+When the patient was once again found to have signs of sepsis a CT scan was performed that noted the presence of multiple biliary lakes.
+Zosyn and Cipro were started for double coverage with a plan to continue for a total of 14 days.
+#) Metastatic colon cancer: The patient was seen by Dr. [**Last Name (STitle) **] a few weeks prior to admission and at that time, she made the decision to pursue hospice care and not to pursue further treatment for her colon cancer, as she would be unlikely to tolerate chemo well.
+A frank discussion was had with Dr. [**Last Name (STitle) **], patient and her daughter, and the decision was made not to pursue further chemotherapy.
+#) Anemia: The patient had a low serum iron, a borderline low MCV, and normal ferritin levels.
+Though she is at risk for anemia of chronic disease, she does have a history of rectal bleeding secondary to her colonic mass.
+She likely has some component of iron deficiency anemia and was therefore started on iron supplementation.
+Note that patient also has a history of NSTEMI in the setting of rapid blood loss.
+Isosorbide was continued, however, to prevent anginal pain.
+#)Oral Candidiasis: Patient was found to have thrush and started on nystatin swish and swallow with significant improvement.
+Nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO TID (3 times a day) as needed for thrush.
+Disp:*50 ML(s)* Refills:*0*   Discharge Disposition: Extended Care  Facility: [**Hospital6 459**] for the Aged - MACU  Discharge Diagnosis: Primary: Cholangitis .
+Secondary: Metastatic colon CA Biliary stricture Pseudomonas bacteremia Anemia Breast CA s/p L mastectomy h/o lower extremity DVT, s/p IVC filter in [**2-8**] HTN Hyperlipidemia CAD, h/o NSTEMI   Discharge Condition: Stable, tolerating food   Discharge Instructions: You were admitted because of nausea, vomiting, and fever.
+We determined that you had an infection in your common bile duct.
+We also found that you have an iron deficiency anemia.
+Please call your doctor or return to the hospital if you experience fevers, chills, sweats, chest pain, shortness of breath or anything else of concern.

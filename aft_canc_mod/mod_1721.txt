@@ -1,0 +1,64 @@
+Admission Date:  [**2141-3-11**]              Discharge Date:   [**2141-3-29**]  Date of Birth:  [**2069-9-11**]             Sex:   M  Service: SURGERY  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 148**] Chief Complaint: Vomiting/?Hematemesis  Major Surgical or Invasive Procedure: Reopening of recent laparotomy.
+Repair of biliary ductal leak from liver laceration.
+Enterotomy for decompression of small bowel.
+History of Present Illness: 71 year old man with known unresectable pancreatic anedocarcinoma s/p palliative duodenal stenting in [**12/2140**] who presents with two episodes of hematemesis this morning.
+He reports waking up early this morning and having one episode of emesis (without nausea) that was [**Location (un) 2452**]-colored; this was followed shortly by an episode of dark red emesis which the patient thought was blood (more than a cupfull) and so he called EMS.
+In the ambulance, he reports an additional episode of dark red emesis.
+He denies any fevers, chills, abdominal pain, change in PO intake, chest pain, lightheadedness, dizziness, palpitations, melena, or BRBPR.
+Pt was transferred to [**Hospital Ward Name 332**] ICU, where he was placed on IV BID PPI, had Hct monitered, kept NPO, and had NG tube to suction with some dark material noted.
+KUB demonstrated evidence of ileus versus early SBO.
+He was brought for ERCP on day after admission to evaluate his duodenal stent (?blockage versus eroding into duodenal mucosa as etiology of pt's symptoms), which demonstrated food impaction at the level of the stent, with no evidence of new or old bleeding.
+Currently, the patient is afebrile with stable vital signs, and c/o slight nausea and some lower abdominal pain.
+Past Medical History: -Duodenal stent [**2140-12-30**] for stricture - inoperable pancreatic cancer diagnosed [**6-15**] s/p ERCP with stent placement, laporatomy with attempted Whipple, on gemcitabine (received 3 weekly treatments starting [**2139-9-22**], followed by a week off, then a fourth dose yesterday [**2139-10-20**]) - h/o SBO - h/o cholangitis ([**6-15**]) with Enterococcus, Pseudomonas, and Strep Viridans - h/o bacteremia with Enterococcus fecalis (Vanc sensitive) and Pseudomonas (sensitive to Zosyn) - s/p choecystectomy tube (fell out [**7-16**]) - Hypertension - ankylosing spondylitis - right kidney cystic lesion - Moderate Aortic stenosis - intermittent SVT - anemia - tinea corporis   Social History: Lives at Orchard care [**Hospital3 **] facility run by [**Hospital 100**] Rehab, sister also lives there.
+Family History: Mother died of breast cancer, sister had uterine cancer, father died of heart disease at 84.
+Physical Exam: EXAM IN THE ER ([**3-11**]): T 98.7 BP 131/61 HR 121 RR 22 Sat 96% on ra Gen: elderly man lying comfortably in bed HEENT: (+)NGT, OP clear with mildly dry MM, no scleral icterus Neck: JVP 7cm, no carotid bruits, no cervical/clavicular lymphadenopathy CV: tachycardic, regular, II/VI systolic murmur at RUSB, nl s1s2  Chest: (+) bibasilar rales 2" up from bases; no wheezes Abd: (+)LUQ tenderness to deep palpation; ?ventral hernia; hypoactive bowel sounds; no palpable masses Extr: no edema, warm, 2+ DP pulses Neuro: A&O x3, stuttering speech Skin: no jaundice .
+EXAM ON THE FLOOR on transfer out of the [**Hospital Unit Name 153**] ([**3-16**]): Vitals - 96.0 94 128/69 19 96%RA Gen - 71 yo M, thin, diaphoretic, comfortable, NAD HEENT - NC/AT, MM dry, op clear CVS - RRR with III/VI SEM at the base radiating to the neck and a loud IV/VI SEM at the LLSB radiating across the precordium.
+Lungs - CTAB with bibasilar rales Abd - distended, +BS, no rebound or guarding but ttp in the lower quadrants.
+KUB ([**2141-3-11**]): Moderately dilated loops of small bowel, with presence of air and stool in the colon, gas pattern worrisome for ileus.
+Early small bowel obstruction cannot be ruled out.
+Osseous findings suggestive of ankylosing spondylitis.
+CXR ([**2141-3-11**]): No evidence of acute cardiopulmonary process.
+ECG ([**2141-3-11**]): sinus tachycardia at 118 bpm; normal axis, normal intervals; LVH; ST-T wave depression in I, aVL, V3-V6 (old) .
+Small bowel obstruction with focal transition point noted within the right lower quadrant.
+This is likely related to adhesions; while the appearance has one that could be seen in internal hernias, this is felt less likely because of the location.
+Stable appearance to known pancreatic head mass without change in pancreatic duct dilation.
+Interval appearance of pneumobilia, likely related to recent ERCP with stable appearance to intrahepatic biliary dilatation.
+Interval appearance of new small bilateral pleural effusions (left greater than right).
+[**3-27**] CT abd pelvis: Extensive small bowel obstruction with extensive pneumatosis and air within the mesenteric vein.
+Stable appearance to known pancreatic head mass.
+Unchanged pneumobilia and intrahepatic biliary duct dilatation.
+Interval resolution of right pleural effusion, stable small left pleural effusion.
+## Acute blood loss anemia: likely due to malfunction of duodenal stent - q6h Hcts; transfuse for evidence of active bleeding - GI input appreciated; may require stent re-placement - active T&S; 2 large-bore PIVs - [**Hospital1 **] IV ppi - consent for blood transfusion - prn ondansetron for nausea - hold Lasix, spironolactone for now; give short-acting, reduced-dose beta-blockade .
+## Possible SBO: per patient, last BM was yesterday; KUB shows evidence of possible ileus vs early SBO - NGT in place right now (clamped) - keep NPO for now and monitor serial abdominal exams .
+## Pancreatic adenocarcinoma with duodenal stricture, s/p palliative stenting in [**12/2140**]; followed by Dr. [**Last Name (STitle) **] - may get re-placement of palliative duodenal stenting by GI (as above) - prn Percocet for pain control .
+## Tachycardia: unclear if this is true volume depletion given his pulmonary rales and history of SVT - ECG appears to show sinus tachycardia - will give reduced-dose beta-blockade for now and consider small NS boluses in addition to maintenance IVFs - check digoxin level .
+## Systolic CHF (LVEF 45% in [**11/2139**]): has mild pulmonary rales on exam, though mucous membranes are slightly dry - hold Lasix and spironolactone for now, but consider resuming if Hct remains stable - reduced-dose beta-blockade as above .
+# SBO: Initially thought [**1-13**] malfunction of duodenal stent - ?
+No active or past bleeding noted.
+With onset of feculent vomiting s/p ERCP, NGT was replaced to cont suction and patient was sent down for stat CT abd/pelvis which confirmed an SBO distal the stent.
+Surgery was consulted who recommended conservative management (NGT to cont suction, NPO, IVF, serial abdominal exams) for 48 hours and if no flatus/BM at that point will take patient to the OR.
+# Pancreatic adenocarcinoma: Pt has known advanced stage pancreatic adenocarcinoma with duodenal stricture, s/p palliative stenting in [**12/2140**]; followed by Dr. [**Last Name (STitle) **].
+# Tachycardia: unclear if this is true volume depletion given his pulmonary rales and history of SVT.
+# Systolic CHF (LVEF 45% in [**11/2139**]): has mild pulmonary rales on exam, though mucous membranes are slightly dry.
+No evidence of pulmonary edema on CXR.
+# HTN: On toprol XL, dig, lasix, spironolactone as outpt.
+Enterotomy for decompression of small bowel.
+During the case, the surgery was complicated by a liver laceration (see operative note for furthur details).
+Overnight of POD0, Mr [**Known lastname 28444**] pressures remained low, and he remained tachycardic with low urine output.
+Reopening of recent laparotomy.
+Repair of biliary ductal leak from liver laceration.
+On [**3-19**], there was a short time he was on a T-piece, and was given 1 Unit of PRBC for persistent tachycardia with good effect (for postoperative anemia).
+The patient was extubated on [**3-21**] without difficulty.
+He was seen by physical therapy and was ambulating and no pain issues.
+His wound (midline incision) showed evidence of breakdown, with approximately [**2-12**] staples pulling apart.
+The wound remained without evidence of infection (some serosang drainge present) and it was dressed with dry gauze.
+On [**3-25**], he developed an arrythmia (SVT/AFib) with a heart rate in the 130's range.
+His CXR was also unremarkable and Mr [**Known lastname 16268**] [**Last Name (Titles) 15797**] chest pain or other symptoms during this period.
+Overnight of POD [**9-29**] ([**3-26**]), Mr [**Known lastname 16268**] was noted to have increasing abdominal distention on the floor with an elevated white count to 17,000.
+On examination, he was found to be diaphoretic, but [**Known lastname 15797**] abdominal pain, chest pain or shortness of breath.
+He continued to make good urine and his wound remained unchanged.
+Cardiology was called, who felt it was not necessary to make adjustments to his medication at this time; Mr [**Known lastname 16268**] was given 5mg IV Lopressor x 2 with moderate effect (SBP down to 100's).
+Throughout this 24 hour period, his blood pressure remained stable (systolic between 100-130's), but his heart rate remained in the 130-140 range, going back and forth between sinus tachycardia and supraventricular tachycardia.
+Cardiology was again called, but no furthur adjustments were made to his medications.
+His urine output remained adequate; his abdomen remained distended and his pain was well controlled.
+He fell asleep through the night and became asystolic and apneic in the early morning.

@@ -1,0 +1,38 @@
+Admission Date:  [**2123-1-1**]              Discharge Date:   [**2123-1-4**]   Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**Last Name (NamePattern4) 290**] Chief Complaint: blood in stool  Major Surgical or Invasive Procedure: None   History of Present Illness: HPI: Mr. [**Known lastname **] is a [**Age over 90 **] y/o M with PMH notable for glaucoma, gout, and intermittent lower GI bleeding who presents from [**Company 191**] to the ED today with several weeks of blood in his stools.
+The patient states that he has had bright and dark blood in his stools for several weeks.
+He has had intermittent dizziness in the past few days.
+He denies any chest pain or difficulty breathing.
+He also underwent CT scan of the abdomen/pelvis due to intermittent abdominal pain and cramping over the past few weeks; he did not have any evidence of mesenteric ischemia.
+No obvious hemorrhoidal bleeding.
+On arrival to the ICU, the patient denies any dizziness, chest pain, difficulty breathing, or abdominal pain.
+He last noticed bright and dark blood in his stools several days ago.
+He says that he has had abdominal cramping "off and on" and has been intermittently dizzy for several days.
+He denies any nausea/vomiting or hematemesis.
+Past Medical History: PMH: * h/o gout * h/o hemorrhoids (seen in [**Hospital 7819**] Clinic for hemorrhoid banding, also has been seen by Dr. [**Last Name (STitle) 1120**] with recurrent lower GI bleeding * glaucoma * ETOH abuse * BPH s/o TURP * anemia, mild leukopenia   Social History: Lives with wife in a 3-family home.
+Family History: noncontributory  Physical Exam: PE: T: 97.9 BP: 104/54 HR: 100 RR: 10 O2 93% 2L NC Gen: Pleasant, well appearing elderly gentleman in no acute distress HEENT: sclerae slightly pale, tongue moist & midline, pupils small but reactive bilaterally NECK: no lymphadenopathy or thyromegaly CV: RRR, no murmurs LUNGS: clear to auscultation bilaterally, no wheezing ABD: soft, normoactive bowel sounds, nontender to palpation EXT: warm, trace pitting edema in bilateral feet, DP pulses 2+ bilaterally SKIN: No rashes/lesions, ecchymoses.
+Colonic diverticulosis without evidence of diverticulitis.
+Aorta shows mild-to-moderate atherosclerotic calcification.
+There is no evidence of bowel ischemia.
+CXR FINDINGS: There is no evidence of pneumoperitoneum.
+The lungs are clear with no signs of congestive heart failure or pneumonia.
+The heart demonstrates a left ventricular shape configuration and is top normal in size.
+There is mild tortuosity of the aorta.
+IMPRESSION: No evidence of pneumoperitoneum or pneumonia.
+***LABS ON DISCHARGE*** [**2123-1-4**] 12:44PM BLOOD Hct-29.2* [**2123-1-4**] 06:25AM BLOOD WBC-4.5 RBC-3.20* Hgb-8.9* Hct-28.5* MCV-89 MCH-27.7 MCHC-31.1 RDW-16.1* Plt Ct-207 [**2123-1-4**] 06:25AM BLOOD Plt Ct-207 [**2123-1-3**] 07:12AM BLOOD PT-14.0* PTT-31.2 INR(PT)-1.2* [**2123-1-4**] 06:25AM BLOOD Glucose-87 UreaN-9 Creat-1.0 Na-143 K-3.6 Cl-111* HCO3-26 AnGap-10 [**2123-1-3**] 07:12AM BLOOD CK(CPK)-61 [**2123-1-2**] 01:44AM BLOOD CK(CPK)-41 [**2123-1-3**] 07:12AM BLOOD CK-MB-NotDone cTropnT-0.02* [**2123-1-2**] 01:44AM BLOOD CK-MB-NotDone cTropnT-0.02* [**2123-1-4**] 06:25AM BLOOD Calcium-8.2* Phos-3.0 Mg-1.8 [**2123-1-2**] 02:14AM BLOOD Lactate-1.0  Brief Hospital Course: This is a [**Age over 90 **] y/o man with PMH of recurrent GI bleeding admitted with bright and dark blood in the stool for several weeks and hct 21.1. .
+# GI bleeding: Patient has had multiple episodes of lower GI bleeding in the past.
+His current episode is likely secondary to hemorrhoids versus diverticulosis.
+He did not have any nausea/vomiting or hematemesis to suggest upper GI source though this is technically a possibility.
+There were no signs of mesenteric ischemia on CT scan, though diverticulosis was noted.
+Pt was admitted initially to the MICU for management of his lower GI bleed.
+Given pt's long history of hemorrhoidal bleeds with banding, and pt's risk factors at age [**Age over 90 **], Surgery did not think pt would benefit from hemorrhoidectomy at this time.
+# EKG changes: Patient has had no complaints of chest pain but had TWI on EKG done in ED.
+This likely represents sequelae of anemia and demand ischemia given Hct of 21.1.
+Pt had no additional cardiac symptoms during admission.
+# h/o gout: Stable.l Pt did not have any symptoms of gout flare, and was continued on home Allopurinol.
+#pruritis: Pt complained of some mild itching on back.
+There weere no lesions or rashes visible.
+# PPx: pneumoboots, bowel regimen .
+Disp:*90 Packet(s)* Refills:*2*   Discharge Disposition: Home  Discharge Diagnosis: Lower GI bleed   Discharge Condition: Hemodynamically stable, hematocrit stable (29.2), afebrile   Discharge Instructions: You were admitted for management of lower GI bleeding.
+This was most likely related to your hemorrhohids.
+You were lightheaded and had a very low blood level.
+This should help to keep your stools soft and reduce your tendency to bleed from straining when constipated.

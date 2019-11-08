@@ -1,0 +1,66 @@
+Admission Date:  [**2162-1-10**]              Discharge Date:   [**2162-1-19**]  Date of Birth:  [**2087-9-19**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 1928**] Chief Complaint: Pneumonia  Major Surgical or Invasive Procedure: Intubation and mechanical ventilation   History of Present Illness: Mr. [**Known lastname 2643**] is a 74 year old man with a recent diagnosis of squamous cell cancer of the head and neck.
+One week ago, he was discharged after a new diagnosis of neck cancer.
+On arrival to [**Location (un) 620**], was in afib with RVR with rates to 170s; cardioversion was attempted and not successful.
+Was hypotensive and started on levophed, neosynephrine, and vasopressin and intubated.
+CT scan of the chest showed a left sided pneumonia.
+CTA of his chest showed no PE, but after volume resuscitation demonstrated a massive LUL pneumonia.
+Stress dose steroids were discontinued as no concern for adrenal insufficiency.
+-new diagnosis of metastatic neck cancer 1 wk ago, has pulmonary nodules concerning for mets but no other known metastatic sites.
+He has been at a nursing home since that time with no recent alcohol consumption.
+Family History: non-contributory  Physical Exam: Hr 99, BP 109/55, RR 26, 95% 2L NC Gen - comfortable, NAD HEENT: NCAT, o/p with large mass in right side, dried blood Neck supple Lungs decreased b/s biaterally at bases and in LUL.
+Heart Irregular, mildly tachycardic, no murmurs noted Abd: soft NTND ext: wwp.
+Complete consolidation of the left lower lobe without significant volume loss, consistent with massive pneumonia.
+Right lower lobe infiltrate.
+Small bilateral pleural effusions.
+No pulmonary embolism or acute aortic pathology.
+Significant atherosclerotic disease.
+Appearance of thickened bladder wall in a partially collapsed bladder, incompletely assessed.
+Recommend clinical correlation to exclude cystitis or urinary tract infection.
+No acute intracranial hemorrhage or major vascular territorial infarct.
+Expansile, sclerotic bony lesion centered in the sphenoid bone, likely bone metastasis.
+Global atrophy with chronic microvascular ischemic disease.
+[**2162-1-14**] ECHO The left atrium is mildly dilated.
+There is mild symmetric left ventricular hypertrophy with normal cavity size.
+There is mild regional left ventricular systolic dysfunction with anteroseptum and anterior wall hypokinesis.
+Overall left ventricular systolic function is mildly depressed (LVEF= 40 %).
+There is considerable beat-to-beat variability of the left ventricular ejection fraction due to an irregular rhythm/premature beats.
+The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present.
+No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+There is no mitral valve prolapse.
+Mild (1+) mitral regurgitation is seen.
+There is mild pulmonary artery systolic hypertension.
+There is a small pericardial effusion.
+IMPRESSION: Mild regional left ventricular systolic dysfunction.
+Very small pericardial effusion.
+[**2162-1-14**] Catheter Placement IMPRESSION: Successful fluoroscopically guided repositioning of a right upper extremity PICC line.
+Barium passed freely through the oropharynx and esophagus without evidence of obstruction.
+There is no gross aspiration or penetration.
+There is a combination of left lower lobe consolidation with left pleural effusion that overall appears to be improved since [**2162-1-14**].
+There is also overall improvement of pulmonary edema, but the asymmetric appearance of the left basal consolidation is concerning for infection.
+Another asymmetric area in more diffuse manner is in the right upper lobe that also might be consistent with partial resolution of pulmonary edema versus infectious process.
+[**2162-1-19**] 05:33AM BLOOD WBC-8.2 RBC-3.39* Hgb-10.1* Hct-31.5* MCV-93 MCH-29.8 MCHC-32.0 RDW-15.8* Plt Ct-223 [**2162-1-19**] 05:33AM BLOOD Glucose-84 UreaN-7 Creat-0.5 Na-142 K-3.3 Cl-109* HCO3-28 AnGap-8 [**2162-1-19**] 05:33AM BLOOD Calcium-7.9* Phos-3.1 Mg-1.9 [**2162-1-18**] 06:26AM BLOOD Triglyc-128 HDL-32 CHOL/HD-5.1 LDLcalc-105 [**2162-1-18**] 06:26AM BLOOD TSH-26* [**2162-1-19**] 05:33AM BLOOD T4-6.1 [**2162-1-18**] 06:26AM BLOOD Vanco-16.4  [**2162-1-18**] Doppler of lower extremities IMPRESSION: No deep venous thrombosis in the lower extremities bilaterally.
+Brief Hospital Course: Mr. [**Known lastname 2643**] is a 74 year old man with a recent diagnosis of a squamous cell head/neck cancer who was transferred to [**Hospital1 18**] with septic shock from pneumonia.
+# Pneumonia: He had an extensive pneumonia visible on CT scan when he presented.
+There was no growth in any of the sputum or blood cultures.
+He will need a follow-up CT chest in [**5-18**] weeks to ensure resolution of infiltrate.
+# Thromobocytopenia: Mr. [**Known lastname 2643**] had a decrease in his platelets during admission of 50%.
+A pf4 test was cancelled because he did not meet criteria for testing.
+There were multiple reasons for his thrombocytopenia including sepsis, bleeding, and drug effect.
+# Atrial fibrillation with RVR: A. fib likely a response to sepsis.
+Elevation in enzymes thought likely related to increased demand/sepsis/atrial fibrillation.
+He was not started on aspirin initially out of concern for bleeding given his presentation of coffee ground emesis, which was likely to be blood from is SCC in his mouth.
+A f/u TTE revealed an EF 40% and mild anterior wall hypokinesis.
+# Squamous cell cancer: Patient has a squamous cell cancer.
+The mass was bleeding during his stay in the ICU.
+This was likely causing his coffee ground emesis.
+# Bleeding from foley: Patient initially presented with bleeding after self-removal of foley.
+His urine had trace blood after removal.
+He had no difficulty urinating.
+He was delirious from sepsis and ICU.
+His foley and telemetry were discontinued to decrease delirium triggers.
+# Swallow evaluation: Patient was evaluated by speech and swallow given the mass in his mouth.
+However, a video swallow showed no aspiration.
+He took his pills whole in puree or nectar thick liquids.
+Discharge Disposition: Extended Care  Facility: [**Hospital3 105**] Northeast - [**Hospital1 **]  Discharge Diagnosis: Primary Diagnosis: Pneumonia  Secondary Diagnosis: Squamous Cell cancer of the head and neck   Discharge Condition: Mental Status:Confused - sometimes Level of Consciousness:Alert and interactive Activity Status:Ambulatory - requires assistance or aid (walker or cane)   Discharge Instructions: You were admitted to the hospital with pneumonia.
+Because you were so sick, you could not receive any treatment for the cancer of your mouth.

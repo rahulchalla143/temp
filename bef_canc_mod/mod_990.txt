@@ -1,0 +1,11 @@
+Admission Date:  [**2128-9-23**]              Discharge Date:   [**2128-9-24**]  Date of Birth:  [**2099-10-25**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 398**] Chief Complaint: hyperglycemia  Major Surgical or Invasive Procedure: none   History of Present Illness: Ms. [**Known lastname **] is a 28 year-old female with a history of type I diabetes who presents to ED after FS at home was elevated.
+Patient also experienced vomitting x 2 overnight prior to admission.
+Patient denies fever,chills, chest pain, abdominal pain, shortness of breath, cough, cold, dysuria, change in urinary characteristics, headache, dizziness, loss of sensation.
+Diabetes mellitus type 1 since age 15.
+Physical Exam: vitals - T 96.8  HR 108  BP 116/81  RR 23  96% RA gen - alert and awake, NAD, able to understand english heent - PERRL, MMM, OP clear, JVP flat cv - Normal S1S2 regular rhythm, tachycardic pulm - CTAB abd - BS present, soft NTND ext - warm, no edema neuro - Nonfocal  Pertinent Results: [**2128-9-23**] 11:45AM   GLUCOSE-472* UREA N-12 CREAT-0.9 SODIUM-145 POTASSIUM-4.5 CHLORIDE-109* TOTAL CO2-26 ANION GAP-15  UA: [**2128-9-23**] 07:54AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-1000 KETONE-150 BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-NEG [**2128-9-23**] 07:54AM   CALCIUM-9.7 PHOSPHATE-3.6 MAGNESIUM-1.9  CXR:No radiographic evidence of pneumonia.
+[**2128-9-23**] 08:30PM   GLUCOSE-192* UREA N-8 CREAT-0.7 SODIUM-143 POTASSIUM-4.0 CHLORIDE-110* TOTAL CO2-25 ANION GAP-12  Brief Hospital Course: Patient admitted for elevated glucose without evidence of DKA or anion gap.
+She had no evidence of infection with normal UA and CXR.
+Patient was discharged feeling well and tolerating normal diet without nausea or vomiting.
+Discharge Disposition: Home  Discharge Diagnosis: Primary: elevated blood glucose .
+Secondary: DM1 Down's Syndrome Preseptal cellulitis Hypothyroidism   Discharge Condition: good, blood sugars normalized   Discharge Instructions: You were seen at [**Hospital1 18**] for elevated blood glucose.
+You should call your primary care physician or return to the ED if you experience dizziness, shakiness, headache, loss of consciousness, seizure, elevated blood sugars, temperature greater than 101.4 degrees F, or any other symptoms that concern you.

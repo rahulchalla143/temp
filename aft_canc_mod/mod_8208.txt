@@ -1,0 +1,52 @@
+Admission Date:  [**2176-7-26**]              Discharge Date:   [**2176-8-9**]  Date of Birth:  [**2122-10-2**]             Sex:   F  Service: NEUROLOGY  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 7575**] Chief Complaint: seizures  Major Surgical or Invasive Procedure: Right frontal cavernoma resection with Dr. [**First Name8 (NamePattern2) **] [**Name (STitle) **] on [**2176-7-31**] Forehead lipoma resection with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1022**] on [**2176-7-31**]   History of Present Illness: Ms. [**Known lastname 13712**] is a 53 yo F from Bermuda with no PMHx transferred from [**Hospital1 18**] [**Location (un) 620**] for new-onset seizure.
+Patient arrived to US today; was grocery shopping with her husband this morning when she suddenly became limp from the waist up and developed right-sided facial twitch.
+Per husband she had altered mental status during episode but never fell or struck head.
+No urinary incontinence or tongue biting.
+Noncontrast head CT revealed 1x1cm right frontal mass without associated vasogenic edema.
+For the past 2 days, patient has had severe bifrontal headache that is worse when bending down; not worse at any time of day or when lying flat.
+Has never had headaches like this before.
+Endorses social EtOH but no abuse.
+Denies illicit drugs, h/o cancer, h/o animal/insect bites.
+Social drinker, no tobacco or illicits.
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in oropharynx Neck: Supple Pulmonary: Lungs CTA bilaterally without R/R/W Cardiac: RRR, nl.
+S1S2, no M/R/G noted Abdomen: soft, NT/ND, normoactive bowel sounds, no masses or organomegaly noted.
+Skin: no rashes or lesions noted.
+Able to relate history without difficulty.
+There were no paraphasic errors.
+There was no evidence of apraxia or neglect.
+Funduscopic exam revealed no papilledema, exudates, or hemorrhages.
+No pronator drift bilaterally.
+No adventitious movements, such as tremor, noted.
+No asterixis noted.
+-Coordination: No intention tremor, no dysdiadochokinesia noted.
+No dysmetria on FNF bilaterally.
+Pertinent Results: ADMISSION LABS: [**2176-7-25**] 10:30PM BLOOD WBC-9.4 RBC-4.25 Hgb-11.8* Hct-36.3 MCV-86 MCH-27.7 MCHC-32.4 RDW-13.0 Plt Ct-317 [**2176-7-26**] 08:54AM BLOOD PT-12.0 PTT-28.5 INR(PT)-1.1 [**2176-7-25**] 10:30PM BLOOD Glucose-92 UreaN-9 Creat-0.7 Na-140 K-4.1 Cl-106 HCO3-28 AnGap-10 [**2176-7-26**] 08:54AM BLOOD Albumin-4.3 Calcium-9.4 Phos-3.4 Mg-2.1 [**2176-7-25**] 10:30PM BLOOD ASA-NEG Acetmnp-NEG Bnzodzp-NEG Barbitr-NEG Tricycl-NEG  RELEVANT LABS: [**2176-7-25**] 10:30PM BLOOD Phenyto-10.2 [**2176-7-26**] 10:00PM BLOOD Phenyto-20.7* [**2176-7-27**] 05:45AM BLOOD Phenyto-19.8 [**2176-7-28**] 07:40AM BLOOD Phenyto-18.9 [**2176-7-29**] 10:25AM BLOOD Phenyto-23.0* [**2176-7-29**] 03:45PM BLOOD Phenyto-19.8 [**2176-7-31**] 01:00PM BLOOD Phenyto-22.4* [**2176-8-1**] 05:11AM BLOOD Phenyto-17.2  IMAGING: EEG [**2176-7-26**]: This is an abnormal continuous video EEG given the presence of brief subclinical electrographic seizures over the right greater than left frontal leads.
+There was one pushbutton activation without a clear electrographic correlate.
+Automated sampling captured some of the sharper alpha which correlated with the patient's electrographic events.
+EEG [**2176-7-27**]: This is an abnormal continuous video EEG given the presence of brief subclinical electrographic seizures over the right greater than left frontal leads.
+There is a significant reduction to no seizures appreciated after the morning hours.
+There was one pushbutton activation without a clear electrographic correlate.
+EEG [**2176-7-29**]: This is an abnormal continuous video EEG given the presence of burst of bilateral frontal and temporal generalized slowing.
+There were no electrographic seizures detected.
+10 x 6 mm enhancing lesion in the right frontal lobe, with central intrinsic T1-hyperintensity, "blooming" susceptibility and adjacent filamentous vascular structures extending to the nearby dura.
+Taken together, these findings suggest hemorrhage related to underlying cavernous angioma with possible associated developmental venous anomaly.
+A more remote possibility is dural AV fistula, with cortical venous drainage.
+Expanded sella turcica, with an appearance suggestive of an "empty sella," a common variant, or possibly, arachnoid cyst of the suprasellar cistern.
+CEREBRAL ANGIOGRAM [**2176-7-29**]: [**Known firstname **] [**Known lastname 13712**] underwent a diagnostic cerebral angiogram which was grossly normal, specifically with no evidence of a dural arteriovenous fistula.
+Limited pre-operative study redemonstrating the 7 x 7 mm enhancing lesion in the right frontal region consistent with the previously-characterized cavernous angioma, unchanged in appearance since [**2176-7-26**].
+HEAD CT [**2176-7-31**]: No evidence of postoperative hemorrhage.
+HEAD CT [**2176-8-4**]: No evidence of interval hemorrhage from [**2176-7-31**].
+HEAD CT [**2176-8-8**]: Expected evolution of postoperative bed in the right frontal lobe.
+No evidence of new hemorrhage.
+Brief Hospital Course: 53 yo RH F who p/w new onset seizure, found to have R frontal cavernoma.
+# Neuro: Patient presented with seizure and found to have right frontal cavernoma, which was the likely cause of her seizures.
+On admission, patient was noted to be confused and lethargic, and EEG revealed that she was still having seizures while on Dilantin.
+Post op course was complicated by continued headache, but repeat head CTs only showed expected post op changes and no hemorrhages.
+# CV: She was continued on telemetry without events, and her lipid panel showed slightly elevated LDL, but given no other risk, she was recommended lifestyle changes for now.
+# ID: Patient developed fevers during her post op period, and was started on IV vancomycin for a few days.
+# GI: patient suffered from constipation, likely from decreased mobility and narcotics during her post op period.
+Her constipation improved with increased bowel regimen.
+# HEME: patient developed progressive anemia after her surgery for unclear reason.
+Iron studies were done and did not show iron deficiency.
+Magnesium Citrate 300 mL PO PRN constipation 8.
+You were admitted to the hospital because you had a seizure and then in the ED, you were found to have a cavernoma in your brain.

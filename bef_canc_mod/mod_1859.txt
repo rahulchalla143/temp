@@ -1,0 +1,93 @@
+Admission Date:  [**2130-2-10**]              Discharge Date:   [**2130-2-16**]  Date of Birth:  [**2052-7-17**]             Sex:   F  Service: MEDICINE  Allergies: Penicillins / Sulfa (Sulfonamide Antibiotics) / Ace Inhibitors / Angiotensin Recp Antg&Calcium Chanl Blkr / Meloxicam  Attending:[**First Name3 (LF) 2290**] Chief Complaint: Chief Complaint: abdominal pain Reason for ICU admission: pancreatitis/metabolic acidosis  Major Surgical or Invasive Procedure: central venous line placement and removal PICC placement   History of Present Illness: Ms. [**Known lastname 805**] is a 77 yo female with history of HTN, DMII, CKD hypothyroidism, and RA who presented to the ED with abdominal pain for 1 week.
+Reports decreased appetite and has not been eating, only drinking fluids.
+The pain has worsened over time.
+It starts in her lower mid chest and radiates to her epigastric region.
+Also recently had a minor fall on [**2-3**].
+She was noted to have a tender pulsatile aorta in the LUQ/left mid abdomen.
+Found to be guaiac negative.
+Lipase elevated at 1689.
+KUB showed no free air.
+CT abdomen without contrast was performed given poor renal function and preliminarily read as no AAA.
+On arrival to the MICU, her pain is [**7-14**].
+She denies nausea and states she is starting to feel a little better then when she came in.
+(-) Denies fever, chills, night sweats, recent weight loss or gain.
+Denies headache, sinus tenderness, rhinorrhea or congestion.
+Denies cough, shortness of breath, or wheezing.
+Denies chest pressure, palpitations, or weakness.
+Denies rashes or skin changes.
+Mild AR #.
+DM2 - diagnosed [**2118**], has been on insulin in the past but no longer takes any diabetes medications #.
+Hypothyroidism #.
+Possible SLE, discoid lupus since [**2121**] with a positive right sided lymph node biopsy #.
+Left renal mass detected in [**2121-8-4**] - pt doesn't want further w/u #.
+Anemia - Normocytic in past #.
+History of low back pain #.
+C. diff colitis with recurrence 8 and [**10-9**] #.
+?C ecal Mass on CT - [**Last Name (un) **] [**6-10**] negative.
+No cancer or stroke in family.
+HEENT: Sclera anicteric, MM dry, oropharynx clear Neck: supple, JVP not elevated, no LAD Lungs: Breathing comfortably.
+CV: Regular rate and rhythm, holosystolic murmur heard best at the LUSB.
+No reboutnd or guarding.
+GU: foley with a small amount of concentrated urine present.
+Ext: warm, well perfused, slight non-pitting edema present bilaterally with venous stasis changes present.
+Discharge: VS: 98 154/78 56 18 99% RA General: Elderly female laying in bed in NAD, AOx3 Neck: supple, JVP not elevated, no LAD Lungs: Breathing comfortably.
+CV: Regular rate and rhythm, holosystolic crescendo-decrescendo III/VI murmur heard best at the LUSB, + lift at LUSB Abdomen: soft, mildly tender to palpation in epigastric area, no rebound or guarding, + bs GU: no foley Ext: warm, well perfused, slight non-pitting edema present bilaterally with venous stasis changes present, TTP bilaterally   Pertinent Results: Admission labs: Na 137  K 5.4  Cl 114  Bicarb 11  BUN 74  Cr 6.2  Glu 71 .
+Lactate 1.0  UA >50  WBC, mod leuk, sm bld, many bacteria .
+Images: CXR ([**2130-2-10**]) - No acute pulmonary process.
+Scarring versus chronic effusion at right costophrenic angle.
+CT abd/pelvis w/o contrast ([**2130-2-10**]) - IMPRESSION: No evidence for abdominal aortic aneurysm.
+Prominent pancreas with minimal surrounding stranding corresponds to clinical diagnosis of pancreatitis.
+No apparent complicating features noted, within limits.
+There is moderate symmetric left ventricular hypertrophy.
+Doppler parameters are most consistent with Grade I (mild) left ventricular diastolic dysfunction.
+There is mild aortic valve stenosis (valve area 1.2-1.9cm2).
+Mild (1+) aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Mild (1+) mitral regurgitation is seen.
+There is moderate pulmonary artery systolic hypertension.
+There is a very small pericardial effusion.
+Calcific aortic valve disease with mild stenosis/mild regurgitation.
+Mild mitral regurgitation.
+Moderate pulmonary hypertension.
+Very small pericardial effusion.
+EKG: normal sinus rhythm, nl intervals, slight upsloping of ST segments in aVL and V2 (unchanged from baseline) .
+Likely layering debris in the urinary bladder, presumably related to provided history of urinary infection.
+Benign-appearing bilateral renal cysts.
+Small volume of ascites as described above .
+LUE LENI ([**2130-2-15**]): IMPRESSION: Left deep venous thrombosis involving the internal jugular and brachial veins.
+Brief Hospital Course: # Pancreatitis:  Initially admitted to MICU for management considering [**Last Name (un) **] and metabolic acidosis (described below).
+Differential for etiology of pancreatitis includes gallstone, alcoholic, medication-induced, and hypertriglyceridemia.
+Abdominal ultrasound showed evidence of pancreatitis with inflamed pancreatic head.
+Patient's abdominal pain resolved over the next few days.
+After her abdominal pain resolved her diet was advanced to clears and IVF was stopped.
+On transfer to floor, pain and nausea much improved.
+She was given PRN tylenol for pain and advanced to full diet.
+She will follow up with [**Hospital **] clinic for management of possible biliary disease, which was suggested by elevated alk phos, however no evidence of cholelithiasis on RUQ u/s.
+# Troponin leak: troponin x2 shows 0.11 and 0.15, in setting of acidosis and acute pancreatitis.
+EKG without changes from her baseline and she was without chest pain.
+Trop leak was likely secondary to demand ischemia.
+Trop, CK, MB were trended and noted to be decreasing, no changes on serial EKGs.
+# Metabolic acidosis: On admission had a non-AG metaboliac acidosis (although with albumin of 3.1, may be slightly elevated).
+Most likely due to her acute on chronic renal failure.
+With treatment of pancreatitis and ARF with IVF including bicarb the acidosis resolved.
+# Acute on CKI: Patient has a creatinine baseline of 3.0 and presented to the ED with creatinine of 6.2.
+Likely due to hypovolemia/fluid shifts in setting of acute pancreatitis.
+# UTI: Patient with a week of dysuria and a positive UA in the ED with more than 50 WBCs.
+She also grew coag positive staph 10,000-100,000 colonies on one urine culture.
+The bacteria were felt to be a contaminent as CFU was low and other cultures were negative for bacterial growth.
+Renal ultrasound was done to evaluate for abnormalities (poorly evaluated in CT scan), showed layering of debris in bladder consistent with UTI.
+#DVT: LUE swelling noted on exam on [**2-15**], LENI showed occlusive L brachial clot and a nonocclusive thrombus in L IJ.
+No focal neurologic deficits.
+No further events of delirum on the medical floor.
+# Chronic anemia: Baseline Hct in the mid to high 20's likely secondary to anemia of kidney disease.
+No clinical evidence of bleeding.
+# ?AAA - noted to have a pulsatile abdomen in the ED, noncontrast CT of abdomen did not show any signs of AAA.
+# Hypertension: Was hypertensive throughout stay in MICU but refused PO meds so was managed with IV hydral and clonidine patch.
+As patient's mental status cleared she was started back on her PO medications including felodipine, lasix, hydralazine and clonidine patch.
+# DMII - diagnosed in [**2118**], has been on insulin in the past but no longer takes any diabetes medications.
+# Access: Had poor peripheral access so a CVL was placed on [**2130-2-11**] in the ICU, discontinued on [**2130-2-14**].
+Unable to obtain peripheral access so PICC was placed on [**2130-2-16**].
+14. miconazole nitrate 2 % Powder Sig: One (1) Appl Topical QID (4 times a day) as needed for crural rash.
+Discharge Disposition: Extended Care  Facility: [**Hospital 671**] [**Hospital 4094**] Hospital  Discharge Diagnosis: Acute on chronic kidney injury Pancreatitis   Discharge Condition: Mental Status: Clear and coherent.
+Because of this you were also dehydrated and had some worsening kidney function, both improved with IV fluids.
+You were also found to have a urinary tract infection.

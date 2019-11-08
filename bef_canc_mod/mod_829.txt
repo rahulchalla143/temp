@@ -1,0 +1,22 @@
+Admission Date:  [**2189-9-9**]              Discharge Date:   [**2189-9-10**]  Date of Birth:  [**2128-9-9**]             Sex:   M  Service: MEDICINE  Allergies: Bactrim  Attending:[**Last Name (NamePattern4) 290**] Chief Complaint: hypotension  Major Surgical or Invasive Procedure: endotracheal intubation central venous catheter  History of Present Illness: 60 yo male with HIV, AIDS on HAART last CD4 170, VL <50 ([**5-12**]) , dementia/parkinsonism, recent CVA, recent PNA who is readmitted 2 days after discharge following prolonged course ([**2189-7-27**] - [**2189-9-7**]) for asiration pneumonia and CVA.
+On his last admission he was thought to have an aspiration pneumonia which was treated with vancomycin/levofloxacin/flagyl.
+His course was then complicated by a right-sided MCA/PCA stroke leaving him with a left-sided hemiparesis.
+He also developed a left upper extremity DVT which was not treated given risks of anticoagulation.
+Of note, the patient had no HCP or guardian, one was appointed and the decision was made for peg placement.
+Sepsis protocol initiated.
+Past Medical History: AIDS last CD4 170, VL <50 ([**5-12**]) parkinsonian syndrome DM htn depression  Social History: Lives in nursing home [**1-8**] baseline dementia.
+Family History: unknown  Physical Exam: Upon presentation to the [**Hospital Unit Name 153**]: VS: 100.0 112 130/70 20 O2 sat 100% [**Known lastname **]: cachectic, intubated, sedated, opens eyes to voice HEENT: NC, AT, right pupil is dilated, non-reactive, left pupil is about 3 mm, non-reactive, no scleral icterus Chest: Coarse BS bilaterally, scattered crackles CVS: regular, nl S1S2, no m/r/g Abd: + BS, soft, NT, ND, Peg in place w/o s/s infection Ext: dry, no edema Neuro: intubated, sedated, opens eyes to voice, pupils unequeal R>L (documented previously as such) Back: large decubitus ulcer stage V with small escar no frank pus/exudate, dry, liquid brown stool .
+[**2189-9-9**]: CXR: SINGLE AP SUPINE PORTABLE CHEST: No prior studies.
+There is prominent interstitial pattern likely consistent with mild volume overload.
+Additionally, there are medial bibasilar opacities which could relate either to aspiration or pneumonia.
+Brief Hospital Course: A/P: 60 yo M with AIDS, dementia, h/o CVA, non verbal, who presents with septic shock one day s/p discharge from hospital.
+Respiratory Failure: The patient was intubated for respiratory failure likely secondary to pneumonia.
+The likely source was thought to be pneumonia as there was a positive result on sputum gram stain.
+He was volume resusitated and monitored in the ICU.
+Patient with elevated Troponin, CK, but normal MB.
+EKG with ST depressions in lateral precordial leads when in sinus tach.
+Unable to asses for symptoms re: chest pain.
+Altered mental status.
+Coffee ground output via OG tube: The patient had a small amount of coffee ground emesis via the OG tube which was not thought be hemodynamically significantly.
+HIV/AIDS: The patient has a long history of refractory low CD4 count despite HAART.
+Discharge Disposition: Extended Care  Facility: [**First Name4 (NamePattern1) 3504**] [**Last Name (NamePattern1) **] Rehabilitation & Nursing Center - [**Location (un) 538**]  Discharge Diagnosis: Primary: Sepsis Respiratory Failure  Secondary: AIDS Dementia Non-ST-Elevation Myocardial infarction Parkinsonism Diabetes   Discharge Condition: patient on comfort measures.

@@ -1,0 +1,55 @@
+Admission Date:  [**2166-11-21**]              Discharge Date:   [**2166-12-4**]  Date of Birth:  [**2102-1-3**]             Sex:   M  Service: NEUROSURGERY  Allergies: Iodine; Iodine Containing  Attending:[**First Name3 (LF) 1835**] Chief Complaint: Altered mental status  Major Surgical or Invasive Procedure: NGT placement US guided liver biopsy craniotomy and resection of brain met  History of Present Illness: This is a 64 yo M with metastatic non small cell lung cancer (known mets to brain and on WBXRT as well as XRT to lungs) on decadron, returned to OSH yesterday with worsening delirium and jaundice, transferred here for further care.
+Pt began to have hematemesis 1 month ago, when PCP began to work him up.
+He had a PET scan which showed a large brain met.
+Yesterday, pt presented again to [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] for altered mental status, and is now transferred here for further input.
+CT head noted hyperdense lesion R occipital lobe meaasuring 4.4 cm x 3 cm showing no interval change.
+Also, surrounding vasogenic edema noted around lesion.
+The lesion produces mass effect compressing the adjacent occipital [**Doctor Last Name 534**] of the R lateral ventricle.
+Previously seen hemorrhagic lesion mostly in the R occipital lobe is unchanged.
+RUQ ultrasound showed an echogenic liver with 8 cm mass (?hemangioma), patent portal vein.
+ROS: -Constitutional: [x]WNL []Weight loss []Fatigue/Malaise []Fever []Chills/Rigors []Nightsweats []Anorexia -Eyes: [x]WNL []Blurry Vision []Diplopia []Loss of Vision []Photophobia -ENT: [x]WNL []Dry Mouth []Oral ulcers []Bleeding gums/nose []Tinnitus []Sinus pain []Sore throat -Cardiac: [x]WNL []Chest pain []Palpitations []LE edema []Orthopnea/PND []DOE -Respiratory: []WNL []SOB []Pleuritic pain [x]Hemoptysis [x]Cough -Gastrointestinal: [x]WNL []Nausea []Vomiting []Abdominal pain []Abdominal Swelling []Diarrhea []Constipation []Hematemesis []Hematochezia []Melena -Heme/Lymph: [x]WNL []Bleeding []Bruising []Lymphadenopathy -GU: [x]WNL []Incontinence/Retention []Dysuria []Hematuria []DIscharge []Menorrhagia -Skin: []WNL []Rash []Pruritus [x]jaundice -Endocrine: [x]WNL []Change in skin/hair []Loss of energy []Heat/Cold intolerance -Musculoskeletal: [x]WNL []Myalgias []Arthralgias []Back pain -Neurological: [] WNL []Numbness of extremities []Weakness of extremities []Parasthesias []Dizziness/Lightheaded []Vertigo [x]Confusion []Headache -Allergy/Immunological: [x] WNL []Seasonal Allergies   Past Medical History: -Non-small lung cancer: Diagnosed 2 weeks ago (Dr. [**Last Name (STitle) 106786**] is his thoracic surgeon at [**Hospital **] Hospital and [**Hospital3 26615**] in [**Location (un) 5028**]; PCP is [**Last Name (NamePattern4) **].
+Family History: No history of lung cancer  Physical Exam: .
+Physical Exam: Appearance: NAD, jaundiced Vitals: T 95.6 BP 160/90 P 80 R 16 Sat 96% RA Eyes: EOMI, PERRL, conjunctiva clear, noninjected, +icterus, no exudate ENT: Moist Neck: No JVD, no LAD, no thyromegaly, no carotid bruits Cardiovascular: RRR, nl S1/S2, no m/r/g Respiratory: decreased breath sounds LUL, otherwise CTA Gastrointestinal: soft, non-tender, non-distended, no hepatosplenomegaly, normal bowel sounds Musculoskeletal/Extremities: no clubbing, no cyanosis, 2+ BL pitting edema in BL LE 1/2 up calf Neurological: oriented to self only, strength 5/5 symmetrically through all extrem, CN 2-12 grossly intact, follows most commands but with some difficulty, +asterixis, confused/encephalopathic, 3+ BL patella reflexes and brachial reflexes BL, toes downgoing, sensation grossly intact to light touch throughout.
+CT head OSH: hyperdense lesion R occipital lobe meaasuring 4.4 cm x 3 cm showing no interval change.
+Also, surrounding vasogenic edema noted around lesion.
+The lesion produces mass effect compressing the adjacent occipital [**Doctor Last Name 534**] of the R lateral ventricle.
+Previously seen hemorrhagic lesion mostly in the R occipital lobe is unchanged.
+Brief Hospital Course: # Delirium/Hepatic encephalopathy: Hepatic versus other etiology.
+Although ammonia and LFTs were elevated on admission, pattern not consistent with alcoholic cirrhosis, considered micrometastases to liver.
+No clear signs of infection, hepatitis serologies only showed prior immunity.
+Considered effect of brain met and surrounding vasogenic edema although neuro-onc evaluation felt this was unlikely due to minimal mass effect and no midline shift.
+# Non-small cell lung CA: Followed by providers at OSH: medical oncologist (Dr. [**Last Name (STitle) 56871**] [**Telephone/Fax (1) 80185**] who did the initial inpatient consultation when his diagnosis was made), radiation oncologist (Dr. [**Last Name (STitle) **] [**Telephone/Fax (1) 106788**]), thoracic surgeon (Dr. [**Last Name (STitle) 106789**] at [**Hospital **] Hospital [**Telephone/Fax (1) 106790**]).
+Given possibility of liver mets, it was essential to establish whether or not there is diffuse disease elsewhere as this may impact decision to resect lung lesion (see below).
+The patient's family and Dr. [**Last Name (STitle) 56871**] requested input from [**Hospital1 18**] heme-onc service to discuss further treatment options given his liver disease and hemorrhagic brain met.
+Thoracic surgery was consulted and felt the patient would not benefit for thoracic surgery.
+# cirrhosis with possible liver mets: Cirrhosis was initially presumed to be from his history of heavy alcohol use, although the AST was not elevated more than the ALT as would be expected.
+The possibility of diffuse metastatic disease in the liver was considered.
+Micrometastases may be giving liver a nodular appearance on imaging, leading to a picture of pseudocirrhosis.
+Echogenic mass in liver seen on US was not visualized on CT because it was done without contrast due to contrast allergy.
+MRI showed a lesion in segment 6, but per outpatient PET-CT report from [**2166-11-10**], nothing lit up in the liver, so nontargeted US-guided liver biopsy was done [**11-26**].
+This showed cirrhosis but no evidence of tumor.
+# Brain metastasis: Pt has a hemorrhagic R occipital brain met.
+Per rad-onc here, no role for continuing WBXRT now given liver workup and possible resection of brain met; per discussion with Dr. [**Last Name (STitle) **], he agrees with holding XRT in brain and lung for now.
+Neurosurgery was consulted and felt the mass was resectable.
+# Thrombocytopenia: likely from liver decompensation, splenic sequestration.
+# splenic infarct: seen on MRI, may be related to hypercoagulable state from malignancy or thrombosis (cirrhotics may still be vulnerable to thromboses off of anticoagulation, but he has been ambulating), no evidence of afib to suggest that as an embolic source.
+He did not have pain or fever, and anticoagulation would not be started anyway because of hemorrhagic brain met.
+His symptoms were monitored.
+# h/o alcoholism: Pt has h/o alcoholism, last drink 4 days PTA.
+No signs of withdrawal.
+# Dehydration: Poor po intake for several days prior to admission, BUN/Cr ratio elevated on admission, Hct likely hemoconcentrated.
+# Hyperglycemia: No history of diabetes.
+Hyperglycemia likely due to decadron, although given degree of blood sugar elevation, he likely had an element of undiagnosed diabetes before.
+His elevated sugars may also be exacerbated by family bringing in outside food and greater than normal PO intake when he has not been NPO.
+The patient worked with PT and OT who felt that he was unsafe to go home due to his cognitive deficits.
+Thoracic surgery was consulted who felt that lung resection was not possible due to the stage 4 lung CA.
+His INR was trending up, Hepatology was consulted and did not recommend reversing unless evidence of bleeding.
+On discharge his neuro exam was normal with a flat affect, and short term memory problems.
+Insulin Regular Human  Subcutaneous   Discharge Disposition: Extended Care  Facility: [**Hospital **] Rehabilitation & Skilled Nursing Center - [**Location (un) 1456**]  Discharge Diagnosis: metastatic lung CA to brain cirrhosis of the liver   Discharge Condition: neurologically stable   Discharge Instructions: DISCHARGE INSTRUCTIONS FOR CRANIOTOMY ?????
+?Have a family member check your incision daily for signs of infection ?????
+?Take your pain medicine as prescribed ?????
+?Increase your intake of fluids and fiber as pain medicine (narcotics) can cause constipation ?????
+?New onset of tremors or seizures ?????
+?Any confusion or change in mental status ?????
+?Any numbness, tingling, weakness in your extremities ?????
+?Any signs of infection at the wound site: redness, swelling, tenderness, drainage ?????

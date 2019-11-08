@@ -1,0 +1,52 @@
+Admission Date:  [**2163-2-9**]              Discharge Date:   [**2163-2-14**]   Service: NEUROLOGY  Allergies: lisinopril  Attending:[**Last Name (NamePattern1) 1838**] Chief Complaint: Left sided eye deviation, gibberish words  Major Surgical or Invasive Procedure: None  History of Present Illness: The pt is a  [**Age over 90 **] y/o woman with a history of AD, HTN, CAD s/p CABG, a-fib with AICD presented as a code stroke.
+In the ED she came in and was aphasic, no intelligible words came out.
+She had spontaneous speech output but it was all gibberish.
+Did not answer with head nods to questions.
+Past Medical History: A-fib CAD s/p CABG with AICD DM Prior CVA Dementia   Social History: The patient has been at [**Hospital 100**] Rehab for the past three years.
+Extremities: No edema  has right shin superficial ulcer and right foot fungating ulcer.
+Left gaze preference with suspician of some right sided mild neglect.
+4/5 weakness at the left deltoid and tricep although formal strength testing is difficult.
+Evidence of acute infarction in the left temporal-occiptial region, without hemorrhagic conversion.
+Relatively [**Name2 (NI) 15403**] region of "ischemic penumbra."
+Significant atherosclerotic disease and irregular "soft" and calcified plaque in both internal carotid arteries with at least 70% diameter stenosis on the left, and 20% diameter stenosis on the right.
+Patent cerebral vasculature without acute occlusion.
+Evidence of mild CHF, with cardiac pacemaker device, incompletely imaged.
+Moderate-to-severe degenerative changes of the cervical spine, most severe at the C4 through C7 level.
+The cardiac silhouette is mildly enlarged.
+Small bilateral pleural effusions are likely present.
+There is mild edema.
+NCHCT [**2163-2-10**]: No hemorrhagic conversion.
+Unchanged appearance of low attenuation areas in the left temporo-occipital region consistent with a left MCA infarct.
+CXR [**2163-2-10**]: The left-sided pacemaker leads terminate in the expected location of right atrium and right ventricle.
+There is prominence of bilateral hila, most likely reflecting enlarged pulmonary arteries and might be consistent with pulmonary hypertension.
+Small bilateral pleural effusions are most likely present.
+...   Brief Hospital Course: Ms. [**Known lastname **] was admitted to the Neurointensive care unit for close neuro-monitoring following an infusion of TPA for a left MCA stroke.
+She is a [**Age over 90 **]yo W with a history of atrial fibrillation s/p AICD placement, CAD s/p CABG, presumed Alzheimer's dementia, old right occipital ischemic stroke and HTN who presented as a code stroke.
+In the ED she came in and was aphasic, no intelligible words came out.
+She had spontaneous speech output but it was all gibberish.
+Did not answer with head nods to questions.
+On examination, she was awake, alert and globally aphasic with a strong left gaze deviation without crossing midline.
+All four extremities withdrew to pain and she had no obvious right hemiparesis.
+She was noted to have a fungating mass on her right foot which was noted to ooze slightly following the infusion of TPA.
+This was treated with local lidocaine/epinephrine injections and tight dressings.
+Overnight, there were no acute events.
+She remained afebrile and hemodynamically stable.
+The overnight RN noted that she did reliably stick her tongue out, but that was the only command that she followed.
+She did require some two point soft wrist restraints as she had a tendency to pull at her lines/tubes.
+She was started on ciprofloxacin for a dirty UA that was noted on admission, urine cultures showed fecal contamination.
+She did receive a follow up NCHCT which revealed no hemorrhage and stable left MCA hypodensity.
+Given her continued hemodynamic and neurologic stability, she was transferred to the floor out of the ICU for continued care.
+Given the presence of diffuse soft plaque in bilateral carotid arteries (left>right), she was ordered for a heparin drip.
+Upon arrival to the floor, she became agitated and pulled out her lines and foley catheter.
+During her stay, she continued to have bleeding from the SCC on her foot, for which radiation oncology was consulted.
+A family meeting was held, and it was decided there would be no intervention on the foot, and that she would be switched from lovenox to Aspirin 325 mg, to reduce her bleeding from her foot.
+Simvastatin 40mg po daily was also started for its anti-inflammatory properties and secondary stroke risk reduction.
+Discharge Disposition: Extended Care  Facility: [**Hospital6 459**] for the Aged - MACU  Discharge Diagnosis: Left MCA stroke History of ischemic stroke Atrial fibrillation Type II Diabetes Mellitus Alzheimer's dementia   Discharge Condition: Mental Status: Confused, aphasic at times Level of Consciousness: Alert and interactive.
+Left gaze preference with suspician of some right sided mild neglect.
+4/5 weakness at the left deltoid and tricep although formal strength testing is difficult.
+You were admitted to the Neurology wards and the Neuro-intensive care unit of the [**Hospital1 827**] to investigate the cause for some new symptoms of leftward deviation of your eyes and difficulty speaking and understanding language.
+Through a series of physical examinations, neuroimaging studies and laboratory investigations, we determined that you suffered a stroke in the left part of your brain that is involved in understanding and producing language.
+For these symptoms, you received TPA (tissue plasminogen activator), a clot-busting [**Doctor Last Name 360**] that can often help with symptoms of an acute stroke.
+Given that you have had trouble with bleeding from the squamous cell carcinoma on your right foot, we spoke with your outpatient dermatologist, the plastic surgery consult team, and the radiation oncology consult service about this.
+After discussion with your family, it is thought that returning for these sessions would be too disruptive to complete.
+This is to decrease inflammation and to help decrease your risk for future strokes.

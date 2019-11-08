@@ -1,0 +1,32 @@
+Admission Date:  [**2174-9-26**]              Discharge Date:   [**2174-9-29**]  Date of Birth:  [**2104-10-18**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 5266**] Chief Complaint: Pulmonary edema  Major Surgical or Invasive Procedure: intubated colonoscopy - outpatient -> prompting admission  History of Present Illness: 69 y/o male with PMHx significant for CHF, DM type II, AAA s/p repair and stent with known endoleak, OSA, tachy/brady syndreome  s/p pacemaker who underwent a colonoscopy and EGD as an outpatient and became hypertensive and went into respiratory failure.
+VS at this time noted to be HR 80-90, BP 230/130 (unclear if accurate read due to location of BP cuff) and O2sat 70%.
+During code pt found to be in resp distress with RR 30 and O2sat 80% on NRB.
+Pt received Lasix 80mg IV for presumed flash pulm edema given hx of recent admission ([**2174-9-20**]) for CHF exacerbation, Nitro gtt for BP control and was intubated for ventilation.
+Pt transfered to [**Hospital Unit Name 153**] after intbation and found to be hypotensive transiently.
+CXR revealed pulm edema.
+Past Medical History: PMHx/PSurgHx: --a fib w/ tachy-brady syndrome s/p pacemaker placement on [**2174-2-1**] by Dr. [**Last Name (STitle) 284**] @ [**Hospital1 18**] --AAA s/p endovascular repair by Dr. [**Last Name (STitle) 1111**] [**2-10**] with known endoleak per records.
+--Type II diabetes, insulin-dependent --Bilateral LE fx s/p fixation 20 yrs ago --Morbid obesity --Sleep apnea --HTN --diabetic retinopathy --CHF most likely diastolic as has preserved EF 55% --Pulmonary artery hypertension --Hyperlipidemia --Chronic venous stasis --Prior syncope --Arthritis -- Cardiac Cath [**4-12**] [**2-9**] to abnormal stress which showed no significanty blockage.
+Mild LV diastolic dysfunction.
+No significant subclavian stenosis on the right or left.
+Gen: Morbidly obese male intubated with minimal sedation.
+Neck: could not appreciate JVD given large neck Lungs: Decreased BS at bases with rales [**1-10**] way up.
+Cardiac: RRR no murmurs.
+Abd: Obese, soft, NT, +BS Ext: Hyperpigmented LE b/l; 3+ pitting edema up to shins b/l.
+L toe with panniculitis and toe nail removed.
+ECG: V paced, no ST changes.
+ABGs: [**2174-9-26**] 03:59PM BLOOD Type-ART pO2-61* pCO2-95* pH-7.07* calHCO3-29 Base XS--5 [**2174-9-26**] 07:03PM BLOOD Type-ART Temp-36.9 PEEP-10 FiO2-100 pO2-281* pCO2-44 pH-7.35 calHCO3-25 Base XS--1 AADO2-408 REQ O2-69 Intubat-INTUBATED [**2174-9-26**] 09:32PM BLOOD Type-ART Temp-36.8 Rates-20/ Tidal V-600 PEEP-10 FiO2-50 pO2-83* pCO2-41 pH-7.39 calHCO3-26 Base XS-0 -ASSIST/CON Intubat-INTUBATED [**2174-9-27**] 06:29AM BLOOD Type-ART Temp-36.9 Rates-/22 PEEP-0 FiO2-40 pO2-67* pCO2-43 pH-7.37 calHCO3-26 Base XS-0 Intubat-INTUBATED [**2174-9-27**] 11:19AM BLOOD Type-ART Temp-37.0 Rates-18/ FiO2-100 pO2-118* pCO2-41 pH-7.40 calHCO3-26 Base XS-0 AADO2-572 REQ O2-92 Intubat-NOT INTUBA Comment-FACE TENT  Brief Hospital Course: 69 y.o male with extensive PMH, presents with resp failure after HTN episode during procedure.
+## Resp failure - Felt to be secondary to flash pulm edema likely secondary to hypertensive event during procedure.
+Pt had transient hypotension after intubation possible secondary to combination of sedation and PEEP with decrease in preload.
+However, sepsis vs cardiogenic shock consideredbut BP improved with no intervention.
+## Cardiac - Pt has an extensive cardiac hx.
+Was experiencing nausea prior to event which could have represented an inferior MI.
+- Pt was on coumadin as outpt for afib which was held for procedure.
+Restart if stable and no furhter procedures planned.
+## Anemia - Patient has a low Hct at baseline (around 33) and has had a AAA repair with known endoleak.
+He was hemodynamically stable throughout his last admission and was transfused 1 unit PRBC for slowly decreasing hct with nadir of 25.7.
+Iron studies were consistent with iron deficiency anemia and he was started on ferrous sulfate.
+CT scan of abdomen/pelvis was obtained to assess for interval change of the AAA repair site and endo leak, which showed no significant change.
+Pt was having colonoscopy to asses for source of bleed.
+## HTN - Pt on Amiodarone, Lopressor, and Lasix as an outpatient.
+## ID: placed on cefpodoxime (originally on ceftriaxone) because of pulmonary infiltrates.
+Discharge Disposition: Home  Discharge Diagnosis: Congestive heart failure Diabetes mellitus type II Abdominal aortic aneurysm s/p repair with endoleak iron deficiency anemia afib with tachy brady syndrome s/p pacemaker   Discharge Condition: stable   Discharge Instructions: Please come to the ED if you have sob or chest pain.

@@ -1,0 +1,49 @@
+Admission Date:  [**2102-3-17**]              [**Year/Month/Day **] Date:   [**2102-3-27**]  Date of Birth:  [**2019-7-9**]             Sex:   M  Service: MEDICINE  Allergies: Olanzapine  Attending:[**First Name3 (LF) 9160**] Chief Complaint: tachycardia, hypotension  Major Surgical or Invasive Procedure: intubation, arterial line, right internal jugular central line  History of Present Illness: 82M hx severe dementia, DM, left AKA, CHF, PVD (stent x2, most recent [**5-/2101**]), reported recent NSTEMI on [**2-10**], recent admission from [**Date range (1) 4177**] for a fib with RVR as well as [**Date range (1) 9476**] for CHF exacerbation presenting with tachycardia and hypotension.
+Following his recent admission ([**Date range (1) 9476**]), during which he required lasix gtt for diuresis and was discharged on torsemide, he was discharged to [**Hospital 100**] Rehab where he was noted to be tachycardic and hypotensive with SBP 70s-80s on day of admission.
+He had episodes of SVT with HR 160s that self-resolved with EKG showing rate related ST depressions in V2-V4.
+CXR showed possible aspiration PNA.
+CT head was also performed for altered mental status that was unremarkable.
+He became hypotensive requiring IV fluids but also showing signs of respiratory distress with tachypnea and oxygen desaturations.
+Past Medical History: PMH: - Dementia - Alzheimers - Bipolar (hx of hypersexual behaviour) - Type 2 DM - AKA [**8-/2099**] - CAD, history of MI - CHF (EF 30%) - Hypertension - Hyperlipidemia - PVD - Hx of TIA/CVA (left frontal, right occipital, right basal ganglia - Severe dysphagia s/p g-tube - Recurrent Aspiration pneumonia - Andemia - Chronic nausea - Ulceration of right big toe - c diff, VRE, MRSA  PSH: Right lower extremity diagnostic angiography ([**2100-9-3**]) Left above knee amputation ([**8-/2099**]) Cholecystectomy   Social History: Born in [**Location (un) 86**], never married, 2 adult children with minimal involvement.
+Vitals:  97.1  123/54  89  20  100%RA (CMV/Assist, TV 500, RR 14, FiO2 100%, 5 PEEP) General: Intubated, sedated HEENT: Sclera anicteric, dry MM, pupils constricted, minimally reactive to light Neck: JVP not elevated, no LAD CV: Irregularly irregular, normal S1 + S2, no murmurs, rubs, gallops Lungs: Bibasilar crackles, no wheezes Abdomen: soft, non-tender, non-distended, G tube site with surrounding erythema and fungal infection, multiple areas of ecchymoses GU: foley draining clear urine, brown exophytic lesion on right side of genitals Ext: cold extremities, left AKA, trace DP pulse on right foot Neuro: sedated, not following commands, does not react to pain .
+MICROBIOLOGY: [**2102-3-17**] Urine culture - Proteus mirabilis, E.coli [**2102-3-19**] Sputum culture - coagulase positive Staphylococcus [**2102-3-24**] Wound culture - [**Female First Name (un) 564**] albicans, Enterococcus sp.
+Mild pulmonary edema has improved since [**3-23**].
+Moderate bilateral pleural effusion and moderate cardiomegaly are stable.
+No pneumothorax.
+Brief Hospital Course: 82M hx severe dementia, DM, CHF, PVD (stent x2, most recent [**5-/2101**]), reported recent NSTEMI on [**2-10**], recent admission from [**Date range (1) 4177**] for a fib with RVR as well as [**Date range (3) 42387**] for CHF exacerbation presenting with tachycardia and hypotension.
+# Hypotension: Pt presented with tachycardia, hypotension, minimal urine output.
+Given Na elevated to 156, Cr elevated to 4.3 (baseline 2.0-2.3), weight loss and recent aggressive diuresis with torsemide, initial presentation felt to be related in part to severe volume depletion.
+However, patient also with notable elevated WBC count, grossly positive UA, and CXR suggestive of possible PNA so patient was covered broadly with vancomycin and cefepime.
+Patient was initially started on flagyl as well given patient's questionable endorsement of abdominal discomfort on presentation but as CT Abdomen was negative, flagyl was discontinued on HD #3.
+Culture data eventually showed Proteus and E.coli in the urine sensitive to cefepime as well as MRSA in the sputum sensitive to vancomycin.
+Despite initial volume resuscitation, patient remained pressor dependent for a majority of his hospital course with MAPs >55 on phenylephrine and vasopressin.
+Though his lactate trended down, his central venous O2 sats were greater than 70 indicating persistent septic physiology despite appropriate antibiotic treatment.
+# Respiratory distress: Pt with tachypnea and possible oxygen desaturations in ED and was intubated to protect airway.
+Initial CXR showed bibasilar opacities suggestive of atelectasis vs aspiration and cultures confirmed MRSA pneumonia.
+Extubation was attempted on HD#1 but he had to be re-intubated due to tenacious secretions.
+Persistent volume overload also contributed to difficulty with extubation.
+# Acute renal failure:  Cr elevated to 4.3 on admission from recent baseline of 2.0-2.3.
+Pt was recently admitted [**Date range (1) 9476**] for CHF exacerbation, had been getting aggressive diuresis until recently.
+Despite agressive fluid resuscitation and pressor support, patient's urine output remained minimal and his creatinine failed to improve.
+His electrolytes remained within normal limits but he became progressively volume overloaded, failing to respond appropriately to diuresis with a lasix gtt partly due to persistently low blood pressures.
+Family felt dialysis was not consistent with patient's long-term goals of care so lasix diuresis was discontinued when patient was transitioned to CMO.
+Pt then had episodes of SVT in the ED with HR 160s that spontaneously converted.
+Throughout his hospital stay, patient would intermittently go into afib with RVR v SVT with an accompanying drop in blood pressures that would spontaneously convert to NSR or require lopressor 2.5mg IV prn.
+# Hypernatremia: Na elevated to 156 on admission, likely from volume depletion given elevated Cr, history of minimal urine output, and recent aggressive diuresis.
+# Abdominal pain: Per ED report, pt with diffuse abdominal tenderness.
+CT abdomen does not show any acute abdominal process.
+No further indication of abdominal tenderness during his hospital stay.
+# CAD: Pt with reported NSTEMI at OSH [**2-10**], also has remote hx of MI.
+Initially EKG shows afib, ST depressions in V1-4, worse when tachycardic, likely due to demand.
+Trop elevated to 0.16 but in setting of acute renal failure.
+# IDDM: Blood glucose elevated 200s-400s since arrival to ED.
+Sugars improved on HISS and low-dose lantus.
+# Anemia: Baseline Hct ranges from low to high 20s.
+Pt with history of significant GI bleeding.
+Patient had one episode of a large, bloody bowel movement so he received 2u pRBCs and underwent EGD which showed no signs of active bleeding.
+Presumed to be lower GI source.
+# Dementia: Pt with advanced dementia.
+# Exophytic lesion: Pt with brown exophytic lesion near genitals.
+5. ipratropium bromide 0.02 % Solution Sig: One (1) vial Inhalation Q6H (every 6 hours) as needed for shortness of breath  or wheezing.
+17. furosemide 10 mg/mL Solution Sig: 20-40 mg Injection twice a  day as needed for for weight gain or SOB.
+[**Hospital1 **] Medications: None  [**Hospital1 **] Disposition: Expired  [**Hospital1 **] Diagnosis: Immediate Cause of Death: Uremia, anuric renal failure Primary Cause of Death: Cardiovascular disease   [**Hospital1 **] Condition: Not applicable   [**Hospital1 **] Instructions: Patient expired, not applicable.

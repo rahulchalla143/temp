@@ -1,0 +1,45 @@
+Admission Date:  [**2105-6-11**]              Discharge Date:   [**2105-6-13**]   Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**Last Name (NamePattern4) 290**] Chief Complaint: Bright red blood per rectum  Major Surgical or Invasive Procedure: Esophagogastroduodenoscopy [**2105-6-12**] Colonoscopy [**2105-6-12**]   History of Present Illness: Mr. [**Known lastname 94500**] is an 83 year-old male with a history of atrial fibrillation on Coumadin therapy, CAD status post angioplasty in [**2094**]/[**2095**], HTN and DM type 2, with a prior 4-unit GI bleed in [**2102**] while on Coumadin with work-up remarkable for antral polyps, [**Last Name (un) 865**] esophagus, C-scope with colonic polyps without bleeding, and negative capsule endoscopy, who now returns with a 1-day history of "black stools".
+He reports some constipation over the past few days.
+He subsequently had one loose BM with dark stools on the toilet paper, and another BM with black stools with some bright blood in the toilet.
+No chest pain (he never had chest pain, prior cardiac presentations with dizziness), no shortness of breath.
+No abdominal pain.
+No fever or chills at home.
+No history of EtOH.
+ROS negative for weight loss.
+Atrial fibrillation on Coumadin therapy 2.
+Hypertension 3.
+CAD status post angioplasty to LAD and D1 in [**2094**], status post angioplasty to LAD and D2 in [**2095**].
+Persantine MIBI in [**2-/2105**] with reversible, small, mild perfusion defect involving the LAD territory and transient cavity dilation.
+Carotid stenosis status post left carotid endarterectomy with Dacron patch angioplasty on [**2105-4-6**].
+Prostate cancer about 11 years ago, status post resection.
+History of GI bleed in [**2102**], 4 units of PRBCs.
+EGD with antral polyps, [**Last Name (un) 865**] esophagus, C-scope with colonic polyps without bleeding, negative capsule endoscopy.
+No clear source of bleeding found.
+Chronic iron deficiency anemia 9.
+Hyperlipidemia 10.
+Barrett's esophagus as noted above, colonic adenoma in [**2102**].
+Asthma  Social History: He lives with his wife at home.
+RESP: Distant heart sounds, no murmur appreciated.
+CVS: CTAB, without adventitious sounds.
+GI: Obese abdomen, soft and non-tender.
+Warm extremities, no pedal edema.
+Pertinent Results: Relevant laboratory data on admission: CBC: [**2105-6-10**] 03:19PM   WBC-4.7 RBC-3.22* HGB-8.7* HCT-26.5* MCV-83 MCH-27.1 MCHC-32.8 RDW-15.6* PLT COUNT-197 NEUTS-81.5* LYMPHS-13.3* MONOS-4.4 EOS-0.4 BASOS-0.4  Chemistry: GLUCOSE-217* UREA N-51* CREAT-1.5* SODIUM-139 POTASSIUM-5.2* CHLORIDE-107 TOTAL CO2-23 ANION GAP-14  Coagulation: PT-19.8* PTT-34.4 INR(PT)-1.9*  Cardiac enzymes: [**2105-6-10**] 03:19PM   [**2105-6-10**] 03:19PM   CK(CPK)-53 [**2105-6-10**] 03:19PM   CK-MB-NotDone cTropnT-<0.01 [**2105-6-11**] 08:41AM   CK(CPK)-63 [**2105-6-11**] 08:41AM   CK-MB-2 cTropnT-<0.01  EKG in ED: Atrial fibrillation, rate 114 bpm, LAD, old LAFB and RBBB, Qs II, III, aVF, poor R wave progresion, old TWI in V1-4.
+No change versus prior.
+[**2105-6-11**] SMALL BOWEL ENTEROSCOPY: A small size hiatal hernia was seen.
+A salmon colored mucosa distributed in a localized pattern, suggestive of Barrett's Esophagus was found.
+One polyp in the body was ulcerated with stigmata of recent bleeding.
+A single pedunculated polyp with stigmata of recent bleeding was found in the proximal bulb.
+There was no blood seen to mid jejunum.
+Brief Hospital Course: Mr. [**Known lastname 94500**] is an 83 year-old male with atrial fibrillation on Coumadin with INR 1.9, CAD on ASA, DM type 2, with prior GI bleeding without a clear source identified, admitted to the ICU with a 1-day history of maroon stools with Hct drop.
+1) GI bleed: As noted above, an NG lavage performed in the ED was negative for blood, but limited by lack of bilious return.
+GI was consulted, and a push enteroscopy was performed on [**2105-6-11**], remarkable for Barrett's esophagus, and polyps in the antrum and stomach body, one of which was ulcerated with stigmata of recent bleeding.
+A duodenal polyp was also seen prolapsing through the pylorus, also with stigmata of recent bleeding.
+It is likely that the ulcerated polyps accounted for his GI bleeding, although the presentation with maroon-colored stools and BRBPR with lack of hemodynamic instability is somewhat unusual.
+2) CAD: His EKG in the ED was at baseline, and he was ruled out with serial cardiac biomarkers.
+3) Atrial fibrillation: As noted above, Coumadin was held at the time of admission.
+He remained in atrial fibrillation, with occasional rapid ventricular response to the 110s.
+4) DM type 2: He was placed on a regular insulin sliding scale in the ICU for glycemic control.
+5) Acute on chronic renal insufficiency: His creatinine on admission was 1.5, up from a baseline of 1.2 in 04/[**2104**].
+Discharge Disposition: Home  Discharge Diagnosis: Lower GI bleed Atrial fibrillation   Discharge Condition: Patient discharged home in stable condition.
+Discharge Instructions: Please call your PCP or return to the hospital if you develop recurrent bleeding from your rectum, or if you develop shortness of breath, or chest pain.
+If you have difficulties with filling the prescription, then you can take Omeprazole twice daily.

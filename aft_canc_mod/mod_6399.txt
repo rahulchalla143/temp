@@ -1,0 +1,75 @@
+Admission Date:  [**2152-2-4**]              Discharge Date:   [**2152-2-18**]  Date of Birth:  [**2069-11-14**]             Sex:   F  Service: MEDICINE  Allergies: Penicillins / Tylenol/Codeine / Iodine Containing Agents Classifier  Attending:[**Last Name (NamePattern4) 290**] Chief Complaint: Failure to thrive, nausea  Major Surgical or Invasive Procedure: ERCP with removal and replacement of biliary stent RBC scan x 2, both unremarkable   History of Present Illness: Ms. [**Known lastname **] is an 82 year-old Spanish speaking woman with a history of non-resectable cholangiocarcinoma s/p seven cycles of gemcinabine (last [**11-18**]) and CyberKnife radiotherapy ([**8-18**]).
+Her chronic abdominal and back pain have also been gradually worsening.
+Denies fevers or chills, chest pain, dyspnea, abdominal pain, or changes in bowel habits.
+CXR showed no significant abnormality.
+Review of Systems: (+) Per HPI (-) Denies fever, chills, night sweats, recent weight loss or gain.
+Denies headache, sinus tenderness, rhinorrhea or congestion.
+Denies chest pain or tightness, palpitations.
+Denies cough, shortness of breath, or wheezes.
+Denied nausea, vomiting, diarrhea, constipation or abdominal pain.
+No recent change in bowel or bladder habits.
+Denies rashes or skin breakdown.
+No feelings of depression or anxiety.
+Past Medical History: Oncologic History: Mrs. [**Known lastname **] presented to [**Hospital6 **] in [**2151-3-23**] with acute onset of abdominal pain, nausea, vomiting and diarrhea.
+Abdominal CT revealed soft tissue attenuation surrounding the superior mesenteric artery and extending to the periportal region; enhancing soft tissue surrounding the common hepatic and bile duct with periportal edema; and an ill-defined low attenuation in the head of the pancreas.
+Abdominal MRI revealed abnormal T2 dark soft tissues surrounding the celiac axis extending to the periportal region and abutting the head of the pancreas.
+EUS revealed small volume to the pancreatic parenchyma, which was normal in echotexture without changes suggestive of chronic pancreatitis.
+FNA demonstrated adenocarcinoma suggestive of cholangiocarcinoma.
+On [**4-21**], Dr. [**Last Name (STitle) **] performed ERCP, which demonstrated normal pancreatic, common hepatic and cystic filling with contrast.
+On [**2151-4-29**], she underwent repeat ERCP and removal of the pancreatic duct stent.
+D15 held due to thrombocytopenia (Plt 96) [**2151-9-13**]: C5D1 750 mg/m2.
+[**10-19**]: "C7:" Course complicated by constipation requiring ER visit for disempaction.
+Pt notes one week history of bilateral lower back pain, that is moderate in intensity, sporadic, wakes her up at night, does not radiate down the lower extremities and is not associated with bladder or bowel dysfunction.
+She denies fevers, chills, nausea, vomiting, chest pain, abdominal pain, night sweats, melena or hematochezia.
+She smoked for a few years and has occasional social alcohol  Family History: NC  Physical Exam: GEN: Pleasant woman in NAD, cooperative, pleasant VS:  96.8, 157/76, 66, 16, 100% RA HEENT: EOMI, no conjunctival icterus, pallor, or injection.
+No appreciable JVD or LAD CV: RRR, nl s1/s2, no M/G/R PULM: CTAB no wheeze or crackles.
+No pulsatile masses or organomegaly.
+No rebound tenderness or guarding LIMBS: Warm and well perfused.
+No cyanosis or edema.
+No pleural effusions.
+No evidence of focal parenchymal opacities suggesting pneumonia.
+Normal size of the cardiac silhouette, no pulmonary edema.
+Mild tortuosity of the thoracic aorta.
+Pre-injection images show activity in the bowel compatible with interval bleed since the prior study.
+Dynamic blood pool images show no evidence for a active GI bleed.
+IMPRESSION: No GI bleed during the course of study.
+There is no evidence of hyperemia.
+Dynamic blood pool images show no evidence for bleeding.
+There was no excretion of tracer into the bladder.
+IMPRESSION: No active bleeding identified over the course of 90 minutes.
+Absence of activity in the bladder raises a the question of poor renal function.
+Left ventricular systolic function is hyperdynamic (EF 70-80%).
+There is no ventricular septal defect.
+The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present.
+No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+There is no mitral valve prolapse.
+Trivial mitral regurgitation is seen.
+There is moderate pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+Subsequently, there is pooling of contrast around the lower portion of the stent, likely reflecting an ulcer as seen on ERCP.
+An irregular stricture of malignant appearance was seen at the lower and middle third of the common bile duct with mild dilatation of the biliary tree proximal to this strictured portion.
+IMPRESSION: Single irregular stricture of malignant appearance in the lower and middle third of the common bile duct with subsequent biliary stent placement across the strictured portion.
+Mild to moderate dilatation of the biliary tree proximal to the strictured portion.
+Brief Hospital Course: ASSESSMENT AND PLAN:  82 y/o F with unresectable cholangiocarcinoma p/w failure to thrive, poor PO intake, nausea and vomiting .
+# Failure to thrive: This was initially concerning for infectious process  or progression of cancer.
+She was afebrile and without leukocytosis, no focal signs of infection.
+CXR clear, no other localizing signs or symptoms.
+LFTs demonstrated an obstructive picture.
+CT torso was performed with premedication to evaluate for metastatic and/or locally progressive disease.
+It showed neither of these but did deonstrate possible biliary ductal dilatation.
+Blood cultures were drawn and were positive for Serratia.
+This was confirmed with abdominal ultrasound, but it was felt that the abscesses were not amenable to IR drainage.
+On the following evening ([**2152-2-16**]), while she was talking to her family, the patient's eyes rolled back in her head, and she suddenly became tired and short of breath.
+While she was being evaluation, she had an episode of bright red bloody stool.
+Stat labs were drawn and revealed a 5-point hematocrit drop.
+She was transferred to the [**Hospital Unit Name 153**] were she was found to have stopped bleeding.
+# Cholangiocarcinoma:  Locally advanced and unresectable but stable in appearance by CT [**2151-12-22**], s/p 7 cycles of gemcitabine (most recent [**11-18**]) and Cyberknife ([**7-19**]).
+There was no evidence of metastatic disease on CT torso.
+Dr. [**Last Name (STitle) **] was made aware of the above events and agreed with the family's decision to send her home with hospice care.
+# Hypertension: BP elevated on arrival.
+# Anemia: Her hematocrit was  consistent with baseline, with expected drop from GI bleeding.
+Medications on Admission: ALENDRONATE - 70 mg Tablet - 1 (One) Tablet(s) by mouth qweek once a week ATENOLOL -  (Prescribed by Other Provider) - 25 mg Tablet - 1 (One) Tablet(s) by mouth twice a day LATANOPROST [XALATAN] -  (Prescribed by Other Provider) - 0.005 % Drops - 1 in each eye qpm ACETAMINOPHEN -  (Prescribed by Other Provider) - 325 mg Tablet - 2 (Two) Tablet(s) by mouth every four (4) hours as needed for pain CAMPHOR-MENTHOL [SARNA ANTI-ITCH] - 0.5 %-0.5 % Lotion - Apply to affected areas twice a day DOCUSATE SODIUM - 100 mg Capsule - One Capsule(s) by mouth three times a day [**Month (only) 116**] purchase over the counter if cheaper MAGNESIUM HYDROXIDE [MILK OF MAGNESIA] - 400 mg/5 mL Suspension - 5 cc by mouth 1-2 times per day as needed for Constipation if no bowel movement SENNOSIDES - 8.6 mg Tablet - 2 Tablet(s) by mouth daily   Discharge Medications: none Patient will receive hospice-focused medications following discharge  Discharge Disposition: Home With Service  Facility: [**Hospital **] hospice  Discharge Diagnosis: Primary: Cholangiocarcinoma GI bleeding   Discharge Condition: Mental Status:Clear and coherent Level of Consciousness:Alert and interactive Activity Status:Ambulatory - Independent   Discharge Instructions: You came to the hospital because of difficulty eating and weight loss.
+Blood tests and CT showed that you had blockage in the ducts that drain the liver.
+You also had bacteria growing in your bloodstream, likely from the biliary tract where the tumor is located.
+You had another episode of bleeding in your GI tract, and the decision was made by you, your family, and your medical team to discharge you home with hospice care.

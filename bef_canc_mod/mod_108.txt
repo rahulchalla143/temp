@@ -1,0 +1,100 @@
+Admission Date:  [**2199-5-19**]              Discharge Date:   [**2199-6-4**]   Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 898**] Chief Complaint: altered mental status, hypoxia  Major Surgical or Invasive Procedure: right-sided thoracentesis [**5-20**]  History of Present Illness: [**Age over 90 **]yo F with a PMH of SDH s/p burr hole evacuation [**2199-4-14**], recent STEMI and medical management [**2199-4-17**], and multiple UTIs, now presents with CHF, fevers, and altered mental status.
+Ms. [**Known lastname 4402**] was discharged from [**Hospital1 18**] on [**2199-4-30**] after a 4d hospitalization for altered mental status, felt to possibly be due to UTI and/or pneumonia (treated with levaquin) and benzodiazepine usage (ativan).
+She had been on her baseline O2 requirement of 2L by nc, but over the last week, was noted to have increased O2 need and crackles on exam.
+After 3 days (which was 3 days prior to admission), she was noted to begin having mental status changes.
+Her oxygen requirement was increased to 3L by nc with improvement in her sats.
+On the morning of [**2199-5-19**], she again became hypoxic with O2 sats in the 80s which improved to the high 90s on a NRB.
+She was also noted to have elevated fingersticks on [**2199-5-18**], with a FS of 470 (she is NOT a diabetic).
+Given that her D-dimer was elevated, a CTA was performed and was negative for PE, but did show a large R sided pleural effusion and left atrial clot.
+She was admitted to the ICU for further monitoring of her respiratory and mental status.
+Past Medical History: # SDH s/p burr hole on [**2199-4-14**] - SDH dx [**2199-3-26**] after fallx2 (on coumadin for afib) - had 6mm MLS to the right - started on dilantin - dx w/ pneumonia, treated w/ Augmentin - readmitted [**4-6**] for worsening mental status changes - rpt head CT showed worsening MLS, increased edema - given ciprofloxacin for UTI - underwent burr hole evacuation on [**2199-4-14**] # STEMI s/p vfib arrest - had witnessed CP -> cardiac arrest at rehab on [**4-17**] (was vfib)  - shocked x6, lidocaine bolus, then lidocaine gtt -> NSR - then went into afib, amio bolus and then amio gtt - was intubated for airway protection - ECHO on [**2199-4-18**] showed EF 30-40%, with severe HK of inferior, posterior, and lateral walls; RV function also depressed - ?
+postulated to have a LCx lesion # CHF - ?
+diastolic as ECHO in '[**98**] showed EF 60% # atrial fibrillation # ventral hernia # multinodular goiter # diverticulitis - s/p fistula between bowel/bladder -> surgically corrected # h/o MRSA in abdominal wound in [**2192-2-10**], nares negative in [**5-14**]  # HTN # s/p hemangioblastoma at C5/6 level with cord compression [**2-15**] bleed - s/p neurosurgical decompression on [**2193-6-6**] - has residual L-sided weakness and neuropathy # macular degeneration # h/o CVA (?)
+No tob, no EtOH.
+Speech not dysarthric, but intermittently understandable.
+No frank exudates seen.
+NECK: No supraclavicular or cervical lymphadenopathy.
+Crackles above on R. Crackles [**1-15**] way up on L. No wheezes or rhonchi.
+EXT: 1+ pitting edema on dorsum of feet, [**1-16**] way up shin bilaterally.
+SKIN: No rashes, no jaundice.
+Nickel sized stage II sacral decub on R buttock.
+Follows some command, but full neurological testing unable to be performed due to inability to cooperate.
+Pertinent Results: EKG: Afib at rate of 96, normal intervals, R axis, poor R wave progresion, Q wave in III, aVF, V1, no ST changes, flat T waves in III, aVR, V1, V6, inverted T waves in aVL.
+The right atrium is moderately dilated.
+Overall left ventricular systolic function is moderately depressed (ejection fraction 30-40 percent) secondary to severe hypokinesis of the inferior, posterior, and lateral walls.
+There is no ventricular septal defect.
+The aortic valve leaflets are mildly thickened.
+There is no aortic valve stenosis.
+Mild (1+) aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+There is no mitral valve prolapse.
+Mild (1+) mitral regurgitation is seen.
+The tricuspid valve leaflets are mildly thickened.
+Moderate to severe [3+] tricuspid regurgitation is seen.
+There is moderate pulmonary artery systolic hypertension.
+There is a trivial vs. physiologic pericardial effusion.
+IMPRESSION: inferoposterolateral myocardial infarct .
+TTE [**2199-5-20**]: The left atrium is moderately dilated.
+The right atrium is moderately dilated.
+There is mild symmetric left ventricular hypertrophy.
+There is mild regional left ventricular systolic dysfunction with inferolateral hypokinesis/ akinesis.
+Overall left ventricular systolic function is mildly depressed.
+The right ventricular cavity is mildly dilated and there is probable right ventricular hypertrophy.
+[Intrinsic right ventricular systolic function is likely more depressed given the severity of tricuspid regurgitation.]
+There is abnormal septal motion/position consistent with right ventricular pressure/volume overload.
+The aortic valve leaflets (3) are mildly thickened.
+There is no aortic valve stenosis.
+Trace aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Mild (1+) mitral regurgitation is seen.
+There is moderate mitral annular calcification with associated mild mitral inflow gradient.
+The tricuspid valve leaflets are mildly thickened.
+Moderate to severe [3+] tricuspid regurgitation is seen.
+There is severe pulmonary artery systolic hypertension.
+The end-diastolic pulmonic regurgitation velocity is increased suggesting pulmonary artery diastolic hypertension.
+There is no pericardial effusion.
+There is evidence of severe pulmonary artery systolic hypertension in both studies.
+NOTE: Transthorcic echocardiography cannot adequately assess left atrial thrombus; this can be better assess by transesophageal echocardiography if clinically indicated.
+Since prior exam, there has been interval increase in bilateral moderate-sized pleural effusions.
+Stable appearance of the right upper mediastinal mass, better seen on recent CT and likely represents substernal goiter.
+Severe thoracolumbar scoliosis is again seen and unchanged.
+No evidence of pulmonary embolism.
+There does appear to be a filling defect in the left atrial appendage, seen on multiple views, likely representing thrombus.
+Recommend correlation with transesophageal echocardiography.
+Moderate-to-large right pleural effusion with associated atelectasis of the majority of the right lower lobe.
+Small left pleural effusion with likely left basilar pneumonia or aspiration.
+Evidence of right ventricular strain including persistence of contrast and dilatation of the IVC and hepatic veins.
+Previously identified left subdural hematoma is not currently appreciated and there is no midline shift.
+Brief Hospital Course: [**Age over 90 **]yo F with history of SDH s/p burr hole evacuation, recent STEMI medically managed, now with Staph aureus bacteremia and left atrial clot, transferred to the MICU for worsening hypoxia and unresponsiveness, then called out to the floor for further management of her multiple medical problems as below.
+# Hypoxia:  Admission CXR revealed effusions and pulmonary edema.
+Transudative effusion was tapped while in the MICU with moderate improvement in her oxygen requirement.
+Repeated CXRs revealed stable b/l pleural effusions (R>L) with amount of pulmonary edema varying with diuresis vs. fluid administration; there were no infiltrates.
+The cause of her hypoxia is clearly multifactorial as she has known diastolic CHF and with a. fib at rate 90s-100s may have been affecting filling time and worsening diastolic dysfunction.
+Her declining mental status also has led to hypoventilation.
+Decision was made with family not to pursue intubation/MICU transfer if her respiratory status were to further decompensate on the floor.
+# MRSA bacteremia:  Admission blood cultures showed [**2-17**] MRSA.
+The source of her bacteremia is not entirely clear although she has a [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) 2966**] that was seen on CTA chest (although not well visualized on TTE) and this may have been seeded.
+She does have a right shoulder effusion, but clinically and on orthopedics evaluation, it does not appear to be a septic joint.
+imaging did reveal erosive changes of shoulder, but in discussion with radiology, these findings are consistent with degenerative disease in [**Age over 90 **] yo shoulder as opposed to infection as cause of erosive changes.
+Thus, right shoulder effusion was not tapped.
+Additionally, pleural effusion when tapped was transudative and cultures were negative so as not to evoke this as source of her bacteremia.
+# Left atrial thrombus:  Seen on CTA chest, but poorly visualized on TTE and TEE not performed.
+Likely formed in the setting of v. fib arrest and chronic atrial fibrillation as she was not on anticoagulation most recently prior to this admission given her recent SDH and subsequent burr hole evacuation.
+She was originally placed on heparin gtt and was then transitioned to PO coumadin which, given her decline in mental status and transition to focus on comfort was discontinued.
+# Acute renal failure:  In the setting of diuresis and holding of IVF administration to optimize her respiratory status, her renal function worsened and she became oliguric most likely to prerenal etiology as above.
+Given her tenuous respiratory status on shovel mask on the floor IVF were intermittently administered while on the floor without significant improvement in urine output nor renal function.
+Pump:  EF 45% w/ inferolateral hypokinesis s/p STEMI as above, diastolic dysfunction as well.
+As above, imaging revealed bilateral pleural effusions (tapped x1 revealing transudate).
+She was diuresed prn without improvement in O2 requirements on the floor and additionally developed increased bicarb in the setting of diuresis (contraction), but also in the setting of worsening respiratory acidosis as above (increasing pCO2).
+c. Rhythm:  Atrial fibrillation with largely in the 90s-100s occasionally requiring IV lopressor for rate control when unable to take PO meds.
+Iron studies reveal low iron at 17, TIBC 213, and ferritin of 171 and appears to reflect iron deficiency anemia and element of ACD given low TIBC.
+# Subdural hematoma:  No significant residual deficits post bleed (previously with significant RUE weakness).
+Repeat CT [**5-30**] while on anticoagulation showed no change from prior/no acute bleed.
+# Hyperglycemia:  No documented h/o DM, but consistently elevated BS while here (100-150) likely in the setting of acute illness/stress response.
+# UTI:  Had enterococcus sensitive to vancomycin at OSH that was treated prior to this admission.
+# F/E/N:  PO as tolerated for comfort.
+# Code:  DNR/DNI being discharged to inpatient hospice for comfort care.
+Medications on Admission: amiodarone 100mg PO QD ASA 81mg PO QD RISS lisinopril 2.5mg PO QD megace 40mg PO BID metoprolol 12.5mg PO BID MVI 1 tab PO QD pantoprazole 40m PO QD   Discharge Disposition: Extended Care  Facility: [**Hospital6 459**] for the Aged - MACU  Discharge Diagnosis: Primary: MRSA septicemia Left atrial thrombus Hypoxia due to end stage COPD Acute renal failure Systolic and diastolic heart failure .
+Secondary: Atrial fibrillation Anemia Subdural hematoma Hyperglycemia   Discharge Condition: Depressed mental status, significant although stable O2 requirement, being discharged to inpatient hospice.
+Discharge Instructions: You were admitted with heart failure (fluid in the lungs) due to a fast heart rhythm.
+If you develop chest pain, shortness of breath, fevers, confusion, or any other concerning symptoms, please contact your doctor [**First Name (Titles) **] [**Name (NI) 100**] Rehab to help make you more comfortable.

@@ -1,0 +1,52 @@
+Admission Date:  [**2158-11-10**]              Discharge Date:   [**2158-11-15**]  Date of Birth:  [**2109-5-21**]             Sex:   M  Service: MEDICINE  Allergies: naproxen / penicillin G  Attending:[**First Name3 (LF) 13256**] Chief Complaint: GI Bleed  Major Surgical or Invasive Procedure: mechanical ventilation extubation upper endoscopy (EGD)   History of Present Illness: 49yo male w/ EtOH cirrhosis with h/o multiple prior upper GI bleeds from esophageal and gastric ulcers transferred from [**Hospital1 **] with hematemesis.
+Patient taken directly to the endoscopy suite where EGD showed active, pulsatile arterial bleeding at distal esophagus.
+Past Medical History: - EtOH and hemochromatosis cirrhosis, c/b varices w/ variceal bleeds, ascites - Non-insulin dependent diabetes - Hypertension - hyperlipidemia - Anxiety - EtOH abuse - arthritis  Social History: Per his mother, graduated from [**Name (NI) 90683**] [**Location (un) **], former financial manager, but is currently unemployed.
+HEENT: Sclera anicteric, PERRL Neck: supple, no LAD Lungs: Clear to auscultation anteriorly CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops Abdomen: soft, non-tender, non-distended, mildly bulging flanks with a fluid wave.
+Palpable liver tip and splenomegaly.
+Small 1-2mm papules on scrotum Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema Neuro: moving all extremities spontaneously  DISCHARGE EXAM: ***  Pertinent Results: ADMISSION LABS: [**2158-11-10**] 10:49PM BLOOD WBC-10.6 RBC-3.03* Hgb-9.1* Hct-26.5* MCV-88 MCH-30.1 MCHC-34.4 RDW-16.9* Plt Ct-67* [**2158-11-10**] 10:49PM BLOOD Neuts-85.3* Bands-0 Lymphs-7.2* Monos-7.1 Eos-0.3 Baso-0.1 [**2158-11-10**] 10:49PM BLOOD PT-18.6* PTT-33.1 INR(PT)-1.7* [**2158-11-10**] 10:49PM BLOOD Glucose-210* UreaN-32* Creat-1.8* Na-135 K-5.4* Cl-102 HCO3-23 AnGap-15 [**2158-11-10**] 10:49PM BLOOD ALT-55* AST-194* LD(LDH)-383* AlkPhos-72 TotBili-4.3* [**2158-11-10**] 10:49PM BLOOD Lipase-73* [**2158-11-10**] 10:49PM BLOOD Albumin-2.9* Calcium-6.9* Phos-4.5 Mg-1.5*  MICROBIOLOGY: [**2158-11-11**] MRSA screen: negative  STUDIES: [**2158-11-10**] CXR: Endotracheal tube with its tip 4.7 cm above the carina in satisfactory position.
+Lungs are slightly low in volume with patchy airspace disease at both bases which may reflect atelectasis, aspiration, or an early pneumonia.
+No evidence of pulmonary edema, pleural effusions or pneumothoraces.
+No acute bony abnormality.
+Diffuse echogenic liver consistent with fatty deposition; however, more advanced liver disease such as cirrhosis and hepatic fibrosis cannot be excluded on this study.
+Perihepatic free fluid as well as mild amount of fluid within the left lower quadrant consistent with ascites.
+Overlying one of the varices was a linear ulcer with 3 clips distally.
+No active bleeding.
+Few other smaller ulcers at GEJ that looked like peptic injury.
+No active bleeding.
+There was some evidence of protal HTN gastropathy in body/fundus.
+There was a 4mm polyp at junction of duodenal sweep.
+No biopsies taken because of recent significant GI bleed.
+Overlying one of the varices was a linear ulcer with 3 clips distally.
+No active bleeding.
+Few other smaller ulcers at GEJ that looked like peptic injury.
+No active bleeding.
+There was some evidence of protal HTN gastropathy in body/fundus.
+There was a 4mm polyp at junction of duodenal sweep.
+No biopsies taken because of recent significant GI bleed.
+DISCHARGE LABS: *** [**2158-11-15**] 05:20AM BLOOD WBC-4.8 RBC-3.08* Hgb-9.3* Hct-27.6* MCV-90 MCH-30.2 MCHC-33.7 RDW-16.9* Plt Ct-77* [**2158-11-15**] 05:20AM BLOOD PT-16.9* PTT-29.3 INR(PT)-1.5* [**2158-11-15**] 05:20AM BLOOD Glucose-96 UreaN-9 Creat-0.8 Na-135 K-3.7 Cl-101 HCO3-27 AnGap-11 [**2158-11-15**] 05:20AM BLOOD ALT-39 AST-91* AlkPhos-94 TotBili-4.2* [**2158-11-15**] 05:20AM BLOOD Albumin-3.0* Calcium-8.4 Phos-2.9 Mg-1.7  Brief Hospital Course: Mr. [**Name13 (STitle) **] is a 49yo male w/ EtOH cirrhosis with h/o multiple prior upper GI bleeds from esophageal varices and gastric ulcers transferred from [**Hospital3 **] with hematemesis.
+Upper GI bleed: Patient with pulsatile arterial bleed at the distal esophagus per OSH records, hemostasis achieved.
+Pt had repeat EGD showing 3 grade [**1-8**] esophageal varices.
+Overlying one of the varices was a linear ulcer with 3 clips distally.
+No active bleeding.
+Few other smaller ulcers at GEJ that looked like peptic injury.
+No active bleeding.
+There was some evidence of protal HTN gastropathy in body/fundus.
+There was a 4mm polyp at junction of duodenal sweep.
+No biopsies taken because of recent significant GI bleed.
+Acute Alcoholic Hepatitis: Patient with acute alcoholic hepatitis.
+Abd u/s shows echogenic liver c/w fatty infiltration, but cirrhosis cannot be excluded, small amount of ascites.
+EtOH cirrhosis: Abdominal ultrasound without definitive e/o cirrhosis, but small amount of ascites was seen.
+Lasix and spironolactone were held in the setting of the acute bleed but restarted without issue after his condition stabilized.
+#) Hypotension: Likely due to blood loss.
+Pt became hypertensive up to the 170s after his lisinopril and metoprolol were held, but was normotensive in 130s after starting and increasing nadolol to 40mg po daily, which was continued at discharge.
+#) Acute renal failure: most likely pre-renal from hypovolemia, resolved with transfusions and fluids.
+Pt had a baseline tremor and was also tachycardic to 120s, occasionally to 140s with exertion, normal sinus.
+-Pt's lisinopril and metoprolol were stopped in the setting of acute GI bleed and nadolol was started instead for varices.
+His prior BP meds may need to be restarted if he becomes hypertensive.
+)(s)* Refills:*0*   Discharge Disposition: Home  Discharge Diagnosis: Primary: bleeding ulcer vs variceal bleed alcoholic hepatitis  Secondary: decompensated alcoholic cirrhosis   Discharge Condition: Mental Status: Clear and coherent.
+Discharge Instructions: Mr. [**Name13 (STitle) **],  You were transferred to [**Hospital1 18**] after you had bloody vomit.
+You did not have any additional bleeding and did not need any further blood products.
+You were started on antibiotics to prevent infections associated with bleeding in patients with liver disease, which you will need to continue as an outpatient.
+You were also treated with medications for alcoholic hepatitis and acute alcohol withdrawal.
+Your symptoms are due to and very much worsened by your continued alcohol consumption.
+We have made the following changes to your medications:  -Start nadolol to prevent bleeding episodes -Start ciprofloxacin to protect you from infection after the bleed -start pentoxyfiline to protect treat your alcoholic hepatitis and protect your kidneys -take the omeprazole TWICE daily instead of ONCE daily -STOP the metoprolol (we have you on Nadolol instead) -STOP the lisinopril (if you still have high blood pressure, your PCP may restart this) Please continue to take your other medications as previously prescribed.

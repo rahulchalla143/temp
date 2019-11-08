@@ -1,0 +1,82 @@
+Admission Date:  [**2172-6-26**]              Discharge Date:   [**2172-7-8**]  Date of Birth:  [**2108-9-4**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 1666**] Chief Complaint: shortness of breath  Major Surgical or Invasive Procedure: Pleurex catheter placement.
+History of Present Illness: Mr. [**Known lastname **] is a 63yo gentleman with h/o thoracic aortic aneurysm and tobacco abuse admitted with shortness of breath.
+Over the last 3 weeks, Mr. [**Known lastname **] has had worsening shortness of breath, particularly at night.
+Uses a fan to try to relieve his sense of dyspnea and symptoms improve after 15-20 minutes.
+Patient also describes chronic tightness around his chest wrapping around his left side to his back at the bottom of his rib cage ever since he had a repair of esophageal rupture about 5 years ago at [**Hospital1 112**].
+Over the last 3 weeks, this chronic pain has been more intense.
+He was also found to have a large, loculated right pleural effusion with R hilar and mediastinal adenopathy compressing his right middle and lower lobe.
+He was started on an esmolol gtt, but continued to have SBP in 150s-160s and pulse in 70s-80s.
+CT surgery evaluated the patient and stated there was no indication for surgery.
+On review of symptoms, he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.
+He denies recent fevers, chills or rigors.
+He denies exertional buttock or calf pain.
+Cardiac review of systems is notable for absence ankle edema, palpitations, syncope or presyncope.
+Past Medical History: HTN Thoracic Aortic Aneurysm Esophageal rupture [**1-11**] emesis (Boerhaave's syndrome) Chronic bronchitis Rheumatoid Arthritis??
+Denies h/o CAD but has stress test suggestive of prior ischemia (described below)  ALLERGIES: NKDA  OUTPATIENT CARDIOLOGIST:  in [**Hospital1 1562**], name unknown PCP:  [**Last Name (NamePattern4) **].
+[**Last Name (STitle) **] (?sp) of Born, Mass  Social History: Social history is significant for the presence of current tobacco use:  [**12-11**] PPD since the age of 14, continues to smoke.
+Family History: There is a family history of premature coronary artery disease or sudden death:  his father d. of an MI at the age of 57.
+He has a brother who had a stroke at about 60yo.
+Physical Exam: VS: T 97.2, BP 152/97, HR 72, RR 24, O2 97% on 4L Gen: Thin gentleman who is mildly tachypneic and using his accessory muscles to breath.
+Sclera anicteric.
+Chest: No chest wall deformities, scoliosis or kyphosis.
+Decreased breath sounds at right base > left base.
+Poor air movement with scattered crackles and wheezes audible.
+Abd: +BS, soft, NTND, No HSM or tenderness.
+No abdominial bruits.
+No femoral bruits.
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+Pulses: Right: Carotid 2+ without bruit; Femoral 2+ without bruit; 2+ DP  Left: Carotid 2+ without bruit; Femoral 2+ without bruit; 2+ DP  Pertinent Results: EKGs:  no prior for comparison 11:23  NSR with PACs, normal axis, slow R wave progression, non-specific T wave changes (flat in inferior leads and I, aVL and TWI in V6.
+17:03  as above except T waves biphasic in V4 and TWI in V5-V6.
+Echo from [**Hospital1 1562**] [**2171-6-3**]:  Mild concentric LVH with reduced LV diastolic compliance.
+There is mild symmetric left ventricular hypertrophy.
+Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded.
+The aortic root is moderately dilated at the sinus level.
+The ascending aorta is mildly dilated.
+Mild (1+) aortic regurgitation is seen.
+No mitral regurgitation is seen.
+There is no pericardial effusion.
+Left ventricular hypertrophy with preserved biventricular systolic function.
+Dilated ascending aorta with mild (1+) aortic regurgitation.
+If number of aortic cusps needs to be determined, would recommend full study by son[**Name (NI) 930**].
+adenosine stress with nuclear imaging [**2171-6-3**]: Poor exercise tolerance with normal HR and no chest pain.
+Nonspecific STT changes, no arrhythmias.
+Nuclear imaging suggestive of prior infarct with mild fixed defects in the inferior and mid basal regions.
+No dissection.
+No mediastinal or hilar adenopathy.
+Now has large noncalcified irregular thrombus in distal aspect of the proximal portion of the descending aorta (2.7 x 2.6 cm).
+Complex right pleural effusion with multiple loculations as well as nodules and septations within the effusion.
++Adenopathy in right hilum and mediastinum with compression of the middle lobe and RLL bronchus and significant atelectasis of the middle lobe.
+Highly suspicious for malignancy.
+There is no definite evidence of metastatic disease beneath the hemidiaphragms.
+However, the left adrenal gland is bulky, raising concern for neoplastic involvement.
+There is a sizable right retrocrural node as well.
+Abnormal soft tissue along the base of the right chest along the superior aspect of the right hemidiaphragm, concerning for neoplasm.
+There is also a multiloculated right pleural effusion and abnormal densities within the right middle and right lower lobes of the lungs, which are not fully characterized on this study.
+Changes related to prior esophageal perforation.
+Interval decrease in volume of right-sided pleural effusion status post drainage of 1.5 liters of fluid.
+No evidence for pneumothorax.
+Continued right middle and lower lobe atelectasis.
+-------- Cytology: DIAGNOSIS: Pleural fluid:    POSITIVE FOR MALIGNANT CELLS,   consistent with malignant epithelioid neoplasm.
+Note: The differential diagnosis includes adenocarcinoma and   mesothelioma.
+Immunostains of a cell block preparation are pending and   will be reported in an addendum.
+Immunohistochemical studies Pleural fluid, cell block (C08-[**Numeric Identifier 43548**]):      Malignant epithelioid neoplasm, consistent with adenocarcinoma.
+There is focal staining of the tumor with Leu-M1 and B72.3.
+The findings favor metastatic adenocarcinoma from the lung.
+-----------------   Brief Hospital Course: # Pleural Effusion: Patient describes chronic dyspnea that has been getting worse over the last several weeks.
+Patient continued to have episodes of tachypnea and subjective shortness of breath during hospital stay, with no hypoxemia, not requiring oxygen, and relieved by nebulizer treatment.
+CT and CXR revealed loculated right pleural effusion which was drained.
+Cytology was positive for malignant cells, immunostains most consistent with adenocarcinoma of lung origin.
+A staging abdominal and pelvic CT did not show any clear evidence of malignant spread beneath the diaphragm, although the left adrenal gland was enlarged.
+In either case, he diagnosed with Stage IV adenocarcinoma of likely lung origin.
+A pleurex catheter was placed for drainage of pleural fluid.
+# Thoracic artery aneurysm: Stable on imaging from OSH except for new thrombus.
+He has been hemodynamically stable and has not c/o chest pain.
+Therapeutic anticoagulation was decided against considering multiple procedures while inpatient and risk for bleed and hemothorax.
+Hematology was consulted regarding the need for long term anticoagulation and recommended agatinst anticoagulating aortic thrombus as thought [**1-11**] to local plaque build-up.
+# HTN: In the ICU, labetalol IV gtt for BP control.
+Dx: Hypertension Plan: [**Hospital **] medical management with goal pressures <130 .
+# Concern for LV thrombus: there was initial concern at OSH for LV thrombus, but ECHO  showed no evidence of LV thrombus.
+# Communication:  with girlfriend [**Name (NI) 16883**] [**Name (NI) **] [**Telephone/Fax (1) 79149**] .
+Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs Inhalation Q4H (every 4 hours) as needed for wheezing.
+Discharge Disposition: Extended Care  Facility: The Pavillion  Discharge Diagnosis: Adenocarcinoma of the Lung Malignant Pleural Effusion Hypertensive Urgency COPD Hypertension Thoracic Aortic Aneurysm Aortic Thrombus   Discharge Condition: Stable   Discharge Instructions: You were admitted to the hospital for evaluation of difficulty breathing.
+It was found that your shortness of breath was due to a large accumulation of fluid in your right lung.

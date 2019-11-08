@@ -1,0 +1,38 @@
+Admission Date:  [**2109-5-13**]              Discharge Date:   [**2109-5-17**]  Date of Birth:  [**2032-3-4**]             Sex:   F  Service: MEDICINE  Allergies: Penicillins / acetaminophen  Attending:[**Last Name (NamePattern4) 290**] Chief Complaint: Oxygen desaturation   Major Surgical or Invasive Procedure: None  History of Present Illness: Ms. [**Known lastname 35227**] is a 77 year old female with a history of left pontine stroke with residual right sided weakness and recent admission to [**Hospital1 18**] from [**2109-5-8**] to [**2109-5-10**] who presents from rehab with fever to 101 and desaturation to 89% on 2.5L NC at rehab.
+She had a left lower lobe opacity on her CXR in our ED and was started on hospital acquired pneumonia coverage, receiving cefepime/levofloxacin in the ED and vancomycin when she came up to the floor.
+She was treated empirically for heart failure with iv diuresis.
+She was also treated for community acquired pneumonia at that time and was discharged on levofloxacin, which she was to take through [**2109-5-15**] at rehab.
+She has not had shaking chills or subjective fevers.
+Currently, she has no acute complaints.
+Past Medical History: - CVAs in [**2098**], with residual R-hand and arm weakness for 1 year afterwards - Left-sided progressive weakness - Meningioma - Hyperlipidemia  Social History: Currently at [**Hospital3 **] s/p stroke.
+Family History: daughter had NHL, now in remission x9yrs,  mother died from breast ca, father from [**Name2 (NI) 499**] ca   Physical Exam: ADMISSION EXAM: General Appearance: Well nourished, No acute distress HEENT: PERRL Cardiovascular: RR, nml S1/S2, no murmurs Respiratory: Decreased BS at bases, no wheezes Abdominal: Soft, Non-tender, Bowel sounds present, no organomegaly Extremities: WWP, no LE edema Neurologic: A&Ox3, mild chronic right facial droop, unable to move right hand, 3/5 strength in the right shoulder, sensation grossly intact .
+Prominence of interstitial markings persists.
+The descending aorta is mildly tortuous.
+There is no pneumothorax.
+Healing remote left-sided rib fracture is noted.
+IMPRESSION: Ill-defined opacities in bilateral lung bases, more conspicuous since [**2109-5-10**] exam, could be atypical infection.
+No atrial septal defect is seen by 2D or color Doppler.
+The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic stenosis.
+Trace aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Physiologic mitral regurgitation is seen (within normal limits).
+There is a very small pericardial effusion.
+Moderately severe emphysema with an inflammatory interstitial component.
+Scattered areas of alveolar opacification, have not worsened since recent conventional radiographs, could have been due to aspiration or no longer active infection.
+Alternatively, if the patient continues to smoke, the findings could be due to desquamative interstitial pneumonia or drug reaction.
+Widespread atherosclerosis, including large plaques in head and neck vessels, left main coronary artery and branches, and minimally aneurysmal upper abdominal aorta.
+Diffuse esophageal wall thickening could be due to reflux or other causes of esophagitis  Brief Hospital Course: 77 year old female with a history of left pontine stroke with residual right sided weakness and recent admission to [**Hospital1 18**] from [**2109-5-8**] to [**2109-5-10**] for ?CHF and pneumonia, who presents from rehab with fever and hypoxia.
+# Fever/Hypoxia: Patient had no fevers documented during this admission.
+Her initial CXR showed diffuse interstitial abnormalities bilaterally and a questionable right base opacity suggesting pneumonia.
+A CT chest showed moderately severe emphysema with an inflammatory interstitial component, also scattered areas of alveolar opacification which could be due to desquamative interstitial pneumonia or drug reaction.
+Given this, and her lack of fevers/leukocytosis, and lack of improvement on the levofloxacin, this was felt unlikely to be a bacterial pneumonia so the antibiotics were stopped on [**5-14**].
+A respiratory viral swab was ordered and a bronch was done with BAL, which did not grow any organisms and revealed pale airways suggesting an interstitial process.
+She was started on methylprednisolone 1000mg daily for 3 days (day one recieved in the MICU on [**5-17**]) and will require a slow taper over the period of a month if her shortness of breath is improving.
+# H/o left pontine stroke: Patient has residual right upper and lower extremity weakness which remained stable with no new focal findings on neuro exam.
+# Right frontotemporal mass: Likely meningioma.
+Continued keppra for seizure prophylaxis.
+# Hyperlipidemia: Continued atorvastatin.
+# Restless Leg Syndrome: Continued carbidopa-levodopa.
+Carbidopa-Levodopa (10-100) 0.5 TAB PO TID for restless leg syndrome 5.
+Discharge Disposition: Extended Care  Facility: [**Hospital6 459**] for the Aged - LTC  Discharge Diagnosis: Interstitial Lung Disease of unknown cause   Discharge Condition: Mental Status: Clear and coherent.
+You were admitted with shortness of breath which is likely due to an inflammatory disease involving your lungs.

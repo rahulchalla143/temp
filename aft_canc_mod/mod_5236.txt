@@ -1,0 +1,29 @@
+Admission Date:  [**2161-10-9**]              Discharge Date:   [**2161-10-17**]  Date of Birth:  [**2095-7-18**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 3619**] Chief Complaint: hyponatremia  Major Surgical or Invasive Procedure: None  History of Present Illness: 66 yo male with stage 4 small cell lung cancer metastatic to brain, bipolar disorder no longer on depakote, presents to clinic today to receive C1D8 of cisplatin/ironotecan.
+The patient was found to have a sodium of 120, and after IVFs with the thought the patient was slightly hypovolemic given his low BP, the Na was 116.
+The patient was very anxious and agitated today as well.
+He denies nausea or vomiting, but does report mild diarrhea from the chemo.
+Past Medical History: ONC HISTORY: Recently diagnosed [**9-25**] for small cell lung cancer metastatic to brain.
+PMH: hypertension hyperlipidemia anxiety treated with depakote x10 years COPD but not on inhaled medication reports NL PSA and colonoscopy [**10-24**] with 2 benign polyps  Social History: Worked as a customer service supervisor until laid off [**2161-8-7**].
+Family History: Half-brother with COPD  Physical Exam: VS: T: 98.5 HR: 58 BP: 128/72 RR: 18 Sat: 99% on RA Gen: Well appearing man, agitated, anxious HEENT:  sclera anicteric, oropharynx clear, MMM Neck: no cervical lymphadenopathy CV: normal S1/S2, RRR, no m/r/g, 2+ DP/PT pulses bilaterally Resp: decreased BS bilaterally, no wheezes or rhonci Abdomen: Soft, nontender, nondistended, normoactive bowel sounds  Ext: No peripheral edema, no clubbing, cyanosis Neuro: A + O x 3, agitated and anxious, repeating himself CN II-XII intact though difficulty following commands to evaluate EOMs- unable to bring left eye medially, no nystagmus, motor [**5-23**] both upper and lower extremities, sensation intact to light touch, DTR [**1-20**]+ throughout   Pertinent Results: LABS:  [**2161-10-9**] 07:26PM   GLUCOSE-254* UREA N-22* CREAT-0.9 SODIUM-118* POTASSIUM-4.3 CHLORIDE-83* TOTAL CO2-23 ANION GAP-16 [**2161-10-9**] 07:26PM   OSMOLAL-260* [**2161-10-9**] 03:45PM   SODIUM-116* [**2161-10-9**] 11:30AM   UREA N-23* CREAT-0.9 SODIUM-120* POTASSIUM-4.6 CHLORIDE-86* TOTAL CO2-23 ANION GAP-16  [**2161-10-9**]: Head CT IMPRESSION:  Multiple small hypodense lesions with surrounding vasogenic edema, better seen on recent MRI and likely represents metastatic disease.
+No evidence of intracranial hemorrhage.
+It was felt that he had SIADH, given that his hyponatremia worsened initially with intravenous fluids, his low urine osmolality, and his euvolemic state.
+Due to his known brain metastases and concern over worsening edema and risk of seizures, he was treated with keppra and steroids to minimize the edema and seizure risk.
+# Small cell lung cancer: Patient had recently completed cycle 1 of cisplatin and irinotecan on day of admission.
+- He was continued on keppra and steroids, which were slowly tapered down, for his known brain metastases.
+- His chemotherapy was held due to continued diarrhea and neutropenia.
+- Patient was neutropenic, but his cell counts trended upward prior to discharge and he was no longer neutropenic at that time.
+He had no fevers or signs of infection while neutropenic.
+# Diarrhea: The patient noted diarrhea that was worst during his first few days of hospitalization.
+Studies for c. difficile were negative, and his diarrhea was managed with immodium as needed.
+# Bipolar disorder/Anxiety:  Depakote had been discontinued 1 week prior admission due to concern over possible interaction with chemotherapy.
+Although hyponatremia was felt to have some role in the patient's agitation, it was also possible that the discontinuation of depakote was also playing a role.
+# Hyperglycemia: Patient was noted to have elevated blood sugars, which were felt to likely be secondary to steroids.
+# Thrush: Patient noted to have thrush, thought to be secondary to steroids.
+# Prophylaxis:   - Proton pump inhibitor was initiated due to steroid use.
+Sodium Chloride 1 g Tablet Sig: Two (2) Tablet PO TID (3 times a day) as needed for hyponatremia.
+Nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID (4 times a day): As needed for thrush.
+Loperamide 2 mg Capsule Sig: Two (2) Capsule PO TID (3 times a day) as needed for diarrhea.
+Disp:*QS 1 month supply* Refills:*2*   Discharge Disposition: Home With Service  Facility: [**Hospital1 1474**] VNA  Discharge Diagnosis: Primary Diagnosis: Hyponatremia .
+Secondary Diagnsos: Metastatic Small Cell Lung Cancer  Discharge Condition: Stable, ambulating safely after being evaluated by physical therapy, with resolving cough.
+Discharge Instructions: You were admitted for a low blood serum sodium level.
+Please call your primary care doctor, your oncologist, or go to the emergency room if you experience chest pain, shortness of breath, fever, chills, numbness/tingling/weakness in any of your arms or legs, increasing fatigue, sleepiness, or any symptoms that concern you or your family.

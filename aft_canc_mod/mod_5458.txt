@@ -1,0 +1,40 @@
+Admission Date:  [**2123-12-4**]              Discharge Date:   [**2123-12-5**]  Date of Birth:  [**2054-10-3**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 3984**] Chief Complaint: respiratory distress, fevers, sepsis  Major Surgical or Invasive Procedure: [**12-4**] -intubation -placement of left internal jugular central venous line -placement of right radial arterial line  [**12-5**] -placement of right femoral line  History of Present Illness: Mr. [**Known lastname 64263**] is a 69 year old gentleman with CLL x10 years s/p 2 blast crises this year.
+He reports he was in his usual state of health until about 3 days ago when he developed sore throat, fever and malaise.
+He has had increased difficulty breathing, nasal congestion and cough.
+He reports decreased PO intake over the past few days.
+He felt nauseous and had at least one episode of coffee-ground emesis and non-bloody diarrhea that began the night prior to admission.
+He reports [**4-7**] profusely watery bowel movements the day of admission, but no bright red blood per rectum or melena.
+He denies sick contacts and recent travel.
+In the ED, initial VS were T 100.3 BP 96/53 HR 109 RR 16 SaO2 93% RA  He became tachycardic in the ED, with T max 102.6.
+CXR showed multifocal PNA, and EKG was benign.
+Obstructive sleep apnea, on C-PAP 3.
+Hyperlipidemia  Social History: Lives alone in [**Location 34697**].
+Daughter [**Name (NI) 553**] is HCP and very involved in care  Family History: nc  Physical Exam: T=104.1 BP=97/55 HR=150s RR= 28 Admission exam:  GENERAL: pleasant, cooperative ill-appearing male in moderate respiratory distress HEENT: Normocephalic, atraumatic.
+No conjunctival pallor.
+No scleral icterus.
+No murmurs appreciated, no JVD.
+LUNGS: rhonchorous breath sounds B/L, poor air movement in b/l bases ABDOMEN: NABS.
+No HSM EXTREMITIES: No edema or calf pain, 2+ dorsalis pedis/ posterior tibial pulses.
+[**2-5**]+ reflexes patella and ankle B/L  Pertinent Results: [**2123-12-4**] 10:47PM   TYPE-ART TEMP-37.0 RATES-30/ TIDAL VOL-500 PEEP-18 O2-100 PO2-82* PCO2-42 PH-7.19* TOTAL CO2-17* BASE XS--11 AADO2-589 REQ O2-97 INTUBATED-INTUBATED VENT-CONTROLLED [**2123-12-4**] 10:47PM   LACTATE-1.9 K+-4.5 [**2123-12-4**] 08:52PM   TYPE-ART TEMP-35.9 RATES-30/ TIDAL VOL-550 PEEP-15 O2-100 PO2-60* PCO2-33* PH-7.26* TOTAL CO2-15* BASE XS--11 AADO2-620 REQ O2-100 INTUBATED-INTUBATED VENT-CONTROLLED [**2123-12-4**] 07:07PM   WBC-310.8* RBC-2.34* HGB-7.4* HCT-23.8* MCV-102* MCH-31.6 MCHC-31.1 RDW-22.8*  CXR [**12-4**]- Bilateral prominence of the hila and interstitial markings with left pleural effusion most compatible with congestive heart failure.
+Left retrocardiac opacity, may be from effusion and atelectasis though underlying pneumonia cannot be excluded.
+[**2123-12-5**]:        11.5 462.6>---------< 46     95% lymphs        34.6  ABG: 7.13/ 45.7/ 64/ 16/ -14   Brief Hospital Course: 69 y/o gentleman with Chronic Lymphocytic Leukemia s/p chemotherapy and recent use of prednisone, was admitted to [**Hospital Unit Name 153**] with fevers of 104, sepsis and respiratory distress.
+Given patient's immunocompromised state due to advanced cancer and prednisone use, infectious etiologies of fever are most likely.
+Due to presentation of respiratory difficulty, cough and high fever, pulmonary infectious processes such as bacterial pneumonia, (especially w/ encapsulated organisms like strep pneumo) PCP pneumonia or influenza are highly likely, or his pulmonary infiltrates seen on CXR could be due to inflammatory vascular leak causing an ARDS type picture.
+Legionella is another possibility given PNA like symptoms in conjunction w/ diarrhea or diarrhea itself could be caused by C. diff colitis or bacterial or viral etiologies.
+CVA tenderness and fever could point to pyelonephritis as a potential source of infection.
+Another possibility is aggressive transformation of his malignancy such as [**Doctor Last Name 6261**] transformation which would be characterized by high fever, elevated LDH and association with previous fludarabine use.
+[**Hospital Unit Name 13533**]:  Mr. [**Known lastname 64264**] fevers and hypotension were likely due to sepsis, complicated by underlying malignancy and immunosuppression.
+He was diaphoretic, tachycardic and tachypneic and was having difficulty speaking in complete sentences due to respiratory distress.
+Patient was pan-cultured, and given IVF for hydration with 1 L NS boluses.
+He developed increased work of breathing and went into atrial fibrillation with heart rate in the 160s, refractory to low-dose diltiazem, so amiodarone drip was started.
+Anesthesia arrived to intubate patient at assist/cmv at Vt 500 x 30 RR, PEEP 15, 100% FiO2.
+A left internal jugular central line and right radial arterial line were placed emergently due to hypotension.
+Patient's blood pressures continued to drop with systolic pressures in the 70s and 80s, so levophed was initiated, and titrated til it was at maximum dose.
+Serial arterial blood gasses were measured and patient was profoundly acidotic, with mixed respiratory and metabolic acidosis having pH of 7.19.
+Vasopressin was initiated as a second pressor, but only had minimal effect on blood pressure.
+Repeat ABGs showed no improvement.
+Dopamine was initiated as a 3rd pressor due to systolic pressures in the 60s-70s.
+Blood cultures returned positive for gram positive cocci in pairs and clusters, and patient's vancomycin was changed to linezolid as per ID recommendations, for better VRE coverage.
+His zosyn was changed to meropenem for broad coverage and clindamycin was added due to its inhibitory effects on bacterial protein synthesis and therefore, action against endotoxins.
+Patient continued to do poorly, and emergent femoral line was placed due to concern of inaccurate readings from right radial arterial line.
+Mini BAL was conducted on [**12-5**] and results later showed positivity for pneumocystis.

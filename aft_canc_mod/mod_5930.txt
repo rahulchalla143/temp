@@ -1,0 +1,43 @@
+Admission Date:  [**2104-12-15**]              Discharge Date:   [**2104-12-25**]  Date of Birth:  [**2047-12-23**]             Sex:   F  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 2485**] Chief Complaint: abdominal pain  Major Surgical or Invasive Procedure: -paracentesis [**2104-12-17**] -NG tube placement [**2104-12-21**]   History of Present Illness: 56-year-old woman with metastatic colorectal cancer, extensive peritoneal mets presents with abdominal pain and distention for 2 days.
+The patient has known malignant ascites and has had therapeutic paracentesis in the past.
+There was no nausea or vomiting.
+No diarrhea or constipation.
+No fevers or chills.
+Abd/pel CT scan showed extensive loculated ascites with possible new liver mets.
+Review of Systems: (+) Per HPI (-) Denies fever, chills, night sweats, recent weight loss or gain.
+Denies chest pain or tightness, palpitations.
+Denies cough, shortness of breath, or wheezes.
+No recent change in bowel or bladder habits.
+Denies rashes or skin breakdown.
+No feelings of depression or anxiety.
+Past Medical History: ONCOLOGIC HISTORY: # Metastatic colon cancer: - [**10/2097**]: found to have RLQ abscess, mass at ileocecal valve.
+Bx showed invasive adenocarcinoma - [**2098-1-2**]: right colectomy by Dr. [**First Name (STitle) **] [**Name (STitle) 99263**].
+Path showed moderately differentiated invasive adenocarcinoma measuring 7 cm at ileocecal valve, no LVI, invading the subserosa; distant margins negative but tumor present at radial margin; [**4-3**] lymph nodes positive, stage (Stage IIIB) T3N1.
+- [**Date range (3) 99264**]: FOLFOX6 x 5 cycles (10 weeks treatment) - [**2098-4-30**]: RUE DVT DVT associated with portacath - [**Date range (1) 99265**]: weekly 5FU/LV x 3 - [**Date range (1) 99266**]: admitted to [**Hospital1 112**] for enteritis related to chemo - [**8-/2098**]/[**2098**]: weekly 5FU/LV - [**4-/2099**]: colonoscopy negative - [**10/2103**]: Abd/pel CT showed large ascites and left adnexal mass; pelvic ultrasound with 2 large masses in the left adnexa, multiple serosal implants and implants on endometrium and right ovary - [**11/2103**]: biopsy of omental mass with metastatic adenocarcinoma consistent with colon primary; CEA normal; KRAS testing positive for exon 2 mutation at codon 12 GGT>GCT - [**12/2103**]: started treatment with weekly CPT-11 - [**1-/2104**]: weekly 5FU added - [**3-/2104**]: progression of her disease.
+Pelvic mass spanning 23 x 13 cm.
+Cards: Regular rhythm, normal rate, 3/6 systolic murmur heard throughout precordium Pulm: CTAB no crackles or wheezes Abd: tense, distended, tympanic, diffusely tender but greatest at RUQ and RLQ, BS present, no rebound/guarding Extremities: no edema.
+Skin: no rashes or bruising  Pertinent Results: [**2104-12-15**] 10:52AM   LACTATE-1.2 [**2104-12-15**] 10:35AM   GLUCOSE-121* UREA N-8 CREAT-0.7 SODIUM-137 POTASSIUM-3.4 CHLORIDE-102 TOTAL CO2-24 ANION GAP-14 [**2104-12-15**] 10:35AM   ALT(SGPT)-8 AST(SGOT)-12 LD(LDH)-230 ALK PHOS-58 TOT BILI-0.3 [**2104-12-15**] 10:35AM   HAPTOGLOB-352* [**2104-12-15**] 10:35AM   WBC-7.7 RBC-2.25* HGB-7.0* HCT-21.5* MCV-96 MCH-31.2 MCHC-32.7 RDW-18.7* [**2104-12-15**] 10:35AM   NEUTS-81.6* LYMPHS-11.5* MONOS-6.3 EOS-0.2 BASOS-0.5 [**2104-12-15**] 10:35AM   PLT COUNT-283 [**2104-12-15**] 10:35AM   PT-59.3* PTT-91.7* INR(PT)-6.7* [**2104-12-15**] 05:41PM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]->=1.035 [**2104-12-15**] 05:41PM URINE  BLOOD-SM NITRITE-NEG PROTEIN-25 GLUCOSE-NEG KETONE-15 BILIRUBIN-SM UROBILNGN-NEG PH-6.5 LEUK-NEG .
+IMAGING: # CXR [**2104-12-15**]: No acute intrathoracic process.
+No evidence of pneumoperitoneum .
+# Abd/pel [**2104-12-15**]: (prelim) Massive loculated abdominal ascites with complex components of peritoneal implants.
+Mildly distended small bowel up to 3.3 cm in R hemiabdomen, without free air.
+Much of colon compressed; mid upper abd anastomosis within normal limits.
+Brief Hospital Course: 56-year-old woman with metastatic colorectal cancer presents with abdominal pain likely from worsening malignant ascites.
+# Abdominal pain: Abd/pel CT showing worsening ascites and possibly liver mets.
+Pt received paracentesos on [**12-17**] with improvment in pain (2L off), and fluid culture was negative to date so no concern for SBP.
+She did not have peritoneal signs on exam, but abdomen remained markedly distended and tender in the upper quadrants.
+Her pain was controlled with ocycontin and PRN oxycodone.
+Given increased distension, there was concern for SBO and KUB showed partial obstruction likely [**2-26**] to peritoneal mets.
+NG tube was placed with improvement of symptoms with decompression.
+She developed fevers and tachycardia and was transferred to the ICU for concern for sepsis.
+Her INR was allowed to trend down in the setting of parcentesis, and pt received 2 [**Location 16678**] prior to the procedure.
+Lovenox was d/c in the ICU given elevated INR and concern for bleeding.
+She was guaiac negative and nowo history of BRBPR or melena.
+Initially she had poor Hct response but after her 2 Units on [**12-18**] she had 6pt Hct increase from 22.5-->28.7.
+We feel that her anemia is likely related to her chemo, as there was no obvious bleeding and hemolysis labs were negative.
+#ARF:  Pt noted to have a creatinine bump to 1.5 from 0.9 with subsequent slow upward trend after this.
+Initially thought to be [**2-26**] volume depletion in the setting of poor PO intake and vomitting.
+On [**12-21**] pt was noted to have poor urine output, so renal u/s obtained which showed No evidence of hydronephrosis.
+Medications were dosed appropriately for renal impairment.
+# Metastatic colorectal cancer: currently on [**Female First Name (un) **], oxaplatin, and capecitabine.
+Medications on Admission: lisinopril 5 mg daily warfarin 4 mg daily lorazepam 1 mg qhs prn anxiety/insomnia omeprazole 20 mg daily Doxepin 10-20 mg qhs  Discharge Medications: Patient deceased  Discharge Disposition: Expired  Discharge Diagnosis: Patient deceased  Discharge Condition: Patient deceased  Discharge Instructions: Patient deceased  Followup Instructions: Patient deceased

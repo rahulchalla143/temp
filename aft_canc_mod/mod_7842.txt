@@ -1,0 +1,37 @@
+Admission Date:  [**2170-1-18**]              Discharge Date:   [**2170-2-2**]  Date of Birth:  [**2129-6-22**]             Sex:   M  Service: MEDICINE  Allergies: Aspirin / Hydralazine / Pyridium / Bactrim / Nitrofurantoin / Dapsone / Quinine / Quinidine / Methylene Blue  Attending:[**First Name3 (LF) 19193**] Chief Complaint: fatigue, poor PO intake, abdominal discomfort  Major Surgical or Invasive Procedure: None   History of Present Illness: Mr. [**Known lastname 1557**] is a 40-year-old man with medical history of [**First Name8 (NamePattern2) **] [**Last Name (Prefixes) 93502**] disease (glycogen storage disease) who presented with fatigue, poor PO intake, and abdominal pain.
+Per his father, [**Name (NI) **] has not been doing well since he completed alpha interferon at the end of [**10/2169**] for treatment of his liver adenomas.
+He denies any fevers, chills, chest pain, shortness of breath, or diarrhea.
+The patient does admit to increasing bilateral lower extremity edema over the past 2 weeks.
+His BS's have been difficult to control at home since he is not always compliant with his cornstarch due to fatigue.
+Given his constellation of symptoms he was recommended to go to the ED by his primary care physician, [**Last Name (NamePattern4) **].
+Patient was initially started on D10W with close monitoring of his blood sugars which was then changed to 1/2 NS given his lactic acidosis.
+Mr. [**Known lastname 1557**] also underwent a CT scan abd/pelvis in ED which showed a possible ruptured adenoma.
+Of note, the patient was recently admitted in mid-[**Month (only) 404**] for anemia and was admitted for blood transfusions.
+Physical Exam: ADMISSION EXAM: T 97.0 BP 129/67 HR 116 RR 25 O2 sat 100% RA Gen: Patient appears acutely ill, severely cachectic, older than stated age HEENT: MMM Heart: Sinus tachycardia, no audible m,r,g Lungs: CTAB, no crackles Abdomen: Markedly distended, hard to palpation, visible veins.
+IMAGING STUDIES: 1)Cxray ([**1-18**]): No evidence of pneumonia.
+No acute cardiopulmonary abnormalities.
+Massively enlarged liver with innumerable heterogenous masses most consistent with adenomas.
+Extraluminal pooling of contrast are concerning for active intra- tumoral hemorrhage in the most inferiorly located tumor mass in the right hepatic lobe.
+A targeted ultrasound of this area is recommended for further evaluation of possible intra- tumoral hemorrhage vs. venous lakes.
+Marked tumor neovascularity within the liver, especially the left lobe which is near completely replaced with tumor.
+Hepatocellular carcinoma within these areas cannot be excluded.
+3)RUQ U/S ([**1-18**]):  Well-defined, focal hypoechoic areas which show slow internal flow within the most inferior right-sided hepatic mass most likely represent internal venous lakes   Brief Hospital Course: Mr. [**Known lastname 1557**] is a 40-year-old man with history of glycogen storage disease who presented with worsening fatigue, poor PO intake, and abdominal discomfort.
+* Glycogen storage disease: AG metabolic acidosis on presentation, secondary to hypoglycemia.
+Due to loose stools, the patient could not tolerate cornstarch for several days, but by discharge diarrhea had resolved, and the patient had been taking cornstarch for 2 days, with stable fingersticks.
+No apparent source of infection was identified.
+Abdominal CT revealed no abscess.
+He was empirically started on Zosyn on admission which was stopped after 48 hours because of no evidence for an active infection.
+When he developed loose stools later in the hospital course, metronidazole was started for presumed C. diff and completed by discharge.
+The WBC trended down but remained elevated at 15 by discharge.
+Patient was afebrile during hospitalization.
+* Recent diarrhea: with persistent leukocytosis.
+Concern for anemia of chronic disease, in setting of hepatic adenomas.
+* Elevated LFTs/coagulopathy: presented with elevated ALT/AST/alk phos, likely in setting of extensive hepatic adenomas.
+INR remained elevated around 1.6-1.7, suggesting underlying synthetic dysfunction.
+* LE and scrotal edema: likely from low albumin, and with infusion of IVF during hospital stay.
+Discharge Disposition: Home With Service  Facility: [**Hospital 119**] Homecare  Discharge Diagnosis: Primary diagnosis: lactic acidosis  Secondary diagnosis: glycogen storage disease   Discharge Condition: Stable   Discharge Instructions: You presented to [**Hospital1 18**] with fatigue, abdominal discomfort, and poor appetite.
+You were found to have hypoglycemia (low blood sugar) and lactic acidosis, consistent with your glycogen storage disease.
+You refused infusion of D10 1/2NS for glucose control.
+Cornstarch was started then stopped due to diarrhea.
+Work-up for the diarrhea revealed no apparent cause.
+If you develop any fevers, chills, shortness of breath, chest pain, recurrent diarrhea, or any other symptoms that concern you, please call your doctor or go to the nearest Emergency Room.

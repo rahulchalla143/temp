@@ -1,0 +1,52 @@
+Admission Date:  [**2196-9-3**]              Discharge Date:   [**2196-9-6**]  Date of Birth:  [**2116-1-15**]             Sex:   M  Service: MEDICINE  Allergies: Omeprazole/Lansoprazole / Sulfa (Sulfonamides)  Attending:[**First Name3 (LF) 5552**] Chief Complaint: shortness of breath  Major Surgical or Invasive Procedure: none  History of Present Illness: 80M PMH metastatic lung cancer, 100 pack-year smoking history presenting with acute on chronic dyspnea.
+The patient complains of increasing DOE progressing to SOB at rest over the past few days.
+The patient complains of prominent wheezing and cough with increased production of dark brown/blood-tinged sputum.
+The patient also complains of intermittent left-sided squeezing chest pain, both at rest and with exertion, radiating to the back at times, lasting seconds to minutes.
+No associated nausea, diaphoresis.
+Pulmonary sarcomatoid carcinoma metastatic to right leg 2.
+Paroxysmal atrial fibrillation 3.
+Benign prostatic hypertrophy 4.
+Gastritis 6.
+Long history of alcohol use, with periodic decreases and increases in use (per PCP [**Name9 (PRE) **] notes).
+Family History: No h/o lung cancer.
+Physical Exam: VITAL SIGNS: T 98.0 BP 157/69 HR 128 RR 31 O2sat 94% 6L GENERAL:  Alert, oriented, cooperative male in no mild respiratory distress.
+Right pupil asymmetric but reactive, left pupil symmetric and reactive.
+NECK:  Supple, no masses, no cervical or supraclavicular lymphadenopathy, no thyromegaly.
+CARDIOVASCULAR:  Irregularly irregular, normal S1, S2, no rubs, murmurs or gallops.
+LUNGS:  Moderate air flow, expiratory wheezes throughout, increased expiratory phase, bronchial breath sounds left lung, decreased breath sounds at bases bilaterally.
+ABDOMEN:  Soft, nontender, nondistended with positive bowel sounds, no hepatosplenomegaly.
+EXTREMITIES:  No edema.
+Well healed right leg mass with no residual deficits at this time.
+Interval increase in size of multiple pulmonary metastases.
+Interval increase in size of bilateral pleural effusions.
+CTA CHEST [**2196-9-3**]: no pulmonary embolism or aortic dissection.
+There is no pericardial effusion, though fluid extends superiorly within the pericardial recess.
+A prominent left supraclavicular lymph node mass, not present on the prior exam, measures 2.7 x 3.3 cm.
+Lung windows demonstrate marked progression of metastatic disease.
+Existing lesions have increased dramatically in size, and there are multiple new nodules.
+For example, previous dominant nodule along the left pleural margin now measures 5.1 cm, previously 2.5 cm.
+The patient is status post left upper lobectomy with volume loss in the left lung.
+Intramural peripheral thrombus in the thoracic aorta without aneurysm is unchanged.
+There is no evidence of osseous metastasis.
+ON ADMISSION [**2196-9-3**] 08:38PM BLOOD WBC-11.4* RBC-3.08* Hgb-8.6* Hct-27.0* MCV-88 MCH-27.8 MCHC-31.8 RDW-14.5 Plt Ct-247 [**2196-9-3**] 08:38PM BLOOD Neuts-93.5* Lymphs-5.5* Monos-0.8* Eos-0.1 Baso-0.1 [**2196-9-3**] 02:20PM BLOOD PT-12.6 PTT-27.6 INR(PT)-1.1 [**2196-9-3**] 02:20PM BLOOD Glucose-137* UreaN-24* Creat-1.2 Na-142 K-4.5 Cl-102 HCO3-24 AnGap-21* [**2196-9-3**] 02:20PM BLOOD ALT-18 AST-18 LD(LDH)-279* CK(CPK)-46 AlkPhos-133* Amylase-21 TotBili-0.3 [**2196-9-4**] 04:33AM BLOOD CK-MB-4 cTropnT-0.02* [**2196-9-3**] 08:38PM BLOOD CK-MB-4 cTropnT-0.03* [**2196-9-3**] 02:20PM BLOOD cTropnT-0.05* [**2196-9-3**] 02:20PM BLOOD Albumin-3.8 Calcium-9.7 Phos-3.1 Mg-2.0 [**2196-9-3**] 04:50PM BLOOD Lactate-1.9 [**2196-9-3**] 03:03PM BLOOD Hgb-9.7* calcHCT-29  Brief Hospital Course: 80 year-old man with history of metastatic lung cancer, 100 pack-year smoking history, presented with acute on chronic dyspnea.
+# Respiratory distress: Diffuse wheezes on exam.
+CXR revealed innumerable pulmonary masses, perihilar opacities, pleural effusions.
+Dyspnea was likely due to a combination of infection, cancer progression, COPD exacerbation.
+# Chest pain: Patient had episodes of chest pain.
+Pain resolved by discharge.
+# Abdominal pain: chronic stomach spasm.
+No pain at time of discharge.
+# Anemia: Likely anemia of chronic disease.
+No recent chemotherapy.
+No signs or symptoms of bleeding.
+# Chronic kidney disease: Unclear etiology.
+# Metastatic lung cancer: Rapidly progressive on imaging.
+Acetaminophen 500 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for fever, pain.
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+Levalbuterol HCl 0.63 mg/3 mL Solution Sig: 1-2 MLs Inhalation Q4H (every 4 hours) as needed for SOB, wheeze.
+Nitroglycerin 0.3 mg Tablet, Sublingual Sig: One (1) Tablet, Sublingual Sublingual PRN (as needed) as needed for chest pain.
+Disp:*30 ml of 20mg/ml* Refills:*2*   Discharge Disposition: Home With Service  Facility: Hospice of the Good [**Doctor Last Name 9995**]  Discharge Diagnosis: Primary diagnoses: lung cancer, pneumonia, congestive heart failure  Secondary diagnoses: paroxysmal atrial fibrillation, benign prostatic hypertrophy, gastritis, anxiety   Discharge Condition: Stable, but still dyspneic with some movements, on supplement O2.
+Discharge Instructions: You presented to [**Hospital1 18**] with shortness of breath.
+Your shortness of breath was likely due to exacerbation of your chronic shortness of breath due to a combination of possible infection, fluid in your lungs, and progression of your lung cancer.
+Your symptoms improved with antibiotic, steroids, and medications to remove some fluid from your lungs.
+Please call your physician or go to the nearest Emergency Room if you develop fevers > 101F, chills, worsening shortness of breath, chest pain, chest pressure, palpitations, dizziness, or any other symptom that concerns you.

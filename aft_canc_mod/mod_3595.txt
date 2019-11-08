@@ -1,0 +1,27 @@
+Admission Date:  [**2181-11-5**]              Discharge Date:   [**2181-11-10**]  Date of Birth:  [**2147-4-19**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 15237**] Chief Complaint: Confusion  Major Surgical or Invasive Procedure: PICC line  History of Present Illness: This is a 34 yo M with a history of AIDS, visceral Kaposi's sarcoma, and Castleman's disease who was discharged yesterday from [**Hospital1 18**] after an admission for nausea, vomiting and weight loss and is now being readmitted for hypercalcemia.
+His previous admission was complicated by hypercalcemia, hyponatremia, hypokalemia and hypophosphatemia.
+Upon presentation there, he had a temperature of 100.4 degrees and was "mildly confused"; he had a non-focal neurologic examination, and the remainder of the physical examination (as per the discharge summary) was "normal".
+He underwent a head CT  Scan that did not show any mass effect, intracranial bleeding, or other pathology.
+His creatinine upon admission was 2.3 mg/dL and he had a non-anion gap acidosis with a bicarbonate of 10 mEq/L.
+His serum calcium was 11.6 mg/dL (no albumin and no ionized calcium done).
+Pancytopenia 6.
+Recurrent hyponatremia (?
+Chronic interstitial infiltrates on CXR   Social History: No tobacco or alcohol.
+Pertinent Results: [**2181-11-4**] 07:15AM   WBC-4.9 RBC-2.80* HGB-9.3* HCT-26.9* MCV-96 MCH-33.0* MCHC-34.4 RDW-20.2* PLT COUNT-221  OSMOLAL-281 CALCIUM-11.4* PHOSPHATE-1.5* MAGNESIUM-1.7  GLUCOSE-83 UREA N-15 CREAT-1.7* SODIUM-130* POTASSIUM-3.6 CHLORIDE-113* TOTAL CO2-10* ANION GAP-11 [**2181-11-4**]  URINE  OSMOLAL-188  [**2181-11-5**]   PT-15.9* PTT-29.3 INR(PT)-1.4*  Brief Hospital Course: 34 y/o M with AIDS, Kaposi's sarcoma, and Castleman's disease who was admitted for hypercalcemia.
+# Hypercalcemia - Etiology unknown.
+Causes of hypercalcemia with a low PTH include malignancy, Vitamin D excess, increased bone turnover, thiazide diuretic use and Milk Alkali syndrome.
+Primary adrenal insufficiency can also cause a hypercalcemia [**1-5**] decreased vascular volume and calcium clearance.
+Given pt's h/o malignancy, hypercalcemia of malignancy cannot be excluded.
+Some solid tumor malignancies can produce a PTH related peptide.
+# Non gap Metabolic Acidosis: Likely a renal tubular acidosis secondary to Fanconi-like syndrome due to tenofavir use.
+# Anemia - 34.3 at time of initial admission [**11-1**], now 25.7.
+Likely this is patient's baseline as he had been hemoconcentrated in setting of nausea, vomiting and minimal PO intake.
+# Hyponatremia: Recently started on steroids for adrenal insufficiency.
+# Renal failure: improved from last admission with creatinine 1.8.
+Still with renal failure and known proteinuria diagnosed on last admission.
+Unclear etiology of intrinsic renal failure.
+# AIDS: Discontineud tenofavir and started on abacavir/lamivudine combo pill.
+# Contact - Girlfriend, [**Name (NI) 1894**] [**Name (NI) 74585**] [**Telephone/Fax (1) 74586**] .
+Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day as needed for constipation.
+Discharge Instructions: You were admitted to the hospital after you were found to be confused and have abnormalities with your electrolytes.
+Call Dr. [**Last Name (STitle) 2148**] or seek medical attention in the emergency department if you experience any fever, chills, chest pain, shortness of breath, nausea, vomiting, diarrhea, abdominal pain, or any other concerning symptom.

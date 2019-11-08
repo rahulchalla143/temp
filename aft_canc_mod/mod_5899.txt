@@ -1,0 +1,76 @@
+Admission Date:  [**2182-7-3**]              Discharge Date:   [**2182-7-7**]  Date of Birth:  [**2120-1-15**]             Sex:   M  Service: MEDICINE  Allergies: Penicillins / Sulfa (Sulfonamides) / Erythromycin Base / Levaquin / Uroxatral / Valium  Attending:[**First Name3 (LF) 7591**] Chief Complaint: fever  Major Surgical or Invasive Procedure: ERCP Bone marrow biopsy  History of Present Illness: Mr. [**Known lastname 99248**] is a 62yo gentleman with h/o lung adenocarcinoma s/p multiple resections who was initially admitted to surgery for work-up of fever and LFT abnormalities and then was transferred to the medical ICU with concern of cholangitis.
+He has been undergoing a work-up for likely malignancy (either metastatic lung CA or new primary) as an outpatient.
+A PET scan in mid-[**Month (only) 116**] demonstrated widespread osseous metastases, and he underwent right sacral biopsy on [**6-27**].
+The night of the biopsy, he began to develop fevers up to 102 at home.
+This was associated with nausea and some episodes of non-bilious, non-bloody vomiting.
+Although he felt fatigued and somewhat lightheaded, he denied having chills, headache, sore throat, cough, abdominal pain, or diarrhea.
+He did have some pain at his biopsy site.
+DFA was negative for influenza and outpatient labs demonstrated a new hyperbilirubinemia at 5.6 (up from 0.9 only 10 days earlier), and elevated LDH at 4980 (up from 496).
+On [**7-2**], he was sent to the emergency room for evaluation of continued fevers with elevated LFTs.
+RUQ ultrasound showed cholelithiasis with gall bladder wall thickening and CT abdomen demonstrated periportal/peripancreatic fat stranding.
+He was sent for urgent ERCP for concern of cholangitis and transferred to the [**Hospital Unit Name 153**] for further management.
+In addition, his preliminary pathology from his sacral biopsy indicated a likely diagnosis of lymphoma, and he was therefore transitioned to the medical service for work-up.
+The study was normal without evidence of obstruction or extrinsic compression of the biliary tree.
+He denied pain or difficulty breathing.
+Of note, Mr. [**Known lastname 99249**] difficulties began in early [**Month (only) 116**], when he was admitted with confusion and aphasia.
+A head CT at [**Hospital1 **] demonstrated a 7mm lesion at the pontine/medullary junction.
+Symptoms and LDH improved on a decadron taper at home although repeat imaging at [**Hospital1 **] showed no evidence of CNS lesion.
+Past Medical History: Adenocarcinoma of the Lung, s/p Right middle lobectomy and mediastinoscopy ([**2179-7-1**]) and Superior segmentectomy of LLL ([**2179-10-31**]) Hypercholesterolemia s/p Tonsillectomy  Primary Oncologist:  [**First Name8 (NamePattern2) **] [**Doctor Last Name 3274**] PCP:  [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 41573**]  Social History: The patient is married and lives at home with his wife.
+Mother died of breast cancer at 80.
+Thyroid not enlarged or tender.
+Lungs clear b/l without wheeze or crackle.
+No palpable mass.
+Ext:  No LE edema b/l.
+Skin mildly jaundiced and warm.
+guaiac negative  Pertinent Results: LABS ON ADMISSION: [**2182-7-2**] 03:36PM BLOOD WBC-5.2 RBC-4.32* Hgb-13.3* Hct-38.5* MCV-89 MCH-30.9 MCHC-34.7 RDW-12.9 Plt Ct-102*# [**2182-7-2**] 03:36PM BLOOD Neuts-48* Bands-1 Lymphs-30 Monos-14* Eos-1 Baso-0 Atyps-6* Metas-0 Myelos-0 [**2182-7-2**] 08:30PM BLOOD PT-14.4* PTT-25.3 INR(PT)-1.3* [**2182-7-2**] 03:36PM BLOOD UreaN-19 Creat-1.1 Na-132* K-3.7 Cl-95* HCO3-24 AnGap-17 [**2182-7-2**] 03:36PM BLOOD ALT-168* AST-255* LD(LDH)-4980* AlkPhos-290* TotBili-5.6* [**2182-7-2**] 08:30PM BLOOD Lipase-23 GGT-182* [**2182-7-2**] 03:36PM BLOOD Albumin-3.7 Calcium-9.6  URINE: [**2182-7-2**] 03:36PM URINE Color-[**Location (un) **] Appear-Clear Sp [**Last Name (un) **]-1.025 [**2182-7-2**] 03:36PM URINE RBC-1 WBC-5 Bacteri-FEW Yeast-NONE Epi-<1  EKG from [**7-2**] in ED: Sinus tachy at 123 with left axis, normal intervals, good R wave progression, No evidence of ischemia.
+Micro: UCx [**7-2**] pending BCx [**7-2**] and [**7-3**] pending DFA negative for influenza  Imaging: PET scan from [**2182-5-31**]: 1.
+Focal uptake (SUVmax 4.0) in the right lower lobe with corresponding nodule on CT compatible with primary lung neoplasm.
+Widespread osseus metastases.
+FDG-avid left perirenal metastasis.
+Two focal intense areas of uptake in the ascending and transverse colon.
+Possible liver metastasis.
+No FDG uptake in the pancreas.
+Consider further evaluation with HIDA scan if there is concern for acute cholecytitis.
+CXR [**2182-7-2**]:  No acute cardiopulmonary process.
+In the setting of gallbladder wall edema and stones, clinical consideration of cholecystitits and correlation with HIDA scan is recommended.
+Diverticulosis without acute diverticulitis.
+Unchanged soft tissue deposit along Gerota's fascia of the left (***per [**2182-6-10**] read, was concerning for metastatic disease***).
+Unchanged right lower lobe pulmonary nodule.
+Unchanged hypodense pancreatic uncinate process lesion and unchanged cystic lesion in pancreatic tail, differential as noted in the [**2182-6-10**] CT.  ERCP [**7-3**]: - The common bile duct, common hepatic duct, right and left hepatic ducts, biliary radicles, cystic duct, and gallbladder were filled with contrast and well visualized.
+- The course and caliber of the structures are normal with no evidence of extrinsic compression, no ductal abnormalities, and no filling defects.
+- The cystic duct appeared patent.
+- The pancreatic duct was filled with contrast and visualized in the pancreatic head.
+- The course and caliber of the duct are normal with no evidence of filling defects, masses, chronic pancreatitis or other abnormalities.
+Right sacral biopsy [**6-28**]:  pending (prelim is lymphoma per onc team)   Brief Hospital Course: In short, Mr [**Known lastname 99248**] is a 62M with history of adenocarcinoma of the lung admitted with fevers in the setting of likely new diagnosis of lymphoma.
+# Large B Cell Lymphoma: Had a bone marrow bx on [**7-4**] that showed diffuse large B cell lymphoma.
+Final path results from [**6-27**] biopsy showed diffuse large B cell lymphoma.
+He had a TTE pre-chemo that showed normal wall motion without evidence of systolic or diastolic dysfunction.
+The patient was treated with CHOP chemotherapy on [**2182-7-5**] with vincristine and adriamycin at a decreased level based on elevated LFTs.
+# Fevers: DDx included lymphoma, infection (cholecystitis/cholangitis), or pancreatitis.
+In terms of infection, CXR, urine and blood cultures were negative to date and DFA showed no evidence of influenza.
+Presentation did not seem consistent with bacterial meningitis.
+His imaging showed some peripancreatic fat stranding that could be suggestive of pancreatitis.
+No evidence of biliary obstruction on ERCP [**7-3**].
+Was initally started on vanco and Aztreonam, then aztronam was changed to cefepime (note that patient is penicillin allergic).
+Antbiotics were discontinued after transfer to the BMT service as once treated with high dose steroids his fevers stopped, thus likely secondary to lymphoma.
+# Pancytopenia: likely [**3-4**] lymphoma, smear not consistent with hemolysis, however markedly elevated LDH, elevated indirect bilirubin and was direct Coombs positive, antibiodies likely present secondary to lymphoma.
+The patient had a normocytic anemia, likely secondary to this hemolytic process, expected to improve with continued treatment of lymphoma.
+Had normal iron studies, however markedly elevated ferritin, likely as acute phase reactant or underlying hemochromatosis.
+Anemia was monitored with Q6H hct, active type and screen.
+Other cell lines down likely secondary to lymphoma infiltrate into bone marrow.
+# Elevated LFTs: Although pattern was suggestive of obstructive process, his ERCP was normal.
+When checked, found that total bilirubin was elevated secondary to indirect bilirubinemia from hemolytic process.
+Although, the patient has evidence of infiltrative process of right side of liver on PET scan.
+# Hypotension: Had a bief episode of hypotension to 90/60 on surgical service.
+# Hyponatremia: hypovolemic, likely from dehydration, improved w NS.
+# Altered mentals status:  Unclear if this is simply that the patient is tired or if he has CNS involvement of his lymphoma.
+Had a head CT that showed no acute process.
+This was likely secondary to anesthesia given for the patient's ERCP.
+# Dyslipidemia: Statin was held given elevated LFTs.
+Lorazepam 0.5 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours) as needed for anxiety.
+Disp:*30 Tablet(s)* Refills:*2*   Discharge Disposition: Home  Discharge Diagnosis: Primary Diagnosis: Diffuse B Cell Lymphoma .
+Secondary Diagnoses: Adenocarcinoma of the lung s/p resection Hyperlipidemia   Discharge Condition: You were hemodynamically stable prior to discharge.
+Discharge Instructions: You were admitted to [**Hospital1 18**] for evaluation of fevers and elevated liver function tests.
+While you were here the biopsy of the lesion on your hip, which was done as an outpatient, returned as a large B cell lymphoma.
+Your fevers were attributed to your lymphoma and resolved once you were treated with chemotherapy.
+If you experience chest pain, fevers, chills, shortness of breath, or any other concerning symptoms please seek medical attention.

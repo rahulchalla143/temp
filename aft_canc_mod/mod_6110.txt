@@ -1,0 +1,35 @@
+Admission Date:  [**2120-7-8**]              Discharge Date:   [**2120-7-12**]  Date of Birth:  [**2060-8-21**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 6565**] Chief Complaint: Delirium  Major Surgical or Invasive Procedure: None   History of Present Illness: 59 yo F with widely metastatic breast cancer including likely leptomeningeal spread on cycle 2 of taxol and avastan admitted with subacute, progressive unresponsiveness and a hypotensive episode.
+The patient has reportedly had 2 weeks of confusion and lethargy.
+She was admitted to [**Hospital3 **] for altered mental status and increasing unresponsiveness within the past week.
+She was found to be hypokalemic with severely depressed mental status.
+She received a 1L NS bolus with return of sbp to 107.
+The patient also became bradypneic with this episode.
+The decision was made for no further invasive tests or imaging studies.
+Past Medical History: - Metastatic breast cancer.
+Initially presented in [**2119-11-14**] with a lytic lesion in the left leg and a breast mass.
+Biopsy revealed infiltrating carcinoma.
+Likely leptomeningeal spread on MR brain [**2120-4-30**].
+- Multiple episodes of severe malignancy associated hypercalcemia and altered mental status.
+- Surgery for ectopic pregnancy in [**2090**].
+Family History: Half-sister with breast CA at age 63.
+No distention or organomegaly.
+Ext: Trace left lower extremity edema.
+No right lower extremity edema.
+Neuro: Unresponsive to commands or painful stimulus.
+Unable to ilicit reflexes at the patella.
+Micro: Blood culture ([**2120-6-24**]): No growth.
+Urine culture ([**2120-6-24**]): No growth.
+New metastatic involvement of the leptomeninges, most notable of the posterior fossa.
+No new brain parenchymal lesions.
+Interval slight worsening in calvarial metastases including infiltration of the skull base and upper cervical vertebra.
+Brief Hospital Course: Mr [**Known lastname 77692**] is a 59 yo woman with history of metastatic breast cancer presenting with two weeks duration of confusion and icreasing lethargy.
+Ms. [**Known lastname 77692**] was admitted to the [**Hospital Unit Name 153**] for subacute, progressive unresponsiveness and a hypotensive episode likely due to volume depletion.
+Her unresponsiveness was likely secondary to progression of her widely metastatic breast cancer, including possible leptomeningeael spread.
+Also, considered was seizure activity with post-ictal state and toxic-metabolic mediated altered status in the setting of hypercalcemia and hypocalemia.
+On admission to the [**Hospital Unit Name 153**], initially, the goals of care were discussed, and it was decided not to pursue further chest x-rays, MRI brain, EEG or lumbar puncture.
+The MRI showed no evidence of leptomeningeal disase with stable CNS disease.
+Continous EEG was obtained which showed evidence of encephalopathy.
+The patient was noted electrolyte abnomalities suggestive of non anion gap metabolic acidosis which improved on IVF.
+Morphine Concentrate 20 mg/mL Solution Sig: 5-20 mg PO q1hrs as needed for pain, discomfort, agitation, shortness of breath.
+Ativan 1 mg Tablet Sig: 1-2 Tablets PO q2-4hrs as needed for agitation.
+of [**Hospital3 **]  Discharge Diagnosis: Primary: encephalopathy   Discharge Condition: Comfortable   Discharge Instructions: You were admitted because of altered mental status.

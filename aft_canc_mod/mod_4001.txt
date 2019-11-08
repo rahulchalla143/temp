@@ -1,0 +1,64 @@
+Admission Date:  [**2132-8-6**]              Discharge Date:   [**2132-8-20**]  Date of Birth:  [**2078-6-22**]             Sex:   M  Service: MEDICINE  Allergies: Codeine / Sulfa (Sulfonamides)  Attending:[**Last Name (NamePattern1) 4377**] Chief Complaint: transferred for further care of hypoxic respiratory failure  Major Surgical or Invasive Procedure: endotracheal intubation  History of Present Illness: Mr. [**Known lastname **] is a 54 year-old male, recent ex-smoker, with a history of ALL Ph chromosome positive on Gleevec status post allo MUD BMT in [**11/2130**] with subsequent complete remission, also with a history of COPD and probable CAD, being transferred from [**Hospital3 5365**] for further management of above issues.
+* He presented to [**Hospital1 392**] on [**8-5**] with a 4-day history of fever up to 102 at home, chills and shortness of breath.
+Per records, He denied increased cough, but endorsed increased wheezing, and reported right-sided pleuritic chest pain, mostly posterior.
++ Orthopnea, no PND, no lower extremity swelling.
+On the night of admission, he was reportedly found by his wife in the bathtub, confused with possible slurred speech.
+While in the ED, he developed SVT with HR to 190s, and was given Adenosine 6 mg IV X1, and Diltiazem IV bolus with subsequent return to NSR in 90s.
+He later became hypotensive with SBP to 70s systolic, drip was stopped, and he was given IVF boluses.
+He was started on Heparin IV, and plan was made to proceed with a head MRI, which was deferred pending rule out of a metallic foreign body.
+In addition to he above, subsequent labs showed drop in platelets to 71 and hematocrit to 26, INR 1.7, cardiac enzymes trending down.
+Immunophenotyping  + for CD34, HLA-DR, CD10, CD19, and dim CD4 consistent with pre-B -cell type ALL.
+-Induction: gleevac [**9-3**] -[**11-3**]: MUD allo-BMT, donor CMV +, course c/b Grade II GVHD of skin and GI tract tx w/ solumedrol 2) Alcohol abuse 3) Left hip synovial cyst 4) Bipolar disorder 5) Arthritis 6) ECHO: [**2130-11-2**]: EF 60% trivial MR 7) PFTs [**2130-11-2**]: FVC 74% of predicted, FEV1 68% of predicted, FEV1/FVC ratio 92%, TLC 98% of predicted 8) HIV neg [**10-4**] 9) Several stable-appearing, tiny noncalcified pulmonary nodules seen on CT scan [**11-3**], benign appearing 10) Emphysema 11) Mild sinus mucosal disease on CT scan [**12-6**]   Social History: Mr. [**Known lastname **] is married and has 2 sons who live at home with him in [**Name (NI) 392**] and 3 sons with his previous wife.
+[**Name (NI) **] admits to alcoholism and says that he has not had a drink since [**2130-6-1**].
+GEN: In moderate respiratory distress.
+No carotid bruit.
+Bronchial breathing at right base, with egophony, whispered pectoriloquy.
+Diffuse expiratory wheezing.
+No murmur appreciated.
+EXT: Without edema, no calf tenderness.
+Strenght 4+-[**4-4**] in all extremities, no focal abnormality.
+* [**8-5**] CT HEAD without contrast: Initially read as normal, then addendum: "Fluid densities in both middle ear cavities consistent with low grade OM.
+No mastoiditis.
+Low density area in left anterior upper corona radiata with compression of the anterior [**Doctor Last Name 534**] left lateral ventricles.
+no midline shift, no parenchymal hemorrhage.
+Impression: Ischemic infarction involving upper anterior left [**Male First Name (un) 4746**] with associated compression of the left lateral ventricle characteristic of acute or possibly subacute event.
+Addendum with moderate-sized pleural effusion.
+Airspace disease in RLL, most consistent with atelectasis.
+No pericardial effusion.
+*  [**2132-8-10**]: MRI/A head: T2 hyperintensity involving the left frontal white matter suggestive of old infarction.
+No abnormal enhancing lesions are seen within the brain.
+T2 hyperintensity within the mastoid sinuses suggestive of mastoiditis of uncertain chronicity.
+[**2132-8-20**]: ECHO: Compared with the findings of the prior study (images reviewed) of [**2132-8-6**], there is an improvement in LV function   Brief Hospital Course: In brief, the patient is a 54 year-old male with AML in remission status post allo-BMT, COPD on chronic prednisone therapy, and probable CAD, who presented with hypoxemic respiratory failure.
+1) Hypoxemic respiratory failure: The patient developed hypoxic respiratory failure thought secondary to severe pneumonia with exacerbation of COPD.
+At [**Hospital3 5365**] he was found to have a RLL pneumonia.
+He was started on ceftriaxone and azitrhomycin for community acquired pneumonia and steroids for COPD exacerbation.
+Following transfer, he did develop respiratory distress and was intubated.
+His chest xray was concerning for cavitary lesion so sputum culture and AFB samples were sent; these were negative.
+He remained afebrile on the BMT floor and his oxygen requirements were steadily reduced.
+2) Delta Mental status: The patient initially presented with reportedly slurred speech and had a head CT that was intially concerning for an infarct.
+An repeat head CT performed following transfer to [**Hospital1 18**] was concerning for an infectious process and he was treated with vancomycin/zosyn.
+A follow-up MRI revealed no evidence of abscess formation, so the antibiotics for this indication were discontinued.
+A neurology consult was obtained and thought the brain lesion was more consistent with an old stroke however in the abscence of confirmatory prior imaging this diagnosis could not be proved definitely.
+This was likely a delirium in the setting of prolonged effects of sedating medications (both from intubation), and infection in the setting of organic brain disease.
+3) Labile blood pressure: Following extubation the patient had labile blood pressure.
+The hypotension was thought secondary to adrenal insufficieny however, he underwent [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 104**]-stim test with an post-stim change of ~13 units.
+There was no evidence of infection and an TTE prior to discharge showed notable improvement from the intial study.
+3) Acute on chronic RF: On [**Hospital 18**] hospital day 2 he developed acute on chronic renal failure and a nongap acidosis so he was started on bicarb [**Doctor First Name **] IVFs.
+There was no significant finding in the urine sediment.
+He was started on heparin for the potential stroke and 13 hours later had a platelet count of 71,000.
+The most likely cause of his thrombocytopenia was a combination on non-immune heparin induced thrombocytopenia and sepsis induced marrow suppression.
+If his platelet count does not recover appropriately after discharge, a bone marrow biopsy would be considered.
+* 6) Anemia: The patient has a baseline chronic anemia that may be secondary to Gleevec.
+He developed no evidence of acute blood loss except for some trace guaiac positive stools.
+* 7) Cardiac arrhythmia: The patient developed SVT while in [**Hospital1 **].
+* 8) ALL in remission: The patient had no evidence of relapsed ALL on peripheral blood samples.
+With concern for the thrombocytopenia that developed in the hospital, a bone marrow biopsy will be considered as an outpatient if his platelets do not recover appropriately.
+* 9) FEN: Following a successful swallowing evaluation after his mental status cleared his diet was advanced as tolerated.
+His hypernatremia was managed with free water boluses and his electrolytes were repleted as needed.
+Albuterol 90 mcg/Actuation Aerosol Sig: [**12-3**]  Inhalation every 4-6 hours as needed for shortness of breath or wheezing.
+Discharge Disposition: Home With Service  Facility: [**Hospital3 **] VNA  Discharge Diagnosis: Primary: Legionella Pneumonia Acute Renal Failure .
+Secondary: Delerium Leukemia s/p bone marrow transplant   Discharge Condition: good.
+vital signs stable.
+Discharge Instructions: You have been evaluated and treated for pneumonia, acute renal failure and delerium all of which were improved by time of discharge.
+If you experience any concerning symptom particularly fevers to > 100.5F, worsening cough or shortness of breath, please call Dr.[**Name (NI) 14047**] office at [**Telephone/Fax (1) 3237**].
+Please return to the [**Hospital Ward Name 1826**] 7 clinic on Friday [**2132-8-22**] at 10am be seen and to have your blood drawn.

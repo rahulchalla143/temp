@@ -1,0 +1,49 @@
+Admission Date:  [**2173-3-14**]              Discharge Date:   [**2173-3-24**]  Date of Birth:  [**2116-5-19**]             Sex:   F  Service: MEDICINE  Allergies: Heparin Agents  Attending:[**First Name3 (LF) 3326**] Chief Complaint: Fatigue, Diarrhea, elevated INR  Major Surgical or Invasive Procedure: none   History of Present Illness: 56 y/o female with PMHx significant for metastatic pancreatic cancer who presents with elevated INR of 10 and fatigue.
+Patient states that initially she has been having diarrhea for the past 5 weeks, non-bloody.
+Within the last week her diarrhea has resolved however now she has nausea and vomiting, constipation and decreased appetite.
+Her husband at home has also noticed that her cellulitis at her left buttock region has gotten worse.
+She did not have any obvious active bleeding.
+However she subsequently developed respiratory distress secondary to pulmonary edema likely due to volume overload and required brief intubation.
+she was also treated for pneumonia with vanco-zosyn-azithyromycin which was subsequently narrowed down to levofloxacin alone.
+pt has a history of spinal myoclonus and had mri of spine per neuro rec.
+she continues to have some diarrhoe and c diff was sent.
+Furthermore she had some pre-renal azotemia for which she was rehydrated with normalisation of her renal function.
+Past Medical History: Onc Hx: The patient was diagnosed with metastatic nonfunctioning islet cell cancer of the pancreas in [**2166**] when she presented with bony mets.
+She had persistent low back pain after an MVA, not relieved with chiropractor.
+She has mets to the liver, breast, scalp, calvarium, thoracic and lumbar vertebra, s/p XRT x 2 to the low back and once to the upper back.
+-depression -low back pain -history of cauda equina syndrome -hypothyroidism -GERD -Raynaud's syndrome of the feet and peripheral neuropathy [**1-15**] thalidomide.
+Family History: Dad died of lung CA and also smoked  Physical Exam: On tranfer to OMED service: PE: 98.6 BP 115/74 HR 90/min RR 16 O2Sat 99% 2L Gen: comfortable at rest, no apparent distress Heent: PERLAA, oropharynx clear.
+Neck: supple, no jvd Lungs: mild rhonchi bilaterally Cardiac: rrr, nl s1+s2, SEM [**1-19**] Abd: soft, non tender, nl bs Back: Skin irritation on upper back [**1-15**] radiation; circular erythematous lesion 5x5cm on L buttock cheek resolving.
+Chest Xray [**3-15**]: IMPRESSION: Interval significant progression of bilateral mid- and lower lung opacities suggestive of interval fluid overload or development of ARDS.
+No evidence of retroperitoneal bleed.
+Progression of metastatic disease within the lungs and liver.
+Questionable hemmorhagic metastasis noted within the liver may explain mild Hct drop.
+Scattered areas of ill- defined patchy opacities within the lung parenchyma.
+Differential included infectious or inflammatory etiologies with areas of hemorrhage from early metastatic lesions felt unlikely, but not completely excluded.
+Stable appearance of diffuse osseous metastatic disease.
+MRI C/T/L spine [**3-17**]:  L-spine: Mild interval improvement in the epidural extent and spinal canal stenosis produced by expansile bony metastases in the L2 and L3 verterbal bodies since [**2172-12-19**].
+The epidural component of an expansile metastasis in the L5 vertebral body is also decreased - there is no spinal canal stenosis at this level.
+T-spine: Diffuse osseous metastases are again noted.
+While no axial images were acquired, there is epidural disease in the paracentral regions bilaterally posterior to the T10 vertebral body, causing mild spinal canal stenosis.
+Bilateral paracentral epidural disease posterior to the T11 vertebral body is more prominent on the right.
+C-spine: Interval progression of disease from most recent MR C spine dated [**2173-5-15**].
+Multiple bony metastases have increased in size and number.
+There is epidural extension of disease with mild spinal canal stenosis posterior to C4 and moderate stenosis posterior to C6.
+Paraspinal disease cases neural foraminal narrowing at multiple levels and encases the right verterbal artery from C3-4.
+CXR [**3-18**]: IMPRESSION: Improved bilateral diffuse air space opacity likely representing pulmonary edema.
+Doubt focal consolidation.
+Brief Hospital Course: 56 y/o female with PMHx of metastatic pancreatic cancer who presents with fatigue, n/v, and elevated INR admitted to ICU for close monitoring, transferred to the floor, then returned to the [**Hospital Unit Name 153**] with mental status changes which resolved with intravenous hydration, empiric antibiotic coverage.
+This was most likely secondary to volume overload exacerbated by pneumonia.
+Patient has had recurrence of her muscle spasms overnight and this morning.
+## Elevated INR - thought to be secondary to chronic diarrhea and poor nutrition.
+- trend coags; INR mildly elevated today but much lower than on admission.
+## Nausea and Vomiting - Unclear if this is related to pancreatic cancer as it has been occuring for a few weeks now or secondary to infection; could also be secondary to opiates - cont Anzemet, Ativan, Zydis .
+## Anemia - Patient with history anemia outpatient requiring blood transfusions.
+## Back Pain - Patient with chronic pain from metastatic pancreatic cancer and on outpatient oxycodone - continue analgesic therapy .
+## H/O shingles - cont acyclovir, but we redosed to q8h due to improving renal function.
+## Acute renal failure - patient's creat went to 1.5, baseline 0.6-0.9.
+Most likely secondary to pre-renal azotemia from volume depletion - no further diuresis at present.
+- monitor fluid status and I/O carefully .
+## Hypothyroidism - Will continue outpatient thyroid replacement  .
+## Cellulitis - Will monitor cellulitis on buttock region.
+Disp:*30 Tablet(s)* Refills:*2*   Discharge Disposition: Home With Service  Facility: [**Location (un) **] Nursing Association  Discharge Diagnosis: Metastatic Pancreatic Carcinoma   Discharge Condition: Fair   Discharge Instructions: Please call your doctor if you experience pain uncontrolled by your pain medicines or are feeling short of breath.

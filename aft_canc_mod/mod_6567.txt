@@ -1,0 +1,47 @@
+Admission Date:  [**2173-4-19**]              Discharge Date:   [**2173-4-25**]  Date of Birth:  [**2114-12-31**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 3531**] Chief Complaint: Fever  Major Surgical or Invasive Procedure: Red blood cell exchange transfusion [**2173-4-20**]   History of Present Illness: Mr. [**Known lastname 23050**] is a 58 year old male with a PMH significant for Hodgkin's disease treated more than 30 years ago with radiation therapy and splenectomy who presents with fever, arthralgias, myalgias, and headache after a tick bite.
+He denies any recent international travel, but has recently visited [**Location (un) 7453**].
+Both ticks were removed manually with no signs of rash, except a mild erythematous patch at the bite site.
+Patient was in normal state of health until Wednesday [**4-14**] PM when he began to experience low grade fevers.
+Over the next 48 hours, his symptoms worsened to include high fevers (per patient 104), chills, night-sweats, arthralgias, myalgias, and 'sharp' headaches localized to the right temple.
+He reports chest congestion and a mild, non-productive cough, but denies SOB or chest pain.
+He denies vomiting and diarrhea, although reports decreased appetite and nausea.
+He reports decreased urine output and amber-colored urine, but denies dysuria.
+Patient believed his symptoms were due to a viral infection and initially self-managed with Tylenol and fluids.
+Blood smear showed parasites consistent with intracellular ring forms, and other laboratory findings were consistent with hemolysis.
+Patient has no international travel history.
+Review of sytems: (+) Per HPI (-) Denies recent weight loss or gain.
+Denies sinus tenderness, rhinorrhea or congestion.
+Denied shortness of breath.
+Denied chest pain or tightness, palpitations.
+Denied nausea, vomiting, diarrhea, constipation or abdominal pain.
+Past Medical History: -Hodgkin's Disease, s/p surgery, radiation, splenectomy in [**2141**] -Hypothyroidism -Essential hypertension -Hyperlipidemia -Esophageal stricture: s/p dilatation in [**2164**] -Basal cell carcinoma -CAD s/p PCI [**2165**]: 90% prox to mid LAD lesion with cypher sent, nl left main and LCx  Social History:  Resides in [**Location (un) **] MA with wife, three children, dog and 2 cats.
+Family History: No family members have experienced fevers in the past few weeks, although children have had several tick bites.
+Father deceased (48 [**Name2 (NI) 1686**]) from emphysema and mother deceased from 'old age.'
+No family history of malignancy.
+Sclera anicteric.
+Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.
+CTAB, no crackles, wheezes or rhonchi.
+Liver edge palpable with slight ttp.
+DISCHARGE LABS: [**2173-4-25**] 01:30PM BLOOD WBC-16.3* RBC-4.04* Hgb-11.8* Hct-36.3* MCV-90 MCH-29.2 MCHC-32.6 RDW-16.1* Plt Ct-805* [**2173-4-25**] 01:30PM BLOOD Glucose-80 UreaN-12 Creat-0.9 Na-138 K-4.9 Cl-103 HCO3-26 AnGap-14 [**2173-4-25**] 01:30PM BLOOD ALT-150* AST-102* AlkPhos-74 TotBili-0.5 [**2173-4-25**] 06:20AM BLOOD ALT-139* AST-104* LD(LDH)-291* TotBili-0.5 [**2173-4-25**] 01:30PM BLOOD Calcium-9.2 Phos-3.7 Mg-2.5 [**2173-4-19**] 06:30PM BLOOD LYME BY WESTERN BLOT-PENDING [**2173-4-20**] 04:08PM BLOOD ANAPLASMA PHAGOCYTOPHILUM (HUMAN GRANULOCYTIC EHRLICHIA [**Doctor Last Name **]) IGG/IGM-PENDING .
+Minimal fibrotic changes in the paramediastinal lung areas.
+No pleural effusions.
+No pneumothorax.
+Brief Hospital Course: Mr. [**Known lastname 23050**] is a 58 yo male with past medical history significant for Hodgkin's disease s/p splenectomy, CAD, and hypothyroidism who presents with babesiosis & Lyme disease.
+#.Babesiosis: Mr. [**Known lastname 23050**] was referred to [**Hospital1 18**] from [**Hospital1 2292**] with diagnosis of babesiosis complaining of fevers, rigors, myalgias and headache.
+He presented with thrombocytopenia to 64, abnormal LFTs, and elevated bilirubin.
+Within 12 hours of admission, patient's parasitemia level increased from 4.7% to 8.8%.
+ID recommended RBC exchange transfusion given asplenia and rising parasitemia.
+After receiving 15.5 units of blood, patient suddenly developed chills, rigors, and a temperature of 99F.
+Pathology investigation was most consistent with a febrile nonhemolytic transfusion reaction.
+His fever, headache and myalgias resolved.
+However, post-trasfusion, the patient had a persistent leukocytosis and rising transaminitis.
+Although leukocytosis persisted until discharge, the level remained stable and was most likely attributed to a reaction to steriods or an inflammatory response to RBC exchange.
+ID consult suggested elevated LFT could be a natural progression of infection (see below for details) or a side effect of antibiotics, since atovaquone has a known risk of hepatotoxicity and azithromycin is hepatically metabolized.
+Skin lesion: Patient reported a dark, atypical lesion on left clavicle.
+Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for anxiety.
+Disp:*16 Capsule(s)* Refills:*0*   Discharge Disposition: Home  Discharge Diagnosis: Primary Diagnoses: Babesiosis Lyme Disease Transaminitis   Discharge Condition: Mental Status: Clear and coherent.
+Discharge Instructions: You were admitted to the hospital because of a babesia infection, which is transmitted by the deer tick.
+You were also found to be positive for lyme disease.
+You were treated with antibiotics and underwent a red blood cell exchange transfusion, and your symptoms improved.
+Prior to discharge, your liver tests became elevated; this could be a result of your antibiotics, or a progression of your infection.
+You should go to Urgent care [**Hospital **] clinic to have these labs re-checked on Tuesday.

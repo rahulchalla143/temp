@@ -1,0 +1,82 @@
+Admission Date:  [**2185-11-15**]              Discharge Date:   [**2185-11-24**]  Date of Birth:  [**2126-1-11**]             Sex:   F  Service: MEDICINE  Allergies: Keflex / Ciprofloxacin / Ertapenem  Attending:[**First Name3 (LF) 943**] Chief Complaint: altered mental status  Major Surgical or Invasive Procedure: Status post airway intubation (performed at outside hospital, extubated here) PICC placement [**2185-11-17**]   History of Present Illness: Hepatologist:  Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 497**] PCP:  [**Last Name (NamePattern4) **].
+Ms. [**Known lastname 92101**] is a 59yo woman with h/o Hepatitic C Cirrhosis with portal hypertension s/p TIPS, MELD score 23, who presented to an OSH with altered mental status.
+Her father found her on the morning of admission with her legs hanging over the side of the bed.
+Otherwise, ROS significant for some nausea.
+She was intubated because of failure to protect her airway.
+Labs were notable for K of 6.2 and non-gap acidosis with HCO3 of 14.
+WBC elevated at 16 with Hct and Cr at baseline.
+UA significant for large leukocytes and negative nitrites.
+CT Head without contrast revealed vague area of low attenuation in the lft frontal region, ?
+related to small vessel ischemia.
+There was no evidence of bleed, mass, or midline shift.
+CXR revealed vascular congestion.
+ROS:  unable to obtain   Past Medical History: Hepatitis C, Genotype 1: Diagnosed in [**2185-1-8**] with last VL 263,000 in [**8-/2185**] Cirrhosis (Methotrexate and Hepatitis C Induced) Portal Hypertension Chronic Kidney Disease with baseline Cr 1.8-2.0 Diastolic CHF: Grade I diastolic dysfunction [**7-17**], EF 75% Ascites Diuretic-Resistant Esophageal Varices per report; however, EGD [**7-/2185**] reports normal esophagus Psoriasis with Arthropathy - s/p Methotrexate x 15 years (MTX d/c in 12.07 when patient developed ascites and now uses halobetasol cream) Anemia with baseline Hct 25-30 Thyroid nodule 2.2cm identified on ultrasound [**9-16**], needs Bx (has f/u in Thyroid nodule clinic) Admission [**Date range (1) 92102**]:  for elective TIPS, also had UTI Admission [**Date range (1) 92103**]:  for hyponatremia and ARF Foot drop from peroneal nerve injury during TIPS procedure (per DC summary) Hyponatremia with baseline Na 128-130 .
+No alcohol problems, no drugs.
+Face symmetric, mucous membranes moist.
+Neck: supple, small thyroid nodule in mid-left thyroid.
+CV: S1, S2, regular tachycardia with I/VI systolic murmur at LUSB, non-radiating.
+Lungs: clear b/l, no crackles appreciated.
+umbilical veins prominent.
+Large skin tear on right calf.
+Violaceous plaques on chest and raised subcutaneous areas on her right arm.
+2+ edema of LE b/l.
+Neuro: No asterixis when hands are extended at wrists.
+[**2185-11-16**] CT Head without constrast:  No acute intracranial process .
+No contrast was administered due to the patient's inability to further cooperate and the marginal renal status.
+There is no evidence of infarction.
+The MRA demonstrates a dominant and patent right vertebral artery with a tiny, but apparently patent left vertebral artery, and patent internal carotid arteries bilaterally.
+The remainder of the study, although limited, demonstrates no evidence of hemorrhage or other abnormalities.
+No evidence of hemoperitoneum or retroperitoneal hemorrhage.
+Cirrhotic liver, with signs for portal hypertension with a large amount of ascites.
+Consolidation within the lower lobes of the lungs bilaterally, most likely represents atelectasis.
+However, superimposed infection cannot be excluded.
+Patent TIPS with abnormally high velocities within the mid and distal aspects of the shunt, similar to the previous exam.
+Limited evaluation of the left and anterior right portal vein although suggestion of abnormal directionality of flow within the left portal vein is compatible with shunt dysfunction.
+Cirrhotic liver with moderate-to-severe perihepatic ascites and cholelithiasis.
+[**2185-11-24**] TTE: The left atrium is moderately dilated.
+There is no ventricular septal defect.
+The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present.
+No masses or vegetations are seen on the aortic valve.
+The mitral valve leaflets are mildly thickened.
+There is no mitral valve prolapse.
+No mass or vegetation is seen on the mitral valve.
+Trivial mitral regurgitation is seen.
+No vegetation/mass is seen on the pulmonic valve.
+There is no pericardial effusion.
+Compared with the findings of the prior study (images reviewed) of [**2185-10-27**], no major change is evident.
+IMPRESSION: no obvious vegetations seen   Brief Hospital Course: Ms. [**Known lastname 92101**] is a 59yo woman who presented w/ altered mental status in the setting of Hep C cirrhosis.
+# Altered Mental Status: Given her hx of hep C cirrhosis and recent TIPs procedure, her AMS was thought to be most likely due to hepatic encephalopathyy.
+She was reported to have a hx of poor compliance with lactulose at home.
+Of note, she has not had other episodes of hepatic encephalopathy prior to this.
+Given her leukocytosis on admission, infection, particularly SBP or pneumonia, were also considered.
+She underwent a paracentesis to eval for SBP, which had a negative gram stain and culture.
+Given her AMS, she was considered high risk for aspiration, and she was started on empiric treatment with vanc/aztreonam/azithromycin (allergic to cipro and keflex) for nosocomial or aspiration PNA vs SBP.
+On exam the pt had some focal findings of persistent right-[**Hospital1 **] and downward deviation of her eyes, with inability to track past midline.
+She had a repeat head CT and an MRI/MRA which were both without evidence of significant pathology.
+Pt seen by Neurology, but had already had significant improvement and no focal findings.
+Her CXR here suggested a possible aspiration pneumonia, which could have been [**3-12**] to her AMS.
+Bullae, blisters/breakdown, and a  diffuse maculopapular rash on proximal legs and trunk.
+The blisters and bullae were thought to be [**3-12**] trauma in the setting of coagulopathy due to liver disease and thinned skin.
+Urine Porphobilinogens were checked to rule out porphyria in the setting of Hep C liver disease and were negative.
+The diffuse maculopapular rash appeared to be new, and looks more like a hypersensitivity reaction, likely to ertapenem.
+She was treated with topical clobetasol cream to the rash on abdomen and lower extremities (avoiding folds), and hydrocortisone 2.5% cream to rash in folds of abdomen and groin.
+Also, the bullae over time evolved into ulcerations on the pt's legs, arms and left shoulder which were treated with wound care as recommended by our wound care team and plastics.
+# Cirrhosis [**3-12**] Hep C: Pt was treated as described above with lactulose and rifaximine as well as a PPI, and was followed by Hepatology.
+# VRE: Pt had blood culture [**11-16**] which grew VRE sensitive to daptomycin and linezolid in [**2-11**] bottles.
+TTE showed no vegetations on [**11-24**].
+# Sinus tachycardia: Pt was likely intravascularly dry on admission given Hct above baseline, poor urine output, and tachycardia above baseline, although some level of tachyardia appears to be chronic in her.
+Also may be exacerbated by acute illness.
+# Chronic diastolic heart failure: Appeared hypovolemic admission, her diuretics were held as above.
+# Chronic Kidney Disease:  baseline Cr 1.8-2.0, Cr on discharge 1.5, urine output initially poor on admission, but improved after fluid challenge.
+# Thyroid nodule: Should be followed up as outpatient.
+# Hyponatremia: Pt has chronic hyponatremia seen on past admission with baseline 128-130.
+# Hypercalcemia: Pt had transient hypercalcemia to 10.8 this admission thought to be [**3-12**] Calcium and vitamin D use at home.
+# [**Name (NI) 1867**] Pt with thrombocytopenia this admission thought [**3-12**] chronic liver disease.
+Please NOTE: patient has changing renal function.
+Clobetasol 0.05 % Cream Sig: One (1) Appl Topical [**Hospital1 **] (2 times a day) as needed for psoriasis.
+Discharge Disposition: Extended Care  Discharge Diagnosis: Primary: Vancomycin Resistant Enterococcus Bacteremia Encephalopathy Traumatic Skin Rash Hyponatremia  Secondary: Hepatitis C Cirrhosis Chronic Kidney Disease   Discharge Condition: Afebrile, stable, ambulatory.
+This was likely due to encephalopathy which cleared with lactulose, and an infection that was found in your blood.
+Continuing issues include hyponatremia, which should be managed initially with fluid restriction.
+She has had chronic hyponatremia with baseline 128-130 on previous admission here.
+Her course has also been complicated by easy bruising and blistering which has necessitated a dermatology consult.
+Of note, the patient was hypercalcemic, and found to have elevated PTH level.

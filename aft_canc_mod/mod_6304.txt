@@ -1,0 +1,61 @@
+Admission Date:  [**2130-4-20**]              Discharge Date:   [**2130-5-8**]  Date of Birth:  [**2055-2-19**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**Last Name (NamePattern1) 4377**] Chief Complaint: Low back pain  Major Surgical or Invasive Procedure: Ex-laparoscopy, retroperitoneal mass biopsy   History of Present Illness: The Pt is a 75y/o F who transferred from OSH with worsening renal failure, elevated uric acid and a newly diagnosed abdominal mass.
+The pt was in USOH until 1 month ago when she developed increasing low back pain.
+Three days prior to transfer the pt developed abd pain intially located in the RLQ and later radiating to LLQ as well as increased urinary frequency and dysuria.
+She then presented to her PCP and [**Name Initial (PRE) **] CT abdomen was obtained demonstrating a large retroperitoneal mass, multiple lymphadenopathies.
+There she had a CXR which was WNL, renal ultrasound with no hydronephrosis and a percutaneous biopsy of the retroperitoneum was performed.
+Given her elevated LDH, uric acid and worsening renal failure she was given IV hydration with bicarb, allopurinol and Rasburicase.
+Her retroperitoneal mass was felt concerning for lymphoma and she underwent a CT guided biopsy.
+Per report the CT guided biopsy yielded only necrotic tissue.
+Urology was consulted for question of bladder wall thickening.
+OR cystoscopy demonstrated that the left lateral wall has a smooth 1.5-2cm area of invagination into the lumen of the bladder.
+This may be a primary bladder mass or more likely, extrinsic compression of the bladder by an external mass.
+Post-op the pt had low BP and neo was started.
+This may be a primary bladder mass or more likely, extrinsic compression of the bladder by an external mass."
+Past Medical History: Low back pain Osteopenia Dejenerative joint disease   Social History: Born in NH.
+Family History: denied any history of cancer or heart disease  Physical Exam: PE: Vitals: T 97.0; HR 86; R 20; BP 122/71, 96-97% on 4L General: Awake, alert, NAD.
+Abdomen: soft, normoactive bowel sounds, mild tenderness to palpation over hypogastrium.
+Skin: no rashes or lesions noted.
+Pertinent Results: Chem 7: 145 4.3 97 30 38 1.8* 181 Ca 9.4 Mg 1.8 P 6.5 LFTS: 23 41 66 0.5 A46 L32 LDH 695* CBC: 2 36 125 Coags 13 23 1.1 UA pH5 189RBC 2WBC few bacteria Uric acid 18.2 UCx pending Rads (OSH): ABDOMEN AND PELVIC CT [**2130-4-19**]: Spiral images of the abdomen and pelvis were obtained after the administration of oral contrast material.
+No intravenous contrast material was given due to renal insufficiency.
+ABDOMINAL CT: The liver and spleen are normal in size without focal defects.
+Pancreas is normal in size but there is peripancreatic adenopathy and inflammation.
+There are multiple enlarged lymph nodes adjacent to the aorta in the upper retroperitoneum.
+More distally a dense conglomerate mass surrounds the aorta and IVC.
+Enlarged mesenteric nodes are present.
+There is no free air in the peritoneal cavity.
+There is no hydronephrosis or perinephric collection.
+PELVIC CT: There is bilateral pelvic adenopathy.
+There are a few enlarged inguinal nodes bilaterally.
+Review at bone window settings shows degenerative changes in the lumbar spine.
+IMPRESSION: Large retroperitoneal mass with mesenteric and pelvic adenopathy, accompanied by inflammatory changes.
+Wall of the urinary bladder is thickened possibly infiltrated by tumor.
+Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded.
+The ascending aorta is mildly dilated.
+There is no aortic valve stenosis.
+No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+There is no mitral valve prolapse.
+Mild (1+) mitral regurgitation is seen.
+The tricuspid valve leaflets are mildly thickened.
+There is moderate pulmonary artery systolic hypertension.
+There is a trivial/physiologic pericardial effusion.
+Moderate estimated pulmonary artery systolic hypertension.
+ADDITIONAL LEFT RETROPERITONEAL TISSUE "5" (F): DIAGNOSIS: INVOLVEMENT BY HIGH GRADE B CELL LYMPHOMA   Brief Hospital Course: 75 y/o F with no significant past medical history who presented with new of abdominal/pelvic retroperitoneal mass and tumor lysis syndrome, s/p intraop biopsies, with results consistent with aggressive B cell lymphoma.
+# B cell lymphoblastic follicular lymphoma:  She initially presented from an OSH with a new abdominal and pelvic retroperitoneal mass and with tumor lysis syndrome, with a uric acid of 22 and in acute renal failure.
+She was started on rasburicase and allopurinol with improvement of her tumor lysis labs.
+On [**4-21**],  she underwent CT guided biopsy which yielded necrotic samples.
+For definitive diagnosis, on that same date, [**4-21**], she underwent an exploratory laparotomy with biopsy.
+She also had a cystoscopy in the operating room by the urology service for further characterization of the bladder thickening seen on CT.
+Immediately following her post-operative course, she spiked a temperature in the ICU and was started on vancomycin, cefepime and flagyl for presumed ventilator associated pneumonia (see below for further details).
+Pathology revealed an aggressive B cell lymphoma and on [**4-22**] she was started on [**Hospital1 **] at 80% dose given recent surgery.
+Of note, on her first day of rituxan, she developed acute abdominal pain.
+STAT CT of the abdomen revealed no acute pathology.
+Her abdominal pain soon resolved and she tolerated the remainder of rituxan without event.
+# Tumor lysis syndrome: She was admitted with tumor lysis syndrome, with uric acid 22 and in ARF with SCr at 2.2.
+Her tumor lysis labs began to trend down and her acute renal failure resolved on hospital day 3.
+# Pneumonia: Given prolonged anesthesia on [**4-21**] during open biopsy as noted above, she was remained intubated on POD 1.
+She remained afebrile throughout the remainder of her hospital course.
+Disp:*30 Capsule(s)* Refills:*0*   Discharge Disposition: Home With Service  Facility: [**Hospital1 1474**] VNA  Discharge Diagnosis: Retroperitoneal mass B cell lymphoma Pneumonia, ventilator associated Back pain Tumor lysis syndrome Acute renal failure   Discharge Condition: stable, O2 sat 98% RA, tolerating PO   Discharge Instructions: You were admitted with a mass in your abdomen and tumor lysis syndrome (electrolyte and metabolic disturbances secondary to malignancy).
+You had this mass biopsied by the surgical team.
+The biopsy revealed that you had B-cell lymphoma.
+In addition, you were treated with broad spectrum antibiotics for a pneumonia.
