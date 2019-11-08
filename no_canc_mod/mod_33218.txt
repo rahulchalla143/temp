@@ -1,0 +1,45 @@
+Admission Date:  [**2167-3-27**]              Discharge Date:   [**2167-4-1**]   Service: CARDIOTHORACIC  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 1505**] Chief Complaint: shortness of breath  Major Surgical or Invasive Procedure: [**2167-3-27**] Aortic valve replacement ([**First Name8 (NamePattern2) 6158**] [**Male First Name (un) 923**] tissue)   History of Present Illness: [**Known firstname **] [**Known lastname 12330**] is a [**Age over 90 **] year old woman with known aortic stenosis and coronary artery disease.
+She has had multiple recent admissions for pulmonary edema.
+Past Medical History: aortic stenosis s/p valvulopasty in [**6-4**] coronary artery disease MRSA (left elbow cellulitis) hypertension pancreatitis gastric esophageal reflux disease hypercholesterolemia colovesical fistula repair s/p trach after valvuloplasty and pancreatitis in '[**65**] bilateral cataracts  Social History: She lives with her family and is widowed.
+Family History: non-contributory  Physical Exam: At the time of admission, Ms. [**Known lastname 12330**] was in no acute distress.
+Her neck is supple with no JVD.
+Her heart is of regular rate and rhythm with a III/VI systolic ejection fraction.
+Her extremities are warm and well-perfused with trace edema.
+Left lower extremity varicosities are noted.
+Aortic valve disease.
+Coronary artery disease.
+Left ventricular function.
+Mitral valve disease.
+Right ventricular function.
+Shortness of breath.
+ICD-9 Codes: 745.5, 786.05, 786.51, 440.0, 424.1, 424.0 Test Information Date/Time: [**2167-3-27**] at 10:19    Interpret MD: [**Name6 (MD) 1509**] [**Name8 (MD) 1510**], MD Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 1510**], MD Doppler: Full Doppler and color Doppler Test Location: Anesthesia West OR cardiac Contrast: None Tech Quality: Adequate Tape #: 2009AW5-: Machine: aw5 Echocardiographic Measurements Results  Measurements  Normal Range Left Ventricle - Septal Wall Thickness:  *1.4 cm  0.6 - 1.1 cm Left Ventricle - Diastolic Dimension:  3.6 cm  <= 5.6 cm Left Ventricle - Systolic Dimension:  1.9 cm Left Ventricle - Fractional Shortening:  0.47  >= 0.29 Left Ventricle - Ejection Fraction:  60%  >= 55% Aorta - Ascending:  3.4 cm  <= 3.4 cm Aortic Valve - Peak Velocity:  *3.9 m/sec  <= 2.0 m/sec Aortic Valve - Peak Gradient:  *59 mm Hg  < 20 mm Hg Aortic Valve - Mean Gradient:  34 mm Hg Aortic Valve - Valve Area:  *0.4 cm2  >= 3.0 cm2 Mitral Valve - MVA (P [**1-30**] T):  1.6 cm2 Mitral Valve - E Wave:  1.3 m/sec Mitral Valve - A Wave:  1.7 m/sec Mitral Valve - E/A ratio:  0.76  Findings LEFT ATRIUM: No spontaneous echo contrast in the body of the [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] LAA.
+Left-to-right shunt across the interatrial septum at rest.
+Small secundum ASD.
+LEFT VENTRICLE: Wall thickness and cavity dimensions were obtained from 2D images.
+Mild symmetric LVH.
+AORTA: Simple atheroma in aortic root.
+Simple atheroma in ascending aorta.
+Simple atheroma in descending aorta.
+Severe mitral annular calcification.
+Mild valvular MS (MVA 1.5-2.0cm2).
+No spontaneous echo contrast is seen in the body of the left atrium or left atrial appendage.
+A left-to-right shunt across the interatrial septum is seen at rest.
+A small secundum atrial septal defect is present.
+There is mild symmetric left ventricular hypertrophy.
+4.There are simple atheroma in the aortic root.
+There are simple atheroma in the ascending aorta.
+There are simple atheroma in the descending thoracic aorta.
+There is severe aortic valve stenosis (area <0.8cm2).
+Moderate to severe (3+) aortic regurgitation is seen.
+There is severe mitral annular calcification.
+There is mild valvular mitral stenosis (area 1.5-2.0cm2).
+Moderate (2+) mitral regurgitation is seen.
+Biventricular systolic function is unchanged.
+No aortic insufficiency seen.
+Peak gradient across the aortic valve is 27 mm Hg and the mean gradient is 11 mm Hg.
+Mild mitral regurgitation is present.
+She experienced atrial fibrillation and converted to sinus rhythm on amiodarone and beta blockers.
+Her diuretic regimen was increased due to a wet chest radiograph.
+The patient developed atrial fibrillation again on POD 6.
+Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30) ML PO HS (at bedtime) as needed for constipation.
+Discharge Disposition: Extended Care  Facility: LifeCare  Of [**Location 15289**]  Discharge Diagnosis: Aortic stenosis   Discharge Condition: good   Discharge Instructions: Please shower daily including washing incisions, no baths or swimming Monitor wounds for infection - redness, drainage, or increased pain Report any fever greater than 101 Report any weight gain of greater than 2 pounds in 24 hours or 5 pounds in a week No creams, lotions, powders, or ointments to incisions No driving for approximately one month No lifting more than 10 pounds for 10 weeks Please call with any questions or concerns [**Telephone/Fax (1) 170**]   Followup Instructions: Dr [**Last Name (STitle) **] in 4 weeks ([**Telephone/Fax (1) 170**]) please call for appointment  Dr [**First Name8 (NamePattern2) 487**] [**Last Name (NamePattern1) **] (PCP) in 1 week ([**Telephone/Fax (1) 79475**] please call for appointment Dr [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 7047**] in [**3-3**] weeks (cardiology) please call for appointment    Completed by:[**2167-4-1**

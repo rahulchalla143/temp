@@ -1,0 +1,48 @@
+Admission Date:  [**2135-12-9**]              Discharge Date:   [**2135-12-16**]  Date of Birth:  [**2104-8-11**]             Sex:   M  Service: MEDICINE  Allergies: Ibuprofen  Attending:[**First Name3 (LF) 8388**] Chief Complaint: Headache, blurry vision and HD line displacement  Major Surgical or Invasive Procedure: HD Tunneled Line Placement   History of Present Illness: This is a 31 yo male with h/o biliary atresia s/p liver [**First Name3 (LF) **] age 4, now again with cirrhosis, ESRD on HD, awaiting liver/kidney [**First Name3 (LF) **], recently discharged with klebsiella bacteremia and MSSA cellulitis, completed abx therapy on Tuesday, who presented to the ED after his HD catheter fell out.
+That was also obtained in the ED with multiple cortical/subcortical infarcts which could be consistent with septic emboli.
+The patient was being evaluated by ophthalmology for the visual loss, and while he was being examined, the patient had a seizure.
+He was given vancomycin and 2 gm CTX in the ED for meningitis coverage.
+Past Medical History: -biliary Atresia s/p liver [**First Name3 (LF) **] at age 4 (25 years ago) -asthma, well-controlled -right hip avascular necrosis, per ortho may need THR -postinfectious glomerulonephritis s/p renal biopsy [**2135-5-24**] showed IgG dominent exudative proliferative GN, c/w postinfectious GN -nephrotic syndrome (4.1g proteinuria), hypoalbuminemia -small bowel resection   Social History: denies any tobacco, EtOH or illict drug use.
+Family History: NC  Physical Exam: Vitals - T: 98.4 BP: 132/92 HR: 102 RR: 22 02 sat: 95% on RA GENERAL: Awake, oriented to [**Hospital1 18**], date, in NAD laying in bed in MICU at time of exam HEENT: No cervical LAD, no thyroidmegaly, neck supple, no JVD, HD catheter in place R neck CARDIAC: Tachycardic to ~100, regular, no clear murmur LUNG: CTA bilaterally ABDOMEN: Soft, NT/ND, +NABS, no organomegaly EXT: Pitting edema of LE bilaterally, 2+ radial and DP pulses b/l NEURO: Strength 5/5 in UE and LE; sensation grossly intact b/L, CN II-XII intact, although eye movements (vertical and horizontal) are not smooth (unclear whether patient has difficulty following commands; looks away frequently during exam).
+Patellar reflexes difficult to assess (given absence of reflex hammer) but are present and equal ([**11-26**]+).
+DERM: Multiple (dozens) discrete skin lesions on arms, abdomen, lower legs that appear to be the result of scratching/excoriations, scabbed over, some with surrounding erythema suggestive of possible superinfection.
+No lesions on back where patient is unable to reach.
+Multiple foci of acute infarction in both cerebral hemispheres.
+Repeat MR [**Name13 (STitle) 430**]: IMPRESSION: Evolution of previously seen foci of decreased diffusion.
+The distribution may represent a combination of a "watershed" type infarct related to hypoperfusion and embolic (either bland or septic) phenomenon.
+However, there is no new infarct identified.
+EEG:  This is an abnormal noncontinuous extended routine EEG due to slowing and disorganization of the background rhythm and bursts of semirhythmic, moderate voltage, bifrontally predominant generalized theta/delta activity.
+The first finding suggests a mild to moderate encephalopathy.
+The generalized slowing suggests possible deep or midline dysfunction.
+No epileptiform discharges or electrographic seizures were seen during this recording and this telemetry captured no pushbutton activations.
+TEE: No thrombus is seen in the left atrial appendage.
+No masses or vegetations are seen on the aortic valve.
+No aortic regurgitation is seen.
+No mass or vegetation is seen on the mitral valve.
+Moderate (2+) mitral regurgitation is seen.
+No vegetation/mass is seen on the pulmonic valve.
+There is no pericardial effusion.
+MRI L spine: IMPRESSION: No valvular vegetations seen.
+Moderate mitral regurgitation.
+The findings suggest arachnoiditis and are similar to the prior study.
+Severe canal narrowing just inferior to the L4-5 disc space secondary to osseous proliferative changes and epidural lipomatosis.
+Moderate bilateral subarticular zone narrowing at L4-5 with what appeared to be mildly swollen bilateral L5 roots.
+Bilateral L5 spondylolysis with fluid clefts and surrounding edema is most likely all degenerative.
+No drainable fluid collection is identified and the lack of interval change from the study one month prior makes infection unlikely though should be correlated with clinical findings.
+Brief Hospital Course: Mr [**Known lastname 40167**] was admitted for (1) replaced of his tunneled line and (2) a constellation of neurological findings including headache, changes in vision, and while in ED, a seizure.
+EEG was negative for epileptiform activity.
+He was empirically started on antibiotics for meningitis, however all of his symptoms acutely resolved.
+An MRI showed evidence for embolization; septic emboli was a possibility, however other embolic phenomena were also a possibility, given that embolization could have occured at the moment of displacement of his HD line.
+The presence of AV shunts secondary to hepatopulmonary syndrome would have allowed for migration of venous emboli.
+Peritoneal fluid was negative for SBP.
+TEE was negative for vegetations.
+Repeat MRI showed continued presence of previously seen MRI but again was not necessarily consistent with septic phenomena.
+Keppra was continued given his prior seizure with instruction to discontinue Keppra after 2 weeks if no seizure event occured.
+Medications on Admission: albuterol sulfate inhaler [**11-26**] every 6 hours PRN furosemide 20 mg by mouth once daily ipratropium bromide 1 daily PRN Lactulose 30 ml up to 1 times daily (written for up to 4times daily but doesnt need it) metoprolol 25mg twice daily oxycodone 5 mg Q8 hours PRN pain Reglan 1 tablet 4 times a day sucralfate 10 ml 4 times a day tacrolimus 0.5 mg twice daily.
+Camphor-Menthol 0.5-0.5 % Lotion Sig: One (1) Appl Topical QID (4 times a day) as needed for itchiness.
+Cirrhosis secondary to congenital biliary atresia 3.
+End stage renal disease secondary to post-strep GN on hemodialysis   Discharge Condition: Stable for home, saturating normally at room air.
+You were admitted because your [**Hospital1 2286**] line fell out; you also experienced multiple symptoms including nausea, vomiting, and blurry vision.
+We performed an imaging study of your brain which showed several areas that were concerning for a stroke or infection.
+Because we were worried about infection, we performed several studies to search for an infectious source, however we could not find any sign of infection in your body.
+We did briefly start you on antibiotics but your symptoms cleared spontaneously, which suggests that this is less likely to be an infection.

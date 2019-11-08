@@ -1,0 +1,57 @@
+Admission Date:  [**2137-2-21**]              Discharge Date:   [**2137-2-27**]  Date of Birth:  [**2059-2-18**]             Sex:   M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 4358**] Chief Complaint: Fatigue  Major Surgical or Invasive Procedure: Midline Placement   History of Present Illness: Mr. [**Known lastname 86647**] is a very pleasant 78 year old man with a PMH significant for dyslipidemia, hypertension, CKD, COPD, afib, bladder ca s/po cystectomy/prostectomy with urostomy, parathyroid resection, and lung nodule resection who presented to [**Hospital3 26615**] with a day's worth of weaknes.
+He had a recent U/A at a PCP's office a week ago which apparently showed a Klebsiella UTI, for which he was treated with a week's worth of ABX (he is not sure which kind).
+He says that his story started two mondays ago, when he had some profuse vomiting leading to some back [**Doctor Last Name **], for which his PCP prescribed him oxycodone.
+He  A CXR showed a R IJ in place, but no overt pulmonary edema.
+Review of systems: (+) Per HPI (-) Denies fever, chills, night sweats, recent weight loss or gain.
+Denies headache, sinus tenderness, rhinorrhea or congestion.
+Denies cough, shortness of breath, or wheezing.
+Denies chest pain, chest pressure, palpitations, or weakness.
+Denies nausea, vomiting, diarrhea, constipation, abdominal pain, or changes in bowel habits.
+Denies dysuria, frequency, or urgency.
+Denies rashes or skin changes.
+Past Medical History: Dyslipidemia Hypertension CKD (last Cr 2.9 on [**2-1**]) COPD Atrial fibrillation (paroxysmal, on Coumadin) Bladder CA s/p cystectomy/prostatectomy Hyperparathyroidism s/p parathyroid resection [**2135**] Lung nodule resection (PCP's office has record of adenocarcinoma of the lung but no info on tx) Gout CAD s/p stent placement to LAD and LCx [**2126**]   Social History: Patient lives [**Location (un) **] with his wife.
+Family History: There is no family history of premature coronary artery disease or sudden death.
+Physical Exam: ADMISSION PHYSICAL EXAM: General: Alert, oriented, no acute distress HEENT: Dry Neck: supple, JVP not elevated, no LAD CV: Afib Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi Abdomen: soft, non-tender, non-distended, bowel sounds present, no organomegaly GU: urostomy Ext: cool Neuro: CNII-XII intact, 5/5 strength upper/lower extremities, grossly normal sensation, 2+ reflexes bilaterally, gait deferred, finger-to-nose intact .
+DISCHARGE PHYSICAL EXAM: Vitals: 98.8, 98.8, 158/90 (121-158/78-95), 84 (54-84), 20, 99RA  General: Alert, oriented, no acute distress, very pleasant HEENT: Anicteric sclerae, MMM, oropharynx clear, no JVD, significant crusting and superficial ulceration of the upper and lower lips and perioral area CV: Irregularly irregular rhythm, no m/r/g Lungs: minimal rales at bases bilaterally, otherwise clear, no wheezes Abdomen: soft, non-tender, non-distended, bowel sounds present, no organomegaly, urostomy site clear without bloody output, no CVA tenderness Ext: No peripheral edema, no calf tenderness  Pertinent Results: ADMISSION LABS: .
+Blood Culture x 2 [**2-22**]: No growth .
+Urine Culture [**2-22**]: MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT WITH FECAL CONTAMINATION.
+MRSA Screen [**2-22**]: No MRSA .
+A single-lead left-sided pacemaker is unchanged.Within the lungs, no focal opacity to suggest pneumonia is seen.
+No pleural effusion, pulmonary edema, or pneumothorax is present.
+There is mild vascular congestion.
+Chain suture is noted in the left hemithorax with volume loss suggestive of prior resection.
+IMPRESSION: Central catheter in standard position without pneumothorax.
+No specific son[**Name (NI) 493**] sign to suggest acute cholecystitis.
+Bilateral renal cysts and mild cortical thinning.
+Brief Hospital Course: 78 year old man with h/o dyslipidemia, hypertension, CKD, COPD, afib, bladder ca s/po cystectomy/prostectomy with urostomy, parathyroid resection, and lung nodule resection who presented to OSH with a one day of weakness transfered to [**Hospital1 18**] for evaluation and treatment of sepsis from suspected urinary source.
+ACTIVE DIAGNOSES: .
+# Sepsis from Urinary Source: Patient had a UA with 86 WBCs and large bacteria in setting of unusual urologic anatomy with urostomy.
+He was volume resuscitated with 2L in the ED with CVPs at goal, but continued to by hypotensive and was started on both levophed and vasopressin in the MICU.
+His fevers, leukocytosis (34K->7K), lactatemia, and other evidence of end organ ischemia resolved and he no longer required IV fluids to maintain his pressures.
+#Acute Renal Failure on CKD, Concern for Acute Tubular Necrosis: Resolved.
+The likely cause for his ARF was thought to be hypoperfusion secondary to distributive shock from sepsis causing ATN.
+# CAD/Troponin Leak: Has known h/o CAD s/p stenting to the LAD and LCx in [**2126**].
+Is not on anti-platelet agents (ASA/plavix) given h/o heavy bleeding.
+EKG was w/o acute ischemic changes and pt was asymptomatic.
+Enzyme leak was attributed to demand in setting of shock as well as retention from ARF.
+Atrial Fibrillation: Patient presented in AF, but not in RVR, with supratherapeutic INR (12.7) likely in setting of recent antibiotics.
+Per his PCP, [**Name10 (NameIs) **] coumadin dose had recently been changed from 2 to 1 mg in the setting of his elevated INRs.
+His beta blocker and coumadin were held in the setting of his acute illness and elevated INR.
+# Thrombocytopenia: In setting of elevated INR, concern for DIC- fibrinogen and FDP were sent and negative.
+# Transaminitis: Likely from mild shock-liver picture from hypoperfusion.
+[**Name10 (NameIs) 5283**] U/S unremarkable for structural cause.
+#Oral Herpes Simplex Recurrence: Not causing many symptoms or pain.
+Started during his hospitalization likely related to the severe stress of medical illness.
+CHRONIC DIAGNOSES: .
+# sCHF: Stable.
+His home diuretic regimen was held during his acute illness but re-started at the time of discharge.
+# COPD: Stable.
+#CHF: Patient is not on an Ace inhibitor which is indicated for his systolic CHF.
+#Transaminitis: Patient had mild transaminitis on discharge that was downtrending and almost within normal limits.
+14. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for Constipation.
+Disp:*30 Tablet(s)* Refills:*0* 15. sodium chloride 0.65 % Aerosol, Spray Sig: [**1-7**] Sprays Nasal QID (4 times a day) as needed for dry nares.
+Disp:*1 bottle* Refills:*0* 16. ipratropium-albuterol 18-103 mcg/actuation Aerosol Sig: [**1-7**] puff Inhalation four times a day as needed for shortness of breath or wheezing.
+Disp:*2 cases* Refills:*0* 20. heparin, porcine (PF) 10 unit/mL Syringe Sig: One (1) ML Intravenous PRN (as needed) as needed for line flush.
+Disp:*8 syringes* Refills:*0*   Discharge Disposition: Home With Service  Facility: [**Last Name (LF) 486**], [**First Name3 (LF) 487**]  Discharge Diagnosis: Primary: -Sepsis from urinary source -Acute Renal Failure -Mild shock liver .
+You were transferred to [**Hospital1 18**] for evaluation and treatment of sepsis from a urinary tract infection.
+The following changes have been made to your medications: -START Ceftriaxone 1gram IV once daily for 4 more days (last day [**3-3**]) -START Valtrex 1gram by mouth once daily for 1 more day (last day [**2-28**]) -START Ipratropium/Albuterol MDI [**1-7**] inhalations four times a day as needed for shortness of breath/wheezes -START Saline nasal spray as needed -START Senna 1 tab by mouth twice daily as needed for constipation -DECREASE Coumadin (warfarin) to 1mg by mouth every other day (START taking it [**2-28**]) -Continue taking your other home medications as directed -Please have your INR checked on Friday [**3-1**] .

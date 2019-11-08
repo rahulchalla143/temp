@@ -1,0 +1,62 @@
+Admission Date:  [**2169-7-26**]              Discharge Date:   [**2169-8-6**]  Date of Birth:  [**2117-3-1**]             Sex:   F  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**Last Name (NamePattern1) 9662**] Chief Complaint: Shortness of breath  Major Surgical or Invasive Procedure: None  History of Present Illness: Patient is a 52 year old female with a past medical history of asthma who presented to the ED with cough and worsening SOB x 1 day.
+She states that she woke up this morning with SOB and had a fever to 101 at home.
+Per her report, she had similar symptoms in [**2167**] requiring intubation for multifocal pneumonia.
+She felt increasingly SOB with associated lightheadedness.
+CXR showed multifocal pneumonia.
+Family History: Non-contributory  Physical Exam: ADMISSION EXAM: General: Alert, oriented, no acute distress HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL Neck: supple, JVP not elevated, no LAD CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi Abdomen: soft, non-tender, non-distended, bowel sounds present, no organomegaly GU: no foley Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema Neuro: CNII-XII intact, 5/5 strength upper/lower extremities, grossly normal sensation, 2+ reflexes bilaterally, gait deferred, finger-to-nose intact .
+admission weight recorded as 245 kg--error in one of these weights) GENERAL - Morbid obesity.
+NAD, comfortable, somewhat depressed affect HEENT - NC/AT, sclerae anicteric, MMM NECK - supple, no thyromegaly, JVP difficult to assess due to habitus HEART - RRR, nl S1-S2, no MRG LUNGS - Diffuse expiratory and inspiratory wheezes and squeaks, more significant during expiration; improved from yesterday.
+ABDOMEN - NABS, soft/NT/ND, no organomegaly appreciated EXTREMITIES - WWP, 2+ peripheral pulses (radials, DPs), trace edema and signs of venous stasis SKIN - no rashes or lesions NEURO - awake, A&Ox3, CNs II-XII grossly intact.
+IMAGING: [**2169-7-26**] CXR: Confluent consolidation is seen in the right lower and left lower lungs concerning for pneumonia.
+No large effusions are seen.
+No pneumothorax.
+IMPRESSION: Consolidation in the lower lungs, right greater than left, concerning for pneumonia.
+Diffuse opacities, worse in the lower lobe are unchanged, suggesting that these abnormalities likely represent pneumonia and less likely pulmonary edema.
+There are no new lung abnormalities, pneumothorax, or large pleural effusions.
+[**2169-7-30**] CXR: Again seen is moderate cardiomegaly and diffuse bilateral patchy alveolar infiltrates.
+Compared to the prior study, the pulmonary status is slightly worse.
+[**2169-7-27**] Left leg LENI: No evidence of deep venous thrombosis in the left lower extremity.
+There is moderate symmetric left ventricular hypertrophy.
+Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded.
+The aortic root is mildly dilated at the sinus level.
+The ascending aorta is mildly dilated.
+There is no aortic valve stenosis.
+No aortic regurgitation is seen.
+The mitral valve appears structurally normal with trivial mitral regurgitation.
+There is no pericardial effusion.
+There is an anterior space which most likely represents a prominent fat pad.
+Normal left ventricular cavity size with moderate symmetric left ventricular hypertrophy and preserved global left ventricular systolic function.
+Mildly dilated aortic root and ascending aorta.
+Indeterminate pulmonary artery systolic pressure.
+Brief Hospital Course: 52 year old woman with a history of morbid obesity, asthma (no PFTs in OMR), and pneumonia requiring intubation in [**2167**], who presented initially with cough, SOB, and fever to 101, who was admitted to the ICU for respiratory distress and treated for CAP, asthma exacerbation, and pulmonary edema.
+# Community-Acquired Pneumonia: Patient with fever, SOB, tachypnea, and evidence of multifocal pneumonia on CXR.
+She was initially treated with levofloxacin for CAP, and vancomycin was later added due to bacteremia (see below); later determined to be a contaminant.
+She also had significant wheezing suggesting an asthma exacerbation, which was treated (see below).
+She also had signs of volume overload and pulmonary edema, which was treated (see below).
+She did have asymmetric leg swelling L>R on admission, but LENI was negative for DVT.
+However, because of well-appearance, non-labored breathing, and the absence of recent healthcare contacts, her [**Name2 (NI) 621**] were re-narrowed to levofloxacin and she completed a 7 day course ([**7-27**]->[**8-2**]).
+#Asthma/?COPD: The patient has a history of asthma with multiple admissions (last in [**2166**]); takes ventolin PRN, but never been on a controller medication.
+No PFTs on record; given her significant smoking history, she may have COPD vs. asthma.
+While on prednisone she has be famotidine 20 mg q12 hours for prophylaxis and HISS for blood sugar control.
+She should follow up with outpatient PFTs to distinguish if she has asthma vs. COPD vs. another type of lung process.
+#Pulmonary Edema due to Diastolic CHF: Patient has HTN and LVH and in the past has been on lasix, but on admission had no current HTN/CHF medications.
+Her CXR showed bilateral fluffy infiltrates suspicious for pulmonary edema vs. ARDS.
+TTE revealed moderate-severe LVH with good systolic function (EF >55%).
+Likely has an element of diastolic dysfunction.
+She was diuresed with IV lasix >5 L with no initially no change in pulmonary edema on CXR; however, she improved symptomatically with lasix.
+#Obesity hypoventilation/?OSA: Sleep consult on [**8-2**] was done due to concerns for obesity hypoventilation and OSA.
+# Bacteremia: Bcx from [**7-26**] grew out Coag NEG staph and staph epidermitis (sensitive to vancomycin), so she was started on vancomycin.
+She remained afebrile wtih stable BPs throughout the admission.
+She was restarted on trazodone 50-100 mg QHS due to difficulty sleeping.
+Albuterol Inhaler [**2-6**] PUFF IH Q6H:PRN SOB or wheezing 2.
+Hold for loose stool.
+Miconazole Nitrate (Combo Pack) 1 SUPP VG HS Duration: 3 Days   Discharge Disposition: Extended Care  Facility: [**Hospital 671**] [**Hospital 4094**] Hospital  Discharge Diagnosis: Community-acquired Pneumonia Pulmonary edema Asthma   Discharge Condition: Mental Status: Clear and coherent.
+You came in because of cough, fever, and shortness of breath.
+You were found to have a pneumonia and were treated with antibiotics.
+It seemed that you were having difficulty breathing because of asthma triggered by your pneumonia, for which you received inhaled medications and oral steroids.
+Your respiratory therapy and treatments for asthma will continue at the rehab facility.
+You were also seen by a sleep doctor who thinks you may have obstructive sleep apnea, which may be contributing to your shortness of breath.
+START:   Acetaminophen 650 mg PO Q6H:PRN pain   Albuterol 0.083% Neb Soln 1 NEB IH Q4H   Bisacodyl 10 mg PO DAILY constipation, Hold for loose stool.
+Docusate Sodium 100 mg PO BID Hold for loose stool.
+Guaifenesin [**6-15**] mL PO Q6H:PRN cough, secretions   Furosemide 40 mg PO DAILY   Polyethylene Glycol 17 g PO DAILY constipation, hold for loose stool.
+Famotidine 20 mg PO Q12H Duration: 14 Days To continue while on prednisone  You also developed a yeast infection from the antibiotics and were started on Monistat for 3 days.

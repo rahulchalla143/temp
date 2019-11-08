@@ -1,0 +1,64 @@
+Admission Date:  [**2134-7-11**]              Discharge Date:   [**2134-7-15**]   Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 2901**] Chief Complaint: Chest pain  Major Surgical or Invasive Procedure: None   History of Present Illness: Mr. [**Known firstname **] [**Last Name (NamePattern1) 85045**] is a very nice [**Age over 90 **] year-old man with Atrial Fibrillation, chronic kidney disease coming with chest pain.
+He was in his prior state of health until earlier today when he developed chest pain and weakness at his [**Hospital3 **] facility.
+In [**Hospital1 **]-[**Location (un) 620**] ER he was found to have a HR in the 30 with otherwise normal VS. His ECG showed third degree heart block with junctional rhythm in the 30s.
+He looked comfortable, had normal JVP, no canon waves, clear lungs and guaiac negative.
+His ECG showed third degree heart block with junctional escape rhythm at a rate of 30 BPM.
+No temporal wire or pressors were needed.
+<br> On review of systems, he denies any cough, hemoptysis, black stools or red stools.
+He denies recent fevers, chills or rigors.
+He denies exertional buttock or calf pain.
+<br> Cardiac review of systems is notable for absence of paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope.
+He did complain of nausea after he was started on dopamine, however this soon passed.
+Past Medical History: TIA age 62 attributed to afib(unclear what documented) on dig and Coumadin ever since with no recurrence - Coumadin recently discontinued due to supratherapeutic INR Neuropsych testing/w/u around age [**Age over 90 **] negative, cleared to continue driving Hearing impairment, has hearing aides and complains they don't work well Melanoma of left ear, excised Multiple basal cell skin cancers Nocturia x 5, denies issues during day, not improved with Flomax      s/p tonsillectomy as a child  Social History: Widowed [**2132**], married for almost 59 yrs, wife was a former nurse.
+Walks with no assistive device.
+No thrills, lifts.
+ABDOMEN - NABS, soft/NT/ND, no masses or HSM, no rebound/guarding.
+No femoral bruits.
+The right atrium is moderately dilated.
+There is mild symmetric left ventricular hypertrophy with normal cavity size.
+There is mild regional left ventricular systolic dysfunction with severe hypokinesis of the infererior and inferolateral wall.
+The ascending aorta is mildly dilated.
+There is no aortic valve stenosis.
+Mild (1+) aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Mild to moderate ([**11-28**]+) mitral regurgitation is seen.
+The tricuspid valve leaflets are mildly thickened.
+There is moderate pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+IMPRESSION: Mild symmetric left ventricular hypertrophy with mild regional systolic dysfunction c/w CAD.
+Pulmonary artery systolic hypertension.
+Mild-moderate mitral regurgitation.
+Mild aortic regurgitgation.
+Clinical decisions regarding the need for prophylaxis should be based on clinical and echocardiographic data.
+Brief Hospital Course: [**Age over 90 **] y/o male with no sig PMHx who presents from OSH with chest pain and bradycardia.
+Found to be in complete heart block with atrial fibrillation.
+Elevated cardiac enzymes as well.
+# Complete Heart block - Patient presented from OSH with bradycardia in the 30s.
+Diff dx includes ischemia of AV node, likely from RCA infarct as most people are right dominant.
+He had a dig level of 1.2 at OSH and in the setting of renal insufficiency could be toxic.
+He does not have any outdoor exposures that would predispose him to lyme disease.
+EKG from OSH showed ventricular bigeminy and 3rd degree AV block with junctional rhythm, both of which can be seen with digoxin toxicity.
+Patient showed no response to atropine and had ST depressions in V3-V5 when given dopamine.
+Digoxin was stopped and patients heart rate improved over hospitalization, to levels in the 60s at rest and up to 90s with minimal activity.
+Patient was asymptomatic at discharge with no lightheadedness, shortness of breath or chest pain.
+# ACS - Patient had developed chest pain at home.
+ECG showed ST depression in V3-V5 when given dopamine.
+Patient was found to have elevated cardiac enzymes in setting of chest pain.
+Patient was asymptomatic at discharge.
+# Atrial fibrillation - Patient recently stopped on coumadin by his PCP as he was supratherapeutic and risk of fall was considered higher than benefit of coumadin by PCP.
+Digoxin was held due to bradycardia and AV block.
+Patient will continue on ASA and Plavix with no anticoagulation therapy.
+# Renal insufficiency - Chronic per OSH records and daughter, with baseline creatinine between 1.5-1.7.
+Patient was given gentle hydration with IVF and responded with slight decrease to patients baseline.
+# Normocytic anemia ??????
+Hct stable during his hospitalization with mild decrease likely secondary to hydration.
+Patient did have positive guiac x1.
+# Delirium- Patient had periods of delirium, particularly at night, but controllable without medication.
+Daughter had some concern about his confusion and evaluation by by PT suggested rehab.
+No obvious cause of delirium ??????
+Nitroglycerin 0.3 mg Tablet, Sublingual Sig: One (1) Tablet, Sublingual Sublingual PRN (as needed) as needed for Chest pain.
+Disp:*30 Tablet(s)* Refills:*2*   Discharge Disposition: Extended Care  Facility: [**Hospital6 459**] for the Aged - [**Location (un) 550**]  Discharge Diagnosis: Primary: Complete heart block, NSTEMI  Secondary: atrial fibrillation   Discharge Condition: Mental Status: Confused - sometimes.
+You came to the hospital after experiencing chest pain.
+It was found that your heart rate was very slow and you also had a heart attack.
+We treated your heart attack with blood thinners and took a picture of your heart that showed a small area of injury, but still good overall function.
+We also stopped your digoxin because it was the likely cause of your slow heart rate.

@@ -1,0 +1,43 @@
+Admission Date:  [**2120-9-9**]              Discharge Date:   [**2120-9-14**]  Date of Birth:  [**2035-8-1**]             Sex:   F  Service: MEDICINE  Allergies: E-Mycin / azithromycin / doxycycline  Attending:[**Doctor First Name 2080**] Chief Complaint: fever  Major Surgical or Invasive Procedure: none  History of Present Illness: This is an 85 year-old woman with a history or recurrent UTIs as well as a history of mild ILD, hypertension, diastolic CHF, CAD and mild vascular dementia with multiple recent hospitalizations for pan-sensitive e coli UTIs who presents from her [**Hospital 4382**] facility with fever and decreased responsiveness as found by the staff at her [**Hospital3 **] facility two hours prior to arrival.
+Her nephew explains that due to her history of recurrent UTIs she is seen by [**Name8 (MD) **] NP[**MD Number(3) 18184**] ALF every Friday.
+This past Friday she was noted to have a fever and a chest x-ray and he thinks a UA was checked.
+Fluids: 4.5 L crystalloid which was stopped given concern for pulm edema.
+She appeared comfortable and had no specific complaints.
+Patient and nephew confirmed code status of DNR/DNI, with no central lines or arterial lines but they ok with fluids, antibiotics, and peripheral pressors.
+Review of systems: (+) Per HPI (-) Denies fever, chills, night sweats, recent weight loss or gain.
+Denies headache, sinus tenderness, rhinorrhea or congestion.
+Denies shortness of breath, cough, or wheezing.
+Denies constipation, abdominal pain, diarrhea, dark or bloody stools.
+Denies dysuria, frequency, or urgency.
+Denies rashes or skin changes.
+Elevated left hemidiaphragm.
+Mild interstitial lung disease.
+Sinus tachycardia of unknown etiology 6.
+Coronary Artery Disease 10.
+Osteopenia 11.
+Osteopenia 15.
+R Humerus fracture 16.
+Abnormal LFTs 17.
+Vascular Dementia   Social History: Worked at the Greek consulate for 35 years.
+No smoking history, rare alcohol, no illicits.
+Family History: Not related to this acute medical illness.
+Physical Exam: Vitals: afebrile hr 70 bp 75/57 97% on 4L.
+General: Alert, oriented to person, place, year and month, no acute distress HEENT: Sclera anicteric, dry MM, EOMI, PERRL Neck: supple, JVP not elevated, no LAD CV: RRR, normal S1 + S2, 3/6 SEM best heard at RUSB, no rubs, gallops Lungs: moderate course crackles bilaterally, no wheeze Abdomen: soft, non-tender, non-distended, bowel sounds present, no organomegaly, no rebound or guarding GU: Foley 14 F placed to gravity Ext: Warm, well perfused, 1+ pulses, no clubbing, cyanosis or edema Neuro: CNII-XII intact, 5/5 strength upper/lower extremities, grossly normal sensation, gait deferred.
+Indistinct appearance of the pulmonary vascular markings is compatible with mild interstitial edema.
+No focal consolidation, substantial pleural effusion, or pneumothorax.
+No radiopaque foreign body.
+IMPRESSION:  Mild pulmonary edema.
+URINE CULTURE: [**2120-9-9**] 5:25 am URINE                              **FINAL REPORT [**2120-9-13**]**     URINE CULTURE (Final [**2120-9-13**]):       ESCHERICHIA COLI.
+Brief Hospital Course: This is an 85 year old woman with a history of recurrent UTIs who presents from a [**Hospital1 1501**] with sepsis in the setting of a UTI.
+# Sepsis due to UTI: Patient is septic with fever, leukocytosis and hypotension in the setting of a known UTI.
+Of note patient does not want a central line but is ok with peripheral pressors.
+She was also given aggressive fluid resuscitation and started on cefepime and vancomycin (day 1: [**9-9**]) for broad GU coverage.
+Foley DC'd - Consider ID referral to explore options to prevent recurrent UTI  # Acute on chronic diastolic heart failure: Pt presented with wheezes and crackles on exam, and has hx of dCHF.
+Given one dose of IV Lasix 20mg and symptoms improved with diuresis.
+Started treatment with PO vanco and needs to continue treatment for 14 days after last antibiotic use, through [**2120-10-4**]  # Acute renal failure: Creatinine 1.3 vs baseline 0.9 in the setting of sepsis and reported poor PO intake in the setting of illness.
+# Mild interstitial lung disease: most recent FEV1 62%, DLCO 81%.
+# History of Sinus Tachycardia: Unknown etiology.
+Metoprolol was held in setting of sepsis and monitor HR on tele.
+# Coronary Artery Disease: EKG without ischemic changes from prior.
+Vancomycin Oral Liquid 125 mg PO Q6H please take through [**2120-10-4**], 14 days post Cipro   Discharge Disposition: Extended Care  Facility: [**Hospital **] LivingCenter - Heathwood - [**Location (un) 55**]  Discharge Diagnosis: Sepsis due to UTI C. difficile Acute on chronic diastolci CHF CAD, native Hypertension Dementia   Discharge Condition: Mental Status: Clear and coherent.
+You were hospitalized for a severe infection in your urinary tract that likely spread to your blood.

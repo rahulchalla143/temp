@@ -1,0 +1,42 @@
+Admission Date:  [**2185-7-30**]              Discharge Date:   [**2185-8-5**]  Date of Birth:  [**2132-3-15**]             Sex:   M  Service: CARDIOTHORACIC  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 165**] Chief Complaint: chest pain  Major Surgical or Invasive Procedure: Cardiac Catherization with IABP insertion [**7-30**] OPCABx5(LIMA->LAD, SVG->Diag, OM3, PDA, PLV) [**8-1**]   History of Present Illness: 53yo gentleman with h/o CAD s/p MI in [**2168**] (treated with POBA) who presented with substernal chest pain and diaphoresis while mowing the lawn around noon today.
+Pain felt "like heartburn."
+No associated shortness of breath or nausea.
+He notes that his pain is very similar to the MI he had in [**2168**].
+He initially presented to [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], where he was found to have ST elevations in II, III, and aVF and transferred to [**Hospital1 18**].
+Upon arrival at [**Hospital1 18**], he was chest pain free.
+Past Medical History: CAD s/p MI in [**2168**], treated with POBA per patient HTN--per chart; patient denies elevated BP Hyperlipidemia  Social History: Social history is significant for the absence of current tobacco use; he smoked from age 20 years x 1 PPD, stopped around age 40.
+Family History: There is a strong family history of premature coronary artery disease: his father died of an MI at age 39 and all of his brothers have had MIs, usually in their 50s.
++DM  Physical Exam: VS: T 98.3, BP 127/72, HR 66, RR 24, O2 99% on 3L Gen: Pleasant, overweight middle aged male in no distress, resp or otherwise.
+Sclera anicteric.
+Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.
+Distant heart sounds with RR, normal S1, S2.
+Chest: No chest wall deformities, scoliosis or kyphosis.
+Abd: Obese, soft, NTND, No HSM or tenderness.
+No abdominial bruits.
+No femoral bruits.
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+Pulses: Right: Carotid 2+ without bruit; Femoral 2+ without bruit; 2+ DP  Left: Carotid 2+ without bruit; Femoral 2+ without bruit; 2+ DP   Pertinent Results: EKG demonstrated NSR with normal axis and intervals and < 1mm STE with Q waves in III and aVF and Q waves in V1-V3 with poor R wave progression and J point elevation in V3.
+He also had ST depresions in I, aVL, V1-V2 and STE in V5-V6 at the time, now resolved.
+Selective coronary angiography in this right dominant patient revealed severe three vessel CAD.
+The LAD gave rise to one large diagonal which had moderate proximal disease.
+The LCX had a long mid lesion to 80% at its tightest.
+The RCA had a discrete mid 70% lesion and a 70% distal with thrombus and a thrombotically occluded rPL that reconstituted via collaterals.
+There was no gradient across the aortic valve.
+LV gram with EF 45% with no significant mitral regurgitation.
+There was inferobasal hypokinesis.
+IABP placed and patient referred for surgery.
+No spontaneous echo contrast or thrombus is seen in the body of the left atrium/left atrial appendage or the body of the right atrium/right atrial appendage.
+No atrial septal defect is seen by 2D or color Doppler.
+There is moderate symmetric left ventricular hypertrophy.
+There is mild to moderate regional left ventricular systolic dysfunction with hypokinetic inferior mid papillary segments..
+Overall left ventricular systolic function is mildly depressed (LVEF=40 %).
+The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic regurgitation.
+The mitral valve appears structurally normal with trivial mitral regurgitation.
+There is no pericardial effusion.
+Normal LV systolic function with mild hypokinesis of the inferior at the base and apex.
+Cath showed severe three vessel coronary artery disease and a IABP was placed.
+Later he was weaned from sedation, awoke neurologically intact and was extubated without complications.
+Also on post-op day one he had episode of rate controlled atrial fibrillation which was appropriately treated with beta blockers.
+He was started on diuretics and diuresised for his preoperative weight.
+Particle/Crystal(s)* Refills:*0*   Discharge Disposition: Home With Service  Facility: tba  Discharge Diagnosis: Coronary artery disease s/p Off-Pump Coronary Artery Bypass Graft x 5 STEMI Post operative Atrial fibrillation PMH: Hypertension, Hyperlipidemia, Myocardial Infarction [**2168**] w/ Angioplasty   Discharge Condition: Good  Discharge Instructions: Follow medications on discharge instructions.
+Shower daily, let water flow over wounds, pat dry with a towel.

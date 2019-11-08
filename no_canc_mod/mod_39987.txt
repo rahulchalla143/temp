@@ -1,0 +1,63 @@
+Admission Date:  [**2163-5-23**]              Discharge Date:   [**2163-5-31**]   Service: MEDICINE  Allergies: Zoloft  Attending:[**First Name3 (LF) 358**] Chief Complaint: hypotension  Major Surgical or Invasive Procedure: intubation/extubation bronchoscopy PICC placement   History of Present Illness: Ms. [**Known lastname 23333**] is a [**Age over 90 **] year old woman with history of coronary artery disease presented on [**5-22**] with anorexia, emesis x 2, right-sided abdominal pain, malaise, and fatigue.
+She was noted to have a mildly elevated white count of 13.6K.
+A presumptive diagnosis of acute cholecystitis was made, and she was admitted to the surgical service.
+She had increased RUQ pain the morning of [**5-24**], and then triggered the night of [**5-24**] for tachycardia to the 140's and hypoxia to 80% on room air.
+Second set was elevated as well (T 0.22, CK 103).
+The morning of admission, she again triggered for hypotension (80/46), heart rate 56.
+Per the family, she had been complaining of back pain   She had been admitted twice within the past year for choledocholithiasis ([**8-/2162**] with two 8-10mm stones in CBD, sphincterotomy/stent but no stone extractions; [**11/2162**] stone extraction and stent removed).
+Past Medical History: - Hypercholesterolemia - Coronary artery disease - Asthma - Osteoarthritis  Social History: No tobacco, EtOH.
+Family History: non-contributory  Physical Exam: Discharge PE  General Appearance: No acute distress Eyes / Conjunctiva: PERRL Head, Ears, Nose, Throat: Endotracheal tube Lymphatic: Cervical WNL Cardiovascular: RRR, no murmers appreciated Resp: CTAB Abdominal: Soft, Non-tender, Bowel sounds present Skin:  Stage 1 decubitis ulcer Neurologic: not oriented to city, place, month; sleepy but arousable and conversant, responds to questions   Pertinent Results: Admission labs: [**2163-5-22**] 05:20PM   WBC-13.8*# RBC-4.33 HGB-13.1 HCT-38.2 MCV-88 MCH-30.3 MCHC-34.4 RDW-13.3 [**2163-5-22**] 05:20PM   NEUTS-87.7* LYMPHS-7.6* MONOS-4.0 EOS-0.5 BASOS-0.1 [**2163-5-22**] 05:20PM   ALT(SGPT)-17 AST(SGOT)-31 ALK PHOS-97 TOT BILI-1.4 [**2163-5-22**] 05:20PM   GLUCOSE-133* UREA N-23* CREAT-1.0 SODIUM-141 POTASSIUM-4.5 CHLORIDE-102 TOTAL CO2-27 ANION GAP-17  Discharge labs: WBC-8.8 RBC-3.05* Hgb-9.2* Hct-29.1* MCV-96 MCH-30.2 MCHC-31.7 RDW-13.9 Plt Ct-249 Glucose-89 UreaN-20 Creat-1.1 Na-141 K-4.1 Cl-107 HCO3-27 AnGap-11  CT abdomen [**5-26**]:  1.
+Evidence of acute cholecystitis, with progression of inflammation since [**5-22**].
+There is increased distention, wall thickening and stranding, and at least one intraluminal stone is seen.
+No intra- or extra-hepatic biliary ductal dilatation.
+An intraluminal oval rounded hypodense structure is seen near the junction of the second and third portions of the duodenum, previously hyperdense on a contrast-enhanced study (and therefore possibly enhancing).
+There is no upstream duodenal dilation to suggest obstruction.
+The differential diagnosis includes atypical food particles/debris (if not truly enhancing), polyp (if enhancing) and neuroendocrine tumor is not excluded.
+Small bilateral pleural effusions and associated atelectasis.
+Circumscribed fluid attenuation structure in the right hilar region as described, likely representing a pericardial cyst.
+There is moderate regional left ventricular systolic dysfunction with moderate to severe hypokinesis of the mid to distal inferior wall, inferolateral wall and apex.
+Tissue Doppler imaging suggests an increased left ventricular filling pressure (PCWP>18mmHg).
+The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present.
+Mild (1+) aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+There is no mitral valve prolapse.
+Moderate (2+) mitral regurgitation is seen.
+The tricuspid valve leaflets are mildly thickened.
+There is moderate pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+IMPRESSION: Moderate regional left ventricular systolic dysfunction.
+Diastolic dysfunction.
+Mild aortic and moderate mitral regurgitation.
+Moderate pulmonary artery systolic hypertension.
+GRAM POSITIVE RODS.
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              STREPTOCOCCUS ANGINOSUS (MILLERI) GROUP                              | CLINDAMYCIN-----------       S ERYTHROMYCIN----------<=0.25 S PENICILLIN G----------  0.06 S VANCOMYCIN------------   <=1 S     Aerobic Bottle Gram Stain (Final [**2163-5-26**]):       GRAM POSITIVE COCCI IN CHAINS.
+GRAM POSITIVE ROD(S) CONSISTENT WITH CORYNEBACTERIUM AND                             PROPIONIBACTERIUM SPECIES.
+cholecystitis, transferred to [**Hospital Unit Name 153**] for hypotension, hypoxia, elevated white count.
+#) Cholecystitis: Ms. [**Known lastname 23333**] has a history of choledocholothiasis, and she had 2 ERCP procedures in [**2162**] with no complications.
+She presented on [**5-22**] with symptoms of anorexia, vomiting, R-sided abdominal pain, and CT scan and U/S reports concerning for acute cholecystitis.
+Over the course of her hospitalization, Ms. [**Known lastname 23333**] improved clinically with her abdominal pain resolving and improving LFTs.
+#) Sepsis: Ms. [**Known lastname 23333**] was triggered on [**5-24**] for increasing temperature to 99.5, tachycardic to 140s, and increased O2 requirement, as well as hypotenstion.,  She was found to be bacteremic with positive cultures growing Gram positive Strep milleri.
+She had a CT torso to evaluate for source of infection, which showed worsening cholecystitis.
+Ms. [**Known lastname 23333**] also underwent an echocardiogram to evaluate for endocarditis in the setting of bactermia.
+She was found to have a thickend mitral valve leaflet.
+It was decided that she would not be a good candidate for further imaging with trans-esophageal echocardiogram, so she will be treated for a 6-week course of antibiotics for presumed endocarditis based on TTE.
+#) Respiratory failure: Ms. [**Known lastname 23333**] required intubation secondary to respiratoy failure in the setting of sepsis and NSTEMI.
+#) NSTEMI:  Ms. [**Known lastname 23333**] suffered NSTEMI while septic secondary to increased demand.
+Echo showed moderate regional left ventricular systolic dysfunction, diastolic dysfunction, mild aortic and moderate mitral regurgitation.
+Moderate pulmonary artery systolic hypertension.
+Her creatinine improved with fluid resuscitation and treatment of infection to 1.1 at time of discharge.
+#) Back pain: While on the floor, Ms. [**Known lastname 23333**] reported back pain but was unable to localize location, did not have point tenderness, and no neurologic deficits.
+The posibility of epidural abscess from bacterial seeding was discussed, but unlikely given exam findings.
+MRI should be considered for further evaluation if she has hemodynamic decline or develops neurologic deficits.
+Her current planned treatment with 6 weeks of targeted antibiotics would be appropriate for discitis/osteomyelitis as well.
+We were also concerned that this pain was recurring in the setting of cholecystitis, but we were treating with antibiotics and already determined that she was a poor candidate for surgical intervention.
+Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: [**1-7**]  Inhalation twice a day as needed for shortness of breath or wheezing.
+Camphor-Menthol 0.5-0.5 % Lotion Sig: One (1) Appl Topical [**Hospital1 **] (2 times a day) as needed for itching.
+Morphine 15 mg Tablet Sig: One (1) Tablet PO every four (4) hours as needed for pain: breakthrough pain only, hold for sedation, RR<10 or confusion.
+Cholecystitis  Secondary diagnosis 2.
+Sepsis/Strep milleri bacteremia 4.
+Acute Renal Failure   Discharge Condition: stable, breathing comfortably on 2L/NC, sleepy but arousable and conversant   Discharge Instructions: You were admitted to the hospital for cholecystitis (infection of the gall bladder), and this was complicated by a blood infection.
+Likely because of this infection, you had low blood pressures and difficulty breathing.
+Also because of your infection and low blood pressues, you experienced a small heart attack while you were in the hospital.
+We also saw evidence of possible infection in your heart valves.
+If you develop worsening shortness of breath, difficlty breathing, low blood pressures with systolic <90, fevers >101 degrees, or any other concerning symptoms, please seek medical attention immediately.

@@ -1,0 +1,64 @@
+Admission Date:  [**2151-11-17**]              Discharge Date:   [**2151-11-27**]  Date of Birth:  [**2107-10-14**]             Sex:   M  Service: CARDIOTHORACIC  Allergies: Penicillins  Attending:[**First Name3 (LF) 165**] Chief Complaint: Fatigue, shortness of breath  Major Surgical or Invasive Procedure: [**2151-11-17**] Cardiac Catheterization [**2151-11-19**] Bentall Procedure utilizing a 23mm Homograft with Repair of a Sinus Valsalva Fistula [**2151-11-24**] Placement of Dual Chamber Permanent Pacemaker(Guidant Insignia Ultra DR)   History of Present Illness: Mr. [**Known lastname 76674**] is a 44 year old male who was diagnosed with rectal abscess and alpha hemolytic Streptococcus aortic valve endocarditis on [**2151-10-15**].
+Serial echocardiograms showed severe AI with a L->R shunt from the sinus of valsalva to right ventricle.
+At time of admission, he reported worsening fatigue associated with shortness of breath with minimal activity and frequent palpitations.
+Past Medical History: Aortic Valve Endocarditis(Alpha Hemolytic Streptococcus) Aortic Insufficiency Rectal Abscess History of Pancreatic Pseudocyst - s/p Percutaneous Drainage History of Gallstone Pancreatitis History of Lap Chole History of Duodenal Stricture - s/p Gastrojejunostomy History of Renal Cell Carcinoma - s/p Cryoablation Prior Toe Surgery  Social History: Married works as a project manager and has been working from home over the past few weeks.
+Family History: Denies any family history of premature CAD.
+States his father had an MI in his 70s, still living.
+Possible CAD on his mother's side of the family.
+No history of known sudden death.
+There was pale conjunctiva without cyanosis of the oral mucosa.
+There was no thyromegaly.
+The were no chest wall deformities, scoliosis or kyphosis.
+The lungs has bibasilar rales.
+There were no thrills, lifts or palpable S3 or S4.
+There was no hepatosplenomegaly or tenderness.
+The abdomen was soft nontender and nondistended.
+The extremities had no pallor, cyanosis, clubbing or edema.
+There were no abdominal, femoral or carotid bruits.
+Inspection and/or palpation of skin and subcutaneous tissue showed no stasis dermatitis, ulcers, scars, or xanthomas.
+Coronary angiography in this right dominant system revealed no angiographically apparent coronary artery disease in the LMCA, LAD, LCx, and RCA (although coronaries could not be well opacified due to severe aortic regurgitation).
+Resting hemodynamics revealed markedly elevated left and right sided filling pressures with mean PCW of 21 mmHg and RVEDP of 25 mmHg.
+There was severe pulmonary arterial hypertension with PASP of 66 mmHg.
+There was a left-to right shunt with oxygen step-up at RV flow and a possible fistula from sinus of Valsalva to RV demonstrated by selective injection and supravalvular aortography.
+There is a moderate to large sized vegetation on the aortic valve involving the right and non-coronary cusps.
+The left coronary cusp is moderately thickened.
+There is no aortic root abcess cavity seen.
+Severe (4+) aortic regurgitation is seen with reversal of flow in the descending thoracic aorta.
+There is prominent color flow in the area of the right coronary cusp which may represent a sinus of valsalva fistula (aortic root to RA/RVOT).
+Mild (1+) mitral regurgitation is seen.
+There is no pericardial effusion.
+No retroperitoneal hematoma.
+Right upper quadrant pericolonic and peripancreatic induration at least some of which may be secondary to known previous procedures.
+This may represent recurrent or acute pancreatitis and as patient cannot receive contrast, MRI may also be informative.
+Note additional density abnormality right lateral kidney.
+?is this site of patient's previous known RF ablation for renal cell cancer?
+Small amount of free intraperitoneal fluid and small-to-moderate size right pleural effusion, neither of which measure blood density.
+Mildly enlarged spleen.
+Large areas of consolidation seen within the lungs bilaterally, with air bronchograms, concerning for infection.
+New diffuse patchy ground-glass airspace opacities seen bilaterally, right greater than the left.
+No evidence of retroperitoneal hematoma.
+Small amount of nonspecific free fluid in pelvis.
+Stranding in pelvic soft tissues possibly represent small amount of interstitial hemorrhage.
+Post-operative changes seen within the chest, with multiple lines and tubes.
+Pneumomediastinum and small bilateral pneumothoraces seen, consistent with post-operative changes.
+No aortic regurgitation is seen.
+The mitral valve appears structurally normal with trivial mitral regurgitation.
+There is moderate pulmonary artery systolic hypertension.
+No pneumothorax is present.
+[**Last Name (NamePattern1) 5034**]       Brief Hospital Course: Mr. [**Known lastname 76674**] was admitted and underwent cardiac catheterization and transesophageal echocardiogram which confirmed aortic valve endocarditis, severe aortic insufficiency and a sinus of Valsalva fistula.
+His acute renal insufficiency was attributed to hypoperfusion given his severe aortic insufficiency.
+An abdominal CT scan was performed which ruled out a retroperitoneal bleed.
+On [**11-19**], Dr. [**First Name (STitle) **] performed a Bentall procedure with a homograft along with repair of sinus of Valsalva fistula.
+Given that his hospital stay was greater than 24 hours prior to surgery, he was given Vancomycin for perioperative coverage.
+He remained anemic and continued to require intermittent blood transfusions.
+There was no evidence of active bleeding.
+Following extubation, he experienced poor oxygenation along with some hemoptysis.
+Chest x-rays were notable for extensive bilateral consolidations and bilateral pleural effusions.
+Blood tinged secretions were noted in the lower lobes along with an occlued right middle lobe by mucosal edema.
+Bronchoalveolar lavage was performed and sent for culture.
+Antibiotic coverage was temporarily broadend for nosocomial pneumonia.
+Cultures eventually grew out MRSA and antibiotics were titrated accordingly per ID recommendations.
+All chest tubes were eventually removed without complication.
+Since the operation, he was noted to have complete heart block and remained entirely pacer dependent.
+The EP service was consulted and recommended permananent pacemaker which was successfully placed on [**11-24**] without complication.
+Medications on Admission: Omeprazole 40 [**Hospital1 **], Atorvastatin 40 qd, Zyrtec 10 qd, Klor con 20 qd, Lasix 120 qam, Lorazepam 2 [**Hospital1 **], Ambien 12.5 qhs, Ceftriaxone  Discharge Disposition: Home With Service  Facility: Critical Care Systems  Discharge Diagnosis: AV endocarditis(Strep viridans) and Aortic Insufficiency Postoperative Complete Heart Block Postoperative MRSA Pneumonia Postoperative Pleural Effusions Anemia Acute Renal Insufficiency Hypertension Hyperlipidemia Rectal Abscess   Discharge Condition: Good.

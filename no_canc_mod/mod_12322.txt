@@ -1,0 +1,67 @@
+Admission Date:  [**2165-3-12**]              Discharge Date:   [**2165-4-15**]  Date of Birth:  [**2095-9-25**]             Sex:   M  Service: CARDIOTHORACIC  Allergies: Morphine Sulfate  Attending:[**First Name3 (LF) 165**] Chief Complaint: unstable angina  Major Surgical or Invasive Procedure: Aortic valve replacement(25mm St. [**Male First Name (un) 923**] mechanical), aortic root enlargement, coronary artery bypass grafts x 4(LIMA-LAD, SVG-Dg,SVG-OM,SVG-AM) [**2165-3-26**] right and left heart catheterization, coronary angiogram, left ventriculogram  [**2165-3-12**] Sternal exploration, evacuation tamponade, ligation vein graft bleeder [**2165-3-29**]   History of Present Illness: Mr. [**Known lastname 916**] is a 69 y/o gentleman with multiple risk factors who was seen for stress testing.
+He was recently admitted [**Date range (1) 39783**] to the [**Hospital Unit Name 196**] service for shortness of breath and found to have a new cardiomyopathy with EF 30% and global hypokinesis with some akinesis of the inferior wall.
+He was seen by Dr.[**Last Name (STitle) **] in clinic on [**2165-3-1**] where he reported worsening shortness of breath and symptoms of advanced heart failure.
+Stress testing with additional vascular imaging was planned.
+The patient underwent pharmacologic stress testing this morning with development of ischemic ECG changes (worsening global ST depression) along with hypotension.
+He has noted increasing swelling in both legs since discharge and a slight worsening in the wound on the back of his left lower leg.
+He denies any pain or cramping in his legs with ambulation; it is mainly his shortness of breath that limits his activities.
+Past Medical History: morbid obesity noninsulin dependent diabetes mellitus hyperlipidemia post thyroidectomy hypothroidism hypertension venous stasis sleep apnea  Social History: -Tobacco history: remote Quit smoking: 30+ yrs ago -ETOH: history of alcohol abuse, quit 7 years ago -Illicit drugs: None   Family History: non-contributory.
+Sclera anicteric.
+Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.
+No thrills, lifts.
+No carotid bruits.
+Chest: Well-demarcated, erythematous plaques in bilateral breast folds.
+CTAB, no crackles, wheezes or rhonchi.
+Ext: Chronic venous statis changes, lymphedema bilaterally to knees, L>R.
+Healing longitudinal wound w/dirt around it on left calf, no exhudate, erythema, necrosis.
+No femoral bruits appreciated.
+ICD-9 Codes: 786.05, 423.9, V43.3, 424.2 Test Information Date/Time: [**2165-4-3**] at 14:44    Interpret MD: [**Name6 (MD) **] [**Name8 (MD) 4082**], MD Test Type: Portable TTE (Complete) Son[**Name (NI) 930**]: [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 7749**] Doppler: Full Doppler and color Doppler Test Location: West SICU/CTIC/VICU Contrast: Definity Tech Quality: Suboptimal Tape #: 2009W020-0:50 Machine: Vivid [**6-11**] Echocardiographic Measurements Results  Measurements  Normal Range Left Atrium - Long Axis Dimension:  *4.5 cm  <= 4.0 cm Left Atrium - Four Chamber Length:  *7.1 cm  <= 5.2 cm Right Atrium - Four Chamber Length:  *6.3 cm  <= 5.0 cm Left Ventricle - Septal Wall Thickness:  0.9 cm  0.6 - 1.1 cm Left Ventricle - Inferolateral Thickness:  1.0 cm  0.6 - 1.1 cm  Left Ventricle - Diastolic Dimension:  5.6 cm  <= 5.6 cm Left Ventricle - Ejection Fraction:  30% to 35%  >= 55% Aorta - Sinus Level:  3.4 cm  <= 3.6 cm Aortic Valve - Peak Velocity:  1.8 m/sec  <= 2.0 m/sec Aortic Valve - Peak Gradient:  17 mm Hg  < 20 mm Hg Aortic Valve - Mean Gradient:  9 mm Hg Mitral Valve - E Wave:  1.4 m/sec Mitral Valve - E Wave deceleration time:  234 ms  140-250 ms TR Gradient (+ RA = PASP):  *30 to 40 mm Hg  <= 25 mm Hg  Findings This study was compared to the prior study of [**2165-3-29**].
+Intravenous administration of echo contrast was used due to poor native endocardial border definition.
+LEFT ATRIUM: Mild LA enlargement.
+No LV mass/thrombus.
+Severely depressed LVEF.
+Paradoxic septal motion consistent with prior cardiac surgery.
+MITRAL VALVE: Mildly thickened mitral valve leaflets.
+Moderate mitral annular calcification.
+Mild PA systolic hypertension.
+PERICARDIUM: Small pericardial effusion.
+Effusion echo dense, c/w blood, inflammation or other cellular elements.
+No echocardiographic signs of tamponade.
+The rhythm appears to be atrial fibrillation.
+Conclusions The left atrium is mildly dilated.
+The right atrium is moderately dilated.
+Left ventricular wall thicknesses and cavity size are normal with moderate global hypokinesis (LVEF= 25-30 %).
+No masses or thrombi are seen in the left ventricle.
+No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+There is no mitral valve prolapse.
+Trivial mitral regurgitation is seen.
+There is mild pulmonary artery systolic hypertension.
+Significant pulmonic regurgitation is seen.
+There is a small, circumferential, echo dense pericardial effusion.
+There are no echocardiographic signs of tamponade.
+Severe global left ventricular hypokinesis.
+Mild pulmonary artery systolic hypertension.
+Small echo-dense pericardial effusion with no echocardiographic signs of tamponade.
+Significant pulmonary regurgitation.
+Clinical decisions regarding the need for prophylaxis should be based on clinical and echocardiographic data.
+Continued enlargement of the cardiac silhouette with vascular congestion and bilateral pleural effusions, more marked on the right.
+DR. [**First Name8 (NamePattern2) 1569**] [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 11006**] Approved: FRI [**2165-4-12**] 12:20 PM    Imaging Lab    Brief Hospital Course: This patient is a 69 year old white male with multiple risk factors including diabetes, hypertension, hyperlipidemia, cardiomyopathy who was admitted for a positive stress test.
+Nuclear imaging showed areas of reversibility concerning for Left main disease.
+He also was in new atrial fibrillation.
+His medical regimen was adjusted after admission and he remained pain free.
+He remained in atrial fibrillation with a controlled ventricular response.
+He underwent catheterization which revealed triple vessel disease, severe aortic stenosis and both systolic and diastolic dysfunction with a left ventricular ejection fraction of 30-35%.
+A urinary infection delayed surgery and was treated with a course of antibiotics.
+On [**3-26**] he underwent cardiac surgery  with an Aortic valve replacement (#25mm St.[**Male First Name (un) 923**] Mechanical)/coronary artyery bypass grafting (left internal mammary artery grafted to left anterior descending artery/saphenous vein grafted to Diagnal/obtuse marginal/AM, Aortic root enlargement with pericardial patch).
+On [**3-29**] he developed acute hypotension.
+A surface echo was negative preliminarily, however, a TEE demonstrated a significant pericardial effusion with tamponade.
+There was a bleeding source from a vein graft found as the source for the effusion.
+He remained in atrial fibrillation postop and Amiodarone was continued for rate control.
+He was very difficult to induce a diuresis and required resumption of phenylephrine until [**4-4**] when he became hypercarbic to 60 and acidotic.
+He became nonoliguric and a Lasix infusion was continued.
+His metabolic alkalosis was treated with hydrochloric acid replacement and Diamox.
+He remained stable with an effective cough and arrangements were made for a rehabilitation facility.
+Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30) ML PO DAILY (Daily) as needed for constipation.
+Acetaminophen 500 mg [**Last Name (Titles) 8426**] Sig: Two (2) [**Last Name (Titles) 8426**] PO Q6H (every 6 hours) as needed for pain or temp > 101.
+Discharge Disposition: Extended Care  Facility: [**Hospital 5503**] Rehab Hospital  Discharge Diagnosis: Aortic stenosis Coronary Artery Disease pericardial tamponade s/p aortic valve replacement, root enlargement,coronary artery bypass grafting chronic venous stasis legs s/p evacuation pericardial tamponade chronic Atrial Fibrillation systolic and diastolic Heart Failure morbid obesity noninsulin dependent Diabetes Mellitus urinary tract infection obstructive sleep apnea post thyroidectomy hypothyroidism  Discharge Condition: good   Discharge Instructions: shower daily, no baths or swimming no lotions, creams or powders to incisions no driving for 4 weeks and off all narcotics no lifting more than 10 pounds for 10 weeks report any redness of, or drainage from incisions report any fever greater than 100.5 report any weight gain greater than 2 pounds a day or 5 pounds a week take all medications as directed  Followup Instructions: Dr. [**First Name (STitle) **] in 4 weeks ([**Telephone/Fax (1) 170**]) Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] in [**1-8**] weeks ([**Telephone/Fax (1) 10548**]) Dr. [**First Name4 (NamePattern1) 1370**] [**Last Name (NamePattern1) **] [**Last Name (un) 28949**] in [**12-7**] weeks ([**Telephone/Fax (1) **]) [**Hospital Ward Name 121**] 6 wound clinic in 2 weeks Please call for appointments                                [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(2) 173**]  Completed by:[**2165-4-15**

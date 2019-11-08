@@ -1,0 +1,49 @@
+Admission Date:  [**2129-3-17**]              Discharge Date:   [**2129-3-25**]  Date of Birth:  [**2047-12-6**]             Sex:   M  Service: MEDICINE  Allergies: Iodine  Attending:[**First Name3 (LF) 2279**] Chief Complaint: RUQ pain  Major Surgical or Invasive Procedure: ERCP [**3-17**] percutaneous chole tube [**3-22**]   History of Present Illness: This is a 81 year-old male with a history of HTN and afib on coumadin who was transfered from on [**Hospital3 **] Hospital due to hypotension and choledocholititasis/cholangitis.
+Pt was admitted [**2129-3-16**] at OSH due to a abd pain that started as substernal CP [**7-22**] 9 hours after dinner on [**3-15**].
+Later in OSH started having more lower abd pain that was different that presentation pain.
+CT showed a 7mm in lower CBD stone with 11mm CBD.
+Pt became febrile after admission with rigors and temp to 104.2 rectally.
+Pt became hypotensive to 80s and was bolused with IVF with improvement to 100s.
+Earlier he also had some temporarty MS changes with a neg head CT.
+Pt does report 2-3 weeks of a productive cough.
+No tobacco, no drugs.
+Drinks 2 glasses of wine and a cocktail daily, no hx of withdrawal.
+Family History: NC  Physical Exam: Vitals:97.9 137/79 60 17 96%RA GEN: Well-appearing, well-nourished, no acute distress HEENT: EOMI, PERRL, sclera anicteric, no epistaxis or rhinorrhea, dry MM, clear OP NECK: no cervical lymphadenopathy, trachea midline COR: RRR, no M/G/R, normal S1 S2, radial pulses +2 PULM: some expiratory wheezes ABD: Soft, mild distention, and tender in RUQ, +BS EXT: No C/C/E, no palpable cords NEURO: alert, oriented to person, place, and time.
+SKIN: No jaundice, cyanosis, or gross dermatitis.
+No ecchymoses.
+[**3-17**] CXR: There is a single-lead pacer seen projecting over the left chest.
+No frank pulmonary edema.
+A filling defect is noted in the distal common bile duct with minimal upstream dilatation of the main common bile duct and consistent with a 7-mm stone.
+Sphincterotomy was not performed due to elevated INR as per ERCP note.
+Sphincterotomy was not performed in the setting of elevated INR.
+[**3-19**] CXR: Lateral view shows mild peribronchial infiltration, in both lower lobes, new since [**3-17**].
+Small right pleural effusion is new.
+Moderate cardiomegaly is unchanged, and there is no interstitial edema or particular vascular engorgement.
+Extensive gallbladder wall edema and pericholecystic stranding, consistent with cholecystitis.
+No definite obstructive stone seen within the cystic duct or common bile duct, though CT is not exquisitely sensitive for detection of biliary calculi.
+Small bilateral pleural effusions and left lower lobe consolidation which may represent pneumonia.
+Incidentally noted moderate sliding hiatal hernia, large fat-containing right spigelian hernia, and diverticulosis.
+No immediate post-procedure complications were identified.
+#  Choledocholithiasis, acute cholangitis, acute cholecystitis - Patient had a obstructing stone causing fever, RUQ pain, and hypotension at OSH.
+ERCP was performed and it revealed a distal CBD measured approximately 10mm.
+A single 7 mm round stone that was causing partial obstruction was seen at the distal CBD.
+A sphincterotomy was not performed due to elevated INR.
+He was able to tolerate Pos without difficulty.
+He continued to have low-grade temperatures on this regimen, so the antibiotics were broadened to zosyn and vancomycin.
+The patient had minimal RUQ pain, but no other symptoms.
+This demonstrated findings consistent with acute cholecystitis.
+Upon discussion with surgery (Dr. [**First Name (STitle) **] and ERCP (Dr. [**Last Name (STitle) 99779**], a percutaneous chole tube placement for GB decompression was felt to be the best option rather than CCY, given the extent of inflammation and the [**Hospital 228**] medical co-morbidities (though no active medical issues).
+Once his WBC and fevers improved, he was switched to cipro/flagyl to complete a 2-week course total.
+#  Atrial fibrillation - the patient was continued on metoprolol for rate control.
+His primary cardiologist, Dr. [**Last Name (STitle) 20948**], was notified of the current admission and agreed that bridging with heparin wasnot required as patient had not had a prior embolic event.
+# Acute on chronic sCHF - patient has an EF of 35% per discussion with his primary cardiologist [**3-16**] ischemic cardiomyopathy, and is maintained on metoprolol, lasx, and ACE-I.
+He developed acute on chronic sCHF [**3-16**] IVF resuscitation in the ICU; this was treated with IV lasix with good response.
+# Productive cough: CXR with posssible retrocardiac abnl causing sx, or could be acute bronchitis.
+A repeat CXR with PA and L was done to eval further the possible infiltrate and it showed signs of aspiration pneumonia.
+He was continued on unasyn and cipro for it (on it anyway for acute cholangitis).
+A swallow eval was done and it showed no evidence of aspiration pneumonia.
+He was also treated with atrovent/albuterol for treatment of possible COPD component.
+Discharge Disposition: Home With Service  Facility: [**Hospital3 **] VNA  Discharge Diagnosis: Acute cholecystitis Ascending cholangitis Acute on chronic systolic Congestive heart failure Atrial fibrillation   Discharge Condition: Mental Status: Clear and coherent.
+Discharge Instructions: You were admitted here for a condition called cholangitis - infection of the bile duct due to an obstructing gall stone.
+You developed acute cholecystits , requiring placement of a percutaneous tube.
+If there are any problems with the tube, such as stopped drainage, please call her office or Interventional Radiology at [**Telephone/Fax (1) 99781**].

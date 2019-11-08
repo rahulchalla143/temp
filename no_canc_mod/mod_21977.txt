@@ -1,0 +1,13 @@
+Admission Date:  [**2137-10-10**]              Discharge Date:   [**2137-11-1**]  Date of Birth:  [**2063-1-4**]             Sex:   F  Service: MED  Allergies: Penicillins  Attending:[**First Name3 (LF) 281**] Chief Complaint: respiratory distress fevers  Major Surgical or Invasive Procedure: none  History of Present Illness: 74 yo female, transferred from [**Hospital1 1872**] rehab for recurrent flash pulmonary edema.
+Pt recently admitted/hospital stay at [**Hospital1 **] on [**9-8**] for DKA and NSTEMI.
+At this time, pt had a long/complicated hospital course, determined not to be a candidate for cardiac catheterization and MI managed medically.
+At rehab, pt had multiple episodes of flash pulm edema that were managed with Morphine and lasix prn.
+Pt with some new EKG changes (t-wave inv v5-6, st elev v2-4), and elevated tnt.
+Pt admitted to MICU at this time for management of respiratory failure vs. pneumonia.
+Past Medical History: DM2 on insulin Hypercholesterolemia Dementia/[**Doctor Last Name 122**] disease (an inherited spinocerebellar ataxia: progressive neurological disorder of ataxia, peripheral neuropathy) (No known HTN) Vent-associated PNA NSTEMI CHF Anemia   Social History: Prior to admission the patient was living at home with her daughter.
+Fever/leukocytosis - The patient was pan cultured and grew out MSSA from her sputum for which she was treated with clindimycin.
+Respiratory Failure - likely multifactorial with contributions from both PNA and CHF.
+A cardiac cath was performed which demonstrated three vessel coronary artery disease, moderate systolic ventricular dysfuction, and moderate diastolic ventricular function.
+Hypothyroidism - the patient was continued on her home dose of synthroid.
+Given the patient's severe CAD/CHF the patient's functional status is severely impaired and she is now vent dependent.
+Medications on Admission: Meds: lantus, ssi, asa, captopril, colace, laxis, sq heparin, HCTZ, levothyroxine, lopressor, nystatin, senna   Discharge Disposition: Extended Care  Facility: [**Hospital1 700**] - [**Location (un) 701**]  Discharge Diagnosis: coronary artery disease congestive heart failure / flash pulmonary edema pneumonia   Discharge Condition: stable  Discharge Instructions: Please take medications as directed.

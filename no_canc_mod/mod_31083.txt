@@ -1,0 +1,51 @@
+Admission Date:  [**2187-11-9**]              Discharge Date:   [**2187-11-10**]   Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 2736**] Chief Complaint: Left sided arm pain  Major Surgical or Invasive Procedure: none  History of Present Illness: This is a [**Age over 90 **]-year-old gentleman with a history of hypertension, diabetes and COPD who had dull left arm pain for two to three minutes early in the morning on [**2187-11-9**].
+He denied any associated chest pain, jaw pain, shortness of breath, nausea, vomiting, or diaphoresis.
+The patient stated that the arm pain abated on its own.
+During this episode of transient arm pain the patient reported that his blood pressure was lower than usual at 100/40.
+He went to seek medical advice in the emergency room at an outside hospital where he was found to have ST elevations in the II, III, and aVF.
+Interventional cardiology team evaluated the patient and felt that there was no urgency or immediate indication for cardiac catheterization.
+This decision was made given that repeat EKG had no changes significant for STEMI.
+At the time of CCU transfer the patient was asymptomatic and his Heparin drip had been discontinued.
+Of note, the patient does have a TIMI risk score is [**3-11**], placing him at intermediate risk for cardiac event.
+At baseline, the patient has very limited functional status as well and has significant co-morbidities, including COPD, Diabetes/II, and hypothyroidism.
+Otherwise, from a cardiac standpoint the patient denied any prior invasive cardiac interventions, MI history or stroke history.
+Past Medical History: CARDIAC HISTORY : Cardiac risk factors are positive for Diabetes, HTN, Obesity, but negative for hyperlipidemia.
+The patient has no significant past CAD morbidity per records,  no prior CABG/PCIs,and Mr. [**Known lastname 96908**] has never had a pacemaker or ICD placed.
+OTHER PAST MEDICAL HISTORY: Hypertension Hypothyroidism COPD-on home O2 (usually 2L via NC, not continuous but PRN and during sleep PRN) Diabetes Mellitus / type 2   Social History: Mr. [**Known lastname 96908**] lives with his wife in an [**Hospital3 **] facility in [**Location (un) 620**] called [**First Name9 (NamePattern2) **] [**Doctor Last Name 363**].
+Sclera anicteric.
+Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.
+No xanthalesma.
+No murmurs, rubs, or gallops.
+No thrills or lifts.
+Coarse breath sounds diffusely with mild wheezes noted with expirations, right > left ; at posterior fields.
+EXTREMITIES: No edema or cyanotic features.
+2+ pedal pulses bilaterally SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+The right ventricular cavity is dilated with mild global free wall hypokinesis.
+The aortic valve leaflets (3) are mildly thickened.
+Trace aortic regurgitation is seen.
+No acute ST changes.
+Brief Hospital Course: In Summary, Mr. [**Known lastname 96908**] is a [**Age over 90 **]-year-old male who presented to CCU after [**Hospital **] transfer from outside hospital for emergent evaluation for what was thought to be an inferior STEMI after initial EKG at OSH showed minimal .5mm-1mm elevations in leads II, III, and aVF.
+As aforementioned, the patient was evaluated by [**Hospital1 1388**] interventional cardiology team and it was felt that there was no urgency or immediate indication for cardiac catheterization given that the review of a repeat EKG had no changes significant for STEMI.
+Moreover, Mr. [**Known lastname 96908**] also had three negative sets of cardiac enzymes.
+The patient's dull, left-sided arm pain was attributed to fleeting ischemia and likely some atypical chest pain but no true cardiac infarcts.
+The patient's presentation and workup did not warrant any invasive procedures at this time.
+A lipid profile was explored and showed reasonable values with no overt hyperlipidemia as his total cholesterol was 160, HDL 41, LDL 95 and Triglycerides 121.
+Of note, the patient does have multiple cardiac risk factors, including age, male gender, HTN, diabetes and smoking history.
+TIMI risk score is [**3-11**], placing him at intermediate risk.
+For his entire hospital stay Mr. [**Known lastname 96908**] remained asymptomatic and denied any chest pain, shortness of breath, dizziness or palpitations.The patient had no additional episodes of left arm pain.
+The patient was continued on his daily Aspirin and his Metoprolol was initially held given his mild bradycardia but continued once his rate improved.
+He also had improvement in his low blood pressures throughout his hospital stay but it was felt that he should discontinue his HCTZ at time of discharge in order to avoid any additional BP drops and he was also advised to defer his Metoprolol dose if his heart rate dropped below 50 or his home systolic blood pressure dropped below 100.
+The patient was asked to discontinue his HCTZ and to start taking Lisinopril 2.5mg daily with Metoprolol 12.5mg twice daily for appropriate control of his blood pressure.
+He was also advised to follow-up within 1 week with his primary care physician for ongoing management of his hypertension and additional co-morbidities as outlined above.
+He exhibited no signs or symptoms of CHF.
+The patient's heart rhythm was monitored continuously on telemetry while in the CCU and he was initially in sinus bradycardia so his beta-blocker was held and eventually continued.
+However, the right ventricular cavity was studied and found to be dilated with mild global free wall hypokinesis.
+The aortic valve leaflets (3) were mildly thickened and trace aortic regurgitation was also noted.
+The patient was advised at time of discharge that if he had any additional sustained left arm pains, chest pain, shortness of breath, or lightheadedness to contact his local emergency room or primary care provider as soon as possible.
+Discharge Disposition: Home  Discharge Diagnosis: Atypical chest pain Hypertension Diabetes / type 2 Chronic Obstructive Pulmonary Disease Hypothyroidism   Discharge Condition: Stable No chest pain, shortness of breath and patient had good oral intake with meals and was able to ambulate without assistance.
+Discharge Instructions: You were seen for an Intensive Care Unit stay after you presented with left arm pain and EKG changes were noticed at an outside hospital which were concerning and you were given several medications to treat you for a possible heart attack.
+However, a follow-up EKG done at [**Hospital1 18**] showed no concerning changes on EKG and additional lab tests and cardiac enzyme checks which were all within normal limits to show that you did not suffer a heart attack and you did not need any additional procedures or cardiac catheterizations.
+You were treated for atypical chest pain and your blood pressure and low heart rate was monitored during your stay.
+After discharge, if you have any chest pain, shortness of breath, or lightheadedness please contact your local emergency room or primary care provider as soon as possible.
+Please discontinue your Hydrochlorathiazide (HCTZ) blood pressure medication for now and continue taking Lisinopril 2.5mg daily with Metoprolol 12.5mg twice daily for appropriate control of your blood pressure and follow-up this week with your primary care physician for ongoing management of your hypertension, diabetes, COPD and hypothyroidism history.
+Continue taking 81mg Aspirin daily and your usual home doses of Advair, Theophylline and Spiriva for your COPD and continue your Glyburide 2.5mg daily for diabetes and Levothyroxine 50mcg daily for your hypothyroidism.

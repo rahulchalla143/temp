@@ -1,0 +1,53 @@
+Admission Date:  [**2171-9-15**]              Discharge Date:   [**2171-9-21**]   Service: MEDICINE  Allergies: [**Location (un) **] Juice / Nsaids / Morphine  Attending:[**First Name3 (LF) 2186**] Chief Complaint: Sepsis  Major Surgical or Invasive Procedure: ERCP with stent placment on [**9-15**]  History of Present Illness: 88yoF NH resident with history of Parkinson's disease, HTN, recurrent UTIs (e. coli, proteus, klebsiella, enterbobacter), hyponatremia, paroxysmal afib and gallstones who initially presented to [**Hospital1 **] [**Location (un) 620**] with 1d hx of AMS and abdominal pain per family transferred to [**Hospital1 18**] now with concern for cholangtis and need for ERCP.
+Patient reported abdominal pain and was found to be confused by family (baseline A+O x 2, on exam A+O x 1).
+CT abd/pelvis showed a distended gallbladder with a small amount of pericholecystic fluid, and a distended CBD of 9mm.
+Vascular surgery evaluated pt; found no effusion or pneumothorax, and did R femoral line, 2 PIVs.
+Review of systems: (+) Per HPI (-) Denies fever, chills, night sweats, recent weight loss or gain.
+Denies headache, sinus tenderness, rhinorrhea or congestion.
+Denies shortness of breath, cough, or wheezing.
+Denies constipation, abdominal pain, diarrhea, dark or bloody stools.
+Denies dysuria, frequency, or urgency.
+Denies rashes or skin changes.
+Hypertension #.
+CVA in [**2166-8-6**] #.
+Urinary Incontinence #.
+h/o eosinophilic PNA [**6-14**], Rx with steroid taper #.
+Spinal Stenosis - s/p lumbar laminectomy #.
+Diverticulosis #.
+Macular degeneration #.
+Diabetes  Social History: Lives with son in [**Hospital3 **] community [**Location (un) 4528**].
+Physical Exam: Admission Exam: Vitals: T 97.7, P 79, BP 112/34, RR 24, O2 Sat 100% on NC General: A+O x self (baseline A+O x 2 as per son), thin, NAD HEENT: Sclera jaundice, Dry MM, oropharynx clear, PERRL Neck: supple, JVP elevated to angle of jaw, no LAD CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops Lungs: Crackles at bases Abdomen: hypoactive BS, soft, mildly tender, mildly distended, no organomegaly, no rebound or guarding GU: Foley in place draining frothy urine Ext: Cool, well perfused, 2+ pulses, no clubbing, cyanosis or edema Neuro: Moving all extremities spontaneuously   Pertinent Results: Admission Labs: [**2171-9-15**] 02:00AM BLOOD WBC-28.8*# RBC-3.40* Hgb-9.7* Hct-29.3* MCV-86 MCH-28.4 MCHC-32.9 RDW-13.4 Plt Ct-196 [**2171-9-15**] 02:00AM BLOOD Neuts-80* Bands-15* Lymphs-2* Monos-2 Eos-0 Baso-0 Atyps-0 Metas-1* Myelos-0 [**2171-9-15**] 02:00AM BLOOD PT-11.8 PTT-27.4 INR(PT)-1.1 [**2171-9-15**] 02:00AM BLOOD Glucose-109* UreaN-27* Creat-0.9 Na-129* K-4.0 Cl-96 HCO3-21* AnGap-16 [**2171-9-15**] 02:00AM BLOOD ALT-466* AST-1541* AlkPhos-561* Amylase-36 TotBili-3.2* [**2171-9-15**] 02:00AM BLOOD Albumin-2.9*  .
+No evidence of pneumothorax or definite pleural effusion.
+[**9-15**] CXR: Cardiac and mediastinal silhouettes are unchanged from [**2170-2-27**] with cardiomegaly noted.
+No definite effusion or pneumothorax is noted.
+No focal consolidations are identified.
+Prominence of interstitial markings; mild edema cannot be excluded.
+[**9-15**] ERCP: A single periampullary diverticulum with large opening was found at the major papilla.
+Cannulation of the biliary duct was successful and deep with a sphincterotome using a free-hand technique.
+Contrast medium was injected resulting in partial opacification.
+A mild diffuse dilation was seen at the main duct with the CBD measuring 8 mm.
+Given cholangitis only limited contast injection was made.
+Large amount of pus was seen exuding after placement of stent.
+[**2171-9-20**] 07:30AM BLOOD WBC-9.8 RBC-3.18* Hgb-9.0* Hct-26.3* MCV-83 MCH-28.4 MCHC-34.3 RDW-13.5 Plt Ct-111* [**2171-9-20**] 07:30AM BLOOD Plt Ct-111* [**2171-9-20**] 07:30AM BLOOD Glucose-68* UreaN-10 Creat-0.5 Na-128* K-3.5 Cl-98 [**2171-9-20**] 07:30AM BLOOD ALT-86* AST-30 LD(LDH)-217 AlkPhos-232* TotBili-0.6 [**2171-9-20**] 07:30AM BLOOD Albumin-2.6* Calcium-7.5* Phos-2.5* Mg-1.9  Brief Hospital Course: 88yoF with history of dementia, Parkinson's disease, HTN, recurrent UTIs, hyponatremia, paroxysmal afib and gallstones transferred with cholangitis and E. coli bacteremia .
+#CHOLANGITIS: She presented to [**Hospital1 **] [**Location (un) 620**] with 1 day history of altered mental status and abdominal pain radiating to the back where she was found to have leukocytosis, transaminitis, cholestasis, CBD dilation on CT and possible common bile duct stone.
+She underwent ERCP where pus was seen draining from the CBD with mild diffuse dilation of the CBD.
+Occasionally she reported abdominal discomfort intermittently for about an hour following a large meal.
+COLI BACTEREMIA: She presented with SIRS criteria (leukocytosis w/bandemia, tachycardia, tachypnea), hypotensive requiring transient vasopressors peri-procedurally during the ERCP, and blood culture from the OSH grew pan-sensitive E.Coli.
+The presumed source of bacteremia/sepsis was biliary.
+# HYPONATREMIA: Baseline sodium appears to be ~130 likely due to SIADH as per prior workup.
+She developed a drop in sodium to mid-120s in the setting of lifting fluid restriction post-ERCP.
+The importance of fluid monitoring and gentle restriction was discussed with patient and family.
+#UTI: She had a positive urine culture from OSH growing resistant E.coli species.
+She was treated with three days of ceftriaxone (sensitive) for uncomplicated urinary tract infection per ID recommendation.
+# Subclavian Arterial Puncture: During attempted CVL placement there was a subclavian arterial puncture.
+There were no signs of hematoma and pt not complaining of neck pain or swelling.
+CXR did not show signs of bleeding such as apical cap or sulcus sign.
+Mental status improved with treatment of infection as above, and hyponatremia resolved with fluids.
+TRANSITIONAL ISSUES: -f/u final results of blood cultures -f/u with general surgery regarding elective cholecystectomy -f/u with ERCP for stent removal -check chem-7 in [**4-11**] days to follow sodium -if worsening abdominal pain or fever or inability to tolerate oral nutrition, please seek immediate medical evaluation as will need further labs and likely abdominal imaging  Medications on Admission: Preadmission medications listed are correct and complete.
+Cal-[**Last Name (un) **] Antacid *NF* (calcium carbonate) 200 mg calcium (500 mg) Oral tid:prn epigastric discomfort 21.
+Cal-[**Last Name (un) **] Antacid *NF* (calcium carbonate) 200 mg calcium (500 mg) Oral tid:prn epigastric discomfort 12.
+Acetaminophen 325-650 mg PO Q8HR PRN pain 15.
+Magnesium Citrate 2 Oz PO DAILY:PRN constipation   Discharge Disposition: Extended Care  Facility: [**Location (un) **] - [**Location (un) 620**]  Discharge Diagnosis: Cholangitis Sepsis UTI Hyponatremia Hypertension   Discharge Condition: Mental Status: Clear and coherent.
+You were admitted with fever and abdominal pain.
+You were found to have a common bile [**Last Name (un) **] stone on imaging that was likely causing an obstruction and an infection.
+You underwent ERCP that confirmed an infection (cholangitis) and a biliary stent was placed.

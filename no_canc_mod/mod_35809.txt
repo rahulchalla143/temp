@@ -1,0 +1,43 @@
+Admission Date:  [**2119-12-17**]              Discharge Date:   [**2119-12-27**]  Date of Birth:  [**2050-1-3**]             Sex:   F  Service: MEDICINE  Allergies: Cephalexin / Erythromycin Base  Attending:[**First Name3 (LF) 2279**] Chief Complaint: lethargy  Major Surgical or Invasive Procedure: internal jugular line placement  History of Present Illness: Ms. [**Known lastname 1007**] is a 69 year-old woman with a history of asthma, CAD, CHF (EF 10%), IDDM, CKD, discharged 1 week ago after an admission for cellulitis and hypercarbic respiratory failure, who now presents hypotension and acute on chronic kidney injury.
+She had acute on chronic cellulitis and completed a 10 day course of vancomycin.
+She also had hypercarbic respiratory failure requiring intubation.
+She was treated for a COPD exacerbation as well as volume overload and was extubated after two days.
+She remained mildly hypoxic and was discharged to home on [**1-29**] L O2, having refused rehab.
+A visiting nurse noted that she was unable to care for herself and so was admitted to rehab from home on [**12-14**].
+Labs were notable for a troponin elevated to .45 and creatinine 2.4.
+CXR did not demonstrate volume overload or infiltrate.
+Cardiology was consulted with regard to the elevated troponin.
+Upon arrival to the MICU, the patient complains of low back pain that is chronic for her.
+She also has leg pain when moved.
+Asthma 2.
+CAD s/p CABG [**2112**] 3.
+Congestive heart failure with EF 10-15% on TTE [**11/2119**] 4.
+Atrial fibrillation on coumadin 5.
+Morbid obesity 7. stage III chronic kidney disease 8.
+Vitamin D deficiency 9. chronic peripheral edema 10. h/o blood in stool 11. hypercholesterolemia 12. lower extremity cellulitis   Social History: Lives independently with husband.
+HEENT: no apparent lesions in OP Neck: obese, difficult to assess JVD Lungs: distant breath sounds, faint crackles at bases barely audible Heart: regular, no murmurs appreciated, sternal defect with palpable heart tones Abdomen: Obese, soft, nondistended, positive bowel sounds Ext: 2+ bilateral partially pitting edema.
+Bilateral lower legs with woody changes, areas of denuded skin, minimal serous drainage, appear much improved compared to prior admission Neuro: oriented to self and year, not place.
+Moving all extremities   Pertinent Results: Admission labs: [**2119-12-17**] 01:00PM   GLUCOSE-114* UREA N-111* CREAT-2.4* SODIUM-129* POTASSIUM-4.5 CHLORIDE-91* TOTAL CO2-30 ANION GAP-13 [**2119-12-17**] 01:00PM   WBC-7.5 RBC-3.79* HGB-10.7* HCT-34.0* MCV-90 MCH-28.3 MCHC-31.6 RDW-16.7* [**2119-12-17**] 01:00PM   NEUTS-76.1* LYMPHS-15.1* MONOS-5.8 EOS-2.4 BASOS-0.6  Brief Hospital Course: Assessment and Plan: Ms. [**Known lastname 1007**] is a 69 year-old woman with ischemic cardiomyopathy and EF 10-15% who presents with hypotension.
+# Hypotension: Given [**Last Name (un) **], hyponatremia, hypotension, and good response to 4 L IVF in the ED, this may have been simply related to volume depletion and an aggressive heart failure regimen.
+However, the following morning her WBC was elevated so vancomycin and zosyn were started.
+# Shortness of breath:  Patient with increased work of breathing on the second hospital day.
+ABGs showed hypoxia and hypercarbia.
+She was also diuresed, with improvement in shortness of breath.
+She was initially maintained on torsemide 20 mg daily with IV lasix 40 mg prn volume overload.
+She remained stable on 1-3L NC with no respiratory distress during her hospital stay.
+# Acute on chronic kidney injury: Baseline creatinine per records obtained at last hospitalization ~1.5, which was what it was on discharge a week ago.
+Given concominant mild hyponatremia, hypotension, this may be simply due to volume depletion.
+Urine electrolytes showed a prerenal etiology.
+# Elevated troponin: Troponin .45.
+It does seem likely that she has had some cardiac ischemia, probably in the setting of poor coronary perfusion secondary to systemic hypotension.
+# Hyponatremia: likely secondary to volume depletion.
+# CHF: EF 10%:  Metoprolol, ACEI, torsemide held in the setting of hypotension but were restarted at lower-than-home-doses.
+# Atrial fibrillation: Rate controlled and anticoagulated on admission.
+Was subtherapeutic INR after having warfarin held at rehab for several days (for INR 5 on [**12-15**]).
+INR was then found to be supratherapeutic and warfarin was held.
+No evidence of bleeding or clots on exam.
+6. ipratropium bromide 0.02 % Solution Sig: One (1) spray Inhalation Q6H (every 6 hours) as needed for shortness of breath or wheezing.
+7. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1) spray Inhalation Q6H (every 6 hours) as needed for shortness of breath or wheezing.
+Disp:*1 kit* Refills:*0*   Discharge Disposition: Extended Care  Facility: [**Hospital3 2558**] - [**Location (un) **]  Discharge Diagnosis: hypotension, responsive to fluids acute renal failure, likely pre-renal UTI diabetes CHF Afib chronic pain respiratory failure, resolved, CAD s/p CABG Chronic lower extremity venous stasis  Discharge Condition: Mental Status: Clear and coherent.
+You were admitted to [**Hospital1 **] for hypotension and acute renal failure for which you were admitted to the intensive care unit where you were given fluids.
+Please make the following changes to your medications: STOP WARFARIN DECREASE Torsemide to 30 mg daily INCREASE Lisinopril to 5 mg daily DECREASE Metoprolol to 25 mg twice a day DECREASE Glargine to 5 units daily START Oxycodone 2.5 mg every 3 hours as needed for pain  Followup Instructions: Please follow-up with a physician as desired                               [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] MD [**MD Number(2) 2285**]

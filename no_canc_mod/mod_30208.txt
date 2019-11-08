@@ -1,0 +1,21 @@
+Admission Date:  [**2159-2-14**]              Discharge Date:   [**2159-2-17**]  Date of Birth:  [**2111-7-30**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 2901**] Chief Complaint: chest pain, STEMI from outside hospital  Major Surgical or Invasive Procedure: Cardiac Catheterization with 2 bare metal stents placed.
+History of Present Illness: 47M who had not had recently seen a physician and with [**Name Initial (PRE) **] distant small smoking history(<5pk/y), distant cocaine use and heavy alcohol use but sober for the last 7 years presented to OSH with chest pain.
+The pain started about 4:30PM while he was lifting sheet [**Doctor Last Name **] at work.
+He describes the pain as being right in the center of his chest and radiating down both arms to his wrists.
+There he had an EKG with ST elevations in I and aVL and depressions inferiorly.
+TTE [**2159-2-15**]: MEASUREMENTS: Left Atrium - Long Axis Dimension: *4.8 cm (nl <= 4.0 cm) Left Atrium - Four Chamber Length: *6.1 cm (nl <= 5.2 cm) Right Atrium - Four Chamber Length: *5.6 cm (nl <= 5.0 cm) Left Ventricle - Septal Wall Thickness: *1.2 cm (nl 0.6 - 1.1 cm) Left Ventricle - Inferolateral Thickness: 1.1 cm (nl 0.6 - 1.1 cm) Left Ventricle - Diastolic Dimension: 5.2 cm (nl <= 5.6 cm) Left Ventricle - Systolic Dimension: 4.0 cm Left Ventricle - Fractional Shortening: *0.23 (nl >= 0.29) Left Ventricle - Ejection Fraction: 50% (nl >=55%) Aorta - Valve Level: 3.6 cm (nl <= 3.6 cm) Aorta - Ascending: *3.6 cm (nl <= 3.4 cm) Aorta - Arch: *3.1 cm (nl <= 3.0 cm) Aortic Valve - Peak Velocity: 1.4 m/sec (nl <= 2.0 m/sec) Mitral Valve - E Wave: 0.9 m/sec Mitral Valve - A Wave: 0.9 m/sec Mitral Valve - E/A Ratio: 1.00 Mitral Valve - E Wave Deceleration Time: 222 msec Conclusions: There is mild symmetric left ventricular hypertrophy.
+No masses or thrombi are seen in the left ventricle.
+Overall left ventricular systolic function is low normal (LVEF 50%) secondary to hypokinesis of the midventricular segment of the anterior free wall and of the apical segments of the posterior and lateral walls.
+There is no ventricular septal defect.
+The ascending aorta is mildly dilated.
+The aortic arch is mildly dilated.
+The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic regurgitation.
+The mitral valve appears structurally normal with trivial mitral regurgitation.
+There is no mitral valve prolapse.
+There is no pericardial effusion.
+Impression: borderline/low normal left ventricular ejection fraction with focal wall motion abnormalities consistent with coronary artery disease   Brief Hospital Course: Assessment: 47yo M with minimal risk factor(tobacco, cocaine, elevated BMI) who presented with lateral STEMI with 90% occlusions in RPL and diagonal branches that were stented with bare metal stents .
+#STEMI: s/p cath and bare metal stents placement.
+Disp:*30 Tablet(s)* Refills:*2*   Discharge Disposition: Home  Discharge Diagnosis: Primary: STEMI   Discharge Condition: Stable   Discharge Instructions: You had a major heart attack.
+You must take these medications everyday or you could have another major heart attack.
+Please seek medical attention immediately if you have chest pain or shortness of breath.
+Please seek medical attention if you have leg swelling, lightheadedness or any other symptoms that are concerning to you.

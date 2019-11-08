@@ -1,0 +1,33 @@
+Admission Date:  [**2182-11-26**]              Discharge Date:   [**2182-11-29**]  Date of Birth:  [**2099-10-5**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 1257**] Chief Complaint: hyponatremia  Major Surgical or Invasive Procedure: none  History of Present Illness: 83-year-old woman with history of CAD (s/p CABGx2 '[**79**]) and DM2 presented to [**Hospital1 **] with confusion x 1 week and weakness x 4 weeks.
+The patient has experienced weakness with an 8-lb weight loss since [**2182-7-7**].
+Three weeks ago she had a few episodes of nonbloody diarrhea, presented to [**Hospital1 **] a few weeks ago for work-up, which was reportedly unrevealing.
+She was then diagnosed with an asymptomatic UTI, treated with antibiotics, during that admission.
+She reports having poor PO intake for the past few weeks.
+[**Last Name (STitle) 6051**], on the phone the day of admission and reportedly had some confused speech.
+Denies any fevers, chills, nausea, vomiting, abdominal pain, melena, hematochezia, chest pain, shortness of breath, orthopnea, PND, lower extremity oedema, cough, urinary frequency, urgency, dysuria, lightheadedness, vision changes, headache, rash or skin changes.
+Past Medical History: CAD: s/p CABG (LIMA to LAD, SVG to PDA) in [**2179**] DM2 Hyperlipidemia Diverticulosis Anemia Osteoporosis Renal caluli PUD Kyphosis   Social History: quit smoking in [**2173**] after 120 pack years.
+Family History: Mother, sisters and brothers all with [**Name (NI) 5290**]  Physical Exam: Vitals: T: BP: HR: RR: O2Sat: GEN: Well-appearing, well-nourished, no acute distress HEENT: EOMI, PERRL, sclera anicteric, no epistaxis or rhinorrhea, MMM, OP Clear NECK: No JVD, carotid pulses brisk, no bruits, no cervical lymphadenopathy, trachea midline COR: RRR, no M/G/R, normal S1 S2, radial pulses +2 PULM: Lungs CTAB, no W/R/R ABD: Soft, NT, ND, +BS, no HSM, no masses EXT: No C/C/E, no palpable cords NEURO: alert, oriented to person, place, and time.
+No gait disturbance.
+No cerebellar dysfunction.
+SKIN: No jaundice, cyanosis, or gross dermatitis.
+No ecchymoses.
+CXR: FINDINGS: In comparison with the study of [**2179-9-8**], there is again evidence of intact sternal sutures and the patient has undergone a previous CABG procedure.
+No evidence of vascular congestion, pleural effusion, or acute pneumonia.
+Brief Hospital Course: Summary by problem: 83-year-old woman with history of CAD (s/p CABGx2 in [**2179**]) and DM type 2 presented to OSH with confusion, weakness, 8-lb weight loss, nonbloody diarrhea, poor PO intake, and hyponatremia.
+She was transferred to [**Hospital1 18**] ICU for hyponatremia and sodium level of 110.
+However, she was noted to continue to have problems with cognition and gait.
+She had no illusions, delusions, or hallucination.
+She had no focal neurological defects.
+# Hyponatremia:  Cortisol and TSH levels were normal.
+A CT Chest was obtained to look for possible pulmonary malignancy (pulmonary causes of SIADH).
+It showed no evidence of any mass.
+Hyponatremia resolved on conservative management.
+We avoided the use of SSRI which could be responsible for her hyponatremia.
+#Cognitive impairment with gait abnormality with DDX of Delirium, frontal dementia, or normal pressure hydrocephalus.
+She may need brain MRI if symptoms progress.
+However, most of her symptoms can be explained by depression and her OSH CT head was unremarkable.
+The geriatrics service questioned the diagnosis of [**Last Name (un) 309**] body or frontal lobe dementia.
+We avoided the initiation of new antidepressants in the hospital as we need to monitor their effects on her.
+Weight loss: may be related to underlying depression or see above.
+Then we restarted Glyburide and placed Metformin on hold secondary to significant GI symptoms.
+Discharge Disposition: Extended Care  Facility: [**Hospital3 15644**] Healthcare Center  Discharge Diagnosis: Hyponatremia Depression   Discharge Condition: good   Discharge Instructions: stop metformin because of low appetite and diarrhea.

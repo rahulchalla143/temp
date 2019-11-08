@@ -1,0 +1,61 @@
+Admission Date:  [**2110-3-1**]              Discharge Date:   [**2110-3-4**]  Date of Birth:  [**2028-11-4**]             Sex:   M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 1145**] Chief Complaint: Altered Mental Status, Shortness of Breath  Major Surgical or Invasive Procedure: none  History of Present Illness: Mr. [**Known lastname **] is an 81 yo man with CAD s/p 4V CABG ([**2093**]), chronic sCHF (EF 20-25%), AF on Coumadin, CHB s/p BiV ICD & PPM, CKD IV, anemia who initially presented to [**Hospital1 **] [**Location (un) 620**] in moderate respiratory distress with lethargy, endorsing dyspnea and fatigue, subsequently intubated out of concern for increased work of breathing, placed LIJ central line, then transferred here for further management.
+Also given ASA in setting of elevated cardiac biomarkers.
+Hyperkalemia  with K of 6.2 treated with Calcium Gluconate, 10U Insulin, Dextrose.
+CXR with question of left lower lobe infiltrate versus pulmonary edema.
+EKG showed ventricular paced.
+Congestive heart failure.
+Coronary artery disease, status post myocardial infarction in [**2082**] and status post coronary artery bypass graft in [**2093**].
+History of ventricular tachycardia, status post ICD and pacer.
+History of hyperthyroidism secondary to Amiodarone.
+Atrial fibrillation/atrial flutter; status post AVJ ablation.
+Iron Deficiency Anemia 9.
+Hyperthyroidism secondary to Amiodarone  Social History: (per records) Quit smoking in [**2093**].
+Sclera anicteric.
++SEM loudest at apex radiating to axilla consistent with MR LUNGS: anterior fields mostly CTAB, RLL with occas crackles ABDOMEN: Soft, non-tender, non-distended, + LUQ linear scar EXTREMITIES: + clubbing, no edema, R lateral heel ulcer SKIN: multiple scattered ecchymoses, confluent on forearms PULSES: unable to palpate DP & PT, but extremities warm   Pertinent Results: ADMISSION LABS: [**2110-3-1**] 08:20PM BLOOD WBC-12.9* RBC-3.22* Hgb-9.5* Hct-29.1* MCV-90 MCH-29.6 MCHC-32.8 RDW-19.2* Plt Ct-110* [**2110-3-1**] 08:20PM BLOOD Plt Ct-110* [**2110-3-1**] 08:20PM BLOOD PT-38.2* PTT-38.3* INR(PT)-4.0* [**2110-3-2**] 01:07AM BLOOD Glucose-57* UreaN-91* Creat-3.9* Na-130* K-5.9* Cl-101 HCO3-16* AnGap-19 .
+Cardiomegaly, with mild volume overload.
+It is unclear whether there is an underlying parenchymal consolidation.
+No acute intracranial hemorrhage.
+Findings suggest extensive sequelae of chronic small vessel ischemic disease; however, in this setting (and given the lack of prior studies available for comparison), a small acute infarct cannot be excluded and MRI, if feasible, is recommended for further evaluation if there is clinical concern.
+Paranasal sinus chronic inflammatory disease, as above.
+Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded.
+with depressed free wall contractility.
+There is a minimally increased gradient consistent with minimal aortic valve stenosis.
+There is severe mitral annular calcification.
+There is mild valvular mitral stenosis (area 1.5-2.0cm2).
+Moderate to severe (3+) mitral regurgitation is seen.
+Moderate to severe [3+] tricuspid regurgitation is seen.
+There is moderate pulmonary artery systolic hypertension.
+[In the setting of at least moderate to severe tricuspid regurgitation, the estimated pulmonary artery systolic pressure may be underestimated due to a very high right atrial pressure.]
+There is no pericardial effusion.
+MICRO: URINE CX [**2110-3-1**]: NO GROWTH URINE CX [**2110-3-2**]: NO GROWTH URINE CX [**2110-3-3**]: PENDING .
+BLOOD CX [**2110-3-1**]: PENDING BLOOD CX [**2110-3-2**]: PENDING BLOOD CX [**2110-3-3**]: PENDING   Brief Hospital Course: HOSPITAL COURSE: 81 yo M with multiple medical problems including CAD s/p CABG, sCHF (EF 20-25%), Chronic AF on Coumadin, CHB s/p BiV ICD & PPM, Stage IV CKI, and anemia, presenting with lethargy and respiratory distress, intubated and on on pressors for hypotension.
+ACTIVE ISSUES: # Hypoxic/Hypercapnic Respiratory Failure: Most likely multifactorial including hypercapnea secondary to lethargy given elevated PCO2's on admission.
+Pt also with volume overload and question of infilrate, resulting in hypoxia.
+CVP's were elevated in 20's, suggesting volume overload.
+Lasix gtt was started for pulmonary edema.
+# Hypotension: Most likely [**2-26**] cardiogenic; differential included hypovolemia, distributive, or cardiogenic.
+Pt appeared volume overloaded rather than hypovolemic, and had no signs of acute bleeding on admission.
+A distributive picture was considered, though initially thought to be less likely given that he was afebrile and only mild leukocytosis.
+Pt appeared volume overloaded, and had a known EF of 20-25% from [**2108**] at [**Location (un) 620**].
+He had severely elevated BNP to 22,000 and CXR suggestive of volume overload.
+He developed a temperature to 100.3 on evening of hospital day 2.
+However, his fever curve downtrended.
+Despite maximum doses of lasix, he failed to put out adequate urine output, and renal was consulted for dialysis.
+# Acute on chronic systolic CHF: Hx of ischemic cardiomyopathy.
+As above, presented with elevated BNP to 22,000 with clinical evidence of volume overload.
+# Elevated cardiac enzymes: Pt presented with trops to 0.14, and MB flat.
+Most likely [**2-26**] acute on chronic renal failure as below.
+# RHYTHM: Hx of chronic A fib and complete heart block, now with BiVentricular ICD and PPM.
+Patient [**Name (NI) **] paced so difficult to appreciate ST-T wave changes.
+# Stage IV Chronic Kidney Disease: Acute on chronic renal failure.
+# Hyperkalemia: Likely [**2-26**] renal insufficiency  and acidosis.
+No peaked T waves on EKG.
+# Hyponatremia: Hypervolemic hyponatremia [**2-26**] heart failure and renal failure.
+Urine lytes showed UNa of 33, demonstrating that pt had innappropriate loss of Na in urine given renal failure.
+# Prolonged PT: [**2-26**] to likely nutritional deficiency prior to admission and decreased renal excretion.
+# Metabolic encephalopathy: Multifactorial, including hypoxia, hypercapnea, possible infection, renal failure, and electrolyte disturbance.
+CT head without showed chronic ischemic changes.
+# Anemia: Chronic.
+Of note, pt had recent admission for melena in [**Month (only) 1096**], received 2U PRBC with no further investigation by GI.
+However, he developed hematuria likely [**2-26**] foley placement and supratherapeutic INR.
+# Left submandibular neck mass: fleshy consistency, and without signs of infection.

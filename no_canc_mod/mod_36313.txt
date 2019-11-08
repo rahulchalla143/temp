@@ -1,0 +1,37 @@
+Admission Date:  [**2178-12-28**]              Discharge Date:   [**2179-1-2**]  Date of Birth:  [**2133-4-4**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 23753**] Chief Complaint: Abdominal pain & blurry vision  Major Surgical or Invasive Procedure: None   History of Present Illness: Ms. [**Known lastname **] is a 45yo woman with a history of DM type I on home lantus and sliding scale who presented with abdominal pain & blurry vision.
+One day prior to admission, pt developed photophobia (TV bothering her eyes), blurry vision, sharp abdominal pain, shortness of breath, chest tightness & unsteady gait.
+Also, (+) polyuria, polydypsia, nausea & vomiting.
+EKG showed changes that were initially concerning for STEMI and pt started on heparin gtt because of this.
+Cardiology reportedly saw pt & reviewed EKG in ED and felt that pt was not having ACS and that heparin was not indicated.
+Additionaly, other changes, including ST depressions 1-2mm in I, V5, V6; TWI in I, aVL, biphasic T waves in V5-V6, were all unchanged from previous EKGs.)
+DM type I; A1C 8.2 in [**11-3**]; no h/o DKA, but multiple ED visits for hypoglyemia 2.
+HTN 3. depression 4.
+Family History: History of HTN; no DM, CAD or cancer.
+There is no evidence of failure or infiltrate.
+Mild symmetric left ventricular hypertrophy with preserved global and regional biventricular systolic function.
+No valvular pathology or pathologic flow identified.
+Resting EKG is notable for chronic anteroseptal Q waves and left ventricular hypertrophy with STT wave abnormalities affecting the inferior leads and V4-V6.
+The additional ST segment changes seen during exercise and in recovery period are uninterpretable for ischemia in the presence of baseline abnormalities.
+Heart rate response was adequate, achieving 85% of maximum predicted heart rate and a rate-pressure product of [**Numeric Identifier **].
+IMPRESSION: No angina-type symptoms with uninterpretable EKG for  ischemia.
+Resting hypertension exacerbated with exercise.
+Resting and stress perfusion images reveal uniform tracer uptake throughout the left ventricular myocardium.
+Brief Hospital Course: 45F with h/o type I diabetes mellitus who presents with DKA.
+# DKA - DKA likely resulted from medication non-compliance.
+Infectious etiologies also considered as cause of DKA although her CXR, UA, blood cultures and LP were all negative.
+# Elevated cardiac enzymes: on presentation to the ED, the pt was found to have elevated CE's as well as EKG changes that were thought to be ST elevations.
+Her heparin was discontinued, as she was not felt to be having Acute Coronary Syndrome.
+While in the MICU, the pt had additional sets of enzymes checked.
+After being called out of the MICU, the floor team consulted cardiology regarding her enzyme elevation and need for further evaluation.
+The cardiology team felt that the pt had in fact had an event based on her enzymes.
+# HTN - metoprolol and lisinopril were titrated for BP & HR control.
+# Mental status changes - Resolved following treatment of DKA.
+Likely the result of toxic-metabolic causes in setting of DKA & acidemia.
+Unlikely infection given all cultures negative.
+# Acute renal failure - Due to DKA and related dehydration causing prerenal azotemia.
+# Depression: pt seen by social work.
+# PPx - SC heparin, PPI .
+Disp:*120 Tablet(s)* Refills:*2* 6. insulin Please take 34u lantus insulin EVERY night.
+Discharge Disposition: Home  Discharge Diagnosis: Primary: Diabetic ketoacidosis hypertension .
+Secondary: Depression   Discharge Condition: Good   Discharge Instructions: You were admitted to the hospital with extremely elevated blood sugar levels.
+Please contact Dr. [**Last Name (STitle) **] at [**Telephone/Fax (1) 4255**] or go to the emergency room if you develop fever, chills, abdominal pain, chest pain, shortness of breath, or any other concerning symptoms or change in your health.

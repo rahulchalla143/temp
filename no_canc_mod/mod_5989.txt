@@ -1,0 +1,26 @@
+Admission Date:  [**2137-2-27**]              Discharge Date:   [**2137-3-4**]  Date of Birth:  [**2065-2-27**]             Sex:   F  Service: MEDICINE  Allergies: Azithromycin / Ace Inhibitors / Codeine  Attending:[**Doctor Last Name 10493**] Chief Complaint: Allergic reaction.
+Major Surgical or Invasive Procedure: Nasotracheal Intubation   History of Present Illness: Mrs. [**Known lastname **] is a 71 year old woman with a history of hypertension and diabetes who recently presented with bronchitis and now presents with tounge swelling after a dose of azithromycin.
+She initially complained 11 days of cough which was productive for about 5 days.
+She denied any fevers, chills, nausea or vomiting.
+On arrival to [**Hospital Unit Name 153**], nursing noted some decreased breath sounds on the left side.
+Hypertension 2.
+Diabetes 3.
+Family History: Daughter with history of allergic reaction to fish.
+Physical Exam: VS: T 96 BP 120/80 HR 73 RR 12 Sat 98-100% VENT: CPAP 10/5 0.5  572-588 GEN: Intubated/sedated HEENT: Protruding, swollen tongue, peri-oral edema CV: Normal s1/s2, RRR PUL: CTA bilaterally anteriorly, decreased breath sounds on Left side.
+The lung volumes are quite low accentuating the cardiac silhouette and bronchovascular structures.
+There is a patchy area of opacity in the right retrocardiac region which likely reflects atelectasis, although aspiration is an additional consideration.
+No pleural abnormality or evidence of central adenopathy.
+The thoracic aorta is very tortuous and moderately calcified but not definitely aneurysmal.
+Bilateral right and left retrocardiac opacities, which may represent atelectasis or aspiration.
+Brief Hospital Course: 71 year old woman with obesity, diabetes, hypertension who presents with tongue swelling after taking a dose of azithromycin for bronchitis as well as cough syrup containing codeine.
+# Angioedema: As described in the HPI, ENT was consulted and performed a fiberoptic nasal intubation in the ED and pt was sent to the [**Hospital Unit Name 153**].
+Her reaction was thought to be due to either the azithromycin or the codeine but it was heard the tell as she took both at the same time.
+Fiberoptic scope by ENT the next day revealed persistent laryngeal edema, mild erythema of nasal pharynx, moderate supraglottis edema, fair glottic airway but the following day this had all improved.
+# Bronchitis/Sinusitis: Pt remained afebrile but was noted to have excessive nasal secretions on fiberoptic exam by ENT.
+Levofloxacin was started as it was hoped to be the least allergenic of potential antibiotics.
+# Code: Full.
+EpiPen 0.3 mg/0.3 mL Syringe Sig: One (1) injection Intramuscular  ONCE as needed for anaphylactic reaction.
+Anaphylactic reaction 2.
+Bronchitis and Sinusitis  Secondary Diagnosis: 1.
+Hypertension 2.
+Diabetes   Discharge Condition: good, oxygenating 90% on ambulation on room air   Discharge Instructions: Resume all prior medications except: - we have stopped your ACE-I given concern for throat swelling - do NOT take azithromycin or codeine until cleared by the allergist  Call Dr. [**Last Name (STitle) 1007**] or return to the ER if you experience any throat swelling, difficulty speaking, trouble breathing, chest pain, wheezing or anything else that concerns you  Followup Instructions: You should see an allergist.

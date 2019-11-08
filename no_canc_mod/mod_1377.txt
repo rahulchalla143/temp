@@ -1,0 +1,78 @@
+Admission Date:  [**2112-2-21**]              Discharge Date:   [**2112-3-1**]  Date of Birth:  [**2027-10-29**]             Sex:   M  Service: MEDICINE  Allergies: Percocet / Prednisone / Darvocet A500  Attending:[**First Name3 (LF) 1515**] Chief Complaint: Class IV heart failure, here for [**First Name3 (LF) **] on [**2112-2-23**]  Major Surgical or Invasive Procedure: [**2112-2-23**] TAVI/[**Year (4 digits) 10723**] percutaneous aortic valve replacement   History of Present Illness: Mr. [**Known lastname 10722**] is an 84-year-old gentleman with a history of CAD s/p LAD stenting in [**2105**], who has known diastolic heart failure with a normal LVEF (70%).
+He also has a history of tachy-brady syndrome and underwent a permanent pacemaker placement.
+In [**Month (only) 1096**], was admitted to [**Hospital3 **] with dyspnea and treated for a presumed CHF exacerbation.
+Trop at OSH was 0.07 (indeterminate) and had increased O2 requirement.
+He had one episode of severe epistaxis requiring packing by an ENT at [**Hospital 882**] Hospital.
+Patient has not had any more episodes of epistaxis since then.
+Additionally, while receiving 2 units of pRBC at [**Location (un) 620**] on [**2-19**], he developed abdominal pain which he thought was reflux, but was not relieved by tums.
+He was admitted for cardiac enzyme monitoring, out of concern abd pain could be cardiac in etiology.
+Patient reports diarrhea has improved and he now has 1-2 episodes of loose stool.
+CARDIAC RISK FACTORS: + Dyslipidemia, + Hypertension 2.
+OTHER PAST MEDICAL HISTORY: - AFlutter s/p ablation, then tachy-brady s/p PPM - Aortic stenosis ([**Location (un) 109**] 0.8cm2) - Chronic AF: previously on coumadin, stopped [**1-28**] epistaxis, hematomas, frequent falls (now s/p IVC filter) - dCHF(Moderate-severe R dCHF, moderate L dCHF) - HCM - COPD on home O2 - OSA - Hypothyroid - Chronic Renal insufficiency - MRSA old wound and sputum - s/p IVC filter - s/p fracture of lower sacrum/upper coccyx [**2-5**] - Spinal Stenosis, s/p multiple interventions - Prostate Cancer - BPH - Chronic Fatigue - right rotator cuff injury - arthritis shoulders and knees (cortisone injections) - s/p multiple back surgeries - SBO s/p resection c/b post-op GI bleed in setting of elevated INR  Social History: Retired; former occupation was research and development of jet engines x45 years.
+Family History: -Brother passed from pancreatic cancer at 43 yo -Father passed from cerebral hemmorrhage  Physical Exam: PHYSICAL EXAMINATION ON ADMISSION: 98.1/98.1 HR:70 BP:111-123/75-80 RR:20 02 sat: 96 (RA) In/Out: Last 24H: Last 8H: 360/750 Weight:  kg(88.8 kg) GENERAL: NAD.
+moist mucous membranes, no lymphadenopathy NECK: Supple with JVP of 10 cm.
+high-pitched murmur at RUSB, radiating to carotics.
+LUNGS: CTAB, no crackles, wheezes or rhonchi.
+EXTREMITIES: 1+ pitting edema to knees b/l.
+Persistent central vascular congestion with mild edema.
+ECHO [**2112-2-23**] Pre implant  No atrial septal defect is seen by 2D or color Doppler.
+Overall left ventricular systolic function is mildly depressed (LVEF= 45 %).
+There are simple atheroma in the descending thoracic aorta.
+There is critical aortic valve stenosis (valve area <0.8cm2).
+Mild (1+) aortic regurgitation is seen.
+Moderate (2+) mitral regurgitation is seen.
+Moderate to severe [3+] tricuspid regurgitation is seen.
+There is a very small pericardial effusion.
+Slightly lower implant.
+Mild perivalvular leak present.
+Moderate mitral regurgitation persists.
+ECHO [**2112-2-25**] The left atrium is moderately dilated.
+There is moderate symmetric left ventricular hypertrophy.
+[Intrinsic right ventricular systolic function is likely more depressed given the severity of tricuspid regurgitation.]
+The ascending aorta is mildly dilated.
+No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Mild (1+) mitral regurgitation is seen.
+The tricuspid valve leaflets are mildly thickened.
+Moderate [2+] tricuspid regurgitation is seen.
+There is moderate pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+Compared with the prior study (images reviewed) of [**2111-12-23**], a [**Year (4 digits) **] prosthesis is present and is functioning normally with no evidence of aortic regurgitation.
+ECHO [**2112-2-29**] The left atrium is moderately dilated.
+There is mild symmetric left ventricular hypertrophy with normal cavity size and regional/global systolic function (LVEF>55%).
+Very mild (1+) paravalvular aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Mild (1+) mitral regurgitation is seen.
+There is mild pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+Compared with the prior study (images reviewed) of [**2112-2-25**], very mild paravalvular aortic regurgitation is now seen and the estimated PA systolic pressure is now lower.
+Clinical decisions regarding the need for prophylaxis should be based on clinical and echocardiographic data.
+MICRO [**2112-2-22**] URINE URINE CULTURE-NEGATIVE [**2112-2-22**] Staph aureus Screen Staph aureus Screen-FINAL {STAPH AUREUS COAG +} INPATIENT [**2112-2-22**] STOOL CLOSTRIDIUM DIFFICILE TOXIN A & B TEST-NEGATIVE  Brief Hospital Course: ASSESSMENT AND PLAN:  #.AORTIC STENOSIS ([**Location (un) 109**] 0.8cm2): enrolled in [**Location (un) 10723**]/TAVI study high risk arm with randomization to TAVI.
+The patient tolerated the procedure well and post-procedure echo showed resolution of aortic stenosis with a well-seated valve, with an EF of 55%.
+# NYHA CLASS IV DIASTOLIC CHF: Patient has hypertrophic cardiomyopathy, with moderate-severe R dCHF, moderate L dCHF.
+Most recent cath at [**Hospital1 18**] ([**11/2111**]) revealed no obstructive CAD.
+# Atrial Flutter: Pt has history of AFlutter s/p ablation, then tachy-brady s/p PPM.
+Also has history of chronic AFib, for which he was just switched to pradaxa from coumadin.
+He did have a bit of oozing from his left groin site, this was fixed with local lido/epi and pressure bandages.
+Given his several hospitalizations for epistaxis we discussed the risk benefit of anticoagulation with his hematologist/oncologist Dr. [**First Name (STitle) 4223**], who agreed with us that given his CHADS2 score of 4 with an annual stroke rate of 8% and no major bleeds, anticoaggulation would still be indicated, and the patient agreed with this plan.
+His symptoms were thought to be due to a viral gastrointestinal syndrome and resolved with supportive measures prior to his procedure.
+# Anemia: Patient with a clear iron deficiency anemia on labs from [**2112-2-9**] (iron of 31, ferritin of 26, TIBC of 463).
+Patient has a recent GI bleed admission in [**2109**] with stable HCTs and colonscopy being a poor study but EGD showing erosive gastritis.
+The patient showed no signs of GI bleed during his hospitalization.
+The patient's PCP will be notified of his anemia and that a screening colonoscpy (given the poor study) would be indicated in the future.
+Continued gabapentin 100mg PO TID and tylenol 650mg PO q6 hrs PRN pain .
+#.MRSA old wound and sputum: contact precautions were in place.
+# Anemia of chronic renal disease: received Procrit 10,000 units  s/c on [**2-12**].
+2. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+Discharge Medications: 1. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+9. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day) as needed for constipation.
+13. sodium chloride 0.65 % Aerosol, Spray Sig: [**12-28**] Sprays Nasal QID (4 times a day) as needed for dry nose.
+14. bacitracin zinc 500 unit/g Ointment Sig: One (1) Appl Topical QID (4 times a day) as needed for lower leg sore.
+Discharge Disposition: Extended Care  Facility: Newbridge on the [**Doctor Last Name **] - [**Location (un) 1411**]  Discharge Diagnosis: Discharge Diagnosis: 1. severe aortic stenosis -s/p [**Location (un) 10723**] transcatheter aortic valve replacement with percutaneous approach.
+2. diastolic heart failure 3. atrial fibrillation 4. diabetes 5.
+MRSA (+)nares 6. renal insufficiency 7. anemia of chronic renal disease   Discharge Condition: Alert and oriented.
+Your workup and cultures here were negative, you remained fever free, and the symptoms resolved on their own.
+You then underwent elective [**Date Range 10723**] transcatheter aortic valve replacement by percutaneous approach to treat your severe symptomatic aortic valve stenosis.
+You remained anemic later in your stay without any obvious sign of active bleeding for which you received two units of packed red blood cells and your usual dose of Procrit.
+Your medications will remain the same as before you came in EXCEPT: 1. you torsemide has been decreased to 10mg daily as you have much less fluid than before your procedure.
+3. your coumadin dose may need to be adjusted daily until a therapeutic INR of 2.0 is reached as treatment for your underlying atrial fibrillation.

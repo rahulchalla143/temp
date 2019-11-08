@@ -1,0 +1,51 @@
+Admission Date:  [**2187-4-20**]              Discharge Date:   [**2187-4-23**]  Date of Birth:  [**2106-8-2**]             Sex:   F  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 5973**] Chief Complaint: Shortness of breath, altered mental status  Major Surgical or Invasive Procedure: None   History of Present Illness: Patient is an 80 year-old patient with history of Sjogren's syndrome, moderate MR, recent hospitalization for sepsis secondary to c. diff colitis complicated by hypercarbic respiratory failure requiring intubation, who is presenting from [**Hospital 100**] Rehab with worsening dyspnea for one day.
+Patient was discharged from [**Hospital1 **] yesterday ([**2187-4-19**]) following hospitalization for c. diff colitis.
+She reports shortness of breath associated with the cough.
+She denies chest pain.
+She denies nausea or vomiting.
+She denies abdominal pain.
+Exam was notable for tachypnea with respiratory rates in the 30s.
+On arrival to the MICU, patient is wearing BiPAP, but wants it removed and does not want any other supplemental oxygen.
+She denies cough or shortness of breath.
+Past Medical History: Anemia Borderline cholesterol C. Diff Flatulence Health Maintenance Heart Murmur Hypertension Hypothyroidism Mitral Regurgitation Osteoporosis Pneumonia Sinusitis Sjogren   Social History: Patient previously lived alone in an apartment and cares for herself.
+She does not use tobacco or alcohol.
+Family History: Long history of hypertension in her family.
+She does report that her father's family has a history of multiple cancers.
+She has a grandfather with a history of stomach cancer and an uncle with a history of throat cancer.
+She denies any history of colon cancers.
+Neck: supple, JVP not elevated, no LAD CV: Regular rate and rhythm, normal S1 + S2, II/VI systolic murmur at apex.
+Abdomen: soft, distended, non-tender, no rebound/guarding.
+GU: foley in place foley Ext: warm, 1+ DP pulses, Diffuse edema Neuro: CNII-XII intact, disoriented, inattentive  Discharge exam - unchanged from above, except as below: General: Awake, sleepy but arousable to voice, NAD GU: Foley removed Neuro: A&Ox2 (name and date), MS has been waxing/[**Doctor Last Name 688**], no focal defecits  Pertinent Results: Labs upon admission: [**2187-4-19**] 07:30AM BLOOD WBC-7.1 RBC-3.11* Hgb-9.3* Hct-30.3* MCV-97 MCH-29.9 MCHC-30.7* RDW-14.0 Plt Ct-424 [**2187-4-20**] 07:10PM BLOOD Neuts-68.2 Lymphs-21.8 Monos-6.6 Eos-2.4 Baso-1.0 [**2187-4-19**] 07:30AM BLOOD Glucose-122* UreaN-20 Creat-0.3* Na-133 K-4.0 Cl-92* HCO3-39* AnGap-6* [**2187-4-20**] 07:10PM BLOOD ALT-32 AST-40 AlkPhos-129* TotBili-0.2 [**2187-4-20**] 07:10PM BLOOD cTropnT-0.01 [**2187-4-19**] 07:30AM BLOOD Calcium-7.8* Phos-2.4* Mg-1.9 [**2187-4-20**] 11:05PM BLOOD Type-ART Temp-36.7 Tidal V-300 PEEP-5 FiO2-50 pO2-133* pCO2-78* pH-7.37 calTCO2-47* Base XS-15 Intubat-NOT INTUBA [**2187-4-20**] 07:16PM BLOOD Lactate-1.5  Discharge labs: [**2187-4-23**] 06:30AM BLOOD WBC-4.9 RBC-2.67* Hgb-8.2* Hct-26.4* MCV-99* MCH-30.8 MCHC-31.2 RDW-15.0 Plt Ct-311 [**2187-4-23**] 06:30AM BLOOD Glucose-113* UreaN-6 Creat-0.3* Na-136 K-3.5 Cl-95* HCO3-37* AnGap-8  Micro: -BCx x2 (NGTD) -UCx x2 - Yeast, no bacterial growth -Midline tip - NGTD -C. diff PCR - neg  Imaging:  [**2187-4-20**]: CXR: IMPRESSION:  No significant interval change with bilateral pleural effusions with right pigtail catheter in the lower chest.
+Possible small right apical pneumothorax.
+No evidence of pulmonary embolism.
+Bilateral pleural effusions, small to moderate on the left, decreased since the most recent prior examination and trace on the right, markedly decreased compared to [**2187-4-10**] with pigtail catheter noted in place on the right.
+Brief Hospital Course: 80 year old woman, recently hospitalized for C. Difficile sepsis and shock, re-admitted to MICU from [**Hospital 100**] Rehab with altered mental status, tachypnea and a mild respiratory acidosis.
+#Hypoxia/hypercarbia: She initially required BiPAP and was admitted to the MICU for monitoring of her respiratory status.
+Cause of her respiratory symptoms is unclear, but may be due to hypoventilation from somnolence related to oversedation with Zyprexa.
+CTA Chest was negative for PE and showed no clear evidence of pneumonia.
+She was initially started on HCAP antibiotics with vanc/cefepime which were stopped on HD 4 prior to discharge given that all cultures were negative and there was no consolidation on imaging.
+# Delirium: Likely multifactorial, but thought to be related to oversedation from Zyprexa.
+There was no evidence of infection and antibiotics were quickly stopped as described above.
+UA was dirty, but UCx was negative x2 (grew only yeast) and she had no urinary symptoms.
+Most of her mental status changes were probably related to her sedationg medications and hypercarbia at admission, which improved with BiPAP and holding her antipsychotics.
+# C Diff Colitis: Recently admitted for C. diff colitis with sepsis.
+She continued to have high volume stool output and Flexiseal is in place for skin ulceration.
+# Anemia: Patient with guaiac positive stools this admission, new from past admission.
+Felt to be secondary to sloughing and mucosal oozing secondary to C diff.
+Normal lactate on admission and benign abdominal exam.
+# Bilateral pleural effusions: Noted to have bilateral pleural effusions last hospitalization in setting of massive fluid resuscitation, right pleural pigtail catheter removed this admission in the MICU.
+The elevated bicarb is also be partially due to compensation from her respiratory acidosis.
+# Volume overload: She has some diastolic dysfunction and has 2+ MR [**First Name (Titles) **] [**Last Name (Titles) **].
+She continues to appear total body overloaded, likely in setting of volume resuscitation on prior admission for sepsis, but with contraction alkalosis currently, so further diuresis was held as above.
+Consider further diuresis once hypercarbia improves and bicarb trends down.
+# Hypothyroidism: Continued on levothyroxine 50 mcg daily  # Hypertension: Patient was previously on lisinopril which was held since last admission in setting of sepsis and relative hypotension.
+She remained normotensive  # GERD: Patient previously on omeprazole last hospitalization, which was stopped after C. diff came back positive, and she was transitioned to H2 blocker for GI prophylaxis but this was stopped again when she became delirious last hospitalization.
+# Code status this admission: FULL  # Transitional issues: -Foley was removed [**4-23**] and she has not voided as of discharge, may need Foley replaced if she is unable to void -Would restart diuresis when bicarb trends down -Continue PO vanco 125mg q6h through [**2187-4-30**] -Please follow Hct daily given melanotic stools, should resolve as her C. diff resolves -Midline removed [**2187-4-21**] -Pigtail catheter removed this admission -F/u pending BCx, catheter tip cx  Medications on Admission: Medications at [**Hospital 100**] Rehab: fluticasone 50 mcg nasal spray 1-2 puffs [**Hospital1 **] PRN levothyroxine 50 mcg dialy acetaminophen 650 mg Q4H PRN pain polyvinyl alcohol 1.4% drops every 4H PRN dry eyes heparin line flush Humalog insulin sliding scale Miconazole nitrate 2% powder, 1 application TID PRN rash ondansetron 4 mg IV Q8H PRN nausea Olanzapine 2.5 mg PO daily and qHS PRN anxiety/insomnia Vancomycin 500 mg Q6H planned through [**2187-5-1**]   Discharge Medications: 1. fluticasone 50 mcg/actuation Spray, Suspension Sig: 1-2 puffs Nasal twice a day as needed for allergies.
+3. acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO every four (4) hours as needed for fever or pain.
+4. polyvinyl alcohol 1.4 % Drops Sig: One (1) drop Ophthalmic every four (4) hours as needed for dry eyes.
+9. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1) neb Inhalation every four (4) hours as needed for shortness of breath or wheezing.
+10. ipratropium bromide 0.02 % Solution Sig: One (1) neb Inhalation every six (6) hours as needed for shortness of breath or wheezing.
+Discharge Disposition: Extended Care  Facility: [**Hospital6 459**] for the Aged - MACU  Discharge Diagnosis: Primary diagnoses: Altered mental status Hypoxia  Secondary diagnoses: Clostridium difficule   Discharge Condition: Mental Status: Confused - sometimes.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Discharge Instructions: Dear Ms. [**Known lastname 5974**],  It was a pleasure taking care of you during your admission to [**Hospital1 18**] for hypoxia/hypercarbia and altered mental status.
+We looked for an infection but were not able to find a clear source.

@@ -1,0 +1,37 @@
+Admission Date:  [**2130-6-15**]              Discharge Date:   [**2130-6-21**]  Date of Birth:  [**2049-4-20**]             Sex:   F  Service: CARDIOTHORACIC  Allergies: Penicillins / Pneumovax 23 / Tetracycline Analogues  Attending:[**First Name3 (LF) 922**] Chief Complaint: chest pain, worsening DOE  Major Surgical or Invasive Procedure: [**2130-6-15**] AVR (pericardial)/CABG x 1/Modified MAZE   History of Present Illness: 81 yo F with history of aortic stenosis and positive stress echo referred for cardiac catheterization.
+Cardiac catheterization showed 1 vessel CAD and aortic stenosis and she was referred for surgery.
+No new consolidations.
+Aortic valve disease.
+Atrial fibrillation.
+Mitral valve disease.
+Shortness of breath.
+ICD-9 Codes: 402.90, 427.31, 786.05, 440.0, 424.1, 424.0 Test Information Date/Time: [**2130-6-15**] at 10:07    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 5209**], MD Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 929**], MD Doppler: Full Doppler and color Doppler Test Location: Anesthesia West OR cardiac Contrast: None Tech Quality: Adequate Tape #: 2008AW5-: Machine: Echocardiographic Measurements Results  Measurements  Normal Range Left Ventricle - Ejection Fraction:  60% to 65%  >= 55% Aortic Valve - Peak Velocity:  *4.2 m/sec  <= 2.0 m/sec Aortic Valve - Peak Gradient:  *77 mm Hg  < 20 mm Hg Aortic Valve - Mean Gradient:  46 mm Hg Aortic Valve - Valve Area:  *0.6 cm2  >= 3.0 cm2  Findings LEFT ATRIUM: Moderate LA enlargement.
+No thrombus in the LAA.
+No ASD by 2D or color Doppler.
+Simple atheroma in ascending aorta.
+Simple atheroma in aortic arch.
+Simple atheroma in descending aorta.
+Focal calcifications in descending aorta.
+No masses or vegetations on aortic valve.
+MITRAL VALVE: Mildly thickened mitral valve leaflets.
+Severe mitral annular calcification.
+The left atrium is moderately dilated.
+No thrombus is seen in the left atrial appendage.
+The right atrium is moderately dilated.
+No atrial septal defect is seen by 2D or color Doppler.
+There is moderate symmetric left ventricular hypertrophy.
+There are simple atheroma in the ascending aorta.
+There are simple atheroma in the aortic arch.
+There are simple atheroma in the descending thoracic aorta.
+No masses or vegetations are seen on the aortic valve.
+There is severe aortic valve stenosis (area <0.8cm2).
+Mild (1+) aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+There is severe mitral annular calcification.
+Moderate (2+) mitral regurgitation is seen.
+Moderate [2+] tricuspid regurgitation is seen.
+Well-seated bioprosthetic valve in the aortic position.
+Wires and chest tubes were dc'd without incident.
+Endoscopy on [**6-20**] showed two non-bleeding ulcers in the GE junction, mucosa suggestive of Barrett's esophagus, esophagitis and a small hiatal hernia.
+She will need follow up endoscopy to monitor the ulcer, as well as colonoscopy for further anemia evalution in 3 months or sooner if evidence of further bleeding.
+Disp:*60 Tablet(s)* Refills:*0*   Discharge Disposition: Home With Service  Facility: [**Hospital3 **] VNA  Discharge Diagnosis: Aortic stenosis Coronary Artery Disease Paroxysmal atrial fibrillion on coumadin Hypertension, Lumbar Disc Disease Esophageal ulcers   Discharge Condition: stable   Discharge Instructions: Call with fever, redness or drainage from incision or weight gain more than 2 pounds in one day or five in one week.

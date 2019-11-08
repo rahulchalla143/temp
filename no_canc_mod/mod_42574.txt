@@ -1,0 +1,55 @@
+Admission Date:  [**2162-10-14**]              Discharge Date:   [**2162-10-29**]  Date of Birth:  [**2079-10-10**]             Sex:   F  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 5606**] Chief Complaint: Altered mental status  Major Surgical or Invasive Procedure: ERCP with biliary stent placement [**2162-10-14**] PEG placement on [**2162-10-27**]   History of Present Illness: Ms. [**Known lastname 100910**] is an 83 year-old woman with a history of severe dementia (baseline oriented to name, minimally verbal, has to be fed, non-ambulatory), depression, hypertension and hypothyroidism who was sent in from her nursing home due to worsening mental status.
+According to the nursing home, she has had decreased PO intake over the past 3 days as well as fevers.
+She has had increased somnolence as well with her spending a lot of time sleeping.
+She was noted to have a positive U/A and was started on Levaquin.
+She had a RUQ ultrasound which showed biliary stone but no evidence of cholangitis.
+She was unresponsive and was unable to answer questions.
+According to her nursing home, she did not have any cough, chest pain, vomiting, rashes or skin changes.
+Past Medical History: - Advanced dementia - Hypertension - Hypothyroidism - Depression  Social History: Lived in [**Hospital3 537**] until recently.
+GEN: No acute distress, comfortable breathing HEENT: EOMI, MMM, no oral lesions, but poor dentition NECK: Supple CHEST: CTAB CV: RRR ABD: Soft, nontender, nondistended, bowel sounds present SKIN: Ecchymoses on arms.
+MRSA Screen: Negative  ECG [**2162-10-14**]: Sinus rhythm, rate 71, normal axis, nonspecific T-wave changes in anterior precordial leads.
+Subsegmental atelectasis is bilateral.
+There is no pneumothorax, pleural effusion or focal consolidation.
+There is no pulmonary edema.
+Possible right axillary lymphadenopathy as well.
+Numerous spinal compression deformities, with the most severe, at L3 new from [**0-0-0**] 3.
+Diffuse thickening of the left adrenal gland without definite nodularity, possible hyperplasia.
+Bibasilar pulmonary opacities, greater on the left than right, possibly atelectatic or infectious depending on the appropriate clinical context.
+CT HEAD [**2162-10-14**]: No acute intracranial abnormality.
+RUQ ULTRASOUND [**2162-10-14**]: Cholelithiasis and choledocholithiasis, without specific signs to confirm cholecystitis.
+Extensive DVT in the left lower extremity as above.
+ERCP [**2162-10-14**]: Impression: Multiple large stones in the entire biliary tree.
+Given hypotension and over all clinical condition no attempt at stone extraction was made.
+CXR [**2162-10-26**] CHEST RADIOGRAPH  INDICATION: evaluation for fluid overload.
+FINDINGS: Compared to the previous radiograph, there is a newly appeared opacity at the lung base.
+In addition, the left lung base also shows a newly appeared parenchymal opacity in the retrocardiac lung areas.
+The opacities are more likely to represent pneumonia rather than pulmonary edema, given the distribution and the lack of other signs indicative of overhydration.
+Cardiomediastinal silhouette is unchanged, but there is interval progression of pulmonary edema.
+Brief Hospital Course: 83 year-old woman with advanced dementia presented to the hospital with acute metabolic encephalopathy from urinary tract infection with sepsis complicated by hypovolemic hypernatremia and acute kidney injury.
+Further investigation found cholelithiasis and choledocholithiasis without cholecystitis.
+She was also found to have DVTs in both legs and was started on a heparin gtt.
+PROBLEM LIST: # Cholelithiasis, Choledocholithiasis, and Cholangitis: She had an elevated alkaline phosphatase and transaminitis on admission with imaging showing cholelithiasis and choledocholithiasis.
+ERCP showed multiple stones that were causing partial obstruction seen at the biliary tree.
+Given hypotension and over all clinical condition no attempt at stone extraction was made and a stent was placed.
+If patient's condition is acceptable for undergoing an ERCP, repeat ERCP in 8 weeks for stent removal and stone extraction/lithotripsy occurs.
+# UTI with E. Coli: This was treated with Unasyn as it is being used for Cholangitis (see above).
+Her Hct was followed which remained stable and the patient had no further episodes.
+# Hypernatremia [**3-10**] hypovolemia: Admission Na 159.
+Hypernatremia resolved with volume resuscitation.
+# Acute kidney injury (baseline Cr 1.1): Admission Cr 2.9.
+[**Last Name (un) **] was [**3-10**] hypovolemia and sepsis.
+[**Last Name (un) **] improved gradually with treatment of sepsis and hypovolemia.
+# Advanced dementia with overlying delirium [**3-10**] critical illness and metabolic abnormalities including hypernatremia, hypovolemia, [**Last Name (un) **], UTI, Cholangitis, and DVT.
+# Tachypnea: During the patient's hospitalization, she was noted to be intermittently tachypnic.
+On [**10-26**] she had a transient episode of tachypnea vs agitation and a repeat CXR was obtained.
+There was some concern for pneumonia vs asymmetric pulmonary edema.
+The patient's symptoms resolved completely with a nebulizer treatment and given that she remained afebrile without a leukocytosis, antibiotics were not initiated.
+CXR at that time showed some worsening of pulmonary edema.
+# Nutrition: The patient had a prolonged period of being NPO as there were scheduling challenges with the PEG.
+Intubation for clearly reversible respiratory failure is acceptable.
+# CODE STATUS: DNR, but OK to intubate for reversible causes of respiratory failure.
+Medications on Admission: 1. acetaminophen 500 mg Tablet Sig: One (1) Tablet PO twice a day as needed for fever or pain.
+Discharge Disposition: Extended Care  Facility: [**First Name4 (NamePattern1) 1188**] [**Last Name (NamePattern1) **] - [**Location (un) 538**]  Discharge Diagnosis: - Sepsis - Cholangitis - Urinary tract infection - Acute kidney injury - Hypernatremia - Deep venous thrombosis, bilateral lower extremities - Choledocholithiasis - Cholelithiasis - Advanced dementia   Discharge Condition: Mental Status: Confused - always.
+Discharge Instructions: You were admitted to the ICU with sepsis from urinary tract infection and cholangitis.
+Complications of your sepsis included hypernatremia and acute kidney injury.
+You were also found to have blood clots in both legs.

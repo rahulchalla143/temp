@@ -1,0 +1,65 @@
+Admission Date:  [**2140-3-1**]              Discharge Date:   [**2140-3-10**]   Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 783**] Chief Complaint: altered mental status  Major Surgical or Invasive Procedure: none  History of Present Illness: HPI: Pt is a [**Age over 90 **]yoW with pmh sig for CVA, seizures, recent UTI who was found to have slurred speech and later on to be non responsive at rehab.
+Of note, she was hospitalized one week prior with seizures in the setting of a UTI and her seizures in teh past manefest as staring followed by [**Doctor Last Name 555**] paralysis.
+No fever or chills had been noted at rehab, no cough or diarrhea.
+At the [**Hospital1 **] [**Name (NI) 620**] [**Name (NI) **] pt intubated for airway protection, CT head without bleed or other acute findings, cxr with possible pneumonia, given Vancomycin, Levofloxacin, and Flagyl.
+Past Medical History: AF - not on anticoagulation, recently d/c'd digoxin in setting of SSS SSS CVA Seizures with [**Doctor Last Name 555**] Paralysis - documented by EEG   Social History: Lives with daughter, no smoking/alcohol/tobacco.
+As per daughter, was able to perform all [**Name (NI) 5669**], knitting and dressing herseld daily, with some bouts of confusion throughout the day.
+Family History: Non-contributory  Physical Exam: Gen- elderly female in no acute distress, sitting in bed Vitals- 99.8, 118/80, 88, 22, 97% 3L HEENT- MMM, JVP ~10 cm CV- irregulary irregular, no murmurs noted Pulm-inspiratory wheeze right middle to low lung fields, sparse crackles.
++ BS Extr-1+ edema Neuro- Alert, not oriented, unable to perform neuro exam.
+CHEST (PORTABLE AP)  [**2140-3-1**] 10:25 PM Pneumonic infiltrate in left mid lung zone, suspicion for pleural effusion on the left side.
+[**2140-3-2**] EEG This is an abnormal EEG due to the left temporal sharp waves and theta slowing, as well as the slow background rhythm.
+The first abnormality indicates left temporal cortical hypersynchrony (possibly related to epilepsy), while the second abnormality suggests left temporal subcortical dysfunction.
+The third abnormality suggests a mild encephalopathy, which may be seen with infections, toxic metabolic abnormalities, medication effect or neurodegenerative disorders.
+Within the limits of the study, no hydrocephalus, shift of normally midline structures or large intra- or extra-axial hemorrhage is identified.
+No definite major vascular territorial infarct is identified.
+Diffuse hypodensities seen in both corona radiata and centrum semiovale indicating chronic microvascular disease.
+Imaged paranasal sinuses and mastoid air cells appear clear.
+No fractures identified.
+IMPRESSION: No acute intracranial hemorrhage or mass effect on this somewhat limited study.
+CHEST (PORTABLE AP)  [**2140-3-4**] 2:41 PM FINDINGS: Collapse consolidation within the left lower lobe is again seen.
+Bilateral pleural effusions are now present and I suspect that the degree of failure has occurred.
+IMPRESSION: Collapse consolidation left lower lobe.
+Small bilateral effusions suggesting some failure.
+[**2140-3-7**] TTE The left atrium is mildly dilated.
+No left atrial mass/thrombus seen (best  excluded by transesophageal echocardiography).
+There is mild symmetric left ventricular hypertrophy with normal cavity size and systolic function (LVEF>55%).
+Trace aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Mild (1+) mitral regurgitation is seen.
+The tricuspid valve leaflets are mildly thickened.
+There is mild pulmonary artery systolic hypertension.
+There is an anterior space which most likely represents a fat pad.
+IMPRESSION: Mild symmetric left ventricular hypertrophy with preserved global  and regional biventricular systolic function.
+Mild mitral regurgitation with mildly thickened leaflets.
+NO MICROORGANISMS SEEN.
+Brief Hospital Course: [**Age over 90 **] y/o F with a history of AFib, CVA, and seizures, from rehab with recent UTI and seizures, who had an acute event od AMS and slurred speach leading to intubation for altered mental status and transient hypotension requiring pressors.
+Course complicated only by delerium and AF with rate 120s.
+Patient started on low dose Beta blocker, given concern for hypotension.
+Tachy Brady syndrome in the past with digoxin hence its discontinuation.
+EEG [**3-2**] abnormal EEG due to the left temporal sharp waves and theta slowing, as well as the slow background rhythm, concerning for epilepsy, and evidence of encephalopathy.
+In discussion with neurology, no active seizing.
+#AMS: Question whether related to seizure-post ictal state, which is the likely etiology of presenting symptoms.
+Infection, Afib with hypotension, or symptomatic bradycardia may have been the inciting incident.
+EEG abnormal but with no active seizure activity as per neurology.
+Rate control Afib with low dose beta blocker with caution for bradycardia and hypotension.
+Re-imaged with CT head w/o contrast to rule out bleed given daughter stated pt acute change in mental status when called out from the MICU.
+Chronic macrovascular change with no evidence of bleed.
+Low dose haldol and [**11-16**] sitter.
+#Left lower lobe pneumonia.
+No luekocutyosis, fever, or hypotension at the time of discharge.
+Nebulizer treatments as needed for wheezing.
+#Seizure: Has seizure history post CVA from Afib.
+EEG with evidence of epilepsy and encephalopathy.
+Likely infection lowering seizure threshold.
+No evidence of seizure while in house.
+#Atrial Fibrillation/Sick Sinus Syndrome: Tachycardic and in Afib.
+Increased to 37.5 TID as HR increased to 120's, but patient became hypotensive and was therefore returned to original dose.
+[**Name10 (NameIs) **] been on dig in the past but stopped because of sick sinus syndrome.
+Considered fluid overload likely result of tachycardia, left sided failure, with proBNP 5389.
+Sparse crackles right base.ECHO with mild symmetric left ventricular hypertrophy with preserved global and regional biventricular systolic function.
+Mild mitral regurgitation with mildly thickened leaflets.
+#h/o CVA: Stable, no evidence of new stroke.
+CT head [**3-4**] with no evidence of acute bleed.
+Discharge Disposition: Extended Care  Facility: [**Hospital1 **] Senior Healthcare - [**Location (un) 1887**]  Discharge Diagnosis: Primary: ?seizure altered mental status hypotension LLL Pneumonia CHF .
+Secondary: AF - not on anticoagulation, recently d/c'd digoxin in setting of tach brady CVA Seizures with [**Doctor Last Name 555**] Paralysis - documented by EEG   Discharge Condition: Stable for transfer   Discharge Instructions: You were admitted with slurred speech and a change in mental status.
+You developed hypotension and were also treatet for a pneumonia.

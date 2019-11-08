@@ -1,0 +1,82 @@
+Admission Date:  [**2102-10-10**]              Discharge Date:   [**2102-11-15**]  Date of Birth:  [**2043-6-18**]             Sex:   F  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**Doctor First Name 2080**] Chief Complaint: shortness of breath  Major Surgical or Invasive Procedure: Left groin exploration with proximal and distal thrombectomy ([**2102-10-10**]) Four-compartment fasciotomy of the left lower extremity ([**2102-10-10**]) Right internal jugular central venous line placement Left PICC placement ([**2102-11-6**]) Right subclavian central venous line placement ([**2102-11-7**]) Right chest tube placement ([**2102-11-7**]) Left PICC placement ([**2102-11-10**]) Right chest tube removal ([**2102-11-11**])   History of Present Illness: Ms. [**Known lastname **] is a 59 F with PMH anxiety and depression who was initially admitted on [**2102-10-10**] for ischemic left foot s/p heparinazation and thrombectomy with left leg fasciotomy.
+Course complicated by hypotension and hypoxia after extubation, found to have PCP pneumonia, HIV with CD4 11.
+2. acute occipital stroke: The patient had subsequent head imaging on the floor, which revealed an acute occipital stroke, most likely embolic.
+Work up for embolic stroke included bubble echo that did not show e/o right to left shunt or thrombosis.
+Depression 2.
+Anxiety  Social History: Ceased tobacco use 12 weeks ago, formerly smoked 1 ppd x 30 years, denies EtOH consumption, and denies recreational drug use    Family History: No history of lung or heart disease   Physical Exam: ADMISSION PHYSICAL EXAM: T: 98.2  P: 93  BP: 114/57  RR: 18  O2sat: 100% on RA General: awake, alert, NAD HEENT: NCAT, EOMI, anicteric, teeth stained red from red italian ice consumed earlier Heart: RRR Lungs: normal excursion, no respiratory distress Abdomen: soft, NT, ND Pelvis: deferred Neuro: decreased movement/sensation in L foot Extremities: RLE WWP, cyanotic and mottled L foot from ankle down with tenderness and prolonged capillary refill, palpable B radial/femoral/popliteal, palpable R DP/PT, non-dopplerable L DP/PT Skin: cool/mottled L foot Pyschiatric: flat affect .
+FINDINGS: There is an area of restricted diffusion in the right occipital lobe with corresponding hypointensity on ADC images consistent with acute infarction.
+Small foci of hemorrhage are seen within this region.
+There is surrounding edema and cortical swelling.
+No evidence of mass effect is seen.
+No shift of normally midline structures.
+IMPRESSION: Right occipital infarction with small areas of hemorrhage.
+No shift of normally midline structures.
+[**11-7**] CT HEAD INDICATION: Patient with altered mental status requiring intubation, new diagnosis of HIV and occipital stroke.
+COMPARISONS: MR brain of [**2102-11-3**] and CT brain of [**2102-11-4**]  TECHNIQUE: MDCT-acquired contiguous images through the brain were obtained without intravenous contrast at 5-mm slice thickness.
+FINDINGS:  There is no evidence of hemorrhage, mass effect, recent infarction, or shift of normally midline structures.
+Confluent hypodensity involving right occipital lobe (2:20), corresponds to the area of patient's known occipital infarction and appears slightly more conspicuous from [**2102-11-4**] exam.
+The sulci and ventricles are prominent, likely age related involutional changes.
+Otherwise, paranasal sinuses and mastoid air cells appear well aerated.
+No acute fracture is seen.
+There is no indication of hemodynamic tension.
+Despite improvement in widespread ground-glass pulmonary opacification compared to [**10-24**], there is a much more pronounced consolidation.
+While some of this, in the right lung could be atelectasis secondary to the pneumothorax, the great bulk of it is infectious, possibly a second pathogen in addition to pneumocystis which was almost exclusively ground glass in quality on [**10-24**].
+A subcentimeter right upper lobe lung nodule, detected on the earlier study is still present and should be followed, 2:18.
+Previous mild central adenopathy has not changed.
+There is no pericardial or pleural effusion.
+This study is not designed for subdiaphragmatic diagnosis but shows there is no adrenal mass.
+Although previous widespread PCP alveolitis has improved, extensive consolidation has worsened and could be due to infection by a second pathogen.
+No appreciable pleural or pericardial effusion.
+Mild adenopathy, unchanged.
+Subcentimeter right upper lobe lung nodule should be followed.
+STUDIES PENDING AT DISCHARGE: ============================= HIV Genotyping  Brief Hospital Course: PRIMARY REASON FOR HOSPITALIZATION: =================================== Ms. [**Known lastname **] is a 59 F with PMH anxiety and depression who was initially admitted on [**2102-10-10**] for ischemic left foot with hospital course complicated by occipital stroke, new HIV diagnosis, high grade CMV viremia with concern for CMV colitis, and recurrent episodes of hypoxia secondary to PCP pneumonia and superimposed HCAP.
+ACTIVE ISSUES: ============== # Respiratory failure: Required multiple intubations and admissions to ICU.
+The primary process was PCP pneumonia but also it appears that patient developed developed superimposed bacterial infection (HCAP).
+There may also have been CMV pneumonia as well given CMV antigen from BAL.
+# PCP [**Name Initial (PRE) **]: Initial CXR with diffuse radiologic opacities, and positive fluorescence stain consistent with acute PCP [**Name Initial (PRE) 1064**].
+# Diarrhea: Extensive workup for stool pathogens was unremarkable.
+Given that patient had CMV viremia and severe diarrhea in the setting of CD4 count of 11, the patient was started on treatment for CMV colitis.
+GI was consulted for possible biopsy to confirm the diagnosis, however flex [**Name Initial (PRE) 65**] has poor negative predictive value for ruling out CMV colitis, therefore decision was made to treat regardless because of clinical suspicion.
+Also possible that diarrhea is antibiotic related or that this is HIV enteropathy.
+Likely secondary to production deficit given inappropriately low retic count.
+Multiple causes may be contributing including acute illness, suppression from virus (CMV, HIV) or medications (antivirals, bactrim).
+Patient did have guaiac + stool but no frank melena.
+-- could consider bone marrow biopsy to eval for infiltrative BM process although given other explanations, likely should wait until acute illnesses resolving before considering.
+# CMV infection: CMV detected by PCR in CSF.
+Clinical suspicion of CMV colitis as discussed above.
+Opthalmology evaluated patient in hospital and ruled out CMV retinitis, but did detect HIV retinopathy.
+# Acute encephalopathy.
+Most likely toxic/metabolic encephalopathy from severe illness that improved with treatment of underlying conditions.
+Patient also had acute occipital stroke.
+In addition patient had CMV pcr in CSF.
+# Depression: Psychiatry was involved inpatient due to depression with superimposed delirium.
+- Home dose of sertraline was increased to 150mg daily - Aripiprazole 2mg daily was added as adjunctive therapy - Home clonazepam was stopped - Patient will need outpatient follow-up after resolution of acute illness .
+# Acute Occipital Stroke: Most likely embolic, but with negative bubble study X 2.
+Given absence of vascular risk factors patient likely to have hypercoagulable state which may be related to HIV or an undiagnosed malignancy.
+Defered to outpatient after resolution of acute illness.
+# HSV2 vesicles: Improved with antivirals -- There should be less chance of reactivation with initiation of HAART -- Gancyclovir also provides coverage for HSV2 .
+# Limb ischemia: s/p thrombectomy for ischemic left foot and fasciotomy caused by an acute arterial thrombus.
+# Pneumothorax.
+Still small apical PTX present on [**11-13**] but asymptomatic .
+# Malnutrition, severe: Patient with poor appetite and weight loss for several weeks prior to this admission.
+When her respiratory status improved she had a video swallow eval which cleared her for PO intake.
+Most likely the etiology is her severe underlying illness including AIDS and the other superimposed infections causing increased caloric needs and decreased appetite.
+Defered to outpatient after resolution of acute illness.
+- Studies pending at discharge: HIV genotyping  Medications on Admission: Sertraline Clonazepam  Discharge Medications: 1. aripiprazole 1 mg/mL Solution [**Telephone/Fax (1) **]: Two (2) mg PO DAILY (Daily).
+5. miconazole nitrate 2 % Cream [**Month/Day (3) **]: One (1) Appl Topical [**Hospital1 **] (2 times a day) as needed for ITCH/FUNGAL RASH.
+14. loperamide 2 mg Capsule [**Hospital1 **]: One (1) Capsule PO QID (4 times a day) as needed for diarrhea.
+Discharge Disposition: Extended Care  Facility: [**Hospital **] Hospital for [**Hospital 91030**] Medical Care  Discharge Diagnosis: Primary Diagnoses: Acquired Immune Deficiency Syndrome Pneumocystis [**Hospital **] Hospital Acquired Pneumonia Arterial Thrombus Distal Left Foot Infarction Right Occipital Stroke Cytomegalovirus Viremia CMV Colitis (not confirmed by biopsy) Pneumothorax HIV retinopathy  Secondary Diagnoses: Anemia HSV-2 Ulcers Depression Anxiety   Discharge Condition: Mental Status: Clear and coherent.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Discharge Instructions: You were admitted to the hospital with ischemia in your left foot.
+During an operation for this, you developed difficulty breathing and were eventually diagnosed with pneumocystis pneumonia.
+This type of infection is typically seen in people with decreased immune system function, and you were diagnosed with HIV after a workup for immune deficiency.
+Your pneumocystis pneumonia was treated with a course of antibiotics and steroids.
+During your stay, you also developed a secondary bacterial pneumonia which was treated with an additional course of antibiotics.
+Your hospital course was complicated by a stroke caused by a blood clot in the right occipital lobe of your brain, likely related to the same process that caused your arterial thrombus and foot ischemia.
+Blood tests and echocardiography were perfomed to help determine what caused these blood clots, but no clear cause was found.
+You developed diarrhea, which was likely caused by CMV infection of the colon.
+You had an eye exam to rule out CMV infection of the retina.
+No evidence of this infection was found, but you were found to have HIV retinopathy.
+Once your acute issues were stabilized and you were able to take oral medications, treatment for your HIV infection was also started.
+You have had a long and difficult hospitalization, but are clearly improving and on the road to recovery.
+You are being discharged to a rehab facility for your ongoing treatment of your infections and to start aggressive physical therapy.

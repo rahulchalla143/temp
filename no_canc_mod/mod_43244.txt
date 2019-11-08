@@ -1,0 +1,44 @@
+Admission Date:  [**2197-8-23**]              Discharge Date:   [**2197-8-27**]  Date of Birth:  [**2143-5-24**]             Sex:   M  Service: MEDICINE  Allergies: Compazine / Methotrexate / Ceftazidime  Attending:[**First Name3 (LF) 5755**] Chief Complaint: fever and hypotension  Major Surgical or Invasive Procedure: none   History of Present Illness: This is a 54yo M with Crohn's disease s/p multiple surgeries with resultant short gut syndrome [**12-22**] to colectomy and ileostomy and TPN dependency who was recently admitted to [**Hospital1 18**] for evaluation of low grade fevers, history of multiple line infections, MV endocarditis and osteomyelitis for which the pt is on chronic vancomycin for last 4 years, hickman for TPN, now present w/ fever and hypotension.
+His nurse called Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] (ID)on [**8-23**] who was notified that he developed fever to 101 but subsequently deferveced.
+He had decreased activity and appetite.
+Durint that admission, he had no leukocytosis.
+CXR was negative for pneumonia.
+TEE was negative for endocarditis.
+CT of the cspine and bone scan were negative for osteomyelitis.
+MRI showed subtle signal changes which may suggest chronic osteomyelitis but no prior MRI was available for comparision( last one was in [**2193**], when he did not have osteo).His Hickman was felt to be free of infection, so it was not pulled.
+He also has noticed no erythema, tenderness, or swelling around his Hickman line (last changed [**2196-7-21**]), though he notes that his previous line infections have also been without external/visible changes.
+He has no sick contacts or recent travel.
+CXR no evidence no focal infiltrate or change from prior CXR.
+BP improved to 80-90s/40s.He did not have any signs of distress and was mentating within his normal range Small rim of erythema around Hickman, but obvious pus.
+Crohn's disease s/p multiple surgeries with resultant ileostomy and shortgut syndrome dependent on TPN with chronic hypocalcemia, vitamin D deficiency.
+Infectious: Staph epidermidis C4-C5 Osteomyelitis (on Chronic Vancomycin), Endocarditis with Mitral Valve Vegetation, Recurrent Polymicrobial Line Sepsis, Previous RLL PNA, LE Cellulits 3.
+Respiratory - COPD (Baseline PaCO2 of 48), H/O ARDS x 2 with Intubations/Tracheostomy ([**2192**] and [**2193**]), Klebsiella bacteremia.
+Severe MR 5.
+Anemia of Chronic Inflammation (on EPO) 7.
+Mild Dementia 8.
+Chronic Pain (Fentanyl 50 mcg Patch) 9.
+Restless Leg Syndrome 10.
+Steroid-Induced Osteoporosis 11.
+Multiple Spinal Compression Fx 12.
+Peripheral Neuropathy 13.
+UGIB/Duodenal Ulcer ([**2193**]) 14.
+Depression 15.
+Bilateral SVC Thrombi.
+There is no intra- or extra-hepatic biliary ductal dilatation.
+The common duct measures 6 mm in diameter, which is not significantly changed, allowing for differences in technique.
+No focal liver lesions are identified, and the echotexture of the liver appears normal.
+IMPRESSION: No evidence of biliary obstruction.
+FRONTAL CHEST: Cardiac and mediastinal contours appear stable, with mild cardiomegaly.
+No focal consolidations are identified within the lungs.
+No evidence of pleural effusion.
+Multiple right-sided rib fractures again seen.
+IMPRESSION: No evidence of acute cardiopulmonary process or significant change from prior study.
+CXR on admission did not show focal infiltrate.
+His recent hosp admission record [**7-26**] was reviewed and showed extensive infectious workup which was unrevealing (including MRI c-spine, which revealed no significant new changes; neg bone scan; negative blood cultures; negative TEE).
+The patient remained afebrile x 24 hours and was thus discharged home with instructions to continue checking his temperature at least 2 times per day.
+Labs were improving at the time of discharge  Anemia-He has baseline anemia in the range of 35-37.
+Iron studies suggest anemia of chronic disease.
+Clonazepam 0.5 mg Tablet Sig: One (1) Tablet PO three times a day as needed for anxiety: hold for rr < 8 or oversedation.
+Discharge Disposition: Home With Service  Facility: [**Location (un) **] home therapy  Discharge Diagnosis: hypotension fever acute renal failure hyperbilirubinemia anemia of chronic disease history of short gut syndrome on TPN history of cervical osteomyelitis on chronic vancomycin   Discharge Condition: good: afebrile, wbc down, creatinine back to baseline   Discharge Instructions: Please call Dr. [**First Name (STitle) **] or go to the emergency room for temperature > 101, low blood pressure, decreased urine output, weight gain > 3 pounds, chest pain, back/neck pain, or other concerning symptoms.
+You were hospitalized for fever of concern for infection.
+A right upper quadrant ultrasound showed no dilation of your bile ducts, despite elevated bilirubin which has since improved.

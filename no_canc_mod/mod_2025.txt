@@ -1,0 +1,29 @@
+Admission Date:  [**2201-4-3**]              Discharge Date:   [**2201-4-4**]  Date of Birth:  [**2171-2-5**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 2763**] Chief Complaint: Altered Mental Status  Major Surgical or Invasive Procedure: Intubation [**2201-4-3**] Lumbar Puncture [**2201-4-3**]  History of Present Illness: Ms. [**Known firstname **] [**Known lastname 10935**] is a 30 yo woman who was found wandering the streets with altered mental status.
+She was brought to the hospital by EMS who reported persistently low blood pressures and waxing and [**Doctor Last Name 688**] mental status.
+She was able to tell EMS her name and that she has a history of HIV, Hepatitis C, and substance abuse.
+She received a total of 8 L NS for her hypotension (SBP in the 80s)with little response.
+The decision was made to undergo elective intubation to protect her airway given her poor mental status.
+Given her fever, altered mental status and HIV status she underwent CT head followed by LP.
+Head CT showed no acute lesions or bleeds.
+LP showed mildly elevated WBC count with significant lymphocytic predominance.
+Patient's lung exam and mental status were concerning for aspiration and she was started on flagyl.
+No acute intracranial abnormality.
+Aerosolized material in the pharynx, likely related to intubation.
+Increased conspicuity of nodular opacities and retrocardiac consolidation concerning for multifocal pneumonia or aspiration sequelae.
+Brief Hospital Course: 30 yo woman with reported history of HIV, HCV and substance abuse is brought to the hospital by EMS when found with altered mental status, low grade fevers, and hypotension.
+#  Sepsis: Patient presents with fever, hypotension, leukocytosis, positive UA, and altered mental status concerning for sepsis.
+She confirmed that she was feeling very lethargic the day of presentation and had left posterior thigh pain that was making it difficult for her to walk.
+She states her drowsiness and difficulty walking prompted bystanders to call EMS.
+She reports having a recent UTI that was being treated with bactrim.
+Patient denied any complaints after extubation and was hemodynamically stable.
+She did admit to history of substance abuse.
+Benzo intoxication may explain her increased somnolence and hypotension.
+It does not explain her fever and increased CSF WBC count.
+Her LP revealed slightly elevated WBC with lymphocytic predominance concerning for aseptic (viral) meningitis or encephalitis.
+After extubation the following morning patient had no evidence of altered mental status, meningismus, or encephalitis.
+She had no focal neuro deficits.
+#  Transaminitis: Patient reports history of Hepatitis C. Unclear baseline LFTs.
+Patient may have chronically elevated enzymes due to underlying HCV infection.
+Transaminitis may also represent shock liver in the setting of prolonged hypotension.
+Currently no known history of HAART therapy.
+Discharge Disposition: Home  Discharge Diagnosis: Altered Mental Status Urinary Tract Infection  Discharge Condition: Alert, oriented, no focal neurologic deficits, hemodynamically stable.

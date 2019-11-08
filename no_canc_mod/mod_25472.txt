@@ -1,0 +1,40 @@
+Admission Date:  [**2106-10-5**]              Discharge Date:   [**2106-10-13**]  Date of Birth:  [**2027-10-28**]             Sex:   F  Service: CARDIOTHORACIC  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 922**] Chief Complaint: Dyspnea on exertion  Major Surgical or Invasive Procedure: Aortic valve replacement (21mm [**Doctor Last Name **] pericardial)/MAZE/Left atrial ligation [**2106-10-7**] TEE [**2106-10-6**]  History of Present Illness: 78 year old white female has known aortic stenosis and paroxsymal atrial fibrillation with worsening dyspnea on exertion.
+Her most recent echo and cath have shown severe aortic stenosis with no coronary artery disease.
+Past Medical History: Severe Aortic Stenosis Paroxysmal Atrial Fibrillation Hypertension Hyperlipidemia Diabetes Mellitus-diet controlled Spinal surgery Uterine polypectomy Bladder Cancer removed Cataract surgery Tonisellectomy  Social History: Lives with her husband [**Name (NI) **]: Caucasian Tobacco: Denies ETOH: Denies  Family History: noncontributory  Physical Exam: Pulse: 61  Resp: 16   O2 sat: 96% RA B/P  Right: 134/66     Left: 122/63 Height: 5'1"    Weight: 200lbs  General: well-developed, well-nourished female in no acute distress Skin: Dry [X] intact [X] HEENT: PERRLA [X] EOMI [X] Neck:  Supple [X] Full ROM [X] Chest: Lungs clear bilaterally [X] Heart: RRR [X]  Irregular []  Murmur 2/6 SEM Abdomen: Soft [X] non-distended [X] non-tender [X]  bowel sounds + [X] Extremities: Warm [X], well-perfused [X]  Edema Varicosities: None [X] Neuro: Grossly intact Pulses: Femoral      Right/Left: 2+ DP           Right/Left: 1+ PT           [**Name (NI) 167**]/Left: 1+ Radial       Right/Left: 2+  Carotid Bruit        Right/Left: none  Pertinent Results: [**Last Name (LF) **],[**First Name7 (NamePattern1) 177**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 5204**] FA6A [**2106-10-12**] 9:09 AM CHEST (PORTABLE AP)   Clip # [**Clip Number (Radiology) 84651**] Reason: (R) apical PTX [**Hospital 93**] MEDICAL CONDITION:    78 year old woman s/p AVr/MAZE REASON FOR THIS EXAMINATION:    (R) apical PTX Final Report INDICATION: 78-year-old woman, status post AVR/maze with right pneumothorax, for followup.
+PORTABLE UPRIGHT CHEST RADIOGRAPH: Again seen is a small left apical pneumothorax.
+Low lung volumes limit assessment.
+There is no pulmonary edema.
+Persistent retrocardiac opacification suggests atelectasis/left lower lobe collapse.
+Haziness at the left base suggests persistent small left pleural effusion.
+Aortic valve disease.
+Atrial fibrillation.
+Left ventricular function.
+Mitral valve disease.
+Right ventricular function.
+ICD-9 Codes: 427.31, 786.05, 799.02, 440.0, 424.1, 424.0, 424.2 Test Information Date/Time: [**2106-10-7**] at 11:02    Interpret MD: [**Name6 (MD) 1509**] [**Name8 (MD) 1510**], MD Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 1510**], MD Doppler: Full Doppler and color Doppler Test Location: Anesthesia West OR cardiac Contrast: None Tech Quality: Adequate Tape #: 2009AW1-: Machine: aw5 Echocardiographic Measurements Results  Measurements  Normal Range Left Ventricle - Septal Wall Thickness:  *1.3 cm  0.6 - 1.1 cm Left Ventricle - Ejection Fraction:  55%  >= 55% Aorta - Ascending:  2.8 cm  <= 3.4 cm Aortic Valve - Peak Velocity:  *3.8 m/sec  <= 2.0 m/sec Aortic Valve - Peak Gradient:  *59 mm Hg  < 20 mm Hg Aortic Valve - Mean Gradient:  29 mm Hg Aortic Valve - Valve Area:  *0.9 cm2  >= 3.0 cm2 Mitral Valve - E Wave:  0.6 m/sec Mitral Valve - A Wave:  0.6 m/sec Mitral Valve - E/A ratio:  1.00  Findings LEFT ATRIUM: No mass/thrombus in the [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] LAA.
+No ASD by 2D or color Doppler.
+Simple atheroma in ascending aorta.
+Simple atheroma in aortic arch.
+Simple atheroma in descending aorta.
+MITRAL VALVE: Mildly thickened mitral valve leaflets.
+Mild mitral annular calcification.
+Conclusions Prebypass  No mass/thrombus is seen in the left atrium or left atrial appendage.
+No atrial septal defect is seen by 2D or color Doppler.
+There is mild symmetric left ventricular hypertrophy.
+There are simple atheroma in the ascending aorta.
+There are simple atheroma in the aortic arch.
+There are simple atheroma in the descending thoracic aorta.
+There is severe aortic valve stenosis (valve area 0.8-1.0cm2).
+Mild to moderate ([**12-11**]+) aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Mild (1+) mitral regurgitation is seen.
+There is no pericardial effusion.
+Post bypass  Patient is AV paced and receiving an infusion of phenylephrine.
+Biventricular systolic function is unchanged.
+There is no aortic insufficiency.
+Mild mitral regurgitation persists.
+On [**10-6**] she had a TEE to rule out for clot and evaluate aortic stenosis.
+She received vancomycin for perioperative antibiotics.
+Chest tubes and Epicardial pacing wires were removed on post-op day two and chest x-ray after removal showed small right apical pneumothorax.
+Coumadin was resumed for her history of Paroxysmal atrial fibrillation.
+Discharge Disposition: Extended Care  Facility: [**Doctor Last Name **]Nursing Home  Discharge Diagnosis: aortic stenosis s/p aortic valve replacement Atrial Fibrillation s/p MAZE and ligation of left atrial appendage Hypertension Hyperlipidemia Diabetes type 2 Depression s/p resection of bladder cancer s/p tonsillectomy s/p uterine polypectomy s/p spinal surgery s/p cataract surgery   Discharge Condition: Alert and oriented x3 Ambulating short distance with assistance   Discharge Instructions: Please shower daily including washing incisions gently with mild soap, no baths or swimming Monitor wounds for infection and report any redness, warmth, swelling, tenderness or drainage Please take temperature each evening and Report any fever 100.5 or greater Report any weight gain of greater than 2 pounds in 24 hours or 5 pounds in a week No creams, lotions, powders, or ointments to incisions No driving for approximately one month until follow up with surgeon No lifting more than 10 pounds for 10 weeks Please call with any questions or concerns [**Telephone/Fax (1) 170**] Females: Please wear bra to reduce pulling on incision, avoid rubbing on lower edge  Followup Instructions: Please call to schedule appointments Surgeon Dr [**Last Name (STitle) 914**] in 2 weeks [**Telephone/Fax (1) 170**] Cardiologist Dr [**Last Name (STitle) 39975**] in 4 weeks [**Telephone/Fax (1) 66607**] Primary care Dr [**Last Name (STitle) **] in 6 weeks [**Telephone/Fax (1) 74598**]    Completed by:[**2106-10-13**

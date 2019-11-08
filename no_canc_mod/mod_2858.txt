@@ -1,0 +1,86 @@
+Admission Date:  [**2138-11-12**]              Discharge Date:   [**2138-11-18**]  Date of Birth:  [**2086-3-6**]             Sex:   M  Service: MEDICINE  Allergies: Erythromycin Base / Protamine / Minoxidil  Attending:[**First Name3 (LF) 826**] Chief Complaint: Called ambulance for weakness, diarrhea; brought to [**Hospital1 18**] for bradycardia  Major Surgical or Invasive Procedure: Right internal jugular venous catheter placement   History of Present Illness: This is a 52 year old man with multiple medical problems, including type I diabetes, s/p renal transplant, CAD, and PVD, who called [**Company 191**] today.
+He tells me that he was feeling very weak and had two bowel movements today, loose, and the typical dark color which he associates with his iron supplementation.
+Per the [**Company 191**] note he was having diarrhea and fecal incontinence.
+In the ED his EKG revealed diffuse ST depression, especially in v4-6; cardiology was consulted and ultimately did not feel that the EKG was significantly different than prior EKGs and was unlikely to represent an ischemic event.
+He was found to be hyperkalemic and received insulin, glucose, and calcium.
+With concern for infection he received vancomycin; piperacillin-tazobactam (Zosyn) was also ordered in the ED but it is not clear whether this was actually given by the notes in the ED flow sheet.
+An abdominal CT scan (based on elevated LFTs but normal Alk phos by labs as well as complaint of abdominal pain and diarrhea), and a head CT scan were performed; the abdominal CT showed no clear acute abdominal process, though could not use contrast for renal reasons; it did show some stranding around the distal colon and some gallbladder wall edema.
+A chest x-ray showed atelectasis vs consolidation, while the bottom portion of the abdominal CT also showed effusion and atelectasis as well as an area of possible infectious consolidation.
+He had a brief period of hypotension in the ED for which he was put on dopamine; this was turned off before transit to the MICU.
+In terms of review of systems he denies chest pain, palpitations, dyspnea, syncope or pre-syncope; he affirms back pain which he says has worsened since his power wheelchair broke and he can no longer sit properly in it.
+He denies fevers or sweats; he says he felt cold today; he denies shaking chills.
+Past Medical History: DM I with diabetic retinopathy, nephropathy, neuropathy CAD: --CABG: [**2125**] LIMA-LAD, SVG-PDA, SVG-RI, SVG-OM (occluded) --PCI: [**2135-1-21**] LMCA with no flow limiting stenoses; LAD contained a 90% proximal lesion before becoming totally occluded just after a large septal; LCX contained diffuse disease, up to a 95% mid vessel; OM1 was totally occluded; ramus branch had a 70% proximal lesion; RCA was totally occluded proximally.
+RLE bursitis Cellulitis in [**2131**].
+Chronic renal failure due to acute tubular nephropathy in [**2131**] s/p renal transplant (second living related renal transplant in [**2122**]) Listeria infection in [**2132**].
+Squamous cell carcinoma was diagnosed and removed in [**2133**].
+Anemia of chronic disease Glaucoma Gastroparesis Gastritis Diveriticulosis   Social History: Lives at home with wife.
+No history of alcohol, IVDU.
+Family History: Noncontributory   Physical Exam: General Appearance: Overweight / Obese  Eyes / Conjunctiva: speech slurred (apparent baseline)  Cardiovascular: (S1: Normal), (S2: Distant), (Murmur: Systolic)  Peripheral Vascular: (Right radial pulse: Diminished), (Left radial pulse: Diminished), (Right DP pulse: Not assessed), (Left DP pulse: Not assessed)  Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : , Bronchial: slight bronchial breath sounds bilaterally, No(t) Wheezes : )  Abdominal: Soft, Bowel sounds present, Tender:  Skin:  Cool, keratoses on back; bandage in place from ?skin biopsy  Neurologic: Attentive, Follows simple commands, Responds to: Verbal stimuli, Oriented (to): [**Hospital1 **], [**Location (un) **], [**12-11**], recent news events, Movement: Not assessed, Tone: Not assessed  Guaiac negative   Pertinent Results: [**2138-11-11**] 10:05PM BLOOD WBC-13.6* RBC-3.63* Hgb-11.3* Hct-34.0* MCV-94 MCH-31.1 MCHC-33.2 RDW-18.3* Plt Ct-282 [**2138-11-13**] 03:59AM BLOOD WBC-11.2* RBC-3.30* Hgb-10.3* Hct-30.6* MCV-93 MCH-31.1 MCHC-33.5 RDW-18.7* Plt Ct-243 [**2138-11-18**] 05:25AM BLOOD WBC-9.7 RBC-3.00* Hgb-9.3* Hct-28.3* MCV-94 MCH-31.0 MCHC-32.9 RDW-18.8* Plt Ct-187 [**2138-11-11**] 10:05PM BLOOD Neuts-82.0* Lymphs-11.5* Monos-4.8 Eos-1.3 Baso-0.4 [**2138-11-14**] 05:24AM BLOOD Neuts-81.9* Lymphs-11.1* Monos-4.7 Eos-2.1 Baso-0.1 [**2138-11-11**] 10:05PM BLOOD Glucose-100 UreaN-101* Creat-4.2* Na-128* K-GREATER TH Cl-96 HCO3-18* [**2138-11-12**] 03:22AM BLOOD Glucose-104 UreaN-99* Creat-3.9* Na-135 K-6.5* Cl-101 HCO3-24 AnGap-17 [**2138-11-12**] 11:26AM BLOOD Glucose-60* UreaN-101* Creat-4.0* Na-133 K-5.8* Cl-97 HCO3-24 AnGap-18 [**2138-11-14**] 05:24AM BLOOD Glucose-113* UreaN-90* Creat-4.4* Na-133 K-3.8 Cl-99 HCO3-22 AnGap-16 [**2138-11-18**] 05:25AM BLOOD Glucose-170* UreaN-77* Creat-4.3* Na-141 K-3.2* Cl-101 HCO3-28 AnGap-15 [**2138-11-11**] 10:05PM BLOOD PT-47.4* PTT-37.1* INR(PT)-5.3* [**2138-11-12**] 09:13PM BLOOD PT-54.9* INR(PT)-6.4* [**2138-11-14**] 05:24AM BLOOD PT-32.4* INR(PT)-3.4* [**2138-11-18**] 05:25AM BLOOD PT-24.3* PTT-34.2 INR(PT)-2.4* [**2138-11-11**] 10:05PM BLOOD ALT-188* AST-305* CK(CPK)-1487* AlkPhos-90 TotBili-0.6 [**2138-11-14**] 05:24AM BLOOD ALT-332* AST-161* LD(LDH)-546* CK(CPK)-884* AlkPhos-96 TotBili-0.4 [**2138-11-17**] 06:03AM BLOOD ALT-224* AST-99* AlkPhos-90 TotBili-0.3 [**2138-11-18**] 05:25AM BLOOD ALT-166* AST-62* [**2138-11-11**] 10:05PM BLOOD Lipase-49 [**2138-11-11**] 10:05PM BLOOD CK-MB-6 cTropnT-0.26* [**2138-11-13**] 03:59AM BLOOD CK-MB-6 cTropnT-0.38* [**2138-11-14**] 05:24AM BLOOD CK-MB-5 cTropnT-0.34* [**2138-11-11**] 10:05PM BLOOD Albumin-3.5 Calcium-8.6 Phos-6.4*# Mg-3.0* [**2138-11-18**] 05:25AM BLOOD Calcium-6.9* Phos-4.2 Mg-2.2 [**2138-11-15**] 05:54AM BLOOD calTIBC-203* Ferritn-174 TRF-156* [**2138-11-15**] 05:54AM BLOOD TSH-2.8 [**2138-11-15**] 05:54AM BLOOD PTH-821* [**2138-11-13**] 03:59AM BLOOD rapmycn-17.6* [**2138-11-14**] 05:24AM BLOOD rapmycn-19.2* [**2138-11-15**] 05:54AM BLOOD rapmycn-10.0 [**2138-11-17**] 06:03AM BLOOD rapmycn-8.2 [**2138-11-11**] 09:54PM BLOOD Glucose-95 Lactate-4.3* Na-131* K-8.7* Cl-98* calHCO3-17* [**2138-11-11**] 09:54PM BLOOD freeCa-1.01* [**2138-11-12**] 11:26AM URINE RBC-0-2 WBC-3 Bacteri-FEW Yeast-MOD Epi-0-2 [**2138-11-12**] 11:26AM URINE Blood-LG Nitrite-NEG Protein-500 Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-SM [**2138-11-12**] 11:26AM URINE Hours-RANDOM UreaN-438 Creat-40 K-82 TotProt-234 Prot/Cr-5.9* .
+Urine ([**2138-11-12**]): >100,000 Yeast forms Urine legionella antigen ([**2138-11-14**]): Negative Sputum ([**2138-11-14**]): <10 PMN's, no culture done.
+Supraventricular bradycardia.
+Left atrial abnormality.
+Mild P-R interval prolongation.
+Intraventricular conduction delay.
+Left bundle-branch block with marked left axis deviation.
+ST-T wave abnormalities.
+ST-T wave abnormalities, especially anterior ST segment elevation, is not seen.
+Patchy opacity within the right lower lobe which could represent atelectasis or second focus of infection.
+Small left pleural effusion, which may be slightly increased from prior.
+Hypoattenuating region in the posterior left frontal lobe with focal sulcal and fissural prominence, new since the [**5-2**] study, favoring encephalomalacia from an interval infarction, with peripheral mineralization.
+No acute intracranial hemorrhage.
+No evidence of free intraperitoneal air or abscess.
+Bilateral pleural effusions.
+Edematous gallbladder wall, the finding is nonspecific, and can be seen in a variety of causes, including third spacing.
+Mild stranding adjacent to the descending colon, which contains scattered diverticula.
+Mild colitis or diverticulitis might be present.
+Non-specific perirectal mild stranding, can be seen in the setting of proctitis or be related to third spacing.
+Dense atherosclerotic calcifications of the abdominal aorta and vessels.
+Renal transplant U/S ([**2138-11-12**]): Diminished systolic upstroke and diastolic flow within the transplant kidney,findings that are concerning for rejection, ATN or more proximal renal arterial stenosis.
+TTE ([**2138-11-13**]): The left atrium is moderately dilated.
+There is mild symmetric left ventricular hypertrophy.
+There is severe global left ventricular hypokinesis with anterolateral wall contracting the best.
+Tissue Doppler imaging suggests an increased left ventricular filling pressure (PCWP>18mmHg).
+The right ventricular cavity is mildly dilated with depressed free wall contractility.
+There is mild aortic valve stenosis (area 1.2-1.9cm2).
+Mild (1+) aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+There is no mitral valve prolapse.
+Moderate (2+) mitral regurgitation is seen.
+The left ventricular inflow pattern suggests a restrictive filling abnormality, with elevated left atrial pressure.
+Moderate [2+] tricuspid regurgitation is seen.
+There is moderate pulmonary artery systolic hypertension.
+There is a trivial/physiologic pericardial effusion.
+Mitral regurgitation and tricuspid regurgitation are worse.
+CXR ([**2138-11-14**]): Improvement of the left lower lobe opacification that could be atelectasis or area of pneumonia.
+Decreasing amount of left pleural effusion, now small.
+There is a suggestion of impression of the right tracheal wall that could represent a thyroid mass.
+Brief Hospital Course: ASSESSMENT AND PLAN: 52 year old man with multiple medical problems including type I diabetes, ESRD on a second transplant, and significant coronary artery and peripheral vascular disease, who presented with weakness and found to have bradycardia and hyperkalemia.
+The patient presented with unstable bradycardia in the setting of acute renal failure and hyperkalemia.
+He received successful treatment for hyperkalemia in the ED and was admitted to the ICU in NSR.
+He was evaluated by the cardiology consult service who felt this most likely represented a bradyarrhythmia associated with electrolyte disturbances.
+At the time of discharge, the patient had some relative hypokalemia with significant [**Name (NI) 17941**] repletion demands.
+The patient was re-started on beta-[**Name (NI) 7005**] therapy after improvement in cardiac status for several days.
+Of note, the patient did develop elevated cardiac enzymes (to peak Trop T 0.38, negative CK-MB) with non-diagnostic EKG changes.
+This was felt unlikely to represent true ischemia and instead to represent possible demand in the setting of an infection and poor clearance with acute on chronic renal failure.
+TTE did reveal worsening systolic function with EF 20% and severe diastolic dysfunction.
+He will follow-up with his outpatient cardiologist for ongoing management of severe chronic systolic and diastolic CHF.
+He did present with a leukocytosis.
+He was also noted to have mild transaminitis and Alk Phos elevation of unclear significance and trending towards normal on serial measurements.
+CT abdomen/pelvis revealed some mild gallbladder edema and possible colitis as well as a possible aspiration pneumonia, confirmed on CXR.
+EBV, CMV and BK viral loads were sent for work-up of immunosuppressive-associated atypical infections though all of these were low or undetectable.
+The patient was discharged on a course of levofloxacin, metronidazole for presumed aspiration pneumonia +/- colitis or other GI infection and fluconazole for yeast UTI.
+The patient presented with acute on chronic renal failure with Cr >4 up from baseline [**12-29**].
+Renal transplant ultrasound revealed changes concerning for rejection.
+There may also be a component of pre-renal etiology in the setting of acute infection and poor cardiac function.
+His home allopurinol was reduced to every other day dosing for renal impairment.
+The patient was also found on admission to have supratherapeutic INR.
+This was likely due to impaired clearance in the setting of multi-organ injury and significant infection.
+Head CT obtained in the ED in the setting of lethargy revealed no acute bleeding but did show some interval change in appearance including hypoattenuation in the posterior left frontal lobe possibly consistent with enceophalomalacia and less likely interval stroke.
+PO DAILY (Daily) as needed for constipation.
+Nitroglycerin 0.4 mg Tablet, Sublingual Sig: One (1) Sublingual once a day as needed for chest pain: [**Month (only) 116**] take 1 pills every 5 minutes for chest pain.
+Discharge Disposition: Home With Service  Facility: [**Location (un) 86**] VNA  Discharge Diagnosis: Pneumonia UTI Chronic systolic heart failure   Discharge Condition: Good, hemodynamically stable, afebrile throughout admission, satting mid-upper 90s on room air   Discharge Instructions: You were admitted after being found to have a slow heart rate and lethargic by EMS.
+You were found to also have low blood pressure and high potassium blood levels.
+You were treated for these conditions in the MICU, then transferred to the floor when you were stable.
+You are being treated for a pneumonia with oral antibiotics.
+You were also found to have a yeast urinary tract infection.
+Your Rapamune medication levels were found to be high, and you were found to have acute renal failure.

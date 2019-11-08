@@ -1,0 +1,45 @@
+Admission Date:  [**2112-3-7**]              Discharge Date:   [**2112-3-11**]  Date of Birth:  [**2083-12-21**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 613**] Chief Complaint: lower GI bleed  Major Surgical or Invasive Procedure: tagged red cell scan esophagogastroduodenoscopy colonoscopy  History of Present Illness: 28 year-old F transferred from an OSH with BRBPR x4 days.
+The patient was well until 3 days prior to transfer when she felt like she was going to have an episode of diarrhea and instead passed bright red blood, filling the toilet bowl.
+She had two similar episodes on the following day and went to the ED at [**Hospital3 3583**] where she had an additional 5 episodes of BRBPR.
+She does note 3 days of a "stomachache" associated with a sensation of excess gas in her abdomen; these symptoms completely resolved 4 days prior to her first episode of BRBPR.
+She has not had any abdominal cramping or pain.
+Fresh heme was noted in the left colon up to 60 cm from the anal verge; no active bleeding was observed.
+There were scattered diverticula; no lesions or polyps were identified, and no inflammatory changes were noted.
+Several hours after the procedure, she had two additional episodes of BRBPR with approximately 200 cc of blood loss each time.
+Her last episode of BRBPR was approximately 8:30 pm tonight.
+At [**Hospital3 3583**], she was incidentally noted to have a mild transaminitis.
+Family History: denies any family hx of colon cancer, Crohn's disease, or UC  Physical Exam: T 98.6 HR 97 BP 126/82 RR 17 99% O2 sat on RA Gen: obese; well-appearing; no acute distress HEENT: atraumatic; anicteric sclerae; pupils 3->2 bilaterally; dry mucus membranes Neck: supple; no cervical or supraclavicular lymphadenopathy CV: RRR; nl S1, S2; no M/R/G Lungs: clear to auscultation bilaterally Abd: soft, obese; +BS; non-tender to palpation Extrem: no c/c/e Neuro: A&Ox3; cranial nerves grossly intact; moving all extremities  Pertinent Results: [**2112-3-7**] 10:54PM BLOOD WBC-10.1 RBC-2.99* Hgb-8.8* Hct-26.2* MCV-88 MCH-29.5 MCHC-33.6 RDW-14.4 Plt Ct-285 [**2112-3-8**] 04:12AM BLOOD WBC-10.2 RBC-3.10* Hgb-9.4* Hct-26.0* MCV-84 MCH-30.5 MCHC-36.3* RDW-14.6 Plt Ct-270 [**2112-3-8**] 09:48AM BLOOD WBC-12.5* RBC-3.21* Hgb-10.0* Hct-28.4* MCV-89 MCH-31.1 MCHC-35.1* RDW-14.7 Plt Ct-380 [**2112-3-9**] 04:50AM BLOOD WBC-13.6* RBC-3.25* Hgb-10.0* Hct-28.6* MCV-88 MCH-30.8 MCHC-35.0 RDW-14.9 Plt Ct-300 [**2112-3-7**] 10:54PM BLOOD PT-12.4 PTT-23.3 INR(PT)-1.1 [**2112-3-9**] 04:50AM BLOOD PT-12.6 PTT-22.6 INR(PT)-1.1 [**2112-3-7**] 10:54PM BLOOD Glucose-99 UreaN-5* Creat-0.7 Na-141 K-3.9 Cl-111* HCO3-23 AnGap-11 [**2112-3-7**] 10:54PM BLOOD ALT-39 AST-34 LD(LDH)-98 AlkPhos-70 TotBili-0.4 [**2112-3-7**] 10:54PM BLOOD Albumin-3.2* Calcium-8.1* Phos-2.7 Mg-1.7 .
+Bleeding Scan, [**2112-3-8**]: No active GI bleeding during three hours of imaging .
+EGD, [**2112-3-9**]: Granularity, erythema and erosion in the antrum and pre-pyloric region compatible with severe segmental gastritis.
+Friability and erythema in the duodenal bulb compatible with duodenitis (biopsy, biopsy).
+Otherwise normal EGD to second part of the duodenum .
+Bleeding likely from small bowel .
+Meckel's Scan [**2112-3-10**]: Flow images were obtained over the abdomen and pelvis in the anterior and posterior projections.
+There is no abnormal uptake to indicate a Meckel's diverticulum.
+IMPRESSION: No evidence of Meckel's diverticulum.
+Small Bowel Enteroscopy, [**3-11**]: No bleeding source through to proximal ileum.
+Based on colonoscopy findings from [**Hospital3 3583**], her bleeding was felt to be most likely due to intermittently bleeding diverticulum.
+BRBPR The patient was not bleeding and was hemodynamically stable upon arrival to the MICU.
+On the morning of [**3-8**], she had two episodes of bright red blood per rectum with loss of 500 cc blood each time.
+She underwent a tagged red blood scan on [**3-8**] which showed no bleeding during 3 hours of evaluation.
+EGD showed evidence for duodenitis and severe segmental gastritis.
+Colonoscopy showed fresh blood in the ileum, diverticulosis of the ascending and sigmoid colon, and fresh blood throughout the colon.
+These findings suggested a small bowel source of the bleed, and a Meckel's scan was recommended to search for a Meckel's diverticulum.
+A small bowel enteroscopy was performed by the GI service with no evidence of bleeding as far as the proximal ileum.
+It was thought that her right sided diverticulum was still the most likely cause of her bleeding.
+She was discharged with instructions for followup with a primary care doctor and was instructed to return to the nearest ER immediately if her bleeding resumes.
+# Antecubital fossa thrombophlebitis: At the site of a former IV, an area of redness and tenderness had developed which appeared to be most likely consistent with a thrombophlebitis.
+Her mild transaminitis resolved.
+Secondary: h/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Last Name (NamePattern1) 10750**]   Discharge Condition: Good: Hematocrits stable, still have small amount of residual clots in stool but much decreased, hemodynamically stable.
+Discharge Instructions: You were admitted for a GI bleed.
+Your workup included the following: A colonoscopy showed diverticuli in the ascending and sigmoid colon with red blood in the colon, an EGD showed only mild gastritis of the stomach (not likely be a bleeding source).
+A bleeding scan was negative for bleeding source, and a Meckel's scan was negative for a bleeding Meckel's diverticulum.
+Finally, a small bowel enteroscopy showed no evidence of an upper bleeding source to as far as the proximal ileum.
+It is most likely that your bleeding is from your diverticulosis in your colon.
+You were started on a medication called Protonix given your GI bleed which will help to protect the lining of you stomach.
+You are scheduled to see a primary care doctor [**First Name (Titles) **] [**Last Name (Titles) 766**] to get your hematocrit checked to ensure there is no further blood loss.
+Seek medical attention immediately at your nearest emergency room if you experience a recurrence of bleeding in your stool.
+Also you should seek medical attention immediately for the following: - Bright red blood in your stool - Black, foul smelling stools - Lightheadedness - Fatigue - Increasing shortness of breath with exertion - Abdominal pain, fevers, nausea or vomiting .
+You have a gastric biopsy specimen pending.
+Followup Instructions: Please followup with the [**Hospital3 **] at [**Hospital1 18**] to ensure your hematocrit is stable after your bleeding episode.
+Please request the results of your gastric biopsy at this appointment as they are pending at the time of discharge.

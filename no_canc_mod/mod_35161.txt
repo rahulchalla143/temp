@@ -1,0 +1,52 @@
+Admission Date:  [**2142-7-17**]              Discharge Date:   [**2142-7-18**]  Date of Birth:  [**2080-3-24**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 7333**] Chief Complaint: fatigue, increased leg edema, dyspnea on exertion, recurrent atrial fibrillation/flutter  Major Surgical or Invasive Procedure: Atrial Tachycardia Ablation  History of Present Illness: 62 year old patient of Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 65453**] and Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] with recurrent atrial fibrillation, who underwent left atrial tachycardia ablation, now transferred to the CCU for closer monitoring.
+This 62 year old gentleman has a long history of atrial fibrillation/atrial flutter dating back to [**2130**].
+He has had multiple cardioversions over the year and ultimately had an atrial flutter ablation in [**2132**].
+He developed recurrent atrial fibrillation in [**2133**]-[**2134**] and had an atrial fibrillation ablation that was complicated by a pericardial effusion in [**2136**].
+He developed recurrent atrial fibrillation about 6 months later.
+He reports that had another type of atrial ablation in [**2138**].
+He had suffered a fall with an injury to his ankle.
+He also had a lapse in his Flecainide for approximately 10 days.
+He remained in sinus rhythm for about 2 days when he reverted again back to atrial fibrillation accompanied by severe shortness of breath.
+atrial tachycardia, according to the patient.
+Extubated around midnight and observed before being sent to the CCU.
+No clinical complaints.
+On review of systems, he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis.
+He denies recent fevers, chills or rigors.
+He denies exertional buttock or calf pain.
+While in atrial fibrillation, he experiences fatigue, increased leg edema and dyspnea on exertion.
+Cardiac review of systems is notable for absence of chest pain, dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope.
+Past Medical History: Hypertensive heart disease Asthma Hyperlipidemia Atrial fibrillation/atrial flutter s/p atrial fibrillation ablation Obstructive sleep apnea, uses CPAP (requested to bring with pt) cardiomyopathy Hypothyroidism  Social History: Lives with: Married and has an 18 year old son and 14 year old daughter.
+Sclera anicteric.
+Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.
+No xanthalesma.
+No thrills, lifts.
+LUNGS: No chest wall deformities, scoliosis or kyphosis.
+CTAB, no crackles, wheezes or rhonchi.
+No HSM or tenderness.
+No abdominial bruits.
+EXTREMITIES: Trace-1+ pitting edema b/l.
+No cyanosis or clubbing.
+No femoral bruits.
+No hematoma, ecchymosis or signs of infection at sheath site.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES: Right: Radial 2+ DP dopplerable PT dopplerable Left: Radial 2+ DP 2+ PT dopplerable  Pertinent Results: No studies/additional imaging on this admission.
+# RHYTHM: s/p left sided AT ablation [**2142-7-17**].
+# Visual disturbance - pt mentioned mild visual disturbance, left eye, felt to be related to retinal artery floaters, post-procedure.
+Visual field testing performed without deficits and neurologic exam without abnormalities.
+Patient instructed to see opthalmology if persistent, although symptoms are expected to resolve within 24-48 hours.
+No signs of overt fluid retention on exam, with trace BLE edema.
+# OSA - CPAP per home settings were continued.
+Given his 60-80 lb weight gain, and the fact that his last sleep study was 8+ years ago, pt was referred for another sleep study at [**Hospital1 18**].
+# Hyperlipidemia - low fat, low cholesterol diet was continued.
+# HTN - stable, continued on low Na diet.
+# Hypothyroidism - stable, was continued on home Lexothyroxine 75mcg daily.
+# Anticoagulation - INR 2.7 on discharge.
+# Dispo: discharge to home  Medications on Admission: Amiodarone 100mg daily ([**12-8**] of 200mg) Flecainide 150mg [**Hospital1 **] Cardizem 60mg 1 tablet 3 times daily Levothyroxine 75mcg daily Warfarin 5mg/7.5mg alternating doses, instructed to take 5mg MON night per Dr. [**Last Name (STitle) **] for INR of 2.9 on Monday Zocor 20mg daily Aspirin 325mg daily Vitamin C  2000mg daily Vitamin D3 2000mg [**Hospital1 **] Vitamin E 4000 IU daily Salmon oil 1000 daily DHA daily Cod liver oil daily Carnatine daily L- carnatine Tumeric daily Cursamin daily Alphalipoic acid 600mg daily Calcium-magnesium-potassium [**Hospital1 **] Magnesium 400mg [**Hospital1 **] Arginine daily Boron daily Chromium Albuterol PRN for SOB  Discharge Medications: 1.
+Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: Two (2) puffs Inhalation q 4-6 hours as needed for shortness of breath or wheezing.
+Acetaminophen 500 mg Tablet Sig: 1-2 Tablets PO three times a day as needed for chest pain.
+Discharge Disposition: Home  Discharge Diagnosis: Atrial Tachycardia Ablations Atrial Fibrillation/Atrial Tachycardia Hypertension Hyperlipidemia Asthma OSA Hypothyroidism   Discharge Condition: v/s: afeb, 91% on RA, HR 82, BP Lungs: CTAB CV: RRR Ext: mile peripheral chronic edema  Discharge Instructions: You had an atrial tachycardia ablation for recurrent atrial arrhythmias.
+There were no complications.
+You had some visual changes that may be from a tiny blood clot in the vessels near your eye.
+The opthamologist will tell you if your vision is adequate for driving.
+No pools or baths for one week.
+STOP taking Cardizem  If you have chest pain, shortness of breath, pain/swelling at groin sites, fever - please call Dr. [**First Name (STitle) 65453**]  Followup Instructions: Cardiology electrophysiology: Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]  Phone: [**Telephone/Fax (1) 33732**] Date/time: [**8-10**] at 1:00pm.

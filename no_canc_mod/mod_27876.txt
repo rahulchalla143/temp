@@ -1,0 +1,39 @@
+Admission Date:  [**2150-2-11**]              Discharge Date:   [**2150-2-19**]   Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 4760**] Chief Complaint: dark stool  Major Surgical or Invasive Procedure: None  History of Present Illness: 84 y/o woman with a history of diabetes, biventricular congestive heart failure, right sided more than left, right sided systolic and left sided diastolic, presumed though not documented coronary artery disease, atrial fibriallation on coumadin, and chronic kidney disease is admitted to the [**Hospital Unit Name 153**] with a drop in hematocrit and dark stools.
+She notes that she has been feeling weak for some time.
+She in fact correlates her weakness with a recent increase in her hydralazine dose from 10mg po TID to 25mg po TID three weeks ago.
+Of note, asymptomatic ST depressions were noted on precordial leads V2-V4.
+Further review of systmes is notable for the absence of abdominal pain, though she does remark on an increase in bloating and indegestion in recent weeks.
+She denies diarrhea but does not constipation.
+Of note, her family took note of a recent increase in her blood sugars, with values in the last several days consistenyl > 300.
+The patient has a history of UTIs and hyperglycemia associated with this, but denies fevers, dysuria, or polyuria currently.
+She denies shortness of breath, no chest pain.
+Past Medical History: -HTN -DM2 -CAD -CHF: echo [**10-11**] showing lvef 40-45%, E/e' > 15, 2+ MR [**First Name (Titles) **] [**Last Name (Titles) **], mod pul htn -Afib -PVD -Pulmonary HTN -CRI: Baseline Cr 1.8 -Renal artery stenosis -Gout PSH: -TAH -CCY -Appendectomy .
+Family History: Father had DM and died of this in the era before insulin.
+Mother had CAD and died at 84.
+Sister died of breast cancer at 36.
+Brother had CAD in 40's.
+Physical Exam: afebrile 120/53 HR: 80, irregular sating 100%RA GEN: well appearing, not in any distress HEENT: JVP noted pulsating at earlobe CV: irregular, s1, s2, no murmurs moted RESP: quite clear to ascultation bilaterally ABD: soft, obese, not tender to palpation RECTAL: black, guiac posative stool   Pertinent Results: [**2150-2-11**] 09:57PM URINE  RBC-3* WBC-20* BACTERIA-MOD YEAST-NONE EPI-<1 [**2150-2-11**] 01:05PM   GLUCOSE-266* UREA N-146* CREAT-2.0* SODIUM-129* POTASSIUM-3.3 CHLORIDE-91* TOTAL CO2-25 ANION GAP-16 [**2150-2-11**] 01:05PM   ALT(SGPT)-8 AST(SGOT)-20 CK(CPK)-40 ALK PHOS-118* TOT BILI-0.5 [**2150-2-11**] 01:05PM   TRIGLYCER-141 HDL CHOL-31 CHOL/HDL-5.0 LDL(CALC)-96 [**2150-2-11**] 01:05PM   WBC-12.4* RBC-2.28*# HGB-6.5*# HCT-19.7*# MCV-86 MCH-28.4 MCHC-33.0 RDW-20.1* [**2150-2-11**] 01:05PM   NEUTS-86.4* LYMPHS-9.8* MONOS-2.4 EOS-1.0 BASOS-0.3 [**2150-2-11**] 12:00PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 LEUK-MOD [**2150-2-12**] 04:44AM BLOOD WBC-12.4* RBC-3.56*# Hgb-10.5*# Hct-29.7* MCV-83 MCH-29.5 MCHC-35.3* RDW-17.9* Plt Ct-148* .
+There is linear atelectasis in the right lower lobe.
+There is prominence of the pulmonary vasculature.
+There is no acute pulmonary consolidation.
+>100,000 ORGANISMS/ML..       ESCHERICHIA COLI.
+10,000-100,000 ORGANISMS/ML..                                SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              PROTEUS VULGARIS                              |          ESCHERICHIA COLI                              |          | AMPICILLIN------------              <=2 S AMPICILLIN/SULBACTAM--              <=2 S CEFAZOLIN-------------              <=4 S CEFEPIME--------------   <=1 S      <=1 S CEFTAZIDIME-----------     2 S      <=1 S CEFTRIAXONE-----------   <=1 S      <=1 S CEFUROXIME------------                4 S CIPROFLOXACIN---------<=0.25 S   <=0.25 S GENTAMICIN------------   <=1 S      <=1 S LEVOFLOXACIN----------<=0.25 S MEROPENEM-------------<=0.25 S   <=0.25 S NITROFURANTOIN--------   256 R     <=16 S PIPERACILLIN----------   <=4 S      <=4 S PIPERACILLIN/TAZO-----    16 S      <=4 S TOBRAMYCIN------------   <=1 S      <=1 S TRIMETHOPRIM/SULFA----   <=1 S      <=1 S  Brief Hospital Course:  84 y/o woman with diabetes, atrial fibrialltion on coumadin, biventricular heart failure, presenting with weakness, a drop in hemaotcrit and guaiac positive stools.
+Hospital course also complicated by afib with RVR  # Gastrointestinal bleed/Acute blood loss anemia:  Patient was found to have grossly melanotic stools in the ED and a hematocrit drop to 20 in the setting of an INR of 7.
+The source of her bleeding was unclear but thought to be upper GI given the rise in her BUN and melena.
+Of note, H Pylori was positive, but favor not treating as she has no symptoms of gastritis and bleed was in setting of elevated INR.
+# Acute on Chronic biventricular diastolic heart failure: Torsemide was restarted once patient was stable.
+During her admission on the floor, pt developed afib with RVR (see below), requiring increased dosing of her lopressor.
+Pts cardiologist, Dr. [**Last Name (STitle) 171**], was consulted while pt was here given her tenuous volume status at home and the need for many medications changes (ie increasing her lopressor, holding her imdur/hydralazine), and noted her weight was up 10 lbs from her dry weight.
+Started bactrim on [**2-13**] and urine noted to be growing pansensitive E Coli and Proteus.
+Daughter requested we start prophylactic antibiotics, however it was felt that bactrim would interfere with pts coumadin, and macrobid could be neurotoxic in the setting of chronic kidney failure.
+# Diabetes: Reports elevated and difficult to control blood sugars of late.
+# Hypertension:  Initially many BP meds were held due to hemodynamic instability.
+As per below, pt developed a fib with RVR, requiring her hydralazine and imdur to be held while increasing her lopressor.
+#A.Fib with RVR: Given massive recent bleed, the source of which has not been treated (or identified), coumadin was stopped.
+Upon discussion with pts daughter and pts cardiologist Dr. [**Last Name (STitle) 171**], it was felt her GI bleed was in the setting of supratherapeutic INR and she has a high risk for stroke off of coumadin.
+We agreed on restarting coumadin, and if pt is on antibiotics at any given time for her frequent urinary tract infections she will need her INR monitored twice weekly (daughter aware).
+Per family, pt does have some dementia and this is baseline for pt.
+#CAD-had troponin leak around the time of admission, felt to be consistent with demand ischemia.
+Discharge Disposition: Home With Service  Facility: [**Hospital3 **] VNA  Discharge Diagnosis:   GI bleed Anemia Demand ischemia Diabetes mellitus II, uncontrolled, no complications Atrial fibrillation with rapid rate Urinary tract infection Acute on chronic diastolic heart failure   Discharge Condition: stable, hct 29   Discharge Instructions: You were admitted with a GI bleed in the setting of your INR being too high on coumadin.
+You were transfused 4 units of blood with your red blood cell level stabilizing at approximately 30.
+Call your doctor or return to the ER for any recurrent rectal bleeding, weakness, fainting, chest pain, shortness of breath, abdominal pain, bleeding, or any other concerning symptoms.

@@ -1,0 +1,34 @@
+Admission Date:  [**2101-2-20**]              Discharge Date:   [**2101-2-23**]   Service: MEDICINE  Allergies: Aspirin / Nsaids  Attending:[**First Name3 (LF) 11495**] Chief Complaint: Syncope  Major Surgical or Invasive Procedure: Temporary pacer wire placement [**2101-2-20**] Permanent pacer placement [**2101-2-21**]  History of Present Illness: Ms. [**Known lastname **] is a [**Age over 90 **] year old female resident of [**Hospital 100**] Rehab, with history of CHF (EF 50%), hypothyroidism, atrial fibrillation, SSS, HTN, and COPD, who presented to the ED s/p syncope.
+The patient was being helped out of a chair in the morning of [**2-20**] when she became suddenly unresponsive, collapsed into the chair, and was noted to be cyanotic with protruding tongue and cold extremities.
+She then had a second episode requiring sustained transcutaneous pacing, at which time the EP fellow was called for temporary pacer placement (patient still DNR/DNI but wanted a pacer).
+Past Medical History: CHF (EF 50%) hypothyroidism atrial fibrillation SSS HTN COPD  Social History: [**Hospital 100**] Rehab resident.
+Family History: Unknown  Physical Exam: VS:  98.9, 90, 140/83, RR 22, 96% on 4L Gen: Obese caucasian female, sedated HEENT: Surgical pupils, dry MM Neck: No JVD Lungs: CTA anteriorly CVS: RR, normal rate, no m/r/g Abd: NABS, soft, obese Extr: Moving all extremities, 1+ bipedal edema.
+There is no evidence of pneumothorax.
+There is no pulmonary vascular congestion, pleural effusion, or lobar consolidation.
+Degenerative changes are seen at the shoulders.
+Echo [**2093-6-4**]:  LAE, LVH, mildly decreased LV, RV function, Mild AI, moderate MR, mild PA HTN.
+CXR [**2-21**]:  A right internal jugular temporary pacing lead has been placed with the distal tip extending into the right ventricle.
+This has a slightly more inferior position than the previous temporary pacing lead.
+There is no evidence of pneumothorax.
+The lungs demonstrate very minimal patchy atelectasis in the left retrocardiac region and are otherwise clear.
+The left atrium is moderately dilated.
+There is mild symmetric left ventricular hypertrophy.
+Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded.
+The ascending aorta is mildly dilated.
+The aortic valve leaflets (3) are mildly thickened.
+Mild (1+) aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Mild (1+) mitral regurgitation is seen.
+CXR [**2-22**]:  Interval replacement of right internal jugular pacer with left-sided permanent pacer.
+No evidence of pneumothorax.
+Brief Hospital Course: [**Age over 90 **] year old female with history of atrial fibrillation, SSS, CHF with EF 50%, HTN, COPD, who presented s/p syncope, with sinus arrest in ED.
+1) SSS: Ms. [**Known lastname **] asystolic episode in the ED is likely also what caused her syncope earlier in the day, and likely secondary to her sick sinus.
+She was transferred out of the CCU the following night, and subsequently spent one night on the floor without any hemodynamic instability.
+The pacer intermittently paces, and on tele she frequently had premature atrial contractions with subsequent pauses, prompting the pacer to fire once or twice.
+She had one episode of dizziness on the night before discharge at which time her blood pressure and heart rate were normal, and no events were recorded on telemetry.
+Her coumadin was held during the admission for the procedures, and has been restarted on the day of discharge at 5 mg.  She will need frequent INR checks until her coumadin becomes therapeutic.
+She also had some superficial abrasions just adjacent to the site of her pacer, and has therefore been started on a 10 day course of PO Keflex, of which she has 8 days left.
+2) CHF:  Ms. [**Known lastname **] received 2 L NS during her ED course, initially for presumed dehydration causing syncope, and also for mild hypotension during the placement of the temporary pacer wire.
+3) CAD:  No known hx of CAD, but EKG with QS in inferior leads as well as V1-V4 suggestive of old MIs (without true LBBB).
+She has an ASA allergy, and it was not felt that her predicted life span warranted starting any new medications.
+Discharge Disposition: Extended Care  Facility: [**Hospital6 459**] for the Aged - LTC  Discharge Diagnosis: Syncope Sick sinus syndrome Asystole  Secondary: Atrial fibrillation Congestive heart failure Chronic Obstructive Lung Disease Hypothyroidism Hypertension   Discharge Condition: Good, stable.

@@ -1,0 +1,25 @@
+Admission Date:  [**2155-6-5**]              Discharge Date:   [**2155-6-10**]  Date of Birth:  [**2118-8-30**]             Sex:   M  Service: MEDICINE  Allergies: Shellfish  Attending:[**First Name3 (LF) 13256**] Chief Complaint: tylenol overdose, ALF, ARF  Major Surgical or Invasive Procedure: none   History of Present Illness: 36 year old man with h/o headaches transferred on [**2155-6-5**] with ALF and ARF.
+Afterward experienced abdominal pain and N/V.
+Went to an OSH were he was found to have Acute liver failure (AST >15,000 and ALT>7,000) and acute renal failure.
+Family History: No family history of kidney or liver disease  Physical Exam: Admission exam VITALS: 98.0, 180/94, 72, 16, 98% RA, UOP >2L so far today GENERAL: WDWN man in NAD HEENT: Left eye hemorrhage (stable per pt), PEERL, EOMI, no icterus NECK: Supple, no carotid bruits, no JVD LUNGS: CTAB HEART: RRR, normal S1 S2, no MRG ABDOMEN: Soft, NT, NABS, no organomegaly EXTREMITIES: WWP, no edema NEUROLOGIC: A&Ox3, CN II-XII intact, strength and sensation intact, no asterixis  Discharge exam Vitals: 98.5 152/104 77 20 98%ra GENERAL: pleasant, well appearing man in NAD HEENT: Left eye hemorrhage (stable per pt), PERRL, EOMI, no icterus NECK: Supple, no carotid bruits, no JVD LUNGS: CTAB HEART: RRR, normal S1 S2, no MRG ABDOMEN: Soft, NT, NABS, no organomegaly EXTREMITIES: WWP, no edema NEUROLOGIC: A&Ox3, CN II-XII intact, strength and sensation intact, no asterixis  Pertinent Results: Admission labs [**2155-6-5**] 02:30PM BLOOD WBC-4.5 RBC-5.00 Hgb-13.3* Hct-40.2 MCV-80* MCH-26.6* MCHC-33.1 RDW-14.5 Plt Ct-156 [**2155-6-5**] 02:30PM BLOOD PT-33.6* PTT-27.5 INR(PT)-3.3* [**2155-6-5**] 02:30PM BLOOD Glucose-147* UreaN-52* Creat-5.9* Na-139 K-4.8 Cl-97 HCO3-22 AnGap-25* [**2155-6-5**] 02:30PM BLOOD ALT-7947* AST-[**Numeric Identifier 83953**]* AlkPhos-116 TotBili-4.5* [**2155-6-5**] 02:30PM BLOOD Albumin-3.9 Calcium-7.4* Phos-5.0* Mg-1.7 [**2155-6-5**] 02:30PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-15 Bnzodzp-NEG Barbitr-NEG Tricycl-NEG [**2155-6-5**] 02:34PM BLOOD Type-[**Last Name (un) **] Temp-36.7 pO2-64* pCO2-36 pH-7.35 calTCO2-21 Base XS--4 Comment-GREEN TOP [**2155-6-5**] 02:34PM BLOOD Lactate-5.0*  Discharge labs [**2155-6-10**] 07:14AM BLOOD WBC-6.3 RBC-4.01* Hgb-10.3* Hct-31.5* MCV-79* MCH-25.7* MCHC-32.7 RDW-16.4* Plt Ct-156 [**2155-6-10**] 07:14AM BLOOD PT-14.7* PTT-28.7 INR(PT)-1.4* [**2155-6-10**] 07:14AM BLOOD Glucose-87 UreaN-23* Creat-2.0*# Na-143 K-2.9* Cl-111* HCO3-24 AnGap-11 [**2155-6-10**] 07:14AM BLOOD ALT-903* AST-84* LD(LDH)-305* AlkPhos-118 TotBili-2.5* [**2155-6-10**] 07:14AM BLOOD Albumin-3.0* Calcium-7.7* Phos-3.9 Mg-1.6 [**2155-6-6**] 10:28AM BLOOD Lactate-1.4  CXR [**6-5**]: No acute cardiopulmonary process  RUQ U/S [**6-5**]: The liver is normal without focal or textural abnormality.
+Color and spectral Doppler evaluation of the main, left, and right portal veins demonstrate patency with hepatopetal flow.
+The gallbladder is normal without wall thickening or gallstone.
+The common duct measures 4 mm and there is no intra- or extra-hepatic bile duct dilatation.
+Mild splenomegaly is present with the spleen measuring 13.8 cm.
+Bilateral kidneys are normal without hydronephrosis or stone.
+The visualized portions of the inferior vena cava appear normal.
+Normal-appearing kidneys.
+TTE [**2155-6-6**]: The left atrium is mildly dilated.
+No atrial septal defect is seen by 2D or color Doppler.
+The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic stenosis or aortic regurgitation.
+The mitral valve appears structurally normal with trivial mitral regurgitation.
+There is mild pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+Brief Hospital Course: Mr [**Known lastname **] is a 36yoM with h/o headaches who presents s/p accidental tylenol overdose with ALF and ARF.
+# Acute liver failure: Secondary to tylenol toxicity.
+He presented with elevated Tbili to 4.5, INR that would peak at 3.3, ALT ~7,000, AST ~15,000, LDH 3,800.
+# Acute renal failure: Likely secondary to ATN from renal hypoperfusion (from vomiting), and direct tylenol toxicity.
+He was advised to stay hydrated, and to avoid NSAIDs, tylenol, and other nephrotoxins.
+# Hypertension: Patient denies a prior history of hypertension, therefore is likely due to acute illness and renal failure.
+# CODE STATUS: full (confirmed) # EMERGENCY CONTACT: [**Name (NI) 21206**] [**Name (NI) **] ([**Telephone/Fax (1) 111903**] ================================================ TRANSITIONAL ISSUES # no new medications, herbals, supplements without consent of a doctor # no alcohol for time being # no tylenol, NSAIDs, or OTC meds without consent of a doctor # monitor blood pressure in outpatient setting.
+Outpatient Lab Work chem 7, ALT, AST, total bilirubin, Alk phos, INR, CBC Fax results to: Dr [**First Name (STitle) **] [**Name (STitle) 111904**] Fax: ([**Telephone/Fax (1) 4409**] Phone: ([**Telephone/Fax (1) 89943**]   Discharge Disposition: Home  Discharge Diagnosis: - acetaminophen toxicity - acute liver injury - acute kidney injury   Discharge Condition: Mental Status: Clear and coherent.

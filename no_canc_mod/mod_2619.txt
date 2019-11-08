@@ -1,0 +1,29 @@
+Admission Date:  [**2150-12-10**]              Discharge Date:   [**2150-12-19**]  Date of Birth:  [**2066-5-8**]             Sex:   F  Service: SURGERY  Allergies: Penicillins / Methotrexate / Lisinopril  Attending:[**First Name3 (LF) 695**] Chief Complaint: fevers, jaundice, confusion  Major Surgical or Invasive Procedure: [**2150-12-11**]: ERCP [**2150-12-17**]: Liver Biopsy [**2150-12-17**]: Mid-Line placement   History of Present Illness: Ms. [**Known lastname **] is an 84-year-old female with a remote history of cholecystectomy and choledochoduodenostomy, presumably for her history of Caroli's disease and Oriental cholangiohepatitis with intrahepatic stones.
+During the past 10 years she has been having recurrent episodes of cholangitis.
+She has had multiple ERCPs at [**Hospital1 18**] since [**2140**] with severe diffuse dilatation of the common hepatic, left and right hepatic ducts, with multiple stone extractions.
+The latest ERCP was on on [**2148-7-1**] by Dr. [**Last Name (STitle) **], when she had multiple stones removed.
+Her last CT scan was done on [**2150-7-1**] demonstrating no change since the prior exam, with diffuse pneumobilia and high-density material within the biliary tree involving both lobes, consistent with her known cholangiohepatitis.
+There was chronic occlusion of the left portal vein.
+She has a 4-mm hypodense lesion in the uncinate process that is stable and most consistent with an IPMN.
+She was transferred [**12-10**] from [**Hospital3 5365**], with a 1 day history of fevers and altered mental status.At [**Hospital3 5365**], they did a CT head (negative) and a CT abdomen showing same findings as prior studies, plus a new liver lesion read as a possible abscess.
+In the ED here, patient with T 104, hypotensive down to 60/30's requiring pressors, and minimally responsive.
+Past Medical History: MH: Caroli's disease and Oriental cholangiohepatitis, Gout, Diabetes mellitus, Type II (diet controlled), GERD, Thrombocytopenia PSH: Cholecystectomy, choledochoduodenostomy   Social History: From south of [**Country 651**], speaks Cantonese, arrived to US on 93'.
+Has no history of alcohol use, smoking, IV drug use, marijuana use, tattoos, or hepatitis.
+No rebound or guarding, normoactive bowel sounds, no palpable masses.
+Right paramedial scar.
+Ext: Mild LE edema, LE warm and well perfused.
+Pertinent Results: [**2150-12-14**] 10:26AM BLOOD CA [**58**]-9 -Test  [**2150-12-10**] Blood Cultures: Blood Culture, Routine (Final [**2150-12-13**]):       ESCHERICHIA COLI.
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              ESCHERICHIA COLI                              | AMPICILLIN------------     8 S AMPICILLIN/SULBACTAM--     4 S CEFAZOLIN-------------   <=4 S CEFEPIME--------------   <=1 S CEFTAZIDIME-----------   <=1 S CEFTRIAXONE-----------   <=1 S CIPROFLOXACIN---------   =>4 R GENTAMICIN------------   <=1 S MEROPENEM-------------<=0.25 S PIPERACILLIN/TAZO-----       S TOBRAMYCIN------------   <=1 S TRIMETHOPRIM/SULFA----   <=1 S  [**2150-12-11**] ERCP Post surgical anatomy with choledochoduodenostomy A single periampullary diverticulum with large opening was found at the major papilla A pediatric gastroscope was introduced into the bile duct and cholangioscopy was performed A large stone measuring 3-4 cm was occupying the main bile ductMultiple stones ranging in size from 4mm to 6mm were noted at the right hepatic duct, left hepatic duct, and intrahepatic biliary radicles A cholangiogram was performed through the choledochoduodenal anastomosis A moderate dilatation was noted at the proximal common bile duct, left hepatic duct, and left intrahepatic biliary ducts Lithotripsy with [**First Name8 (NamePattern2) **] [**Last Name (un) 938**] lithotriptor was performed.
+Brief Hospital Course: Ms. [**Known lastname **] was admitted [**2150-12-10**] from [**Hospital3 **] with fevers, hypotension, and a new liver lesion on abdominal CT. She was admitted to the hepatobiliary service and, given her severe hypotension and pressor requirement in the emergency department, taken to the SICU for aggressive support, including pressors and intubation.
+Neuro: Mental status was initially altered at admission, pt was confused and non-responsive.
+PULM: Pt was intubated on HD1 for altered mental status; she underwent ERCP and was able to extubate later that evening.
+She was weaned off oxygen and at discharge is stable on room air with no acute pulmonary issues.
+After extubation from this procedure, sepsis picture was resolving and her diet was slowly readvanced to a regular diabetic diet which she tolerated with no issues.
+ID: At admission, pt had blood cultures positive for e. coli x2 here at [**Hospital1 18**].
+She has been afebrile since coming to the floor.
+Prophylaxis: She was kept on SQH and compression stockings for DVT prophylaxis.
+PT visited with the patient and identified no acute issues.
+At time of discharge, she is afebrile and hemodynamically normal.
+She is tolerating a regular diet with no nausea or vomiting, and no abdominal pain.
+Discharge Disposition: Home With Service  Facility: [**Location (un) **] vna  Discharge Diagnosis: Cholangitis Sepsis E Coli bacteremia   Discharge Condition: Mental Status: Clear and coherent.
+Discharge Instructions: Please call Dr[**Name (NI) 1369**] office at [**Telephone/Fax (1) 673**] for fever, chills, nausea, vomiting, dairrhea, increased abdominal pain, increased yellowing of skin or eyes, inability to tolerate food, fluids or medications, problems with the mid-line, intolerance of medication.

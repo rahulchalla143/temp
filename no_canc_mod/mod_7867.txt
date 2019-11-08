@@ -1,0 +1,71 @@
+Admission Date:  [**2128-12-4**]              Discharge Date:   [**2128-12-7**]   Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 759**] Chief Complaint: respiratory distress  Major Surgical or Invasive Procedure: Transient BiPAP in the ED  History of Present Illness: Mr. [**Known lastname **] is an 88 yo retired farmer from [**Country 3587**] with PMH significant for BPH with UTI indwelling foley, chronic UTIs, HTN and one episode of endocarditis, 2+ MR/ 2+ AR, who presents with respiratory distress, fatigue and dysarthria after being discharged one day prior.
+He has not had any facial droop, no focal weakness or numbness.
+He also developed respiratory distress with heavy breathing and non-productive cough.
+He denies any orthopnea or PND.
+Initially, he was tx'ed for asthma with nebs, solumedrol, magnesium.
+His CXR then revealed a new RML infiltrate, and he spiked a fever to 102.7.
+Vitals:  98.8 84 150/79 26 97 vitals on transfer: 106-110, RR 20, 100% bipap 8/8 on Fi02 40%, 160/76  ROS: (+) fevers, chills, non-productiv cough, hx constipation (-)  recent weight loss or gain.
+Denies headache, sinus tenderness, rhinorrhea or congestion.
+Denied cough, shortness of breath.
+Denied chest pain or tightness, palpitations.
+Denied nausea, vomiting, diarrhea, or abdominal pain.
+No recent change in bowel or bladder habits.
+Denied arthralgias or myalgias  Past Medical History: #.
+BPH with Indwelling Foley - history of urinary retention, followed by [**Hospital1 2177**] Urology #.
+h/o recurrent UTI #.
+Anemia due to Alpha-Thallasemia Trait, B12 Deficiency #.
+Gastritis #.
+Hypertension   Social History: The patient is initially from [**Country 3587**] Islands, he moved to the United States approximately 15 years ago.
+Meals are prepared by his daughter, patient able to feed himself without difficulty.
+Tobacco: None current or prior ETOH: None current or prior Illicits: None current or prior   Family History: Non-contributory  Physical Exam: Vitals: T:100.4 P:105 BP:125/64 R:22 SaO2:100% NC 6L General: drowsy but arousable, Aox3 HEENT:  MMM, no lesions noted in OP Neck: supple, no JVD Pulmonary: Lungs CTA bilaterally Cardiac: RRR, nl.
+S1S2, no M/R/G noted Abdomen: soft, NT/ND, normoactive bowel sounds, no masses or organomegaly noted.
+Skin: no rashes or lesions noted.
+No abnormal movements noted.
+-cerebellar: No nystagmus, able to perform finger to nose with some coaching and translation   Pertinent Results: Ucx Ecoli [**11-30**] [**Month/Year (2) **] Cx [**1-23**] 11/10 bottles Ecoli resistent to ampicillin and bactrim Subsequent [**Month/Day (2) **] cx's negative  EKG:  sinus tachycardia w/o ischemic changes  Radiologic Data: CXR: new RML perihilar infiltrate, no edema, no effusions Echo [**2123**]:The left atrium is mildly dilated.
+There is mild symmetric left ventricular hypertrophy with normal cavity size and systolic function (LVEF 60-70%).
+No masses or thrombi are seen in the left ventricle.
+There is no ventricular septal defect.
+The ascending aorta is mildly dilated.
+There is a minimally increased gradient consistent with minimal aortic valve stenosis.
+Moderate (2+) aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Mild (1+) mitral regurgitation is seen.
+There is borderline pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+stroke vs bleed [**Hospital 93**] MEDICAL CONDITION:    88 year old man with new dysarthria x 3 days.
+Provisional Findings Impression: SPfc SAT [**2128-12-4**] 10:57 AM PFI: No change from [**2128-3-24**] and overall no acute intracranial process.
+If clinical suspicion exists for acute infarction, MRI is a more sensitive modality for evaluation.
+FINDINGS: There is no intracranial hemorrhage, edema, mass effect, or vascular territorial infarction.
+Ventricles and sulci are enlarged, consistent with parenchymal volume loss and unchanged from the comparison study.
+There is cerebellar and brainstem atrophy.
+Also unchanged is bilateral periventricular white matter hypodensity, reflecting chronic microvascular infarction.
+Scattered calcifications throughout the intracranial parenchyma are unchanged.
+There is no fracture.
+Included paranasal sinuses reveal mild mucosal thickening bilaterally at the ethmoid air cells, unchanged from the comparison study.
+IMPRESSION: No change from [**2128-3-24**] and overall no acute intracranial process.
+If clinical suspicion exists for acute infarction, MRI is a more sensitive modality for evaluation.
+DR. [**First Name (STitle) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] DR. [**First Name (STitle) 3905**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3906**] Approved: SAT [**2128-12-4**] 12:35 PM  Labs on [**12-7**] wbc 7.6  hct 30  plt 265 Na 142  K 4.3  Cl 109  HCO3 27  BUN 18  Cr 0.8  Gluc 103   Brief Hospital Course: Mr. [**Known lastname **] is an 88 yo retired farmer from [**Country 3587**] with PMH significant UTI indwelling foley, chronic UTIs, HTN and one episode of endocarditis, 2+ MR/ 2+ AR, who presented with respiratory distress, dysarthria and presumed pylonephritis.
+After discharge, he developed significant respiratory distress at home and dysarthria.
+He was found to have bilateral lower lobe infiltrates on CXR.
+DFA has returned negative for influenza and the Oseltamivir has been discontinued.
+Neurology saw him in consultation and were not worried about an acute stroke, rather felt his acute illness was resulting in a delirium/acute encephalopathy unmasking prior strokes/ischemic damage.
+Neurology did note that his CT showed marked cerebellar atrophy and Dr. [**Last Name (STitle) 8760**] stated, "Assess: Given the degree of atrophy in the cerebellum and pons it would not be unusual for this gentleman to experience dysarthria, dysphagia, oculomotor abnormalities and ataxia in the setting of infections or other metabolic stresses.
+I do not have a reliable FMH but the appearance is consistent with OPCA, a collection of sporadic and inherited degenerative disorders that usually present at a much younger age but can present as late as the 8th decade.
+However, he has not experienced any conclusive clinical evidence of these disorders except when he is infected.
+Given his age and comorbid conditions he does not require further evaluation unless these symptoms should return."
+On [**12-6**], he was noted to be confused with hallucinations overnight.
+There are multiple possible precipitants - infection, bacteremia, change in environment, underlying cognitive dysfunction, language barrier etc.
+EKG was noted to be unremarkable per Dr. [**Last Name (STitle) **], his labs were not significantly changed except for a mild elevated BUN, his rectal exam was without stool impaction, KUB showed: small amount of stool in the decending colon consistent with mild constipation.
+Dr. [**Last Name (STitle) **] spoke with Dr. [**Last Name (STitle) 12332**] from Neurology who stated Neurology feels his deficits are all secondary to a multifactorial encephalopathy and recommended supportive care.
+Mr. [**Known lastname **] [**Last Name (Titles) **] was stopped on [**12-6**] given his mild constipation.
+He had an EGD in [**12/2127**] that showed gastritis and a colonoscopy in [**12/2127**] that was normal to the cecum.
+Due to day-night disorientation and daytime somnolence on [**12-6**], he had poor oral intake and was given a 500 cc bolus of Normal Saline.
+On [**12-7**], Mr. [**Known lastname **] was much improved, alert, interactive, tolerated a normal breakfast and offered no complaints.
+ASSESSMENT: ## Bilateral Lower [**Hospital **] Hospital Associated Pneumonia - concerning for Aspiration ## Bacteremia/Sepsis with E. coli attributed to complicated UTI with indwelling Foley catheter (followed by GU at [**Hospital1 2177**]) ## Multifactorial Encephalopathy ## Dehyration - s/p 500 cc NS bolus on [**12-6**] ## Anemia attributed to Alpha-Thallasemia Trait ## Gastritis ## History of Endocarditis [**11-24**] (No further information available in our OMR, reportedly spent one month at [**Hospital1 **] for IV Abx) ## Benign Hypertension ## Constipation ## h/o B12 deficiency .
+Mr. [**Known lastname **] [**Last Name (Titles) 25712**] dose was increased from 12.5 mg po bid, to 12.5 mg po qam and 25 mg po q6 pm due to recurrent hypertension late at night (midnight thru 8 am).
+Medications on Admission: Pantoprazole 40 mg Tab, Delayed Release [**Hospital1 **] ProAir HFA 90 mcg/Actuation Aerosol Inhaler 2 puffs Q6H Vitamin B-12 1,000 mcg Tab 2 tabs daily [**Hospital1 **] 25 mg Tab, take [**1-23**] tablet [**Hospital1 **] Lactulose 10 gram/15 mL Oral Soln q8hrs prn constipation Colace 100 mg Cap [**Hospital1 **] Ferrous Sulfate 325 mg (65 mg) Tab [**Hospital1 **]  Discharge Medications: 1.
+Lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO DAILY PRN () as needed for constipation: Hold for loose stool.
+Discharge Disposition: Extended Care  Facility: [**Hospital6 **]  Discharge Diagnosis: ## Bilateral Lower [**Hospital **] Hospital Associated Pneumonia - concerning for Aspiration ## Bacteremia/Sepsis with E. coli attributed to complicated UTI with indwelling Foley catheter (followed by GU at [**Hospital1 2177**]) ## Multifactorial Encephalopathy ## mild dehydration ## Anemia attributed to Alpha-Thallasemia Trait ## Gastritis ## History of Endocarditis [**11-24**] (No further information available in our OMR, reportedly spent one month at [**Hospital1 **] for IV Abx) ## Benign Hypertension ## Constipation ## h/o B12 deficiency   Discharge Condition: Fair   Discharge Instructions: Administer all medications as prescribed.
+If Mr. [**Known lastname **] develops fevers, chills, nausea, vomiting, inability to take his medications or eat, chest pain, shortness of breath, or other worrisome symptoms, call the doctor on call or 911 and seek immediate medical attention.
+Mr. [**Known lastname **] [**Last Name (Titles) **] was stopped on [**12-6**] given his mild constipation.
+He had an EGD in [**12/2127**] that showed gastritis and a colonoscopy in [**12/2127**] that was normal to the cecum.

@@ -1,0 +1,81 @@
+Admission Date:  [**2182-6-5**]              Discharge Date:   [**2182-7-11**]  Date of Birth:  [**2143-12-21**]             Sex:   M  Service: MEDICINE  Allergies: Penicillins / Levaquin / Biaxin  Attending:[**First Name3 (LF) 2297**] Chief Complaint: Tracheal Obstruction  Major Surgical or Invasive Procedure: bronchoscopy  History of Present Illness: 38 y/o male with PMHx significant for type 1 diabetes, history of jail time, who initially presented at [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] with 10 days of chest tightness, mylagias, couging, fever, and wheezing, as well as shortness of breath.
+Patient had CXR done at OSH which showed diffuse reticular nodular opacities involving bilateral lungs.
+CT chest at OSH was reported to show diffuse ground glass opacification and diffuse adenopathy.
+He was ruled out for MI with negative CEx3 and negative EKG  Past Medical History: Type 1 diabetes Asthma Diabetic nephropathy fractures fibula [**3-/2181**] H/O MRSA PNA   Social History: Smokes 1ppd for many years, no drug or etoh history, history of jail time  Family History: NC  Physical Exam: PE: T 97.8 BP 110/48 HR 102 RR 16 O2SAt 97% AC 450x14 PEEP 5 FiO2 60 7.21/70/80 Gen: Patient intubated, sitting up in bed, gagging on tube Heent: PERRL, EOMI, ETT tube in place Neck: no LAD appreciated Lungs: diffuse ronchi throughout Cardiac: tachy, RR S1/S3 Abdomen: soft NT +BS Ext: no edema Neuro: awake   Pertinent Results: [**2182-6-5**] 03:55PM   NEUTS-55 BANDS-14* LYMPHS-19 MONOS-8 EOS-4 BASOS-0 ATYPS-0 METAS-0 MYELOS-0 [**2182-6-5**] 04:15PM   TYPE-ART RATES-14/ TIDAL VOL-450 PEEP-5 O2-60 PO2-80* PCO2-70* PH-7.21* TOTAL CO2-30 BASE XS--1 INTUBATED-INTUBATED VENT-CONTROLLED .
+Additionally, it has a lunate configuration with elevated coronal to sagittal ratio.
+During expiration, there is excessive collapsibility of the tracheal lumen, resulting in reduction of cross-sectional area from 149 mm2 to 53 mm2.
+This likely underestimates the degree of collapsibility because it was not performed as a dynamic expiratory scan.
+Dense consolidation is present throughout both lower lobes with homogeneous increased density with prominent air bronchograms.
+These areas demonstrate peribronchiolar ground-glass opacities, areas of consolidation, and centrilobular/tree-in-[**Male First Name (un) 239**] opacities.
+Enlarged lymph nodes are present within the mediastinum, measuring up to 13 mm within the right paratracheal and precarinal regions.
+Additionally, there is diffuse stranding throughout the mediastinal fat, likely due to edema.
+There is no pericardial effusion.
+Small bilateral pleural effusions are present.
+Diffuse anasarca is present throughout the chest and abdominal wall soft tissues.
+Severity of tracheomalacia is likely underestimated on this end-expiratory scanning sequence.
+Diffuse bilateral lung parenchymal abnormalities, including peribronchiolar opacities in the upper and mid lungs and extensive confluent consolidation in the lower lobes.
+The findings are most consistent with diffuse infection complicated by ARDS.
+A component of hydrostatic edema is also possible, particularly given the presence of diffuse anasarca and bilateral pleural effusions.
+Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded.
+The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic regurgitation.
+The mitral valve appears structurally normal with trivial mitral regurgitation.
+There is no mitral valve prolapse.
+There is moderate pulmonary artery systolic hypertension.
+There is a trivial/physiologic pericardial effusion.
+Impression: status post cardiac arrest; dilated hypocontractile right ventricle; consider arrhythmogenic right ventricular cardiomyopathy .
+No evidence of pulmonary embolus.
+Redemonstration of multifocal parenchymal opacities.
+Some of the right lung opacities appear to have progressed, while others in the left upper lobe, appear slightly better than on [**2182-6-6**].
+Bilateral lower lobe consolidation, unchanged.
+Unchanged bilateral pleural effusions.
+Severe tracheobronchomalacia.
+Suggestion of bronchiectasis in multiple areas, difficult to assess given the presence of intubation/positive-pressure ventilation.
+TTE [**6-18**]:  No evidence for intracardiac (right-to-left) shunt identified.
+PORTABLE ABDOMEN  [**2182-7-1**] 11:11 AM Bowel gas pattern is unremarkable and there is no evidence of free air on this portable film.
+Possible nlargement of the liver silhouette may represent hepatomegaly or a prominent Riedel's lobe.
+IMPRESSION: No evidence of ileus or obstruction.
+Small bilateral pleural effusion has increased, with new fissural components.
+Atelectasis or consolidation at the left base has improved since [**6-29**] and atelectasis at the right lung base, which has been difficult to assess all along appears to have improved, restricted to the posterior basal segment.
+No pneumothorax.
+No pneumothorax.
+CT CHEST W/O CONTRAST  [**2182-7-6**] 2:35 PM There is dense collapse and consolidation of the dependent aspects of both lung bases, right greater than left.
+Patchy nodular airspace opacification is again noted involving the right upper lobe, left upper lobe and the aerated portions of the left lower lobe.
+Small bilateral pleural effusions are again noted which have slightly improved from the prior examination.
+As previously described there is evidence of tracheomalacia.
+No pericardial effusion is present.
+IMPRESSION: Dense collapse and consolidation of lung bases eith minimal improvement in the aeration of the left lower lobe.
+Patchy nodular airspace disease throughouth the lungs relatively unchanged consistentwith multilobar pneumonia and ARDS.
+There are no effusions or pneumothorax.
+Patchy bilateral alveolar opacities are somewhat more extensive than before.
+Brief Hospital Course: 38 y/o M with DM type 1, history of jail time who presented to OSH with what was thought to be CAP, found to have ground glass opacification and diffuse adenopathy on chest CT s/p intubation for airway obstruction, development of ARDS.
+## Respiratory Failure/ARDS - The patient was admitted with respiratory failure due to ARDS from PNA.
+He  required paralytics as he was quite agitated and needed them to tolerate proning.
+He then subsequently decompensated and became more hypoxic, possibly from volume overload.
+Thus, he underwent CTA which was negative for PE but showed some progression of prior opacities (along w/ stable b/l effusions).
+With diuresis & abx, pt slowly improved.
+ABG's demonstrate no marked hypercarbia.
+They felt that pt did not have typical MRSA PNA picture as cx had low MRSA colony count and imaging showed lymphadenopathy and ARDS/multifocal pneumonia.
+Pt received 16 days of ceftazidime and 14 days of linezolid and doxycycline, the latter of which was added for empiric tularemia tx.
+Off antibiotics for pneumonia at the time of discharge to rehab.
+With slight worsening appearance of opacities on chest x-ray, still concern for tularemia or other pathology not covered/ -Follow up on Tularemia abx, blood cx -Follow up appointment with ID .
+## Pulm Edema: likely ARDS plus component of fluid overload following aggressive fluid resuscitation.
+Lasix to be given as needed if signs of overload, clinical and imaging studies demonstrate need.
+Weaning sedation proved very difficult.
+Then, fentanyl patch initiated, in attempt attempt to wean methadone and prevent opiate withdrawal.
+Final regimen at time of discharge included Fentanyl patch at 150 mcg to be decreased as tolerated: Clonipine 3 mg TID, to be weaned as tolerated slowly, Morphine 1-2 mg q 2 for agitation pain, ativan as needed, and standing Haldol to be decreased to PRN as needed.
+As his infection was treated and propofol weaned, he was able to be weaned off Levophed.
+Once of sedatives, and ventilator, BP increased and pt was hypertensive during weaning off narcotics and sedation.
+## Anemia: The patient had a slow drop in his hematocrit.
+Thought to be due to infection, renal failure and dilutional effect.
+Discontinued several days prior to DC as felt anemia related to renal failure which was resolving in addition to acute illness.
+## Hyponatremia/Hypernatremia: likely hypervolemic hyper-Na+, diurese & volume restrict.
+Hypernatremia ensued later in the course, treated with free water flushes, which resolved after several days as well.
+## Diffuse adenopathy - Noted on admission.
+this could be reactive secondary to infection as mentioned above.
+At time of discharge no inguinal lymphadenopathy palpated, likely reactive secondary to infection.
+Patient receiving tube feeds at goal via the PEG tube with minimal residual.
+Senna 8.6 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO twice a day as needed for constipation.
+PO DAILY (Daily) as needed for constipation.
+Discharge Disposition: Extended Care  Facility: Radius  Discharge Diagnosis: Primary: ARDS pneumonia Acute renal failure Narcotic withdrawal/agitation DM I Anemia HSV Hypotension Hypernatremia Hyponatremia  .
+Secondary: Asthma diabetic nephropathy h/o MRSA pneumonia Fibula fracture   Discharge Condition: stable   Discharge Instructions: You were admitted with ARDS, and had a long hospital stay -Continue all medications, neb treatments.
+Please follow up with infectious disease, discussion of Tularemia and review of cx and Antibiotic data.

@@ -1,0 +1,76 @@
+Admission Date:  [**2193-7-13**]              Discharge Date:   [**2193-7-19**]  Date of Birth:  [**2131-5-28**]             Sex:   M  Service: NEUROLOGY  Allergies: Iodine-Iodine Containing / Keflex  Attending:[**First Name3 (LF) 2569**] Chief Complaint: Sudden onset of aphasia and right hemiparesis.
+History of Present Illness: Time Code Stroke called: 20:17 Time Neurology at bedside for evaluation: 20:17 Time (and date) the patient was last known well: 18:55 [**2193-7-12**] Initial NIH Stroke Scale Score: 15 Subsequent NIH Stroke Scale Score: 11 t-[**MD Number(3) 6360**]: Yes Time IV t-PA was given 21:29 [**2193-7-12**]  *****  HISTORY OF PRESENT ILLNESS: Mr. [**Known lastname 85206**] is a lovely 62 year-old right-handed man with a past medical history including renal transplant (PCKD) and left eye prosthesis who presented about one hour following the sudden onset of aphasia and right hemiparesis.
+He then stated he felt dizzy and unwell, prompting the salesperson to fetch a chair.
+His significant other, a psychologist, became concerned he was suffering an acute vascular event.
+An NIHSS score of 15 (loc questions 2, right facial palsy 2, right hemiplegia 8, severe aphasia 2, dysarthria 1) was given.
+A repeat NIHSS survey following the imaging revealed improvement with a score of 11 (loc questions 2, right facial palsy 2, right arm  plegia 4, severe aphasia - anomia, fluent with neologisms, paraphasic errors, inappropriate to context 2, dysarthria 1; he could move the right lower extremity and sustain versus gravity without problem).
+A stat non-contrast CT of the head showed no clear evidence of hemorrhage.
+NEUROLOGICAL REVIEW OF SYSTEMS - Positive for: as above - Negative for: vertigo, headache, vision change, hearing, change, trouble swallowing,numbness, tingling, bowel incontinence, urinary incontinence or retention.
+REVIEW OF POTENTIAL CONTRAINDICATIONS TO tPA: * Absolute - Negative for: stroke or head trauma within 3 months of admission, hx of intracranial hemorrhage, major surgery within 2 weeks of admission, pregnancy, persistent SBP > 185 or DBP > 110, platelets < 100, 000 or INR > 1.7 * Relative - Positive for: improvement in stroke sx - Negative for: GU or GI procedure within 3 weeks of admission, LP within 1 week of admission, seizure, glucose < 50, >400, NIHSS <4, >22  GENERAL REVIEW OF SYSTEMS: - Positive for: as above - Negative for: fevers, chills, chest discomfort, shortness of breath, abdominal pain, dysuria, muscle, rash.
+Past Medical History: -PCKD, Likely autosomal dominant (several family members with the disease on both sides; no h/o SAH or aneurysm), s/p renal transplant in [**2171**] (current baseline Cr=1.6, follows with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 7741**] at [**Hospital1 2025**] Nephrology).
+-Left eye prosthesis secondary to herpes infection (prior to transplant)  -BPH, ?on no meds  -Sepsis (E. coli) of unknown etiology (patient thinks it is from something he ate, but cannot recall any N/V/D GI symptoms around that time) requiring 2 day stay in [**Hospital1 2025**] ICU; no intubation or pressors per the pt.
+Family History: -Father: Died at 70 y/o of renal failure while on dialysis.
+-No family history of stroke, seizure, or intracranial bleed or aneurysms.
+HEENT: Normocephalic, atraumatic, no scleral icterus noted.
+Mucus membranes moist, no lesions noted in oropharynx Neck: Supple.
+possible evidence of hernia.
+Skin: no rashes or concerning lesions noted.
+* Language: Language is fluent with evidence of paraphasic errors.
+* Neglect: No evidence of sensory neglect.
+Symmetric movement of forehead and eye closure.
+Motor: * Bulk: No evidence of atrophy.
+* Adventitious Movements: No tremor or asterixis noted.
+Rim of left eye prosthesis noted.
+Fixed split S2 but no m/r/g.
+Naming of high and low frequency objects in tact.
+Follows commands without right-left confusion.
+Difficulty with Luria sequencing bilaterally.
+Prosthesis noted in left eye.
+VFF EOM full, no nystagmus in Right eye.
+No pronator drift.
+Coordination:  FNF mild dysmetria and tremor bilaterally similar.
+Pertinent Results: Serology: [**2193-7-12**] 08:15PM BLOOD WBC-7.4 RBC-4.90 Hgb-14.7 Hct-41.9 MCV-86 MCH-30.0 MCHC-35.1* RDW-14.5 Plt Ct-174 [**2193-7-12**] 08:15PM BLOOD PT-12.5 PTT-23.9 INR(PT)-1.0 [**2193-7-12**] 08:15PM BLOOD Fibrino-321 [**2193-7-14**] 01:58AM BLOOD Glucose-139* UreaN-30* Creat-1.7* Na-138 K-4.1 Cl-107 HCO3-21* AnGap-14 [**2193-7-12**] 08:15PM BLOOD CK(CPK)-118 [**2193-7-12**] 08:15PM BLOOD Lipase-27 [**2193-7-12**] 08:15PM BLOOD CK-MB-3 cTropnT-<0.01 [**2193-7-14**] 01:58AM BLOOD Calcium-9.0 Phos-3.5 Mg-1.8 [**2193-7-15**] 12:24AM BLOOD %HbA1c-6.9* eAG-151* [**2193-7-15**] 12:24AM BLOOD Triglyc-115 HDL-41 CHOL/HD-3.0 LDLcalc-60 [**2193-7-14**] 01:58AM BLOOD Cyclspr-153 [**2193-7-12**] 08:15PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG Bnzodzp-NEG Barbitr-NEG Tricycl-NEG [**2193-7-12**] 08:23PM BLOOD Type-ART pH-7.40 [**2193-7-12**] 08:23PM BLOOD Glucose-117* Lactate-1.0 Na-138 K-4.7 Cl-99* calHCO3-23 [**2193-7-12**] 08:23PM BLOOD freeCa-1.23  Urine Studies: [**2193-7-13**] 08:30AM URINE Color-Amber Appear-Hazy Sp [**Last Name (un) **]-1.013 [**2193-7-13**] 08:30AM URINE Blood-LG Nitrite-NEG Protein-300 Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-TR [**2193-7-13**] 08:30AM URINE RBC->1000* WBC-0 Bacteri-NONE Yeast-NONE Epi-0 [**2193-7-13**] 08:30AM URINE bnzodzp-NEG barbitr-NEG opiates-NEG cocaine-NEG amphetm-NEG mthdone-NEG  MRSA SCREEN (Final [**2193-7-17**]):    No MRSA isolated.
+Rate PR QRS QT/QTc P QRS T 43 154 90 462/432 44 -12 14  [**7-14**] [**Month/Year (2) **] Thickened aortic leaflets with eccentric mild aortic regurgitation.
+Preserved global biventricular systolic function.
+Dilated ascending aorta.
+Focal hypodensity in the left thalamic region extending to the left internal capsule, compatible with the previously documented left thalamic/basal ganglia infarct.
+No evidence of hemorrhage.
+[**7-12**] MRI brain (DWI): Acute infarct involving the left posterior limb of the left internal capsule and adjacent thalamus as well as adjacent putamen.
+137 | 108 | 35 -------------------< 117 3.8  |  20  | 1.6  Ca: 8.5; Mg: 1.9; P: 3.0  6.1 > 36.4 < 137  PT: 12.4 PTT: 27.3 INR: 1.0  Trop-T: 0.03, 0.02  HgbA1c: 6.9%   Brief Hospital Course: ICU Course:  Stroke Anterior choroidal without clear Foix triad: Hemiplegia was present, but no field defect nor hemianesthesia.
+Patient made dramatic improvement after TPA, with only limb-kinetic apraxia on following day, along with some difficulty with Luria task and confusion.
+Confusion appeared to be related more to hypotension that stroke.
+Bradycardia Unclear etiology, but patient appears to have slow sinus rate.
+The patient also had dilated atria and produces atrial ectopy with P-waves of aberant morphology.
+He was started on oxybutynin, but this was stopped given some confusion and concern for exacerbation of hypotension.
+************* Floor course:  MRI revealed a left thalamic and posterior capsular (plus pallidal) infarct, which is consistent with his combined symptoms of numbness and weakness in the arm, leg, and face as well as aphasia (thalamic aphasia).
+Subsequent NCHCT did not reveal any hemorrhagic conversion; the area of restricted diffusion on MRI appears hypodense now on CT. On arrival to the floor [**2193-7-17**], his hemiparesis and apraxia had resolved and his primary findings on neurological exam were cognitive.
+He still suffers from substantial lexical impairments, with frequent word replacements and word-finding difficulties.
+He also exhibits a substantial short-term memory deficit.
+Given the acute onset, small infarct size, and fairly rapid recovery, an embolic/thromboembolic process in the anterior (less likely a branch of the posterior) choroidal artery is most likely.
+[**Name2 (NI) **] revealed a PFO, and no DVTs were identified on LED imaging.
+Urinary retention symptoms seem to have abated.
+He is urinating more frequently per his recollection, but without pain or apparent retention.
+His sinus bradycardia largely resolved, in the setting of a fall in his cyclosporine blood concentration to a subtherapeutic level (153 on [**7-14**] --> 59 on [**7-17**], on a stable dose).
+It is unclear what caused the atrial ectopy / sinus bradycardia.
+Cardiology did not think this heart rhythm or your symptoms require a pacemaker at this time, but this should be taken up by his PCP and followed with an ECG and possibly Holter monitoring as an outpatient.
+As his bradycardia improved 8/25-26/10, he was able to sit/stand/walk without recurrence of his symptoms.
+He still became confused at night, in the setting of HR 40s-50s (daytime 50s-60s).
+He denies any h/o diabetes mellitus.
+We provided him with a new patient clinic visit at the [**Last Name (un) **] Diabetes Center.
+Disp:*30 Tablet(s)* Refills:*2*   Discharge Disposition: Home With Service  Facility: [**Hospital 119**] Homecare  Discharge Diagnosis: Primary Diagnosis Stroke (involving the Left thalamus, posterior-capsule and globus pallidus)  Secondary Diagnosis - Bradycardia (symptomatic) patient gets confused - you were seen by cardiology in house, who did not feel that you needed any intervention at this point.
+- Right forearm cellulitis in an intravenous access site (this was discussed with infection diseases, you need to continue on Bactrim for 10 days, and if this does not work you need to try doxycycline, and if this does not work, you may need intravenous vancomycin - you will need this followed up by your PCP.
+Difficulty with Luria sequencing.
+No cranial nerve signs or symptoms (Left eye prosthesis).
+HDS, with only mild bradycardia to 50s, no orthostatic symptoms, and no recurrence of confusion/aphasia.
+Discharge Instructions: You were admitted with stroke symptoms: Right arm and leg and facial numbness/weakness, aphasia (difficulty with normal/fluent speech), and mild confusion.
+This treatment improved your symptoms, and within a day after admission, you had no more right-sided numbness and no weakness detectable on Neurologic examination and your speech pattern normalized.
+However, you have continued to experience difficulties with word-finding and with memory, which are probably related to damage from the initial stroke you suffered.
+The cause of your stroke is unknown.
+You were started on a medication called Plavix, which will reduce your future risk for stroke -- you need to fill the prescription for Plavix and begin taking it immediately, once every day, to reduce your risk for future strokes.
+A patent foramen ovale (PFO) was identified in your heart, but no venous clots were found in your legs.
+Also, you had initial difficulties with urinary retention, which are likely related to a condition called BPH (benign prostatic hyperplasia).
+You also had a very low heart rate (bradycardia to the 30-40bpm range), which caused you difficulty maintaining your blood pressure when sitting or standing up.
+The cause of your sinus bradycardia was not determined with certainty and it resolved; possibilities include cyclosporine (Sandimmune) effects and side-effects of the stroke.
+You were evaluated by our Cardiology consult service, which did not identify a definitive cause, and recommended additional tests, which were all within normal limits.
+They do not think this heart rhythm or your symptoms require a pacemaker.
+If you find that your short term memory is an issue after your stroke, please request Dr [**Last Name (STitle) **] [**Last Name (NamePattern4) **] to refer you for neurocognitive testing.

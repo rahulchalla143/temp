@@ -1,0 +1,78 @@
+Admission Date:  [**2181-8-28**]              Discharge Date:   [**2181-9-9**]  Date of Birth:  [**2121-2-4**]             Sex:   F  Service: MEDICINE  Allergies: Sulfa (Sulfonamide Antibiotics) / Cipro / vancomycin / shellfish / Haldol  Attending:[**First Name3 (LF) 613**] Chief Complaint: Lethargy  Major Surgical or Invasive Procedure: Tunneled hemodialysis catheter removal Hemodialysis catheter insertion left internal jugular central venous catheter hemodialysis  History of Present Illness: Ms. [**Known lastname 91333**] is a 60yo female with pmhx of T2DM complicated by nephropathy (ESRD on HD), retinopathy, neuropathy and peripheral vascular disease, CAD, CHF, presented from her rehab with lethargy and hypoglycemia.
+Of note, the patient has chronic pruritis for which she is followed by a dermatologist, she has many excoriations.
+This improved to 106 after a glass of OJ, which also improved her mental status.
+Her fever curve trended down so that she was afebrile at the time of leaving the ED at 22:28.
+A CXR revealed pulmonary congestion.
+A CT abdomen was obtained, which revealed no acute pathology.
+She was admitted to the MICU for concern for urosepsis due to her [**Hospital1 **] pressures, which is [**Hospital1 5348**] per her nursing home, hypoglycemia.
+Of note, the patient has recently had the following discontinued or changed: Lantus 24U qhs increased to 26U; gabapentin increased from 300mg after HD to 400mg QID; ativan 0.5mg q8h PRN anxiety was d/c'd; buproprion was d/c'd, venlafaxine d/c'd.
+Past Medical History: # CAD: STEMI in [**2174**] with occlusion of vein graft INTERVENTIONS: - CABG [**2172**] with LIMA -> LAD and vein graft to [**Last Name (LF) 11641**], [**First Name3 (LF) **] 25 % - [**2174**] stents in left anterior descending and [**Year (4 digits) 11641**] # Systolic CHF, ischemic cardiomyopathy (TTE [**4-2**] with EF 25 - 30%) # PACING/ICD: Right-sided AICD in place ([**2178**]) for primary prevention given EF # DM II, eye and renal manifestations, last HbA1c 9.3% ([**Month (only) 116**] [**2179**]) # asthma # PVD # s/p left BKA [**2176**] # s/p right 1st toe amputation [**2176**] # h/o left intraductal breast cancer - s/p left mastectomy in [**Month (only) 116**]/[**2173**], now question of right-sided breast cancer, which is being followed # s/p cholecytectomy  Social History: Hospitalized at [**Hospital1 18**] and/or rehab since [**2180-11-23**].
+Physical Exam: Admission Exam Vitals: T: 97.7 BP: 90/53 P: 73 R: 18 O2: 94% 3L NC General: Alert, oriented, no acute distress HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL Neck: large neck.
+Systolic murmer appreciated.
+Mild crackles and coarse breath sounds bilaterally.
+Left UE fistula with very faint palpable thrill.
+Skin: excoriations throughout the dermis without signs of pus or erythema.
+Discharge Exam: VS 98  99/54  86  18  98%@4L General: Alert, oriented x3, conversive HEENT: Anicteric sclera, EOMI, NCAT, several healed facial excoriations Neck: No JVD CV: RRR.
+[**1-29**] holosystolic murmur at apex Resp: CTAB.
+Edematous abdominal wall worse in dependent areas Ext: RLE free from edema.
+LUE fistula with very faint palpable thrill.
+Micro: [**2181-9-5**] [**Numeric Identifier 3143**] CULTURE [**Numeric Identifier **] Culture, Routine-PENDING INPATIENT [**2181-9-4**] [**Numeric Identifier 3143**] CULTURE [**Numeric Identifier **] Culture, Routine-PENDING INPATIENT [**2181-9-4**] [**Numeric Identifier 3143**] CULTURE [**Numeric Identifier **] Culture, Routine-PENDING INPATIENT [**2181-9-3**] [**Year (4 digits) **] Culture, Routine-PENDING [**2181-9-3**] [**Year (4 digits) **] Culture, Routine-PENDING [**2181-9-2**] URINE CULTURE-FINAL {YEAST} [**2181-9-1**] [**Year (4 digits) **] Culture, Routine-Neg [**2181-9-1**] STOOL C. difficile DNA amplification assay-Neg [**2181-9-1**] [**Year (4 digits) **] Culture, Routine-Neg [**2181-8-31**] URINE CULTURE-FINAL {YEAST} [**2181-8-30**] [**Year (4 digits) **] Culture, Routine-MSSA [**2181-8-30**] URINE CULTURE-FINAL {YEAST} [**2181-8-30**] [**Year (4 digits) **] Culture, Routine-MSSA [**2181-8-30**] [**Year (4 digits) **] Culture, Routine-MSSA [**2181-8-30**] [**Year (4 digits) **] Culture, Routine-Neg [**2181-8-30**] [**Year (4 digits) **] Culture, Routine-Neg [**2181-8-29**] CATHETER TIP-IV WOUND CULTURE-MSSA [**2181-8-29**] [**Year (4 digits) **] Culture, Routine-MSSA [**2181-8-29**] [**Year (4 digits) **] Culture, Routine-Neg [**2181-8-29**] URINE CULTURE-FINAL {YEAST} [**2181-8-29**] URINE CULTURE-FINAL {YEAST} [**2181-8-29**] MRSA SCREEN MRSA SCREEN-FINAL {POSITIVE FOR METHICILLIN RESISTANT STAPH AUREUS} [**2181-8-28**] [**Year (4 digits) **] Culture, Routine-MSSA [**2181-8-28**] [**Year (4 digits) **] Culture, Routine-MSSA [**2181-8-28**] SWAB GRAM STAIN-FINAL; WOUND CULTURE-FINAL {STAPH AUREUS COAG +, STAPH AUREUS COAG +} EMERGENCY  .
+Intraventricular conduction defect.
+Non-specific ST-T wave abnormalities.
+Compared to the previous tracing of [**2181-6-29**] intraventricular conduction defect is more marked and heart rate has increased.
+CXR [**2181-8-28**] IMPRESSION:  Moderate cardiomegaly and mild pulmonary edema.
+No evidence of pneumonia.
+CT Abd Pelvis woth contrast [**2181-8-28**] Small-to-moderate amount of simple ascites and anasarca may be from fluid overload.
+Extensive atherosclerotic disease of the abdominal aorta and major visceral branches.
+Hepatic steatosis.
+Fibroid uterus.
+CXR [**2181-8-29**] There is no significant change since prior exam.
+There is no new lung consolidation.
+Pulmonary edema is severe.
+CXR [**2181-9-3**]: No new focal consolidation to suggest pneumonia.
+The right ventricular cavity is dilated with depressed free wall contractility.
+There is abnormal septal motion/position consistent with right ventricular pressure/volume overload.
+The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic stenosis or aortic regurgitation.
+There is no mitral valve prolapse.
+Mild (1+) mitral regurgitation is seen.
+The tricuspid valve leaflets are mildly thickened.
+Moderate [2+] tricuspid regurgitation is seen.
+There is moderate pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+CT Head [**2181-8-30**]: No acute intracranial process .
+CXR [**2181-9-3**]: No new focal consolidation to suggest pneumonia.
+Brief Hospital Course: 60yo female with pmhx of CAD, CHF, ESRD on HD, T2DM, and history of chronic pruritic excoriations presented with lethargy, found to have MSSA sepsis secondary to infected [**Month/Day/Year 2286**] line vs. infected skin sores.
+course also c/b delirium [**1-25**] toxic-metabolic encephalopathy.
+# MSSA Bacteremia: Presented with SIRS criteria for leukocytosis and transient hypotension (although may have been near [**Month/Day/Year 5348**]).
+The patient remained afebrile and WBC trended down.
+She was transferred back to the MICU on [**9-1**] for worsening mental status and hypotension.
+Dapto and cefepime started on [**9-3**], and per ID, to be continued for 7 days, followed by 6 weeks of cefazolin for presumptive MSSA endocarditis (TTE showed no vegetations; TEE not pursued as not within patient's goals of care).
+# AMS: Likely multifactorial including sepsis, hypoglycemia, polypharmacy, and underlying psychiatric condition.
+The patient's mental status fluctuated from lethargy at presentation to evening lucidity and profound AM somnolence, as well as hyperactive delirium with paranoia and hallucinations.
+ABG was not conerning for hypercarbia, and was not hypoglycemic during admission and without signs active infection.
+# Hypoglycemia: Most likely due to infection.
+Low dose lanutus restarted at 10U qday, and will need to be uptitrated.
+#Acute on chronic systolic CHF: Euvolemic on admission with O2 requirement but it is minimal.
+Was volume overloaded after [**Hospital **] transfer to floor, however, after several UF HD sessions became euvolemic.
+Thought that ESRD contributed to acute on chronic systolic heart failure.
+# CAD: no CP or anginal symptoms at this time.
+# DM II, uncontrolled with complications: multiple complications although control has improved with most recent HgA1c at goal.
+# Depresion: Seen by psychiatry after reporting SI and depressed mood.
+Options of obtaining TEE to look for endocarditis and for consideration of pacemaker removal given her bacteremia were discussed.
+Docusate Sodium 100 mg PO BID hold for loose stools 3.
+Senna 2 TAB PO HS hold for loose stools 12.
+Docusate Sodium 100 mg PO BID hold for loose stools 3.
+Senna 2 TAB PO HS hold for loose stools 12.
+Docusate Sodium 100 mg PO BID hold for loose stools 5.
+Senna 1 TAB PO BID hold for loose stools 9.
+Hydrocortisone (Rectal) 2.5% Cream 1 Appl PR DAILY PRN rectal pain 12.
+OLANZapine 5 mg PO HS:PRN agitation please hold for sedation or RR<10 15.
+OLANZapine (Disintegrating Tablet) 5 mg PO TID agitation Hold for sedation or RR <10   Discharge Disposition: Extended Care  Facility: [**Hospital1 **]  Discharge Diagnosis: Primary diagnosis: Sepsis secondary to staph aureus bacteremia (MSSA) chronic kidney disease stage V on HD acute on chronic systolic congestive heart failure delirium secondary to toxic-metabolic encephalopathy insulin diabetes mellitus type II, uncontrolled with complications hypoglycemia  Secondary diagnoses Pruritus w/ excoriations/ diabetic dermopathy   Discharge Condition: Mental Status: Clear and coherent.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Discharge Instructions: You were admitted to the hospital with a bacterial infection in your [**Hospital1 **], and your [**Hospital1 **] sugar was low.
+We believe the infection was due to your hemodialysis catheter, so it was pulled during your time in the intensive care unit.
+This should adequately treat any infection of your heart or AICD, if there is one there.
+We were concerned this may due to the infection in your [**Hospital1 **], and you were treated in the intensive care unit with medication to increase your pressure.
+We believe this is due to your underlying renal failure in addition to your [**Hospital1 **] stream infection.
+It also may have been due to your hydroxyzine.
+Psychiatry visited you while you were here because of your depressed mood.

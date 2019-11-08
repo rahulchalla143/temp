@@ -1,0 +1,54 @@
+Admission Date:  [**2126-3-1**]              Discharge Date:   [**2126-3-3**]  Date of Birth:  [**2079-4-2**]             Sex:   M  Service: MEDICINE  Allergies: Lisinopril / Shellfish Derived  Attending:[**First Name3 (LF) 7333**] Chief Complaint: chest pain  Major Surgical or Invasive Procedure: cardiac catheterization  History of Present Illness: Mr. [**Known lastname **] is a 46 year old man w/hx of CAD s/p inferolateral MI [**3-25**] and [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] 2 to proximal LCx into OM1 who presented to the ED with chest pain.
+The patient reports [**4-24**] chest tightness which started while he was walking to work this morning.
+He denies diaphoresis or nausea but does report associated SOB.
+He reports rare instances of chest pain since his MI [**3-25**] but did have an episode [**4-23**] for which he was evaluated in the ED and it was determined to be non-cardiac.
+Total time of chest pain prior to arrival to ED was 20 minutes.
+ECG showed ST elevations in II, III, AVF.
+In the cath lab, his prior [**Month/Year (2) **] in OM1 was occluded with an acute thrombus.
+An export wire extracted the clot and the patient became chest pain free.
+On arrival to the CCU, the patient feels well and denies chest pain, pressure or tightness, shortness of breath, nausea, vomiting, headache, abdominal pain, calf pain.
+On review of systems, he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.
+He denies recent fevers, chills or rigors.
+He denies exertional buttock or calf pain.
+He states that he has had a rash in his groin area recently.
+Cardiac review of systems on admission is notable for absence of chest pain, dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope.
+Past Medical History: CAD s/p inferolateral MI [**3-25**] with 2 overlapping Cypher stents to occluded LCx into OM1 prior RCA stenting [**6-19**] Angioedema after starting Lisinopril [**3-25**], resolved Pneumonectomy s/p MVA  Social History: Social history is significant for the absence of current tobacco use, quit in [**2121**], 1ppd prior.
+Family History: There is family history of premature coronary artery disease in his father at age 41.
+Sclera anicteric.
+Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.
+No xanthalesma.
+No thrills, lifts.
+LUNGS: No chest wall deformities, scoliosis or kyphosis.
+CTAB, no crackles, wheezes or rhonchi.
+No HSM or tenderness.
+No abdominial bruits.
+No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+No appreciable rash.
+PULSES: Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+ Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+ Right femoral cath site is clean, dry and intact with a small soft hematoma palpable.
+No femoral bruits.
+3mm ST elevations in II, III, AVF, V4-V6 with ST depression sin AVL, V1, V2, V3.
+The LMCA had no angiographically apparent disease.
+The LCx had a 30-40% origin stenosis and moderate thrombus within the mid stented segment.
+The RCA had widely patent stents and a 30-40% mid stenosis.
+TTE [**3-1**]: The left atrium is mildly dilated.
+No atrial septal defect is seen by 2D or color Doppler.
+There is mild regional left ventricular systolic dysfunction with infero-lateral hypokinesis.
+There is no ventricular septal defect.
+There is no valvular aortic stenosis.
+The increased transaortic velocity is likely related to high cardiac output.
+No aortic regurgitation is seen.
+The mitral valve appears structurally normal with trivial mitral regurgitation.
+There is no mitral valve prolapse.
+There is mild pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+Compared with the report of the prior study (images unavailable for review) of [**2124-4-14**], no change.
+Brief Hospital Course: Mr. [**Known lastname **] is a 46yo M with CAD s/p prior inferolateral MI and [**Known lastname **] to OM1 [**3-25**] who presented to the ED with chest pain, was found to have a STEMI and taken to the cath lab were OM1 stent showed acute thrombus.
+# STEMI:  Patient presented with inferior STEMI, and door-to-balloon time was 40min.
+In the cath lab, patient was found to have thrombosis in the OM1 stent.
+An export wire extracted the clot and the patient became chest pain free.
+Patient came back from the cath lab on nitro gtt which was promptly turned off, and he was chest pain free during the rest of his hospital stay.
+# PUMP:  No evidence of heart failure; prior echo [**3-25**] showed posterolateral hypokinesis with EF 50%.
+Repeat TTE was done on [**3-2**], which showed EF 50-55% and mild regional left ventricular systolic dysfunction with infero-lateral hypokinesis, not significantly different compared to the one from approximately 2 years ago.
+# COMM: wife [**Name (NI) 19904**]: [**0-0-**] (cell); [**Telephone/Fax (1) 19905**] (home)   Medications on Admission: Lipitor 80mg PO qday Plavix 75mg PO qday Toprol XL 25mg PO qday ASA 325mg PO qday  Discharge Disposition: Home  Discharge Diagnosis: Primary diagnoses: - Myocardial infarction - Coronary artery disease   Discharge Condition: Afebrile, hemodynamically stable, chest pain free Mental Status:Clear and coherent Level of Consciousness:Alert and interactive Activity Status:Ambulatory - Independent   Discharge Instructions: It was a pleasure to be involved in your care, Mr. [**Known lastname **].
+You were admitted to [**Hospital1 69**] after having chest pain.

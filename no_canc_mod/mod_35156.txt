@@ -1,0 +1,45 @@
+Admission Date:  [**2133-6-29**]              Discharge Date:   [**2133-7-1**]  Date of Birth:  [**2092-4-24**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 425**] Chief Complaint: Chest pain  Major Surgical or Invasive Procedure: Cardiac catheterization w/ [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) 5175**] X1   History of Present Illness: The patient is a 41 yo man with h/o GERD and 3-week history of stable angina who presented s/p cardiac catheterization with possible RV perforation.
+The patient states that his symptoms began 3 weeks ago, when he began to experience chest pain with exertion.
+The pain resolved with rest.
+Given the patient's extensive cardiac history, he presented to his brother's cardiologist, who recommended an exercise stress test.
+The pain continued for approximately 4 minutes of rest after the test was stopped.
+During the cardiac catheterization at [**Hospital1 18**], the patient was found to have a 99% stenosis in the LAD and an apical occlusion.
+A wire was advance through the apical occlusion in [**Doctor First Name **] to restore flow, and there was a contrast stain worrisome for microperforation.
+The patient had a TTE at this time which did not show any evidence of effusion.
+On review of systems, he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.
+He denies recent fevers, chills or rigors.
+He denies exertional buttock or calf pain.
+Cardiac review of systems is notable for absence of dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope.
+OTHER PAST MEDICAL HISTORY: GERD Hypertension Hyperlipidemia  Social History: The patient is married and lives in [**Hospital1 3597**], NH with his wife and three children.
+No other known history of CAD or sudden death.
+Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.
+No xanthalesma.
+No thrills, lifts.
+LUNGS: No chest wall deformities, scoliosis or kyphosis.
+CTAB, no crackles, wheezes or rhonchi.
+No HSM or tenderness.
+No abdominial bruits.
+No femoral bruits.
+Right femoral incision site c/d/i.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+Radiographic images are currently pending.
+No ST or T wave abnormalities.
+CARDIAC CATH: [**2133-6-29**] (at [**Hospital1 18**]):  LAD with 99% mid stenosis with ?
+thrombus, muscle bridge distal (50% stenosis) and apical occlusion (wrap around LAD) -> PTCA -> stenting -> slow flow suggesting acute worsening of stenosis, active plaque -> 0% residual in mid vessel -> advanced wire through the apical occlusion to restore some flow -> slight contrast stain worrisome for microperforation -> echo showed no effusion -> slow flow restored across the apical LAD.
+CXR ([**6-29**]): PA and lateral views of the chest reveal clear lungs with normal cardiac and mediastinal outlines and pulmonary vascular distribution.
+Cardiac Enzymes: [**2133-6-29**] 7pm:   CK55               Trop<0.01 [**2133-6-30**] 4am:   CK346 MB40         Trop0.29 [**2133-6-30**] 10am:  CK428 MB46 MBI10.7 Trop0.40 [**2133-6-30**] 4pm:   CK387 MB36 MBI10.7 Trop0.39 [**2133-6-30**] 10pm:  CK306 MB23 MBI7.5  Trop0.37 [**2133-7-1**] 5:45am:CK188 MB12 MBI6.4  Trop0.36   Brief Hospital Course: The patient is a 41 yo man with h/o GERD and recently diagnosed stable angina who presents s/p elective cardiac catheterization with concern for LAD microperforation.
+During the procedure, the wire was attempted to be advanced through an apical thrombus and possibly resulted in LAD microperforation.
+The patient had serial TTE echocardiograms to assess for pericardial effusion.
+Both TTE at 7:30pm on [**2133-6-29**] and in the AM of [**2133-6-30**] showed no pericardial effusion.
+The patient had a 99% stenosis of his LAD, now s/p DES.
+He is currently chest pain free, and the heparin and integrelin gtts were d/c'd in the setting of possible LAD perforation.
+He was started on Atorvastatin 80 mg daily given low HDL and high LDL and also started on full dose ASA and Plavix 75mg daily.
+Patient did develop mild substernal chest pressure [**2133-6-29**] PM w/ no EKG changes but bump in cardiac enzymes.
+# GERD: Currently stable.
+Nitroglycerin 0.3 mg Tablet, Sublingual Sig: One (1) Sublingual every 5 minutes as needed for chest pain: Please go to the emergency room if chest pain persists and you are taking many tablets.
+Disp:*30 * Refills:*0*   Discharge Disposition: Home  Discharge Diagnosis: Stable chest pain (angina) s/p elective cardiac catheterization w/ drug-eluting stent placement X1   Discharge Condition: Improved.
+Vital signs stable, pt ambulating w/o issues   Discharge Instructions: -You were admitted with chest pain for an elective cardiac catheterization.
+We made the following changes to your medications during this admission: --> START Ranitidine 150mg twice a day for your GERD (reflux) --> START ASA (enteric coated) 325mg daily for your heart disease --> START Atorvastatin 80mg daily for your high cholesterol --> START Nitroglycerin 0.3mg sublingual AS NEEDED for chest pain.
+You can take this every 5 minutes, but go to the emergency department if chest pain persists or you are taking many tablets.
+Also seek medical attention if you develop any new fever, chills, trouble breathing, chest pain, nausea, vomiting or unusual stools.
+Also contact your doctor if you notice increased swelling or pain in the right groin site.

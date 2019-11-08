@@ -1,0 +1,33 @@
+Admission Date:  [**2129-3-22**]              Discharge Date:   [**2129-3-28**]  Date of Birth:  [**2091-7-7**]             Sex:   M  Service: MEDICINE  Allergies: Gatifloxacin / Bactrim / Seroquel / Latex  Attending:[**Last Name (NamePattern1) 495**] Chief Complaint: pneumonia, hypotension, sepsis  Major Surgical or Invasive Procedure: Subclavian Central Venous Line insertion and removal Left internal jugular central venous line insertion Bronchoscopy   History of Present Illness: 37 yo male with spina bifida, chronic respiratory failure on chronic vent, stage IV decub ulcer, h/o PE, h/o frequent UTIs, and a patient in [**Hospital3 105**] who presents today for hypotension, mental status change, LLL pneumonia, diarrhea.
+Patient also has large Stage IV sacral decubitus ulcer.
+Patient was initially noted to have LLL infiltrate with WBC 20K, started on augmentin.
+Then on [**1-20**], noted to have some altered mental status and started on unasyn for broad coverage.
+Otherwise without complaints.
+Past Medical History: Spina Bifida Chronic Respiratory Failure due to hypercapnea, vent dependant s/p tracheostomy Stage IV sacral decubitus ulcer kyphoscoliosis H/o gallstones h/o necrotizing pancreatitis h/o prostatitis DM secondary to pancreatic insufficiency Anemia of chronic disease Hypertension h/o frequent UTIs s/p cholecystectomy s/p gastrocutaneous fistula repair   Social History: Long term acute care rehabilitation hospital patient.
+No tobacco; ETOH, or drug  Family History: non-contributory  Physical Exam: VS: 98.3 102/56 92 100% on AC 650/12/50%/5 GEN: obese, trach in place, responding to questions HEENT: trach in place; difficult to assess JVP 2/2 body habitus CV:  RRR, no murmurs appreciated LUNGS:  coarse mechanical BS; decreased on left lower base; no wheezes ABDOMEN:  obese, NT.
+Near complete opacification of the left hemithorax, which could represent pneumonia and/or effusion.
+Better aeration left main bronchus, but persistent left atelectasis.
+CXR [**3-25**]: IMPRESSION: Persistent left upper and lower lobe pneumonia.
+Blood Culture, Routine (Final [**2129-3-28**]):    NO GROWTH.
+[**2129-3-22**] 5:18 pm URINE     Site: CLEAN CATCH                              **FINAL REPORT [**2129-3-25**]**     URINE CULTURE (Final [**2129-3-25**]):       ESCHERICHIA COLI.
+MODERATE GROWTH.
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              PSEUDOMONAS AERUGINOSA                              | AMIKACIN--------------     8 S CEFEPIME--------------     8 S CEFTAZIDIME-----------     2 S CIPROFLOXACIN---------   =>4 R GENTAMICIN------------  =>16 R MEROPENEM-------------     4 S PIPERACILLIN----------    32 S PIPERACILLIN/TAZO-----    16 S TOBRAMYCIN------------  =>16 R   Brief Hospital Course: A/P: 37 yo male with spina bifida, h/o hypercarbic resp failure on chronic vent support, h/o recurrent UTIs, a/w sepsis (hypotension, fever, LLL infiltrate, positive UA)  #.
+Sepsis: Patient was admitted to the [**Hospital Unit Name 153**] tachycardic, initially hypotensive responding to IVFs, and leukocytosis with positive UA and CXR c/w pneumonia.
+He did not require any changes to his home ventilator settings except for a slight decrease in TV to prevent barotrauma to his right lung that did not have evidence of PNA.
+He also had a large sacral stage IV decubitus ulcer which was evaluated by wound care.
+His hypotension resolved with IVFs.
+He will be treated for a full 2 week course of cefepime (started [**3-22**]) to cover for complicated UTI and Hospital/Ventilator associated pneumonia.
+Acute Kidney Injury: creatinine up to 1.9 from 0.7 on [**3-21**]; this was most likely in the setting of hypotension/sepsis in the setting of infection.
+Chronic hypercarbic resp failure dependant on Vent: The patient's outpatient vent settings were continued, except for a decreased TV to 600 from 650 since we wanted to avoid barotrauma of his non-infected lung.
+He had a bronchoscopy revealing no significant aiway obstruction but has LLL bronchus with severe narrowing at opening likely contributing to chronic collapse, not amenable to stenting.
+DM: Intitially, the patient's metformin/glipizide were held due to his acute illness.
+Hypertension: The patient was hypotensive initially likely in the setting of sepsis and his home BP meds were held.
+His BP medications were not restarted as he remained normotensive.
+Medications on Admission: Trazadone 150 mg QHS Atenolol 50 mg daily Metformin 1000 mg [**Hospital1 **] Ferrous Sulfate ER 160 mg daily Furosemide 40 mg daily Glipizide XL 7.5 mg [**Hospital1 **] Lorazepam 0.5 mg Q4H PRN Bisacodyl 10 mg PR PRN Acetaminophen 650 mg Q4H PRN Maalox 30 ml Q6H PRN Cepacol Lozenge Q2H PRN Pseudophedrine 30 mg [**Hospital1 **] PRN Compazine 10 mg Q8H PRN nausea Vicodin 1 tablet Q4H PRN pain Lidocaine TD 1 patch to shoulder daily Morphine 2 mg SC daily PRN suctioning Fioricet 1 tab Q4H PRN Headache Hydrocortisone cream 1% to facial rash [**Hospital1 **] PRN rash Iodosorb to left buttock daily Unasyn 1.5 gm Q8H x 10 days (day 1=[**3-21**])   Discharge Medications: 1.
+Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO Q4H (every 4 hours) as needed for anxiety, nausea.
+Bisacodyl 5 mg Tablet Sig: One (1) Tablet PO twice a day as needed for constipation.
+Discharge Disposition: Extended Care  Facility: [**Hospital3 105**] Northeast - [**Hospital1 **]  Discharge Diagnosis: Primary Diagnosis: Urinary Tract [**Hospital **] Hospital Acquired/Ventilator associated Pneumonia Secondary Diagnosis: Spina Bifida Diabetes Hypertension   Discharge Condition: Stable, ventilator dependent.
+Discharge Instructions: You were admitted for a pneumonia and a urinary tract infection.
+Your fever, white count, and hypotension improved.
+You also had a bronchoscopy which showed chronic stenosis of left lower lobe bronchus.
+If you develop any of the following concerning symptoms, please call [**Last Name (un) **] PCP or go to the ED: fever, chills, diarrhea, SOB, chest pain  Followup Instructions: Please follow up with your PCP as needed.

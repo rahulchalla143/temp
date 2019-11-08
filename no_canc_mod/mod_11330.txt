@@ -1,0 +1,48 @@
+Admission Date:  [**2160-2-18**]              Discharge Date:   [**2160-2-25**]  Date of Birth:  [**2096-4-18**]             Sex:   M  Service: MEDICINE  Allergies: Codeine  Attending:[**First Name3 (LF) 3705**] Chief Complaint: transfer from OSH after he presented there s/p fall, altered mental status, hypoglycemia  Major Surgical or Invasive Procedure: Endotracheal tube placement, extubation   History of Present Illness: Mr. [**Known lastname **] [**Known lastname 4597**] is a 63 yo male with hx of obesity, DM, CAD s/p stent on [**1-17**] who presented to [**Hospital6 33**] today by his wife who found him on the floor.
+EMS found the patient dysarthric with difficulty moving.
+He became cyanotic with decreased respirations and was intubated.
+Prior to intubation it was reported that he had no focal neuro deficits, although he was only partially following commands.
+There was also concern for a right-sided facial droop.
+Of note, the EKG in the ED showed new atrial fibrillation.
+There was also verbal report that he had persistent hypoglycemia and was treated with D50 and placed on a D10 gtt.
+Unable to obtain ROS as patient is intubated and sedated  Past Medical History: #  Type 2 diabetes mellitus diagnosed 30 years ago.
+#  Hypertension #  CAD - abnl stress test s/p cath [**2160-1-18**] showing single vessel disease in the LAD with 90% stenosis s/p bare metal stent #  Dyslipidemia #  Morbid obesity with patient planning to undergo laparoscopic banding surgery which was placed on hold after stent placement in [**Month (only) **].
+#  Chronic lower extremity venous insufficiency.
+#  History of foot ulcers.
+#  Cataracts.
+#  Humeral fracture on [**2160-2-1**]  Social History: (per OMR/OSH records) He lives with his wife.
+Family History: (per OMR/OSH records) Significant for diabetes  Physical Exam: GEN: Middle-aged male laying in bed intubated and sedated.
+CV: distant heart sounds, RRR, no MRG.
+ABD: +BS, sof, obese, NTND EXT: no c/c/e; right upper arm with large bruies present.
+EKG:  sinus rhythm with no STE or STD .
+Imaging: OSH imaging: CTA head [**2160-2-18**]: No major vessel stenosis or occlusion evident.
+non-con head CT [**2160-2-18**]: No large territtorial infarct of hemorrhage identified.
+humerus X-ray [**2160-2-18**]: Comminuted and impacted fracture of the proximal right humerus.
+Likely mild vascular congestion.
+No fracture or subluxation.
+Left paracentral disc herniation at C5/6 deforms the spinal cord and causes moderate spinal canal narrowing.
+If there is a clinical suspicion for a cord contusion or chronic myelopathy, MRI would be helpful for further evaluation.
+No evidence of pulmonary embolism.
+Diffuse bilateral ground-glass opacities likely representing pulmonary edema.
+Bibasilar consolidation, somewhat heterogeneous within the left lower lobe likely representing a combination of atelectasis and pneumonia.
+63 yo male with hx of obesity, DM, CAD s/p stent on [**1-17**] transferred from an OSH after being found down, altered, and possibly cyanotic in the setting of hypoglycemia.
+#  Fall/altered mental status/?stroke:  Unclear etiology of his fall, may be secondary to hypoglycemia.
+Had head CT, C-spine, and CTA which was negative for acute process or PE.
+#  Hypoxic respiratory failure/PNA:  Most likely due to an acute aspiration event during period of altered mental status, but PNA could also have been the driving event causing his hypoglycemia and acute mental status changes.
+CTA demonstrating diffuse bilateral ground glass opacities and bibasilar consolidation concerning for  PNA and ruled out PE.
+Given recent hospital exposure and concern for aspiration he was initially started on vanc/zosyn.
+Sputum culture gram stain showed 4+ gram positive cocci and 4+ GNR, culture grew acinetobacter and staph aureus.
+His hypoglycemia is likely due to the large doses of insulin he took without adequate food intake.
+# Acute diastolic congestive heart failure: likely [**3-12**] to large amt of IVF given in ICU; was positive ~6L upon transfer to floor.
+Pt w/increased LE edema, c/o increased abdominal distention.
+Pt was diuresed w/IV lasix 20mg  with improved LE edema and pt perception of abdominal distention.
+He was slightly hypotensive while intubated and given many IVF boluses and was transiently on levophed the morning of [**2-19**].
+His hypotension improved after extubation.
+#  Atrial fibrillation:  The patient was reported to have new atrial fibrillation at the OSH ED (no EKG was sent).
+His pain was controlled with standing tylenol and fentanyl gtt initially.
+#  Hx of CAD s/p recent stent:  EKG without ischemic changes.
+Disp:*qs 1 month* Refills:*2*   Discharge Disposition: Home  Discharge Diagnosis: Primary: Hypoxic respiratory failure requiring intubation Type II diabetes Hypoglycemia Aspiration pneumonia .
+Secondary: Coronary artery disease Acute diastolic congestive heart failure Morbid obesity Right humorus fracture   Discharge Condition: Mental Status: Clear and coherent.
+Discharge Instructions: Dear Mr. [**Known lastname **] [**Known lastname 4597**],  You were admitted for low blood sugar, confusion and low oxygen levels in your blood.
+You needed a breathing tube to help with your oxygen levels for a short period of time.
+You were also received 7 days of IV antibiotics due to concern for a lung infection.

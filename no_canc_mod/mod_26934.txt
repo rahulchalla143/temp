@@ -1,0 +1,59 @@
+Admission Date:  [**2132-1-8**]              Discharge Date:   [**2132-1-11**]  Date of Birth:  [**2073-6-4**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 1711**] Chief Complaint: chest pain  Major Surgical or Invasive Procedure: coronary catheterization with drug eluting stent placement in LAD   History of Present Illness: The patient is a 58 year old male physician with history of hypertension, mild chronic kidney disease (baseline Cr 1.5) no known CAD who presents with sudden onset heavy substernal chest pain that started at ~1am on the day of admission.
+The pain did not radiate.
+His initial EKG showed ST elevations in V1-V4 with inferior ST depressions.
+ROS: denies DOE, PND, orthopnea, SOB, edema, palpitations, syncope, or presyncope.
+denies bloody or tarry stools  Past Medical History: Hypertension mild Chronic kidney disease (Cr baseline 1.5)  Social History: patient is a urologist.
+he lives with his wife who is an anesthesiologist.
+no etoh no illicit drugs  Family History: mother had an MI in her 60s  Physical Exam: VS: Temp: BP: / HR: RR: O2sat GEN: pleasant, comfortable, NAD HEENT: PERRL, EOMI, anicteric, MMM, op without lesions NECK: no supraclavicular or cervical lymphadenopathy, no jvd, no carotid bruits, no thyromegaly or thyroid nodules RESP: CTA b/l with good air movement throughout CV: RR, S1 and S2 wnl, no m/r/g ABD: nd, +b/s, soft, nt, no masses or hepatosplenomegaly EXT: no c/c/e SKIN: no rashes/no jaundice NEURO: AAOx3.
+This has clear walls and no solid elements.
+There is no hydronephrosis.
+IMPRESSION: Hydronephrosis left kidney with good preservation of renal parenchyma, normal right kidney with upper pole cyst.
+There is no evidence of pneumothorax or pleural effusion.
+IMPRESSION: No evidence of acute cardiopulmonary process.
+The proximal LAD occlusion was crossed easily with a Choice PT XS wire and immediate partial reperfusion was restored.
+A 3.5x23 mm Cypher stent was deployed across the lesion at 16 ATM and then postdilated with a 4.0x13 mm Powersail balloon at 20 ATM.
+A small 1mm diagonal branch was jailed and partially occluded by the stent and could not be rescued.
+Final angiography revealed 0% residual stenosis, no dissection, and TIMI 3 flow.
+Successful emergency PTCA and stenting was performed of the proximal LAD occlusion with a 3.5x23 mm Cypher stent which was postdilated to 4.0 mm.
+Final angiography revealed 0% residual stenosis, no dissection, and TIMI 3 flow.
+Acute anterior myocardial infarction, managed by acute ptca.
+ECHOCARDIOGRAM/TTE: Left Atrium - Long Axis Dimension: 4.0 cm (nl <= 4.0 cm) Left Atrium - Four Chamber Length: 5.2 cm (nl <= 5.2 cm) Right Atrium - Four Chamber Length: 4.8 cm (nl <= 5.0 cm) Left Ventricle - Septal Wall Thickness: *1.4 cm (nl 0.6 - 1.1 cm) Left Ventricle - Inferolateral Thickness: *1.4 cm (nl 0.6 - 1.1 cm) Left Ventricle - Diastolic Dimension: 4.4 cm (nl <= 5.6 cm) Left Ventricle - Ejection Fraction: 40% (nl >=55%) Aorta - Valve Level: *3.9 cm (nl <= 3.6 cm) Aorta - Ascending: 3.3 cm (nl <= 3.4 cm) Aortic Valve - Peak Velocity: 1.2 m/sec (nl <= 2.0 m/sec) Mitral Valve - E Wave: 0.5 m/sec Mitral Valve - A Wave: 0.6 m/sec Mitral Valve - E/A Ratio: 0.83 Mitral Valve - E Wave Deceleration Time: 185 msec INTERPRETATION: LEFT ATRIUM: Mild LA enlargement.
+Moderately depressed LVEF.
+AORTA: Mildly dilated aortic root.
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3).
+MITRAL VALVE: Mildly thickened mitral valve leaflets.
+Trivial MR. LV inflow pattern c/w impaired relaxation.
+The left atrium is mildly dilated.
+There is mild symmetric left ventricular hypertrophy.
+Mid and distal anterior and apical akinesis and distal septal hypokinesis are present.
+The aortic root is mildly dilated.
+The aortic valve leaflets (3) are mildly thickened.
+Trace aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Trivial mitral regurgitation is seen.
+Anterior myocardial infarction with ST-T wave configuration consistent with acute process 4.
+Probable left atrial abnormality 4.
+Anterior myocardial infarction with ST-T wave configuration acute/recent/in evolution process 5.
+CV: Upon admission to [**Hospital1 18**], EKG showed acute st-elevations in the anterior leads, initial troponins were negative.
+An echocardiogram showed depressed systolic function with mid and distal anterior and apical akinesis and distal septal hypokinesis.
+HEME:  Given risk for thrombus formation secondary to wall akinesis, anticoagulation was continued with an INR goal of 1.6 to 2.0.
+Due to a small drop in hematocrit to 30, pt's anticoagulation with held with a subsequent rise to 33 with stabilization by the time of discharge.
+On the day of discharge, patient had guiac (+), non-melanotic or grossly bloody stool.
+Patient was also advised to have a follow-up hematocrit check at the same time of his INR check on [**1-14**].
+PULM: patient's respiratory status was not an active issue during his stay, as he did not require oxygen supplemenation and did not acquire any shortness of breath upon exertion.
+A renal ultrasound was performed, see results above, which showed no acute abnormality.
+ID: On day #2, patient had a mild temperature elevation with a mild leukocytosis, prompting a pan-culture.
+Empirically he was initated on vancomycin and levofloxacin, with discontinuation of levofloxacin after a CXR failed to show any signs of pneumonia or infiltrate.
+A u/a was negative for infection.
+Patient did not have any overt signs of a stool infection and no signs of cdiff infection.
+His leukocytosis stabilized and his temperature did not spike but he did have periods of low grade temps.
+The pIV lines were removed secondary to tenderness and possible cause of infection.
+Due to low clinical suspicion of an active clinical infection, the vancomycin was discontinued on day of discharge.
+Chronic kidney disease 3.
+Anemia   Discharge Condition: stable.
+chest pain free.
+Patient is advised to return to the ED if he acquires chest pain, shortness of breath, nausea, vomiting, or pain that is out of the ordinary for him.
+***Pt has been started on coumadin treatments for his depressed ejection fraction on his echocardiogram secondary to his myocardial infarction.
+*** Also, pt's hematocrit initially had a small drop to 30, but returned to 33 and was stable on two checks prior to discharge.
+He was guiac positive on the day of discharge, but did not have any overly bloodly stools or melanotic stools.
+[**Name10 (NameIs) **] PCP should further [**Name9 (PRE) 8019**] possible sources of GI bleed - if his hematocrit continues to fall by recheck on [**Name (NI) 766**], pt may need to be readmitted for work-up of a GI bleed.

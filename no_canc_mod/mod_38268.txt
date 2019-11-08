@@ -1,0 +1,69 @@
+Admission Date:  [**2163-8-1**]              Discharge Date:   [**2163-8-10**]  Date of Birth:  [**2098-1-5**]             Sex:   M  Service: MEDICINE  Allergies: Penicillins / Heparin Agents  Attending:[**First Name3 (LF) 1973**] Chief Complaint: Shortness of breath, hypoxia.
+Major Surgical or Invasive Procedure: Bronchoscopy x3 ([**8-2**], [**8-3**], [**8-7**])  History of Present Illness: Mr. [**Known lastname 1924**] is a 65 y/o man with history of AAA repair ([**1-/2163**]) c/b T8 paraplegia, bowel perforation leading to graft infection with bacteriodes, strep pneumo and [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 23729**]/fungemia on chronic suppressive medications (antibiotics and antifungals - fluconazole, cipro, flagyl), recently admitted and discharged on [**7-9**] for PNA, who represented to [**Hospital1 18**] on [**8-1**] from [**Hospital 38**] rehab w/ increasing white count to 39, increased shortness of breath, increased cough and inability to clear his airway secretions.
+During his previous admission he had CT imaging demonstrating collapsed lower lobe with concern for chronic infectious process vs mucus plugging.
+Given acute deterioration in respiratory function he underwent bronchoscopy that demonstrated purulent secretions in the LLL c/w infection.
+However, after discharge, pt grew resistant Pseudomonas in his BAL fluid culture.
+Readmitted on [**8-1**] directly to the MICU for worsening SOB with sats in the high 70s.
+Currently, he feels better from a respiratory standpoint.
+ROS: Otherwise positive for occasional pleuritic CP, chest heaviness, occasional pain from his abdominal surgical area with tenderness though unchanged.
+Denies nausea, vomiting, diarrhea, change in stool from ostomy, no melena or BRB from ostomy.
+He has no feeling from his penis so would not know if he had burning, and chronically has a foley.
+Past Medical History: - AAA repair ([**1-/2163**]) c/b T8 paraplegia, bowel perforation with graft infection and bacteremia/fungemia (bacteriodes, strep pneumo and [**Female First Name (un) **]).
+- complete heart block, now status post pacemaker placement - Hypertension - Hyperlipidemia - COPD - Osteoarthritis - Increased PSA for which the patient underwent a biopsy prior to [**2163-1-29**], which was complicated by an E. coli bacteremia - s/p Trach for inability to clear secretions  Social History: Has 50 pack-year smoking history who stopped smoking prior to his admission in [**Month (only) 404**].
+Physical Exam: ON ADMISSION: VS: Temp: 99.6 BP: 126/63 HR: 81 RR: 21 O2sat 99% on 50% trach mask GEN: pleasant, chronically ill appearing male, NAD HEENT: PERRL, EOMI, anicteric, MMM, op without lesions, no supraclavicular or cervical lymphadenopathy, trach collar in place, no jvd CV: RRR, S1 and S2 wnl, no m/r/g RESP: decreased BS at right and left bases with crackles at right base, no wheezes, no use of access mm but tachypneic to high 20s ABD: large graft, healing skin, +BS, right-sided ostomy with brown stool, +BS, soft, non-tender, no masses or hepatosplenomegaly EXT: warm, waffle boots in place, extreme mm wasting bilaterally, erythema over left upper thigh with scabbing, but no open wounds GU: foley in place, light yellow urine SKIN: no jaundice, no splinters NEURO: AAOx3.
+5/5 strength in upper extremities, paraplegic in lower extremities, no sensation in bilateral lower extremities, 2+ DTR's in biceps & brachioradialis GU: wound vac in place, though not completely covering sacral area, several more superficial sacral wounds, no [**Month (only) **] purulence .
+On Discharge: GEN: pleasant, chronically ill appearing male, NAD HEENT: MMM, op without lesions, no supraclavicular or cervical lymphadenopathy, trach collar in place, CV: RRR, S1 and S2 wnl, no m/r/g RESP: Decreased breath sounds in the lung bases with crackles in the right lung bases as well.
+No wheezes ABD: large graft, healing skin, right-sided ostomy with brown stool, soft, non-tender EXT: Warm and well perfused, no edema GU: foley in place, light yellow urine SKIN: no jaundice, no splinters, no rashes NEURO: AAOx3.
+Urine Culture [**2163-8-2**] No Growth .
+Blood Cultures 7/4 and [**8-7**]: No growth .
+RESPIRATORY CULTURE (Final [**2163-8-6**]):       Commensal Respiratory Flora Absent.
+if pulmonary Histoplasmosis, Coccidioidomycosis, Blastomycosis,       Aspergillosis or Mucormycosis is strongly suspected, contact the       Microbiology Laboratory (7-2306).
+STUDIES: CXR [**2163-8-1**]: IMPRESSION: Persistent moderate bilateral pleural effusions and compressive atelectasis.
+Retrocardiac atelectasis versus less likely infection.
+CXR [**2163-8-2**]: Left lower lobe atelectasis is chronic.
+Moderate right lower lobe atelectasis developed after [**7-26**], unchanged.
+Small bilateral pleural effusions also unchanged.
+Transvenous right ventricular pacer in standard placement.
+No pneumothorax.
+CXR [**2163-8-4**]: IMPRESSION: Persisting and unchanged bilateral basal atelectatic changes and bilateral pleural effusions.
+Left PICC line is present, tip at confluence of brachiocephalic and proximal SVC.
+Hazy density at both lung bases likely reflects presence of bilateral effusions.
+Left lower lobe collapse and/or consolidation, probably slightly worse compared with one day earlier.
+Probable atelectasis right base medially.
+Brief Hospital Course: 65 y/o man with a history of AAA repair ([**1-/2163**]) c/b T8 paraplegia, bowel perforation leading to graft infection with bacteriodes, strep pneumo and [**Female First Name (un) **] bacteremia/fungemia on chronic suppressive medications, recently admitted and discharged on [**7-9**] for SOB, and treated for a PNA, who represents to [**Hospital1 18**] from [**Hospital 38**] rehab w/ increasing white count, increased shortness of breath, hypoxia, and leukocytosis.
+He was found to have quinolone resistant pneumonia, and treated with Meropenem.
+# Pseudomonas Pneumonia: Patient presented with worsening dyspnea, fever, leukocytosis (28), increased sputum production, and infiltrate seen on CXR suggestive of pneumonia.
+In the MICU, patient underwent multiple bronchoscopy due to concern for mucous plugging with return of thick secretions.
+ID was consulted and patient was initiated on meropenem based on prior sensitivities for pseudomonas from BAL cultures as well as to cover for bacteriodes.
+# Hypoxemnia: Likely secondary to mucus plugging and HCAP.
+Repeat urine culture when foley was changed ([**8-4**]) showed no growth.
+# Pre-Existing Sacral Decubitus ulcer stage 4: Patient has chronic sacral stage IV pressure ulcer.
+Patient did not have any rashes and did not complain of SOB or throat closing and symptoms relieved with benadryl.
+No change in stool color in the colostomy.
+# HTN: on lisinopril as home med.
+This was held in the ICU given infection and concern for developing hypotension.
+# Depression/Anxiety: Continued paroxetine, trazodone, ativan prn.
+# Chronic Immobilization secondary to Paraplegia: Continued fondaparinux.
+Patient will also follow up with PCP for anemia and resolution of pneumonia.
+Medications on Admission: 1. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: [**1-30**] Inhalation Q6H (every 6 hours) as needed for shortness of breath.
+9. trazodone 50 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) as needed for insomnia.
+PO DAILY (Daily) as needed for constipation.
+11. lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO Q4H (every 4 hours) as needed for anxiety.
+15. sorbitol 70 % Solution Sig: One (1) ML Miscellaneous DAILY (Daily) as needed for constipation.
+Discharge Medications: 1. acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for fever, pain.
+3. senna 8.6 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime) as needed for constipation.
+PO DAILY (Daily) as needed for constipation.
+6. lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO Q4H (every 4 hours) as needed for anxiety.
+8. trazodone 50 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) as needed for insomnia.
+13. bisacodyl 10 mg Suppository Sig: One (1)  Rectal once a day as needed for constipation.
+17. sorbitol 70 % Solution Sig: One (1)  Miscellaneous once a day as needed for constipation.
+20. docusate sodium 50 mg/5 mL Liquid Sig: Two (2)  PO BID (2 times a day) as needed for constipation.
+24. diphenhydramine HCl 25 mg Capsule Sig: One (1) Capsule PO every 6-8 hours as needed for itching.
+Sarna Anti-Itch 0.5-0.5 % Lotion Sig: Apply as needed Topical once a day as needed for itching.
+Discharge Disposition: Extended Care  Facility: [**Hospital6 459**] for the Aged - MACU  Discharge Diagnosis: Health Care Associated Pneumonia Sacral Decubitus Ulcer Stage IV   Discharge Condition: Mental Status: Clear and coherent.
+You were admitted because you were complaining of shortness of breath, unable to cough up secretions from your airways, and found to have lower oxygen levels.
+You had multiple bronchoscopy procedures which demonstrated thick secretions and you were found to have a pneumonia.
+-STOPPED Vancomycin -STOPPED Levofloxacin -STARTED Benadryl to be used only as needed for itching -STARTED Sarna lotion to be used only as needed for itching .
+Once you start taking your Flagyl again, please aviod any alcohol containing products which can interact with Flagyl and cause severe reaction.
+Please follow up with Infectious disease doctors (as scheduled below) for any further decision on your future antibiotics course.
+Please also follow up with your Primary care physician (as scheduled below) for evaluation of anemia and to monitor resolution of pneumonia.

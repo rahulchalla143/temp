@@ -1,0 +1,70 @@
+Admission Date:  [**2104-11-9**]              Discharge Date:   [**2104-11-13**]  Date of Birth:  [**2062-7-1**]             Sex:   M  Service: NMED  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 618**] Chief Complaint: Left face, arm, and leg tingling, dysequilibrium, and decreased vision on left side.
+Transesophageal echocardiogram  History of Present Illness: Patient is a 42 year old male with past medical history of deep vein thrombosis, pulmonary embolus, hypercholesterolemia, and asthma who was admitted to [**Hospital1 69**] on [**2104-11-9**] for evaluation and management of acute stroke.
+He also noted problems with his vision, which he describes as decreased peripheral vision on his left side.
+Additionally, he had a dull right sided headache.
+His symptoms persisted and friends took him to [**Hospital3 **].
+On exam there, he reportedly had a left visual field cut and ataxia.
+Examination showed left homonymous hemianopsia, paresthesias of left face, arm and leg and left arm and leg ataxia.
+MRA showed decreased flow in the right PCA beyond P1.
+On review of systems, he denies fevers, chills, chest pain, palpitations, shortness of breath, weakness, difficulty with gait, bowel or bladder incontinence.
+Asthma 2.
+No masses or LAD.
+No thyromegaly.
+No carotid bruits.
+No rebound or guarding.
+No dysarthria or paraphasic errors.
+No evidence of apraxia.
+Fair performance on testing of visuospatial skills and visual memory.
+Left homonymous hemianopsia.
+No abnormal movements, tremors.
+No pronator drift.
+Coordination: Ataxia with left sided finger nose finger.
+Gait: Narrow based, able to tandem, no romberg.
+Pertinent Results: [**2104-11-9**] 07:30PM   WBC-8.6 RBC-4.78 HGB-15.2 HCT-42.6 MCV-89 MCH-31.8 MCHC-35.7* RDW-12.5 [**2104-11-9**] 07:30PM   PLT COUNT-154 [**2104-11-9**] 07:30PM   PT-12.0 PTT-21.7* INR(PT)-0.9 [**2104-11-9**] 07:30PM   GLUCOSE-102 UREA N-15 CREAT-1.0 SODIUM-139 POTASSIUM-4.6 CHLORIDE-104 TOTAL CO2-28 ANION GAP-12 [**2104-11-10**] 06:16AM BLOOD Triglyc-64 HDL-53 CHOL/HD-2.3 LDLcalc-56 [**2104-11-13**] 05:15PM BLOOD ESR-7 [**2104-11-13**] 05:15PM BLOOD FacVIII-125 [**2104-11-13**] 05:15PM BLOOD Lupus-NEG AT III-PND Prot C-PND [**2104-11-10**] 06:16AM BLOOD %HbA1c-5.4 [**2104-11-13**] 05:15PM BLOOD Homocys-8.3 [**2104-11-13**] 05:15PM BLOOD [**Doctor First Name **]-POSITIVE Titer-1:40 [**2104-11-13**] 05:15PM BLOOD CRP-0.32 [**2104-11-13**] 05:15PM BLOOD ACTIVATED PROTEIN C -PND [**2104-11-13**] 05:15PM BLOOD PROTHROMBIN MUTATION ANALYSIS-PND [**2104-11-13**] 05:15PM BLOOD FACTOR V LEIDEN-PND [**2104-11-13**] 05:15PM BLOOD PROTEIN S,FUNCTIONAL-PND ----- MRI/MRA head pre-tPA [**11-9**]: There is a large region of slowed diffusion in the right posterior cerebral artery territory consistent with an acute infarction.
+In the MRA images, there is an abrupt cut off of the right posterior cerebral artery near its origin.
+IMPRESSION: Acute infarction involving the right posterior cerebral artery territory with an associated abrupt occlusion of the right posterior cerebral artery.
+ADDENDUM: There is a linear area of magnetic susceptibility in the right posterior cerebral artery territory, possibly consistent with a small area of hemorrhagic transformation in the acute infarction v. unusual visibility of a vessel.
+----- MRI/MRA post-tPA [**2104-11-9**]: Images of the brain demonstrate cortical edema throughout the medial and posterior inferior right temporal lobe, in the distribution of the posterior cerebral artery territory.
+There are also foci of increased signal intensity within the right thalamus.
+There is mild mass effect associated with the infarction, but no displacement of midline structures.
+There is no abnormal intracranial susceptibility artifact to suggest the presence of hemorrhage.
+Otherwise, flow signal is observed in the left posterior cerebral artery, both vertebral arteries and the basilar artery, as well as in the internal carotid arteries, anterior and middle cerebral arterial branches.
+MRA demonstrates improved but still limited perfusion in the right posterior cerebral artery.
+MRI of the brain shows no change in the extent of right posterior cerebral arterial infarction, compared to the earlier study of this day.
+----- MRA Carotids/Vertebrals [**2104-11-10**]: The vertebral arteries, common carotid arteries, and visualized portions of the external and internal carotid arteries demonstrate normal flow signal without evidence of stenosis, ulceration, dissection, or aneurysmal dilation.
+----- CT head w/o contrast [**2104-11-10**]: There is loss of the grey/white matter differentiation involving the right PCA territory.
+This abnormality correlates to the region of slow diffusion on the brain MRI.
+There is no evidence of hemorrhagic transformation.
+There is a mild amount of mass effect on the atria of the right lateral ventricle.
+IMPRESSION: Subacute right PCA infarct without evidence of hemorrhagic transformation.
+No atrial septal defect or patent foramen ovale is seen by 2D, color Doppler or saline contrast with maneuvers.
+The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic regurgitation.
+There is no mitral valve prolapse.
+Mild (1+) mitral regurgitation is seen.
+There is no pericardial effusion.
+IMPRESSION: Mild mitral regurgitation with normal valve morphology.
+No definite cardiac source of embolism identified.
+----- Transesophageal Echocardiogram [**2104-11-12**]: No spontaneous echo contrast or thrombus is seen in the body of the left atrium/left atrial appendage or the body of the right atrium/right atrial appendage.
+No atrial septal defect or patent foramen ovale is seen by 2D, color Doppler or saline contrast with maneuvers.
+No masses or vegetations are seen on the aortic valve.
+Trace aortic regurgitation is seen.
+No mass or vegetation is seen on the mitral valve.
+Trivial to mild (1+) mitral regurgitation is seen.
+There is a trivial/physiologic pericardial effusion.
+IMPRESSION: No cardiac source of embolism seen.
+Trace to mild (1+) mitral regurgitation with a structurally normal valve.
+A head MRI demonstrated restricted diffusion in the right posterior cerebral artery territory consistent with acute ischemic infarct and MRA demonstrated abrupt cut-off of the proximal right posterior cerebral artery.
+Post-tPA MRI/MRA demonstrated improved perfusion in the right posterior cerebral artery.
+The patient reported decreased left leg tingling after tPA.
+On [**2104-11-10**], surface echocardiogram showed mild mitral regurgitation but no definite cardiac source of embolism.
+On [**2104-11-12**], transesophageal echocardiogram showed no cardiac source of embolism, trace mitral regurgitation, and normal biventricular function (LVEF >55%).
+He was kept on continuous telemetry with no abnormal rhythms detected.
+Arrangements were made for MRI head in 1 month coincident with follow-up with Dr. [**Last Name (STitle) **] and the primary team arranged for the patient to have an outpatient hypercoagulation workup.
+Upon discharge, patient was neurologically stable with residual left field cut, left-sided paresthesias and left-sided ataxia.
+Equipment Left wrist splint Wear at night to help decrease numbness and tingling in left hand.
+Outpatient Occupational Therapy To increase functional status of left upper extremity, especially coordination.
+Right posterior cerebral artery ischemic infarction 2.
+Hypercholesterolemia 3.
+History of deep venous thrombosis and pulmonary embolus   Discharge Condition: Stable neurological exam with residual left visual field cut, left hemibody paresthesias, and left sided incoordination and ataxia.
+Discharge Instructions: Please call your primary care physician or visit local emergency room if you experience any headaches, confusion, changes in your ability to speak or understand speech, loss of function in any limb, numbness or tingling over your limbs or face, weakness, visual changes.
+Your primary care doctor will refer you to ophthalmologist for formal visual field testing.

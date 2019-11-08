@@ -1,0 +1,13 @@
+Admission Date:  [**2101-1-14**]       Discharge Date:  [**2101-2-8**]   Service:  CT Surgery  HISTORY OF PRESENT ILLNESS:  The patient is a 79 year old white male with type 2 diabetes mellitus, mild mitral regurgitation, hypercholesterolemia, congestive heart failure and coronary artery disease, who underwent cardiac catheterization, revealing severe three vessel disease with an estimated left ventricular ejection fraction of 10% to 40%.
+The patient was admitted to an outside hospital with a non-Q wave myocardial infarction, where his left ventricular ejection fraction was noted to be 29%.
+He was transferred to [**First Name4 (NamePattern1) 3867**] [**Last Name (NamePattern1) **] [**First Name (Titles) **] [**Last Name (Titles) **] for cardiac catheterization, which showed severe three vessel disease and aortic stenosis.
+ALLERGIES:  The patient has no known drug allergies.
+Postoperatively, it was noted that the patient had decreased movement on the right side of his body.
+Dr. [**Last Name (STitle) **] had an extensive conversation with the family; questions were asked and answered.
+A neurologic consultation was obtained and it was felt that the patient had a left middle cerebral artery territory infarction.
+He had large output from his chest tubes.
+A chest x-ray revealed a large left hemothorax.
+The patient, however, had severe right hemiparesis and aphasia remained.
+A left chest tube was placed, which evacuated a large amount of serosanguinous fluid.
+A CT scan revealed a left hemothorax which was organized.
+He was awake and interactive with dense aphasia and a dense right hemiparesis.

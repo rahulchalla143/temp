@@ -1,0 +1,103 @@
+Admission Date:  [**2160-10-5**]              Discharge Date:   [**2160-10-21**]  Date of Birth:  [**2074-5-25**]             Sex:   F  Service: MEDICINE  Allergies: Tramadol / Nsaids / Oxycodone  Attending:[**Last Name (NamePattern1) 1167**] Chief Complaint: Nausea  Major Surgical or Invasive Procedure: Placement of tunneled dialysis catheter  History of Present Illness: The patient is an 86-year-old woman with a complicated medical history who was recently discharged from the [**Hospital1 1516**] service at [**Hospital1 18**] ([**Date range (1) 29441**]) after a CHF exacerbation who is presenting with nausea and found to have worsening kidney function.
+The patient has been experiencing nausea for several days now.
+[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1683**], who felt that the nausea may be secondary to her diuretics.
+Since that visit, the patient has had increasing nausea and loss of appetite.
+The patient further denies any sick contacts, new foods, or recent travel.
+She has not had any abdominal pain, though she has been constipated, with her last movement 5 days ago.
+The patient denies any recent worsening of her breathing, cough, or worsening of lower leg edema.
+She has no cough.
+A KUB showed no evidence of obstruction or intraperitoneal free air.
+On the medicine floor, the patient continued to be nauseated and had an episode of greenish emesis.
+The emesis had no evidence of blood.
+Currently, pt states she is feeling "better" but still nauseous, with no new complaints.
+She denies chest pain or pressure and denies tremor.
+She does note that she has some epigastric pain.
+CARDIAC HISTORY:     -CAD s/p CABG [**2143**]     -most recent persantine MIBI in [**2157-7-26**] c/w old LAD infarct and areas of ischemia in PDA and OM distributions     -systolic CHF with mild symm LVH, most recent EF 30-35% [**Month (only) 205**] [**2160**] -CABG:  [**2143**], LIMA->provimal LAD, SVG->distal LAD, SVG->OM2 and OM3 -PERCUTANEOUS CORONARY INTERVENTIONS:  [**2153**], DES to proximal LAD -PACING/ICD: 3.
+OTHER PAST MEDICAL HISTORY: - Chronic kidney disease: Cr baseline 3.1-3.7, Stage IV-V. EPO qmonthly, secondary to diabetes; with secondary hyperparathyroidism - asthma: uses albuterol once per day and Flovent once per day - sciatica - arthritis s/p knee replacement - gout - GERD - osteoporosis - anemia - colonic adenomas with last colonoscopy [**6-/2159**] (hyperplastic only, next colonoscopy [**6-/2164**]) - low back pain  Social History: Lives with her husband and daughter in [**Name (NI) **], where she grew up.
+NECK: Supple, no JVD HEART: S1, S2, 3/6 systolic mumur along sternal border.
+LUNGS: CTA bilaterally, no crackles.
+SKIN: No rashes or lesions.
+Discharge PE: VITALS: 96.9  124/49-133/55  55  12 96% RA GENERAL: Appears in no acute distress.
+NECK: supple without lymphadenopathy.
+Regular rate and rhythm, without murmurs, rubs or gallops.
+Decreased breath sounds bilaterally without adventitious sounds.
+No wheezing, or rhonchi, but minimal bibasilar crackles.
+No palpable masses or peritoneal signs.
+EXTR: no cyanosis, clubbing; bilaterally trace or 1+ pitting edema, 2+ peripheral pulses DERM: No stasis dermatitis, ulcers, scars.
+Left groin with substantial ecchymosis and palpable hematoma; no purulence or drainage, no active bleeding; Right groin with hematoma, resolving NEURO: CN II-XII intact throughout.
+2D-ECHO ([**2160-8-7**]): The left atrium is mildly dilated.
+There is mild symmetric left ventricular hypertrophy.
+There is moderate regional left ventricular systolic dysfunction with moderate global hypokinesis and akinesis of the distal anterior septum and apex.
+Tissue Doppler imaging suggests an increased left ventricular filling pressure (PCWP > 18 mmHg).
+Mild to moderate ([**1-27**]+) mitral regurgitation is seen.
+There is moderate pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+CARDIAC CATH ([**2160-10-10**]): Attempted but aborted given no groin access sites.
+MICROBIOLOGY DATA: [**2160-10-5**] Blood culture - no growth [**2160-10-6**] Urine culture - Gram positive bacteria (> 100K) - Alpha hemolytic colonies consistent with alpha streptococcus or Lactobacillus sp [**2160-10-8**] Blood cultures (x 2) - no growth [**2160-10-9**] Urine culture - Gram positive bacteria (> 100K) - Alpha hemolytic colonies consistent with alpha streptococcus or Lactobacillus sp [**2160-10-9**] Blood culture - no growth [**2160-10-10**] Blood culture - no growth .
+[**2160-10-11**] FEMORAL VASCULAR US LEFT - No overall increase in size in a 5.4 x 2.8 x 2.7 cm hematoma in the left groin, but interval resumption of flow within a 2.5-cm portion of the hematoma consistent with continued pseudoaneurysm.
+The pseudoaneurysm neck appears slightly increased in size .
+[**2160-10-12**] FEMORAL VASCULAR US LEFT - No significant interval change in the partially thrombosed left common femoral pseudoaneurysm since the earlier study of [**2160-10-11**].
+[**2160-10-15**] FEMORAL VASCULAR US LEFT - No significant interval change in the left common femoral pseudoaneurysm; PSA measuring 2.8 x 2.0-cm with overlying 6-cm hematoma .
+[**2160-10-20**] [**Hospital 93**] MEDICAL CONDITION:    86F with a PMH significant for CAD (s/p CABG [**2143**], PCI with stenting of the LAD  in [**6-/2153**]), ischemic cardiomyopathy (EF 30-35%), DM, HTN, HLD, CKD stage IV-V  (baseline creatinine 3.5-4) who presented to [**Hospital1 18**] with complaints of nausea  and emesis found to have acute CHF exacberation with resulting acute  respiratory failure requiring MICU admission for worsening acute respiratory   failure, complicated by NSTEMI with medical management, initiation of  hemodiayslis complicated by left femoral pseudoaneurysm vs. fistula who is hemodynamically stable  REASON FOR THIS EXAMINATION: patient has temporary right IJ for HD - please replace with tunneled HD line   Brief Hospital Course: IMPRESSION: 86F with a PMH significant for CAD (s/p CABG [**2143**], PCI with stenting of the LAD in [**6-/2153**]), ischemic cardiomyopathy (EF 30-35%), DM, HTN, HLD, CKD stage IV-V (baseline creatinine 3.5-4) who presented to [**Hospital1 18**] with complaints of nausea and emesis found to have acute CHF exacberation with resulting acute respiratory failure requiring MICU admission for worsening acute respiratory failure, complicated by NSTEMI with medical management, initiation of hemodiayslis complicated by left femoral pseudoaneurysm vs. fistula who is hemodynamically stable.
+# CORONARIES - The patient had a prior CABG in [**2143**] with (LIMA -> proximal LAD, SVG -> distal LAD, SVG -> OM2 and OM3) and is status-post PCI in [**6-/2153**] (DES to proximal LAD) with a persantine MIBI in [**7-/2157**] which showed his old LAD infarct and areas of ischemia in the distribution of the PDA and OM.
+This admission, the patient was admitted to the MICU on [**10-9**] with concerns of acute respiratory failure precipitated by acute CHF exacerbation and volume overload.
+In that setting, the patient developed evidence of NSTEMI with Troponins peaking at 3.62 (CK-MB 70) in light of her renal dysfunction with some intermittent chest pain.
+Given these findings, she was medically optimized at that time with Aspirin 325 mg PO, we continued her statin, dosed her beta-[**Month/Year (2) 7005**] and started a heparin gtt (this was intermittently on/off given concerns for a femoral left pseudoaneurysm, as noted below).
+The patient underwent cardiac catheterization via radial artery access on [**10-10**], where she had a distal RCA lesion, which by itself was not felt to be a culprit lesion and the patient also had stenosis about the area where one of her LIMA to LAD bypasses was.
+The cath was only diagnostic in that no interventions on the coronaries were performed at that time, and at the same time it was discovered that the patient had irregularities of the bilateral femoral arteries on informal angiography.
+We trended her EKG findings, monitored her for chest pain, and trended her Troponins and CK-MB for resolution of her NSTEMI concerns.
+# PUMP (ACUTE CHF EXACERBATION)- The patient had her last 2D-Echo in [**7-/2160**] which showed symmetric LVH, moderate regional LV systolic dysfunction with moderate global hypokinesis and akinesis of the distal anterior septum and apex and an LVEF of 30-35%.
+There was also evidence of mild to moderate ([**1-27**]+) mitral regurgitation.
+There was moderate pulmonary artery systolic hypertension.
+As noted above, the patient initially presented to the ED with nausea for several days and evidence of acute renal insufficiency.
+On [**2160-10-2**], she saw her PCP who felt that the nausea was secondary to diuretics and her Metolazone and Lasix were decreased (or held?).
+A CXR showed pulmonary congestion.
+Because there was not significant improvement and her symptoms were worsening, the plan was for HD line placement in IR on the day of transfer to the ICU.
+At 7:30 AM she became more acutely dyspneic and was satting 89% 4L NC and which improved to 96% on a NRB.
+There was concern for aspiration vs. MI vs. fluid overload.
+A CXR showed diffuse pulmonary edema, and it was difficult to assess whether an underlying apiration or consolidation was present.
+HD initiated on [**10-11**] (-500 cc) and she tolerated this well and her oxygen requirement resolved.
+# RHYTHM - The patient presented in sinus rhythm appearing on telemetry and EKGs with no history of dysrrhythmias.
+# ACUTE ON CHRONIC RENAL INSUFFICIENCY (HEMODIALYSIS) - On [**2160-10-2**], she saw her PCP who felt that the nausea was secondary to diuretics and her Metolazone and Lasix were decreased (or held?).
+Because there was not significant improvement and her symptoms were worsening, the plan was for HD line placement in IR on the day of transfer to the ICU.
+HD initiated on [**10-11**] (-500 cc) and she tolerated this well and her oxygen requirement resolved.
+She was making minimal urine at the time of floor transfer.
+# LEFT FEMORAL PSEUDOANEURYSM VS. FISTULA - After bilateral attempts at cannulation of the femoral artery for HD-access, the patient subsequently developed a large partially thrombosed left femoral pseudoaneurysm (6-cm) which may have progressed to an AV-distula based on imaging.
+She underwent thrombin injection without avail and a repeat at thrombin injection which was again unsuccessful.
+Vascular surgery was consulted and following with plan for surgical repair pending stabilization of her cardiac issues.
+# DYSPNEA, PULMONARY EDEMA - As noted above, the patient initially presented with acute respiratory failure in the setting of an acute CHF exacerbation with a new oxygen requirement which was weaned from NRB -> 4L to 2L via NC with initiation of hemodialysis and diuresis.
+A CXR showed bilateral effusions and she had no evidence of infiltrate on imaging (with no cough or URI symptoms).
+We continued aggressive volume control with hemodialysis, provided oxygen supplementation with plan to wean, and maintained her on albuterol and ipratroprium nebs as needed with pulse oximetry monitoring and incentive spirometry.
+# NORMOCYTIC ANEMIA - The patient presented with baseline chronic renal insufficiency-induced normocytic anemia with HCT in the 30-32% range with Epopoeitin injections monthly.
+# INSULIN-DEPENDENT DIABETES MELLITUS - The patient was admitted on Humulin 70/30, 20 units before breakfast and 26 units before dinner, as a home regimen.
+# HYPERTENSION - The patient was continued on her home blood pressure regimen; with a goal BP < 130/80 mmHg.
+# HYPERLIPIDEMIA - Her home Simvastatin 40 mg PO daily was changed to atorvastatin.
+# REACTIVE AIRWAY DISEASE - We continued her home Albuterol and Flovent medications; albuterol and ipatropium nebs were dosed as needed.
+If chest pain persists, please call your doctor or go to the hospital immediately.
+5. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: [**1-27**] nebs Inhalation every 4-6 hours as needed for cough/wheeze.
+6. bisacodyl 5 mg Tablet Sig: One (1) Tablet PO at bedtime as needed for constipation.
+13. trazodone 50 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime) as needed for insomnia.
+15. ipratropium bromide 0.02 % Solution Sig: One (1) neb neb Inhalation Q6H (every 6 hours) as needed for shortness of breath or wheezing.
+20. lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO DAILY (Daily) as needed for constipation.
+Non-ST segment elevation myocardial infarction (NSTEMI) 2.
+Acute respiratory distress 3.
+Acute congestive heart failure exacerbation 4.
+Left femoral artery pseudoaneurysm, overlying hematoma 5.
+Acute on chronic renal insufficiency .
+Hypertension 2.
+Hyperlipidemia 3.
+Coronary artery disease   Discharge Condition: Mental Status: Clear and coherent.
+Discharge Instructions: Patient Discharge Instructions: You were admitted to the [**Hospital1 1516**] Cardiology-Internal Medicine service at [**Hospital1 69**] on [**Hospital Ward Name 121**] 3 regarding management of your heart issues.
+You were initially admitted to the Medicine floor but developed concerns for volume overload in the setting of renal failure with the need for respiratory support.
+Your heart had some demand ischemia changes from the extra volume, but this resolved with dialysis.
+After this, you had a permanent dialysis line placed.
+Please call your doctor or go to the emergency department if: * You experience new chest pain, pressure, squeezing or tightness.
+* Worsening swelling in your legs or a weight gain of 3 lbs or more, fatigue or excessive weakness.
+* You develop new or worsening cough, shortness of breath, or wheezing.
+* You are vomiting and cannot keep down fluids, or your medications.
+* If you are getting dehydrated due to continued vomiting, diarrhea, or other reasons.
+Signs of dehydration include: dry mouth, rapid heartbeat, or feeling dizzy or faint when standing.
+* Your pain is not improving within 12 hours or is not under control within 24 hours.
+* Your pain worsens or changes location.
+* You have shaking chills, or fever greater than 101.5 degrees Fahrenheit or 38 degrees Celsius.
+* You develop any other concerning symptoms.

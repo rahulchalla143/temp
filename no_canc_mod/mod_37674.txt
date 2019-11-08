@@ -1,0 +1,49 @@
+Admission Date:  [**2123-3-15**]              Discharge Date:   [**2123-3-23**]  Date of Birth:  [**2049-12-26**]             Sex:   M  Service: NEUROLOGY  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**Last Name (NamePattern1) 1838**] Chief Complaint: Elective admission for submandibular excision for chronic sialolithiasis but found to have stroke on POD#2.
+Major Surgical or Invasive Procedure: Left submandibular excision for chronic sialolithiasis   History of Present Illness: 73 year-old right-handed gentleman with a history of hypertension, dyslipidemia, diabetes, anxiety, and chronic siadenitis of the left submandibular gland due to a stone, who was noted to have right hemiplegia, language difficulties, and right-sided neglect after a left submandibular resection this morning.
+Staff report that there was no noted weakness or other neurologic abnormality at this time, though he seemed relatively quiet.
+The surgery itself was complicated by labile blood pressure, including a brief period of hypotension to 80 mmHg (~1 minute); the patient was given a dose of ephedrine.
+However, by 11:40 am, Neurology was paged by Anesthesiology for concern that the patient had developed a right hemiplegia, language difficulties, and right-sided neglect.
+Past Medical History: -Hypertension -Diabetes -Dyslipidemia -Chronic siadenitis of the left submandibular gland with associated stone -Multinodular goiter -GERD -Mild COPD -Anxiety -Nephrolithiasis, s/p surgical removal of the stone -Basal cell carcinoma of the nose -Ectatic distal abdominal aorta -s/p bilateral mastoidectomy, foot surgery, and left ear surgery -Arthritis -Gout  Social History: The patient smoked one pack daily for 50 years.
+Family History: No known family history of stroke   Physical Exam: Vitals: T 96.8 F   BP 129/59   P 68    RR 14    SaO2 98 on 3LNC General: NAD, elderly man, well-nourished HEENT: NC/AT, sclerae anicteric, MMM, no exudates in oropharynx Neck: no bruits appreciated, has a clean, dry, and intact surgical wound on the left aspect of the neck, with drain in place ROM: able to actively turn head to both sides, though further assessment limited given wound Lungs: clear to auscultation, though limited effort CV: regular rate and rhythm, no MMRG Abdomen:  soft, non-tender, non-distended, bowel sounds present Ext: warm, no edema, pedal pulses appreciated Skin: no rashes  Neurologic Examination: Mental Status: Awake and alert, unable to relay history, cooperative with exam though appears to be limited by comprehension, able to state first and last name, identify nose and fingers, but not a watch or pictures on stroke card; his speech is non-fluent and dysarthric, he is unable to repeat the examiner; he appears to pay more attention to left space, though he can attend to people approaching his right side in bed  Cranial Nerves: Fundoscopy could not be performed; blinks to threat throughout bilaterally.
+Extraocular movements intact, no nystagmus.
+Right upper motor neuron facial droop.
+Tongue protrudes midline, no fasciculations.
+Coordination and gait could not be assessed due to language deficits and weakness.
+Increased mean transit time in the left PCA distribution which is discordant with the patient's symptoms of right hemiparesis and aphasia.
+Theoretically, considering the patient's right ICA occlusion, a left MCA distribution ischemia could be masked, however, is considered less likely.
+Unenhanced CT head images show no evidence of hemorrhage.
+Post-surgical changes involving removal of left submandibular gland.
+Moderate-sized acute infarctions of the predominantly left PCA, left ACA, and left ACA-MCA and left PCA-MCA territories and right cerebral hemisphere.
+Given the variable vascular distribution possible etiologies for infarction include both embolic and watershed phenomenon.
+Foci of negative susceptibility in 2 of these areas on the elft side can be due to old blood products.
+Stability can be assessed at follow up study which can include post-contast images to assess for any enahncement.
+Stable occlusion of the right intracranial Internal carotid artery, better evaluated on prior CTA and conventional angiogram.
+Echocardiogram: The left atrium is mildly dilated.
+There is moderate symmetric left ventricular hypertrophy.
+The aortic root is mildly dilated at the sinus level.
+The ascending aorta is mildly dilated.
+The aortic valve leaflets (3) are mildly thickened.
+There is no aortic valve stenosis.
+No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Mild (1+) mitral regurgitation is seen.
+There is no pericardial effusion.
+No cardiac source of embolus identified (cannot definitively exclude).
+Brief Hospital Course: 73 year-old right-handed gentleman with a history of hypertension, dyslipidemia, diabetes, anxiety, and chronic siadenitis of the left submandibular gland due to a stone, who was noted to have right hemiplegia, language difficulties, and right-sided neglect after a left submandibular resection.
+There was a concern of labile pressures with a brief period of intra-operative hypotension.
+His examination was notable for a non-fluent aphasia, with impaired comprehension, repetition, and naming.
+There may be a component of mild neglect of right visual space.
+He had a right upper motor neuron pattern facial droop and right hemiplegia.
+The patient has left internal carotid artery narrowing, with a possible intraluminal thrombus and a completed occluded right internal carotid artery.
+Of note, given the occluded right carotid artery, the possibility remains that the patient may have also suffered hypoperfusion injury, particularly if the already stenotic left side underwent further manual compression in the setting of systemic hypotension.
+He may also have had hypoperfusion of the right ACA leading to left leg weakness.
+The patient was then transferred to the neurology service for further care including heparin drip given the occlusion and he was also closely followed by ENT for his submandibular resection.
+While in the ICU, he developed hematoma around the surgical area but his breathing remained stable and his hct was closely watched.
+Also, patient needs intense occupational/physical plus speech therapy given that he is completely plegic on right side with slight right facial droop and expressive aphasia.
+Discharge Disposition: Extended Care  Facility: [**Hospital3 1107**] [**Hospital **] Hospital - [**Location (un) 38**]  Discharge Diagnosis: Post-operative stroke - likely embolic and hypoperfusion stroke in L MCA/ACA/PCA distribution   Discharge Condition: Stable - left submandibular hematoma with sutures to be removed per Dr. [**Last Name (STitle) 1837**] on [**2123-3-23**]; Right hemiplegia (no movement in R arm even with noxious stimuli but triple flex in R leg with noxious stimuly plus slight R facial droop and expressive aphasia).
+Discharge Instructions: You came in for an elective submandibular excision for chronic sialolithiasis but was found to have right hemiplegia with expressive aphasia post-operatively and was found to have left ICA distribution stroke hence received IV tPA.
+You were initially treated in the ICU given that you had IV tPA and development of hematoma over the surgical site which was closely monitored per ENT.
+You had no respiratory compromise and you were successfully transferred to the neurology floor.
+Given the occlusion right ICA occlusion and possible thrombus on left ICA, you were started on heparin drip with goal PTT 40~60 and Coumadin was started on [**3-19**] after ensuring that the hematoma was not increasing in size and hematocrit was stable.
+Please check PTT every 6 hrs to ensure that PTT between 40~60 and daily INR plus hematocrit to titrate Coumadin dose and ensure that your hematoma is not getting bigger.
+Given your severe hemiplegia and expressive aphasia, you are being discharged to acute rehab for intense, inpatient physical/occupational and speech therapy but also you require frequent (every 6hr [**Date Range **] work initially then daily once heparin drip stopped) labs and vitals.

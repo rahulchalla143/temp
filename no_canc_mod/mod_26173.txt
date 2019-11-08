@@ -1,0 +1,104 @@
+Admission Date:  [**2196-7-5**]              Discharge Date:   [**2196-8-16**]  Date of Birth:  [**2150-10-18**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 800**] Chief Complaint: Fevers, chills x 3 days; myalgias, fatigue x 2 weeks  Major Surgical or Invasive Procedure: Mechanical Ventilation (intubation/extubation) Tracheostomy PEG tube placement Bronchoscopy   History of Present Illness: Mr. [**Known lastname **] is a 45 year old male with history of hypertension who presents from home with fevers, chills, myalgias and SOB.
+He had fatigue, shortness of breath, nonproductive cough and a burning sensation with deep breathing.
+No fevers at that time.
+At that time symptoms were attributed to mild flu and he was instructed to take tylenol and drink plenty of fluids.
+He had increased myalgias and new fevers up to 102.
+Shortness of breath was worse at night.
+His boyfriend has also had a dry cough but no other symptoms.
+No recent travel outside of the US - recently went to [**State 531**].
+CXR notable for left upper lobe pneumonia.
+He was also given Levofloxacin for pneumonia and ibuprofen for fever.
+Currently, he continues to be short of breath with prolonged talking.
+He gets extremely fatigued with ambulating to the bathroom and notes pain when taking deep breaths.
+Of note, patient has history of multiple pneumonias.
+He had PNA 2 years ago, 19 years ago and a severe bronchitis 4 years ago.
+Family History: Mother with history of multiple bronchitis and frequent congestion, unclear etiology.
+Trach site clean/dry/intact CV: RRR, no murmurs/gallops/rubs, normal S1/S2 Pulm: Clear to auscultation bilaterally, no rhonchi/rales - very mild wheeze in left upper lobe anteriorly Abd: +BS, soft, non-tender/distended, PEG site clean/dry/intact - slight erythema on right side Ext: no cyanosis/ecchymosis/edema, PICC site in right antecubital   Pertinent Results: [**2196-7-5**] 05:50PM   WBC-9.3 RBC-4.17* HGB-13.0* HCT-38.1* MCV-91 MCH-31.3 MCHC-34.2 RDW-13.4 [**2196-7-5**] 05:50PM   NEUTS-76.1* LYMPHS-18.4 MONOS-4.1 EOS-1.0 BASOS-0.4 [**2196-7-5**] 05:50PM   PLT COUNT-322 [**2196-7-5**] 05:50PM   ALBUMIN-2.9* [**2196-7-5**] 05:50PM   ALT(SGPT)-94* AST(SGOT)-88* LD(LDH)-431* ALK PHOS-146* TOT BILI-0.2 [**2196-7-5**] 05:50PM   GLUCOSE-109* UREA N-15 CREAT-0.9 SODIUM-133 POTASSIUM-4.0 CHLORIDE-101 TOTAL CO2-23 ANION GAP-13  [**2196-7-8**] @ 1600: HIV viral load 61,600 copies  CXR [**7-5**]: IMPRESSION: Patchy ill-defined opacities within both lungs, most pronounced within the left mid and upper lung field, which could represent areas of infection.
+Asymmetric pulmonary edema may also be possible, and followup radiographs are recommended.
+CXR [**7-7**]: IMPRESSION: Significant worsening of the multifocal airspace opacities throughout the lungs with relative sparing of the apices is likely related to multifocal infection.
+CT chest [**7-8**]: No pulmonary edema.
+Widespread pulmonary parenchymal abnormality including areas of consolidation and ground-glass change, suspicious for an infectious process given rapidity of change is seen on recent radiographs.
+Other etiologies such as hypersensitivity pneumonitis or vasculitis are considered much less likely.
+Brief Hospital Course: Mr. [**Known lastname **] is a 45 year old male with history of hypertension who presents after a couple weeks of malaise and acute onset of fevers, chills, and shortness of breath over 3 days with newly diagnosed HIV on [**7-8**] and worsening PNA seen on CT suggestive of PCP.
+# RESPIRATORY FAILURE:  Patient with fevers, chills, nonproductive cough and CXR with left mid and upper lung field PNA.
+He has a history of PNA in the past, elevated ESR, CRP, LFTs, and low albumin so question if there was a question of an element of immunocompromise or anatomical defect resulting in frequent infection.
+He was started empirically on [**Month/Day (4) **] (day 1 [**7-5**]) for a community acquired pneumonia; however, his oxygen requirement escalated [**7-7**] from 3 to 5 Liters to maintain his oxygen saturation in the low 90s.
+Sputum induced on [**7-8**] was positive for Pneumocystis jirovecii (carinii), yeast, and normal oropharygeal flora and negative for Legionella.
+CT scan obtained on [**7-9**] showed diffuse ground glass opacities consistent with PCP.
+By [**7-12**], he met SIRS criteria for tachycardia and fever, and steroids were increased to 40 mg Q6hrs.
+However, sputum cultures from [**7-11**], [**7-12**], and [**7-15**] only grew sparse oropharyngeal flora and yeast.
+Steroids were weaned back to 40mg daily by [**7-15**] and abx were decreased to just [**Month/Day (4) **] for coagulase negative staph aureus bacteria, with discontinuation of [**Month/Day (4) **] by [**7-18**].
+Given persistent ARDS physiology and inability to wean him from vent, CT was performed on [**7-18**], which revealed new left lower lobe opacity not seen at admission.
+He developed thickened secretions, leukocytosis, persistent fever, and worsening hypoxia by [**7-24**] concerning for ventilator associated pneumonia, so he was started on vancomycin, cefepime, cipro x 8 days for VAP (completed on [**7-31**]).
+Steroids were decreased to 20 mg daily given lack of evidence to suggest utility of high dose steroids in severe PCP beyond acute presentation and concern that steroids could be harmful in the setting of second pneumonia.
+However, sputum samples continued to reveal only yeast and normal oropharyngeal flora, and bronch could not be performed due to hypoxia/high PEEP requirement.
+There was concern that weaning from ventilation was being limited by ET tube placement and/or obstruction with secretions, bronchoscopy was performed on [**7-27**], with the removal of thick secretions but no frank ET obstruction.
+His respiratory status and CXRs were stable to improved until he spiked a fever on [**8-3**].
+Sputum cultures from [**8-3**] grew sparse oropharyngeal flora, and cx from [**8-5**] was pending.
+Patient had routine nebulized Albuterol/Ipratropium and respiratory therapy/care while on the floor.
+- Patient continues to saturate well with humidified trach mask/trach in place.
+# SEDATION/AGITATION MANAGEMENT: Intubated on [**7-11**] with Fentanyl and Midazolam.
+Subsequent dysynchrony resolved with increased sedation.
+Sedation became greatly limited by episodic tachycardia and HTN in the setting of anxiety and agitation, requiring intermittent restarting/ discontinuing of Fentanyl drip and frequent adjustment/bolus doses of Midazolam, Methadone, and Zyprexa doses.
+Diazepam NG was added to enable weaning from Midazolam drip, all with moderate success.
+He experienced episodes of hypotension requiring pressors.
+The etiology of these spikes was thought to be due to underlying HIV in the setting of low WBC.
+Abdominal CT was also performed on [**8-5**] given elevated liver and pancreatic enzymes, and prelim read showed no acute abdominal processes.
+Blood culture for fungus and AFB were negative on [**7-21**].
+Stool was negative for ova and parasites on [**7-23**] and for enteric gram negative rods on [**7-31**].
+Upon call out to the floor from the MICU, patient's foley was discontinued and urinalysis showed no signs of urinary tract infection.
+Patient was switched from Bactrim to Atovaquone on [**2196-8-16**] for possible drug fevers with plans to transition patient to Dapsone.
+- Will follow-up on Stool Cultures/O and P/Cdiff - Patient is to follow-up with Dr. [**Last Name (STitle) **] if his low-grade fevers persist despite being on Dapsone .
+# BP LABILITY: His outpatient regimen of Lisinopril and HCTZ were held due to the development of hypotension in the setting of SIRS by [**7-12**].
+He required pressors (norepinephrine, phenylephrine, vasopressin) due to a worsening septic picture.
+He began to develop HTN on [**7-24**], with SBP to 250s systolic and associated tachycardia to 160s, which normalized of BP following hydralazine bolus followed by labetalol bolus then labetalol drip.
+Head CT on [**7-25**] showed no acute intracranial process associated with his HTN.
+He began to experience hypotensive episodes overnight on [**7-25**] with MAPs in low 60's in the setting of increased sedation requirements, antihypertensive medications, and attempts to optimize respiratory status by maintaining negative fluid balance.
+He last received pressors after a hypotensive episode during GJ-tube placement in the setting of sedation on [**8-3**]; pressors were discontinued when sedation was lifted.
+His blood pressure was subsequently maintained on Clonidine patch, started [**8-3**], and IVF boluses as needed for intermittent hypotension in the setting of extensive autodiuresis.
+There was concern for possible adrenal insufficiency given urine sodium wasting and hypotension, with cortisol from [**8-5**] pending.
+HR worsened with fever and anxiety, especially in the setting of the development of SIRS with fever and tachycardia on [**7-12**].
+Improved when afebrile and with appropriate sedation.
+Patient remained borderline tachycardic (HR low 90s) on the floor, after being called out of the MICU.
+It was thought this was due to his inhalers and anxiety component.
+# ANEMIA: Fe-deficiency anemia at presentation.
+The etiology of his ongoing anemia was low production in the setting of HIV +/- stress response, frequent phlebotomy, and subptimal nutrition.
+There were no signs of acute blood loss or end-organ failure or hemolysis (LDH and total bilirubin were within normal limits).
+# TRANSAMINITIS.
+Ddx includes viral hepatitis from HIV +/- medication effect (Bactrim).
+LFTs had been chronically elevated but trending down since [**2193**].
+Liver and gallbladder ultrasound showed no focal liver abnormalities and a normal gallbladder on [**7-11**] but gallbladder wall irregularity at the level of the fundus, potentially respresenting HIV cholangiopathy, was noted on [**7-22**].
+CT on [**7-18**] and [**7-25**] identified a small amount of sludge vs. small stones in the gallbladder, but by [**7-27**], there continued to be no convincing ultrasound evidence of acute cholecystitis or biliary ductal dilatation.
+# ELEVATED LIPASE: Lipase was within normal limits at the time of admission but peaked at 389 on [**7-30**] following propofol use in the setting of extubation.
+Given frequently elevated lipase and transaminases with negative work up, further work up was minimized.
+To assess fevers and elevated lipase, an abdominal CT was performed on [**8-5**], which was (prelim read) negative, as per above.
+After call out from MICU, patient no longer eliciting abdominal pain.
+There was a question as to whether his Truvada could be also contributing to the elevated lipase, which should be worked up as outpatient in discussion with Infectious Disease.
+- Patient is to discuss with Dr. [**Last Name (STitle) **] and Dr. [**Last Name (STitle) **] of Infectious Disease regarding his Truvada as a cause of his elevated lipase.
+As per above, there was concern for adrenal insufficiency in the setting of low BP, but patient was ruled out with cortisol stimulation test.
+Subsequent difficulty sleeping.
+Anxiety resulted in difficulty weaning vent and sedation.
+# POOR GI MOTILITY: NG tube with tube feeds were initiated following intubation.
+Imaging revealed that the Dobhoff was not post-pyloric and lipase increased, so TPN was started on [**7-23**] ending tube advancement.
+Given his history of poor GI motility and high tube feed residuals with pre-pyloric feeds, GJ tube was placed on [**8-3**], with tube feeds started on [**8-4**].
+- Continue TPN until can be weaned - Continue Thin Liquids/Regular Solids Diet - Patient can take pills whole with water or in puree - Nutrition Consult and Speech and Swallow Eval when weaning patient off PEG tube - Continue oral care every 8 hours .
+# HIV: New diagnosis of HIV during this admission.
+Viral load 61,600 copies on [**7-8**].
+- Continue TPN until patient can be weaned - Continue Thin Liquids/Regular Solids Diet - Patient can take pills whole with water or in puree - Nutrition Consult and Speech and Swallow Eval when weaning patient off PEG tube - Continue oral care every 8 hours .
+Lactulose 10 gram/15 mL Syrup [**Date Range **]: Thirty (30) ML PO Q12 () as needed for constipation.
+Acetaminophen 160 mg/5 mL Solution [**Hospital1 **]: 325-650 mg PO Q6H (every 6 hours) as needed for fevers or pain.
+Lidocaine HCl 10 mg/mL (1 %) Solution [**Hospital1 **]: 2.5 MLs Injection DAILY (Daily) as needed for hiccups.
+Azithromycin 600 mg Tablet [**Hospital1 **]: Two (2) Tablet PO 1X/WEEK (WE): Infection (MAC) prophylaxis until CD4 count >200.
+Quetiapine 25 mg Tablet [**Hospital1 **]: One (1) Tablet PO HS (at bedtime) as needed for agitation.
+Diazepam 5 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO Q12H (every 12 hours) as needed for anxiety.
+Alum-Mag Hydroxide-Simeth 200-200-20 mg/5 mL Suspension [**Last Name (STitle) **]: 15-30 MLs PO QID (4 times a day) as needed for heartburn.
+Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization [**Last Name (STitle) **]: Four (4) puffs Inhalation Q6H (every 6 hours) as needed for shortness of breath or wheezing.
+Ipratropium Bromide 0.02 % Solution [**Last Name (STitle) **]: Four (4) puffs Inhalation Q6H (every 6 hours) as needed for shortness of breath or wheezing.
+Discharge Disposition: Extended Care  Facility: [**Hospital3 7**] & Rehab Center - [**Hospital1 8**]  Discharge Diagnosis: Primary: Pneumocystis (carinii) jiroveci Pneumonia, HIV/AIDS Secondary: Hypertension   Discharge Condition: Improved.
+Discharge Instructions: -You were admitted with fevers/chills and developed respiratory difficulties.
+You were diagnosed with Pneumocystic jiroveci pneumonia (PJP, formerly known as PCP) and HIV/AIDS.
+You have since been treated for PJP pneumonia and started on HIV/AIDS medications.
+We made the following changes to your medications during this admission: START: For HIV/AIDS * Emtricitabine-Tenofovir  (200-300 mg Tablet) once daily * Darunavir  800 mg daily * Ritonavir  (80 mg/mL Solution) 1.25 mL (100mg) daily For MAC/PJP(PCP)/[**Female First Name (un) 564**] prophylaxis * Azithromycin  1200 mg weekly, every Wednesday: For infection (MAC) prophylaxis until CD4 count >200 * Fluconazole  200 mg Tablet daily for 2 weeks (until [**2196-8-24**]) * Dapsone 100mg daily For oral thrush - * Chlorhexidine Gluconate  (0.12 % Mouthwash)  15 mL oral swish twice daily * Nystatin  (100,000 unit/mL Suspension) 5 mL four times oral swish four times a day For anxiety * Fluoxetine 10 mg Capsule daily * Quetiapine 75mg by NG tube before bedtime daily * Diazepam 7 mg at bedtime * Quetiapine 25 mg Tablet before bed as needed for anxiety * Diazepam 5 mg twice daily as needed for anxiety For hypertension * Clonidine  (0.1 mg/24 hr) patch weekly, every Wednesday For respiratory/breathing	 * Albuterol Sulfate  (0.083% Solution for Nebulization) 4 puffs every 6 hours * Ipratropium Bromide  (0.02 % Solution for Nebulization) 4 puffs every 6 hours For pain * Oxycodone  (5 mg/5 mL Solution) 5 mL every 4 hours as needed for pain * Acetaminophen (liquid) 325-650mg every 6 hours as needed for pain (not to exceed 2 grams daily for liver health) Other meds: * Folic Acid  1 mg Tablet daily * Lansoprazole  (30 mg Tablet, Rapid Dissolve) twice daily for heartburn .
+Also seek medical attention if you develop any new fever, chills, trouble breathing, chest pain, nausea, vomiting or unusual stools.
+[**Location (un) **], [**Numeric Identifier 4774**] ** Please discuss with Dr. [**Last Name (STitle) **] if you continue to have low-grade fevers on Dapsone.
+She has been following you during this admission and you can reach her office at: ([**Telephone/Fax (1) 4170**] ** Please discuss with Dr. [**Last Name (STitle) **] if you continue to have low-grade fevers on Dapsone.

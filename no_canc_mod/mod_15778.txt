@@ -1,0 +1,82 @@
+Admission Date:  [**2162-5-16**]              Discharge Date:   [**2162-6-3**]  Date of Birth:  [**2094-7-3**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 689**] Chief Complaint: Respiratory distress Pulmonary emboli  Major Surgical or Invasive Procedure: Endotrachial intubation and mechanical ventilation Central venous line placement Arterial line placement IVC filter placement PICC line placement   History of Present Illness: This is a 67 year old man with hx Non-Small Cell Lung CA, DVT, recent GIB who is transfered from [**Hospital1 **] [**Location (un) 620**] with dx of PE.
+CTA showed multifocal PE's with RV strain on CT. Heparin gtt started.
+ABG showed alkalosis and hypoxia: 7.56/28/56.
+An echo was performed by cardiology, with RV strain and dilation but no collapse or HD compromise.
+Non-small cell Lung CA s/p resection in [**2157**] 2.
+Hypertension 5.
+Low back pain 6.
+History of alcoholic hepatitis  Social History: He worked as a painting contractor.
+HEENT: NC/AT, PERRL, EOMI without nystagmus, no scleral icterus noted, MMM, no lesions noted in OP Neck: supple, no JVD or carotid bruits appreciated Pulmonary: Lungs CTA bilaterally Cardiac: RRR, nl.
+S1S2, no M/R/G noted Abdomen: soft, NT/ND, normoactive bowel sounds, no masses or organomegaly Extremities: No C/C/E bilaterally, 2+ radial, DP and PT pulses b/l.
+Lymphatics: No cervical, supraclavicular, axillary or inguinal lymphadenopathy.
+Skin: no rashes or lesions noted.
+Able to relate history without difficulty.
+No abnormal movements.
+-cerebellar: No nystagmus, dysarthria, intention or action tremor -DTRs: 2+ biceps, triceps, brachioradialis, patellar and 1+ ankle jerks bilaterally.
+Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded.
+Left ventricular systolic function is hyperdynamic (EF>75%).
+The right ventricular cavity is markedly dilated with severe global free wall hypokinesis.
+There is a trivial/physiologic pericardial effusion.
+There are no echocardiographic signs of tamponade.
+Left ventricular systolic function is hyperdynamic (EF>75%).
+The right ventricular cavity is dilated with depressed free wall contractility.
+The interatrial septum is markedly thickened around the fossa ovale secondary to lipomatous hypertrophy.
+Compared with the findings of the prior study (images reviewed) of [**2162-5-17**], the interatrial septum and right atrium are better visualized, and the mass in the right atrium is now seen clearly to be secondary to lipomatous hypertrophy of the interatrial septum.
+Right popliteal DVT extending to the calf veins.
+Partially occlusive DVT in the left popliteal [**Last Name (LF) 5703**], [**First Name3 (LF) **] be subacute, with extension to the calf veins.
+CT HEAD WITHOUT CONTRAST ([**2162-5-22**]): No evidence for acute hemorrhage or acute transcortical infarction.
+Diffusely fatty liver markedly limits evaluation for focal liver lesion although no large liver lesion is identified.
+No evidence of ascites.
+LOWER EXTREMITY ULTRASOUND ([**2162-5-31**]): Partially occlusive DVT in the left popliteal [**Month/Day/Year 5703**], which has not significantly changed from [**2162-5-16**].
+PLAIN FILMS LEFT HIP AND FEMUR ([**2162-6-1**]): There is severe degenerative change of the lower lumbar spine.
+There are mild degenerative changes of the hip joints.
+No fracture is identified.
+Incidental note is made of a sclerotic lesion in the distal femur of unclear etiology.
+Does the patient have a history of primary malignancy or metastatic disease?
+18.7 cm hematoma in left vastus lateralis muscle.
+Bilateral femoral head avascular necrosis.
+Sclerotic femur diaphysis lesion atypical for metastasis though should be followed radiographically.
+SENSITIVITIES: MIC expressed in MCG/ML                              STAPH AUREUS COAG +                              | CLINDAMYCIN-----------<=0.25 S ERYTHROMYCIN----------<=0.25 S GENTAMICIN------------ <=0.5 S LEVOFLOXACIN----------<=0.12 S OXACILLIN-------------   0.5 S TRIMETHOPRIM/SULFA---- <=0.5 S  -respiratory culture from ET tube ([**2162-5-19**]): SENSITIVITIES: MIC expressed in MCG/ML                              CITROBACTER FREUNDII COMPLEX                              |          AEROMONAS HYDROPHILA                              |          | AMPICILLIN/SULBACTAM--              <=8 S CEFAZOLIN-------------               16 I CEFEPIME--------------   <=1 S CEFTAZIDIME-----------   <=1 S      <=2 S CEFTRIAXONE-----------   <=1 S      <=4 S CEFUROXIME------------                  S CIPROFLOXACIN---------<=0.25 S    <=0.5 S GENTAMICIN------------   <=1 S      <=1 S IMIPENEM--------------              <=1 S LEVOFLOXACIN----------                  S MEROPENEM-------------<=0.25 S          S PIPERACILLIN----------   <=4 S PIPERACILLIN/TAZO-----              <=8 S TOBRAMYCIN------------   <=1 S      <=1 S TRIMETHOPRIM/SULFA----   <=1 S      <=2 S  -fecal culture ([**2162-5-18**]): FECAL CULTURE (Final [**2162-5-21**]):    NO SALMONELLA OR SHIGELLA FOUND.
+CAMPYLOBACTER CULTURE (Final [**2162-5-20**]):    NO CAMPYLOBACTER FOUND.
+OVA + PARASITES (Final [**2162-5-19**]): NO OVA AND PARASITES SEEN.
+FECES POSITIVE FOR C. DIFFICILE TOXIN BY EIA.
+-Blood and urine cultures: NEGATIVE on [**4-13**], [**5-21**], [**5-22**], [**5-25**], [**5-28**]  Brief Hospital Course: A 67 yo man with history of NSCLC s/p resection, EtOH, h/o DVTs on coumadin until one month PTA, recent GIB, now transferred from OSH with respiratory distress and multiple bilateral pulmonary emboli.
+At the time of admission, he was in respiratory distress with evidence of right-heart strain on echo.
+Given lower extremity clot burden, IVC filter was placed.
+On [**5-17**], TPA was administered for suspected right atrial clot (later found to be lipomatous hypertrophy of interatrial septum).
+Although he was tachycardic, he was not diaphoretic or agitated and his tachycardia was felt to be due to PE as above, rather than alcohol withdrawal.
+He did not require benzodiazepines or CIWA scale monitoring.
+# Ventilator associated pneumonia: He began spiking fevers on [**5-19**] with sputum growing GNR and staph (found to be pansensitive Citrobacter freundii, sparse Aeromonas and sparse coag+ staph).
+# Clostridium dificile colitis: This was found on stool studies from [**5-18**].
+# Recent GIB: Anticoagulation had been stopped one month PTA for GIB.
+He was restarted on anticoagulation during this admission for DVT and PE.
+Of note, he was found to be guiaic positive during this admission, with brown stools (non-melanotic, non-bloody).
+Also, of note, he underwent abdominal ultrasound to evaluate extent of liver disease, also to evaluate for portal hypertension and assess risk for varices.
+The ultrasound showed no ascites, a diffusely fatter liver, and mild splenomegaly.
+# Anemia: This is a macrocytic anemia with stabilization of hematocrit in the mid to high 20s.
+His anemia is likely a combination of marrow suppression from acute illness and iron deficiency from recent GIB and poor nutrition.
+Due to persistent oozing from the left nostril, ENT was consulted.
+We felt that this was likely secondary to infection and acute inflammatory response.
+Platelet levels can be followed up as outpatient after his infection has been treated.
+# Left leg pain and hematoma: He worked with physical therapy and complained of leg pain over the lateral aspect of his left thigh.
+On exam there was tenderness over the left lateral quadriceps muscle, with small amount of swelling/induration on left compared to right; there was no clear hematoma or skin discoloration.
+There was concern of extension of DVT versus fracture, given that he said he had fallen on his left leg prior to admission.
+Plain films of the left hip and femur showed sclerotic lesion in the distal femur so MRI was done for further evaluation.
+This showed an 18 cm hematoma in the left lateralis muscle.
+The femoral sclerotic lesion was felt to be atypical for metastases, but radiology has recommended follow-up imaging in four months.
+In addition, vascular was curbsided and felt that the hematoma could be followed clinically.
+We have switched anticoagulation to heparin drip to allow for ease of stopping anticoagulation if the hematoma grows in size.
+Meanwhile, we have outlined the area of induration with marker (measuring 22cm in length and 8cm in width on our exam) and recommended that patient have follow-up imaging with ultrasound in 2 to 3 days to assess for interval change.
+Daily CBC monitoring as well will be important to assess for progression.
+# FEN: He was progressed to normal diet, with ground solids and nectar prethickend liquids.
+Medications on Admission: -Oxycodone-Acetaminophen [**1-15**] TAB PO Q6H:PRN pain -Acetaminophen 325-650 mg PO/NG Q6H:PRN pain, fever -Piperacillin-Tazobactam Na 4.5 g IV Q8H -Bisacodyl 10 mg PO/PR DAILY:PRN Constipation -Enoxaparin Sodium 90 mg SC Q12H -Senna *NF* 8.8 mg/5 mL Oral [**Hospital1 **] PRN constipation -Fludrocortisone Acetate 0.1 mg PO DAILY -FoLIC Acid 1 mg PO/NG DAILY -Thiamine 100 mg PO/NG DAILY -Insulin SC (per Insulin Flowsheet) -Vancomycin 1000 mg IV Q 12H -Ipratropium Bromide Neb 1 NEB IH Q6H -Vancomycin Oral Liquid 125 mg PO Q6H -Lansoprazole Oral Disintegrating Tab 30 mg PO BID -Xopenex *NF* 0.63 mg/3 mL Inhalation q 4hrs prn sob/ wheeze -Miconazole Powder 2% 1 Appl TP QID:PRN rash -traZODONE 25 mg PO ONCE MR1 -Multiple Vitamins Liq.
+Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation Q6H (every 6 hours) as needed for shortness of breath/wheezing.
+Levalbuterol HCl 0.63 mg/3 mL Solution for Nebulization Sig: One (1) ML Inhalation q 4hrs prn () as needed for sob/ wheeze.
+Senna 8.8 mg/5 mL Syrup Sig: 8.8 MLs PO BID PRN () as needed for constipation.
+PO DAILY (Daily) as needed for Constipation.
+Oxymetazoline 0.05 % Aerosol, Spray Sig: Three (3) Spray Nasal [**Hospital1 **] (2 times a day) as needed for nose bleed for 1 days.
+Discharge Disposition: Extended Care  Facility: [**Hospital3 105**] Northeast - [**Location (un) 1110**]  Discharge Diagnosis: PRIMARY DIAGNOSES Extensive bilateral pulmonary emboli Bilateral deep venous thrombi Ventilator-associated pneumonia Clostridium dificile colitis Left lateralis muscle hematoma  SECONDAY DIAGNOSES History of non-small cell lung cancer s/p resection in [**2157**] History of gastrointestinal bleed in setting of supratherapeutic INR Deep venous thrombosis in [**2152**], on coumadin until one month PTA Hypertension History of heavy alcohol use History of alcohol-related hepatitis   Discharge Condition: Vital signs stable.
+You were found to have extensive blood clots in the arteries in the lungs on both sides.
+You were intubated and treated with medicines to thin the blood and prevent new blood clots from forming.
+The hospital course was complicated by development of pneumonia (treated with antibiotics) and bacterial infection in the gut (also treated with antibiotics).
+Please call your doctor or return to the emergency room if you develop chest pain, shortness of breath, abdominal pain or distention, or any other new concerning symptoms.

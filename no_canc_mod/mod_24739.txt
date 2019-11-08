@@ -1,0 +1,44 @@
+Admission Date:  [**2196-10-21**]              Discharge Date:   [**2196-10-24**]  Date of Birth:  [**2118-5-3**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 2704**] Chief Complaint: ST elevation myocardial infarction status post catheterization complicated by groin hematoma  Major Surgical or Invasive Procedure: Cardiac catheterization on [**2196-10-21**]  History of Present Illness: Ms. [**Known lastname 1007**] is 78 year old female with PMH significant for hypercholesterolemia, GERD, and arthritis but no CAD history who presented to an OSH with back pain radiating to L arm and L jaw.
+The patient has a history of upper L back pain, which has worsened in the last 2 weeks.
+She presented to her PCP on the morning of admission and was given [**Doctor First Name **] for symptoms attributed to allergies.
+The pain then increased in intensity over the course of the day and began to radiate to L arm/jaw while the patient was working in her kitchen.
+Pain did not alleviate with rest and she called her son who took her to the [**Hospital3 **] ED.
+At [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], she was noted to have ST elevations in inferior leads with a troponin of 0.55.
+In the cath lab, the patient was noted to have RCA 99% ostial stenosis; this lesion was stented with bare metal stent with good result.
+She developed a large hematoma during the case.
+Following her cath, she went to the CCU chest pain free, hemodynamically stable, but with a large right groin hematoma.
+She does have a large ecchymosis in the right groin and thigh area.
+She is not having problems walking and states that the area seems improved.
+She does not have pain in the right leg.
+HEART- RRR, 2/6 systolic murmur radiating to apex ABD- soft, ND, NT; 4-5 cm midline scar with distorted umbilicus  EXT- warm.
+large R groin ecchymosis covering most of medial thigh and lower abdomen.
+no accompanying bruit.
+- [**10-21**] 19:00 - NSR 90, nl axis, nl intervals, 2 mm STE in II/III c ST elevation III > II.
+Selective coronary angiography of this right dominant system revealed 1 vessel coronary artery disease.
+The LAD has 30% stenosis in its mid-portion.
+The RCA has a 90% ostial steosis with moderate diffuse disease.
+Successful primary PTCA and stenting of the ostial and proximal RCA with a 2.5 BMS post dilated with a 3.0 balloon.
+There was a 20% residual with TIMI III flow in the distal vessel and no angiographic evidence of dissection, embolization or peforation.
+Acute inferior myocardial infarction, managed by primary PCI of the RCA.
+No evidence of AV fistula or pseudoaneurysm.
+No acute pulmonary process identified.
+In particular, no pneumonic infiltrate is identified.
+Minimal scarring at right base noted.
+Lobulated appearance to the aortic arch - - while this could be an artifact of positioning, focal aneurysmal dilatation can also account for this appearance.
+2.There is mild symmetric left ventricular hypertrophy.
+Left ventricular systolic function is hyperdynamic (EF>75%).
+Trace aortic regurgitation is seen.
+5.The mitral valve leaflets are mildly thickened.
+No MR seen.
+6.There is an anterior space which most likely represents a fat pad, though a loculated anterior pericardial effusion cannot be excluded.
+Labs at discharge: WBC 6.4, Hgb 12.1, Hct 34.6 (stable), Platelets 147,000 BMP unremarkable Cholesterol 162, TG 94, HDL 45, LDL 98  Brief Hospital Course: Ms. [**Known lastname 1007**] is a 78 year old female with inferior ST elevation myocardial infarction now status post catheterization complicated by a large right groin hematoma.
+#) Status post inferior STEMI - The patient's RCA was found to be 99% stenosed at catheterization.
+- Her groin hematoma on the day of discharge was stable and not impeding her movement in any way.
+Her hematocrit at discharge was stable, though she did require three units of blood immediately following her catheterization due to falling hematocrit at that time.
+- She was discharged on Toprol XL 50 mg to be taken daily as well as a low-dose ACE inhibitor as she is post myocardial infarction.
+She will have labs drawn on [**Last Name (LF) 2974**], [**10-28**], to assess her electrolytes and renal function.
+#) Right groin hematoma - As above, the area of eccymosis on day of discharge was large but stable.
+There was no evidence of pseudoaneurysm on physical exam or on ultrasound performed on [**10-22**].
+#) Prophylaxis - She was kept on aspirin and plavix but no heparin due to the hematoma.
+Discharge Disposition: Home  Discharge Diagnosis: ST elevation myocardial infarction, status post catheterization with stent placed in the right coronary artery   Discharge Condition: Hemodynamically stable, with stable red blood cell count, and comfortable on room air   Discharge Instructions: Please take all your medications as prescribed.
+Please call your doctor or return to the emergency room should you develop any of the following symptoms: recurrent back pain, chest pain or shortness of breath, bleeding from your catheterization site, increased area of tenderness or firmness in your groin, numbness or tingling of the right leg or foot, bleeding from your gums or blood in your stool or urine, or any other concerns.

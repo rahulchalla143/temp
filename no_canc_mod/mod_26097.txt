@@ -1,0 +1,67 @@
+Admission Date:  [**2172-1-30**]              Discharge Date:   [**2172-2-1**]  Date of Birth:  [**2116-10-3**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 443**] Chief Complaint: chest pain  Major Surgical or Invasive Procedure: Percutaneous Coronary Intervention with 2 drug-eluting stents to Right Coronary Artery  History of Present Illness: 55 year old male with history of Hypertension who presented to ED with 2hrs of sudden onset crushing 10/10 chest pain radiating to left arm while vacuuming at work, also with diaphoresis.
+Second EKG showed ST elevations in leads II, III, avF with reciprocal T wave inversions, and STEMI pager was activated.
+Patient continued to have 10/10 chest pain until end of catheterization procedure.
+Upon arrival to the CCU, the patient was chest pain free with no other symptoms.
+Patient notes that he has been having similar chest pain, though significantly more mild, while in bed resting about 2 nights per week for the past two years.
+He describes the pain as very mild and often radiating to his right arm, slowly increasing in frequency and intensity.
+On review of systems, he denies any prior history of stroke, pulmonary embolism.
+He has had history of GI bleeding [**Month (only) **] [**2169**].
+OTHER PAST MEDICAL HISTORY: GI Bleed ([**2170-10-20**], no transfusions) Gastric Ulcer Diverticulosis Depression Left Inguinal Hernia (needing repair)  Social History: Speaks Portuguese but can understand some English and Spanish.
+Uncle with Acute MI in early 60s.
+Sclera anicteric.
+Conjunctiva were pink, dry mucus membranes NECK: Supple with JVP up to jaw when lying supine w mild reverse trendelenberg.
+LUNGS: No chest wall deformities, scoliosis or kyphosis.
+CTAB, no crackles, wheezes or rhonchi.
+No HSM or tenderness.
+The LMCA had no angiographically apparent disease.
+The LAD had mild diffuse disease but no angiographically significant stenoses.
+The LCx had no angiographically apparent disease but had a small aneurysmal segment in mid-vessel.
+Limited resting hemodynamics demonstrated moderate systemic arterial hypertension with SBP 162 mmHg and DBP 106 mmHg.
+Successful closure of the right femoral arteriotomy site with a Perclose device.
+Acute inferior myocardial infarction.
+Radiology Report	CHEST (PORTABLE AP)	Study Date of [**2172-1-30**] 5:02 PM FINDINGS: The lungs are clear without consolidation or edema.
+The mediastinum demonstrates mild tortuosity of the thoracic aorta.
+No effusion or pneumothorax is noted.
+There is mild gaseous distention of the stomach incidentally noted.
+Mild degenerative disease is seen throughout the thoracic spine.
+No displaced fractures are evident.
+IMPRESSION: No acute pulmonary process.
+[**Known lastname 86758**], [**Known firstname 86759**]       [**Hospital1 18**] [**Numeric Identifier 86760**]Portable TTE (Complete) Done [**2172-1-31**] at 9:24:06 AM      FINAL The left atrium is mildly dilated.
+There is mild regional left ventricular systolic dysfunction with mild hypokinesis of the basal inferior wall.
+The right ventricular cavity is mildly dilated with mild global free wall hypokinesis.
+The ascending aorta is mildly dilated at the sinus level.
+The aortic arch is mildly dilated.
+The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic regurgitation.
+There is no mitral valve prolapse.
+Mild to moderate ([**12-21**]+) mitral regurgitation is seen.
+There is no pericardial effusion.
+IMPRESSION: Very mild regional left ventricular systolic dysfunction c/w CAD.
+Mild-moderate mitral regurgitation with normal valve morphology suggestive of underlying papillary muscle dysfunction.
+Mild thoracic aorta dilation.
+[**2172-1-31**] Transthoracic echo:  The left atrium is mildly dilated.
+There is mild regional left ventricular systolic dysfunction with mild hypokinesis of the basal inferior wall.
+The right ventricular cavity is mildly dilated with mild global free wall hypokinesis.
+The ascending aorta is mildly dilated at the sinus level.
+The aortic arch is mildly dilated.
+The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic regurgitation.
+There is no mitral valve prolapse.
+Mild to moderate ([**12-21**]+) mitral regurgitation is seen.
+There is no pericardial effusion.
+IMPRESSION: Very mild regional left ventricular systolic dysfunction c/w CAD.
+Mild-moderate mitral regurgitation with normal valve morphology suggestive of underlying papillary muscle dysfunction.
+Mild thoracic aorta dilation.
+Brief Hospital Course: 55 year old male with hx of HTN, HLD who presented to ED with 2 hours of substernal crushing 10/10 chest pain and evolving ST elevations.
+# s/p STEMI: Patient had 2 hours of chest pain by time of arrival in ED, continued chest pain through Catheterization until end of procedure, found to have 100% occlusion mid RCA.
+ST elevations in inferior leads resolved after PCI.
+Patient appears to have had unstable angina for the past two years at night while at rest in bed.
+He continued to have some intermittent chest pain immediately post catherization.
+The patient was chest pain free in the 24 hours prior to discharge and had no arrythmias on telemetry in hours 24-48 post-cardiac catherization.
+He did have some runs of VT and transient bradycardia to 40s that were thought secondary to reperfusion.
+Echo showed nearly preserved ejection fraction with some mild posterior hypokinesis.
+He takes lisinopril 40mg [**Hospital1 **] at home, used to take HCTZ but stopped taking it 2-3 months ago because of nocturia and because his Rx ran out.
+# Gastritis: History of GI bleed, no transfusions, in [**2170-10-20**], either from gastric ulcer or from diverticulosis.
+Medications on Admission: Lisinopril 40mg [**Hospital1 **] Aspirin 81mg Omeprazole 20mg Fluoxetine 20mg HCTZ 25mg (stopped taking 3mo ago b/c nocturia x5 and Rx ran out)  Discharge Medications: 1.
+Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*2*   Discharge Disposition: Home  Discharge Diagnosis: Primary Diagnosis: ST Elevation Myocardial Infarction  Secondary Diagnoses: Hypertension   Discharge Condition: Stable.
+Discharge Instructions: Dear Mr. [**Known lastname **], You were admitted to the hospital after a having a heart attack.
+You were taken immediately for a Cardiac Catheterization procedure to place 2 stents into your right coronary artery, where you were found to have complete blockage, which had caused your heart attack.
+Please seek medical attention if you experience any symptoms concerning to you.

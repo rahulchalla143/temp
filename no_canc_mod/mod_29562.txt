@@ -1,0 +1,53 @@
+Admission Date:  [**2174-7-23**]              Discharge Date:   [**2174-7-27**]  Date of Birth:  [**2107-9-11**]             Sex:   F  Service: MEDICINE  Allergies: Gantrisin / Lactose  Attending:[**First Name3 (LF) 30**] Chief Complaint: Fever and mental status changes  Major Surgical or Invasive Procedure: None   History of Present Illness: 66 yo F with PMH of DM1, ESRD on HD, recent septic arthritis s/p wash out on [**2174-7-1**] who recently finished a course of vancomycin for septic joint and flagyl for C.diff who presented on [**2174-7-23**] to the ED with fevers and altered mental status.
+Patient is currently living in NH at [**First Name4 (NamePattern1) 1188**] [**Last Name (NamePattern1) **] and had a fever to 103 at HD.
+She was also drowsy and there was concern for altered mental status.
+She complained of left knee pain and diarrhea (both on going for a while).
+DM type 1 x 35 years.
+Previous admissions for DKA and hypoglycemic episodes.
+Chronic renal failure: Appears [**2-19**] to DM and Cr has been 5 over past few months.
+CAD - NSTEMI [**10-24**] in the setting of hospitalization for DKA,  Nuclear stress test [**8-24**]: P-MIBI, without fixed or reversible defects, normal wall motion.
+Hypertension 5.
+Achalasia 9.
+Carpal Tunnel Syndrome 10.
+Recent femoral head neck fx.
+[**2-19**] trauma in [**1-25**] 11.
+MRSE HD line infection [**1-25**] treated with 3 weeks vancomycin  12. h/o vaginal bleeding with ?
+L knee Corynebacterium septic arthritis?
+HEENT: L eye shut (chronic) No conjunctival pallor.
+NECK: Supple, No LAD, No JVD.
+No thyromegaly.
+R HD tunneled cath, no signs of infection ABD: NABS.
+R fem line, no signs of infection EXT: WWP, 2+ PT, 1+ DP pulses BL.
+SKIN: Stage III sacral decubitus ulcer midline lower back, Stage I decubitus in anal region NEURO: AOx2.
+**FINAL REPORT [**2174-7-26**]**     FECAL CULTURE (Final [**2174-7-26**]):    NO SALMONELLA OR SHIGELLA FOUND.
+CAMPYLOBACTER CULTURE (Final [**2174-7-26**]):    NO CAMPYLOBACTER FOUND.
+NO MICROORGANISMS SEEN.
+10,000-100,000 ORGANISMS/ML.. .
+Blood Culture, Routine (Pending) X2   Brief Hospital Course: 66 yo F with PMH of DM1, ESRD on HD, recent septic arthritis s/p wash out on [**2174-7-1**] who recently finished a course of vancomycin ([**7-23**]) for presumed septic joint and flagyl ([**7-19**]) for C. diff who presented on [**2174-7-23**] to the ED with fevers and altered mental status.
+[**Month/Day (2) 1957**] was consulted to evaluate for continued septic knee as a source of infection.
+She continued to have profuse diarrhea and was considered to have flagyl failure for her C diff.
+The MICU team felt that she was likely septic from urosepsis (pus in her foley- she only makes a small amount of urine given her ESRD).
+ID was consulted in the MICU and she was started on PO vancomycin and IV flagyl for C diff, IV vancomycin for empiric coverage for her knee, and cefepime for her dirty u/a with gram negative bacteria).
+# Sepsis of undetermined origin: Pt had numerous potential sources of infection on admission: most likely [**2-19**] C. diff, treatment failure.
+Although the urinary tract is concerning given her history of pus in the Foley, pt is oliguric (per history only voids once every couple of days) and this may account for the appearance of her urine.
+Furthermore results from the urine culture yielded lactobacillus (native organism) and yeast --although the pt no longer has a Foley in place she was treated with one dose of fluconazole.
+Potential seeding from ?septic L knee, although fluid analysis currently negative for infection --knee exam does not appear to support current septic arthritis and pt has finished her full course of vancomycin.
+Potentially tunneled HD line, although the site has remained free of erythema, fluctuance, drainage or pain --cultures pending.
+Possibly sacral decubitus ulcer stage III.
+On admission the pt received vancomycin PO/IV, flagyl IV and cefepime IV for continue C. diff coverage as well as possible urosepsis (as well as potential source from knee).
+It was felt that the pt only needed treatment for C. diff.
+# Sacral decubitus ulcers: Pt has stage III in the midline of lower back and stage I near the anal verge.
+# Recent L knee ?septic arthritis: Pt is s/p arthrotomy with anterior synovectomy on [**7-1**] for question of septic arthritis.
+Pt's pain was well controlled during the admission.
+Knee had minimal edema, no erythema or effusion.
+No complications with hyperkalemia.
+# Altered mental status: Pt appears to be at baseline mental status now per family.
+Elevated troponins likely [**2-19**] renal failure and recent MICU admission for sepsis.
+No concerning changes on EKG.
+ACEI and BB held secondary to hypotension in the MICU.
+Discussed with family and pt the addition of Celexa --they hope that this will help to motivate the pt to engage with PT more often.
+# PPX: heparin SQ for DVT ppx, PPI per outpatient regimen.
+Discharge Disposition: Extended Care  Facility: [**Hospital3 1186**] - [**Location (un) 538**]  Discharge Diagnosis: Primary: - C. difficile septicemia - Stage III/IV sacral decubitis ulcer  Secondary: End stage renal disease Diabetes mellitus Hypertension Coronary artery disease   Discharge Condition: Stable   Discharge Instructions: You were treated in the hospital for a severe infection of your gastrointestinal (GI) tract.
+You were started on antibiotics in the hospital to treat the infection and you will need to continue these antibiotics as an outpatient.
+There were no other changes made to your medications.
+Please call your doctor or return to the ED if you experience any worsening in symptoms including increasing diarrhea, fever, chills, chest pain, shortness of breath or any other concerning symptoms.

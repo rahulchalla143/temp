@@ -1,0 +1,46 @@
+Admission Date:  [**2130-5-25**]              Discharge Date:   [**2130-5-28**]  Date of Birth:  [**2049-5-14**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 458**] Chief Complaint: Chest Pain  Major Surgical or Invasive Procedure: Cardiac catherization.
+Ms. [**Known lastname 51681**] is an 81 year old woman with no past medical history who presented to the emergency room after 2 hours of chest pain, with radiation to the back.
+In the ED, she was found to be in atrial fibrillation with rapid ventricular response at 122 and hypotensive with ST elevations inferolaterally and in lead I.
+Code STEMI was called, and she was given aspirin and clopidogrel, 1L of IVF (given inferior ST elevations and possible RV infarct), and a heparin bolus; given ongoing chest pain, eptifibatide was also started.
+Given the location of her chest pain and its radiation, an aortogram was performed; it showed no evidence of dissection.
+A right heart cath showed near-equalization of right and left heart filling pressures at 25mm, and cardiac echo showed more than moderate circxumferential pericardial effusion with a dilated RV and no evidence of tamponade.
+She initially required dopamine after intubation, which was subsequently changed to levophed with a hypertensive response, and her rhythm had converted to NSR with frequent APB's.
+Review of systems could not be obtained, but per discussions with the cardiology fellow, she noted only chest pain, cough, and pain with deep inspirations.
+Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.
+No murmurs or rubs appreciated.
+Chest: No chest wall deformities, scoliosis or kyphosis.
+Abd: Soft, nontender, mildly distended, No HSM or tenderness.
+No abdominal bruits.
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+Pertinent Results: EKG demonstrated atrial fibrillation at 120bpm with diffuse ST elevations most notable inferolaterally.
+CXR: Low lung volumes with left retrocardiac opacity, likely a combination of atelectasis and effusion, although evolving infectious process is not excluded.
+TELEMETRY demonstrated: Normal sinus rhythm with notable ST elevations in lead II, frequent PVC's.
+CARDIAC CATH performed on [**2130-5-25**] demonstrated: Referred from ED with mid chest to back pain with slight diffuse ST elevations most prominent inferolaterally.
+Aortography then showed no evidence of dissection.
+RHC then done showing near equalization of right and left heart filling pressures at 25mm.
+Intubated due to continued hypotension, hypoxemia and failure to cooperate.
+Cardiac echo then done showing no more than moderate circumferential pericarfdial effusion with dilated RV and no evidence of tamponade.
+Initially required dopamine, changed at end of procedure to levophed with hypertensive response.
+Plan to continue monitoring in CCU for any evidence of tamponade.
+Most likely seems pericarditis with AF and effusion presently without tamponade.
+Brief Hospital Course: # Pericarditis: The patient was admitted with ST elevations due to pericarditis.
+A cardiac catheterization showed no coronary flow-limiting lesions.
+Given her hypotension was responsive to volume, with an underfilled LV and slightly larger RV on cardiac catheterization, patient was evaluated for pulmonary embolus with CT angiogram, which did not show evidence of PE.
+She was treated with an intravenous heparin drip until both pulmonary embolism and myocardial infarction were ruled out.
+Initially the patient was started on aspirin but this was discontinued after goals of care discussion took place and pt did not want active intervention.
+She had mild symmetric left ventricular hypertrophy.
+The patient was noted to be in paroxysmal atrial fibrillation on [**2130-5-25**], thought to be new onset.
+It was explained that discontinuation of these medications would lead to stroke, heart attack or death.
+# Respiratory failure: The patient was intubated in setting of procedure and significant agitation.
+She was extubated on [**2130-5-26**] without complication.
+# Pulmonary nodules: The patient had pulmonary nodules, the largest measuring 3 mm, noted on CT of her chest completed to rule out a pulmonary embolus.
+She will need follow up of these nodules at 3 months with a repeat CT scan for further evaluation if she should choose so as an outpatient.
+#Mental status: At baseline the patient is alert and oriented to person and place, has very poor short term memory, and is intermittently agitated at home.
+A CT head was done which showed no evidence of intracranial bleed.
+Given the patient and her family's desire to hold all medications, the patient was given no further medications.
+Due to the patient's religious beliefs, she decided - and the son agreed - that she shoul dnot receive any medications or any further interventions.
+They understood that the pt remained at risk for potnetially life-threatening complications.
+Medications on Admission: None  Discharge Disposition: Extended Care  Facility: [**Location (un) 55**] Benevolent  Association  Discharge Diagnosis: Primary diagnosis: - Pericarditis Secondary diagnoses: - Hypotension - Arrhythmia   Discharge Condition: Stable.
+Discharge Instructions: You were admitted for chest pain and low blood pressure.
+Treatment options and goals of care were discussed, and you and your family decided to no pursue any further testing or medical treatment.
+Please contact your doctor or go to the emergency room if you desire any treatment for pain, shortness of breath, bleeding, chest pain, or other concerning symptoms you wish to address.

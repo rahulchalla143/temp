@@ -1,0 +1,39 @@
+Admission Date:  [**2193-6-20**]              Discharge Date:   [**2193-7-10**]  Date of Birth:  [**2170-4-17**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 5810**] Chief Complaint: agitation  Major Surgical or Invasive Procedure: MICU intubation/sedation for MRI (agitation)   History of Present Illness: 23 YO M with bipolar disorder and recent admission for traumatic subdural and subarachnoid hematomas as well as multiple traumatic orthopaedic fractures ([**5-30**]) now presenting with increasing agitation and insomnia from rehab.
+Since the accident, the patient has had alot of frontal behavior.
+His agitation has progressed and [**Hospital1 **] is unable to care for him further.
+Patient was given haldol 5 IV with minimal effect then switched to geodon 10 * 3 with good effect.
+Given that he sounded rhoncorous on exam, a CXR was done and was without acute cardiopulm change.
+Past Medical History: Right subdural hematoma, a small right subarachnoid hematoma, left calvarium fracture, left sphenoid fracture, left mandibular  fossa fracture, multiple left rib fractures, and a left clavicle fracture with small PTX all managed conservatively after unhelmeted motorcycle accident.
+Family History: Depression in mother and others on mother's side of family  Physical Exam: General: pacing the room, anxious-appearing, no acute distress HEENT: Sclera anicteric, MMM, oropharynx clear Neck: supple, JVP not elevated, no LAD Lungs: Clear to auscultation bilaterally, no wheezes, rales, rhonchi CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops Abdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly, G-tube in place without surrounding erythema or signs of infection GU: no foley Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema  Pertinent Results: Labs on Admission: [**2193-6-20**] 05:00PM BLOOD WBC-9.5 RBC-3.70* Hgb-11.6* Hct-32.9* MCV-89 MCH-31.4 MCHC-35.3* RDW-13.3 Plt Ct-515* [**2193-6-20**] 05:00PM BLOOD Neuts-64.6 Lymphs-24.6 Monos-7.1 Eos-2.8 Baso-0.8 [**2193-6-21**] 03:45AM BLOOD PT-13.6* PTT-26.9 INR(PT)-1.2* [**2193-6-20**] 05:00PM BLOOD Glucose-97 UreaN-10 Creat-0.7 Na-137 K-6.2* Cl-100 HCO3-27 AnGap-16 [**2193-6-21**] 03:45AM BLOOD ALT-22 AST-21 CK(CPK)-129 AlkPhos-356* TotBili-0.5 [**2193-6-21**] 03:45AM BLOOD Albumin-3.3* Calcium-8.8 Phos-5.0* Mg-2.0 [**2193-6-21**] 03:45AM BLOOD Albumin-3.3* Calcium-8.8 Phos-5.0* Mg-2.0 [**2193-6-22**] 02:46AM BLOOD calTIBC-202* VitB12-722 Ferritn-200 TRF-155* [**2193-6-24**] 05:35AM BLOOD Triglyc-126 [**2193-6-21**] 03:45AM BLOOD TSH-1.0 [**2193-6-23**] 10:33AM BLOOD CRP-92.4* [**2193-6-23**] 10:33AM BLOOD HIV Ab-NEGATIVE  .
+Labs on Discharge:  [**2193-7-8**] 03:25PM BLOOD WBC-9.0 RBC-4.39* Hgb-13.2* Hct-40.8 MCV-93 MCH-30.1 MCHC-32.4 RDW-15.9* Plt Ct-431 [**2193-7-8**] 03:25PM BLOOD Plt Ct-431  Micro: [**2193-6-21**]: RPR negative [**2193-6-22**] sputum: oral flora [**2193-6-22**]: urine negative [**2193-6-22**]: blood cultures NGTD [**2193-6-23**]: BAL with coag + staph .
+MR [**Name13 (STitle) 430**] [**6-21**]: 1.Right frontal, temporal, and parietal subdural hematoma.
+High signal intensity is demonstrated in the left opercular region on the FLAIR sequence, likely related with brain edema and contusions with possible hemorrhagic transformation and underlying subarachnoid hemorrhage with moderate restricted diffusion.
+Multiple foci of magnetic susceptibility are noted adjacent to the subdural collection and also in the left cerebral hemisphere as described above, likely consistent with microhemorrhages, possible slow flow is demonstrated in the right insular region, possibly related with brain edema.
+Unchanged left temporal bone fracture with opacities in the left mastoid air cells.
+Minimal mucosal thickening is noted on the left sphenoid sinus.
+There is also mucosal thickening and fluid in the left petrous apex, related with the previously described left temporal bone fracture.
+Left lower lobe consolidation concerning for pneumonia, particularly as there is only mild to moderate volume loss, with associated small left pleural effusion.
+Small pericardial effusion layering dependently, posteriorly.
+Interval callus formation surrounding the multiple left-sided rib fractures and left scapular fracture.
+Significant region of hypodensity in the right temporoparietal region, concerning for acute/subacute infarction, new in appearance from examination of [**2193-6-20**]; evolving (non-hemorrhagic) contusion is an additional diagnostic consideration.
+Stable right subdural hygroma with stable degree of gyral effacement and leftward shift of the midline structures.
+Hypodensity in the right frontal lobe, compatible with continued evolution of contusion.
+Complex left calvarial and central skull base fractures, better- characterized on the CTA of [**2193-5-30**].
+No valvular pathology or pathologic flow identified.
+No pericardial effusion  Brief Hospital Course: Mr. [**Known lastname **] is a 23 year old man with a history of bipolar disorder and traumatic brain injury who presented from [**Hospital **] Hospital with agitation and insomnia.
+The last week in-house he slept well with no behavior issues.
+#[**Name (NI) 19278**] pt developed fevers in the MICU.
+Neurology recommended evaluation for HSV encephalitis.
+He was intubated for MRI which did not show evidence of temporal lobe enhancement or evidence of HSV.
+While intubated in the MICU, he underwent bronchoscopy which showed 1000 colonies of coag + staph aureus.
+He had no other respiratory symptoms and no cough.
+#Tremor:  Pt had a noticable tremor of the body and arms, which was worse while he was awake.
+He leaning backward, and there was a concern for a change in his neuro-status.
+Head CT was obtained which showed an infarct in his right parieto-occipital lobe, in addition to evolution of his contusion in the right frontal lobe.
+# Cardiac: He was noted to have mild ST segment elevation and PR segment depression on ECG.
+He underwent TTE to evaluate for pericarditis which was normal.
+Acetaminophen 650 mg Tablet Sig: 1-2 Tablets PO every six (6) hours as needed for fever or pain.
+PO DAILY (Daily) as needed for Constipation.
+Senna 8.6 mg Tablet Sig: 1-2 Tablets PO BID (2 times a day) as needed for Constipation.
+(this may be switched to Seroquel 100mg by mouth at bedtime after 2 nights from discharge)   Discharge Disposition: Extended Care  Facility: [**Hospital6 979**] - [**Location (un) 246**]  Discharge Diagnosis: Agitation Insomnia  Discharge Condition: Mental Status: Confused - sometimes.
+Discharge Instructions: Mr. [**Known lastname **],  You were admitted to the hospital from your rehab because of increased agitation and difficulty sleeping.

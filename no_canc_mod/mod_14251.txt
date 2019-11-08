@@ -1,0 +1,61 @@
+Admission Date:  [**2196-7-22**]              Discharge Date:   [**2196-7-27**]  Date of Birth:  [**2118-3-24**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 2610**] Chief Complaint: fever  Major Surgical or Invasive Procedure: none  History of Present Illness: Ms. [**Known lastname **] is a 78 y/o with h/o Raynauds, [**Hospital **] transfered from [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 4117**] for management of fever and SOB with positive smear for Babesioses.
+Within days of returning pt had chills, fevers, and general malaise.
+Presentation felt consistent with influenza.
+Pt had resolution of her fevers and partial improvement in fatigue over the next week, but reports chronic malaise.
+Then last weekend had return of fevers to 101.
+ON [**7-17**] also had intermittant sharp right mid back pain.
+Felt likely viral illness.
+Started on doxycycline 100mg [**Hospital1 **] for potential lympe pericarditis causing CP.
+On [**7-20**] pt had fever > 102 and presented to [**Hospital3 4107**].
+At [**Name (NI) **] pt had smear Positive for babesiosis.
+Received "gentle" IVF for fevers and developed hypoxia.
+No blood transfusion given.
+No night sweats, recent weight loss or gain.
+Denies headache, sinus tenderness, rhinorrhea or congestion.
++ mild SOB which pt compares to nasal congestion.
++ right posterior back pain, last episode prior to admit to [**Hospital1 **].
+Denied nausea, vomiting, diarrhea, constipation or abdominal pain.
+No recent change in bowel or bladder habits.
+Denied arthralgias or myalgias.
+Past Medical History: Osteoarthritis Osteopenia Raynauds syndrone seasonal allergies insomia s/p tonsillectomy s/p mastoidectomy bilaterally   Social History: Lives in [**Hospital1 **] in 2 apt house.
+Family History: Notable for heart disease and arthritis.
+Physical Exam: Vitals: T 102.3 P  86 BP 134/55 R 20 O2 sat 95 3LNC General: Alert, oriented, no acute distress HEENT: Sclera anicteric, MMM, oropharynx clear Neck: supple, JVP 5cm above clavicle, no LAD Lungs: Crackles BL to upper lung fields with decreased BS on bases.
+no wheezes or  ronchi CV: Regular rate and rhythm, normal S1 + S2, 2/6 SEM, LUSB, rubs, gallops Abdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis.
+There are new bibasilar opacities, which could represent a combination of infection, aspiration, or atelectasis with pleural effusion.
+There is no pneumothorax.
+[**2196-7-23**] TTE Echo: The left atrium is mildly dilated.
+There is no left ventricular outflow obstruction at rest or with Valsalva.
+There is no ventricular septal defect.
+The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present.
+Mild to moderate ([**1-8**]+) aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+There is no mitral valve prolapse.
+Mild (1+) mitral regurgitation is seen.
+There is moderate pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+Compared with the findings of the prior report (images unavailable for review) of [**2190-10-20**], the aortic regurgitation may be slightly increased; otherwise no obvious change.
+[**2196-7-25**] CXR: There is significant interval improvement seen as decrease in pulmonary edema, improvement of the bilateral basal aeration and decrease in still present small bilateral pleural effusions.
+There are no new areas of consolidation.
+There is no mediastinal widening with stable appearance of the cardiac silhouette which is mildly enlarged.
+There is no pneumothorax.
+DISCHARGE LABS (722/09): BLOOD WBC-4.3 RBC-3.14* Hgb-9.1* Hct-27.4* MCV-87 MCH-29.1 MCHC-33.3 RDW-15.9* Plt Ct-189 Glucose-102 UreaN-13 Creat-0.9 Na-131* K-4.6 Cl-99 HCO3-24 AnGap-13 03:20PM BLOOD Na-132* Calcium-8.8 Phos-4.8* Mg-2.1  Brief Hospital Course: Ms. [**Known lastname **] is a 78 y/o with Raynaud's, no significant heart or lung history who presented from [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) **] with intermittent fevers and fatigue for 3 weeks and parasite smear + for babesiosis and SOB.
+# Fevers, malaise: The patient had a parasite smear at [**Hospital1 **] positive for babesiosis.
+Fatigue and fevers were consistent with Babesiosis, as was recent tick exposure.
+New onset anemia and thrombocytopenia were also consistent.
+The patient was treated with Atovaquone and Azithro for Babesiosis.
+She was also treated with Doxycycline for possibly Lyme disease - it was continued when her Lyme titer came back positive.
+The patient likely had flash pulmonary edema, given her lung findings, elevated JVP, h/o valvulopathy, and new onset arrthymia.
+ECHO showed moderate aortic regurgitation.
+ARDS was possible in the setting of Babesiosis, but unlikely since the patient had other signs of heart failure and had minimal oxygen requirement.
+When the patient was transferred from the MICU to the floor, she no longer had SOB and did not require oxygen.
+Her exam was consistent with hypervolemic hyponateremia.
+# PAF: The patient had new onset Afib [**7-21**] and spontaneously converted back to NSR.
+She was started on Lovenox in the MICU, but it was discontinued since she developed afib in the setting of an infection and spontaneously converted back to NSR.
+On transfer to the floor, the patient was back in atrial fibrillation with RVR, HR 130-140s.
+#  Anemia: The patient had a low HCT during her hospitalization.
+There was no obvious GI bleed.
+Disp:*28 Capsule(s)* Refills:*0*   Discharge Disposition: Home With Service  Facility: [**Hospital3 **] VNA  Discharge Diagnosis: Primary diagnoses Babesiosis Lyme disease Atrial fibrillation  Secondary Diagnoses Anemia Pulmonary edema   Discharge Condition: Stable, improved, afebrile, normal sinus rhythm   Discharge Instructions: You were treated in the hospital for Babesiosis and Lyme disease, which are infections that were in your blood.
+You were continued on Azithromycin and Atovaquone to treat Babesiosis and Doxycycline to treat Lyme disease.
+The Babesiosis has caused you to have a low blood count, also known as anemia, but this has been stable for several days prior to discharge.
+You were having trouble breathing when you were admitted, which was due to fluid in your lungs.
+You were also found to have an abnormal heart rhythm, called atrial fibrillation, likely due to the infections.

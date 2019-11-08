@@ -1,0 +1,47 @@
+Admission Date:  [**2170-10-23**]              Discharge Date:   [**2170-11-2**]   Service: MEDICINE  Allergies: Coumadin / Xanax / Morphine  Attending:[**Last Name (NamePattern1) 1167**] Chief Complaint: Lower extremity edema  Major Surgical or Invasive Procedure: None.
+History of Present Illness: Patient is a [**Age over 90 **] yo man with h/o CAD, CHF (EF of 25-30% per report in [**2168**]), who presents with a 2 week history of worsening lower extremity edema.
+At this time, the patient developed progressive lower extremity edema, DOE, and fatigue, and presented to [**Hospital1 18**]-[**Location (un) 620**] on [**9-7**].
+Two weeks later, the patient again presented to OSH with a similar presentation and was again diuresed and returned home.
+The patient also denies dietary indiscretion, but does admit to eating quite a lot of soup at home.
+On review of systems, the patient denies he denies any prior history of deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis.
+He denies recent fevers, chills or rigors.
+He denies exertional buttock or calf pain, chest pain, paroxysmal nocturnal dyspnea, orthopnea, palpitations, syncope or presyncope.
+ASSESSMENT AND PLAN:  Patient is a [**Age over 90 **] yo man with h/o CAD, CHF (EF 20%), and multiple admissions recently for lower extremity edema, who presents with a 2-week history of lower extremity edema.
+On physical exam, the patient has 4+ pitting edema up to his hips bilaterally, scrotal edema, and elevated JVP.
+The patient is most likely having a CHF exacerbation secondary to likely dietary indiscretion v. worsening cardiac function s/p MI v. medication non-compliance.
+It appears that patient's acute on chronic renal failure is most likely a pre-renal etiology in the setting of CHF and poor forward flow v. obstruction v. ATN/AIN.
+- Lasix 60 mg IV now and continue with plan for CHF as outlined above  - Send urine Na, Cr, and Urea in light of diuretic use to calculate FeUrea  - Continue to trend Cr and UOP .
+He is not currently having any symptoms of chest pain.
+Cardiac enzymes were elevated in the ED, though they appear to be at his baseline (0.10) and the patient does not have any significant ECG changes on admission.
+The patient's troponins are most likely elevated in the setting of acute renal failure.
+[**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 11622**], PGY-1, x[**Pager number 21853**]   Past Medical History: h/o CVA CHF (EF 25-30%) Atrial fibrillation (refuses anticoagulation) Gout Hypothyroidism (refuses hormone replacement) Left foot drop s/p lumbar disc fusions AAA (infrarenal, 4 cm) h/o vertigo s/p cataract surgery Pacemaker/ICD, placed at [**Hospital1 18**] in [**2168**].
+Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.
+No xanthalesma.
+No rubs, murmurs, or gallops.
+Chest: No chest wall deformities, scoliosis or kyphosis.
+CTAB, no crackles, wheezes or rhonchi.
+No HSM or tenderness.
+Ext: 4+ peripheral edema to hips.
+Dusky skin on feet bilaterally.
+Swelling in L foot > R.  Heberden and Bouchard's nodes in fingers bilaterally.
+Skin: No ulcers, scars, or xanthomas.
+CXR ([**10-23**]): Cardiomegaly, small bilateral pleural effusions.
+No overt CHF or evidence of pneumonia.
+ECHO ([**10-24**]): Moderate symmetric LVH with severe global LV hypokinesis and diastolic dysfunction.
+Mild to moderate mitral and moderate to severe tricuspid regurgitation.
+There is at least mild PA hypertension (may be underestimated due to severity of TR).
+Findings may be due to infiltrative disease.
+[**2170-11-2**] 07:15AM BLOOD WBC-4.6 RBC-3.51* Hgb-11.0* Hct-32.5* MCV-93 MCH-31.2 MCHC-33.7 RDW-19.5* Plt Ct-246 [**2170-11-2**] 07:15AM BLOOD Plt Ct-246 [**2170-11-2**] 07:15AM BLOOD PT-14.9* PTT-32.2 INR(PT)-1.3* [**2170-11-2**] 07:15AM BLOOD Glucose-79 UreaN-61* Creat-1.8* Na-138 K-4.0 Cl-99 HCO3-33* AnGap-10 [**2170-11-2**] 07:15AM BLOOD Calcium-9.5 Phos-3.4 Mg-2.2 [**2170-10-31**] 06:25AM BLOOD Digoxin-1.4  Brief Hospital Course: Patient is a [**Age over 90 **] yo man with h/o CAD, CHF (EF 20%), and multiple admissions recently for lower extremity edema, who presents with a 2-week history of lower extremity edema.
+Congestive Heart Failure: The patient has a h/o CHF, with an EF of 20%.
+He also had an ECHO performed, which did not show any evidence of interval change from his prior ECHO in [**2170-6-22**].
+The patient became very hypotensive with SBP to the 70s with this intervention, and he developed altered mental status.
+The patient's lower extremity edema had decreased on this admission, and he was set up with a follow-up appointment with Dr. [**First Name (STitle) 437**].
+It was thought that patient's acute on chronic renal failure was most likely a pre-renal etiology in the setting of CHF and poor forward flow.
+The patient's Cr, however, increased again in the setting of more aggressive diuresis but was decreasing at the time of discharge.
+He was not having any symptoms of chest pain at the time of admission.
+Cardiac enzymes were elevated in the ED, though they appeared to be at his baseline (0.10) and the patient did not have any significant ECG changes on admission.
+The patient's troponins were most likely elevated in the setting of acute renal failure.
+He did not have any acute events during this admission.
+Disp:*15 Tablet(s)* Refills:*2*   Discharge Disposition: Home With Service  Facility: [**Company 1519**]  Discharge Diagnosis: Primary: Systolic Congestive Heart Failure Acute on Chronic Renal Failure  Secondary: Gout   Discharge Condition: Good.
+In the process of doing this, your blood pressure dropped dangerously low, and you became very confused.
+Please return to the ED or your healthcare provider if you experience shortness of breath, chest pain, fatigue, confusion, increasing lower extremity swelling, fevers, chills, or any other concerning symptoms.

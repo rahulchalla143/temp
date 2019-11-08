@@ -1,0 +1,75 @@
+Admission Date:  [**2183-8-13**]              Discharge Date:   [**2183-8-16**]  Date of Birth:  [**2132-9-4**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 106**] Chief Complaint: transferred from [**Hospital1 **] [**Location (un) **] with hypertensive emergency  Major Surgical or Invasive Procedure: Cardiac catheterization  History of Present Illness: 50 year old male with no medical care in over 20 years.
+Patient presented to Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 84493**] office yesterday ([**2183-8-11**]) to establish primary care and was noted to have an elevated BP 180/120 and tachycardia 120.
+Cath demonstrated clean coronaries, however did show elevated filling pressures, pulmonary hypertension and low CO.
+Patient was hypertensive in cath lab and started on Nitroglycerin and Nitropresside.
+Patient was admitted to CCU for further management of hypertensive urgency and heart failure.
+Patient reports shortness of breath of one year duration, however worsened in the past month.
+Patient becomes SOB walking several yards, prior he was able to walk a 18-hole golf course.
+1 month ago patient describes malaise, weakness, fatigue, increased urination and diarrhea for 1 week duration.
+Patient denies PND or lower extremity edema.
+Denies chest pain, but does complain of intermittent epigastric discomfort and palpitations.
+Patient unaware of an history of HTN or high cholesterol.
+On review of systems, he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.
+He denies recent fevers, chills or rigors.
+He denies exertional buttock or calf pain.
+Mother and 3 sisters no cardiac history.
+Physical Exam: GENERAL: Overweight gentleman in no acute distress.
+Sclera anicteric.
+Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.
+No xanthalesma.
+No thrills, lifts.
+LUNGS: Crackles at posterior bases.
+No HSM or tenderness.
+No abdominial bruits.
+EXTREMITIES: 1+ pitting edema to mid calves.
+No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES: Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+ Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+  Exam on discharge: GENERAL: Overweight gentleman in no acute distress.
+Sclera anicteric.
+Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.
+No xanthalesma.
+No thrills, lifts.
+No HSM or tenderness.
+No abdominial bruits.
+EXTREMITIES: 1+ pitting edema to mid calves.
+No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+Selective angiography in this right dominant system revealed no angiographically significant disease.
+The LAD, Cx and RCA had mild diffuse disease.
+Resting hemodynamics revealed elevated right and left sided filling pressures with RVEDP of 24mm Hg and LVEDP of 46mm Hg.
+There was severe systemic systolic and diastolic hypertension with SBP of 169/125mm Hg.
+There was no transaortic valve gradient on pullback from LV to the aorta.
+Elevated right and left sided filling pressures.
+Diuresis, blood pressure control and risk factor modification.
+No signs of fluid overload.
+Leftward tracheal deviation concerning for superior mediastinal mass; further workup recommended if clinically warranted.
+Tracheal deviation seen radiographically is secondary to heterogeneous enlargement of the right thyroid, most likely goiter.
+However, thyroid ultrasound may be considered for further evaluation to exclude neoplasm arising in a goiter if not previously evaluated.
+Right paratracheal rounded hypoattenuating structure is more likely to represent a congenital cystic structure (i.e.
+small bronchial cyst) than a lymph node.
+Small pericardial effusion.
+Bilateral very small pleural effusions, accompanied by mild hydrostatic edema.
+On Discharge: [**2183-8-16**] 06:00AM BLOOD Glucose-98 UreaN-20 Creat-1.4* Na-142 K-4.1 Cl-106 HCO3-28 AnGap-12 [**2183-8-16**] 06:00AM BLOOD Calcium-8.5 Phos-4.0 Mg-2.1  Brief Hospital Course: PT NEEDS FOLLOW UP FOR THYROID MASS EVALUATED BY CT ON [**2183-8-15**]!!!
+50yo overweight M no [**Hospital **] transferred from OSH with hypertensive emergency with systolic HF on ECHO now s/p cath with clean arteries.
+# PUMP: The patient presented subacutely with systolic heart failure with an EF of 15-20% and mild global hypokinesis.
+Mildly dilated LV cavity with moderate LVH.
+Likely dilated cardiomyopathy with unclear etiology - most likely [**12-30**] hypertension vs. alcohol.
+Ischemia unlikely as cath showed mild diffuse disease with elevated left and right sided diastolic filling pressures but no focal lesions.
+A low salt diet was explained as well as monitoring of weight changes.
+# CORONARIES: Cath showed mild diffuse disease with no focal lesions of note.
+# HYPERTENSION: The patient was admitted with hypertensive emergency given his systolic HF.
+Cr was mildly elevated but stable.
+No renal artery stenosis seen on cath.
+Most likely etiology is primary HTN confounded by possible OSA and obesity.
+# LEUKOCYTOSIS: Mild left shift.
+The patient had no symptoms to suggest infection and WBC trended down during admission.
+# ANTERIOR NECK MASS: First seen on CXR.
+CT neck showed tracheal deviation likely secondary to heterogeneous enlargement of the right thyroid, most likely goiter.
+However, thyroid ultrasound may be considered for further evaluation to exclude neoplasm arising in a goiter if not previously evaluated.
+Right paratracheal rounded hypoattenuating structure is more likely to represent a congenital cystic structure (i.e.
+small bronchial cyst) than a lymph node.
+Disp:*30 Tablet(s)* Refills:*2*   Discharge Disposition: Home  Discharge Diagnosis: Primary Diagnoses: Hypertensive emergency Systolic heart failure  Secondary diagnoses: Congenital cystic paratracheal neck structure Goiter with heterogeneous thyroid enlargement   Discharge Condition: stable  Discharge Instructions: You were admitted to [**Hospital1 18**] [**Location (un) 86**] from [**Hospital1 **] [**Location (un) 620**] after an ultrasound of your heart showed that it had a weak pumping function.
+A cardiac catheterization was performed, which showed you did not have any significant blockages in the arteries around your heart.
+On imaging of your chest we also noticed a mass along the right side of your trachea that likely represents a congenital cyst.
+[**Last Name (STitle) 8430**], or 911 if you develop sudden shortness of breath, shortness of breath at night, increasing leg swelling, chest pain/pressure, lightheadedness, fevers, chills, or any other concerning medical symptoms.
+Followup Instructions: PATIENT NEEDS FOLLOW UP FOR THYROID MASS FOUND ON CT of [**2183-8-15**]!

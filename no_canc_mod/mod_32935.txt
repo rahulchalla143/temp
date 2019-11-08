@@ -1,0 +1,66 @@
+Admission Date:  [**2101-8-17**]              Discharge Date:   [**2101-9-8**]  Date of Birth:  [**2034-10-10**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**Last Name (NamePattern4) 290**] Chief Complaint: melanotic stool  Major Surgical or Invasive Procedure: intubation central venous line placement arterial line placement  History of Present Illness: Mr. [**Known lastname 60517**] is a 66 y.o.
+Male with a history of hepatic sarcoidosis, ascites, ?cirrhosis, Grade I varicies, pulmonary sarcoidosis, s/p recent hospitalization for melena requiring PRBC transfusion presents for a TIPs evaluation.
+Pt resides in [**Location (un) 3844**] and last week noted 3 days of Melena, as well as general fatigue and weakness.
+Given that he was just started on Iron supplements he decided not to come into the hospital immediately, however after he noted some epigastric pain on Satruday as well as a low grade temp his wife decided to take him to the hospital.
+Per the outside hospital notes that were faxed, on arrival to the ED he was noted to have guaiac positive stool with no gross frank blood.
+The upper endoscopy showed no gastric or esophageal varicies but did show bleeding of the antrum as well as some of the gastric body which was thought to be from gastric antral portal hypertensive gastropathy.
+His bleeding was treated with Argon plasma coagulation, and was thought to be non-hemodynamically significant rectifiable only by liver transplant or TIPs procedure.
+Following an appropriate reposnse in his Hct from 27->32 pt was discharged with GI recommendation of PPI therapy, follow up with his GI doctor [**First Name8 (NamePattern2) **] [**Last Name (Titles) 86**] and periodic transfusions.
+His upper endoscopy on [**2101-7-10**] at [**Hospital1 18**] for screening purposes during a hospitalization for abdominal pain.
+At the time it showed only Grade 1 Varicies and the same gastric portal hypertensive gastropathy.
+The possibility of a TIPs was discussed with Dr. [**Last Name (STitle) 696**] which per his note was not preferred given pt's cardiac work up showing ejection of 45% and reversible perfusion defects on stress MIBI.
+After this finding Cardiology were consulted an pt was felt to be at high risk for bleeding given his gastropathy and the need for antiplatelet therapy during catherization.
+Currently pt denies any fevers, chills, congestion, sore throat, cough, shortness of breath, chest pain.
+He does have some abdominal discomfort with his hernia around the umbilical region.
+Past Medical History: - [**Last Name (STitle) 7816**]-[**Location (un) **] ([**2099**]), trigger apparently a viral URI; s/p tracheostomy, PEG, now reversed; course complicated by MSSA ventilator-associated pneumonia, C difficile colitis, and NSTEMI - sarcoidosis, with biopsy of a mediastinal lymph node demonstrating noncaseating granulomata and liver biopsy demonstrating noncaseating granulomata, nodular regeneration, and positive reticulin staining c/w sarcoidosis of the liver - s/p ventral hernia repair ([**3-/2101**]) - T&A as an adolescent - grade II varices in the distal esophagus, - Duodenitis - Portal hyprtensive gastropathy, - 10 mm ulcer in the antrum, anterior wall.
+seen on [**5-17**] EGD - BPH - CAD  Social History: Lives in [**Location (un) 3844**] with wife, has 3 adult children.
+Family History: Mother died of emphysema in 70s, father died of sudden heart attack at age 47 while refereeing a high school football game.
+ABDOMEN: Normoactive BS x 4, distended with +fluid wave.
+Abdominal hernias noted, pt displays mild discomfort with palpation of umbilical hernia, hernias are easily reducible on examination.
+Rectal: Stool noted in vault, no hemorrhoids palpated.
+EXTREMITIES: No edema noted, no asterixis noted.
+Pertinent Results: LABS ON ADMISSION: [**2101-8-17**] 11:35PM BLOOD WBC-11.0# RBC-3.80*# Hgb-11.5*# Hct-34.4*# MCV-91 MCH-30.4 MCHC-33.6 RDW-17.9* Plt Ct-136* [**2101-8-17**] 11:35PM BLOOD Neuts-82.2* Lymphs-9.9* Monos-5.7 Eos-1.6 Baso-0.5 [**2101-8-17**] 11:35PM BLOOD PT-15.4* PTT-28.9 INR(PT)-1.4* [**2101-8-30**] 05:39AM BLOOD Fibrino-218 [**2101-8-17**] 11:35PM BLOOD Glucose-103 UreaN-48* Creat-1.8* Na-136 K-4.7 Cl-110* HCO3-19* AnGap-12 [**2101-8-17**] 11:35PM BLOOD ALT-24 AST-35 AlkPhos-161* TotBili-2.6* [**2101-8-17**] 11:35PM BLOOD Albumin-2.4* Calcium-8.5 Phos-3.0 Mg-1.9  TROPONIN TREND:  [**2101-8-30**] 01:14AM BLOOD CK-MB-NotDone cTropnT-0.16* [**2101-8-30**] 05:39AM BLOOD CK-MB-NotDone cTropnT-0.18* [**2101-8-30**] 12:25PM BLOOD CK-MB-NotDone cTropnT-0.22* [**2101-8-30**] 10:05PM BLOOD CK-MB-NotDone cTropnT-0.30* [**2101-8-31**] 04:11AM BLOOD CK-MB-NotDone cTropnT-0.28* [**2101-8-31**] 03:08PM BLOOD CK-MB-5 cTropnT-0.28*  Brief Hospital Course: Discharge Summary per Floor Team  # Portal Hypertensive Gastropathy and associated melena - Mr. [**Known lastname 60517**] was admitted to [**Hospital1 18**] after discharge from OSH in New [**Location (un) **] for possible TIPS procedure due to documented portal hypertensive gastropathy with chronic oozing requiring multiple admissions and blood products.
+After 2 days of admission, patient had a large melanotic bowel movement.
+Due to history of portal hypertensive gastropathy documented at [**Hospital1 18**] and recent EGD at OSH, repeat EGD was not done.
+After consulting cardiology, decision was made to undergo TIPS without prior cardiac catheterization.
+During this time patient continued to have melanotic stools.
+Nadolol was discontinued on day 6 of admission due to heart rate in the low 60's so as to not mask tachycardia in setting of possible bleed.
+Renal failure improved, however TIPS was postponed again due to diagnosis of SBP.
+# Abdominal Pain - Mr. [**Known lastname 60517**] had abdominal pain on presentation to [**Hospital1 18**].
+Patient has chronic pain at baseline, but stated it was an acute worsening.
+Ventral hernia was examined and determined to be reducable without pain.
+Abdominal ultrasound on admission showed cirrhotic liver, moderate-to-large ascites and patent hepatic vasculature.
+There was concern for possible obstruction after no bowel movements for first 2 days, but KUB did not support this diagnosis.
+Abdominal pain was also noted to be associated with nausea and emesis, tube feeds were held with some resolution.
+Patient did have non-bloody emesis x 2.
+On day 9 of admission, paracentesis was repeated which was positive for SBP with neutrophil count of ~1700 when corrected for blood from traumatic introduction of needle.
+# SBP: On day 9, patient was noted to have elevated white count and continued abdominal pain.
+Patient was afebrile and hemodynamically stable.
+After less than 24 hours of treatment with Ceftriaxone, white blood cell count continued to increase and patient looked clinically worse on exam with increased somnelance and diaphoresis.
+Patient showed imrpovement with change of antibiotics with resulting decrease in white blood cell count.
+IV Flagyl was added for anaerobic coverage.
+On [**8-29**] days after diagnosis of SBP, patient had continued abdominal pain with associated nausea.
+CT Abdomen and Pelvis (without contrast [**1-10**] ARF) showed no acute process.
+Repeat paracentesis showed increased neutrophils in ascitic fluid and antibiotic coverage was changed to meropenem.
+Acute Renal Failure - Patient admitted with creatinine of 1.8, elevated from baseline ~1.4 on previous admission.
+Patient was given small IVF boluses intermittently, however attempt was made not to fluid overload patient due to history of liver disease and ascites.
+Hypoxic Respiratory Failure - Patient aspirated and was transferred to the MICU for hypoxic respiratory failure.
+He was found to have a large consolidation and started on vanco/flagyl, in addition he was maintained on meropenem and cipro as above.
+Cirrhosis: Patient has history of sarcoidosis and possible sarcoidosis of liver, however it is felt that he most likely has cirrhosis of the liver with ESLD.
+Noted to have chronic portal hypertensive gastropathy requiring multiple admissions and blood products.
+Patiently was previously considered for TIPS procedure at [**Hospital1 18**] about 1 month prior to admission, but this was not done due to cardiac risk factors.
+Cardiology was re-consulted during this admission and determined that the risk of cardiac intervention was higher than with the TIPS, so cleared patient for TIPS and to deal with any cardiac complication as they arise.
+TIPS was scheduled, however postponed due to acute renal failure and then infection.
+Additionally, the prospect of possible transplant had been discussed previously with the patient and family, however due to his decreased ejection fraction (>45%), he is not a candidate for transplant at [**Hospital1 18**].
+Before patient was able to receive TIPS procedure he was sent to the ICU for respiratory failure after possible aspiration event.
+# History of NSTEMI/EF 45% - Patient with history of NSTEMI during prior hospitalization at [**Hospital1 2025**] with resultant EF 45%.
+Summary per ICU Team  ICU Course: Vitals were monitored closely and noted to be stable until [**8-29**] when Mr. [**Known lastname 60517**] had an acute event marked by hypoxia with subsequent transfer to the ICU.
+CXR revealed a substantial right lung white out suggestive of aspiration PNA vs. chemical pneumonitis.
+He was also noted to have a continued significant GIB with falling HCT requiring multiple transfusions of blood products and plasma.
+Patient was noted to be in shock with likely hemorrhagic and septic compononets from pneumonia and SBP.
+He was also intubated for respiratory failure and started on pressors.
+Liver was consulted, but patient was no longer considered a candidate for TIPS given multiple medical comorbidities and likely mortality a/w procedure.
+ECG was performed showing ST depressions in the lateral leads accompanied by cardiac enzyme elevation.
+Echo was performed which showed wall motion abnormalities in the corresponding territory suggesting significant myocardial ischemia; however, given comorbid illness and active GIB, patient was not candidate for intervention or anti-coagulation.
+Patient also began to develop atrial fibrillation with runs of rapid ventricular response, causing further demand ischemia which was treated with metoprolol PRN for rate control.
+Patient continued to deteriorate with multi-organ system failure and no progression with aggressive therapeutic interventions by ICU team.

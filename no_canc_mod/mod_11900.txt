@@ -1,0 +1,62 @@
+Admission Date:  [**2158-11-9**]              Discharge Date:   [**2158-11-15**]  Date of Birth:  [**2081-4-10**]             Sex:   M  Service: MEDICINE  Allergies: Penicillins / Diltiazem  Attending:[**Doctor First Name 1402**] Chief Complaint: bradycardia and hypotension  Major Surgical or Invasive Procedure: Endo-tracheal intubation Central line placement   History of Present Illness: 77m with HTN, paroxysmal afib, CHF with lvh and preserved EF, PUD presented to VA urgent care on [**11-9**] with three days of increasing dyspnea on exertion, orthopnea, and LE edema, with no chest discomfort or palpitations.
+He was found there to be afebrile with bp 115/72, hr 130, rr 20, and spo2 97%ra; his lungs had bibasilar rales, and his periphery showed 1+ edema.
+In [**Hospital1 18**] ED, he was given calcium and glucagon with little response, remaining hypotensive, so he was cardioverted with 50 joules, resulting in sinus bradycardia.
+His bp was in the 90's on a low dose of a norepi gtt (changed from dopa for tachycardia and ectopy).
+No ASD by 2D or color Doppler.
+Severe global LV hypokinesis.
+No LV mass/thrombus.
+TSI demonstrates no significant LV dyssynchrony with no significant delay in peak systolic contraction between opposing walls.
+RIGHT VENTRICLE: Mildly dilated RV cavity.
+AORTA: Moderately dilated aortic sinus.
+Moderately dilated ascending aorta.
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3).
+MITRAL VALVE: Mildly thickened mitral valve leaflets.
+Mild to moderate ([**11-21**]+) MR.  TRICUSPID VALVE: Mildly thickened tricuspid valve leaflets.
+Mild PA systolic hypertension.
+PULMONIC VALVE/PULMONARY ARTERY: The end-diastolic PR velocity is increased c/w PA diastolic hypertension.
+No atrial septal defect is seen by 2D or color Doppler.
+There is moderate symmetric left ventricular hypertrophy.
+There is severe global left ventricular hypokinesis.
+No masses or thrombi are seen in the left ventricle.
+There is no ventricular septal defect.
+Tissue synchronization imaging demonstrates no significant left ventricular dyssynchrony.
+The right ventricular cavity is mildly dilated.
+The aortic root is moderately dilated athe sinus level.
+The ascending aorta is moderately dilated.
+The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present.
+Mild (1+) aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+There is no mitral valve prolapse.
+Mild to moderate ([**11-21**]+) mitral regurgitation is seen.
+The tricuspid valve leaflets are mildly thickened.
+There is mild pulmonary artery systolic hypertension.
+The end-diastolic pulmonic regurgitation velocity is increased suggesting pulmonary artery diastolic hypertension.
+There is a trivial/physiologic pericardial effusion.
+IMPRESSION: Severely depressed LVEF.
+No pneumothorax is present.
+Diffuse perivascular haze is noted on this portable examination and the patient appears to be in pre-edema state.
+Density in left lower lobe area is noted, obliterating the contour of the descending aorta as well as the central portion of the left diaphragm indicative of atelectasis-infiltrate.
+Brief Hospital Course: 77m with htn, afib/flutter, chf with preserved ef, prostate ca s/p prostatectomy who presented with sx of increasing volume overload, was found to be in aflutter, and became bradycardic and hypotensive following administration of IV diltiazem requiring pressors and intubation.
+#Shock/Pump -- His original presenting hypotension was felt to be mixed type in nature, with distributive component likely from the diltiazem (he has had this same response to the same drug in [**6-/2156**], with similar presenting symptoms) and a cardiogenic component from baseline heart failure with loss of supportive tachycardia.
+No evidence of sepsis (no fever, tachypnea, leukocytosis, or evidence of infection).
+Improvement came with resolution of the calcium channel blocker's effect, decreasing both the vasodilation and negative chronotropy.
+By the second day of the admission he'd actually returned to his usual hypertensive state, and his anti-hypertensive medications were slowly re-introduced.
+In addition to this, we felt he appeared volume overloaded, consistent with his presenting symptoms.
+He had peripheral edema, elevated JVP, and hypoxemia to the low 90's-high 80's on room air.
+As such, the cardiology team actively diuresed the patient with furosemide 40mg intravenously on days [**1-23**] with a good response (nearly 1-1.5 liters negative per day) with a good response in both peipheral edema and room air sats (both at rest and ambulatory).
+This was felt to probably be due to a tachycardia mediated cardiomyopathy, as he seems to be fairly insensitive to his tachyarrhythmias.
+He was cathed at the VA in [**2155**] without flow-limiting lesions.
+#Atrial flutter, fib, and tachycardia -- Probably the cause of his low EF, he was found to be in aflutter with a rapid ventricular response at presentation.
+Following this, he primarily remained in sinus rhythm with occasional runs of atrial tachycardia and rare 3-4 beat runs of non-sustained ventricular tachycardia.
+His occasional atrial tachycardia episodes (hear rate around 110-120) were asymptomatic and without other hemodynamic consequences.
+#Respiratory failure -- Seems to have been mainly from unresponsiveness with a smaller contribution from pulmonary edema, more of a not breathing than couldn't breath situation.
+#Renal failure -- He seems to have some componenet of chronic renal insufficiency, based on his Cr of 1.4 in [**2155**].
+Other reasons included an increased lisinopril dose, so on [**11-14**] his dose was lowered from 10mg to 5mg and amiodarone intitiation, which blocks tubular secretion of creatinine, thus causing the apperance of renal failure with no actual changes in glomerular filtration.
+#Metabolic acidosis -- Mainly non-gap with a slight gap component.
+Following this, the acidosis is probably from renal failure with poor acid excretion.
+There was no obvious source of blood loss.
+#Hyperglycemia -- Unclear if stress response, glucagon received in ED, D5 fluid carrying his meds.
+Heparin drip as bridge until warfarin becomes therapeutic  Discharge Disposition: Extended Care  Facility: [**Hospital3 25750**]  Discharge Diagnosis: -Hypotension with shock -Sinus bradycardia -Atrial flutter with rapid ventricular response -Atrial fibrillation -Atrial tachycardia -Congestive heart failure with EF of 20% -Respiratory failure requiring intubation -Acute renal failure from ATN Secondary: -HTN -Paroxysmal atrial fibrillation-flutter -CHF with preserved EF of 55%, mod concentric hypertrophy, mild AR and PR on [**5-/2156**] echo -Cath at VA [**5-/2156**] with no flow limiting lesions, RA 25, PCWP 32, per VA discharge summary -PUD -CRI baseline 1.4 -Prostate ca s/p prostatectomy -DJD -PTSD   Discharge Condition: -stable, afebrile, ambulatory, breating well on a nasal cannula; HR ranging from 80-120 (sinus to aflutter, occasional atrial tachycardia)   Discharge Instructions: Weigh yourself every morning, call your doctor if your weight increases by more than 3 lbs.
+You have recovered for an episode of low blood pressure and a fast heart rate (atrial flutter) for which your medications have been adjusted.
+You have suffered from respiratory failure as a result of your congestive heart failure.
+You are being discharged on a blood thinner to prevent strokes and will need to have labs checked weekly to make sure the medication is working appropriately.

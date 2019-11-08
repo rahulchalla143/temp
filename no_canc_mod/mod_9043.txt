@@ -1,0 +1,60 @@
+Admission Date:  [**2104-10-23**]              Discharge Date:   [**2104-11-11**]  Date of Birth:  [**2027-2-14**]             Sex:   M  Service: CARDIOTHORACIC  Allergies: Precedex  Attending:[**First Name3 (LF) 165**] Chief Complaint: shortness of breath  Major Surgical or Invasive Procedure: cardiac catheterization dental extraction CABGx1(LIMA->LAD)/AVR(25mm CE pericardial valve) [**2104-11-4**]  History of Present Illness: Mr. [**Known lastname 46772**] is a 77M with DM, CAD s/p MI, and CHF EF40% who is admitted for elective cardiac catheterization.
+He was seen for follow up in cardiology clinic on [**10-22**] at which time he reported a two week history of progressive exertional dyspnea.
+The past weekend he was admitted for these symptoms to [**Location (un) **] where he was apparently diagnosed with a COPD exacerbation (with no known history of COPD).
+He admits to mild ankle edema and an occasional cough which he attributes to his smoking history.
+Past Medical History: coronary artery disease, s/p stent and internal cardiac defibrillator Gastroesophageal reflux disease Non-insulin dependent diabetes mellitus Hypertension Hyperlipidemia Bladder CA-pt unaware of details congestive heart failure (chronic systolic) Seizure disorder  Social History: Married.
+Family History: Father had MI in 50s.
+Sclera anicteric.
+Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.
+Neck: Supple, No LAD, no JVP appreciated CV: RR, normal S1, S2.
+No thrills, lifts.
+CTAB, no crackles, wheezes or rhonchi, sternum stable, wounds healing well.
+No abdominial bruits appreciated.
+No pneumothorax has developed and the pulmonary vasculature appears unchanged.
+No new parenchymal infiltrates are seen, and only mild blunting of the lateral pleural sinuses is identified on the single view portable chest examination.
+IMPRESSION: No evidence of pneumothorax after line exchange.
+DR. [**First Name (STitle) **] [**Initials (NamePattern5) 3250**] [**Last Name (NamePattern5) 3251**] Approved: [**Doctor First Name **] [**2104-11-6**] 8:16 PM  [**Hospital1 18**] ECHOCARDIOGRAPHY REPORT  [**Known lastname **], [**Known firstname 1775**]       [**Hospital1 18**] [**Numeric Identifier 46775**] (Complete) Done [**2104-11-4**] at 8:47:24 AM      FINAL Referring Physician     [**Name9 (PRE) **] Information [**Name9 (PRE) **], [**First Name3 (LF) **] Division of Cardiothoracic [**Doctor First Name **] [**First Name (Titles) **] [**Last Name (Titles) **] [**Hospital Unit Name 4081**] [**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2027-2-14**] Age (years): 77 M  Hgt (in): 69 BP (mm Hg): 110/64  Wgt (lb): 250 HR (bpm): 64  BSA (m2): 2.27 m2 Indication: Intraoperative TEE for CABG AVR.
+Aortic valve disease.
+Left ventricular function.
+Mitral valve disease.
+Right ventricular function.
+Shortness of breath.
+ICD-9 Codes: 440.0, 424.1, 424.0 Test Information Date/Time: [**2104-11-4**] at 08:47    Interpret MD: [**Name6 (MD) 1509**] [**Name8 (MD) 1510**], MD Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3319**], MD Doppler: Full Doppler and color Doppler Test Location: Anesthesia West OR cardiac Contrast: None Tech Quality: Adequate Tape #: 2008AW1-: Machine: [**Doctor Last Name 11422**] Echocardiographic Measurements Results  Measurements  Normal Range Left Atrium - Four Chamber Length:  5.2 cm  <= 5.2 cm Left Ventricle - Septal Wall Thickness:  1.1 cm  0.6 - 1.1 cm Left Ventricle - Diastolic Dimension:  *6.0 cm  <= 5.6 cm Left Ventricle - Systolic Dimension:  5.0 cm Left Ventricle - Fractional Shortening:  *0.17  >= 0.29 Left Ventricle - Ejection Fraction:  25%  >= 55% Aorta - Sinus Level:  2.8 cm  <= 3.6 cm Aorta - Ascending:  2.5 cm  <= 3.4 cm Aorta - Arch:  2.0 cm  <= 3.0 cm Aortic Valve - Peak Velocity:  *3.0 m/sec  <= 2.0 m/sec Aortic Valve - Peak Gradient:  *37 mm Hg  < 20 mm Hg Aortic Valve - Mean Gradient:  21 mm Hg Aortic Valve - Valve Area:  *0.7 cm2  >= 3.0 cm2  Findings LEFT ATRIUM: Moderate LA enlargement.
+No ASD by 2D or color Doppler.
+Moderately dilated LV cavity.
+Severe regional LV systolic dysfunction.
+Severely depressed LVEF.
+LV WALL MOTION: Regional left ventricular wall motion findings as shown below; remaining LV segments contract normally.
+Mildly dilated RV cavity.
+Simple atheroma in ascending aorta.
+AORTIC VALVE: Moderately thickened aortic valve leaflets.
+MITRAL VALVE: Moderately thickened mitral valve leaflets.
+Moderate mitral annular calcification.
+The left atrium is moderately dilated.
+No atrial septal defect or PFO is seen by 2D or color Doppler.
+The left atrium is moderately dilated.
+No atrial septal defect is seen by 2D or color Doppler.
+There is severe regional left ventricular systolic dysfunction with hypokinesis of the inferior, inferioseptal, anterior, anteroseptal walls .
+The right ventricular cavity is mildly dilated.
+There are simple atheroma in the ascending aorta.
+There are complex (>4mm) atheroma in the descending thoracic aorta.
+The aortic valve leaflets (3) are mildly thickened.
+There is severe aortic valve stenosis (area <0.8cm2).
+Trace aortic regurgitation is seen.
+There is no mitral valve prolapse.
+Moderate (2+ to 3+) mitral regurgitation is seen.
+There is no pericardial effusion.
+Two small jets of aortic regurgitation are seen between the right and non coronary cusps and left and non coronary cusps.
+Trace central aortic insufficiency is also present.
+The inferior and inferoseptal walls show continued hypokinesis while improvement is seen in the anterior and anteroseptal walls.
+Access was not obtained and the patient then developed a severe headache.
+He then went into atrial fibrillation that night and spontaneously converted back to sinus rhythm.
+The LAD was moderately calcified with a 95% stenosis in the mid-distal region.
+The LCX tapered to 40% after the atrial branch, ramus was occluded, and the RCA had mild diffuse plaquing throughout.
+He had a moderately decreased LVEF.
+He remained intubated overnight because of hypontension and agitation.
+He had hperglycemia and [**Last Name (un) **] was consulted.
+The patient remained confused and his mental status cleared and he was transferred to the floor on POD#5.
+Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30) ML PO HS (at bedtime) as needed for constipation.
+Tablet(s)   Discharge Disposition: Extended Care  Facility: [**Hospital6 25759**] & Rehab Center - [**Location (un) **]  Discharge Diagnosis: IDDM CAD, s/p MI, s/p coronary artery stenting CHF Hyperlipidemia GERD Bladder CA Seizure disorder V tach, s/p PPM/ICD   Discharge Condition: Good.
+Shower daily, let water flow over wounds, pat dry with a towel.

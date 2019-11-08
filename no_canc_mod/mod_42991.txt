@@ -1,0 +1,144 @@
+Admission Date:  [**2199-1-2**]              Discharge Date:   [**2199-1-15**]  Date of Birth:  [**2130-3-22**]             Sex:   M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**Doctor First Name 1402**] Chief Complaint: epistaxis  Major Surgical or Invasive Procedure: [**2199-1-4**] - Bilateral sphenopalatine and left descending palatine artery embolization by Interventional Radiology [**2199-1-2**] to [**2199-1-5**] - Intubation and mechanical ventilation [**2199-1-5**] - Bronchoscopy [**2199-1-11**] - Direct current electrical cardioversion   History of Present Illness: This is a 68-year old Male with a PMH significant coronary artery disease (s/p PCI with stenting of LAD, [**4-/2195**]), alcoholic vs. infarct-related dilated cardiomyoatphy (EF 20-25%), s/p biventricular [**Year (4 digits) 3941**] placement in [**6-/2195**], persistent atrial fibrillation (s/p multiple cardioversions), h/o embolic renal infarct ([**2-/2195**]) with prior left atrial appendage thrombus, alcohol abuse who presented to [**Hospital1 18**] [**Location (un) 620**] with uncontrolled left-sided posterior epistaxis and coagulopathy with INR of 5.2 requiring ENT consultation and Epistat packing.
+The bleeding progressed to bilateral involvement and he was not clearing the brisk [**Last Name (LF) **], [**First Name3 (LF) **] he was intubated for airway protection and a right Epistat was placed by ENT.
+Bronchoscopy in the MICU showed minimal clot burden and was otherwise normal.
+The patient did receive intermittent IV Lasix (20 mg IV x 2) given some volume overload concerns while in the MICU (net negative 1L for [**1-5**] prior to transfer, but positive LOS fluid balance of 3L).
+He did have some ICU-delirium concerns requiring Haldol IV.
+While on the Medicine floor, the patient was noted to have substantial hypoxia to the 80% on room air with evidence of an A-a gradient and persistent cough concerns.
+He was dosed Lasix 60 mg IV, received Albtuerol nebs and his CXR showed stable frank pulmonary congestion with minimal bilateral effusions and no evidence of consoldiation.
+Of note, a positive sputum culture from [**1-4**] showed sparse coagulase positive Staphylococccus.
+Given his worsening acute hypoxic failure (ABG 7.43/27/55 on facemask) and concern for acute congestive heart failure decompensation, he was transferred to the CCU.
+Cardiac review of systems is notable for absence of chest pain, paroxysmal nocturnal dyspnea, orthopnea, palpitations, syncope or pre-syncope.
+ROS: The patient denies a history of prior stroke/TIA, deep venous thrombosis or pulmonary embolus.
+Denies headaches or vision changes.
+Denies chest pain, dizziness or lightheadedness; no palpitations.
+No nausea or vomiting, denies abdominal pain.
+No dysuria or hematuria.
+No change in bowel movements or bloody stools.
+Denies muscle weakness, myalgias or neurologic complaints.
+No exertional buttock or calf pain.
+Past Medical History: CARDIAC HISTORY: Coronary artery disease, Hypertension .
+- infarct-related vs. alcoholic dilated cardiomyopathy (EF 20-25% in [**4-/2198**]) - [**4-/2195**] - PCI stenting of proximal-LAD with [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] 1 after diagnostic cardiac catheterization (LMCA modest calcification, LAD 80-90% stenosis proximally, LCx 60% mid-segment lesion in the AV-groove), dominant RCA - [**8-/2195**] - direct-current cardioversion for atrial fibrillation - [**10/2195**] - successful pericardiocentesis via the subcostal approach with removal of 400 cc serousanguinous fluid for moderate-severe pericardial effusion with dyspnea in the setting of anticoagulation .
+* CABG: None * PERCUTANEOUS CORONARY INTERVENTIONS: - [**4-/2195**] - PCI stenting of proximal-LAD with [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] 1 after diagnostic cardiac catheterization * PACING/[**Last Name (Prefixes) 3941**]: biventricular [**Last Name (Prefixes) 3941**] placement, [**2195**] (last interrogation in [**10/2198**]) .
+Coronary artery disease 2.
+Infarct-related dilated cardiomyopathy 3.
+Hypertension 4.
+Persistent atrial fibrillation 5. history of right-sided embolic renal infarct ([**2-/2195**]) with left atrial appendage thrombus identified at that time 6.
+Benign prostatic hypertrophy 9. s/p ear malformation reconstructive surgeries  Social History: Patient lives at home, and is a widower.
+Family History: Notable family history of early MI (mother age 55, father age 65); but denies arrhythmia, cardiomyopathies, or sudden cardiac death; otherwise non-contributory.
+Alert and speaking in short sentences.
+No xanthalesma.
+NECK: supple without lymphadenopathy.
+JVD markedly elevated to mid-neck at 30-degrees.
+Regular rate and rhythm, without murmurs, rubs or gallops.
+Decreased breath sounds bilaterally.
+No wheezin or rhonchi; mild inspiratory crackles at bases.
+No palpable masses or peritoneal signs.
+EXTR: no cyanosis, clubbing; [**1-21**]+ peripheral edema to mid-thigh and on lower back, 2+ peripheral pulses DERM: No stasis dermatitis, ulcers, scars, or xanthomas.
+Some bright-red macules with some excoriation over back surface.
+MICROBIOLOGIC DATA: [**2199-1-3**] [**Month/Day/Year **] culture - negative [**2199-1-3**] [**Month/Day/Year **] culture - negative [**2199-1-3**] Urine culture - negative [**2199-1-3**] MRSA screen - negative [**2199-1-4**] Sputum culture - sparse coagulase positive Staphylococcus aureus (MSSA) [**2199-1-7**] Urine culture - negative [**2199-1-7**] [**Month/Day/Year **] culture - pending [**2199-1-7**] [**Month/Day/Year **] culture - pending.
+Widespread consolidations within the lungs are unchanged as well with no definitive evidence radiologically of deterioration.
+Bilateral pleural effusion is unchanged.
+No evidence of pneumothorax is seen.
+[**2199-1-7**] 2D-ECHO - The left atrium is mildly dilated.
+The right atrium is markedly dilated.
+There is severe global left ventricular hypokinesis with inferior akinesis (LVEF = 25 %).
+No masses or thrombi are seen in the left ventricle.
+The right ventricular cavity is dilated with moderate global free wall hypokinesis.
+The aortic root is mildly dilated at the sinus level.
+The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present.
+Trace aortic regurgitation is seen.
+There is no mitral valve prolapse.
+Mild to moderate ([**1-21**]+) mitral regurgitation is seen.
+There is moderate pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+IMPRESSION: Marked left ventricular cavity enlargement with severe global systolic dysfunction c/w multivessel CAD or other diffuse process.
+Right ventricular cavity enlargement with free wall hypokinesis.
+Mild-moderate mitral regurgitation.
+Pulmonary artery hypertension.
+Compared with the prior study (images reviewed) of [**2198-4-30**], the left ventricular cavity is larger and the severity of mitral regurgitation and the estimated PA systolic pressure have increased.
+Conclusion: left vemtricular stroke volume is approximately 18% higher during native conduction compared to biventricular pacing.
+[**2199-1-15**] ECHO: The left atrium is mildly dilated.
+The right atrium is markedly dilated.
+No atrial septal defect is seen by 2D or color Doppler.
+There is mild-moderate regional dysfunction with thinning/near akinesis of the basal half of the inferolateral wall and inferior walls.
+The remaining segments are mildly hypokineti (LVEF =30-35 %).
+No intraventricular thrombi are identified.
+Tissue Doppler imaging suggests an increased left ventricular filling pressure (PCWP>18mmHg).
+The right ventricular cavity is mildly dilated with mild global free wall hypokinesis.
+The ascending aorta is mildly dilated.
+The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic stenosis.
+Mild (1+) aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+There is no mitral valve prolapse.
+Mild-moderate (1=2+) mitral regurgitation is seen.
+Moderate [2+] tricuspid regurgitation is seen.
+There is moderate pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+CONCLUSION: Dilated left ventricular cavity with regional and global systolic dysfunction c/w multivessel CAD or other diffuse process.
+Pulmonary aretry hypertension.
+Mild-moderate mitral regurgitation.
+Moderate tricuspid regurgitation.
+Mobile right atrial echodensity associated with the pacing wire as described above most c/w thrombus.
+Brief Hospital Course: IMPRESSION: 68M with a PMH significant for coronary artery disease (s/p PCI with stenting of LAD, [**4-/2195**]), alcoholic vs. infarct-related dilated cardiomyoatphy (EF 20-25%), s/p biventricular [**Year (4 digits) 3941**] placement in [**6-/2195**], persistent atrial fibrillation (s/p multiple cardioversions), h/o embolic renal infarct ([**2-/2195**]) with prior left atrial appendage thrombus, alcohol abuse who presented with severe epistaxis and coagulopathy requiring intubation for airway protection who was stabilized and subsequently extubated, now with worsening acute hypoxic respiratory failure, leukocytosis with AG-metabolic acidosis and acute renal insufficiency.
+PLAN: # ACUTE HYPOXIC RESPIRATORY FAILURE - The patient initially presented with epistaxis requiring intubation for airway protection and was weaned from ventillation on [**1-5**] without issues.
+Since floor transfer, the patient had developed worsening acute hypoxic respiratory failure with oxygen desaturations to the 80s on facemask with exam showing elevated JVP, inspiratory crackles and peripheral edema; CXR with evidence of pulmonary congestion with bilateral pleural effusions concerning for overt overload.
+On admission, the etiologies we considered were congestive heart failure exacerbation (most likely) vs. pulmonary embolism vs. ARDS vs. TRALI or late-transfusion related reaction vs. reactive airway disease vs. infection or pneumonia (coagulase positive Staphylococcus aureus [MSSA] in sputum culture from [**2199-1-4**]).
+His clinical exam and imaging suggested that an acute systolic failure exacerbation was most likely and we performed aggressive diuresis.
+We deferred antibiotic treatment for his sputum culture, given that his leukocytosis improved and he remained afebrile.
+# ACUTE ON CHRONIC SYSTOLIC DYSFUNCTION - The patient had a prior 2D-Echo from [**4-/2198**] showing LVEF of 20-25% with LV cavity that was moderately dilated with some severe regional LV systolic dysfunction with basal to mid inferior/inferolateral akinesis and basal inferoseptal akinesis with anterior and anterolateral hypokinesis elsewhere.
+3+ TR and 1+ MR at that time was noted, with mild pulmonary artery HTN and no pericardial effusion.
+This admission, he presented with coagulopathy and epistaxis requiring 4 units FFP and 1 unit PRBCs (net positive 3L for LOS on CCU transfer) with clinical exam suggestive of over volume overload.
+Etiologies or triggers for acute decompensation would include: ACS/MI vs. infectious etiology (positive sputum culture) vs. volume overload in the setting of [**Year (4 digits) **] product administration vs. worsening valvular disease.
+Based on our assessment, he appeared volume overloaded in the setting of product administration.
+We also removed his LV pacing and a repeat 2D-Echo showed 18% improvement in his stroke volume without the pacing of the left ventricle, so this remained off.
+# ACUTE RENAL INSUFFICIENCY, METABOLIC DERRANGEMENTS - The patient presented with a baseline creatinine of 0.7-0.9 with evidence of acute renal insufficiency to 1.2 trending to 1.7.
+Patient also had an anion-gap metabolic acidosis with compensatory respiratory component (and primary respiratory alkalosis given work of breathing) with a lactate of [**6-26**], leukocytosis trending from 13 to 18 (afebrile) which was suggestive of poor forward flow and impaired perfuson of peripheral tissues in the setting of decompensated heart failure with or without an infectious source.
+# ACUTE LIVER INJURY, TRANSAMINITIS ??????
+The patient presented with no prior known liver dysfunction or evidence of liver failure on exam with mild transaminitis in the past attributed to Amiodarone use?
+; acute liver injury with moderate-severe transaminitis noted on admission with AST 6854 and ALT 4790 with hyperbilirubinemia to 5.1 and mild jaundice.
+Etiologies that we considered: congestive hepatopathy vs. ischemic hepatopathy (recent hypotension) or shock liver vs. acute viral hepatitis vs. toxin-mediated or medication-induced (Amiodarone) vs. alcoholic liver disease vs. metabolic.
+No prior ultrasounds or imaging was noted in our system.
+No sequelae of chronic liver disease and no evidence of ascites was noted.
+Evidence of natural immunity to hepatitis B and prior hepatitis A exposure was noted based on hepatitis serologies.
+We employed supportive management given his evidence of transaminitis with coagulopathy and hyperbilirubinemia with hypoalbuminemia.
+Hepatitis serologies (HbsAg negative, HbsAb positive, HbcAb positive, HCV-Ab negative, HAV-Ab positive) were consistent with prior hepatitis A exposure and immunity due to natural infection of hepatitis B.
+# LEUKOCYTOSIS - the patient presented without initial leukocytosis; but had coagulase positive Staphylococcus aureus sputum culture, MSSA ([**1-4**]) with WBC trend from 13 to 18 (94% neutrophilia) this admission; but he remained afebrile.
+Infectious work-up in the setting of acute decompensated failure was reassuring and we deferred antibiotic therapy.
+He steadily improved, with normalizing WBC and he remained afebrile this admission.
+His CXR showed some concern for consolidation, but this was conservatively monitored and not treated.
+# CORONARIES - Coronary angiography last performed in [**4-/2195**] showed a right dominant system with an LMCA with modest calcification, the LAD had a hazy 80-90% stenosis in its proximal portion and was stented.
+The LCx was a non-dominant vessel with a 60% mid-segment lesion in the AV groove.
+The RCA was a dominant vessel with mild luminal irregularities.
+Patient had no complaints of chest pain this admission, but he did have notable bleeding concerns on admission.
+# ATRIAL FIBRILLATION, RHYTHM - The patient had placement of a biventricular pacing device-[**Year (4 digits) 3941**] with OptiVol in [**2195**] with last interrogation in [**10/2198**] that was reassuring; patient is atrially paced with biventricular pacing.
+Interrogated on [**1-7**] (this admission) which showed no arrhythmia events.
+History of persistent atrial fibrillation s/p multiple cardioversions (last in [**2195**]) and on chronic Amiodarone therapy.
+His Coumadin was resumed on [**1-10**] when his coagulopathy had resolved and he had no further bleeding concerns.
+# SEVERE EPISTAXIS, S/P IR-GUIDED EMBOLIZATION - The patient presented with left-sided posterior epistaxis and coagulopathy with INR of 5.2 requiring ENT consultation and Epistat packing bilaterally.
+The bleeding progressed and required IR-guided successful embolization of the right sphenopalatine artery and embolization of the left sphenopalatine artery and left desecending palatine artery utilizing coils ([**1-4**]) without further bleeding concerns.
+He had no further bleeding concerns and his epistaxis improved.
+# HYPERTENSION - Home regimen includes ACEI, beta-blocker, loop diuretic; we restarted his agents as clinically indicated given acute CHF decompensation.
+# ALCOHOL ABUSE HISTORY - He appears to have a history of chronic alcohol abuse with current moderate-social alcohol intake; monitored for withdrawal this admission, and he had no evidence of withdrawal.
+Lidocaine level sent (patient transiently on Lidocaine gtt given his ventricular tachycardia) and should be followed-up by Cardiology.
+He had episodic somnolence while being dosed this medication.
+Started Aldactone 25 mg PO daily given his heart failure symptoms and heart failure class.
+Patient remains on anticoagulation for atrial fibrillation.
+Acute hypoxic respiratory failure 2.
+Infarct-related cardiomyopathy with acute decompensated systolic dysfunction 3.
+Epistaxis requiring embolization .
+Coronary artery disease 2.
+Infarct-related dilated cardiomyopathy 3.
+Hypertension 4.
+Persistent atrial fibrillation   Discharge Condition: Mental Status: Confused - sometimes.
+You were admitted to the Coronary Care Unit (CCU) at [**Hospital1 771**] on [**Hospital Ward Name 121**] 6 regarding management of your heart failure and your acute respiratory issues.
+When you were admitted, you required IV medications to help remove extra fluid, which improved your breathing.
+You also developed some ventricular arryhthmia concerns which required IV anti-arrhythmic medications and adjustments in your [**Hospital Ward Name 3941**]/pacemaker.
+Please call your doctor or go to the emergency department if: * You experience new chest pain, pressure, squeezing or tightness.
+* You develop new or worsening cough, shortness of breath, or wheezing.
+* You are vomiting and cannot keep down fluids, or your medications.
+* If you are getting dehydrated due to continued vomiting, diarrhea, or other reasons.
+Signs of dehydration include: dry mouth, rapid heartbeat, or feeling dizzy or faint when standing.
+* Your pain is not improving within 12 hours or is not under control within 24 hours.
+* Your pain worsens or changes location.
+* You have shaking chills, or fever greater than 101.5 degrees Fahrenheit or 38 degrees Celsius.
+* You develop any other concerning symptoms.

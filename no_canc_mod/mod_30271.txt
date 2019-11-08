@@ -1,0 +1,49 @@
+Admission Date:  [**2172-11-29**]              Discharge Date:   [**2172-12-4**]  Date of Birth:  [**2094-4-27**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 2145**] Chief Complaint: Change in mental status, hematemesis   Major Surgical or Invasive Procedure: EGD Central line   History of Present Illness: Ms. [**Known lastname 71441**] is a 78 year-old woman with a history of a recent left-sided stroke with subsequent left carotid stenting and initiation of warfarin therapy for atrial fibrillation who was brought in from [**Hospital 100**] Rehab today for deteriorating mental status.
+She was noted at that time to be responsive only to painful stimuli with a pinpoint right pupil (midline, reactive left pupil) and left facial droop.
+When EMS attempted intubation, she had a gag reflex and vomitted a small amount of coffe ground material.
+She was intubated for airway protection and, per the ED resident, the patient had a difficult intubation in that she had episodes of bradycardia requiring atropine.
+GI was called and a gastric lavage via her PEG revealed coffe ground material without any fresh blood.
+She was also given ampicillin/sulbactam for a dirty urinalysis.
+Review of Systems: unable to obtain from patient due to sedation/intubation; per son, no [**Name2 (NI) **], hematochezia, fevers   Past Medical History: - hypertension - recent left MCA stroke [**10/2172**] - left ICA stent placed [**2172-11-9**] - operative PEG placement [**2172-11-18**] following failure of swallow eval - paroxysmal atrial fibrillation, recently started on warfarin - reported COPD; no PFTs in [**Hospital1 18**] records - chronic renal failure, baseline creatinine approx 2.6 with secondary hyperparathyroidism - chronic diastolic CHF - hyperlipidemia - type 2 diabetes mellitus - depression - morbid obesity  Social History: Up until her recent hospitalization, Ms. [**Known lastname 71441**] lived with her son for several decades; upon discharge from [**Hospital1 18**] last week, she was sent to [**Hospital 100**] Rehab.
+Family History: One sister died of heart disease at age [**Age over 90 **]; another sister has heart disease.
+Her brother died of colon cancer at age 68.
+Physical Exam: T 97.7  BP 156/68  HR 83  RR 22  Sat 100% Vent: AC  Vt 450cc  RR 16  PEEP 5  FiO2 0.50 General: sedated, grimacing to pain, resisting opening of her eyelids HEENT: PERRL, no icterus, (+) ETT Neck: obese, supple, no lymphadenopathy detected Chest: clear to auscultation throughout, no w/r/r CV: rrr, nl s1s2, no murmurs Abdomen: obese, (+) PEG, nondistended, no HSM Extremities: 1+ edema to mid-shins, 1+ DP pulses, right femoral line Neuro: sedated, PERRL (5mm -> 3mm), grimacing and gagging to suctioning, moving all four extremities and wthdrawing to pain, opening eyes slightly to verbal command, 1+ patellar reflexes, plantar response equivocal bilaterally   Pertinent Results: ECG ([**2172-11-29**]): Normal sinus rhythm at 91 bpm, normal axis, normal intervals, no obvious ST segment changes, though unsteady baseline may be obscuring subtle ST segment changes.
+Head CT w/o contrast ([**2172-11-29**]): No evidence of intracranial hemorrhage.
+Marked mucosal thickening within the nasal cavity and ethmoid air cells without fluid levels to suggest the presence of acute sinusitis.
+Small-vessel angiopathy as described.
+No focal consolidation, pneumothorax or pleural effusion is detected.
+[**11-30**] EGD: Impression: Normal mucosa in the esophagus Blood in the fundus There was some superficial ulceration with a small amount of oozing from around the G tube.
+No other bleeding site seen.
+Patent rotated for maximum visability given presence of large clot.
+Normal mucosa in the duodenum Otherwise normal EGD to second part of the duodenum .
+Recommendations: serial hematocrits [**Hospital1 **] proton pump inhibitor Repeat EGD if acutely rebleeds AP CHEST 10:05 P.M, [**12-2**]  HISTORY: Increased wheezing, crackles and dyspnea, assess for aspiration or pneumonia.
+IMPRESSION: AP chest compared to [**11-29**]:  Lung volumes are very low, and the anatomic detail in the lungs is obscured by respiratory motion, but there appears to be new consolidation in the right mid and upper lung consistent with pneumonia due to aspiration.
+Moderate cardiomegaly has increased also and there is no mediastinal vascular engorgement suggesting cardiac decompensation, though I doubt that edema is present.
+No pneumothorax.
+Discharge labs  [**2172-12-4**] 06:48AM BLOOD WBC-9.6 RBC-3.13* Hgb-9.4* Hct-29.0* MCV-93 MCH-29.9 MCHC-32.3 RDW-15.6* Plt Ct-285 [**2172-12-4**] 06:48AM BLOOD Neuts-77.8* Lymphs-15.6* Monos-4.4 Eos-2.1 Baso-0.2 [**2172-12-4**] 06:48AM BLOOD Plt Ct-285 [**2172-12-4**] 06:48AM BLOOD PT-13.0 INR(PT)-1.1 [**2172-12-4**] 06:48AM BLOOD Glucose-144* UreaN-109* Creat-2.7* Na-150* K-4.2 Cl-115* HCO3-26 AnGap-13 [**2172-12-4**] 06:48AM BLOOD Mg-2.1  Brief Hospital Course: Ms. [**Known lastname 71441**] is a 78 year-old woman with a recent left-sided ischemic stroke and subsequent left internal carotid stenting who presents with altered mental status following a large GI bleed in the setting of recent initiation of aspirin, clopidogrel, and warfarin.
+## Acute blood loss anemia secondary to GI blood loss: Hct on admission was as low as 15.
+She received an EGD which showed blood in the fundus and superficial ulceration surrounding the G tube but no active bleeding.
+Her coumadin was held and should likely not be restarted in the future given multiple episodes of significant GI bleeds.
+Had evidence of UTI on admission.
+Also potentially secondary to hypoperfusion in the setting of profound anemia.
+Also possible contribution of uremia given concurrent renal failure.
+Head CT without any acute change.
+However, after discussions with physicians at her rehab, it seems that her baseline there upon arrival was minimally verbal and minimally interactive.
+# Respiratory failure:  She was intubated for airway protection in the setting of hematemesis and altered mental status.
+She was quickly weaned from the vent and was extubated without complication.
+She had a chest x-ray on [**12-3**] which was consistent with volume overload and possible aspiration.
+She was not treated for aspiration pneumonia given she remained afebrile and WBC count was normal, her oxygen requirements also decreased with addition of furosemide.
+## Urinary tract infection: Evidence of UTI on U/A and received Unasyn in ED.
+On her recent hospitalization, she had a urine culture that grew our Enterococcus which was senstive to both vancomycin and ampicillin.
+Her renal function and leukocytosis improved over the course of admission.
+## Acute on chronic renal insufficiency: acute exacerbation is most likely due to prerenal azotemia in the setting of massive GI blood loss.
+Urine lytes were consistent with prerenal etiology.
+## Hypernatremia: Treated with free water through PEG tube, discharged on 400cc Q4H until hypernatremia resolves.
+Her lasix was held in the setting of her ARF and restarted upon transfer to medical floor.
+Recently started on warfarin for her atrial fibrillation which was discontinued in the setting of her GI bleed.
+She had significantly elevated FSBGs while in house despite holding her tube feeds.
+## Hypertension: antihypertensives intially held given significant bleeding but then restarted as above.
+Titrate up metoprolol as needed for hypertension.
+## FEN: TFs were restarted following EGD and extubation.
+Discharge Disposition: Extended Care  Facility: [**Hospital6 459**] for the Aged - MACU  Discharge Diagnosis: Primary: Gastrointestinal bleed  Secondary: Heart failure h/o CVA Diabetes type II Atrial fibrillation Hypernatremia Acute renal failure COPD UTI   Discharge Condition: Stable, hematocrits stable>96 hours, mental status at baseline   Discharge Instructions: You were admitted for a bleed likely originating from your stomach.
+This was likely caused by a combination of gastritis along with being on several blood thinner medications.

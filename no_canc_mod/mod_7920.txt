@@ -1,0 +1,52 @@
+Admission Date:  [**2145-12-1**]              Discharge Date:   [**2145-12-18**]  Date of Birth:  [**2090-11-16**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 1936**] Chief Complaint: Fevers  Major Surgical or Invasive Procedure: Bronchoscopy lumbar Puncture  History of Present Illness: Mr. [**Known lastname 3060**] is a 55 year old male with hypertension, type II diabetes, alcohol abuse, ESLD s/p orthotopic liver transplant in [**6-/2137**], and severe motor vehicle accident with cervical spinal fracture and subsequent tracheostomy and PEG tube placement in [**8-/2145**] who was admitted to [**Hospital3 417**] Hospital from [**Hospital1 15454**] Rehabilitation Facility on [**2145-11-21**] for evaluation of fevers.
+Per notes, he spiked a fever to 104.5 degrees on the day of presentation and was initially tachycardic and hypotensive and was initially started on doripenem.
+Upon arrival to the emergency room at OSH, he was no longer hypotensive but was persistently tachycardic.
+While in the ICU it appears that he had a broad infectious workup.
+Sinus cultures from [**2145-11-21**] and endotracheal washings from [**11-24**] grew acinetobacter sensitive to tobramycin, amkacin and bactrim and he was started on amikacin from [**2145-11-21**] and received this until [**2145-11-30**].
+G-tube cultures [**2145-11-25**] with enterobacter, enterococcus and mixed gram negative rods.
+He had a non-contrast head CT which showed sinus disease but was otherwise negative.
+CT of the abdomen without contrast did not show evidence of abscess.
+CT chest showed a possible hazy right sided infiltrate.
+Gallium scan showed uptake in areas of known fractures and in the tracheostomy and PEG tube sites.
+All antibiotics it appears were discontinued on [**11-30**] after no fever source was identified but he continued to spike fevers and was started on vancomycin and cefepime on [**12-1**].
+History of DTs in the past Type II Diabetes Pancytopenia following liver transplant thought to be secondary to immunosuppressive medications Hyperlipidemia Hypertension Motor Vehicle Accident with multiple injuries [**8-13**] (C6-C7 facet fractures s/p corpectomy, C7-T1 anterior cervical fusion and C5-T2 posterior cervical depression fusion, left mandibular fracture, left wrist fracture s/p ORIF, multiple rib fractures, right clavicular fracture, mediastinal hematoma, small pericardial effusion, asysolic arrest for 5 minutes)   Social History: Currently living at [**Hospital1 **] LTAC.
+Physical Exam: Vitals: Tm 100.4 97  120/90-->90/60s  120  100% on 35%FM Pain: unknown-nonverbal, no grimacing Access: RUE PICC [**12-3**] Gen: chronically ill, diaphoretic HEENT: trach site clean CV: tachy, regular, no m Resp: scattered rhonchi, mostly clear, poor effort Abd; soft, no grimacing, PEG tube, +BS, foley yellow urine Ext; no edema Neuro: baseline nonverbal, blinks to command, contractures UE/LE Skin: b/l lateral feet with deep erythematous area  with darkened center(blood blister vs deep tissue injury), no skin breakdown  Pertinent Results: Other labs/interpretation: no leukocytosis Hgb stable [**8-14**] Chem panel remarkable for rising BUN 38 today, creat 1.0 Tobra 14.6 [**12-15**] .
+Imaging/results: EEG [**12-16**] prelim: diffuse encephelopathy, no seizures .
+Some prominence of ill-defined pulmonary vessels persists,suggesting continued pulmonary vascular congestion.
+Poor definition of the left hemidiaphragm could reflect atelectasis and small pleural effusion.
+No evidence of acute focal pneumonia.
+Right upper lobe collapse due to obstruction of the right upper lobe bronchus with secretions; nonobstructive left lower lobe collapse.
+Bilateral nonhemorrhagic pleural effusions, more marked on the right with dependent right lung base atelectasis.
+Small pericardial effusion.
+Multiple old fractures and fixation hardware in the ervicothoracic spine from previous trauma.
+CHEST (PORTABLE AP) Study Date of [**2145-12-1**] 7:19 PM IMPRESSION: Perihilar opacities, raising question of early CHF.
+Multiple rib fractures and right clavicle fracture.
+No pneumothorax detected.
+Patchy opacity at the left base, question atelectasis versus early infiltrate.
+FOOT 2 VIEWS RIGHT PORT Study Date of [**2145-12-1**] 11:28 PM IMPRESSION: Somewhat limited exam, but no findings to confirm the presence of osteomyelitis .
+No acute pathology is identified in the abdomen and pelvis to explain the patient's symptoms.
+Mild bibasilar atelectasis.
+Unchanged calcified hepatic lesion in the interlobar fissure.
+TTE (Complete) Done [**2145-12-3**] at 11:27:07 AM      FINAL Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded.
+The aortic valve leaflets are mildly thickened.
+No masses or vegetations are seen on the aortic valve, but cannot be fully excluded due to suboptimal image quality.
+There is no aortic valve stenosis.
+No masses or vegetations are seen on the mitral valve, but cannot be fully excluded due to suboptimal image quality.
+Trivial mitral regurgitation is seen.
+No masses or vegetations are seen on the tricuspid valve, but cannot be fully excluded due to suboptimal image quality.
+There is no pericardial effusion.
+No vegetations found.
+Compared with the report of the prior study (images unavailable for review) of [**2137-5-21**], there is no significant change   Brief Hospital Course: 55 year old male with DM, ETOH abuse/cirrhosis s/p OLT [**6-/2137**] c/b chronic rejection, ETOH related MVA [**8-13**], complicated course, now anoxic brain injury s/p trach/PEG admitted from extended care facility->OSH [**11-21**]-->[**Hospital1 18**] [**Hospital Unit Name 153**] [**11-30**] for persistant fevers, presumed pulm source, stable on Abx, now on Gen Med [**12-14**] awaiting placement.
+Imaging so far has been unrevealing and has included abdominal CT without contrast, head CT (sinus disease) and chest CT. TTE negative for gross endocarditis.
+Afebrile for >48hours, only low grade temps likely [**2-6**] atelectasis from thick mucous.
+Per neuro, severe baseline anoxic injury with toxic/metabolic encephalopathy.
+multiple RF for seizures (tacrolimus, carbepenem abx, baseline anoxic injury) but none clinically obvious and EEG on [**12-16**] c/w encephlopathy (prelim), no seizures.
+-encephalopathy is likely from diffuse axonal damage (anoxic injury) but worse with acute infection, multiple meds, etc.
+some degree volume depletion (insensible losses with sweats) since BP also low when tachy worse.
+Also worse when low grade fevers.
+Cant give continuous IVF [**2-6**] pulm edema on CXR.
+Acute on Chronic Respiratory Failure: Patient required vent support for few days in setting of likely pneumonia/tracheobronchitis and possible volume overload.
+- wean O2 as tolerated, agressive pulm toilet, frequent suctioning, cont mucomyst nebs - treat infection as above -CXR suggesing pulm edema but intravascularly depleted (hypotension/tachy/elevated BUN) so cannot do now .
+Acute Renal Failure - Resolved, likely secondary to sepsis on initial presentation - monitor, BUN has been going up, gets IVFs boluses prn, 1L today.
+Monitor closely for volume depletion.
+Discharge Disposition: Extended Care  Facility: [**Hospital1 700**] - [**Location (un) 701**]  Discharge Diagnosis: Fevers tracheobronchitis vs HCAP/VAP Acute renal failure   Discharge Condition: STABLE   Discharge Instructions: Admitted with fevers, likely tracheobronchitis vs PNA, on antibiotics (tobramycin/ertapenum) until [**12-22**]   Followup Instructions: please f/u PCP Dr, [**Name9 (PRE) **] in 2weeks.

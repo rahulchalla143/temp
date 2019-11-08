@@ -1,0 +1,52 @@
+Admission Date:  [**2101-9-4**]              Discharge Date:   [**2101-9-10**]   Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 2186**] Chief Complaint: Pneumonia  Major Surgical or Invasive Procedure: [**2101-9-7**] bronchoscopy   History of Present Illness: The patient is an 89yo male with PMH notable for COPD, Afib, DM, h/o PNA requiring intubations, and h/o bronchomalacia transfered to [**Hospital1 18**] intubated from [**Hospital3 4298**] Hosptial.
+Today he had dyspnea, called EMS and was taken to MVH ED where he was treated for ?COPD and CHF exacerbations with azithromycin, solumedrol, and lasix.
+Per report, he had a neg D-dimer and a leukocytosis of 19 (but on prednisone).
+Ultrasound showed compressible SVC.
+CXR showed bibasilar opacities.
+EKG showed fib or flutter at 59.
+Family History: No family hx tbm,  Physical Exam: Physical Examination T Low BP 102/65 HR 83 RR 15 O2 Sat 100% General: Intubated, non responsive HEENT: PEERL but sluggish Neck: supple CV: Distant heart sounds, regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops Lungs: Clear to auscultation anteriorly, no wheezes, rales, ronchi Abdomen: Large midline well healed scar, soft, non-distended, bowel sounds present, no palpable organomegaly, no tenderness to palpation, no rebound or guarding GU: + foley Ext: Cool, dopplerable pulses, no clubbing, cyanosis or edema Neuro: Non responsive, PERRL  Upon Discharge: unchanged except for the following General: Well-appearing, no acute distress Lungs: b/l rhonchi throughout   Pertinent Results: Admission Labs: [**2101-9-4**] 06:33PM   WBC-12.1* RBC-4.74 HGB-14.9 HCT-44.1 MCV-93 MCH-31.4 MCHC-33.8 RDW-13.8 [**2101-9-4**] 06:33PM   NEUTS-96.9* LYMPHS-1.6* MONOS-1.3* EOS-0.1 BASOS-0.1 [**2101-9-4**] 06:33PM   PT-33.3* PTT-32.0 INR(PT)-3.2* [**2101-9-4**] 06:33PM   PLT COUNT-206 [**2101-9-4**] 06:33PM   GLUCOSE-285* UREA N-46* CREAT-1.3* SODIUM-139 POTASSIUM-5.8* CHLORIDE-104 TOTAL CO2-25 ANION GAP-16 [**2101-9-4**] 06:33PM   ALT(SGPT)-38 AST(SGOT)-35 ALK PHOS-49 TOT BILI-1.0 [**2101-9-4**] 06:33PM   LIPASE-42 [**2101-9-4**] 06:33PM   ALBUMIN-3.2* CALCIUM-7.9* PHOSPHATE-3.4 MAGNESIUM-2.6 [**2101-9-4**] 06:33PM   CK-MB-5 cTropnT-0.05* proBNP-986* [**2101-9-4**] 06:39PM   TYPE-ART RATES-14/ TIDAL VOL-500 PEEP-10 O2-100 PO2-244* PCO2-42 PH-7.42 TOTAL CO2-28 BASE XS-3 AADO2-423 REQ O2-74 -ASSIST/CON INTUBATED-INTUBATED [**2101-9-4**] 09:58PM   LACTATE-1.4 NA+-138 K+-4.2 CL--108 [**2101-9-4**] 06:33PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-70 KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.5 LEUK-NEG [**2101-9-4**] 06:32PM   LACTATE-2.4* [**2101-9-4**] 06:33PM URINE  COLOR-Straw APPEAR-Clear SP [**Last Name (un) 155**]-1.010  Discharge Labs:  Imaging:  Cardiovascular Report ECG Study Date of [**2101-9-4**]  6:24:14 PM Atrial fibrillation with controlled ventricular response rate of 59 beats per minute.
+Right bundle-branch block.
+Non-specific ST segment changes in the inferolateral leads.
+No previous tracing available for comparison.
+No atrial septal defect is seen by 2D or color Doppler.
+Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded.
+There is no ventricular septal defect.
+The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present.
+Trace aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+The tricuspid valve leaflets are mildly thickened.
+There is a very small pericardial effusion.
+There are no echocardiographic signs of tamponade.
+Bibasilar opacities which may be atelectasis; however, infection cannot be excluded.
+Possible small left pleural effusion.
+Severe tracheobronchomalacia with areas of complete collapse of the trachea as well as severe narrowing of the left and right main stem bronchi.
+Complete obstruction of left lower lobe bronchus causing collapse of the left lower lobe, which is most likely chronic.
+Consolidation at the right lower lobe with bronchiectasis which may be atelectasis vs. pneumonia or aspiration.
+Nodule with halo of ground glass in the right lower lobe may be infectious in nature.
+Small bilateral pleural effusions.
+Large thyroid goiter arising from the left lobe of the thyroid causing focal mild compression on the trachea.
+Brief Hospital Course: 89yo M PMHx bronchomalacia, Afib, recent OSH admission for PNA, who re-presented 1d after discharge w dyspnea and hypoxia requiring intubation, bronch and CT c/w bronchomalacia, e/o ongoing infection versus mucus plugging.
+Active Issues =========================== # Tracheobronchomalacia: Mr. [**Known lastname **] was transferred from [**Hospital 31145**] for hypoxic respiratory failure.
+He was recently d/c'd from OSH where he was treated for a ?candidal pneumonia and COPD exacerbation.
+He then represented to OSH for hypoxic respiratory failure and transferred to [**Hospital1 18**] after intubation.
+Upon admission to MICU, he had CXR showed possible bilateral pleural effusions, but pneumonia, especially in the retrocardiac space cannot be ruled out.
+A bronchoscopy was performed which revealed airways that were convoluted with sputum and mucous plugs.
+The patient was extubated on [**2101-9-6**] without complication.
+A CT trachea was performed which showed severe tracheobronchomalacia with complete collapse of the trachea on expiration and severe narrowing of the mainstem bronchi; secretions in airways with complete obstruction of left lower lobe bronchus causing collapse of the left lower lobe, likely choronic; consolidation at right lower lobe which may be atelectasis, infectious or aspiration; multiple sub-centimeter nodules for which follow up in 3 months is required.
+Pulmonology was consulted and PFTs during hospitalization did not illustrate reactive airway pattern or reversibility with bronchodilators.
+Upon discharge, his symptoms greatly improved, with O2 saturation high 90s on RA with minimal coughing.
+#Hospital acquired pneumonia: Evidence of RLL infiltrate on CT scan.
+With his recent treatment for community acquired pneumonia at OSH.
+#Dysphagia: pt complained of dysphagia for liquids/solids s/p extubation.
+He had never had dsyphagia previously.
+Speech and swallow evaluated him and believed it was secondary to tracheal irritation.
+Most likely hypovolemia, possibly severe sepsis.
+He was fluid responsive to only 2.5L of fluid recussitation.
+ECHO revealed normal EF without significant valvular dysfunction and only small pericardial effusion.
+# Hypothermia: Hypovolemia vs severe sepsis in setting of hypotension.
+# [**Last Name (un) **]: thought to be most likely secondary to pre-renal as Cr trended down to 0.9 upon discharge with IVf.
+He came in with supratherapeutic INR of 3.2, which was reversed with vitamin K in preparation for bronchoscopy.
+#Elevated Lactic acid: Slight elevation at 2.4 thought to be secondary to hypovolemia which improved with IVF.
+Transional Issues: =========================== - Pulmonary nodules in RLL will need to be followed up in 3 months by CT. - Mr. [**Known lastname **] had supratherapeutic INR upon admission.
+Mucinex *NF* (guaiFENesin) 1,200 mg Oral [**Hospital1 **] Reason for Ordering: requiring mucolytics RX *Mucinex 1,200 mg 1 tablet(s) by mouth twice a day Disp #*60 Tablet Refills:*0 9.
+You were also being treated with a pneumonia with 3 antibiotics.

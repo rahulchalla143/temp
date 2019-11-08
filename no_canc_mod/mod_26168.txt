@@ -1,0 +1,41 @@
+Admission Date:  [**2180-7-23**]              Discharge Date:   [**2180-8-14**]  Date of Birth:  [**2113-2-2**]             Sex:   F  Service: CARDIOTHORACIC  Allergies: Heparin Agents  Attending:[**Last Name (NamePattern1) 1561**] Chief Complaint: shortness of breath  Major Surgical or Invasive Procedure: [**7-21**] emergent tracheal intubation [**7-27**] rigid bronch/stenosis dilation/ETT advancement [**8-1**] balloon dilation of trachea [**8-3**] extubated [**8-7**] tracheal resection bronchoscopy   History of Present Illness: 67-year-old woman who presented to an outside hospital on [**2180-7-14**] with shortness of breath, stridor and wheezing, and after extensive workup, was found to have subglottic stenosis.
+Her history dates back to [**5-/2180**] when she was found down in [**Male First Name (un) 1056**] and diagnosed with a large myocardial infarction.
+She was intubated for four days, subsequently extubated and reintubated several hours later due to respiratory distress.
+Her surgery was uneventful and she was extubated without difficulty but subsequently developed progressive dyspnea and wheezing and was admitted on [**2180-7-14**] and found to have moderate-to-severe post-intubation tracheal stenosis commencing approximately 3 cm below the vocal cords.
+While waiting transfer to a tertiary care medical center, she developed an episode of bradycardia and required intubation, however, the endotracheal tube was unable be advanced beyond the stenosis.
+Past Medical History: Significant for coronary artery disease status post myocardial infarction in [**5-/2180**], status post coronary artery bypass grafting x3 in [**Location (un) 6185**], hypertension, hypercholesterolemia, and type 2 diabetes.
+Physical Exam: On Admission: Vitals: 100.7F, HR 79, BP 142/72, RR 16 100% Gen - intubated, sedated HEENT - PERRL, EOMI B/L Neck - supple, no adenopathy CV - RRR, nl s1, s2 Pul - rhonchi b/l Abd - soft, NT, ND, +BS Ext - no c/c/e  Pertinent Results: On admission: [**2180-7-23**] 08:30PM   WBC-6.2 RBC-2.98* HGB-8.2* HCT-24.4* MCV-82 MCH-27.4 MCHC-33.5 RDW-16.3* [**2180-7-23**] 08:30PM   PLT COUNT-76* [**2180-7-23**] 08:30PM   PT-11.8 PTT-25.7 INR(PT)-1.0 [**2180-7-23**] 08:30PM   GLUCOSE-128* UREA N-24* CREAT-0.4 SODIUM-145 POTASSIUM-3.2* CHLORIDE-109* TOTAL CO2-32 ANION GAP-7* [**2180-7-23**] 08:30PM   ALT(SGPT)-23 AST(SGOT)-21 LD(LDH)-253* CK(CPK)-29 ALK PHOS-44 TOT BILI-0.4 [**2180-7-23**] 08:30PM   CK-MB-NotDone cTropnT-0.01 [**2180-7-23**] 08:30PM   ALBUMIN-2.5* CALCIUM-7.7* PHOSPHATE-1.6* MAGNESIUM-2.1 [**2180-7-23**] 10:16PM   TYPE-ART TEMP-38.2 RATES-/16 TIDAL VOL-466 O2-40 PO2-209* PCO2-49* PH-7.46* TOTAL CO2-36* BASE XS-10 INTUBATED-INTUBATED VENT-SPONTANEOU  At Discharge: [**2180-8-13**] 05:37AM BLOOD WBC-5.5 RBC-3.06* Hgb-9.1* Hct-26.0* MCV-85 MCH-29.8 MCHC-35.0 RDW-15.8* Plt Ct-357 [**2180-8-14**] 05:40AM BLOOD PT-31.8* PTT-45.1* INR(PT)-3.4*  CXR [**8-8**]: IMPRESSION: The post-surgical drain is again demonstrated with its tip overlying the upper mediastinum.
+acute bleed  IMPRESSION: 1) No acute intracranial hemorrhage or major vascular territorial infarct identified.
+2) Absence of the septum pellucidum, likely congenital in origin.
+Focal segment of tracheal stenosis involving the subglottic and upper intrathoracic trachea.
+Nonspecific mild ground-glass opacity in the medial aspect of the superior segment of the right lower lobe, which could be secondary to aspiration.
+Small bilateral pleural effusions, unchanged   Brief Hospital Course: Pt was transferred to [**Hospital1 18**] on [**7-23**] from an OSH for management of her tracheal stenosis likely secondary to intubation.
+On admission she was started on levofloxacin and flagyl for empiric coverage against a possible pneumonia, for which she was being treated with zosyn and ceftriaxone at her OSH.
+For her tracheal stenosis she was started on solumedrol and given nebs.
+Bronchoscopy on [**7-24**] showed severe tracheal stenosis 5mm in diamter and 2.5cm in length.
+On [**7-25**] Ms [**Known lastname **] was found to be HIT positive and was therefore started on an argatroban drip.
+At that time she was seen by cardiology for pre-operative clearance.
+Although she had had recent CABG, the cardiologists felt that she had no current high risk prognostic features and therefore cleared her for surgery.
+also began having runs of SVT at this time requiring IV lopressor 15-20mg.
+On [**7-27**] she was underwent rigid bronch and tracheal dilation without incident.
+The left atrium is mildly dilated.
+There is mild symmetric left ventricular hypertrophy with normal cavity size and systolic function (LVEF>55%).
+The aortic valve leaflets (3) are mildly thickened.
+The mitral valve leaflets are mildly thickened.
+Trivial mitral regurgitation is seen.
+She was planned for surgery on [**7-31**] for a tracheal resection, although her runs of SVT continued.
+Bronchial washings at this time were negative for malignancy.
+Pt contiued to have SVT with non-specific ST changes on [**7-31**], and therefore the surgery was postponed.
+On [**8-1**] she went to the OR for rigid bronch and balloon dilation of trachea to 14mm without complications.
+On [**8-2**] pt was extubated without difficulty and was seen by speech and swallow who felt she was aspirating with thin liquids and recommended nectar thick liquids and ground solids.
+She continued to have episodes of narrow complex SVT.
+On POD 2 pt became supratherapeutic on her coumadin.
+In addition, her metoprolol was decreased to 12.5 [**Hospital1 **] from 25 [**Hospital1 **] for hypotension into the low 90's/50s.
+On the morning of POD3 pt was noted to be hypoglycemic and was given 1amp of D50.
+However she continued to be lethargic and began having a short run of narrow complex SVT.
+Pt was sent for a head CT which was negative for an intracranial bleed and was seen by neurology.
+The right-sided weakness resolved later that day.
+On POD4 pt had another run of SVT and her metoprolol was changed to toprol xl 50mg qday per cardiology.
+Disp:*30 Tablet(s)* Refills:*2*   Discharge Disposition: Home  Discharge Diagnosis: tracheal stenosis, Coronary artery disease s/p MI and Coronary artery bypass graftx 3 in [**5-/2180**], hypertension, hypercholesterolemia, Diabetes Mellitus type 2, HEparin induced thrombocytopenia +.
+[**Last Name (STitle) 17224**] Thoracic Surgery office for: fever, shortness of breath, chest pain.
+Wipe incision dry after showering.

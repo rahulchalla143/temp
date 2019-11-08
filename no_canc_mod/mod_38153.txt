@@ -1,0 +1,46 @@
+Admission Date:  [**2151-12-13**]              Discharge Date:   [**2151-12-18**]   Service: MEDICINE  Allergies: Abilify / Lisinopril  Attending:[**Last Name (NamePattern4) 290**] Chief Complaint: lethargy  Major Surgical or Invasive Procedure: none  History of Present Illness: 84 yr old pleasantly demented female with h/o DM, HTN, ?CHF who presents to the ED with increased lethargy.
+A CXR was done which showed a PNA and she was started on levaquin (day 1 = [**12-9**]).
+No report of fevers or chills at NH.
+Given her lethargy and tenuous resp status, she was transferred to the [**Hospital Unit Name 153**] for closer monitoring.
+Past Medical History: s/p multiple falls with T12 compression fracture (tx with TLSO + PT) type II diabetes mellitus dementia hypertension urinary incontinence obstructive sleep apnea- CPAP 11 per sleep study, but pt refuses h/o osteomyelitis aflutter on ekg in [**2150**]  Social History: lives in [**Location **]; 80 pack years, denies alcohol, IVDU; .
+patient lives at [**Location (un) 45045**] [**Hospital3 **] for the past 3.5yrs Retired nurse two daughter are involved in her care       [**Name (NI) **] [**Last Name (NamePattern1) 1968**] ([**Telephone/Fax (1) 102899**]; [**Telephone/Fax (1) 102900**])       [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] ([**Telephone/Fax (1) 102901**]; [**Telephone/Fax (1) 102902**])  Family History: non-contributory  Physical Exam: PE: VS:  97.6   68   117/50   16   100% 2L NC   106.8 kg GEN: NAD HEENT: PERRLA, EOMI, sclera anicteric, OP clear, MMM, no LAD, no carotid bruits.
+PULM: bilateral coarse breath sounds + rhonchi, no wheezing.
+ABD: obese, soft, NT, ND, + BS, no HSM.
+Retrocardiac density representing atelectasis versus airspace disease.
+Bilateral pleural effusions and mild engorgement of perihilar vasculature, likely representing a mild amount of CHF.
+EKG: NSR at 70bpm, nl axis, no ST or T wave changes .
+MICRO: [**12-13**] blood cx: pending  Brief Hospital Course: Pt was admitted to the [**Hospital Unit Name 153**] in hemodynamically stable condition, without chest pain.
+She did not ongoing "heaviness" with her breathing, but was breathing comfortably on 2L NC.
+# fever: etiology of pt's fever was initially felt [**3-4**] pneumonia, however retrocardiac density on CXR was not very impressive, particularly given lack of wbc and lack of findings on CXR.
+UA was negative, pt denies diarrhea or abdominal pain.
+pt was complaining of sinus congestions, thus treated for both pneumonia and sinusitis with ceftriaxone, azithromycin, but d/c'd abx on [**12-15**] after 6d course as feel pt's symptoms are more likely related to CHF.
+her acute increase in lethargy was felt most likely [**3-4**] infection versus CHF, although hypercarbia was possible (though beleive pt was not far off of baseline CO2 which is likely 53-55 based on previous serum HCO3 levels).
+Pt received treatment for underlying infection, diuresis for CHF (-2.2L removed [**12-14**]) and antipsychotic medications were held.
+A second trial of full face cpap was attempted overnight [**12-14**], but pt became apneic (presumably because CO2 was removed reducing her respiratory drive).
+Pt was felt to be having periodic respirations, which could in the future benefit from increased dead space in the CPAP circuit, however given that pt is resistant to CPAP and that she is not currently lethargic, plan was to recommend outpatient sleep clinic evaluation to optimize her CPAP if she became amenable to CPAP in the future of if her lethargy became more persistant.
+# hypoxia: pt with h/o OSA, with ?CHF +/- evidence of a component of pulmonary artery hypertension on CXR (increased calibre of pulmonary vasculature).
+O2 sats noted to drop into 80s when sleeping, which was felt due to OSA, though she has been relatively stable otherwise.
+Pt also treated for pna in light of fevers.
+Cardiac enzymes obtained to evaluate causes for CHF exacerbation which were unremarkable.
+Pt also underwent a trial of nasal CPAP given her h/o of OSA, however she did not tolerate CPAP well as she sleeps with her mouth open, and became apneic with whole face CPAP as described above.
+No active granuloma seen on CXR.
+# cardiac - pt with unclear h/o CAD, although has risk factors (DM, HTN).
+also unclear h/o CHF as she takes lasix, but daughters do not say she carries dx of CHF.
+no Q-waves on EKG, but inciting event of CHF may have been >1 week ago.
+other causes of CHF exacerbation could be infection.
+pt continued on asa, lisinopril was held on [**12-15**] given concern of enlarge tongue (?angioedema), however upon further discussion with PCP pt has been on this medication for >8months, and it could be restarted.
+Pt was empirically started on low dose metoprolol 12.5mg po bid, however she became bradycardic at rest (HR 40s-50s) therefore this was discontinued.
+she will be d/c'd home off of any antihypertensives, to her PCP, [**Name10 (NameIs) **] which time she could be restarted on [**First Name8 (NamePattern2) **] [**Last Name (un) **] if needed for BP control.
+low dose metoprolol was attempted given our beleif that she has fixed stable CAD, and that an ischemic event ~1week PTA may have been responsible for her pulmonary edema this admission.
+however she did not tolerate this well, and as a result is being discharged home off of any antihypertensive meds.
+In the future, she may be considered for [**First Name8 (NamePattern2) **] [**Last Name (un) **] if afterload reduction is necessary.
+# Dementia: we have discontinued pt's aricept and risperdal given questions of lethargy / mental status changes [**12-14**] AM.
+# PPx - SubC heparin for DVT prophylaxis - bowel regimen .
+# CODE: FULL, confirmed with daughters .
+# DISPO - pt will be discharged back to her nursing home.
+she has been started on no new medications.
+If her occasional lethargy progresses, or she is willing to use CPAP, then outpatient visit to pulmonary clinic to try to increase the amount of dead space in her CPAP may be appropriate.
+Stopped at [**Hospital1 18**] for bradycardia 5. further outpt anemia w/u 6. adjust home lasix dose-restarted on 10 mg QD on day of discharge  Medications on Admission: * Actonel 35mg qTues * Lasix 10mg qd * INH 300mg qd x 6months * Lisinopril 5mg qd * ASA 81mg qd * B12 1000mcg qmonth * Aricept 5mg qd * Lipitor 10mg qd * Risperdal 0.25mg [**Hospital1 **] (d/c'd [**12-12**]) * Tylenol 1000mg [**Hospital1 **] * Avandia 4mg [**Hospital1 **] * Calcarb 600U/Vit D 200IU, one tab [**Hospital1 **] * colace 100mg [**Hospital1 **] * Omeprazole 20mg qhs * Xalatan 0.005% eye drops qhs  Discharge Medications: 1.
+Discharge Disposition: Extended Care  Facility: [**Hospital3 537**]- [**Location (un) 538**]  Discharge Diagnosis: primary pulmonary edema sleep apnea .
+secondary anemia   Discharge Condition: stable, alert, hemodynamically stable, with O2 sats 90s on RA.
+if you have symptoms of worsening shortness of breath, chest pain, or persistent lethargy / somnolence, please contact your PCP or the emergency department.

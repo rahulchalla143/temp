@@ -1,0 +1,53 @@
+Admission Date:  [**2150-1-11**]              Discharge Date:   [**2150-2-4**]  Date of Birth:  [**2079-8-25**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 2181**] Chief Complaint: hypotension, syncope  Major Surgical or Invasive Procedure: PICC line  History of Present Illness: This is a 70year-old female with a history of Ulcerative Colitis who presents from [**Hospital6 302**] with hypothermia, bradycardia and hypotension.
+She was found to be hypotensive and bradycardic by EMS.
+She was aphasic and there was concern per EMS that she might have a right sided facial droop.
+CT scan of the head was negative for intracranial hemorrhage.
+CT chest/abdomen/pelvis was concerning for a small bowel obstruction and peripancreatic stranding.
+The patient was examined by Surgery, but they did not feel that her physical exam was consistent with a small bowel obstruction.
+Per notes, FAST exam was concerning for a pericardial effusion.
+On arrival to the [**Hospital Unit Name 153**] she is intubated, sedated, withdraws to pain but is otherwise unresponsive.
+Past Medical History: Ulcerative Colitis s/p colectomy with end ileostomy Schizoaffective disorder Chronic renal insufficiency ([**Hospital Unit Name 5348**] creatinine unknown) Hypertension   Social History: Social History: Unknown  Family History: Family History: Unknown  Physical Exam: General: Intubated, no sedation, minimally responsive to painful stimuli HEENT: pupils 3 mm and minimally reactive, sclera anicteric, MM dry, food in airway Neck: JVP not elevated, no LAD CV: regular rate and rhythm, normal s1 and s2, no murmurs, rubs, gallops Lungs: Decreased breath sounds at left base, otherwise clear anteriorly GI: soft, ostomy with liquid stool in right lower quadrant, non-disteneded, faint bowel sounds, no organomegaly GU: foley with minimal cloudy urine Ext: WWP, 2+ pulses, no clubbing, cyanosis or edema, bruises on lower extremities bilaterally   Pertinent Results: =========== Labs =========== admission labs  [**2150-1-11**] 08:00PM BLOOD WBC-19.5* RBC-2.83* Hgb-8.7* Hct-27.4* MCV-97 MCH-30.8 MCHC-31.8 RDW-16.0* Plt Ct-109* [**2150-1-11**] 08:00PM BLOOD PT-15.7* PTT-41.0* INR(PT)-1.4* [**2150-1-11**] 09:48PM BLOOD Glucose-200* UreaN-58* Creat-6.5* Na-141 K-4.4 Cl-124* HCO3-8* AnGap-13 [**2150-1-11**] 09:48PM BLOOD ALT-15 AST-19 AlkPhos-92 TotBili-0.2 [**2150-1-11**] 08:00PM BLOOD Lipase-3360* [**2150-1-12**] 04:45AM BLOOD Calcium-7.2* Phos-2.5* Mg-1.0* [**2150-1-15**] 04:00PM BLOOD VitB12-1405* [**2150-1-12**] 04:45AM BLOOD Osmolal-319* [**2150-1-15**] 04:00PM BLOOD TSH-2.5 [**2150-1-12**] 07:16AM BLOOD Cortsol-13.0 [**2150-1-12**] 08:00AM BLOOD Cortsol-32.8* [**2150-1-12**] 08:43AM BLOOD Cortsol-37.2* [**2150-1-11**] 08:00PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG Bnzodzp-NEG Barbitr-NEG Tricycl-POS  ============= Neurology ============= EEG This is a mildly abnormal EEG in the waking and drowsy states due to the presence of left temporal slow transients suggestive of an area of subcortical dysfunction in this region.
+Otherwise, no epileptiform features were seen.
+No intra- or extra-hepatic biliary ductal dilatation, no choledocholithiasis seen.
+RUE U/s IMPRESSION: No evidence of deep vein thrombosis.
+CT Head [**1-15**] No evidence of hemorrhage or stroke.
+No parenchymal infection or aspiration.
+Small bilateral pleural effusions.
+Prominent pericardial recess, less likely a cyst.
+Brief Hospital Course: Impression: 70year-old female with a history of Ulcerative Colitis who presents from [**Hospital6 302**] with hypothermia, bradycardia and hypotension found to have acute renal failure, severe acidosis and elevated pancreatic enzymes.
+Has an appointment set up with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 3636**] as PCP and with Dr. [**Last Name (STitle) 118**] for renal outpatient.
+***Of note: patient should have outpt f/u with pcp regarding the elevated ca [**60**]-9 which was checked for unclear reasons earlier during this hospital stay.
+Shock: Patient on presentation was hypothermic, hypotensive and bradycardic concerning for shock of unclear etiology.
+Concern for severe infection.
+There was a ?
+CT Head was positive for possible sinus infection, so patient was treated with azithromycin.
+After initial hypotension, patient became hypertensive and was started on Nifedipine in the ICU.
+Acute Renal Failure: Likely secondary to ATN.
+No evidence of hydronephrosis on CT scan to suggest obstruction.
+Elevated pancreatic enzymes: Unclear etiology, may be secondary to poor perfusion.
+[**Month (only) 116**] also be the cause of her original presentation.
+On CT abdomen, no mediastinal hemorrhage, some peripancreatic stranding, long stretch of dilated bowel (collapsed bowel behind it) potentially consistent with incomplete sbo vs local ileus in the setting of pancreatic inflammation.
+Patient does not have clear risk factors as is s/p cholecystectomy and no known history of alcoholism.
+Altered Mental Status: Patient had altered mental status at [**Month (only) 5348**] and schizophrenia.
+Likely secondary to severe infection and acute renal failure with electrolyte abnormalities.
+EEG negative for seizure.
+A psychiatry consult was obtained; per psych, the patient's psych meds were held in the setting of acute illness.
+Schizoaffective disorder:  Held all medications for given altered mental status per Psychiatry.
+Hyperglycemia: No documented history of diabetes.
+Epistaxis: Pt was transferred back to [**Hospital Unit Name 153**] on night of [**1-19**] in setting of massive epistaxis and spitting up bright red blood.
+Due to epistaxis and [**Date Range 5348**] altered mental status (see above), pt desated down to 70s on RA, which improved upon deep suctioning of blood clots.
+She was seen urgently by ENT who identified an area in the L middle turbinate as being the likely source, which was packed and the bleeding resolved.
+There was a subsequent episode of epistaxis on [**1-24**].
+As scheduled the nasal packing was removed on [**1-24**] by ENT and to have continued humidified shovel mask and epistaxis precautions.
+Around 10pm patient developed cough after sip of water.
+ENT was paged and assessed patient at bedside and saw minimal active bleeding from post-nasopharynx (raw appearing diffuse oozing along posterior septum w/o active bleeding along posterior pharyngeal wall).
+She then was transfered to MICU-6 for arterial embolization.
+She was transiently intubated for the procedure and was then extubated following without difficulty.
+was found to be hypoxic on [**1-25**], found to have radiographic evidence of aspiration pneumonia.
+PO DAILY (Daily) as needed for constipation.
+Discharge Disposition: Extended Care  Facility: [**Hospital 5503**] Rehab  Discharge Diagnosis: Primary: Hypovolemic Shock Aspiration Pneumonia Refractory Epistaxis  Secondary: Ulcerative Colitis s/p colectomy with end ileostomy Schizoaffective disorder Chronic renal insufficiency ([**Hospital 5348**] creatinine 3.0) Hypertension   Discharge Condition: Stable, responsive, not ambulatory, can move all 4 extremities spontaneously, eating, drinking, voiding without complaints.
+When you arrived to [**Hospital3 **], you had very low blood pressure and your mental status was impaired.
+On the floor you were doing well until you had several episodes of nose bleeds, which formed clots that prevented you from breathing.
+You were sent back to the ICU twice and the second time you underwent a procedure to block off one of the arteries in your left nostril, which has prevented much of the bleeding from coming back.
+In addition, you had been having difficulty swallowing, and at one point you may have aspirated some of your food/saliva into your lung, causing a pneumonia.
+If you experience any additional nose bleeds, lightheadedness, loss of consciousness, numbness or tingling on one side of your body, please contact your primary care provider [**Name Initial (PRE) 2227**].

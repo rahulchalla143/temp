@@ -1,0 +1,84 @@
+Admission Date:  [**2162-10-10**]              Discharge Date:   [**2162-10-14**]   Service: MEDICINE  Allergies: Penicillins / Bactrim  Attending:[**First Name3 (LF) 2736**] Chief Complaint: fall  Major Surgical or Invasive Procedure: Single lead [**First Name8 (NamePattern2) **] [**Hospital 923**] Medical Identity ADx SR 5180   History of Present Illness:  Ms. [**Known lastname **] is a [**Age over 90 **] yo female h/o dementia, hypertension, osteoporosis who presented to [**Hospital1 43650**] s/p fall at [**Hospital3 **].
+She initially complained of left knee pain and was found to have left eye hematoma.
+However, in the ED around 8 AM she became bradycarduc to 30s, asystolic, and pulseless.
+The patient was unable to describe how she felt, however was back to her baseline mental status within 1-2 minutes.
+She had no complaints or recollection of the event.
+Of note the patient visited [**Hospital1 18**] ED for mechanical fall on [**8-14**] and was also admitted for mechanical fall in [**2161-8-20**].
+Most recent previous admission [**2162-6-20**] for E. Coli Septicemia likely secondary to Cholangitis c/b pancreatitis that resolved with antibiotics and conservative management.
+On arrival to the floor, patient reports that her bladder hurts since the foley was placed.
+REVIEW OF SYSTEMS: Postive for achy joints and frequency of urination.
+On review of systems, she denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.
+She denies recent fevers, chills or rigors.
+She denies exertional buttock or calf pain.
+Cardiac review of systems is notable for absence of chest pain, dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope.
+Past Medical History: - Dementia - Hypertension - Arthritis - Sjogrens - Cataracts - h/o Bleeding ulcer - Narrow complex tachycardia: [**1-29**], reverted to sinus, on toprol.
+- L2-L3 compression fractures - Anterior abdominal wall fat-containing hernia and right inguinal hernia - Osteoporosis - Spinal Stenosis  Social History: Lives in [**Hospital3 **] [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] facility and ambulates with walker.
+Left eye with hematoma and bruising present.
+Sclera anicteric.
+3/6 systolic murmur heard best at Right upper sternal border and radiating to clavicles.
+No thrills, lifts.
+CTAB, no crackles, wheezes or rhonchi.
+No HSM or tenderness.
+5-8 mm slightly raised round lesions scattered over upper LE bilaterally (posterior>anterior and L>R).
+Left eye with hematoma and bruising present.
+Sclera anicteric.
+3/6 systolic murmur heard best at Right upper sternal border and radiating to clavicles.
+No thrills, lifts.
+CTAB, no crackles, wheezes or rhonchi.
+No HSM or tenderness.
+5-8 mm slightly raised round lesions scattered over upper LE bilaterally (posterior>anterior and L>R).
+No acute intracranial hemorrhage or fractures.
+New opacification of the left mastoid air cells and middle ear cavity, please correlate with signs of infection.
+CT C-Spine [**10-10**]: No acute cervical spine fracture.
+Multilevel moderate-to-severe degenerative changes of the cervical spine, worse at C4-C5 level.
+No new lumbar spine fracture.
+Multilevel severe degenerative changes of the lumbar spine, worse at L3-L4 level with moderate spinal canal stenosis.
+CT T-Spine [**10-10**]: No acute thoracic spine fracture.
+Mild compression of the superior endplate of T3 vertebral body, is likely chronic.
+No acute fracture.
+Bilateral tricompartmental osteoarthritis, severe on the left and mild on the right.
+Patchy right basilar opacity may reflect atelectasis, aspiration or focal/early pneumonia.
+Lungs are clear except for a tiny calcified granuloma in the periphery of the right lower lobe.
+No rib fractures are identified, but portable chest radiographs are relatively insensitive for detecting rib fractures, especially those involving the anterior ribs.
+There is no visible pneumothorax or pleural effusion.
+No atrial septal defect is seen by 2D or color Doppler.
+There is mild symmetric left ventricular hypertrophy.
+Left ventricular systolic function is hyperdynamic (EF>75%).
+Doppler parameters are most consistent with Grade I (mild) left ventricular diastolic dysfunction.
+There is a mild resting left ventricular outflow tract obstruction.
+The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present.
+There is no valvular aortic stenosis.
+The increased transaortic velocity is likely related to high cardiac output.
+Mild to moderate ([**12-21**]+) aortic regurgitation is seen.
+Trivial mitral regurgitation is seen.
+The left ventricular inflow pattern suggests impaired relaxation.
+The tricuspid valve leaflets are mildly thickened.
+There is no pericardial effusion.
+IMPRESSION: Mild symmetric LVH with small LV cavity size with hyperdynamic LV systolic function.
+Consequently there is a mild left ventricular outflow tract gradient during systole.
+The aortic valve is thickened but opens reasonably well - the high velocity is due to the LVOT gradient.
+Mild to moderate aortic regurgitation.
+Probable diastolic dysfunction.
+No acute cardiopulmonary disease.
+Brief Hospital Course: Ms. [**Known lastname **] is a [**Age over 90 **] y/o female with a history of dementia, hypertension, and previous h/o narrow complex tachycardia with no known other cardiac history that presented [**1-21**] to fall and was found to have a symptomatic 7 second asystolic pause in ED with ROSC after chest compressions, no shock delivered.
+Active issues: # RHYTHM: Patient with previous history of narrow complex tachycardia on metoprolol.
+Patient with mulitple falls recently, unclear whether mechanical or secondary to bradycardia and conduction abnormality.
+A pacemaker was implanted on [**10-12**] out of concern for arrhythmia as a cause for recurrent falls.
+She was started on diltiazem 45 mg po QID for control of rate and rhythm given family report of "fuzziness" and fatigue that they attributed to the beta-blocker.
+# s/p Fall: patient presented to ED secondary to fall.
+Patient with multiple falls recently.
+Cause unclear, likely multifactorial given dementia, patient uses walker, and now found to have symptomatic 7 second asystolic pause.
+bladder pain and increased frequency of urination: UA with neg nitrite, neg leuks.
+Patient with mild leukocytosis, however after CPR preformed and likely stress reaction.
+Of not on last admission patient with asymptomatic bacturia.
+Urine culture sent in ED, grew proteus mirabilis sensitive to ciprofloxacin and levofloxacin.
+She completed a three day course for UTI on [**10-14**].
+Home metoprolol held for bradycardia and asystole.
+Home oxycodone continued prn for pain.
+Artificial Tears Preserv.
+Artificial Tears Preserv.
+Polyethylene Glycol 17 g PO DAILY   Discharge Disposition: Extended Care  Facility: [**First Name4 (NamePattern1) 1188**] [**Last Name (NamePattern1) **] - [**Location (un) 538**]  Discharge Diagnosis: Sinus arrest Urinary Tract Infection   Discharge Condition: Mental Status: Confused - always.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+All of the tests to look for serious injury were negative.
+The pacemaker was placed on [**10-12**] and there were no complications.
+A urine sample showed that you had a urinary tract infection and you will be on an antibiotic for one week.

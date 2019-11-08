@@ -1,0 +1,66 @@
+Admission Date:  [**2120-7-8**]              Discharge Date:   [**2120-8-1**]  Date of Birth:  [**2054-6-13**]             Sex:   F  Service: NEUROLOGY  Allergies: Codeine / Lipitor  Attending:[**First Name3 (LF) 13017**] Chief Complaint: Pneumonia  Major Surgical or Invasive Procedure: none   History of Present Illness: Patient seen and examined, agree with house officer admission note by Dr. [**Last Name (STitle) **] with additions below.
+66 year old Female with diabetes, CVA, and ESRD on HD M/W/F who presented to ED from hemodialysis after developing fever and chills.
+History is difficult to obtain, as the patient is minimally conversive at baseline, but was not noted to have any coughing, vomiting, or diarrhea per report.
+At times, she was not responsive to verbal stimuli and had increased oral secretions.
+She also was noted to have diminished breath sounds bilaterally, though this was felt to be secondary to poor inspiratory effort.
+Labs notable for WBC 6.1 with 78.7% neutrophils and no bands.
+Of note, she was recently admitted [**Date range (1) 64432**] with lethargy and abdominal pain.
+She had a waxing and [**Doctor Last Name 688**] mental status during the admission, felt to be multifactorial in nature secondary to hypoglycemia, exacerbation of previous stroke/neuro deficits, and possible UTI (though culture only positive for mixed flora).
+CT head during that admission did not show any acute process, and EEG suggested a toxic-metabolic encephalopathy (possibly secondary to her underlying ESRD).
+Coronary artery disease - s/p cath ([**8-24**]): Mild epicardial disease, collalateral flow to distal inferior wall, no intervention 2.
+Hypertension 3.
+Hyperlipidemia 4.
+Stroke: left frontal MCA and occipital PCA stroke 7.
+Impaired memory s/p MVA 8.
+Anemia 9.
+H/o Upper GI bleed NOS, gastritis, duodenitis  Social History: Born in [**Country **].
+Family History: -Father died in his 70's with heart disease -Siblings (two sisters) with diabetes mellitus (type II).
+New right lower lobe opacity worrisome for pneumonia in the appropriate setting, although other etiologies such as atelectasis associated with a small pleural effusion could explain the finding.
+Widespread mild interstitial abnormality with new pleural effusion and thickened fissures, suggesting vascular congestion.
+EEG [**2120-7-12**] IMPRESSION: This telemetry captured no pushbutton activations.
+He background appeared very slow and encephalopathic throughout, but with additional higher voltage slowing on the left side.
+After the first hour or so, there was nearly continuous slowing mixed with 1.5-2 Hz generalized sharp and slow activity, without clinical signs of seizure on video.
+The record is difficult for making the distinction between severe encephalopathy and seizure, but the somewhat rhythmic, nearly 2 Hz sharp and slow activity suggests strongly the possibility of nonconvulsive seizure activity.
+EEG [**2120-7-13**] IMPRESSION: This telemetry captured no pushbutton activations.
+Background rhythms at best demonstrated a moderated to severe encephalopathy.
+There continues to be interspersed periods of time with 1.5-2 Hz sharp and slow wave generalized activity concerning for periods of NCSE as well as more focal left hemisphere sharp and slow discharges at 2 Hz for variable lengths of time during recording.
+No clinical correlate was observed during these periods with persistent epileptiform activity.
+EEG [**2120-7-20**] MPRESSION: This telemetry captured no pushbutton activations.
+Background rhythms at best demonstrated a moderate to severe encephalopathy.
+There continues to be interspersed periods of time with 1.5-2 Hz sharp and slow wave generalized activity as well as more focal left frontotemporal and right central epileptiform activity in prolonged runs.
+CT head [**2120-7-10**] Hypodensity in the left parietal lobe adjacent to the posterior lateral ventricle which was not seen on prior exam, unclear if this is due to differences in slice selection versus new hypodensity.
+If clinical suspicion for ischemia is high, could consider an MRI for better evaluation.
+CT head [**2120-7-22**] Increased extent of cytotoxic edema in the left parietal lobe since [**2120-7-10**] suggests an evolving infarct.
+No significant mass effect.
+No hemorrhagic transformation.
+Bilateral carotid US Less than 40% stenosis, bilateral internal carotid arteries  Labs on Discharge:  [**2120-7-31**] 04:20AM BLOOD WBC-7.3 RBC-2.96* Hgb-9.3* Hct-29.5* MCV-100* MCH-31.6 MCHC-31.7 RDW-14.8 Plt Ct-441* [**2120-7-31**] 04:20AM BLOOD Glucose-193* UreaN-64* Creat-6.3*# Na-136 K-4.6 Cl-91* HCO3-31 AnGap-19 [**2120-7-31**] 04:20AM BLOOD Calcium-9.6 Phos-5.2* Mg-2.7* [**2120-7-31**] 04:20AM BLOOD Phenyto-8.9* Phenyfr-1.9 %Phenyf-21* [**2120-7-31**] 04:20AM BLOOD Phenyto-8.9* [**2120-7-30**] 04:30AM BLOOD Phenyto-8.5* Phenyfr-1.7 %Phenyf-20*  Brief Hospital Course: 66yo woman with a h/o hypertension, DM, hyperlipidemia, afib not on coumadin, multiple prior CVAs, CAD, and ESRD on HD MWF admitted to the hospital on Monday [**7-8**] with fevers / chills, thought to be secondary to HCAP, who developed high blood pressure and confusion at an HD session; she was transferred to the ICU a second time for management of status epilepticus.
+# Neurology: The stroke team was initially consulted while Ms. [**Known lastname 64426**] was on the medicine service when she developed decreased responsiveness and complete disorientation after hemodyalysis.
+At that time, her confusion was most likely due to an underlying infectious and/or metabolic issue, including an episode of hypertension and hypoxia with O2 sats in the 70s.
+A new ischemic event was also considered as a cause.
+Her head CT demonstrated a possible new parietal hypodensity that was of uncertain significance but may represent a new intracerebral process.
+Patient had no new focal deficits, however, exam was limited due to noncompliance.
+Patient transiently became more interactive, but continued to be  disoriented and aphasic.
+Of note, patient was transferred to the ICU at that time for hypertension control.
+She developed twitching of her left arm and eyelid, along with lip smacking and decreased responsiveness, all attributed to status epilepticus, in HED.
+She was on LTM and her EEG showed diffuse encephalopathy as well as intermittent epileptiform discharges.
+On repeat head CT, it was clear that she did indeed have a new infarct in that area.
+Most likely, this stroke was embolic in the setting of afib and no anticoagulation (hand caudate hemorrhage in [**2117**] so coumadin was stopped) vs. a hypertensive etiology.
+Controlled HTN as below.
+# HCAP: On presentation, the patient's fever/chills were likely secondary to HCAP given new RLL opacity on CXR.
+She did not have a leukocytosis, but did have neutrophil predominance.
+Significant interval worsening in CXR from admission to present with episode of hypoxia (desat to 70%) likely represents fluid overload.
+Repeat cultures drawn [**7-10**] secondary to change in mental status, also show no growth.
+# Hypertension: Initially, patient's systolic blood pressures ranged 160s-180s while on the medicine floor.
+At the time of her episode of pulmonary edema with desaturation, systolics rose to the 200s, and this was unresponsive to ultrafiltration of 3L in dialysis.
+# Chronic renal insufficiency: She is on scheduled HD MWF.
+Her hypertension was thought to be volume dependent, so she underwent suscessful ultrafiltration on [**7-11**].
+Other acute interventions with regard to her kidney function were not acutely indicated.
+Her anemia is most likely due to her chronic renal insufficiency and/or chronic disease.
+There was no evidence of acute bleeding.
+# Type 2 DM, uncontrolled: Patient is a brittle diabetic complicated by retinopathy, neuropathy, and nephropathy.
+# Atrial Fibrillation: Was on warfarin in past, but not anticoagulated at present.
+# Coronary artery disease: Stable.
+Insulin SC       Sliding Scale  Fingerstick QACHS Insulin SC Sliding Scale using HUM Insulin   Discharge Disposition: Extended Care  Facility: [**Hospital3 105**] - [**Location (un) 86**]  Discharge Diagnosis: Primary: Healthcare associated pneumonia Seizure disorder New ischemic infarct  Secondary: Coronary Artery Disease Hypertension Diabetes End-Stage Renal Disease Strokes Anemia Atrial fibrillation Gastritis   Discharge Condition: Mental Status: Confused - always.
+Discharge Instructions: Dear Ms. [**Known lastname 64426**],  You were recently admitted to [**Hospital1 18**] with fevers and confusion.
+While you were here, you had evidence for a pneumonia, and were treated with intravenous antibiotics.
+You will need to take per rectum diazepam if you have any seizures lasting more than 5 minutes, or more than 3 short seizures in one hour.

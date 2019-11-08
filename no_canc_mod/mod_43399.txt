@@ -1,0 +1,38 @@
+Admission Date:  [**2112-4-2**]              Discharge Date:   [**2112-4-5**]  Date of Birth:  [**2037-11-21**]             Sex:   F  Service: MEDICINE  Allergies: Codeine / Zocor / Oxycodone / Propoxyphene  Attending:[**First Name3 (LF) 2356**] Chief Complaint: Dyspnea  Major Surgical or Invasive Procedure: None   History of Present Illness: 74 Yo F with history of COPD presening from home with shortness of breath.
+She had URI symptoms for one and a half weeks.
+She presented to her primary pulmonologist who got a CXR which did not show evidence of pneumonia.
+This morning she became acutely dyspneic.
+CXR reveals RLL PNA and worsening bl pleural effusions which she has at baseline in addition to what appears to be volume overload.
+Otherwise has no complaints.
+She is chronically "chilled" but denies fevers at home.
+Review of systems: (+) Per HPI (-) Denies fever, night sweats, recent weight loss or gain.
+Denies chest pain, chest pressure, palpitations, or weakness.
+Denies nausea, vomiting, diarrhea, constipation, abdominal pain, or changes in bowel habits.
+Denies dysuria, frequency, or urgency.
+Denies rashes or skin changes.
+Past Medical History: Renal cell carcinoma s/p right nephrectomy and adrenalectomy Recurrent RCC s/p partial left nephrectomy and adrenalectomy Adrenal insufficiency [**12-23**] bilateral adrenalectomy on prednisone Hypertension Hyperlipidemia Mitral valve prolapse COPD on 3L NC at home  Social History: Lives with husband, [**Name (NI) **] [**Name (NI) 111421**] who is HCP.
+Family History: Brother - CABG in 50s Sister - [**Name (NI) 4278**] lymphoma, died at 32y/o no other CAD or CVA to her knowledge  Physical Exam: On Admission: General: Alert, oriented, no acute distress on BiPAP HEENT: Sclera anicteric, MMM, oropharynx clear Neck: supple, JVP not elevated, no LAD Lungs:  Clear to auscultation bilaterally, mild wheezes, no rales or ronchi CV: Regular rate and rhythm, 2/6 systolic murmur at LLSB, no murmurs, rubs, gallops Abdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly GU: no foley Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema .
+On discharge: Patient's lungs were clear to auscultation bilateraly, and she reported symptomatic improvement of her cough and shortness of breath.
+CXR: Findings consistent with worsening pulmonary edema on a background of chronic lung disease.
+Bilateral small effusions, with underlying collapse and/or consolidation.
+Labs on discharge: WBC-7.5 RBC-3.91* Hgb-11.3* Hct-33.9* MCV-87 MCH-29.0 MCHC-33.4 RDW-13.8 Plt Ct-360 Glucose-110* UreaN-54* Creat-2.6* Na-142 K-3.7 Cl-99 HCO3-29 AnGap-18 Calcium-9.0 Phos-6.0* Mg-2.2  Brief Hospital Course: 74 yo female with history of COPD, RCC s/p resection, chronic adrenal insufficiency presents with dyspnea admitted to the MICU for hypoxic respiratory failure.
+#  Hypoxic respiratory failure:  Likely multifactorial from COPD flare, CAP (RLL infiltrate, cough, fever), and volume overload from possible new CHF.
+She was diuresed with IV lasix, and her symptoms improved.
+Patient was treated for COPD flare with prednisone 60 mg daily and standing nebs.
+## New onset CHF: Patient presented with volume overload and responded well to diuresis as detailed above.
+No echo was performed because patient reported a recent echo with PCP.
+She was also discharged with lasix to prevent volume overload.
+#  Acute on chronic renal failure:  Cr on admission was 2.6 which was elevated from her baseline around 2.
+This was most likely secondary to poor PO intake from recent illness as her Cr improved with PO hydration.
+At no point during this hospital course did patient have s/s adrenal insufficiency.
+Her lisinopril continued to be held secondary to renal failure (see above).
+#) Anemia: Normocytic anemia most likely due to renal failure and decreased epo.
+Patient was discharged home in stable condition with symptomatic improvement.
+Medications on Admission: ALPRAZOLAM [XANAX]0.25 mg QHS PRN AMLODIPINE [NORVASC] 5 mg twice a day FLUDROCORTISONE 0.1 mg [**11-22**] Tablet daily HYDRALAZINE 25 mg three times a day HYDROCORTISONE 10 mg QAM HYDROCORTISONE 5 mg 8am and 3pm the morning dose of 5mg should be taken with a 10mg tablet for a total of 15mg in the morning and 5 mg at night LISINOPRIL 5 mg daily METOPROLOL TARTRATE 50 mg  [**11-22**] Tablet twice a day PRAVASTATIN 20 mg daily PRN Ibuprofen ADVAIR  Discharge Medications: 1. alprazolam 0.25 mg Tablet Sig: One (1) Tablet PO at bedtime as needed for anxiety.
+Disp:*30 Tablet(s)* Refills:*2*   Discharge Disposition: Home With Service  Facility: [**Location (un) 6549**]  Discharge Diagnosis: Primary diagnosis: Pneumonia, CHF, COPD Secondary diagnosis: Renal cell carcinoma, adrenal insufficiency, hypertension, hyperlipidemia   Discharge Condition: Mental Status: Clear and coherent.
+Discharge Instructions: You were admitted because you were having difficulty breathing and had low oxygen levels.
+This was due to a COPD exacerbation, pneumonia and a new diagnosis of heart failure.
+For your pneumonia you were treated with an antibiotic called levofloxacin which you should continue as directed.
+For your COPD exacerbation you were treated with a short dose of steroids.
+Full code means that you would want everything done for you including chest compressions, breathing tubes, and artifical measures to support your life in the event of a cardiac or respiratory arrest.
+[**Last Name (STitle) 1270**]: Name: [**Last Name (LF) **],[**First Name3 (LF) 1730**] Location: CARDIOLOGY ASSOCIATES OF GREATER [**Location (un) **] Address: [**Street Address(2) **], [**Location (un) **],[**Numeric Identifier 809**] Phone: [**0-0-**] When: Wednesday, [**2112-4-20**]:15AM Please have your electrolytes rechecked at this visit and discuss restarting your lisinopril at this time with your PCP.

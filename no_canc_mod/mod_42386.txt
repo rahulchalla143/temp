@@ -1,0 +1,61 @@
+Admission Date:  [**2153-2-25**]              Discharge Date:   [**2153-3-3**]   Service: MEDICINE  Allergies: Amoxicillin / Levofloxacin  Attending:[**First Name3 (LF) 905**] Chief Complaint: altered mental status  Major Surgical or Invasive Procedure: none  History of Present Illness: Ms.[**Known lastname 100305**] is an 87 year old female with a h/o CAD s/p PCI, htn, hyperlipidemia, breast cancer s/p lumpectomy and XRT who presents with altered mental status.
+She noted her symptoms initially started with a cough around [**Holiday **] time and then resolved.
+However, she began to note chest congestion recurring the first week of [**Month (only) 404**].
+After her symptoms persisted for a week and she developed urinary symptoms she went to [**Company 191**] for evaluation.
+She was given a prescription for levaquin 250 mg daily x 10 days for cystitis as well as possible bronchitis.
+Patient is unable to provide detailed history due to confusion.
+She remained asymptomatic without HA, vision changes, chest pain, SOB, or other concerns.
+CXR was performed without clear infiltrate although there was some haziness of the R heart border.
+Upon arrival to the floor, she is in no acute distress but knows she is confused.
+She notes being tired and having a cough but is otherwise without complaint.
+Past Medical History: # CAD - s/p PCI->LAD, D1 [**2145**] - s/p PCI->RCA, PCI,roto->PDA [**2142**] # Hypertension # Hypercholesterolemia # Breast cancer s/p lumpectomy and XRT in [**2141**] - grade II infiltrating ductal carcinoma - 0/8 LNs positive # glucose intolerance # ?
+chronic active colitis by biopsy [**11/2142**] # Hypothyroidism # s/p appendectomy   Social History: The patient lives alone in the [**Hospital3 4414**], but she does live in the same building as her sister.
+[**Name (NI) **] son in [**Name (NI) 3786**] is her major source of social support.
+Family History: noncontributory  Physical Exam: T: 98.5 BP: 180/84 HR: 56 RR: 16 O2 98% RA Gen: Pleasant, elderly female in NAD HEENT: No icterus.
+PERRL NECK: Supple, No JVD.
+Mildly dsyarthric.
+[**2153-2-25**] CXR IMPRESSION: No acute cardiopulmonary process.
+No evidence of acute intracranial abnormalities.
+If there is a clinical suspicion for an acute infarction, then MRI would be helpful.
+Chronic microvascular ischemic disease.
+Please correlate clinically to exclude acute sinusitis.
+[**2153-2-26**] CXR IMPRESSION: No acute cardiopulmonary process.
+[**2153-2-25**] URINE CULTURE (Final [**2153-2-26**]):    NO GROWTH.
+Abnormal T2 signal in bilateral hippocampi with enhancement in the left hippocampus.
+These findings are suggestive of extra pontine myelinolysis.
+Differential might also include encephalitis or a hypoxic episode, but clinical correlation is advised.
+Small vessel ischemic disease.
+[**2153-3-2**] 07:10AM BLOOD WBC-8.5# RBC-4.59 Hgb-12.8 Hct-36.1 MCV-79* MCH-27.8 MCHC-35.3* RDW-14.3 Plt Ct-306 [**2153-3-2**] 07:10AM BLOOD Neuts-80.1* Lymphs-12.4* Monos-6.7 Eos-0.5 Baso-0.3 [**2153-3-2**] 07:10AM BLOOD Glucose-137* UreaN-16 Creat-1.1 Na-136 K-3.6 Cl-98 HCO3-29 AnGap-13 [**2153-3-1**] 07:25AM BLOOD Anti-Tg-LESS THAN  antiTPO-294* [**2153-3-2**] Voltage gated K-channel Antibody- PENDING [**2153-3-1**] 07:03PM CEREBROSPINAL FLUID (CSF) WBC-0 RBC-0 Polys-0 Lymphs-0 Monos-100 [**2153-3-1**] 07:03PM CEREBROSPINAL FLUID (CSF) TotProt-38 Glucose-81 [**2153-3-1**] 07:03PM CEREBROSPINAL FLUID (CSF) CYTOMEGALOVIRUS - PCR-PND [**2153-3-1**] 07:03PM CEREBROSPINAL FLUID (CSF) HERPES SIMPLEX VIRUS PCR-PND [**2153-3-1**] 07:03PM CEREBROSPINAL FLUID (CSF) EBV-PCR-PND [**2153-3-1**] 07:03PM CEREBROSPINAL FLUID (CSF) LYME, TOTAL EIA WITH REFLEX TO CSF RATIO-PND  Brief Hospital Course: 87 year old female with a h/o CAD s/p PCI, htn, hyperlipidemia, breast cancer s/p lumpectomy and XRT who presents with altered mental status and hyponatremia.
+# Altered MS:  This was initially thought to be most likely secondary to hyponatremia (see below).
+However as the patient continued to have persistent confusion after correction of sodium levels, it was thought that she might have a component of sundowning in the ICU.
+After transfer to the floor, as confusion continued (pt was mostly AOx1 to self only) MRI Head was checked, which showed abnormal signal and enchancement in the hippocampus.
+Myelinolysis, ischemia, or encephalitis was in the differntial.
+Neuro was consequently consulted, and LP was performed to rule out infectious etiology.
+Pt was empirically started on IV Acyclovir pending results of viral testing.
+Pt continued to remain afebrile without leukocytosis.
+She has had no abdominal pain or diarrhea, and CT head on admission was negative for bleed or mass.
+She remained without new focal neurological deficits.
+# Hyponatremia:  Likely secondary to SIADH of unknown etiology.
+Only new medication recently is levofloxacin (for presumed UTI), so SIADH secondary to Levofloxacin is possible but it has not been traditionally associated with SIADH.
+CT Head and CXR were both negative for mass (pt has hx of breast CA.)
+She has no prior h/o hyponatremia.
+Urine electrolytes were consistent with SIADH, and sodium did not improve with fluid challenge.
+The patient was treated with hypertonic saline in the ICU with resolution of the hyponatremia at an appropriate rate.
+Pt has a prolonged history of URI symptoms including minimally productive cough and possible fevers and chills.
+There was no significant leukocytosis to suggest infection on this admission.
+Also, no sign of infiltrate on CXR.
+Pt has remained afebrile throughout stay.
+AG of 18 on admission labs was likely from elevated lactate of 2.4.
+Delta-delta of 6 suggested underlying metabolic alkalosis in addition to possible AGMA.
+# CAD: s/p multiple PCIs.
+Utility of continuing Atenolol further given hx of CAD and PCIs should be discussed with PCP.
+# HTN: Pt presented with hypertensive urgency in the ED.
+As BP remained elevated on the floor particularly in the evenings, Valsartan was increased to 80mg PO bid.
+# Anemia: Crit on admission reflected a microcytic anemia slightly below baseline.
+Pt had no evidence of acute blood loss during stay.
+# Hypercholesterolemia: Stable.
+# h/o breast cancer: s/p lumpectomy and XRT.
+No evidence of recurrence at this time.
+# CODE: FULL, confirmed w/ HCP .
+You were found to have low blood sodium levels, which were likely contributing to your confusion.
+Your confusion persisted, so you had an MRI of the Head, which showed some swelling in your brain.

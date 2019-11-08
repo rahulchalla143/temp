@@ -1,0 +1,48 @@
+Admission Date:  [**2204-6-4**]              Discharge Date:   [**2204-6-11**]  Date of Birth:  [**2142-12-26**]             Sex:   F  Service: MEDICINE  Allergies: Norvasc / Infed  Attending:[**Last Name (NamePattern1) 1171**] Chief Complaint: Pulmonary Edema  Major Surgical or Invasive Procedure: RIGHT tunneled IJ HD catheter  History of Present Illness: 61 yo F with CAD, CHF EF 30%, ESRD s/p transplant, now failed who presents with pulmonary edema, AoCRF and need for dialysis.
+At CCH she was found to be in respiratory distress and was intubated.
+Patient was initially on dopamine for low BP but after propofol was switched to fentanyl/midazolam her BP came up and dopamine was weaned off.
+CXR was consistent with pulmonary edema.
+CARDIAC HISTORY: - systolic CHF with EF 30 % - recent NSTEMI 3.
+OTHER PAST MEDICAL HISTORY: -end-stage renal disease, status post allograft transplant in [**2197**] complicated by rejection, now again with chronic renal insufficiency -CAD, status post LAD and RCA stents -congestive heart failure (EF 30%, [**2201**]) -HTN, poorly controlled -peripheral [**Year (4 digits) 1106**] disease s/p R to L fem-fem bypass, R external iliac stenting -scleroderma -history of GI bleed  Social History: Lives at home with husband and son.
+Father - brain cancer, died in his 30's  Physical Exam: ADDMISSION EXAM: General: Intubated, sedated, not responding to stimuli HEENT: Sclera anicteric, DMM, 1-2mm pupils but equal and reactive Neck: supple, no LAD Lungs: Bilateral crackles CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops Abdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly, multiple surgical scars GU: foley in place Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema  DISCHARGE EXAM: General: NAD, comfortable HEENT-PERRLA, EOMI LUNGS: CTABL, symmetrical chest wall movement GU: foley removed, urinating without difficulty Rest of exam unchanged from admission  Pertinent Results: [**2204-6-4**] 11:49AM   GLUCOSE-145* UREA N-89* CREAT-5.8* SODIUM-143 POTASSIUM-5.0 CHLORIDE-104 TOTAL CO2-23 ANION GAP-21* [**2204-6-4**] 04:23AM   UREA N-88* CREAT-5.7* [**2204-6-4**] 04:23AM   CK-MB-6 proBNP-[**Numeric Identifier 104608**]* [**2204-6-4**] 04:23AM   WBC-11.3* RBC-3.06* HGB-9.0* HCT-27.8* MCV-91 MCH-29.2 MCHC-32.2 RDW-15.5 [**2204-6-4**] 04:23AM   FIBRINOGE-545* [**2204-6-4**]:Rate PR QRS QT/QTc P QRS T          67 172 106 394/406 47 -1 106  DISCHARGE LABS: [**2204-6-10**] 07:00AM BLOOD WBC-6.2 RBC-3.08* Hgb-9.2* Hct-27.6* MCV-90 MCH-29.9 MCHC-33.3 RDW-15.1 Plt Ct-154  [**2204-6-11**] 06:40  Glucose  140  UreaN 58* Creat3.9*  Na141 K 4.0 Cl100  HCO327     AnGap18 [**2204-6-11**] 06:40   Ca 9.0 P 5.6* Mg 1.9 [**2204-6-9**] 08:00    TacroFK <2.01   [**2204-6-4**] ECHO:  The left atrium is elongated.
+No atrial septal defect is seen by 2D or color Doppler.
+There is mild symmetric left ventricular hypertrophy.
+Overall left ventricular systolic function is severely depressed (LVEF= 20-25 %) with global hypokinesis and regional akinesis/dyskinesis of the distal LV/apex.The inferior wall is akinetic.
+No masses or thrombi are seen in the left ventricle.
+There is no ventricular septal defect.
+The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present.
+No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Mild (1+) mitral regurgitation is seen.
+There is an anterior space which most likely represents a prominent fat pad.
+CXR [**2204-6-4**]:  Cardiomegaly, [**Month/Day/Year 1106**] congestion, and bilateral parenchymal opacities most compatible with pulmonary edema.
+Renal Transplant US [**2204-6-4**]:  Progression of high resistance pattern of flow within the transplanted kidney with lack of antegrade diastolic flow in the intrarenal and main renal arteries.
+BILAT LOWER EXT VEINS PORT  [**2204-6-4**] No evidence of DVT.
+CHEST (PORTABLE AP) [**2204-6-5**]: Pulmonary edema present on [**6-4**] has substantially improved.
+Residual opacification at the lung bases is probably a combination of residual edema, pleural effusions and atelectasis.
+Tip of the endotracheal tube, with the chin in neutral or elevation is less than 2 cm from the carina and should be withdrawn 2-3 cm to avoid unilateral intubation.
+Moderate-to-large bilateral pleural effusions are larger on the left side associated with atelectasis in the bases of the lungs, left greater than right.
+Multiple calcified lung nodules in the right upper lobe are again noted.
+Pulmonary edema continues to improve, now mild.
+There are no new lung abnormalities.
+Brief Hospital Course: Assessment and Plan: 61 yo F with CAD, CHF EF 30%, ESRD s/p transplant now failing, not yet on HD who presented to OSH with dyspnea and was intubated due to pulmonary edema causing respiratory distress.
+Respiratory distress: Patient presented to OSH with dyspnea and was intubated due to respiratory distress.
+A CXR showed pulmonary edema and her BNP was measured at [**Numeric Identifier 104608**].
+Felt to be secondary to worsening renal function causing oliguria, fluid overload and pulmonary edema due to fluid poor cardiac reserve.
+Unclear as to cause of acute change but failing transplant is most likely.
+Renal ultrasound showed progression of high resistance pattern of flow within the transplanted kidney with lack of antegrade diastolic flow in the intrarenal and main renal arteries.
+Congestive Heart Failure: A cardiolgy evaluation was performed while she was in the MICU given her history of worsening SOB and fluid overload on admission.
+An echocardiogram was performed on this admission which showed overall left ventricular systolic function that is severely depressed (LVEF= 20-25 %) with global hypokinesis and regional akinesis/dyskinesis of the distal LV/apex and an akinectic inferior wall.
+She is not longer hypervolemic on exam and her SOB has resolved.
+Hypotension: Presented with low BP in setting of propofol.
+Anemia:  felt to be secondary to decreased eyrhtropoesis.
+Sceleroderma:  not an active issue while inpatient.
+for chest pain -Prednisone 2 mg daily -Sodium bicarbonte 1300 mg b.i.d.
+10. famotidine 20 mg Tablet Sig: One (1) Tablet PO once a day as needed for heartburn.
+13. nitroglycerin 0.4 mg Tablet, Sublingual Sig: One (1) Sublingual every 5 minutes up to 3 times  as needed for chest pain.
+PO twice a day as needed for heartburn.
+ProAir HFA 90 mcg/Actuation HFA Aerosol Inhaler Sig: [**11-27**] Inhalation every 4-6 hours as needed for shortness of breath or wheezing.
+Discharge Disposition: Home With Service  Facility: [**Hospital1 **] Family & [**Hospital1 1926**] Services  Discharge Diagnosis: Primary Diagnosis: Acute on Chronic Renal Failure Acute on Chronic Systolic Congestive Heart Failure Exacerbation  Secondary Diagnosis: Hypertension   Discharge Condition: Mental Status: Clear and coherent.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+You were admitted to the hospital with acute renal failure and fluid in your lungs.
+The fluid in your lung was reduced with diurectic medications.

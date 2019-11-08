@@ -1,0 +1,34 @@
+Admission Date:  [**2143-5-9**]              Discharge Date:   [**2143-5-10**]  Date of Birth:  [**2062-10-19**]             Sex:   M  Service: MEDICINE  Allergies: ibuprofen  Attending:[**First Name3 (LF) 2387**] Chief Complaint: CHIEF COMPLAINT:  claudication REASON FOR CCU ADMISSION:  hypertensive urgency  Major Surgical or Invasive Procedure: [**2143-5-9**] lower extremity angiography   History of Present Illness: Mr. [**Known lastname 3501**] is an 80y/o gentleman with CAD s/p CABG [**2118**], ischemic CM (EF 40%), HTN, HLD, DM2 on oral hypoglycemics, and PAD (ABI R:0.6, L:0.67) who has had ongoing claudication, underwent elective angiography today, and is now admitted to the CCU due to post-procedural hypertension.
+With regards to his claudication, he has  had progressive bilateral calf pain with exertion relieved with rest.
+Gets pain even walking 25 feet.
+He denies chest pain, shortness of breath, palpitations or lightheadedness.
+He was scheduled for elective RLE angiography, and this morning he had breakfast and held his oral hypoglycemics (Metformin, Glyburide) though he says he took his antihypertensives (Atenolol, Amlodipine, Quinapril, HCTZ, Spironolactone).
+During the angiogram, he was found to have severe disease in the bilateral aorto-iliac junction and critical RCFA disease.
+Post-procedure, he became nauseated with elevation in SBP 220s, asymptomatic (specifically, no CP, SOB, H/A, worsened vision).
+He was admitted to the CCU for BP management and glucose control.
+On review of systems, he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.
+He denies recent fevers, chills or rigors.
+Cardiac review of systems is notable for absence of chest pain, dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope.
+Past Medical History: CAD s/p CABG x 3 in [**2118**] (LIMA to LAD, SVG to ramus, SVG to RCA) Ischemic cardiomyopathy, LVEF 40% Hypertension Hyperlipidemia PAD Diabetes Type 2 Colon polyps Basal cell carcinoma s/p resection Macular degeneration [**2135**]:  GIB in the setting of Ibuprofen requiring transfusion Hard of hearing (bilateral hearing aids) Remote resection of left testicle   Social History: - Home: widowed; lives alone - Occupation: retired; previously worked as an engineer - Tobacco history:  quit [**2118**] - ETOH:  [**1-14**] glasses per week - Illicit drugs:  None  Family History: No known family history of premature CAD  Physical Exam: ADMISSION PHYSICAL EXAMINATION: VS: T=97.8  BP=143/33  HR=61  RR=11  O2 sat=96% 2L NC GENERAL: NAD.
+Sclera anicteric.
+Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.
+No xanthalesma.
+No thrills, lifts.
+LUNGS: No chest wall deformities, scoliosis or kyphosis.
+CTAB, no crackles, wheezes or rhonchi.
+No HSM or tenderness.
+No abdominial bruits.
+No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+DATA: - RLE ANGIOGRAPHY: final report pending  Brief Hospital Course: Mr. [**Known lastname 3501**] is an 80y/o gentleman with CAD s/p CABG [**2118**], ischemic CM (EF 40%), HTN, HLD, DM2 not on insulin, and PAD (ABI R:0.6, L:0.67) who has had ongoing claudication, underwent elective angiography today with post-procedure hypertension and hyperglycemia and was admitted to the CCU due to hypertensive urgency with SBP to 220s.
+ACTIVE ISSUES .
+Pt was admitted with hypertensive urgency with SBP to 220s.
+His HTN may have been in the setting of groin pain after the procedure; he denied missing any doses of home meds but this is a possibility.
+There was no evidence of end-organ damage based on history, exam, EKG, labs.
+PAD: severe aortoiliac and common femoral disease (ABI R:0.6, L:0.67).
+CAD s/p CABG [**2118**]: stable.
+Discharge Disposition: Home  Discharge Diagnosis: hypertensive urgency peripheral artery disease   Discharge Condition: Mental Status: Clear and coherent.
+Discharge Instructions: Dear Mr. [**Known lastname 3501**],  You came to [**Hospital1 18**] for a lower extremity angiogram because of leg pain, and were found to have blockages in your leg arteries.
+After your procedure, you had very high blood pressure, which was possibly related to pain, so you were observed in the cardiac ICU overnight.
+In addition, you had elevated blood sugar, which was likely related to eating breakfast and not taking your diabetes medications.
+We made the following changes to your medications -START Plavix 75mg daily -HOLD Metformin until Saturday [**2143-5-11**] (to avoid complications relating to the dye you received for the angiogram)  Followup Instructions: Name: [**Last Name (LF) **],[**First Name3 (LF) **] C. Location: [**Hospital1 **] BLDG, [**Apartment Address(1) 8540**] Address: [**Last Name (NamePattern1) 8541**], [**Location (un) **],[**Numeric Identifier 9749**] Phone: [**Telephone/Fax (1) 8543**] When: [**Last Name (LF) 766**], [**5-20**], 2:15 PM  VASCULAR SURGERY Please call ([**Telephone/Fax (1) 10880**] within [**2-15**] business days to arrange a follow-up visit with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **].

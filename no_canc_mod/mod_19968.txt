@@ -1,0 +1,26 @@
+Admission Date:  [**2167-12-24**]              Discharge Date:   [**2167-12-29**]  Date of Birth:  [**2090-5-24**]             Sex:   M  Service: CARDIOTHORACIC  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 165**] Chief Complaint: DOE with lightheadedness  Major Surgical or Invasive Procedure: [**12-24**] CABGx2(LIMA-LAD, SVG-PDA)/AVR(23mm pericardial valve)   History of Present Illness: 77 yo M found to have AS.
+Past Medical History: HTN, ^lipids, CAD-s/p stent to Cx '[**62**], h/o MI, AS, obesity, BPH, arthritis, depression, spinal stenosis, sciatica, s/p CCY, s/p T&A, s/p bilat carcal tunnel, s/p excision of lentigo malig on face, s/p resection of sqamous cell, GIB after colon polypectomy   Social History: retired tech for [**Company **] quit tobacco [**2156**] 7-8 beers per weekend  Family History: brother deceased in late 50s with CAD Mother with MI in 40s, deceased in 60s  Physical Exam: NAD HR 61 RR 18 BP 150/76 NAD Lungs CTAB Heart RRR, SEM Extrem warm, no edema   Pertinent Results: [**2167-12-29**] 07:00AM BLOOD WBC-11.3* RBC-3.04* Hgb-9.7* Hct-28.5* MCV-94 MCH-32.1* MCHC-34.3 RDW-15.2 Plt Ct-286# [**2167-12-29**] 07:00AM BLOOD Plt Ct-286# [**2167-12-26**] 08:55PM BLOOD PT-13.3 PTT-25.5 INR(PT)-1.1 [**2167-12-29**] 07:00AM BLOOD Glucose-125* UreaN-37* Creat-1.8* Na-140 K-3.8 Cl-102 HCO3-26 AnGap-16 [**2167-12-28**] 07:15AM BLOOD Glucose-108* UreaN-32* Creat-1.8* Na-138 K-3.9 Cl-104 HCO3-26 AnGap-12 [**2167-12-27**] 07:17AM BLOOD Glucose-129* UreaN-29* Creat-1.6* Na-141 K-4.1 Cl-108 HCO3-25 AnGap-12 [**2167-12-26**] 08:55PM BLOOD Glucose-158* UreaN-28* Creat-1.7* Na-139 K-4.1 Cl-108 HCO3-23 AnGap-12  CHEST (SINGLE VIEW)  [**2167-12-29**] 9:41 AM  CHEST (SINGLE VIEW)  Reason: assess ptx  [**Hospital 93**] MEDICAL CONDITION: 77 year old man s/p avr/cabg l apical ptx after ct removal REASON FOR THIS EXAMINATION: assess ptx HISTORY: 77-year-old male status post CABG with apical pneumothorax after chest tube removal.
+Lung volumes are low with bibasilar atelectasis.
+Left retrocardiac density likely reflects combination of atelectasis and pleural effusion.
+No clear evidence of pneumothorax.
+Bibasilar atelectasis with likely small pleural effusions.
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT  [**Known lastname 395**], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 75590**] (Complete) Done [**2167-12-24**] at 2:25:06 PM      FINAL Referring Physician     [**Name9 (PRE) **] Information [**Name9 (PRE) **], [**First Name3 (LF) **] [**Street Address(2) 15115**] [**Location (un) 15116**], [**Numeric Identifier 15117**]  Status: Inpatient DOB: [**2090-5-24**] Age (years): 77 M  Hgt (in): BP (mm Hg): /  Wgt (lb): HR (bpm):  BSA (m2): Indication: AVR for AS, Cabg ICD-9 Codes: 786.05, 786.51, 799.02, 440.0, 424.1, 424.0 Test Information Date/Time: [**2167-12-24**] at 14:25    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 3318**], MD  Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3318**], MD Doppler: Full Doppler and color Doppler Test Location: Anesthesia West OR cardiac Contrast: None Tech Quality: Adequate Tape #: 2007AW01-: Machine: [**Pager number **] Echocardiographic Measurements Results  Measurements  Normal Range Left Ventricle - Ejection Fraction:  45% to 50%  >= 55% Aorta - Ascending:  *3.5 cm  <= 3.4 cm Aorta - Descending Thoracic:  *3.0 cm  <= 2.5 cm Aortic Valve - Peak Velocity:  *3.7 m/sec  <= 2.0 m/sec Aortic Valve - Peak Gradient:  *55 mm Hg  < 20 mm Hg Aortic Valve - Mean Gradient:  28 mm Hg Aortic Valve - LVOT diam:  2.2 cm Aortic Valve - Valve Area:  *0.5 cm2  >= 3.0 cm2  Findings LEFT ATRIUM: No spontaneous echo contrast is seen in the LAA.
+LEFT VENTRICLE: Mildly depressed LVEF.
+RIGHT VENTRICLE: Mild global RV free wall hypokinesis.
+Mildly dilated descending aorta.
+Simple atheroma in descending aorta.
+MITRAL VALVE: Mildly thickened mitral valve leaflets.
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets with physiologic PR.
+Conclusions Pre-CPB: No spontaneous echo contrast is seen in the left atrial appendage.
+Overall left ventricular systolic function is mildly depressed (LVEF= 45 - 50%).
+There is mild global right ventricular free wall hypokinesis.
+The descending thoracic aorta is mildly dilated.
+There are simple atheroma in the descending thoracic aorta.
+There is severe aortic valve stenosis (area <0.8cm2).
+Moderate (2+) aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Mild (1+) mitral regurgitation is seen.
+There is no pericardial effusion.
+Biventricular systolic function is unchanged.
+Discharge Instructions: Call with fever, redness or drainage from incision or weight gain more than 2 pounds in opne day or five in one week.
+Shower, no baths, no lotions, creams or powders to incisions.

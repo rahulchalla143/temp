@@ -1,0 +1,52 @@
+Admission Date:  [**2169-7-24**]              Discharge Date:   [**2169-8-2**]  Date of Birth:  [**2095-9-28**]             Sex:   F  Service: CARDIOTHORACIC  Allergies: Bactrim / Tetracyclines / Vasotec / Isordil / Procardia  Attending:[**First Name3 (LF) 165**] Chief Complaint: Chest pain  Major Surgical or Invasive Procedure: [**7-25**] Cardiac Cath [**7-26**] Coronary Artery Bypass Graft x 4 (LIMA to LAD, SVG to Diag, SVG to OM, SVG to dRCA), Mitral Valve Repair with 26mm CE Ring  History of Present Illness: 73 yo female with known severe CAD s/p RCA stent in [**2164**], HTN, hypothyroidism, presents with a chief complaint of chest pain.
+The pt reports that for the last week she has experienced several episodes of burning SSCP with radiation to the neck and right shoulder in the evenings while in bed before falling asleep.
+Prior to this she has not experienced any CP since [**2164**] when she had a stent placed.
+On the evening of admission, she again experienced pain however 3 SL NTG did not improve her sxs.
+No associated SOB, N/V or diaphoresis.
+In the ED, she was started on NTG and heparin gtts and quickly became pain free.
+Past Medical History: Coronary Artery Disease s/p stent placement in [**2164**], severe hypertension with history of hypertensive emergency, Dyslipidemia, Hypothyroidism, Peripheral Vascular Disease with Intermittent claudication, Obesity, Gout, Hiatal hernia, Fibroid uterus, Spine scoliosis and arthritis, Benign cartilage tumor (most probably an enchondroma), Severe spinal stenosis   Social History: She does not smoke or drink alcohol.
+Family History: Positive family history of early CAD in multiple relatives.
+Physical Exam: Vitals: T 97.4 P 60 R 18 149/70 97% on 2L Gen: Well appearing adult female, no acute distress.
+Neck: Supple, without adenopathy or JVD.
+No tenderness with palpation.
+No murmurs appreciated.
+Mildly obese.
+Selective coronary angiography of this right dominant system revealed diffuse three vessel coronary artery disease.
+The LMCA had a 50% stenosis at its origin, and a 70% stenosis distally.
+The mid LAD had a 70% stenosis, with diffuse disease distally.
+The Let circumflex had a 99%stenosis in the proximal and mid portions.
+The RCA had a 50% stenosis in the mid portion and a 80% stenosis distally.
+Resting hemodynamic measurements revealed severe systemic arterial hypertension with a SBP ranging from 150-180 during nitroglycerine infusion.
+There was a 50mm Hg gradient noted across a stenotic segment of the right iliac artery at the level of the aortic bifurcation.
+[**7-26**] Echo: Pre-CPB: This study was limited by poor gastric windows.
+No spontaneous echo contrast is seen in the left atrial appendage.
+The RV shows mild global free wall hypokinesis.
+There are complex (>4mm) atheroma in the descending thoracic aorta.
+The aortic valve leaflets (3) are mildly thickened.
+No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Moderate to severe (3+) mitral regurgitation is seen.
+There is no pericardial effusion.
+There is a well-seated and functioning prosthetic mitral annular ring.
+Left lower lobe alveolar opacity and less marked right lower lobe opacity slightly increased.
+Bilateral pleural effusions mostly on the left are small and unchanged.
+Left lower lobe alveolar opacity and less marked right lower lobe opacity slightly increased.
+Bilateral pleural effusions mostly on the left are small and unchanged.
+DR. [**First Name8 (NamePattern2) 4078**] [**Name (STitle) 4079**] DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 4130**] PFI entered: TUE [**2169-8-1**] 12:59 PM   [**Hospital1 18**] ECHOCARDIOGRAPHY REPORT  [**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 102758**] (Complete) Done [**2169-7-26**] at 11:12:46 AM      FINAL Referring Physician     [**Name9 (PRE) **] Information [**Name9 (PRE) **], [**First Name3 (LF) **] [**Street Address(2) 15115**] [**Location (un) 15116**], [**Numeric Identifier 15117**]  Status: Inpatient DOB: [**2095-9-28**] Age (years): 73 F  Hgt (in): BP (mm Hg): /  Wgt (lb): HR (bpm):  BSA (m2): Indication: cabg/?mvr ICD-9 Codes: 786.05, 786.51, 799.02, 440.0, 424.0 Test Information Date/Time: [**2169-7-26**] at 11:12    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 3318**], MD  Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3318**], MD Doppler: Full Doppler and color Doppler Test Location: Anesthesia West OR cardiac Contrast: None Tech Quality: Suboptimal Tape #: 2008AW-1: Machine: aw3 Echocardiographic Measurements Results  Measurements  Normal Range Left Ventricle - Inferolateral Thickness:  0.9 cm  0.6 - 1.1 cm  Left Ventricle - Diastolic Dimension:  5.4 cm  <= 5.6 cm Aorta - Ascending:  2.8 cm  <= 3.4 cm Aorta - Descending Thoracic:  2.4 cm  <= 2.5 cm  Findings LEFT ATRIUM: No spontaneous echo contrast is seen in the LAA.
+RIGHT VENTRICLE: Mild global RV free wall hypokinesis.
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3).
+MITRAL VALVE: Mildly thickened mitral valve leaflets.
+Mild mitral annular calcification.
+Conclusions Pre-CPB: This study was limited by poor gastric windows.
+No spontaneous echo contrast is seen in the left atrial appendage.
+The RV shows mild global free wall hypokinesis.
+There are complex (>4mm) atheroma in the descending thoracic aorta.
+The aortic valve leaflets (3) are mildly thickened.
+No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Moderate to severe (3+) mitral regurgitation is seen.
+There is no pericardial effusion.
+There is a well-seated and functioning prosthetic mitral annular ring.
+Echo in OR showed moderate to severe mitral regurgitation.
+In addition to undergoing coronary artery bypass surgery, she also had a mitral valve repair.
+Discharge Disposition: Extended Care  Facility: [**Hospital6 85**] - [**Location (un) 86**]  Discharge Diagnosis: Coronary Artery Disease s/p Coronary Artery Bypass Graft x 4 Mitral Regurgitation s/p Mitral Valve Repair Myocardial Infarction PMH: s/p stent placement in [**2164**], severe hypertension with history of hypertensive emergency, Dyslipidemia, Hypothyroidism, Peripheral Vascular Disease with Intermittent claudication, Obesity, Gout, Hiatal hernia, Fibroid uterus, Spine scoliosis and arthritis, Benign cartilage tumor (most probably an enchondroma), Severe spinal stenosis  Discharge Condition: Good  Discharge Instructions: Please shower daily including washing incisions, no baths or swimming Monitor wounds for infection - redness, drainage, or increased pain Report any fever greater than 101 Report any weight gain of greater than 2 pounds in 24 hours or 5 pounds in a week No creams, lotions, powders, or ointments to incisions No driving for approximately one month No lifting more than 10 pounds for 10 weeks Please call with any questions or concerns [**Telephone/Fax (1) 170**]  Followup Instructions: Dr. [**First Name (STitle) **] in 4 weeks Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] DR. [**First Name (STitle) **] [**Doctor Last Name **] Phone:[**Telephone/Fax (1) 1142**] Date/Time:[**2169-7-31**] 9:30 AM RADIOLOGY Phone:[**Telephone/Fax (1) 9045**] Date/Time:[**2169-8-24**] 10:30 AM ORTHO XRAY (SCC 2) Phone:[**Telephone/Fax (1) 1228**] Date/Time:[**2169-10-26**] 8:00 AM                               [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(2) 173**]  Completed by:[**2169-8-2**

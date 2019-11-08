@@ -1,0 +1,74 @@
+Admission Date:  [**2175-1-5**]              Discharge Date:   [**2175-1-20**]  Date of Birth:  [**2114-5-10**]             Sex:   F  Service: MEDICINE  Allergies: Codeine  Attending:[**First Name3 (LF) 106**] Chief Complaint: shortness of breath  Major Surgical or Invasive Procedure: Automatic Implanted Defibrillator placement on [**2175-1-11**] Alcohol Septal Ablation on [**2175-1-17**]   History of Present Illness: 60 yo F with PMH of hypertrophic obstructive cardiomyopathy (resting/valsalva gradients 85/141 mmHg on TTE [**2173-8-19**]), cocaine abuse, HTN, hyperlipidemia, GERD and morbid obesity presenting with acute on chronic diastolic heart failure from Dr.[**Name (NI) 8664**] clinic.
+She was seen by her PCP [**Last Name (NamePattern4) **] [**2175-1-4**] who noted worsening shortness of breath/wheezing.
+She and her husband note gradual worsening of shortness of breath, with more acute changes in last 2 weeks.
+She notes increased leg swelling, leg/knee pain, shortness of breath and chest tightness.
+CARDIAC HISTORY: Hypertrophic obstructive cardiomyopathy - CABG: none - PERCUTANEOUS CORONARY INTERVENTIONS: none - PACING/ICD: none 3.
+OTHER PAST MEDICAL HISTORY: # OSA not on CPAP # GERD # osteoarthritis # PTSD # depression # anxiety # cocaine addiction, in remission since [**11/2174**]   Social History: Per OMR, she is a retired communications worker for [**Company 22957**].
+Her father died of an MI at age 71.
+Her mother died of a brain aneurysm at age 56.
+Sclera anicteric.
+Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.
+No xanthalesma.
+CARDIAC: RRR, faint S1/S2, III/VI crescendo/decrescendo systolic murmur increasing with valsalva.
+LUNGS: No chest wall deformities.
+CTAB, no crackles, wheezes or rhonchi.
+Unable to palpate organs EXTREMITIES: 2+ LE edema to knees bilaterally.
+Sclera anicteric.
+L sided ICD placement without tenderness LUNGS: No accessory muscle use.
+CTAB, no crackles, wheezes or rhonchi.
+Unable to palpate organs EXTREMITIES: no LE edema to mid shin bilaterally.
+Skin: area over left chest with no erythema, edema.
+Pertinent Results: ADMISSION LABS: [**2175-1-5**] 06:43PM BLOOD WBC-5.0 RBC-4.15* Hgb-11.4* Hct-35.8* MCV-86 MCH-27.6 MCHC-31.9 RDW-13.8 Plt Ct-245 [**2175-1-5**] 06:43PM BLOOD Glucose-138* UreaN-23* Creat-0.9 Na-144 K-4.0 Cl-104 HCO3-34* AnGap-10 [**2175-1-5**] 06:43PM BLOOD Calcium-9.3 Phos-4.4 Mg-1.9 Iron-50  DISCHARGE LABS: [**2175-1-20**] 06:15AM BLOOD WBC-6.7 RBC-3.80* Hgb-10.6* Hct-32.3* MCV-85 MCH-27.8 MCHC-32.7 RDW-13.8 Plt Ct-191 [**2175-1-20**] 06:15AM BLOOD Glucose-106* UreaN-28* Creat-1.1 Na-140 K-4.3 Cl-100 HCO3-34* AnGap-10 [**2175-1-20**] 06:15AM BLOOD Calcium-9.3 Phos-4.3 Mg-2.1  ANEMIA STUDIES: [**2175-1-5**] 06:43PM BLOOD calTIBC-381 Ferritn-21 TRF-293 [**2175-1-5**] 06:43PM BLOOD Ret Aut-1.2  ECHO [**2175-1-6**]: The left atrium is moderately dilated.
+The right atrium is moderately dilated.
+There is asymmetric left ventricular hypertrophy.
+Left ventricular systolic function is hyperdynamic (EF>75%).
+There is a moderate resting left ventricular outflow tract obstruction.
+There is no aortic valve stenosis.
+No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Trivial mitral regurgitation is seen.
+There is mild pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+IMPRESSION: Asymmetric LVH with hyperdynamic systolic function, c/w hypertrophic cardiomyopathy.
+Moderate resting LVOT obstruction.
+Mild pulmonary hypertension.
+CXR [**2175-1-11**] (PORTABLE): In comparison with the study of [**2173-10-8**], there has been substantial enlargement of the cardiac silhouette with relatively mild elevation of pulmonary venous pressure.
+This discordancy raises the possibility of cardiomyopathy, with pericardial effusion being less likely.
+There is increased prominence of the superior mediastinum.
+It is difficult to determine whether this represents a manifestation of vascular congestion or merely a reflection of the size of the patient and the AP portable technique.
+There is mild cardiomegaly.
+There is no pneumothorax or pleural effusion.
+There is mild vascular congestion.
+ECHO [**2175-1-17**]: There is left ventricular hypertrophy with prominent interventricular septum (at least 30 mm thick at its base).
+(Parasternal views not obtained for standard wall thickness measurements.
+With injections of Optison into the first septal perforator , there was enhancement of the basal septum including the most prominent portion of the left ventricular outflow obstruction at point of contact with the tip of the anterior mitral leaflet.
+The basal septum appeared enhanced and hypokinetic following these injections and there was no signfiicant residual left ventricular outflow gradient recorded (peak left ventricular outflow velocity of 1 m/s).
+Successful ethanol septal ablation of a large septal artery with complete resolution of the resting gradient across the left ventricular outflow tract (35 mm Hg --> 0 mm Hg).
+Insignificant CAD (40% stenosis in the ramus) 3.
+Coronary arteries are normal except for  a 40% stenosis in the ramus intermedius.
+Successful ethanol septal ablation of a large septal branch with abolition of gradient across the left ventricular outflow tract.
+Hypertension control.
+Brief Hospital Course: TRANSITIONAL ISSUE: [ ] On cardiac cath, she was found to have normal coronary arteries except for a 40% stenosis in the ramus intermedius.
+=========================================  60 yo F with PMH of hypertrophic obstructive cardiomyopathy, HTN, hyperlipidemia, GERD and morbid obesity presenting with acute on chronic diastolic heart failure.
+# Acute on chronic diastolic heart failure: likely from her hypertrophic cardiomyopathy.
+Worsening symptoms recently with weight gain of 15.6 lbs in 3 wks over the holidays.
+TTE was done to evaluate for interval change in her cardiac function, which showed improved LVOT (which likely points to volume overload and increased preload).
+Her atenolol was changed to carvedilol and uptitrated for BP control.
+# Hypertrophic Obstructive Cardiomyopathy: EP was consulted, patient is a reasonable candidate for ICD given high risk for SCD (history of family member with SCD, septum thickness of ~[**4-6**] cm).
+She had ICD placed on [**2175-1-11**] without complications.
+Patient had new right bundle branch and left anterior fascicular block afterwards.
+Echo was done after the alcohol septal ablation and noted no significant residual left ventricular outflow gradient with peak left ventricular outflow velocity of 1 m/s.
+# HTN: BP slightly elevated on admission.
+Her blood pressure was more elevated after her alcohol septal ablation, likely from the resolution of LVOT gradient, and will need follow up as an outpatient for further uptitration of her anti-hypertensives.
+# HL: continued on home pravastatin  # Anemia: new anemia, baseline high 30 to 40, Patient's CBC was trended and it remained stably around mid 30s.
+Iron studies were added and did not suggest iron deficiency anemia.
+patient without measured desaturations overnight.
+# GERD: continued on home ranitidine  # osteoarthritis: given tylenol prn for pain  # Nutrition: patient with dietary indiscretions for her diastolic heart failure likely from the poor understanding of heart healthy and low sodium diet.
+Further follow up with nutrition clinic as an outpatient for weight loss and low sodium diet was recommended and she was given clinic phone number to call for a follow up appointment.
+Disp:*1 bottle* Refills:*0* 10. bisacodyl 5 mg Tablet Sig: 1-2 Tablets PO once a day as needed for constipation.
+Disp:*30 Tablet(s)* Refills:*0* 11. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day) as needed for constipation.
+Disp:*60 Capsule(s)* Refills:*0* 12. polyethylene glycol 3350 17 gram/dose Powder Sig: One (1) packet PO DAILY (Daily) as needed for constipation.
+)(s)* Refills:*0*   Discharge Disposition: Home With Service  Facility: [**Location (un) 86**] VNA  Discharge Diagnosis: Primary Diagnosis: Acute on chronic diastolic heart failure, hypertrophic obstructive cardiomyopathy Secondary Diagnosis: Hypertension, hyperlipidemia   Discharge Condition: Admission Weight: 155.4 kg (341.9 lbs) Discharge Weight: 149.8 kg (329.5 lbs) Mental Status: Clear and coherent.
+You were admitted because you were feeling short of breath at home and had worsening diastolic heart failure.
+You also had a defibrillator placed, so that if your heart were to go into a bad rhythm, it could be shocked out of the bad rhythm.
+- Your furosemide (Lasix) was INCREASED to 40 mg by mouth daily to keep the extra fluid off of your body - Your aspirin was INCREASED to 325 mg daily - START docusate (colace), polyethylene glycol (miralax) and bisacodyl (dulcolax) every day as needed for constipation - START fluticasone spray in your nose twice a day for nasal congestion  Followup Instructions: Department: [**Hospital1 7975**] ST. HEALTH CENTER When: MONDAY [**2175-1-30**] at 10:30 AM With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 11980**], MD [**Telephone/Fax (1) 7976**] Building: [**Hospital1 7977**] ([**Location (un) 686**], MA) [**Location (un) **] Campus: OFF CAMPUS     Best Parking: Free Parking on Site  Department: CARDIAC SERVICES When: FRIDAY [**2175-2-3**] at 1:40 PM With: [**Name6 (MD) **] [**Name8 (MD) **], MD [**Telephone/Fax (1) 62**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage  Department: CARDIAC SERVICES When: FRIDAY [**2175-2-3**] at 2:30 PM With:  DEVICE CLINIC [**Telephone/Fax (1) 62**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage  Department: CARDIAC SERVICES When: THURSDAY [**2175-2-9**] at 2:40 PM With: [**First Name8 (NamePattern2) **] [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD [**Telephone/Fax (1) 62**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage  Department: CARDIAC SERVICES When: WEDNESDAY [**2175-2-15**] at 3:20 PM With: [**First Name11 (Name Pattern1) 488**] [**Last Name (NamePattern4) 18267**], MD [**Telephone/Fax (1) 62**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage

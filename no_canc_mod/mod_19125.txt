@@ -1,0 +1,15 @@
+Admission Date:  [**2125-2-3**]              Discharge Date:   [**2125-2-6**]   Service: SURGERY  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**Last Name (NamePattern1) 4659**] Chief Complaint: This is an 89 year old female admitted from outside hospital with abdominal pain.
+Major Surgical or Invasive Procedure: None   History of Present Illness: This elderly lady presents to outside hospital with complaints of intermittent abdominal pain with distention and back pain.
+Pertinent Results: [**2125-2-3**] 04:02AM BLOOD WBC-9.3 RBC-3.73* Hgb-11.7* Hct-34.9* MCV-94 MCH-31.5 MCHC-33.6 RDW-12.7 Plt Ct-341 [**2125-2-6**] 05:25AM BLOOD WBC-6.9 RBC-3.38* Hgb-10.9* Hct-32.2* MCV-96 MCH-32.2* MCHC-33.7 RDW-12.9 Plt Ct-389 [**2125-2-3**] 10:06PM BLOOD Neuts-77.7* Lymphs-16.0* Monos-5.3 Eos-0.8 Baso-0.2 [**2125-2-6**] 05:25AM BLOOD Glucose-107* UreaN-11 Creat-0.6 Na-136 K-3.7 Cl-100 HCO3-30 AnGap-10 [**2125-2-3**] 04:02AM BLOOD Albumin-3.4 [**2125-2-6**] 05:25AM BLOOD Calcium-8.4 Phos-2.2* Mg-2.1 [**2125-2-3**] 04:26AM BLOOD Lactate-1.0 [**2125-2-5**] 10:51AM BLOOD Lactate-1.5  Brief Hospital Course: Patient admitted from outlying hospital with diffuse abdominal pain, distention and intermittent back pain.
+Abdominal CT confirms diffuse pneumatosis intestinalis from [**Hospital **] hospital.
+Nothing by mouth maintained for several days until abdominal pain resolved.
+Patient tolerated the progression in her diet without return of abdominal pain and distention.
+During hospital course patient had several ekg's to monitor her irregular rhythm.
+It appears that she has a R bundle branch block and may have paroxysmal atrial fibrillation.
+I also spoke to him about further medical regimen to control her paroxysmal atrial fibrillation.
+Disp:*7 Tablet(s)* Refills:*0*   Discharge Disposition: Home With Service  Facility: [**Hospital **] Home Health Care  Discharge Diagnosis: Pneumatosis Coli Cardiac Dysrythmia   Discharge Condition: Good   Discharge Instructions: You were admitted for workup of your abdominal and back pain.
+Your CT was consistent with intestinalis Coli.
+Your symptoms resolved without your showing any signs of intestinal ischemia.
+While here you were here,you were also found to have an increased heart rate which responded to lopressor.
+You will need to follow up with your PCP/cardiologist for management of increased heart rate.
+You will need to discuss your medications with your PCP for management of your irregular heart beats.

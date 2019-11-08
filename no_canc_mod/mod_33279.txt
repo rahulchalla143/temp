@@ -1,0 +1,103 @@
+Admission Date:  [**2111-6-9**]              Discharge Date:   [**2111-7-6**]  Date of Birth:  [**2044-10-12**]             Sex:   F  Service: MEDICINE  Allergies: Levofloxacin  Attending:[**First Name3 (LF) 2817**] Chief Complaint: dyspnea, pneumonia  Major Surgical or Invasive Procedure: [**2111-6-18**] ET tube change [**2111-6-19**] Arterial line placement [**2111-6-20**] Right IJ line placement [**2111-6-25**] IR-guided PICC placement [**2111-6-29**] Trach placement [**2111-6-29**] PEG placement [**2111-7-3**] PICC removed for fungemia [**2111-7-6**] Single Lumen PICC placed  History of Present Illness: 66 year-old woman with history of asthma, COPD, DM, hypothyroidism, with recent history significant for worsening dyspnea over past three months, status post four courses of antibiotics and steroids for presumed COPD exacerbation, presenting to [**Hospital3 26615**] Hospital on [**2111-6-3**] with acute worsening dyspnea, intubated for respiratory distress, and transferred to [**Hospital1 18**] for further management.
+As noted above, she has a history of worsening dyspnea over the past few months that has been treated with antibiotics and steroids.
+She presented to OSH on [**2111-6-3**] with worsening dyspnea and had a fever to 103F, and was started on ceftriaxone/azithromycin ([**Date range (1) 83455**]) for pneumonia and COPD exacerbation.
+She developed an increasing oxygen requirement, however, and initially required nasal canula (94% on 1 L O2) but later required face mask (86% on 15 L on [**6-7**]).
+Her CXR, which initially was read as negative for infiltrate, progressively worsening, with increasingly prominent diffuse bilateral infiltrates, right greater than left.
+She also had a negative chest CTA.
+With an oxygen requirement that was rising and worsening dyspnea, she was transitioned to vanc/zosyn/levo and then vanc/zosyn/ceftaz ([**Date range (1) 83456**]; ceftaz started [**6-8**]; levo on [**4-21**]) because of an allergy to levofloxacin.
+It is unclear why she received double coverage for gram negatives.
+On [**6-7**], she was admitted to the ICU and intubated electively for hypoxia and SOB.
+Phenylephrine was started because of hypotension to SBPs in the 80s after being intubated and starting on propofol ([**Date range (1) 83456**]), which had to be uptitrated for sedation.
+Her VS were 98.6 56 18 96%vent  Past Medical History: COPD Asthma Diabetes mellitus Hyperlipidemia Hypothyroidism GERD Left breast cancer s/p lumpectomy H/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 1557**]-[**Doctor Last Name **] Syndrome (per PCP)  Social History: She does not smoke or drink.
+Family History: Non-contributory  Physical Exam: Vitals: T: 98 BP: 127/60 P: R: 18 O2: General: intubated, obese, arousable HEENT: ETT, Sclera anicteric, MMM, oropharynx clear Neck: supple, JVP not elevated, no LAD Lungs: soft inspiratory wheezes bilaterally, no rales or rhonchi CV: Regularly irregular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops Abdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema  Pertinent Results: Admission labs [**2111-6-9**] 11:36PM   TYPE-ART TEMP-37.0 RATES-18/5 TIDAL VOL-500 PEEP-16 O2-100 PO2-98 PCO2-50* PH-7.42 TOTAL CO2-34* BASE XS-6 AADO2-565 REQ O2-93 INTUBATED-INTUBATED [**2111-6-9**] 11:22PM   GLUCOSE-355* UREA N-35* CREAT-0.9 SODIUM-141 POTASSIUM-4.2 CHLORIDE-104 TOTAL CO2-27 ANION GAP-14 [**2111-6-9**] 11:22PM   CALCIUM-8.1* PHOSPHATE-2.2* MAGNESIUM-2.5 [**2111-6-9**] 11:22PM   WBC-10.0 RBC-3.53* HGB-10.3* HCT-29.9* MCV-85 MCH-29.0 MCHC-34.3 RDW-15.3 [**2111-6-9**] 11:22PM   PLT COUNT-289 [**2111-6-9**] 11:22PM   PT-12.4 PTT-24.9 INR(PT)-1.0 .
+[**2111-6-16**] SPEP: TRACE ABNORMAL BAND IN GAMMA REGION BASED ON IFE (SEE SEPARATE REPORT), IDENTIFIED AS MONOCLONAL IGG KAPPA NOW REPRESENTS, BY DENSITOMETRY, ROUGHLY 3% (150 MG/DL) OF TOTAL PROTEIN.
+[**2111-6-8**] BAL Flow Cytometry: There is an immuonphenotypically abnormal CD138+/CD56+ cell population that most likely represents the highly atypical plasmacytoid immunoblasts seen on [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 4427**]-Giemsa stained cytocentrifuge preparation of the submitted bronchioalveolar lavage fluid.
+The significance of this finding in the context of an acute viral illness is unclear.
+Repeat sampling for cell block preparation and immunohistochemical studies is recommended if clinically indicated.
+[**2111-6-17**] BAL Bronchial Washings Cytology: NEGATIVE FOR MALIGNANT CELLS.
+Rare fungal organisms present consistent with [**Female First Name (un) **] species.
+[**2111-6-10**] 6:06 pm BRONCHOALVEOLAR LAVAGE   GRAM STAIN (Final [**2111-6-10**]):       NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.
+NO MICROORGANISMS SEEN.
+Immunoflourescent test for Pneumocystis jirovecii (carinii) (Final       [**2111-6-11**]):    NEGATIVE for Pneumocystis jirovecii (carinii)..    FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED.
+[**2111-6-10**] Rapid Respiratory Viral Screen & Culture       Source: Nasopharyngeal swab.
+Respiratory Viral Culture (Final [**2111-6-12**]):       No respiratory viruses isolated.
+Legionella Urinary Antigen  (Final [**2111-6-11**]):       NEGATIVE FOR LEGIONELLA SEROGROUP 1 ANTIGEN.
+Consultations with ID are recommended for all blood cultures          positive for Staphylococcus aureus and [**Female First Name (un) 564**] species.
+Consolidation in the posterior segment of right upper lobe and superior segment of right lower lobe likely aspiration pneumonia.
+Atelectasis is in the bases of the lungs.
+Given the fact that there is no cardiomegaly or pleural effusions, diffuse ground-glass opacity is probably not cardiogenic in origin.
+Could be resolving noncardiogenic pulmonary edema or drug reaction.
+Overall improvement in extent of diffuse multifocal bilateral ground-glass opacities, with minimal areas of worsening opacities in the superior segment of the right lower lobe and in the left upper lobe.
+No pulmonary embolism.
+Marked interval worsening of multifocal bilateral ground-glass opacities, with new areas of consolidation in the bilateral lower lobes, and right upper lobe, likely reflecting progression of infectious process.
+CT Chest [**2111-7-4**]: IMPRESSION: Multifocal bilateral airspace opacities in the lungs, grossly unchanged from the prior study.
+Suboptimal image quality agitated saline contrast injection at rest x 3 did not demonstrate early appearance of contrast in the left atrium.
+There is mild symmetric left ventricular hypertrophy with normal cavity size and global systolic function (LVEF>55%).
+Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded.
+with normal free wall contractility.The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic regurgitation.
+The mitral valve appears structurally normal with trivial mitral regurgitation.
+There is no pericardial effusion.
+Mild symmetric left ventricular hypertrophy with preserved global biventricular systolic function.
+There is no ventricular septal defect.
+The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present.
+No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+There is no mitral valve prolapse.
+Trivial mitral regurgitation is seen.
+There is mild pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+There is an anterior space which most likely represents a fat pad.
+No diastolic dysfunction or significant valvular disease seen.
+Mild pulmonary hypertension.
+The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present.
+No masses or vegetations are seen on the aortic valve.
+Trace aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+No mass or vegetation is seen on the mitral valve.
+Mild (1+) mitral regurgitation is seen.
+No masses or vegetations are seen on the tricuspid valve, but cannot be fully excluded due to suboptimal image quality.
+There is no pericardial effusion.
+No acute intracranial pathology.
+CT Head [**2111-7-4**]: No acute intracranial process.
+If there is a high clinical concern for an infarct, an MRI with diffusion is recommended.
+A non-obstructive bowel gas pattern is visualized with no evidence of free intraperitoneal air.
+Hematology   COMPLETE BLOOD COUNT WBC   RBC   Hgb   Hct  MCV MCH MCHC  RDW Plt Ct [**2111-7-6**] 04:00AM    10.9 3.67* 10.7* 32.7* 89 29.1 32.5 16.9* 521*   DIFFERENTIAL          Neuts  Lymphs Monos Eos Baso [**2111-7-6**] 04:00AM    76.3*   14.2* 5.3 3.6 0.7 Chemistry   RENAL & GLUCOSE     Glucose UreaN Creat Na K Cl HCO3 AnGap [**2111-7-6**] 04:00AM    132* 76* 0.9 145 4.3 104 30 15 ANTIBIOTICS              Vanco [**2111-6-26**] 08:16PM    23.6*   Brief Hospital Course: 66 year-old woman with history of asthma, COPD, DM, hypothyroidism presenting to OSH with acute on chronic dyspnea, treated with antibiotics for pneumonia and intubated for worsening hypoxia, and transferred for further management.
+# Respiratory failure/pneumonia: She was intubated for worsening hypoxia on [**2111-6-7**] at the OSH in the setting of pneumonia and worsening bilateral infiltrates.
+Her course was notable for progressive worsening of her respiratory status during her OSH hospitalization, along with development of bilateral infiltrates.
+At the time of transfer, her CXR, large A-a gradient, and low PaO2/FiO2 were thought to be consistent with ARDS/acute lung injury, and mechanical ventilation settings targeted low tidal volumes and high respiratory rate.
+However, despite this, her lung was compliant, with low peak inspiratory pressures.
+Culture data from the OSH eventually demonstrated MRSA in her sputum culture and she was initially managed with vancomycin/zosyn and then zosyn was discontinued, and she was given a course of solumedrol because of her history of question COPD.
+The ID service was consulted and recommended switching from vancomycin to linezolid and empirically completing a course of oseltamavir Of note, she also underwent a repeat chest CTA that was negative for PE and a TTE with a bubble study that was limited in quality but negative for intracardiac shunt.
+She continued to require high PEEP with hypoxia if PEEP was lower than 10.
+Diuresis was tried several times with minimal change in PEEP.
+Linezolid was switched back to vancomycin given concern for lactic acidosis.
+A PICC line was placed on [**2111-6-25**] for long term antibiotics.
+# Afib with RVR: Patient developed AF with RVR and hypotension.
+No evidence of PE on CTA chest or right heart strain on echo; normal atria.
+# Volume overload: The patient was volume overloaded after about 1 week in the ICU.
+Of note, she was on acetazolamide for a few days due to metabolic alkosis but this was discontinued as bicarb normalizing.
+She was started on oral fluconazole on [**2111-7-2**] due to persistent yeast-positive urine cultures despite changing out Foley catheters.
+Ophthalmology was consulted and did not see evidence of endopthalmitis.
+CT Head was done [**7-4**] which showed no acute process and a TTE was without vegitations.
+# Vaginal Bleeding: She was noted to have vaginal bleeding after a week in the hospital.
+She was evaluated by OB GYN who could not find evidence of further bleeding.
+# Hypertriglyceridemia: TG elevated to 303 in setting of propofol gtt.
+# Atyical BAL pathology: Tissue from bronch done on [**5-31**] showed atypical plasmacytoid immunoblasts with abnormal CD138+/CD56+ cell population on flow cytometry.
+Significance unclear in in the context of an acute viral illness and a reactive process was favored, although a lymphoproliferative disorder could not be ruled out.
+Repeat bronch on [**6-17**] with path read of "lymphocytes, alveolar macrophages, neutrophils and rare plasma cells with insufficient tissue for immunohistochemical characterization"; cytology negative for malignant cells.
+# Diabetes: Required insulin drip temporarily for elevated blood glucose but transitioned back to ISS with glargine with good control.
+# Hypothyroidism: Continued levothyroxine.
+# Communication: Patient.
+Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: Two (2) Puff Inhalation Q4H (every 4 hours) as needed for shortness of breath or wheezing.
+Nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID (4 times a day) as needed for sores.
+Docusate Sodium 50 mg/5 mL Liquid Sig: One Hundred (100) mL PO BID (2 times a day): Hold for loose stools.
+Senna 8.6 mg Tablet Sig: 1-2 Tablets PO BID (2 times a day) as needed for Constipation.
+Lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO TID (3 times a day) as needed for constipation.
+- Superinfection with MRSA pneumonia.
+- Pseudomonas ventilator-associated pneumonia.
+Secondary - COPD/Asthma - Diabetes mellitus - Hyperlipidemia - Hypothyroidism - GERD - [**Doctor First Name 1557**]-[**Doctor Last Name **] syndrome - Left breast cancer s/p lumpectomy   Discharge Condition: Stable on vented trach   Discharge Instructions: You were transferred from another hospital for further management of COPD exacerbation and pneumonia requiring intubation.
+You likely had swine flu which was complicated by MRSA pneumonia.
+You later also developed a Pseudomonas pneumonia.
+Of note, you had an episode of vaginal bleeding.
+However, you were examined by Ob-Gyn with a negative pelvic ultrasound and no evidence of any more bleeding.
+Please call your doctor or come to the ED if you develop chest pain, difficulty breathing, fevers >101, dizziness, loss of consciousness, bleeding, or any other concerning symptoms.

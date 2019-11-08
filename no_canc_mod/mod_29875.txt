@@ -1,0 +1,49 @@
+Admission Date:  [**2179-2-3**]              Discharge Date:   [**2179-2-5**]  Date of Birth:  [**2109-6-1**]             Sex:   F  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 1899**] Chief Complaint: chest pressure/pain  Major Surgical or Invasive Procedure: cardiac catheterization  History of Present Illness: Ms. [**Known lastname 88403**] is 69 yo female with numerous cardiac risk factors (HTN, HLD, smoking, +FHx) as well as AFib and SSS s/p pacemaker who presented to [**Hospital3 1443**] ED this AM with chest pressure.
+There was no associated shortness of breath, nausea, vomiting or diaphoresis.
+When the pain did not go away, she called the ambulance.
+In the ambulance she received NTG SLx3, which made the pain resolve.
+In the ED, she was hypertensive to >200 and started on NTG gtt for chest pain and HTN.
+While on the NTG gtt, she reported L arm discomfort/pressure and midsternal burning, which resolved with uptitration of the drip.
+Initial EKG showed T wave changes in aVL, but repeat EKG later in AM showed TWI in II,III,aVF, and V3-V6.
+D-dimer elevated to 0.61 so pt had V/Q scan which found low probability of PE.
+Prior to transfer to [**Hospital1 18**] for cath, she developed nausea which was treated with Zofran.
+She complains of persistent nausea but denies chest pain, arm/jaw pain, shortness of breath, or diaphoresis.
+Patient denies recent h/o anginal symptoms: no recent chest pain, dyspnea on exertion, etc.
+She did have a similar episode of chest pressure 2-3 years ago, for which she was worked up for PE (CTA negative).
+On review of systems, s/he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.
+S/he denies recent fevers, chills or rigors.
+S/he denies exertional buttock or calf pain.
+Family History: Mother died of CAD (age 58).
+Sclera anicteric.
+Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.
+No xanthalesma.
+No thrills, lifts.
+LUNGS: No chest wall deformities, scoliosis or kyphosis.
+CTAB, no crackles, wheezes or rhonchi.
+No HSM or tenderness.
+No abdominial bruits.
+No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+ECHO ([**2179-2-4**]): The left atrium is mildly dilated.
+The ascending aorta is mildly dilated.
+The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic stenosis or aortic regurgitation.
+There is no mitral valve prolapse.
+Trivial mitral regurgitation is seen.
+There is no pericardial effusion.
+No clinically-significant valvular disease seen.
+Lungs are essentially clear with no pleural effusion and pneumothorax.
+There is no evidence of pulmonary edema.
+No pneumothorax.
+Brief Hospital Course: # CHEST PAIN: Pt with multiple cardiac risk factors including HTN, HLD, cigarettes and +FHx presenting with new-onset substernal chest pressure.
+Initial EKG without changes at OSH, but repeat EKG showed TWI in II,III,aVF and V3-V6.
+Patient's TIMI score was 5, putting her at 12% risk of death/MI at 2 weeks, and 26% risk of death/MI/urgent revascularization at 2 weeks.
+Patient did well after cath, with no recurrence of chest pain or nausea.
+It was felt that given that she had had SBP>200 at OSH, her chest pain was most likely [**1-28**] hypertensive emergency.
+#.Nausea: patient c/o persistent nausea starting 2-3 hours prior to arrival at [**Hospital1 18**] CCU.
+No evolving EKG changes or increasing enzymes.
+#.AFib: Per patient, she is no longer on Coumadin as her cardiologist found that she only has paroxysmal afib.
+Given that her chest pain was most likely [**1-28**] hypertensive emergency ([**Last Name 788**] problem #1), she was discharged on Lisinopril in addition to her home Metoprolol 100mg [**Hospital1 **].
+Outpatient Lab Work Please check A1C and potassium on Tuesday [**2-9**] at 2:30p at Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 92136**] office   Discharge Disposition: Home With Service  Facility: [**Location (un) 86**] VNA  Discharge Diagnosis: Chest Pain Hypertensive urgency Hyperlipidemia   Discharge Condition: Mental Status: Clear and coherent.
+Discharge Instructions: You had chest pain that did not result in a heart attack.
+We are not sure why you had chest pain but it might be because of high blood pressure.
+An echocardiogram showed normal heart function and a cardiac catheterization did not show any acute blockages.

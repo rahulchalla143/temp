@@ -1,0 +1,78 @@
+Admission Date:  [**2124-9-12**]              Discharge Date:   [**2124-10-2**]  Date of Birth:  [**2042-8-8**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 2167**] Chief Complaint: asystolic cardiac arrest, respiratory failure  Major Surgical or Invasive Procedure: Intubation central line placement, Arterial line placement ERCP with biliary and pancreatic stents placed biloma pigtail catheter placement and removal ERCP for pancreatic stent removal   History of Present Illness: 82 yo F with COPD and intestinal malrotation with recent cholecystitis and gallstone pancreatitis s/p cholecystectomy c/b  bile leak transferred from the ERCP suite after intra-procedural hypoxia and bradycardic vs. asystolic cardiac arrest.
+Post op course was complicated by sepsis (thought due to enterobacter bacteremia though not confirmed in records) complicated by ARDS requiring ICU admission.
+The pt was then readmitted with fevers/ dysuria on [**2124-8-23**] [**2-26**] apparent E. Coli urosepsis with positive urine and blood cultures.
+Her hospital course was c/b volume overload (documentation of this problem is limited), abdominal pain and emesis necessitating re-operation.
+She developed post-op anemia with a nadir of Hct 24.7.
+Her post-op course was complicated by acute on chronic renal failure (Cr peaking 3.0) thought [**2-26**] oliguric ATN that resolved with IVF resuscitation; post-op possible ileus vs. obstruction (documented on plain film on [**2124-9-6**]), and bile leak confirmed by subsequent CT scan and HIDA scan on 08.15-16.08.
+During the ERCP, the pt developed acutely hypoxia, and subsequent bradycardia and hypotension, leading to the calling of a code blue.
+Chest compressions were initiated, and 1mg atropine x2 and 1mg epinephrine were administered leading to return of spontaneous, palpable pulse at a rate of 160 with hypotension to the systolics 70-80's.
+An attempt was made during rescucitation for central line placement in the internal jugular vein with return of fluid that was serous possibly consistent with aspiration of a pleural effusion.
+Past Medical History: PMH: - Recent choledocholithiasis and gallstone pancreatitis s/p open cholecystectomy c/b bile leak - Recent multidrug resistent E Coli urosepsis (2/2 blood cx, on [**2124-8-23**]; negative as of [**2124-8-28**]) - CRI baseline Cr 1.5 - Diastolic CHF EF 65%, mild TR - HTN - H/o asthma and COPD - Intestinal malrotation s/p Ladd's procedure .
+Minimally responsive.
+Pulm: Poor air exchange.
+No rhonchi or wheezes.
+Ext: 1+ bilateral lower extremity edema.
+Pertinent Results: OSH labs: EKG ([**2124-8-24**]): Sinus tachycardia to 125.
+No acute ST or T wave changes.
+Ascites fluid cx ([**2124-9-9**]): Few WBC's, no organisms.
+Imaging: OSH CT abd/pelvis ([**2124-9-8**]): Large bilateral pleural effusions.
+13 cm Fluid collection in the gallbladder fossa contiguous with collection extending down the right flank.
+Increased abdominal fluid since [**2124-9-4**] which may reflect increased ascites, bile leak or possibly abscess/infection.
+HIDA scan ([**2124-9-9**]): Active bile leak with extension into the subhepatic space and right paracolic gutter.
+KUB and left lateral decubitus ([**2124-9-6**]): Mild ileus vs. partial small bowel obstruction.
+TTE ([**2124-8-1**]): LVEF 65%, Mild AR, TR, minimal pericardial effusion.
+Mild RV enlargement with normal biventricular function.
+Abnormal diastolic filling pattern.
+Mild pulmonary hypertension.
+Mild fluid overload.
+Micro:Blood ([**2124-8-23**]): E. Coli Sensitive to Amikacin (8), Zosyn (<8), Imipenem (<4), Gentamycin (2) ([**2124-8-28**]): No growth.
+Ascites fluid ([**2124-9-9**]): Few WBC's, no organisms.
+Imaging EKG ([**2124-8-24**]): Sinus tachycardia to 125.
+No acute ST or T wave changes.
+ECG ([**2124-9-12**]): Sinus tachycardia, no ischemic changes KUB - no obstruction ECHO - EF 75% IR [**2124-9-13**] - percutaneous biliary drain placed ERCP report [**2124-9-15**]- difficult cannulation KUB [**2124-9-19**]: biliary and pancreato-hepatic stents in place.
+IR [**2124-9-28**]: biloma drain removed ERCP [**2124-9-29**]: pancreatic stent removed   Brief Hospital Course: A/P: 82 yo F w/ COPD, CHF, intestinal malrotation s/p Ladd's procedure with cholecystitis and gallstone pancreatitis s/p cholecystectomy c/b ARDS, ATN, ongoing bile leak, and recent urosepsis transferred following intra-ERCP hypoxia followed by bradycardic vs. asystolic cardiac arrest.
+# Cholecystectomy c/b Bile Leak: RUQ ultrasound and CT - contrast demonstrated extensive biloma.
+Surgery/GI were consulted and followed for 24hrs to monitor for reaccumulation and recommend imaging.
+The patient returned for ERCP on [**9-29**] and had her pancreatic duct stent removed.
+She will return in [**Month (only) 359**] to have the biliary stent removal.
+# Hypoxic respiratory failure during attempted ERCP: likely precipitated by aspiration vs mucous plug intra-procedure.
+Also contributing to the primary event is flash pulmonary edema; recent ARDs, COPD flare.
+Lower suscipsion for r/o PE and anaphylaxis.
+Stress dose steriods for possible anaphylaxis were discontinued ICU day2.
+Pt was placed on ipratropium and albuterol nebs for possible COPD exacerbation.
+Pt was started on meropenem 9 day course and vancomycin for 4 day course for broad coverage for both urosepsis and possible aspiration event.
+Repeat ECHO did not reveal R heart strain.
+Pt was switched from AC to CPAP but remained hypercarbic and hyperventilation with low tidal volumes by HD9.
+# Cardiac Arrest: Precipitated by respiratory failure, with end organ renal and possible liver hypoperfusion.
+Other possible precipitants including CHF exacerbation, hypovolemia, and PE.
+Induced hypothermia and maintained at 32degC until 24 hours after return of circulation, and rewarmed passively.
+# Leukocytosis: This was persistent despite being on 9 days of meropenem since admission for urosepsis at OSH; sources included urine (UA+) with [**Female First Name (un) **] given her risk factors of indwelling lines/tubes; Gi processes, ARF, and long term broad spectrum antibiotics.
+Repeat UA and Ucx X2 grew yeast despite being on meropenem and foley changes as well as Sputum cx and miniBAL with + yeast as well.
+There was concern for fungemia and empiric fluconazole was started for a 1 week course.
+# Oliguria/acute on chronic kidney failure: Pt presented with a prerenal ARF picture with Cr 3 (from baseline 1.5) with reported ATN prior to transfer from OSH; with a high likelihood of ATN recurrence in the setting of post-op volume loss and hypotension, hypovolemia related to CHF exacerbation, and 3rd spacing [**2-26**] intraabdominal infection.
+# Acute on chronic diastolic CHF exacerbation: likely precipitated intraoperatively by arrhythmia/bradycardia, also possible infection and PE and anemia contributing.
+Finished r/o MI and repeat ECHO demonstrated hyperdynamic function with EF 75% and BNP elevated from transfer levels (998) to >[**Numeric Identifier 3301**].
+# COPD/asthma: No evidence of exacerbation at this time.
+# Tachycardia: may be sinus tachycardia [**2-26**] infection (sources see above); also possible atrial tachycardia and was plcaed on verapamil for rate control.
+Some of the episodes did look like small bursts of SVT on tele.
+# Ileus [**2-26**] ongoing bile leak and recent cholecystectomy and ladd's procedure with no evidence of continued obstruction.
+OSH KUB raised question of SBO vs ileus and showed air fluid levels.
+Repeat KUB showed no sign of obstruction.
+#Sepsis due to UTI: positive blood cultures and Ucx dating from [**2124-8-23**], but remained negative here, without growth from OSH cx as of [**2124-8-28**] and without growth on cultures drawn here.
+The foley was changed given a positive yeast culture.
+A repeat UA [**2124-9-17**] was positive with a positive yeast culture.
+# Right humeral head fracture observed on x-ray after resuscitation.
+# L 10th rib fracture: Likely from CPR.
+# Hypernatremia was noted on [**2124-9-15**]: Na 145; and free water supplied with return to normal levels by [**2124-9-17**].
+# Anemia of chronic disease: transfused 1 unit for HCt 24- bumped to HCt on ICU day 3.
+# Hypertension.
+# Code: DNR/DNI .
+# Failure to thrive.
+She was started on Remeron and a nutrition consult was placed for poor oral intake and this will need to be monitored as an outpatient.
+Urinary tract infection.
+Patient was noted to have a persistent leukocytosis without fever for which an infectious workup was done.
+Ibuprofen 600 mg Tablet Sig: One (1) Tablet PO Q 12H (Every 12 Hours) as needed for rib pain.
+Disp:*14 Tablet(s)* Refills:*0*   Discharge Disposition: Home With Service  Facility: [**Hospital6 486**] of [**Hospital1 487**]  Discharge Diagnosis: Biloma Cardiac/respiratory arrest Acute tubular necrosis/acute renal failure Left 10th rib fracture Right humerus fracture COPD Failure to thrive Urinary tract infection   Discharge Condition: stable, satting 98% room air   Discharge Instructions: You were seen for a biliary leak, and experienced cardiac/respiratory arrest while at ERCP.
+You also had 2 stents placed--a biliary stent and a pancreatic stent--by ERCP.
+You also were in congestive heart failure and received lasix to try and remove fluid.
+Please call your doctor or return to the ER if you experience any chest pain, shortness of breath, fever, abdominal pain, yellowing of your skin, fainting, or any other concerning symptoms.

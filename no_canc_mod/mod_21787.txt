@@ -1,0 +1,61 @@
+Admission Date:  [**2106-2-17**]              Discharge Date:   [**2106-3-5**]   Service: MEDICINE  Allergies: lisinopril  Attending:[**First Name3 (LF) 1257**] Chief Complaint: Shortness of breath   Major Surgical or Invasive Procedure: None  History of Present Illness: Mr. [**Known lastname **] is a [**Age over 90 **] year old male with a history of COPD, CHF with LVEF 45% (from [**2101**]), CAD s/p CABG and past PCI, and AFib on Coumadin who was recently admitted to [**Hospital1 18**] for shortness of breath and urinary retention from [**2106-2-12**] to [**2106-2-16**].
+During the above admission, his SOB was attributed to a COPD exacerbation in the setting of a recent viral URI.
+A chest X-ray performed during that admission did not show evidence of pneumonia.
+One day after discharge, his family was notified that he was having increased work of breathing and shortness of breath while at rehab.
+His CXR showed new opacities in the RUL field and LLL.
+Labs were notable for a newly elevated WBC count 15.1 (7.1 the day before) with 5% bands.
+His INR was 3.1, consistent with his recent trend with Coumadin held.
+He was admitted to the ICU for further management of pneumonia and a COPD exacerbation.
+Once in the ICU, he continued to have increased work of breathing and significant wheezing.
+His course was complicated by delirium and he failed a bedside speech and swallow evaluation on [**2-19**].
+Past Medical History: # COPD -- on intermittent home O2 (does not use routinely) # Chronic Diastolic CHF -- last echo on [**2102-7-27**] showed LVEF 45-50% -- mild regional left ventricular systolic dysfunction -- severe hypokinesis of inferior wall and septum (c/w RCA disease) # CAD -- s/p CABG at [**Hospital3 **] Medical Center in [**2080**] -- s/p subsequent PCI/stent procedure at [**Hospital3 **] -- no cath since around [**2093**] # Atrial fibrillation on Coumadin # Ascending aortic aneurysm # Hypertension # Hyperlipidemia # TIA ([**2079**]) -- residual decreased hearing in left ear # Prostate cancer -- treated s/p leuprolide: d/c'ed tx early 10 yrs ago # Osteoporosis # Gastroesophageal reflux disease  Social History: Cantonese speaking with minimal English.
+Sclera anicteric.
+JVP with prominent respiratory variation.
+CV: Irregularly irregular with mildly increased rate.
+No M/R/G appreciated but limited by breath sounds.
+No organomegaly or masses.
+Cool extremities.
+No LE edema.
+Pertinent Results: Admission Laboratory Studies: [**2106-2-17**] 04:12PM BLOOD WBC-15.1*# (Neuts-84* Bands-5 Lymphs-4* Monos-7 Eos-0 Baso-0 Atyps-0 Metas-0 Myelos-0) RBC-4.80 Hgb-14.8 Hct-45.0 MCV-94 MCH-30.8 MCHC-32.8 RDW-13.8 Plt Ct-218 [**2106-2-17**] 04:12PM BLOOD [**2106-2-17**] 04:12PM BLOOD PT-31.1* PTT-41.1* INR(PT)-3.1* [**2106-2-17**] 04:12PM BLOOD Glucose-158* UreaN-92* Creat-2.6* Na-140 K-4.4 Cl-103 HCO3-28 AnGap-13 [**2106-2-17**] 04:12PM BLOOD cTropnT-0.13* [**2106-2-18**] 11:02AM BLOOD Lactate-3.4*  Other Notable Laboratory Studies: [**2106-2-17**] 11:50PM BLOOD CK-MB-4 cTropnT-0.11* [**2106-2-18**] 05:00AM BLOOD CK-MB-4 cTropnT-0.09* [**2106-2-18**] 04:47PM BLOOD Lactate-2.4*  Discharge Laboratory Studies:  Microbiology: [**2106-2-18**] URINE CULTURE-NO GROWTH [**2106-2-18**] BLOOD CULTURE-NO GROWTH [**2106-2-18**] BLOOD CULTURE-NO GROWTH  Radiographic Studies: [**2106-2-17**] Portable Chest X-Ray: IMPRESSION: In comparison to [**2106-2-13**] exam, there is development new of right upper zone patchy opacities and left lower lobe opacity concerning for multifocal pneumonia.
+There is patchy density in the right mid upper lung zone.
+There is also retrocardiac opacity, small left pleural effusion.
+[**2106-2-22**] MRA/MRI head IMPRESSION: Severe atheromatous disease with no evidence of acute infarction .
+There is mild to moderate regional left ventricular systolic dysfunction with basal inferolateral dyskinesis, mid inferolateral akinesis, basal inferior/inferoseptal akinesis, mid inferior hypokinesis.
+The aortic root is mildly dilated at the sinus level.
+The ascending aorta is mildly dilated.
+The aortic valve leaflets (3) are mildly thickened.
+Mild to moderate ([**12-6**]+) aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Mild to moderate ([**12-6**]+) mitral regurgitation is seen.
+The tricuspid valve leaflets are mildly thickened.
+Significant pulmonic regurgitation is seen.
+There is no pericardial effusion.
+Mitral regurgitation and aortic regurgitation are now more prominent.
+[**2106-2-26**] 09:46PM BLOOD WBC-8.8 RBC-4.04* Hgb-12.0* Hct-38.6* MCV-96 MCH-29.7 MCHC-31.0 RDW-14.8 Plt Ct-184  Brief Hospital Course: He was admitted to the MICU due to respiratory distress from Health-care associated pneumonia which was managed with BIPAP and did not require intubation.
+He was noted to be aspirating and was seen by s/s who felt that it would be safest for him to continue with nectar thickened liquids.
+His hospital course was complicated by acute renal failure and hypernatremia.
+However, he developed volume overload and acute systolic heart failure and worsening SOB with BNP > 7000.
+Echocardiogram revealed depressed LVEF 40% (new) with worsening valve disease and regional abnormalities.
+He was not started on [**First Name8 (NamePattern2) **] [**Last Name (un) **]/ACE due to low GFR and rapidly changing renal function.
+He was noted to have delirium in the ICU which was attributed to high dose prednisone.
+However, he developed acute mental status changes on [**2-22**] and was essentially unresponsive.
+Neurology was consulted due to concern for stroke but MRI/MRA did not reveal any acute infarct (severe severe small vessel disease and a large old CVA with hemorrhage that likely predisposed him to seizures or encephalopathy).
+He had another episode of somnolence on the evening of [**2-26**] that was attributed to worsening respiratory status and acute heart failure.
+During his hospitalization, he was treated with empiric Flagyl despite negative c-diff toxins because of new diarrhea and recent exposure to antibiotics.
+However, because of worsening wheezing and rhonchi with radiological evidence of resolution of the multifocal pneumonia, his prednisone was restarted.
+The patient had a type II myocardial infarction during this admission (demand ischemia) and was continued on aspirin, statin, and beta-blocker.
+His atrial Fibrillation was rate controlled on metoprolol 50 mg TID.
+Warfarin was held because of coagulopathy because of poor PO intake.
+In regards to his chronic kidney disease stage 3-4 with an eGFR around 30, he was in acute renal failure on admission with peak creatinine of 2.9 which improved after IVF and remained stable.
+He history of prostate cancer and intermittent urinary retention.
+Flomax was restarted during this admission and he had no further episodes of urinary retention.
+Because of worsening respiratory situation (despite treatment of pneumonia and confirmation of resolution with repeated CXRs), inability to treat heart failure because of hypernatremia, evidence of dementia with delirium, and advanced CKD with [**Last Name (un) **], several family meetings took place.
+We advised comfort care, DNR/DNI and no re hospitalization.
+Medications on Admission: Normal Home Medications (on arrival to the floor, this list was confirmed with his son, [**Name (NI) **], who administers medications): Aspirin 81 mg PO daily Atorvastatin 10 mg PO daily Metoprolol tartrate 50 mg PO BID Spironolactone 12.5 mg PO daily Bumetanide 4 mg PO BID Fluticasone-Salmeterol (250-50 mcg) 1 IH [**Hospital1 **] Levalbuterol (0.63 mg/3 mL) neb Q6H PRN SOB Ipratropium (0.02%) 1-2 puffs IH Q6H Ranitidine HCl 150 mg PO daily  Recent Discharge Medications: Augmentin (500-125 mg) 1 tab PO Q12H for 6 days until [**2106-2-22**] Aspirin 81 mg PO daily Atorvastatin 10 mg PO daily Metoprolol tartrate 50 mg PO BID Spironolactone 12.5 mg PO daily Bumetanide 4 mg PO BID Nitroglycerin 0.4 mg SL PRN chest pain Fluticasone-Salmeterol (250-50 mcg) 1 IH [**Hospital1 **] Levalbuterol (0.63 mg/3 mL) neb Q6H PRN SOB Ipratropium (0.02%) 1-2 puffs IH Q6H Ranitidine HCl 150 mg PO daily Protonix 40 mg PO daily Acetaminophen 650 mg PO TID PRN pain Docusate sodium 100 mg PO BID PRN constipation Senna 8.6 mg PO QHS PRN constipation Tamsulosin 0.4 mg PO QHS Humalog ISS (2 units for every 50 units above 151) Heparin 5,000 units SC TID Prednisone taper -- [**Date range (1) 20443**]: 40 mg daily -- [**Date range (1) 10649**]: 20 mg daily -- [**Date range (1) 61076**]: 10 mg daily   Discharge Medications: 1. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+8. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for Constipation.
+Disp:*240 mg* Refills:*2*   Discharge Disposition: Extended Care  Facility: [**Hospital1 599**] Senior Healthcare of [**Location (un) 55**]  Discharge Diagnosis: Health-care associated pneumonia Acute renal failure Chronic kidney disease Acute systolic heart failure Encephalopathy Hypernatremia   Discharge Condition: Mental Status: Confused - sometimes.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Discharge Instructions: You were admitted with shortness of breath, acute COPD, recurrent heart failure, hypernatremia (high blood salt level), and pneumonia.
+You developed confusion and underwent extensive neurologic evaluation which was negative for acute stroke.
+You have been treated for congestive heart failure which was complicated by hypernatremia (high salt level in the blood).
+Your breathing situation became much worse and we had several family meetings with your son and daughter and we all agreeed on comfort care only with no rehospitalizations, tests, or treatments in general.

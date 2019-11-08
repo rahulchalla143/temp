@@ -1,0 +1,65 @@
+Admission Date:  [**2198-12-31**]              Discharge Date:   [**2199-1-7**]  Date of Birth:  [**2120-7-15**]             Sex:   M  Service: MEDICINE  Allergies: Celexa / Zestril  Attending:[**First Name3 (LF) 134**] Chief Complaint: NSTEMI  Major Surgical or Invasive Procedure: Dialysis Tunneled Catheter placement Cardiac Catheterization  History of Present Illness: EVENTS / HISTORY OF PRESENTING ILLNESS: 77 yo male with a history of CAD s/p CABG in '[**81**] (lima to lad, svg to om, svg to rca, svg to D1), redo one vessel CABG [**2191**] with an SVG to OM, MIs in [**2191**] and [**2195**], multiple PCIs, 5 cm AAA, and ESRD on HD TUES/THURS/SAT who presented to [**Hospital3 **] with refractory chest pain on [**2198-12-29**].
+EKG at [**Hospital3 417**] showed ST depressions in III, II, AVF, V4-V6 per the referring cardiologist.
+He had multiple episodes of chest pain overnight-described as vague discomfort that pt does not rate on pain scale-occurs with activity such as trying to void, moving for CXR, all relieved with Morphine 2mg.
+Arrived to CCU after cath and currently chest pain free.
+On review of systems, he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.
+He denies recent fevers, chills or rigors.
+He denies exertional buttock or calf pain.
+Cardiac review of systems is notable for absence of chest pain currently, dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope.
+Past Medical History: PAST MEDICAL HISTORY: - ESRD on hemodialysis Tues/Thurs/Sat [**Last Name (un) **] [**Hospital1 1474**] Kidney ctr-Dr. [**Last Name (STitle) **], [**First Name3 (LF) **] fistula left arm does not work, has a right sided hemodialysis catheter -GERD -Atrial Fibrillation s/p CABG redo [**6-18**] -AAA: infrarenal, 5.2 x 5.1 cm in [**11-23**] -TIA x 2 -Right cataract surgery -Cholecystectomy [**12-19**] -GI bleed [**12-19**], ASA and Coumadin stopped at that time, does not get heparin during HD -Bilateral renal artery stenosis on MRA [**2192-7-3**], cath [**2192-7-4**] showed moderate right renal artery stenosis without functional flow limitation.
+-Neuropathy .
+Cardiac Risk Factors: (+) Diabetes (+) Dyslipidemia (+) Hypertension .
+Family History: His father had CAD in his 50's, and his sister died at age 64 of CAD.
+Sclera anicteric.
+2/6 systolic murmur.
+No thrills, lifts.
+CTAB, with mild crackles at the bases.
+No HSM or tenderness.
+bilateral femoral bruits .
+The LMCA had severe diffuse disease up to 80%.
+The LCx had severe diffuse disease.
+Resting hemodynamics revealed elevated left and right sided filling pressures with LVEDP of 28 mmHg and RVEDP of 11 mmHg.
+There was moderate-severe pulmonary arterial hypertension with PASP of 53 mmHg.
+There was systemic systolic arterial hypertension with SBP 142 mmHg on Nitroglycerine drip at a max dose of 140 mcg/min.
+Left subclavian angiography revealed a moderate stenosis with a dissection cap.
+Left ventricular diastolic dysfunction.
+Moderate-severe pulmonary arterial hypertension.
+Pressure gradient of left subclavian insignificant after IC .
+TTE [**2199-1-1**] The left atrium is mildly dilated.
+The left ventricular cavity is mildly dilated.
+There is moderate regional left ventricular systolic dysfunction with a basal inferior aneurysm/akinesis, as well as akinesis of the septul, and hypokinesis of the inferolateral wall (c/w multivessel CAD).
+There is mild hypokinesis of the remaining segments (LVEF = 30%).
+No masses or thrombi are seen in the left ventricle.
+There is no ventricular septal defect.
+The right ventricular cavity is mildly dilated with mild global free wall hypokinesis.
+There is no aortic valve stenosis.
+Mild (1+) aortic regurgitation is seen.
+An eccentric, posteriorly directed jet of moderate to severe (3+) mitral regurgitation is seen.
+The tricuspid valve leaflets are mildly thickened.
+Moderate to severe [3+] tricuspid regurgitation is seen.
+There is moderate pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+IMPRESSION: Dilated left ventricle with moderate regional left ventricular systolic dysfunction, c/w multivessel CAD.
+Mild right ventricular systolic dysfunction.
+Moderate-to-severe mitral regurgitation.
+Moderate-to-severe tricuspid regurgitation.
+Moderate pulmonary hypertension.
+Brief Hospital Course: # NSTEMI - On arrival to [**Hospital1 18**] the patient was taken to the cath lab where angiography demonstrated three vessel coronary artery disease.
+The LMCA had severe diffuse disease up to 80%.
+The LCx had severe diffuse disease.
+There was systemic systolic arterial hypertension with SBP 142 mmHg on Nitroglycerine drip at a max dose of 140 mcg/min.
+Post cath the patient was noted to have bilateral femoral bruits, ultrasound negative for pseudoaneurysm.
+His BP meds were held initially secondary to hypotension however we restarted.
+# Pump - TTE demonstrated an EF of 30% and a basal inferior aneurysm.
+The patient refused heparin products and anticoagulation for this aneurysm due to prior GI bleed while anticoagulated.
+# Rhythm: The patient was in atrial fibrillation on admission, also very volume overloaded prior to receiving dialysis.
+# Bacteremia - The patient was found to have a positive blood culture from surveillence culture taken on [**1-1**] growing coag negative staph.
+After initiating vancomycin the patient remained afebrile and hemodynamically stable.
+The patient had a small hematoma following the tunneled cath removal, was evaluated by general surgery, no intervention needed.
+# DM 2- The patient is diet controlled at home, he was maintained on a SSI while inpatient.
+If chest pain is not relieved, call doctor or 911.
+Discharge Disposition: Home With Service  Facility: [**Hospital1 1474**] VNA  Discharge Diagnosis: Primary: Non ST elevation myocardial infarction, Coagulase negative staphylococcus bacteremia Secondary: End Stage Renal disease   Discharge Condition: Good, chest pain free, vital signs stable.
+Discharge Instructions: You were admitted to the hospital because of a heart attack.
+You were also noted to have an infection in your blood.
+This was most likely due to bacteria in your tunneled line.
+Please call your doctor or return to the emergency room if you develop any worrisome symptoms such as chest pain, shortness of breath, palpitations (fluttering in your chest), lightheadedness, bleeding, etc.

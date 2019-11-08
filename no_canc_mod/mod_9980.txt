@@ -1,0 +1,32 @@
+Admission Date:  [**2108-5-27**]              Discharge Date:   [**2108-5-30**]  Date of Birth:  [**2041-8-27**]             Sex:   M  Service: MEDICINE  Allergies: Penicillamine / Ciprofloxacin / Vancomycin / Insulins / Lithium  Attending:[**First Name3 (LF) 3984**] Chief Complaint: fever 101.3, hypoxia, tachycardia, tachypnea  Major Surgical or Invasive Procedure: Right internal jugular central venous line  History of Present Illness: 66 yo male chronic nursing home resident with hx recently admitted to the [**Hospital1 18**] [**Hospital Ward Name 332**] MICU with Influenza complicated by S. aureus pneumonia requiring intubation, bronchectasis, and Afib.
+On the day of admission, the patient was found to have increased cough with fever to 102 at rehab.
+Labs on admission elevated WBC 14.3.CxR with persistent RLL opacity.
+Past Medical History: Wilson's disease, bipolar disease, hx SI, hs Pica, bronchiectasis, atrial fibrillation, coronary artery disease, history of pancreatitis, status post Billroth II for peptic ulcer disease, chronic renal insufficiency baseline cr 1.9-2.4, status post mitral valve replacement, status post a cholecystectomy.
+S/P R hip fracture and THR.
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              KLEBSIELLA PNEUMONIAE                              |          GRAM NEGATIVE ROD #2                              |          | AMPICILLIN/SULBACTAM--  =>32 R CEFAZOLIN-------------  =>64 R CEFEPIME--------------       PND CEFTAZIDIME-----------  =>64 R CEFTRIAXONE-----------       PND CEFUROXIME------------  =>64 R CIPROFLOXACIN---------   =>4 R GENTAMICIN------------   <=1 S IMIPENEM--------------   <=1 S LEVOFLOXACIN----------   =>8 R MEROPENEM-------------<=0.25 S NITROFURANTOIN--------   128 R PIPERACILLIN/TAZO-----    16 S TOBRAMYCIN------------   <=1 S TRIMETHOPRIM/SULFA----   <=1 S     _ _ _ _ _ _ _ ________________________________________________________________     RADIOLOGY  Final Report  CT CHEST W/O CONTRAST  [**2108-5-27**] 5:42 PM  CT CHEST W/O CONTRAST  Reason: r/o pulm abcess  [**Hospital 93**] MEDICAL CONDITION: 66 year old man with recurrent aspiration PNA , presents c new worsening PNA despite appropriate atb REASON FOR THIS EXAMINATION: r/o pulm abcess CONTRAINDICATIONS for IV CONTRAST: renal failure  INDICATION: Recurrent pneumonia, evaluate for pulmonary abscess.
+TECHNIQUE: MDCT acquired axial images of the chest were obtained without IV contrast secondary to patient's elevated creatinine level.
+CT OF THE CHEST WITHOUT IV CONTRAST: Linear opacities again seen at right apex, consistent with scar.
+New ground glass opacity and bronchiectasis seen in the right upper lobe.
+Diffuse patchy opacities also seen within the upper lobes bilaterally.
+Large consolidations are seen at the lower lobes bilaterally, right greater than left with associated pleural effusions.
+There is suggestion of a loculated effusion on the right (series 2, image 24).
+The left sided consolidation appears improved compared to [**2108-1-5**] CT. No evidence of abscess seen.
+Coronary artery calcifications are noted.
+There is also evidence of mediastinal lymph nodes, none of which appear to meet CT criteria for pathological enlargement.
+Associated pleural effusions.
+No evidence of abscess.
+New ground glass opacity and bronchiectasis at right upper lobe.
+Probably small loculated effusion on right.
+5mm nodular opacity seen in right lobe, possibly secondary to infection.
+Brief Hospital Course: 66 yo male with complicated medical hx, recent aspiration pna on Oxacillin still with Subclavian line, from HRC with fever, oxygen desaturation, and continued cough.
+# PNA/Fever- patient has a h/o aspiration events (h/o VRE/MRSA/pseudomonas).
+CT scan showed extensive bilateral lower lobe consolidations.
+Given that this likle represents a worsening of his previous PNA on narrow coverage with oxacillin.
+Hypoxia improved with frequent chest PT and suctioning.
+No symptoms but may explain some of the admission fever.
+# Bipolar disorder and Wilsons disease: continue on home meds clonazepam, olanzapine, buproprion, lamotragine.
+# Orthostatic hypotension: Continue midodrine and fludrocort while also giving Metoprolol for patient's underlying CAD as long as pressure can tollerate it.
+# CRI: currently Cr at upper end of baseline (1.9-2.4).
+Discharge Disposition: Extended Care  Facility: [**Hospital1 100**] Senior Living  Discharge Diagnosis: Pneumonia   Discharge Condition: Good   Discharge Instructions: Please continue your anitbiotics until [**2108-6-9**].
+Please return to the emergency department if you have fevers, increased shortness of breath, or other trouble breathing.
+Please remove right internal jugular central venous line at the conclusion of antibiotic course.

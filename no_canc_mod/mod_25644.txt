@@ -1,0 +1,28 @@
+Admission Date:  [**2128-8-27**]              Discharge Date:   [**2128-9-4**]  Date of Birth:  [**2061-7-1**]             Sex:   M  Service: NEUROLOGY  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**Last Name (NamePattern1) 11784**] Chief Complaint: aphasia and right hemiparesis  Major Surgical or Invasive Procedure: IV tPA and MERCI device   History of Present Illness: The patient is a 67 year old right handed man with a past medical history significant for a.fib (not on Coumadin - for unclear period of time, possible not since [**2122**]), HTN, HLD, DM - on insulin, heavy smoking history who presents with a sudden onset of right sided weakness, determined to have a LMCA syndrome at an OSH, given tPA and sent to [**Hospital1 18**] for further evaluation.
+He was found by the fire service at ~11:30-40 to have right sided weakness and unable to speak and was taken to [**Hospital1 **]-[**Location (un) 620**].
+Here on examination he continued to have severe deficits, given a stroke scale of 23.
+He had a CTA which showed a persistent L MCA clot and he was taken to the angio suite for intervention.
+Past Medical History: - afib w RVR, only on ASA not on Coumadin (unclear if ever was) - CHF - HTN - DM on insulin - peri-rectal abscess treated a few months ago   Social History: Lives by himself in [**Location (un) **].
+[**First Name4 (NamePattern1) 50269**] [**Last Name (NamePattern1) 284**] ([**Last Name (un) **]) c: [**Telephone/Fax (1) 88861**]   Family History: Mother with CA, father who fell and had cerebral hemorrhage secondary to etoh in his 40s.
+Physical Exam: ADMISSION PHYSICAL EXAM:  Physical Exam: Vitals: T: 98 P:95  R: 16  BP:119/76  SaO2: 95 General: Awake, moaning, no following commands, obese HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in oropharynx Neck: Supple, no carotid bruits appreciated.
+No nuchal rigidity Pulmonary: Lungs clear anteriorly Cardiac: [**Last Name (un) 3526**] [**Last Name (un) 3526**] Abdomen: soft, NT/ND, obese Extremities: mild erythema on both calves, likely venous stasis .
+Right arm - minimal effort against gravity, slight withdrawal to pain (flexor), no movement in hand, leg slight withdrawal to pain no effort against gravity.
+ADMISSION IMAGING: ECG [**2128-8-27**]: Atrial fibrillation with a rapid ventricular response.
+Non-specific ST-T wave changes.
+No previous tracing available for comparison.
+Left M1 cutoff with increased MTT thoughout the left M1 territory.
+Ground glass opacities throughout the visualized lung apices are non-specific and if clinically indicated might be better evaluated with chest CT. 3.
+RIGHT INTERNAL CAROTID ARTERY INJECTION, PREPROCEDURE: There is complete proximal M1 occlusion with distal collateral flow provided by ACA branches and scant leptomeningeal collaterals.
+LEFT INTERNAL CAROTID ARTERY INJECTION, POST-PROCEDURE: The left internal carotid artery and its distal branches are patent with the exception of a proximal M2 branch, which demonstrates sluggish flow indicating more distal occlusion.
+IMPRESSION: Successful left MCA M1 division thrombectomy using a combination of 10 mg of IV TPA and a Merci retrieval device.
+There is residual sluggish flow and distal occlusion within a proximal M2 branch.
+Mild bilateral areas of atelectasis.
+No overt pulmonary edema.
+Low lung volumes.
+The presence of minimal pleural effusions cannot be excluded.
+There is no evidence of failure.
+Brief Hospital Course: *)NEURO: Patient was admitted [**2128-8-27**] s/p large left MCA stroke with resultant aphasia and right sided weakness.
+Over the course of his hospitalization, the patient exhibited anisocoria (left 3nn, right 2mm, only reactive on left), eyes that were closed at baseline and he did not open them spontaneously,  with symmetric grimace to pain in upper extremities.
+He exhibited no spontaneous movements.
+*)CARDIO: During this hospitalization, the patient exhibited atrial fibrilation which was controlled with Amiodarone 200 mg and hypertension which was controlled with labetolol 10 mg IV.
+*)INFECTIOUS DISEASE: Patient had pneumonia and E. coli positive UTI which were controlled with broad spectrum antibiotics including Vancomycin 100mg, Tobramycin 740 mg, and Cefepime 2 g IV.

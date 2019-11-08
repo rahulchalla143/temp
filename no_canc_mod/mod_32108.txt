@@ -1,0 +1,62 @@
+Admission Date:  [**2151-1-20**]              Discharge Date:   [**2151-2-3**]  Date of Birth:  [**2128-9-23**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 2641**] Chief Complaint: Cellulitis, found down  Major Surgical or Invasive Procedure: S/P Intubation and Extubation S/P Central line placement S/P PICC line   History of Present Illness: Mr. [**Known lastname 77719**] is a 22 yo M with morbid obesity with hx of recent RLE cellulitis.
+Per OSH's report he was "non-verbal" and had a witnessed aspiration event.
+An LP showed 300 RBC, no WBC.
+He had several episodes of hyperglycemia requiring large doses of insulin.
+He also had elevated Cr and ARF, which improved with IVF.
+His fevers and leukocytosis resolved on antibiotics.
+So far they have been negative, including for C. diff, and pt reports that his diarrhea has improved.
+At this time, he denies CP, HA, fevers, chills, SOB, N/V, or abdominal pain.
+Past Medical History: Morbid obesity Hx of cellulitis in [**9-24**], requiring hospitalization    Social History: From [**State 5887**], works at Job Corp as electrician, drinks alcohol socially, denies tobacco and drugs.
+Family History: Strong family Hx of DM (paternal grandmother, father), mother has alcoholism.
+2+ pitting edema at ankles B/L.
+Pertinent Results: IMAGING  CT Chest/Abd/Pelvis [**2151-1-20**]: The consolidation noted in the posterior segment of the right upper lobe does not have the typical appearance of atelectasis and might represent superimposed aspiration/pneumonia.
+Multiple nonspecific enlarged nodes are noted within the mesentery within the retroperitoneum and along the both external iliac arteries/pelvic walls.
+LENIS [**2151-1-20**]: Neg for DVT  EEG [**2151-1-21**]: Markedly abnormal portable EEG due to the marked suppression of the background with bursts of generalized slowing and prominent beta activity.
+These findings indicate a widespread encephalopathy.
+The Propofol noted on the requisition is the most likely explanation, and the widespread beta rhythm suggests medication effect.
+There were no areas of persistent focal slowing, but encephalopathies may obscure focal findings.
+There were no epileptiform features.
+There is no pleural effusion or pneumothorax.
+ECHO [**2151-1-25**]: The left atrium is mildly dilated.
+There is mild symmetric left ventricular hypertrophy with normal cavity size and global systolic function (LVEF>55%).
+Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded.
+The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic regurgitation.
+The mitral valve appears structurally normal with trivial mitral regurgitation.
+There is no mitral valve prolapse.
+There is no pericardial effusion.
+No valvular pathology or pathologic flow identified.
+Mild symmetric left ventricular hypertrophy with preserved global biventricular systolic function.
+There is a faint opacity in the right lower lung which appears new compared to the prior study and may represent developing pneumonia, although note is made that the technique of the exam is suboptimal, thus reevaluation with PA and lateral radiograph is recommended for precise evaluation of this area.
+No appreciable pleural effusion is demonstrated.
+CXR AP and Lateral [**2151-2-1**]:  In comparison with the study of [**2-1**], there is no change.
+No evidence of acute cardiopulmonary disease.
+Brief Hospital Course: A/P: 22 obese M found down in setting of RLE cellulitis, found down with loss of urinary/bowel continence, fever of 106, and GPC bacteremia.
+# Altered mental status: Likely toxic-metabolic in setting of coag neg staph bacteremia/sepsis from RLE cellulitis.
+His antibiotics were then changed to vancomycin & zosyn on [**1-20**], with resolution of his leukocytosis and clinical improvement - his mental status quickly returned to baseline and his fever resolved after the abx were started.
+His hypotension resolved with IVF administration.
+His EEG showed no signs of epileptic activity.
+A TTE Echo was done and no valvular vegetations suggestive of endocarditis were seen (results above).
+No localizing symptoms.
+LFTs were recheked on [**2-1**] and were normal, aside from an elevated ALT of 48.
+A UA on [**2-1**] showed moderate blood, 38 RBCs, trace protein, and no evidence of infection (no elevated WBC, no bacteria/yeast).
+# Aspiration PNA: Patient reportedly had a witnessed aspiration even during initial incident, and completed 7 days of zosyn and vancomycin as above.
+Follow-up CXRs showed no signs of pneumonia.
+# RLE Cellulitis/Bacteremia: Blood cultures from [**Hospital 11373**] grew Staph epidermidis; its most likely source was his RLE cellulitis.
+# Hyperglycemia: During the patient's stay in the ICU, his blood glucose was very difficult to control, likely due to the steroids he initially received, his bacteremia, and underlying insulin resistance.
+Nutrition and social work were consulted to discuss eating habits in the setting of morbid obesity.
+# Guaiac positive stools: He had a low Hemotocrit on admission but this remained stable.
+He was started on PPI [**Hospital1 **] for 30 days, as it was felt that he likely had stress gastritis in the setting of sepsis.
+# ARF: Pt had an elevated Cr on admission, likely secondary to sepsis/pre-renal etiology.
+# Hypertension: After his initial hypotension, he became hypertensive with SBPs in the 150's-160's.
+# Lymphadenopathy/splenomegaly: Splenomegaly & mesenteric/retroperitoneal lymphadenopathy were noted on pt's initial CT scan.
+A peripheral blood smear reviewed by hematopathology showed mature PMNs and normal lymphocytes, with no immature forms.
+This finding was not felt to be consistent with a viral infection.
+# Transaminitis: CT scan showed fatty liver.
+Viral hepatitis serologies were negative.
+# Dispo: Patient completed a 14 day course of iv antibiotics for coag neg staph bacteremia in the hospital as he did not have insurance that covered outpatient iv antibiotics.
+)(s)* Refills:*0*   Discharge Disposition: Home  Discharge Diagnosis: Cellulitis coag neg staph bacteremia and sepsis  Secondary hyperglycemia Morbid obesity   Discharge Condition: Stable, ambulating, eating PO   Discharge Instructions: You were admitted with cellulitis of your leg which caused a bacterial bloodstream infection with a bacteria called Staph.
+Please call your primary care physician or seek immediate medical attention if you notice any of the following: loss of consciousness, loss of bladder/bowel control, dizziness, fever, nausea, vomiting, chills, chest pain/pressure, palpitations, confusion, abdominal pain, weakness, or any other concerning symptoms.
+Elevated liver function tests and fatty liver seen on CT scan 3.
+Follow-up on your blood pressure, which was elevated during your hospitalization (consider starting a medication for this) 5.
+Guaiac positive stools 6.
+Hematuria (microscopic amounts of blood in your urine)

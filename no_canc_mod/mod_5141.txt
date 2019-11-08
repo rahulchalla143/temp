@@ -1,0 +1,42 @@
+Admission Date:  [**2109-2-8**]              Discharge Date:   [**2109-2-13**]  Date of Birth:  [**2036-9-26**]             Sex:   M  Service: CARDIOTHORACIC  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 1505**] Chief Complaint: Dyspnea on exertion, fatigue   Major Surgical or Invasive Procedure: Aortic valve replacement ([**First Name8 (NamePattern2) 6158**] [**Male First Name (un) 923**] Epic Porcine) Coronary artery bypass graft surgery x1 (left internal mammary artery > left anterior descending) [**2109-2-8**]   History of Present Illness: 72 year old male with known aortic stenosis with complaints of generalized fatigue and dyspnea on exertion.
+Recent cardiac catheterization confirmed severe aortic stenosis and revealed single vessel coronary artery disease.
+No history of syncope, chest pain, PND or orthopnea.
+Past Medical History: Hypertension Hyperlipidemia Myocardial Infarction(by echo) GERD Arthritis Inguinal Hernia Prostatism  Social History: Lives with: wife, has 5 grown children Occupation: delivers ultrasound devices Tobacco: Quit 30 years ago; >2ppd x 25 years ETOH: 1-2 drinks daily with slightly more on weekends   Family History: Father with MI in 60s, died age 65   Physical Exam: Pulse: 71     Resp: 16      O2 sat: 97% RA B/P  Right: 126/76 Height:5'7"     Weight:185 lbs  General: Elderly male in NAD Skin: Dry [x] intact [x] HEENT: PERRLA [x] EOMI [x] - edentulous, full dentures Neck:  Supple [x] Full ROM [x] Chest: Lungs clear bilaterally [x] Heart: RRR [x]  Irregular []  Murmur 3/6 SEM Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds + [x] Extremities: Warm [x], well-perfused [x] Edema - trace bilaterally Varicosities: None Neuro: Grossly intact Pulses: Femoral      Right: 1  Left: 1 DP           Right: 1  Left: 1 PT           [**Name (NI) 167**]: 1  Left: 1 Radial       Right: 2  Left: 2  Carotid Bruit  trans murmur bilaterally   Pertinent Results: [**2109-2-11**] 05:40AM BLOOD WBC-8.8 RBC-3.29* Hgb-9.8* Hct-28.4* MCV-86 MCH-29.9 MCHC-34.6 RDW-12.7 Plt Ct-121* [**2109-2-8**] 11:19AM BLOOD WBC-12.3*# RBC-3.19*# Hgb-9.5*# Hct-27.8*# MCV-87 MCH-29.8 MCHC-34.2 RDW-12.1 Plt Ct-160 [**2109-2-11**] 05:40AM BLOOD Plt Ct-121* [**2109-2-8**] 11:19AM BLOOD Plt Ct-160 [**2109-2-8**] 11:19AM BLOOD PT-14.6* PTT-32.9 INR(PT)-1.3* [**2109-2-8**] 11:19AM BLOOD Fibrino-141* [**2109-2-11**] 05:40AM BLOOD Glucose-119* UreaN-13 Creat-0.9 Na-141 K-4.1 Cl-105 HCO3-29 AnGap-11 [**2109-2-8**] 12:50PM BLOOD UreaN-10 Creat-0.8 Cl-113* HCO3-22 [**2109-2-9**] 11:54PM BLOOD ALT-13 AST-33 LD(LDH)-235 AlkPhos-22* Amylase-21 TotBili-0.5 [**2109-2-9**] 11:54PM BLOOD Lipase-14 [**2109-2-11**] 05:40AM BLOOD Mg-2.0  Radiology Report CHEST (PA & LAT) Study Date of [**2109-2-11**] 5:40 PM    [**Last Name (LF) **],[**First Name3 (LF) **] R. CSURG FA6A [**2109-2-11**] 5:40 PM CHEST (PA & LAT)   Clip # [**Clip Number (Radiology) 34400**] Reason: evaluate for ptx and pleural effusion    [**Hospital 93**] MEDICAL CONDITION:    72 year old man with s/p avr cabg REASON FOR THIS EXAMINATION:    evaluate for ptx and pleural effusion    Wet Read: AGLc MON [**2109-2-11**] 11:46 PM Lt IJ sheath removed.
+No PTX appreciated.
+small Lt>Rt pleural effusion persists.
+No PTX appreciated.
+small Lt pleural effusion persists.
+FINDINGS: In comparison with the study of [**2-10**], the left IJ sheath has been removed and there is no evidence of pneumothorax.
+Opacification at the left base is consistent with effusion and atelectasis, which is more prominent than on the right.
+Coronary artery disease.
+Left ventricular function.
+Mitral valve disease.
+Prosthetic valve function.
+Right ventricular function.
+Valvular heart disease.
+LEFT ATRIUM: Mild LA enlargement.
+No spontaneous echo contrast or thrombus in the body of the [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] LAA.
+LEFT VENTRICLE: Wall thickness and cavity dimensions were obtained from 2D images.
+Simple atheroma in ascending aorta.
+Mildly dilated descending aorta.
+Simple atheroma in descending aorta.
+MITRAL VALVE: Moderately thickened mitral valve leaflets.
+Mild mitral annular calcification.
+Moderate thickening of mitral valve chordae.
+REGIONAL LEFT VENTRICULAR WALL MOTION:           N = Normal, H = Hypokinetic, A = Akinetic, D = Dyskinetic Conclusions PRE-BYPASS: The left atrium is mildly dilated.
+No spontaneous echo contrast or thrombus is seen in the body of the left atrium or left atrial appendage.
+There are simple atheroma in the ascending aorta.
+The descending thoracic aorta is mildly dilated.
+There are simple atheroma in the descending thoracic aorta.
+There is critical aortic valve stenosis (valve area <0.8cm2).
+Mild (1+) aortic regurgitation is seen.
+There is moderate thickening of the mitral valve chordae.
+Trivial mitral regurgitation is seen.
+Bio-prosthetic vqalve in aortic position.
+Delayed precordial R wave progression.
+Non-specific inferior repolarization abnormalities.
+Compared to the previous tracing of [**2109-1-29**] no significant change.
+He was transferred to the intensive care unit for post operative management.
+In the first twenty four hours he was weaned from sedation, awoke neurologically intact and was extubated without complications.
+On post operative day one he had episodes of atrial fibrilllation treated with beta blockers and converted back to sinus rhythm.
+Particle/Crystal(s)* Refills:*0*   Discharge Disposition: Home With Service  Facility: [**Location (un) 2203**] VNA  Discharge Diagnosis: Aortic regurgitation  s/p AVR coronary artery disease s/p CABG Post operative atrial fibrillation Hypertension Hyperlipidemia GERD Arthritis Inguinal Hernia Prostatism   Discharge Condition: Alert and oriented x3 nonfocal Ambulating, gait steady Sternal pain managed with percocet prn   Discharge Instructions: Please shower daily including washing incisions gently with mild soap, no baths or swimming, and look at your incisions Each morning you should weigh yourself and then in the evening take your temperature, these should be written down on the chart  No driving for approximately one month until follow up with surgeon No lifting more than 10 pounds for 10 weeks Please call with any questions or concerns [**Telephone/Fax (1) 170**]  Followup Instructions: [**Name6 (MD) **] [**Name8 (MD) 6144**], MD Phone:[**Telephone/Fax (1) 170**] Date/Time:[**2109-3-14**] 1:00 Recommended Follow-up:Please call to schedule appointments Primary Care Dr [**First Name4 (NamePattern1) 3613**] [**First Name8 (NamePattern2) **] [**Doctor Last Name 15369**] in [**1-12**] weeks [**Telephone/Fax (1) 6699**] Cardiologist Dr [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 7047**] in [**1-12**] weeks Wound check appointment - [**Hospital Ward Name 121**] 6 ([**Telephone/Fax (1) 3071**]) - your nurse will schedule    Completed by:[**2109-2-12**

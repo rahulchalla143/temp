@@ -1,0 +1,63 @@
+Admission Date:  [**2184-11-24**]              Discharge Date:   [**2184-12-5**]  Date of Birth:  [**2114-3-22**]             Sex:   F  Service: MEDICINE  Allergies: Erythromycin Base  Attending:[**First Name3 (LF) 594**] Chief Complaint: Hypoxia  Major Surgical or Invasive Procedure: Endotracheal Intubation Arterial Line placement Bronchoscopy   History of Present Illness: 70-year-old woman with a complicated medical history, including CAD s/p PCI, BOOP/COP with bronchiectasis, PAD, renal artery stenosis, hypertension who was referred by her Pulmonary physician, [**Last Name (NamePattern4) **].
+[**Last Name (STitle) **]: "70 year old female with chief complaint of recurrent anginal symptoms.
+Known CAD and abrupt worsening of oxygenation, with concern for PE.
+The patient reports that her overall worsening began in [**Month (only) 359**] when she developed a cough and wheeze.
+In [**Month (only) **], the patient was seen at [**Location (un) 21541**] Hospital for sharp chest pain, where a heart attack was ruled out but the patient did not receive a stress (according to her report).
+The patient was seen by Dr. [**Last Name (STitle) **] because of increased shortness of breath and has been on prednisone and methotrexate for a suspected recrudescence of BOOP/COP.
+Over the past week, however, the patient has had intermittent short-lived episodes of substernal chest heaviness, which she reports most closely resemble angina from her previous heart problems (which include 3 stents in her coronary vessels; the patient also reports renal artery stents and what seem to be iliac stenting on left).
+The patient reports that her angina-like symptoms do indeed appear upon exertion and appear to be relived with rest.
+Over the past week, however, the patient has also had an increased oxygen requirement at home and desaturates upon activity into the mid 70s (she has a finger pleth at home).
+She has had a barium swallow and reports she has been asked to have an endoscopy as well.
+She further mentions having occaional positive ANCA tests in past (when I was querying about her nasal sores).
+The patient also mentions that all of her symptoms started in [**Month (only) **] after she developed an itchy foot rash that has cleared since the introduction of prednisone.
+The patient underwent chest X-rat, chest CT, and then CTA after having an elevated d-dimer.
+A short walk caused her systolic blood pressure to read in the 190s.
+Past Medical History: BOOP/COP s/p Bx [**2172**] HTN HLD CAD s/p 3 stents GERD T2DM s/p knee replacement ([**2181**]) s/p TAH h/o proctitis ([**2177**]) h/o Babesiosis ([**2180**])   Social History: She is married and lives with her husband.
+Family History: Significant for coronary artery disease.
+Physical Exam: ADMISSION PHYSICAL EXAM: VS - Temp 97.7F, BP 142/70, HR 59, R 18, O2-sat 100% 4L GENERAL - pleasant appropriate HEENT - NC/AT, EOMI, sclerae anicteric and without injection, MMM, OP clear NECK - supple, cannot evaluate JVD LUNGS - diffuse rales across all fields, denser at bases b/l.
+Good air movement, no wheeze or rhonchi.
+Becomes short of breath and RR increases to mid-20s on conversation.
+Microbiology: [**2184-11-26**] MRSA SCREEN-PENDING [**2184-11-25**] CMV Viral Load-PENDING [**2184-11-25**] CRYPTOCOCCAL ANTIGEN-NEGATIVE [**2184-11-25**] Blood Culture-PENDING [**2184-11-25**] SPUTUM Immunoflourescent test for Pneumocystis jirovecii (carinii)-negative [**2184-11-24**] URINE CULTURE-PRELIMINARY {GRAM NEGATIVE ROD(S)} [**2184-11-24**] BLOOD CULTURE-PENDING .
+Imaging: CT Chest ([**11-24**]): IMPRESSION: Acute exacerbation of a more chronic fibrotic process with a segmental distribution.
+- Coronary calcifications.
+- There is calcification of the mitral annulus.
+- Hiatal hernia.
+Increased interstitial markings, correlating with the history of organizing pneumonia.
+Increased bibasilar opacities may represent atelectasis or potentially infection.
+Findings compatible with known interstitial disease and inflammatory airways disease.
+The only change is increased diffuse attenuation of lung parenchyma which may be due to differences in technique although superimposed processes such as edema are not excluded.
+No evidence of pulmonary embolism.
+Echo ([**11-25**]): The left atrium is mildly dilated.
+There is mild symmetric left ventricular hypertrophy with normal cavity size and global systolic function (LVEF>55%).
+Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded.
+The aortic arch is mildly dilated.
+No aortic regurgitation is seen.
+Trivial mitral regurgitation is seen.
+There is a trivial/physiologic pericardial effusion.
+There is an anterior space which most likely represents a prominent fat pad.
+Mild symmetric left ventricular hypertrophy and normal cavity size with preserved global biventricular systolic function.
+Mildly dilated aortic arch.
+No clinically significant valvular regurgitation or stenosis.
+Indeterminate pulmonary artery systolic pressure.
+Brief Hospital Course: 70F with PMH BOOP/COP, CAD s/p stent x3, PAD who presents with dyspnea on exertion, hypoxia, chest pressure of two months duration.
+# Dyspnea, Hypoxia, Chest Pressure:  DDx is broad, including cardiac, pulmonary, and inflammatory causes.
+Although the patient had Hx CAD, her chest pressure appeared to be mild and associated with hypoxia.
+She had no sign of cardiac disease given negative troponin, normal echo.
+Pulmonary hypertension would explain her dyspnea and hypoxia, although it could be secondary to multiple etiologies.
+She could have worsening BOOP, but it was also possible she had a new pulmonary process, either infectious or inflammatory.
+Given her use of steroids without ABX prophylaxis, PCP or other infection also needs to be considered.
+She has been afebrile and without sputum production, but has noted cough and is on immune suppression.
+Given the background of foot rash and nasal lesions, Wegener's was of concern.
+ENT was called but biopsy deferred to resolution of infectious and rheumatologic workup.
+On the morning of [**11-26**], she was found to have worsening hypoxia and was transferred to the MICU.
+However, over a few days, the patient's respiratory status continued to decline, and she had an acute episode of prolonged desaturation for which she was intubated.
+CT chest performed [**2184-12-3**] showed substantial worsening of her ILD.
+Several attempts were made to wean her from the ventilator but failed due to hypoxia.
+She also declined the option for a tracheostomy.
+She became pulseless and was declared dead at 12:02 pm.
+# UTI: Found to have dirty UA, Ucx growing out pan sensitive Klebs.
+Patient does have history of renal artery stenosis with stenting.
+# Leukocytosis: Likely secondary to recent increase in steroids, especially as patient is afebrile.
+She remained afebrile prior to ICU transfer.
+# Diabetes mellitus, type 2:   continued ISS, held metformin .
+# FEN: Replete lytes prn / regular diet # PPX: heparin SC, bowel regimen, APAP # ACCESS: PIV # CODE: Full # CONTACT:  husband  Medications on Admission: Medication list per PCP records from visit [**11-9**]: ATENOLOL 25mg AM, 50mg PM (same as OMR) HYDROCHLOROTHIAZIDE 25mg daily (same as OMR) CITALOPRAM 20mg daily (same as OMR) PANTOPRAZOLE [PROTONIX] 40mg daily (same as OMR) METFORMIN 500mg [**Hospital1 **] (same as OMR) PREDNISONE taper from 40mg (same as OMR) PRAVASTATIN 10mg daily (same as OMR, dose not listed, confirmed with Pharmacy) METHOTREXATE SODIUM 10mg weekly Q Tuesday (same as OMR) Ativan PRN (not in OMR) Ventolin Q4-6H PRN (not in OMR) saline nasal rinse PRN (not in OMR)   Discharge Medications: n/a  Discharge Disposition: Expired  Discharge Diagnosis: Interstitial Lung Disease Anemia Acute Renal Failure   Discharge Condition: Expired   Discharge Instructions: n/a  Followup Instructions: n/a

@@ -1,0 +1,20 @@
+Admission Date:  [**2137-10-6**]              Discharge Date:   [**2137-10-10**]   Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 4052**] Chief Complaint: Melena  Major Surgical or Invasive Procedure: Upper Endoscopy with [**Hospital1 **]-CAP Electrocautery  History of Present Illness: 85 F with dementia, mild mental retardation, and HTN, most recently on po Vanc for C. diff, sent to ER with lethagy and 1 episode of blood tinged emesis and found to have black, guaiac + stool.
+Denies abd pain, shortness of breath, chest pain.
+Mild Mental Retardation 2.
+HTN - recently Dx'd 8.
+EGD - [**10-6**] - Blood in the stomach Blood in the second part of the duodenum Spot in the duodenal bulb (thermal therapy) Otherwise normal EGD to second part of the duodenum .
+CXR - [**10-6**] - Bibasilar consolidation worrisome for aspiration and/or pneumonia.
+Brief Hospital Course: 85 F with dementia, mild mental retardation, and HTN, on po Vanc for C. diff, sent to ER from Goaddard House for lethargy and 1 episode of blood-tinged emesis and found to have black, guaiac + stool.
+GI contact[**Name (NI) **] and EGD on [**10-6**] that revealed blood in the stomach, 2nd part of the duodenum, and duodenal bulb, s/p [**Hospital1 **]-CAP electrocautery for hemostasis which was successful.
+# GI bleed - likely upper given emesis, however, unable to NG lavage in ED despite multiple attempts.
+EGD showed old blood/clot in stomach and duodenum, ?slow oozing spot in bulb s/p BiCAP.
+# Anemia - has developed since [**6-13**], most likely 2/2 blood loss, was started on aspirin at that time for atrial fibrillation so may have NSAID induced gastritis.
+- transfused 4 units pRBCs, HCT stable in mid-30s - iron studies done but given history of GI bleed and normocytic anemia anemia likely [**2-8**] GI loss, retic count low - B12, folate, TSH - normal .
+# PNA: - CXR with infiltrate and elevated WBC to 22 - received course of IV Vanc and Zosyn - written for sputum culture -> pt.
+# Atrial fibrillation - currently in sinus, as out-patient - EKG - sinus - cardiac enzymes neg x 3 - holding asa in setting of bleed - restarted on diltiazem on [**10-7**] .
+# HTN - on diltiazem and ?
+# Osteoporosis - cont vit D and calcium when taking po .
+# Code status - DNR/DNI .
+Discharge Disposition: Extended Care  Facility: [**Hospital3 537**]- [**Location (un) 538**]  Discharge Diagnosis: Upper GI bleed - c diff - on course of po vanco 250 mg po QID ([**Date range (2) 111616**])  - mild mental metardation - Dementia (type unknown) - atrial fibrillation - Kyphoscoliosis - DJD/OA - Osteoporosis - HTN  Discharge Condition: Improved  Discharge Instructions: You have had a bleed from your upper GI tract.
+If you should experience any dark, tarry stools or vomit up any blood or vomit that looks like coffee grounds, you should return to the hospital immediately.
+Please contact you physician if you experience any light-headedness, low blood pressure, blood in stools or any other symptoms that are new or of concern to you.

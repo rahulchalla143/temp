@@ -1,0 +1,57 @@
+Admission Date:  [**2185-3-28**]              Discharge Date:   [**2185-4-1**]   Service: MEDICINE  Allergies: Egg / Strawberry  Attending:[**Doctor Last Name 10493**] Chief Complaint: shortness of breath, cough  Major Surgical or Invasive Procedure: None  History of Present Illness: HPI: 83yo M with DM and CAD, in the [**Hospital Unit Name 153**] for 1 day for respiratory distress due to pneumonia who is stable and transferred to the floor.
+Pt lives in an [**Hospital3 **] facility, 1d PTA noticed that he felt extremely fatigued and "unlike himself".
+He reports a cough x 2 days, productive of whitish sputum, along with wheezing and shortness of breath.
+He felt hot but did not have fevers assessed by temperature, but had chills.
+He was sent to the [**Hospital Unit Name 153**] for further monitoring given his labored breathing and abnormal vital signs.
+CTA c/w atypical pneumonia.
+In the [**Hospital Unit Name 153**] his course consisted of albuterol nebulizer, azithromycin and ceftriaxone for pneumonia and vancomycin for ankle cellulitis.
+He does report some nausea and decreased po intake x 1 day, but denies abdominal pain, vomiting, diarrhea, or constipation.
+He has no pain, breathing is not as difficult, although he still has some wheezing and SOB on minimal exertion such as sitting up in bed.
+H/o MI [**2175**] HTN NIDDM Dyslipidemia Anxiety and depression BPH s/p TURP [**12/2182**] L inguinal hernia s/p repair [**10/2182**] Glaucoma Macular degeneration, near blindness in both eyes Bl hip pain, likely [**1-7**] L4/5 foraminal disc herniation   Social History: Patient lives at [**Location (un) **], an [**Hospital3 **] facility.
+He has no children.
+JVP 10cm Lungs: wheezes diffusely on expiration and inspiration, coarse rhonchi, most prominent on the R posterior-lateral lower lobe Chest: RRR, nl S1/S2, no murmurs.
+Abd: soft, nt, nd, nabs, no hsm.
+Extrem: trace edema both feet.
+2+ dorsal pedal pulses.
+L ankle with mildly erythematous patch of dry, scaly, yellow/brown flaky, non-swollen, non-tender, skin.
+No blistering or pus drainage.
+No evidence of pulmonary embolism or aortic dissection.
+Centrilobular opacities in the right lung most notable in the superior segment of the right lower lobe and posterior segment of the right upper lobe with underlying emphysema.
+Bilateral peribronchial wall thickening.
+Differential diagnosis includes atypical mycobacterium infection versus bronchopneumonia.
+Hypodense lesion within segment IV of the liver is incompletely characterized on this examination.
+Tubular soft tissue density in the region of the left adrenal gland possibly representing adrenal hyperplasia.
+Heterogeneous lesion within the left thyroid gland which may be further evaluated with ultrasound.
+Scattered mediastinal and hilar lymph nodes, the largest of which measures 1.1 cm in short axis.
+CXR [**2185-3-29**] IMPRESSION: No evidence of acute pneumonia.
+No pleural effusions or acute skeletal abnormalities are identified.
+EKG: Sinus tachycardia@120BPM,L atrial abnormality, RBBB (new relative to EKG [**2184-6-15**]) 1mm ST depressions V2-V3, frequent PVC's.
+Brief Hospital Course: Assessment: 83yo M with DM and CAD, in the [**Hospital Unit Name 153**] 1 day for respiratory distress due to pneumonia who was stable and discharged from the floor.
+# Pneumonia: SOB, cough have improved, but are still present.
+He has been afebrile since transfer from to the floor but his WBC was still elevated until [**3-30**] when it was normal.
+Opacity on chest CT c/w atypical pna.
+Also could represent viral pneumonitis and aspiration.
+Speech and swallow team evaluated and cleared for eating as pt has no apparent aspiration risk.
+# Wheezing: pt w/ 25y h/o pipe smoking, stopped in [**2157**]'s.
+Evidence of COPD on CT. Nebs improve breathing according to pt.
+# Skin lesion: the dry, scaly, mildly erythematous yellow/brown skin on L ankle is less likely to be cellulitis as it is not hot, tender or swollen.
+# Hypertension: pt w/ h/o HTN on amlodipine, lopressor, and lisinopril, furosamide at home, hypertensive in ED to SBP 200.
+# Tachycardia: Tachy resolved on night of [**3-28**] w/ 500cc NS, lopressor PM dose, 0.5 mg ativan.
+No evidence of PE on CTAngio.
+On night of [**3-29**] episode of tachy with PVC resolved with lopressor.
+Additional episode of tachy on night of [**3-31**] prompted increase of lopressor from 100mg to 150mg [**Hospital1 **] as above.
+# H/o CAD: Other than SOB, no symptoms of ischemia.
+s/p coated stent x 2 in [**2181**], and 60% non-stented LAD lesion [**2181**].
+CK elevated (274, 397), but MB fraction <2.5% and minimally elevated Tn (0.02) make ACS unlikely.
+[**Month (only) 116**] be small enzyme leak related to tachycardia (demand ischemia.
+A repeat EKG ([**3-30**]) showed persistence of RBBB, but with negative enzymes, did not mandate further work-up.
+# Frequent PVC's.
+# Diabetes: NIDDM, on glyburide at home, currently blood sugars are controlled.
+Medications on Admission: Aspirin 325 mg PO DAILY Amlodipine 10 mg PO DAILY Lisinopril 20 mg PO DAILY Metoprolol Tartrate 100 mg PO BID Atorvastatin 10 mg PO qHS Furosemide 20 mg PO DAILY Glyburide 1.25 mg PO DAILY Finasteride 5 mg PO qHS Ranitidine 150mg po bid Bimatoprost 0.03 % Drops One (1)  Ophthalmic QHS Tylenol, extra strength, 1000 mg PO tid Neurontin 200mg po daily Codeine 30mg po q6h prn pain Lidoderm Patch  Discharge Medications: 1.
+Albuterol 90 mcg/Actuation Aerosol Sig: [**12-7**]  Inhalation every 4-6 hours as needed for shortness of breath or wheezing.
+Atrovent 0.02 % Solution Sig: [**12-7**]  Inhalation every six (6) hours as needed for shortness of breath or wheezing.
+Discharge Disposition: Extended Care  Facility: [**First Name4 (NamePattern1) 533**] [**Last Name (NamePattern1) **] for Extended Care - [**Location 1268**]  Discharge Diagnosis: Primary diagnosis: Pneumonia Secondary diagnosis: coronary artery disease, hypertension, Diabetes Mellitus Type II, Dyslipidemia, anxiety, depression, Benign prostatic hyperplasia, glaucoma, macular degeneration   Discharge Condition: Improved   Discharge Instructions: You have been in the hospital because you had a cough and shortness of breath.
+You had an episode of respiratory distress, fever and high blood pressure and were stabilized in the intensive care unit.
+It is important to check your sugar level everyday, and to go to the ED or call your PCP if you have feelings of lightheadedness, tremulosness or tingling.
+Please go to the ED or call your PCP if you begin to have fever>100.6, increased shortness of breath, chest pain or heart racing.
+Followup Instructions: Due to some episodes of high blood pressure your lisinopril was increaed from 20mg to 40mg every day.

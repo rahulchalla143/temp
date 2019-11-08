@@ -1,0 +1,61 @@
+Admission Date:  [**2147-9-3**]              Discharge Date:   [**2147-9-14**]  Date of Birth:  [**2077-7-9**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 398**] Chief Complaint: Hypotension, fever  Major Surgical or Invasive Procedure: Left Radial Arterial Line PICC removal PICC placement Bronchoscopy Post-pyloric PEG advancement [**2147-9-13**]; revision on [**2147-9-14**]   History of Present Illness: Mr. [**Known firstname 2398**] [**Known lastname **] is a 70M with HIV (CD4 350 in [**5-8**]), SCC s/p RLL lobectomy [**8-7**] complicated by bronchopleural fistula treated with [**Last Name (un) 72968**] window, as well as empyema and invasive aspergillosis treated with voriconazole referred from [**Hospital1 **] [**Hospital1 8**] for hypotension and fever to 101.8.
+He was recently admitted from [**2147-8-7**] to [**2147-8-31**] with aspiration PNA, PCP pneumonia and septic shock.
+He subsequently developed hypotension to 70/40, refractory to 5L IVF, on [**9-2**] the day prior to admission.
+Supposedly, no major interventions were done (paperwork is now lost).
+Past Medical History: -- trach and PEG placed last admission -History of multivessel CAD s/p PCI of the proximal left circumflex with a bare metal stent [**2143**] w/ Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] ([**Hospital 12017**] [**Hospital 12018**] Hospital) -HIV-infection, diagnosed in [**2137**], well-controlled.
+Pt states that his VL has always been undetectable -Chronic LV dysfunction last EF 55% -Severe migratory polyarthritis, on prolonged high-dose steroid use for presumed "adrenal insufficiency" -moderate MR [**Name13 (STitle) 19667**] -herpes labialis -TMJ -B/L inguinal hernia repair -SCC s/p RLL lobectomy [**8-7**] complicated by bronchopleural fistula treated with [**Last Name (un) 72968**] window, as well as empyema and invasive aspergillosis   Social History: Currently residing in [**Hospital **] [**Hospital 8**] Rehabilitation.
+Physical Exam: Vitals on arrival to the MICU: T 99.2, 113, 116/73, 100% on PS [**5-3**] and FO2 General: sitting with eyes closed, trached on vent HEENT: Sclera anicteric, dry MM, poor dentition, left slightly greater tha right, both pupils reactive to light, arcus sensilus pupil (stable) Neck: hard to assess JVD, trached, connected to vent Lungs: rhonchorus, coarse rales; R-sided chest dressing c/d/i CV: regular fast rate, no murmurs appreciated Abdomen: + BS, soft, NTND, diffuse ecchymoses c/w lovenox shots; old sutures retained in LLQ (CDI); PEG site with minimal erythema and no discharge Skin: scattered, diffuse telangiectasias (not spiders) scatter on face/chest/limbs; friable skin with some areas of eschar on chest, do not appear superinfected Ext: warm, dry +PP no edema Neuro: sleepy, arouses when spoken to [**Last Name (un) **]; hard to understand paie witht PMV but he attept to answer questions  Pertinent Results: ADMISSION LABS: Notable for lipase 215, BUN10, Cr 0.3, WBC 15.7 with 4% bands, Hct 25.4, plt 637 Lactate 1.0 AST: 97 ALT: 76 AP: 170 Tbili: 0.2 UA negative  IMAGING: [**2147-9-3**] CT TORSO with contrast: 1.
+Small volume of pneumoperitoneum in the setting of interval recnetly placed percutaneous gastrostomy tube.
+Widespread reticular and ground-glass opacities as well as more dense consolidation in the left lung, progressed from the recent comparison study, concerning for infectious process.
+Increased size and prevalence of multiple mediastinal lymph nodes, possibly reactive given the findings in the lungs.
+Followup upon resolution of symptoms is recommended.
+Endobronchial material partially occluding the right mainstem bronchus, slightly increased since the previous study.
+Numerous spinal compression deformities, similar to the recent comparison.
+[**2147-9-4**] BRONCHIAL WASHING: -- negative for malignant cells  [**2147-9-7**] BARIUM STUDY via PEG to evaluate for reflux/aspiration: No evidence of gastroesophageal reflux after injection barium through the patient's PEG tube.
+However, patient cooperation is required for complete evaluation for reflux and due to the patient's waxing and [**Doctor Last Name 688**] alertness, the study was limited.
+[**2147-9-8**]: BILATERAL LENI's No evidence of DVT in right or left lower extremity.
+[**2147-9-12**] CXR: Multifocal consolidation of left lung is stable since [**2147-9-8**].
+10,000-100,000 ORGANISMS/ML.. LEGIONELLA CULTURE (Final [**2147-9-11**]):    NO LEGIONELLA ISOLATED.
+POTASSIUM HYDROXIDE PREPARATION (Final [**2147-9-5**]): NO FUNGAL ELEMENTS SEEN.
+Immunoflourescent test for Pneumocystis jirovecii (carinii): NEGATIVE FUNGAL CULTURE (Preliminary): YEAST.
+NOCARDIA CULTURE (Preliminary):    NO NOCARDIA ISOLATED.
+VIRAL CULTURE: R/O CYTOMEGALOVIRUS (Preliminary): No Virus isolated so far.
+ACID FAST SMEAR (Final [**2147-9-5**]): NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR.
+ACID FAST CULTURE (Preliminary):    NO MYCOBACTERIA ISOLATED.
+Brief Hospital Course: Mr. [**Known lastname **] is a 70 yo M h/o HIV, (CD4 350 in [**5-8**] and VL undetect), SCC s/p RLL lobectomy [**8-7**] complicated by bronchopleural fistula involving aspergillosis treated with [**Last Name (un) 72968**] window- open to air, as well as empyema and invasive aspergillosis treated with voriconazole referred from [**Hospital1 **] [**Hospital1 8**] for hypotension and fever secondary to a recurrent pneumonia.
+Upon admission, he was started empirically on vancomycin, meropenem and ciprofloxacin, as well as voriconazole given his history of aspergillus infection.
+CT chest showed widespread reticular and ground-glass opacities as well as more dense consolidation in the left lung.
+A bronchoscopy was performed on [**2147-9-4**] that showed no evidence of malignancy or fungus.
+Given these findings and the patient's history of aspergillus infection, the Infectious Disease doctors [**Name5 (PTitle) 2985**] the [**Name5 (PTitle) **] should remain on life long voriconazole.
+There is a voriconazole level and B glucan titer pending at time of discharge that will be followed by his ID physicians at [**Hospital1 18**].
+Suspicion for recurrent aspiration remained high, especially because nursing staff noted bilious secretions.
+[**9-13**] an IR guided advancement of his gastric tube to post-pyloric positioning was performed without difficulty.
+# ORAL SECRETIONS: Pt started on scopolamine patch to assist management of oral secretions.
+# Anemia: patient's hematocrit remained in the low to mid-20s.
+This was not felt to be active bleeding.
+# CAD: Patient with known history of CAD s/p PCI.
+# BP fistula/[**Last Name (un) 72968**] Window: No evidence of infection during hospitalization.
+# Respiratory Status: Would continue to wean off vent support as tolerated.
+Pt reports continued fatigue with prolonged periods of trach collar which likely represents muscle fatigue.
+# Lines: PICC on admission removed and new PICC placed [**2147-9-6**].
+# Prophylaxis: - Continue lovenox 40 mg sc daily for DVT prophylaxis.
+- Continue ranitidine 150 mg daily for stress ulcer prophylaxis while on ventilator.
+Medications on Admission: Vancomycin, Meropenem, Ciprofloxacin --> restarted Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical TID (3 times a day) as needed for yeast.
+Ipratropium Bromide 0.02 % Solution Sig: One (1) neb Inhalation Q6H (every 6 hours) as needed for sob/wheeze.
+Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1) neb Inhalation Q6H (every 6 hours) as needed for sob/wheeze.
+Heparin, Porcine (PF) 10 unit/mL Syringe Sig: Two (2) ML Intravenous PRN (as needed) as needed for line flush.
+Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: 2-4 Puffs Inhalation Q6H (every 6 hours) as needed for SOB/Wheeze.
+PO DAILY (Daily) as needed for Constipation.
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for Constipation.
+Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation Q6H (every 6 hours) as needed for sob, wheezing.
+Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1) neb Inhalation Q6H (every 6 hours) as needed for sob, wheezing.
+Scopolamine Base 1.5 mg Patch 72 hr Sig: One (1) Patch 72 hr Transdermal Q72HR () as needed for secretions.
+Acetaminophen 500 mg Tablet Sig: 1-2 Tablets PO Q8H (every 8 hours) as needed for pain, headache.
+Trazodone 50 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime) as needed for sleep.
+Chlorhexidine Gluconate 0.12 % Mouthwash Sig: Fifteen (15) ML Mucous membrane [**Hospital1 **] (2 times a day) as needed for cleaning.
+Discharge Disposition: Extended Care  Facility: [**Hospital6 85**] - [**Location (un) 86**]  Discharge Diagnosis: Primary: Aspiration Pneumonia  Secondary: Respiratory Failure HIV H/o aspergillus infection   Discharge Condition: Mental Status: Clear and coherent.
+Trached on vent   Discharge Instructions: You were admitted for low blood pressure and a fever.
+You were found to have an aspiration pneumonia.
+We treated you with antibiotics.
+Scopolamine patch every 72 hours as needed for excess secretions 3.
+Trazadone 25 mg every evening as needed for insomnia 4.

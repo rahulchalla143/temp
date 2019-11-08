@@ -1,0 +1,88 @@
+Admission Date:  [**2149-12-22**]              Discharge Date:   [**2150-1-9**]  Date of Birth:  [**2064-3-16**]             Sex:   F  Service: MEDICINE  Allergies: Bactrim  Attending:[**First Name3 (LF) 2880**] Chief Complaint: left-sided weakness  Major Surgical or Invasive Procedure: -PEG Tube Placement   History of Present Illness: The patient is an 85-year-old right-handed female with a past medical history significant for hypertension, hyperlipidemia, and atrial tachycardia with a stroke resulting in transient left leg weakness in the right ACA territory in [**7-/2149**] who presents with an acute onset of left arm, face, and leg weakness.
+The patient has been having some difficulty with osteoarthritis of her right knee and has sustained a number of falls lately.
+In addition, she may have had a slight fracture to her nose.
+There was no head strike and there was no loss of consciousness.
+Approximately 7 p.m. this evening, her neighbor came over and noted her to be in a normal state.
+Subsequently after this, she apparently told her friend that she was not feeling right and developed at around 7 p.m. the acute onset of left arm weakness and left leg weakness.
+Her speech reportedly was not making much sense and she was noted to have a left facial droop.
+The patient was evaluated by the stroke team soon after and was determined clinically to have a stroke.
+She had a head CT, which did not show any bleeding and a decision was made to give the patient TPA.
+The patient had a CTA, which showed a clot in the M1 distribution and it was decided that she may be a candidate for thrombectomy.
+She was brought to the interventional radiology suite; however, when she got there, it was noted on the CTA and CT perfusion maps that there was no obvious penumbra and the stroke attending felt that it would not give much benefit The decision was made that the risks of opening up the clot were greater than the benefits and the patient was admitted to the ICU service for further management.
+Extinction and Neglect: 2  Time Code Stroke called: 19:51 (24h clock) Time Neurology at bedside for evaluation: 19:51 (24h clock) Time (and date) the patient was last known well: 19:00 (24h clock) NIH Stroke Scale Score: 21 t-[**MD Number(3) 6360**]:    Yes     Time t-PA was given   20:32 (24h clock)   On neuro ROS (per daughter and patient), the pt denies headache, no recent change in vision.
+Had an episode of dizziness this afternoon as described above.
+No recent bowel or bladder incontinence or retention.
+Prior to above event no difficulty with gait.
+On general review of systems, the pt denies recent fever or chills.
+No night sweats or recent weight loss or gain.
+Denies chest pain or tightness, palpitations.
+Denies nausea, vomiting, diarrhea, constipation or abdominal pain.
+No recent change in bowel or bladder habits.
+On transfer to the Cardiology Service: Mrs [**Known lastname 25069**] is a pleasant 85 yo female with hx HTN, HLD, atrial tachycardia, baseline dementia, hx ACA stroke (without residual deficits) who was initially admitted to the neurology service on [**12-22**] for large R MCA stroke.
+vtach vs afib with abberancy on [**12-23**], requiring cardioverson x3 and amiodarone load.
+She then went back into afib with RVR to the 160s while intubated and getting PEG on [**1-1**], which was controlled with esmolol during the procedure; in the PACU she apparently became hypotensive on diltiazem Gtt.
+<U><b>CARDIAC REVIEW OF SYSTEMS:</b></U> (+) Per HPI (-) Denies chest pain, dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope.
+<U><b>OTHER REVIEW OF SYSTEMS:</b></U> (+) Per HPI (-) Denies any exertional buttock or calf pain; prior history of deep venous thrombosis, pulmonary embolism; bleeding at the time of surgery, hemoptysis, black or red stools.
+Also denies fevers, chills, myalgias, joint pains; cough, wheezes; diarrhea, or recent change in bowel habits; dysuria or change in voiding habits; rashes or skin breakdown; numbness/tingling in extremities; feelings of depression or anxiety.
+Past Medical History: - right ACA stroke secondary to hypoperfusion (due to an adenosine stress test) in setting of hypoplastic A1 segment of ACA -Osteoarthritis awaiting a right knee replacement - Hyperlipidemia - Hypertension - Left bundle branch block - Atrial tachycardia   Social History: "Retired" homemaker, lives alone, independent in all IADLs including paying bills -Tob: never -EtOH: no heavy use -Drugs: Never   Family History: Sister with stroke at 92, sister with [**Name (NI) 2481**] disease, 2 brother with cardiac disease younger than 50 (one with MI and one with angina both in 40s), 2 brothers with MI older than 50   Physical Exam: On Admission: .
+follows some commands HEENT: NC/AT, no scleral icterus noted, MMM, bruise an sutures on lower lip, bruise around left eye (from fall last week) Neck: Supple, no carotid bruits appreciated.
+VII: Left sided facial droop, spares forehead VIII: Hearing intact to voice IX, X: Palate elevates symmetrically.
+-Sensory: Appears intact on right, withdraws to pain on left .
+No central or peripheral cyanosis; no jaundice, no palor.
+Sclera anicteric.
+No thrills, lifts.
+LUNGS: CTAB, no adventitial sounds.
+No HSM or tenderness.
+No abdominial bruits.
+SACRUM: No ulcer SKIN: No stasis dermatitis, ulcers, scars.
+PULSES: Right: PT 2+ Left: PT 2+ **NEURO: CN 7 improving, with left sided facial droop improving.
+TEE [**1-8**]: No spontaneous echo contrast or thrombus is seen in the body of the left atrium/left atrial appendage or the body of the right atrium/right atrial appendage.
+No atrial septal defect is seen by 2D or color Doppler.
+Calcified atherosclerotic plaque is seen in the left main coronary artery (clip [**Clip Number (Radiology) **]).
+There are simple atheroma in the descending thoracic aorta.
+The aortic valve leaflets (3) are mildly thickened.
+There is no aortic valve stenosis.
+No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Trivial mitral regurgitation is seen.
+There is no pericardial effusion.
+IMPRESSION: No thrombus or spontaneous echo contrast in the LA/LAA.
+CXR [**1-2**] No pulmonary edema.
+CT Head w/o contrast on [**2149-12-26**]- extensive right MCA territory infarction involving the right frontal, parietal and, temporal lobes with mildly increased edema and effacement of the right lateral ventricle compared to [**2149-12-23**].
+A 3.4 mm leftward shift of normally midline structures is also new compared to the prior study.
+CT Head w/o contrast on [**2149-12-23**]- Extensive right MCA territorial infarction involving the right frontal, parietal, and temporal lobes are evident on this CT study compared to the CTA head and neck of [**2149-12-22**], and appear increased in extent at the right frontal vertex in comparison to the MRI of [**2149-12-23**].
+The distribution of the large acute infarction is more extensive than on the DWI sequence from the MR study performed some 20 hours earlier.
+Allowing for the "islands" of preserved brain within, there is no definite evidence of hemorrhagic conversion.
+The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present.
+Mild [1+] aortic regurgitation is seen.
+The mitral valve appears structurally normal with trivial mitral regurgitation.
+There is no mitral valve prolapse.
+There is moderate pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+Extensive acute infarcts noted involving the right frontal, parietal, and temporal lobes with small area in the left frontal lobe and a few smaller areas in the right occipital and in the right cerebellar hemispheres  CTA Head W/ and W/O C & Recons on [**2149-12-22**]- 1.
+Large right MCA infarct with thrombus filling the distal right M1 segment.
+Right distal ACA infarction, partially visualized, with filling defects within the pericallosal arterires bilaterally, and no evidence of penumbra in this region.
+Atherosclerotic disease without flow limiting stenosis or occlusion.
+Other details as above- degenerative changes in the spine with canal and foraminal narrowing .
+# MCA Stroke: The patient was last seen normal at 7pm on [**2149-12-22**], when her neighbor witnessed the onset of left arm weakness, left facial droop, and right gaze deviation.
+Her exam was notable for a flaccid left arm with extensor posturing to stim, a left leg that triple flexes, left facial droop, right gaze deviation, left hemi-neglect.
+Based on the clinical picture it was determined that she had a R MCA stroke and tPA was given at 8:32pm.
+The CTA showed a persistent clot in the M!
+Based on this she was taken to the Angio-suite for possible thrombectomy, however the CTP showed a near complete infarct with no obvious penumbra, and the decision was made that the risks of reperfusion injury outweighed any benefits.
+Follow up head CT demonstrated extension but no definite evidence of hemorrhagic conversion.
+Speech and swallow saw the patient and cleared her for the dysphagia solids and nectar liquids.
+# AF-RVR: Patient went into Atrial-Tach with aberrency [**12-23**] while undergoing PEG placement and received Amio 300mg IV due to concern for V-Tach, then converted to SR; also received esmolol for hypertensive urgency and diltiazem gtt in the PACU, which made the patient hypotensive.
+She then had recurrent persistent afib with RVR and was transferred to the cardiology service for further management.
+Pt was started on several regimens of diltiazem, metoprolol and digoxin which were unsuccessful due to hypotension (goal SBP 110-180 per neuro) and persistent tachycardia.
+# Respiratory Support: S/p intubation on [**12-23**] while patient in Atrial-Tach with aberrency.
+# Anemia: Work-up revealing for ACD with Fe:TIBC of 24, but with likely concamitant iron deficiency anemia with low-normal Ferritin and Fe.
+# Hyperglycemia, post-stroke: Blood glucose well controlled on RISS, requiring very little insulin.
+Medications on Admission: -Atenolol 25 mg daily -Diovan 240 mg daily -Simvastatin 20 mg daily -Levothyroxine 100 mcg daily -Mupirocin 2% nostril; never filled -Triamcinolone ointment 0.1% daily to abdominal rash prn -Desonide cream daily to face/body rash  Discharge Medications: 1. metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours).
+Disp:*90 Capsule(s)* Refills:*2* 7. docusate sodium 50 mg/5 mL Liquid Sig: One Hundred (100) mg PO BID (2 times a day) as needed for constipation.
+Disp:*280 ml* Refills:*2* 8. senna 8.6 mg Tablet Sig: One (1) Tablet PO twice a day as needed for constipation.
+Medications may also need to be titrated if afib recurrs.
+Continue to check HR/BP until stabilized on Metoprolol regimen   Discharge Disposition: Extended Care  Facility: [**Hospital **] Hospital- [**Hospital1 8**]  Discharge Diagnosis: PRIMARY: -Ischemic Right Middle Cerebral Artery Stroke -Atrial Fibrillation with Rapid Ventricular Response .
+You were hospitalized because you had a major stroke resulting from the obstruction of blood flow to the right side of your brain.
+You continue to have significant left-sided neurologic deficits that may or may not improve with time and rehabilitation.
+During your hospitalization your heart went into an irregular fast rhythm called atrial fibrillation with rapid ventricular response.
+Please continue to take the rest of your medications as previously prescribed, except the following medications: # STOP: Triamcinolone ointment 0.1% daily # STOP: Desonide cream daily to face/body rash # START: Senna to prevent constipation # START: Colace to prevent constipation .

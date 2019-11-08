@@ -1,0 +1,79 @@
+Admission Date:  [**2150-10-15**]              Discharge Date:   [**2150-10-26**]  Date of Birth:  [**2070-1-22**]             Sex:   F  Service: MEDICINE  Allergies: Penicillins  Attending:[**Last Name (NamePattern4) 290**] Chief Complaint: Aspiration/Hypoxic respiratory failure  Major Surgical or Invasive Procedure: - Intubation [**2150-10-15**] - Right radial A line [**2150-10-15**] - Right IJ Central Venous Line insertion [**2150-10-16**] - PICC line removal [**2150-10-16**] - Extubation [**2150-10-24**] - Right IJ Central Venous Line removal [**2150-10-25**]  History of Present Illness: Ms. [**Known firstname 12335**] [**Known lastname **] is an 80 year old woman with a history of paranoid schizophrenia, anoxic brain injury and advanced dementia and recent aspiration pneumonia presents from her nursing home with acute shortness of breath and hypoxia while eating breakfast.
+Patient was in significant respiratory distress on presentation with oxygen saturations falling into the 70s.
+Patient initially with persistent hypoxia requiring FiO2 100%.
+CXR showed diffuse infiltrates.
+Labs were notable for WBC 27, HCT 30 (baseline), lactate 3.3, UA with trace protein and ketones, glucose 278, and Na 134.
+Past Medical History: paranoid schizophrenia anoxic brain injury advanced dementia insulin-dependent diabetes hypertension hyperlipidemia malignant melanoma aspiration pneumonia history of C. difficile history of hip fracture history of right parietal meningioma  Social History: Patient lives at [**Location 12336**] House since [**2145**].
+She has no recent alcohol, tobacco, or illicit drug history.
+Physical Exam: Physical Exam on Admission to [**Hospital Unit Name 153**]: Vitals: T: 95.8 BP: 131/71 P: 128 R: 12 O2: 97% on vent General: Alert chewing on ET tube, no acute distress HEENT: Sclera anicteric, Right pupil dilated and minimally responsive to light, left pupil responive to light, ET tube inplace with pink frothy oral secretions Neck: JVP not elevated, no LAD Lungs: scattered rhonchi throughout anteriorly CV: tachycardic and rhythm, normal S1 + S2, no murmurs, rubs, gallops Abdomen: soft, non-tender, non-distended, bowel sounds present Neuro: Patient spontaneously moves all four extremities, continuously smacking lips, chewing on ET tube, awake, tremor present (baseline) not following commands.
+GU: foley in place Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema  Pertinent Results: Labs [**2150-10-15**] - CBC with differential: WBC-27.2*# RBC-3.43* Hgb-9.8* Hct-30.2* MCV-88 MCH-28.5 MCHC-32.4 RDW-15.1 Plt Ct-489* Neuts-70 Bands-1 Lymphs-24 Monos-4 Eos-1 Baso-0 Atyps-0 Metas-0 Myelos-0 - Coagulations: PT-13.1 PTT-22.5 INR(PT)-1.1 - CHEM 10: Glucose-298* UreaN-24* Creat-0.5 Na-134 K-4.3 Cl-98 HCO3-25 Calcium-9.1 Phos-3.4 Mg-1.9 - Albumin 2.1* - ABG: Rates-14/ Tidal V-440 PEEP-5 FiO2-100 pO2-322* pCO2-60* pH-7.25* calTCO2-28 Base XS--1 AADO2-357 REQ O2-62 -ASSIST/CON Intubat-INTUBATED - Free ionized Ca 1.11*  [**2150-10-16**] - Iron studies: calTIBC-172*  Ferritn-632* TRF-132* - VitB12 898 - folate 11.9 - cortisol AM 28.7*  MICROBIOLOGY [**2150-10-15**] - Urine legionella antigen negative - Blood [**12-13**]       STAPHYLOCOCCUS, COAGULASE NEGATIVE.
+ENTEROCOCCUS FAECALIS.
+Screen predicts possible synergy with selected          penicillins or vancomycin.
+Screen predicts possible synergy with selected          penicillins or vancomycin.
+MODERATE GROWTH.
+ESCHERICHIA COLI.
+ESCHERICHIA COLI.
+No acute intracranial process.
+Right parietal craniectomy changes with associated underlying  encephalomalacia versus extra-axial chronic collection is stable at least since [**2149-12-2**].
+Bilateral patchy opacities, which may be due to patient motion versus infection versus edema.
+The left ventricular cavity is mildly dilated.
+There is severe regional left ventricular systolic dysfunction with akinesis of the distal [**1-14**] of the ventricle.
+No masses or thrombi are seen in the left ventricle.
+The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic regurgitation.
+No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Trivial mitral regurgitation is seen.
+There is a trivial/physiologic pericardial effusion.
+There is an anterior space which most likely represents a prominent fat pad.
+Severe regional left ventricular systolic dysfunction.
+No pulmonary hypertension or clinically-signficant regurgivant valve disease.
+These findings are could represent LAD-territory ischemia, but in absence of coronary disease are also compatible with Takotsubo-type cardiomyopathy.
+There is mild symmetric left ventricular hypertrophy with normal cavity size.
+The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present.
+No aortic regurgitation is seen.
+The mitral valve appears structurally normal with trivial mitral regurgitation.
+There is no mitral valve prolapse.
+There is an anterior space which most likely represents a prominent fat pad.
+IMPRESSION: Mild symmetric left ventricular hypertrophy with normal cavity size and preserved regional and low normal global left ventricular systolic function.
+Compared with the prior study (images reviewed) of [**2150-10-16**], left ventricular systolic function has markedly improved.
+[**2150-10-22**] CXR 1) Near total resolution of left effusion with mild residual pulmonary vascular congestion.
+2) Bibasilar opacities that likely represent residual atelectasis, however uni- or bilateral pneumonia cannot be excluded and should be correlated with patient's clinical status.
+PROCEDURES - Intubation [**2150-10-15**] - Right radial A line [**2150-10-15**] - Right IJ Central Venous Line insertion [**2150-10-16**] - PICC line removal [**2150-10-16**] - Extubation [**2150-10-24**] - Right IJ Central Venous Line removal [**2150-10-25**]  Brief Hospital Course: This is an 80 yo F with h/o paranoid schizophrenia, anoxic brain injury, and advanced dementia with recent aspiration event presented from her nursing home with acute shortness of breath and hypoxia.
+Hypoxic respiratory failure.
+Her respiratory failure was likely [**1-13**] aspiration pneumonitis and complicated by HAP and pulmonary edema with systolic CHF (LVEF 20-25%) from IVF resucitation.
+Her sputum grew out staph aureus and 2 strains of E. coli (see labs for details), so she was treated with antibiotics clindamycin and aztreonam for a total of 8 days completed on [**2150-10-23**] (D1 [**2150-10-15**]).
+She was successfully extubated on [**2150-10-24**] after discussion with family regarding goals of care and status of no reintubation.
+Sepsis, likely [**1-13**] pneumonia and bacteremia.
+Patient initially had hypotention requiring pressors that was thought to be [**1-13**] sedation for intubation, but also had acute respiratory failure, leukocytosis, tachycardia, and elevated lactate.
+There was concern of possible teeth abscess, but CT head was not able to capture and Panorex X ray was not possible given intubated status.
+She has 2 sources of infection- HAP with MSSA and 2 strains of E. coli and coag negative staph aureus bacteremia.
+These infections were treated with clindamycin, aztreonam, and vancomycin with 8 day course for HAP and further treatment for her bacteremia was held given that she was made [**Month/Year (2) 3225**].
+Bacteremia, likely [**1-13**] to PICC line infection (placed on [**10-7**] for treatment of recent aspiration pneumonia).
+Blood cx showed coag negative staph as well as enterococcus faecalis, suggesting PICC line infection although PICC tip was cultured negative.
+She received antibiotics vancomycin to treat for the bacteremia as both bacteriae were susceptible, starting on [**2150-10-15**].
+Pneumonia, likely HAP vs. aspiration pneumonia.
+Patient has known history of aspiratioy and was recently treated for aspiration pneumonia prior to this admission.
+Sputum grew out E. Coli and coag + staph aureus.
+Repeat CXR showed improvement of the bibasilar opacification, which could also be atelectasis.
+Cardiac ischemia, likely from demand with active diuresis and recent sepsis.
+This was noted on [**2150-10-23**] when telemetry monitoring revealed new T-wave inversion with troponin up to 0.14.
+Likely [**1-13**] anemia of chronic inflammation and sepsis.
+She was on stress ulcer prophylaxis, and there is no signs of GI bleeding.
+Diffuse pustular papular rash was noted on her back.
+No definitive therapy was performed, but the antibiotics that she received for her infection could be helpful in treating her abscess as well.
+# Anisorcia.
+It was unclear of the chronicity and there was no known use of eye drops, breathing therapy, pupil dilation, head trauma, or anticoagulation.
+CT head did not show herniation or acute bleeding.
+After extubation, patient was started on pureed diet with thickend fluid for risk of aspiration as for comfort per family request.
+She continued with Tylenol 650 mg q6h prn for pain/fever, bisacodyl 10 mg daily prn, Miralax daily prn, docusate 100 mg [**Hospital1 **] prn, and clotrimazole for the rash on her back.
+She was also restarted on a puree diet with thickened fluid for comfort with family/HCP aware of her aspiration risk.
+# Prophylaxis.
+2. polyethylene glycol 3350 17 gram/dose Powder Sig: One (1)  PO DAILY (Daily) as needed for constipation: can ho9ld for loose stools.
+3. docusate sodium 50 mg/5 mL Liquid Sig: One (1)  PO BID (2 times a day) as needed for constipation.
+4. bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal DAILY (Daily) as needed for constipation.
+6. lorazepam 2 mg/mL Syringe Sig: One (1) 0.5-2mg Injection Q1H (every hour) as needed for agitation/anxiety: anxiety agitation.
+Discharge Disposition: Extended Care  Facility: [**First Name4 (NamePattern1) 1188**] [**Last Name (NamePattern1) **] - [**Location (un) 538**]  Discharge Diagnosis: Bacteremia Pneumonia   Discharge Condition: Mental Status: Confused - always.
+Level of Consciousness: Awake, but not responsive to commands, pt with severe dementia.
+You were admitted to the hosptial with respiratory failure and you were intubated and brought to the ICU.
+It was found that you have an infection in your blood as well as a PNA.
+Also during your hospitalization there was a decrease in your heart function and some demand on your heart that caused us to feel that you had a heart attack.

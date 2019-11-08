@@ -1,0 +1,33 @@
+Admission Date:  [**2199-10-27**]              Discharge Date:   [**2199-11-1**]  Date of Birth:  [**2134-1-20**]             Sex:   F  Service: MEDICINE  Allergies: Codeine / Bactrim / Sulfa (Sulfonamides)  Attending:[**First Name3 (LF) 898**] Chief Complaint: SOB  Major Surgical or Invasive Procedure: none  History of Present Illness: HPI: Patient is a 65 yo female w/ hx of COPD, OSA, and HTN who presented to the ED with increased shortness of breath x 1 day and tachypnea.
+Patient has hx of recent MICU admissions for SOB and COPD flare.
+CXR with bilat effusions, some increased fluid overload compared to prior.
+Of note, patient is a questionable historian but per her friend and HCP [**First Name8 (NamePattern2) **] [**Name (NI) 1456**]), she has been complaining of chills and fatigue x 24 hours.
+No recent sick contacts.
+Multiple ICU admissions for BiPAP.
+HTN 4.
+Hyperlipidemia 5.
+Schizophrenia 7.
+Depression 8. s/p R ankle ORIF 9.
+She has no history of asbestos exposure.
+She has one brother with epilepsy and two  brothers who are healthy.
+Physical Exam: Vitals: t 98.0 bp 105/54 hr 85 rr 17 sat 92% PS/PEEP [**12-21**], FiO2 30% Gen: sleepy, miminally responsive, with mask removed more alert and interactive HEENT: pupils reactive bilat, has ointment in eyes Neck: neck veins difficult to assess Resp: min crackles LLL, occ exp wheezes, largely clear Cards: reg, no murmurs appreciated Abd: + bs, soft, non-tender Ext: [**1-15**]+ lower ext edema bilat Skin: no rash Neuro: moving all four extremities, aao x 3, + asterixis  Pertinent Results: [**2199-10-27**] 11:46PM   WBC-13.27* HCT-35.0* [**2199-10-27**] 11:46PM   NEUTS-89* BANDS-0 LYMPHS-6* MONOS-1* EOS-0 BASOS-0 ATYPS-1* METAS-1* MYELOS-2* [**2199-10-27**] 11:20PM URINE  COLOR-Straw APPEAR-Clear SP [**Last Name (un) 155**]-1.006 [**2199-10-27**] 11:20PM URINE  BLOOD-LG NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-NEG [**2199-10-27**] 11:20PM URINE  RBC-[**12-3**]* WBC-0 BACTERIA-NONE YEAST-NONE EPI-0 [**2199-10-27**] 09:00PM   TYPE-ART PO2-102 PCO2-89* PH-7.28* TOTAL CO2-44* BASE XS-11 [**2199-10-27**] 09:00PM   CK-MB-NotDone proBNP-657* [**2199-10-27**] 09:00PM   cTropnT-<0.01 [**2199-10-27**] 09:00PM   CK(CPK)-56 [**2199-10-27**] 09:00PM   GLUCOSE-140* UREA N-15 CREAT-0.6 SODIUM-142 POTASSIUM-4.0 CHLORIDE-98 TOTAL CO2-32 ANION GAP-16 [**2199-10-27**] 10:37PM   TYPE-ART PO2-69* PCO2-75* PH-7.33* TOTAL CO2-41* BASE XS-9 COMMENTS-BIPAP  Discharge labs: CBC WBC 10.7, HCT 36.3, Plt 347.
+Chem 7: Na 144, K 4.2  HCO3 42  Cl 96  BUN 18  Cr 0.8  Glucose 145 Most recent ABG: [**10-28**]: pH 7.4, pCO2 63, PO2 68  CHEST (PORTABLE AP)  [**2199-10-27**] 8:36 PM Reason: Evaluate for infiltrate/edema [**Hospital 93**] MEDICAL CONDITION: 65 year old woman with worsening SOB REASON FOR THIS EXAMINATION: Evaluate for infiltrate/edema FRONTAL CHEST  COMPARISON: [**2199-10-1**].
+FINDINGS: Again seen is a stable enlargement of the cardiac silhouette.
+The degree of interstitial pulmonary edema has not significantly changed in the interval.
+Again seen are [**Year (4 digits) **] small pleural effusions.
+There is no pneumothorax.
+IMPRESSION: No significant change in the appearance of the chest from prior examination.
+Cardiomegaly with mild interstitial edema.
+RADIOLOGY  Final Report  CHEST (PORTABLE AP)  [**2199-10-29**] 3:15 AM  CHEST (PORTABLE AP)  Reason: interval improvement  [**Hospital 93**] MEDICAL CONDITION: 65 year old woman with COPD and acute onset sob with wheezing REASON FOR THIS EXAMINATION: interval improvement HISTORY: COPD with acute onset of shortness of breath and wheezing.
+FINDINGS: In comparison with the study of [**10-28**], there is again substantial enlargement of the cardiac silhouette with mild fullness of pulmonary vessels consistent with some increased pulmonary venous pressure.
+No evidence of acute pneumonia, pleural effusion, or atelectatic change.
+Brief Hospital Course: Hypercarbic respiratory failure: Was felt likely to be due to another COPD flare with a possible underlying pneumonia given her subjective chills at home, fevers, and increased WBC.
+She also had some signs of mild fluid overload with mild pulmonary edema on CXR and lower extremity edema, she received few doses of IV lasix to assist in mild diureses with good effect as well.
+He fluid overload was possibly due to some level of diastolic dysfunciton as her recent EF was >75%.
+On HD 3 her steroids were tapered to 40mg PO daily and her antibiotic coverage was decreased to Azithromycin alone given no radiologic evidence of acute pneumonia.
+Furthermore, LENIS were checked for a low suspicion of a PE and they were negative.
+Her hypercarbic respiratory failure resolved as her PCO2 returned to her baseline as she is likely a CO2 retainer at baseline.
+Hypertension: On admission her blood pressure did not require the administration of her antihypertensive medications.
+As her blood pressure rose, they were slowly titrated back on, starting with her Norvasc 10mg PO daily and a half dose of her lisinopril (20mg PO daily) and her home dose of lasix at 20mg PO daily.
+Discharge Disposition: Extended Care  Facility: [**Hospital3 1186**] - [**Location (un) 538**]  Discharge Diagnosis: Primary Diagnosis: Acute COPD exacerbation  Secondary Diagnosis: HTN OSA GERD   Discharge Condition: stable, on home regimen sating 96% 2L NC (which is her baseline home O2 level)   Discharge Instructions: You were admitted with shortness of breath likely related to your COPD (underlying lung disease).
+Please call your doctor Dr. [**Last Name (STitle) **] at this number (([**Telephone/Fax (1) 98818**]) or go to the emergency room if you feel confused or have any questions, if you have any trouble breathing or chest pain or any other symptoms that concern you.

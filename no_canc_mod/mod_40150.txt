@@ -1,0 +1,85 @@
+Admission Date:  [**2164-8-22**]              Discharge Date:   [**2164-8-30**]  Date of Birth:  [**2094-12-16**]             Sex:   M  Service: NEUROLOGY  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**Last Name (NamePattern1) 1838**] Chief Complaint: confusion, speech arrest  Major Surgical or Invasive Procedure: right knee aspiration   History of Present Illness: 69 yo M with hx HTN, HLD, afib not on anticoagulation, and [**Hospital 23051**] transferred from OSH as a code stroke after episode of confusion this afternoon followed by global aphasia.
+Past Medical History: [] Cardiovascular - Atrial fibrillation (not on anticoagulatin), HTN, HL [] Endocrine - DM2, s/p thyroid surgery [] Renal - Chronic nephrolithiasis with CKD [] Gout  Social History: No tobacco or illicits.
+Family History: No strokes or seizures.
+Physical Exam: At admission: Gen; lying in bed, awake HEENT; jaw clenched CV; irreg, no murmurs Pulm; CTA anteriorly Abd; soft, nt, nd Extr; no edema Neuro; MS; Awake, but does not follow any commands or attempt to speak.
+[**2164-8-27**]:JOINT FLUID JOINT FLUID ANALYSIS WBC   RBC Polys Lymphs Monos NRBC Macro [**2164-8-27**] 14:44    [**Numeric Identifier 961**]* 3000* 88*    0     6    1*    5 Source: Knee JOINT FLUID  Crystal Shape Locatio Birefri Comment [**2164-8-27**] 14:44    FEW NEEDLE I/E1 NEG   c/w monoso2 .
+NO MICROORGANISMS SEEN.
+FLUID CULTURE (Final [**2164-8-30**]):    NO GROWTH.
+IMAGING [**2164-8-22**]: CT Head without contrast: FINDINGS: Encephalomalacic changes are present in the right parietal and occipital lobes in the right MCA and PCA territories.
+There is no acute intracranial hemorrhage.
+Overall, there is little change from the outside hospital CT performed three hours prior.
+Visualized paranasal sinuses and mastoid air cells are clear.
+IMPRESSION: Encephalomalacic changes involving the right parietal and occipital lobes.
+No acute intracranial process identified.
+[**2164-8-23**]: MR [**Name13 (STitle) 430**] Without Contrast: IMPRESSION: Acute infarcts in the distribution of the left posterior cerebral artery.
+Chronic right posterior cerebral artery infarct.
+Lung volumes are low with crowding of bronchovasculature, and no definite sign of pneumonia or CHF.
+No large pleural effusion or pneumothorax.
+[**2164-8-23**]: EEG: IMPRESSION: This 24 hour video EEG telemetry captured no pushbutton activations and 2 electrographic seizures with no clinical correlation on video.
+Occasional interictal sharp wave discharges were seen over the left frontal temporal admixed with theta and delta frequency slowing, consistent with a focus of epileptogenicity.
+The background rhythm demonstrated an 8 Hz maximal posterior predominant alpha rhythm intermixed with theta and delta likely related to a mild to moderate encephalopathy.
+[**2164-8-22**]: ECG: Probable sinus tachycardia with first degree A-V block and atrial premature beats.
+Non-specific inferolateral ST segment depression and T wave changes.
+No previous tracing available for comparison.
+[**2164-8-24**]: TTE: The left atrium is mildly dilated.
+The right atrium is moderately dilated.
+No atrial septal defect or patent foramen ovale is seen by 2D, color Doppler or saline contrast with maneuvers.
+There is moderate symmetric left ventricular hypertrophy.
+There is considerable beat-to-beat variability of the left ventricular ejection fraction due to an irregular rhythm/premature beats.
+The aortic root is mildly dilated at the sinus level.
+The aortic arch is mildly dilated.
+There are focal calcifications in the aortic arch.
+The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present.
+The mitral valve leaflets are mildly thickened.
+There is no mitral valve prolapse.
+Trivial mitral regurgitation is seen.
+There is mild pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+Evidence of prior chronic infarction in the right parietooccipital region.
+Focal ill-defined hypodensities in the left occipital region corresponding with areas of acute left PCA infarcts seen on recent MR study.
+No new large acute territorial infarction.
+No hemorrhage or mass effect.
+Mild soft tissue swelling.
+The presence of small effusions is likely.
+Bilateral mild degenerative changes in the femorotibial joint and severe degenerative changes in the femoropatellar joint.
+No evidence of fracture.
+No evidence of chronic inflammatory changes .
+[**2164-8-27**]: EEG: IMPRESSION: This EEG gives evidence mainly for an encephalopathic- appearing abnormality with background slowing and bursts of slowing with suppressive bursts.
+This would suggest widespread diffuse cortical, as well as subcortical, neuronal dysfunction.
+There are some asymmetric features suggesting attenuation of background posteriorly on the right and increased epileptiform interictal activity from the left temporal posterior frontal region suggesting there may be more isolated structural damage.
+[**2164-8-27**]: ECG: Atrial fibrillation with a controlled ventricular response.
+[**2164-8-28**]: EEG: IMPRESSION: This EEG gives evidence for mild to moderate diffuse  encephalopathy with superimposed focal slowing over the right posterior quadrant and more significantly fairly continuously across the left temporal and, to a lesser degree, posterior lateral frontal region.
+The left temporal frontal area also exhibits intermittent interictal  epileptic activity spontaneously and two short runs of unsustained but increased frequency discharges.
+Brief Hospital Course: Brief Hospital Course: 69 yo M h/o AF (not on anticoagulation), HTN, HL, DM2, CKD from chronic nephrolithiasis p/w confusion, speech arrest, and convulsive seizure of unclear etiology.
+[] Seizure - The patient had an episode of confusion (answering "I don't know" to all questions) followed by speech arrest.
+While in the ED of an OSH and en route to a CT scanner, his jaw clenched and he reportedly had a convulsive seizure.
+He had no lateralizing signs on his neurologic exam, and an EEG on [**8-23**] showed no seizure activity but did show intermittent left frontal and temporal sharp waves and intermittent diffuse slowing of the background rhythm.
+On MRI he was found to have a subacute left occipital-temporal ischemic stroke, likely the etiology of his seizures.
+He has had no further witnessed seizure activity but was monitored on LTM.
+He was extubated without difficulty and his mental status has cleared.
+LTM showed no seizures and it was stopped.
+Out of concern for seizure as the etiology, he was loaded with Keppra and placed on EEG for another 24 hours.
+[] Ischemic Stroke - The patient has evidence on his initial NCHCT of an old ischemic stroke affecting the right parietal and occipital lobes, but there were no signs of new areas of infarction.
+He subsequently had a NC MRI Brain on [**8-23**] which showed a left occipital-temporal ischemic stroke.
+[] Atrial Fibrillation - The patient was briefly bradycardic to the 40s overnight on [**8-22**] but this resolved.
+[] Gout - After transfer to the floor the patient complained of right knee pain as well as minor left ankle tenderness.
+His pain is much improved.
+[] Hyperglycemia - While on the steroids for his gout flare, his blood sugars have been high.
+[] Chronic renal failure - we contact[**Name (NI) **] his PCP and confirmed that his recent Cr values range around 2.3-2.5.
+(not clear which statin the patient was taking) Aspirin 81 daily Digoxin 0.125 mg daily Sodium Bicarbonate 650 TID Diltiazem 90 mg [**Hospital1 **] Atorvastatin 40 daily  Discharge Medications: 1. glucagon (human recombinant) 1 mg Recon Soln Sig: One (1) Recon Soln Injection Q15MIN () as needed for hypoglycemia protocol.
+4. polyvinyl alcohol-povidone 1.4-0.6 % Dropperette Sig: [**1-15**] Drops Ophthalmic PRN (as needed) as needed for dryness.
+14. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for Constipation.
+PO DAILY (Daily) as needed for Constipation.
+Dextrose 50% 12.5 gm IV PRN hypoglycemia protocol 22.
+Discharge Disposition: Extended Care  Facility: [**Hospital6 979**] - [**Location (un) 246**]  Discharge Diagnosis: left PCA stroke seizures crystal-proven gout atrial fibrillation with RVR   Discharge Condition: Mental Status: Confused - sometimes.
+You were admitted to the hospital for evaluation of your shaking and confusion episodes.
+These seizures were coming from the left side of your brain and imaging shows that you had a stroke days to weeks prior on the left side of your brain as well.
+This damage caused by the stroke is likely the cause of your seizure events.
+Additionally the [**Doctor Last Name **] imaging showed that you suffered a right sided stroke months previously.
+-Your seizures were controlled with the help of an anti-seizure medicine.
+- We have you on a blood thinner, warfarin (coumadin) to decrease the chances of stroke since you have atrial fibrillation.
+-During your stay, your hospital course was complicated by atrial fibrillation with a difficult to control heart rate.
+-You had knee pain while in the hospital as well.
+The rheumatology team removed some fluid from your right knee and confirmed crystals present, consistent with a gout flare.
+Given the amount of pain you were in, we treated you with steroids to decrease the inflammation.
+You should start taking colchicine 0.6 mg by mouth every other day after finishing this taper to prevent recurrent attacks.

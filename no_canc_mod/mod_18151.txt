@@ -1,0 +1,51 @@
+Admission Date:  [**2167-2-5**]              Discharge Date:   [**2167-2-20**]  Date of Birth:  [**2100-3-19**]             Sex:   F  Service: MEDICINE  Allergies: Aldomet / Morphine  Attending:[**First Name3 (LF) 8388**] Chief Complaint: Liver failure  Major Surgical or Invasive Procedure: Cardiac catheterization [**2167-2-9**] and [**2167-2-12**] Bare metal stent to left circumflex [**2167-2-12**] Nasojujenal feeding tube placement [**2167-2-9**] Left PICC placement [**2167-2-15**] Right internal jugular central venous catheter placement [**2167-2-5**] Endotracheal intubation [**2167-2-5**]   History of Present Illness: Mrs. [**Known lastname 13469**] is a 66 year-old female with primary sclerosing cholangitis and cirrhosis awaiting liver transplant (MELD 18) who presented to [**Hospital 3585**] clinic with lethargy, confusion and dyspnea.
+Per her daughter who brought her to the clinic, she has been increasing sleepy over the previous 3 days with a decrease in her activity level throughout the day.
+She did not hear of any other complaints including no complaints of fevers, chills, nausea, vomiting, chest pain, shortness-of-breath.
+She presented for her routine follow-up today with Dr. [**Last Name (STitle) 10924**] and was found to have a blood pressure in the 80s with confusion and dyspnea was sent emergently to the emergency department.
+She was last seen by [**Doctor Last Name **] on [**2166-12-17**] where she had dyspnea but did complain of increased pruritus, weight gain, and difficulty with thoughts.
+Chest xray showed no acute cardiopulmonary process and a RUQ US showed only cholelithiasis, no signs of cholecystitis.
+She became increasing dyspneic and agitated and was intubated in the emergency room.
+Past Medical History: PAST MEDICAL HISTORY: Primary Sclerosing Cholangitis Cirrhosis (recent MELD 18, on tx list); with h/o jaundice and ascites, encephalopathy Ulcerative Colitis Psoriasis Mild asthma Hypertension .
+PAST SURGICAL HISTORY: s/p hysterectomy h/o SEM radiating to carotids (but no significant valvular disease seen on TTE in [**6-9**])  Social History: EtOH use:Denies Tobacco use: Denies Previous smoker: Yes, quit 25 years ago Recreational drugs (marijuana, heroin, crack pills or other):Denies Marital status: Married, lives at home with husband and daughter.
+Neck: No masses, Trachea midline, Thyroid normal size, non- tender, no masses or nodules, No right carotid bruit, No left carotid bruit, Supple.
+Nodes: No clavicular/cervical adenopathy, No inguinal adenopathy.
+Skin: No atypical lesions.
+Rectal: Normal tone, No gross blood, Guaiac Negative.
+There is blunting of the right costophrenic sulcus consistent with a small effusion.
+ECHO [**2167-2-6**]: The left atrium is mildly dilated.
+Left ventricular systolic function is hyperdynamic (EF>75%).
+The aortic valve leaflets (3) are mildly thickened.
+There is mild aortic valve stenosis (valve area 1.2-1.9cm2; gradients are higher than usually seen in mild AS because of high stroke volume/cardiac output).
+No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+There is no mitral valve prolapse.
+Trivial mitral regurgitation is seen.
+There is mild pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+IMPRESSION: Hyperdynamic left ventricular systolic function.
+Mild aortic stenosis.
+Mild pulmonary hypertension.
+CT head [**2167-2-5**]: IMPRESSION: No acute intracranial hemorrhage.
+RUQ ultrasound [**2167-2-5**]: IMPRESSION: Cholelithiasis without evidence for cholecystitis.
+Unchanged mild intrahepatic biliary dilatation in the left lobe.
+Sinus rhythm.
+Diffuse modest ST-T wave changes.
+Compared to the previous tracing of [**2167-2-7**] most likely there is no significant diagnostic change.
+Compared to tracing #1 there is no significant diagnostic change except for sinus bradycardia.
+[**2167-2-5**]: URINE CULTURE (Final [**2167-2-10**]):       ESCHERICHIA COLI.
+>100,000 ORGANISMS/ML..       ESCHERICHIA COLI.
+Blood cultures [**2167-2-5**] and [**2167-2-6**]: no growth .
+RESPIRATORY CULTURE (Final [**2167-2-10**]):       Commensal Respiratory Flora Absent.
+She became hypotensive and required a levophed drip for blood pressure maintanence.
+She continued to remain intubated without sedation and neurologically was not responsive.
+A liver ultrasound did not have signs of cholecystitis.
+With her continued need for vasopressor support without objective culture data demonstrating sepsis and TTE was performed on [**2167-2-6**] which showed hyperdynamic left ventricular systolic function, mild aortic stenosis and mild pulmonary hypertension.
+She further underwent a cardiac cath following her elevation in cardiac enzymes which showed circumflex 80% mid vessel tubular stenosis.
+She received a video swallow study which did not show aspiration risk, therefore her diet was advanced.
+She was seen by dermatology who determined she has both cutaneous candidasis and psoriasis and recommended a combination of antifungal creams and topical steroids.
+She was not treated with systemic anti-fungals due to risk of hepatotoxicity.
+4. hydroxyzine HCl 50 mg Tablet Sig: Two (2) Tablet PO at bedtime as needed for itching.
+6. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: One (1)  Inhalation once a day as needed for shortness of breath or wheezing.
+Discharge Disposition: Extended Care  Facility: [**Location (un) 32674**] - [**Location (un) 5583**]  Discharge Diagnosis: Extemded-spectrum beta-lactamase E.coli cystitis Septic shock Hypoxic respiratory failure Cirrhosis secondary to primary sclerosing cholangitis Non-ST elevation myocardial infarction Anemia and thrombocytopenia secondary to chronic liver disease Cutaneous Candidiasis and Psoriasis   Discharge Condition: Mental Status: Clear and coherent.
+Discharge Instructions: Dear Ms. [**Known lastname 13469**], You came to the hospital because of a severe urinary tract infection that became wide-spread.
+You also suffered a minor heart attack and had a stent placed in one of the arteries in your heart.

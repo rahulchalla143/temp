@@ -1,0 +1,62 @@
+Admission Date:  [**2145-11-16**]              Discharge Date:   [**2145-12-9**]  Date of Birth:  [**2071-4-17**]             Sex:   F  Service: MEDICINE  Allergies: Amoxicillin / Penicillins  Attending:[**Doctor First Name 3298**] Chief Complaint: Nonverbal, altered mental status (from rehab)  Major Surgical or Invasive Procedure: -Failed attempts at internal jugular and subclavian central line placement -Right femoral central line placement  History of Present Illness: 74 year old female with history of ESRD [**1-20**] lithium toxicity on HD with recent AVF thromboses and procedures, bipolar disorder, ?AF on amiodarone, HTN/HL, CAD s/p LAD stent in [**2142**], L3/L4 discitis on 8-week IV abx therapy, and goiter s/p thyroidectomy, presenting to ED from longterm rehab ([**First Name4 (NamePattern1) 1820**] [**Last Name (NamePattern1) **]) with an acute change in mental status (lethargy, nonverbal) with baseline of full orientation, and glucose of < 20.
+No CP/SOB/abd pain.
+During a prior admission this [**Month (only) **] for chest pain (elevated troponins [**1-20**] ESRD, flat CK-MB and no ACS), she was noted to have altered mental status and this was attributed to multiple etiologies including uremia, subacute encephalopathy with global cerebral dysfunction (Neuro eval), but not due to myxedema with her elevated TSH.
+She was found to be in paroxysmal AF with HRs 150s-160s and hypotensive with SBPs in the 50s-60s.
+EKG was notable for ST depressions, felt to be rate-related vs. demand ischemia per cards after a TTE negative for any new wall motion abnormalities; given ASA PR.
+Due to persistent hypoglycemia, she was started on maintenance D5-1/2NS with KCl + D10.
+Broad antibiotic coverage with Vanc/Cefepime/Flagyl due to concern for sepsis with a temp of 97.8, bair hugger placed.
+She was also given hydrocortisone 100mg x1 due to concern for adrenal insufficiency with hypotension and electrolyte abnormalities.
+Past Medical History: Bipolar disorder Hypertension HLD ?Atrial fibrillation Gastritis GERD GI bleed [**5-/2145**], EGD showed erosive esophagitis & duodenal ulcers ESRD [**1-20**] lithium, on HD AV graft thrombosis on left "cardiac arrhythmia with bradycardia" in [**State 108**] CAD, LAD stent [**1-/2143**] Ascending aortic aneurysm s/p repair [**1-/2143**], + ectasia of descending thoracic aorta (largest diameter 4.8cm) L3/L4 discitis s/p 8 weeks of IV antibiotics Goiter, s/p thyroidectomy [**2128**] Osteoarthritis, s/p L total knee replacement Restless legs syndrome   Social History: Currently resides at [**First Name4 (NamePattern1) 1820**] [**Last Name (NamePattern1) **], Married, retired professor at [**Hospital1 3278**] (retired in [**2145-3-19**]).
+No smoking history.
+Physical Exam: On admission: Vitals: T: 34.5C BP: 130/57 P:70 R: 18 O2: 100% on 2L ; FSBG 187 General: Alert, oriented, obese female in mild respiratory distress on Bair hugger HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL (3->2mm) Neck: supple, JVP not elevated but difficult to assess given obesity, no LAD CV: Regular rate and rhythm, normal S1 + S2, ?soft RUSB systolic murmur, no rubs or gallops Lungs: Clear to auscultation on inspiration, some rhonchi on expiration likely upper airway, no wheezes or rales.
+Abdomen: Obese, soft, non-tender, non-distended, bowel sounds present, no organomegaly GU: foley in place Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema Neuro: Mental status clear, CNII-XII intact, 5/5 strength upper/lower extremities, grossly normal sensation, gait deferred.
+There is mild symmetric left ventricular hypertrophy.
+Left ventricular systolic function is hyperdynamic (EF>75%).
+The aortic valve leaflets (3) are mildly thickened.
+There is no aortic valve stenosis.
+No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Moderate (2+) mitral regurgitation is seen.
+The tricuspid valve leaflets are mildly thickened.
+There is mild pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+CT head [**11-21**] NON-CONTRAST HEAD CT: There is no evidence of hemorrhage, mass, mass effect, or infarction.
+Moderate proportional enlargement of the ventricles and sulci is consistent with age-related cortical atrophy.
+Areas of hypoattenuation in the corona radiata and periventricular white matter correlate with areas of FLAIR hyperintensity on prior MRI and suggest chronic small vessel ischemic changes.
+There is no shift of the usually midline structures.
+No scalp hematoma or acute skull fracture is identified.
+IMPRESSION: No acute intracranial process.
+The epileptiform activity resolved and the background at the end of the study remained in the mild to moderate encephalopathic range.
+There were still occasional generalized and a few multifocal discharges of an epileptic nature near the end.
+No evidence of acute infarction.
+Stable age-related involutional changes and small vessel ischemic disease with one focus of old microhemorrhage.
+If there is concern for severe global cerebral ischemia, the MRA may be repeated with 3D time-of-flight acquisition begun more superiorly in the neck to demonstrate contiguous flow through the MCA.
+EEG [**11-27**] IMPRESSION: This EEG continues to show mild to, at times, moderate encephalopathy without clear focality or laterality.
+There are also multifocal as well as generalized interictal epileptiform discharges.
+No sustained either clinical or electrographic seizures were seen or identified.
+Previous pulmonary vascular congestion and mild edema have resolved.
+There is no pneumothorax or appreciable pleural effusion.
+Brief Hospital Course: 74 year old female with history of ESRD [**1-20**] lithium toxicity on HD with recent AV fistula thromboses and failed placement of right AV fistula, bipolar disorder, likely AF, HTN/HL, CAD s/p LAD stent in [**2142**], L3/L4 discitis on 8-week IV abx therapy, and hypothyroidism s/p thyroidectomy, initially presenting with hypothermia, hypogylcemia, altered mental status, and atrial fibrillation with hypotension, consistent with septic shock along with numerous electrolyte abnormalities.
+# Septic shock: Initially found to be in AF with RVR to 150s-160s and rate-related ST depressions with hypotension that persisted once she spontaneously converted to sinus.
+Her hypothermia, tachycardia, altered mental status, and persistent hypoglycemia indicated a septic picture.
+Investigation of an infectious source came up empty, with a normal LP, clear CXR, unimpressive urinalysis and no GI symptoms.
+Without any back pain, an epidural abscess related to her discitis seemed unlikely.
+Antibiotic coverage was initially CNS coverage with Vanc/CTX/Acyclovir, then switched to Vancomycin and Cefepime with her chronic doxycycline.
+The patient remained afebrile and never showed any signs of infection.
+A chest xray demonstrated right sided effusions on atelectasis, but were not thought to be infectious.
+# ESRD on HD per temporary line: Patient was a chronic dialysis patient who received dialysis throughout the majority of her stay.
+During her dialysis sessions, the patietn would exhibit severe hypotension and afib with RVR.
+The patient would complain of odd feelings all over her body, but was unable to verbalize what it felt like and would seem strange or inappropriate.
+Then she developed clear localizing symptoms with weakness on one side in the context of one of these episodes during HD.
+The patient was given 1mg ativan which broke the seizure, but the patient then developed bradycardia to the 20s.
+It remains slightly unclear why the patient developed seizure disorder but strong suspicion of hypoperfusion and some degree of anoxic brain injury during the hypotension preceding admission formed a source for epilepsy.
+It is unclear if this was due to persistent seizures (though she was noted to have further seizures on the floor after her care was deescalated), ESRD (as HD discontinued), or new/continued infectious course and sepsis.
+# Atrial fibrillation: RVR on admission to ED.
+There was initially concern for unstable AF on admission, but she spontaneous conversion to sinus.
+ST depressions seen in I, II, aVL, V3-V6 resolved once rate controlled.
+Her beta-blockade was initially held due to concern for septic shock, but were restarted after went back into AF with RVR.
+Anticoagulation was not started given her history of bleeding.
+Once the decision was made to make the patient CMO, we stopped monitoring her Afib and she did not receive treatment for it.
+# Bipolar disorder: Continued on zyprexa, mirtazapine, clonazepam.
+# Goals of care: During patient's second MICU stay (induced by status epilepticus and bradycardia in the context of treating this)decision was made between the MICU team and her family and proxy (her husband) to not further escalate care, intubate, or use other aggressive measures given strong suspicion of some degree of anoxic brain injury, very poor quality of life with repeated hospitalizations since initiating HD, and poor prospects for reasonable recovery to patient's baseline (very intelligent and independent professor).
+She became progressively more encephalopathic after discontinuation of HD and passed away on [**2145-12-9**] with her sister at her side.

@@ -1,0 +1,10 @@
+Admission Date: [**2131-10-8**]        Discharge Date: [**2131-10-17**]  Date of Birth:  [**2065-11-26**]        Sex:  M  Service: Neurosurgery   HISTORY OF PRESENT ILLNESS:  The patient is a 65-year-old gentleman who presents with severe headache; initial signs and symptoms of frontal headache and neck pain began spontaneously on [**2131-10-4**].
+He had some improvement and then the night before admission, he awoke at 3:30 a.m. with similar pain again.
+Pupils were 3 mm down to 2 mm and briskly reactive; EOMs full with no nystagmus.
+The patient has positive neck pain with chin to chest movement and nontender to palpation.
+LABORATORY DATA:  The patient had a lumbar puncture that showed [**Numeric Identifier **] red cells in tube number 1 and [**Numeric Identifier 14900**] in tube number 2.
+Head CT was normal with no signs of hemorrhage.
+REASON FOR ADMISSION:  The patient was admitted for angiogram to rule out subarachnoid hemorrhage.
+HOSPITAL COURSE:  The patient was taken to angiogram on [**2131-10-8**], where he had a diagnostic angiogram, which showed no evidence of aneurysm or evidence of vertebral dissection.
+He was admitted to the ICU for close neurologic monitoring and he was transferred out of the ICU on [**2131-10-11**].
+Repeat angiogram on [**2131-10-15**], which again showed no evidence of aneurysm.

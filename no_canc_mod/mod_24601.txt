@@ -1,0 +1,39 @@
+Admission Date:  [**2181-3-27**]              Discharge Date:   [**2181-3-28**]  Date of Birth:  [**2103-3-20**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 7333**] Chief Complaint: sinus pauses  Major Surgical or Invasive Procedure: Pulmonary Vein Isolation   History of Present Illness: CHIEF COMPLAINT: 78 year old patient of Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 30984**], Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 33733**] and Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] with atrial fibrillation/atrial tachycardia who was admitted for elective pulmonary vein isolation and presents to the CCU for 5 and 7 second pauses.
+HISTORY OF PRESENTING ILLNESS: Mr. [**Known lastname 86585**] is a 78 year-old man with hypertension, hyperlipidemia, and paroxysmal atrial flutter who was admitted to the NP service for pulmonary vein isolation, which was performed today by Dr. [**Last Name (STitle) 19911**].
+He was doing well post-procedure with a plan for discharge in the morning, but tonight became bradycardic to the 40s and hypotensive to the 70s-80s from a baseline SBP of 125.
+At 9:15 pm he had a 7.2 second pause on telemtry followed by a junctional rhythm, and noted that he "felt funny" and nauseous during this time.
+Fifteen minutes later he had tachycardia with prolonged PR interval followed by a 5.2 second pause captured on EKG.
+Of note, his atrial flutter stems from [**2179-10-9**] after an initiall episode of syncope.
+In [**Month (only) **] of this year he had another episode of syncope and underwent flutter ablation at [**Hospital3 **] hospital.
+A few days later he had another episode of syncope that was thought to be vasovagal and his Rhythmol and Atenolol were discontinued.
+However, on [**2181-2-1**] he presented to the hospital again with rapid atrial fibrillation so the medications were restarted.
+He denies pain, SOB, but has +palpitations and mild ankle swelling.
++ for constipation.
+On arrival to the CCU, he is comfortable and free of chest pain, shortness of breath, and palpitations.
+Labs were significant for hyperkalemia and anemia.
+Past Medical History: Chronic atrial fibrillation Atrial flutter s/p RFA [**2181-1-12**] at CCH Dyslipidemia Hypertension Syncope [**10-15**].
+Stress testing suspicious.
+Had atrial fibrillation (alcohol indusced?).
+Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.
+No xanthalesma.
+split S 2 LUNGS: No chest wall deformities, scoliosis or kyphosis.
+CTAB, no crackles, wheezes or rhonchi.
+No femoral bruits.
+dressing in right groin C/D/I without hematoma or bruit SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES: Right: Femoral 2+ DP 2+ PT 2+ Left: Femoral 2+ DP 2+ PT 2+   Pertinent Results: ADMISSION:  [**2181-3-27**] 07:30AM BLOOD WBC-7.5 RBC-5.10 Hgb-15.9 Hct-48.0 MCV-94 MCH-31.2 MCHC-33.2 RDW-13.8 Plt Ct-283 [**2181-3-27**] 07:30AM BLOOD Neuts-52.4 Lymphs-36.0 Monos-5.9 Eos-5.2* Baso-0.5 [**2181-3-27**] 07:30AM BLOOD PT-24.2* INR(PT)-2.3* [**2181-3-27**] 07:30AM BLOOD Glucose-107* UreaN-21* Creat-1.1 Na-139 K-4.6 Cl-100 HCO3-30 AnGap-14 [**2181-3-27**] 09:28PM BLOOD CK(CPK)-105 [**2181-3-28**] 06:00AM BLOOD CK(CPK)-120 [**2181-3-27**] 09:28PM BLOOD CK-MB-8 cTropnT-1.40* [**2181-3-28**] 06:00AM BLOOD CK-MB-8 cTropnT-1.37* [**2181-3-27**] 09:28PM BLOOD Calcium-8.1* Phos-4.4 Mg-1.8  DISCHARGE: [**2181-3-28**] 06:00AM BLOOD WBC-10.3 RBC-3.85* Hgb-12.1* Hct-36.2* MCV-94 MCH-31.5 MCHC-33.5 RDW-14.0 Plt Ct-206 [**2181-3-27**] 09:28PM BLOOD PT-23.0* PTT-29.9 INR(PT)-2.2* [**2181-3-28**] 06:00AM BLOOD Glucose-120* UreaN-18 Creat-0.9 Na-139 K-4.2 Cl-106 HCO3-27 AnGap-10 [**2181-3-28**] 06:00AM BLOOD Calcium-8.0* Phos-3.7 Mg-2.3  REPORTS:  None  Brief Hospital Course: ASSESSMENT AND PLAN Mr. [**Known lastname 86585**] is a 78-year-old patient of Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 30984**], Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 33733**] and Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] with atrial fibrillation/atrial tachycardia who was admitted for elective pulmonary vein isolation and is transferred to the CCU for 5 and 7 second pauses and hypotension.
+# Sinus pauses/arrhythmia: Pauses occur after tachycardia?
+Pt slightly symptomatic subjectively, but also having hypotension with bradycardia.
+Sinus node fibrosis and arterial atherosclerosis also on the differential.
+The CCU team decided to reduce his nodal blockade by discontinuing his atenolol and reducing diltiazem 240mg PO Daily to 240mg PO QOD then 120mg PO Daily.
+If he's still having pauses or if he develops significant tachycardias from reduced nodal blockade, he will most likely need a pacemaker in the near future.
+# Chronic atrial fibrillation: status post pulmonary vein isolation.
+Telemetry shows normal sinus rythym with PACs, versus multifocal atrial tachycardia followed by sinus pauses.
+Pt failed prior atrial ablation and trial without nodal blocking agents.
+# Hyper/hypotension: Pt has been hypotensive in the setting of pauses/bradycardia.
+# Dyslipidemia: Continued simvastatin  # Anemia: Likely from procedure today as well as hemodilution.
+In the CCU the pt was no longer bradycardic and therefore did not want to overcorrect potassium.
+Disp:*30 Capsule, Sustained Release(s)* Refills:*2*   Discharge Disposition: Home  Discharge Diagnosis: Atrial Fibrillation s/p pulmonary vein isolation Bradycardia Hypotension Tachy-brady syndrome Dyslipidemia   Discharge Condition: Mental Status: Clear and coherent.
+You were admitted a pulmonary vein isoloation (PVI) for recurrent atrial fibrillation.
+You developed some pauses in your heart rate after the procedure, which is why you came to the cardiac intensive care unit (CCU).
+If you continue to have significant pauses or if you have symptoms with the pauses you will most likely need a pacemaker in the future.
+You will be instructed on how to use this properly, which will help us monitor you for any pauses or other rhythm problems.

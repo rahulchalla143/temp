@@ -1,0 +1,42 @@
+Admission Date:  [**2157-5-5**]              Discharge Date:   [**2157-5-8**]  Date of Birth:  [**2108-10-28**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 17865**] Chief Complaint: Gastrointestinal bleed, hypotension.
+Major Surgical or Invasive Procedure: Coil embolization of left gastric artery Esophagogastroduodenoscopy x2 Central venous line placement to right internal jugular vein Temporary dialysis catheter placement to left femoral vein Radial arterial line placement  History of Present Illness: Patient is a 48 yo man h/o recent admission for pneumonia, septic shock, and bacteremia, also with history of hypertension, chronic obstructive pulmonary disease, and s/p bowel resection and anastamosis due to "kinking" 1.5 years ago, who presents from OSH with gastrointestinal bleed, intubated and on two pressors.
+Yesterday afternoon, patient was noted to have increasing abdominal pain.
+In addition he was given 4u FFP for worsening coagulopathy, felt to be secondary to DIC.
+In addition patient was noted to have melanotic stools in the setting of becoming increasingly coagulopathic with most recent INR 3.3 and PTT 78.
+Meds at time of transfer are IV Flagyl and PO vanco (for presumptive C dif), IV [**Name (NI) **] (unclear why), and IV vancomycin (for bacteremia from previous admission).
+Of note, patient was recently admitted for hypoxic respiratory failure, ARDS and septic shock.
+He was treated with broad spectrum antibiotics for sepsis from a presumed pulmonary source (vancomycin/levofloxacin/Zosyn); in the end he completed a 7-day course of [**Name (NI) **]/Zosyn and was discharged to complete a 14-day course of vancomycin for GPC bacteremia (peptostreptococcus on blood culture from [**4-24**] with negative surveillance cultures).
+For what was felt to be a COPD flair during that admission, he had been discharged to complete a 14-day course of prednisone.
+Other issues during that admission included acute renal failure (felt to be secondary to shock ATN versus prerenal) that resolved at discharge, transaminitis (felt to be secondary to shock liver), thromboctyopenia (uptrending at time of discharge).
+Past Medical History: - COPD - HTN - Depression - History of bowel resection and anastamosis due to "kinking" 1.5 years ago - History of chronic back pain s/p surgery x3   Social History: - Tobacco:  Quit smoking 1 week ago.
+Wife denies history of withdrawals.
+No recent travel.
+No unusual hobbies/exposures.
+Physical Exam: General: intubated, sedated HEENT: left eye dilated and minimially reactive compared to right; bloody output from NGT Neck: supple Lungs: clear breath sounds anterior fields CV: RRR, tachycardic, normal s1/s2 Abdomen: distended but soft Ext: cold lower extremities, mottled.
+Pertinent Results: Labs at Admission:  [**2157-5-5**] 02:32PM BLOOD WBC-28.1*# RBC-2.67* Hgb-8.2*# Hct-22.3*# MCV-84# MCH-30.7 MCHC-36.8* RDW-18.4* Plt Ct-45*# [**2157-5-5**] 02:32PM BLOOD Neuts-86* Bands-9* Lymphs-3* Monos-1* Eos-0 Baso-0 Atyps-0 Metas-1* Myelos-0 NRBC-1* [**2157-5-5**] 02:32PM BLOOD Hypochr-NORMAL Anisocy-2+ Poiklo-NORMAL Macrocy-NORMAL Microcy-1+ Polychr-OCCASIONAL [**2157-5-5**] 02:32PM BLOOD PT-27.8* PTT-47.0* INR(PT)-2.7* [**2157-5-5**] 02:32PM BLOOD Glucose-247* UreaN-115* Creat-2.7*# Na-124* K-4.7 Cl-86* HCO3-23 AnGap-20 [**2157-5-5**] 02:32PM BLOOD ALT-2694* AST-5230* LD(LDH)-[**Numeric Identifier **]* CK(CPK)-2741* AlkPhos-137* TotBili-5.2* [**2157-5-5**] 02:32PM BLOOD CK-MB-411* MB Indx-15.0* cTropnT-8.33* [**2157-5-5**] 02:32PM BLOOD Calcium-6.1* Phos-9.5*# Mg-1.7 [**2157-5-5**] 02:32PM BLOOD D-Dimer-[**Numeric Identifier 85825**]* [**2157-5-8**] 12:15AM BLOOD calTIBC-31* Ferritn-GREATER TH TRF-24* [**2157-5-7**] 02:44AM BLOOD Triglyc-1853* [**2157-5-5**] 02:32PM BLOOD Osmolal-320* [**2157-5-7**] 09:02AM BLOOD Cortsol-168.4* [**2157-5-5**] 02:32PM BLOOD Vanco-15.4  Studies/Reports:  Liver ultrasound with duplex ([**2157-5-6**]):CONCLUSION: This is a limited study with heterogeneous hyperechoic liver and no definite focal lesions seen, but views are technically challenging in this patient.
+Minimal perihepatic ascites is noted.
+Brief Hospital Course: A 48 y/o man with history of COPD and hypertension and recent admission for pneumonia and bacteremia presents with severe GIB and possible SBO, currently on pressors and intubated.
+# Hypotension and gastrointestinal bleed.
+Patient was bleeding from NGT, bright-red blood, at time of transfer.
+On the first hospital day, GI performed upper endoscopy x2 but unfortunately could not localize a bleeding source due to poor visualization of the gastric and small bowel mucosa, secondary to the abundance of blood.
+There were no esophageal varices.
+On the night of the first hospital day, patient went to interventional radiology where angiography revealed bleeding source in the left gastric artery.
+The bleeding was stopped with coil embolization.
+Furthermore, his lactic acidosis continued to worsen.
+# Lactic acidosis.
+Patient was started on CVVHD when serial ABGs revealed worsening acidemia.
+There was no clear cause for his worsening acidemia.
+# Respiratory failure.
+Patient was intubated for airway protection in the setting of code blue for worsening hypotension.
+Ventilation settings were increased in an effort to compensate for the worsening metabolic acidosis, but ultimately he required CVVHD.
+# Coagulopathy.
+# Transaminitis.
+Initially this was felt to be secondary to shock liver from hypotension during the code blue arrest at OSH.
+Liver was consulted and recommended for right upper quadrant ultrasound; this showed no evidence of portal venous clot.
+# Acute kidney injury and hyponatremia.
+Likely secondary to hypovolemia and prerenal azotemia.
+# Chronic obstructive pulmonary disease.
+# Elevated cardiac enzymes and EKG changes.
+Patient had elevated troponins and EKG changes suggestive of global ischemia.
+Additionally, there was frequent ectopy and runs of NSVT on telemetry.
+His family provided consent for post-mortem autopsy.

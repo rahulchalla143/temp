@@ -1,0 +1,28 @@
+Admission Date:  [**2167-1-13**]              Discharge Date:   [**2167-1-16**]  Date of Birth:  [**2093-4-29**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**Doctor First Name 1402**] Chief Complaint: chest pain  Major Surgical or Invasive Procedure: cardiac catheterization   History of Present Illness: Mr. [**Known lastname **] is a 73 yo M w/PMHx sx for BPH, hyperlipidemia, and tobacco use who p/w two wk hx of stuttering chest pain, increasing in frequency and intensity over the past two days.
+Pt describes pain as dull ache starting in his abdomen with radiation to his right chest, right arm, back and to left shoulder.
+At OSH, EKG showed V1-V3 STE with ST depressions inferiorly, and troponin I was positive at 0.98.
+Family History: Father with CAD at 73.
+No JVD CVS: RRR, no m/r/g Resp: wheezes b/l otherwise CTAB Abd: soft.
+ST depressions resolved.
+There is mild symmetric left ventricular hypertrophy.
+Overall left ventricular systolic function is mildly depressed  (ejection fraction 40-50 percent) secondary to severe hypokinesis of the  midventricular and apical segments of the anterior septum and anterior free wall; the rest of the left ventricle is normal or hyperdynamic.
+There is no ventricular septal defect.
+The aortic root is mildly dilated at the sinus level.
+The ascending aorta is mildly dilated.
+The aortic valve leaflets (3) are  mildly thickened but aortic stenosis is not present.
+No aortic regurgitation  is seen.
+The mitral valve leaflets are mildly thickened.
+There is no mitral  valve prolapse.
+Trivial mitral regurgitation is seen.
+There is no pericardial effusion.
+[**2167-1-13**] 01:46PM    CKMB 29* MBI 10.1* [**2167-1-13**] 08:35AM    CKMB 36* MBI 11.3* [**2167-1-13**] 02:31AM    CKMB 38* MBI 12.1*   Brief Hospital Course: This is a 73 yo M with a h/o tobacco use, hyperlipidemia, and fam hx CAD who presents with CP secondary to an anterior STEMI.
+The patient developed a macular erythematous rash on his trunk and upper extremities.
+He will need a CBC checked Q 2 wks x 3mo, then q 6 mo x 1yr, then yearly to look for Ticlid toxicity.
+An echo done on [**1-13**] showed EF of 40-45 % with nl LA/RA, mild LVH, and hypokinesis of midventricular, apical, anterior free wall and apical septum.
+Rash:  The patient developed a rash on his trunk after initiation of the plavix, atorvastatin, ASA, and metoprolol.
+A dermatology consult agreed that it was likely a drug rash but could not determine the offending drug.
+However, if the rash fails to resolve in one month, we will assume that plavix is not the offending [**Doctor Last Name 360**] and would recommend restarting the plavix at that point and discontinuing the Ticlid.
+PVD: the patient has femoral and carotid bruits and a history of smoking.
+We recommend that the patient have a carotid USN and ABIs as an outpatient.
+Discharge Disposition: Home With Service  Facility: [**Hospital1 **] VNA  Discharge Diagnosis: ST elevation myocardial infarction Depressed LV function, EF 40-50%   Discharge Condition: good   Discharge Instructions: Please take all of your medications as prescribed.
+If you experience chest pain, shortness of breath, dizziness, or other concerning symptoms, please call your doctor or go to the ER.

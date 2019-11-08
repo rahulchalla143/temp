@@ -1,0 +1,54 @@
+Admission Date:  [**2176-10-5**]              Discharge Date:   [**2176-10-11**]  Date of Birth:  [**2098-7-21**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 425**] Chief Complaint: chest pain, wide complex tachycardia  Major Surgical or Invasive Procedure: Internal Cardiac Defibrillator placement cardiac catheterization   History of Present Illness: 78 y/o gentleman with chronic AF, known CAD--NSTEMI in [**8-28**] (3 x 13 mm Cypher to RPLV and 2.25 x 18 mm Cypher to LCx/OM; also found to have 3-% LMCA, 70% mLAD with an 80% D1 and 90% D2), repeat PCI in [**10-29**] with BMS to mid-LAD for 70% stenotic lesion, possible ISR in [**2174**] with DES to LAD ([**Hospital1 3278**]), AS with most recent estimate of [**Location (un) 109**] of 1.07 cm2, presents from [**Hospital1 **] ED where he was found to have an irregular wide-complex tachycardia associated with chest pain.
+Was in USOH when at 8PM tonight noted anginal equivalent only increased in intensity (SSCP radiating to L arm).
+Taken to [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] where found to have Wide-complex tachycardia.
+Rhythm appeared to convert to sinus when he was loaded on stretcher for EMS and symptoms resolved.
+Since then has had no further episodes of AF and no further CP or SOB.
+On cardiac review of symptoms, in addition to above, patient notes stable 2 pillow orthopnea, no PND or claudication.
+CARDIAC RISK FACTORS: - Diabetes, + Dyslipidemia, + Hypertension 2.
+CARDIAC HISTORY: -> CAD: NSTEMI [**2172**] PCI- DES of the r-PLV and LCx/OM, [**10-29**] PCI- BMS to LAD; [**2174**]- PCI ([**Hospital1 3278**]) [**Name Prefix (Prefixes) **]-[**Last Name (Prefixes) **] for possible ISR -> Aortic Stenosis ([**Location (un) 109**] 1.07, mean Grad 21 mmHg), EF 50% on ETT [**2172**] -> Atrial Fibrillation 3.
+OTHER PAST MEDICAL HISTORY: [**2172**]- CVA with residual speech difficulties Anemia GIB Anxiety Appendectomy Right Inguinal hernia  Social History: Married with 1 adult son.
+Family History: Father died of a myocardial infarction in his early 70's.
+His brother died of a myocardial infarction at the age of 39.
+Physical Exam: Gen: Pleasant, in NAD, able to follow commands HEENT: No conjunctival pallor.
+II/VI systolic murmur best at USB.
+Grossly intact, no focal deficits.
+Discharge exam: 97.3  111/61   72   96% RA HEENT: No conjunctival pallor.
+II/VI systolic murmur best at USB.
+Grossly intact, no focal deficits.
+There is mild symmetric left ventricular hypertrophy.
+Overall left ventricular systolic function is moderately depressed (LVEF= 30-40 %) secondary to akinesis of the basal septum and hypokinesis of the rest of the left ventricle.
+There is considerable beat-tobeat variability of the left ventricular ejection fraction due to an irregular rhythm.
+Tissue Doppler imaging suggests an increased left ventricular filling pressure (PCWP>18mmHg).
+The aortic root is moderately dilated at the sinus level.
+The ascending aorta is moderately dilated.
+There is moderate aortic valve stenosis (valve area 1.0-1.2cm2).
+Moderate (2+) aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+There is no mitral valve prolapse.
+Mild to moderate ([**1-26**]+) mitral regurgitation is seen.
+Coronary angiography in this right dominant system revealed diffuse calcified coronary artery disease.
+The LMCA had mild disease.
+The LAD had widely patent stents, and total occlusion of a moderate sized diagonal seen on prior catheterization from [**2173-11-11**].
+The distal 70% stenosis of the LAD was unchanged versus prior.
+The LCX had a widely patent stent, and mild luminal irregularities.
+The RCA was a large vessel, with moderate calcification and serial 40-50% stenoses.
+There was a large RPL that had a 60% stenosis in the mid-vessel, which was unchanged compared with prior.
+Resting hemodynamics revealed moderate-to-severe aortic stenosis with mean gradient of 18 mmHg and estimated aortic valve area of 1.0 cm2.
+There were elevated left and right-sided filling pressures with mean RA pressure of 15, mean PCWP of 35 mmHg, and LVEDP of 29 mmHg.
+Cardiac output was mildly depressed at 4.0 L/min.
+Bilateral renal cysts.
+No evidence of renal artery stenosis.
+PT     PTT  INR(PT) 14.4* 28.6   1.2*  Brief Hospital Course: 78 year old gentleman with coronary artery disease with PCI in [**2174**], hypertension, moderate aortic stenosis, atrial fibrillation, presented with rest angina in the setting of rapid heart rate with wide complex tachycardia.
+# CORONARIES:  Presenting chest pain was concerning for unstable angina.
+Diagnostic left heart cath showed patent coronaries with prior stents in place, no evidence of renal artery stenosis.
+# RHYTHM:  Episodes of wide complex tachycardia concerning for ventricular tachycardia, orginating from left ventricular or right ventricular outflow tract.
+Electrophysiology study/intervention deferred in setting of highly calcific aorta and moderate aortic stenosis.
+Patient then remained in persistent atrial fibrillation.
+# PUMP:  Known moderate/severe aortic stenosis in our system and currently on exam.
+Nitroglycerin 0.4 mg Tablet, Sublingual Sig: One (1) tablet Sublingual as directed as needed for chest pain.
+Disp:*6 vils* Refills:*0*   Discharge Disposition: Home With Service  Facility: [**Location (un) 86**] VNA  Discharge Diagnosis: Ventricular Tachycardia Non ST elevation Myocardial Infarction   Discharge Condition: stable.
+Discharge Instructions: You had a dangerous heart rhythm called ventricular tachycardia and was started on sotolol, a medicine to prevent this rhythm.
+You will be on antibiotics to prevent an infection at the ICD site for 3 days.
+You also had a cardiac catheterization that showed extensive blockages in your coronary artery.
+Sotolol: to prevent ventricular tachycardia 2.
+Please call Dr. [**Last Name (STitle) **] if your ICD fires, if you have any redness, swelling, tenderness or bleeding at the ICD site, if you have any chest pain, fevers, chills or trouble breathing.

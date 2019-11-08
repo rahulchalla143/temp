@@ -1,0 +1,61 @@
+Admission Date:  [**2118-8-27**]              Discharge Date:   [**2118-9-5**]  Date of Birth:  [**2057-3-1**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**Last Name (NamePattern1) 1167**] Chief Complaint: Myocardial Infarction, Cardiac Arrest  Major Surgical or Invasive Procedure: Cardiac Catheterization Endotracheal intubation (done at another hospital) and extubation   History of Present Illness: The patient is a 61 yo man with h/o DM, CAD s/p stents to D1 and LCx, who presented from [**Hospital3 4107**] as a Code STEMI.
+The patient was reportedly in his normal state of health until noon on [**8-27**], when he was lifting furniture and developed chest pain.
+He reportedly had associated diaphoresis and lightheadedness.
+An hour and a half later, the patient drove himself to [**Hospital1 **], where he continued to have substernal chest pain.
+In the cath lab, the patient was found to have a total occlusion of the mid-RCA.
+He was weaned off the pressors, and heparin and integrilin were discontinued as the patient continued to have substantial bleeding from his nares.
+Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.
+No xanthalesma.
+LUNGS: Diffuse coars breath sounds bilaterally.
+No crackles or wheezes appreciated.
+No HSM or tenderness.
+No abdominial bruits.
+EXTREMITIES: 1+ edema bilaterally.
+Femoral venous lines in place bilaterally.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+MODERATE GROWTH.
+However, there is new fullness in the hilar regions bilaterally and increase in interstitial markings suggesting new pulmonary edema above what would be expected for extubation.
+Small bilateral pleural effusions are also evident.
+There is no pneumothorax.
+Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded.
+The aortic root is mildly dilated at the sinus level.
+There is no aortic valve stenosis.
+No aortic regurgitation is seen.
+The mitral valve appears structurally normal with trivial mitral regurgitation.
+There is an anterior space which most likely represents a fat pad.
+Normal biventricular cavity sizes with preserved global biventricular systolic function.
+No definite valvular pathology or pathologic flow identified.
+Dilated aortic root.
+Selective coronary angiography of this right-domimant system revealed single-vessel coronary artery disease.
+The LMCA had no significant stenoses.
+The LAD had mild diffuse disease and patent stents in the first diagonal with moderate diffuse restenosis.
+The LCX had patent proximal stent and a large OM2 branch with mild diffuse disease.
+The RCA had an acute mid-vessel total occlusion 2.
+Resting hemodynamics demonstrated elevated biventricular filling pressures and RA / PCWP pressures suggestive of right ventricular infarction, with depressed cardiac output.
+Final angiography showed TIMI 3 flow, no apparent dissection, and no residual stenosis.
+Post PCI bleeding was observed in the left nares, resolved with manual pressure and cessation of integrilin.
+Brief Hospital Course: The patient is a 61 yo man with h/o CAD s/p DES to the LAD and D1, and hyperlipidemia, who presented from [**Hospital3 **] s/p cardiac arrest with STEMI and is now s/p BMS to the RCA.
+# Right Ventricular Myocardial Infarct:  The patient presented with chest pain and subsequently lost consciousness at [**Hospital1 **].
+He was found to have STe in II, III, AVF, and after one hour of resuscitiation, subsequent cardiac catheterization demonstrated a fresh thrombus in the mid-RCA.
+He was then rewarmed and weaned off sedation without complication.
+Heparin and integrilin were held due to nose bleeding post-cath.
+He had episodes of hypotension over the 24-48 hours after cath, and was aggressively given IV fluids to maintain blood pressure.
+After cardiac cath, extubation was slightly delayed due to concern for ventilator-associated pneumonia and increased secretions.
+He was extubated without complication and his respiratory status improved daily.
+He was given ipratropium nebulizers and was diuresed with Lasix prn for fluid overload and pulmonary edema.
+# Neurologic Status - Patient was intubated and sedated on arrival to our hospital.
+He also has slight difficulty with balance while ambulating.
+# Acute Systolic Congestive Heart Failure:  The patient had an acute RV infarct and his hemodynamics in the cath lab demonstrated increased biventricular filling pressures.
+A TTE after cath showed an LVEF>55% and no wall motion abnormalities.
+He appears euolemic at discharge with no O2 requirement or evidence of fluid overload.
+# Nose bleed:  The patient had a persistent nosebleed in the setting of traumatic NGT placement and integrilin/heparin gtts.
+The bleeding stopped with Afrin nasal spray and the patient's Hct has remained stable.
+# Thrombocytopenia: Patient had thrombocytopenia approximately 5 days after being started on SC heparin for DVT prophylaxis.
+# Obstructive Sleep Apnea: Patient with some apneic episodes while sleeping.
+This may be related to a previous condition, or may be a result of brain injury after his cardiac arrest.
+Discharge Disposition: Home With Service  Facility: MASONIC PARTNERS [**Name (NI) **] [**Last Name (NamePattern4) 82936**]  Discharge Diagnosis: ST Elevation Myocardial Infarction of the right ventricle Acute Systolic Congestive Heart Failure due to Myocardial Infarct and Cardiac arrest, now ejection fraction 60% and heart failure resolved Epistaxis Memory Deficits after cardiac arrest Multilobar Pneumonia Thrombocytopenia  Discharge Condition: Stable, oriented, and afebrile   Discharge Instructions: You had a heart attack and you developed cardiac arrest.
+You did have a heart attack and needed to be on a breathing machine with medicine to support your blood pressure.
+You have recovered well and now have only small memory defecits because of the cardiac arrest.
+Please call Dr. [**Last Name (STitle) 39288**] or Dr. [**Last Name (STitle) **] if you have any further chest pain, trouble breathing, fevers, increasing coughing, fatigue, unusual swelling or any other concerning symptoms.
+You should not drive until Dr. [**Last Name (STitle) **] tells you it is OK. You may go up and down stairs, take short walks, go shopping but no strenuous exercise until after you see Dr. [**Last Name (STitle) **].
+Please weigh yourself every day and call Dr. [**Last Name (STitle) 39288**] if your weight increases more than 3 pounds in 1 day or 6 pounds in 3 days.

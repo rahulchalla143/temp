@@ -1,0 +1,33 @@
+Admission Date:  [**2177-11-20**]              Discharge Date:   [**2177-12-4**]  Date of Birth:  [**2137-10-7**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 2290**] Chief Complaint: thrombocytopenia  Major Surgical or Invasive Procedure: Central Line placement Plasmapharesis   History of Present Illness: EAST HOSPITAL MEDICINE ATTENDING ADMISSION NOTE  Date: [**2177-11-21**] Time: 19:21 PCP: [**Name10 (NameIs) **],[**Name11 (NameIs) **]: [**Telephone/Fax (1) 22245**]   The patient is a 40-year-old woman (PA here at [**Hospital1 **]) h/o hypothyroidism and migraines, who presented at [**Hospital3 **] due to 5 days of malaise, nonspecific abdominal pain, rash on legs and nausea.
+In ER: VS: 98.1 96 118/87 18 95% RA Studies: head CT w/o: wnl; CXR: unremarkable Fluids given: NS 1L Meds given: 2U PRBCs, Magnesium Sulfate 2g IV x 1, Prochlorperazine 10mg IV x 1, metoclopramide 5mg IV x 1 Consults called: Hem/Onc: Initail plan for a BM evaluation in am given concern for hematologic malignancy, but upon further review of smear, felt diagnosis is more consistant with TTP.
+Her altered mental status has improved, her platelets trending up to 20K's and Hg/hct to 7.1/19.4.
+On the floor, she reports continued nausea and a headache.
+She denies lacrimation, rhinorrhea, visual changes, aura or other associated symptoms.
+Review of Systems: (+) Per HPI (-) Denies night sweats, recent weight loss or gain.
+Denies visual changes, rhinorrhea, congestion or sore throat.
+Denies chest pain or tightness, palpitations, orthopnea, dyspnea on exertion.
+Denies cough, shortness of breath, wheezes or pleuritic pain.
+No dysuria, urinary frequency.
+No numbness/tingling or muscle weakness in extremities.
+No feelings of depression or anxiety.
+Family History: Family History: No known history of hematologic malignancies.
+Physical Exam: VS: 97.8 132/94 72 18 100%4L  GEN: Alert and oriented to person, place and situation; no apperent distress HEENT: no trauma, pupils round and reactive to light and accomodation, no LAD, oropharynx clear, no exudates CV: regular rate and rhythm, no murmurs/gallops/rubs PULM: clear to auscultation bilaterally, no rales/crackles/rhonchi GI: soft, non-tender, non-distended; no guarding/rebound EXT: no clubbing/cyanosis/edema; 2+ distal pulses; peripheral IV present NEURO: CN II-XII intact, [**5-14**] motor function globally, no sensory loss DERM: petechial rash on legs bilaterally; right chest IV (3 ports) in place    Pertinent Results: [**2177-11-20**] 01:45AM   WBC-11.5* RBC-1.97* HGB-6.2* HCT-16.7* MCV-85 MCH-31.1 MCHC-36.7* RDW-17.0* [**2177-11-20**] 01:45AM   NEUTS-83.2* BANDS-0 LYMPHS-14.2* MONOS-2.1 EOS-0.2 BASOS-0.3 [**2177-11-20**] 01:45AM   I-HOS-SMEARS [**Location (un) 109**] [**2177-11-20**] 01:45AM   HYPOCHROM-NORMAL ANISOCYT-1+ POIKILOCY-2+ MACROCYT-NORMAL MICROCYT-1+ POLYCHROM-2+ OVALOCYT-OCCASIONAL TARGET-OCCASIONAL ACANTHOCY-1+ [**2177-11-20**] 01:45AM   PLT SMR-RARE PLT COUNT-7* [**2177-11-20**] 01:45AM   PT-12.0 PTT-23.5 INR(PT)-1.0 [**2177-11-20**] 01:45AM   FIBRINOGE-331 [**2177-11-20**] 01:45AM   GLUCOSE-210* UREA N-31* CREAT-1.3* SODIUM-138 POTASSIUM-4.1 CHLORIDE-104 TOTAL CO2-20* ANION GAP-18 [**2177-11-20**] 02:07AM   HGB-5.7* calcHCT-17 [**2177-11-20**] 02:07AM   K+-4.3 [**2177-11-20**] 03:03AM   D-DIMER-2863* [**2177-11-20**] 01:45AM   ALT(SGPT)-48* AST(SGOT)-69* LD(LDH)-1120* ALK PHOS-85 TOT BILI-2.4* [**2177-11-20**] 01:45AM   TOT PROT-5.9* ALBUMIN-3.8 GLOBULIN-2.1 CALCIUM-9.0 PHOSPHATE-5.3* MAGNESIUM-1.5* URIC ACID-4.4 [**2177-11-20**] 01:45AM   HAPTOGLOB-<5*  ECG: Sinus tachycardia.
+Low inferior lead T wave amplitude is non-specific and may be within normal limits.
+No previous tracing available for comparison.
+Head CT w/o: Wet Read: [**First Name9 (NamePattern2) 68115**] [**Doctor First Name **] [**2177-11-20**] 2:49 AM No acute intracranial process.
+CT has limited sensitivity for the detection of acute infarction and MR can be obtained as clinically indicated.
+No pneumothorax, no pleural effusions.
+No focal parenchymal opacity suggesting pneumonia.
+Normal size of the cardiac silhouette, normal hilar and mediastinal contours.
+Head CT: IMPRESSION: No acute intracranial process.
+Increased hepatic echotexture, findings likely on the basis of fatty deposition.
+Please note that more advanced forms of hepatic disease such as fibrosis and cirrhosis cannot definitively be excluded.
+Small right pleural effusion.
+Brief Hospital Course: 40F with a past medical history of hypothyroidism and migraines who presented to an outside hospital with five days of malaise, nonspecific abdominal pain, rash on her legs as well as nausea.
+She was noted to have altered mental status and was ultimately diagnosed with TTP.
+She was treated with steroids and plasmapheresis with eventual improvement in her platelets.
+Thrombotic Thrombocytopenic Purpura: Constellation of [**Doctor First Name **], thrombocytopenia, acute renal failure, and altered mental status was consistant with TTP.
+Her altered mental status and mild renal failure improved.
+Discharge Instructions: You were admitted with Thrombocytopenia Thrombotic Purpura.
+This was treated with plasmapharesis (last treatment [**12-3**]) and steroids with resolution of the hemolysis and normalization of the platelet count.
+You had  occasional migraine headaches which resonded to sumatriptan single dose.

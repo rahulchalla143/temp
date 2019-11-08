@@ -1,0 +1,42 @@
+Admission Date:  [**2172-12-23**]              Discharge Date:   [**2172-12-30**]  Date of Birth:  [**2100-12-30**]             Sex:   M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**Doctor First Name 3298**] Chief Complaint: fatigue, fever, dysuria  Major Surgical or Invasive Procedure: None  History of Present Illness: 71M w/PMHx sig secondary progressive multiple sclerosis, wheelchair bound, with DM2 on hypoglycemics presented to his PCP office with 24 hours of fatigue, decreased appetite, and decreased urination.
+Reports that he has had gradually increasing weakness and decreased ability to transfer himself out of his wheelchair.
+In his PCP's office, he was found to have pyuria and a WBC to 24, and was refered to the [**Hospital1 18**] ED.
+He was noted to be resting comfortably, and reported continued penile discomfort and mild nausea.
+He was noted to have mild abdominal tenderness on exam.
+He was subsequently given 50meq of bicarb and calcium gluconate 2mg for membrane stabilization, and started on an insulin drip and given 4L NS, with subsequent decrease of his glucose to 467 and then 215.
+His potassium decreased to 4.8, but his lactate remained elevated at 4.9.
+He was subsequently noted to have a systolic pressure to 75, thus a central line was started and he was given empiric vancomycin and zosyn due to his prior mild abdominal tenderness on exam.
+However, a subsequent CT scan did not demonstrate an acute intraabdominal process.
+Review of systems: (+) Per HPI (-) Denies chills, night sweats, recent weight loss or gain.
+Denies shortness of breath or wheezing.
+Denies chest pain, chest pressure, palpitations, or weakness.
+Denies nausea, vomiting, diarrhea, constipation, or changes in bowel habits.
+Denies rashes or skin changes.
+Past Medical History: - Multiple sclerosis (diagnosed in [**2140**], secondary progressive,  wheelchair bound since [**2155**], followed by Dr. [**First Name8 (NamePattern2) 730**] [**Last Name (NamePattern1) **] at [**Hospital1 18**]) - CAD (s/p CABG [**2160**]) - DM (on oral hypoglycemics, HbA1c 8.1% in [**1-/2171**]) - DVT/PE - neurogenic bladder (straight caths self TID x 15 years) - BPH - HTN - hyperlipidemia - history of MRSA per OSH records - Depression with fixation of ideas  Social History: He lives with his wife, bound to wheelchair, has help every day for 1 hr in the morning.
+Family History: No family history of coronary artery disease  Physical Exam: PE at the admission: Vitals: 98, HR 76, BP 116/58, O2 sat 97% RA RR 12-22 General: Alert, oriented, no acute distress HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL Neck: supple, JVP not elevated, no LAD CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi Abdomen: distended, tender, not painful, bowel sounds present, no organomegaly Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema Neuro: CNII-XII intact, 5/5 strength upper extremities, cannot move lower extremities bilaterally, gait deferred, finger-to-nose intact  PE at the discharge: Vitals: 95.5 154/57 57 20 94RA General: Alert, oriented, no acute distress HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL Neck: supple, JVP not elevated, no LAD CV: RRR Nl S1 and S2.
+No evidence of acute disease.
+Soft tissue fullness in the aortopulmonary window, probably artifactual or post-operative.
+No acute intra-abdominal or intrapelvic process detected.
+Specifically, there is no abscess.
+The appendix is not visualized, however, no secondary signs of appendicitis are detected.
+Thickened bladder wall may represent chronic neurogenic bladder but superimposed UTI cannot be excluded.
+Nonspecific mild dilation of both ureters, slightly greater on the right, with no evidence of renal, ureteral or bladder calculi, possibly representing chronic obstruction.
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              KLEBSIELLA PNEUMONIAE                              | AMPICILLIN/SULBACTAM--     4 S CEFAZOLIN-------------   <=4 S CEFEPIME--------------   <=1 S CEFTAZIDIME-----------   <=1 S CEFTRIAXONE-----------   <=1 S CIPROFLOXACIN---------<=0.25 S GENTAMICIN------------   <=1 S MEROPENEM-------------<=0.25 S NITROFURANTOIN--------    32 S TOBRAMYCIN------------   <=1 S TRIMETHOPRIM/SULFA----   <=1 S   Brief Hospital Course: 71M w/multiple sclerosis and DM2 presented with urosepsis and DKA.
+# Urosepsis: Pt has long-term MS leading to neurogenic bladder and a need for constant self-catheterisation and predisposition for the UTI.
+Per history patient was catheterizing less frequently with large quantities due to reduced urge.
+He was briefly septic with elevated lactate and WBC count, and hypotension requiring pressors in the ICU.
+Pt was educated on methods of reducing risk of UTI including frequent catheterization using sterile technique.
+No more than 400cc urine should be kept in the bladder at any given time.
+# Diabetes:Although the patient is a type 2 diabetic on oral hypoglycemics, on presentation he had positive urine ketones and acidosis with blood glucose in the 600s.
+As his renal function improved, medical team preferred to resume oral hypoglycemic agents, which was preferable to patient also.
+Pt was also noted to have hydroureter suggesting post renal pressure and that more frequent catheterization may be indicated.
+# MS: Pt presents with no acute neurological sequelae.
+His weakness is likely due to his hypotension and sepsis.
+# Depression: Patient seemed to be in low mood with increased fixation on certain ideas.
+For example he was initially very concerned with the idea of starting insulin and became very fixated.
+There was concern seroquel would cause sedation in the acute setting.
+Discharge Disposition: Extended Care  Facility: [**Hospital6 459**] for the Aged - MACU  Discharge Diagnosis: Urosepsis Multiple sclerosis Acute kidney injury Diabets mellitus   Discharge Condition: Mental Status: Clear and coherent.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+You came because of the fever and urinary tract infection.
+You were treated with antibiotics and your symptoms improved.
+You were interested in treatements to prevent a bladder infection.

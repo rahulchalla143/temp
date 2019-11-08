@@ -1,0 +1,26 @@
+Admission Date:  [**2199-8-24**]              Discharge Date:   [**2199-9-13**]  Date of Birth:  [**2127-2-13**]             Sex:   F  Service: MEDICINE  Allergies: Lisinopril / Atenolol / Provera / Inderal La / Latex / Norvasc / Levaquin / Diovan / Ambrisentan  Attending:[**Last Name (NamePattern4) 290**] Chief Complaint: GI bleed, decompensated pulmonary hypertension  Major Surgical or Invasive Procedure: Intubation  History of Present Illness: 72 yo F with idiopathic pulmonary hypertenstion (PA pressured 90-100) on 5L O2 nc, remodulin pump and sildenafil, h/o PE in [**2194**] on coumadin.
+She presented to [**Hospital3 **] yesterday with nausea and hematemesis.
+She developed hypoxia to 74% in the setting of hematemesis and was intubated.
+She underwent endoscopy in the ICU at OSH that showed a large gastric ulcer that was not actively bleeding.
+Past Medical History: - Pulmonary embolism in [**2194**], on anticoagulation - Severe pulmonary hypertension, O2 dependent - COPD - Supraventricular tachycardia - Hypertension - s/p Right leg vein stripping - Arthritis   Social History: Patient is widowed and lives alone.
+Family History: Father had a stroke in his 80??????s.
+Sister had a stroke in her mid 40??????s.
+The central vessels are enlarged consistent with known pulmonary hypertension.
+There is also a right basilar opacity.
+Brief Hospital Course: 72 y/o F with hx of pulm HTN on Remodulin, PE and CHF who presented to an OSH on [**8-23**] with hematemesis and hct form 45-->29.
+She then had an endoscopy showing a non-bleeding gastric ulcer.
+Her BP was thought to be secondary to sedation.
+# UGIB: OSH report with photos of large gastric ulcer, no longer bleeding.
+GI was consulted and saw no indication for further endoscopy.
+# Hypotension: Occurred in setting of sedation for vent/line and with increase in PEEP.
+# Hypoxic respiratory failure: In setting of UGIB likely [**3-12**] aspiration.
+Has underlying hypoxia at baseline from Pulmonary Hypertension (on baseline 5L nc).
+No pneumonitis or infiltate seen on CXR but given underlying lung disease was treated empirically until cultures returned negative.
+For her severe pulmonary hypertension she was continued on remodulin and sildenafil, and the remodulin was discontinued successfully prior to discharge.
+# Pulmonary Embolus: On admission the patient was anticoagulated for a recent PE.
+Her anticoagulation was held for a period and then restarted to in light of need to minimize right heart strain in pt with severe pulmonary hypertension.
+Camphor-Menthol 0.5-0.5 % Lotion Sig: One (1) Appl Topical QID (4 times a day) as needed for itching.
+Trazodone 50 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime) as needed for sleep.
+Morphine Sulfate 2-4 mg IV Q2H:PRN pain, shortness of breath  hold if sedated 13.
+Discharge Disposition: Extended Care  Facility: [**Hospital1 700**] - [**Location (un) 701**]  Discharge Diagnosis: Gastrointestinal Bleed with Gastric Ulcer Decompensated Pulmonary Hypertension   Discharge Condition: Mental Status: Clear and coherent.
+Discharge Instructions: You were admitted to the hospital with a bleed from an ulcer and trouble breathing due to pulmonary hypertension.

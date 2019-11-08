@@ -1,0 +1,29 @@
+Admission Date:  [**2127-4-15**]       Discharge Date:  [**2127-4-17**]  Date of Birth:   [**2067-10-24**]       Sex:  F  Service:  [**Hospital Unit Name 196**]  HISTORY OF PRESENT ILLNESS:   The patient is a 59-year-old female with an extensive cardiac history including coronary artery disease (three vessel) status post coronary artery bypass graft x 3 in [**2120**], re-do in [**2123**], atrial fibrillation status post DDD pacemaker in [**2123**], end stage congestive heart failure with an ejection fraction of less than 20%, hypertension, noninsulin dependent diabetes mellitus, peripheral vascular disease, not a candidate for heart transplant, on home dopamine drip and Hospice status, reversed to full code during this admission, initially presenting with chest pain and ruled out for myocardial infarction and now called out of the Coronary Care Unit and transferred to the [**Hospital Unit Name 196**] team for EP evaluation of apparent tachy arrhythmia.
+The patient reportedly had tachycardia up to the 170s by EMS in the field, and resolved with 20 mg of intravenous Diltiazem x 1.
+During this hospital stay, the patient has had no nonsustained ventricular tachycardia on telemetry.
+The patient has only occasional sinus tachycardia and premature ventricular contractions, as well as atrial tachycardia with 2:1 block.
+The patient was comfortable and asymptomatic while on the floor.
+Coronary artery disease 2.
+Atrial fibrillation 3.
+Congestive heart failure with an ejection fraction of less than 20% 4.
+Hypertension 5.
+Noninsulin dependent diabetes mellitus 6.
+Hypercholesterolemia 7.
+Peripheral vascular disease 8.
+Depression 9.
+Anemia of chronic disease  ALLERGIES:   Ceclor (hives).
+Cardiovascular:  Tachycardic, regular rhythm, loud S1, normal S3, III/VI systolic ejection murmur at the left lower sternal border.
+Lungs:  Clear to auscultation bilaterally, without rales, rhonchi or wheezes.
+Extremities:  Trace edema bilaterally in the lower extremities.
+Telemetry:  Atrial tachycardia with 2:1 block, occasional premature ventricular contractions.
+HOSPITAL COURSE:  The patient is a 59-year-old female with an extensive cardiac history, including end stage congestive heart failure with an ejection fraction of less than 20% on home dopamine, found to have an apparent tachy arrhythmia in the field.
+The patient was initially accepted to the Coronary Care Unit given the patient was on home dopamine drip, and then transferred to the [**Hospital Unit Name 196**] service for EP evaluation for possible AICD vs. amiodarone for rate control.
+The [**Hospital 228**] medical regimen at home was continued while in-hospital.Pacer interrogation showed underlying rhythm was atrial tachycardia   The EP service performed atrial pacing, atrialardia patient was paced out of her atrial tachycardia.
+The patient was then DDDR paced at 70 beats per minute with isolated premature ventricular contractions.
+Coronary artery disease 2.
+End stage congestive heart failure with ejection fraction of less than 20% on home dopamine drip 4.
+Hypertension 5.
+Noninsulin dependent diabetes mellitus 6.
+Hypercholesterolemia 7.
+Peripheral vascular disease 8.
+Anemia of chronic disease 10.

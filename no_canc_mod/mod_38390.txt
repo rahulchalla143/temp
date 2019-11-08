@@ -1,0 +1,54 @@
+Admission Date:  [**2185-7-22**]              Discharge Date:   [**2185-7-28**]  Date of Birth:  [**2108-12-9**]             Sex:   M  Service: MEDICINE  Allergies: Penicillins  Attending:[**First Name3 (LF) 594**] Chief Complaint: Dyspnea, hypoxia  Major Surgical or Invasive Procedure: right heart catheterization [**2185-7-25**]  History of Present Illness: This is a 76 year old male with PMH of stage II COPD with an FEV1 consistently in the low 60s on 3-5L of home O2, pulmonary HTN with estimated pulmonary pressures of 84 mm Hg on recent ECHO [**6-25**], secondary polycythemia, obstructive sleep apnea on CPAP, diastolic congestive heart failure, and HTN, recently hospitalized at [**Hospital1 18**] for 4 days in mid-[**2185-6-14**] for dyspnea deemed to be related to a COPD/diastolic CHF exacerbation, now re-presenting with dyspnea and hypoxia initially requiring biPAP initiation in the emergency room but quickly weaned down to his home oxygen requirement.
+He was last admitted to [**Hospital1 18**] with a similar presentation last month; however, he states that he was much more short of breath this time around.
+During his last admission he was diagnosed with multifactorial acute respiratory distress deemed mostly secondary to a COPD and acute on chronic diastolic CHF flare.
+He was seen in follow-up by Dr. [**Last Name (STitle) **] who felt that he had a COPD exacerbation secondary to a viral URI.
+Of note, he also mentions having chills starting 2 days ago which seems to have resolved at this point.
+He does not recall any appreciable fevers or sweats.
+He does report coughing vigorously starting erlier this week which was initially productive of clear phlegm, but has now become more of a dry cough.
+He does have seasonal allergies and notes that he was exposed to a fair amount of pollen this spring around the time that his symptoms flared.
+He did well on non-rebreather, but was eventually found to be tachypneic and was placed on biPAP.
+Cardiology was consulted and he was seen by Dr.[**Name (NI) 3733**] who found him very short of breath with prompt desaturations seen with leg lifts and lying down thought to potentially be secodary to an unrecognized cardiopulmonary shunt.
+Labs were significant for a lactate of 3.1, negative troponin, creatinine of 1.3 up from 1, and a slighly elevated white count to 12.8.
+Review of systems: (+) Per HPI (-) Denies fever, recent weight loss or gain.
+Denies chest pain, chest pressure, palpitations, or weakness.
+Denies nausea, vomiting, diarrhea, constipation, abdominal pain, or changes in bowel habits.
+Denies dysuria, frequency, or urgency.
+Denies rashes or skin changes.
+Family History: Father died of lung cancer, no family h/o heart disease or MIs.
+Physical Exam: ADMISSION Vitals: T: 98.4, BP:100s-110s/50s-70s, P: 84, R: 19 O2: 83-89% on 6L NC General: Alert, oriented, no acute distress HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI Neck: supple, JVP elevated to angle of the mandible, no LAD CV: Regular tachycardic rhythm, no murmurs, rubs, gallops Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi Abdomen: soft, non-tender, non-distended, bowel sounds present, no organomegaly GU: no foley Ext: warm, well perfused, no peripheral edema Neuro: A+Ox3, otherwise non-focal .
+Patchy left basilar opacification has mostly resolved.
+There is blunting along the visualized part of the left costophrenic sulcus suggestive of a small effusion.
+IMPRESSION:  Decreased basilar opacification with a suggestion of a small left-sided pleural effusion.
+The amount of effusion is small and most likely bilateral.
+ECHO [**2185-7-25**] No intracardiac right-to-left shunt is identified after intravenous injection of agitated saline at rest.
+Mild PVR reduction with inhaled nitric oxide due to a combination of 10% reduction in PVR and mild increase in cardiac output.
+CTA chest Wet Read: SJBj WED [**2185-7-27**] 7:46 PM No pulmonary embolism.
+Bilateral, diffuse, primarily apical reticular and micronodular opacities in both lungs have progressed [**6-28**].
+Numerous small mediastinal lymph nodes have increased in size and number since the prior study.
+These findings are non-specific and etiologies include infection, inflammation, or hypersensitivity.
+Moderate to severe coronary calcifications.
+Brief Hospital Course: MR [**Known lastname 7493**] is a 76 year old male with PMH of stage II COPD with an FEV1 consistently in the low 60s on 3-5L of home O2, pulmonary HTN with estimated pulmonary pressures of 84 mm Hg on recent ECHO [**6-25**], secondary polycythemia, obstructive sleep apnea on CPAP, diastolic congestive heart failure, and HTN, recently hospitalized at [**Hospital1 18**] for 4 days in mid-[**2185-6-14**] for dyspnea deemed to be related to a COPD/diastolic CHF exacerbation, now re-presenting with dyspnea and hypoxia initially requiring biPAP initiation in the emergency room.
+Acute respiratory distress.
+Patient reported worsening respiratory symptoms over a few days prior to admission with productive cough and chills.
+This was initially concerning for possible pneumonia, but exam and CXR findings were not suggestive of this and patient remained afebrile.
+At baseline, he has moderate stage II COPD on home O2 of 3-5L NC.
+Recent evaluation of chronic hypoxia revealed chest CT with possible TBM, small airways disease, and several pulmonary nodules, and ECHO with worsening pulmonary artery hypertension with estimated pressure of 84 mm Hg from 51 mm Hg in [**10-24**].
+He has had a bubble study in [**10-24**] which was suboptimal for evaluation of cardiopulmonary shunt.
+Given concern for pulmonary hytertension, he [**Date Range 1834**] evaluation with right heart catheterization which revealed significant pulmonary hypertension with some response nitric oxide administration.
+Chronic diastolic CHF.
+EF > 55% and mild symmetric left ventricular hypertrophy with normal cavity size and moderately dilated right ventricular cavity with moderate global free wall hypokinesis on most recent ECHO in [**6-25**].
+His furosemide was initially held in the setting of pre-renal azotemia on admission, but home dose 20mg daily was later resumed.
+Right heart catheterization confirmed that elevated left heart pressures were not primary cause of pulmonary hypertension.
+WBC=12.8 on admission likely secondary to recent increase in steroid dosing versus stress reaction.
+No signs of acute infection by symptoms or imaging.
+Leukocytosis resolved and patient remained afebrile for the remainder of his course.
+Polycythemia is noted to be chronic dating back to [**12/2184**] and likely secondary to chronic hypoxia in setting for COPD and pulmonary hypertension.
+Obstructive sleep apnea.
+Likely contributes in small way to pulmonary HTN, thus important to continue using regularly.
+-Albuterol sulfate 90 mcg/actuation HFA 2 puffs every 4-6 hours as needed for shortness of breath or wheezing.
+(finished day prior to admission) -Oxygen 3-5L O2 continuous via nasal cannula.
+Tiotropium Bromide 1 CAP IH DAILY   Discharge Disposition: Extended Care  Facility: [**Hospital6 459**] for the Aged - MACU  Discharge Diagnosis: Primary: Pulmonary Hypertension COPD   Discharge Condition: Mental Status: Clear and coherent.
+Discharge Instructions: You were admitted to [**Hospital1 18**] for worsening shortness of breath.
+We treated you with nebulizers.
+We performed an echocardiogram, which showed no intracardiac shunt.
+We also performed a right heart catheterization, which showed pulmonary hypertension that might be responsive to a medication called sildenafil (Rx below).

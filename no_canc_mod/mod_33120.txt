@@ -1,0 +1,27 @@
+Admission Date:  [**2194-11-28**]              Discharge Date:   [**2194-11-30**]  Date of Birth:  [**2117-1-24**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 759**] Chief Complaint: GI bleed  Major Surgical or Invasive Procedure: None  History of Present Illness: Mr. [**Known lastname 732**] is a very pleasant 77-year-old man who had an ERCP on [**11-19**] at [**Hospital6 4287**] for cholangitis attributed to gallstone pancreatitis complicated by post-sphincteromy bleeding.
+On [**11-28**] he became Lightheaded with transient syncope while at work, no LOC, chest pain, palpitations, focal weakness, numbness, tingling.
+ECG with incomplete RBBB and LAD, LAFB with no acute ischmic changes.
+In the ED there, reportedly had hematochezia and recurrent episode of lightheadedness.
+On arrival to the [**Hospital Unit Name 153**], patient was clinically stable, conversational with SBP in the 130s-150s.
+ROS: The patient denies any fevers, chills, weight change, nausea, vomiting, abdominal pain, diarrhea, constipation, chest pain, shortness of breath, orthopnea, PND, lower extremity oedema, cough, urinary frequency, urgency, dysuria, focal weakness, vision changes, headache, rash or skin changes.
+Past Medical History: DM2 HTN CAD s/p in LAD in [**2186**] Diverticulosis Bilateral inguinal hernia repair Recurrent E. coli UTI Thoracic aortic aneurysm  Social History: No smoking, drinking, or drug use.
+Physical Exam: GEN: Well-appearing, well-nourished elderly man, no acute distress, pleasantly conversational HEENT: EOMI, PERRL, sclera anicteric, no epistaxis or rhinorrhea, MMM, OP Clear NECK: No JVD, carotid pulses brisk, no bruits, no cervical lymphadenopathy, trachea midline COR: regular rhythm, normal rate, normal S1/S2, 2/6 systolic murmur, radial pulses +2 PULM: Lungs CTAB, no W/R/R ABD: Soft, NT, ND, +BS, no HSM, no masses EXT: No C/C/E, no palpable cords NEURO: alert, oriented to person, place, and time.
+No gait disturbance.
+No cerebellar dysfunction.
+SKIN: No jaundice, cyanosis, or gross dermatitis.
+No ecchymoses.
+RECTAL: brown stool, guaiac positive   Pertinent Results: [**2194-11-30**] 10:30AM BLOOD Hct-33.3* [**2194-11-30**] 06:55AM BLOOD WBC-6.0 RBC-3.15* Hgb-9.6* Hct-27.7* MCV-88 MCH-30.5 MCHC-34.7 RDW-15.3 Plt Ct-314 [**2194-11-29**] 04:20PM BLOOD Hct-31.3* [**2194-11-29**] 06:45AM BLOOD WBC-6.7 RBC-3.12* Hgb-9.7* Hct-27.5* MCV-88 MCH-31.1 MCHC-35.2* RDW-16.2* Plt Ct-312 [**2194-11-29**] 01:15AM BLOOD Hct-24.1* [**2194-11-28**] 09:30PM BLOOD WBC-7.1 RBC-2.98* Hgb-8.8* Hct-26.1* MCV-88 MCH-29.6 MCHC-33.7 RDW-15.4 Plt Ct-231 [**2194-11-30**] 06:55AM BLOOD PT-13.5* PTT-29.8 INR(PT)-1.2* [**2194-11-30**] 06:55AM BLOOD Glucose-143* UreaN-10 Creat-0.8 Na-140 K-3.7 Cl-108 HCO3-24 AnGap-12 [**2194-11-30**] 06:55AM BLOOD Calcium-7.7* Phos-2.1* Mg-1.9  Brief Hospital Course: 77-year-old man with DM2, CAD s/p LAD stent in [**2186**], HTN, recent ERCP for gallstones c/b bleeding leading to second ERCP on [**11-22**] who presented to [**Last Name (un) 1724**] with syncopal episode, likely due to hypovolemia from orthostatic hypotension, concerning for GI bleed with melena.
+Hospital Course: # GI bleed: likely secondary to recent sphincterotomy - serial Hcts --> Hct remained stable s/p transfusion - had two 18 g IV's in place - IVF x first day, then d/c'd - If bleeding recurrs/becomes more significant, may require urgent endoscopy.
+# Pre-syncopal episode: likely orthostatic hypotension, secondary to possible GI bleed.
+ECG without evidence for acute ischemia.
+No focal weakness to suggest stroke.
+# CAD: s/p LAD stent in [**2186**] - hold aspirin - hold ACE-I, CCB given recent hypotension; Hold Lisinopril and Amlodipine until further instructed by physician.
+# HTN: - hold anti-hypertensives as above .
+# Access: large-bored IVs .
+# PPx: pneumoboots .
+Simvastatin  Oral   Discharge Disposition: Home  Discharge Diagnosis: Primary: 1) Acute blood loss anemia 2) Bleeding at prior sphincterotomy site, s/p ERCP [**11-19**] for gallstone pancreatitis, s/p repeat endoscopy [**11-22**] with clipping of visible vessel at [**Hospital6 1597**] 3) Type 2 Diabetes Mellitus, uncontrolled 4) Hypertension 5) history of CAD s/p stents in [**2186**] 6) history of diverticulitis 7) history of E. coli UTI 8) s/p bilateral inguinal hernia repairs 9) history of thoracic aortic aneurysm   Discharge Condition: Good, ambulating independently, tolerating a normal diet.
+Discharge Instructions: You were admitted to the hospital due to internal bleeding (acute blood loss anemia).
+It was felt this bleeding was related to the recent ERCP and sphincterotomy you had at [**Hospital1 4259**] earlier this month.
+This medication will help this spot in your intestine heal and will also help decrease any inflammation in your small intenstine that was seen on the endoscopy at [**Hospital3 **].
+Your primary care doctor or cardiologist may want to restart these as your anemia improves and your blood pressure increases.
+If you feel lightheaded, please stop taking this medication as one of its side-effects is lightheadness and fainting.

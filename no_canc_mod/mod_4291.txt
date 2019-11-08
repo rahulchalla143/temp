@@ -1,0 +1,29 @@
+Admission Date:  [**2148-3-28**]              Discharge Date:   [**2148-3-31**]  Date of Birth:  [**2084-6-3**]             Sex:   M  Service: MEDICINE  Allergies: Amoxicillin / Cephalexin  Attending:[**Last Name (NamePattern1) 1167**] Chief Complaint: chest pain/dyspnea at rest  Major Surgical or Invasive Procedure: Cardiac cath with right femoral line   History of Present Illness: This is a 63 year old male with a history of spinal stenosis who is presenting with no prior history of coronary disease or cardiac risk factors who presents with 12 hours of diaphoresis, lightheadedness and mild-moderate chest discomfort.
+Over the past several weeks, while taking walks, he has endorsed occasional chest discomfort with exertion associated with mild shortness of breath.
+On the night prior to admission, he developed severe diaphoresis with mild chest discomfort and shortness of breath around 2 AM.
+Over the next several hours, the chest discomfort was intermittent with continued shortness of breath and he presented to his PCP's office, who noted acute ST elevations in II, III, AVF.
+On route, he received SL nitro and in ED had bradycardia and hypotension requiring atropine and dopamine.
+V4R revealed ST elevation.
+Past Medical History: Spinal stenosis  Social History: Lives in [**Location 22361**] with his wife.
+Works as economist for government.
+Family History: Father had MI in 70s; mother had CVA.
+Sclera anicteric.
+Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.
+No xanthalesma.
+No thrills, lifts.
+LUNGS: No chest wall deformities, scoliosis or kyphosis.
+CTAB, no crackles, wheezes or rhonchi in frontal fields (post fields defered as patient is reclined post-cath) ABDOMEN: Soft, NTND.
+No HSM or tenderness.
+No abdominial bruits.
+No femoral bruits.
+R groin site appears c/d/i SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES: Right: PT/DP 2+ Left: PT/DT 2+  Pertinent Results: Labs at admission:  [**2148-3-28**] 09:48PM   GLUCOSE-152* UREA N-18 CREAT-1.2 SODIUM-137 POTASSIUM-4.5 CHLORIDE-108 TOTAL CO2-21* ANION GAP-13 [**2148-3-28**] 09:48PM   estGFR-Using this [**2148-3-28**] 09:48PM   ALT(SGPT)-142* AST(SGOT)-233* LD(LDH)-396* CK(CPK)-1586* ALK PHOS-48 TOT BILI-0.7 [**2148-3-28**] 09:48PM   CK-MB-174* MB INDX-11.0* cTropnT-5.77* [**2148-3-28**] 09:48PM   ALBUMIN-3.7 CALCIUM-7.3* PHOSPHATE-3.4 MAGNESIUM-1.5* [**2148-3-28**] 09:48PM   WBC-10.1# RBC-3.79* HGB-11.9* HCT-34.5* MCV-91 MCH-31.3 MCHC-34.5 RDW-12.8 [**2148-3-28**] 09:48PM   PLT COUNT-150 [**2148-3-28**] 09:48PM   PT-13.4 PTT-27.8 INR(PT)-1.1  Imaging: Cath report pending  Brief Hospital Course: 63 yo M with essentially no past medical history with inferior STEMI now s/p prox RCA DES  # CAD s/p Inferior STEMI with likely RV infarction: now s/p DES to prox RCA, chest pain free.
+# Hypotension: patient with R-sided STEMI, received 2 doses of NG sublingual prior to cath in Ambulance and ED, with preload dependent dysfunction.
+# Rhythm: currently normal sinus, without ectopy.
+# SOB: breathing felt heavy on admission but he was quickly weaned to RA satting 100%  # Spindal stenosis: chronic issue for which patient takes gabapentin daily without much effect.
+Discharge Disposition: Home  Discharge Diagnosis: Inferior Myocardial infarction   Discharge Condition: Mental Status: Clear and coherent.
+Discharge Instructions: You were admitted to the [**Hospital3 **] Medical Center for treatment of a heart attack.
+You were weaned off oxygen and there were no acute complications from your procedure.
+Given that you had a heart attack, you will begin treatment with several medications.
+You should take the following medications when you leave the hospital:  -aspirin 325 by mouth daily -prasugrel 10mg by mouth daily -atorvastatin 40mg by mouth daily  If you feel SOB or Chest pain or feels lightheaded or dizzy it is important that you call your doctor and/or return to the Emergency room.
+[**Last Name (STitle) 2903**]  You will need to set up an appointment with a Cardiologist for further management of your heart function.

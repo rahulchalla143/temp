@@ -1,0 +1,61 @@
+Admission Date:  [**2165-11-25**]              Discharge Date:   [**2165-11-28**]  Date of Birth:  [**2131-7-14**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 458**] Chief Complaint: Chest Pain - tx to [**Hospital1 18**] from [**Hospital3 4298**] with STEMI  Major Surgical or Invasive Procedure: Cardiac catheterization - no intervention on totally occluded RCA.
+History of Present Illness: HPI: 34 yo M no PMH but a family hx of lupus anticoagulant (mother and sister) was in usual state of health until 4d PTA when he began to feel nausea in the evening.
+He did not take anything to resolve the discomfort and reports no associated symptoms.
+2d PTA he had some symptoms of malaise, though he denied any CP or SOB at this point.
+He then had mild stomach upset 1d PTA.
+On the day of presentation to OSH ([**Location (un) 7453**]) he experienced chest discomfort that awakened him from sleep at 2am.
+EKG there revealed STEMI with ST depressions in I and aVL (1cm) and STE in III and V1 (0.5-1mm).
+In the cath lab the pt was found to have a large LAD and OM1/OM2 that were patent.
+Some small amt of blood flow was restored with a balloon, but no further intervention was successful.
+Pain to balloon time was roughly 5.5-6hrs.
+RCA was 100% occluded with poor restoration of flow.
+Past Medical History: PMH: None PSH: kneecap reconstruction x 2 at age 5, arthroplasty 10 yrs ago (3day hospital stay - does not recall heparin sq)   Social History: FH: mother - lupus with [**Hospital1 62555**] sister - [**Name (NI) 62555**] without lupus No history of early MI/early death ..... SH: etoh socially [**1-28**] drinks/wk, non-smoker, no current illicits.
+Physical Exam: Vitals: 98.1, 159/99, 80, 15, 97% RA Gen: NAD, lying comfortably, interactive HEENT: PERRL, NCAT, EOMI, no lad, no JVD, no bruits, supple CV: RRR, no murmurs, no heave, PMI non-displaced Lungs: clear laterally and anteriorly Abd: soft, nt, nd, nml bs Ext: groin with sheath in place on R, no hematoma, no ecchymosis, no oozing/bleeding.
+Testicular: No masses or irregularities.
+Selective coronary angiography of this right dominant system revealed a single vessel disease.
+The LCX had no obstructive disease with questionable mid segment thrombus.
+Resting hemodynamics revealed mildly elevated right and left sided pressures (mean RA pressure was 12 mmHG, mean PCWP was 14 mmHG).
+There was no evidence of pulmonary hypertension (mean PA pressure was 23 mmHg).
+Final angigoraphy demonstrated a small channel to the small distal vessels of the RCA and slow flow in the RCA.
+Single vessel disease.
+Mildly elevated resting hemodynamics.
+Unsuccessful treatment of proximal RCA due to extensive thrombus .
+Normal color flow and arterial venous waveforms within the right lower extremity.
+No evidence of a thrombus within the right common femoral artery.
+There is mild regional left ventricular systolic dysfunction with focal hypokinesis of the basal inferior wall.
+The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic regurgitation.
+The mitral valve appears structurally normal with trivial mitral regurgitation.
+There is no mitral valve prolapse.
+There is no pericardial effusion.
+IMPRESSION: Regional left and right ventricular systolic dysfunction c/w CAD (proximal RCA disease).
+Brief Hospital Course: BRIEF OVERVIEW:  34 yo M no cardiac risk factors with fam hx of anti-cardiolipin and distant cocaine hx presented with STEMI and 100% RCA occlusion that could not be opened on PTCA - per cath lab, suction cath was used to remove large amounts of fresh blood clot.
+He did not continue to have chest pain.
+Heparin drip was continued for anticoagulation given the question of hypercoaguability as the cause of the patient's MI.
+While the possibility of HIT was entertained, platelets remained stable and there was no good evidence that this episode was consistent with HIT.
+Heme service was consulted and recommended a limited hypercoagulable workup given his arterial clotting.
+Telemetry showed a narrow complex tachycardia that often terminated with a pause and had some internal variability - it appeared consistent with regularized afib/aflutter.
+Given the patient's afib on presentation, prolonged presenting symptoms of MI, and propagated clot in the coronary, it was thought that he might have had asymptomatic PAF with mural thrombus and embolus to the RCA from this source.
+LFT's showed only a mild hyperbilirubinemia.
+The goal of amiodarone therapy was for short term rhythm control (2-3 months) to be followed by EP study with likely pulmonary vein isolation.
+He was discharged with [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] of Hearts monitor and scheduled for a cardiac MR [**First Name (Titles) **] [**Last Name (Titles) **] monitor in the future.
+DETAILED COURSE BY SYSTEM: ## Cardiac Pump: The patient had no history of CHF, and his BNP at the OSH was 69.
+Wedge and RA pressures were mildly elevated (RA > wedge) in the [**Hospital1 18**] cath lab.
+In short, it showed a preserved EF with some focaly hypokinesis in the territory of his RCA.
+Vessels: The patient was admitted with a STEMI and found to have a 100% RCA occlusion.
+It was thought that the patient could have had thrombus secondary to hypercoaguability or malignancy - there was no evidence of either (of note, CXR was clear and testicular exam was normal).
+Amiodarone was started Chem 7 was monitored closely for rising creatinine or potassium given the initiation of an ace inhibitor.
+ECG showed resolution of ST changes and pain resolved after the catheterization.
+Fasting Lipid Profile was obtained 2 days post-MI, and it showed no hypercholesterolemia, however these figures cannot be taken as baseline as MI can cause perterbations in the lipid profile.
+In the hours following his cardiac catheterization, the patient developed a decreased DP pulse in his R leg (the side that was entered with the catheter in the lab) compared with the L.  The PT remained strong.
+Urgent doppler study of the leg showed no clot nor comprimise.
+Rhythm: The patient complained of palpitations on presentation to the OSH and was found to be in afib.
+However, overnight two days after his MI, the patient developed a narrow complex tachycardia most consistent with afib/aflutter.
+It was never captured on 12 lead EKG and the patient was asymptomatic with the short spells (in contrast to his prior atrial fibrillation at the OSH where he described palpitations).
+The hematology service was consulted and recommended a hypercoaguability workup focused on disorders that might be responsible for arterial thrombus formation.
+If the hypercoag w/u was negative, coumadin therapy might not be necessary long-term (his lone afib was planned for ablation, and might be managed with chronic ASA therapy in this young man if ablation were not to be successful).
+[**Name Initial (NameIs) **]:*30 Tablet Sustained Release 24HR(s)* Refills:*2*   Discharge Disposition: Home  Discharge Diagnosis: Myocardial infarction Paroxysmal atrial fibrillation   Discharge Condition: Stable.
+Discharge Instructions: You were admitted to the hospital after you had a myocardial infarction (also called "MI" or "heart attack.")
+Your heart attack seems to have been associated with clotting of blood in the arteries of your heart.
+He will assist your PMD in further managment of your heart disease and arrhythmia.
+You should be sure to eat a low cholesterol and low salt diet and take your medications as prescribed to reduce the chance of having another heart attack in the future.
+If you develop pain or bleeding in your groin at the site of the catheterization, chest pain/tightness, lightheadedness/dizziness, or other worrisome symptoms, seek immediate medical attention.

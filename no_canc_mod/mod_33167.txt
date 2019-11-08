@@ -1,0 +1,44 @@
+Admission Date:  [**2169-1-14**]              Discharge Date:   [**2169-1-19**]   Service: EMERGENCY  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 2565**] Chief Complaint: Altered Mental Status  Major Surgical or Invasive Procedure: PICC Line Bronchoscopy [**1-15**] and [**1-16**]  History of Present Illness: Ms. [**Known lastname 84119**] is an 85 year-old woman with resp failure/vent dependent s/p trach, recent PEs, sCHF (EF 25%), AF, and PVD who is transferred from rehab because of unresponsiveness and low tidal volumes and is admitted to MICU for further management.
+She was discharged on [**2169-1-13**] from the thoracics service after presenting from an OSH with tracheal laceration in the setting of traumatic intubation and sub-cutaneous emphysema post-intubation.
+Her recent history prior to that includes a fall on [**10-31**] with a C2 odontoid fracture and diagnosis of PEs in the setting of dyspnea on [**2168-12-10**] requiring intubation (complicated by trach injury) for hypercapnea.
+On the thoracics service, she [**Date Range 1834**] multiple bronchoscopies and trach placement ((#7 [**Last Name (un) 295**]) and revisions with clot demonstrated in posterior trachea and trach dislodgement.
+At rehab, she had AMS/unresponsiveness which is different from her baseline, and low tidal volumes on pressure support and was transferred to the [**Hospital1 18**] for further management.
+CXR showed  pleural effusions but no acute findings and IP was consulted and felt trach was in good position and she did not need urgent intervention.
+Possible CAD 2.
+COPD 4.
+Atrial fibrillation 5.
+MRSA infection in the pasy 9. squamous cell carcinoma of right arm 10. dementia 11.
+Odontoid fracture in [**Location (un) **] collar 12.
+Hyperlipidemia  Social History: + tobacco, recently quit.
+Family History: No CAD or arrhythmia  Physical Exam: Tmax: 37.7 ?????
+MODERATE GROWTH.
+**FINAL REPORT [**2169-1-19**]**     URINE CULTURE (Final [**2169-1-19**]):       ESCHERICHIA COLI.
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              ESCHERICHIA COLI                              | AMPICILLIN------------  =>32 R AMPICILLIN/SULBACTAM--  =>32 R CEFAZOLIN-------------  =>64 R CEFEPIME--------------  =>64 R CEFTAZIDIME-----------       R CEFTRIAXONE-----------  =>64 R CIPROFLOXACIN---------   =>4 R GENTAMICIN------------     4 S MEROPENEM-------------<=0.25 S NITROFURANTOIN--------    64 I PIPERACILLIN/TAZO-----    32 I TOBRAMYCIN------------     4 S TRIMETHOPRIM/SULFA----  =>16 R  URINE CULTURE (Final [**2169-1-18**]):       ESCHERICHIA COLI.
+No definite acute intracranial pathology.
+No bleed or evidence for acute vascular territorial infarction.
+Chronic small vessel microvascular infarction and global parenchymal atrophy.
+Secretions within bilateral sphenoid and right mastoid apical air cells, some of which may relate to the (reported) presence of tracheostomy.
+No change in bibasal left more than right atelectasis is seen.
+Brief Hospital Course: # Acute on Chronic respiratory failure:  The patient was admitted due to altered mental status and low tidal volumes.
+The patient with known traumatic intubation at OSH c/b tracheal injury, and trached here requiring multiple revisions.
+Patient went into respiratory distress with hypoxia and hypotension.
+The bronch showed granulation tissue obstructing 95% of her tube.
+The tube was passed farther down past the site of obstruction and the patient's respiratory status improved and was weaned off levophed.
+The patient then [**Month/Year (2) 1834**] repeat bronch the following day on [**1-15**] that showed the tube to be patent and the tracheal laceration to be healing well.
+Her sputum subsequently grew out GNR and she will continue vancomycin and meropenem for a planned 8 day course (last day:[**1-24**]).
+The patient did have a low grade temp of 100.5 at the time of discharge.
+VAP: See above for respiratory course.
+#UTI: The patient was intially treated with ciprofloxacin on admission for a positive UA.
+# Altered mental status:  The patient came in minimally reactive which was a change from her baseline per the family.
+Her change in mental status was attributed to her infection and after treatment for her VAP and UTI her mental status returned to baseline.
+Her metoprolol and lisinopril was held given her infection and normal blood pressure.
+The patient was restarted on her metoprolol at 12.5mg [**Hospital1 **], but several doses were held secondary to hypotension and bradycardia.
+Her hemolysis labs were negative and there were no signs of active bleeding.
+# PEs:  Patient with recent diagnosis in [**11-30**].
+# C2 fracture:  Patient with C2 fracture after a fall on [**10-31**].
+# AFib:  Patient's metoprolol was initially held due to ongoing infection.
+PO DAILY (Daily) as needed for Constipation.
+Chlorhexidine Gluconate 0.12 % Mouthwash [**Last Name (STitle) **]: One (1) ML Mucous membrane [**Hospital1 **] (2 times a day) as needed for mouthcare.
+Acetylcysteine 20 % (200 mg/mL) Solution [**Hospital1 **]: One (1) ML Miscellaneous Q6H (every 6 hours) as needed for thick secretions.
+Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler [**Hospital1 **]: Six (6) Puff Inhalation Q4H (every 4 hours) as needed for wheezes.
+Discharge Disposition: Extended Care  Facility: [**Hospital1 700**] - [**Location (un) 701**]  Discharge Diagnosis: Urinary tract Infection- E.coli (ESBL) Pneumonia   Discharge Condition: Level of Consciousness:Lethargic but arousable Activity Status:Bedbound Mental Status:Patient has trach, arousable but not following any commands   Discharge Instructions: You were admitted to the hospital for concerns of a urinary traction infection and pneumonia.

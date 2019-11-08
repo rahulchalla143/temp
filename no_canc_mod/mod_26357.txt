@@ -1,0 +1,66 @@
+Admission Date:  [**2193-5-15**]              Discharge Date:   [**2193-5-24**]  Date of Birth:  [**2113-11-17**]             Sex:   M  Service: NEUROLOGY  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**Last Name (NamePattern1) 1838**] Chief Complaint: R sided weakness, L eye visual complaints  Major Surgical or Invasive Procedure: intubated [**2193-4-15**]  History of Present Illness: Code stroke: 1203 Neurology at bedside: 1208  Initial NIHSS at (12:13): 0  iv-tPA exclusion criteria: (x) minor or rapidly resolving symptoms (NIHSS <4)  At [**Hospital1 18**] ED:  FSBS 132/85, SBP 101.
+Mr [**Known lastname **] is a 79 yo RH man with history of afib on coumadin who presents with episode of right sided arm weakness and left eye amaurosis starting around 9:00 am today.
+He also complained of difficulty seeing with his left eye.
+His wife did not notice a facial droop or a limp limb at the time.
+There was no eye deviation, no tonic-clonic shaking or posturing.
+Past Medical History: Strokes (+): left frontal subclinical, CHF, AF, HTN (+), CAD (-) , DM (-), HLD (-), OSA (-) Seizures (-), migraine (-), CNS tumors (-)   Social History: Lives with his wife Exercises  (-) [**Name2 (NI) 1139**] (-) ETOH (-) Drugs (-)   Physical Exam: PE: BP 115/60  HR 55 intermittently in 40s.
+HEENT: NC/AT, moist oral mucosa Neck: supple, no carotid or vertebral bruit Back: No point tenderness or erythema CV: Nl S1 and S2, no murmurs/gallops/rubs Lung: Clear to auscultation bilaterally Abd: Soft, nontender, non-distended.
+No masses or megalies.
+Ext: no edema, no DVT data.
+Naming: Normal for high frequency objects but impaired for low frequency objects.
+No red desaturation.
+No pathological nystagmus.
+Optokinetoc nystagmus: intact V:  sensation intact V1-V3 to LT. VII:  Facial strength intact/symmetrical VIII:  hears finger rub bilaterally IX,X:  palate elevates symmetrically, uvula midline [**Doctor First Name 81**]:  SCM/trapezeii [**5-8**] bilaterally XII:  tongue protrudes midline, no dysarthria .
+No tremor, no asterixis or myoclonus.
+Sensation: unable to assess, except fro proper withdrawal from pain when his MS is normal.
+1a LOC =0 1b Orientation = 0 1c Commands = 0 2 Gaze = 0 3 Visual Fields =0 4 Facial Paresis =  0 5a Motor Function R UE = 0 5b Motor Function L UE= 0 6a Motor Function R LE= 0 6b Motor Function L LE= 0 7 Limb Ataxia =  0 8 Sensory perception =  0 9 Language = 0 10 Dysarthria =  0 11 Extinction/Inattention = 0  TOTAL = 0   Pertinent Results: [**2193-5-16**] 01:58AM BLOOD WBC-13.5*# RBC-4.41* Hgb-14.4 Hct-42.2 MCV-96 MCH-32.6* MCHC-34.1 RDW-14.4 Plt Ct-109* [**2193-5-17**] 02:35AM BLOOD WBC-11.6* RBC-3.85* Hgb-12.6* Hct-36.0* MCV-94 MCH-32.8* MCHC-35.1* RDW-14.2 Plt Ct-88* [**2193-5-17**] 06:17AM BLOOD WBC-11.2* RBC-4.08* Hgb-12.7* Hct-38.1* MCV-94 MCH-31.1 MCHC-33.2 RDW-14.2 Plt Ct-92* [**2193-5-16**] 01:58AM BLOOD Glucose-105* UreaN-20 Creat-1.4* Na-138 K-4.5 Cl-103 HCO3-22 AnGap-18 [**2193-5-17**] 02:35AM BLOOD Glucose-176* UreaN-14 Creat-1.3* Na-138 K-3.6 Cl-106 HCO3-24 AnGap-12 [**2193-5-16**] 01:58AM BLOOD ALT-33 AST-49* LD(LDH)-373* CK(CPK)-125 AlkPhos-67 TotBili-1.7* [**2193-5-15**] 12:20PM BLOOD cTropnT-0.03* [**2193-5-16**] 12:59PM BLOOD CK-MB-NotDone cTropnT-0.05*  Imaging:  CT [**2193-5-15**]: HEAD CT: There is no intracranial hemorrhage, mass effect, shift of midline structures, or edema.
+Left frontal cortical and subcortical hypodensity is consistent with a chronic infarct.
+The ventricles and cerebral sulci are prominent, compatible with age-related volume loss.
+Periventricular areas of hypoattenuation likely reflect chronic small vessel ischemic disease.
+There are no concerning osseous lesions.
+The right common carotid artery measures 5mm at the skull base and 4.5mm at the at the bifurcation.
+The left common carotid artery is occluded, with tapering stenosis approximately 1 cm distal to the bifurcation, extending to the level of its terminus, where it is reconstituted through the circle of [**Location (un) 431**].
+The axial source images suggest an intimal flap raising the possibility of underlying spontaneous dissection.
+The left external carotid artery contains thrombus and is virtually occluded approximately 3.5cm from the common carotid bifurcation (4:187).
+Calcifications of the cavernous segments of the internal carotid arteries, right greater than left are mild.
+The paranasal sinuses and mastoid air cells are normally pneumatized and aerated.
+There are no concerning osseous lesions.
+Mediastinal and hilar lymphadenopathy is incompletely imaged.
+No intracranial hemorrhage or edema.
+Chronic left frontal infarct.
+Tapered occlusion of the left internal carotid artery from 1 cm distal to the bifurcation to the level of its terminus; this may be acute, and the morphology raises the possiblity of underlying spontaneous dissection.
+Occlusion of the left ECA from approximately 3.5cm from the common carotid bifurcation, which may relate to underlying dissection.
+CT [**2193-5-15**]: FINDINGS: There is no evidence of acute intracranial hemorrhage, edema, mass, mass effect, or large vascular territorial infarction.
+A hypodense region within the left frontal lobe, most compatible with a subacute infarct, is unchanged in appearance.
+There is no shift of normally midline structures.
+There is no acute fracture.
+IMPRESSION: No new acute changes in comparison to the prior CT examination from earlier today.
+MRI [**2193-5-15**] 9:00pm: FINDINGS: There is decreased diffusion throughout virtually the entire left middle cerebral artery distribution with minimal corresponding FLAIR signal abnormality.
+There is no hemorrhagic transformation.
+Susceptibility artifact is present within the distal left internal carotid artery as well as the proximal M1 segment on the left.
+No right hemispheric infarct is identified.
+There are otherwise scattered T2 hyperintensities throughout the  supratentorial white matter, with old post-ischemic encephalomalacia within the anterior left frontal lobe.
+No flow void is present within the intracranial left internal carotid artery.
+MRA: The intracranial right internal carotid artery is normal, as is the right middle cerebral artery and the anterior cerebral arteries.
+There is no flow related enhancement within the intracranial left internal carotid artery, nor significantly within the left middle cerebral artery.
+There is no identifiable flow related enhancement within the posterior communicating artery on the left.
+IMPRESSION: Acute infarct involving virtually the entire left middle cerebral artery distribution associated with what likely represents acute occlusion of the left internal carotid and middle cerebral arteries.
+CT [**2193-5-16**]: There has been interval evolution of the large left MCA territory infarct visualized on MRI.
+Now there is a large area of hypoattenuation in the left frontoparietal and occipital cortex, with effacement of [**Doctor Last Name 352**] and white matter differentiation, compatible with cytotoxic edema associated with evolving infarction.
+A relatively more hypoattenuating focus in the left inferior frontal lobe could be and concomitant region of infarction with an older age/subacute etiology.
+There is no evidence of hemorrhagic transformation.
+There is no significant mass effect or shift of normally midline structures.
+Hyperdense appearance of the terminal portion of the left internal carotid artery is noted.
+There is known left ICA occlusion on the basis of recent CTA.
+There is mild anterior ethmoid air cell mucosal thickening.
+Evolving large left MCA territory infarct without evidence of hemorrhagic transformation.
+No significant mass effect or shift of normally midline structures.
+Brief Hospital Course: 79 yo with afib on Coumadin initially presenting with episode of confusion and possible right sided weakness and left eye visual loss.
+His exam was first only  remarkable for encephalopathy with waxing and [**Doctor Last Name 688**] MS. [**Name13 (STitle) **] was found to have a left ICA and a left ECA occlusion.
+There may have been an underlying left carotid dissection.
+He was now noted to have a very large, nearly complete MCA infarct.
+A follow up CT confirmed the finding and showed a hyperdense MCA on the left.
+The patient was then noted to have extensor posturing on the right upper extremity and triple flexion on the right lower extremity.
+The patient's Coumadin was stopped out of concern for hemorrhagic conversion.
+Neuro - the patient had a large, nearly complete left MCA infarct - his BP was allowed to auto regulate and he was kept on frequent neuro checks out of concern for edema - he had a follow up CT on [**2193-4-17**] which showed some edema at this site of the stroke but no significant shift - the patient became more awake and alert, although would not follow commands  CV - the patient was allowed to auto regulate, he was placed back on his home dose of metoprolol for rate control.
+He developed a pneumonia.

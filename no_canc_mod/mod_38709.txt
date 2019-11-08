@@ -1,0 +1,17 @@
+Admission Date:  [**2142-9-14**]              Discharge Date:   [**2142-10-3**]  Date of Birth:  [**2081-10-27**]             Sex:   M  Service: [**Doctor First Name 147**]  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 371**] Chief Complaint: s/p house fire, carboxyhemoglobinemia  Major Surgical or Invasive Procedure: intubation left chest tube placement bilateral myringotomies CVL/Swan Ganz catheter placement A line placement bronchoscopy x2 percutaneous tracheostomy post-pyloric feeding tube placement x2  History of Present Illness: Mr. [**Known lastname 95189**] is a 60 year old man found down after a house fire at his home [**9-14**], during which his wife was killed.
+He was intubated in the [**Hospital1 **] ED, and a thoracostomy tube was placed in the left chest for decreased breath sounds.
+He gradually improved with respect to his CV & respiratory status.
+Neuro: At initial presentation, a neurology consult was obtained to evaluate for anoxic brain injury & the possibility of brain death.
+Neuroimaging did not reveal any ischemic injury to the brain & an EEG was not consistent with brain death, although he was heavily sedated at this time.
+Early attempts to wean sedation were met with hypertension & tachcardia, which have been controlled with beta blockade & hydralazine.
+Resp: His respiratory acidosis improved in the first few days of this admission.
+On [**9-19**], a bronchoscopy was performed, which revealed significant mucosal burning & carbonaceous secretions.
+Because of his severe smoke inhalation injuries, it was decided that he would require a tracheostomy to wean from the vent.
+A chest CT showed bilateral effusions & intrinsic lung injury, and espohageal balloon manometry revealed that he required additional PEEP.
+With diuresis & 1 week of antibiotics, his resp status improved.
+ID: He was treated for a urinary tract infection on admission.
+He had ventilator associated xanthomonas pneumonia, which was treated.
+MSK: His first degree burns on his lower back were treated with topical bacitracin.
+His initial rise in CK & troponin was secondary to muscle breakdown and resolved spontaneously.
+There were no sequelae.
+Medications on Admission: none  Discharge Disposition: Extended Care  Facility: [**Hospital1 **]  Discharge Diagnosis: carboxyhemoglobinemia smoke inhalation injury first degree skin burns hypovolemic shock hemodynamic instability/monitoring via swan-ganz, arterial line volume overload hypokalemia hyperkalemia hypocalcemia hypomagenesemia UTI vent-assoc pneumonia sinusitis hypertension MRSA colonization xanthomonas pneumonia acute lung injury ARDS pleural effusions pneumothorax  Discharge Condition: improved  Discharge Instructions: Continue your care at [**Hospital1 **] as directed.

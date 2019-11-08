@@ -1,0 +1,52 @@
+Admission Date:  [**2145-5-4**]              Discharge Date:   [**2145-5-5**]  Date of Birth:  [**2063-3-28**]             Sex:   F  Service: MEDICINE  Allergies: Sulindac / Aspirin / Hycodan  Attending:[**Last Name (NamePattern1) 495**] Chief Complaint: Wheezing  Major Surgical or Invasive Procedure: transient bipap  History of Present Illness: Ms. [**Known lastname 805**] is an 81-year-old woman with a history of hypercholesterolemia, hypertension, nonallergic rhinitis, chronic sinusitis, and chronic cough who presents with cough, wheezing, and shortness of breath.
+Per the patient, she developed an increasing cough over the last week associated with wheezy.
+She was seen in [**Company 191**] on [**4-30**] and was sent to the ED for evaluation due to the concern of hypoxia to 94% and possible ischemia based on an EKG.
+She was admitted overnight (discharge summary not complete) and treated for asthma exacerbation (although no clear history of this) with nebs and steroids, and advair was added back to her regimen.
+He prescribed a short steroid burst which she started taking on [**5-2**] with mild improvement.
+However, last night her wheezing got much worse and she couldn't stop coughing due to her GERD and nasal drip.
+She normally feels SOB when coughing, but otherwise did not feel SOB.
+She states that the only time she feels SOB is when she is coughing, and the coughing fits can happen either at rest or with exertion, and there is no pattern.
+Additionally, when asked what is more concerning to her, her audible wheeze or feeling SOB, she states the wheezy is her most prominent and concerning symptom and that the SOB is in the setting of the cough.
+No chest pain, palpatations, weight gain, or LE edema (edema improved).
+CXR initially thought to have LLL infiltrate and received ceftriaxone and azithromycin, but radiology later read it as normal.
+EKG with new ST depressions in V4-V6, CE's negative.
+Of note lactate 5.5 to 5.3 to 8.2 over 6 hrs, unclear etiology as no abdominal pain, hypotension, not felt to be septic physiology.
+Currently the patient is without complaints.
+She is not SOB or wheezy and feels much better when compared to presentation.
+No chest pain.
+# Sinusitis.
+# Nonallergic Rhinitis # Bronchial asthma - not supported by PFTs # OSA and ?
+obesity hypoventilation syndrome - followed by Dr. [**Last Name (STitle) **] # GERD.
+# Hypertension.
+# History of glaucoma.
+# Arthritis.
+# CAD with normal persantine MIBI in [**9-19**].
+# History of cataract surgery.
+# Influenza A [**1-19**]  Social History: The patient current resides in [**Location (un) **] with her granddaughter and great grandchild.
+Family History: Her family history is significant for mother with breast cancer at age 63 and a father who died of prostate cancer in his 80s.
+?F) HR: 79 (79 - 79) bpm BP: 137/71(88) {137/71(88) - 137/71(88)} mmHg SpO2: 92% Heart rhythm: SR (Sinus Rhythm)  General Appearance: Well nourished, No acute distress, audible wheeze Eyes / Conjunctiva: No(t) PERRL, No(t) Pupils dilated, No(t) Conjunctiva pale Head, Ears, Nose, Throat: No(t) Normocephalic, Poor dentition, No(t) Endotracheal tube, No(t) NG tube Lymphatic: Cervical WNL, Supraclavicular WNL Cardiovascular: (S1: Normal), (S2: Normal), No(t) S3, No(t) S4, No(t) Rub, (Murmur: No(t) Systolic, No(t) Diastolic) Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse: Present), (Right DP pulse: Present), (Left DP pulse: Present) Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Wheezes : squeeky throughout, Diminished: ) Abdominal: Soft, Non-tender, Bowel sounds present Extremities: Right: Trace, Left: Trace, No(t) Cyanosis, No(t) Clubbing Musculoskeletal: No(t) Muscle wasting Skin:  Warm, No(t) Rash: , No(t) Jaundice Neurologic: Attentive, Follows simple commands, Responds to: Not assessed, Oriented (to): x3, Movement: Not assessed, Tone: Not assessed  Pertinent Results: [**2145-5-4**] CXR: IMPRESSION: No interval changes since [**2145-4-30**].
+No acute cardiopulmonary process.
+[**2145-5-5**] 2D ECHO: The left atrium is mildly dilated.
+No atrial septal defect is seen by 2D or color Doppler.
+Left ventricular wall thickness, cavity size and regional/global systolic function are normal (LVEF >55%) There is no ventricular septal defect.
+The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic regurgitation.
+The mitral valve appears structurally normal with trivial mitral regurgitation.
+There is mild pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+Compared with the prior study (images reviewed) of [**2143-6-13**], the degree of pulmonary hypertension detected has slightly decreased.
+with nonallergic rhinitis, sinusitis, post-nasal drip, GERD, chronic cough and wheezing, HTN, hypercholesteremia, and CAD who presents with cough and wheezing.
+# Cough/Wheeze/SOB ??????
+Significant workup as outpatient with possibly some component of asthma based on flow/volume curves on recent spirometry.
+The patient is closely followed by allergy, but she would likely also benefit from further evaluation by ENT to address the issue of chronic sinusitis and post nasal drip to see if there are any other options available.
+She needs close followup as an outpatient to prevent frequent hospitalization for these symptoms.
+CXR did not show any acute process.
+An ECHO was done which showed normal EF and slightly decreased pulmonary artery sytolic hypertension.
+# Elevated lactate ??????
+No metabolic acidosis present, though did have gap 15.
+It resolved with some IVFs.
+# GERD - [**Hospital1 **] PPI  # HTN - cont home HCTZ, lisinopril, atenolol  # Anemia - Currently stable.
+Iron deficiency on past labs.
+Disp:*7 Tablet(s)* Refills:*0*   Discharge Disposition: Home  Discharge Diagnosis: Primary Diagnosis: Reactive Airway Disease Post Nasal Drip Chronic Sinusitis   Discharge Condition: stable   Discharge Instructions: You were admitted for wheezing and shortness of breath.
+It is thought that this is likely due to your post nasal drip and chronic sinsusitis causing a cough and leading to reactive airways.
+You were transiently on BiPAP and then treated with inhalers and a rapid steroid taper.
+If you develop any of the following concerning symptoms, please call your PCP or go to the ED: chest pains, shortness of breath, inability to breath, fever, chills, nausea or vomiting.

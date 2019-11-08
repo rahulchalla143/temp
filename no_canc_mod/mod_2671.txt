@@ -1,0 +1,44 @@
+Admission Date:  [**2169-10-31**]              Discharge Date:   [**2169-11-3**]  Date of Birth:  [**2109-2-22**]             Sex:   M  Service: MEDICINE  Allergies: Tetracyclines / Iodine; Iodine Containing / Percocet  Attending:[**First Name3 (LF) 4765**] Chief Complaint: Transfer from [**Location (un) **] ER with anterior STEMI  Major Surgical or Invasive Procedure: cardiac catheterization with Cypher stent to proximal LAD   History of Present Illness: Mr. [**Known lastname **] is a 60 year old male with a hx of an inferior MI in [**12/2165**] s/p overlapping velocity hepacoat stents to the RCA (no other significant CAD was noted at that time) who was transferred form [**Location (un) **] ER with an anterior STEMI.
+He has cardiac risk factors positive for being a previous smoker who quit in [**2165**] with a 30 pack year tobacco history, HTN, and HLD not currently on a statin due to muscle weakness.
+He has remained chest pain free with an unlimited exercise tolerance until this 12:15PM when he was climbing a ladder and had [**11-14**] right-sided crushing substernal chest pain radiating down both arms with associated nausea and excessive diaphoresis.
+He took two aspirin which did not resolve his chest pain and called the ambulance.
+Coronary angiography showed a right dominant system with patent stents in the RCA; 30-40% proximal, 40% distal RCA lesions, 90% proximal LAD with TIMI 2 flow and no significant LMCA or LCX lesions.
+Hypercholesterolemia 2.
+Family History: Father died of CHF at 75 y/o with no hx of MI Mother died of brain cancer with no hx of MI   Physical Exam: -Vitals: Temp=afebrile, BP=118/49, HR=75 NSR, O2sat=98% on 2L nc -Gen: Patient lying flat in bed.
+He is conversational and speaking in full sentences with no shortness of breath.
+No JVD, no carotid bruit -Resp: CTAB -Abd: Abdomen is tight (patient states that it is normal for him), but non-tender.
+No abdominal bruit -Ext: Cath site is c/d/i with no evidence of hematoma, flank tenderness and good distal pulses.
+No edema or cyanosis.
+Pertinent Results: [**2169-11-1**] 11:41AM BLOOD CK(CPK)-816* [**2169-11-1**] 08:30PM BLOOD CK(CPK)-859* [**2169-11-2**] 04:45AM BLOOD CK(CPK)-657* [**2169-10-31**] 06:22PM BLOOD Triglyc-69 HDL-54 CHOL/HD-4.5 LDLcalc-177* [**2169-11-2**] 04:45AM BLOOD WBC-11.3* RBC-4.02* Hgb-12.6* Hct-35.4* MCV-88 MCH-31.3 MCHC-35.5* RDW-13.2 Plt Ct-163  TTE [**2169-11-1**]: EF 40-45% 1.The left atrium is mildly dilated.
+Overall left ventricular systolic function is mildly depressed.
+Resting regional wall motion abnormalities include distal anterior, apical, and mid and distal septal as well as very distal (apical) inferior and inferolateral akinesis.
+4.The aortic root is moderately dilated.
+5.The aortic valve leaflets are mildly thickened.
+No aortic regurgitation is seen.
+6.The mitral valve leaflets are mildly thickened.
+Trivial mitral regurgitation is seen.
+7.There is moderate pulmonary artery systolic hypertension.
+8.There is no pericardial effusion.
+Compared to the previous study of [**2165-12-12**], the right ventricular and inferior wall function has normalized while there are new anterior, septal and apical akinesis is new.
+Consider mid LAD occlusion.
+Selective coronary angiography revealed a right dominant system with LMCA that was free of angiographically significant disease.
+The LAD had a proximal 90% stenosis with TIMI 2 flow.
+LCX had  no significant disease and RCA stents were patent with 30-40% proximal and distal lesions in the vessels.
+Hemodynamic assessment showed elevated left and right sided filling pressures and preserved cardiac index.
+Successful PCI of the proximal to mid LAD with overlapping Cypher drug eluting stents (3.0x18mm proximal to a 3.0x8mm with post dilation to 3.5mm in the mid portion).
+Moderate diastolic ventricular dysfunction.
+Acute anterior myocardial infarction, managed by acute ptca.
+Brief Hospital Course: Mr. [**Known lastname **] is a 60 year old male with hx of previous MI in [**2165**] who presents with an acute anterior STEMI s/p successful PCI with cypher-DES to LAD.
+CARDIOVASCULAR SYSTEM:  (a)  Coronaries:  Cardiac cath showed 90% proximal LAD lesion which underwent succesful PCI to the LAD with cypher-DES resulting in 0% occlusion and TIMI III flow.
+The patient was also placed on pravastatin since he had muscle weakness from other statins.
+This revealed a left ventricular ejection fraction of 40-45%, with anterior, septal and apical akinesis.
+We started him on coumadin with Lovenox bridge for 6 months for prophylaxis against intramural thrombus formation.
+The patient did not have symptoms of heart failure throughout his admission.
+(c)  Rhythm:  The patient had several runs of non-sustained ventricular tachycardia during the 24 hours after his catheterization.
+Thereafter, he did not have any ventricular tachycardia and remained in a sinus rhythm for the duration of his admission.
+)(s)* Refills:*2*   Discharge Disposition: Home  Discharge Diagnosis: Primary: Anterior ST elevation myocardial infarction Secondary: 1.
+Hypercholesterolemia            2.
+Hypertension  Discharge Condition: Stable.
+Ambulating without assistance.
+Discharge Instructions: You were admitted for a heart attack and you had a stent placed for a blockage in your coronary arteries.
+If you experience chest discomfort, shortness of breath, lightheadedness, or episodes of loss of consciousness, please return to the ED.

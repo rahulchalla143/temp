@@ -1,0 +1,44 @@
+Admission Date:  [**2189-6-16**]              Discharge Date:   [**2189-6-20**]  Date of Birth:  [**2126-1-3**]             Sex:   F  Service: NEUROLOGY  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 5018**] Chief Complaint: not speaking, R sided weakness  Major Surgical or Invasive Procedure: TPA administration TEE   History of Present Illness: Neurology at bedside for evaluation after code stroke activation within: 1 minutes Time (and date) the patient was last known well: 19:45 (24h clock) NIH Stroke Scale Score: 23 t-[**MD Number(3) 6360**]:  Yes Time t-PA was given 21:11 (24h clock)  I was present during the CT scanning and reviewed the images instantly within 20 minutes of their completion.
+HPI: The pt is a 64  y/o RHW with a history of DM, HTN presented to the ED after having dinner with her brother then suddenly going mute with a right facial droop.
+Her brother said she did have a stroke 20 years ago but he was not aware of what type or the symptoms and as far as he knows had no residual symptoms.
+Neck: Supple, no carotid bruits appreciated.
+Extremities: No edema or deformities.
+Skin: no rashes or lesions noted.
+She had a forced left gaze deviation.
+No grimace to pain on the right.
+Had some phonemic paraphasic errors, and only able to name glove, chair, key on the NIHSS card.
+There was a right facial droop.
+There was a subtle RUQ quadrantsenopsia.
+She had a left pronation drift.
+************* Physical Exam on Transfer to floor: Significant only for slight R NLF flattening.
+Otherwise speech fluent, naming and repetition intact, answers questions appropriately and follows simple and complex commands.
+Has slight R NLF flattening.
+Pertinent Results: [**2189-6-16**] 08:40PM   CREAT-1.0 [**2189-6-16**] 08:40PM   estGFR-Using this [**2189-6-16**] 08:38PM   UREA N-27* [**2189-6-16**] 08:38PM   GLUCOSE-191* NA+-143 K+-4.3 CL--102 TCO2-24 [**2189-6-16**] 08:38PM   WBC-10.1 RBC-5.72* HGB-12.2 HCT-39.8 MCV-70* MCH-21.3* MCHC-30.6* RDW-15.9* [**2189-6-16**] 08:38PM   PLT COUNT-256 [**2189-6-16**] 08:38PM   PT-10.6 PTT-33.1 INR(PT)-1.0  [**2189-6-17**] 04:56AM BLOOD %HbA1c-6.7* eAG-146* [**2189-6-17**] 04:56AM BLOOD Triglyc-123 HDL-46 CHOL/HD-3.6 LDLcalc-95  CT/A/P: Plain CT negative for acute process.
+CTA shows occlusion of proximal L MCA with large perfusion deficit in L MCA territory on CTP.
+Two small foci of slow diffusion in the left frontal and parietal regions as described above, likely represent acute infarcts.
+Volume loss with chronic blood products in the left basal ganglia may represent a sequela of prior hemorrhage or infarction.
+Small vessel ischemic disease.
+Few scattered foci of abnormal susceptibility in bilateral cerebral hemispheres may represent microhemorrhages or cavernomas.
+No atrial septal defect or patent foramen ovale is seen by 2D, color Doppler or saline contrast with maneuvers.
+The aortic valve leaflets are mildly thickened (?#).
+There is no aortic valve stenosis.
+No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+There is no mitral valve prolapse.
+Trivial mitral regurgitation is seen.
+There is no pericardial effusion.
+Brief Hospital Course: [**Known firstname **] [**Known lastname 10940**] is a 64 yo woman with history of DM, HTN, and a prior stroke 20 years ago (unclear characterization, no residual symptoms) who presented with acute onset aphasia and R sided weakness, consistent with L MCA syndrome.
+She presented within 1 hour of symptom onset and was given IV TPA within 1.5hrs at 21:11.
+Her neurological symptoms resolved with the exception of slight R NLF flattening.
+By the morning of [**6-17**] her exam had markedly improved and she was essentially back to baseline except for mild R NLF flattening.
+MRI showed two small infarcts in the left frontal and parietal lobes.
+TTE showed no abnormalities.
+On HD3, the patient went into atrial fibrillation for approximately 30 minutes.
+Given that the likely source of her stroke had been identified, the patient's home atenolol was changed to metoprolol, and she was started on pradaxa.
+Her simvastatin was changed to atorvastatin given her elevated LDL.
+Heme: She had no clinical signs of bleeding post-tPA.
+ID: She remained afebrile with no signs of infection during her ICU stay.
+Metoprolol Succinate XL 75 mg PO DAILY RX *metoprolol succinate 25 mg daily Disp #*90 Tablet Refills:*2   Discharge Disposition: Home  Discharge Diagnosis: Acute Ischemic Stroke Atrial fibrillation   Discharge Condition: Mental Status: Clear and coherent.
+Neurologic: No deficits   Discharge Instructions: Dear Ms. [**Known lastname 10940**], You were hospitalized due to symptoms of inability to speak and weakness resulting from an ACUTE ISCHEMIC STROKE, a condition in which a blood vessel providing oxygen and nutrients to the brain is blocked by a clot.
+If you experience any of the symptoms below, please seek medical attention.
+In particular, since stroke can recur, please pay attention to the sudden onset and persistence of these symptoms: - sudden partial or complete loss of vision - sudden loss of the ability to speak words from your mouth - sudden loss of the ability to understand others speaking to you - sudden weakness of one side of the body - sudden drooping of one side of the face - sudden loss of sensation of one side of the body - sudden difficulty pronouncing words (slurring of speech) - sudden blurring or doubling of vision - sudden onset of vertigo (sensation of your environment spinning around you) - sudden clumsiness of the arm and leg on one side or sudden tendency to fall to one side (left or right) - sudden severe headache accompanied by the inability to stay awake It was a pleasure providing you with care during this hospitalization.

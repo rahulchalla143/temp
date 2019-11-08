@@ -1,0 +1,36 @@
+Admission Date:  [**2172-2-28**]              Discharge Date:   [**2172-3-4**]   Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 2181**] Chief Complaint: Shortness of breath  Major Surgical or Invasive Procedure: None   History of Present Illness: Ms. [**Known lastname 107322**] is an 89 year old Russian speaking female with a PMH significant for atrial fibrillation, CRI, Type II DM and recent pneumonia [**10-25**] who presents with respiratory distress starting this [**Last Name (un) 44550**].
+At her nursing home, the patient was noted to be mildly short of breath yesterday with wheezes by report and was started on 2 liters nasal cannula.
+This morning she became tachypneic with an 02 sat in the upper 80's on 2 liters NC and improved to 95% on NRB.
+Per report, the patient complained of transient chest pain as well.
+A nitroglycerin drip and lasix was given after her BNP came back at 40,000 and the chest x-ray showed an large right effusion and findings consistent with CHF.
+An EKG was done which showed T wave inversions in the anteroseptal leads.
+The patient gives a history of worsening SOB at night with associated palpitations over the past few weeks.
+She denies fever, however, has had an occasional non-productive cough.
+She denied CP in ED but was confused per her son's assessment.
+Past Medical History: recent pneumonia (right sided with pleural effusion) COPD?
+type II DM CRI (1.2-1.5 bl) paroxysmal afib (no longer on anticoagulation) hx thyroid nodule hx pulmonary nodules gout angina   Social History: Nursing Home resident, lives a [**Hospital3 2558**].
+Contact is son [**Name (NI) 4186**] ([**Telephone/Fax (1) 107323**] and ([**Telephone/Fax (1) 107324**] (h)  Family History: Non-contributory  Physical Exam: VS: T = 99.2;  HR = 80; BP = 170/70 HEENT: dry MM NECK: eleved JVD CV: RRR RESP: decreased BS at right base, bibasilar rales ABD: NABS, soft, NT, ND EXT: 1+ pedal edema, non-pitting LE   Pertinent Results: Labs on Admission:  WBC-9.9 RBC-3.37* HGB-9.6* HCT-30.4* MCV-90 MCH-28.5 MCHC-31.7 RDW-19.7* NEUTS-63.9 LYMPHS-30.9 MONOS-2.9 EOS-1.9 BASOS-0.4 PLT COUNT-299  GLUCOSE-115* UREA N-36* CREAT-1.5* SODIUM-143 POTASSIUM-5.7* CHLORIDE-119* TOTAL CO2-13* ANION GAP-17 CALCIUM-9.2 PHOSPHATE-4.3 MAGNESIUM-2.1  proBNP-[**Numeric Identifier 107325**]*  CK(CPK)-28  CK-MB-NotDone  cTropnT-0.07*  PT-12.1 PTT-24.1 INR(PT)-0.9  ALT(SGPT)-18 AST(SGOT)-23 LD(LDH)-233 ALK PHOS-133* AMYLASE-127* TOT BILI-0.3  URINE  RBC-[**1-25**]* WBC->50 BACTERIA-MOD YEAST-NONE EPI-3-5 BLOOD-SM NITRITE-POS PROTEIN-500 GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-MOD  LACTATE-1.1  CHEST (PORTABLE AP)  [**2172-2-28**] 1) Moderate right pleural effusion; small left pleural effusion.
+Bibasilar atelectasis.
+2) Mild cardiac failure.
+The left atrium is mildly dilated.
+There is moderate global left ventricular hypokinesis.
+The aortic valve leaflets (3) are mildly thickened.
+Trace aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Mild (1+) mitral regurgitation is seen.
+There is mild pulmonary artery systolic hypertension.
+Brief Hospital Course: 89 year old Russian speaking female with a PMH significant for atrial fibrillation, CRI, Type II DM and recent pneumonia [**10-25**] who presents with respiratory distress.
+An EKG was done which showed T wave inversions in the anteroseptal leads.
+1) CHF exacerbation thought to be etiology of respiratory distress.
+Her respiratory status was stable with prn diuresis (~ 20 mg of po Lasix daily).
+An echo revealed moderate global LV hypokinesis with an EF of 30-35%.
+It was not increased further secondary to an increase in her Cr from baseline (up to 1.7 on day of discharge).
+Pt was found to have new T wave inversions and mildly elevated troponin (likely secondary to CRI) which remained flat.
+She was ruled out for MI with 3 sets of cardiac enzymes.
+As [**Name6 (MD) **] the RN at [**Hospital3 2558**] she has a h/o angina requiring PRN SL NTG.
+Cr slightly elevated above baseline thought to be secondary to addition of ACEI and Lasix.
+Anemia may be secondary to CRI.
+6) TYPE II DM: Pt is diet controlled at nursing home.
+Urinary anion gap c/w RTA.
+As per renal recs no further management.
+Discharge Disposition: Extended Care  Facility: [**Hospital3 2558**] - [**Location (un) **]  Discharge Diagnosis: Congestive Heart Failure   Discharge Condition: Fair  Discharge Instructions: Please call your primary care physician if you experience worsening shortness of breath, chest pain, or have any other concerns.

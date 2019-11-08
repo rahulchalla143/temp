@@ -1,0 +1,31 @@
+Admission Date:  [**2175-10-7**]              Discharge Date:   [**2175-10-9**]  Date of Birth:  [**2141-6-17**]             Sex:   F  Service: MEDICINE  Allergies: tramadol  Attending:[**First Name3 (LF) 338**] Chief Complaint: Nausea, vomiting, hyperglycemia  Major Surgical or Invasive Procedure: None  History of Present Illness: Ms. [**Name13 (STitle) 6129**] is a 34 year old woman with DM type 1 and Hashimoto's thyroiditis who presented to the ED with nausea, vomiting, and hyperglycemia concerning for DKA.
+She took tramadol the night before admission for R shoulder pain and has been nauseous and vomiting since that time.
+She has been in DKA a few times in the past and was worried that she would be unable to keep up with her fluid requirements given her nausea and vomiting, so she came into the ED.
+She was comfortable, noting that her nausea and vomiting had resolved and she was feeling much better.
+(-) Denies fever, recent weight loss or gain.
+Denies vision changes, headache, sinus tenderness, rhinorrhea or congestion.
+Denies shortness of breath, [**Hospital Unit Name **], or wheezing.
+Denies constipation, abdominal pain, diarrhea, dark or bloody stools.
+Denies dysuria or urgency.
+Denies rashes or skin changes.
+No family history of diabetes or heart disease.
+Physical Exam: Admission Physical Exam: Vitals: T 98.4 HR 103 BP 99/43 RR 20 O2 100% General: Alert, oriented, no acute distress HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL Neck: supple, JVP not elevated, no LAD CV: Regular rate and rhythm, normal S1 + S2, II/VI systolic ejection murmur loudest at the base, no rubs or gallops Lungs: Clear to auscultation bilaterally, no wheezes, rales, rhonchi Abdomen: soft, non-tender, non-distended, bowel sounds present, no organomegaly, no rebound or guarding GU: no foley Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema Neuro: CNII-XII intact, 5/5 strength upper/lower extremities, grossly normal sensation, 2+ reflexes bilaterally, gait deferred.
+No pleural effusion or pneumothorax is present.
+No acute osseous abnormalities are detected.
+IMPRESSION: No acute cardiopulmonary abnormality.
+Brief Hospital Course: 34 year old woman with DM type 1 and Hashimoto's thyroiditis who presented to the ED with nausea, vomiting, and hyperglycemia concerning for DKA, admitted to the [**Hospital Unit Name 153**] for insulin drip.
+# DKA: Patient with type 1 diabetes diagnosed in [**2163**].
+She was felt to be in DKA given persistently high FSBG readings at home, nausea, vomiting, electrolytes demonstrating an anion gap of 20, and urinalysis with glucose and ketones in the urine on arrival to the ED.
+The etiology of her DKA is likely secondary to nausea, vomiting, and resulting hypovolemia from adverse reaction to tramadol that she had taken for shoulder pain.
+Unlikely infectious given that she is afebrile without any localizing symptoms, no dysuria, clean urinalysis (other than glucose and ketones), no rashes, no recent illness or sick contacts, no [**Name2 (NI) **] and clear chest x-ray.
+# Right rotator cuff pain: Patient has rotator cuff injury for which she is seeing ortho.
+She was prescribed tramadol (which she had never taken) for pain refractory to ibuprofen, and developed nausea and vomiting which likely precipitated DKA (above).
+She was continued on ibuprofen, started on acetaminophen standing, and instructed on physical therapy exercises to help with pain and range of motion.
+# Hashimotos thyroiditis: She is euthyroid on exam and was continued on her home dose of levothyroxine 50 mcg PO daily.
+She denies symptoms of depression.
+Acetaminophen 1000 mg PO Q8H:PRN pain   Discharge Disposition: Home  Discharge Diagnosis: Primary Diagnosis: - Diabetic ketoacidosis  Secondary Diagnoses: - Diabetes type 1 - Hashimotos thyroiditis   Discharge Condition: Mental Status: Clear and coherent.
+Discharge Instructions: Dear Ms. [**Last Name (Titles) 6129**],  You came into the ED because of nausea, vomiting, hyperglycemia, and were found to be in diabetic ketoacidosis (DKA).
+You were also given several liters of fluid and your blood sugars came back down to normal.
+We monitored you overnight and your symptoms resolved and  your sugars were controlled with your home insulin pump.
+You were also complaining of shoulder pain from your right rotator cuff and you are scheduled for follow up with ortho to have a cortisone injection.
+You should not take tramadol any longer due to the adverse reaction of nausea and vomiting which may have caused you to go into DKA.

@@ -1,0 +1,53 @@
+Admission Date:  [**2117-7-26**]              Discharge Date:   [**2117-7-29**]  Date of Birth:  [**2036-11-1**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 106**] Chief Complaint: CP, NSTEMI  Major Surgical or Invasive Procedure: cardiac catherization  History of Present Illness: 80 year old woman with a history of CAD s/p CABG([**Doctor Last Name **]) on [**2117-5-20**] with a LIMA to LAD, SVG Y graft to OM & Diag in addition to AFib and HTN who originally presented to [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) **] with chest pain and dyspnea where she was found to have a NSTEMI with peak TropI of 17.
+On arrival to OSH, patient reported several weeks or worsening DOE in addition to chest heaviness of the previous few days.
+ECG obtained was without acute ischemic ST changes.
+Catherization as below but briefly showed mild disease LMCA, dital LAD TO, 95% LCx, patent stent in RCA, SVG:OM1-DM1 occluded and patent LIMA-LAD.
+Currently she feels well and is without chest pain or shortness of breath.
+On review of symptoms, she denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.
+She denies recent fevers, chills or rigors.
+She denies exertional buttock or calf pain.
+Cardiac review of systems as above is notable for chest pain, dyspnea on exertion, paroxysmal nocturnal dyspnea and orthopnea.
+She denies any LE edema, palpitations, syncope or presyncope.
+Past Medical History: CAD-PCI/CABG afib Hypertension Rheumatic heart disease as child Diverticulitis Right breast cancer status post lumpectomy [**2103**] Bladder suspension [**2108**]/TAH .
+Cardiac Risk Factors: - Diabetes, + Dyslipidemia, + Hypertension  .
+Severe three vessel coronary artery disease 2.
+Mildly elevated biventricular pressure with normal cardiac output 3.
+Marked systemic hypertension.
+Successeful stenting of the RCA (Bare metal) in the setting of acute inferior STEMI.
+She drinks one glass of EtOH daily   Family History: Father had an MI at age 59.
+Sclera anicteric.
+Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.
+soft [**2-6**] non radiating SM LLSB Chest: No chest wall deformities, scoliosis or kyphosis.
+Abd: soft, NTND, No HSM or tenderness.
+No ooze/hematoma Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+no ST changes (per-cath)  CARDIAC CATH performed on [**2117-7-26**] demonstrated: -mild disease LMCA -dital LAD TO -95% LCx -patent stent in RCA -SVG:OM1-DM1 occluded -patent LIMA-LAD.
+-Failed PTCA of LAD -[**Name (NI) 28283**] PTCA of LCx  [**7-27**] TTE: The left atrium is mildly dilated.
+There is mild symmetric left ventricular hypertrophy with normal cavity size and systolic function (LVEF>55%).
+Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded.
+The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present.
+No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+No mitral regurgitation is seen.
+The left ventricular inflow pattern suggests impaired relaxation.
+There is a large pericardial effusion.
+The effusion is echo dense, consistent with blood, inflammation or other cellular elements.
+There is right ventricular diastolic collapse, consistent with impaired fillling/tamponade physiology.
+Compared with the prior study (images reviewed) of [**2117-4-14**], a large circumferential pericardial effusion is now present with echocardiographic signs of tamponade physiology.
+NO MICROORGANISMS SEEN.
+FLUID CULTURE (Preliminary):    NO GROWTH.
+ANAEROBIC CULTURE (Preliminary):    NO GROWTH.
+ACID FAST SMEAR (Final [**2117-7-28**]):       NO ACID FAST BACILLI SEEN ON DIRECT SMEAR.
+FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED.
+The aortic valve leaflets are mildly thickened.
+The mitral valve leaflets are mildly thickened.
+There is no pericardial effusion.
+Compared with the prior study (images reviewed) of [**2117-7-27**], no change.
+Brief Hospital Course: Pt is an 80 F with CAD s/p CABG on [**2117-5-20**], post-op AFib, and HTN who presented to [**Hospital3 4107**] with chest pain and SOB over 1 week.
+The patient returned to the cath lab for pericardial effusion drainage, which revealed 750cc of serosanguinous fluid, and drain catheter placement.
+follow-up echo's on [**7-27**] and [**7-28**] showed resolution of the pericardial effusions.
+Coumadin was held per bloody pericardial effusion and no evidence of afib during admission.
+During the admission the pt remained pain-free with no concerning telemetry changes.
+Disp:*6 Tablet(s)* Refills:*0*   Discharge Disposition: Home With Service  Facility: [**Hospital3 **] VNA  Discharge Diagnosis: CAD pericardial effusion Atrial fibrilation hypertension   Discharge Condition: stable   Discharge Instructions: You were admitted to the hospital with chest pain and evidence of a heart attack.
+On a routine echocardiogram you were found to have fluid around your heart which was drained.
+Your coumadin was stopped here because of the bloody fluid around your heart.
+please call your PCP or return to ED if you have: chest pain, shortness of breath, fainting spells, persistent fevers, swelling of legs, bleeding problems or any other concern.

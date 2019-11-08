@@ -1,0 +1,50 @@
+Admission Date:  [**2130-8-29**]              Discharge Date:   [**2130-9-2**]  Date of Birth:  [**2048-8-26**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 1943**] Chief Complaint: Hypotension  Major Surgical or Invasive Procedure: None  History of Present Illness: Mr. [**Known lastname **] is a 82 yo male with multiple medical problems including hypertension and [**Name (NI) 5895**] disease who presents with abdominal pain, low appetite with low PO intake and generalized weakness x 2 weeks.
+His wife describes it as "sliding out of bed", no head trauma.
+He denies dizziness or syncope, seizure activity.
+Pt denies chest pain, shortness of breath, dysuria, fevers or chills, lower extremity swelling, or orthopnea.
+Pt also found to have elev K at 6.2.
+On the floor, pt looked well, had no complaints.
+Review of systems: (+) Per HPI (-) Denies fever, chills, night sweats, recent weight loss or gain.
+Denies headache, sinus tenderness, rhinorrhea or congestion.
+Denied cough, shortness of breath.
+Denied chest pain or tightness, palpitations.
+No recent change in bowel habits.
+Denied arthralgias or myalgias.
+Past Medical History: Past Medical History: -Cardiomypathy/CHF diag in [**7-29**] (prior echo at [**Male First Name (un) **] hospital) -H/o Cardiac arrest (3.5 yrs ago) -Complete heart block: s/p BiV ICD in [**8-29**] -Hypertension -Hypercholseterolemia -Diabetes -Parkinson's disease -Dementia -s/p CVA 2 yrs ago w/ R sided weakness, recovered function -Gout -Nephrolithiasis in [**9-28**] -OSA (noncompliant with CPAP)  Social History: He lives in [**Location **] with his wife and daughter.
+He has never smoked and does not use illicit drugs or drink alcohol.
+Family History: Mother died at 84 with diabetes and heart attack.
+Father died at 68 of a heart attack.
+Brother died of a heart attack.
+General: Alert, awake, oriented x3, no acute distress HEENT: anicteric sclerae, EOMI, PERRL, oropharynx clear, dry mucous membranes Neck: supple, JVP not elevated, no LAD Lungs: good air movement, bibasilar crackles, no wheezes CV: RRR with frequent "skipped beats", distant heart sounds no murmurs, rubs, gallops Abdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly GU: foley in place, draining clear yellow urine Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema  Pertinent Results: [**8-29**] WBC 8.8 Hb 10.3 Hct 32.5  Plts 228 [**8-29**] Neut 74.5 Lymph 21.4 Monos 3.3 Eosos 0.6 Basos 0.2 [**8-29**] PT 12.2 PTT 23.8 INR 1.0 [**8-29**] 7pm Gluc 114 BUN 106 Cr 3.4 Na 138 K 5.4 Cl 110 HCO3 15 AG 18 [**8-29**] 3pm Gluc 141 BUN 117 Cr 4.0 Na 134 K 6.2 Cl 108 HCO3 15 AG 17 [**8-29**] ALT 3 AST 10  AlkPh 44  T bili 0.3 Alb 4.0 [**8-29**] CK 108 CK-MB 5 TnT 0.02 [**8-29**] Ca 9.4 Mg 4.9 Ph 2.0 [**8-29**] Lactate 1.7 [**8-29**] UA neg  Micro: [**2130-8-29**] Blood Cx negative [**2130-8-29**] Urine Cx [**Numeric Identifier 961**]-[**Numeric Identifier 4856**] Coag+ Staph aureus and [**Numeric Identifier 961**]-[**Numeric Identifier 4856**] GBS [**2130-8-30**] MRSA Screen negative [**2130-9-1**] Urine Cx pending  Images: CXR [**2130-8-29**]: IMPRESSION: Low lung volumes are somewhat limited evaluation, but no evidence for acute process.
+No evidence of acute abdominal process.
+Right lateral ninth rib sclerotic lesion appears nonaggressive, but correlate with any history of prior malignancy or bone scan.
+Abdominal aortic atherosclerotic disease, with focal celiac artery aneurysm.
+Degenerative change, spinal stenosis, and compression fracture of T11.
+EKG:  V-paced, no ST changes  Brief Hospital Course: 1.
+Hypotension secondary to hypovolemia secondary to decreased oral intake in weeks leading up to hospital admission.
+Parkinson's disease can be associated with autonomic insufficiency, but this is unlikely the cause of Mr. [**Known lastname 17113**] hypotension at this time.
+Once he became euvolemic, he demonstrated no orthostatic changes to his blood pressure.
+Sepsis was considered, but the patient remained afebrile, vital signs stable, and no clear infection.
+Though the urine culture on [**2130-8-29**] had 10,000-100,000 colonies of staph aureus and group B strep, the patient had no urinary complaints suggesting urinary tract infection.
+Echocardiogram was negative for pericardial effusion and demonstrated good systolic function with ejection fraction of >55%.
+Acute renal failure secondary to hypovolemia.
+The patient does have symptoms of prostatism with symptoms of difficulty urinating and dribbling stream.
+Renal ultrasound showed no hydronephrosis.
+Post-obstructive uropathy was not the cause of the patient's acute renal failure.
+Asymptomatic bacteruria.
+Pt to contact his primary care physician if symptoms of fever, hypotension, dysuria, increased frequency develop.
+Hyperkalemia secondary to acute renal failure.
+Hyperkalemia was not an issue after renal failure resolved.
+HTN: all anti-hypertensive medications held for hypotension.
+Allopurinol held because of acute renal failure.
+Hypotension from volume depletion  SECONDARY DIAGNOSES: 1.
+Acute on chronic renal failure, resolved 2.
+Type 2 diabetes mellitus 4.
+Complete heart block 5.
+Dementia  Discharge Condition: Stable for discharge.
+Discharge Instructions: You were admitted to the [**Hospital1 18**] on [**2130-8-29**] with the diagnosis of hypotension likely from dehydration and on several hypertension medications.
+Your kidneys were also injured from being hypotensive, but they showed good recovery after treatment for your hypotension.
+Potassium chloride  Recommended diet: Diabetic diet, no excessive salt.
+You do not have to excessively restrict or excessively consume foods with high potassium content such as bananas and [**Location (un) 2452**] juice.
+We recommend that you seek immediate medical attention if you develop any worsening of your condition including systolic blood pressure less than 90, light-headedness, falling down, decrease in urinary output, shortness of breath, or any other concern.
+Followup Instructions: You should follow up with your primary care physician early next week for follow up of your blood pressure and fluid balance.

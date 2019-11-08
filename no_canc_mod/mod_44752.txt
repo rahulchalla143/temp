@@ -1,0 +1,71 @@
+Admission Date:  [**2149-6-10**]              Discharge Date:   [**2149-6-16**]  Date of Birth:  [**2098-4-25**]             Sex:   M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 7651**] Chief Complaint: complete heart block  Major Surgical or Invasive Procedure: pacemaker placement   History of Present Illness: Mr. [**Known lastname 56272**] is a 51M w/ hx of AS (unknown severity), HTN, hypothyroidism, s/p Hodgkin's treatment w/ extensive radiation therapy to chest at age of 4, who presents intubated from outside hospital with bradycardia.
+The patient fell yesterday approximately 10pm, felt dizzy previously, struck head and was evaluated by outside hospital with CAT scan which was reportedly negative, reported to be a concussion, and went home to rest.
+He was found to be hypotensive and bradycardic at a rate in 30s-40s, thought to be a ventricular escape rhythm.
+The patient was given atropine and epinephrine with no change in HR or BP.
+Upon arrival to the [**Hospital1 18**] ED the patient was in complete heart block with narrow escape rhythm at approx 35-40 bpm.
+Placement of temporary pacing wire deferred secondary to poor access (secondary to radiation) and renal failure.
+CXR demonstrated a large globular heart.
+Cspine showed no acute abnormality and CT head non-con demonstrated no acute intracranial abnormality.
+On review of systems (per sister [**Location (un) **], the patient had symptoms of dyspnea and dyspnea on exertion for approximately 6-9 months.
+The sister knew no other symptoms.
+Reportedly he had been evaluated for AVR, and was denied both open and transcutaneous minimally invasive procedures.
+Dopamine transiently increased in an attempt to elevated SBP.
+CARDIAC RISK FACTORS: HTN 2.
+CARDIAC HISTORY: - Aortic stenosis (unknown valve area), CHF (unknown EF) 3.
+OTHER PAST MEDICAL HISTORY: -  hypothyroidism -  s/p thyroidectomy -  Hodgkin's lymphoma (at age 4) s/p Cobalt Radiation  Social History: - Tobacco history:  unknown - ETOH:  significant alcohol use, per sister - Illicit drugs:  negative, per sister  Family History: unknown  Physical Exam: ADMISSION PHYSICAL EXAM: VS:  60 externally paced, 136/50, 95% on ventilator (CMV, FIO2 52%, rate of 16, minute ventilation 7.8) Gen: intubated, sedated NECK: Significant radiation scaring.
+Chest: pectus excavatum deformity CV: bradycardic and regular.
+II/VI holosystolic murmur at the apex.
+No wheezes, rales, or rhonchi.
+L femoral venous line C/D/I.
+II/VI holosystolic murmur at the apex.
+No wheezes, rales, or rhonchi.
+There is mild regional left ventricular systolic dysfunction with basal anteroseptal akinesis and inferoseptal hypokinesis (overall left ventricular ejection fraction ?45-50% but views are suboptimal for assessment of sytolic function).
+Cannot exclude additonal wall motion abnormalities.
+[Intrinsic right ventricular systolic function is likely more depressed given the severity of tricuspid regurgitation.]
+There is critical aortic valve stenosis (valve area <0.8cm2).
+Mild to moderate ([**1-27**]+) aortic regurgitation is seen.
+There is severe mitral annular calcification.
+There is mild functional mitral stenosis (mean gradient 3 mmHg) due to mitral annular calcification.
+Mild to moderate ([**1-27**]+) mitral regurgitation is seen.
+The tricuspid valve leaflets are mildly thickened.
+Moderate [2+] tricuspid regurgitation is seen.
+There is mild pulmonary artery systolic hypertension.
+There is a small pericardial effusion.
+There are no echocardiographic signs of tamponade.
+No fracture or subluxation.
+CT head non-con ([**2149-6-10**]): IMPRESSION:  No acute intracranial process.
+CXR ([**2149-6-12**]): Transvenous right atrial lead curls anteriorly, its tip projecting over the anterior wall of the mid portion of the right atrium.
+Pulmonary edema continues to clear.
+There is no pneumothorax or mediastinal widening and small right pleural effusion is probably unrelated.
+Severe cardiomegaly has also improved.
+Acute thrombosis of the right basilic and cephalic (superficial) veins.
+No evidence of right lower extremity DVT.
+Axillary vein not imaged, due to overlying bandage.
+LE DOPPLER: No evidence of deep vein thrombosis in the right or left leg  DISCHARGE LABS: [**2149-6-16**] 06:52AM BLOOD WBC-7.8 RBC-3.52* Hgb-11.1* Hct-34.4* MCV-98 MCH-31.6 MCHC-32.4 RDW-13.7 Plt Ct-265 [**2149-6-16**] 06:52AM BLOOD PT-13.1* PTT-93.0* INR(PT)-1.2* [**2149-6-16**] 06:52AM BLOOD Glucose-89 UreaN-18 Creat-1.0 Na-140 K-4.4 Cl-101 HCO3-28 AnGap-15 [**2149-6-16**] 06:52AM BLOOD Calcium-8.0* Phos-3.9 Mg-2.1  Brief Hospital Course: 51M with aortic stenosis, CHF and hx of Hodgkin's lymphoma who presents with complete heart block in the setting of renal failure and hyperkalemia.
+Patient also has significant aortic stenosis.
+The patient had a pacemaker placed, with resolution of bradycardia and hemodynamic instability.
+# Complete Heart Block: Pt was in CHB on admission with bradycardia to 30s.
+Due to poor access, temp pacer could not be placed; instead, a femoral triple lumen central line was placed and he was given fluids in the ED and then transferred to the CCU.
+etiology remained uncertain, but could include hyperkalemia, though there was little e/o hyperkalemic signs on EKG.
+Also considered hypothyroidism - TSH was elevated at 10 but free T4 was normal so no adjustments to his levothryoxine were made.
+Also considered progression of CHF secondary to AS.
+Blood cultures were drawn to r/o endocarditis (pt has abnormal valves so would be at risk) but were NGTD.
+After pacer placement, he experienced a few limited episodes of atrial tachycardia with normal AV node conduction, which was unusual given his previous CHB.
+However, he intermittently went back into complete heart block requiring pacing, most notably after receiving large metoprolol load prior to CTA torso/coronaries in order to bring heart rate down for coronary imaging.
+However, at lower doses of BB he was tachycardic to 100s (pt a-sensed on pacer with v-pacing set up to 130s).
+# Aortic stenosis: pt w/ known severe/critical AS, w/out record of valve diameter.
+Pt apparently has been evaluated for AVR but due to his anatomy s/p radiation treatments as a child, he is not a candidate for open repair.
+He was taken for CTA torso as well to eval femoral arteries.
+Final results were pending at the time of discharge, but preliminary read showed acute PE (see below).
+# Acute PE: wet read of CTA done for corevalve work up showed incidental finding of "Acute emboli in right lower lobar and segmental pulmonary arteries (4:21-28)."
+bilateral LE dopplers were neg for DVT and RUE doppler (side of entry for pacemaker) showed "acute thrombosis of the right basilic and cephalic (superficial) veins.
+No evidence of right lower extremity DVT.
+Axillary vein not imaged, due to overlying bandage."
+Source of PE unknown but could be in axillary vein that was unable to be imaged.
+# Hypothyroidism: patient s/p thyroidectomy at age of 19.  on synthroid 150mcg qd at home.
+# Hyperkalemia: The patient was hyperkalemic to 6.5 upon admission, without specific EKG changes appreciated, and was given calcium gluconate, insulin, D50 and kayexalate.
+# Renal failure: The patient had [**Last Name (un) **] with Cr of 2.5 upon admission to the CCU, likely from poor forward flow from cardiogenic shock secondary to profound bradycardia.
+3. consider additional work up for source of PE if indicated  Medications on Admission: -metoprolol 12.5mg [**Hospital1 **] -lasix 40mg [**Hospital1 **] -synthroid 150mcg qd -kcl 20mg qd  Discharge Medications: 1. furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*60 Tablet Extended Release 24 hr(s)* Refills:*2*   Discharge Disposition: Home  Discharge Diagnosis: complete heart block pacemaker placement severe aortic stenosis   Discharge Condition: Mental Status: Clear and coherent.
+The cause of your abnormal heart rate could be due to medications, abnormal electrolytes, or your severe aortic stenosis worsening.
+If your symptoms recur, your pacemaker will prevent your heart rate from dropping low.

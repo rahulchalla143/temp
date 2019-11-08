@@ -1,0 +1,52 @@
+Admission Date:  [**2164-5-11**]              Discharge Date:   [**2164-5-14**]   Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 3556**] Chief Complaint: CC: fever, abd pain, vomiting  Major Surgical or Invasive Procedure: None  History of Present Illness: HPI: [**Age over 90 **] yo M recent UTI on cipro p/w 7 hours fever, abd pain and vomiting, chronic nonprod cough.
+In the ED, the patient was found to have a new RLL infiltrate concerning for PNA (not seen on CXR [**5-2**] done at NEBH), received ceftriaxone/flagyl for community-acquired.
+He was tachycardic and borderline hypotensive, unclear if SBP dropped below 90 mmHg at any point, lactate 2.9 on presentation down to 1.9 with IVF.
+RLL process appeared worse on his second CXR (after fluid resuscitation).
+Labs notable for: low nl WBC count with 16% bands; Hct drop from 42% by CBC to 35% by VBG after IVF; BUN 24/Cr 1.2, likely some renal insufficiency given his age and weight; AP 434, [**Doctor First Name **] 104; TnT 0.03, other enzymes pending; urine concentrated, acidic, otherwise clear.
+APACHE II score around 14, with subsequent mortality estimate around 18%.
+After receiving 5L NS in the ED, he was found to have worsening hypoxemia, currently only 90% on 100%NRB face mask.
+ED staff to re-examine pt and check repeat (3rd) CXR to look for new pulm edema in setting of aggressive volume repletion, and to give Lasix if evidence of new CHF.
+Family History:  FH: non contributory   Physical Exam: PE Vitals: T 103.4 , HR 107 , BP 100/60 , Vent settings : A/C TV 500cc ,RR 12 , PEEP 5, FiO2 100% SpO2 99 % Gen: elderly man, lying in bed, sedated and minimally interactive, no apparent distress HEENT: NCAT, EOMI (tracking movements), MMM Neck: supple CV: distant, RRR, no M/R/G Chest: + bronchial sounds, mild diffuse wheeze Abd: soft, +abdominal muscle recruitment in exhalation Ext: 1+ LE edema   Pertinent Results: [**2164-5-11**] 06:19PM   WBC-11.6* RBC-3.54* HGB-10.6* HCT-32.2* MCV-91 MCH-29.9 MCHC-32.9 RDW-15.0 [**2164-5-11**] 03:40PM   GLUCOSE-83 UREA N-21* CREAT-0.8 SODIUM-144 POTASSIUM-4.0 CHLORIDE-119* TOTAL CO2-16* ANION GAP-13 [**2164-5-11**] 06:19PM   PT-18.6* PTT-43.2* INR(PT)-1.8* [**2164-5-11**] 11:28AM   TYPE-ART TEMP-39.4 RATES-[**11-3**] TIDAL VOL-500 PEEP-5 O2-100 PO2-261* PCO2-38 PH-7.31* TOTAL CO2-20* BASE XS--6 AADO2-411 REQ O2-72 INTUBATED-INTUBATED VENT-CONTROLLED [**2164-5-10**] 10:35PM   ALBUMIN-3.6 CALCIUM-9.0 PHOSPHATE-2.5* MAGNESIUM-2.3 [**2164-5-10**] 10:35PM   cTropnT-0.03*      Cardiology Report ECHO Study Date of [**2164-5-11**]    PATIENT/TEST INFORMATION: Indication: Congestive heart failure.
+Suboptimal technical quality, a focal LV wall motion abnormality cannot be fully excluded.
+Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded.
+There is no pericardial effusion.
+[**Location (un) **] PHYSICIAN: [**Name10 (NameIs) **],[**First Name3 (LF) **]       RADIOLOGY  Final Report  CT ABDOMEN W/CONTRAST  [**2164-5-11**] 9:05 PM  CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST  Reason: assess for abscess Field of view: 36  [**Hospital 93**] MEDICAL CONDITION: [**Age over 90 **] year old man with fever and bandemia.
+CLINICAL HISTORY: [**Age over 90 **]-year-old male with fever and bandemia.
+Basilar atelectasis and small bilateral pleural effusions are identified.
+No focal liver lesion is identified.
+Multiple low density lesions are seen within bilateral kidneys, the right is more complex with septation.
+The pancreas demonstrates diffuse calcification, which may represent chronic pancreatitis.
+A hiatal hernia is present.
+Second portion of the duodenum is somewhat dilated, the remainder of the small bowel is normal in caliber, without evidence of obstruction.
+There is small aneurysms of bilateral renal arteries.
+No retroperitoneal or mesenteric lymphadenopathy is appreciated.
+No free fluid or lymphadenopathy is appreciated.
+BONE WINDOWS: There is diffuse demineralization of the bones.
+Multilevel degenerative changes are seen throughout the thoracolumbar spine.
+THere is pagetoid change within both femurs and iliac bones.
+Small bilateral pleural effusions and adjacent compressive atelectasis.
+Diffuse calcifications throughout the pancreas likely representing chronic pancreatitis.
+Multiple low-density lesions within bilateral kidneys, incompletely characterized.
+Diffuse atherosclerotic calcifications throughout the aorta and branch vessels.
+Multilevel degenerative changes throughout the thoracolumbar spine with compression deformity of T12 of undetermined chronicity.
+There is diffuse demineralization of the bones.
+No evidence of obstruction or intra-abdominal abscess.
+DR. [**First Name8 (NamePattern2) **] [**Name (STitle) 7410**] DR. [**First Name11 (Name Pattern1) 8711**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **] Approved: SAT [**2164-5-12**] 8:55 PM      RADIOLOGY  Final Report  CHEST (PORTABLE AP)  [**2164-5-10**] 10:31 PM  CHEST (PORTABLE AP)  Reason: r/o infection  [**Hospital 93**] MEDICAL CONDITION: [**Age over 90 **] year old man with fever REASON FOR THIS EXAMINATION: r/o infection AP PORTABLE CHEST, [**2164-5-10**], AT 2252 HOURS.
+FINDINGS: Lung volumes are low, with elevation of the left hemidiaphragm.
+Linear atelectasis is seen in the left perihilar region.
+There is an area of increased density in the right lung base, which may represent pneumonia or aspiration.
+There is a tortuous aorta.
+No pleural effusion or pneumothorax is definitely seen on single projection.
+There is a marked levoconcave scoliosis of the thoracic spine.
+IMPRESSION: Increased density in the right lung base may represent pneumonia, aspiration, or atelectasis.
+DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 7411**] Approved: FRI [**2164-5-11**] 6:45 AM          Brief Hospital Course: A/P: [**Age over 90 **] yo M s/p recent UTI on cipro who p/w fever, abd pain and vomiting, found to have a new RLL infiltrate, shock, hypoxemic resp failure after aggressive fluid resuscitation necessitating intubation.
+Hypoxemic resp failure: Cause of respiratory failure was pneumonia in setting of chronic respiratory failure and aspiration.
+Sepsis: Presumed source was the PNA, no loci of infection found in abdomen/GU with negative CT abdomen/pelvis.
+cdiff negative x 3 (although presumed infection due to infected partner), legionella neg x 1.
+Sepsis resolved after 1st 24 hours after 11 liters of fluid resuscitation.
+Paroxysmal atrial fibrillation: During hospital course, patient had episode of afib in the setting of infection.
+Elevated PTT: During hospital course was found to have an elevated PTT secondary to infection.
+Values returned to [**Location 213**] and DIC workup negative, Continue to follow PT/PTT/INR, most likely secondary to poor diet, low vitamin K. .
+Elevated alk phos: also in the setting of cholestasis and sepsis, which decreased from 434 to 248 to 232.
+FEN: now cleared to have thickened liquids.
+Medications on Admission: Meds at home: -Detrol -Ativan -Mucinex -recent Cipro   Discharge Disposition: Extended Care  Facility: [**Hospital6 459**] for the Aged - MACU  Discharge Diagnosis: Sepsis, Resolved RLL pneumonia, Respiratory failure, Paroxysmal atrial fibrillation  Discharge Condition: Stable, oxygenation improved  Discharge Instructions: - Continue antibiotics are written in discharge summary - Follow EKG (telemetry) with history of paroxysmal atrial fibrillation event - Follow diet recommendations to prevent aspiration - Please return to ED if patient has fever, shortness of breath, chest pain, or any symptoms of concern.

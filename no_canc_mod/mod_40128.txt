@@ -1,0 +1,67 @@
+Admission Date:  [**2185-3-1**]              Discharge Date:   [**2185-3-6**]  Date of Birth:  [**2128-7-4**]             Sex:   M  Service: CARDIOTHORACIC  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 1505**] Chief Complaint: [**3-22**] week history of progressive exertional dyspnea.
+)/CABGx1(LIMA->LAD) [**3-2**]   History of Present Illness: This 56 year old gentleman has a history significant for HIV infection and strep aortic valve endocarditis in [**2184-7-18**].
+He was seen in follow up in [**Month (only) 404**] and at that time reported a [**3-22**] week history of progressive exertional dyspnea.
+He was referred for cardiology consultation with Dr. [**First Name8 (NamePattern2) 122**] [**Last Name (NamePattern1) **] who recommended evaluation by Dr. [**Last Name (STitle) 93530**] [**Name (STitle) **] for surgical valve replacement  Past Medical History: HIV ( diagnosed [**2174**], last CD4 count 723 on [**6-25**], no opportunistic infections) Depression   Social History: Mr. [**Known lastname 93531**] lives a friend [**Name (NI) **] approximately 1 alcoholic beverage daily No history of tobacco History of inhaled cocaine Denies recent sexual activity.
+GRAM STAIN (Final [**2185-3-2**]):  NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.
+NO MICROORGANISMS SEEN.
+TISSUE (Final [**2185-3-5**]):    NO GROWTH.
+ANAEROBIC CULTURE (Preliminary):    NO GROWTH.
+Coronary angiography of this right dominant system revealed single vessel coronary artery disease.
+The LMCA had mild plaquing.
+The LAD had a 50% distal stenosis.
+The LCx and RCA had mild luminal irregularities without angiographically evident flow limiting stenosis.
+Resting hemodynamics revealed elevated right and left sided filling pressures, with RVEDP of 12 mm Hg and LVEDP of 32 mm Hg.
+Pulmonary arterial systolic pressure was elevated at 43 mm Hg.
+Left ventriculography revealed no mitral regurgitation.
+The LVEF was 40% with global hypokinesis.
+Supravalvular aortography revealed 4+ aortic regurgitation.
+Severe aortic regurgitation.
+Moderate left ventricular systolic dysfunction.
+Biventricular diastolic dysfunction.
+Mild spontaneous echo contrast in the LAA.
+No thrombus in the LAA.
+No ASD by 2D or color Doppler.
+LEFT VENTRICLE: Wall thickness and cavity dimensions were obtained from 2D images.
+Mild symmetric LVH.
+Moderately dilated LV cavity.
+Moderate global LV hypokinesis.
+Moderately depressed LVEF.
+RIGHT VENTRICLE: Moderate global RV free wall hypokinesis.
+AORTA: Focal calcifications in aortic root.
+Mildly dilated ascending aorta.
+Focal calcifications in ascending aorta.
+Simple atheroma in aortic arch.
+Simple atheroma in descending aorta.
+Moderately thickened aortic valve leaflets.
+MITRAL VALVE: Mildly thickened mitral valve leaflets.
+Mild mitral annular calcification.
+Mild spontaneous echo contrast is present in the left atrial appendage.
+No thrombus is seen in the left atrial appendage.
+Mild spontaneous echo contrast is seen in the body of the right atrium.
+No atrial septal defect is seen by 2D or color Doppler.
+There is moderate global left ventricular hypokinesis (LVEF = 35-40 %).
+The ascending aorta is mildly dilated.
+There are simple atheroma in the aortic arch.
+There are simple atheroma in the descending thoracic aorta.
+The number of aortic valve leaflets cannot be determined - suspect 3 but can not rule out commissural fusion.
+There is systolic doming of the aortic valve leaflets.
+There is no aortic valve stenosis.
+Severe (4+) aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+A likely torn mitral chordae is seen in the left ventricular cavity.
+Mild to moderate ([**1-19**]+) mitral regurgitation is seen.
+There is a trivial/physiologic pericardial effusion.
+Biventricular systolic function is improved.
+There is septal dysynchrony most likely secondary to ventricular pacing.
+There is a bileaflet prosthesis in the aortic position.
+There is at least trace valvular aortic regurgitation.
+A small perivalvular jet can not be ruled out.
+The mitral regurgitation is improved, now mild.
+No other significant changes from pre bypass study.
+The lung volumes are low on the current exam and this may contribute to a larger contour of the heart although close follow up is recommended to exclude the true cardiac enlargement which may be consistent with pericardial effusion.
+The bibasal atelectases are mild to moderate most likely related to recent discontinuation of mechanical ventilation.
+No appreciable pneumothorax or sizable pleural effusion is seen.
+Brief Hospital Course: pt admitted  underwent replacement of valve / no complications transfered to the cvicu.
+Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours) as needed for pain for 10 days.
+Disp:*60 Tablet(s)* Refills:*2*   Discharge Disposition: Home With Service  Facility: [**Hospital 119**] Homecare  Discharge Diagnosis: Endocarditis Aortic regurgitation HTN AFIB   Discharge Condition: Good.
+Shower daily, let water flow over wounds, pat dry with a towel.

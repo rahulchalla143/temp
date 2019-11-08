@@ -1,0 +1,45 @@
+Admission Date:  [**2200-1-20**]              Discharge Date:   [**2200-1-28**]  Date of Birth:  [**2148-7-12**]             Sex:   F  Service: MEDICINE  Allergies: Morphine  Attending:[**First Name3 (LF) 2297**] Chief Complaint: CC: headache, nausea   Major Surgical or Invasive Procedure: None   History of Present Illness: 51 yo F w/ h/o DM1, CRI, CAD s/p CABG, renal transplant in [**2185**] donor sister, on cyclosporine and Imuran who presents with complaint of HA, sudden onset since 5 PM yesterday, [**8-8**], +nausea, increasing dyspnea on exertion x 1 month worsening over two weeks.
+ST depressions in I,II, AVF, V4-6, ST elevations V1, R. Unchanged.
+To ED when no resolution in headache and nausea.
+FS elevated to critical levels but to 388 with 10 units of insulin sub q. Pt reports glucose elevated to 600, 2 days prior.
+Diabetes mellitus type 1 since age 11, c/b neuropthy, retinopathy, and nephropathy.
+Diabetic ketoacidosis.
+Hypo/hyperglycemia followed by Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] at the [**Last Name (un) **].
+Renal failure, status post renal transplant in [**2185**], baseline creatinine around 2.5.
+Coronary artery disease, status post myocardial infarction in [**2188**], status post coronary artery bypass graft in [**2193**], SVG graft failure x2, LIMA to LAD patent.
+Peptic ulcer disease.
+Peripheral vascular disease.
+15, recurrent cellulitis .
+PSHx: s/p orthoscopic L knee surgery [**2173**] s/p tuboligation [**2184**] s/p Left LE DVT complicated by left big toe gangrene w/amputation 1005 s/p RUE clot [**2188**] s/p ORIF Right femur [**2188**] s/p cataract implant [**2189**] s/p release of hand contractions s/p CABG [**2193**] s/p cholecystectomy [**2197**]   Social History: The patient currently lives in [**Location 15749**] with her husband, they have no children (patient has lost 5 pregnancies previously).
+Physical Exam: PE: Vitals- 97.3, 98/54, 62,18, 93% on 2L Gen- well appearing female in no acute distress sitting up in bed.
+HEENT- EOMI, bilateral surgical pupils, non elevated JVP.
+Cor- RRR no m/r/g Pulm- CTAB, no W/R/R Abd- soft non tender non distended.
+surgical incision scars.
+Extr- 2+ edema L>R,non tender.
+[**1-20**]- EKG unchanged from prior (same STE in v1 and AVR and diffuse ST depression elsewhile.
+CHEST (PA & LAT)  [**2200-1-20**] 12:13 PM Stable radiograph with no convincing radiographic evidence of acute superimposed disease.
+A bull's-eye display of tracer distribution throughout the myocardium was also obtained.
+Rest images show some irregular tracer uptake in the ventricular walls.
+IMPRESSION: Diagnostically uninterpretable study due to artifacts from significant softtissue attenuation.
+CT HEAD W/O CONTRAST  [**2200-1-20**] 5:24 AM No intracranial hemorrhage or mass effect.
+[**1-20**] Negative left lower extremity DVT study.
+CHEST (PORTABLE AP)  [**2200-1-22**] 5:10 PM FINDINGS: Patient demonstrates low lung volumes when compared to previous radiograph.
+No pleural effusions or pneumothoraces identified.
+No definite consolidation identified.
+IMPRESSION: Although low lung volumes when compared to previous radiograph which can produce vascular crowding, increased vascular markings with cephalization identified consistent with mild CHF.
+Brief Hospital Course: 51 yo F w/ h/o DM1, CRI, CAD s/p CABG, renal transplant in [**2185**] donor sister, on cyclosporine and Imuran who presented to the ED [**1-20**] with 8/10HA associated with nausea.
+Head CT and LENIs negative.
+Associated headache and nausea resolved.
+No cath given transplant patient with elevated creatinine.
+DM I- Glucose elevated since ED to critically high levels.
+Increasing white count.
+Elevated white count above admission, concerning for infection, especially given on immunosuppressive therapy.
+DC'd HCTZ, and decreased BB to 50 [**Hospital1 **] given episodes of hypotension day 1 of admission.
+In the MICU, management was obtained with help of [**Last Name (un) **], increasing her glargine dose, using her own insulin from home and covering meals with insulin.
+Her specific dosing was glargine 25 units [**Hospital1 **], Apidra, and new carb ratio for her insulin.
+status post MI and multiple other comorbidities.
+NSTEMI/troponin leak 2. hyperglycemia 3.
+Renal failure 4.
+Hypertension   Discharge Condition: chest pain free, tolerating PO, ambulating, decreasing creatinine, decreasing cardiac enzymes, improving glucose control   Discharge Instructions: You were admitted with severe headache and nausea, found to have an elevated troponin with question of NSTEMI/troponin leak.
+A cath was not performed given your elevated creatinine.
+Please maintain low salt diet and work on diet regimen as discussed in depth with Dr. [**Last Name (STitle) **] [**Name (STitle) 21421**] return to the hospital if you are expierencing chest pain, shortness of breath, fever, severe nausea, increased glucose, or headache or any other symptoms concerning to you.

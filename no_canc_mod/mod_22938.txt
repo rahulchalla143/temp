@@ -1,0 +1,20 @@
+Admission Date:  [**2150-2-23**]              Discharge Date:   [**2150-2-27**]  Date of Birth:  [**2083-10-11**]             Sex:   M  Service: CARDIOTHORACIC  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 1505**] Chief Complaint: Dyspnea on exertion and positive exercise tolerance test  Major Surgical or Invasive Procedure: [**2150-2-23**] - CABGx4 (Lima->Lad, SVG->Diagonal, SVG->Obtuse marginal, SVG->Right coronary artery)   History of Present Illness: Mr. [**Name13 (STitle) 34062**] is a 66 year-old male with worsening anginal symptoms.
+A cardiac catheterization showed severe three-vessel disease.
+Past Medical History: Coronary artery disease Hypercholesterolemia HTN BPH Colonic polyps Left inguinal hernia  Social History: Quit smoking 30 years ago.
+Physical Exam: Vitals: BP 162/86, HR 46, RR 14, SAT 98% on room air General: well developed male in no acute distress HEENT: oropharynx benign Neck: supple, no JVD Heart: regular rate, normal s1s2 Lungs: clear bilaterally Abdomen: soft, nontender, normoactive bowel sounds Ext: warm, no edema, no varicosities Pulses: 2+ distally Neuro: nonfocal   Pertinent Results: [**2150-2-25**] 08:45AM BLOOD WBC-8.8 RBC-2.97* Hgb-9.6* Hct-26.8* MCV-91 MCH-32.5* MCHC-35.9* RDW-13.1 Plt Ct-132* [**2150-2-25**] 08:45AM BLOOD Plt Ct-132*  [**2150-1-24**] CXR 1.
+No evidence of pneumothorax.
+Worsening left lower lobe atelectasis  [**2150-2-23**] ECHO PREBYPASS- A left-to-right shunt across the interatrial septum is seen at rest.
+A small secundum atrial septal defect is present.
+The descending thoracic aorta is mildly dilated.
+There are simple atheroma in the descending thoracic aorta.
+The aortic valve leaflets (3) are mildly thickened.
+Trace aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Mild (1+) mitral regurgitation is seen.
+Remaining study is otherwise unchanged compared to pre-bypass  [**2150-2-27**] 06:20AM BLOOD Hct-26.3* [**2150-2-25**] 08:45AM BLOOD Plt Ct-132* [**2150-2-27**] 06:20AM BLOOD UreaN-13 Creat-0.8 Na-143 K-4.6  [**2150-2-26**] CXR There has been interval removal of a right internal jugular vascular catheter.
+No pneumothorax.
+There is improving atelectasis in the left lower lobe, and there are small bilateral pleural effusions, left greater than right, which have increased on the left in the interval.
+Brief Hospital Course: Mr. [**Known lastname 43313**] was admitted to the [**Hospital1 18**] on [**2150-2-23**] for elective surgical management of his coronary artery disease.
+His wires and drains were removed without complication.
+Disp:*100 Tablet(s)* Refills:*0*   Discharge Disposition: Home With Service  Facility: [**Hospital 119**] Homecare  Discharge Diagnosis: Coronary artery disease Hypercholesterolemia HTN BPH Colonic polyps Left inguinal hernia   Discharge Condition: Good   Discharge Instructions: 1) Monitor wounds for signs of infection.
+These included redness, drainage or increased pain.

@@ -1,0 +1,57 @@
+Admission Date:  [**2157-8-2**]              Discharge Date:   [**2157-8-5**]  Date of Birth:  [**2109-4-4**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 425**] Chief Complaint: Chest pain  Major Surgical or Invasive Procedure: Cardiac catheterization with angioplasty and placement of a bare metal stent   History of Present Illness: The patient is a 48 year old man with history of gout presenting with chest pain found to have anterior STEMI now s/p PCI with BMS to LAD.
+In the evening of [**2157-8-1**] while watching the home-run derby (~930-945pm), he noted sudden onset of chest pressure and generalized feeling of being unwell.
+This was associated with sweatiness and mild ache in his jaw.
+He had no shortness of breath during the episode.
+After ~1 hour of symptoms the patient was driven by his wife to [**Location (un) 79689**] ER.
+Upon arrival he was found to have STE in the anterior precordial leads with ST depressions inferiorly.
+Shortly after arrival in the ER he loss consciousness and had VT/VF arrest.
+During the cath he was found to have a proximal LAD lesion that was treated with angioplasty and stenting.
+He tolerated the procedure well however at the end of the procedure he vomited 20mL of coffee ground emesis and became hypotensive.
+On review of symptoms, he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, hemoptysis, black stools or red stools.
+He denies recent fevers, chills or rigors.
+He denies exertional buttock or calf pain.
+*** Cardiac review of systems is notable for absence of chest pain, dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope.
+Family History: There is no family history of premature coronary artery disease or sudden death.
+His father died of natural causes at age 78.
+Sclera anicteric.
+Bilateral sub-conjunctival hemorrhage.
+Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.
+Chest: No chest wall deformities, scoliosis or kyphosis.
+No crackles, wheeze.
+Abd: Obese, soft, NTND, No HSM or tenderness.
+No abdominal bruits.
+No femoral bruits.
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+Selective coronary angiography of this right dominant system revealed single vessel coronary artery disease.
+The LMCA, LCx, and RCA had no angiographically apparent flow limiting epicardial coronary artery disease.
+Resting hemodynamics revealed no evidence of systemic arterial systolic or diastolic hypertension with SBP 117 mmHg and DBP 89 mmHg.
+Successful PTCA and stenting of the proximal LAD with a 2.5 x 12 mm VISION BMS which was post dilated with a 2.75 x 10 mm NC [**Male First Name (un) **] balloon at 18 ATM.
+Final angiography revealed no residual stenosis in the LAD, a pinched S1 and normal flow.
+Acute anterior STEMI.
+Single vessel coronary artery disease.
+Acute anterior myocardial infarction, managed by acute PTCA of the proximal LAD.
+ECHOCARDIOGRAM ([**2157-8-2**]) The left atrium is moderately dilated.
+There is mild symmetric left ventricular hypertrophy.
+There is moderate regional left ventricular systolic dysfunction with septal and apical akinesis.
+The aortic root is mildly dilated at the sinus level.
+The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic regurgitation.
+Mild (1+) mitral regurgitation is seen.
+There is no pericardial effusion.
+ECG on admission showed STE in the anterior precordial leads with ST depressions inferiorly.
+Brief Hospital Course: 48 year old man with no significant PMHx admitted for anterior STEMI complicated by V fib arrest, s/p cath showing 1-vessel disease with BMS to proximal LAD.
+#CAD: The pt presented with nausea, chest tightness, and diaphoresis s/p V fib arrest.
+His ECG and enzymes were consistent with an anterior STEMI.
+Pt received a BMS to prox LAD with and experienced hypotension post-procedure which was associated with and resolved after 20 cc coffee ground emesis.
+A lipid panel was checked; however, it was likely suppressed secondary to recent coronary event and should be rechecked at a later date.
+#Rhythm: While in the hospital the patient was in sinus rhythm with repeated episodes of NSVT which were initially treated with amiodarone for 24 hrs.
+#Pump: A 2D echocardiogram showed a depressed EF of 35%.
+The echo showed moderate regional left ventricular systolic dysfunction with septal and apical akinesis and the patient was started on anticoagulation with an INR goal of [**2-20**].
+#Elevated Liver enzymes: The patient had elevated liver enzymes (AST and ALT) in the context of the cardiac event.
+#Upper GI bleed: The patient had coffee ground emesis after being in the cath lab.
+#Psych: The patient has a lot of stress in his life.
+I spoke with the patient and his family about the high risk of depression after MI and they are aware of the signs and symptoms of depression as well as the resources available to them.
+Discharge Disposition: Home With Service  Facility: [**Location (un) **] Nursing Services  Discharge Diagnosis: Primary: ST-elevation myocardial infarction Cardiac arrest Apical hypokinesis  Secondary: Gout   Discharge Condition: good.
+The cause to the symptoms was a heart attack which was caused by a blockage in one of the vessels of your heart.
+You were prescribed medications that are to protect you from another heart attack and to prevent strokes.
+Stopping either of the medications could put you a risk for a severe heart attack or death.
+If you develop any new or concerning symptoms such as chest pain, shortness of breath, bleeding, or fainting; please seek medical attention immediately.

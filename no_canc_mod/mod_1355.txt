@@ -1,0 +1,54 @@
+Admission Date:  [**2202-4-2**]              Discharge Date:   [**2202-5-8**]   Service: CARDIOTHORACIC  Allergies: Penicillins / Aspirin / Nsaids / Erythromycin Base / Bactrim Ds / Atenolol / Heparin Agents / Nitroglycerin / Iodine Containing Agents Classifier  Attending:[**First Name3 (LF) 165**] Chief Complaint: Chest pain, shortness of breath  Major Surgical or Invasive Procedure: [**2202-4-28**] Open Tracheostomy and Placement of Percutaneous Endoscopic Gastrostomy Tube.
+[**2202-4-7**] Cardiac Catheterization  History of Present Illness: Mrs. [**Known lastname 2916**] is a 86 year old woman with severe aortic stenosis (valve area 0.6cm, peak gradient 66mmHg) and coronary artery disease s/p CABG and recent DES to RCA, LCx w/ 80% stenosis-unable to intervene who presented with right-sided chest pressure, which is her typical anginal equivalent.
+In brief, angina resolved by time she reached ED, but she had EKG with deepening ST depressions in lateral leads.
+CXR showed pulmonary edema and bilateral effusions.
+Past Medical History: # Coronary Artery Disease s/p 2V CABG [**2198**](SVG to LAD, SVG to Ramus), History of STEMI [**12/2198**], s/p PCI of Left Main [**12/2198**], s/p PCI/DES to RCA and LCX in [**2-/2202**] # Aortic Stenosis/Insufficiency # Atrial Fibrillation, with history of tachy-brady, s/p PPM Placement # Hypertension # Hypercholesterolemia # Mild Mitral Regurgitation # Breast Ca s/p Bilateral Mastectomies approx [**2159**], and [**2172**], XRT # Rectal Cancer s/p LAR in [**2192**] # Radiation induced L axillary sarcoma, s/p XRT and resection [**2199**] # OA # Osteoporosis # History of colon polyps- adenomas, last screened [**2200**] # s/p Right THR # s/p spinal fusion # History HIT # Acute cholecystitis s/p Lap Chol [**11/2199**]   Social History: Widowed, lives indepently in [**Location (un) **].
+Family History: There is no family history of premature coronary artery disease or sudden death.
+HEENT: MM slightly dry, JVP elevated to jaw.
+CV: [**4-18**] late peaking harsh systolic murmur @ USB and [**2-17**] diastolic murmur.
+Chest: Dullness at bases bilaterally L>R with mild crackles above, occ.
+Pacer site- dressing c/d/e, no hematoma Abd: soft, moderately distended, with reproducible epigastric pain EXT: R arm 1+ pitting edema, LE with 2+ pitting edema above knees.
+Limited resting hemodynamics demonstrated an elevated right and left heart filling pressures with an RVEDP of 18 mm Hg and an LVEDP of 34 mm Hg.
+Hemodynamics demonstrated a mean gradient of 17 mm Hg across the aortic valve.
+Hemodynamics demonstrated equalization of the left ventricle and femoral diastolic pressures indicating significant aortic regurgitation.
+A echocardiogram obtained in the cath lab demonstrated moderate - severe (3+) aortic regurgitation.
+Significant aortic stenosis is present (not quantified).
+There is probably moderate to severe (3+) aortic regurgitation is seen (Pressure half time 200 ms, holodiastolic flow reversal in the descending aorta).
+The mitral valve leaflets are mildly thickened.
+Mild to moderate ([**1-13**]+) mitral regurgitation is seen.
+The tricuspid valve leaflets are mildly thickened.
+There is no significant plaque seen bilaterally.
+This is consistent with no stenosis.
+[**2202-4-14**] Intraop TEE: Pre Bypass - The left atrium is dilated.
+No spontaneous echo contrast or thrombus is seen in the body of the left atrium or left atrial appendage.
+There is mild to moderate regional left ventricular systolic dysfunction with with focal septal hypokinesis as well as overall global hypokinesis (EF 45%).
+The right ventricular cavity is mildly dilated with normal free wall contractility.
+There are complex (>4mm) atheroma in the aortic arch.
+There is severe aortic valve stenosis (area <0.8cm2).
+Severe (4+) aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Mild mitral regurgitation.
+Post Bypass - A well-seated bioprosthetic valve is seen in the aortic position with normal leaflet motion and gradients (mean gradient = 5 mmHg, peak 11 mmHg).
+No aortic regurgitation is seen.
+There is a mild perivalvular leak in between the right and left coronary cusps.
+No aortic dissection is seen.
+POSTOP LABS:    Brief Hospital Course: Mrs. [**Known lastname 2916**] was admitted under cardiology with congestive heart failure.
+She ruled out for myocardial infarction.
+She was noted to have acute renal insufficiency, likely prerenal etiology for which the ACE inhibitor was discontinued.
+She continued on Amiodarone for atrial fibrillation.
+She experienced increasing dyspnea and oxygen requirements which prompted transfer to the CCU for initiation of Lasix drip and CPAP.
+Given that she was a poor surgical candidate, it was decided to attempt aortic valvuloplasty.
+Aortic valvuloplasty was aborted however secondary to hemodynamic and echocardiographic evidence of severe aortic insufficiency.
+After extensive discussion with the patient and her family, it was decided to proceed high risk redo operation.
+She required significant pressor support and multiple blood products.
+Due to a prolonged critical condition and failure to wean from mechanical ventilation, tube feedings were initiated.
+She concomitantly became oliguric despite fluid and volume resuscitation.
+Due to eventual mechanical problems with CVVH, hemodialysis was temporarily required.
+She gradually transitioned back to Lasix drip with adequate response, and dialysis was no longer required.
+A right sided chest tube was placed on [**4-25**] for worsening right pleural effusion.
+The Thoracic service was therefore consulted and performed open tracheostomy and placement of PEG tube on [**4-28**] without complication.
+Following placement of tracheostomy, she went on to develop worsening lethargy, altered mental status, and a rising BUN.
+Rectal tube was placed for persistent dark liquid stools.
+On [**5-5**], she developed an acute abdomen for which she needed intervention by the general surgery team.
+Given her current conditon and her age and fraility the family decided not to proceed with this and after a long discussion with them she was made CMO.
+Medications on Admission: Furosemide 20 mg PO DAILY Aspirin 325 mg PO DAILY Lisinopril 5 mg PO DAILY Clopidogrel 75 mg PO DAILY Vitamin D 400U DAILY Calcium Carb 500MG DAILY Lopressor 12.5MG PO TID Amiodarone 400MG PO BID Levofloxacin 250MG PO DAILY  Discharge Disposition: Extended Care  Facility: [**Hospital1 700**] - [**Location (un) 701**]  Discharge Diagnosis: Coronary Artery Disease Aortic Stenosis/Insufficiency s/p redo sternotomy/AVR/CABG s/p tracheostomy/PEG placement Chronic Diastolic Congestive Heart Failure Acute on Chronic Renal Insufficiency Atrial Fibrillation Postoperative Respiratory Failure Postoperaive Bleeding/Coagulopathy   Discharge Condition: expired                               [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(2) 173**]  Completed by:[**2202-5-21**

@@ -1,0 +1,69 @@
+Admission Date:  [**2101-1-26**]              Discharge Date:   [**2101-1-30**]  Date of Birth:  [**2026-2-5**]             Sex:   M  Service: MEDICINE  Allergies: Shellfish / Norvasc / Univasc  Attending:[**First Name3 (LF) 425**] Chief Complaint: "Popping sensation in head"  Major Surgical or Invasive Procedure: [**2101-1-27**] - Ventricular tachycardia ablation   History of Present Illness: The patient is a 74 year old male with a history of coronary artery disease ([**2085**] LCX occlusion s/p PTCA), infarct-related cardiomyopathy with LVEF 35-40% and monomorphic VT s/p dual chamber [**Company 1543**] ICD implantation in [**2096**] for primary prevention who presents to the Emergency Department with intermittent episodes of "popping sensation in his head."
+He reports some dyspnea on exertion over the past several weeks, which he attributes to upper respiratory tract infection.
+He denies orthopnea, weight gain, lower extremity edema.
+His ICD was last interrogated on [**12-29**], since last clinic visit in [**Month (only) 956**] there were no sustained arrhythymias, 6 NSVT.
+The mode switch feature is ON for atrial rates greater than 171 bpm.
+Initial EKG showed sinus rhythm, rate 57, normal axis with old inferior and high lateral TWI with several PVC of right bundle, superior axis morphology.
+During evaluation, he developed similar symptoms and on telemetry had NSVT at a rate in the low 200s lasting up to ten seconds.
+CXR showed AICD in place with no acute process.
+On review of systems, s/he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.
+S/he denies recent fevers, chills or rigors.
+S/he denies exertional buttock or calf pain.
+Cardiac review of systems is notable for absence of chest pain, dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope.
+CARDIAC HISTORY: - PERCUTANEOUS CORONARY INTERVENTIONS: [**2085**] PTCA LCX - PACING/ICD:  [**Company 1543**] Virtuoso dual-chamber ICD placed [**Month (only) **] [**2096**] for primary prevention after Holter monitor showed frequent PVC and NSVT, referred for EP study (MADIT I criteria).
+The mode switch feature is ON for atrial rates greater than 171 bpm.
+OTHER PAST MEDICAL HISTORY: -  Coronary artery disease s/p inferior MI in [**2079**] and recurrent inferior MI in [**2085**] s/p PTCA to LCX -  Infarct-related cardiomyopathy with LVEF 35-40% -  Obstructive Sleep Apnea, not on CPAP -  Knee OA s/p surgery for meniscal tear -  Abdominal Aortic Aneurysm s/p repair  Social History: - Works in Sales - Lives w/ Wife in [**First Name4 (NamePattern1) 392**] [**Last Name (NamePattern1) **] - Tobacco history: Former smoker - ETOH:  infrequent (once per month) - Illicit drugs:  Denies  Family History: - Mother:  Died from MI in early 60s - Father:  Unknown  Physical Exam: Admission exam: VS: BP:127/75   HR: 67  RR: 16  O2: 95% 2LNC GENERAL: NAD.
+Sclera anicteric.
+Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.
+No xanthalesma.
+regular rhythm, S1, S2, no murmur appreciated, distant heart sounds LUNGS: No chest wall deformities, scoliosis or kyphosis.
+CTAB, no crackles, wheezes or rhonchi.
+No HSM or tenderness.
+No abdominial bruits.
+No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+There is mild symmetric left ventricular hypertrophy.
+There is severe regional left ventricular hypokinesis with akinesis of the inferior and inferolateral walls, apical inferior wall and apex (LVEF = 25-30%).
+The inferior septum is hypokinetic.
+[Intrinsic left ventricular systolic function is likely more depressed given the severity of valvular regurgitation.]
+The aortic valve leaflets are mildly thickened (?#).
+Significant aortic stenosis is present (not quantified).
+Trace aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+An eccentric, anteriorly directed jet of moderate (2+) mitral regurgitation is seen.
+The tricuspid valve leaflets are mildly thickened.
+There is an anterior space which most likely represents a prominent fat pad.
+IMPRESSION: Severe left ventricular systolic dysfunction with overall EF of 25-30% and wall motion abnormalities as described above.
+Moderate MR, trace TR and AI.
+Aortic stenosis is present.
+However, the severity cannot be reliably estimated given depressed systolic function.
+-CXR ([**2101-1-26**]) - No acute chest pathology; there is no radiographic evidence for pulmonary edema.
+Prominent air-filled mildly dilated loops of small bowel are most consistent with an ileus, although a partial or early small-bowel obstruction cannot be excluded.
+Marked gastric distention.
+There is no free subdiaphragmatic gas.
+Lung volumes are low exaggerating heart size, probably top normal.
+No pneumothorax or pleural effusion.
+Transvenous right atrial and right ventricular pacer defibrillator leads are in standard placements respectively.
+Interval decrease in gastric distention and dilation of small bowel loops.
+There is no definitive evidence of free air.
+There is no evidence of bowel dilatation.
+Brief Hospital Course: 74 year old male with a history of coronary artery disease s/p inferior myocardial infarction, infarct-related cardiomyopathy with LVEF 25-30% and [**Company 1543**] ICD implantation in [**2096**] for primary prevention who presents to the emergency department with non-specific symptoms found to have intermittent monomorphic ventricular tachycardia with appropriate ICD shock.
+# Ventricular tachycardia - After ICD interrogation, it was found that he had many episodes of NSVT, some of which required antitachycardia pacing and eventually shocks.
+This was stopped after less than 24 hours because of nausea and some vomiting which may have been caused by the lidocaine.
+He will be anticoagulated for 3 months after the ablation because of the elevated risk for stroke.
+# Nausea/vomiting - At presentation, he had some mild nausea, some of which was attributed to the lidocaine drip which was started at admission.
+He had projectile bilious vomiting and a KIB showed significant gastric dilation.
+This was presumed to be a post-anesthesia ileus, he had a similar reaction after his AAA repair which required decompression with an NGT.
+An NGT was placed again this admission and his symptoms improved.
+His abdominal exam remained benign with no tenderness to palpation.
+The tube was removed after 48 hours when his KUB showed resolving gastric dilation.
+# CAD - He did not have any complaints of chest pain and his cardiac enzymes were negative.
+# Hyperlipidemia - Continued on home dose of atorvastatin .
+[**Name Initial (NameIs) **]:*30 Tablet Extended Release 24 hr(s)* Refills:*0* 6. quetiapine 25 mg Tablet Sig: One (1) Tablet PO at bedtime as needed for insomnia.
+Ventricular tachycardia status-post ablation procedure .
+Coronary artery disease 2.
+Ischemic cardiomyopathy (EF=25-30%)   Discharge Condition: Mental Status: Clear and coherent.
+You were admitted to the Cardiac Care Unit because you were found to have frequent episodes of ventricular tachycardia (VT) which was causing your ICD to discharge.
+You had a VT ablation and did not have any further episodes of VT afterwards.
+After receiving general anesthesia, you had nausea and projectile vomiting which required placement of a nasogastric tube, which has subsequently been removed.
+Your symptoms improved and the tube was removed prior to discharge.

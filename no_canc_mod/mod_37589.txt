@@ -1,0 +1,40 @@
+Admission Date:  [**2147-4-30**]              Discharge Date:   [**2147-5-9**]  Date of Birth:  [**2096-10-22**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 3151**] Chief Complaint: Hypoxia and Hypotension.
+History of Present Illness: Ms. [**Known lastname **] is a 50 year old female with paraplegia secondary to traumatic injury with recurrent infections, noted by her husband to be lethargic and hypoxic to 70s on RA at home.
+Upon arrival to the MICU, patient denies shortness of breath.
+She denies fevers at home.
+She denies chest pain, nausea, vomiting, diarrhea, headache, neck stiffness or any other complaints.
+She denies bladder pressure, dysuria, or urinary frequency.
+Of note, patient hospitalized [**Date range (1) 104917**] for PNA and was treated with 7 day course of levaquin.
+Review of sytems: (+) Per HPI (-) Denies fever, chills, night sweats, recent weight loss or gain.
+Denies headache, sinus tenderness, rhinorrhea or congestion.
+Denied chest pain or tightness, palpitations.
+Denied nausea, vomiting, diarrhea, constipation or abdominal pain.
+No recent change in bowel or bladder habits.
+Denied arthralgias or myalgias.
+T1-T2 paraplegia following MVC [**1-5**] 2.
+H/o recurrent PNAs 5.
+Hypothyroidism 9.
+Chronic pain 10.
+Chronic gastritis 11.
+H/o obstructive lung disease 12.
+Anemia of chronic disease  Social History: The patient currently lives at home wiht her husband and 2 children, ages 15 and 22.
+Physical Exam: On admission: Vitals: T 100.2, HR 99, BP 135/60, RR 24, 100% on 6LNC General: Alert, oriented, no acute distress HEENT: Sclera anicteric, MMM, oropharynx clear Neck: supple, JVP not elevated, no LAD Lungs: decreased breath sounds at right base, scattered wheezes,  CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops Abdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly Ext: Warm, well perfused, 2+ pulses, + b/l LE edema w/o erythema   Pertinent Results: Labs on admission: [**2147-4-30**] 12:20PM BLOOD WBC-20.3*# RBC-4.19*# Hgb-12.5# Hct-36.5# MCV-87 MCH-29.8 MCHC-34.2 RDW-16.0* Plt Ct-171 [**2147-4-30**] 12:20PM BLOOD Neuts-92* Bands-0 Lymphs-6* Monos-2 Eos-0 Baso-0 Atyps-0 Metas-0 Myelos-0 [**2147-4-30**] 01:45PM BLOOD PT-15.9* PTT-35.1* INR(PT)-1.4* [**2147-4-30**] 01:45PM BLOOD Glucose-105 UreaN-14 Creat-0.4 Na-137 K-4.5 Cl-98 HCO3-31 AnGap-13 [**2147-4-30**] 01:45PM BLOOD CK(CPK)-36 [**2147-4-30**] 01:45PM BLOOD cTropnT-<0.01 [**2147-5-1**] 03:30AM BLOOD Calcium-7.7* Phos-1.9* Mg-1.8 [**2147-4-30**] 12:39PM BLOOD pO2-43* pCO2-53* pH-7.41 calTCO2-35* Base XS-6 [**2147-4-30**] 02:08PM BLOOD Lactate-0.8  Chest x-ray [**2147-4-30**]: Persistent opacity obscuring the right hemidiaphragm, could reflect pleural effusion, consolidation or atelectasis.
+Chest x-ray [**2147-5-1**]: Minimal change in the cardiomegaly, bibasilar opacities, and small right pleural effusion.
+Brief Hospital Course: This is a 50 year old female with paraplegia secondonary to MVA in [**2142**], history of recurrent resistant infections, here with pneumonia and hypotension.
+#  pneumonia/sepsis: patient presented with hypotension and radiographic evidence of bilateral pneumonia.
+She was also worked up for other sources with a negative urinalysis and culture, negative legionella urinary antigen and two sputum cultures which were oral flora only.
+She did come in with a PICC line in place and there was thought this might be a source of infection but blood cultures remained negative and the site was clean.
+She completed a 7 day course of antibiotics for healthcare associated pneumonia.
+She had aggressive chest PT and incentive spirometry use.
+Prior studies have shown anemia of chronic disease.
+#  Delirium: She was very anxious and delirius in the ICU and a psychiatric consult was obtained.
+She likely was delirius from being in the ICU and for polypharmacy and from her illness.
+She complained of significant chronic pain not controlled since [**2147-1-2**].
+Baclofen 10 mg Tablet Sig: One (1) Tablet PO TID (3 times a day) as needed for muscle spasms.
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+Clonazepam 1 mg Tablet Sig: One (1) Tablet PO QHS (once a day (at bedtime)) as needed for anxiety.
+Disp:*30 Tablet(s)* Refills:*0*   Discharge Disposition: Home  Discharge Diagnosis: pneumonia sepsis anxiety anemia of chronic disease chronic pain paraplegia   Discharge Condition: stable with resting oxygen saturation of 93% on RA but ambulatory saturation of 86% on RA and 96% on 2L NC.
+Discharge Instructions: You were admitted with severe pneumonia causing sepsis (or low blood pressure).
+Your stay was complicated by delirium and anxiety and a psychiatric consult helped us care for you.
+This is recommended to help you develop a working medical regimen to help control your pain and also keep you thinking clearly and without side effects.
+You should call your doctor or go to the emergency room if you have fevers over 102, chills, chest pain, trouble breathing, bleeding or any other symptoms which is concerning to you.

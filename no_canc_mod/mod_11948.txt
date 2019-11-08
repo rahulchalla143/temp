@@ -1,0 +1,58 @@
+Admission Date:  [**2167-9-1**]              Discharge Date:   [**2167-9-25**]  Date of Birth:  [**2089-1-26**]             Sex:   F  Service: MEDICINE  Allergies: Penicillins / Celebrex  Attending:[**First Name3 (LF) 348**] Chief Complaint: Altered mental status and ?seizure activity  Major Surgical or Invasive Procedure: Several Intubations PICC placement  History of Present Illness: This is a 78 year old right handed woman with multiple vascular risk factors including adult onset diabetes mellitus, hypertension, coronary artery disease who presents with altered mental status and question of seizure activity with subsequent right sided weakness.
+Eyes were open but she was unresponsive and drooling.
+On arrive in the [**Hospital1 18**] ED, paitent received narcan with some improvement of her mental status; however, eventually was intubated due to persistent somnolence.
+[**First Name8 (NamePattern2) 2270**] [**Last Name (NamePattern1) 39705**] @[**Hospital1 112**] [**Telephone/Fax (1) **]) for abdominal pain and was discharged from ED with prescription of oxycodone.
+Per old notes obtained from [**Hospital1 112**], in [**7-8**], patient had been in MICU at [**Hospital1 112**] for hyperosmolar nonketotic complicated by bilateral watershed anterior and middle infarcts R>L resulting in residual left upper extremity weakness.
+Patient was also noted in [**8-8**] to have bifrontal hypodensities on head CT associated with mental status deterioration.
+Patient was seen again by a neurologist in ED in [**9-8**] when she presented with fever, tachycardia and R face, arm and leg rhythmic twitching.
+Able to follow simple commands, read and write with proximal bilateral arm weakness L>R and limited gait.
+He recommended tapering dilantin at that time as it was unclear whether she ever had seizures and as this would help in improving her mental status.
+He suggested starting atypical anti-psychotics for behavior management.
+HTN 3.
+MRSA colonization 7. h/o C diff colitis 8. h/o abd surgery (detail unknown) 9.
+Spinal stenosis s/p laminectomy 12.
+Ext:No cyanosis/edema Mental Status:Intubated and unresponsive.
+Pertinent Results: [**9-18**] BCx no growth [**9-15**] Cath tip negative [**9-14**] VRE/MRSA screen P [**9-11**] BAL G neg diplococci c/w O/P flora [**9-11**] BCx [**2-5**] +MRSA, URine +E coli ([**Last Name (un) 36**] meropenem) [**9-7**] No VRE, sparse coag pos Staph aureus [**9-1**] UCx neg.
+small R pleural effusion.
+[**9-19**] ECG -Compared to the previous tracing of [**2167-9-17**] no diagnostic interim change.
+Mild symmetric LV hypertrophy(LVEF>55%).
+[**Month/Year (2) **] dilated aortic root.
+No masses or vegetations on AV.
+Mild AVS.
+No mass or vegetation on MV.
+No pericardial effusion.
+[**9-12**] CXR- mild edema [**9-7**] Head CT- no acute events, [**9-7**] CXR- bibasilar atelectasis [**9-3**] Abnl EEG- Sharp waves seen in frontotemporal region bilaterally L>R consistent with cortical irritability.
+Diffuse background slowing c/w mild-mod encephalopathy.
+Head CT- mult b/l subacute/chronic infarcts.
+Brief Hospital Course: 1) Altered Mental Status/[**Name (NI) **] Pt has a history of seizure disorder controlled by Dilantin.
+Pt's altered mental status on admission was likely due to tonic clonic seizure secondary to med noncompliance (confirmed by her husband) as her Dilantin level was subtherapeutic.
+[**9-1**] head CT ruled out acute infarct.
+Repeat head CT on [**9-7**] showed no acute events.
+She was started on IV Dilantin that was subtherapeutic throughout most of her admission, likely secondary to decreased absorption from her other meds and medical problems.
+Dilantin levels eventually became therapeutic and she began po Dilantin [**9-22**].
+She was without signs or symptoms of repeated seizure activity throughout her admission.
+She was near stuporous on admission, likely post-ictal and secondary to sedating medications.
+Her level of consciousness and alertness slowly improved throughout admission and was noted to be worse when her husband was not at the bedside.
+She self-extubated on [**9-1**], and on [**9-3**] was noted to have inspiratory stridor with hypoxemia.
+ENT laryngoscopy showed L sided laryngeal edema likely secondary to trauma.
+She self-extubated again on [**9-8**], and ENT noted subcricoid edema.
+Soon after transfer on [**9-11**], she became stridorous with acute desaturation to 84%, and was re-transferred to the ICU for management with high dose steroids.
+Re-evaluation by ENT revealed minimal edema with erythema.
+She remained without signs or symptoms of respiratory distress until discharge.
+3) MRSA bacteremia/E.
+She was treated with a full course of Meropenem and Vancomycin with repeat post-Abx cultures showing no growth.
+Repeat echo showed no evidence of endocarditis.
+She remained afebrile after starting Abx.
+4) CHF exacerbation- Pt has a known history of diastolic heart failure.
+Upon re-transfer from the ICU on [**9-21**] she was clinically hypovolemic (hypernatremia, increased bicarbonate, and decreased chloride) with decreased urine output, but CXR showed worsened pulmonary edema.
+5) Chronic Abd [**Name (NI) 1622**] Unclear etiology of abdominal pain although hx of surgery may be secondary to adhesions.
+KUB negative for obstruction.
+Abdominal CT with oral contrast negative for colitis.
+Pt was started on thin liquids and purees once taking pos bc of aspiration risk.
+Pt's pain of peripheral neuropathy was treated with Gabapentin and Acetaminophen, and breakthrough pain was treated with Percocet.
+Acute increases in BP were noticed during complaints of pain, and responded well to the administration of pain meds.
+9) [**Name (NI) 3674**] Pts Hct on admission was stable at 26 on day of dishcharge likely a result of chronic anemia of inflammation.
+Albuterol 90 mcg/Actuation Aerosol Sig: One (1) puff Inhalation every six (6) hours as needed for shortness of breath or wheezing.
+Disp:*qs mL* Refills:*0*   Discharge Disposition: Home With Service  Facility: Gentiva  Discharge Diagnosis: Primary: Tonic Clonic Seizure Respiratory Distress CHF Exacerbation MRSA Bacteremia Urinary Tract Infection (E.coli) Hypovolemic Hypernatremia .
+Secondary: Diabetes Mellitus with Peripheral Neuropathy Anemia Hypertension Coronary Artery Disease Stage 2 Sacral Decubitus Ulcer Topical Candidiasis   Discharge Condition: Good  Discharge Instructions: Please take all of your medications as prescribed.
+Please return to the Emergency Department if you have a seizure, if you have problems breathing, or if you have any other serious symptoms.

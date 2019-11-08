@@ -1,0 +1,49 @@
+Admission Date:  [**2101-8-6**]              Discharge Date:   [**2101-8-12**]   Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 443**] Chief Complaint: Transferred from [**Hospital3 628**] for management of tachy-brady syndrome/cardiac pauses.
+Major Surgical or Invasive Procedure: 1)Temporary pacing wire placement 2)Permanent dual pacemakder placement  History of Present Illness: [**Age over 90 **] year old male with a history of DVT/PE on coumadin, intermittent AF, CHF with EF 45% who presents from [**Hospital 620**] Hosp for multiple pauses in the setting of CHF exacerbation.
+The patient initially presented to his PCP in [**Name9 (PRE) **] for a routine visit and was found to be tachycardic with an "abnormal ECG", per patient's niece.
+CXR at the time showed bibasilar consolidations and TTE revealed a slightly depressed EF (45%) and elevated PA pressures.
+He was treated for both CHF and community-acquired pneumonia.
+The patient did well until [**8-2**], when he went for follow-up to the pulmonologist, where he had a CXR revealing pulmonary edema with similar symptoms of shortness of breath and hypoxia and was admitted to [**Hospital3 **] for CHF exacerbation (BNP 6141, Trop 0.055).
+However, on [**8-4**], he was transferred to the ICU for persistent tachycardia to the 110s thought to be AF/flutter.
+On review of symptoms, he admits to DVT/PE, but he denies any prior history of stroke, TIA, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.
+He denies recent fevers, chills or rigors.
+He denies exertional buttock or calf pain.
+Past Medical History: 1)DVT/PE on coumadin-In [**11-5**], the patient had several episodes of shortness of breath in the setting of left leg swelling for 4-6 weeks.
+US showed clot from the left common femoral vein to the left popliteal vein.
+PE CT showed non-oclusive pulmonary emboli bilaterally in the upper lobe arteries.
+On ECHO, there was no evidence for right sided heart strain.
+Mild AS, Trace TR.
+RV enlargement with hypokinesis, mild AS, 1+ MR, 1+TR, PAP of 34mmHg.
+trifascicular block-In 4/89, EKG showed 1st degree AV block and RBBB.
+Family History: There is no family history of premature coronary artery disease or sudden death.
+Sclera anicteric.
+Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.
+II/VI systolic murmur heard loudest at the apex.
+Chest: No chest wall deformities, scoliosis or kyphosis.
+Soft bibasilar crackles improved from yesterday.
+Abd: Soft, non-tender, non-distended, no masses.
+2+ dorsal pedal pulses.
+Skin: Bilateral lower extremity venous stasis changes.
+CXR [**2101-8-6**]:  Calcified pleural plaques consistent with previous asbestos exposure.
+There is blunting of the bilateral costophrenic angels that may be pleural thickening or pleural effusions.
+CXR [**2101-8-9**]:  Confirms placement of a pacemaker with leads in the right atrium and right ventricle.
+RV dilation with depressed RV function.
+Demonstrated no acute intracranial process ushc as mass effect, infarcts, intracranial hemorrhage.
+Video Swallowing Study [**2101-8-11**]-Showed mild dysphagia and aspiration on thin liquids corrected by compensatory maneurves such as chin tuck.
+MICRO: [**2101-8-10**] 6:37 am STOOL CLOSTRIDIUM DIFFICILE TOXIN ASSAY (Final [**2101-8-11**]): FECES POSITIVE FOR C. DIFFICILE TOXIN BY EIA.
+Brief Hospital Course: Mr. [**Name14 (STitle) 57277**] is [**Age over 90 **] year old man with a history of DVT/PE on coumadin, A-Fib/aflutter, CHF with an EF of 45% who presents with a CHF exacerbation and extensive cardiac pauses during sleep.
+Asystolic Pauses/Rhythm-On admission, the patient was found to be in A-fib with episodes of bradycardia and sinus pauses (lasting up to 20-30 seconds.)
+This was thought to  that was thought to be possibly due to tach-brady syndrome and significant conduction system disease.
+Metoprolol was used to control episodes of tachycardia to the 120's.
+CHF:  Pt admitted with dyspnea and likely CHF exacerbation in the setting of a-fib and cardiac asystole.
+However, on this hospitalization, the Left ventricular ejection fraction was found to be 35%, with global left ventricular hypokinesis, left ventricular hypertrophy, and Aortic stenosis.
+This change in cardiac function is believed to be due to cardiomyopathy from abnormal rhythm/prolonged atrial tachycardia.
+And ACE inhibitor was not started for afterload reduction because of the patient's low blood pressures, but can be considered in the future.
+As an outpatient, Mr. [**Known lastname 57278**] should get an ECHO in a month or so to reassess cardiac function.
+DVT/PE/Anticoagulation:  The patient was on home coumadin for treatment of his PE and a-fib.
+Change in mental status-On [**2101-8-9**], the patient became somnolent and PO medications were not administered.
+A head CT was obtained that showed no acute intracranial process.
+The patient was scheduled for a video swallow study that was performed on [**2101-8-11**] and showed mild dysphagia for thin fluids that could be corrected with compensatory maneuvers.
+Discharge Disposition: Extended Care  Facility: [**Location (un) 582**] Of [**Location (un) 620**]  Discharge Diagnosis: asystolic pauses atrial fibrillation congestive heart failure right upper lobe pulmonary nodule C. difficile infection   Discharge Condition: stable   Discharge Instructions: You were admitted for a bad heart rhythm and congestive heart failure.
+You also have C. diff infection for which we are treating you with an antibiotic.
+You were also found to have an incidental pulmonary nodule on a chest x ray.

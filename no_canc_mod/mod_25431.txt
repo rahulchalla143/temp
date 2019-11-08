@@ -1,0 +1,24 @@
+Admission Date:  [**2182-4-29**]              Discharge Date:   [**2182-5-1**]  Date of Birth:  [**2150-5-26**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**Last Name (NamePattern4) 290**] Chief Complaint: vomiting, hyperglycemia  Major Surgical or Invasive Procedure: None.
+History of Present Illness: Mr. [**Known lastname 62065**] is a 31 yo male with type 2 diabetes on metformin who was at the Red Sox game tonight when he started feeling nauseated.
+Patient was diagnosed with type 2 diabetes last [**Month (only) 547**] when he presented to his PCP with polyuria and polydypsia.
+He denies increased thirst and increased urination.
+He reports that he had a few episodes of nausea and vomiting over the past week.
+His CXR was negative for infiltrate.
+He denies abdominal pain, nausea, vomiting, diarrhea or any other complaints.
+He does not feel lightheaded or dehydrated.
+Family History: Family history of type 2 diabetes.
+Physical Exam: Vitals: T: BP:134/72 P:115 R: 20 O2: 99% on RA General: Alert, oriented, no acute distress HEENT: Sclera anicteric, dry mucous membranes, oropharynx clear Neck: supple, JVP not elevated, no LAD Lungs: Clear to auscultation bilaterally, no wheezes, rales, rhonchi CV: tachycardic, normal S1 + S2, no murmurs, rubs, gallops Abdomen:  soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly GU: no foley Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema  Pertinent Results: [**2182-4-29**] 12:03AM BLOOD Glucose-674* UreaN-25* Creat-1.6* Na-135 K-4.7 Cl-92* HCO3-5* AnGap-43* [**2182-4-29**] 03:30AM BLOOD Glucose-348* UreaN-19 Creat-1.3* Na-144 K-4.1 Cl-110* HCO3-8* AnGap-30* [**2182-4-29**] 06:12AM BLOOD Glucose-192* UreaN-16 Creat-1.0 Na-143 K-3.8 Cl-114* HCO3-12* AnGap-21* [**2182-4-29**] 09:59AM BLOOD Glucose-215* UreaN-12 Creat-0.9 Na-139 K-3.3 Cl-110* HCO3-19* AnGap-13 [**2182-4-29**] 07:15PM BLOOD Glucose-171* UreaN-8 Creat-0.8 Na-135 K-3.3 Cl-107 HCO3-22 AnGap-9 [**2182-4-30**] 03:58AM BLOOD Glucose-121* UreaN-5* Creat-0.8 Na-138 K-3.3 Cl-107 HCO3-23 AnGap-11 [**2182-5-1**] 05:05AM BLOOD Glucose-219* UreaN-6 Creat-0.6 Na-140 K-3.4 Cl-101 HCO3-30 AnGap-12 [**2182-4-29**] 12:03AM BLOOD WBC-18.1* RBC-5.84 Hgb-17.3 Hct-54.2* MCV-93 MCH-29.6 MCHC-31.9 RDW-14.3 Plt Ct-232 [**2182-4-29**] 03:30AM BLOOD WBC-17.9* RBC-5.26 Hgb-15.5 Hct-46.3 MCV-88 MCH-29.4 MCHC-33.4 RDW-13.7 Plt Ct-288 [**2182-4-30**] 03:58AM BLOOD WBC-10.0 RBC-4.34* Hgb-12.9* Hct-37.0* MCV-85 MCH-29.6 MCHC-34.7 RDW-13.7 Plt Ct-197 [**2182-5-1**] 05:05AM BLOOD WBC-4.3# RBC-4.33* Hgb-13.0* Hct-37.0* MCV-85 MCH-29.9 MCHC-35.0 RDW-13.6 Plt Ct-175  CXR: Normal chest radiographs.
+Non-specific inferior T wave changes.
+No previous tracing available for comparison.
+Brief Hospital Course: # DKA ??????
+No clear precipitant such as infection, MI; however, he did have an elevated WBC on admission, which may represent a stress response.
+The patient had no significant abdominal pain, nausea, or vomiting following admission and tolerated POs well before discharge.
+The patient was seen by a dietitian and provided nutrition teaching for a diabetic diet.
+Additionally, social work worked with the patient given his uninsured status and difficulty affording medications.
+The patient was provided a two month supply of insulin at time of discharge, as well as teaching regarding insulin administration and glucose monitoring.
+# ARF ??????
+Mildly elevated creatinine on admission, likely secondary to hypovolemia in the setting of DKA.
+Disp:*QS for 1 month * Refills:*0*   Discharge Disposition: Home  Discharge Diagnosis: Primary Diagnosis: 1. diabetic ketoacidosis   Discharge Condition: Mental Status: Clear and coherent.
+Discharge Instructions: You were seen at [**Hospital1 18**] for diabetic ketoacidosis (DKA).
+You will need to follow up with your primary care doctor frequently and may need to come under the care of a diabetes specialist.
+short-acting insulin) 4 times a day, the number of units to be determined by a sliding scale  Followup Instructions: Please follow up with your primary care physician [**Name Initial (PRE) 176**] [**2-27**] weeks of discharge.

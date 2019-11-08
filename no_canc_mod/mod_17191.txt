@@ -1,0 +1,62 @@
+Admission Date:  [**2124-10-20**]              Discharge Date:   [**2124-10-23**]  Date of Birth:  [**2041-8-13**]             Sex:   F  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 1145**] Chief Complaint: SOB  Major Surgical or Invasive Procedure: none  History of Present Illness: Ms [**Known lastname 74813**] is an 83yoF Russian speaking, with h/o CAD s/p MI with CABG in [**2110**] (in [**State **]) with [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] 2 in OM/Cx placed in [**2118**].
+Patient's daughter states that pt awoke this morning with severe shortness of breath.
+She reports one episode of chest pressure in the last 24 hours, which came on at rest and resolved within seconds.
+She was initially given SL Nitro and SBPs dropped from 150s to 50s, which then came up to low 100s with 250 cc bolus after 2 minutes.
+CXR was consistent with volume overload, with a possible increased opacity in the RLL.
+Her daughter also notes that she has had [**2-3**] episodes of chest pressure over the last several weeks, relieved with nitroglycerin.
+CARDIAC HISTORY: # CAD s/p MI with CABG in [**2110**] (in [**Location (un) 74814**], [**State **]) # PERCUTANEOUS CORONARY INTERVENTIONS: DES X2 in OM/Cx placed in [**2118**].
+([**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 54752**] Hospital in [**Location (un) 6482**]) # PACING/ICD: placement of PPM/ICD in [**2116**] (Guidant ICD placed on [**7-2**]) # Ischemic CMP: -- TTE: [**2124-5-17**] EF: 20-25%; Severe regional left ventricular dysfunction with an  aneurysm of the anterior/anteroapical wall.
+Mild to moderate mitral regurgitation # Atrial Fibrillation per OSH records .
+Multifactorial origin thought to be secondary to atrophic right kidney, longstanding hypertension, and prior cardiac events.
+# Solitary Kidney (due to nephrolithiasis/pyelonephritis) # Pituitary Adenoma # Thyroid Nodule # Chronic Pain # Right Sided Bell's Palsy  Social History: From [**Country 9362**], has been in the United States for 13 years.
+Physical Exam: Admission Physical Exam: VS: T=98.2 BP=126/78 HR= 86 RR=24 O2 sat= 99% 3L nc  Weight: 61.24 kgs GENERAL: Elderly russian speaking female, mildly SOB but no acute distress, on nasal cannula.
+Sclera anicteric.
+Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.
+No xanthalesma.
+[**2-6**] holosystolic murmur at LSB.
+No thrills, lifts.
+No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+GENERAL: Elderly russian speaking female, no acute distress, on nasal cannula.
+Sclera anicteric.
+Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.
+No xanthalesma.
+NECK: Supple with no JVD appreciated.
+[**2-6**] holosystolic murmur at LSB.
+No thrills, lifts.
+nild bibasilar rales, R>L, No wheezes.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+Overall there is apparent heart failure with bilateral pleural effusions.
+Slightly more confluent opacity at the right lung base may be secondary to focal edema versus a concurrent infectious infiltrate or aspiration.
+Recommend repeat radiography after appropriate diuresis to assess for underlying infection.
+Renal U/S [**2124-10-20**]: The right kidney is atrophic, measuring 8.7 cm, with an echogenic cortex and mild hydronephrosis.
+There is a 1.2 cm calculus within the right renal pelvis, similar to that seen on the prior CT examination.
+There is a 1 cm exophytic simple cyst arising off the upper pole of the right kidney.
+No stones or hydronephrosis is noted within the left kidney.
+Within the upper pole is an anechoic 1.9 x 2 x 1.7 cm cyst without internal vascularity compatible with a simple cyst.
+An 8 mm simple cyst within the mid pole appears similar to the prior CT examination.
+Previously noted hyperdense lesions on the prior CT within the left kidney are not clearly noted on the current ultrasound.
+No ureteral jets were visualized during the examination.
+Brief Hospital Course: Ms [**Known lastname 74813**] is an 83 year-old female with a history of CAD s/p multiple PCI, multiple MI's, ischemic cardiomyopathy with EF of 15-20% and PPM/ICD in [**2116**], paroxysmal atrial fibrillation on coumadin, presenting with worsening shortness of breath secondary to an acute systolic CHF exacerbation .
+ACTIVE DIAGNOSES: .
+# ACUTE ON CHRONIC SYSTOLIC CHF EXACERBATION: TTE in [**4-/2124**] showed EF 15-20%.
+There is substantial evidence to support pulmonary edema secondary to CHF exacerbation, including history of drinking more fluid recently, bilateral rales on exam, and chest x-ray findings.
+She was ruled for for MI as an underlying cause.
+Her digoxin was held at the time of discharge given her impaired renal function.
+She was provided with teaching about how to manage her CHF at home including fluid restriction and low sodium diet.
+# ACUTE ON CHRONIC KIDNEY INJURY: Her baseline creatinine is 1.5 as of [**4-/2124**], was 2.3 in [**7-/2124**], 2.5 on admission.
+FEurea 47%, indicative of an intrinsic renal process.
+CHRONIC DIAGNOSES: .
+# CAD: MI with CABG in [**2110**] with [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] 2 in OM/Cx placed in [**2118**].
+Has ruled out for MI during this admission with negative EKG's and CE's x 3.
+Her [**Last Name (un) **] was held due to acute kidney injury but was re-started at the time of discharge and she was started on spironolactone.
+# HTN: Her home [**Last Name (un) **] was held while in-house due to acute kidney injury, but her beta blocker was continued.
+TRANSITIONAL ISSUES: 1) Digoxin: Her digoxin was held during this admission and at discharge given her impaired renal function.
+This could be re-started as an outpatient for symptomatic management CHF but levels should be monitored periodically.
+2) [**Hospital1 **]-Ventricular Pacing: She has a mildly widened QRS of 170ms and lowish EF of 15-20% and may benefit from biventricular pacing.
+Discharge Disposition: Home With Service  Facility: [**Hospital 74817**] homecare Inc  Discharge Diagnosis: Primary: Acute on chronic systolic congestive heart failure excacerbation Acute kidney injury .
+Secondary: Coronary artery disease Paroxysmal atrial fibrillation Hyperlipidemia Hypertension  Discharge Condition: Mental Status: Clear and coherent.
+You were admitted to the hospital because you were complaining of shortness of breath.
+We think that your shortness of breath may have been due to having too much fluid in your body.
+We gave you some medications to help remove some of this excess fluid and your breathing improved.
+When you initially came to the hospital, your kidney function was also not doing so well, but it improved as we took off all that excess fluid off.

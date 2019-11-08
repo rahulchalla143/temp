@@ -1,0 +1,26 @@
+Admission Date:  [**2201-5-29**]              Discharge Date:   [**2201-6-2**]  Date of Birth:  [**2122-2-12**]             Sex:   F  Service: CARDIOTHORACIC  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 1505**] Chief Complaint: Chest Pain  Major Surgical or Invasive Procedure: [**2201-5-29**] Coronary Artery Bypass Graft x 4 (LIMA to LAD, SVG to Diag, SVG to OM, SVG to PDA)  History of Present Illness: 79 y/o female who presented to OSH c/o chest pain.
+She ruled out for a myocardial infarction but had a positive stress test.
+Transferred to [**Hospital1 18**] for cardiac cath which revealed severe three vessel disease.
+Now presents for same day admit for coronary artery bypass surgery.
+Past Medical History: Hypertension, Hyperlipidemia, Gastroesophageal Reflux disease  Social History: Quit smoking 15 yrs ago.
+FINDINGS:  The small bilateral effusions remain stable.
+The lungs are low in volume but clear.
+The heart size is mildly enlarged with multiple sternotomy wires none of which are broken.
+Stable small bilateral pleural effusion with adjacent right lower lobe atelectasis.
+DR. [**First Name (STitle) 11004**] [**Name (STitle) 11005**] DR. [**First Name4 (NamePattern1) 2618**] [**Last Name (NamePattern1) 2619**] Approved: MON [**2201-6-1**] 11:09 PM  [**Hospital1 18**] ECHOCARDIOGRAPHY REPORT  [**Known lastname **], [**Known firstname 78455**]       [**Hospital1 18**] [**Numeric Identifier 78458**] (Complete) Done [**2201-5-29**] at 9:52:53 AM      FINAL Referring Physician     [**Name9 (PRE) **] Information [**Name9 (PRE) **], [**First Name3 (LF) **] R. Division of Cardiothoracic [**Doctor First Name **] [**Hospital Unit Name 4081**] [**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2122-2-12**] Age (years): 79 F  Hgt (in): BP (mm Hg): /  Wgt (lb): HR (bpm):  BSA (m2): Indication: CABG ICD-9 Codes: 786.05, 786.51, 799.02, 440.0, 424.1, 424.0 Test Information Date/Time: [**2201-5-29**] at 09:52    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 3318**], MD  Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3318**], MD Doppler: Full Doppler and color Doppler Test Location: Anesthesia West OR cardiac Contrast: None Tech Quality: Adequate Tape #: 2008AW1-: Machine: aw1 Echocardiographic Measurements Results  Measurements  Normal Range Left Ventricle - Septal Wall Thickness:  0.9 cm  0.6 - 1.1 cm Left Ventricle - Inferolateral Thickness:  0.9 cm  0.6 - 1.1 cm  Left Ventricle - Diastolic Dimension:  4.5 cm  <= 5.6 cm Left Ventricle - Ejection Fraction:  50% to 55%  >= 55% Aorta - Ascending:  3.1 cm  <= 3.4 cm Aorta - Descending Thoracic:  2.3 cm  <= 2.5 cm  Findings LEFT ATRIUM: No spontaneous echo contrast is seen in the LAA.
+Simple atheroma in descending aorta.
+AORTIC VALVE: Mildly thickened aortic valve leaflets.
+MITRAL VALVE: Mildly thickened mitral valve leaflets.
+Conclusions Pre-CPB: No spontaneous echo contrast is seen in the left atrial appendage.
+There are simple atheroma in the descending thoracic aorta.
+The aortic valve leaflets are mildly thickened.
+Mild to moderate ([**12-17**]+) aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Mild (1+) mitral regurgitation is seen.
+There is no pericardial effusion.
+Non-specific ST-T wave abnormalities.
+No diagnostic change compared to the previous tracing of [**2201-5-13**].
+She had short burst on atrial fibrillation that was controlled with beta blockers.
+Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*0*   Discharge Disposition: Home With Service  Facility: [**Hospital1 1474**] VNA  Discharge Diagnosis: Coronary Artery Disease s/p Coronary Artery Bypass Graft x 4 Post operative atrial fibrillation PMH: Hypertension.
+Hyperlipidemia, Gastroesophageal Reflux Disease   Discharge Condition: Good  Discharge Instructions: Call with fever, redness or drainage from incision or weight gain more than 2 pounds in one day or five in one week.
+Shower, no baths, no lotions, creams or powders to incisions.

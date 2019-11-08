@@ -1,0 +1,46 @@
+Admission Date:  [**2197-11-9**]              Discharge Date:   [**2197-11-26**]   Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 2485**] Chief Complaint: Altered mental status, hypoxia  Major Surgical or Invasive Procedure: Intubation x 2, central line insertion, tracheostomy [**11-23**], PEG placement [**11-23**]  History of Present Illness: Ms. [**Known lastname **] is an 89 yo female with PMH of Alzheimer's disease, depression, hypernatremia, paroxysmal afib who presents from her NH.
+In the ED, she was noted to have altered mental status.
+Subsequent ABG showed worsening hypercarbia at 66, so she was intubated.
+She was noted to have pyuria and was givne vanc and zosyn.
+Past Medical History: Alzheimer's Depression Hypernatremia Paroxymal Afib h/o Urinary tract infections Cholelithiasis h/o Influenza A/b   Social History: Permanent resident of [**Hospital3 **] Manor.
+Radiographic studies: .
+CXR [**11-12**]: Interstitial edema increased.
+Left retrocardiac atelectasis also worsened.
+Small bilateral pleural effusions, more marked on the left are unchanged.
+Calcifications of the aortic arch and old right rib fractures are stable.
+There has been an interval worsening of the bilateral perihilar opacities and probable slight increase in the layering bilateral large pleural effusions.
+This could reflect developing pulmonary edema although multifocal infection cannot be entirely excluded.
+Tissue Doppler imaging suggests an increased left ventricular filling pressure (PCWP>18mmHg).
+The right ventricular cavity is mildly dilated with normal free wall contractility.
+The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present.
+Trace aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Mild (1+) mitral regurgitation is seen.
+There is mild pulmonary artery systolic hypertension.
+There is a trivial/physiologic pericardial effusion.
+Pulmonary artery systolic hypertension.
+Mild mitral regurgitation.
+Micro Data: [**11-9**]: UCx w/proteus, sputum w/MRSA [**11-18**]: sputum w/stenotrophomonas BCx [**11-12**] negative BCx [**11-18**], [**11-19**], [**11-20**], [**11-21**] pending R IJ tip [**11-22**] culture negative UCx x2 [**11-19**] negative 3x CDiff negative ([**11-12**], [**11-13**], [**11-14**])   Brief Hospital Course: A/P: 89 yo with PMH of Alzheimer's dementia, hypernatremia, UTI presents with AMS, sepsis physiology, UTI, and impressive hypernatremia .
+Source was likely urine given pyuria, though may have pneumonia as well given MRSA in sputum.
+UCx grew out pan sensitive proteus mirabilis, initial sputum grew MRSA.
+Patient had short additional time in MICU when required pressors for approx 48 hours.
+UCx during this time were negative and sputum grew out Stenotrophomonas sensitive to Bactrim.
+- completed 15d of vanco, was treated for 14d total for UTI starting w/cipro/unasyn and switching to gent/zosyn (to double cover for VAP) - IV Bactrim 250mg Q8h for 14 days, starting [**11-24**] and finishing on [**12-8**].
+#2 Respiratory failure: Hypoxia and hypercarbia with spontaneous breathing trials.
+[**Month (only) 116**] now be volume overloaded due to fluid resuscitation.
+Patient failed SBTs due to RSBIs >130 and increasing acidosis.
+Patient with slightly hyperinflated [**Known lastname **]s and CO2 retention without acidosis on admission.
+No Hx of COPD given but may be undiagnosed thus far.
+NIF poor at 16 with large amount of dead space ventilation (70% on PSV).
+Difficulty of weaning from the vent likely a mix of decreased respiratory muscle strength combined with underlying intrinsic [**Known lastname **] disease.
+?s age and does not explain hypotension or bradycardia.
+Pulmonary artery systolic hypertension.
+Mild mitral regurgitation.
+Adrenal insufficiency also a possibility but AM cortisol was normal.
+She has been both very hypervolemic and exterienced flash pulmonary edema during her stay, and fluid balance has been difficult.
+Initially EP commented that her rhythm could be a variation of normal or tied to her underlying illness and recommended treating her sepsis and re-evaluating once she has recovered or becomes unstable.
+Ipratropium Bromide 17 mcg/Actuation Aerosol Sig: One (1) Puff Inhalation PRN (as needed) as needed for shortness of breath or wheezing.
+Discharge Disposition: Extended Care  Facility: [**Hospital1 **] [**Location (un) 86**]  Discharge Diagnosis: Primary: proteus mirabilis urosepsis bradycardia stenotrophomonas pneumonia .
+Secondary: Alzheimer's Depression Hypernatremia Paroxymal Afib h/o Urinary tract infections Cholelithiasis h/o Influenza A/b   Discharge Condition: good, afebrile   Discharge Instructions: Ms. [**Known lastname **] was seen at [**Hospital1 18**] for urosepsis for which she finished a course of vanc, gent, zosyn.
+She has been both very hypervolemic and exterienced flash pulmonary edema during her stay, and fluid balance has been difficult.
+She has not been anticoagulated for her PAF in the past.

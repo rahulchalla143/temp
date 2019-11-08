@@ -1,0 +1,110 @@
+Admission Date:  [**2137-12-9**]              Discharge Date:   [**2137-12-20**]  Date of Birth:  [**2056-1-24**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 2387**] Chief Complaint: Respiratory failure, transfer from OSH  Major Surgical or Invasive Procedure: Intubation prior to arrival, extubation Central venous line Cardiac Catheterization  History of Present Illness: Mr. [**Name14 (STitle) 82019**] is a 75 year-old man with a history of CAD s/p CAGB in [**2121**] and PCI in [**2136**] with an EF of 25% who is being transferred after being admitted to an OSH with CHF.
+Per OSH records, patient presented on [**12-6**], via EMS, to the OSH with shortness of breath.
+Diuresis was continued though limited by an elevated creatinine and an EF of 10%.
+CARDIAC RISK FACTORS: (+) Diabetes (?)
+Dyslipidemia (?)
+Hypertension .
+Sclera anicteric.
+Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.
+No xanthalesma.
+Holosystolic murmur at apex.
+LUNGS:  Vented with unlabored respirations.
+Anteriorly sounds clear with no crackles, wheezes or rhonchi.
+No HSM or tenderness.
+No abdominial bruits.
+No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+NO MICROORGANISMS SEEN.
+RESPIRATORY CULTURE (Final [**2137-12-13**]):    NO GROWTH.
+RESPIRATORY CULTURE (Final [**2137-12-15**]):    NO GROWTH.
+[**2137-12-9**] ECG: [**Month/Day/Year **] fibrillation with premature beats, probably ventricular, after which on one occasion there is a ventricular paced beat.
+Intraventricular conduction delay of right bundle-branch block type.
+ST-T wave abnormalities.
+No previous tracing available for comparison.
+Mild pulmonary vascular congestion is present.
+Opacification in the left lower lobe could be atelectasis or pneumonia, with similar abnormalities though less severe on the right lower lung.
+No pneumothorax.
+[**2137-12-10**] Echocardiogram: The left atrium is mildly dilated.
+The right atrium is markedly dilated.
+There is moderate regional left ventricular systolic dysfunction with focal akinesis of the inferior and inferolateral walls, and hypokinesis of the mid to distal anterior wall and apex.
+The right ventricular cavity is mildly dilated with mild global free wall hypokinesis.
+The ascending aorta is mildly dilated.
+The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present.
+No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+There is no mitral valve prolapse.
+Moderate to severe (3+) mitral regurgitation is seen.
+Moderate to severe [3+] tricuspid regurgitation is seen.
+There is moderate pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+Severely dilated left ventricle with regional dysfunction consistent with multivessel coronary disease.
+Mild right ventricular dilation and dysfunction.
+Moderate to severe mitral regurgitation.
+Moderate tricuspid regurgitation.
+Moderate to severe pulmonary hypertension.
+[**2137-12-10**] CXR: FINDINGS: In comparison with study earlier in this date, there is continued enlargement of the cardiac silhouette.
+The degree of pulmonary vascular congestion appears to have increased.
+Atelectatic changes are seen at the bases, though supervening pneumonia cannot be excluded.
+Mild to moderate left ventricular diastolic dysfunction.
+Moderate pulmonary arterial hypertension .
+Bibasilar alveolar opacity persists but decreased.
+Interstitial edema improved.
+There is no other change.
+[**2137-12-14**] CXR: Compared to the prior study, there is no significant change in the ET tube, NG tube, pacemaker, and retrocardiac opacity.
+There is no new infiltrate.
+[**2137-12-16**] Transesophageal Echo: The left atrium is moderately dilated.
+The left ventricular cavity is severely dilated with severe hypo/akinesis of the inferior and inferolateral walls and mild-moderate hypokinesis of the remaining segments (LVEF = 25-30 %).
+[Intrinsic left ventricular systolic function is likely more depressed given the severity of valvular regurgitation.]
+The right ventricular cavity is mildly dilated with moderate global free wall hypokinesis.
+The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present.
+No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Moderate to severe (3+) mitral regurgitation is seen.
+There is at least mild pulmonary artery systolic hypertension.
+There is a trivial/physiologic pericardial effusion.
+Compared with the prior study (images reviewed) of [**2137-12-10**], the distal anterior function is improved and the severity of tricuspid regurgitation and pulmonary artery systolic hypertension are lower.
+Bilateral infrahilar and left lower lobe consolidations remain stable since yesterday's study.
+Small bilateral pleural effusions remain unchanged.
+Extensive areas of patchy opacities are again noted, but there is overall decrease in degree of pulmonary edema.
+Thus, the current abnormalities most likely represent multifocal pneumonia and unlikely to represent just residual of pulmonary edema.
+No appreciable pleural effusion is demonstrated.
+No pneumothorax is seen.
+Brief Hospital Course: Mr. [**Known lastname 82020**] was transferred to the CCU from an OSH for respiratory failure in the setting of coronary artery disease and an echo which showed a depressed EF of 10% and 3+ MR. .
+RESPIRATORY FAILURE This patient's respiratory failure was due to a combination of pulmonary edema from heart failure as well as a pneumonia.
+His chest x-ray did not show significant congestion upon admission and there was no clear focal consolidation indicating pneumonia.
+He extubated on [**2137-12-11**] but later that day had worsening respiratory status with copious secretions.
+He was given Carvedilol and Lasix but was reintubated later that day for worsening respiratory failure.
+The Digoxin was dose at 0.125mg/day due to renal dysfunction.
+He was febrile on and off during his treatment for presumed pneumonia based on chest x-ray.
+FEVER AND LEUKOCYTOSIS This was believed to be due to his pneumonia.
+He had no other sputum cultures that were positive.
+He has a persistent leukocytosis with WBCs of 16 on [**2137-12-17**].
+He had been afebrile for days.
+ALTERED MENTAL STATUS Mr. [**Known lastname 82020**] experienced severe delirium during this hospitalization.
+His delirium was managed with Haldol and Seroquel PRN.
+CORONARY ARTERY DISEASE Mr. [**Known lastname 82020**] had known coronary artery disease involving 3 vessels.
+An ACE inhibitor was not given due to his poor renal function.
+He experienced no chest pain or anginal symptoms during this hospitalization.
+ACUTE ON CHRONIC SYSTOLIC HEART FAILURE Mr. [**Known lastname 82020**] experienced severe heart failure during this admission which was complicated by his 3+ MR [**First Name (Titles) **] [**Last Name (Titles) **] fibrillation with lack of [**Last Name (Titles) **] kick.
+He initially required Levophed on arrival due to hypotension but this was quickly weaned off on the day of transfer.
+His heart failure was managed with diuretics and carvedilol.
+An ace inhibitor was not given initially due to poor renal function but was resumed on discharge.
+He had an echo which showed an LV thrombus and was also in [**Known lastname **] fibrillation which were reasons for his anticoagulation.
+ANEMIA Mr. [**Known lastname 82020**] was anemic with a hematocrit of 26.5 on admission.
+There was no clear source of his anemia.
+Iron studies were checked and showed a low iron of 19 with a low TIBC and low transferritin but normal ferritin.
+He had no guaiac positive stool during this admission.
+RENAL FAILURE Mr. [**Known lastname 82020**] had a creatinine of 2.3 on admission which rose as high as 2.5 on [**2137-12-16**] and was 2.1 on discharge.
+He seemed to have baseline chronic kidney disease based on old laboratory data.
+DIABETES MELLITUS Mr. [**Known lastname 82020**] was placed on an insulin sliding scale on admission.
+Systolic Congestive Heart Failure 2.
+Mitral Regurgitation 3.
+Coronary Artery Disease 4.
+Ventilator-Associated Pneumonia 5.
+Anemia 8.
+Chronic Kidney Disease 9.
+Left Ventricular Thrombus  Secondary Diagnoses: 10.
+Gout   Discharge Condition: afebrile, hemodynamically stable   Discharge Instructions: You were admitted to the hospital with shortness of breath and were found to be in congestive heart failure.
+You should return to the hospital or call your primary care doctor if you experience any fevers > 100.4, chills, night sweats, chest pain, shortness of breath, swelling the legs, blood in your bowel movements, or vomiting blood.
+You should see your doctor if you experience any episodes of bleeding including nose bleeds.
+If you are still experiencing hearing loss or are having worsening of your hearing, please contact your primary care doctor.

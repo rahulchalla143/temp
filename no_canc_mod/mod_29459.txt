@@ -1,0 +1,30 @@
+Admission Date:  [**2157-9-2**]              Discharge Date:   [**2157-9-16**]  Date of Birth:  [**2085-7-14**]             Sex:   M  Service: CARDIOTHORACIC  Allergies: Pravachol / Questran / Beta-Adrenergic Blocking Agents  Attending:[**First Name3 (LF) 1283**] Chief Complaint: Chest pain  Major Surgical or Invasive Procedure: [**2157-9-6**] - MVR(31mm Mosaic porcine)/CABGx4(LIMA->LAD, SVG->Diag, OM, RCA)  History of Present Illness: The patient is a 72 year old male who was transferred from [**Hospital6 1109**] following admission for chest pain while playing golf and had non specific ST changes (troponin 111, CK 2502 peaks), ruled in for non ST elevation myocardial infarction.
+Went for cardiac catherization at [**Hospital1 **] which showed three vessel coronary artery disease (100% diagonal 80% left anterior descending, and 100% right coronary artery).
+Past Medical History: CAD Obesity Hypercholesterolemia MR [**First Name (Titles) 21463**] [**Last Name (Titles) **] s/p PTCA s/p Ventrial hernia repair Polymyalgia rheumatica   Social History: Lives with wife [**Name (NI) 1139**]: 15 pack year history - quit 5 years ago Alcohol: 2-3 beers per week  Family History: Unknown  Physical Exam: Admission: Vitals: Blood pressure 134/65, Heart Rate 108, Respiratory Rate 20, Oxygen Saturation 100% on room air, Temperature 96.8  Weight 92.6 kilograms General: well developed male in no acute distress HEENT: oropharynx benign, Neck: supple, no JVD, Heart: regular rate, normal s1s2, no murmur or rub Lungs: clear bilaterally Abdomen: soft, nontender, normoactive bowel sounds, old incision healed Ext: [**1-10**]+ edema, groin site clean dry and intact no varicosities  Pulses: 2+ distally Neuro: nonfocal    Pertinent Results: [**2157-9-2**] 08:33PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-1000 KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 LEUK-NEG [**2157-9-2**] 08:33PM URINE  COLOR-Straw APPEAR-Clear SP [**Last Name (un) 155**]-1.014 [**2157-9-2**] 08:58PM   PT-12.1 PTT-23.5 INR(PT)-1.0 [**2157-9-2**] 08:58PM   WBC-8.3 RBC-5.13 HGB-13.5* HCT-40.6 MCV-79* MCH-26.4* MCHC-33.3 RDW-17.0* [**2157-9-2**] 08:58PM   GLUCOSE-337* UREA N-22* CREAT-1.0 SODIUM-136 POTASSIUM-4.8 CHLORIDE-99 TOTAL CO2-28 ANION GAP-14  [**2157-9-16**] 06:50AM BLOOD WBC-8.1 RBC-4.96 Hgb-12.8* Hct-39.3* MCV-79* MCH-25.9* MCHC-32.6 RDW-16.7* Plt Ct-294 [**2157-9-16**] 06:50AM BLOOD Plt Ct-294 [**2157-9-16**] 06:50AM BLOOD Glucose-152* UreaN-25* Creat-1.1 Na-138 K-4.3 Cl-97 HCO3-30 AnGap-15  [**2157-9-5**] Carotid Duplex U/S Mild atherosclerotic changes bilaterally with less than 40% stenosis of the internal carotid arteries on both sides.
+There is mild symmetric left ventricular hypertrophy.
+There is severe regional left ventricular systolic dysfunction.
+Tissue velocity imaging E/e' is elevated (>15) suggesting increased left ventricular filling pressure (PCWP>18mmHg).
+Resting regional wall motion abnormalities include thinned and aneurysmal basal inferior/inferolateral wall, mid inferior hypokinesis/akinesis, akinetic mid to distal septum, and apical  akinesis/hypokinesis.
+The aortic root is mildly dilated.
+The ascending aorta is mildly dilated.
+The aortic arch is mildly dilated.
+The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic regurgitation.
+The mitral valve leaflets are mildly thickened.
+No mitral regurgitation is seen.
+The left ventricular inflow pattern suggests impaired relaxation.
+There is an anterior space which most likely represents a fat pad, though a loculated anterior pericardial effusion cannot be excluded.
+The left atrium is mildly dilated.
+There is mild symmetric left ventricular hypertrophy with normal cavity size.
+There is severe global left ventricular hypokinesis.
+The ascending aorta is mildly dilated.
+The aortic valve leaflets (3) are mildly thickened.
+Brief Hospital Course: Mr. [**Known lastname **] was admitted to the [**Hospital1 18**] on [**2157-9-2**] for further management of his coronary artery disease.
+A carotid duplex ultrasound was performed which showed mild atherosclerotic changes bilaterally with less than 40% stenosis of the internal carotid arteries bilaterally.
+An echocardiogram was performed which showed his ejection fraction to be 25%, no mitral valve regurgitation and an inferior basal aneurysm.
+As Mr. [**Known lastname 16643**] hematocrit fell, a cause of his anemia was explored.
+A colonoscopy was notable for only diverticula and hemorrhoids.
+An esophageal duodenoscopy was notable for angioectasia which was cauterized and gastritis.
+An intra-aortic balloon pump was placed for poor hemodynamics.
+He required multiple pressors and blood products for postoperative bleeding.
+He developed atrial fibrillation which was treated with amiodarone and beta blockade.
+Call for any fever, redness or drainage from wounds.

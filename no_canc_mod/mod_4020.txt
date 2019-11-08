@@ -1,0 +1,49 @@
+Admission Date:  [**2129-10-21**]              Discharge Date:   [**2129-10-28**]  Date of Birth:  [**2087-11-5**]             Sex:   F  Service: MEDICINE  Allergies: Amoxicillin / Bactrim DS  Attending:[**First Name3 (LF) 3256**] Chief Complaint: fever, cough, SOB  Major Surgical or Invasive Procedure: Thoracentesis   History of Present Illness: Ms. [**Known lastname 11455**] is a previously healthy 41yo female who presents now with a 5-day history of fevers to as high as 103, intermittent N/V/D, and a 2-day history of progressively worsening shortness of breath and cough.
+Patient was in her usual state of health until 5 days PTA, when she developed fever with chills/diaphoresis.
+The following day developed nausea and had two episodes of vomiting.
+Two days PTA, developed mild non-productive cough, and continued to have fevers to as high as 103.
+However, she continued to have progressive dyspnea and worsening cough, and went back to [**Hospital 6435**] clinic earlier this morning.
+Given concern for patient's declining respiratory status, she was sent to [**Hospital1 **] [**Location (un) 620**] ED for further evaluation.
+Labs were notable for leukopenia (WBC 2.9) with neutrophil predominance, hyponatremia (Na 120), and hypokalemia (K 2.7), and lactate of 3.8.
+Repeat CXR showed a right basilar consolidation with ill-defined patchy opacities in the left lung base concerning for multifocal pneumonia, as well as a moderate-to-large right pleural effusion.
+On arrival to the MICU, patient still short of breath, but overall reports improvement in symptoms.
+States she has some occasional chest discomfort secondary to coughing, but is otherwise chest pain free.
+Of note, her children, ages 2 and 5 months, have both had cold symptoms including fever, which started a few days before the patient's symptoms began.
+Some loose stools, but patient denies any bloody or dark tarry stools.
+- Tobacco:  None - Alcohol:  Social - Illicits:  None   Family History: Family History:  Father - MI at age 58.
+Physical Exam: ADMISSION EXAM: Vitals: T: 98.6 BP: 117/59 P: 117 R: 25 O2: 95% NRB General: awake, alert, oriented, labored breathing but able to speak in sentences, no significant accessory muscle use HEENT: PERRL, sclera anicteric, slightly dry MM, oropharynx clear Neck: supple, JVP not elevated CV: tachycardic but regular, normal S1 + S2, no murmurs, rubs, gallops Lungs: decreased breath sounds on right to mid-lung fields with dullness to percussion and egophany, no wheezing or rhonchi, scattered crackles left base Abdomen: bowel sounds present, soft, NT, ND, no organomegaly, no guarding or rebound tenderness GU: foley in place draining clear yellow urine Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema  Pertinent Results: ADMISSION LABS:  [**2129-10-21**] 05:14PM BLOOD WBC-3.0*# RBC-3.93* Hgb-11.5* Hct-32.0* MCV-82# MCH-29.3 MCHC-35.9* RDW-13.1 Plt Ct-362 [**2129-10-21**] 05:14PM BLOOD Neuts-78* Bands-17* Lymphs-3* Monos-2 Eos-0 Baso-0 Atyps-0 Metas-0 Myelos-0 [**2129-10-21**] 05:14PM BLOOD PT-14.8* PTT-29.2 INR(PT)-1.3* [**2129-10-21**] 05:14PM BLOOD Glucose-84 UreaN-7 Creat-0.6 Na-135 K-3.7 Cl-95* HCO3-28 AnGap-16 [**2129-10-21**] 05:14PM BLOOD ALT-91* AST-82* AlkPhos-105 TotBili-0.5 [**2129-10-21**] 05:14PM BLOOD Calcium-8.3* Phos-1.7* Mg-2.0 [**2129-10-21**] 09:22PM BLOOD Type-ART pO2-51* pCO2-38 pH-7.47* calTCO2-28 Base XS-3 [**2129-10-21**] 09:22PM BLOOD Lactate-2.5*  MICROBIOLOGY: [**10-21**] Blood cultures: pending [**10-21**] Influenza A/B by DFA (Nasopharyngeal swab): negative [**10-21**] Urine legionella antigen: negative [**10-22**] Sputum culture:    GRAM STAIN (Final [**2129-10-22**]):       >25 PMNs and <10 epithelial cells/100X field.
+LEGIONELLA CULTURE (Preliminary):    NO LEGIONELLA ISOLATED.
+[**10-24**] Blood culture: pending [**10-25**] Blood culture: pending  CXR [**10-21**]: Right basilar consolidation with ill-defined patchy opacities in the left lung base concerning for multifocal pneumonia.
+Multifocal pneumonia including right middle and lower lobar consolidation.
+Small nonhemorrhagic right pleural effusion.
+CXR [**10-22**]: Large right lower lobe consolidation associated with small amount of pleural effusion and multifocal opacities including both the entire right lower lobe, right middle lobe, and multiple foci in the left lower lobe appear grossly unchanged with potential interval worsening of the right mid lung consolidation.
+There is no pneumothorax.
+There is, on the other hand, worsening of the left lower lobe consolidation with obscuration of the diaphragm that might be consistent with atelectasis, although rapid progression of infection would be another possibility.
+Bilateral consolidations in particular involving lower lobes are unchanged associated with pleural effusion overall progressing since [**2129-10-21**] and consistent with progression of multifocal infection.
+No pneumothorax is seen.
+Brief Hospital Course: 41yo previously healthy female who presents now fever and hypoxic respiratory distress in the setting of multifocal pneumonia.
+# Multifocal PNA leading to hypoxic respiratory distress: Patient's symptoms, exam findings, fever, leukocytosis with bandemia, and evidence of multifocal PNA on chest imaging confirmed diagnosis.
+Patient was initially started on broad spectrum abx with vanco/levofloxacin/ceftriaxone to cover for CAP and possible post-viral PNA.
+The patient was continued on a NRB to maintain sats in the mid 90s initially, and as her respiratory status slowly improved she was weaned to 4L NC prior to transfer to general floor.
+In addition, patient continued to spike fevers, and ultrasound of lungs showed loculated pleural effusion.
+A TTE was performed given presence of disseminated strep pneumo (urine, blood and sputum), and was negative for vegetation.
+On the day of discharge, ultrasound of lungs showed only minor reaccumulation of fluid.
+Transaminitis: Etiology unclear, and no [**Name (NI) 5283**] tenderness or hepatomegaly on exam.
+Thought to be secondary to viral illness.
+Alk phos trended up, likely due to ceftriaxone.
+Hyponatremia: Possibly secondary to hypovolemia in setting of acute febrile illness, slightly decreased PO intake.
+Also considered possibility of SIADH in setting of pulmonary process, though Na corrected quickly with IVF administration suggesting hypovolemia likely etiology.
+Hypokalemia: Etiology unclear, possibly secondary to GI losses in setting of recent diarrhea.
+[**Month (only) 116**] also be secondary to metabolic acidosis and increased urinary losses.
+Tachycardia: Likely multifactorial in setting of febrile illness and possible volume depletion given recent decreased PO intake.
+- Patient will need a chest x-ray in one to two months to evaluate for resolution of pleural effusion and fibrosis.
+If evidence of subtotal lung re-expansion, patient will need to be seen by thoracic surgery.
+Medications on Admission: None  Discharge Medications: 1. ipratropium-albuterol 18-103 mcg/Actuation Aerosol Sig: One (1) INH Inhalation q4-6h PRN as needed for shortness of breath or wheezing.
+Disp:*1800 ML(s)* Refills:*2* 3. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day) as needed for constipation.
+Disp:*30 Capsule(s)* Refills:*0* 4. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID: prn as needed for constipation.
+Ativan 0.5 mg Tablet Sig: One (1) Tablet PO at bedtime as needed for anxiety for 7 days.
+Disp:*10 Tablet(s)* Refills:*0*   Discharge Disposition: Home With Service  Facility: Home Solutions  Discharge Diagnosis: Primary diagnosis: Disseminated strep pneumo pneumonia   Discharge Condition: Mental Status: Clear and coherent.
+You were admitted because you had a severe pneumonia causing you to have difficulty breathing.
+You had fluid surrounding your lungs which was drained and did not reaccumulate.
+Please continue the following medications on discharge: - Ceftriaxone 2g IV daily until [**2129-11-21**] - Albuterol/ipratropium inhaler every 6 hours as needed for shortness of breath - Ibuprofen as needed for pain - Guaifenesin every 6 hours for the next 2 days, then as needed - Miralax daily - Senna/colace as needed for constipation - Bisacodyl as needed for bad constipation not responsive to senna/colace  Please be sure to use the incentive spirometer and [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 20743**] every hour for the next several days.
+Call your primary care doctor and return to the hospital if you develop a fever greater than 101.0, or develop worsening shortness of breath.

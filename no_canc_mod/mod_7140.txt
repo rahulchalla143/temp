@@ -1,0 +1,75 @@
+Admission Date:  [**2171-7-24**]              Discharge Date:   [**2171-8-7**]  Date of Birth:  [**2083-12-16**]             Sex:   F  Service: MEDICINE  Allergies: Iodine / Gluten  Attending:[**First Name3 (LF) 7651**] Chief Complaint: shortness of breath, weakness, malaise  Major Surgical or Invasive Procedure: Arterial line placement [**2171-7-25**] Aortic valvuloplasty [**Month/Day/Year **] Flexible sigmoidoscopy   History of Present Illness: Ms. [**Known lastname **] is an 87 year old female who presented to [**Location (un) 620**] this morning with complaint of dyspnea going on for several days, gradual in onset.
+She presents with increasing shortness of breath and generalized weakness.
+Additionally she had an episode of vomiting last night.
+Does not know if she had any hematemesis or coffee-ground emesis .
+She reports that she has chronically black stools due to iron supplementation.
+Her Hct was found to be 22 down from a previous value of 27, with guaiac positive stools, and INR found to be 5.
+Mild AR and moderate MR. 4.
+Paroxysmal atrial fibrillation on Coumadin.
+TIA in [**2158**] and left occipital stroke in [**2170**].
+Chronic kidney disease, stage 4, baseline creatinine around 2.2-2.4.
+Duodenal diverticulum and diverticulosis.
+History of celiac disease.
+History of chronic pancreatitis likely related to celiac disease.
+Bilateral renal artery stenosis.
+History of acute renal failure during diuresis.
+History of hyponatremia in the setting of CHF.
+Anemia of chronic disease, baseline hematocrit around 28-30.
+Family History: father with cardiac disease, otherwise non-contributory  Physical Exam: ADMISSION EXAM: Vitals:  T97.4 HR 75 BP 151/44 RR 21 SaO2 87% on 100% NRB General: In acute respiratory distress, somnolent, can state name and location but not year/date Neck: JVD elevated 3cm above clavicle CV: Difficult to auscultate, normal rate, loud systolic murmur Lungs: Diffuse crackles throughout all lung fields Abdomen: soft, non-tender, non-distended, bowel sounds present, no organomegaly, no rebound or guarding Ext: No apparent edema.
+DISCHARGE EXAM: General: Intermittently confused, delerious Neck: JVD elevated 3cm above clavicle CV: Difficult to auscultate, normal rate, loud systolic murmur Lungs: Diffuse crackles throughout all lung fields Abdomen: soft, non-tender, non-distended, bowel sounds present, no organomegaly, no rebound or guarding Ext: No apparent edema.
+Neuro: Oriented x2, somnolent Skin: stage 2 on coccyx  Pertinent Results: ADMISSION LABS: [**2171-7-24**] 03:15PM BLOOD WBC-15.9* RBC-3.23* Hgb-11.0* Hct-30.9* MCV-96 MCH-34.2* MCHC-35.7* RDW-15.0 Plt Ct-248 [**2171-7-24**] 03:15PM BLOOD Neuts-81.9* Lymphs-11.5* Monos-6.3 Eos-0.2 Baso-0.1 [**2171-7-24**] 03:15PM BLOOD PT-39.4* PTT-49.8* INR(PT)-3.9* [**2171-7-24**] 08:11PM BLOOD Fibrino-470* [**2171-7-24**] 08:11PM BLOOD Glucose-128* UreaN-63* Creat-2.6* Na-123* K-4.2 Cl-83* HCO3-22 AnGap-22* [**2171-7-24**] 08:11PM BLOOD ALT-25 AST-43* CK(CPK)-135 AlkPhos-103 TotBili-1.3 [**2171-7-24**] 08:11PM BLOOD Lipase-212* [**2171-7-24**] 03:15PM BLOOD CK-MB-5 [**2171-7-24**] 03:15PM BLOOD cTropnT-0.27* [**2171-7-24**] 08:11PM BLOOD Albumin-4.3 Calcium-9.1 Phos-5.3* Mg-2.6 [**2171-7-24**] 08:11PM BLOOD Osmolal-275 [**2171-7-24**] 08:11PM BLOOD Digoxin-2.2* [**2171-7-24**] 08:00PM BLOOD Type-ART pO2-61* pCO2-45 pH-7.35 calTCO2-26 Base XS-0 [**2171-7-24**] 08:00PM BLOOD Lactate-1.8 [**2171-7-24**] 08:15PM URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.009 [**2171-7-24**] 08:15PM URINE Blood-LG Nitrite-NEG Protein-100 Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-SM [**2171-7-24**] 08:15PM URINE RBC->182* WBC-2 Bacteri-FEW Yeast-NONE Epi-<1 TransE-<1 [**2171-7-24**] 08:15PM URINE Mucous-RARE [**2171-7-24**] 08:15PM URINE Hours-RANDOM Creat-18 Na-54 K-48 Cl-64 [**2171-7-24**] 08:15PM URINE Osmolal-315  OTHER PERTINENT LABS: [**2171-7-24**] 03:15PM BLOOD cTropnT-0.27* [**2171-7-24**] 08:11PM BLOOD CK-MB-5 cTropnT-0.30* proBNP-[**Numeric Identifier 28885**]* [**2171-7-25**] 03:40AM BLOOD CK-MB-4 cTropnT-0.25*  MICROBIOLOGY: Blood culture [**7-24**]: negative Blood culture [**7-25**]: negative Urine legionella antigen [**7-24**]: negative Urine culture [**7-24**]: negative  IMAGING: CXR [**2171-7-24**]: Worsening right lower lobe pneumonia and mild pulmonary edema  TTE [**2171-7-25**]: The left atrium is mildly dilated.
+There is mild symmetric left ventricular hypertrophy with normal cavity size and regional/global systolic function (LVEF>55%).
+There is critical aortic valve stenosis (valve area <0.8cm2).
+Trace aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Moderate (2+) mitral regurgitation is seen.
+The tricuspid valve leaflets are mildly thickened.
+Moderate [2+] tricuspid regurgitation is seen.
+There is moderate pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+Compared with the prior study (images reviewed) of [**2171-5-27**], the velocities across the aortic valve have increased slightly.
+The severity of aortic stenosis remains critical.
+Brief Hospital Course: 87 year old female with critical AS presenting with gradual-onset dyspnea and weakness, found to have anemia with guaiac positive stools, as well as new hypoxia and leukocytosis with likely pneumonia and acute congestive heart failure exacerbation.
+However given her tenous fluid status, refractory GI bleeding on anticoagulation and delerium, she was no longer considered a candidate.
+Topical lidocaine and prn 1mg dilaudid were also helpful for pain control.
+# Critical AS: Thought to be very likely to be contributing to her dyspnea and hypoxia.
+She went for valvuloplasty on [**7-29**] during which time the initial gradient was a mean of 72 mm Hg and this decreased to 20 mm Hg translating into a valve area increase from 0.4 cm2 to 1.06 cm2 post-valvuloplasty.
+She is maintained on metoprolol and amlodipine predominantly to maintain a low heart rate and reduce her symptoms in the setting of atrial fibrillation.
+# Acute Hypoxemic Respiratory Failure: Patient presented with dyspnea, orthopnea, and hypoxia, with worsening of hypoxia after receiving transfusion 1 unit pRBCs and 2 units FFP for anemia and supratherapeutic INR.
+Differential diagnosis included pneumonia (leukocytosis, cough, RLL infiltrate on CXR), acute pulmonary edema/CHF exacerbation in setting of critical AS and recent transfusions (diffuse crackles on exam, pulm edema on CXR, BNP [**Numeric Identifier 28885**]), possible flash pulmonary edema from HTN, possible cardiac event (elevated troponins, normal CK MB), or TRALI.
+A TTE performed on [**2171-7-25**] showed worsening aortic stenosis.
+Her oxygen requirement decreased over her hospital course and on discharge her O2 sat was 97% on room air.
+She may require gentle diuresis with furosemide if she develops further pulmonary edema if she complains of shortness of breath.
+# RLL PNA: Patient presented with dyspnea, cough, leukocytosis, and worsening RLL infiltrate on CXR.
+# GIB: H/H significantly decreased from most recent value on [**7-9**] of 10.0/27.4, with baseline Hcts over last couple of months between 25-28.
+Likely [**12-20**] slow GIB given occult positive stool and h/o emesis (though no clear history of hematemesis or coffee ground emesis).
+Of note also has recent history of hemorrhoidal bleeding.
+In the setting of the patient's respiratory distress, GI decided to treat conservatively for GIB given there are no signs of active bleeding.
+GI was consulted and [**Month/Day (4) **] was performed which showed multiple gastric ulcers with no active bleeding.
+Flex sig significant for internal hemorrhoids with no active bleeding.
+In addition, heparin was discontinued [**12-20**] continued GIB and melanotic stools accepting the risk of CVA.
+She continues to have melanotic stools and requires frequent cleaning of her perineum.
+# Leukocytosis: Likely secondary to pneumonia given her CXR findings.
+Lipase was checked in the setting of her chronic pancreatitis with concern for an acute-on-chronic picture; however, this was in the 200s and did not represent a change from her many recent values.
+# Troponinemia: Troponins were elevated to 0.24 at [**Location (un) 620**] and rose to 0.27 in our ED.
+She was thought to be unable to clear troponin in the setting of her acute-on-chronic renal insufficiency.
+There was a question of demand ischemia in setting of anemia.
+It was felt this was likely [**12-20**] demand ischemia and no further workup was performed.
+# Hyponatremia: Hyponatremic to 120 on admission which seemed to be at least partly chronic with Na 124-128 since [**2170-12-19**].
+She appeared volume up on lung exam, however did not have peripheral edema so there was thought to be less of an element of right heart failure.
+With high suspicion of volume overload in the setting of her additional hypoxia, she was diuresed with several doses of Lasix and her sodium improved to 125 the next morning, which is at her recent baseline.
+# Acute on Chronic Kidney Disease: H/o Chronic kidney disease, stage 4 with baseline Creat 2.2-2.4, up to 2.7 on admission.
+BUN/Cr ratio was 21, suggesting pre-renal etiology of acute-on-chronic picture in the setting of likely poor forward flow given her AS.
+It was also thought her BUN was possibly elevated due to GIB.
+No acute interventions were taken for the [**Last Name (un) **] and her creatinine was stable at 2.6 the following day.
+# Afib: She has sick sinus syndrome with ventricular pacer, and is additionally rate controlled on digoxin, metoprolol, amlodipine at home; these were held on admission.
+Given her likely GIB and elevated INR, warfarin was held.
+In the CCU, heparin was started and was continued even when her INR was no longer supra-therapuetic as we did not want to restart warfarin in the setting of possible cardiac catheterization.
+However, warfarin was restarted 24hr after the procedure at a lower dose of 3mg given her elevated INR on admission.
+Warfarin was discontinued in the setting her her GIB which is currenlty more symptomatic for Ms [**Known lastname **], it is hoped that stopping anticoagulation may decrease the severity of her GIB.
+(oozing from her GI tract is causing her much pain)  Given the change in goals of care, anticoagulation is no longer indicated.
+Omeprazole 20 mg PO BID   Discharge Disposition: Extended Care  Facility: [**Hospital 11851**] Healthcare & Rehabilitation Center - [**Location (un) 620**]  Discharge Diagnosis: Critical Aortic Stenosis Acute on Chronic diastolic congestive heart failure Lobar Pneumonia Acute on Chronic renal failure Anemia Gastrointestinal Bleed Acute Respiratory Failure  Discharge Condition: Mental Status: Confused, waxing and [**Doctor Last Name 688**] mental status.
+Discharge Instructions: Ms. [**Known lastname **],  You were admitted to the hospital with a pneumonia and bleeding from your GI tract.
+The GI doctors performed [**Name5 (PTitle) **] [**Name5 (PTitle) **] (camera down into the stomach) which showed ulcers which are the likely source of the bleeding.
+You also had an aortic valvuloplasty (procedure to temporarily open up the aortic valve).
+You continue to have bleeding in your stool.

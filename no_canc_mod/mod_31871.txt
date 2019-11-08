@@ -1,0 +1,21 @@
+Admission Date:  [**2181-10-18**]              Discharge Date:   [**2181-10-26**]  Date of Birth:  [**2109-7-17**]             Sex:   M  Service: NEUROLOGY  Allergies: Penicillins  Attending:[**Last Name (NamePattern1) 1838**] Chief Complaint: R sided weakness  Major Surgical or Invasive Procedure: IV tPA  History of Present Illness: The pt is a 72 year-old right-handed (real name is [**Known lastname **], [**Known firstname 16235**] DOB [**2109-7-17**]) man with a PMH of HTN, hyperlipidemia, CAD (MI at age 48) and prior TIA's who was BIBA after being found with a R facial droop and weakness.
+On arrival in the ED at 6:45, he is aphasic, only able to say no with significant dysarthria.
+He has a dense hemiplegia on the right.
+ROS: UA   Past Medical History: - 70 % stenosis of L ICA per report - HTN - CAD s/p MI (age 38 and 46) - prior TIA's - TURP - Hyperlipidemia   Social History: -lives with long-term girlfriend [**Name (NI) **] [**Telephone/Fax (1) 79817**], former tobacco -PCP, [**Last Name (NamePattern4) **].
+No meningismus.
+No carotid bruits auscultated.
+Left gaze deviation but able to get right of midline voluntarily.
+?No dysmetria on left arm.
+1a LOC =0  1b Orientation =2  1c Commands =0  2 Gaze =1  3 Visual Fields =1  4 Facial Paresis =3  5a Motor Function R UE =4  5b Motor Function L UE=0  6a Motor Function R LE=2  6b Motor Function L LE=0  7 Limb Ataxia =0  8 Sensory perception =0  9 Language =3  10 Dysarthria =2  11 Extinction/Inattention =1                      TOTAL = 19   Pertinent Results: [**2181-10-18**] 06:35AM BLOOD WBC-7.2 RBC-4.40* Hgb-13.3* Hct-37.1* MCV-84 MCH-30.2 MCHC-35.9* RDW-13.1 Plt Ct-246 [**2181-10-18**] 01:50PM BLOOD Glucose-109* UreaN-22* Creat-1.2 Na-141 K-4.2 Cl-103 HCO3-28 AnGap-14 [**2181-10-18**] 01:50PM BLOOD ALT-26 AST-27 LD(LDH)-210 CK(CPK)-461* AlkPhos-51 TotBili-0.6 [**2181-10-18**] 01:50PM BLOOD CK-MB-7 cTropnT-<0.01 [**2181-10-18**] 08:40PM BLOOD cTropnT-<0.01 [**2181-10-18**] 01:50PM BLOOD Albumin-4.3 Calcium-9.3 Phos-3.5 Mg-2.1 Cholest-135 [**2181-10-18**] 01:50PM BLOOD %HbA1c-5.6 [**2181-10-18**] 01:50PM BLOOD Triglyc-103 HDL-45 CHOL/HD-3.0 LDLcalc-69 [**2181-10-18**] 01:50PM BLOOD TSH-1.5 [**2181-10-18**] 06:35AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG Bnzodzp-NEG Barbitr-NEG Tricycl-NEG  Brief Hospital Course: Patient is a 72 year old RHM with a h/o HTN, hyperlipidemia, CAD and known possibly basilar stenosis presents with new onset right sided weakness and speech difficulty.
+Assessed to have acute left hemispheric infarction in the MCA distribution, likely embolic.
+Although the precise time of onset was unclear, tPA was considered given the severity of his deficits and lack of any ischmic changes on his head CT. After discussing with girlfriend and  daughter, he was started on iv tPA.
+He was admitted to neuro ICU and remained stable without complications.
+CT of head was repeated the next morning showing L temporal lobe infarct but no hemorrhagic transformation.
+Clinically, he regained most of strength back on his R side but remained aphasic (simple yes and no's only) with R facial droop but intact comprehension.
+Carotid US was also performed given poor CTA which showed < 40% stenosis bilaterally.
+His TEE did not reveal any evidence of cardiac thrombus.
+Video oropharyngeal swallowing study showed deep laryngeal penetration with liquids and intermittent aspiration of nectar-thick liquids secondary to swallow delay.
+On neurological exam his speech improved slowly (now being able to speak a few words); no motor deficit.
+Discharge Disposition: Extended Care  Facility: [**Hospital6 1293**] - [**Location (un) 1294**]  Discharge Diagnosis: L MCA stroke   Discharge Condition: Good   Discharge Instructions: You were admitted with weakness on the R side and with difficulty speaking.
+You were found to have a stroke on the lefft side of your brain.
+You had no complication of that.

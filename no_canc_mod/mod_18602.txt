@@ -1,0 +1,25 @@
+Admission Date:  [**2180-1-1**]              Discharge Date:   [**2180-1-4**]  Date of Birth:  [**2107-8-9**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 9240**] Chief Complaint: CC:[**CC Contact Info 71061**]  Major Surgical or Invasive Procedure: none  History of Present Illness: 72yo man with h/o schizophrenia presented with one day of coffee-ground emesis.
+He initially presented to [**Hospital 1263**] hospital with coffee ground emesis x two hours on day of admission.
+He also had melenotic heme positive stool in the ED.
+gen a/o, no acute distress neck supple; no JVD heent dry mucous membranes, dried blood on oral mucosa cv tachycardic, regular, no m/r/g resp cta bilat abd soft, mild epigastric pain rectal guiaiac pos melenotic stool extr no c/c/e neuro no deficits   Pertinent Results: .
+Sinus tachycardia at 100bpm, Nl axis, intervals; Twave flattening in V2.
+No acute changes compared to EKG from earlier same day at [**Hospital 1263**] Hosp.
+EGD [**2180-1-1**]:Multiple large non-contiguous linear ulcers encompassing the entire circumference of the esophagus were seen at the GE junction.
+These findings are consistent with severe erosive esophagitis.
+Medium-sized hiatal hernia with evidence of [**Location (un) 25056**] lesions Erosion and erythema in the cardia compatible with gastritis Diverticulum in the second part of the duodenum Suggestion of a Zenker's diverticulum was noted in the proximal esophagus near the UES.
+[**2180-1-1**] 08:24PM   HCT-24.6* [**2180-1-1**] 05:49PM   HCT-24.6* [**2180-1-1**] 09:10AM   GLUCOSE-91 UREA N-49* CREAT-0.7 SODIUM-140 POTASSIUM-3.5 CHLORIDE-111* TOTAL CO2-21* ANION GAP-12 [**2180-1-1**] 09:10AM   ALT(SGPT)-20 AST(SGOT)-23 LD(LDH)-189 ALK PHOS-82 AMYLASE-21 TOT BILI-0.7 [**2180-1-1**] 09:10AM   LIPASE-17 [**2180-1-1**] 09:10AM   ALBUMIN-3.3* CALCIUM-7.3* PHOSPHATE-1.1* MAGNESIUM-2.2 [**2180-1-1**] 09:10AM   WBC-10.6 RBC-3.31* HGB-10.1* HCT-28.6* MCV-87 MCH-30.5 MCHC-35.2* RDW-13.4 [**2180-1-1**] 09:10AM   PLT COUNT-222 [**2180-1-1**] 09:10AM   PT-12.6 PTT-29.9 INR(PT)-1.1 [**2180-1-1**] 06:20AM   ALT(SGPT)-27 AST(SGOT)-52* LD(LDH)-540* ALK PHOS-87 AMYLASE-21 TOT BILI-0.5 [**2180-1-1**] 06:20AM   LIPASE-24 [**2180-1-1**] 06:20AM   ALBUMIN-3.4 [**2180-1-1**] 06:20AM   WBC-12.7* RBC-3.29* HGB-10.2* HCT-29.0* MCV-88 MCH-30.9 MCHC-35.1* RDW-14.0 [**2180-1-1**] 06:20AM   NEUTS-86.2* BANDS-0 LYMPHS-11.1* MONOS-2.6 EOS-0.1 BASOS-0.1 [**2180-1-1**] 06:20AM   PLT SMR-NORMAL PLT COUNT-243 [**2180-1-1**] 06:20AM   PT-11.7 PTT-25.5 INR(PT)-1.0  Brief Hospital Course: 72yo man with schizophrenia presented with coffee ground emesis and failed to clear with NG lavage.
+# Upper GI bleed.
+The patient presented with hemodynamically significant coffee-ground emesis and melena.
+He was mildly tachycardic and mildly hypotensive (90's/50's) on presentation.
+Emergent EGD revealed erosive ulcerations in the esophagus and erosive gastritis.
+Likely this is secondary to chronic NSAID use.
+The patient was maintained with an active T&S and 2 large bore peripheral IV's, though he had no more hemodynamically significant bleeding.
+# Zencker's Diverticulum.
+The patient's EGD revealed a question of a Zencker's Diverticulum.
+The patient became extremely withdrawn and refused the study for unclear reason, though by his account because the study was unexpected.
+# Schizophrenia.
+The patient had an odd affect and intermittently would become withdrawn and sometimes combative.
+Discharge Disposition: Extended Care  Discharge Diagnosis: Upper GI bleeding .
+Hct stable for several days without signs of active bleeding.
+Discharge Instructions: You were admitted due to bleeding ulcers in your esophagus and inflammation of the stomach.
+Call your doctor or return to the hosptial for any new or worsening black or bloody stools, nausea, vomiting, black or bloody vomit, dizziness or lightheadedness.

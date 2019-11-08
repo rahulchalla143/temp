@@ -1,0 +1,33 @@
+Admission Date:  [**2178-10-22**]              Discharge Date:   [**2178-10-27**]  Date of Birth:  [**2140-1-15**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 465**] Chief Complaint: "So sick I couldn't get out of the bathroom"  Major Surgical or Invasive Procedure: Right internal jugular central catheter placement and removal  History of Present Illness: 38 year old male without significant medical history, who is transferred from the [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] to our ED for tachypnea and hypotension.
+The patient says that beginning 3-4 days ago he noted general malaise and a flu-like prodrome.
+He still felt well enough to play basketball 3 nights ago, however on the morning before yesterday he noted progressive fevers, chills, low back pain, and cough.
+His shortness of breath progressed, and at 1 a.m. on the morning of admission his wife drove him to the [**Name (NI) **] ED.
+He had a CXR which demonstrated bilateral infiltrates and he was given levofloxacin and 3 liters of normal saline.
+Labs were notable for acute renal failure.
+Review of systems negative for hematuria, hematochezia.
+He has slight pain in his rib cage with deep inspiration.
+He also had mild abdominal pain and mild diarrhea yesterday.
+In terms of risk factors, he is sexually active with his wife, without extramarital sexual intercourse.
+No LE edema or pain.
+He works as a police officer and has no known risk factors for TB.
+[**Name (NI) **] IVDU, smoking, or alcohol.
+Family History: Father died of pancreatic cancer.
+Anicteric sclerae.
+COR:  RR, tachycardic, no murmurs.
+Bronchial breath sounds at the right base.
+No pneumothorax.
+Left lower lobe consolidation again identified.
+Right basilar opacification representing atelectasis vs. aspiration vs. infiltrate.
+CHEST CT: Near complete consolidation of the left lower lobe consistent with lobar pneumonia.
+Patchy opacities are also present in the right lower lobe that may represent patchy consolidation related to pneumonia and/or atelectasis.
+Brief Hospital Course: 38M, previously healthy, with pneumonia and sepsis due to Streptococcus pneumoniae.
+Pneumonia with sepsis:  Pt was admitted to the ICU with a RIJ line placed in the ED.
+His sputum cultures grew gram positive cocci, and blood cultures drawn at [**Hospital 5871**] hospital grew Strep pneumoniae in [**3-10**] bottles.
+Pt stabilized with no fevers, able to ambulate with SpO2 >90% on room air, with prn cough syrup and combivent for symptom control.
+He will see his PCP within the next month to check that he is recovering, sooner if any problems.
+Oral herpes: On the morning of discharge, pt reported developing labial sores similar to previous herpetic lesions and requested a prescription for Valtrex.
+Combivent 103-18 mcg/Actuation Aerosol Sig: 1-2 puffs Inhalation four times a day as needed for cough for 2 weeks: for cough or wheezing.
+Codeine-Guaifenesin 10-100 mg/5 mL Syrup Sig: One (1) teaspoons PO four times a day as needed for cough for 1 weeks.
+Disp:*6 Tablet(s)* Refills:*0*   Discharge Disposition: Home  Discharge Diagnosis: Streptococcus pneumoniae pneumonia with sepsis   Discharge Condition: good   Discharge Instructions: You were admitted with streptococcus pneumonia and bacteremia (blood infection) for which you are getting antibiotics.
+It was a severe infection that will require several more days to fully recover from.
+Call your PCP or return to nearest ER with worsening shortness of breath, persistent fevers, new rash or any other concern.

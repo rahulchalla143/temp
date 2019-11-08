@@ -1,0 +1,50 @@
+Admission Date:  [**2108-10-7**]              Discharge Date:   [**2108-10-16**]   Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 2167**] Chief Complaint: Mental status changes/hypotension  Major Surgical or Invasive Procedure: Central line placement.
+History of Present Illness: HPI: [**Age over 90 **] y/o M w/ DM and recent admission for hypotensive TIA who presents from rehab with lethargy, hypotension and mild abdominal pain.
+HCP [**Name (NI) **] [**Name (NI) **] noticed pt to be lethargic at rehab, and VS revealed hypotension with sbp in 70s.
+Pt was c/o mild abd pain; otherwise, denying any complaints.
+UA was positive for many WBCs.
+CT abdomen revealed left perinephric stranding.
+Pt remained asymptomatic of chest pain, shortness of breath or abd pain.
+Past Medical History: Diabetes Type II Hypertension Partial gastric resection with bilroth II anastomosis for bleeding peptic ulcer ([**2056**]) Multiple prior episodes of SBO Atrial tachycardia: recent hypotensive event from atrial tachycardia causing TIA like symptoms, no evidence of CVA on MRI.
+Peripheral Neuropathy Remote EtOH Circumcision ([**2106**]) L ankle fracture L DVT s/p filter [**2100**], GIB on coumadin Pernicious anemia GERD Osteoarthritis Right leg bakers cyst   Social History: Widowed.
+*** DNR/DNI per HC [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] (h) [**Telephone/Fax (1) 79368**] and (c) [**Telephone/Fax (1) 79369**]  Physical function: Independent at baseline with dressing, toileting, and walking wtih rooling walker.
+No home services.
+Physical Exam: Physical Exam: Vitals: T 98.4 HR 78 BP 77/47 RR 17 Sats 98% on 2L GEN: Appears younger than stated age, no acute distress, oriented to hospital & person only HEENT: EOMI, no epistaxis or rhinorrhea, dry MM, OP Clear NECK: No JVD, no cervical lymphadenopathy COR: quiet heart sounds, no m/r/g apprec PULM: Lungs CTA anteriorly, no W/R apprec ABD: Soft, NT, ND, +BS, no HSM, no masses EXT: +[**2-15**] bilateral foot edema, no c/c NEURO:oriented to person, hospital.
+SKIN: No jaundice, cyanosis, or gross dermatitis.
+No ecchymoses.
+ECG: NSR, no acute ST-T wave changes, essentially unchanged from prior tracings.
+CXR [**2108-10-7**] Markedly abnormal but stable radiograph as detailed above.
+As best can be determined, no definite gross acute pulmonary process.
+no intrabdominal fluid collections or abscess; mediastinal asymmetry due to chronically elevated left hemidiaphragm.
+moderately dilated aortic root, ascending aorta.
+mildly thickened aortic valve leaflets.
+mildly thickened mitral valve leaflets.
+Trivial mitral regurgitation.
+Borderline pulmonary artery systolic hypertension.
+Distended gallbladder with wall thickness at the upper limits of normal and slightly greater than expected for the level of gallbladder distention.
+No definite edema within the wall of the gallbladder.
+No secondary sign of mesenteric ischemia, including no pneumatosis or portal venous gas.
+Right-sided renal low-attenuation lesions previously characterized as simple cysts.
+Redemonstration of chronically elevated left hemidiaphragm, causing rightward mediastinal shift.
+HIDA scan [**10-9**] IMPRESSION: No evidence of acute cholecystitis.
+______________________________________________________                              ESCHERICHIA COLI                              | AMPICILLIN------------  =>32 R AMPICILLIN/SULBACTAM--  =>32 R CEFAZOLIN-------------   <=4 S CEFEPIME--------------   <=1 S CEFTAZIDIME-----------   <=1 S CEFTRIAXONE-----------   <=1 S CEFUROXIME------------     4 S CIPROFLOXACIN---------<=0.25 S GENTAMICIN------------   <=1 S MEROPENEM-------------<=0.25 S NITROFURANTOIN--------    32 S PIPERACILLIN---------- =>128 R PIPERACILLIN/TAZO-----   <=4 S TOBRAMYCIN------------   <=1 S TRIMETHOPRIM/SULFA----  =>16 R   Brief Hospital Course: Assessment/Plan: [**Age over 90 **] y/o M with PMHx of DM & hypotensive TIA presents from rehab with hypotension and UTI/pyelonephritis.
+Sepsis: Patient presented with hypotension, ARF, elevated LFTs and bandemia.
+Positive UA and CT showed perinephric stranding.
+Abdominal pain: Dilated colon on CXR and Abd CT.
+Patient has a history of small bowel obstructions.
+CT scan did not show evidence of obstruction, and was only remarkable for perinephric stranding.
+He was seen by the surgical consult service for evaluation for bowel ischemia, and was felt not to have ischemic bowel.
+Pain resolved with decompression, most likely secondary to constipation, and NG tube was removed.
+Altered mental status: Most likely toxic/metabolic encephalopathy or septic encephalopathy in setting of acute infection.
+Hypotension: resolved, with end organ damage (kidney, liver) Shock liver with elevated enzymes which have since resolved.
+ARF likely related to sepsis and hypoperfusion [**3-17**] hypovolemia: baseline creatinine of 1.1, currently elevated at 2.0 but trending downward.
+He was not restarted on his lisinopril given his labile creatinine, but this should be restarted once his creatinine is rechecked in one week, and is back to baseline.
+Thought to be secondary to glyburide, which was given for first few days of admission.
+He needs assistance with meals; otherwise he eats minimally due to deconditioning and weakness.
+Anemia: Baseline HCt is ~30; [**3-17**] apparent Fe deficiency anemia given Fe panel.
+Also has pernicious anemia.
+He will most likely autodiurese with improvement of his renal function, but may require intermittent doses of po Lasix to help with resolution of edema.
+Discharge Disposition: Extended Care  Facility: [**Hospital3 1186**] - [**Location (un) 538**]  Discharge Diagnosis: Pyelonephritis Sepsis from urinary tract infection Constipation Abdominal pain Hypertension Hypoglycemia Acute renal failure Anemia   Discharge Condition: Stable.
+Discharge Instructions:  You were admitted to the hospital with an infection in your kidney and your blood.
+You were very sick needing intensive care unit treatments with medications to treat low blood pressure and antibiotics.
+Please call your primary care doctor if you develop fevers, chills, or nausea or vomiting.

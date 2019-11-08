@@ -1,0 +1,34 @@
+Admission Date:  [**2122-7-6**]              Discharge Date:   [**2122-7-11**]  Date of Birth:  [**2081-7-30**]             Sex:   M  Service: MEDICINE  Allergies: Tessalon Perles  Attending:[**First Name3 (LF) 896**] Chief Complaint: Cough, SOB, fever  Major Surgical or Invasive Procedure: - None  History of Present Illness: 40 yo M with in his usual state of good health presents with fever to 103, cough, and shortness of breath.
+His initial symptoms were fever and myalgia, beginning abruptly on Friday morning.
+On the morning of his admission, he developed palpitations and presented to a hospital in [**Location 3615**], where he was found to be in rapid atrial fibrillation.
+From there, he was transported to [**Location (un) 9101**], where he was treated with normal saline, vancomycin 1 gm, azithromycin 500 mg, ceftriaxone 1 gram, digoxin 0.25 mg, ibuprofen 600 mg, acetaminophen 975 mg, diltiazem 20 mg IV, and Cardizen CD 120 mg. His heart rate was controlled, but he developed a new oxygen requirement and was transferred to [**Hospital1 18**] for further management.
+At [**Hospital1 18**], CXR showed a right-sided pneumonia with parapneumonic effusion.
+- No family history of venous thrombosis.
+Physical Exam: ADMISSION PHYSICAL EXAM: Vital signs: T: 100.6  HR: 89  BP: 150/94  RR: 16  O2 Sat 99%/NRB Gen: No acute distress.
+Anicteric sclerae.
+OP with mild erythema and no exudate.
+No cervical or supraclavicular lymphadenopathy.
+No rebound or guarding.
+EOMI, with no nystagmus.
+COR: +S1S2, RRR, no m/g/r.
+PULM: Decreased bibalilar breath sounds with dullness to percussion at right base.
+Inspiratory crackles at bases (right worse than left).
+Pertinent Results: ADMISSION LABS:  [**2122-7-6**] 07:24PM BLOOD WBC-9.1 RBC-4.09* Hgb-12.1* Hct-34.4* MCV-84 MCH-29.4 MCHC-35.1* RDW-14.3 Plt Ct-200 [**2122-7-6**] 07:24PM BLOOD Neuts-82.8* Lymphs-13.5* Monos-3.1 Eos-0.2 Baso-0.4 [**2122-7-6**] 07:24PM BLOOD PT-14.4* PTT-26.1 INR(PT)-1.2* [**2122-7-6**] 07:24PM BLOOD Glucose-110* UreaN-6 Creat-0.7 Na-138 K-3.7 Cl-108 HCO3-22 AnGap-12 [**2122-7-6**] 07:24PM BLOOD ALT-45* AST-32 CK(CPK)-111 AlkPhos-64 TotBili-0.3 [**2122-7-6**] 07:24PM BLOOD CK-MB-2 cTropnT-0.02* [**2122-7-6**] 07:14PM BLOOD Lactate-1.4  Cardiac Markers Trend: [**2122-7-6**] 07:24PM BLOOD CK-MB-2 cTropnT-0.02* [**2122-7-7**] 12:49AM BLOOD CK-MB-2 cTropnT-0.01 [**2122-7-7**] 05:35AM BLOOD CK-MB-2 cTropnT-<0.01  Lactate Trend: [**2122-7-6**] 07:14PM BLOOD Lactate-1.4 [**2122-7-7**] 07:48AM BLOOD Lactate-1.1 [**2122-7-7**] 04:09PM BLOOD Lactate-0.8  Pertinent Other Labs: [**2122-7-7**] 03:08PM BLOOD HIV Ab-NEGATIVE [**2122-7-6**] 11:47PM URINE Color-Straw Appear-Clear Sp [**Last Name (un) **]-1.010 [**2122-7-6**] 11:47PM URINE Blood-SM  Nitrite-NEG Protein-NEG Glucose-NEG Ketone-40 Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG Legionella negative  DISCHARGE LABS:  Imaging: [**7-6**] CXR: IMPRESSION: Findings concerning for right lower lobe pneumonia and possible right pleural effusion with atelectasis.
+Left base retrocardiac opacity could be due to atelectasis although a second location of consolidation/infection not excluded.
+Additionally, subtle opacity at the lateral left mid lung, while could relate to overlying soft tissue, additional focus of consolidation is not excluded.
+[**7-7**]: CXR: FINDINGS: As compared to the previous radiograph, the extent of the pre-existing right pleural effusion is stable.
+There is a newly occurred small reactive left-sided pleural effusion with subsequent left atelectasis.
+The diameter of the pulmonary vessels is minimally increased, potentially reflecting mild fluid overload.
+Small bilateral simple layering pleural effusions.
+[**2122-7-9**] 03:31AM BLOOD WBC-8.7 RBC-4.12* Hgb-11.7* Hct-34.5* MCV-84 MCH-28.4 MCHC-33.9 RDW-14.4 Plt Ct-282 [**2122-7-9**] 03:31AM BLOOD Glucose-94 UreaN-8 Creat-0.9 Na-143 K-3.6 Cl-106 HCO3-28 AnGap-13  Brief Hospital Course: PRIMARY REASON FOR ADMISSION: 40 yo M presents with fever, shortness of breath, and cough, admitted to MICU for hypoxemia requiring NRB, found to have trilobar PNA.
+ACUTE DIAGNOSES: # Multilobar Pneumonia, likely bacterial: CTA results showed significant tri-lobar PNA which appeared significant enough for shunting to explain his degree of hypoxia.
+On the floor he quickly weaned down to room air and was breathing comfortably with occasionally sputum tinged with blood.
+#Atrial Fibrillation with RVR: Dr. [**Known lastname 23**] initially presented in new onset A.Fib with runs of RVR into 160s with associated hypotension.
+Although he has a history of palpitations in the past (and has been on a Holter monitor), this is his first episode of atrial fibrillation.
+CHRONIC DIAGNOSES: None.
+He was told to discuss reinitation of aspirin with his PCP when his hemoptysis ceases.
+He should also be screened for hypertension, as it was noted that his blood pressure was elevated to the 140s-150s systolic while he was on the floor.
+Disp:*500 ML(s)* Refills:*0*   Discharge Disposition: Home  Discharge Diagnosis: PRIMARY DIAGNOSIS: - Multifocal pneumonia - Sepsis  SECONDARY DIAGNOSIS: - Atrial fibrillation with rapid  ventricular response   Discharge Condition: Mental Status: Clear and coherent.
+You were initially admitted to the MICU on a diltiazem drip to control your rapid atrial fibrillation.
+You had an ongoing oxygen requirement and it was discovered that you had a multifocal pneumonia.
+MEDICATION CHANGES: - Medications ADDED: Linezolid 600 mg Q12H for 10 days - Medications ADDED: Guaifenesin-CODEINE cough syrup as needed for cough - Medications STOPPED: Aspirin - Medications CHANGED: None.

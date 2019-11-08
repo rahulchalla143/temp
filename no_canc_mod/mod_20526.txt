@@ -1,0 +1,52 @@
+Admission Date:  [**2103-10-10**]              Discharge Date:   [**2103-10-16**]  Date of Birth:  [**2041-3-24**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 1253**] Chief Complaint: sore throat  Major Surgical or Invasive Procedure: Femoral Line [**2103-10-10**]  History of Present Illness: Ms. [**Known firstname **] [**Known lastname 1182**] is a 62 year old woman with a history of Afib on coumadin, s/p CVA [**2095**] who presents with sore throat x 1 day.
+Patient describes the onset of anterior right sided neck pain at 5 pm the day prior to presentation.
+By the middle of the night the pain had progressed to causing her pain with swallowing and lifting her head.
+She had one episode of emesis and a few hours of diarrhea early the next morning.
+Her daughter came over to visit and was concerned because the patient's symptoms of confusion were similar to the symptoms she had during her stroke in [**2095**].
+CT neck showed an ill defined hypodensity, stranding and loss of fat planes in the right hypopharynx and deep spaces of the right neck extending to the carotid space with retropharyngeal fluid/edema.
+There was no definite organized abscess but imaging was concerning for an infectious process.
+Given concern for retropharyngeal abscess she was treated empirically with Unasyn 3 g IV and ibuprofen 800 mg po.
+Patient became increasingly hypotensive.
+Given the nonspecific swelling seen on CT neck, ENT was consulted.
+They performed a laryngoscope and found no compromise in her airway and no indication for drainage.
+She reports having several sick contacts as she is a fifth grade teacher and has had three students out recently with strept throat.
+She denies any use of tobacco, illicit drugs or herbal medications.
+Physical Exam: Physical Exam on Arrivel to ICU VS: BP: 87/60 HR: 114 RR: 22 O2sat 96% 2L GEN: pleasant, comfortable, NAD HEENT: PERRL, EOMI, anicteric, MMM, dentures in place, erythematous op, bilateral anterior cervical LAD, tenderness to palpation over R anterior sternocleidomastoid, no jvd, neck flexion limited secondary to pain, no palpable fluid collection RESP: CTA b/l with good air movement throughout, no stridor, no wheezes, no crackles CV: irregular rhythm, tachycardic, S1 and S2 wnl, no m/r/g ABD: nd, +b/s, soft, nt, no masses EXT: no c/c/e, + varicose veins, 2+ distal pulses SKIN: diffuse patches of mild erythema that [**Doctor First Name **] with palpation; darker purple colored patches on face consistent with known rosacea NEURO: AAOx3.
+Hypodensity in the right posterior parietal region may represent subacute/old infarct, underlying vasogenic edema may be present; no evidence of volume loss or mass effect.
+Ill-defined hypodensity, stranding and loss of fat planes in the right hypopharynx and deep spaces of the right neck extending to the carotid space with large amount of retropharyngeal fluid/edema.
+No definite organized abscess is present.
+The differential diagnosis includes infectious process vs much less likely longus [**Last Name (un) **] tendinitis.
+Mild mass effect on the right side of the hypopharynx with mild narrowing of the airway at the hypopharynx but the airway appears patent.
+CXR FINDINGS: In comparison with the study of [**10-11**], there are continued bilateral pleural effusions with compressive atelectasis and pulmonary edema in a patient with cardiomegaly.
+Cardiac Echo Conclusions The left atrium is moderately dilated.
+There is no ventricular septal defect.
+The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic regurgitation.
+The mitral valve leaflets are mildly thickened.
+An eccentric, posteriorly directed jet of mild (1+) mitral regurgitation is seen.
+There is mild pulmonary artery systolic hypertension.
+There is a trivial/physiologic pericardial effusion.
+There are no echocardiographic signs of tamponade.
+Mild mitral regurgitation.
+Brief Hospital Course: 62 year old woman with a history of Afib on coumadin, s/p CVA [**2095**] who presented with sepsis in the setting of acute onset retropharyngeal swelling.
+# Sepsis, likely due to retrophayrngeal infection.
+She did not have any URI symptoms, and CXR did not suggest pneumonia.
+She also did not complain of any urinary symptoms and UA did not suggest UTI.
+Because of the hypotension requiring large amount of fluid and pressor, she received a femoral line.
+She was started on Unasyn for her retropharyngeal infection on [**2103-10-10**].
+# Retropharyngeal infection.
+ENT was consulted and thought that if her symptoms worsened despite antibiotics, dexamethasone 10 mg should be started.
+# Acute Renal Failure, likely pre-renal given presenting sepsis.
+Patient's creatinine rose to 1.2 on the day of admission with low urine output.
+# Afib with RVR.
+Her HR was consistently in the 110s-120s off of medication, and of note, she recently stopped taking amiodarone because of abnormal thyroid function tests.
+Of note, she missed several doses of metoprolol because of SBP in the 90s while on diltiazem, so metoprolol was discontinued on [**10-13**].
+# Shortness of Breath/acute diastolic heart failure: likely due to pulmonary edema from the aggressive IVF resuscitation in the setting of AF with RVR.
+She was not symptomatic on the floor, was oxyygenating well without dyspnea, so diuretics were not continued.
+On the floor, she did not show any evidence of heart failure.
+# Altered Mental Status.
+Given her initial confusional state was similar to prior CVA presentation, she received a CT head without contrast which did not show acute intracranial bleeding or swelling to suggest new stroke.
+It is likely this is delirium [**12-26**] underlying infection given the improve of her symptoms and no other neurological deficits to suggest even TIA.
+Her delirium resolved with the therapy mentioned above.
+Discharge Disposition: Home  Discharge Diagnosis: # Retropharyngeal plegmon/infection # Sepsis # Atrial fibrillation with RVR # Acute renal failure # Acute diastolic heart failure   Discharge Condition: Mental Status: Clear and coherent.
+Discharge Instructions: You were admitted with swelling in your neck and difficulty swallowing due to an infection.
+Please continue to eat liquids and soft foods that you are able to swallow without difficulty.

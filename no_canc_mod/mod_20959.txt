@@ -1,0 +1,14 @@
+Admission Date:  [**2162-7-19**]              Discharge Date:   [**2162-7-22**]  Date of Birth:  [**2099-12-12**]             Sex:   M  Service: [**Hospital Unit Name 196**]  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 2704**] Chief Complaint: Vfib arrest.
+CT showed occipital hematoma from fall with likely contracoup left frontal subdural hematoma and contusion, also small subarachnoid.
+Past Medical History: - CAD s/p CABG - stents and s/p balloon angioplasty revision - DM2 - HTN  Social History: SocHx: Married, bank worker/chamber of commerce/sedentary.
+Pertinent Results: [**Known lastname 58154**],[**Known firstname **]: [**Hospital1 18**] Neurophysiology Detail - CCC Record #[**Numeric Identifier 58155**]  04-1819D - CCC REPORT APPROVED DATE:[**2162-7-21**] TEST DATE: [**2162-7-20**] INTERPRETED BY: [**Last Name (LF) **],[**First Name3 (LF) **] L.  FINDINGS: ABNORMALITY#1: The background rhythm is low voltage.
+At 2 microvolt amplification [**Hospital1 **]-frontal beta activity is visible and there is intermittent theta frequency activity with a 1 Hz delta frequency background rhythm.
+CARDIAC MONITOR: Sinus tachycardia with a rate of 108 beats per minute.
+IMPRESSION: This is an abnormal portable EEG due to the low voltage background activity.
+[**Hospital1 **]-frontal beta activity is present as is intermittent theta frequency slowing of the background rhythm.
+These findings suggest a severe encephalopathy and could be consistent with hypoxic injury from cardiac arrest but medication effects are also possible.
+A narrow complex tachycardia was noted on the cardiac monitor.
+OBJECT: 62 year old man with a history of recent cardiac arrest.
+He was cardiovascularly supported in the CCU, with the hope that the neurological sequelae of his vfib arrest might resolve.
+However, CT imaging determined that extensive severe anoxic brain injury had occurred.
+Discharge Diagnosis: Ventricular fibrillation leading to severe anoxic brain injury.

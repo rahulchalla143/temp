@@ -1,0 +1,71 @@
+Admission Date:  [**2117-7-27**]              Discharge Date:   [**2117-8-23**]  Date of Birth:  [**2047-3-17**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**Doctor First Name 3290**] Chief Complaint: Diarrhea  Major Surgical or Invasive Procedure: Colonoscopy EGD Octreotide Scan   History of Present Illness: Mr. [**Known lastname 85187**] is a 70 year old with a history of chronic diarrhea who presented to [**Hospital1 18**] with positive blood cultures and arterial clots.
+He had presented the day prior to admission to Dr. [**Last Name (STitle) **] who in his workuop obtained blood cultures and an MRI enterography to assess for intestinal lymphangiectasia.
+On the day of admission Dr. [**Last Name (STitle) **] was notified that blood cultures grew GPCs and also his MR enterography showed thrombus in his proximal celiac artery, distal SMA, chronic or subacute infarct of left upper renal pole, small splenic infarct.
+Rectal exam showed yellow, guaiac positive stools.
+He denies abdominal pain or cramping, melena, hematochezia.
+He reports a fever while on the plane to come here.
+He has had a 20lb weight loss in the past year.
+He reports a fever while on the plane to the US.
+He reporedly had a MR enterography which was [**Doctor First Name **](+) Per HPI (-) Denies headache, sinus tenderness, rhinorrhea or congestion.
+Denied cough, shortness of breath.
+Denied chest pain or tightness, palpitations.
+No constipation or abdominal pain.
+No recent change or bladder habits.
+Denied arthralgias or myalgias.
+Past Medical History: R Kidney Tumor treated with partial nephrectomy 2 years ago S/P Retinal Detachment and cataract surgery bilaterally Inguinal Hernia Repair Appendectomy 4 years ago ?
+Family History: non-contributory  Physical Exam: On admission: Vitals: T: 100.3 BP:120/62 P:97 R:24 SpO2: 95% RA General: Alert, oriented, no acute distress HEENT: Sclera anicteric Neck: supple Lungs: Clear to auscultation bilaterally, no wheezes, rales, rhonchi CV: Irregular, SEM Abdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly GU: no foley Ext: Left leg is warm, well perfused, 2+ DP, Right leg is slightly colder, pulses are present on doppler.
+Filling defects in the proximal celiac artery and distal branch of the superior mesenteric artery compatible with thrombus/embolus.
+Probably subacute infarction of the superior pole of the left kidney with delayed rim of capsular enhancement.
+As imaging was not targetted towards assessment of renal arterial vasculature, arterial clot is not definitely identified.
+Nonetheless, this is presumably also from embolic disease.
+Splenic infarct.Given the multiple arterial thrombi/emboli, recommend echocardiogram to evaluate for potential cardiac valvular disease or right-to-left shunting.
+These findings may reflect hypoperfusion secondary to previously described mesenteric vascular filling defects.
+No discrete mass is identified.
+Circumferential narrowing within the mid transverse colon but without discrete mass identified.
+Left renal cyst.
+Mild aortic regurgitation.
+CHEST (PA & LAT)	Study Date of [**2117-7-29**] 8:46 PM IMPRESSION: Scattered, patchy consolidations throughout the left lung consistent with possible septic emboli.
+Filling defects in the proximal celiac artery and distal branch of the superior mesenteric artery compatible with thrombus/embolus, unchanged from the MR enterography of [**2117-7-27**].
+Probable subacute infarction of the superior pole of the left kidney.
+Small splenic infarct.
+Hyperenhancement and jejunal bowel wall thickening; these findings are concerning for hypoperfusion secondary to mesenteric vascular filling defects.
+Hypodense lesion within the caudate lobe of the liver likely represents a liver cyst.
+Two bladder calculi at the right uretrovesical junction.
+Multiple areas of ground-glass opacification within the upper and lower lobes of lungs, corresponding to areas of opacification seen on the chest x-ray of [**2117-7-29**] are noted.
+These may represent infectious process versus minimal pulmonary edema; however, there is no definite evidence of septic emboli.
+[**8-20**] CXR: REASON FOR EXAMINATION: Followup of the patient with known endocarditis.
+Bilateral pleural effusion, partially loculated, is unchanged, moderate, left more than right.
+No pneumothorax is present.
+[**8-15**] MRI Abdomen: No hypervascular tumors; no evidence of neuroendocrine tumor   Brief Hospital Course: Mr. [**Known lastname 85187**] is a 70 yoM, Greek-speaking only, who initially presented for work-up of chronic diarrhea (protein losing enteropathy, possible lymphangectasia), who was incidentally found to have MSSA endocarditis with arterial thrombus to mesentery; also with PICC line LUE DVT, bil.
+A TEE was performed which showed a large vegetation on the aortic valve with mild aortic regurgitation.
+#Pleural Effusions: Due to the patient's protein-losing enteropathy, he has chronically low albumin.
+He has had problems in the past with pulmonary edema and was on Lasix 40 mg qd at home in [**Country 5881**].
+He had at least 1 admission in [**Country 5881**] with Pulmonary Edema.
+On [**8-18**], the patient had complaints of SOB and was placed on 2L nc.
+pleural effusions.
+#Aterial Thrombus: The patient was discovered to have filling defects in the proximal celiac artery and distal branch of the superior mesenteric artery compatible with thrombus/embolus via MR on [**2117-7-27**].
+#Atrial Tachycardia: While in the ICU and the beginning of his stay on the floor, the patient was noted to have a murmur (likely aortic vegetation), as well as bursts of tachycardia up into the 150s, which one night required the usage of PO and IV Metoprolol.
+Cardiology was consulted, and after examining the EKGs felt that the patient's tachycardia was likely atrial tachycardia vs sinus tachycardia with very frequent PAC, and recommended starting him on PO Metopolol.
+The patient responded well to Metoprolol Tartrate 25 mg PO/NG TID, and did not have any further bursts of tachycardia during his stay.
+#Diarrhea: The patient has had chronic diarrhea for the past [**3-11**] years.
+He was recently started on a low-fat diet and a medium chain triglycerides, which are a large part of the Peptamen formulation, and found some improvement in his diarrhea, which was therefore thought to be evidence consistent with intestinal lymphangiectasia.
+Per the GI team, the patient is thought to have a protein-losing enteropathy.
+The patient has been having approximately 3 episodes of diarrhea a day, which has been fairly stable since his admission to the hospital.
+A colonoscopy and enterography were concerning for TI and IC valve ulcers, but the gross appearance of the proximal transverse lumen and jejunal were unremarkable.
+CMV staining of the GI tissue returned negative.
+The patient was iron deficient by labs, with low TIBC and low ferritin.
+It reached a nadir during his stay at 73; Heme/Onc was consulted, and they felt that his thrombocytopenia was likely due to consumption and infection, particularly as it normalized to ~200 at the time of his discharge following treatment of his endocarditis and nutrition via TPN.
+#GERD: Patient started on a PPI, no complains of GERD symptoms in hospital.. .
+#Depression: Per pt's son, the patient had increasing depression during this hospitalization.
+He was also started on 1 mg PO Ativan qhs prn for anxiety/insomnia, which seemed to give the patient great relief.
+The patient was anticoagulated with heparin drip/pneumoboots/lovenox or coumadin for DVT prophylaxis.
+Lorazepam 1 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) as needed for insomnia.
+For her, weekly labs including CBC/diff and CMP should be faxed to [**Telephone/Fax (1) 18738**].
+Discharge Disposition: Home With Service  Facility: Home Solutions Infusion Therapy  Discharge Diagnosis: Primary Diagnosis: - Chronic Diarrhea - Endocarditis - Mesenteric Arterial Thrombi - LUE DVT - Protein losing enteropathy .
+Secondary Diagnoses: - Sinus Tachycardia with PAC - Chronic diarrhea   Discharge Condition: Mental Status: Clear and coherent.
+You were admitted to the hospital after it was discovered on imaging of your abdomen that you had clots in the arteries that supply your intestinal tract; in addition, you had bacteria growing in your blood (known as MSSA).
+We then imaged your heart with ultrasound, and saw that you had a bacterial vegetation on one of your heart valves - the aortic valve.
+Biopsies showed esophagitis, ileitis, and focal inflammation in your colon - possibly as result of the blood clots or as a result of a chronic process that accounts for your ongoing protein-losing diarrhea.
+We STARTED the following medications: Nafcillin 2 g IV every four hours until [**9-7**] Pantoprazole 40 mg DAILY Metoprolol Tartrate 25 mg THREE TIMES A DAY Coumadin 7.5 mg per day; Your PCP will help manage your anticoagulation; you will need labs drawn (INR) until your regimen is stabilized Lovenox 70 mg TWICE DAILY; 1 shot every 12 hours Ativan 1 mg at bedtime as needed for anxiety/insomnia Celexa 20 mg per day; this medication may need to be further titrated by your PCP We started you on TPN -> the prescription is included in your discharge papers Peptamen (Medium Chain Triglycerides); you should take [**3-12**] cans per day as tolerated to help supplement your nutrition Lasix (120 mg in the AM, 80 mg at night) Potassium 20 mEq, twice per day .
+For her, weekly labs including CBC/diff and CMP should be faxed to [**Telephone/Fax (1) 18738**].
+When you return to [**Country 5881**], please make appointments to see your Primary Care doctor, Dr. [**Last Name (STitle) 85188**], as well as a cardiologist, as well as an infectious disease physician.

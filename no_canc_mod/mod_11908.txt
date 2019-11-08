@@ -1,0 +1,36 @@
+Admission Date:  [**2124-6-5**]              Discharge Date:   [**2124-6-13**]   Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 30**] Chief Complaint: 1.
+Bright red blood per rectum 3.
+Hypotension  Major Surgical or Invasive Procedure: 1.
+EGD [**2124-6-8**]   History of Present Illness: HPI - This is an 87 y/o female with dementia, HTN, who resides at [**First Name4 (NamePattern1) 1188**] [**Last Name (NamePattern1) **] and was found to be hypotensive to BP 73/40, "gasping for air" with SaO2 79%/RA.
+Exam significant for black, guiac positive stool.
+At this time, patient only c/o slight lower abdominal pain, no n/v/diarrhea.
+Dementia 2.
+Renal insufficiency  (bl Cr 2.0) 4.
+HTN 6. ?
+Iron deficiency anemia   Social History: Lives at [**First Name4 (NamePattern1) 1188**] [**Last Name (NamePattern1) **] recently, unknown tobacco or EtOH history.
+Pertinent Results: Admit Labs:  [**2124-6-5**]  WBC-14.2* RBC-2.08* Hgb-5.6* Hct-17.9* MCV-86 MCH-26.9* MCHC-31.3 RDW-19.4* Plt Ct-426  PT-10.8 PTT-23.6 INR(PT)-0.9  Glucose-258* UreaN-62* Creat-2.5* Na-146* K-4.2 Cl-109* HCO3-25 AnGap-16 Calcium-8.1* Phos-5.5* Mg-2.3  calTIBC-200* VitB12-657 Folate-17.4 Ferritn-534* TRF-154* TSH-3.8  Discharge Labs:  [**2124-6-12**]  WBC-7.3 RBC-2.86* Hgb-8.4* Hct-25.3* MCV-88 MCH-29.3 MCHC-33.2 RDW-17.1* Plt Ct-247  Glucose-204* UreaN-84* Creat-2.8* Na-143 K-4.4 Cl-113* HCO3-21* AnGap-13  CT HEAD ([**2124-6-4**]): Right cerebral hemispheric chronic subdural hematoma or hygroma.
+No evidence of acute intracranial pathology.
+CXR ([**2124-6-4**]): Right lower lobe pneumonia and probable left lower lobe pneumonia.
+Background mild pulmonary edema.
+ABD ([**2124-6-5**]): No evidence of obstruction.
+RUE US ([**2124-6-7**]): No evidence of deep venous thrombosis involving the right upper extremity.
+Diffuse non-specific ST-T wave flattening.
+Delayed precordial R wave progression.
+No previous tracing available for comparison.
+Iron studies were consistent with AOCD despite her history of iron deficiency anemia.
+She had an additional drop in her hematocrit 1 day after her EGD, and she was transfused an additional 2u pRBC.
+CXR revealed RLL infiltrate which was suspicious for a pneumonia.
+She appeared to have fairly advanced dementia and was not oriented to her surroundings or to time.
+A head CT showed a chronic SDH vs. hygroma with no active issue.
+Renal failure: Cr baseline in the 2s per a discharge summary from [**Hospital1 2177**].
+Olanzapine 5 mg Tablet, Rapid Dissolve [**Last Name (STitle) **]: One (1) Tablet, Rapid Dissolve PO QHS (once a day (at bedtime)) as needed for Agitation.
+Upper gastrointestinal bleed, likey from duodenal ulcer 2.
+Anemia, acute blood loss 3.
+Right cerebral hemispheric chronic subdural hematoma 2.
+Chronic Kidney Disease Stage V 3.
+Diabetes Mellitus Type II 4.
+Hypertension   Discharge Condition: Hemodynamically stable with stable hematocrit.
+Discharge Instructions: You were admitted with gastrointestinal bleeding from a duodenal ulcer and pneumonia.
+The most likely cause of your ulcer was infection with h.pylori.
+If you develop shortness of breath, fever, bloody stool, abdominal pain, nausea, vomiting, or any other concerning symptoms, please contact your doctor or report to the nearest ER.
+In addition, given your poor kidney function, you should be sure to follow-up with a nephrologist (kidney doctor).

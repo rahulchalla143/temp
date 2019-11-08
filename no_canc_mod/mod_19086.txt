@@ -1,0 +1,60 @@
+Admission Date:  [**2115-11-11**]              Discharge Date:   [**2115-11-19**]   Service: CARDIOTHORACIC  Allergies: Penicillins / Codeine  Attending:[**First Name3 (LF) 1505**] Chief Complaint: Transfer for cardiac catherization s/p NSTEMI found at OSH.
+Major Surgical or Invasive Procedure: Cardiac catherization [**2115-11-11**] Coronary artery bypass graft x3 (Left internal mammary artery > left anterior descending, saphenous vein graft > obtuse marginal, saphenous vein graft > posterior descending artery) [**2115-11-14**]   History of Present Illness: Ms. [**Known lastname 75924**] is an 86 y.o.
+woman with hx of arthritis and hypercholesterolemia, admitted at [**Hospital 1474**] Hospital on Saturday, [**2115-11-9**] with c/o chest pain.
+The day prior to admission, the patient had substernal, pressure-like chest pain that was intermittent and radiated to both arms.
+She denied any other associated symptoms, including nausea, vomiting, diaphoresis, or shortness of breath.
+Her chest pain progressively got worse during the night.
+She thought she was having a heart attack or stroke and told her daughter she needed to go to the hospital.
+Lives in apartment attached to daughters home  Family History: There is no family history of premature coronary artery disease or sudden death.
+Her sister had a stroke around the age of 50-60.
+Her mother had a stroke at 72.
+Her maternal aunt had a stroke in her 60's.
+Sclera anicteric.
+Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.
+No xanthalesma.
+Neck: Supple, no JVD appreciated.
+No thrills, lifts.
+Chest: No chest wall deformities, scoliosis or kyphosis.
+Soft inspiratory crackles at right lung base.
+No HSM or tenderness.
+No femoral bruits.
+Skin: No ulcers, scars, or xanthomas.
+Bilateral lower extremity varicose veins.
+There has been interval increase in left pleural effusion and associated atelectasis.
+Small pleural effusion is also noted on the right, slightly improved from the prior exam.
+Mild cardiomegaly is unchanged.
+No pneumothorax is noted.
+IMPRESSION: Increase in left pleural effusion.
+DR. [**First Name8 (NamePattern2) 95**] [**Last Name (NamePattern1) **] DR. [**First Name8 (NamePattern2) 1569**] [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 11006**] Approved: TUE [**2115-11-19**] 9:30 AM  [**Hospital1 18**] ECHOCARDIOGRAPHY REPORT  [**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 75925**] (Complete) Done [**2115-11-14**] at 11:56:12 AM      FINAL Referring Physician     [**Name9 (PRE) **] Information [**Name9 (PRE) **], [**First Name3 (LF) **] R. Division of Cardiothoracic [**Doctor First Name **] [**Hospital Unit Name 4081**] [**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2028-11-9**] Age (years): 87 F  Hgt (in): 62 BP (mm Hg): 114/67  Wgt (lb): 130 HR (bpm): 56  BSA (m2): 1.59 m2 Indication: Intraoperative TEE for CABG procedure ICD-9 Codes: 745.5, 786.51, 440.0, 424.1, 424.0 Test Information Date/Time: [**2115-11-14**] at 11:56    Interpret MD: [**Name6 (MD) 1509**] [**Name8 (MD) 1510**], MD Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3318**], MD Doppler: Full Doppler and color Doppler Test Location: Anesthesia West OR cardiac Contrast: None Tech Quality: Adequate Tape #: 2007AW1-: Machine: siemens Echocardiographic Measurements Results  Measurements  Normal Range Left Ventricle - Ejection Fraction:  40%  >= 55% Aorta - Annulus:  1.9 cm  <= 3.0 cm Aorta - Sinus Level:  *4.1 cm  <= 3.6 cm Aortic Valve - Valve Area:  *2.0 cm2  >= 3.0 cm2 Mitral Valve - MVA (P [**1-15**] T):  2.0 cm2  Findings LEFT ATRIUM: Mild spontaneous echo contrast in the LAA.
+Left-to-right shunt across the interatrial septum at rest.
+Small secundum ASD.
+LEFT VENTRICLE: Mildly depressed LVEF.
+RIGHT VENTRICLE: Mild global RV free wall hypokinesis.
+AORTA: Moderately dilated aortic sinus.
+Simple atheroma in descending aorta.
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3).
+MITRAL VALVE: Mildly thickened mitral valve leaflets.
+Moderate mitral annular calcification.
+Mild spontaneous echo contrast is present in the left atrial appendage.
+A left-to-right shunt across the interatrial septum is seen at rest.
+A small secundum atrial septal defect is present.
+Overall left ventricular systolic function is mildly depressed (LVEF= 40%).
+There is mild global right ventricular free wall hypokinesis.
+4.The aortic root is moderately dilated at the sinus level.
+5.There are simple atheroma in the descending thoracic aorta.
+6.The aortic valve leaflets (3) are mildly thickened.
+There is mild aortic valve stenosis (area 1.2-1.9cm2).
+Mild to moderate ([**1-15**]+) aortic regurgitation is seen.
+7.The mitral valve leaflets are mildly thickened.
+Mild (1+) mitral regurgitation is seen.
+There is a trivial/physiologic pericardial effusion.
+Small secundum ASD still present.
+Mild mitral regurgitation persists.
+Non-specific ST-T wave changes.
+Read by: [**Last Name (LF) **],[**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 10592**]    Intervals Axes Rate PR QRS QT/QTc P QRS T 65 0 90 458/466 0 -36 -20  RADIOLOGY  Final Report  CAROTID SERIES COMPLETE  [**2115-11-12**] 9:08 AM  CAROTID SERIES COMPLETE  Reason: evaluate for stenosis  [**Hospital 93**] MEDICAL CONDITION: 87 year old woman with NSTEMI s/p cath that showed 3VD.
+REASON FOR THIS EXAMINATION: evaluate for stenosis CAROTID SERIES COMPLETE.
+Moderate plaque was identified on the left.
+IMPRESSION: Moderate left-sided plaque with a 40-59% carotid stenosis although this will fall to the lower end of the range.
+F with h/o arthritis and hypercholesterolemia, admitted to OSH for [**Hospital 39700**] transferred to [**Hospital1 **] for catherization that showed 3VD, referred to cardiac surgery for evaluation.
+She had short episode of atrial fibrillation treated with beta blockers and converted to normal sinus rhythm.
+Disp:*45 Tablet Sustained Release 24 hr(s)* Refills:*0*   Discharge Disposition: Home With Service  Facility: Bayada Nurses Inc  Discharge Diagnosis: Coronary Artery Disease s/p CABG Post operative atrial fibrillation NSTEMI Hypercholesterolemia Arthritis   Discharge Condition: Good   Discharge Instructions: Please shower daily including washing incisions, no baths or swimming Monitor wounds for infection - redness, drainage, or increased pain Report any fever greater than 101 Report any weight gain of greater than 2 pounds in 24 hours or 5 pounds in a week No creams, lotions, powders, or ointments to incisions No driving for approximately one month No lifting more than 10 pounds for 10 weeks Please call with any questions or concerns [**Telephone/Fax (1) 170**]  Followup Instructions: Please call to schedule all appointments Dr [**Last Name (STitle) **] 4 weeks [**Telephone/Fax (1) 170**] Dr [**First Name (STitle) **] 1-2 weeks [**Telephone/Fax (1) 3183**] Dr. [**Last Name (STitle) 7047**] in [**2-16**] weeks    Completed by:[**2115-11-19**

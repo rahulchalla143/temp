@@ -1,0 +1,52 @@
+Admission Date:  [**2123-2-19**]              Discharge Date:   [**2123-2-27**]  Date of Birth:  [**2080-1-3**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 1115**] Chief Complaint: Dyspnea  Major Surgical or Invasive Procedure: BiPAP   History of Present Illness: The patient is a 43 yo woman with h/o morbid obesity, COPD, OSA, and recent PE on Coumadin, who presents with a two-week history of worsening dyspnea and productive cough.
+The patient states that her symptoms began at the end of [**Month (only) 404**], when she "caught a cold" from her mother.
+She has a history of asthma, and she states that she subsequently developed increasing shortness of breath, wheezing, and a cough productive of clear-brown sputum.
+She also states that she has been experiencing subjective fevers, loose stools, and increasing lower and upper extremity edema for the past week.
+She is now only able to walk a few steps before becoming short of breath.
+She was prescribed Lasix 20 mg daily at her rehab facility, as needed for peripheral edema, but she hasn't taken this since being discharged from rehab 3 weeks ago.
+She had diffuse expiratory wheezes on physical exam but no peripheral edema.
+CXR showed cardiomegaly, and EKG did not show evidence of ST-T wave abnormalities.
+On the floor, the patient continues to complain of shortness of breath and states that she has to go to the bathroom.
+Otherwise, she has no new complaints.
+Denies headache, sinus tenderness, rhinorrhea or congestion.
+Denies dysuria, frequency, or urgency.
+Denies rashes or skin changes.
+Past Medical History: Morbid obesity Obstructive sleep apnea Reactive airway disease (COPD vs. Asthma) on 4L home O2 - no PFTs available for review Presumed PE in '[**12**] Pulmonary Hypertension ?
+Hypertension Joint disease   Social History: The patient lives in [**Location 1268**] with her mother.
+HEENT: PERRL, EOMI, Oropharynx clear and without exudate.
+No crackles appreciated.
+Skin changes consistent with venous stasis in legs bilaterally.
+LEGIONELLA CULTURE (Preliminary):    NO LEGIONELLA ISOLATED.
+FUNGAL CULTURE (Preliminary):       GRAM STAIN OF THIS SPECIMEN INDICATES CONTAMINATION WITH       OROPHARYNGEAL SECRETIONS AND INVALIDATES RESULTS.
+[**2-19**] ECG: Sinus rhythm.
+Compared to the previous tracing of [**2122-9-22**] there is no diagnostic interim change.
+[**2-19**] CXR: Cardiomegaly with bilateral pulmonary infiltrates, consistent with pulmonary edema.
+There is mild symmetric left ventricular hypertrophy with normal cavity size and regional/global systolic function (LVEF>55%).
+The right ventricular cavity is moderately dilated with moderate global free wall hypokinesis.
+The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present.
+Trace aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Trivial mitral regurgitation is seen.
+There is moderate pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+Compared to [**2-21**] and [**2-22**], there is interval improvement in pulmonary edema with currently only minimal vascular engorgement and upper lobe redistribution present.
+There is no pleural effusion or pneumothorax.
+Right basilar opacity is slightly asymmetric but most likely represents residual pulmonary edema, although focus of infection cannot be excluded and should be further followed with radiographs to document complete resolution.
+Brief Hospital Course: The patient is a 43 y/o woman with h/o COPD, recent PE, and pulmonary HTN, who presents with a 3-day history of worsening dyspnea and hypoxia, believed to be due to a CHF exacerbation (in the setting of lasix noncompliance).
+Dyspnea: Believed due to a CHF exacerbation (right heart failure vs acute diastolic heart failure) given her lasix non-compliance, peripheral edema, CXR, and the fact that she has now improved to her baseline breathing status after 11 kg diuresis in the MICU.
+The patient was initially treated for COPD exacerbation with steroids, antibiotics, and diuresis.
+She did not have leukocytosis or fevers, and antibiotics and steroids were discontinued, out of the belief that her respiratory symptoms were predominantly the result of fluid overload.
+Her symptoms and chest x-rays continued to improve daily.
+She was restarted on BiPap for her severe sleep disordered breathing (settings are 15/7).
+She is discharged to rehab for continued diuresis and pulmonary rehab.
+Likely has RV dilation in setting of known pulmonary hypertension.
+History of PE's: The patient has a history of presumed PEs in [**Month (only) **], for which she is to be on anticoagulation for at least 6 months.
+# H/o COPD: This presentation appeared to be predominantly [**2-9**] volume overload rather than COPD flare.
+Without signs of infection, so held antibiotics.
+# Left thigh nodule: s/p biopsy by dermatology; primary item on the differential diagnosis (per derm) is dystrophic calification.
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for Constipation.
+Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1) nebulizer Inhalation every four (4) hours as needed for shortness of breath.
+Ipratropium Bromide 0.02 % Solution Sig: One (1) nebulizer Inhalation Q6H (every 6 hours) as needed for shortness of breath.
+Discharge Disposition: Extended Care  Facility: [**Location (un) 582**] of [**Location (un) 583**]  Discharge Diagnosis: Congestive heart failure exacerbation asthma/COPD Morbid obesity Pulmonary hypertension, Cor pulmonale   Discharge Condition: Mental Status:Clear and coherent Level of Consciousness:Alert and interactive Activity Status:Out of Bed with assistance to chair or wheelchair   Discharge Instructions: Ms. [**Known lastname 25661**], You were admitted to the hospital for shortness of breath.
+It was believed that your shortness of breath was related to excess fluid in your lungs.
+It is very important that you continue to take your medications to prevent the re-accumulation of fluid and to help your breathing.

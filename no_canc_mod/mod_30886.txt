@@ -1,0 +1,25 @@
+Admission Date:  [**2147-10-27**]       Discharge Date:  [**2147-11-10**]  Date of Birth:   [**2096-9-24**]       Sex:  F  Service:  CT [**Doctor First Name 147**]  ADMISSION DIAGNOSIS: Coronary artery disease requiring revascularization.
+HISTORY OF PRESENT ILLNESS:  This is a 51-year-old female with a history of increasing fatigue, increasing dyspnea on exertion and chest discomfort with known rheumatic fever, who was admitted for cardiac catheterization on [**2147-10-27**].
+This demonstrated 80% left main coronary artery with moderate mitral regurgitation and mitral stenosis.
+PAST MEDICAL HISTORY:  The past medical history was significant for noninsulin dependent diabetes mellitus, hypertension and rheumatic fever.
+PHYSICAL EXAMINATION:  On physical examination, the patient was a 51-year-old obese female in no apparent distress.
+The cardiac examination was significant for an S1 and S2 and a grade II/VI systolic ejection murmur.
+The abdomen was obese and soft with active bowel sounds.
+The extremities were warm with palpable dorsalis pedis pulses bilaterally and no peripheral edema noted.
+PLAN:  The plan was to perform coronary artery bypass grafting and mitral valve replacement, which was scheduled tentatively with Dr. [**Last Name (STitle) 1537**] for [**2147-10-30**].
+She developed chest discomfort that she associated with the stress of surgery.
+She did well and was extubated without complications.
+The patient was doing well on the floor until postoperative day #2, when she developed rapid atrial fibrillation with a heart rate in the 160s, requiring intravenous Lopressor for rate control.
+She was relatively well rate controlled in a rhythm that alternated between atrial fibrillation and atrial flutter when, on postoperative day #4, it was noted that the patient had a long, approximately 4.2 second, pause in which there was no ventricular response to her atrial flutter.
+The cardiology service was consulted and she subsequently had two further episodes with syncopal symptoms.
+She was started on a heparin drip, given her persistent atrial flutter/fibrillation.
+The cardiology consultant recommended that the patient would benefit from pacemaker placement; however, the patient requested if there were any alternative treatments and was informed that cardioversion would be an appropriate second choice to try to disrupt the atrial fibrillation and see if the patient had persistent pauses post cardioversion.
+A transesophageal echocardiogram was obtained to ensure that there was no clot in the left atrium.
+At that time, a significant clot was found in the left atrial appendage, which contraindicated cardioversion.
+Once her INR dropped to below 1.8, the patient underwent dual chamber pacemaker placement with a Medtronics bipolar pacing, bipolar sensing pacemaker.
+CONDITION ON DISCHARGE:  The patient was doing well and on postoperative day #11, given the fact that she was afebrile with a relatively well controlled heart rate and she was doing well despite being in persistent atrial fibrillation/flutter with excellent rate control, that she would be stable for discharge.
+Her extremities were well perfused with minimal edema.
+Noninsulin dependent diabetes.
+Rheumatic mitral valve disease, status post mitral valve replacement.
+Coronary artery disease, status post coronary artery bypass grafting.
+Atrial fibrillation/atrial flutter, status post pacemaker insertion.

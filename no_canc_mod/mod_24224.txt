@@ -1,0 +1,41 @@
+Admission Date:  [**2138-11-25**]              Discharge Date:   [**2138-11-27**]  Date of Birth:  [**2094-4-16**]             Sex:   M  Service: MEDICINE  Allergies: IV Dye, Iodine Containing  Attending:[**First Name3 (LF) 2297**] Chief Complaint: Hypotension requiring pressor & elevated BG   Major Surgical or Invasive Procedure: Central venous line placement (femoral)   History of Present Illness: 44 y/o male, with type I DM, resident of [**State 3914**], transferred from JP VA for hypotension, on peripheral dopamine.
+He reported emesis x 5 minutes and a BG of 570.
+He did not take any medications for his pain.
+He was sent from [**Hospital 2081**] clinic to the JP VA ED for dizziness and diaphoresis.
+ROS only notable for nausea, malaise, and suprapubic discomfort.
+Exam was non-focal with exception of distended abdomen.
+EKG reported as NSR at 62, nl axis, nl intervals, nl voltage, isolated Q wave in III, no ischemic changes.
+Bedside US of pericardium without large effusion.
+On the floor, patient denies recent fevers, cough, diarrhea, dysuria, or flu-like illness.
+Past Medical History: - type 1 DM (followed by [**First Name8 (NamePattern2) 2048**] [**Last Name (NamePattern1) 57712**] at VA White River Junction in VT) - MI with CABG x 3v in [**2137-5-31**] - infected sternotomy (MRSA), s/p sternum removal (chest wall without cartilage with muscle flap) - "word finding difficulty" (previously on aricept, now off) - appendectomy - arthroscopy - HTN - HLD - macular edema - non-proliferative retinopathy  Social History: - lives in [**State 3914**] - prior veteran - prior 1 ppd x 20 years, quit smoking in [**2136**] - rare EtOH - denies illicits  Family History: HTN in mother, otherwise negative for early CAD or cancer.
+Physical Exam: Physical Exam on [**Hospital Unit Name 153**] Admission: Vitals: T: 98.1, HR 85, BP 105-132/64-69, RR 15, 96% on 2L NC General: Alert, oriented, no acute distress HEENT: Sclera anicteric, MM dry, oropharynx clear Neck: supple, JVP difficult to assess, no LAD Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi CV: Regular rate and rhythm, prominent S1 + S2, no murmurs, rubs, gallops, sternotomy with muscle flap c/d/i Abdomen: obese, soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly GU: no foley Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema Rectal: old, healed pressure ulcer, at coccyx   Pertinent Results: Labs: [**2138-11-25**] 07:00PM BLOOD WBC-10.8 RBC-4.64 Hgb-14.2 Hct-40.4 MCV-87 MCH-30.7 MCHC-35.2* RDW-13.4 Plt Ct-376 Neuts-78.4* Lymphs-16.4* Monos-3.5 Eos-0.7 Baso-0.9 [**2138-11-26**] 03:44AM BLOOD WBC-10.9 RBC-3.71* Hgb-11.2* Hct-32.8* MCV-88 MCH-30.1 MCHC-34.0 RDW-13.1 Plt Ct-327 Neuts-69.8 Lymphs-23.5 Monos-5.2 Eos-1.1 Baso-0.4 [**2138-11-25**] 07:00PM BLOOD Glucose-181* UreaN-36* Creat-1.7* Na-135 K-4.8 Cl-101 HCO3-18* [**2138-11-26**] 03:44AM BLOOD Glucose-195* UreaN-26* Creat-1.2 Na-140 K-4.0 Cl-107 HCO3-23 [**2138-11-25**] 07:00PM BLOOD ALT-31 AST-32 LD(LDH)-383* AlkPhos-182* Amylase-40 TotBili-0.2 [**2138-11-26**] 03:44AM BLOOD ALT-20 AST-18 LD(LDH)-175 CK(CPK)-75 AlkPhos-140* TotBili-0.2 [**2138-11-25**] 07:00PM BLOOD Lipase-16 GGT-20 [**2138-11-25**] 07:00PM BLOOD cTropnT-<0.01 [**2138-11-26**] 03:44AM BLOOD CK-MB-3 cTropnT-<0.01 [**2138-11-25**] 07:00PM BLOOD TotProt-8.5* Albumin-5.0 Globuln-3.5 Calcium-10.1 Phos-4.0 Mg-2.3 [**2138-11-25**] 07:00PM BLOOD %HbA1c-12.4* eAG-309* [**2138-11-25**] 07:00PM BLOOD TSH-2.6 .
+s/p CABG to the left-sided vessels and large sternal defect 35 mm in the transverse dimension which is post-operative.
+No abdominal free fluid or free air.
+There is a repaired abdominal wall hernia on the right a minimal fat and bowel containing hernia.
+There is a left sided femoral venous catheter.
+No pelvic free fluid or free air.
+No acute pathology was seen to account for hypotension.
+- CXR [**2138-11-26**]: AP chest compared to [**11-25**]: Interval widening of the upper mediastinum and left hilus suggests interval volume administration.
+Moderate-to-severe cardiomegaly is larger, but there is no pulmonary edema and, as yet, no pleural effusion.
+Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded.
+There is no aortic valve stenosis.
+No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Trivial mitral regurgitation is seen.
+The tricuspid valve leaflets are mildly thickened.
+There is no pericardial effusion.
+Brief Hospital Course: Mr. [**Known lastname 88113**] is a 44 y/o male transferred from JP VA for hypotension with evidence of AGMA, [**Last Name (un) **], and elevated BG suggestive of DKA.
+# Hypotension: Believed to be most likely secondary to hypovolemia due to volume loss secondary to diabetic ketoacidosis.
+He had an ECHO completed which did not reveal RV dilitation concerning for a PE and there was no evidence of endocarditis.
+In the ED he had an extensive workup to rule out infection that might have been predisposing him to hypotension (although WBC was normal and he was afebrile), including a CT chest/abd/pelvis which did not reveal any nidus of infection.
+# DKA: Had elevated BG, AG metabolic acidosis and ketonuria on admission.
+He will follow up with his outpt endocrinologist in VT and was educated on warning signs of rising glucose and DKA and instructed to seek emergency care if he was unable to manage his glucose goal <200 at home.
+# [**Last Name (un) **]: Likely pre-renal azotemia secondary to hypovolemia.
+# Type 1 DM: followed by [**First Name8 (NamePattern2) 2048**] [**Last Name (NamePattern1) 57712**] at VA White River Junction in VT.
+BB and ACE inhibitors were held given initial hypotension on pressor.
+His home metoprolol and lisinopril were held secondary to hypotension during admission and upon discharge and can be started if needed as as outpatient.
+We recommend a trial of lowering his simvastatin dose to 40mg due to risk of rhabdomyolysis on 80mg daily, if unsuccessful, atorvastatin should be considered.
+# Elevated alkaline phosphatase: Unclear etiology.
+6. insulin pump please continue your insulin pump per your usual home settings   Discharge Disposition: Home  Discharge Diagnosis: Primary Diagnoses: Diabetic ketoacidosis Hypotension Acute kidney injury  Secondary Diagnoses: Type 1 diabetes mellitus Coronary artery disease Hyperlipidemia Hypertension   Discharge Condition: Mental Status: Clear and coherent.
+Discharge Instructions: You were admitted to the hospital for diabetic ketoacidosis, a condition with high blood sugars, dehydration, and low blood pressures.
+You were seen by one of the diabetes doctors from the [**Name5 (PTitle) **] Clinic to help us with these transitions.

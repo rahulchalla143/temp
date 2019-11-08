@@ -1,0 +1,33 @@
+Admission Date:  [**2183-8-14**]              Discharge Date:   [**2183-8-20**]   Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 13541**] Chief Complaint: Fever, rigors  Major Surgical or Invasive Procedure: None.
+History of Present Illness: Ms. [**Known lastname 1005**] is an 89yo spanish speaking female with PMH significant for multiple ESBL UTIs, lumbar osteomyelitis, and psoas abcess who was admitted to the MICU with a UTI and transient hypotension concerning for urosepsis.
+Of note, the patient was recently hospitalized in [**2183-5-20**] for E coli and K. pneumo UTI ([**1-17**] BCx + for K. pneumo), tx with cephalexin/cefpodoxime for 14d.
+This morning at the patient's NH, she was noted to have fevers and rigor.
+Upon arrival to the MICU and in the presence of the spanish translator, the patient denies any acute complaints.
+She denies any chest pain, SOB, abdominal pain, or any other concerning symptoms.
+On the floor, she only c/o generalized weakness.
+Past Medical History: 1)VRE stump infection [**1-21**] 2)Klebsiella pneumonia and bacteremia 3)Multiple UTIs including ESBL E. coli [**2183-7-30**] in setting of foley 4)Lumbar osteomyelitis L2-L3 s/p daptomycin and meropenem x8 weeks; biopsy cultures were negative 5)Psoas/iliacus abscesses [**1-21**] 6)Hypertension 7)Type 2 diabetes 8)Stomach carcinoma s/p resection 9)Hx of gastritis/esophagitis 10)Chronic anemia 11)PVD s/p common femoral to left common femoral bypass with PTFE in [**2181-6-14**] 12)L AKA in [**12-21**] c/b klebsiella PNA, VRE UTI, presumed c. diff  tx'ed with abx 8 wks 13)Hx urinary incontinence status post collagen injections to bladder neck 14)s/p hysterectomy 15)s/p oophorectomy 30 years ago  Social History: She is originally from [**Country 26231**].
+HEENT: MMM, anicteric sclera Heart: RRR, no m,r,g Lungs: CTAB, few scattered crackles at posterior lung bases Abdomen: Soft, mild tenderness in RLQ, +BS; G-tube in place without any surrounding erythema or tenderness.
+Extremities: L AKA, no edema of RLE, 2+ DP/PT pulses; quarter sized sacral ulcer with mild surrounding tenderness  Pertinent Results: [**2183-8-14**] 09:15AM   WBC-13.2* RBC-3.71* HGB-10.0* HCT-30.0* MCV-81* MCH-27.1 MCHC-33.5 RDW-14.8 [**2183-8-14**] 09:15AM   PLT SMR-HIGH PLT COUNT-470* [**2183-8-14**] 09:15AM   SED RATE-120* [**2183-8-14**] 09:15AM   CRP-177.7* [**2183-8-14**] 09:15AM   GLUCOSE-106* UREA N-17 CREAT-0.5 SODIUM-130* POTASSIUM-4.6 CHLORIDE-98 TOTAL CO2-24 ANION GAP-13 [**2183-8-14**] 09:47AM   LACTATE-3.3* [**2183-8-14**] 10:17AM URINE  COLOR-Yellow APPEAR-Cloudy SP [**Last Name (un) 155**]-1.008 [**2183-8-14**] 10:17AM URINE  BLOOD-LG NITRITE-NEG PROTEIN-30 GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.0 LEUK-MOD [**2183-8-14**] 10:17AM URINE  RBC-[**6-24**]* WBC->50 BACTERIA-MANY YEAST-FEW EPI-[**3-19**] [**2183-8-14**] 11:02AM   LACTATE-2.2*     URINE CULTURE (Final [**2183-8-17**]):       ESCHERICHIA COLI.
+No acute finding to explain source of infection.
+No CT evidence of pyelonephritis.
+No evidence of intraabdominal or pelvic abscess.
+[claustrophobia] 2) Bilateral femoral avascular necrosis with severe underlying osteoarthritis.
+3) Prominent bilateral subcutaneous edema and edema tracking along the adductor musculature bilaterally.
+MRI T/L spine ([**8-17**]): Impression: Essentially no change in the appearance of the inflammatory changes at L2-L3.
+KUB with oral contrast via J tube ([**8-16**]): Single portable radiograph of the abdomen demonstrates oral contrast within a catheter projecting over the left upper and lower quadrants.
+No extravasation is seen.
+There is a non-obstructive bowel gas pattern.
+No pneumoperitoneum is evident.
+Urine culture grew E coli and Klebsiella, sensitive to meropenem and bactrim.
+Since her initial ED presentation, she has remained without hypotension or fevers.
+MRI pelvis was attempted, but pt did not tolerate due to claustrophobia (even with ativan).
+## Rash Erythematous unilateral macular flank rash w/ small pustules noted.
+No pain, confirms pruritis.
+## Dispo All other chronic problems remained stable and treated as prior.
+Imodium A-D 2 mg Tablet Sig: One (1) Tablet PO after each loose stool as needed for diarrhea.
+Discharge Disposition: Extended Care  Facility: [**Hospital1 **] - [**Location 4288**]  Discharge Diagnosis: Primary: Urosepsis, Stage IV decubitus ulcer Lumbar osteomyelitis.
+Secondary diagnoses: Diabetes mellitus type 2, controlled with complications Hypertension Peripheral vascular disease status post left above knee amputation   Discharge Condition: Stable hemodynamics, alert and interactive, afebrile.
+Discharge Instructions: You were admitted to [**Hospital1 18**] because of a bladder infection.
+This caused you to have low blood pressure, which we fixed with fluids.
+Also, you have a rash on your back that may be herpes zoster, which is a virus.
+If you notice any problems urinating, fevers, chills, night sweats, weakness, changes in mental status, or any other concerning symptoms, please seek medical attention or come to the emergency department immediately.

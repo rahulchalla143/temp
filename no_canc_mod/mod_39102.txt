@@ -1,0 +1,43 @@
+Admission Date:  [**2174-1-11**]              Discharge Date:   [**2174-1-21**]  Date of Birth:  [**2106-4-20**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**Last Name (NamePattern4) 290**] Chief Complaint: hematochezia  Major Surgical or Invasive Procedure: Intubation  History of Present Illness: Mr. [**Known lastname 93733**] is a 67 year old man with history of severe COPD (on 3.5L home O2 and chronic steroids x 4 years, previously intubated on several occasions), was who was hospitalized at NEBH from [**Date range (1) 93734**] for a pseudomonal and proteus pneumonia, and had been discharged on cefepime to pulmonary rehab at [**Hospital1 15454**] from [**Date range (1) 86904**], where on [**2174-1-10**] he was found to have a bright red bloody bowel movement.
+The patient's wife states that he had worsening confusion for the 2 days prior to admission.
+His mental status was largely intact but he did have episodes of agitation which responded to low dose haldol.
+On the floor, he was afebrile and had no further GI bleeding.
+On the call of call-out he triggered for tachypnea, and he did occasionally have brief (1 minute) self limited episodes of tachypnea with associated desaturations to the mid-low 80's.
+These were largely felt to be due to anxiety and he responded well to low dose haldol and ativan.
+Later that afternoon, he became hypoxic to the mid 70's and had increased somnolence.
+An ABG showed extreme hypercarbia to 99.
+Due to his worsening CO2 narcosis/somnolence, he was voluntarily intubated and transferred back to the MICU for further management.
+Past Medical History: CHF atrial flutter s/p ablation hypertension multiple pneumonias glaucoma osteoporosis compression fx spine rib fracture gastroesophageal reflux disease cor pulmonale obstructive sleep apnea diabetes mellitus  Social History: 50yrs x 1.5 ppd smoking hx.
+no history of GI bleeds   Physical Exam: Vitals: T 97.9  P 86  R 17  109/72  96%3L Gen: plethoric.
+mild tenderness to LLQ w/o rebound Ext: marked calf wasting.
+trace edema to ankles.
+Studies: Abd X-Ray: Limited due to body habitus.
+Bowel gas pattern demonstrates no definite evidence of ileus or obstruction.
+There is no free air on upright view.
+Brief Hospital Course: Summary: 67 year old man with history of COPD, OSA, aflutter s/p ablation with recent subacute altered mental status transferred from OSH for w/u hematochezia found to have [**5-12**] blood cx +enterococcus.
+# Enterococcal bacteremia: The source of the infection was unclear as culture data was incomplete.
+Pt initially treated with linezolid; when sensitivities returned, he was transitioned to IV ampicillin with a two week course planned.
+He was started  on IV ampicillin and remained afebrile until his transfer back to the ICU on [**1-17**] for hypoxia and hypercarbia.
+He was noted to have worsening leukopenia and thromocytopenia while on ampicillin and although it has probable better coverage than vancomycin, the ampicillin was replace by vancomycin for total 14-day course.
+# Respiratory: Pt began treatment at OSH for pseudomonas and proteus PNA with ceftazidime on [**12-30**]; this was d/c'd after a 14 days.
+There was initially a question of possible TB exposure given cavitary lesions reported on OSH CT, but AFB stain of BAL were negative.
+A CT in-house shows emphysematous lesions, retained secretions with L upper lobe lung nodules and RML collapse.
+Pt also w/ significant COPD on high-dose steroids.
+However, on [**1-17**], he demonstrated increasing somnolence and an ABG showed a CO2 of 99, so the patient was intubated for ventilation and transferred back to the ICU.
+His respiratory distress appeared to be exacerbated by anxiety as well as intolerance of face mask.
+His anxiety also makes Bipap nearly impossible and he cannot use it to treat his sleep apnea.
+Anxiety control is therefore paramount to his respiratory status with emphasis on minimizing meds that will cause somnolence and respiratory depression.
+# Hematochezia: A lower source of bleeding was felt more likely over upper source based on the presence of bright red blood.
+Differential included diverticular bleed, ischemic colitis, polyp, hemorrhoid.
+His HCTs were entirely stable on the floor and he had no further episodes of BRBPR.
+# Mental Status and Anxiety: The patient's subacute change in MS was felt likely related to steroids, sedating medications, prolonged hospitalization.
+# Atrial Tachycardia: The pt's home dose of diltiazem had been lowered given bleed; this was slowly titrated back up with good effect, though is baseline HR is in 100s .
+Lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO Q8H (every 8 hours) as needed for constipation.
+Lorazepam 0.5 mg Tablet Sig: 1-2 Tablets PO Q3H (every 3 hours) as needed for shakiness, agitation: hold for sedation or respiratory rate <10; prn haldol should be first-line [**Doctor Last Name 360**].
+Haloperidol Lactate 5 mg/mL Solution Sig: One (1) mg Injection Q3H (every 3 hours) as needed for agitation.
+20. azopt eye drops 1 drop [**Hospital1 **] 21. lumigan eye drops 1 drop [**Hospital1 **]   Discharge Disposition: Extended Care  Facility: [**Hospital1 700**] - [**Location (un) 701**]  Discharge Diagnosis: PRIMARY: Chronic obstructive pulmonary disease SECONDARY: Gastrointestinal Bleed Anxiety Multifocal Atrial Tachycardia Enterococcal bacteremia   Discharge Condition: Good; breathing comfortably on 2L nasal cannula with increased control of anxiety.
+You were seen by the GI consult service and because you did not appear to have an acute active bleed and your blood counts remained stable, you can follow-up with them as an outpatient.
+You were being treated for pneumonia on your arrival and you finished a 14-day course of antibiotics.
+You were noted to have bacteria in your blood and were started on intravenous antibiotics.
+It is unclear what [**Doctor Last Name **] source of the bacteria was, put the indwelling IV catheter (PICC) from the OSH or a urinary tract infection were suspected.
+You also had difficulty with your breathing and required intubation for respiratory distress.

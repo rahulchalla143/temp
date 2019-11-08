@@ -1,0 +1,37 @@
+Admission Date:  [**2161-12-7**]              Discharge Date:   [**2161-12-19**]  Date of Birth:  [**2130-8-4**]             Sex:   M  Service: MEDICINE  Allergies: Penicillins / Shellfish  Attending:[**First Name3 (LF) 465**] Chief Complaint: Hypoxic respiratory failure, intubated in ED.
+Major Surgical or Invasive Procedure: intubation, central line, art line, dialysis  History of Present Illness: 31 year old male with ESRD secondary to membranous glomerulonephritis, recent admission from [**8-30**] - [**2161-10-7**] for aortic valve MSSA endocarditis/abscess presumed secondary to HD line infection, course complicated by post-operative aortic root abscess requiring homograft/redo AVR, and bilateral subclavian DVTs for which he is on coumadin, who presented to the ED this a.m. complaining of 3 days of shortness of breath, and 1 day of severe chest pain with inspiration.
+Per their report, the patient denied recent fevers, chills, or cough.
+He has had shortness of breath over the last 3 days, as well as severe pleuritic left sided chest pain since yesterday.
+He reports non-bloody diarrhea over the last few days.
+Of note, he had a low grade fever at HD 2 days prior to admission at which time blood cultures were sent.
+He was placed on a NRB with O2 sat in the low 90s, however he continued to be tachypneic, with severe pleuritic chest pain.
+After intubation, he seemed to be quite dysynchronous with the ventilator, requiring fentanyl, versed, and propofol to achieve synchrony.
+CXR revealed bilateral infiltrates.
+Labs were notable for hyperkalemia (6.2) for which he was given kayexalate, HCO3, insulin, and D50.
+Past Medical History: # ESRD: Secondary to membranous glomerulonephritis diagnosed on renal biopsy in [**2158**].
+# Hypertension # Hyperlipidemia # Chronic fatigue syndrome # Aortic endocarditis/abscess with MSSA, presumed secondary to HD line infection, status post aortic valve replacement in [**9-23**] (23 mm [**Doctor Last Name **] Magna aortic valve bioprosthesis.
+# Bilateral subclavian vein thromboses on US in [**9-23**] # PFO, with left to right shunt across interatrial septum at rest, seen on TTE [**2161-9-29**].
+# Pyloric stenosis in childhood, surgically repaired  Social History: Originally from [**Male First Name (un) 1056**].
+Family History:  mother - breast ca at 45, survivor, aunt - died of MI at 50, no other family hx of renal disease, no DM or other CA in the family  Physical Exam:  101.3, 113, 114/62, on AC 650x16 (spont 32), FiO2 100%, PEEP 10.
+GENERAL: Slim male appearing slightly dysynchronous with the ventilator.
+EXTR: Left radial AVF without thrill, mildly erythematous, no mass.
+No edema, no palpable cords on lower extremities.
+31 year old male with ESRD secondary to membranous glomerulonephritis, recent aortic valve MSSA endocarditis/abscess presumed secondary to HD line infection, course complicated by post-operative aortic root abscess requiring homograft, and bilateral subclavian DVTs for which he is on coumadin, who presented to the ED this a.m. with dyspnea, pleuritic chest pain, found to have hypoxic respiratory failure secondary to bilateral lobar pneumonia, and sepsis in the setting of recently positive blood culture at dialysis.
+1) Hypoxic respiratory failure/Pneumonia/ARDS: Likely secondary to pneumonia but also may have element of alveolar hemorrhage.
+He did experience transient desaturation and tachypnea during his stay on the floor but this was secondary to volume overload due to receiving several units of blood prior to undergoing dialysis.
+Staph aureus bacteremia concerning for seeding of prosthetic AVR but TEE showed no evidence of endocarditis and no abscesses seen on CT torso.
+# Anemia: The patient had an acute anemia to 25 secondary to a left thigh hematoma and adductor/obturator bleed after placement of a L groin HD catheter.
+He is also on epogen with HD chronically for a chronic anemia.
+# ESRD: The patient has a LUE AVF, but it has apparently clotted off.
+Renal placed left femoral HD line, but complicated by left leg hematoma, now resolved.
+# Anticoagulation: Currently on a heparin gtt bridge to coumadin with INR goal of [**2-20**] for bioprosthetic AVR and subclavian clots.
+# Pancreatitis: Mr. [**Known lastname 11041**] began having abdominal pain on HD 2 and was noted to have an amylase of 308, lipase of 250.
+He was made NPO and his pain has subsided with morphine.
+Abd US revealed a pancreatic duct at upperlimit of normal w/o evidence of obstruction/stones.
+He has had a recent abd CT which also commented on a duct at the upper limit of normal.
+The patient no longer has any abdominal complaints and was tolerating a PO diet well at time of discharge.
+# anion gap acidosis: the patient had an anion gap acidosis likely secondary to uremia which closed after receiving HD.
+# Diarrhea: C diff negative x 2, no Shigella or Campy on stool culture.
+Disp:*60 Tablet(s)* Refills:*0*   Discharge Disposition: Home With Service  Facility: [**Hospital 5065**] Healthcare  Discharge Diagnosis: Primary: MSSA Sepsis .
+Secondary: ESRD on HD Hypertension   Discharge Condition: Stable   Discharge Instructions: You were admitted for sepsis with respiratory failure requiring endotracheal intubation secondary to an infection from your dialysis catheter.
+If you experience shortness of breath, chest pain, headache, fever or chills or swelling/redness or pain at the site of your dialysis catheter, please seek medical attention.

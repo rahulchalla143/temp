@@ -1,0 +1,51 @@
+Admission Date:  [**2160-9-17**]              Discharge Date:   [**2160-9-24**]  Date of Birth:  [**2091-3-6**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 348**] Chief Complaint: Shortness of breath   Major Surgical or Invasive Procedure: None  History of Present Illness: Ms. [**Known lastname **] is a 69 year old female with history of DM2, HTN, hypercholesterolemia, who is transfered from [**Hospital **] Hospital after a CTA demonstrated a large pulmonary embolus.
+The patient presented to [**Hospital1 **] on the morning of transfer complaining of progressive shortness of breath over the last 1.5 weeks.
+She flew here from [**Country 6257**] about 3.5 weeks ago, however it wasn't until about 1.5 weeks ago that she noted increased shortness of breath with minor activity, accompanied by a substernal feeling of tightness without radiation.
+Per her son, she has been relatively immobile as a general rule, and did complain of increased LLE calf pain over the same time frame.
+She denies any dyspnea at rest, orthopnea, chest pain, or hemoptysis.
+No lightheadedness or syncope.
+Past Medical History: DM2 HTN Hypercholesterolemia  Social History: Denies etoh, drug, or cigarette use.
+Her father had an MI at 65.
+Cor: RR, normal rate, 2/6 systolic murmur heard across the precordium.
+Extr:  Trace bilateral lower extremity edema, firmness of L calf relative to R. Neuro:  Alert, responds to questions from her son.
+Brief Hospital Course: 69 year old female with HTN, DM2, presenting with new large PE and evidence of RH strain on EKG, though hemodynamically stable, being admitted to MICU for respiratory monitoring and consideration of thrombolysis.
+She was admitted to the MICU because of evidence of RH strain on EKG, although she was hemodynamically stable.
+An echocardiagram was performed showing that the left atrium is moderately dilated.
+There is mild symmetric left ventricular hypertrophy.
+Left ventricular systolic function is hyperdynamic (EF>75%).
+There is abnormal septal motion/septal bounce.
+There is moderate aortic valve stenosis.
+Mild to moderate ([**12-30**]+) aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+There is no mitral valve prolapse.
+Trivial mitral regurgitation is seen.
+The left ventricular inflow pattern suggests impaired relaxation.
+There is moderate pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+2) HTN:  Patient was hypertensive on admission, but currently antihypertensives were held off given possibility of hemodynamic worsening.
+Her pressures normalized to the 130s/70s without antihypertensives.
+No need for central access currently.
+Disp:*60 Tablet(s)* Refills:*2*   Discharge Disposition: Home With Service  Facility: VNA of Greater [**Location (un) 5871**]/[**Location (un) 6159**]  Discharge Diagnosis: Pulmonary Embolism Diabetes Hypertension   Discharge Condition: Good, Stable, Afebrile   Discharge Instructions: You were admitted for shortness of breath and found to have a pulmonary embolism.
+Please call your PCP or go to the Emergency room if you develop shortness of breath, chest pain, fevers or chills  Below is information regarding coumadin (warfarin)  What is warfarin?
+Warfarin counteracts the effect of vitamin K and helps prevent harmful blood clots.
+Some common reasons for needing anticoagulation are: &#[**Numeric Identifier 62692**]; atrial fibrillation &#[**Numeric Identifier 62692**]; heart attack &#[**Numeric Identifier 62692**]; heart valve replacement &#[**Numeric Identifier 62692**]; pulmonary embolism ( blood clot in the lung) &#[**Numeric Identifier 62692**]; stroke &#[**Numeric Identifier 62692**]; deep vein thrombosis (blood clot in the upper or lower leg or arm) &#[**Numeric Identifier 62692**]; after certain surgeries  How do I take it?
+This means you are at an increased risk for bleeding.
+Contact your provider right away or go to an emergency room if you experience signs or symptoms of bleeding.
+Some examples of bleeding could be: &#[**Numeric Identifier 62693**]; headache, dizziness, or weakness &#[**Numeric Identifier 62693**]; bleeding from a cut that does not stop &#[**Numeric Identifier 62693**]; nosebleeds &#[**Numeric Identifier 62693**]; bleeding from gums when brushing your teeth (if this is a new symptom) &#[**Numeric Identifier 62693**]; bruising for unknown reasons &#[**Numeric Identifier 62693**]; pain, discomfort, or swelling in any area, especially after an injury &#[**Numeric Identifier 62693**]; dark brown or red urine &#[**Numeric Identifier 62693**]; throwing up blood, or throwing up material that looks like ?????
+&#[**Numeric Identifier 62693**]; blood in the bowel movements, or very dark bowel movements &#[**Numeric Identifier 62693**]; more bleeding than usual with your menstrual cycle or unexpected vaginal bleeding &#[**Numeric Identifier 62692**]; Circulation problems If the warfarin is not working as it should, you could develop a blood clot (thrombosis).
+Contact your provider right away, or go to an emergency room, if you have any signs of circulation problems.
+Watch for the following problems: &#[**Numeric Identifier 62693**]; [**Name2 (NI) **]is or a blood clot.
+Signs might include swelling, pain or redness in the arm or leg; shortness of breath; irregular heart beat; numbness or tingling, especially on one side of your body; changes in your speech, vision or level of alertness.
+&#[**Numeric Identifier 62693**]; Purple Toe Syndrome, which causes purple discoloration of your fingers or toes, or sudden leg or foot pain.
+&#[**Numeric Identifier 62693**]; Necrosis characterized by blackening of the skin which indicates a death of tissue due to lack of circulation.
+This is a serious, but rare side effect in people who have an inherited blood clotting disorder.
+&#[**Numeric Identifier 62692**]; Allergic reaction In some cases, warfarin causes an allergic reaction.
+If you have any of the following signs of an allergic reaction, stop taking warfarin and go to the nearest emergency room: &#[**Numeric Identifier 62693**]; difficulty breathing &#[**Numeric Identifier 62693**]; swelling of your throat, tongue or face &#[**Numeric Identifier 62693**]; hives or a rash  What else do I need to know?
+?t eat large portions at once of a food that has a lot of Vitamin K. The Vitamin K can interact with the warfarin and prevent it from working the way it should.
+Most doctors recommend that [**Name5 (PTitle) **] (Tylenol) be taken for short periods if needed to manage pain or fever.
+Let your provider know if you will be taking [**Name5 (PTitle) **] or any other new medicine.
+Talk with your provider before starting, stopping or changing doses of any medicine, vitamin, herb, or supplement.
+Talk with your pharmacist when having prescriptions filled or refilled.
+Contact your provider if you experience: &#[**Numeric Identifier 62693**]; nausea, vomiting, diarrhea &#[**Numeric Identifier 62693**]; fever &#[**Numeric Identifier 62693**]; infection &#[**Numeric Identifier 62693**]; decreased appetite or change in diet &#[**Numeric Identifier 62693**]; any other change in health  Alcohol - Alcohol should be avoided while taking warfarin.
+Alcohol changes the way your body processes warfarin and puts you at increased risk for bleeding or clotting.
+?s ability to form harmful blood clots while keeping you safe from the risk of bleeding.

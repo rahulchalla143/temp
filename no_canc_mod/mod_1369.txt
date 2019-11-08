@@ -1,0 +1,71 @@
+Admission Date:  [**2132-1-8**]              Discharge Date:   [**2132-1-22**]  Date of Birth:  [**2060-7-19**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**Last Name (NamePattern1) 1167**] Chief Complaint: Shortness of breath  Major Surgical or Invasive Procedure: Biventricular pacemaker with ICD  History of Present Illness: 71M with dilated CMY, EF20% (hospitalized in [**2127**] for CHF thought to be due to medication noncompliance), no significant CAD on cath in [**2123**], CKD (baseline Cr 1.8), HTN, gout, who has had a chronic cough since [**2131-7-11**] that was treated with increased Lasix and PPI.
+As per patient's wife, he's had a chronic progressive cough since [**Month (only) 216**], associated with PND and orthopnea, and yesterday had increased SOB and DOE, palpitation and chills.
+She reports that he hasn't been having CP, abdominal pain, or fevers.
+She also denies him reporting hematochezia or melena.
+In Dr.[**Name (NI) 10697**] clinic note yesterday, the patient had apparently been taking Lisinopril, which was supposed to be stopped on account of renal failure, and there is a question as to whether he was taking his carvedilol.
+In the ED he was intubated for SOB, SBP to 70 mmHg, and bradycardia to 17bpm (as per cardiology note) responsive to atropine.
+He was started on Norepinephrine and Dopamine for cardiogenic shock, and given Levofloxacin for concern for pneumonia related sepsis.
+He had a CXR that showed no overt failure and correct placement of a RIJ central line.
+He also had a noncontrast Chest CT that was negative for aneursym or focal consolidation.
+On review of symptoms, he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.
+He denies recent fevers, chills or rigors.
+He denies exertional buttock or calf pain.
+Cardiac review of systems is notable for absence of chest pain, ankle edema, syncope or presyncope   Past Medical History: 1. dilated cardiomyopathy: LVEF 23% ([**12/2123**]) 2.
+Hypertension 3. chronic renal failure (baseline Cr 1.7) .
+Family History: Brother with MI at age 75.
+Sclera anicteric.
+Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.
+Neck: Supple without obvious JVD CV: PMI located in 5th intercostal space, slightly lateral from midclavicular line, [**2-14**] holosystolic murmur at apex.
+Chest: No chest wall deformities, scoliosis or kyphosis.
+Abd: Obese, soft, NTND, No HSM or tenderness.
+No abdominial bruits.
+No femoral bruits.
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+TTE ([**2132-1-8**]) - The left atrium is markedly dilated.
+The right atrium is moderately dilated.
+There is severe global left ventricular hypokinesis (LVEF = 15-20%).
+No masses or thrombi are seen in the left ventricle.
+The right ventricular cavity is mildly dilated with moderate global free wall hypokinesis.
+The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic stenosis.
+Mild (1+) aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened and do not fully coapt.
+A slightly-eccentric, posteriorly directed jet of severe (4+) mitral regurgitation is seen.
+Quantitative evaluation of mitral regurgitation demonstrates an effective regurgitant area of 0.4 cm2 and a regurgitant volume of 47 ml/beat.
+There is moderate pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+IMPRESSION: Severely dilated left ventricle with severe global systolic dysfunction.
+Severe secondary mitral regurgitation.
+Mild aortic regurgitation.
+Moderate pulmonary hypertension.
+No evidence of mediastinal or retroperitoneal hematoma.
+Left inguinal hernia contains small bowel without evidence of incarceration or obstruction.
+Hepatic and renal cysts as well as hypodensities too small to characterize.
+TTE ([**2132-1-18**]) - The left atrium is markedly dilated.
+No atrial septal defect is seen by 2D or color Doppler.
+There is severe global left ventricular hypokinesis (LVEF = 20 %).
+There is no ventricular septal defect.
+The right ventricular cavity is dilated with depressed free wall contractility.
+The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present.
+Mild (1+) aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+There is no mitral valve prolapse.
+Severe (4+) mitral regurgitation is seen.
+The tricuspid valve leaflets are mildly thickened.
+Moderate [2+] tricuspid regurgitation is seen.
+There is moderate pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+Brief Hospital Course: 71M with dilated cardiomyopathy with SOB admitted with cardiogenic shock and intubated for respiratory distress, s/p BIV-ICD placement .
+# Decompensated Systolic Heart failure: Initially, patient was admitted in decompensated failure with severe pulmonary edema.
+Milrinone was also weaned off and patient was able to tolerate re-initiation of cardiac medications.
+# CAD/Ischemia: No known coronary artery disease.
+# Bradycardia: Patient had episodic bradycardia with symptoms.
+This was felt to be secondary to increased vagal tone and resolved spontaneously.
+# Valvular Disease: Patient with known severe mitral regurgitation.
+# Acute on Chronic Renal Failure: Likely secondary to medication error (patient continued taking lisinopril after this was discontinued by PCP) and decreased forward flow from worsening failure.
+This resolved however and creatinine returned to baseline at time of discharge, suggesting this was mostly due to renal hypoperfusion from worsening failure.
+# Gout: Patient developed acute gout flare while hospitalized, likely secondary to agressive diuresis.
+# Communication: with patient and wife .
+Discharge Disposition: Home With Service  Facility: [**Location (un) 86**] VNA  Discharge Diagnosis: Primary Diagnoses: Congestive heart failure-- systolic, acute on chronic Mitral valve regurgitation .
+Secondary Diagnoses: Gout Hypertension .
+Discharge Condition: Stable-- blood pressure stable; breathing comfortably on room air; feeling significantly less short of breath than on admission.
+Discharge Instructions: You were admitted to the hospital because of shortness of breath caused by fluid on your lungs from a weak heart.

@@ -1,0 +1,53 @@
+Admission Date:  [**2145-9-6**]              Discharge Date:   [**2145-9-23**]  Date of Birth:  [**2077-10-8**]             Sex:   F  Service: MEDICINE  Allergies: Penicillins  Attending:[**First Name3 (LF) 2181**] Chief Complaint: Fever, SOB, cough  Major Surgical or Invasive Procedure: Endotrachial intubation Bronchoscopy Foley catheter placement Left subclavian line placement  History of Present Illness: 67 y/o F with a h/o HTN, T2DM, and hyperlipidemia who presented to the ED with a 4 day h/o cough, SOB, and fever.
+She had a productive cough of pink, frothy sputum.
+She also reported myalgias and decreased PO intake.
+She presented to the ED for further evaluation of her symptoms.
+HTN 3.
+Hyperlipidemia  Social History: No tobacco or ethanol use  Family History: NC  Physical Exam: On transfer from MICU:  Vitals: T 98.4 HR 81 BP 115/44 RR 22 94-100% on 2L NC General: 67 F in NAD HEENT: NC/AT.
+nl s1, s2; No m/r/g.
+Pulm: CTAB, mildly decreased BS RUL.
+2+ DP's bilaterally.
+2+ edema around ankles bilaterally, 1+ edema in UEs around wrists.
+Access: Left subclavian in place   Pertinent Results: Initial Labs ([**9-6**]):  WBC 17.5 Hb 13.6 Hct 39.8 Plt 233 Diff - 66N + Dohle bodies, 21 Bands, 10 lymphs  NA 135 Chloride 96 BUn 41 Glucose 224 K 4.1  Bicarb 26   Cr 2.1  Lactate 3.0  Ck 1297 CK MB 7 Trop T < 0.01  ABG 7.29/53/83 21:07 [**9-6**]  ABG 7.26/63/70 06:00 [**9-7**]  Mixed Venous  7.43/55/169 [**9-16**]  Fe studies: Iron 81 ug/dL 30 - 160 Iron Binding Capacity, Total 252* ug/dL 260 - 470 Ferritin 513* ng/mL 13 - 150 Transferrin 194* mg/dL 200 - 360  Micro: BRONCHOALVEOLAR LAVAGE GRAM STAIN-FINAL; RESPIRATORY CULTURE-FINAL; LEGIONELLA CULTURE-FINAL; FUNGAL CULTURE-PRELIMINARY; ACID FAST SMEAR-FINAL; ACID FAST CULTURE-PENDING  CMV, EBV negative Legionella negative Mycoplasma IgG, IGM negative Multiple blood culture, urine culture, respiratory culture negative  Imaging:  [**9-6**] PA and Lateral: CHEST, TWO VIEWS: There is dense opacification of the right upper lung with associated air bronchograms.
+There is thickening of the right minor fissure likely due to a small amount of fluid in the fissure.
+The right posterior costophrenic sulcus is blunted consistent with a small pleural effusion.
+[**9-7**] ECHO Conclusions: The left atrium is mildly dilated.
+There is mild symmetric left ventricular hypertrophy with normal cavity size and regional/global systolic function (LVEF>55%).
+Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded.
+The aortic valve leaflets (3) are mildly thickened.
+There is no aortic valve stenosis.
+No aortic regurgitation is seen.
+There is no mitral valve prolapse.
+There is no pericardial effusion.
+IMPRESSION: Mild symmetric left ventricular hypertrophy with preserved left ventricular systolic function.
+Mild valvular thickening with no signifcant stenosis or regurgitation.
+[**9-21**] PA and lateral chest compared to [**9-14**] through [**9-18**]: A small amount of volume loss persists in the right upper lobe.
+There is no good evidence of recurrent pneumonia.
+Mild cardiomegaly is stable.
+There is an unusual configuration to gas shadows in the upper abdominal midline, probably unusual displacement of the gastric antrum.
+If patient has referable symptoms to abdominal pathology I would reevaluate with routine abdominal radiographs.
+No pneumothorax.
+She was pan-cultured, given a dose of antibiotics, and transferred to the MICU for presumed septic shock.
+# Respiratory failure/Septic Shock: In the MICU she quickly went into severe hypoxic hypercarbic failure (7.26/59/63 on NRB) requiring intubation.
+She became hypotensive, requiring transient pressors and a total of 13 liters net volume resuscitation.
+By chest x-ray, her consolidation resolved quickly after 5 days (post-bronchoscopy for cultures), suggesting increased secretions were a major component of her pulmonary dysfunction.
+She had a prolonged intubation ([**Date range (1) **]) with hypoxia during spontaneous breathing trials for many days.
+She had an O2 requirement for 1-2 days on the floor that improved with incentive spirometry and walking with PT.
+# Rhabdomyolysis Upon presentation in the MICU, her CK was 1297 with large blood and few RBCs in the urine suspicious for rhabdomyolysis.
+# Atrial fibrillation The patient's MICU course was also complicated by atrial fibrillation for 3-4 days not properly rate controlled on metoprolol or diltiazem.
+Echocardiography showed a normal heart with LVH and preserved EF (>55%).
+In discussions with the cardiology consult service, it was felt that the transient risk factor for atrial fibrillation (septic shock) had resolved and that long-term anticoagulation would not be warranted.
+She reported no palpitations at any point in her stay.
+# Weakness Ms. [**Known lastname 1001**] was initially weak while recovering from her extesnive MICU course.
+# Anemia She had a labile hematocrit during this admission, likely consistent with a dilutional effect from high volume resuscitation.
+On discharge, she has borderline macrocytic anemia with near-appropriate reticulocyte production and Fe studies consistent with anemia of chronic disease.
+# Hypertension Her blood pressure was titrated with IV beta-blocker in the MICU and switched oiver to PO beta-blocker once the patient was taking good POs.
+ACE-I was D/Ced out of concern for renal toxicity while rhabdomyolysis resolving.
+Outpt resumption of ACE-I can be considered for this hypertensive patient with diabetes mellitus.
+#Hyperlipidemia Crestor was held durign this admission out of concern for potentially exacerbating rhabdomyolysis.
+Disp:*1 bottle* Refills:*2*   Discharge Disposition: Home With Service  Facility: Americare at Home Inc  Discharge Diagnosis: Primary: Lobar pneumonia Hypoxic and hypercarbic respiratory failure Septic shock Rhabdomyolysis Atrial fibrillation Critical illness myopathy  Secondary: Hypertension Diabetes mellitus type 2 controlled   Discharge Condition: good.
+Discharge Instructions: You have been evaluated and treated for a severe pneumonia.
+Your course was complicated by severe breathing difficutly requiring a breathing machine to temporarily support your breathing.
+Also, there was evidence of temporary muscle breakdown that was resolving by the time of discharge.
+During the most severe period of your illness, you developed a rapid irregular heartbeat.
+If you develop any new or concerning symptom such as shortness of breath, chest pain, fevers to greater than 101F, or a fast irregular heartbeat; please seek medical attention as soon as possible.

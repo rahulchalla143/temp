@@ -1,0 +1,25 @@
+Admission Date:  [**2103-3-5**]              Discharge Date:   [**2103-3-11**]   Service: MEDICINE  Allergies: Augmentin  Attending:[**First Name3 (LF) 2297**] Chief Complaint: Mixed respiratory failure  Major Surgical or Invasive Procedure: Intubation CVL  History of Present Illness: Mrs. [**Known lastname **] is an 87 year old female with a PMH significant for HTN, asthma, and chronic mixed respiratory failure followed by Dr. [**Last Name (STitle) **] now admitted for hypoxemic respiratory failure.
+At that time, she was disoriented and looked short of breath with a "glassy look in her eyes."
+Of note, the patient was admitted to [**Hospital1 18**] from [**Date range (1) 4256**] for hypoxemia of unclear etiology with hospital course complicated by aspiration pneumonia.
+She has since followed up with Dr. [**Last Name (STitle) **] of Pulmonary with suspicion for chronic mixed respiratory failure, possibly from neuromuscular disease, pulmonary hypertension from dCHF and elevated left-sided pressures, and kyphoscoliosis.
+She was then noted to be persistently hypoxemic and then became hypotensive, and so was intubated.
+Cardiology was consulted for question of NSTEMI given a TnT of 0.04, who felt that the patient was not in over cardiogenic shock or having a plaque rupture.
+Past Medical History: - Hypoxemia, chronic hypercarbia felt to be secondary to restrictive physiology from possible neuromuscular deficit.
+- History of asthma, but has not been treated with any medications.
+- Hypertension.
+- Osteoporosis.
+- History of uterine cancer resected in [**2077**] without recurrence.
+- History of kidney stones.
+There is mild global left ventricular hypokinesis (LVEF = 40%).
+The right ventricular cavity is mildly dilated with mild global free wall hypokinesis.
+The ascending aorta is mildly dilated.
+There is no aortic valve stenosis.
+No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Trivial mitral regurgitation is seen.
+There is no pericardial effusion.
+IMPRESSION: Mild global biventricular systolic dysfunction, most c/w diffuse process (toxic, metabolic, etc).
+Brief Hospital Course: Mrs. [**Known lastname **] is an 87 year old female with a PMH significant for HTN, asthma, and chronic mixed respiratory failure followed by Dr. [**Last Name (STitle) **] admitted for hypoxemic respiratory failure with hospital course complicated by fevers, atrial fibrillation with RVR, and inability to clear secretions upon extubation.
+Mixed respiratory failure/Goals of care: A-a gradient of 145 on admission in setting of likely dynamic hyperinflation with NIPPV.
+Patient has a chronic element of CO2 retention with a HCO3 in the 30-40s since [**2081**], with Dr. [**Last Name (STitle) **] concerned about a neuromuscular disorder.
+In addition, she has K-S on CXR and signs of elevated filling pressures with an estimated TRG 45 in 1/[**2102**].

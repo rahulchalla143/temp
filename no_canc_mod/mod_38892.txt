@@ -1,0 +1,54 @@
+Admission Date:  [**2121-1-12**]              Discharge Date:   [**2121-1-18**]  Date of Birth:  [**2060-11-26**]             Sex:   M  Service: MEDICINE  Allergies: Tomato / aspirin  Attending:[**First Name3 (LF) 4095**] Chief Complaint: Hypotension  Major Surgical or Invasive Procedure: Right IJ placement ([**2121-1-12**]) Arterial line placement ([**2121-1-12**]) Endotracheal intubation and mechanical ventilation  History of Present Illness: 60M history of IVDU, alcoholism (4 years ago), cirrhosis secondary to Hepatitis C complicated by metabolic and hepatic encephalopathy, CKD, seizure disorder, asthma, hypertension, anxiety that was found down apneic and taken to [**Hospital3 12594**].
+Patient with very tired appearing.
+He also does have a tendency for pneumonia.
+He was last hospitalized two weeks for bronchitis with a four day course.
+A CXR showed vancomycin 1 gram IV, flagyl, ?
+Head CT scan showed hypoattenuation in basal ganglia bilaterally suggesting ischemia.
+ECG showed sub-millimeter ST elevations in II,III,aVF with troponin 0.14 and lactate 3.3.
+He was intubated by [**Location (un) **] for poor mental status/airway protection in order to transport him to [**Hospital1 18**].
+Cardiology was consulted, and performed a bedside ECHO showing normal EF, no hypokinesis, no effusion.
+There was no evidence of endocarditis or overt valvular pathology.
+CVC was placed with no CVP performed.
+Exam was significant for petechiae on RLE.
+No acute STEMI or ST/T changes concerning for ischemia.
+Review of systems: unable to obtain given patient intubated  Past Medical History: - cirrhosis secondary to Hepatitis C complicated by metabolic and hepatic encephalopathy, unknown if history of varices or SBP - seizure disorder - s/p left hip operation (unknown type) and septic hip - s/p left shoulder operation (unknown type) - Alcoholism (abstinent for four years) - History of IVDU (?heroin) - Chronic kidney disease (unknown stage) - Hypertension - Anxiety/Depression/Bipolar - History of C. diff colitis - History of aspiration pneumonia - unknown cardiac history per family members  Social History: Unable to obtain on admission.
+Physical Exam: ADMISSION EXAM General Appearance: No acute distress Eyes / Conjunctiva: PERRL Head, Ears, Nose, Throat: Normocephalic, Poor dentition, Endotracheal tube, NG tube Lymphatic: Cervical WNL Cardiovascular: (PMI Normal), (S1: Normal), (S2: Normal) Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse: Present), (Right DP pulse: Present), (Left DP pulse: Present) Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : ) Abdominal: Soft, Non-tender, Bowel sounds present Extremities: Right lower extremity edema: Absent, Left lower extremity edema: Absent, petechiae on right medial lower extremity Skin:  Warm Neurologic: Responds to: Not assessed, Movement: Not assessed, Sedated, Tone: Not assessed, withdrawals all four extremities to pain and grimaces, CN grossly intact .
+CT CHEST W/CONTRAST; CT ABD & PELVIS WITH CONTRAST IMPRESSION: 1.
+Left femoral deformity, displacement and hardware of indeterminate chronicity, with intermediate density in the joint space.
+Acute trauma and infection cannot be excluded.
+Evidence for portal hypertension, including splenomegaly and recanalized paraumbilical veins, likely secondary to cirrhosis.
+Bilateral pulmonary opacities, concerning for aspiration.
+Trace perihepatic ascites.
+Bright DWI and FLAIR signal in the bilateral globus pallidus with no evidence of corresponding bright signal on ADC may represent a sub-acute hypoxic injury or other metabolic/toxic process.
+Ethmoid and left mastoid air cells fluid.
+Discharge Labs: [**2121-1-17**] 06:00AM BLOOD WBC-5.6 RBC-4.03* Hgb-12.0* Hct-35.4* MCV-88 MCH-29.8 MCHC-33.9 RDW-14.6 Plt Ct-143* [**2121-1-17**] 06:00AM BLOOD Plt Ct-143* [**2121-1-17**] 06:00AM BLOOD Glucose-108* UreaN-7 Creat-0.8 Na-141 K-3.2* (repleted) Cl-106 HCO3-27 AnGap-11  Brief Hospital Course: 60M history of IVDU/alcoholism, cirrhosis secondary to Hepatitis C, CKD, seizure disorder, asthma, hypertension, anxiety that was found down apneic with acute encephalopathy, hypercarbic respiratory with resultant sepsis likely from pulmonary source and ?
+basal ganglia ischmemia in setting of hypotension.
+# Acute Metabolic Encephalopathy: The initial differential was broad including drug overdose in setting of prior substance abuse history and positive toxicology screen with opiates and benzos, toxic-metabolic namely hypercarbia/hypoxemia from poor respiratory drive, primary neurogenic such as post-ictal state in setting of prior seizure history or basal ganglia stroke given head CT findings, septic encephalopathy among others.
+Likely sequence of events would be process such as pneumonia or drug overdose leading to respiratory failure with subsequent sepsis and hypoperfusion resulting in combined picture of primary neurogenic and septic encephalopathy with contribution of hypercarbia.
+Pt was subsequently extubated without complication and his mental status returned to baseline over the course of three days.
+Unclear what role likely overdose and/or aspiration pneumonia plated [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **].
+Etiology potentially multifactorial secondary to overdose, hypovolemia from poor PO intake, and/or potentially septic shock from aspiration pneumonia.
+There was initial concern for cardiogenic shock from STEMI at OSH, but ECG, troponins, bedside ECHO in ER not suggestive of acute event making cardiogenic shock less likely.
+No evidence of distributive shock from process such as pancreatitis.
+# Hypercarbic, hypoxemic respiratory failure secondary to likely overdose and subsequent Aspiration PNA (MRSA): Pt presented with low respiratory rate with pin-point pupils concerning for toxidrome from opiates/benzo; however, he was not responsive to narcan.
+His A-a gradient initially was 80.9 suggesting that in addition to frank hypoventilation given clinical history, there was likely some concurrent parenchymal process such as V/Q mismatch (A-a gradient approximately 81).
+Initial gas showing primary respiratory acidosis.
+Overall, favor toxidrome with subsequent aspiration event.
+CHRONIC ISSUES: # Basal ganglia infarcts: Head CT showing basal ganglia lesions, which could be concerning for infarcts.
+MR revealed a sub-acute hypoxic injury or other metabolic/toxic process.
+# ?Hip pathology: Patient with left femoral deformity, displacement and hardware of indeterminate age - per family, had hip operation several years ago.
+# History of drug abuse/alcoholism Toxicology screen positive for benzo and opiates.
+# Cirrhosis secondary to Hepatitis C (Admit MELD 12): Per report, pt with hx of hepatic encephalopathy in past.
+Unknown if varices or ascites/SBP in past.
+CT showing evidence of portal hypertension including splenomegaly and trace perihepatic ascites.
+No frank evidence of decompensated liver disease.
+TRANSITIONAL ISSUES: # Incidental findings 1.
+Bright DWI and FLAIR signal in the bilateral globus pallidus with no evidence of corresponding bright signal on ADC may represent a sub-acute hypoxic injury or other metabolic/toxic process.
+Left femoral deformity, displacement and hardware of indeterminate chronicity, with intermediate density in the joint space.
+Acute trauma and infection cannot be excluded.
+# Transitional issues - repeat CXR in [**3-14**] weeks to evaluate for resolution of pulmonary process .
+The PCP expressed that the pt had recently been dismissed from his practice, but that the pt could follow-up with him within the next 30 days for aspiration pneumonia follow-up.
+Disp:*qs bottle* Refills:*0* 8. loperamide 2 mg Capsule Sig: One (1) Capsule PO QID (4 times a day) as needed for diarrhea.
+Discharge Disposition: Home With Service  Facility: Comfort Home care  Discharge Diagnosis: Primary Diagnosis - Overdose - Acute Hypercarbic Respiratory Failure - Aspiration Pneumonia .
+Secondary Diagnoses  Discharge Condition: Mental Status: Confused - sometimes.
+You are able to see Dr. [**Last Name (STitle) 9303**] for pneumonia follow-up for the next 30 days before finding a new primary care physician.

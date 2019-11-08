@@ -1,0 +1,49 @@
+Admission Date:  [**2193-1-15**]              Discharge Date:   [**2193-1-24**]  Date of Birth:  [**2133-11-29**]             Sex:   F  Service: CARDIOTHORACIC  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 922**] Chief Complaint: Chest Pain   Major Surgical or Invasive Procedure: 1.
+History of Present Illness: Ms. [**Known lastname 87978**] is a 59 year old female who had tightness in her chest at rest and also described a rawness in her airways.
+An echocardiogram revealed a torn mitral chordae.
+Past Medical History: Palpitations Polycystic Kidney disease Hypothyroidism Tibial Plateau fracture Herpes (last flair in [**2192-3-19**]) Tonsillectomy and adenoidectomy   Social History: Ms. [**Known lastname 87978**] works in retail at home and lives with her significant other.
+Family History: non contributory   Physical Exam: Pulse: 113 Resp: 26  O2 sat: 96% RA B/P  130/85  General: sitting on strecher no distress able to interact - no SOB Skin: Dry [x] intact [x] HEENT: PERRLA [x] EOMI [x] Neck:  Supple [x] Full ROM [x] +JVD Chest: Lungs clear bilaterally [] Rales bilaterally Heart: RRR [x]  Irregular []  Murmur - holosystolic Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds + [x] Extremities: Warm [x], well-perfused [x]  Edema none Neuro: Grossly intact [x]   Pertinent Results: [**Hospital1 18**] ECHOCARDIOGRAPHY REPORT  [**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 87979**] (Complete) Done [**2193-1-16**] at 2:52:58 PM      FINAL Referring Physician     [**Name9 (PRE) **] Information [**Name9 (PRE) **], [**First Name3 (LF) 177**] C. [**Hospital Unit Name 927**] [**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2133-11-29**] Age (years): 59 F  Hgt (in): BP (mm Hg): /  Wgt (lb): HR (bpm):  BSA (m2): Indication: Intraoperative TEE for MVR with IABP ICD-9 Codes: 428.0, 424.0, 424.2 Test Information Date/Time: [**2193-1-16**] at 14:52    Interpret MD: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 4901**], MD Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Name Initial (MD) **] [**Name8 (MD) 4901**], MD Doppler: Full Doppler and color Doppler Test Location: Anesthesia West OR cardiac Contrast: None Tech Quality: Adequate Tape #: 2010AW1-: Machine: AW2 Echocardiographic Measurements Results  Measurements  Normal Range Left Atrium - Long Axis Dimension:  *6.4 cm  <= 4.0 cm Left Ventricle - Inferolateral Thickness:  0.8 cm  0.6 - 1.1 cm  Left Ventricle - Diastolic Dimension:  4.8 cm  <= 5.6 cm Left Ventricle - Ejection Fraction:  50% to 55%  >= 55% Aorta - Sinus Level:  2.9 cm  <= 3.6 cm Aorta - Sinotubular Ridge:  2.3 cm  <= 3.0 cm Aorta - Ascending:  2.8 cm  <= 3.4 cm Aortic Valve - LVOT diam:  1.9 cm  Findings LEFT ATRIUM: Marked LA enlargement.
+No spontaneous echo contrast or thrombus in the LA/LAA or the RA/RAA.
+No ASD by 2D or color Doppler.
+LEFT VENTRICLE: Wall thickness and cavity dimensions were obtained from 2D images.
+[Intrinsic LV systolic function likely depressed given the severity of valvular regurgitation.]
+Focal calcifications in aortic root.
+Simple atheroma in descending aorta.
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3).
+MITRAL VALVE: Moderately thickened mitral valve leaflets.
+Myxomatous mitral valve leaflets.
+Partial mitral leaflet flail.
+Mild mitral annular calcification.
+The rhythm appears to be atrial fibrillation.
+Conclusions PRE CPB The left atrium is markedly dilated.
+No spontaneous echo contrast or thrombus is seen in the body of the left atrium/left atrial appendage or the body of the right atrium/right atrial appendage.
+No atrial septal defect is seen by 2D or color Doppler.
+[Intrinsic left ventricular systolic function is likely more depressed given the severity of valvular regurgitation.]
+There are simple atheroma in the descending thoracic aorta.
+The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present.
+No aortic regurgitation is seen.
+There is partial mitral leaflet flail involving the P2 scallop.
+An eccentric, anteriorly directed jet of severe (4+) mitral regurgitation is seen.
+Moderate [2+] tricuspid regurgitation is seen.
+The left ventricle displays mild to moderate global hypokinesis with an EF in the 40 to 45% range.
+There is a mitral annular ring in situ.
+There is mild, valvular mitral regurgitation.
+There is no mitral stenosis.
+There is trace to mild tricuspid regurgitation.
+Electronically signed by [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 4901**], MD, Interpreting physician [**Last Name (NamePattern4) **] [**2193-1-16**] 16:07   Brief Hospital Course: Ms. [**Known lastname 87978**] was presented to an outside hospital emergency department with chest pain and fever.
+An echo cardiogram revealed a torn mitral valve chord and severe mitral regurgitation.
+She underwent a cardiac catheterization which revealed clean coronaries and a balloon pump was placed secondary to poor right heart function.
+Infectious disease was consulted on arrival given her fever history and she was placed on antibiotics until her valve tissue cultures returned negative.
+She was seen by the renal service for elevated creatinine, which resolved below baseline at discharge.
+She had atrial fibrillation and responded with bradycardia to amiodarone on conversion to sinus rhythm.
+She was seen by electrophysiology for evaluation of electrical cardioversion or pacemaker.
+By post operative day 8 her rhythm resolved to sinus and the electrophysiology service felt there was no need for a pacemaker.
+It was advised that she not be started on any nodal agents, but that coumadin be started for atrial fibrillation.
+Titrate for INR goal of [**2-21**] for atrial fibrillation.
+Acute mitral regurgitation.
+Congestive heart failure secondary to #1.
+Chronic renal failure due to polycystic kidney disease.
+Acute respiratory failure secondary to #1 and #2.
+Moderate-to-severe tricuspid regurgitation.
+Palpitations Polycystic Kidney disease Hypothyroidism Tibial Plateau fracture Herpes (last flair in [**2192-3-19**]) Past Surgical History Tonsillectomy and adenoidectomy   Discharge Condition: Alert and oriented x3 nonfocal Ambulating with steady gait Incisional pain managed with  oral analgesic Incisions: Sternal - healing well, no erythema or drainage Leg Right/Left - healing well, no erythema or drainage.
+Answering service will contact on call person during off hours**  INR goal for atrial fibrillation [**2-21**] First INR to be drawn on [**2193-1-25**] Plan confirmed with [**Doctor Last Name **] on [**2193-1-24**] Phone ([**Telephone/Fax (1) 87980**] Fax ([**Telephone/Fax (1) 87981**]    Completed by:[**2193-1-24**

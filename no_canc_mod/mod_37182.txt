@@ -1,0 +1,56 @@
+Admission Date:  [**2133-10-9**]              Discharge Date:   [**2133-10-14**]  Date of Birth:  [**2082-9-28**]             Sex:   M  Service: MEDICINE  Allergies: Penicillins  Attending:[**First Name3 (LF) 134**] Chief Complaint: cardiac arrest  Major Surgical or Invasive Procedure: Cardiac Cath ICD placement  History of Present Illness: [**Known firstname **] [**Known lastname 3704**] is a 51 y/o man with no known coronary disease who is transfered to the CCU [**2133-10-9**] after being admitted to [**Hospital3 3765**] on the evening of [**2133-10-8**] following a cardiac arrest.
+He had felt well through all of this, without chest pain or dyspnea.
+His wife subsequently heard him gurgling and he was found with agonal breaths and non-responsive.
+He was intubated in the field post-recsussitation due to a poor respiratory effort and he was transfered to the [**Hospital3 3765**] ICU.
+He didn't note any palpiutations, chest pain, or diaphoresis at the time.
+Cardiac review of systems is notable for absence of chest pain, dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope.
+Past Medical History: 1) Bilateral Inguinal Hernias s/p repair in [**2120**] and 200 2) Rectal Bleeding s/p sigmoidoscopy c/w internal hemhorroids.
+No prior cardiac history, including caths, echos, stress tests, pacers/ICDs.
+Sclera anicteric.
+Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.
+No xanthalesma.
+No thrills, lifts.
+LUNGS: CTAB, no crackles, wheezes or rhonchi.
+Unlabored breathing ABDOMEN: Soft, NT, ND, pos BS, no HSM or masses.
+No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+Selective coronary angiography of this left dominant system demonstrated no angiographically apparent flow limiting epicardial coronary artery disease.
+The LMCA, LAD, LCX had no disease.
+Manipulation of an AL1 guide cannulated the RCA and revealed a non-dominant vessel without coronary artery disease.
+Limted resting hemodynamics showed mildly elevated left ventriuclar filling pressures measured at 18 mmHg.
+The patient did not tolerate positioning of the reference device so measurement of the stroke volume could not be performed.
+The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic regurgitation.
+The mitral valve appears structurally normal with trivial mitral regurgitation.
+There is no mitral valve prolapse.
+There is no pericardial effusion.
+The myocardium appeared to have homogenous signal intensity without evidence of myocardial fatty infiltration.
+There were no pericardial or pleural effusions.
+The main pulmonary artery diameter index was mildly increased.
+There was no focal thinning or fatty infiltration seen in the RV free wall.
+There were no aneurysms seen in the RV free wall or right ventricular outflow tract.
+Quantitative Flow  There was no significant intra-cardiac shunt.
+Aortic flow demonstrated no significant aortic regurgitation.
+There was no mitral regurgitation.
+There was mild pulmonic valve regurgitation.
+The right ventricular stroke volume and pulmonic flow demonstrated no significant tricuspid regurgitation.
+Myocardial Perfusion and Fibrosis  There were no areas of focal hyperenhancement, consistent with the absence of myocardial scarring/infarction.
+No CMR evidence of prior myocardial scarring/infarction.
+No CMR evidence of right ventricular fatty infiltration/dysplasia.
+Mild pulmonic regurgitation.
+The main pulmonary artery diameter index was mildly increased.
+Brief Hospital Course: 51 y/o man with no known history of any CAD and minimal CAD risk factors who presented after sudden cardiac arrest after being revived with CPR/AED en route to ED.
+Admission cardiac cath showed no CAD and ECHO WNL with LVEF >55%.
+Baseline EKG with LVH and ST-T wave configuration consistent with early repolarization pattern, otherwise benign.
+On morning of [**10-12**], pt described mild chest tightness, attributed to anxiety based on description of pain, unchanged EKG and recent normal cath.
+An EP study done on [**10-13**] showed no evidence of abnormal conduction or inducable arrythmias.
+After discussion, aspirin was determined unnecessary given known clean coronaries.
+Pt scheduled to follow up with electrophysiology to discuss need for formal EP study and ask about need for any further EKG screening of family members  2) Cognitive Impairment: Pt had short term memory deficits that have improved steadily during course of admission, most likely secondary to hypoxia in setting of recent arrest.
+There was no evidence of seizure and no indication for a brain MRI.
+Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*2*   Discharge Disposition: Home  Discharge Diagnosis: Ventricular Fibrillation s/p ICD placement   Discharge Condition: stable   Discharge Instructions: Your heart stopped while you were home, an event called "sudden cardiac arrest" that was due to an abnormal heart rhythm called ventricular fibrillation.
+You have a normal EKG, heart function and no evidence of scarring on your cardiac MR. [**First Name (Titles) **] [**Last Name (Titles) 68714**] a defibrillator to treat the very rapid rhythm that you had before.
+You need to take antibiotics for 3 days as a precaution against infection at the incision site.
+You should not have any swelling, increasing pain, discharge or bruising at the site.
+Please call the device clinic if you notice any of these changes or if the device shocks you.
+Metoprolol Succinate: a beta blocker that slows your heart rate and may prevent a very rapid rhythm 3.
+Oxycodone/acetaminophen: as a pain medicine to take as needed for the incision site.
+Please call [**First Name4 (NamePattern1) 1258**] [**Last Name (NamePattern1) 69336**] NP or Dr.[**Last Name (STitle) **] if you develop palpitations, weakness or fainting, increasing chest discomfort, or any other concerning symptoms.

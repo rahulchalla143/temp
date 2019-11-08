@@ -1,0 +1,55 @@
+Admission Date:  [**2105-6-18**]              Discharge Date:   [**2105-6-23**]  Date of Birth:  [**2034-3-24**]             Sex:   F  Service: MEDICINE  Allergies: Zyban  Attending:[**Last Name (NamePattern1) 1167**] Chief Complaint: Atrial fibrillation with rapid ventricular response  Major Surgical or Invasive Procedure: cardioversion   History of Present Illness: [**Known firstname **] [**Known lastname **] is a 71 year-old woman with h/o hyperthyroidism, DM, HTN, and dyslipidemia who was found by her PCP to have [**Name Initial (PRE) **] HR of 150 in atrial flutter.
+ECG showed narrow-complex tachycardia at [**Street Address(2) 96583**] depressions in lateral leads.
+She denied any chest pain, palpitaitons, diziness, lightheadedness, shortness of breath or any symptoms.
+She had nausea and vomiting.
+Patient had SOB and did not respond to ipratropium bromide nebs.
+On review of systems, s/he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.
+S/he denies recent fevers, chills or rigors.
+S/he denies exertional buttock or calf pain.
+Cardiac review of systems is notable for absence of chest pain, dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope.
+Hypertension - On enalapril.
+Paroxismal Atrial Fibrillation associated with [**Doctor Last Name 933**] as above.
+Son with DM1 and MI in his 30s.
+No history of cancer.
+HEENT - NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear, Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.
+No xanthalesma.
+NECK - supple, no thyromegaly, JVP >7cm (difficult to assess given BiPAP mask), no carotid bruits LUNGS - bibasilary crackles, no r/rh/wh, good air movement, resp unlabored, no accessory muscle use HEART - PMI located in 5th intercostal space, midclavicular line.
+SEM [**1-2**] RUSB no radiation.
+No thrills, lifts.
+ABDOMEN - NABS, soft/NT/ND, no masses or HSM, no rebound/guarding.
+No abdominial bruits.
+No femoral bruits.
+SKIN - no rashes or lesions.
+No stasis dermatitis, ulcers, scars, or xanthomas.
+LYMPH - no cervical, axillary, or inguinal LAD NEURO - awake, A&Ox3, CNs II-XII grossly intact, muscle strength [**3-31**] throughout, sensation grossly intact throughout, DTRs 2+ and symmetric, cerebellar exam intact, steady gait PULSES: Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+, Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+   Pertinent Results: Admission Labs: [**2105-6-18**] WBC-11.5 Hgb-13.9 Hct-40.3 Plt Ct-256 PT-11.2 PTT-21.9 INR(PT)-0.9 Glucose-163 UreaN-26 Creat-1.2 Na-140 K-4.7 Cl-105 HCO3-24 CK(CPK)-87 cTropnT-<0.01 T4-6.3 T3-111 Free T4-1.4 TSH-0.057  ECHO [**2105-6-19**]: The left atrium is mildly dilated.
+The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic regurgitation.
+The mitral valve leaflets are mildly thickened.
+There is no mitral valve prolapse.
+Moderate (2+) mitral regurgitation is seen.
+There is mild pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+CXR [**2105-6-20**]: The heart is mildly enlarged and there is pulmonary vascular redistribution with small right pleural effusion and small areas of subsegmental atelectasis seen best on the lateral films.
+Discharge Labs: [**2105-6-22**] WBC-11.2* RBC-3.75* Hgb-12.1 Hct-35.5* MCV-95 MCH-32.3* MCHC-34.1 RDW-14.2 Plt Ct-229 [**2105-6-23**] PT-30.8* PTT-32.2 INR(PT)-3.1* [**2105-6-23**] Glucose-160* UreaN-29* Creat-1.1 Na-140 K-4.3 Cl-106 HCO3-26 AnGap-12 [**2105-6-22**] Calcium-9.9 Phos-4.1 Mg-2.1 [**2105-6-18**] TSH-0.057* [**2105-6-18**] D-Dimer-427 [**2105-6-18**]  T4-6.3 T3-111 Free T4-1.4  Brief Hospital Course: # Rhythm - Patient with AFib with RVR in the setting of subclinical hyperthyroidism.
+She was asymptomatic at presentation and continued to deny palpitations.
+She was also started on methimazole as the thought was that her persistent atrial fibrillation was likely due to her being clinically hyperthyroid due to her history of Grave's disease.
+She was started on warfarin for chronic anticoagulation.
+After 1 month of anticoagulation, may be beneficial to consider cardioversion in this patient if she remains in atrial fibrillation.
+# Hyperthyroidism - She has a history of [**Doctor Last Name 933**] disease, s/p treatment for hyperthyroidism multiple times.
+Patient with low TSH level, but normal levels of T4, free T4, and T3.
+She was started on methimazole 10 mg daily for low [**Last Name (un) **] of clinical hyperthyroidism, as it was felt this was likely contributing to her atrial fibrillation.
+# Respiratory Failure - Patient presented to the CCU on BiPap with acute pulmonary edema after being given intravenous fluids in the ED while in Afib with RVR.
+# Pump - No signs of CHF.
+Patient had TTE to rule out structural heart disease as the cause of Afib.
+Echo showed normal wall motion, moderate MR, and mild pulmonary hypertension.
+# CAD - She has no known CAD and no evidence that her atrial fibrillation is related to ischemia.
+# Leukocytosis - Patient with an increased in white blood cell count to 20.7 (from 11.5 on admission).
+It was felt that her leukocytosis was most likely due to the administration of IV solumedrol in the ED.
+# Hypertension - Patient without hypertension during her treatment with metoprolol and diltiazem for rate control of Afib.
+# Dyslipidemia - Continued home-dose statin.
+ProAir HFA 90 mcg/Actuation HFA Aerosol Inhaler Sig: Two (2) puffs Inhalation every four (4) hours as needed for shortness of breath or wheezing.
+Disp:*30 Capsule, Sustained Release(s)* Refills:*2*   Discharge Disposition: Home  Discharge Diagnosis: Hyperthyroidism Atrial Fibrillation with rapid ventricular response Diabetes Mellitus Tobacco Abuse   Discharge Condition: stable   Discharge Instructions: You were found to have atrial fibrillation, a very common heart arrhythmia.
+If you have any fevers you should call your doctor and have blood drawn for a CBC with differential because the methimazole can cause you to lose your white blood cells which protect you from infection.
+Because you have atrial fibrillation, you will need to be on coumadin to prevent blood clots and strokes.
+Warfarin (coumadin): a blood thinner that will help to prevent a stroke.
+Please call Dr. [**First Name (STitle) 437**] if you notice palpitations, dizziness, dark or bloody stools, bleeding that wont stop, vomiting of blood.
+Please call Dr. [**Last Name (STitle) **] for fatigue, dizziness, skin or appetite changes, fevers or other signs of infection.

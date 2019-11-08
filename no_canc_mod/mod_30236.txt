@@ -1,0 +1,46 @@
+Admission Date:  [**2153-8-30**]              Discharge Date:   [**2153-8-31**]  Date of Birth:  [**2077-7-1**]             Sex:   M  Service: MEDICINE  Allergies: Morphine / Coumadin  Attending:[**Last Name (NamePattern4) 290**] Chief Complaint: Mechanical Fall  Major Surgical or Invasive Procedure: Stitches placed for head laceration   History of Present Illness: Mr [**Known lastname 24110**] is a 76yo man with stable multiple sclerosis with chronic suprapubic cath, hx prostate ca, left parietal AVM, PAF who presents s/p mechanical fall.
+He insists he caught his [**Known lastname **] wheel and fell, no syncope or dizziness, no LOC.
+EMS noted him to be bradycardic in field.
+No chest pain, lightheadedness, change in urine, cough, dyspnea, fever, night sweats or chills.
+He was recently admitted for an acute change in mental status and bradycardia.
+He was afebrile w/O2 sat 100% on RA.
+A U/A showed 30-50WBCs, moderate bacteria and 0-2 epithelial cells.
+Multiple sclerosis - followed by Dr.[**First Name4 (NamePattern1) 449**] [**Last Name (NamePattern1) 45435**] at [**Hospital1 2025**].
+Neurogenic bladder - suprapubic catheter in place; followed by Dr. [**Last Name (STitle) 9125**].
+Hypertension 4.
+Severe constipation - followed by Dr. [**Last Name (STitle) 10689**].
+Glaucoma 6.
+Prostate cancer - s/p hormonal therapy and radiation.
+Pneumonia 8.
+Hyperlipidemia 11.
+Depression 12.
+History of AVM in the left parietal lobe 13.
+Obstructive sleep apnea utilizing CPAP at night 14.
+Peripheral neuropathy 15.
+Thoracic outlet syndrome 16.
+Gastroesophageal reflux disease 18.
+History of left foot fracture 21.
+Osteopenia 22.
+Atrial Fibrillation on [**Month/Year (2) **] 22.
+Some dried blood around right eye.
+Neck: supple, JVP not elevated, no LAD Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi CV: Heart sounds are distant, regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops Abdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding.
+No suprapubic tenderness.
+GU: no foley Ext: warm, well perfused, 2+ pulses throughout, no edema  Pertinent Results: ADMISSION LABS: [**2153-8-30**] 07:00PM BLOOD WBC-5.9 RBC-3.52* Hgb-10.6* Hct-31.6* MCV-90 MCH-30.2 MCHC-33.6 RDW-14.3 Plt Ct-186 [**2153-8-30**] 07:00PM BLOOD Neuts-62.3 Lymphs-25.6 Monos-5.7 Eos-5.6* Baso-0.8 [**2153-8-30**] 07:00PM BLOOD PT-12.7 PTT-29.4 INR(PT)-1.1 [**2153-8-30**] 07:00PM BLOOD Glucose-122* UreaN-25* Creat-1.3* Na-139 K-4.6 Cl-106 HCO3-27 AnGap-11 [**2153-8-30**] 07:00PM BLOOD cTropnT-<0.01  UA: [**2153-8-30**] 07:00PM URINE Color-Yellow Appear-Hazy Sp [**Last Name (un) **]-1.010 [**2153-8-30**] 07:00PM URINE Blood-NEG Nitrite-NEG Protein-25 Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-MOD [**2153-8-30**] 07:00PM URINE RBC-0 WBC-21-50* Bacteri-MOD Yeast-NONE Epi-0-2 [**2153-8-30**] 10:41PM URINE Hours-RANDOM UreaN-473 Creat-72 Na-49 K-62 Cl-62 [**2153-8-30**] 10:41PM URINE Osmolal-400  CE trend: [**2153-8-30**] 07:00PM BLOOD cTropnT-<0.01 [**2153-8-31**] 05:10AM BLOOD CK-MB-3 cTropnT-<0.01  MICRO: [**8-30**] UCx: pending  IMAGING: [**8-30**] CT Cspine: 1.
+No evidence of acute injury to the cervical spine.
+Left thyroid nodules.
+[**8-30**] CT head: No evidence of acute intracranial abnormality.
+Stable, likely cavernoma within the left parietal lobe and likely colloid cyst in the third ventricle.
+No hydrocephalus.
+DISCHARGE LABS: [**2153-8-31**] 05:10AM BLOOD WBC-6.5 RBC-2.97* Hgb-9.1* Hct-26.9* MCV-91 MCH-30.7 MCHC-33.9 RDW-14.4 Plt Ct-147* [**2153-8-31**] 05:10AM BLOOD Glucose-123* UreaN-26* Creat-1.1 Na-144 K-3.8 Cl-111* HCO3-26 AnGap-11 [**2153-8-31**] 05:10AM BLOOD CK-MB-3 cTropnT-<0.01 [**2153-8-31**] 05:10AM BLOOD Calcium-8.4 Phos-3.6 Mg-2.2 [**2153-8-30**] 07:00PM BLOOD TSH-0.91   Brief Hospital Course: Mr. [**Known lastname 24110**] is a 76 year old male with MS, h/o sinus bradycardia and recent admission for vasovagal syncope who prsents s/p mechanical fall, found to be hypotensive and bradycardic.
+Hypotension/Hypertension - Pt with very labile blood pressures ranging from SBP 90s-low 200s, likely [**12-19**] to autonomic dysfunction.
+He was continued on his home Enalapril at discharge, but this should be discussed at his upcoming outpatient appointments with his cardiolgist and gerontologist, as the episodes of hypotension may be contributing to his instability and falls.
+#Falls - Pt evaluated by PT who determined that from a mechanical state, the pt is a high risk for falling again.
+# Bradycardia - Pt with sinus bradycardia, similar to recent [**Month/Day (2) 5348**].
+# Head Lac - Was sutured in ED with absorbable sutures (no need to remove), CT of head/Cspine showed no acute process (no bleed).
+CT Cspine does note thyroid nodules, which should be followed up with ultrasound if not previously worked up.
+- needs thyroid ultrasound  # Multiple Sclerosis: Walks with a [**Month/Day (2) **] at [**Month/Day (2) 5348**]  # UTI: Likely colonized given chronic suprapubic catheter.
+No fever, elevated WBC count, or elevated lactate.
+- f/u UCx  #OSA: Bipap while inpatient  #Glaucoma: Continued home eye drops  #Multiple sclerosis: Has been stable for many years.
+Evaluted by physical therapy - the patient is quite unstable and at high risk for further falls.
+Discharge Disposition: Home With Service  Facility: [**Hospital 119**] Homecare  Discharge Diagnosis: Primary Diagnosis: Mechanical fall Head laceration Acute renal failure Bradycardia Hypotension  Secondary Diagnosis: Atrial fibrillation Multiple sclerosis   Discharge Condition: Mental Status: Clear and coherent.
+You were also noted to have mild renal failure, which also improved with intravenous fluids.

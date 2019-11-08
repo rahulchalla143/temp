@@ -1,0 +1,33 @@
+Admission Date:  [**2125-11-1**]              Discharge Date:   [**2125-11-9**]  Date of Birth:  [**2073-1-25**]             Sex:   M  Service: MEDICINE  Allergies: Codeine / Compazine / Penicillins / Metformin / Heparin Agents / Ativan  Attending:[**First Name3 (LF) 5119**] Chief Complaint: Hypoxia  Major Surgical or Invasive Procedure: EUS [**2125-11-1**]   History of Present Illness: Initial H & P is as per Dr. [**First Name4 (NamePattern1) **] [**Last Name (un) 101568**] .
+Mr. [**Known lastname 110907**] is a 52 yo M ex-smoker and ex-IVDU with severe COPD and multiple COPD exacerbations, chronic trach (on 3L-4L NC at baseline), right hemidiaphragm dysfunction and tracheal stenosis s/p tracheal stent in [**8-16**] who was transferred to the ICU after becoming hypoxic after an endoscopic U/S.
+No fever or chills.
+He underwent endoscopic U/S for evaluation of a pancreatic cyst, but given that the lesion did not appear worrisome for malignancy, no biopsies were performed.
+After the procedure he become hypoxic to the 70s, suctioned for thick secretions with improvement to the 80s on 3L, but given concern for respiratory distress was transferred to the [**Hospital Unit Name 153**].
+Upon arrival he states that his breathing still feels labored.
+He has chronic back pain which is at 4/10.
+Past Medical History: 1) Severe O2-dependent COPD 2) Tracheal stenosis s/p stent, stent removal, dilatation, and tracheostomy insertion [**Month (only) 205**]-[**2124-8-9**] (Interventional pulmonology notes report an "A"-shaped stenosis with tracheomalacia at the level of the 1st and 2nd tracheal rings.
+The stenosis was dilated with a rigid bronchoscope) 3) Diabetes mellitus type 2.
+5) Hepatitis B.
+6) Chronic lower back pain, associated with mid-thoracic vertebral compression fractures from osteoporosis(details unknown).
+8) History of intravenous drug use.
+?F) HR: 88 (80 - 115) bpm BP: 104/73(80) {90/33(55) - 115/82(93)} mmHg RR: 18 (15 - 33) insp/min SpO2: 91% Heart rhythm: SR (Sinus Rhythm) Height: 67 Inch  GEN: NAD HEENT: EOMI, PERRL, sclera anicteric, MMM, OP Clear NECK: No JVD, carotid pulses brisk, no cervical lymphadenopathy, trachea midline COR: RRR, no M/G/R, normal S1 S2, radial pulses +2 PULM: Lungs - poor air mov't b/l, symmetric wheezes, no crackles.
+Lung sounds in all lung fields ABD: Firm secondary to abdominal breathing, no distension, no masses palpated, +BS EXT: RLE erythema, slight swelling and warmth, LLE wnl.
+No ecchymoses.
+Pertinent Results: [**2125-11-2**] 04:38AM BLOOD WBC-11.0 RBC-4.24* Hgb-11.0* Hct-33.7* MCV-80* MCH-26.0* MCHC-32.7 RDW-13.3 Plt Ct-302 [**2125-11-1**] 01:54PM BLOOD Neuts-73.5* Lymphs-11.3* Monos-9.7 Eos-5.0* Baso-0.5 [**2125-11-1**] 01:54PM BLOOD PT-12.5 PTT-30.6 INR(PT)-1.1 [**2125-11-2**] 04:38AM BLOOD Glucose-131* UreaN-9 Creat-0.6 Na-140 K-4.2 Cl-95* HCO3-40* AnGap-9 [**2125-11-2**] 04:38AM BLOOD Calcium-9.1 Phos-3.6 Mg-2.0 [**2125-11-1**] 02:51PM BLOOD Type-ART pO2-99 pCO2-86* pH-7.30* calTCO2-44* Base XS-12  CXR [**11-1**] IMPRESSION: Lung volumes remain low, with bibasilar atelectasis.
+Otherwise, no evidence of acute intrathoracic process to account for the new symptoms.
+Recommendations: Given severe co-morbidities and absence of "alarm features" FNA was not performed.
+Brief Hospital Course: A/P: Mr. [**Known lastname 110907**] is a 52 yo M w/ severe COPD requiring multiple ICU admissions for mechanical ventilation, tracheal stenosis s/p tracheal stent in [**8-16**] presenting w/ hypoxia after endoscopic U/S performed to eval pancreatic mass.
+Hypercarbic respiratory failure/Severe 02 dependent COPD: Upon arrival to the unit the patients symptoms were consistent with prior COPD excerbations.
+The patient desats to high 70s, and ABG showing hypercarbia to 86 (baseline 70s).
+The patient lacked an signs of infection on CXR, no leukocytosis  and afebrile.
+During the patient's ICU course he was subsequently changed to PO Prednisone with plans for a slow taper.
+Sputum cultures revealed MRSA, and without evidence for PNA on CXR, the pt was started on Vanc for trachobronchitis.
+Azythromycin was also added for potential atypical coverage.
+Chronic Abdominal/Back Pain:  Pt with chronic back pain compliants.
+He has a history of polysubstance abuse and was high tolerance for pain medication.
+Diabetes mellitus type 2: FSBS were under relatively good control during hospitalization.
+No documented hx of HIT in OMR.
+Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO every [**4-15**] hours as needed for pain or fever.
+Polyethylene Glycol 3350 100 % Powder Sig: One (1)  PO daily prn as needed for constipation.
+Discharge Disposition: Extended Care  Facility: [**First Name4 (NamePattern1) 3504**] [**Last Name (NamePattern1) **] Rehabilitation & Nursing Center - [**Location (un) 538**]  Discharge Diagnosis: COPD exacerbation MRSA tracheobronchitis   Discharge Condition: Good   Discharge Instructions: -Transfer back to long term care facility.
+-Follow up with Dr. [**Last Name (STitle) 4507**] as scheduled -Return to ED if you have worsening shortness of breath, chest pain, or other worrisome signs/symptoms.

@@ -1,0 +1,60 @@
+Admission Date:  [**2120-9-10**]              Discharge Date:   [**2120-10-1**]  Date of Birth:  [**2070-3-5**]             Sex:   F  Service: NEUROLOGY  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 1032**] Chief Complaint: Headache, fever, worsening gait x 1 d  Major Surgical or Invasive Procedure: Fluoroscopy-guided lumbar puncture  History of Present Illness: Mrs [**Last Name (STitle) 54844**] is a 50 y/o right handed woman with h/o encephalitis of unknown etiology (currently on empiric anti-Tb therapy) who presents with headache, fever, and worsening gait x 1 d. She is a patient well-known to the Neurology service, and is followed by Drs [**Last Name (STitle) 1968**] and [**Name5 (PTitle) 1206**].
+Pt reports gradual development of dull, bifrontal headache yesterday.
+She stated headache was better sitting up and worse lying down.
+She also had associated photophobia and worsening of baseline blurry vision.
+She felt nauseous and vomited x 2.
+Of note, pt was recently admitted from [**2120-7-5**] - [**2120-7-24**] for encephalitis of unknown etiology.
+She initially presented with fever, altered mental status, headache, and nystagmus.
+MRI showed FLAIR hyperintensity and contrast enhancement in the R thalamus, midbrain, corpus callosum splenium, temporal lobe, and cerebellum as well as leptomeningeal enhancement.
+Extensive neurologic and infectious work-up was negative aside from a mildly elevated adenosine deaminase level.
+Given borderline positive PPD and known exposure to Tb in her native country of [**Country 4574**], empiric anti-Tb therapy was started with RIPE.
+Pt was also started on moxifloxacin for Tb and Mycoplasma coverage.
+During her rehab course, she developed pneumonia and moxifloxacin was changed to levofloxacin.
+This resolved, but pt had elevated LFT's.
+Of not, pt did have episode of fever and headache about 1 month ago which resolved.
+She continued to have dizziness on standing and unsteadiness as well as fluctuating diplopia.
+On exam she had a L facial droop and diplopia on L gaze (probable VI palsy).
+General ROS: Reports sharp LUE pain which has been present for 1 wk, but denies trauma.
+Neurological ROS: Reports L side weakness which is attributed to pain.
+Denies headache, dysarthria, dysphagia, bowel/bladder incontinence, numbness or tingling.
+Past Medical History: Hyperlipidemia Anemia (borderline microcytic on CBC) H/o positive PPD  Social History: Originally from [**Country 4574**], but has been in US for 16 years.
+Physical Exam: Physical exam: Vitals: Tmax 99.6, BP 132-138/80-86, RR 91-104, RR 16, O2 98-100% RA General: Obese female appearing stated age, NAD Head/neck: NC, AT, moist mucous membranes Breast: Palpable L axillary lymph nodes Heart: RRR, S1, S2, no murmur/rub/gallop Lungs: CTA, good air movement, no wheeze/rhonchi/crackle Abdomen: Positive BS, soft, NT, ND, distended bladder in the suprapubic region with palpable uterus on R lower side of abdomen Extremities: Radial pulses 2+ b/l, dorsalis pedis pulses 2+ b/l  Neurological exam: Mental status: Awake, alert, cooperative, abulic Orientation: Oriented x 3 ("[**Known firstname **] [**Known lastname 54845**]", "[**Hospital3 **]", "[**2120-9-11**]") Attention: Able to name [**Doctor Last Name 1841**] backwards Speech/language: Fluent with a paucity of speech (answers in [**12-25**] words), intact naming, follows simple and midline-crossing commands, intact [**Location (un) 1131**], pt deferred writing Memory: Registers [**2-21**], recalls [**2-21**] at 5 min Calculation: $1.25 = 5 quarters Praxis/neglect: Can demonstrate use of hammer, no evidence of neglect CN: Vision 20/30 L and 20/20 R, pupils round nonreactive at 2 mm, partial R VI palsy, horizontal/torsional nystagmus on upward and lateral gaze,she keeps moving her eyes, so there may be an apparent field cut.
+Her facial sensation is intact to light touch, L facial droop in peripheral distribution, palate elevation midline, tongue midline, sternocleidomastoid and trapezius grossly intact Motor: Normal bulk and tone, no pronator drift, no adventitious movements          D  B  T  WE  WF  FE  FF  IP  Q  HS  DF  [**Last Name (un) 938**]  PF        L 3  4+ 4  4   4   3   4   4   5  4   4   4    5 Pt may have limited effort in LUE due to pain        R 5  5  5  5-  5   5   5   5   5  5   4   5    5 DTR:   B  T  Br  P  A  Babinski      L 1+ 0  0   0  1+ Withdrawal      R 2+ 1+ 1+  1+ 1+ Withdrawal Sensory: Intact to light touch, temperature, vibration in all 4 extremities, diminished to joint proprioception in toes Coordination: Possible L dysmetria (difficult to assess given weakness/pain), [**Doctor First Name **] intact, HTS deferred Gait: Deferred  Pertinent Results: [**2120-9-10**] 06:00PM   WBC-7.4 RBC-4.43 HGB-11.5* HCT-36.1 MCV-81* MCH-25.9* MCHC-31.8 RDW-15.1 [**2120-9-10**] 06:00PM   NEUTS-74.6* LYMPHS-19.1 MONOS-4.8 EOS-1.0 BASOS-0.5 [**2120-9-10**] 06:00PM   PLT COUNT-323 [**2120-9-10**] 06:00PM   GLUCOSE-103* UREA N-7 CREAT-0.4 SODIUM-139 POTASSIUM-4.0 CHLORIDE-106 TOTAL CO2-24 ANION GAP-13 [**2120-9-10**] 06:00PM   ALT(SGPT)-39 AST(SGOT)-19 ALK PHOS-58 TOT BILI-0.4 [**2120-9-10**] 06:02PM   LACTATE-1.0  TSH 0.74 HIV Ab negative  CSF:  [**2120-9-12**]:  Tube 1 WBC 100 RBC [**2024**] Polys 78 Lymphs 9  Monos 13           Tube 4 WBC 90  RBC 512  Polys 82 Lymphs 13  Monos 5             Protein 152 Glucose 42  [**2120-9-24**]:  Tube 1 WBC 32 RBC 3 Polys 0 Lymphs 95 Monos 5            Tube 4 WBC 23 RBC 0 Polys 1 Lymphs 92 Monos 7             Protein 63 Glucose 45             ACE 6  CBC at discharge: WBC 5.5 Hb 9.9 HCT 23.9 Plt 355 Chem profile at discharge: Na 138 K 3.9 Cl 105 HCO3 26 BUN 7 Cr 0.6 Glu 79                      ALT 20 AST 15 AP 56 T.bili 0.3 Ca 8.9 P 4.2 Mg 2.2  Repeat CSF cultures and [**Male First Name (un) 2326**] virus and CSF/serum parasite and viral cultures pending  IMAGING:  MRI head ([**2120-9-11**]): Interval progression and recurrence of the previously seen enhancing lesions in the right thalamus, right mesial temporal lobe, and right cerebellum with further smaller enhancing areas in the right mid brain.
+Increased mass effect and 4-mm midline shift to the left.
+Appearances are in keeping with lymphoma or less likely infection.
+MR Spec ([**2120-9-13**]): Unchanged size and enhancement of the right cerebellar and thalamic lesions with unchanged mass effect on fourth and third ventricles from the lesions in the cerebellum and thalamus respectively; increased size of the ventricles since the previous study with increased size of the temporal horns indicating developing hydrocephalus; MR spectroscopy is suggestive but not definitive of a neoplastic lesion in the right thalamus.
+The cerebellar spectroscopy is limited for evaluation.
+MRI head ([**2120-9-19**]): Post-biopsy changes from the recent right cerebellar biopsy with associated hemorrhagic components and mild worsening of the perilesional edema with slight increase in the upward transtentorial herniation, effacement of fourth ventricle and related mild worsening of enlargement of the occipital [**Doctor Last Name 534**] of right lateral ventricle; marked improvement in the enhancing component of both right cerebellar and right thalamic lesion; No new lesions.
+2D ECHO: Normal biventricular cavity sizes with preserved global and regional biventricular systolic function.No valvular pathology or pathologic flow identified.
+CT HEAD ([**2120-9-24**]): Stable right supratentorial hyperdensity; Increased distribution of right cerebellar hypodensity, likely due to worsening post-biopsy edema.
+No increased mass effect associated with edema; Mildly decreased hydrocephalus.
+Brain biopsy: active encephalitis   Brief Hospital Course:   Ms. [**Known lastname 54845**] is a 50 year old woman with a known brain lesion, previously believed to be TB encephalitis and was treated as such with initial improvement during previous admission, but who presented with headache and worsening of blurry vision.
+Initially, her Tb medications (RIPE therapy) were continued and a repeat MRI was performed which showed interval progression in and recurrence of the previously seen enhancing lesions in the right thalamus, right mesial temporal lobe, and right cerebellum with further smaller enhancing areas in the right mid brain as well as increased mass effect and 4-mm midline shift to the left.
+This imaging was thought to be more compatible with a neoplastic process such as CNS lymphoma rather than an infectious process.
+Given her worsening at this point, ID was consulted and anti-Tb medications were stopped.
+There was no opthamologic evidence of sarcoid and ACE levels were normal.
+In fact, a repeat head CT performed after increased lethargy was noted, showed enlarging ventricles and the possibility of a drain for hydrocephalus was discussed, though not placed as her mental status improed without intervention.
+The biopsy results then returned as active encephalitis (likely bacterial or parasitic), but still no causative organisms were identified.
+Her energy levels and mood have improved, and her cranial nerve palsies (which include a right 6th nerve palsy, left 3rd nerve palsy, and peripheral 7th nerve palsy), though still remain appear to have slightly improved as well.
+A repeat MRI will then be performed 2 weeks after the steroids have been discontinued to evaluate for changes in lesions size and monitor effectiveness of antibiotics.
+Given that no organisms have grown yet, multiple new cultures were sent including those for rare parasites.
+Ms. [**Known lastname 54845**] also had left shoulder pain throughout this admission.
+She has left sided weakness and it was unclear if her weakness stemmed from her CNS lesion or from her shoulder pain.
+An X-ray was done and showed Mild OA of the left AC and glenohumeral joints.
+They believe the pain and weakness are of a neurogenic etiology, with no evidence of frozen shoulder/cuff related symptoms and recommended conservative treatment with pain control and physical therapy.
+She was started on Neurontin 100 mg tid for the pain; this dose can be titrated up if needed for improved pain control.
+She still has a left third nerve palsy and right sixth nerve palsy, thoough these are less pronounced currently.
+She also has a left peripheral seventh nerve palsy.
+Also as mentioned above, she has left upper extremity pain and weakness (deltoid [**2-23**], triceps 4-/5, biceps 4+/5, finger extensors 4-/5 and finger flexors [**3-25**]).
+Her hip flexors are also weak bilaterally, left greater than right (left [**2-23**], right [**3-25**]); some of this weakness is likely due to deconditioning.
+5. lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO TID (3 times a day) as needed for constipation.
+7. moxifloxacin 400 mg Tablet Sig: One (1) Tablet PO q24hrs () as needed for mycoplasma.
+11. bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal DAILY (Daily) as needed for constipation.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Discharge Instructions: You came to the hospital with blurry vision and unsteadiness.
+You have known history of a lesion in your brain and was being treated for Tuberculosis encephalitis.
+During this admission, it was determined that this was not the result of your symptoms as you were getting worse despite the treatments.
+While you were here, the swelling in your brain was getting worse and so a brain biopsy was done urgently to try to figure out what the pathology of the brain lesion.
+After the biopsy, you were started on steroids to help with the swelling in the brain.
+The biopsy results returned as active encephalitis, likely from a bacterial or parasitic origin.
+A repeat MRI will be done 2 weeks after the steroids are off to see if the size of the lesion in your brain has changed.

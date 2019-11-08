@@ -1,0 +1,35 @@
+Admission Date:  [**2113-7-21**]              [**Month/Day/Year **] Date:   [**2113-7-23**]  Date of Birth:  [**2049-3-2**]             Sex:   M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**Last Name (NamePattern1) 9662**] Chief Complaint: Weakness  Reason for ICU Transfer: Hypotension  Major Surgical or Invasive Procedure: Femoral CVL insertion - [**7-21**], removed [**7-23**]  History of Present Illness: 64yo M w/ PMHx of  ESRD on HD (MWF), chronic aspiration, seizure disorder, history of CVA with residual left-sided weakness and dysarthria, upper extremity DVT, recently hospitalized at [**Hospital1 18**] with melena found to have gastritis with no active bleeding lesions, and h/o of Staph epidermidis treated with IV vancomycin until [**7-20**], presented to the ED with generalized weakness and hypotension.
+The patient was found cool and diaphoretic with BP 70/50 and HR 100.
+ECG and 12 lead reveal NSR with no ectopy and inverted T waves in the inferior leads as well as V4-V6.
+Pressure improved with fluids (1L) Patient with no focal complaints in the ED, but minimally responsive to voice.
+Has a cough, no fever, no chest pain.
+No abdominal tenderness.
+CXR did not show focal opacity.
+EKG consistent with priors- lateral TWIs.
+Has been mildly tachycardic in 100-110.
+Past Medical History: - ESRD on HD (M/W/F at [**Location (un) **]) - h/o multiple prior CVAs - per last dc summary ambulates at home, has residual left-sided weakness - UE DVT on coumadin - Seizure disorder - Chronic hepatitis B - Chronic aspiration with failed speech and swallow eval - family wants him to continue eating despite risks - HTN - CAD - h/o MSSA bacteremia after manipulation of fistula - hospitalization in [**12-31**] for incarcerated inguinal hernia complicated by ESBL Klebsiella bacteremia and PNA - Hyperlipidemia - GERD - S/p SBO [**2109**] - Hernia repair - Symptomatic Hypoglycemia  Social History: Patient lives in [**Location **] with his daughter, [**Name2 (NI) **], who is  a former [**Hospital1 18**] employee.
+He denies any recent use of alcohol, tobacco, illicit drugs, or herbal medications.
+Physical Exam: Admission exam: General: [**Doctor First Name **], oriented, no acute distress [**Doctor First Name 4459**]: Sclera anicteric, MMM, oropharynx clear, [**Doctor First Name 3899**], PERRL Skin:  Skin in right groin clean and dry at site of femoral catheter insertion.
+There is mild pulmonary vascular congestion.
+Minimal atelectasis is likely present at the lung bases.
+No focal consolidation, pleural effusion or pneumothorax is identified.
+The bones are diffusely sclerotic suggestive of underlying of renal osteodystrophy.
+Posttraumatic deformity of the distal clavicle on the right is unchanged.
+IMPRESSION: Mild pulmonary vascular congestion.
+No definite radiographic evidence for pneumonia.
+Brief Hospital Course: 64yo M w/ PMHx of  ESRD on HD (MWF), chronic aspiration, seizure disorder, history of CVA with residual left-sided weakness and dysarthria, upper extremity DVT on coumadin, recently hospitalized at [**Hospital1 18**] with melena found to have gastritis with no active bleeding lesions and Staph epidermidis bacteremia s/p IV vanc treatment [**7-20**], who was admitted to the ICU for hypotension.
+He denies chest pain, shortness of breath, abdominal pain, n/v.
+# Hypotension: Patient underwent HD on day of admission; it is likely that the patient's hypotension is related fluid shifts during HD.
+Patient was initially with SBPs in the 70s upon presentation to the ED and improved to 100s with 1L of fluid and some pressors in the ED.
+He did have brief episodes of hypotension to the 80s systolic while in the ICU but required a total of only 750cc IVF while in the ICU.
+No clear evidence of infection so antibiotics were NOT continued while in the ICU.
+# ESRD on HD: M/W/F.
+# Hyperkalemia:  Pt is normally on HD and has baseline K around 5.
+EKG was checked and showed now acute changes.
+Pt denied chest pain or palpitations, dizziness, lightheadedness, nausea.
+# UE DVT: Patient w/ clot in AVF previously on coumadin which was held in light of anemia.
+Decision was made by daugther not to continue coumadin in light of risk of bleeding per most recent PCP [**Name Initial (PRE) 626**].
+# Anemia: HCT 33 upon [**Name Initial (PRE) **], consistent with chronic anemia secondary to ESRD, patient's baseline HCT is in the low 30s.
+# GERD: H. pylori negative.
+Ascorbic Acid 500 mg PO DAILY 12. sevelamer HYDROCHLORIDE *NF* 800 mg Other TID:meals   [**Name Initial (PRE) **] Disposition: Home With Service  Facility: [**Location (un) 86**] VNA  [**Location (un) **] Diagnosis: Primary Diagnosis:  Hypotension (Low blood pressure) Secondary Diagnosis:  end stage renal disease, seizure disorder, hypertension, gastroesophageal reflux disease / gastritis, chronic aspiration   [**Location (un) **] Condition: Mental Status: Confused - sometimes.
+[**Location (un) **] Instructions: Dear Mr. [**Known lastname **],  You were admitted for low blood pressure and weakness.

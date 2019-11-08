@@ -1,0 +1,18 @@
+Admission Date:  [**2123-6-1**]              Discharge Date:   [**2123-6-2**]  Date of Birth:  [**2085-12-2**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**Last Name (NamePattern4) 290**] Chief Complaint: hypotension  Major Surgical or Invasive Procedure: none   History of Present Illness: HPI: 37 yo F with no PMH p/w hypotension.
+[**Name (NI) 25122**] [**Name2 (NI) 483**] classes  Family History: Non-contributory  Physical Exam: Temp 98.4 BP 92/56 Pulse 80 Resp 20 O2 sat 98% Gen - Alert, no acute distress HEENT - PERRL, extraocular motions intact, anicteric, mucous membranes moist Neck - no JVD, no cervical lymphadenopathy Chest - Clear to auscultation bilaterally CV - Normal S1/S2, RRR, no murmurs, rubs, or gallops Abd - Soft, nontender, nondistended, with normoactive bowel sounds Back - No costovertebral angle tendernes Extr - No clubbing, cyanosis, or edema.
+2+ DP pulses bilaterally  Neuro - Alert and oriented x 3, cranial nerves [**1-18**] intact, upper and lower extremity strength 5/5 bilaterally, sensation grossly intact Skin - No rash   Pertinent Results: [**2123-6-1**] 02:23PM   GLUCOSE-97 UREA N-7 CREAT-0.6 SODIUM-140 POTASSIUM-4.0 CHLORIDE-107 TOTAL CO2-27 ANION GAP-10  [**2123-6-1**] 02:23PM   WBC-5.6 RBC-3.83* HGB-11.7* HCT-34.4* MCV-90 MCH-30.5 MCHC-34.0 RDW-13.1  [**6-2**] HCT: 29.1  Brief Hospital Course: A/P: 37 y/o female with 1 week of headache/facial pain, hypotension x 1 day.
+Hypotension: Based on her story, it appears as though she may have a low blood pressure at baseline which dropped further due to hypovolemia following a day in the sun.
+Of note, the patient had no symptoms of hypotension, denying lightheadedness, dizziness, or orthostatis.
+She has no signs or symptoms of sepsis or adrenal insufficiency.
+If she has hypotension (with symptoms) in the outpatient setting further workup may be indicated.
+Facial pain: The patient's facial pain is consistent with trigmeminal nerualgia.
+Other diagnoses to consider include zoster, facial trauma, sinusitus, vascular etiology, or dental abscess.
+Other considerations on ddxz:  No h/o zoster, facial trauma.
+No h/o URI symptoms concerning for sinusitis.
+Vascular etiology a possibility, but given pt's lack of risk factors, unlikely.
+Dental abscess (or early formation) may be a possibility given slightly tender and erythematous area behind left upper molar on exam of mouth.
+We gave her tylenol as needed for pain in house and will refer her to a neurologist and dentist for further outpatient evaluation.
+Anemia:  Patient has normocytic anemia to 34.
+We do not have a baseline hematocrit, and based on her history and physical exam there is no evidence of active bleeding or blood loss.
+We spoke with a nurse from Dr.[**Name (NI) 65892**] office and send off basic anemia labs for further evaluation as an outpatient.
+Medications on Admission: none  Discharge Medications: none  Discharge Disposition: Home  Discharge Diagnosis: dehydration headaches, likely trigeminal neuralgia anemia   Discharge Condition: Good   Discharge Instructions: Please follow up with outpatient neurology regarding your headaches.

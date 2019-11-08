@@ -1,0 +1,39 @@
+Name:  [**Known lastname 6421**],[**Known firstname 15421**] JR                Unit [**Name2 (NI) **]:   [**Numeric Identifier 15422**]  Admission Date:  [**2179-3-16**]              Discharge Date:   [**2179-3-25**]  Date of Birth:  [**2109-9-13**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 161**] Addendum: Please note addition to brief hospital course and updated discharge medication list.
+Patient remained in the hospital three additional days due to desaturations with exertion, which had subsided prior to discharge.
+Chief Complaint: shortness of breath  Major Surgical or Invasive Procedure: None   History of Present Illness: Mr. [**Known lastname **] is a 69 year old male with h/o COPD s/p recent admission for exacerabtion and respiratory acidosis, PAF, DM, CRI who was sent from [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 15423**] for confusion, lethargy, urinary incontinence and low grade temps.
+Patient has been at [**First Name4 (NamePattern1) 3008**] [**Last Name (NamePattern1) **] since [**2179-2-25**] after admission for COPD exacerbation.
+His breathing has been a bit more labored.
+Per report from [**Last Name (un) 3008**] house he had urinary incontinence, lethargy and confusion.
+Pt currently denying backpain or fecal incontinence.
+Says had some LE weakness and urinary incontinence in the past day.
+Of note pt had recent admission from [**Date range (1) 15424**]/07 for hypercarbic respiratory failure and mental status changes.
+At that admission he was found down and had severe respiratory acidosis 7.10/112/146.
+Also had acute on chronic renal failure and hyperkalemia.
+In the ED here today the patient was found to have severe wheezes and minimal air movement.
+2) Obstructive sleep apnea on BIPAP (settings = 12&6 on 8 L oxygen.)
+3) Type 2 diabetes (last A1C 6.4 on [**2179-1-26**]) c/b biopsy-proven diabetic nephrosclerosis.
+4) Paroxysmal atrial fibrillation on aspirin 5) Chronic renal insufficiency from diabetic nephropathy, baseline Cr 2-2.5.
++tob (1 ppd), +occ EtOH (last admit was noted to be drinking 3 beers/day), no drugs.
+Family History: Non-contributory  Physical Exam: VS: Tc 97.4 HR 89 BP 149/66 RR 12 O2 sat 89% on BIPAP 12/5 Fi02 0.3 Gen: well appearing, elderly male, bipap in place, opening eyes and conversing HEENT: PERRL, anicteric sclera, though some chemosis, bipap in place Neck: elevated JVP, but bipap strap compressing vein Pulm: crackles at left lung base, good air movement, no wheezes or rhonchi Cardio: RRR, nl S1 S2, no m/r/g Abd: soft, mildly distended, NT, + BS Ext: 2+ pitting edema, 1+ DP pulses b/l Neuro: A&O x 1 (to person,states year [**2172**] and he is at [**First Name4 (NamePattern1) 3008**] [**Last Name (NamePattern1) **]), moves all extremities and follows commands PERRL, EOMI   Pertinent Results: [**2179-3-16**] 07:00PM   WBC-3.1*# RBC-4.15* HGB-10.2* HCT-30.8* MCV-74* MCH-24.6* MCHC-33.2 RDW-16.4* [**2179-3-16**] 07:00PM   NEUTS-71.3* LYMPHS-18.9 MONOS-9.2 EOS-0.4 BASOS-0.2 [**2179-3-16**] 07:00PM   GLUCOSE-195* UREA N-45* CREAT-2.2* SODIUM-139 POTASSIUM-6.2* CHLORIDE-95* TOTAL CO2-39* ANION GAP-11 [**2179-3-16**] 08:30PM   LACTATE-1.3 K+-5.7* [**2179-3-16**] 08:39PM   TYPE-ART PO2-47* PCO2-86* PH-7.33* TOTAL CO2-47* BASE XS-14 [**2179-3-16**] 10:07PM   TYPE-ART PO2-103 PCO2-88* PH-7.31* TOTAL CO2-46* BASE XS-13 .
+[**3-17**] CXR: IMPRESSION: Small right-sided pleural effusion.
+[**3-23**] CXR: CONCLUSION: New right basal atelectasis or infiltrate.
+Improving right basilar atelectasis.
+Prominence of the right upper mediastinum again seen, possibly representing prominent vessels versus possible enlarged thyroid.
+Brief Hospital Course: # Hypercarbic respiratory failure: Patient required extra 3 days in the hospital because his oxygen saturations dropped to 60% on ambulation with physical therapy on Friday [**2179-3-19**].
+Respiratory compromise appears to be from progression of COPD, complicated by PNA and moderate CHF with BNP of 1300s.
+V/Q to evaluate for PE was considered but not done given his clinical improvement.
+Encourage smoking cessation, continue nebs and pulmonary rehab.
+# Paroxysmal afib: Pt with hx of PAF dating back to [**2174**] when he had his first documented episode of a fib while admitted for COPD exacerbation.
+In [**2175**], Dr. [**First Name (STitle) **] discontinued coumadin as he only had one episode of a fib, which was thought to be from combination of COPD and EtOH use.
+Echo last month showed EF>70%, mild LVOT obtruction increased with valsalva, During current hospital course, pt has had intermittent episodes of tachycardia to 150s noted to be afib on telemetry.
+# Mental status changes: Since [**2179-3-20**], the patient has been oriented x3, cooperative with the exam.
+Ativan only prn, avoiding if possible because of respiratory effects.
+PTH level elevated secondary to low calcium level.
+# Anemia: Hct baseline 34-40, though at last admit was more in the low 30s.
+TIBC was low suggesting ACD, likely [**3-12**] to renal failure.
+Medications on Admission: Hexavitamin one tab qd Aspirin 325 mg qd Celexa 20 mg qd Tiotropium Bromide 18 mcg one inhalation qd Terazosin 2 mg qhs lasix 40 mg qd Diltiazem HCl 360 mg qd Omeprazole 20 mg qd Advair 250/50 one puff [**Hospital1 **] Albuterol-Ipratropium 2 puffs q6 hrs Docusate Sodium 100 mg [**Hospital1 **] Levofloxacin 250 mg x 7 days last d/c Trazodone 50 mg qhs Ativan 0.5 mg, one tab q8 hours prn anxiety Regular insulin sliding scale while taking prednisone Prednisone ( 7.5 mg qd x 7 days to end [**3-19**] and was then supposed to do 5 mg and then 2.5 mg for 7 days at a time)   Discharge Medications: 1.
+Albuterol Sulfate 0.083 % Solution Sig: One (1)  Inhalation Q2H (every 2 hours) as needed for shortness of breath or wheezing.
+Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO bid:prn as needed for anxiety.
+Discharge Disposition: Extended Care  Facility: [**Hospital3 2215**] - [**Location (un) 42**]  Discharge Diagnosis: PRIMARY DIAGNOSES: COPD exacerbation Paroxysmal Atrial fibrillation .
+SECONDARY DIAGNOSES: 1) Chronic obstructive pulmonary disease 2) Obstructive sleep apnea on BIPAP (settings = 12&6 on 8 L oxygen.)
+3) Type 2 diabetes 4) Chronic renal insufficiency from diabetic nephropathy 5) Gout 6) Anemia 7) Hypertension 8) Anxiety.

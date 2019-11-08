@@ -1,0 +1,58 @@
+Admission Date:  [**2166-6-1**]              Discharge Date:   [**2166-6-12**]  Date of Birth:  [**2109-8-8**]             Sex:   F  Service: MEDICINE  Allergies: Naprosyn / Keflex / Shellfish / Glucophage / Tetracycline / Penicillins / Erythromycin Base / Ciprofloxacin / Biaxin  Attending:[**First Name3 (LF) 106**] Chief Complaint: dyspnea  Major Surgical or Invasive Procedure: endotracheal intubation temporary pacemaker placement pacemaker generator change   History of Present Illness: 56 yo woman with hx DM II, CAD s/p MI, AFib s/p PPM, hx diastolic CHF presented to OSH this morning at 11am with SOB x10min, chest heaviness radiating to back x10 min.
+Bedside echo performed with relatively preserved LVEF, no acute valvular abnormalities.
+cath in [**9-20**] w small occ OM2 with collat, otherwise non-obstruc dz A fib s/p DDD pacemaker MVR Hyperlipidemia Diabetes, type 2 Obesity Hypertension Asthma Ostructive sleep apnea on BIPAP.
+Mild pulmonary HTN 36/18 on cath [**8-21**]   Social History: She is a post office worker and she lives at home with her husband, no   alcohol, no smoking.
+JVD undetectable Cards: RRR, nl S1S2 no MGR.
+No abdominial bruits.
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+Neuro: after weaning sedation pt found to have R sided weakness R pupil irregular and 4mm with little rx,L pupil 3 mm and reactive Visual fields appeared full, preferentially looking over to the left but will follow to cross midline R arm initially 0/5, improved to [**1-20**] by discharge with proximal movement, 0/5 with distal movement.
+TELEMETRY demonstrated intermittently V paced .
+There is no mitral nor aortic regurgitation .
+Rads: [**6-1**] Right LENI: no DVT .
+The right atrium is moderately dilated.
+There is moderate symmetric left ventricular hypertrophy.
+Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded.
+The aortic root is moderately dilated at the sinus level.
+The ascending aorta is mildly dilated.
+The aortic arch is mildly dilated.
+The aortic valve leaflets (3) are mildly thickened.
+No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Mild (1+) mitral regurgitation is seen.
+The tricuspid valve leaflets are mildly thickened.
+There is a trivial/physiologic pericardial effusion.
+Large evolving subacute left MCA territory infarction, demonstrating luxury perfusion and a few tiny foci of hyperdense component posteriorly perhaps representing a tiny amount of hemorrhagic transformation.
+Short segment occlusion of the M2 portion of the left MCA, best demonstrated on the 3D volume/snapshot images.
+Two ill-defined nodular opacities at the right lung apex which may be inflammatory/infectious, though followup to resolution is recommended.
+[**6-5**] right knee: Assessment for joint effusion is limited by positioning.
+No fracture is evident.
+No periarticular erosions are identified.
+[**6-6**] echo: No spontaneous echo contrast or thrombus is seen in the body of the left atrium/left atrial appendage or the body of the right atrium/right atrial appendage.
+No atrial septal defect or patent foramen ovale is seen by 2D, color Doppler or saline contrast at rest x 2.
+There are simple atheroma in the descending thoracic aorta.
+The aortic valve leaflets (3) are mildly thickened.
+No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Moderate (2+) mitral regurgitation is seen.
+There is no pericardial effusion.
+We felt that diastolic dysfunction leading to acute pulmonary edema was a primary contributor.
+Other factors included likely aspiration pneumonia in the setting of her hypoxia and increased work of breathing.
+We also were concerned about pulmonary embolus given her large A-a gradient.
+Cardiac enzymes were cycled and EKGs were obtained; however, this was thought not to be a primary ischemic event.
+Her underlying rhythm was sinus but she has known hx of atrial fibrillation.
+Atrial pacing was restarted with good blood pressure thereafter.
+#ID: Pt was initially started on broad abx to cover for aspiration pneumonia given the respiratory failure, low grade fever on presentation and suggestion of mixed septic physiology by Swan numbers.
+She also found to have an e.coli UTI which was pansensitive.
+Initial [**Location (un) 1131**] showed low SVR with low CI.
+There was felt to be a mixed picture of sepsis and cardiogenic shock physiology.
+This was conttributed to by the AV dissociation of ventricular pacing.
+We treated with broad antibiotiocs and diuresis, initially on dobutamine alternating with dopamine.
+Pt had 7L of fluid removed with diuresis, BP stabilized.
+# Neuro: On [**6-4**], new right arm weakness and R>L pupil size were noted.
+Stat neuro consult and head CT showed left MCA territory embolic infarct, likely of cardioembolic etiology.
+TEE on [**6-6**] did not find evidence of atrial clot or aortic atheroma to suggest a source for embolus.
+# on [**6-7**] pt began experiencing abdominal pain with mild LLQ tenderness.
+KUB showed a nonspecific gas pattern and no free air under the diaphragm.
+Abdominal pain resolved with an aggressive bowel regimen.
+Disp:*30 Tablet(s)* Refills:*2*   Discharge Disposition: Extended Care  Facility: [**Hospital6 85**] - [**Location (un) 86**]  Discharge Diagnosis: Primary: cerebrovascular accident respiratory failure Secondary: congestive heart failure, diastolic bradycardia atrial fibrillation coronary artery disease   Discharge Condition: breathing comfortably on room air, tolerating diet, moderate R sided paresis, and dysarthria   Discharge Instructions: You were found to have a stroke.
+Please seek medical attention if you develop weakness, slurred speech, fever, chills, shortness of breath or any other concerning symptoms.

@@ -1,0 +1,39 @@
+Admission Date:  [**2141-5-2**]              Discharge Date:   [**2141-5-10**]   Service: MEDICINE  Allergies: Ace Inhibitors  Attending:[**First Name3 (LF) 905**] Chief Complaint: Shortness of breath.
+Major Surgical or Invasive Procedure: Endotracheal intubation   History of Present Illness: Mr. [**Known lastname **] is an 82 year-old male with a history of diastolic dysfunction, recent MRSA pneumonia, and asthma, who initially presented on [**2141-5-1**] with a 1-day history of increased SOB, productive cough and congestion.
+On arrival to the ED, CXR showed moderate CHF.
+In ED, he was also noted to have anterolateral EKG changes, with new TWI in I, aVL, and "pseudonormalization" of T waves in V3-6.
+Hypertension 3.
+Asthma 4.
+History of bronchiolitis obliterans pneumonia ([**4-/2134**]) 5.
+Chronic renal failure with baseline creatinine high 2s-low 3s 6.
+History of diverticular bleed, and upper GI bleed in 03/[**2140**].
+Colonic adenoma 8.
+CVA in [**2127**] 10.
+MRSA pneumonia in [**2-/2141**]  Social History: He is originally from [**Country 4812**].
+Bilateral expiratory wheezes.
+Heart exam limited secondary to breath sounds.
+Relevant imaging data: [**2141-5-2**] CXR: Moderate CHF [**2141-5-2**] CXR: NG tube, worsened CHF [**2141-5-2**] CXR: ETT, persistent pulmonary edema  ECHO [**2141-5-2**]: LV thickness normal.
+Moderate regional LV systolic dysfunction.
+Resting regional wall motion abnormalities include mid to distal septal and apical akinesis.
+Aortic valve leaflets are mildly thickened and there is focal calcification of the noncoronary cusp.
+[**2141-5-3**] CXR: Moderately severe pulmonary edema has changed in distribution but not in overall severity, accompanied by persistent small left and small-to-moderate right pleural effusion and borderline cardiomegaly.
+[**2141-5-9**] CXR: Small bilateral plerual effusions, with RLL atelectasis.
+Brief Hospital Course: 82 year-old male with CHF, CRI, prior GI bleed (both upper and lower), admitted with respiratory failure.
+Respiratory failure: His acute decompensation was felt most consistent with flash pulmonary edema, requiring intubation.
+CAD: His cardiac enzymes on admission were noted to be trending up, and an EKG was concerning for "pseudonormalization" of T waves in V3-6 versus 04/[**2140**].
+He was briefly started on heparin, which was discontinued in the setting of a hematocrit drop and probable demand ischemia rather than ACS.
+An echo was obtained on [**2141-5-2**], which revealed new systolic dysfunction with EF 35%, with mid to distal septal and apical akinesis.
+He was started on Captopril while in the ICU, subsequently discontinued in the setting of an acute rise in his creatinine.
+CHF: As noted above, he was found to have new systolic dysfunction, felt likely secondary to a recent anterior MI.
+In addition, he likely has a component of diastolic dysfunction.
+His acute presentation was felt secondary to flash pulmonary edema, and he responded well to diuresis.
+GI bleed: While in the hospital, he was noted to have guaiac positive stools, associated with a hematocrit drop to 24 on [**2141-5-2**] (albeit also in the setting of a short course of IV heparin).
+CRI: Patient with known CKD with fluctuating creatinine at baseline, followed by Dr. [**Last Name (STitle) 3271**] as an out-patient.
+While in the hospital, his creatinine rose to a peak of 4.2, at one point with concomitant hyperkalemia and hyperphosphatemia.
+A recent renal U/S in [**2-/2141**] was remarkable for thin cortices suggestive of parenchymal disease.
+The renal service was consulted on [**2141-5-9**] for further advice, with an impression of probable hypertensive nephrosclerosis possibly also with superimposed FSGS.
+A repeat U/A was negative, and a repeat CXR showed only RLL atelectasis without clear infiltrate.
+7) Hematuria: While in the hospital, he was noted to have microscopic hematuria.
+Albuterol Sulfate 90 mcg/Actuation Aerosol Sig: [**12-19**] Inhalation every 4-6 hours as needed for shortness of breath or wheezing.
+Disp:*90 Tablet(s)* Refills:*2*  Discharge Disposition: Home With Service  Facility: [**Hospital 119**] Homecare  Discharge Diagnosis: Congestive heart failure Probable coronary artery disease Chronic kidney disease Hyponatremia Tracheobronchitis Gastrointestinal bleeding   Discharge Condition: Patient discharged home in stable condition, with stable saturation on room air.
+Please return to the ED or call your PCP if you develop chest pain, worsening shortness of breath, or if you notice black or bloody stools.

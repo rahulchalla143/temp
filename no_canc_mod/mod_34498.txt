@@ -1,0 +1,41 @@
+Admission Date:  [**2115-11-22**]              Discharge Date:   [**2115-12-6**]  Date of Birth:  [**2065-12-21**]             Sex:   M  Service: CARDIOTHORACIC  Allergies: Penicillins / Iodine; Iodine Containing  Attending:[**First Name3 (LF) 1283**] Chief Complaint: Dyspnea on exertion  Major Surgical or Invasive Procedure: AVR/Asc Ao replacement PEG   History of Present Illness: 49 yo M with history of bicuspid AV sent to [**Hospital1 189**] ER from PCP [**Name Initial (PRE) **] 2 weeks of shortness of breath.
+Cath showed severe AI and dilated ascending aorta and he was transferred for surgical evaluation.
+Past Medical History: bicuspid AV  Social History: denies etoh 1 ppd x 30 years, quit 1 week ago lives with wife and daughter  Family History: mother with CAD in 70s  Physical Exam: Admission VS HR 86 RR 22 BP 112/78 NAD Lungs CTAB Heart RRR, Systolic murmur Abdomen benign Extrem warm, no edema 2+ pulses No carotid bruits  Discharge VS 98.9  78SR  123/60  18  100% om 4LNP Gen: NAD Neuro: Awake, follows commmands, answers simple questions.
+PEG site CDI Ext: warm, no edema  Pertinent Results: [**2115-11-23**] 12:30AM BLOOD WBC-11.3* RBC-4.34* Hgb-12.5* Hct-36.8* MCV-85 MCH-28.9 MCHC-34.1 RDW-14.0 Plt Ct-202 [**2115-11-23**] 12:30AM BLOOD PT-15.5* PTT-26.6 INR(PT)-1.4* [**2115-11-23**] 12:30AM BLOOD Glucose-179* UreaN-19 Creat-1.1 Na-136 K-5.0 Cl-104 HCO3-25 AnGap-12 [**2115-11-24**] 12:50PM BLOOD ALT-41* AST-23 LD(LDH)-241 AlkPhos-77 TotBili-0.5 [**2115-11-23**] 12:30AM BLOOD Calcium-9.0 Phos-3.9 Mg-2.3 [**2115-11-24**] 12:50PM BLOOD %HbA1c-5.6 [**2115-12-4**] 02:00AM BLOOD WBC-10.9 RBC-3.71* Hgb-10.1* Hct-30.5* MCV-82 MCH-27.2 MCHC-33.0 RDW-15.2 Plt Ct-439# [**2115-12-5**] 02:07AM BLOOD PT-13.8* PTT-33.9 INR(PT)-1.2* [**2115-12-5**] 02:07AM BLOOD Plt Ct-415 [**2115-12-5**] 02:07AM BLOOD Glucose-116* UreaN-19 Creat-0.8 Na-132* K-5.5* Cl-99 HCO3-24 AnGap-15  RADIOLOGY   Preliminary Report CHEST (PORTABLE AP)  [**2115-12-4**] 1:17 PM CHEST (PORTABLE AP) Reason: r/o ptx [**Hospital 93**] MEDICAL CONDITION: 49 year old man AscAoRepair/AVR and s/p ct removal REASON FOR THIS EXAMINATION: r/o ptx HISTORY: 49-year-old male with ascending aorta repair, status post chest tube removal.
+PORTABLE SUPINE CHEST: Left chest tube has been removed with no evidence of pneumothorax.
+Lungs are grossly clear without focal consolidation.
+No large pleural effusions are identified.
+No pneumothorax identified.
+INDICATION: 49-year-old man status post ascending aorta repair with post- operative CVA.
+There is no prior MRI for comparison.
+There is a large area of abnormal signal intensity representing high signal on FLAIR imaging in the right PCA distribution, representing subacute right PCA infarct.
+On diffusion-weighted images, there are evidence of restricted diffusion in the right PCA territory including right occipital lobe as well as the right superior cerebellar territory.
+The area of slow effusion now also seen in the right thalamus, mid brain and cerebral peduncle as well as pulvinar of the thalamus.
+There are small foci of restricted diffusion in the left occipital lobe as well as left cerebral hemisphere.
+The involvement of the contralateral side suggests embolic event.
+There is slight enhancement in the involved area of right PCA distribution which could represent luxury perfusion.
+Right posterior cerebral artery is not visualized representing occlusion or thrombosis, causing stroke.
+Right superior cerebellar artery is not clearly identified either.
+Large area of subacute infarct with slow diffusion involving right PCA and right superior cerebellar territory.
+Small foci of slow diffusion in the left occipital lobe and cerebellum, suggestive of embolic events.
+Slow diffusion also involves mid brain and thalamus.
+Aortic valve disease.
+ICD-9 Codes: 427.89, 441.2, 424.1, 435.9 Test Information Date/Time: [**2115-11-27**] at 17:42    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD Test Type: Portable TEE (Complete) Son[**Name (NI) 930**]: Doppler: Full Doppler and color Doppler Test Location: West SICU/CTIC/VICU Contrast: None Tech Quality: Adequate Tape #: 2007W000-: Machine: Vivid i-4 Sedation: Versed: 0 mg Fentanyl: 0 mcg Patient was monitored by a nurse throughout the procedure Echocardiographic Measurements Results  Measurements  Normal Range Left Ventricle - Ejection Fraction:  45% to 50%  >= 55% Aortic Valve - Peak Velocity:  *2.7 m/sec  <= 2.0 m/sec Aortic Valve - Peak Gradient:  *30 mm Hg  < 20 mm Hg Aortic Valve - Mean Gradient:  15 mm Hg Findings This study was compared to the prior study of [**2115-11-26**].
+LEFT ATRIUM: No spontaneous echo contrast or thrombus in the body of the [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] LAA.
+LEFT VENTRICLE: Mildly depressed LVEF.
+Conclusions No spontaneous echo contrast or thrombus is seen in the body of the left atrium or left atrial appendage.
+Overall left ventricular systolic function is mildly depressed (LVEF= 45-50 %) with mild global hypokinesis.
+Mild (1+) mitral regurgitation is seen.
+There is no pericardial effusion.
+The ascending aorta and aortic arch show no evidence of thrombus or dissection.
+The left subclavian artery ostium is visualized, which also shows no evidence of thrombus.
+The innominate artery and left common carotid artery ostium is not visualized.
+There is a new aortic valve prosthesis in place on the current study.
+IMPRESSION: Mild global LV hypokinesis with a properly functioning mechanical aortic valve prosthesis.
+No evidence of dissection or thrombus in the aortic graft or descending aorta.
+He was given 48 hours of peroperative vancomycin as he was in house for greater than 24 hours preop and he is allergic to penicillin.
+He was found to be agitated, with left sided weakness the night after surgery, CT head revealed a right PCA stroke.
+A left chest tube was placed on [**11-29**] for pneumothorax.
+Discharge Disposition: Extended Care  Facility: St [**Hospital **] Hospital Rehabilitation Unit - [**Location (un) 8117**], NH  Discharge Diagnosis: bicuspid AV/AS/AI now s/p AVR(#21 ON-X mech)Asc Ao & Hemiarch replacement.
+Call with fever, redness or drainage from incision or weight gain more than 2 pounds in one day or five in one week.
+No lotions, creams or powders to incisions.

@@ -1,0 +1,41 @@
+Admission Date:  [**2115-2-12**]              Discharge Date:   [**2115-2-15**]  Date of Birth:  [**2032-3-8**]             Sex:   M  Service: NEUROLOGY  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 5831**] Chief Complaint: labored breathing, lethargy  Major Surgical or Invasive Procedure: intubation [**2115-2-12**]  History of Present Illness: [**Known firstname **] [**Known lastname 101787**] is an 82 year old male with a history of hypertension, hyperthyroidism, depression and coronary artery disease who was recently admitted from [**Date range (2) 101788**] for a right basal ganglia bleed who was found to be unresponsive this morning.
+Since discharge, patient has been verbal with single phrases, but minimal output per patient.
+He has had some episodes of pneumonia and was treated at [**Hospital 8**] hospital.
+Last night at 11:30 pm he was noted to have labored breathing.
+He has a long history of elevated blood pressures and he had deferred his blood pressure pills and he was found to have a significant left arm, face and leg weakness with a left visual field cut and left complete hemisensory loss.
+A stat NCHCT showed the presence of a right basal ganglia hemorrhage with interventricular extension.
+He was noted to have one episode of vomitting in the ED, and was subsequently intubated for airway protection.
+Initial vital signs were significant for elevated blood pressures to the 190s systolic.
+A CTA head/neck was obtained in the ED which did not show any underlying vascular malformation.
+An MRI of his C-spine did not show evidence of soft tissue or ligamentous injury, and subsequently his C-collar was discontinued.
+Follow up CT scans did not show any hematoma expansion.
+However, on his third hospital day, he was noted to have a new left sided VI nerve and possible IV nerve palsy, for which he received two doses of mannitol.
+Following extubation, the patient's exam was such that he was abulic and mute but would follow simple midline and appendicular commands.
+He had a left partial pupil sparing CNIII palsy and an almost complete left VI palsy.
+He had significantly increased tone in all four extremities (legs>arms) with hyperreflexia and an upgoing toe on the left.
+Given his continued hemodynamic and pulmonary stability, he was transferred to the step down unit of the Neurology wards on [**Hospital Ward Name 121**] 11.
+[**Name (NI) **] began spiking fevers and CXR showed evidence of a pneumonia.
+He was started on empiric Vanc and Zosyn to cover for hospital-acquired pneumonia on [**2114-12-17**].
+We repeated a head CT to ensure no acute findings.
+This repeat CT showed only the evolution of the hemorrhage but no other findings of concern.
+HEENT: NC/AT, poor oral hygeine, endotracheal tube in place Neck: rigidity, appears from cervical spine disease Pulmonary: Lungs CTA bilaterally without R/R/W Cardiac: RRR, nl.
+S1S2, no M/R/G noted Abdomen: soft, NT/ND, no masses or organomegaly noted.
+Extremities:warm and well perfused Skin: no rashes or lesions noted.
+Neurologic: -Mental Status: grimaces to noxious, but no eye opening.
+S1S2, no M/R/G noted Abdomen: soft, NT/ND, no masses or organomegaly noted.
+Extremities:warm and well perfused Skin: no rashes or lesions noted.
+Face grossly symmetric  -Motor/ sensory: Hypertonic in b/l LE, LUE flaccid, no movement.
+New small hyperdensity in the left thalamus, likely representing a small new hemorrhage.
+Significant decrease in mass effect and there is no midline shift.
+[**2115-2-12**] CXR Retrocardiac opacity likely representing consolidation and volume loss in the mid and lower left lung.
+Brief Hospital Course: ICU Course: He was admitted to the Neuro ICU for monitoring in the setting of the interval new small hemorrhage and for further antibiotic treatment and ventilatory support for a bilateral pneumonia.
+He remained afebrile and was transitioned to levaquin to complete a total 10 day course for his pneumonia .
+He will need to be monitored closely for signs of increasing residuals/delayed gastric emptying .
+Heme: During the admission, he developed a 9 pt drop in his HCT.
+It is most likely that he was hemoconcentrated/dehydrated on arrival and that his discharge HCT of 28 is closer to his baseline.
+Disp:*5 Tablet(s)* Refills:*0*   Discharge Disposition: Extended Care  Facility: [**First Name4 (NamePattern1) 3504**] [**Last Name (NamePattern1) **] Rehabilitation & Nursing Center - [**Location (un) 538**]  Discharge Diagnosis: Pneumonia History of intracranial hemorrhage hypertension   Discharge Condition: Mental Status: Confused - always.
+Level of Consciousness: Alert, but not very interactive (minimally verbal) Activity Status: Out of Bed with assistance to chair or wheelchair.
+You were admitted to [**Hospital1 18**] because you were found to have decreased level of alertness at your nursing home.
+We obtained a Head CT that showed the changes expected with your prior brain bleed, and a very small area of bleeding on the other side (left).
+You were admitted to the ICU for 2 days because you had a pneumonia and needed assistance breathing.
+You were discharged to the floor in stable condition and remained afebrile for 2 days before you returned back to your facility.

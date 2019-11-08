@@ -1,0 +1,61 @@
+Admission Date:  [**2166-8-20**]              Discharge Date:   [**2166-9-12**]  Date of Birth:  [**2113-10-15**]             Sex:   F  Service: MEDICINE  Allergies: Lisinopril / Toprol Xl / Lipitor / Levofloxacin / Compazine / Vancomycin  Attending:[**First Name3 (LF) 5755**] Chief Complaint: Change in mental status  Major Surgical or Invasive Procedure: endotracheal intubation and extubation central venous catheter placement  History of Present Illness: 55 yo F with h/o CAD s/p CABG, HTN, DM2, PVD, CRI with h/o episodes of ARF, h/o hyperkalemia BIBA due to lethary.
+Patient was feeling generally unwell since discharge from [**Hospital1 18**] for episode of ARF with Cr was 2.3 (from baseline 1.1) and K 6.8 and LE pain [**12-26**] PVD.
+Given 0.4 narcan with no response.
+K hemolyzed but elevated to 7.8 given insulin/dextrose, calicum and kayexalate with improvement to 5.6.
+CAD s/p CABG in [**2160**] at [**Hospital1 112**] 3.
+DM 2 4. h/o CVA - c/b residual numbness/weakness of left arm and leg 5.
+HTN 6.
+Hyperlipidemia 7.
+Elevated LFTs, unknown etiology (?NASH)   Social History: She works for the Department of Mental Retardation.
+She denies a history of alcohol/drug use.
+[**2166-8-19**] CT head: There is no acute intracranial hemorrhage.
+There is no mass effect or shift of normally midline structures.
+No acute fractures are identified.
+TTE [**2166-8-22**]: The left atrium is moderately dilated.
+Overall left ventricular systolic function is mildly depressed (ejection fraction 40-50 percent) secondary to hypokinesis of the basal segments of the inferior and posterior walls.
+Tissue velocity imaging E/e' is elevated (>15) suggesting increased left ventricular filling pressure (PCWP>18mmHg).
+There is moderate aortic valve stenosis.
+Mild to moderate ([**11-25**]+) aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+There is no mitral valve prolapse.
+Trivial mitral regurgitation is seen.
+Moderate to severe [3+] tricuspid regurgitation is seen.
+There is moderate pulmonary artery systolic hypertension.
+Compared with the findings of the prior report (images unavailable for review) of [**2159-9-25**], moderate aortic stenosis is now present.
+Limited views of the liver show no focal lesions.
+Evaluation of the main portal vein with Doppler shows hepatopetal flow, appropriately, but there are periods of intermittent neutral flow which could reflect portal hypertension.
+Brief Hospital Course: In brief, the patient is a 52 year old woman with history of CAD s/p CABG, diabetes, hypertension, morbid obesity, chronic kidney disease (type 4 RTA), and PVD who presented with subacute change in mental status.
+# Decreased Mental Status: The patient presented with decreased consciousness following a low impact fall at home.
+An initial head CT was negative for mass effect or bleeds.
+The etiology of her change in mental status was likely multifactorial secondary to obesity hypoventilation leading to hypercapnea and hypoxia, severe sleep deprivation from OSA, worsening renal failure, +/- small contribution from hyperammonenia.
+Other diagnostic possibilities that were negative included screen for drug intoxication, sepsis, thyroid dysfunction, or seizure.
+The patient was evaluated by the neurology service who thought the change was likely a toxic-metabolic picture.
+The endocrinology service was consulted and ruled out thyroid disfunction.
+The patient was found to have a mildly elevated ammonia level, but the remainder of her synthetic liver function was normal.
+The patient will need to have a sleep study as an outpatient to confirm the diagnosis of sleep apnea and to titrate CPAP.
+In patient attempts at CPAP were unsuccessful due to claustraphobia once the patient was more awake.
+# Resp: The patients initial hypercapnea was thought secondary to COPD and hypoventilation.
+She was weaned and extubated without complication.
+# Acute on Chronic RF.
+The patient's underlying chronic kidney disease is likely [**12-26**] HTN/DM, type 4 RTA on last admission, with concomitant UTI (found on presentation).
+The acute worsening of her renal function was somewhat unclear as the time course was quite rapid of a decline, however, no triggering toxic exposure was identified.
+# HD catheter line infection: Patient noted to have purulent discharge from her hemodialysis catheter site during hemodialysis.
+She was continued on 7 days daptomycin for empiric treatment.
+Suspect early diagnosis to explain negative cultures versus sterile seroma but opted to treat to protect new line placed on the left.
+Continue bacitracin cream to the incision site, which will need removal of stitches in the next couple of days.
+# Hypotn/hypoxia on HD: Patient had an episode of transient hypotension and hypoxia while on hemodialysis on the day of the diagnosis of a suspected line infection.
+Her blood pressure improved with a 200 cc bolus and her hypoxia resolved spontaneously.
+Suspect transient bacteremia versus vancomycin allergic reaction (onset after 25 of 200 cc of vancomycin) versus overdialyzed.
+No recurrent episodes.
+# CAD s/p CABG.
+There were no acute issues during her ICU stay as the patient denied CP and the EKG was non specific.
+The TnT was slightly elevated at 0.02, which was likely [**12-26**] renal dysfunction.
+TTE with new AS and CHF on exam (pitting edema, unable to assess JVD d/t body habitus).
+She was started on a low dose ACEI on the floor given low EF and ESRD on hemodialysis (discussed with renal prior to initiation).
+# Anemia: Patient has a baseline anemia with labs suggestive of iron deficiency.
+Her admission was complicated with bleeding associated with a hemodialysis line placement.
+# PPx.
+# FEN: DM, cardiac diet .
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 puffs Inhalation every 4-6 hours as needed for shortness of breath or wheezing.
+15. glargine 38 units SQ qhs 16. humalog insulin per sliding scale   Discharge Disposition: Extended Care  Facility: [**Hospital3 105**] Northeast - [**Location (un) 38**]  Discharge Diagnosis: primary: obesity hypoventilation acute on chronic renal failure urinary tract infection hyperkalemia type 2 diabetes with poor control transaminitis s/p mechanical fall hemodialysis line infection  secondary: history of coronary artery disease history of peripheral vascular disease history of poorly controlled type 2 diabetes, with complications   Discharge Condition: good: alert, lytes stable, tolerating hemodialysis   Discharge Instructions: Please monitor for temperature > 101, change in mental status, low or high blood sugars, bleeding at hemodialysis catheter site, or other concerning symptoms.

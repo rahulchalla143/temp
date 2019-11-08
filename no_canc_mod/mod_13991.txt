@@ -1,0 +1,44 @@
+Admission Date:  [**2163-11-19**]              Discharge Date:   [**2163-12-2**]  Date of Birth:  [**2113-8-26**]             Sex:   M  Service: NEUROLOGY  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 2090**] Chief Complaint: Progressive weakness  Major Surgical or Invasive Procedure: 1) Plasmaphoresis - 5 rounds; placement of subclavian line 2) Thymectomy for removal of 6 x 3 cm anterior mediastinal mass [**2163-11-24**] 3) s/p Intubation   History of Present Illness: 50 yo man with progressive weakness.
+Symptoms started one month ago with slurred speech .
+His PCP diagnosed him with depression and he was started on lexapro several days before admission.
+No SOB or respiratory compromise.
+Family History: Brother: early cardiac death at age 31 Father: Diabetes, hypertension, coronary artery disease (multiple bypass surgeries)  Physical Exam: PHYSICAL EXAM: VITALS: 97.8, 118/80, 72, 16, 98%RA NIFs: -75 x 3, VC: 2.5L, 2.5L, 3.2L GEN: no acute distress, pleasant SKIN: no rash HEENT: NC/AT, anicteric sclera, mmm NECK: supple CHEST: normal respiratory pattern, CTA bilat CV: regular rate and rhythm without murmurs ABD: rotund, soft, nontender, nondistended, +BS, no HSM EXTREM: no edema  NEURO: Mental status: Patient is alert, awake, pleasant affect.
+Language is fluent with good comprehension, repitition, no dysarthria.
+No apraxia, agnosias, no neglect.
+SCM and trapezius [**4-20**] bilaterally Tongue midline without atrophy or fasciulations.
+No fasciculations or drift.
+No adventitious Movements.
+Rt triceps initially 5 but weakens to 4 with repetitive movements.
+No evidence of ischemia.
+EKG Results: Sinus rhythm, Possible left atrial abnormality, Poor R wave progression possible anterior infarct, inferior T wave changes are nonspecific  Echocardiogram: Mild symmetric left ventricular hypertrophy with normal cavity size and systolic function (LVEF>55%).
+Brief Hospital Course: 50 year old man with worsening weakness over one month that appears consistent with myasthenia [**Last Name (un) 2902**].
+Chest CT evaluating for presence of MG-associated thymoma was positive for a 6 x 3 cm mass.
+2) Plasmapheresis: Underwent two rounds of plasmapheresis via peripheral route on [**11-21**] and [**11-23**].
+During first round had transient episode of hypotension and diaphoresis.
+Second round completed without difficulty.
+Three additional rounds of plasmapheresis were given as described below.
+3) Surgery: Underwent successful resection of 6 x 3 cm anterior mediastinal mass on [**11-24**] via a medial sternotomy.
+Pathology completed by Dr. [**First Name4 (NamePattern1) 533**] [**Last Name (NamePattern1) **] showed no capsular invasion and a benign pattern.
+4) Myesthenic Crisis and Pneumonia: On post-op day [**11-27**], Mr. [**Known lastname 60090**] had some difficulty breathing and was noted to have marked fatigue of his muscles, consistent with a myesthenic crisis.
+During his SICU admission, Mr. [**Known lastname 60090**] was noted to have coarse sounds in his right hemithorax; a portable chest x-ray showed a pattern that was suspicious for pneumonia.
+A sputum culture was obtained and was positive for S. pneumoniae.
+Mestinon dosing was also increased, and respiratory failure improved and pt was extubated and transferred back to the care of the neurology team.
+He also complained of diarrhea.
+He was given Guaifenesin for his cough, percoset for pain, trazadone for sleep, and loperamide for diarrhea; each of these problems subsequently resolved.
+Improvement in pain control resulted in marked improvement in his breathing, as it became apparent that he had difficulty breathing earlier because of his pain.
+B) Cardiovascular Prior to surgery, a cardiovascular workup was performed given Mr. [**Known lastname 60091**] family history of early cardiac death.
+EKG showed slowed R wave progression.
+Echocardiogram was reassuring, but showed mild symmetric left ventricular hypertrophy.
+He was also started on metoprolol for some peri-operative hypertension, which we will continue given his family history, and allow his PCP to make changes as needed.
+C) Depression Continued lexapro per primary care physician's prescription.
+On the day of discharge, Mr. [**Known lastname 60090**] is pain-free on percoset and has been counseled about the importance of following up with his neurologist, surgeon, and primary care doctor.
+Pyridostigmine Bromide 60 mg Tablet Sig: 1.5 Tablets PO Q4H (every 4 hours): Contact your neurologist if you begin to develop muscle weakness.
+Trazodone HCl 50 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) as needed for insomnia.
+Lomotil 2.5-0.025 mg Tablet Sig: 1-2 Tablets PO four times a day as needed for diarrhea.
+Disp:*30 Tablet Sustained Release 24HR(s)* Refills:*2*   Discharge Disposition: Home  Discharge Diagnosis: Myasthenia [**Last Name (un) **], c/b myasthenic crisis and respiratory failure requiring intubation Benign thymoma, s/p resection Pneumococcal pneumonia Transient pancreatitis secondary to transient hypotension, now resolved  Discharge Condition: Mr. [**Known lastname 60091**] condition has improved.
+His muscles are no longer fatiguable with no residual neurological deficits.
+He developed streptococcal pneumonia post-surgically that was successfully treated using a course of antibiotics.
+If you feel any weakness or change in your ability to swallow food, breathe, speak, or if the appearance of your face changes, immediately contact the office of Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], your neurologist.
+If for some reason, you are not able to contact Dr. [**Last Name (STitle) **] or a covering neurologist, please report to the emergency room at the [**Hospital1 69**] and report that you have myasthenia [**Last Name (un) 2902**] that is treated with mestinon and have received therapeutic benefit from plasmapheresis.
+When meeting with Dr. [**Last Name (STitle) 5717**], please dicuss your family history of early cardiac death, the need for continuation of high blood pressure medication that was initiated during your ICU stay, and the need for continuing the Lexapro anti-depressant medication that was prescribed by your previous primary care provider.
+[**Name10 (NameIs) 357**] inform Dr. [**Last Name (STitle) 5717**] that an echocardiogram performed at the [**Hospital1 **] showed symmetric hypertrophy of your heart's left ventricle in discussions of your cardiac health.

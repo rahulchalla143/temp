@@ -1,0 +1,69 @@
+Admission Date:  [**2192-8-19**]              Discharge Date:   [**2192-9-4**]  Date of Birth:  [**2111-4-12**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 1042**] Chief Complaint: coffee-ground emesis  Major Surgical or Invasive Procedure: Upper endoscopy   History of Present Illness: HPI: The patient is an 81 year old female who presented from a nursing home with coffee ground emesis on [**2192-8-19**].
+The patient was unable to provide a history due to dementia but the MICU admitting team was able to speak to her nursing home who provided the following history.
+Per her nurse she had several episodes of dark, coffee-ground emesis on the day prior to admission.
+Per the patient's daughter at baseline, pt is minimally verbal, able to answer simple questions and interject into conversation but does not speak spontaneously and has significant word finding difficulties.
+An NG lavage per report was not performed because there was no evidence of active vomiting.
+CT of the head revealed no evidence of acute bleed.
+Bilateral lower extremity ultrasounds were performed given assymetric lower extremity edema which were negative for clots.
+She was started on high dose IV PPI for her presumed GI bleed.
+She underwent CT of the abdomen which showed a large hiatal hernia with a thoracic stomach and no evidence of pancreatitis despite incidentally noted elevated pancreatic enzymes.
+Past Medical History: # [**First Name8 (NamePattern2) **] [**Male First Name (un) 923**] aortic valve, not currently anticoagulated at rehab/nursing home # Atrial Fibrillation # hiatal hernia with esophagitis # hypoxic brain injury # Dementia # breast ca s/p lumpectomy # osteoporosis # CHF, EF unknown # CAD s/p CABG   Social History:  Has been living at [**Hospital 19453**] Nursing Home & Rehab for past month.
+Within this limitation, there is no significant interval change seen compared to the prior examination.
+Specifically, there has been no interval development of an intracranial hemorrhage or overt area of acute brain ischemia.
+The multiple areas of chronic small-vessel infarctions previously described are re-demonstrated.
+No other new extracranial abnormalities are discerned, either.
+Intrathoracic stomach which may represent gastric volvulus.
+If the patient is not symptomatic these findings may be related to chronic volvulus.
+No CT evidence of pancreatitis .
+There is no evidence of intraluminal clot.
+Intrathoracic stomach with the pyloric at the level of the diaphragmatic hiatus.
+No evidence of gastric outlet obstruction or volvulus.
+Echocardiogram [**2192-8-22**]: Conclusions: The left atrium is moderately dilated.
+No atrial septal defect is seen by 2D or color Doppler.
+There is mild symmetric left ventricular hypertrophy.
+There is no ventricular septal defect.
+The ascending aorta is moderately dilated.
+Trace aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+There is no mitral valve prolapse.
+Trivial mitral regurgitation is seen.
+The tricuspid valve leaflets are mildly thickened.
+There is no pericardial effusion.
+No significant interval change to brain parenchyma without acute hemorrhage identified.
+Brief Hospital Course: Mrs. [**Known lastname 24831**] is an 81 year old female with a history of CAD, atrial fibrillation, aortic valve replacement and dementia who presents with evidence of an upper gastrointestinal bleed.
+# Upper GI bleed: On presentation the patient had experienced two episodes of coffee ground emesis at her nursing home.
+She has a history of esophagitis but otherwise no history of gastrointestinal disorders or bleeding events.
+She was hemodynamically stable and asymptomatic throughout.
+A CT scan of the abdomen was performed in the emergency room which revealed the presence of a large hiatal hernia with a complete intrathoracic stomach.
+The patient underwent upper endoscopy on [**2192-8-21**] which revealed no obvious bleeding sources but confirmed the presence of the large hiatal hernia with the presence of [**Location (un) 3825**] lesions.
+Given that her hematocrit had stabilized and there was no obvious bleeding source on endoscopy no further workup was initiated.
+No further episodes of bleeding were observed throughout this hospitalization.
+# Hiatal Hernia: The patient was noted to have a large hiatal hernia on CT scan.
+The presence of an intrathoracic stomach was confirmed on upper endoscopy.
+An upper GI with small bowel follow through was obtained to further clarify her anatomy.
+This again showed the hiatal hernia, but showed no evidence of volvulus or gastric outlet obstruction.
+[**Name (NI) 227**] the patient's age and comorbities and relatively low lifetime risk of adverse events secondary to her hernia, surgical correction was not pursued further.
+She should continue to take a proton pump inhibitor to protect against future bleeding events.
+# Dementia: The patient has a history of traumatic brain injury as well as senile dementia.
+# Mechanical Aortic Valve: The patient has a St. [**Male First Name (un) 1525**] mechanical aortic valve.
+Over the remainder of her hospitalization her coumadin was titrated to a goal INR between 2.5 to 3.5 for patients with a mechanical valve and atrial fibrillation.
+# Atrial Fibrillation: Currently well-rate controlled with metoprolol.
+# CHF: Patient has a past medical history of CHF but the details of this diagnosis are unclear.
+On admission her antihypertensive medications were held in the setting of acute bleeding but were restarted once serial hematocrits were stable.
+# CAD - The patient has an unclear cardiac history but on CT scan she has evidence of CABG and takes a beta blocker as an outpatient.
+Her LDL was elevated at 133 and given her history of CAD she was started on simvastatin 10 mg daily.
+She was not started on an aspirin on this admission given her presentation with a GI bleed but this can be considered as an outpatient.
+# HTN: The patient has a history of hypertension treated with metoprolol as an outpatient.
+On admission her antihypertensive medications were held in the setting of acute bleeding but were promptly restarted.
+# Paget's Disease: Patient was incidentally noted to have evidence of paget's disease in the right hemipelvis and L1 vertebral body on CT.  She also has a mildly elevated alkaline phosphatase and normal GGT consistent with this disorder.
+# Urinary Tract Infection: Patient was noted to have Klebsiella UTI during this admission.
+# Anemia: Patient has a history of iron deficiency anemia.
+Further workup was not pursued during this admission given her acute bleeding episode.
+# Prophylaxis: She was treated with subcutaneous heparin for DVT prophylaxis.
+Haloperidol 0.5 mg Tablet [**Last Name (STitle) **]: 0.5 Tablet PO every eight (8) hours as needed for aggitation .
+Discharge Disposition: Extended Care  Facility: Armenian Nursing & Rehabilitation Center - [**Location (un) 538**]  Discharge Diagnosis: Primary: Upper GI bleed Dementia Urinary Tract Infection .
+Secondary Atrial Fibrillation Mechanical Aortic Valve Hypertension CHF CAD   Discharge Condition: Stable   Discharge Instructions: You were seen and evaluated because you were vomiting blood.
+You had a CT scan of your head which showed no evidence of bleeding in the brain  You had a CT of your chest which showed that your stomach is located above your diaphragm.
+You also had an upper GI study.
+You were found to have a urinary tract infection which was treated with antibiotics.
+Please seek immediate medical attention if you experience any chest pain, shortness of breath, vomiting blood, blood in your stool or darkness of your stool, fevers, numbness, inability to move your arms or legs, or any other concerning symptoms.

@@ -1,0 +1,71 @@
+Admission Date:  [**2186-7-28**]              Discharge Date:   [**2186-8-1**]  Date of Birth:  [**2105-2-15**]             Sex:   M  Service: NEUROLOGY  Allergies: Penicillins  Attending:[**First Name3 (LF) 2569**] Chief Complaint: left sided weakness, left sided facial droop transferred from OSH for eval for intra-arterial tPA  Major Surgical or Invasive Procedure: none  History of Present Illness: Mr. [**Known lastname 111885**] is an 81 year-old right-handed gentleman with a history of hyperlipidemia, a-fib s/p ablation currently on coumadin, essential tremors, who presents after he fell in the bathroom and found to have dense right sided weakness.
+He again did not notice anything wrong (this however is not reliable as he does not believe there is any weakness now as part of his right MCA syndrome).
+He was taken to [**Hospital6 3105**], where he received an NIHSS of 9 (breakdown not available on the provided notes) and his head CT did not show acute infarcts by report.
+Patient is on coumadin which was stopped on Tuesday due to an elevated INR.
+He was therefore not an IV rTPA candidate, and was transferred to [**Hospital1 18**] for possible IA rTPA.
+Exam was notable for dense L flaccid plegia, nosoagnosia, visual extinction on the L, R gaze preference, impaired body position sensation on the L. Patient immediately was sent for CTA for further characterization of his stroke.
+[**Name2 (NI) **] very rarely drinks a beer or a scotch.
+Family History: His father had a stroke at age [**Age over 90 **] years.
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in oropharynx Neck: Supple, no carotid bruits appreciated.
+No nuchal rigidity Pulmonary: Lungs CTA bilaterally without R/R/W Cardiac: RRR, nl.
+S1S2, no M/R/G noted Abdomen: soft, NT/ND, normoactive bowel sounds, no masses or organomegaly noted.
+Skin: no rashes or lesions noted.
+Able to relate history without difficulty.
+There were no paraphasic errors.
+was able to name both high and low frequency objects.
+Speech was mildly dysarthric.
+He has at least a partial left sided neglect and denies any weakness on that side.
+V: Facial sensation intact to light touch with no extinction on double simultaneous stimulation.
+No pronator drift bilaterally.
+No adventitious movements, such as tremor, noted.
+No asterixis noted.
+He has loss of proprioception on the left side.
+Graphestesia and object recognistion are impaired on the left.
+-Coordination:  No dysmetria ( only tested on the right)  -Gait: unable to stand.
+Dense hemiplegia affecting left face, left arm and left leg.
+NONCONTRAST HEAD CT ([**7-28**]): There is a hyperdense middle cerebral artery on the right with obscuration of the lentiform nucleus on the right consistent with infarction.
+There is no evidence of hemorrhage, edema, or mass effect.
+No fracture is identified.
+CT PERFUSION ([**7-28**]): There is a matched perfusion defect in the right MCA territory with delayed transit time and reduced blood flow and blood volume.
+HEAD AND NECK CTA ([**7-28**]): There is abrupt termination of the right superior M2 division of the MCA consistent with an occlusion.
+The left carotid and bilateral vertebral arteries and their major branches are patent with no evidence of stenosis.
+There is a calcified plaque at the proximal right internal carotid artery with 25% stenosis.
+There is no evidence of aneurysm formation.
+TTE: The left atrium is mildly dilated.
+No left atrial mass/thrombus seen (best excluded by transesophageal echocardiography).
+No atrial septal defect or patent foramen ovale is seen by 2D, color Doppler or saline contrast with maneuvers.
+The aortic arch is mildly dilated.
+The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present.
+Mild (1+) aortic regurgitation is seen.
+Mild to moderate ([**12-19**]+) mitral regurgitation is seen.
+There is borderline pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+IMPRESSION: Mild moderate mitral regurgitation with normal valve morphology.
+Mild aortic regurgitation.
+CHEST X-RAY ([**7-28**]): No focal infiltrate.
+NONCONTRAST HEAD CT ([**8-1**], our read): expected evolution of right MCA infarct with known hemorrhagic conversion.
+No new acute intraparenchymal hemorrhage.
+Brief Hospital Course: Mr. [**Known lastname 111885**] is an 81 year-old right-handed gentleman with a history of hyperlipidemia, a-fib s/p ablation currently on coumadin, essential tremors, who presented to an OSH after he fell in the bathroom and had severe left sided weakness.
+His exam was concerning for a dense right MCA infarct.
+CTA revealed a right M2 superior division cutoff.
+Even with the assumption that he was last well seen at 6:30 am as he reports he had no trouble then (which is not reliable due to presence of neglect), he was not an IV tpa candidate due to an elevated INR.
+Most likely, infarct was embolic in setting of afib despite appropriate INR.
+In ICU he underwent stroke risk factor workup including TTE (showed no PFO/ASD), full lipid panel (showed LDL 66) and A1C (mildly elevated to 6.4%).
+MRI was performed, confirming presence of right MCA infarct.
+Of note, the MRI also showed some hemorrhagic conversion of the stroke, but regardless it was decided to continue anticoagulating patient as his neuro exam was stable.
+Repeat head CT on day of discharge showed no increase in hemorrhage.
+His home cilostazole should also be continued, as patient has CAD and requires anti-platelet therapy.
+On discharge, neuro exam was stable to mildly improved from admission: patient AAOx3 with abullic affect, and dense left face/arm/leg hemiplegia.
+===================== TRANSITIONS OF CARE: - please D/C Foley when pt arrives to rehab facility, and check post-void residuals - please HOLD morning dose of Lovenox until INR is checked on [**2186-8-2**].
+=====================  [ AHA/ASA Core Measures for Ischemic Stroke and Transient Ischemic Attack ] 1.
+Dysphagia screening before any PO intake?
+(x) Yes - () No (if LDL >100, Reason Not Given: ) 10.
+Discharged on oral anticoagulation for patients with atrial fibrillation/flutter?
+Atrial fibrillation 2.
+Hyperlipidemia 3.
+Essential tremor   Discharge Condition: Mental Status: Clear and coherent.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Discharge Instructions: Dear Mr. [**Known lastname 111885**],  You were admitted to the hospital for weakness in your left face, arm and leg.
+You were found to have a large stroke on the right side of your brain.
+This stroke was likely due to your atrial fibrillation, which can cause blood clots to form in the heart and travel to the brain.
+We made some changes to your blood thinner medications to help prevent another blood clot from forming and leading to a stroke in the future.

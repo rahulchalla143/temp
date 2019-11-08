@@ -1,0 +1,54 @@
+Admission Date:  [**2197-3-27**]              Discharge Date:   [**2197-3-31**]  Date of Birth:  [**2123-7-16**]             Sex:   F  Service: MEDICINE  Allergies: Tetanus  Attending:[**First Name3 (LF) 2159**] Chief Complaint: abdominal pain  Major Surgical or Invasive Procedure: None  History of Present Illness: 73 yo F who was recently admitted for abdominal pain returns with same complaint.
+The pt has a history of CVA, PVD, and HTN and was initially seen in OSH on [**2197-3-16**] with complaints of constant lower abdominal pain and several bloody stools.
+She was transferred to [**Hospital1 18**] for concern for SMA embolus.
+A mesenteric angiogram revealed patent SMA/[**Female First Name (un) 899**] but a high grade celiac stenosis.
+She was taken to the OR by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] for an ex-lap where she was found to have transverse colitis but no obvious ischemia.
+During hospital course, she was noted to have sinus tachycardia and HTN which was treated with metoprolol.
+GI was consulted for continuing abdominal pain and guaiac positivel stool during the last admission and recommended colonoscopy as an outpatient to r/o cancer and IBD.
+Since her discharge, the pt reports [**6-24**] bilateral LQ pain as well as RUQ pain with +N/V.
+The abd pain is unchanged from last admission.
+The pain is unrelated to food.
+Since then it has become yellow in color but again without food.
+In the ED, the pt received Anzmet x1 for nausea as well as 1L of NS with significant improvement in pain.
+She had a CT Abd/Pelvis which demonstrated improvements in transverse colon wall thickening and post op changes but no acute pathologic changes.
+The pt was seen by surgery in the ED who believed the pt was able to be discharged back to [**Location (un) 582**], however she was admitted to Medicine for pain control.
+Idiopathic colitis 2.
+Bladder CA s/p neo bladder 3.
+HTN 6.
+COPD 7.
+No accessory muscle use HEENT: pupils 3mm and minimally reactive but equal bilaterally CV: tachy, no m/r/g CHEST: min crackles bilaterally ABD: obese, distended abd with intact staple, no obvious erythema.
+EXT: trace bilateral LE edema.
+Postoperative changes in the anterior peritoneal cavity and subcutaneous tissues at the midline.
+No evidence of small-bowel obstruction.
+Air within the bladder, presumably secondary to recent Foley catheterization.
+CXR [**2197-3-27**] IMPRESSION: No focal infiltrate or evidence of aspiration.
+Persistent opacity in the right paratracheal region suggestive of volume loss in an azygos lobe.
+[**2197-3-27**] WBC-11.9* RBC-3.42* Hgb-10.3* Hct-30.1* MCV-88 MCH-30.1 MCHC-34.3 RDW-15.9* Plt Ct-611*, Neuts-65 Bands-1 Lymphs-8* Monos-4 Eos-11* Baso-0 Atyps-7* Metas-3* Myelos-1* [**2197-3-31**] WBC-10.1 RBC-3.50* Hgb-10.5* Hct-31.4* MCV-90 MCH-30.1 MCHC-33.6 RDW-16.1* Plt Ct-615* [**2197-3-28**] ESR-121*, CRP-16.3* [**2197-3-31**] Glucose-93 UreaN-17 Creat-1.0 Na-138 K-4.5 Cl-103 HCO3-22 AnGap-18 [**2197-3-27**] ALT-10 AST-17 AlkPhos-66 TotBili-0.2 [**2197-3-30**] Neuts-70.6* Lymphs-14.8* Monos-4.3 Eos-9.2* Baso-1.1  Brief Hospital Course: A/P: 73yo F with idiopathic colitis and hx of CVA, PVD, HTN who was recently admitted to surgery s/p ex lap, with persistent abd pain, unchanged, nausea, vomiting and loose stools with unclear etiology, sent stool for cultures/cdiff/etc, and given symptomatic relief.
+Abd pain, nausea, vomiting, 2 loose bm: The etiology of the abd pain is unclear at this point, however she has known transverse colitis indicating some pathology.
+Admission WBC count was 11 but pt did not have a left shift and lactate is low making acute infection less likely.
+Incisional pain is also in ddx.
+-She tolerated po well thoughout her stay, with no nausea or vomiting for several days prior to discharge.
+-She has a follow up appointment with GI on Monday, [**2197-4-3**] for eval for outpt colonoscopy.
+-Her abdominal pain continued to improve this admission on supportive care.
+This may have been due to her decreased PO intake from n/v.
+UTI- with evidence of UTI on resent UA, urine cx from [**3-27**] showing mixed flora, from skin/genital contamination.
+Cardiovascular: A. CAD: Given her hx of PVD, the pt most likely has CAD as well.
+She may not be on ASA due to her proximity with her surgery.
+ASA likely held in setting of her recent surgery, however, it was restarted on [**2197-3-30**].
+c.  Pump: some evidence of lower extremity edema but no JVD.
+Her CXR showing no vol overload.
+There is minimal erythema.
+The wound is approximating nicely, healing well.
+Eosinophilia:  Felt most likely secondary to allergic reaction to her levofloxacin, which was discontinued.
+No further episodes of diarrhea.
+Pulm: The pt has a hx of COPD and is on spiriva, alb and advair at baseline.
+CXR showing no infiltrate, possible volume loss in azygos lobe, no evid for aspiration.
+Idiopathic transverse colitis, status post exploratory laparotomy on a prior admission 2.
+Urinary Tract Infection 3.
+Hypertension 4.
+History of Bladder Cancer 5.
+History of CVA 6.
+Peripheral vascular disease 7.
+Chronic Obstructive Pulmonary Disease 8.
+Gastroesophageal Reflux Disease   Discharge Condition: Stable   Discharge Instructions: If you experience any worsening of your symptoms, please report to the emergency room immediately.
+You will need to follow up with the GI specialists for a colonoscopy.

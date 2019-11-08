@@ -1,0 +1,63 @@
+Admission Date:  [**2156-5-15**]              Discharge Date:   [**2156-5-22**]   Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 4071**] Chief Complaint: chest pain  Major Surgical or Invasive Procedure: [**2156-5-17**] Pericardiocentesis with placement of pericardial drain; [**2156-5-19**] removal of pericardial drain   History of Present Illness: 88 year-old female with a history of HTN, Hyperlipidemia who was recently admitted for pericarditis [**2156-5-4**] and discharged home readmitted with recurrent chest pain.
+No nausea, diaphoresis, or shortness of breath.
+Patient mild symptoms at rest, no change with exertion.
+There is no history of exertional dyspnea, PND, orthopnea, presyncope, syncope, or palpitations.
+Hypertension 2.
+Hyperlipidemia 3.
+C Diff diarrhea (currently on chronic PO vanc) 5.
+Recurrent UTIs 8. h/o dental abscess   Social History: denies tob/etoh/illicits, lives with husband.
+Family History: There is no family history of premature coronary artery disease or sudden death.
+Mild distress with speaking full sentences.
+Sclera anicteric.
+Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.
+No xanthalesma.
+Chest: No chest wall deformities.
+bilateral wheezing, no crackles.
+No HSM or tenderness.
+No femoral bruits.
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+Non-specific ST-T wave abnormalities.
+Since the previous tracing of [**2156-5-4**] there is no diagnostic interval change.
+CXR [**5-15**]:  Low lung volumes, without an acute cardiopulmonary process.
+b/l LE dopplers [**2156-5-16**]:  No evidence of DVT  CTA Chest [**2156-5-16**]: 1.
+No evidence of pulmonary embolus.
+Moderate to large pericardial effusion, a new finding since [**2156-5-3**].
+Bilateral basal pulmonary atelectasis and pleural effusions, which have also increased since the previous CT. 4.
+Bilateral upper pole renal cysts.
+The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present.
+No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Mild to moderate ([**12-3**]+) mitral regurgitation is seen.
+There is a moderate sized (1-1.5cm) circumferential pericardial effusion with sparing along the inferior and inferolateral walls.
+There is mild right ventricular diastolic collapse, consistent with impaired filling/tamponade physiology.
+There is no aortic valve stenosis.
+No aortic regurgitation is seen.
+Mild to moderate ([**12-3**]+) mitral regurgitation is seen.
+There is a moderate sized pericardial effusion.
+The effusion appears circumferential with a layer of echo dense material, consistent with blood, inflammation or other cellular elements anterior to the RV.
+There is right ventricular diastolic collapse, consistent with impaired fillling/tamponade physiology.
+Pericardial effusion with tamponade physiology.
+Pericardial Fluid Cytology [**2156-5-18**]: NEGATIVE FOR MALIGNANT CELLS.
+There is a small echo dense pericardial effusion, consistent with blood, inflammation or other cellular elements.
+There is residue echo dense material mostly anterior to the RV.
+There is a very small pericardial effusion.
+There are no echocardiographic signs of tamponade.
+Brief Hospital Course: 88 yo F w/ htn, hyperlipidemia, chronic c.diff, recent admission for pericarditis presents with recurrent pleuritic chest pain after discontinuing her NSAIDS admitted with recurrent pericarditis.
+Upon admission to cardiology, patient was noted to have pleuritic chest pain with poor oxygen saturation.
+LE dopplers were negative and CTA chest did not show PE but was significant for new pericardial effusion.
+Echocardiogram on [**2156-5-17**] showed large pericardial effusion with some RV collapse.
+Repeat echocardiogram [**5-18**] showed continued evidence of tamponade and she underwent pericardiocentesis.
+220 cc of bloody pericardial fluid was drained.
+Post procedure echo showed resolution of the effusion and residual fibrinous material.
+Cytology was negative for malignancy.
+Strep viridans pericarditis is highly unlikely clinically in the absence of endocarditis, and the patient has had negative blood cultures and no clear evidence of valvular disease.
+# Acute diastolic heart failure: Patient showed clinical evidence of volume overload, most likely from the fluids she received in the hospital.
+# Chronic c. difficile: Pt was continued on her course of PO vancomycin per outpatient medications.
+# Arthritis: Held mobic while on ibuprofen.
+# Subclinical Hypothyroidism: The patient was noted to have sinus tachycardia around 100 even after her pericardiocentesis.
+Pericardial effusion with tamponade physiology .
+Hypertension 2.
+Hyperlipidemia 3.
+Chronic Clostridium Difficle diarrhea 5.
+Zoster   Discharge Condition: Hemodynamically stable, afebrile   Discharge Instructions: You were admitted to the hospital with chest pain after a recent admission with similar pain.
+Echocardiogram showed accumulation of fluid around the heart that was not present on your previous admission.

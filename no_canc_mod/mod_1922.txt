@@ -1,0 +1,23 @@
+Admission Date:  [**2111-5-29**]              Discharge Date:   [**2111-6-4**]  Date of Birth:  [**2032-5-3**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 3507**] Chief Complaint: Fever and chills  Major Surgical or Invasive Procedure: toe debridement   History of Present Illness: 79 y/o female with a h/o T2DM, HTN, CAD, and atrial fibrillation who presented to the ED from her vascular surgeon's office with shaking chills/rigors.
+Pt was noted to be in atrial fibrillation with RVR (HR 140s) and symptomatic.
+ROS: Denies N/V/D or abdominal pain.
+Denies CP or SOB.
+Denies frank fevers at home although some mild chills of late.
+No urinary symptoms.
+Atrial fibrillation, on AC 2.
+HTN 3.
+Hyperlipidemia 4.
+Hypothyroidism .
+No alcohol or IVDU.
+Neck: No JVD or LAD.
+Pulm: CTAB without wheezes or crackles.
+Evidence of erythema and purulent drainage in left foot, 3rd toe.
+She was seen by vascular surgery for her lower ext wound they recommended foot x-ray and podiatry consult.
+Podiatry debrided the wound and a wound swab was sent for culture.
+She was put on empiric vanco/levo/metronidazole for broad coverage of her wound infection.
+On the floor, her metoprolol and diltiazem were titrated up w/ good rate control of her atrial fibrillation.
+Her wound culture grew Methicillin Sensitive S. Aureus.
+Her antibiotic regimen was changed to Nafcillin only; she went to the OR [**2111-6-2**] for debridement of the ulcer by podiatry.
+Discharge Disposition: Home With Service  Facility: [**Company 1519**]  Discharge Diagnosis: Primary: 3rd left toe ulcer Atrial fibrillation .
+Secondary: Hypertension Type II diabetes mellitus Hyperlipidemia Hypothyroidism   Discharge Condition: stable   Discharge Instructions: Please present to the hospital or call your primary care provider if you have fever/chills, chest pain/shortness of breath, or headache/dizziness.
+While you were in the hospital, you had a fast heart rate.

@@ -1,0 +1,35 @@
+Admission Date:  [**2130-3-12**]              Discharge Date:   [**2130-3-20**]  Date of Birth:  [**2047-9-1**]             Sex:   F  Service: MEDICINE  Allergies: Sulfa (Sulfonamides)  Attending:[**First Name3 (LF) 1674**] Chief Complaint: management of acute renal failure, metabolic acidosis and delirium  Major Surgical or Invasive Procedure: right internal jugular central venous catheter left upper extremity PICC line (Peripherally inserted central catheter)   History of Present Illness: This is an 82 year-old female with history of CRI not on HD who was transferred to our ED for hyperkalemia and acidosis, transferred to the ICU for management of acidosis and acute mental status changes.
+They treated her hyperkalemia with Insulin/glucose, bicarbonate, and kayexelate.
+CT Head showed no bleed.
+Her TLC had oozing around the sutures site and a pressure dressing was placed.
+On review of systems, the patient's son reports that she has increased facial swelling and leg edema over the last several days.
++increased breathing x 1 day.
+In addition, she has been having episodes of muffled speech x 1 month, increasing in frequency.
+Past Medical History: *chronic kidney disease Stage IV-V, not on HD [s/p RUE fistula placement [**8-14**]; Nephrologist [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 59393**] @ [**Hospital1 4494**]] *coronary artery disease *hypertension *GERD *Pulmonary fibrosis *rheumatoid arthritis: on MTX and prednisone *h/o PCP [**Name Initial (PRE) 11091**] [**2127**] *hypothroidism *depression and anxiety *breast cancer s/p L mastectomy *osteoarthritis *s/p bilateral total knee replacements *chronic pain syndrome *macular degeneration   Social History: Lives at [**Hospital6 **] home.
+Moaning in pain with any movement.
+No masses or organomegaly.
+MS:  dressing over skin tear on left forearm; winces with pain with movement of legs, arms b/l.
+No focal point tenderness.
+No cyanosis, no clubbing, trace pedal edema with 2+ dorsalis pedis pulses bilaterally.
+PERRL, follows commands but unable to maintain focus for conversation, closes eyes while talking and starts mumbling.
+CT Head: No hemorrhage.
+No focal consolidation detected or evidence of pulmonary edema.
+Right humeral head deformity.
+Clips in left axilla suggesting nodal dissection.
+For serious infections,          repeat culture and sensitivity testing may therefore be warranted          if third generation cephalosporins were used.
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              ENTEROBACTER CLOACAE                              | CEFEPIME--------------   <=1 S CEFTAZIDIME-----------   <=1 S CEFTRIAXONE-----------   <=1 S CIPROFLOXACIN---------   =>4 R GENTAMICIN------------   <=1 S MEROPENEM-------------<=0.25 S NITROFURANTOIN--------   128 R PIPERACILLIN----------   <=4 S TOBRAMYCIN------------   <=1 S TRIMETHOPRIM/SULFA----   <=1 S   Brief Hospital Course: 82yo woman with complex PMH as above, with no known dementia, transferred from OSH with altered mental status, acute renal failure, hyperkalemia, and acidosis in the setting of UTI and hypovolemia.
+# Altered Mental Status: Multifactorial etiology, including uremia, severe metabolic acidosis, hypovolemia and UTI.
+Resolved during ICU course as underlying causes were addressed: acidosis was corrected with bicarbonate infusion, volume repleted, diuretics held, UTI treated.
+Head CT that was negative for bleed or hydrocephalus.
+# Acute on Chronic Renal Failure:  presented at Cr 4.2, per outside nephrologist and renal team here, Cr at baseline is 2.5-3.0.
+Acute worsening was most likely due to volume depletion in the setting of high doses of diuretics and UTI.
+In ICU, treated acidosis, hyperkalemia, and hypovolemia as discussed, held diuretics.
+Patient has AV fistula as she may require dialysis in the future, though unclear if mature yet.
+Pt should have electrolytes and creatinine checked at least every three days and hold diuretics if any increase in creatinine.
+# s/p fall: Most likely secondary to volume depletion/orthostasis but also possible that worsening mental status contributed.
+Pt had drop in Hct shortly after admission, received rbc transfusion, no source of bleeding found, stool guaiac negative.
+# HTN: continued antihypertensives but held diuretics until [**3-17**]; see above  # Rheumatoid Arthritis: continued home meds, including low dose prednisone  # Depression and Anxiety: continued paxil, trazodone, clonazepam PRN  # Hypothyroidism: Continued levothyroxine, TSH WNL  # GERD: continued PPI  # FEN: renal, cardiac diet  # PPx: heparin SubQ  # FULL CODE but would not want sustained intubation  # Communication: regularly with son [**Name (NI) **] [**Name (NI) 30207**] (HCP) [**Telephone/Fax (1) 59394**]  # Physical therapy: Physical therapists saw patient  required max assist to get out of bed to chair.
+Discharge Disposition: Extended Care  Facility: [**Hospital6 25759**] & Rehab Center - [**Location (un) **]  Discharge Diagnosis: 1. delirium of multifactorial etiology, resolved 2. acute on chronic renal failure 3. severe metabolic acidosis 4. hypovolemia 5. urinary tract infection with Enterobacter 6. anemia of chronic disease 7. traumatic ulcers of the left arm and right leg  Secondary Diagnoses: *chronic kidney disease Stage IV-V, not on HD [s/p RUE fistula placement [**8-14**]; Nephrologist [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 59393**] @ [**Hospital1 4494**]] *coronary artery disease *hypertension *GERD *Pulmonary fibrosis *rheumatoid arthritis: on MTX and prednisone *h/o PCP [**Name Initial (PRE) 11091**] [**2127**] hypothroidism depression and anxiety breast cancer s/p L mastectomy osteoarthritis s/p bilateral total knee replacements chronic pain syndrome macular degeneration   Discharge Condition: Hemodynamically stable with good urine output, mental status at baseline, tolerating regular diet.
+Discharge Instructions: You were originally admitted to the Intensive Care Unit with altered mental status attributed to acute renal failure, severe acidosis, dehydration, and urinary tract infection.
+In addition, you had traumatic ulcerations of your left arm and right leg after you fell in your nursing home.
+Your mental status and renal function returned to baseline, and you were maintained on antibiotics for your urinary tract infection.

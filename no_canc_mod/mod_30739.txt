@@ -1,0 +1,52 @@
+Admission Date:  [**2170-7-26**]              Discharge Date:   [**2170-8-3**]  Date of Birth:  [**2109-4-22**]             Sex:   M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 2736**] Chief Complaint: Dyspnea with fever  Major Surgical or Invasive Procedure: ICD extraction  History of Present Illness: 61M hx iCM EF 15-20%, CAD with AMI [**2167**], VFib arrest from IST [**2167**] s/p ICD implantation, COPD on 2L O2 baseline, DM, [**Hospital **] transferred from [**Hospital3 **] for ICD explantation.
+Recently admitted to [**Hospital1 46**] from [**Date range (1) 98806**] for respiratory failure secondary to CHF and COPD exacerbation.
+Patient with chronic exertional dyspnea with mild-moderate activity, minimally ambulatory, lives in a Nursing Home due to his medical comorbidities.
+The staff at his NH noted that he was tachypneic (RR 28) and requiring additional oxygen supplementation.
+On arrival, he was in mild respiratory distress and was found to have bibasilar crackles and a swollen ~4 inch fluctuant mass over the ICD implant that was erythematous, warm, and tender.
+After explantation, there was continued oozing from the site and a drain was left in place.
+Past Medical History: # CAD -- h/o MI -- ?stent thrombosis in [**2167**] with subsequent thrombectomy -- stent placement x3 to his LAD in [**2169**] # VFib arrest -- s/p ICD implantation in [**9-/2168**] # Ischemic cardiomyopathy -- LVEF 15-20% # COPD -- on 2L home oxygen # Hypertension # Hyperlipidemia # Anemia -- with h/o transfusions, etiology unclear # Chronic Kidney Disease -- (time course unclear, Cr 0.91 in [**2170-7-9**])  Social History: # Home: Married, lives at [**Hospital 62931**].
+# Tobacco: 40 pack year smoking history, quit 5 months ago # Alcohol: Alcohol abuse history but also quit 5 months ago # Illicit: None  Family History: Father with MI  Physical Exam: ADMISSION: VS: 98.2 105/73 87 20 97%3LNC GENERAL: Older male in NAD, intubated and sedated.
+Sclera anicteric.
+Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.
+NECK: Supple without elevated JVP .
+CTAB without crackles, wheezes, or rhonchi.
+No femoral bruits.
+Sclera anicteric.
+Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.
+NECK: Supple without elevated JVP, Large EJ.
+LUNGS: Decreased breath sounds over lower lung fields.
+No crackles, wheezes, or rhonchi.
+No femoral bruits.
+The additional presence of pneumonia cannot be excluded .
+(ECHO [**2170-7-28**]) The left atrium is moderately dilated.
+The right atrium is moderately dilated.
+No atrial septal defect is seen by 2D or color Doppler.
+There is severe global left ventricular hypokinesis (LVEF = 15 %).
+No masses or thrombi are seen in the left ventricle.
+There is no ventricular septal defect.
+The right ventricular cavity is moderately dilated with moderate global free wall hypokinesis.
+The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic stenosis or aortic regurgitation.
+No masses or vegetations are seen on the aortic valve.
+No mass or vegetation is seen on the mitral valve.
+Moderate (2+) mitral regurgitation is seen.
+Moderate to severe [3+] tricuspid regurgitation is seen.
+There is severe pulmonary artery systolic hypertension.
+No vegetation/mass is seen on the tricuspid or pulmonic valves.
+There is no pericardial effusion.
+Brief Hospital Course: 61M with history of CAD, MI, sCHF EF 15-20%, VFib arrest s/p ICD placement in [**2167**], COPD on 2L home O2, who presents from [**Hospital1 **] with MRSA bacteremia and ICD pocket infection.
+# MRSA ICD INFECTION with Bacteremia: MRSA bacteremia found at OSH, Positive growth of Staph aureus from ICD pocket, blood cx negative since admission here.
+He had a transient decrease in HCT with oozing around pocket, and was 26.7 on day of discharge.
+# Acute on Chronic Systolic CHF: Initially hypoxic beyond baseline (3L on admission, 2L at home) with bibasilar rales and bilateral effusions, JVP elevation, peripheral edema.
+Likely due to iatrogenic causes in setting of MRSA bacteremia and initial presentation of sepsis.
+His BPs were in the 80-90s on d/c but patient was asymptomatic with no orthostasis on exam.
+In addition, he was able to ambulate with no lightheadedness, dizziness, SOB, or syncope.
+# COPD: During this admissio patient was weaned to his home baseline oxygen requirement of 2L day and night.
+No cough or increased sputum to suggest COPD exacerbation.
+Hypoxia/dyspnea likely related to CHF as above.
+# CAD / VFib arrest: Large MI in [**2167**] with IST and VFib arrest, s/p DESx3 to LAD.
+Per report no further episodes of VFib or VTach.
+# CKD: Reportedly with elevated Cr in the past (1.2 +) although during this admission patient discharged with Cr 0.8, and range was .8 - 1.0.
+# TRANSITIONAL - Add Spironolactone as outpatient if SBP tolerates.
+Torsemide 60 mg PO DAILY   Discharge Disposition: Extended Care  Facility: [**Hospital 671**] HealthCare/Pediatric Center at [**Location (un) 3320**]  Discharge Diagnosis: 1) Implantable cardioverter-defibrillator (ICD) Pocket Infection 2) Staph Coag positive bacteremia 3) Coronary artery disease 4) Acute on Chronic systolic congestive heart failure   Discharge Condition: Mental Status: Clear and coherent.
+Discharge Instructions: Mr. [**Known lastname **],  You were transferred from [**Hospital3 3583**] due to fevers and elevated levels of blood cells that fight infection.
+It was determined that your ICD(Implantable cardioverter-defibrillator) was infected and we removed it to prevent the infection from getting worse.

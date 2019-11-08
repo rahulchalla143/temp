@@ -1,0 +1,35 @@
+Admission Date:  [**2140-12-19**]              Discharge Date:   [**2140-12-22**]  Date of Birth:  [**2101-11-13**]             Sex:   F  Service: MEDICINE  Allergies: Codeine / Doxycycline  Attending:[**First Name3 (LF) 1162**] Chief Complaint: Fever  Major Surgical or Invasive Procedure: None  History of Present Illness: 39 yo F w/ HIV/AIDS (CD4 331), HCV, DMII, HTN, bipolar disorder, presents from [**Hospital **] clinic with fever to 100.4 and LE cellulitis.
+She had initially presented with bilateral burning leg pain and erythema.
+She reported dry-cracked, bleeding skin over the past 1 month.
+She was sent to the ED for further workup of fever and cellulitis.
+She was admitted to the [**Hospital Unit Name 153**] for hypoxia and cellulitis.
+Past Medical History: HIV/AIDS dx in [**2130**] CD4 331 h/o PCP [**Last Name (NamePattern4) **] [**2132**] HCV liver bx in [**5-22**] shows grade-2 inflammation, stage 3 fibrosis diverticulitis c/b colovaginal fistula [**2136**] GERD bipolar anxiety TAH/BSO HTN genital HSV   Social History: Lives alone, +tobacco (6cig/day), h/o IVDU (last in [**2133**])  Family History: Non-contributory  Physical Exam: VS: Temp: 98.5 BP: 115/65 HR: 7876 RR: 20 O2sat 90% ABG 7.42/57/68 GEN: overweight F, laying in bed, complaining of generalized, non-focal pain HEENT: MMM, NC in place NECK: no carotid bruits.
+Pertinent Results: Admission Labs [**2140-12-19**] 01:20PM   WBC-5.1 RBC-4.45 HGB-12.5 HCT-38.5 MCV-87 MCH-28.0 MCHC-32.3 RDW-17.4* [**2140-12-19**] 01:20PM   GLUCOSE-114* UREA N-9 CREAT-0.9 SODIUM-133 POTASSIUM-7.4* CHLORIDE-91* TOTAL CO2-31 ANION GAP-18 [**2140-12-19**] 01:20PM   PLT SMR-NORMAL PLT COUNT-322 LPLT-2+ [**2140-12-19**] 03:35PM   O2 SAT-63 MET HGB-0 [**2140-12-19**] 01:55PM   LACTATE-3.3* [**2140-12-19**] 06:38PM   TYPE-ART PO2-68* PCO2-57* PH-7.42 TOTAL CO2-38* BASE XS-9  CXR [**11-19**] -  No evidence of acute intrathoracic process; specifically, no evidence of focal pneumonia or congestive heart failure.
+CTA [**11-20**] - Markedly limited and poor inspiration No saddle PE.
+Enlarged pulmonary artery suggestive of pulmonary artery hypertension.
+6 mm RUL nodule Old rib fractures  Echo: The left atrium is mildly dilated.
+There is right-to-left passage of microbubbles across the interatrial septum at rest c/w a secundum type atrial septal defect.
+Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded.
+The right ventricular cavity is mildly dilated.
+There is no aortic valve stenosis.
+Mild (1+) aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+There is no mitral valve prolapse.
+Trivial mitral regurgitation is seen.
+There is no pericardial effusion.
+Right-to-left passage of microbubbles after intravenous injection c/w atrial septal defect.
+stateed on admission that she chronically has poor 02 sats and has refused oxygen supplementation and Bipap for OSA in the past.
+Her CXR showed no acute process.
+Her initial ABG indicated hypercarbia and hypoxemia.
+Her ABG on presentation to the ICU was still significant for hypercarbia, but with a improvement in hypoxemia.
+She remained asymptomatic throughout.
+for hypoxia also included pneumonia (CAP), narcotic- induced, obesity hypoventilation.
+A PE was ruled out by CT-PA.  An TTE with bubble study was obtained which did show evidence of an atrial septal defect.
+This was discussed with the cardiology consult team and it was felt that this was most likely a congenital defect and not solely responsible for the patient's hypoxia.
+She had a slight fever and no leukocytosis and the patient's regular ID attending came to evaluate her and stateed that she felt the LE's looked the same or better than baseline and that further antibiotics were not warranted.
+Her coverage was stopped and the patient remained afebrile for the rest of the hospitalization.
+The urine culture showed only fecal contaminant.
+21. med Please see attached sliding scale, check BG 4x daily   Discharge Disposition: Home With Service  Facility: [**Last Name (LF) 486**], [**First Name3 (LF) 487**]  Discharge Diagnosis: hypoxemia atrial septal defect UTI HIV chronic pain   Discharge Condition: stable   Discharge Instructions: You were admitted with hypoxia and a question of cellulitis in your legs.
+You had a CT scan of your lungs which showed no evidence of a PNA or a pulmonary embolus.
+You were also found to have a UTI and will be treated with 3 days of antibiotics.
+You should return to the ER if you develop fevers, chills, nausea, or worsening shortness of breath.

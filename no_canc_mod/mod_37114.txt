@@ -1,0 +1,54 @@
+Admission Date:  [**2171-5-5**]              Discharge Date:   [**2171-5-11**]  Date of Birth:  [**2088-12-23**]             Sex:   M  Service: MEDICINE  Allergies: Methyldopa / Atenolol / Codeine / Norvasc  Attending:[**First Name3 (LF) 530**] Chief Complaint: Shortness of breath  Major Surgical or Invasive Procedure: None  History of Present Illness: 82 yom with history of HTN, COPD, who presents today with shortness of breath and cough.
+He was in his usual state of health until 3-4 days ago when he noticed shortness of breath worse with exertion.
+He felt congested and was having an occasionally productive cough.
+He notes the shortness of breath is worse at night but denies orthopnea or sleeping on increased pillows.
+He had an admission for similar symptoms in [**2169**] which were attributed to a COPD exacerbation (though pt thought it was for pneumonia).
+He denies fevers, but did have some nightsweats over the past couple nights.
+Patient was given albuterol/ipatropium neb and felt better but still tachypenic and cant wean of O2 (only 90%).
+CXR showed no pneumonia or vascular congestion.
+He is very talkative and not short of breath while talking .
+Review of systems: (+) Per HPI (-)  Denies headache .
+Denied chest pain or tightness, palpitations.
+Denied nausea, vomiting, diarrhea, constipation or abdominal pain.
+No recent change in bowel or bladder habits.
+Denied arthralgias or myalgias.
+He had a recent mechanical fall with left leg bruising.
+Family History: Positive for pancreatic cancer in his brother, positive for diabetes in his mother, positive for CAD in his father, positive for hypertension in his mother, positive for throat cancer in his mother, questionable stomach cancer in his sister.
+Physical Exam: ADMISSION EXAM: Vitals: T: 99.6  BP: 169/74  RH: 77  RR: 20  O2: 93% RA General: Alert, oriented, no acute distress HEENT: Sclera anicteric, MMM, oropharynx clear Neck: supple, JVP elevated to angle of jaw, no LAD Lungs: Overall decreased air movement bilaterally with bilateral wheezes.
+No rales or rhonchi CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops Abdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly GU: no foley Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema.
+CXR [**2171-5-5**]: There are lucencies of the apices consistent with emphysematous change.
+Chronic basilar interstitial changes are stable in appearance.
+Note is again made of calcification of the aortic knob.
+There is no pleural effusion or pneumothorax.
+IMPRESSION: Emphysema, with no acute thoracic pathology.
+[**2171-5-7**] ECG: Sinus rhythm with borderline sinus tachycardia.
+Prominent inferior lead Q waves are non-diagnostic.
+Modest inferior lead ST-T wave changes are non-specific.
+Since the previous tracing of same date sinus tachycardia rate is slower, delayed precordial QRS transition pattern is less prominent and inferior lead ST-T wave changes are decreased.
+CXR [**2171-5-9**]: IMPRESSION: Bilateral opacifications concerning for pneumonia, unchanged since [**2171-5-7**].
+Micro:    RESPIRATORY CULTURE (Final [**2171-5-8**]):       MODERATE GROWTH Commensal Respiratory Flora.
+Brief Hospital Course: The patient is an 82-year-old man with medical history significant for COPD, presenting with shortness of breath and likely COPD exacerbation .
+# COPD exacerbation/pneumonia:  Patient's symptoms and exam point to likely COPD exacerbation as evidenced by wheezing on exam and low O2 sats with improvement of symptoms with nebulizers.
+Of note, patient did have hospitalization in [**2169**] for COPD exacerbation.
+The patient did have a leukocystosis, which resolved originally, and the patient was afebrile during his hospitalization.
+Chest X-ray showed no sign of infiltrate.
+The patient was also started on azythromycin for COPD exacerbation and also in the less likely case of possible pneumonia.
+However, on HD 3, the patient developed acute respiratory distress.
+He was not seen to aspirate, though his CXR showed new bilateral lower lobe haziness.
+Serial CXR showed a worsening left lower lobe infiltrate which was likely the cause for the worsening.
+# Indigestion/possible GI bleed: The patient complained that his stomach felt as though he "ate something bad."
+His BUN is increased out of proportion to his creatinine, which suggests he may have a mild GI bleed.
+Added finasteride 5 mg PO daily for urinary retention.
+# Hypertension:  Continued on home regimen of HCTZ 12.5 mg daily, lisinopril 20 mg daily, verapamil 60mg QID until he developed renal failure.
+Then lisinopril and HCTZ were held because of acute kidney injury.
+The patient will need outpatient follow up for possible GI bleed causing elevated BUN.
+Medications on Admission: -albuterol nebs qid prn sob -ipratropium nebs q6h prn SOB -Combivent 103mcg-18mcg 2 puffs QID prn sob -doxazosin 1mg po qhs -advair 250/50 1 inhalation [**Hospital1 **] -hydrocortisone cream 2.5% to the rectum [**Hospital1 **] for hemmorhoids -lisinopril/hctz 20mg/12.5 mg daily -simvastatin 10mg daily -verapamil 240mg ER once daily  Discharge Medications: 1. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1) nebulozer Inhalation Q4H (every 4 hours).
+10. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1) nebulizer Inhalation Q2H (every 2 hours) as needed for SoB/wheeze.
+11. ipratropium bromide 0.02 % Solution Sig: One (1)  Inhalation Q2H (every 2 hours) as needed for SOB/wheezing.
+14. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+16. hydrocortisone acetate 25 mg Suppository Sig: One (1) Suppository Rectal [**Hospital1 **] (2 times a day) as needed for hemorroids.
+Lidocaine Viscous 2 % Solution Sig: One (1) Appl Mucous membrane PRN (as needed) as needed for straight cath.
+Discharge Disposition: Extended Care  Facility: [**Hospital3 105**] - [**Location (un) 86**]  Discharge Diagnosis: Primary: -Chronic obstructive pulmonary disease -Pneumonia (sputum culture with Gram negative rods).
+Discharge Instructions: Mr. [**Known lastname 106803**],  You were admitted to the hospital for shortness of breath which we feel was due to an exacerbation of your COPD with probable pneumonia.
+We treated you with nebulizers, steroids, and antibiotics and you improved.
+Once you are home, you should continue your home inhalers and nebulizers as needed for shortness of breath  Followup Instructions: Department: [**Hospital1 18**] [**Location (un) 2352**] - ADULT MED When: THURSDAY [**2171-5-16**] at 11:30 AM With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1143**], MD [**Telephone/Fax (1) 1144**] Building: [**Location (un) 2355**] ([**Location (un) **], MA) [**Location (un) 551**] Campus: OFF CAMPUS     Best Parking: Free Parking on Site

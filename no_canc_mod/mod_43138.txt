@@ -1,0 +1,59 @@
+Admission Date:  [**2120-9-4**]              Discharge Date:   [**2120-9-11**]  Date of Birth:  [**2054-11-17**]             Sex:   F  Service: MEDICINE  Allergies: Augmentin  Attending:[**First Name3 (LF) 1377**] Chief Complaint: Hematemesis   Major Surgical or Invasive Procedure: Therapeutic Paracentesis ([**2120-9-9**]) Esophagogastroduodenoscopy ([**2120-9-10**])   History of Present Illness: 65 year old female with PMH of ETOH cirrhosis c/b ascites recently discharged from [**Hospital1 18**] on [**9-1**] after hospitalization for acute liver decompensation, present with thrombocytopenia, hematemesis, and epistaxis.
+During prior hospitalization, patient was evaluated for hepatic decompensation with bilirubin rising from 1.1 to 10.1 over 2 months.
+Of note, patient developed progressive thrombocytopenia while in the hospital with platelets falling from baseline of 148 on admission to 37 prior to discharge.
+Shortly after discharge from hospital on [**9-1**] had nausea with nonbloody emesis x 5.
+The next day, she continued to feel nausea with dry heaves accompanied by small amounts of bloody phlegm.
+She also noted loose dark, tarry stools x 2.
+She had slight dizziness with ambulation.
+Denies any syncope, chest discomfort, or worsened dyspnea from baseline.
+No confusion, abdominal discomfort, or other complaints.
+Initial labs were remarkable for Hct at baseline of 26, platelets of 11,000 and worsening hyponatremia to 121 from baseline of 130s.
+ROS: pertinent +: see above; c/o significant chronic H/A, stable chronic exertional dyspnea pertinent -: denies any fevers, chest discomfort   Past Medical History: Alcoholic cirrhosis with stage 4 fibrosis c/b ascites Heterozygotic hemochromatosis Hypertension Depression Alcohol abuse   Social History: Currently living with granddaughter, retired -- ETOH: stopped drinking 1 month ago, used to drink 4-5 [**Hospital1 17963**] daily -- denies IVDA or tobacco   Family History: Daughter with hemochromatosis.
+Denies family history of liver disease.
+Physical Exam: VS: Temp: BP:98/79 HR: 79 RR: 23 O2sat 97% RA GEN: pleasant, comfortable, NAD HEENT: PERRL, EOMI, scleral icterus, small amt crusted blood around nares, MMM, op without lesions NECK: supple, JVP @ 10cm RESP: CTA b/l with good air movement throughout CV: RRR S1 and S2 wnl, grade II/VI systolic murmur best heard LSB ABD: +b/s, soft, nt, moderate amount ascites with shifting dullness to percussion EXT: trace edema b/l NEURO: AAOx3.
+There is no evidence of pneumonia, CHF or aspiration.
+There is no pneumothorax or pleural effusion.
+Low inspiratory volumes.
+Allowing for this, there is possible cardiomegaly and mild prominence of the upper zone vessels, without overt CHF.
+Minimal patchy opacity at both bases likely reflects atelectasis.
+No definite consolidation.
+No pneumothorax detected.
+CD45-bright, low side-scatter, lymphoid gated events are approximately 10% of total analyzed events.
+CD19 and CD20 co-expressing B cells comprise approximately 18% of lymphoid-gated events, and do not express aberrant antigens (CD5 or CD10).
+INTERPRETATION Cell marker analysis demonstrates a non-specific T-cell dominant lymphoid profile.
+Flow cytometry immunophenotyping may not detect all lymphomas as due to topography, sampling or artifacts of sample preparation.
+EGD Report Findings: Esophagus: Mucosa: Mild esophagitis was noted.
+Stomach: Mucosa: Patchy erythema and mosaic appearance of the mucosa with no bleeding were noted in the pylorus and whole stomach.
+These findings are compatible with gastritis and portal hypertensive gastropathy.
+No gastric or esophageal varices were seen.
+Other findings: There was a slightly raised appearance of the pyloric tissue.
+Erythema and mosaic appearance in the pylorus and whole stomach compatible with gastritis and portal hypertensive gastropathy.
+No gastric or esophageal varices were seen.
+There was a slightly raised appearance of the pyloric tissue.
+Brief Hospital Course: The patient is an 65 year old female with alcoholic cirrhosis c/b ascites who presented with thrombocytopenia, hematemesis, epistaxis, vaginal bleeding, melena, and BRBPR.
+# Thrombocytopenia: Her thrombocytopenia may be due to liver disease, but the acute drop is more likely due to autoimmune causes, infection, or a medication effect.
+# Hematemesis: The etiology of her initial hematemesis is unclear.
+It may have been [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]-[**Doctor Last Name **] tear versus vomiting from epistaxis draining down the posterior pharynx.
+The patient's daughter reported that she had a recent EGD that was negative for varices, but documentation of this was not obtained during the MICU stay.
+Her bleeding slowed considerably and she remained hemodynamically stable.
+An EGD was performed on [**2120-9-10**] which showed only mild esophagitis and gastritis.
+# Helicobacter pylori:  Her H pylori serology was found to be positive and her EGD showed patchy gastritis and gastropathy.
+# Hyponatremia: She presented with Na of 121 from baseline of 130s with no signs of altered mental status.
+# ESLD: Diagnostic paracentesis was negative for SBP.
+She had significant ascites which is increasingly uncomfortable for her.
+# Epistaxis: She continued to have epistaxis overnight after admission.
+# Hypertension: Her BP remained stable in 130s-140s.
+Disp:*30 Tablet(s)* Refills:*0* 8. lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) as needed for insomnia.
+)(s)* Refills:*2*   Discharge Disposition: Home  Discharge Diagnosis: Primary Diagnoses: Thrombocytopenia Ascites Helicobacter pylori Infection  Secondary Diagnoses: Alcoholic Cirrhosis Hypertension   Discharge Condition: Mental Status: Clear and coherent.
+Discharge Instructions: You were admitted to the hospital for a low platelet count and bleeding from multiple parts of your body.
+You were initially sent to the Intensive Care Unit, where you were given transfusions of blood, platelets, and clotting factors.
+You received additional platelet transfusions and evaluation of your liver disease.
+The bleeding stopped, and your blood counts also started increasing.
+Several liters of fluid were removed.
+The fluid was tested and showed no evidence of infection.
+You also had an upper endoscopy (EGD) to check for possible sources of bleeding in your esophagus, stomach, and the first part of the small intestine.
+The endoscopy showed some inflammation of the esophagus and stomach, but no major source of bleeding.
+A blood test was also sent which showed possible infection with bacteria called Helicobacter pylori, which can lead to ulcers and inflammation in the stomach.
+You were started on medications to treat this infection and eradicate the bacteria.
+START: Furosemide 40 mg by mouth daily START: Spironolactone 100 mg by mouth daily START: Omeprazole 20 mg by mouth twice daily START: Metronidazole 500 mg by mouth twice daily for 14 days START: Clarithromycin 500 mg by mouth twice daily for 14 days START: Lorazepam  0.5 mg by mouth at bedtime as needed for insomnia.
+Do not drive or operate machinery while taking this medication since it can make you sleepy and slow your reaction times.

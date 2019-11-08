@@ -1,0 +1,32 @@
+Admission Date:  [**2171-11-9**]              Discharge Date:   [**2171-11-13**]  Date of Birth:  [**2116-12-19**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 45**] Chief Complaint: Acute AMI s/p thrombolysis  Major Surgical or Invasive Procedure: Cardiac cath with stent placement [**2171-11-12**]  History of Present Illness: Mr. [**Known lastname **] is a 54 yoM with minimal PMH who was mowing lawn at 11 AM [**2171-11-9**] and suddenly experienced accelerating exertional 7/10 intensity SSCP.
+Symptoms initally attributed to "swallowing air," and patient self-induced eructation with minimal relief.
+Continued mowing lawn despite increasing pain, noted diaphoresis and feeling of warmth.
+No dyspnea, nor lightheadedness.
+Single episode of nausea spontaneously relieved after one minute.
+Describes burning SSCP [**2176-7-18**], with weakness in arms.
+No other symptoms.
+Started on nitroglycerin gtt for BP control.
+Past Medical History: Hypertension diagnosed 2 years ago, no treatment.
+Family History: Father with CVA in age 60's.
+No significant history of CAD in family.
+Abd:  Overweight, no HSM.
+Ext:  Trace edema bilaterally.
+At [**Hospital1 18**]: 1930h NSR 64 1mm STE V2-V4 with biphasic t waves in this distribution.
+LCx: small diffusely dz AV vessel w/ modest OM Ramus: large w/ irregularities RCA: proximal diffuse plaques .
+Hemo: PCW: 20 RA: 14 PA: 41/22 (30) LV: 129/34 RV: 41/21   Brief Hospital Course: A&P:  54 year old male with large AMI s/p thrombolysis at OSH.
+On presentation to [**Hospital1 18**] pain free with resolving ST segment changes.
+Revascularization with retavase at OSH with resolving ST segments.
+##Cardiac CAD - Initially patient continued on ASA, and heparin (goal 50-70) given bleeding diathesis after thrombolytics.
+No GPIIb/IIIa inhibitor was used.
+- Also started on Lipitor 80 mg po qd, beta blocker (metoprolol) and captopril   - Patient markedly hypertensive (SBP 160) on arrival - received IV NTG gtt for pressure control which was weaned off and ACEI and BB titrated up appropriately.
+- Pt under went a cardiac cath which revealed LAD lesion which was stented with [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Last Name (Prefixes) **].
+Pump - no previous estimates of heart function.
+No signs of heart failure on exam.
+Given EF of 35% and apical, inferior and lateral apical akinesis pt started on coumadin for likely 3 month course.
+Rhythm - sinus, recurrent bradycardia into 50's, asymptomatic.
+#  Respiratory - pt noted to have apnea alarms at night on tele as well as during the cardiac cath.
+Lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily): For blood pressure control.
+Nitroglycerin 0.3 mg Tablet, Sublingual Sig: One (1) Sublingual once a day: take in case of chest pain and call your physician.
+[**Name Initial (NameIs) **]:*20 tablets* Refills:*0*   Discharge Disposition: Home  Discharge Diagnosis: Myocardial infarction Hypertension   Discharge Condition: Stable and pain free   Discharge Instructions: You were admitted to the hospital with a heart attack.
+You have a prescription for these blood draws.
+If you develop chest pain, shortness of breath, lightheadedness, severe dizziness, persistent or worrisome abdominal pain, or other worrisome symptoms, seek immediate medical attention.

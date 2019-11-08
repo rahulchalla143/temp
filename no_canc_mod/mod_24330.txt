@@ -1,0 +1,32 @@
+Admission Date:  [**2143-10-8**]              Discharge Date:   [**2143-10-14**]  Date of Birth:  [**2064-12-19**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 1928**] Chief Complaint: near syncopal episode, melena  Major Surgical or Invasive Procedure: [**First Name3 (LF) **] with biliary stent placement and cautery of sphincterotomy site   History of Present Illness: 78 yo M with St Jude's valve on lovenox and coumadin, DM, CAD, previous prostate CA who is s/p [**First Name3 (LF) **] from [**2143-10-3**] who was visiting a friend in the hospital yesterday when he developed lightheadedness when standing associated with one episode of black tarry stool and a very small amount of emesis which he reports may have been dark in color.
+He denied any chest pain, shortness of breath, arm pain, jaw pain, abd pain, or palpitations at the time of the incident.
+Of note he did have one black stool while at [**Hospital3 **] 5 days ago prior to recent discharge and one black stool 3 days ago.
+Exam showed guaiac positive dark black stool.
+He had one episode of melena in the ED.
+ROS + for headache at [**Hospital1 34**] with resolution with tylenol.
+He denied dizziness, abd pain, chest pain, shortness of breath, arm pain, or jaw pain.
+Past Medical History: # s/p St Jude's valve (approx [**2128**]) # CAD s/p 1 vessel CABG # pacemaker in [**2137**] # prostate ca s/p radiation and hormone tx in [**2129**] # bladder cancer s/p local resection approx [**2130**] # s/p cholecystectomy in the setting of pancreatitis yrs ago # DM # HL # HTN # back [**Doctor First Name **] for herniated disk  Social History: Previous smoker quit 25 yrs ago Etoh use 1-2 drinks/wk no illicits  Family History: Father with MI in 70s   Physical Exam: T=96.
+No conjunctival pallor.
+No scleral icterus.
+OP clear no blood in pharynx.
+Normal loud click of mechanical valve.
+No murmurs, rubs or [**Last Name (un) 549**].
+No carotid bruit.
+No RUQ tenderness.
+Old black stool present.
+SKIN: + erythematous macules on back.
+Pertinent Results: [**2143-10-8**] 09:52PM   HCT-26.8* [**2143-10-8**] 02:26PM   CK(CPK)-21* [**2143-10-8**] 02:26PM   CK-MB-2 cTropnT-<0.01 [**2143-10-8**] 02:26PM   HCT-29.7*  [**Month/Day/Year **] REPORT [**2143-10-8**]: The ampulla was located, and a small amount of fresh ooze was seen at the site of the previous sphincterotomy.
+No filling defects were identified.
+(stent placement, thermal therapy) Otherwise normal EGD to third part of the duodenum  Brief Hospital Course: Mr. [**Known lastname **] is a 78 year-old gentleman with coronary artery disease s/p mechanical aortic valve replacement (St Jude's valve), DM, previous prostate CA who is s/p [**Known lastname **] ([**2143-10-3**]) resulting in sphincterotomy, who was admitted to the ICU for melena and lightheadedness.
+He underwent EGD/[**Month/Year (2) **] on [**2143-10-8**] and the source of bleeding was identified at his sphincterotomy site from [**10-3**].
+His anticoagulation was held for the procedure but given his extensive cardiac history and mechanical valve, cardiology was consulted regarding this issue.
+On [**10-11**], pt had an episode of explosive gassy bowel movement with dark melena of unclear volume.
+It remained unclear if this represented a new episode of bleeding, or if this was melena that remained from his prior bleed (this was the first time moving bowels since procedure).
+Serial H/H revealed a decreased Hct to 24 and pt was transfused an additional unit of PRBC.
+* Syncope - Due to his history of near syncopal episode (and cardiac history), he was ruled out for myocardial infarction.
+He was ruled out with negative cardiac enzymes and it was felt that his near syncope was secondary to his GI bleed and hypoperfusion.
+* CAD s/p CABG - His outpatient medications were continued.
+Lisinopril was decreased to 20mg daily  * HTN - Norvasc was held through out much of his hospitalization, but was restarted on the day before discharge.
+* Hyperlipidemia - Statin continued  * DM II - Metformin was discontinued in the setting of his Cr.
+Discharge Disposition: Home  Discharge Diagnosis: # Acute blood loss anemia # Acute bleed at [**Numeric Identifier **] sphincterotomy site # Anticoagulation with coumadin # Presence of mechanical heart valve  # Chronic kidney disease # Hypertension # Hyperlipidemia # Diabetes  # Coronary artery disease, s/p CABG # Type 2 diabetes, controlled   Discharge Condition: stable   Discharge Instructions: You were admitted to the hospital after an episode of bleeding at the site of your previous [**Numeric Identifier **], which likely occurred due to your need to be on coumadin.
+Please go to the [**Last Name (un) 14223**] Building at [**Street Address(2) 84257**], [**Location (un) **] (laboratory) on Friday to have these labs checked.

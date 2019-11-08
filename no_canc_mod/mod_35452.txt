@@ -1,0 +1,41 @@
+Admission Date:  [**2158-4-16**]              Discharge Date:   [**2158-4-18**]  Date of Birth:  [**2073-12-25**]             Sex:   M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 7333**] Chief Complaint: complete heart block  Major Surgical or Invasive Procedure: St. [**Male First Name (un) 923**] Dual Chamber Pacemaker Placement   History of Present Illness: Mr. [**Known firstname **] [**Known lastname **] is a 84 year old Chinese-speaking male with a PMH of HTN, CAD, DM2 transferred from NEBH for further evaluation and management of complete heart block.
+Briefly, he presented to NEBH earlier today after noting increased fatigue, bilateral leg swelling, and dizziness for the past week.
+He has noticed a slight increased work of breathing.
+He denies any chest pain or pressure or palpitations.
+On review of systems, he has a history of prior stroke in the [**2137**] from which he has completely recovered.
+He has some occasional nausea relieved by his PPI.
+He has chronic myalgias and lower extremity pain from peripheral neuropathy as well as chronic constipation (last BM yesterday).
+He denies any prior history of deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, cough, hemoptysis, black stools or red stools.
+He denies recent fevers, chills or rigors.
+CARDIAC RISK FACTORS: + Diabetes, + Dyslipidemia, + Hypertension 2.
+Cath in [**2142**] showed total occlusion of the RCA with L->R collaterals, primarily from the left circumflex.
+OTHER PAST MEDICAL HISTORY: - CAD - Hypertension.
+- High cholesterol.
+- Gastroesophageal reflux disease.
+- Hx GI bleed with question of gastric polyp.
+- Chronic renal insufficiency - Traumatic subarachnoid hemorrhage [**2155**]  Social History: Originally from [**Country 651**].
+Sclera anicteric.
+Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.
+No xanthalesma.
+No thrills, lifts.
+LUNGS: No chest wall deformities, scoliosis or kyphosis.
+CTAB, no crackles, wheezes or rhonchi.
+No HSM or tenderness.
+No abdominal bruits.
+EXTREMITIES: 1+ edema at ankles bilaterally.
+No clubbing or cyanosis.
+No femoral bruits.
+No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES: Right: Carotid 2+ Femoral 2+ Radial 2+ DP 1+ Left: Carotid 2+ Femoral 2+ Radial 2+ DP 1+   Pertinent Results: [**2158-4-18**] 04:30AM BLOOD CK-MB-4 cTropnT-0.06*  [**2158-4-18**] 04:30AM BLOOD Calcium-8.7 Phos-4.1 Mg-2.0  [**2158-4-18**] 04:30AM BLOOD Glucose-247* UreaN-17 Creat-1.3* Na-138 K-3.8 Cl-104 HCO3-24 AnGap-14  [**2158-4-18**] 04:30AM BLOOD PT-12.8 PTT-49.3* INR(PT)-1.1  [**2158-4-18**] 04:30AM BLOOD WBC-8.3 RBC-3.91* Hgb-13.1* Hct-37.3* MCV-95 MCH-33.6* MCHC-35.2* RDW-13.2 Plt Ct-172  Brief Hospital Course: Mr. [**Known lastname **] is a 84 year old male with a PMH of HTN, CAD, DM2 transferred from NEBH for further evaluation and management of complete heart block treated with the placement of a dual chamber pacemaker.
+# RHYTHM:  Patient was admitted with HR in the 30s, likely a slow junctional escape rhythm with compelete AV dissociation.
+# CORONARIES:  Patient has a history of CAD with a distant history of PCI.
+# PUMP:  He has no known history of CHF.
+He had an elevated BNP and mild pulmonary edema likely secondary to his slow heart rate and hypertension, however his lack of a supplemental oxygen requirement was reassuring.
+# Hypertension: His hypertension was long-standing and likely acutely elevated on admission in the setting of bradycardia and was allowed permissive hypertension to ensure adequate perfusion in the setting of bradycardia.
+# Type 2 diabetes: Complicated by neuropathy and CRI.
+# Neuropathic pain: He was continued on his home lidocaine patches and neurontin.
+Disp:*30 Tablet(s)* Refills:*2*   Discharge Disposition: Home With Service  Facility: CareTenders- VNA  Discharge Diagnosis: Complete Heart Block Cellulitis   Discharge Condition: Mental Status: Clear and coherent.
+Discharge Instructions: Mr. [**Known lastname **],  You were admitted to the hospital for dizziness and fatigue.
+You were found to have an abnormal heart rhythm (complete heart block) which likely caused your symptoms.
+You received a pacemaker to control your heart rhythm and you symptoms improved.
+You were also noted to have redness on your legs which was concerning for a skin infection (cellulitis) and you received antibiotics that improved the appearance of your skin.

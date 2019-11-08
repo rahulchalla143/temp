@@ -1,0 +1,41 @@
+Admission Date:  [**2135-6-14**]              Discharge Date:   [**2135-6-15**]  Date of Birth:  [**2093-9-7**]             Sex:   F  Service: MEDICINE  Allergies: Lisinopril / Hydralazine  Attending:[**Last Name (NamePattern4) 290**] Chief Complaint: respiratory distress  Major Surgical or Invasive Procedure: intubation/extubation hemodialysis x2   History of Present Illness: 41 y/o F with hx of ESRD on HD for last two months, unclear etiology for renal failure, presents with acute respiratory distress.
+She has a hx of getting headaches with HD and so they have been taking off less fluid than usual at HD.
+Unable to get more of a history of cough, sputum, or precipitating events around her acute respiratory distress.
+On arrival to the floor, she is intubated and minimally sedated and aggitated.
+Past Medical History: - ESRD (GN) s/p placement HD line on [**3-22**], missed [**1-12**] HD sessions - HTN   Social History: Immigrated from [**Country 27587**] approx 20 years ago.
+Family History: Sister who died from complications of a renal transplant, a mother who has severe chronic kidney disease, and a maternal grandfather who also had some form of glomerulonephritis.
+Physical Exam: Vitals - 96.4, 166/119, 87, 97% on FiO2 100% with PEEP 10, 400x26 Gen - intubated and sedated, aggitated HEENT - ET tube, PERRLA, EOMI, supple neck CV - RRR, no m,r,g Lungs - diffuse crackles, mild expiratory wheezes Abd - soft, NT, ND, no hsm or masses Ext - warm, well perfused, no edema Neuro - intubated and sedated  Pertinent Results: [**2135-6-14**] 02:41AM BLOOD WBC-8.6 RBC-3.75* Hgb-11.4* Hct-36.0 MCV-96 MCH-30.3 MCHC-31.6 RDW-22.5* Plt Ct-101* [**2135-6-14**] 05:34AM BLOOD WBC-10.9 RBC-3.01* Hgb-9.1* Hct-28.5* MCV-95 MCH-30.3 MCHC-32.0 RDW-22.7* Plt Ct-72* [**2135-6-15**] 05:35AM BLOOD WBC-7.7 RBC-2.53* Hgb-8.1* Hct-23.5* MCV-93 MCH-31.9 MCHC-34.5 RDW-22.9* Plt Ct-64* [**2135-6-14**] 02:41AM BLOOD PT-12.1 PTT-21.8* INR(PT)-1.0 [**2135-6-14**] 02:41AM BLOOD Glucose-125* UreaN-50* Creat-7.6* Na-143 K-5.8* Cl-104 HCO3-22 AnGap-23* [**2135-6-14**] 05:34AM BLOOD Glucose-110* UreaN-51* Creat-7.2* Na-140 K-6.6* Cl-107 HCO3-20* AnGap-20 [**2135-6-14**] 11:16AM BLOOD Glucose-66* UreaN-15 Creat-3.2*# Na-140 K-3.4 Cl-104 HCO3-21* AnGap-18 [**2135-6-15**] 05:35AM BLOOD Glucose-89 UreaN-31* Creat-5.4*# Na-139 K-4.7 Cl-102 HCO3-22 AnGap-20 [**2135-6-14**] 05:34AM BLOOD ALT-61* AST-76* AlkPhos-137* TotBili-0.4 [**2135-6-15**] 05:35AM BLOOD Calcium-7.7* Phos-6.1*# Mg-2.1 [**2135-6-14**] 03:49AM BLOOD Type-ART Temp-37.7 Rates-18/ Tidal V-442 PEEP-5 FiO2-100 pO2-101 pCO2-66* pH-7.10* calTCO2-22 Base XS--10 AADO2-564 REQ O2-91 -ASSIST/CON Intubat-INTUBATED [**2135-6-14**] 08:46AM BLOOD Lactate-0.8 .
+There is mild symmetric left ventricular hypertrophy.
+The aortic valve leaflets (3) are mildly thickened.
+No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Trivial mitral regurgitation is seen.
+There is mild pulmonary artery systolic hypertension.
+There is a small to moderate sized pericardial effusion.
+There are no echocardiographic signs of tamponade.
+Marked bilateral hilar and lung parenchymal opacities are present.
+Bilateral pleural effusions are also present.
+There is no pneumothorax.
+IMPRESSION: Bilateral opacities in a hilar distribution with prominence of pulmonary vasculature compatible with pulmonary edema.
+Superimposed infection cannot be excluded.
+The heart size is mildly enlarged.
+Previously described right-sided opacity throughout both lungs has improved significantly, most consistent with resolving pulmonary edema.
+Retrocardiac opacity persists consistent with atelectasis.
+There is no large pleural effusion or pneumothorax.
+Brief Hospital Course: 41 y/o F with hx of HTN, ESRD of unknown etiology on HD with recent GNR bacteremia presents with acute respiratory distress in the ED, likely from fluid overload secondary to incomplete HD treatments.
+# Respiratory Distress: had acute respiratory distress from what appeared to be massive fluid overload on CXR.
+She also had recent hx of bacteremia with new MR on her echo concerning for question of endocarditis.
+Most likely is acute flash edema in setting of fluid overload and HTN.
+We controlled her BP, did HD to have her fluid removed.
+# ESRD: likely from GN, although etiology is still somewhat unclear given no biopsy in the past.
+She has been have less fluid removal.
+Also has hx of non-compliance with HD at times and trying herbal/alternative medicine instead.
+# Hyperkalemia: in setting of being due for HD on admission.
+She had no EKG changes.
+# GNR bactermia: had GNR bacteremia per prior discharge summary, was enterobacter [**First Name8 (NamePattern2) **] [**Location (un) 745**] [**Location (un) 3678**] records.
+Initially it had been worrisome for continued involvement of the heart valves, but echo again did not show endocarditis or valve dysfunction.
+# HTN: hypertensive at baseline, had not taken her home meds given her acute respiratory distress.
+Disp:*60 Tablet(s)* Refills:*2*   Discharge Disposition: Home  Discharge Diagnosis: Primary Diagnosis: respiratory failure flash pulmonary edema end-stage renal disease on HD htn   Discharge Condition: Mental Status: Clear and coherent.
+Discharge Instructions: You were admitted to the hospital for respiratory distress and very high blood pressures.
+This was caused by having extra fluid in your lungs from not enough fluid being taken off at dialysis and high blood pressures.
+We did dialysis again today and removed more fluid.

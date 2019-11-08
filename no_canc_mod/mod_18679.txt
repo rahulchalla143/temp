@@ -1,0 +1,71 @@
+Admission Date:  [**2171-8-6**]              Discharge Date:   [**2171-9-3**]  Date of Birth:  [**2117-2-27**]             Sex:   F  Service: MEDICINE  Allergies: Flagyl / Levaquin  Attending:[**First Name3 (LF) 943**] Chief Complaint: Anasarca, SOB x 1 week  Major Surgical or Invasive Procedure: Thoracentesis [**2171-8-7**], [**2171-8-14**], [**2171-9-3**] Transesophageal echocardiogram [**2171-8-26**] Placement of Central intravenous catheter [**2171-8-23**] PICC line placement [**2171-8-27**] TIPS evaluation [**2171-8-27**]   History of Present Illness: Patient is a 54 y/o female with IDDM, traumatic brain injury [**2167**] (memory impairment), HCV cirrhosis, esophogeal varices, hx of R hydropneuomothorax, HCC s/p radio freq ablation in [**Month (only) **] [**2170**] s/p TIPS two weeks ago, admitted for worsening anasarca x 1 week and worsening SOB and nonproductive cough x 4 days.
+Patient states that most questions have to be deferred to her daughter [**Name (NI) **], because patient has memory problems since [**Name (NI) 8751**] in [**2167**].
+Patient admits to increase in lower ext swelling, abdominal swelling, upper arm swelling, and facial edema x 1 week.
+Admits to continual chills, but no fevers or rigors.
+Admits to chronic diarrhea, but no bloody or melanotic stools.
+ROS: Patient denies CP, dysuria, hemoptysis, hematemesis,  ALLERGIES: levaquin/flagyl   Past Medical History: Hepatitis C cirrhosis HCC s/p RFA in [**2171-5-3**] Chronic kidney disease, most likely due to diabetes (nephrology consulted last admission) s/p MVC -> brain injury with cognitive impairment and paralyzed vocal cords s/p multiple pericenteces s/p multiple thoracenteces for R pleural effusions h/o 2 episodes SBP in past year HCC s/p RFA in [**2171-5-3**] Type 2 Diabetes mellitus x 17 years, on insulin Hypertension s/p motorcyle accident [**2167**] -traumatic brain injury, coma x 8 weeks -s/p failed trial of IFN 17 yrs ago   Social History: Home: Lives with sister in [**Name (NI) 47**] Remote history of tobacco, questionable drug/alcohol use/abuse Daughter [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 62169**] Healthcare proxy, [**Name (NI) **] home [**Numeric Identifier 62172**].
+Family History: No family history of liver disease Sister with non-[**Name (NI) 29512**] lymphoma and lung cancer.
+[**Name2 (NI) 6961**] both died age 60s or 70s of myocardial infarctions.
+NECK: CVP 17cm, no bruits CV: RRR Sys murmur [**1-8**] best heard at RUSB rads to LUSB., nl PMI, no heaves LUNGS: dullness to percussion, decreased BS, and egophony R i/2 post lung field.
+2+ bilat edema in hand arms up to shoulders.
+Large right pleural effusion.
+Small ascites.
+No mark made for bedside paracentesis.
+Patent TIPS with wall-to-wall flows, velocities ranging from one 110.0 to 140.0 cm/sec.
+Status post two RF ablation lesions in the right hepatic lobe.
+Cirrhosis .
+[**2171-8-10**] LUNG SCAN: Indeterminate probability of pulmonary embolism with a matched defect in the right mid and lower lobe and associated effusion seen on Xray.
+[**2171-8-20**] LUNG SCAN:  Low probability of pulmonary embolism.
+BILAT LOWER EXT VEINS  [**2171-8-10**]: No evidence of DVT .
+[**2171-8-12**] Echo: Nml left ventricular wall thickness, cavity size and regional/global systolic function (LVEF >55%) The right ventricular cavity is mildly dilated.
+Physiologic mitral regurgitation is seen (within normal limits).
+There is moderate pulmonary artery systolic hypertension.
+There is a trivial/physiologic pericardial effusion.
+Compared to [**2171-6-20**] images, RV cavity increased with pulm artery HTN no present & TR increased.
+[**2171-8-26**] Transesophageal echo Mild mitral regurgitation with normal valve morphology.
+No 2D echocardiographic evidence for endocarditis.
+No evidence of atrial septal defect or significant intrapulmonary shunt with agitated saline contrast with maneuvers.
+Complex, non-mobile atheromas in descending thoracic aorta   Brief Hospital Course: ASSESSEMENT/PLAN: 54 y/o F w/ HCV cirrhosis s/p TIPS [**7-/2171**], HCV s/p radiofrequency [**5-/2171**] initially admitted for SOB & anasarca, complicated by MICU stay for resp.
+distress and subsequently developing GNR bacteremia as well as acute on chronic renal failure.
+# Anasarca and volume overload: Etiology was felt to be secondary to a combination of liver disease, nephrotic syndrome ([**1-4**] chronic kidney disease), and albumin 1.9 on admission.
+Initially there was concern for TIPS failure but [**8-7**] ultrasound showed a widely patent TIPS.
+Pt received aggressive albumin replacement and diuresis with moderate urine output.
+Diuresis had to be discontinued due to worsening renal failure.
+# Pleural effusion: Pt admitted with R pleural effusion worse than previously.
+Appeared to be hydrothorax consistent with portal hypertension and cirrhosis.
+Therapeutic thoracentesis were performed, however with rapid reaccumulation of the fluid R > L. Developed respiratory distress requiring transfer to the MICU.
+# Respiratory Distress: Pt admitted with increased O2 requirement however worsened and required stay in MICU.
+distress was thought to be related to hydrothorax secondary to cirrhosis, however there was the possibility of PE, hence was empirically treated with heparin infusion.
+However, repeat V/Q scan showed low probability.
+She underwent multiple thoracentesis as above for R>L pleural effusions.
+# HCV Cirrhosis: Most likely to be etiology of hydrothorax/bilateral pleural effusion.
+Also felt to be transplant candidate due to poor mental capacity.
+TIPS noted to be patent on ultrasound, however TIPS revision indicated no significant gradient & hence no further dilation was necessary.
+However, pt still with large R pleural effusion.
+Grade I esophageal varices; had no evidence of bleeding.
+# Nephrotic syndrome: Admitted with anasarca also, found to have nephrotic syndrome.
+Appeared to be more consistent with longstanding diabetes rather than HCV glomerulonephritis as spep normal, [**Doctor First Name **] neg, c3,c4 normal and cryoglobulins neg.
+# Pulmonary HTN: Discovered on echocardiogram in the w/u for dyspnea in this pt.
+No evidence of pulmonary emboli, no clear etiology at this point.
+Strongyloidis antibody negative.
+Pt with peripheral eosinophilia, pulm: no evidence for pulmonary pneumonitis.
+# Acute on chronic renal failure: Pt with known chronic kidney disease secondary to hypertension and diabetes.
+# Anemia: Lab values consistent with anemia of chronic disease.
+Also started on iron to aid in treatment of chronic kidney disease.
+Although known guaiac positive stool during admission as well as esophageal varices, no evidence of active bleeding.
+# Diabetes Mellitus: Pt with long standing diabetes, received glargine daily with sliding scale insulin.
+However, had hypoglycemic episode in the setting of poor po intake.
+# Hypothyroidism:  Pt was continued on synthyroid, however dose was doubled during admission due to elevated TSH of 11.
+# HTN: Poorly controlled hypertension prior to admission, BP continued to remain elevated during admission despite aggressive BP therapy.
+The renal service contributed that some level of hypertension should be allowed for adequate renal perfusion given chronic hypertension and diabetic nephropathy.
+# Traumatic brain injury [**Last Name (STitle) 8751**] [**2167**].
+She was initially treated with Vancomycin then continued on augmentin for combined treatment of MSSA and enterococcus UTI.
+However, pt developed fevers despite treatment and had to be restarted on Vancomycin.
+Naficillin was added to the regimen, however developed symptoms consistent with AIN, thus had to be stopped.
+# UTI: Initially found to have UTI with enterococcus sensitive to ampicillin.
+If O2 sat decreases below 94% or if O2 requirement suddenly increases, please contact MD.
+Disp:*1 1* Refills:*2*   Discharge Disposition: Home With Service  Facility: [**Company 1519**]  Discharge Diagnosis: Recurrent pleural effusions Bacteremia Urinary tract infection Acute on chronic renal failure Hepatitis C cirrhosis Hepatocellular carcinoma s/p RFA   Discharge Condition: Stable.
+60.2kg   Discharge Instructions: You were admitted with shortness of breath related to fluid collection around your lungs.
+We drained the fluid however because of your liver failure, the fluid will reaccumulate.
+You also developed an infection in your blood and bladder.
+Please come to the emergency room or call your doctor if you develop fevers, decreased urine, shortness of breath, increase in weight or size of abdomen or any other worrisome symptoms.

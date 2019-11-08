@@ -1,0 +1,65 @@
+Admission Date:  [**2122-12-15**]              Discharge Date:   [**2122-12-30**]  Date of Birth:  [**2075-10-6**]             Sex:   M  Service: MEDICINE  Allergies: Amitriptyline / Benzodiazepines / Morphine / Valium  Attending:[**First Name3 (LF) 338**] Chief Complaint: dyspnea, cough, pedal edema  Major Surgical or Invasive Procedure: - bronchoscopy - central venous catheter/pulmonary artery catheter placement - arterial line placement  History of Present Illness: Mr. [**Known lastname 1511**] is a 47 year-old man with HIV/AIDS (CD4 8, VL [**Numeric Identifier 8638**] on [**2122-10-19**]; compliant with HAART; history of high-grade resistance patterns; no history of OIs; diagnosed [**2111**]; presumed contracted from MSM contact) who presented to the Emergency Dept today with six days of worsening bipedal edema, exertional dyspnea, and fevers.
+He reports a gradual worsening of his symptoms over the past six days.
+His exertional dyspnea has worsened to the extent that he is dyspneic at rest.
+He has had frequent coughing which is mostly dry, but occasionally was producing [**Doctor Last Name 352**] sputum.
+He has been having daily fevers as high as 102, along with chills and sweats.
+He has developed worsening orthopnea (now using 7 pillows at night; usually uses 3 pillows).
+He saw one of his PCP's colleagues earlier today and was afebrile with a BP of 94/64, HR 100, and O2 sat of 94% on room air.
+A CXR was interpreted (on a wet read) as showing bilateral opacities consistent with an opportunistic infection such as Pneumocystis.
+On presentation to the ED, he was afebrile with a BP of 115/83, HR 115, and O2 sat (by report) in the low-90s on room air.
+He was noted by the triage RN to be in some respiratory distress and was placed on CPAP, with improvement in his O2sat up to 100%.
+Out of concern for Pneumocystis pneumonia, he was given 400mg of IV Bactrim and 60mg of prednisone.
+His ECG was noted to have new T-wave depressions in V2-V5, and a troponin-T was 1.67, BNP >[**Numeric Identifier 7923**].
+Since this was thought to likely be demand ischemia in the setting of an acute pulmonary process, no anticoagulation was started after discussion by the ED team with the cardiology consultant on call.
+He was also noted to have a worsening of his baseline anemia and was consented for a blood transfusion (but was transferred to the MICU before the blood had arrived to the ED).
+Review of Systems: Notable for some mild chest discomfort while coughing (much different from the patient's history of anginal pain).
+He denies any weight loss, hemoptysis, visual changes, abdominal pain, diarrhea, or hematochezia.
+Past Medical History: - HIV/AIDS, diagnosed [**2111**]; genotyping in [**10/2116**] showed high-grade NNRTI resistance, suspected to have PI-resistance as well; no history of OIs - Two-vessel CAD; inferior STEMI in [**2114**] (totally-occluded RCA, two mid-LAD lesions; all of them stented); BMS to RPLB in [**3-/2118**] (in the setting of positive stress and angina); DES to mid-LAD (in-stent restenosis; in the setting of worsening fatigue and exertional dyspnea) - Diastolic and systolic congestive heart failure (LVEF 37-50%, depending on study; no echo on the OMR) - Dyslipidemia - Hypertriglyceridemia - Hypertension - Severe peripheral neuropathy, thought secondary to stavudine; on very large narcotic regimen - C5-C6 diskectomy and fusion in [**2110**] - Emphysema - Depression  Social History: The patient lives in [**Location (un) 3844**] with his long-term partner.
+Family History: He denies any family history of cancer or lung disease.
+His mother has diabetes and coronary artery disease.
+He reports that multiple family members have had MIs at early ages.
+Physical Exam: T 96.6  BP 98/60  HR 99  RR 21  Sat 100% on CPAP 7/5, FiO2 35%  General: thin middle-aged man in breathing comfortably with CPAP mask, but in substantial respiratory distress without the mask HEENT: OP clear; no scleral icterus or conjunctival erythema Neck: unable to assess JVP due to CPAP mask; no cervical or clavicular lymphadenopathy Chest: scattered faint expiratory wheezing with mild bibasilar rales; moderately-restricted air movement; no egophony; no dullness to percussion Cardiovascular: borderline tachycardic, regular; normal s1s2; no murmurs or rubs; nondisplaced PMI Abdomen: moderately distended; nontender; normal bowel sounds; no hepatosplenomegaly Back: no CVA tenderness Extremities: 2+ pitting edema bilaterally to the lower shins; 2+ PT pulses; warm, well-perfused; no cyanosis or clubbing Rectal: Guaiac negative (performed in ED) Skin: multiple papular lesions with central dimpling on chin, jawline and neck; no jaundice Neuro: alert, oriented x3, CN 2-12 intact, 5/5 strength in both arms and legs  Pertinent Results: Viral DFA- nasopharyngeal aspirate ([**2122-12-16**]): Respiratory viral antigens not detected.
+BORDETELLA BRONCHISEPTICA .
+LEGIONELLA CULTURE (Final [**2122-12-23**]):    NO LEGIONELLA ISOLATED.
+Immunoflourescent test for Pneumocystis jirovecii (carinii) (Final [**2122-12-17**]):  NEGATIVE for Pneumocystis jirvovecii (carinii).
+ACID FAST SMEAR (Final [**2122-12-17**]): NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR.
+There are small bilateral pleural effusions.
+There is no pneumothorax.
+There is no overt CHF.
+ECG ([**2122-12-15**]): Sinus tachycardia with ventricular rate 115 bpm, normal axis, normal intervals.
+ST segment depressions in leads V2-V5, new from prior ECGs.
+There is moderate regional left ventricular systolic dysfunction with akinesis of the distal [**1-20**] of the anterior wall, septum and apex, and hypokinesis of the lateral wall.
+[Intrinsic left ventricular systolic function is likely more depressed given the severity of valvular regurgitation.]
+The right ventricular cavity is mildly dilated, with hypokinesis of the basal half of the free wall.
+Moderate to severe (3+) mitral regurgitation is seen.
+An eccentric jet of moderate [2+] tricuspid regurgitation is seen.
+There is no pericardial effusion.
+TTE ([**2122-12-18**]): The left atrium is moderately dilated.
+No atrial septal defect or patent foramen ovale is seen by 2D, color Doppler or saline contrast with maneuvers.
+There is severe regional left ventricular systolic dysfunction with 20-25%).
+No masses or thrombi are seen in the left ventricle.
+The right ventricular cavity is mildly dilated.
+There is mild global right ventricular free wall hypokinesis.
+No ventricular septal defect is seen.
+The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic regurgitation.
+There is no mitral valve prolapse.
+Severe (4+) mitral regurgitation is seen.
+Moderate [2+] tricuspid regurgitation is seen.
+There is moderate pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+He was started initially on empiric high-dose Bactrim and prednisone for possible pneumocystis pneumonia, as well as levofloxacin for coverage of community-acquired pathogens.
+A bedside TTE done on the evening of admission showed possible evidence of RV strain, so he was started on a heparin infusion for possible pulmonary embolus.
+On the morning following his admission, he developed worsening distress and was urgently intubated for hypoxemic respiratory failure with concurrent hypotension.
+His BAL culture eventually grew out Bordetella bronchiseptica; this was also cultured from several subsequent sputum cultures.
+His leukopenia was noted to be worsening prior to discharge, and this was thought to be due to the imipenem therapy; he should have a CBC rechecked within the next week as an outpatient.
+At the time of his admission, he was also noted to have a positive troponin in the setting of ST segment depressions in his anterolateral leads.
+Their impression was that his NSTEMI was due to demand ischemia in the setting of his respiratory distress, tachycardia, and intermittent hypotension.
+Due to the unclear etiology of his hypotension, acute renal failure, and respiratory failure, a Swan-Ganz catheter was placed, and he was noted to have elevated filling pressures (PCWP 35-38, PAD 38, CI 2.9, SVR 800) consistent with cardiogenic shock/acute-on-chronic systolic and diastolic CHF.
+The impression of the MICU team and cardiology was that his ischemia may have been due to recurrent in-stent restenosis of his LAD stent, and the plan initially was to take him to cardiac catheterization to open up this lesion.
+He was kept on aspirin and clopidogrel, and his beta blocker was titrated upwards to help maximize any tachycardia-induced demand ischemia.
+As his multifactorial (cardiogenic shock, emphysema, B. bronchisepticum pneumonia) respiratory failure slowly resolved, his ventilator settings were gradually weaned down.
+Post-extubated, he was in moderate respiratory distress with increasing alkalosis, presumably from acute "flash" pulmonary edema.
+Following extubation, he was restarted on narcotics for his longstanding peripheral neuropathy.
+He was continued on Bactrim prophylaxis (briefly on treatment-dose Bactrim, as above) and fluconazole.
+You also need to see your cardiologist in the next 1-2 weeks to determine if a repeat stress test is needed versus a repeat cardiac catheterization.
+If you have any symptoms of fevers, chills, difficulty breathing, chest pain, or any other concerning symptoms, please contact your PCP [**Name Initial (PRE) 2678**].

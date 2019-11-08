@@ -1,0 +1,78 @@
+Admission Date:  [**2175-6-26**]              Discharge Date:   [**2175-7-8**]  Date of Birth:  [**2108-5-17**]             Sex:   F  Service: MEDICINE  Allergies: Dyazide / Prozac / Nsaids / Inderal / Cefazolin  Attending:[**Last Name (NamePattern4) 290**] Chief Complaint: rigors, fever  Major Surgical or Invasive Procedure: Temporary [**Last Name (NamePattern4) 2286**] line Intubated Gallbladder percutaneous drain Triple lumen  History of Present Illness: This is a 67 year-old female with ESRD s/p failed cadaveric renal tx on HD, recent admission for line sepsis, CAD, dCHF, hx PE, who presented to the ED with fevers and rigors and is transferred to the MICU for hypotension/concern for sepsis in the setting of HD.
+Her recent history is notably for being hospitalized at [**Hospital1 18**] from [**Date range (1) 12089**] with fevers and culture negative sepsis presumed to be due to a line infection for which her HD catheter was removed and replaced.
+She had a TTE which did not show any evidence of endocarditis, and as nothing ever grew from her cultures, she was discharged after completing 2 week course of Vancomycin, stopping on 6/31.
+Initially very hypertensive but CXR witout fluid overload.
+She had no possible peripheral access.
+She had 1 episode of bilious vomiting, but no abd tenderness on exam.
+No localizing symptoms for infection.
+Elevated K 5.8.
+On the floor, she was awake and alert and noted to be rigoring, temp 101.9, and complaining of low back pain, chronic for her but more severe than usual.
+She had a recent sick contact, and for the past several days had been having cold symptoms with productive cough and shortness of breath.
+She was given 2mg of morphine and became more somnolent and nauseous but stated that her pain was better controlled.
+Per her daughter she had started rigoring at 9pm; the family initially assumed she was hypoglycemic and gave her [**Location (un) 2452**] juice before coming to the ED.
+She was undergoing HD on the morning of transfer had became hypotensive with BP in the 80s.
+No fluid was removed and she was given 300cc.
+On presentation, she was alert and oriented and c/o of lower abdominal pain which was relieved by a BM.
+She denied SOB/CP but appeared uncomfortably, grunting with breaths.
+-ESRD - HD MWF -s/p cadaveric renal transplant in [**2168**] -DM II with retinopathy, neuropathy -h/o PE (dx [**1-30**]) -SVC syndrome ([**1-30**]) -Hyperlipidemia -HTN -s/p mult CVA's (recently [**2173-8-23**]) -CHF [**12-26**] diastolic function -CAD -Pulmonary artery hypertension -hyperparathyroidism -L2 compression fracture -depression -anemia  Past Surgical History: 1.
+Family History: Father w/ DM and kidney disease and mother w/ HTN.
+Prominent L cervical node vs SVC/IJ clot.
+No meningismus.
+CARDIAC: Tachycardic and regular with harsh 2/6 systolic murmur.
+LUNG: poor air movement.
++ BS, no tenderness over transplant.
+No focal weakness.
+Incomplete right bundle-branch block and non-specific lateral ST-T wave changes.
+Compared to the previous tracing of [**2175-5-16**] anterolateral ST-T wave changes are not seen on the current tracing and the rate has increased substantially.
+Echo [**2175-6-28**] There is symmetric left ventricular hypertrophy.
+The aortic valve leaflets (3) are mildly thickened.
+No masses or vegetations are seen on the aortic valve.
+Mild to moderate ([**11-25**]+) aortic regurgitation is seen.
+The mitral valve appears structurally normal with trivial mitral regurgitation.
+No mass or vegetation is seen on the mitral valve.
+No vegetation/mass is seen on the pulmonic valve.
+There is a trivial/physiologic pericardial effusion.
+Mild to moderate aortic regurgitation.
+Deep T wave inversions in the anterolateral leads suggesting an extensive myocardial infarction.
+Very minimal ST segment elevation in leads V1-V2.
+Compared to tracing #1 no significant change.
+Filling defects consistent with thrombi versus fibrin sheath (from prior catheter) in the superior vena cava and left internal jugular vein.
+Suggest HIDA scan or [**Month/Day (4) 4338**] with Eovist for further followup.
+Multiple new hypodense geographic regions in the liver, spleen, native kidneys and renal transplant that are concerning for hypoperfusion / infarcts.
+Cholecystostomy tube in situ, with post-procedural low-density lesions in either side of cholecystostomy tube within the right lobe of the liver that could represent biloma, hematoma, but cannot exclude abscess.
+New low-density lesions identified in the dome of the right lobe of the liver felt most likely to represent infarcts; abscess at the hepatic dome felt less likely.
+Gas within the lower pole of the renal transplant is new since the previous CT, and is felt likely to relate to prior instrumentation, although gas-forming organism cannot be entirely excluded if infection is present.
+No intra-abdominal or pelvic drainable collections.
+Echo [**7-7**] IMPRESSION: Diffuse thickening of the mitral leaflets with moderate to severe mitral regurgitation.
+Moderate thickening of the aortic valve leaflets with moderate to severe aortic regurgitation.
+There is no intracardiac thrombus.
+Compared with the prior TEE (images reviewed) of [**2175-6-28**], the mitral leaflets are now diffusely thickened and the severity of mitral regurgitation is markedly increased c/w endocarditis.
+Aortic valve morphology and severity of aortic regurgitation are grossly similar.
+Brief Hospital Course: ASSESSMENT & PLAN: 67 year-old female with ESRD s/p failed cadaveric renal tx on HD, recent admission for line sepsis, CAD, dCHF, hx PE, who presented to the ED with fevers and rigors and is transferred to the MICU for hypotension/concern for sepsis in the setting of HD, subsequently developed respiratory failure and was intubated.
+# Sepsis: The patient presented with SIRS presumed to be secondary to line infection.
+The patient was given IVF to increase MAP and became fluid overloaded and subsequently developed respiratory failure requiring intubation.
+The patient remained febrile and a CT torso was conducted.
+It showed a distended gallbladder and an irregular HIDA scan prompted a gallbladder percutaneous drain.
+Starting on [**7-6**], the patient had consistent hypotension and new degrees of fever, and had a repeat echo and CT torso as well as broadening of antibiotic coverage to include vancomycin and meropenem.
+The CT torso showed multiple infarcts in the liver, spleen, native kidneys and renal transplant concerning for hypoperfusion/infarcts.
+An echocardiogram on [**7-6**] showed thickening of the mitral valve leaflets compared to an earlier echocardiogram of [**6-28**], and was unable to exclude vegetation, suggesting though not proving endocarditis, which was consistent with the clinical picture.
+The patient continued not to improve on antibiotics and had dramatically increasing pressor requirements, requiring consistent use of two pressors.
+A family meeting was held at this time with the decision not to withdraw care, but not to advance care to further pressors or additional interventions.
+Thus, her pressor use and vent requirements remained the same based on this plan; but with this, she subsequently developed hypotension and acidemia which was followed by arrhythmia and death.
+Microbiology results which returned after her death showed VRE-positive blood cultures from [**7-8**] and urine culture from [**7-5**] (resulted on [**7-9**]), with blood cultures returning as positive in the setting of having been on vancomycin, meropenem, and micafungin at the time, suggesting that the VRE (as is common) was not sensitive to meropenem, though specific sensitivity testing to meropenem was not performed.
+# Cardiac Enzymes/ECG changes: On admission to the unit the patient developed dynamic chages with STEs, RBBB and upright t-waves.
+This rhythm changed to a more rapid rhythm with deep lateral t-wave inversion and without RBBB.
+The patient had an elevated troponin-T with a CK-MB index of 2.9, which remained stable.
+Cardiology was consulted and said the likely cause was demand ischemia in the setting of hypotension.
+There was no plan for cath due to bacteremia.
+The patient subsequently developed sustained V-tach with perfusion.
+Ultimately as above, a later echocardiogram raised suspicion for endocarditis.
+# Hypoxemic hypercarbic respiratory failure: The patient presented to the unit after receiving IVF for rescucitation.
+Her work of breath increased and she was intubated for hypoxemic hypercarbic respiratory failure.
+She had fluid removed with CVVH and HD and had CXR which showed improvement in her volume status.
+The patient was unable to be weaned from the ventilator secondary to agitation with lifting of sedation and poor NIF scores.
+Neuromuscular was consulted and conducted EMG studies which suggested that the patient had diffuse axonal neuropathy and muscular disease.
+# ESRD, s/p failed kidney transplant: The patient presented after [**Month/Day (1) 2286**].
+Her HD line was removed due to suspected infection and was replaced 48 hours later.
+She required CVVH and HD to remove excess fluid and normalize her electrolytes.
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.

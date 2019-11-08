@@ -1,0 +1,64 @@
+Admission Date:  [**2164-8-30**]              Discharge Date:   [**2164-9-1**]  Date of Birth:  [**2098-5-1**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 458**] Chief Complaint: Atrial fibrillation with rapid ventricular response and hypotension; ?gram positive bacteremia; transfer from outside hospital.
+History of Present Illness: Mr. [**Known lastname 40612**] is a 66-year old male with a history of hypertension, paroxysmal atrial fibrillation who presents from an OSH with unstable angina.
+Says that two days prior to admission to outside hospital, he awoke from sleep with chills and shivering.
+The following morning, he went out for an hour long walk without any dyspnea on exertion.
+On night prior to admission to OSH, he again woke from sleep with chills and subjective coldness.
+EKG showed AF but no ischemic changes.
+He denied chest pain, palpitations, lightheadedness or dizziness.
+Also notable was a bandemia to 17% on a WBC of 3.9.
+He received lopressor 5 mg for atrial fibrillation with rates to 160s.
+He denied fevers, chills, cough, sputum production, chest pain, palps or lightheadedness.
+Said that he has no h/o anginal type symptoms, that he walks about 3 miles per day without difficulty prior to this episode.
+Possible sleep apnea (does not use CPAP therapy).
+Bilateral hip replacement.
+.. CARDIAC HISTORY: CABG:  None Percutaneous coronary intervention: None Pacemaker/ICD placed: None .. CARDIAC RISK FACTORS: + Smoking quit 30 yrs ago, <10 pk-yrs total - Hypercholesterolemia + Hypertension - Diabetes - Family history of premature cardiac death or MI  Social History: He is married and lives in [**Location (un) 3844**].
+Similarly he has a remote history of significant alcohol use but has not had a drink in many years.
+Family History: His father had diabetes and died of stroke at 65.
+No family history of sudden cardiac death, cardiomyopathy, or premature coronary artery disease.
+Physical Exam: VITALS:  T 97.1, BP 123/74, HR 135 irregular, RR 16, 96% RA GENERAL:  AAOx3, NAD, talking complete sentences, sitting upright in bed breathing normally HEENT:  EOMI, PERRLA NECK:  Supple, non-tender HEART:  Distant and irregular heart sounds.
+No obvious murmurs.
+No focal changes in breath sounds.
+No wheezes or crackles at bases.
+[**Last Name (un) **]:  Soft, non-tender, no masses.
+LEGS:  No pitting edema.
+CXR:  FINDINGS: The lungs are clear without consolidation or effusion.
+IMPRESSION: There is no radiological evidence of pneumonia.
+No ST-T changes or TWI.
+2D-ECHOCARDIOGRAM ([**8-1**]): No spontaneous echo contrast or thrombus is seen in the body of the left atrium/left atrial appendage or the body of the right atrium/right atrial appendage.
+No atrial septal defect is seen by 2D or color Doppler.
+The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic regurgitation.
+The mitral valve appears structurally normal with trivial mitral regurgitation.
+There is a trivial/physiologic pericardial effusion.
+.. 2D- ECHOCARDIOGRAM ([**2164-8-29**]):  PER OUTSIDE HOSPITAL RECORD LV dilitation with diffusely hypokinetic left ventricle with EF 20%, biatrial enlargement, mild to moderate MR. .. TRANS-THORACIC ECHO ([**2164-8-31**]): The atria are moderately dilated.
+There is mild symmetric left ventricular hypertrophy with normal cavity size.
+There is mild global left ventricular hypokinesis (consistent with tachycardia, toxic, metabolic process, etc.
+The right ventricular cavity is mildly dilated with mild global free wall hypokinesis.
+The aortic root is mildly dilated at the sinus level.
+The ascending aorta is mildly dilated.
+The aortic arch is mildly dilated.
+The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic regurgitation.
+The mitral valve appears structurally normal with trivial mitral regurgitation.
+There is a trivial pericardial effusion.
+IMPRESSION: Mild left ventricular hypertrophy with mild global systolic dysfunction.
+Dilated right ventricle with mild global systolic dysfunction.
+Compared with the prior study (images reviewed) of [**2162-8-11**], tachycardia and mild LV dysfunction are new.
+Brief Hospital Course: In summary, this is a 66-year old man with a history of hypertension and paroxysmal atrial fibrillation who presents from OSH with elevated troponins in setting of AF with RVR, fevers, and question of gram positive cocci bacteremia.
+He had no history of diabetes, no CAD history, and no history of anginal-type symptoms during his 3-mile/day walks.
+There was no significant family history of premature CAD and no Q-waves on EKG to indicate a prior myocardial infarction.
+His elevated troponins at OSH were believed due to demand ischemia in the setting of prolonged tachycardia and febrile illness.
+He was without chest pain, palpitations, lightheadedness, or dizziness throughout the hospitalization.
+He complained only of mild fatigue that was subacute over the days leading up to admission.
+We were unsure of the accuracy of the recent measurement, given the absence of significant CHF symptoms or cause for such a dramatic decrease in ejection fraction.
+Iron studies were checked to r/o hemochromatosis and TSH came back normal to r/u hypo or hyperthyroidism; EKG, as above, did not show any pathologic q-waves or ST-deviations and thus was not suggestive of active or past coronary artery disease.
+# RHYTHM:  He presented in atrial fibrillation with a rapid ventricular response of 130s.
+However, after 20 mg of Lopressor his rate came down to the 110s, but he remained in atrial fibrillation.
+He was monitored on telemetry for 24 hours and discharged on carvedilol for rate control and his outpatient coumadin dose for embolic stroke prevention.
+# HTN:  At admission he was hypotensive with SBP in the 90-100s.
+# FEVERS / ?PNA / ?GPC BACTEREMIA:  Per OSH records, he had Tm 102.4 upon arrival at ED on [**8-29**].
+His initial CXR showed possible pneumonia and labs showed 17% bands on normal white count.
+When he remained afebrile and the speciation from OSH showed coag-negative staph, vancomycin was discontinued.
+Discharge Disposition: Home  Discharge Diagnosis: Primary: Community acquired pneumonia Atrial fibrillation with rapid ventricular response status post cardioversion .
+Secondary: Hypertension   Discharge Condition: Afebrile, asymptomatic and hemodynamically stable.
+Discharge Instructions: You were admitted to [**Hospital1 69**] after experiencing fever and an abnormal rhythm called atrial fibrillation.
+You may have had a Pneumonia which caused your fever.
+If you develop chest pain, shortness of breath, recurrent fevers or any other concerning symptoms, please call your primary care doctor or go to the nearest Emergency Department.

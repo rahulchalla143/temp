@@ -1,0 +1,11 @@
+Admission Date:  [**2119-5-1**]              Discharge Date:   [**2119-5-6**]  Date of Birth:  [**2050-11-29**]             Sex:   M  Service: CARDIOTHORACIC  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 1283**] Chief Complaint: DOE  Major Surgical or Invasive Procedure: [**2119-5-2**] - CABGx2 (LIMA->Left anterior descending, vein to obtuse marginal artery), MV Repair with 30mm CE Ring, Left Atrial Appendage Ligation.
+History of Present Illness: This 68-year-old patient with dyspnea on exertion and fatigue was investigated and a recent echocardiogram showed increasing mitral regurgitation to moderate degree and the coronary angiogram showed significant lesions in the left anterior descending artery and the circumflex artery.
+In view of these findings, he was electively admitted for mitral valve repair or replacement and the coronary artery bypass grafting.
+NEURO: Grossly intact  [**Last Name (NamePattern4) 4125**]ospital Course: Mr. [**Known lastname **] was admitted to the [**Hospital1 18**] on [**2119-5-1**] for surgical management of his caoronary artery disease and mitral valve disease.
+Heparin was started given his chronic atrial fibrillation.
+Coumadin was resumed for atrial fibrillation.
+Zolpidem 5 mg Tablet Sig: One (1) Tablet PO at bedtime as needed for insomnia.
+Vistaril 25 mg Capsule Sig: One (1) Capsule PO every six (6) hours as needed for anxiety.
+Disp:*12 Capsule(s)* Refills:*0*   Discharge Disposition: Home With Service  Facility: [**Location (un) 1110**] VNA  Discharge Diagnosis: AF PPM HOCM MR [**First Name (Titles) **] [**Last Name (Titles) 6059**] BPH GERD   Discharge Condition: Good   Discharge Instructions: 1) Monitor wounds for signs of infection.
+These include redness, drainage or increased pain.
+4) No lotions, creams or powders to incision until it has healed.

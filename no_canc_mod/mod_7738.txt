@@ -1,0 +1,29 @@
+Admission Date:  [**2200-1-12**]              Discharge Date:   [**2200-1-20**]  Date of Birth:  [**2134-8-17**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 8104**] Chief Complaint: Gi bleed  Major Surgical or Invasive Procedure: EGD Colonoscopy Tagged RBC scan CVL placement Transfusion of 10 units of pRBC   History of Present Illness: For full details please see prior admission note and MICU transfer notes x 2.
+Briefly the patient is a 65 year old male with history of Prostate Cancer s/p resection and Bicuspid AV who initially presented to [**Hospital **] hospital with GI bleeding and syncope x 2.
+He was prepped for colonoscopy but this was deferred given CT imaging revealed large bladder and mild hydro for which patient was transferred to [**Hospital1 **], foley placed by Urology without difficulty.
+Since that time patient has had recurrent bleeding and syncope x 2 requiring transfer to ICU.
+The patient underwent colonoscopy which revealed blood throughout the colon and significant diverticulosis but no obvious bleeding lesion.
+The patient was transferred to the medical floor and subsequently transferred back to ICU given recurrent bleeding of approximately 1L maroon blood with anginal jaw pain and lateral ST depressions.
+Evaluation by angio was expedited but no active bleeding seen at time of procedure.
+The patient's Hct today has trended from 32 -> 27 with passing small amounts of very dark/black stool around noon.
+He denies any chest or jaw pain, difficulty breathing, abdominal pain, nausea/vomiting or any other localizing symptoms.
+ROS: -Constitutional: [x]WNL []Weight loss []Fatigue/Malaise []Fever []Chills/Rigors []Nightweats []Anorexia -Eyes: [x]WNL []Blurry Vision []Diplopia []Loss of Vision []Photophobia -ENT: [x]WNL []Dry Mouth []Oral ulcers []Bleeding gums/nose []Tinnitus []Sinus pain []Sore throat -Cardiac: [x]WNL []Chest pain []Palpitations []LE edema []Orthopnea/PND []DOE -Respiratory: [x]WNL []SOB []Pleuritic pain []Hemoptysis []Cough  -Gastrointestinal: []WNL []Nausea []Vomiting []Abdominal pain []Abdominal Swelling []Diarrhea []Constipation []Hematemesis [x]Hematochezia []Melena -Heme/Lymph: [x]WNL []Bleeding []Bruising []Lymphadenopathy -GU: []WNL [x]Incontinence/Retention []Dysuria []Hematuria []Discharge []Menorrhagia -Skin: [x]WNL []Rash []Pruritus -Endocrine: [x]WNL []Change in skin/hair []Loss of energy []Heat/Cold intolerance -Musculoskeletal: [x]WNL []Myalgias []Arthralgias []Back pain -Neurological: [ x]WNL []Numbness of extremities []Weakness of extremities []Parasthesias []Dizziness/Lightheaded []Vertigo []Confusion []Headache -Psychiatric: [x]WNL []Depression []Suicidal Ideation -Allergy/Immunological: [x] WNL []Seasonal Allergies .
+Hypertension #.
+Hyperlipidemia #.
+DM II #.
+Prostate Cancer s/p prostate resection #.
+Mild facial flushing Neck: JVP not elevated Chest: Generally CTA anterior and posteriorly Cor: RRR, normal S1/S2.
+II/VI systolic murmur at LLSB Abd: Soft, non-tender, non-distended Ext: No C/C/E GU: + triple lumen in right groin, dressing C/D/I .
+Brief Hospital Course: The patient is a 65 year old male with history of hypertension, Diabetes, Prostate cancer s/p resection now admitted with recurrent GI Bleed .
+GI Bleed: .The patient was admitted to the [**Location **] service as a transfer from an outside hospital with a GI bleed.
+He was brought to the [**Hospital Unit Name 153**] when had syncope while having a bloody bowel movement on the floor.
+The evening of [**1-13**] and morning of [**1-14**] he had an angiographic study looking for bleeding which was negative.
+Of note, he had jaw pain and ischemic EKG changes with a Hct of 26.
+He remained stable, but did have several dark stools.
+For the remainder of the hospitalization his hematocrit remained stable and he displayed no further signs of active bleeding.
+However, at discharge he was voiding large volumes without post-void residuals.
+GI bleed   Discharge Condition: Good   Discharge Instructions: You were admitted to the hospital with GI bleed and fainting episodes from the bleed.
+We did EGD, Colonoscopy and a tagged nuclear scan to but could not find the exact source of your bleeding.
+You have multiple coloni diverticuli and you may have bled from there.
+The recommended treatment would be colectomy but you stopped bleeding and did not want to pursue surgery.
+You also should follow up with your primary care doctor next week for a check on your blood count  Please return to ED for another GI bleeding episode, fainting episode, dizziness, chest pain, shortness of breath, or any other concerning symptoms.

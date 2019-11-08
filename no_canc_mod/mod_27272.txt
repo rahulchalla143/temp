@@ -1,0 +1,83 @@
+Admission Date:  [**2126-7-8**]              Discharge Date:   [**2126-7-17**]   Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**Last Name (NamePattern1) 1167**] Chief Complaint: dyspnea and peripheral edema  Major Surgical or Invasive Procedure: None   History of Present Illness: Mr. [**Known lastname 66000**] is an 84 year old male with PMH of CAD and biventricular congestive heart failure who presented to his PCP with [**Name Initial (PRE) **] chief complaint of increasing edema and fatigue.
+The patient was admitted to [**Location (un) **] and found to have a HR up to 120; he received IV lopressor with a drop in his blood pressure.
+Echocardiogram demonstrated EF 10% (down from prior 20-25%) as well as a thickened septum thought to be consistent with amyloid.
+Dr. [**Last Name (STitle) 1911**] evaluated the patient on [**7-7**] and on interrogation of his AICD found him to be in atrial tachycardia at a rate 130.
+Not able to obtain other ROS due to mental status.
+No ST/T wave changes.
+Past Medical History: PMHx: Biventricular heart failure:CHF: Dilated biventricular cardiomyopathy EF 20-25%.
+Mild MR, Pulm HTN Atrial tachycardia/atrial fibrillation (at OSH); prior history of atrial fibrillation but taken off of amiodarone, Pacemaker/ICD [**2125-3-7**] 2V CAD Hypertension DM type 2, insulin dependent CRI (baseline creatinine 2.6) Dementia Arthritis History of hernia repair GI bleed  Cardiac studies: Cardiac cath [**3-/2125**]: Right dominant system.
+Severe pulmonary HTN.
+Severe systolic ventricular dysfunction.
+Severe pulmonary hypertension.
+The left atrium is mildly dilated.
+There is moderate symmetric left ventricular hypertrophy.
+The left ventricular cavity size is normal with severe global hypokinesis and inferior wall akinesis.
+Tissue velocity imaging E/e' is elevated (>15) suggesting increased left ventricular filling pressure (PCWP>18mmHg).
+Right ventricular chamber size is normal with moderate global free wall hypokinesis.
+The aortic root is moderately dilated.
+The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic regurgitation.
+There is no pericardial effusion.
+IMPRESSION: Prominent symmetric left ventricular hypertrophy with global and regional systolic dysfunction c/w multivessel CAD or other diffuse process.
+Right ventricular free wall hypokinesis.
+Dilated aortic root.
+Physical Exam: PHYSICAL EXAMINATION: VS: T 96.1 BP 96/66 HR 72 RR 14 O2 97% on 4 L NC Wt 100 kg Gen: Obese male in mild distress.
+No pallor or cyanosis of the oral mucosa.
+No thrills, lifts.
+Chest: No chest wall deformities, scoliosis or kyphosis.
+Crackles with rhonchi bilaterally throughout lung fields.
+No HSM or tenderness.
+No abdominial bruits.
+R UE swelling more pronounced than L UE swelling.
+Pulses: Right: Carotid 1+ DP 1+ PT 1+ Left: Carotid 1+ DP 1+ PT 1+  Pertinent Results: LABORATORY DATA (from OSH): potassium 5.6, BUN 61, creatinine 2.8 WBC 6.6, Hct 47, plt 133 BNP 866 (normal 0-100) CK  111 --> 107 Troponin  0.22 --> 0.24 --> 0.22  LAB RESULTS (at [**Hospital1 18**]): [**2126-7-8**] WBC-5.6 RBC-4.20* Hgb-14.4 Hct-44.1 MCV-105* MCH-34.2* MCHC-32.5 RDW-15.3 Plt Ct-118* [**2126-7-13**] WBC-5.8 RBC-3.44* Hgb-12.3* Hct-34.5* MCV-100* MCH-35.7* MCHC-35.7* RDW-16.0* Plt Ct-178  [**2126-7-8**] Glucose-60* UreaN-54* Creat-2.2* Na-131* K-4.5 Cl-95* HCO3-29 [**2126-7-12**] Glucose-175* UreaN-51* Creat-2.2* Na-129* K-4.1 [**2126-7-13**] Calcium-9.4 Phos-2.7 Mg-2.3  [**2126-7-8**] ALT-21 AST-26 LD(LDH)-293* AlkPhos-175* TotBili-2.2* [**2126-7-8**] Albumin-3.4 Calcium-8.8 Phos-3.1 Mg-2.8*  EKG from [**2126-7-8**] demonstrated v-paced (inconsistent) with atrial rate ~ 100.
+No ST/T wave changes  IMAGING: 2D-ECHOCARDIOGRAM performed on [**7-7**] at [**Location (un) **] demonstrated (by report):  LV not dilated; moderate biatrial enlargement.
+Elevated CVP 20 mmHg.
+Elevated PA systolic pressure (50 mmHg).
+Septal flattening consistent with volume overload.
+No significant valvular disease.
+Does have restrictive mitral inflow pattern.
+TTE performed on [**7-8**]: The left atrium is markedly dilated.
+The right atrium is markedly dilated.
+There is severe symmetric left ventricular hypertrophy.
+Overall left ventricular systolic function is severely depressed (ejection fraction 20 percent) secondary to akinesis of the inferior and posterior walls and severe hypokinesis of the inferior septum and lateral wall.
+Tissue Doppler imaging suggests an increased left ventricular filling pressure (PCWP>18mmHg).
+There is no ventricular septal defect.
+There is severe global right ventricular free wall hypokinesis.
+The aortic root is moderately dilated at the sinus level.
+The ascending aorta is mildly dilated.
+The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present.
+Mild (1+) aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+There is no mitral valve prolapse.
+Mild (1+) mitral regurgitation is seen.
+The tricuspid valve leaflets are mildly thickened.
+There is borderline pulmonary artery systolic hypertension.
+There is a small pericardial effusion.
+There are no echocardiographic signs of tamponade.
+No right atrial or right ventricular diastolic collapse is seen.
+The mitral inflow is consistent with a restrictive filling pattern, a marker of severe diastolic and/or systolic dysfunction.
+R upper extremity ultrasound performed on [**7-7**] at [**Location (un) **] was negative for DVT  R upper extremity ultrasound on [**7-11**] demonstrated: No evidence of DVT in the right upper extremity.
+KUB on [**7-7**] at [**Location (un) **]: large amount of stool, mildly dilated small bowel loops which are nonspecific and probably due to ileus  CXR (from [**Location (un) **], [**7-7**]): limited study with possible tiny pleural effusions or pleural thickening CXR [**7-8**] demonstrated: The heart is enlarged.
+No significant failure is present.
+IMPRESSION: Cardiomegaly, no gross failure.
+There are no pleural effusions or pneumothorax.IMPRESSION: New mild congestive heart failure.
+Brief Hospital Course: Pt is an 84 year old male with history of nonischemic cardiomyopathy, biventricular dysfunction, CAD, atrial fibrillation with pacemaker, DM2 and HTN admitted for decompensated heart failure.
+No intervention was performed at that time.
+His current presentation did not appear consistent with ischemia.
+He had elevated cardiac enzymes that peaked, but were likely not significant given his renal insufficiency.
+Atrial fibrillation.
+Patient has a history of afib and was thought to have an underlying atrial rhythm, so EP was consulted and his AICD/pacer was interrogated which showed Atach/Afib with multiple mode switches.
+Given patient's restrictive left ventricular dysfunction it was felt that rhythm control would not provide much benefit as the atrial kick would not contribute significantly to filling.
+Patient was determined to be in decompensated heart failure and was maintained on a milrinone drip, which was titrated up to 0.5 mcg/kg/hr and a lasix drip which was titrated up to 15mg/hr.
+Patient remained hemodynamically stable and improved clinically with slowly decreasing edema and decreasing JVP.
+If patient becomes more symptomatic with increased shortness of breath, please titrate home oxygen therapy to comfort and administer roxanol prn.
+R upper extremity edema.
+Though patient was grossly edematous, patient had persistent R>L upper extremity edema, which was concerning for DVT.
+A repeat doppler of the RUE on [**7-11**] was negative for DVT (as above).
+Care was made to avoid placement of BP cuff and RUE and the edema appeared to decrease with overall diuresis.
+FEN:  Cardiac, diabetic diet.
+After heavy diuresis the patient became slightly hyponatremic.
+A meeting was held with Dr. [**First Name (STitle) 437**] in which the family expressed a desire for no escalation in care, with continuing to manage medically to d/c to [**Hospital3 **] with hospice care.
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for consipation.
+Discharge Disposition: Home With Service  Facility: [**Location (un) **] Nursing Services  Discharge Diagnosis: Congestive heart failure   Discharge Condition: Patient is saturating well on room air, with minimal extremity edema.
+Discharge Instructions: You have been treated for your end-stage congestive heart failure with intravenous diuretics.
+If you experience any shortness of breath please use home oxygen and take Roxanol as needed to relieve your shortness of breath.

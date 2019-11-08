@@ -1,0 +1,50 @@
+Admission Date:  [**2107-7-8**]              Discharge Date:   [**2107-7-15**]  Date of Birth:  [**2041-8-5**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 2356**] Chief Complaint: Dyspnea on exertion, pericardial/pleural effusions, CDiff  Major Surgical or Invasive Procedure: Thoracentesis X2  History of Present Illness: Mrs. [**Known firstname 4134**] [**Known lastname 16479**] is a 65 year old female with a history of HTN, hyperparathyroidism, and hypothyroidism who was recently discharged from the [**Hospital1 18**] Cardiology Medicine service where she had been treated for pericarditis, presumed viral etiology.
+Her hospital course was complicated by frequent episodes of AVnRT (started on diltiazem), community acquired pneumonia (completed course of azithromycin and ceftriaxone), and C. difficile colitis (started on metronidazole).
+The patient was transferred from [**Hospital1 18**]-[**Location (un) 620**] for worsening shortness of breath, bilateral shoulder and neck pain X2 days.
+On ultrasound in clinic, she had a small pericardial effusion but generally poor "squeeze" concerning for congestive heart failure.
+In the ED, initial vital signs were pain T 97.7, HR 114, BP 114/77, RR 17, O2 sat 97%.
+Exam was negative for friction rub, jugular venous distension, distant heart sounds.
+Upon arrival to the floor, the patient was resting more comfortably in bed with no complaints.
+*** Cardiac review of systems is notable for absence of chest pain, ankle edema, palpitations, syncope or presyncope.
+Past Medical History: Cardiac Risk Factors: - Diabetes, - Dyslipidemia, + Hypertension  .
+Cardiac History: No CABG/PCI/ICD/Pacer.
+History of pericarditis .
+Other Past History: Hypertension Anxiety Hyperparathyroidism Hypothyroid Osteoporosis Prior fractures to ankle at 21yo s/p falling on stairs C section  Social History: Housewife who previously walked [**3-24**] miles daily.
+Family History: Father died of MI at age 59.
+Brother had an MI at 61.
++ for osteoporosis in mother, but no hip fractures or family history of hypercalcemia.
+Mood and affect appropriate - slightly anxious.
+Sclera anicteric.
+Neck: Soft, supple without JVD CV: PMI located in 5th intercostal space, midclavicular line.
+No wheezing/rhonchi/rales but mild left basilar crackles.
+No HSM or tenderness.
+Scattered ecchymosis of bilateral upper extremities.
+Skin: No stasis dermatitis, ulcers, or xanthomas.
+Pulses:  Right: DP 2+ PT 2+  ; Left: DP 2+ PT 2+  Pertinent Results: ECG: Sinus tachycardia, low voltage, no electrical alternans.
+CXR (my read):  Significant left costophrenic angle blunting suggestive of effusion vs. consolidation - more likely the former given meniscus.
+?wedge on lateral view suggestive of lobar pneumonia.
+Mild (1+) aortic regurgitation is seen.
+No mitral regurgitation is seen.
+There is a small to moderate sized pericardial effusion.
+There are no echocardiographic signs of tamponade.
+No evidence of acute pulmonary embolism within the main, lobar or segmental branches of the pulmonary arteries bilaterally.
+Evaluation of the subsegmental pulmonary arteries is limited secondary to bolus timing.
+Moderate-sized pericardial effusion with interval increase in enhancement of the pericardium suggestive of pericarditis.
+Ground-glass opacity in the left apex again identified and may be infectious in nature.
+Large right and moderate left-sided pleural effusion with adjacent compressive atelectasis.
+Multiple low-density lesions within the kidneys bilaterally which most likely represent renal cysts.
+Multilevel discogenic disease with secondary degenerative changes and multilevel neural foraminal narrowing.
+Bilateral stable moderate pleural effusions with associated bibasilar dependent atelectasis.
+Subtle ground-glass opacity at the left lung apex, new since last CXR, but evident on recent CT, could suggest early developing focus of infection.
+Cardiac silhouette is suboptimally evaluated due to summation of shadows with pleural effusions.
+PT: 12.2  PTT: 22.7  INR: 1.0  Brief Hospital Course: 65 year old woman with history of hypertension, hypothyroidism, hyperparathyroidism and recent pericarditis, felt likely viral, s/p drainage of pleural effusion (pericardial effusion not drained) and CDiff infection who presents with dyspnea on exertion and returning pleural effusions.
+# Pleural Effusions: Patient arrived with SOB and CXR revealed pleural effusion bilaterally.
+# Leukocytosis: On admission, patient had a WBC of 40.0.
+Patient had intermittent AVnRT episodes but remained stable and was discharged on her home dose.
+# Diarrhea: Patient experienced daily loose green BM for multiple days.
+Initially it was thought that she redeveloped C.diff, as she had a corresponding WBC.
+# Hematuria: On U/A, patient had microscopic blood.
+Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for anxiety.
+Disp:*15 Tablet, Rapid Dissolve(s)* Refills:*0*   Discharge Disposition: Home With Service  Facility: [**Location (un) 932**] Area VNA  Discharge Diagnosis: Primary: Bilateral pleural effusions Secondary: Pericardial effusion, Hypertension, Anxiety, Hyperparathyroidism, Hypothyroid, Osteoporosis, recent Clostridium difficile infection   Discharge Condition: Mental Status: Clear and coherent.
+Discharge Instructions: -You were admitted with shortness of breath and found to have reaccumulation of fluid in your lungs.
+Also seek medical attention if you develop any new fever, chills, trouble breathing, chest pain, nausea, vomiting or unusual stools.

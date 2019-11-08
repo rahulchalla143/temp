@@ -1,0 +1,66 @@
+Admission Date:  [**2169-3-24**]              Discharge Date:   [**2169-4-5**]   Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 1257**] Chief Complaint: Abdominal pain  Major Surgical or Invasive Procedure: Percutaneous gall bladder drain placement Thoracentesis   History of Present Illness: Mr. [**Known lastname 11979**] is a [**Age over 90 **] year-old male with past medical history of of diabetes mellitus and hypertension who was admitted on [**3-24**] with several days of abdominal and found to have acute cholecystitis on ultrasound.
+Post procedure he became confused and was determined to be delirious.
+The night of [**3-26**] he developed tachycardia and was noted to be in atrial flutter with a HR in the 150s.
+He was given multiple doses of IV metoprolol and IV diltiazem with control of his heart rate.
+He developed tachycardia again the morning of [**3-27**] (which was treated with 5 mg IV metoprolol) and po diltiazem was also started.
+Currently he is in atrial fibrillation, but rate controlled.
+He denies abdominal pain, chest pain, shortness of breath or other symptoms.
+He denies having had any symptoms when his heart rate was fast.
+Review of systems: (+) Per HPI (-) Denies fever, chills, night sweats, recent weight loss or gain.
+Denies headache, sinus tenderness, rhinorrhea or congestion.
+Denied cough, shortness of breath.
+Denied chest pain or tightness, palpitations.
+No recent change in bowel or bladder habits.
+Denied arthralgias or myalgias.
+Past Medical History: Diabetes Hypertension Legally blind Gluacoma Cataracts s/p surgery b/l s/p left hip arthroplasty  Social History: He lives with his daughter.
+HEENT: Sclera anicteric, MMM, oropharynx clear Neck: supple, JVP not elevated, no LAD Lungs: Breathing comfortably.
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema Neuro: Alert, oriented to hospital, but can't tell me the name.
+Pertinent Results: Abd US [**3-24**]: IMPRESSION: Distended gallbladder, gallbladder wall thickening, and pericholecystic fluid are concerning for acute cholecystitis.
+No definite shadowing stone though echogenic GB sludge noted.
+Mild intrahepatic duct dilation without definite extrahepatic biliary duct dilatation.
+Acute cholecystitis status post percutaneous cholecystostomy with decreased distention of the gallbladder lumen.
+Large amount of sludge and debris seen within the gallbladder and cystic duct.
+Moderate amount of perihepatic ascites.
+Three hepatic cysts or hemangiomas.
+Small right pleural effusion.
+These may represent most likely liquefactive hematoma versus biloma, superinfection cannot be excluded.
+Multiple other incidental findings including bilateral renal cysts, tortuous, calcified aorta and its branches, and fluid-filled.
+CXR [**3-30**] IMPRESSION: AP chest compared to [**3-25**] through 10: Right lung base elevation has worsened, probably due in large part to increasing right pleural effusion.
+Left lower lobe atelectasis is worsened and small left pleural effusion is unchanged.
+No pneumothorax.
+CXR [**4-4**] Aeration at the base of the right lung and the middle and lower lobes has improved, moderate right pleural effusion persists.
+No pneumothorax.
+A tiny left pleural effusion is new or newly apparent.
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              KLEBSIELLA PNEUMONIAE                              | AMPICILLIN/SULBACTAM--     4 S CEFAZOLIN-------------   <=4 S CEFEPIME--------------   <=1 S CEFTAZIDIME-----------   <=1 S CEFTRIAXONE-----------   <=1 S CIPROFLOXACIN---------<=0.25 S GENTAMICIN------------   <=1 S MEROPENEM-------------<=0.25 S PIPERACILLIN/TAZO-----   <=4 S TOBRAMYCIN------------   <=1 S TRIMETHOPRIM/SULFA----   <=1 S  [**2169-3-24**] 4:30 pm BILE                              **FINAL REPORT [**2169-3-28**]**     GRAM STAIN (Final [**2169-3-24**]):       NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.
+MODERATE GROWTH.
+ESCHERICHIA COLI.
+MODERATE GROWTH.
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              KLEBSIELLA PNEUMONIAE                              |          ESCHERICHIA COLI                              |          | AMPICILLIN------------             =>32 R AMPICILLIN/SULBACTAM--     8 S     =>32 R CEFAZOLIN-------------   <=4 S     =>64 R CEFEPIME--------------   <=1 S      <=1 S CEFTAZIDIME-----------   <=1 S      <=1 S CEFTRIAXONE-----------   <=1 S      <=1 S CIPROFLOXACIN---------<=0.25 S   <=0.25 S GENTAMICIN------------   <=1 S      <=1 S MEROPENEM-------------<=0.25 S   <=0.25 S PIPERACILLIN/TAZO-----     8 S       32 I TOBRAMYCIN------------   <=1 S      <=1 S TRIMETHOPRIM/SULFA----   <=1 S      <=1 S   Brief Hospital Course: Assessment and Plan: [**Age over 90 **] year-old male with pmh of DM and htn admitted with acute cholecystitis s/p a percutaneous cholecystostomy whose hospital course has been complicated by Klebsiella bacteremia, a parapneumonic effusion new atrial flutter with RVR, delirium, and a persistent leukocytosis which improved with antibiotics.
+# Acute cholecystitis: Patient found to have acute cholecystitis and treated with cholecystostomy tube placement.
+Bile fluid grew out Klebsiella and E.Coli and it was complicated by Klebsiella bacteremia (positive BCx on [**3-24**]) with all surveillance cultures negative since: Patient was treated initially with broad spectrum antibiotics (vanc/levofloxacin/zosyn) and then switched to PO levofloxacin/augmentin on [**4-3**] and remained afebrile on PO antibiotics.
+Repeat CT abd showed possible bilioma which was unchanged in size from prior MRI.
+No intervention was taken, although plan was that if any increased abdominal pain, fever, or leukocytosis, would consider evaluation of biliary drain.
+He was discharged with cholecystostomy drain in place draining bilious fluid and family trained on bile drain care.
+# Atrial flutter: The patient has had multiple episodes of atrial flutter with rates in the 150s, so was started on PO metoprolol.
+The patient and his family can discuss possible anticoagulation with coumadin with his PCP once he has recovered from this acute event.
+# Delirium: The patient's delirium is likely due to his recent acute illness (cholecystitis/infection), change in environment, and possibly medications.
+# Parapneumonic effusion: Patient found to have increased R sided effusion during hospital stay and was s/p thoracentesis on [**3-31**] with removal of 1L of yellow fluid consistent with transudate.
+Patient has been having good O2 sat >94% on RA with no shortness of breath on discharge.
+His exam showing dullness at R base improved from prior.
+# Leukocytosis: Patient with persistent leukocytosis throughout hospital stay which ranged 15-17.
+Afebrile for greater than 48 hours on PO antibiotics.
+If worsened or patient with fever or worsened symptoms, would recommend further eval of biliary system or pneumonia.
+Docusate Sodium 50 mg/5 mL Liquid [**Name Initial (PRE) **]: Ten (10) ml PO BID (2 times a day) as needed for constipation.
+Senna 8.6 mg Tablet [**Name Initial (PRE) **]: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+Tylenol 325 mg Tablet [**Last Name (STitle) **]: 1-2 Tablets PO every 4-6 hours as needed for fever or pain.
+Disp:*60 Tablet(s)* Refills:*2*   Discharge Disposition: Home With Service  Facility: Uphams Corner Home Care  Discharge Diagnosis: Primary diagnosis: - Acute cholecystitis Secondary diagnoses: - Parapneumonic effusion and pneumonia - Atrial flutter and fibrillation - Hypertension - Leukocytosis - Diabetes Mellitus   Discharge Condition: Mental Status: Clear and coherent (Haitian).
+Exam: Mild RUQ abdominal tenderness improved with tylenol.
+It was found that you had an infection in your gall bladder called cholecystitis, which was treated with a percutaneous drain given concerns over risks of surgery.
+You were also found to have a pneumonia with some fluid in your lung which was treated with some fluid removal and antibiotics.
+While in the hospital you had changes in your thinking, renal function, and elevated white blood cell count.
+The following changes have been made in your medications: - STARTED Levofloxacin 500 mg daily: this is an antibiotic to treat your gall bladder infection.
+- STARTED Augmentin (Amoxicillin-Clavulanic) 875 mg twice a day: this is an antibiotic to treat your gall bladder infection.
+- STARTED Aspirin 325 mg: Take daily - STARTED Metoprolol 25 mg three times a day: To control your fast heart rate - STARTED Lansoprazole to help with heartburn, and as needed medications for constipation and pain (tylenol, colace, senna)  You will need to discuss with Dr. [**First Name (STitle) 4223**] whether you should go on a blood thinning medication called warfarin (or coumadin), which helps prevent blood clots when the heart rhythm is abnormal.
+You should also follow up with her regarding rechecking of labs and also followup of your lung status.
+Please call Dr.[**Name (NI) 5067**] office directly if you experience any increased abdominal pain, fever.
+Please follow up with your bile drain or any abdominal concerns at this appointment  Department: [**Hospital1 7975**] ST. HEALTH CENTER When: WEDNESDAY [**2169-4-12**] at 9:00 AM With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 11980**], MD [**Telephone/Fax (1) 7976**] Building: [**Hospital1 7977**] ([**Location (un) 686**], MA) [**Location (un) **] Campus: OFF CAMPUS Best Parking: Free Parking on Site Please follow up on your lungs, heart rate control, and diabetes at this appointment.

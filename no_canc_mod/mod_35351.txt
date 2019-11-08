@@ -1,0 +1,33 @@
+Admission Date:  [**2199-1-16**]              Discharge Date:   [**2199-1-19**]   Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 1253**] Chief Complaint: Cholangitis, sepsis  Major Surgical or Invasive Procedure: [**1-16**] ERCP with biliary stent   History of Present Illness: This is a 89 year-old male who presented to OSH with abdominal and back pain that started this afternoon, there patient was given Unacyn and transferred to [**Hospital1 18**] for further evaluation and treatment.
+Patient had epigastric pain 2 weeks ago which resolved on its own.
+US confirmed diagnosis of cholangitis w/o cholecystitis.
+CxR also with pulm infiltrate.
+patient was given Vanc/Zosyn/Levo, fluids 4L, central line was placed for fluid and antibiotics, and admitted to [**Hospital Ward Name **] ICU for ERCP in am.
+ROS: The patient denies any fevers, chills, weight change, nausea, vomiting, abdominal pain, diarrhea, constipation, melena, hematochezia, chest pain, shortness of breath, orthopnea, PND, lower extremity oedema, cough, urinary frequency, urgency, dysuria, lightheadedness, gait unsteadiness, focal weakness, vision changes, headache, rash or skin changes.
+Past Medical History: # emphysema # arthritis # hernia repair  Social History: former smoker, quitt several years ago.
+Family History: NC  Physical Exam: Vitals: T:   afebrile  107/83  p75  18  91 RA GEN: Well-appearing, no acute distress HEENT: no epistaxis or rhinorrhea, dry MM, OP Clear, poor dentition.
+ABD: Soft, NT, ND, +BS, no HSM, no masses EXT: No C/C/E NEURO: alert, oriented to person, place, and time.
+Distal evaluation including evaluation of the pancreatic head could not be performed given overlying bowel gas.
+Recommend CT for further evaluation to exclude underlying mass lesion or obstructing stone.
+Choledocholithiasis causing biliary obstruction.
+Cholelithiasis without evidence for cholecystitis.
+Large diaphragmatic hernia containing stomach, transverse colon and tail of the pancreas.
+Multiple bladder diverticula.
+ERCP: Impression: Food mixed with liquid was found in the stomach Tortuous stomach was noted A single periampullary diverticulum was identified The major papilla was normal Successful deep cannulation of the common bile duct using a sphincterotome was performed Contrast medium was injected into the common bile duct resulting in complete opacification The common bile duct, common hepatic duct, and right and left hepatic ducts were filled with contrast and well visualized A 2 cm round-shaped stone was noted in the mid-common bile duct causing complete biliary obstruction Moderate biliary dilation was noted in the common bile duct proximal to the stone, as well as in the common hepatic ducts, and right and left hepatic ducts Successful placement of a 10Fr 9cm Cotton-[**Doctor Last Name **] biliary stent because of severe cholangitis was performed because of severe cholangitis.
+Discharge:  [**2199-1-19**] 06:15AM BLOOD WBC-5.2 RBC-3.81* Hgb-13.4* Hct-37.7* MCV-99* MCH-35.2* MCHC-35.5* RDW-13.4 Plt Ct-308 [**2199-1-19**] 06:15AM BLOOD PT-14.1* PTT-33.2 INR(PT)-1.2* [**2199-1-19**] 06:15AM BLOOD Glucose-73 UreaN-9 Creat-0.7 Na-140 K-4.0 Cl-107 HCO3-23 AnGap-14 [**2199-1-19**] 06:15AM BLOOD ALT-46* AST-25 AlkPhos-121* TotBili-1.0 [**2199-1-18**] 06:10AM BLOOD Albumin-3.1* Calcium-8.4 Phos-2.1* Mg-2.0 [**2199-1-19**] 06:15AM BLOOD VitB12-845 Folate-9.2 ** [**2199-1-19**] 06:15AM BLOOD TSH-11*  Brief Hospital Course: 89 yo M without significant pmh who was transferred to [**Hospital1 18**] from OSH for cholangitis w/o cholecystitis.
+He was admitted to the ICU and he had an ERCP done on [**1-16**] with removal of 2cm stone from the mid-common bile duct which had been causing complete biliary obstruction and was stented.
+# Cholangitis: Pt underwent ERCP with 2 cm stone removal from CBD, and patient was treated with antibiotics which were converted to Levofloxacin and flagyl.
+- cont Levo/Flagyl for a 10 day course, day 1 was [**1-16**]) - follow up ERCP in 8 weeks for sphincterotomy, lithotripsy, and CBD stone extraction - Follow up with Dr [**First Name (STitle) **] .
+# Coagulopathy: Patient was noted to have a coagulopathy with a peak INR of 1.5, likely d/t nutritional depletion/biliary obstruction.
+# Anemia: Patient?????
+H/H monitored, and remained stable.
+# Pulmonary infiltrates/COPD: The pulmonary infiltrates on CXR were thought to be due to PNA vs. capillary leak in the setting of sepsis.
+- Pt being treated with antibiotics for cholangitis anyway which would be adequate treatment for pneumonia.
+# dementia Pt was noted to have memory defecits, depression, and anxiety.
+Due to pt's depressive symptoms, and general poor sense of well being prior to acute illness, it seems reasonable to start Synthroid and have pt follow up with PCP for [**Name9 (PRE) 21033**]'s with titration as appropriate.
+# Depression Pt noted to be depressed; geriatrics consulted.
+TSH elevated as above.
+Ultram 50 mg Q6H PRN PAIN 14.
+Ativan 0.5 mg Q6H PRN anxiety 15.
+Discharge Disposition: Home With Service  Facility: [**Company 1519**]  Discharge Diagnosis: # Cholangitis # Biliary obstruction; 2 cm stone in CBD # Coagulopathy # Dementia # Depression # Possible lactose intolerance   Discharge Condition: stable   Discharge Instructions: Please take your medications as prescribed.
+Please seek medical attention if you develop worsened abdominal pain, fevers, chills, nausea, vomiting, or any other concerns  Followup Instructions: Follow up ERCP in 8 weeks for repeat ERCP, sphincterotomy, lithotripsy and CBD stone extraction.

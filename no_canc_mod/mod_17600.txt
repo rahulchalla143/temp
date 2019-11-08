@@ -1,0 +1,35 @@
+Admission Date:  [**2117-2-18**]              Discharge Date:   [**2117-2-25**]  Date of Birth:  [**2062-6-28**]             Sex:   M  Service: MEDICINE  Allergies: Heparin Agents  Attending:[**First Name3 (LF) 1162**] Chief Complaint: transfer to [**Hospital Unit Name 153**] for hypotension  Major Surgical or Invasive Procedure: PICC line placement   History of Present Illness: 54 yo male with history of quadriplegia s/p C2-C4 abscess and stage 4 decubitus ulcer was transferred from the floor to the [**Hospital Unit Name 153**] with hypotension and altered mental status in the setting of gram positive bacteremia.
+During his initial admission in [**2116-12-1**], he was treated for a pseudomonal UTI and pseudomonal bacteremia with double coverage with ceftazidime and cipro for 2 weeks.
+No additional sources of fever were found during his work-up during this second admission.
+The on [**2117-2-17**], he was found to have increased hematuria with blood surrounding his Foley, and he was sent to [**Hospital1 18**] ED for further evaluation.
+In the ED, his vital signs were notable for a fever to 103.7 with systolic blood pressures of 110-130.
+Past Medical History: - c2-c4 abscess [**7-8**] c/b quadriplegia - sacral decub ulcers - fever unknown origin - muscle spasms - chronic pain/muscle spasms - Hep BsAb, Hep BcAb, Hep C positive and Hep A Ab positive (per labs in [**Month (only) **] done at [**Hospital1 18**]).
+currently lives at nursing home, bed bound since [**Month (only) 321**]   Family History: non-contributory  Physical Exam: HEENT: Clear OP, MMM NECK: Supple, No LAD, No JVD CV: RR, NL rate.
+No murmurs, rubs or gallops LUNGS: CTA, BS BL, No W/R/C ABD: Soft, NT, ND.
+No HSM EXT: No edema.
+MICROBIOLOGY: [**2116-12-15**] - Urine Cx - Pseudomonas aeruginosa [**2116-12-15**] - Blood Cx - Pseudomonas aeruginosa [**2117-1-29**] - Urine Cx - Pseudomonas aeruginosa [**2117-2-2**] - Urine Cx - Pseudomonas aeruginosa [**2117-2-17**] - Blood Cx - [**3-5**] Gram positive cocci in pairs and clusters; 1 set drawn from PICC, one set not specified  [**2117-2-18**] - Blood Cx - [**2117-2-18**] 5:12 pm BLOOD CULTURE      Source: Line-picc.
+Please contact the Microbiology Laboratory ([**5-/2415**]) immediately if          sensitivity to clindamycin is required on this patient's isolate.
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              STAPHYLOCOCCUS, COAGULASE NEGATIVE                              | ERYTHROMYCIN----------   =>8 R GENTAMICIN------------     4 S LEVOFLOXACIN----------   =>8 R OXACILLIN-------------   =>4 R PENICILLIN------------ =>0.5 R RIFAMPIN-------------- <=0.5 S TETRACYCLINE----------   <=1 S VANCOMYCIN------------     2 S     Anaerobic Bottle Gram Stain (Final [**2117-2-20**]):       GRAM POSITIVE COCCI IN PAIRS AND CLUSTERS.
+STUDIES: - [**2117-1-15**] - Echo - Normal biventricular cavity sizes with preserved global biventricular systolic function.
+Dilated thoracic aorta.
+No valvular pathology or pathologic valvular flow identified.
+Small amount of bibasilar pleural effusions not amenable to thoracocentesis.
+Associated right lower lobe more than left lower lobe atelectasis is seen.
+4.5-cm dilatation of the ascending aorta - [**2117-2-17**] - Portable CXR - No acute cardiopulmonary process.
+- [**2117-2-18**] - Renal US - No hydronephrosis.
+No evidence of bladder mass, partially distended bladder with internal clots.
+- [**2117-2-18**] - Portable CXR - In comparison with the study of [**2-17**], the streak of atelectasis at the right base is somewhat more prominent.
+[**2117-2-20**] 04:29AM BLOOD WBC-5.8 RBC-2.65* Hgb-8.1* Hct-23.1* MCV-87 MCH-30.7 MCHC-35.2* RDW-15.3 Plt Ct-224 [**2117-2-20**] 04:29AM BLOOD Glucose-88 UreaN-19 Creat-0.8 Na-140 K-3.5 Cl-109* HCO3-24 AnGap-11 [**2117-2-17**] 08:10PM BLOOD ALT-14 AST-18 CK(CPK)-36* AlkPhos-59 TotBili-0.4 [**2117-2-20**] 04:29AM BLOOD Calcium-8.0* Phos-1.5* Mg-1.8 [**2117-2-18**] 05:09PM BLOOD calTIBC-209* VitB12-457 Folate-19.1 Ferritn-195 TRF-161*  Brief Hospital Course: Assessment and Plan 54 yo male with history of C2-C4 abscess c/b quadriplegia was transferred to the [**Hospital Unit Name 153**] for management of coag negative staph bacteremia & sepsis, now resolving  1.
+Sepsis: resolved, likely etiology was MSSA bacteremia given gpcs in [**3-5**] blood cultures, presumed source was erythematous PICC line now d/c'd.
+TTE [**2-19**] showed no e/o vegetations.
+Other possible sources include sacral decubitus ulcer (site appears clean, without purulence) vs recurrence epidural abscess, urine Cx NGTD, CXR clear.
+Acute Renal Failure: resolved, possible etiologies include post-renal [**1-2**] obstruction from clots or pre-renal secondary to dehydration or intermittent hypotension leading to transfer.
+Hematuria: pt developed acute hematuria & hct drop without clear h/o Foley trauma.
+Anemia: hct drop noted in setting of persistent hematuria and IVF hydration.
+Decubitus Ulcer: Stage IV decubitus ulcer that appears clean and without evidence of infection.
+The patient was seen by both wound care and plastic surgery who felt the wound was clean with no evidence of infection.
+His po intake should also be encouraged to have adequate caloric reserve for proper wound healing.
+Chronic Pain and Muscle Spasms: pain medications were held initially given concern for altered mental status and lethargy.
+MS improved in am, BP trends down when sleeping, likely due to autonomic dysregulation.
+Discharge Disposition: Extended Care  Facility: [**Hospital 745**] Health Center  Discharge Diagnosis: bacteremia quadriplegia sacral ulcer stage IV HCV   Discharge Condition: stable   Discharge Instructions: You were admitted with hematuria and found to have bacteremia, likely from your PICC line.
+You should return to the ER if you develop fevers greater than 101.5, chills, or new symptoms.

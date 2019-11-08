@@ -1,0 +1,83 @@
+Admission Date:  [**2107-10-24**]              Discharge Date:   [**2107-11-4**]  Date of Birth:  [**2041-12-26**]             Sex:   M  Service: MEDICINE  Allergies: Sulfa (Sulfonamide Antibiotics) / Penicillins  Attending:[**First Name3 (LF) 2698**] Chief Complaint: left leg infection  Major Surgical or Invasive Procedure: Operative Debridement for Necrotizing fasciitis Cardiac Catheterization Upper Endoscopy with injection and clipping of esophageal bleed  History of Present Illness: 65 y/o male with a history of sub total colectomy for colon cancer in [**2101**] who presented to [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] hospital with pimple on left buttock.
+His post-op course was complicated by developement of hypotension and a STEMI which is being treated medically.
+He has some discomfort in the affected groin area that is well controlled with current pain regimen.
+REVIEW OF SYSTEMS On review of systems, he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.
+Cardiac review of systems is notable for absence of chest pain, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope.
+No early CAD  Physical Exam: ACS Physical Exam on Admission to [**Hospital1 18**]: Vitals:  T 103.6  P 142  BP 117/88  RR 36  O2 100% 2L GEN: A&O, NAD HEENT: No scleral icterus, mucus membranes moist CV: RRR, No M/G/R PULM: Clear to auscultation b/l, No W/R/R ABD: Soft, nondistended, nontender, no rebound or guarding DRE: normal tone, no gross or occult blood Ext: No LE edema, LE warm and well perfused.
+large (6x6cm) area of necrosis at the left gluteal fold with surrounding erythema, induration and small amount purulent drainage.
+Other Studies: Left buttock debridement path report([**2107-10-24**]): Soft tissue with extensive infiltrating suppurative inflammation and necrosis, consistent with necrotizing fasciitis.
+TTE [**2107-10-24**]: The left atrium is mildly dilated.
+There is mild symmetric left ventricular hypertrophy with normal cavity size.
+Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded.
+There seems to be mild to moderate inferior lateral wall hypokinesis.
+The right ventricular cavity is moderately dilated The aortic valve leaflets (3) are mildly thickened.
+No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+There is no mitral valve prolapse.
+Trivial mitral regurgitation is seen.
+There is mild pulmonary artery systolic hypertension.
+There is a trivial/physiologic pericardial effusion.
+TTE [**2107-10-25**]: The left atrium is mildly dilated.
+There is mild to moderate regional left ventricular systolic dysfunction with near-akinesis of the inferolateral and basal lateral segments (left circumflex/OM distribution).
+There is no ventricular septal defect.
+The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present.
+The mitral valve leaflets are mildly thickened.
+Mild (1+) mitral regurgitation is seen.
+The tricuspid valve leaflets are mildly thickened.
+Moderate to severe [3+] tricuspid regurgitation is seen.
+There is mild pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+IMPRESSION: Mild to moderate regional left ventricular systolic dysfunction, c/w CAD.
+Mild mitral regurgitation.
+Moderate to severe tricuspid regurgitation.
+At least mild pulmonary hypertension.
+No collection or fistula identified.
+Bibasilar consolidation and small bilateral pleural effusions.
+Trace amount of free fluid within the right paracolic gutter.
+No drainable collections.
+There was a linear erosion/ulceration from the GE junction to the extending proximally for 2cm.
+Active bleeding was seen from the proximal edge of the lesion.
+It was felt to be consistent with either a linear ulcer or [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]-[**Doctor Last Name **] tear.
+Blood in the whole stomach Blood in the second part of the duodenum Otherwise normal EGD to third part of the duodenum .
+MODERATE GROWTH.
+Selective coronary angiography in this right dominant system revealed moderate multivessel coronary artery disease.
+The LAD had moderate calcification with a 30% ostial, 75% mid vessel occlusion after D2 involving the origin of S1.
+A mid vessel D2 with a 50% stenosis at the originas well as slow flow consistent with microvascular disease is also noted.
+The LCX had a proximal 30% tubual stenosis, a large OM2/LPL with a proximal 30% stenosis and tortuous terminal pole.
+A modest caliber AV grossve with 50% stenosis just after the origin of the OM2 and slow flow is also noted.
+The RCA was mildly calcified with diffuse plaquing throughout, a mid vessel 45% stenosis at a large AM2, a large tortuous AM2, a small toruous RPL1 and RPL2 arising from large distal AV groove RCA.
+Moderate three vessel coronary artery disease without obvious culprit lesion in LCX or RCA to explain inferolateral STEMI.
+Incidental finding of complex bifurcation mid LAD lesions involving D2.
+Tortuous terminal branches consistent with hypertensive heart disease with diffuse slow flow consistent with microvascular dysfunction.
+Brief Hospital Course: Primary Reason for Hospitalization: 65M with history of Colon Ca (s/p hemicolectomy in [**2101**]) and no cardiac history who was transferred to [**Hospital1 18**] for operative debridement of necrotizing fasciitis and whose post-op course was complicated by STEMI and then upper GI bleed.
+Post-op course was complicated by hypotension requiring pressors.
+The patient developed a diffuse erythematous rash which was likely related to penicillin.
+There was no obvious explanation for the discordance.
+He will follow-up with Acute Care Surgery clinic on [**11-15**] for management of his wound vac.
+# STEMI: On [**2107-10-25**] patient was noted to have ST elevations on telemetry.
+Subsequent 12 lead ECG showed inferior/posterior/lateral ST elevations.
+Echocardiography revealed near-akinesis of the inferolateral and basal lateral segments (left circumflex/OM distribution).
+However, cardiac cath performed 6 days later showed only moderate three vessel coronary artery disease without obvious culprit lesion in LCX or RCA to explain inferolateral STEMI.
+This was most likely a LCX lesion that was successfully managed medically.
+The echo findings were not consistent with a stress induced cardiomyopathy.
+Cardiac cath was not performed at the time of diagnosis because of his active infection and septic physiology.
+Lysis was not an option given his recent surgical debridement.
+After he was stabilized he was transferred to the cardiology service and underwent cardiac cath which showed the findings described above.
+The intensity of his medical regimen was decreased because of GI bleed requiring 5 units of blood and he was discharged on ASA 81mg daily.
+Of note the patient never had chest pain at any point during the hospitalization.
+# Acute Systolic Heart Failure (EF: 35-40%): Due to STEMI as described above and exacerbated by fluid resuscitation during septic shock.
+Metoprolol not started prior to discharge because of low-normal BP.
+# Upper GI Bleed: Patient with acute GI bleed on [**2107-11-1**], transferred to the MICU.
+Patient was intubated for airway protection during his EGD, which showed a linear ulcer at the GE junction, that may have been [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Last Name (NamePattern1) **] tear.
+The patient did not have any preceding history of vomiting however up to 50% of [**Doctor First Name 329**]-[**Doctor Last Name **] tears have no antecedent vomiting.
+Duration of therapy to be decided at GI f/u appointment.
+A repeat EGD may be performed at that time as well because visibility was limited by active bleeding during inpatient EGD.
+# Acute Kidney Injury: Creatinine was 2.3 on presentation to [**Hospital1 18**], most likely pre-renal from septic shock.
+TRANSITIONAL ISSUES: - Duration of PPI therapy to be determined at [**Hospital **] clinic f/u - CBC and chem-7 should be checked by PCP at post hospital f/u appointment - LFTs should be monitored by PCP as appropriate for new initation of statin therapy - Add penicillin to allergy list (rash)  Medications on Admission: none  Discharge Medications: 1. atorvastatin 80 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+Disp:*30 Tablet(s)* Refills:*2*   Discharge Disposition: Home With Service  Facility: [**Company 1519**]  Discharge Diagnosis: Primary - Necrotizing fasciitis - ST elevation Myocardial Infarction - Acute Systolic Heart Failure (EF 35-40%) - Upper GI Bleed - Acute Kidney Injury   Discharge Condition: Mental Status: Clear and coherent.
+You were transferred here to have surgery for a life-threatening infection called necrotizing fasciitis.
+During your critical illness you sufferred a heart attack (myocardial infarction).
+You also suffered a severe bleed from your esophagus.
+You did not have any further bleeding after that.
+These are to decrease your risk of having another heart attack and decrease complications from the heart attack that you had.
+Surgery clinic to care for the wound from your infection 3.

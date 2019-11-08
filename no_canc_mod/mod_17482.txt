@@ -1,0 +1,41 @@
+Admission Date:  [**2148-2-6**]              Discharge Date:   [**2148-2-10**]  Date of Birth:  [**2102-10-18**]             Sex:   M  Service: MEDICINE  Allergies: Gabapentin / Lipitor / Zyprexa / Seroquel  Attending:[**First Name3 (LF) 348**] Chief Complaint: Dyspnea  Major Surgical or Invasive Procedure: Thoracentesis   History of Present Illness: Mr. [**Known lastname **] is a 45yo male with history of CHF, COPD on home O2, OSA, ESRD on HD MWF, and recent cocaine use who presented to the [**Hospital1 18**] ED with new onset dyspnea the night of [**2148-2-6**].
+When the police arrived, patient reported SOB and was brought to ED for further evaluation.
+Mr. [**Known lastname **] [**Last Name (Titles) 15797**] any CP or recent illnesses.
+Labs notable for normal WBC, anemia with HCT 30.9, hyperkalemia with K 5.5, and elevated BUN/Cr of 71/11.4.
+EKG showed sinus rhythm with Q wave in III and TWI in III.
+CXR demonstrated right-sided effusion.
+Sats were dropping to mid 80s on 5L NC, and patient became responsive only to sternal rub, prompting a trigger for hypoxia and AMS.
+Had nausea earlier and reports cough productive of mucous.
+He [**Last Name (Titles) **] fever, chills, headache, sinus tenderness, rhinorrhea or congestion.
+Denies chest pain, chest pressure, palpitations, or weakness.
+Denies vomiting, diarrhea, constipation, abdominal pain, or changes in bowel habits.
+Family History: Mother - cancer, type unknown.
+Physical Exam: ADMISSION EXAM: Vitals: T: 97.3 BP: 129/78 P: 84 R: 24 18 O2: 96% NRB General: awake, alert, oriented to person, hospital, month/year, slightly uncomfortable appearing but NAD (on repeat exam more lethargic but still arousable to voice, frequently falling back to sleep) HEENT: PERRL, EOMI, sclera anicteric, conjuntiva injected, slightly dry MM, OP clear Neck: supple, JVP not elevated, no LAD Lungs: bibasilar crackles with diminished BS at bases, R>L CV: Regular rate and rhythm, normal S1 S2, slight systolic murmur at LUSB, no rubs or gallops Abdomen: obese, soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly GU: no foley Ext: warm, well perfused, 2+ DP/PT/radial pulses, no clubbing, cyanosis or edema, LUE with AV fisulta with + thrill/bruit Skin: linear excoriations from scratching Psych: agitated Neuro: AAOx3 in unit (prior to transfer to unit was only arousable to sternal rub), CN 2-12 grossly intact, moving all four extremities .
+DISCHARGE EXAM: vitals: T96.8 63 140/70 62 95% 3L NC General: Alert, oriented, no acute distress.
+MICROBIOLOGY: [**2148-2-6**] Blood Cx: pending [**2148-2-8**] Sputum Cx x2: contaminated [**2148-2-8**] Rapid Resp Viral Cx: pending [**2148-2-8**] Pleural Fluid Cx: pending .
+IMAGING: [**2148-2-6**] CXR: Moderate pulmonary edema with right-sided moderate pleural effusion.
+Renal osteodystrophy.
+Patchy opacities at both lung bases, likely atelectasis.
+Multifocal pneumonia raises the distinct possibility of empyema.
+Moderately severe central adenopathy could be reactive.
+Diffuse alveolitis could be due to chronic inhalational exposures.
+Renal osteodystrophy.
+Brief Hospital Course: This 45yo male with CHF, COPD, OSA, and ESRD on HD MWF, who presented with shortness of breath and hypoxia in the setting of recent cocaine use, with CXR demonstrating right sided effusion.
+# Hypoxic respiratory distress: Patient's dyspnea was felt to be multifactorial in nature, secondary to volume overload in setting of CHF and missed HD sessions, right sided pleural effusion, and bilateral pneumonia.
+ACS was felt to be unlikely etiology of dyspnea and acute hypoxia, in absence of chest pain, EKG w/o evidence of ischemia, and flat cardiac enzymes.
+He was initially admitted to the floor, but subsequently transferred to the ICU given increased lethargy and worsening respiratory acidosis/hypercarbia.
+CT chest demonstrated loculated right pleural effusion, concerning for parapneumonic effusion and possible empyema in setting of multifocal PNA.
+He was started on broad spectrum antibiotics with vanc/levofloxacin given concern for multifocal pneumonia.
+Thoracentesis on [**2148-2-8**] yielded ~1L of serosanguionous fluid, which was sent for cell count, gram stain, culture and cytology.
+The patient was continued on BiPAP at night given history of OSA and chronic CO2 retention, and also continued on albuterol/ipratropium nebs as needed for dyspnea.
+# CHF: Patient's baseline cardiac function unknown.
+As above, possible that patient had CHF exacerbation from increased salt intake and missed HD sessions with volume overload.
+Imaging on admission was suggestive that pulmonary edema and bilateral effusions could be contributing to acute presentation.
+EKG did not demonstrate any evidence of ischemia to suggest acute worsening of CHF secondary to an ischemic event.
+# ESRD: BUN/Cr elevated at 71/11.4 on presentation.
+CT showed evidence of renal osteodystrophy.
+Unclear if patient has had recent PFTs.
+Disp:*1800 Capsule(s)* Refills:*2* 6. hydroxyzine HCl 25 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for itching .
+Vancomycin 1000 mg IV HD PROTOCOL day 1 = [**2-7**]   Discharge Disposition: Home  Discharge Diagnosis: Health Care Associated Pneumonia loculated hemorrhagic pulmonary effusion   Discharge Condition: Mental Status: Clear and coherent.
+Discharge Instructions: Mr. [**Known lastname **], You were a patient at the [**Hospital1 18**] from [**2148-2-7**] - [**2148-2-10**] where you were treated for a serious pneumonia and pleural effusion.
+While in the ICU you were found to have a loculated pulmonary effusion and had a thoracentesis positive for blood and puss.

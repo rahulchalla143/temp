@@ -1,0 +1,49 @@
+Admission Date:  [**2172-5-22**]              Discharge Date:   [**2172-6-5**]  Date of Birth:  [**2109-5-26**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 3705**] Chief Complaint: Hemoptysis  Major Surgical or Invasive Procedure: [**5-23**]: bronchoscopy, intubation [**6-1**]: bronchscopy, intubation [**6-2**]: bronchial artery embolization [**6-3**]: bronchoscopy   History of Present Illness: 62yo male with PMHx of PAF on coumadin, prostate cancer, HTN, PE admitted with recurrent hemoptysis.
+There was no evidence of endobronchial lesion.
+Active bleeding was from the LLL and it was treated with diluted epi (1:[**Numeric Identifier 961**]) and iced saline lavage of the left lung.
+Of note, patient experienced hematuria after foley catheter placement on [**5-16**].
+He underwent a second bronch on [**2172-5-21**] where multiple clots were suctioned from the left lower lobe.
+There was also a remnant clot in the LUL that was left at the site.
+He is being transferred to [**Hospital1 18**] for bronchial artery embolization.
+Paroxysmal atrial fibrillation 2.
+HTN 4.
+History of PUD and GI bleed in [**2152**] 6.
+Hyperlipidemia 9.
+Prostate cancer  Social History: Single, no children.
+Father died of CHF in his 80s.
+No acute distress HEENT: Sclera anicteric, MMM.
+Neck: supple, JVP not elevated, no LAD Lungs: Minimal breath sounds in left mid-lower lung.
+normal S1 + S2, no murmurs, rubs, gallops Abdomen:  soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly GU: foley in place Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema  Pertinent Results: [**2172-5-22**] 11:55PM BLOOD WBC-9.2 RBC-3.17* Hgb-9.9* Hct-30.0* MCV-94 MCH-31.2 MCHC-33.1 RDW-14.9 Plt Ct-211 [**2172-5-22**] 11:55PM BLOOD Neuts-84.9* Lymphs-11.2* Monos-3.8 Eos-0 Baso-0.2 [**2172-5-22**] 11:55PM BLOOD PT-13.8* PTT-26.5 INR(PT)-1.2* [**2172-5-22**] 11:55PM BLOOD Glucose-143* UreaN-36* Creat-1.1 Na-147* K-4.5 Cl-110* HCO3-31 AnGap-11 [**2172-5-23**] 07:00AM BLOOD ALT-45* AST-28 LD(LDH)-214 AlkPhos-42 TotBili-0.7 [**2172-5-22**] 11:55PM BLOOD Calcium-9.1 Phos-3.3 Mg-2.5 [**2172-5-24**] 02:00AM BLOOD Hapto-326* [**2172-5-27**] 07:35AM BLOOD Triglyc-143 [**2172-5-23**] 08:45AM BLOOD ANCA-NEGATIVE B [**2172-5-25**] 04:58AM BLOOD Vanco-10.6 [**2172-5-23**] 01:43AM BLOOD Type-ART Temp-37.6 Tidal V-500 PEEP-10 FiO2-40 pO2-91 pCO2-53* pH-7.38 calTCO2-33* Base XS-4 Intubat-INTUBATED [**2172-5-23**] 01:43AM BLOOD Lactate-1.2 [**2172-5-25**] 12:32PM BLOOD O2 Sat-96 [**2172-5-26**] 08:04AM BLOOD freeCa-1.19  Labs on discharge and pertinent admission labs:  [**2172-6-5**] 04:31AM BLOOD WBC-5.6 RBC-3.11* Hgb-9.4* Hct-27.8* MCV-90 MCH-30.3 MCHC-33.8 RDW-14.5 Plt Ct-340 [**2172-6-1**] 12:01PM BLOOD Neuts-75.8* Lymphs-18.1 Monos-4.3 Eos-1.5 Baso-0.2 [**2172-6-4**] 02:57AM BLOOD PT-14.6* PTT-31.1 INR(PT)-1.3* [**2172-6-5**] 04:31AM BLOOD Glucose-91 UreaN-11 Creat-0.9 Na-134 K-4.1 Cl-98 HCO3-26 AnGap-14 [**2172-5-26**] 04:01AM BLOOD ALT-38 AST-24 LD(LDH)-270* AlkPhos-56 TotBili-1.1 [**2172-6-5**] 04:31AM BLOOD Calcium-9.1 Phos-2.1* Mg-2.1 [**2172-5-24**] 02:00AM BLOOD Hapto-326* [**2172-5-27**] 07:35AM BLOOD Triglyc-143 [**2172-5-23**] 08:45AM BLOOD ANCA-NEGATIVE B [**2172-5-30**] 04:49AM BLOOD [**Doctor First Name **]-POSITIVE * Titer-1:80 [**2172-5-30**] 04:49AM BLOOD RheuFac-9  [**2172-6-2**] 04:04PM URINE RBC-0-2 WBC-21-50* Bacteri-MANY Yeast-NONE Epi-0-2 [**2172-6-2**] 04:04PM URINE Blood-LG Nitrite-POS Protein-75 Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-SM [**2172-6-3**] 04:22PM URINE Blood-LG Nitrite-NEG Protein-100 Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-1 pH-6.0 Leuks-LG  [**2172-6-2**] 4:04 pm SPUTUM      Source: Endotracheal.
+MODERATE GROWTH.
+For serious infections,          repeat culture and sensitivity testing may therefore be warranted          if third generation cephalosporins were used.
+SENSITIVITIES PERFORMED ON REQUEST..          OF TWO COLONIAL MORPHOLOGIES.
+Brief Hospital Course: Assessment and Plan: 62yo man with A fib on Warfarin, PE in [**2168**], prostate cancer, and prior GI bleed who presented to OSH with massive hemoptysis- being transferred to [**Hospital1 18**] for bronchial artery embolization.
+Hemoptysis-  Patient experienced massive hemoptysis at OSH requiring 10U PRBCs and 5 units of FFP.
+Differential diagnosis includes bronchiectasis and occult malignancy.
+IP service consulted and performed bronchoscopy which demonstrated thick, organized mucous blood clots in RUL, RLL, and LLL.
+Rigid bronch performed in OR, notable for friable mucosa suggestive of DAH/vasculitis but no visible bleeding source.
+ANCA and anti-GBM were found to be negative; no active sediment on urine analysis.
+Vital signs remained stable with no further transfusion need.
+Extubated on [**5-28**], but failed speech and swallow.
+Prior to that he had an IR-guided bronchial artery embolization.
+He tolerated the procedures well- clot was suctioned with no new bleed on [**6-3**].
+Patient remained hemodynamically stable with no evidence of new bleed.
+Called out to floor on [**6-4**] and had no further bleeding or hemoptysis.
+[**Last Name (un) **]- At OSH, creatinine elevated in the setting of hemoptysis.
+Urine with no active sediment.
+Some RBCs, no acanthocytes.
+No RBC/WBC casts.
+Left adrenal mass- Present on prior imaging, but noted to have increased in size.
+Confusion: Patient had episodes of short term memory loss and hallucinations/dellusions while on the floor.
+He was oriented X3 however due to ICU/multiple intubations/multiple transfers and illness he was felt to be mildly confused/delerius.
+His HCP felt that his memory and hallucinations had been improving over time.
+pansensitive ENTEROBACTER CLOACAE from [**6-2**] bronchoscopy: Initially on Ciprofloxacin, changed to Levofloaxin for planned 7 day course through [**6-9**].
+Polyethylene Glycol 3350 17 gram/dose Powder Sig: One (1) paclet packet PO DAILY (Daily) as needed for constipation.
+PO DAILY (Daily) as needed for constipation.
+Discharge Disposition: Extended Care  Facility: [**Hospital3 105**] Northeast - [**Location (un) 701**]  Discharge Diagnosis: Primary: -hemoptysis  Secondary: -hx of afib, on coumadin -hx of PE - HTN   Discharge Condition: Mental Status: Clear and coherent.
+Some confusion about recent events, dellusions/hallcinations in retrospect from ICU/multiple transfers/illness  Activity Status: Out of Bed with assistance to chair or wheelchair.
+You had bronchoscopy and were intubated.
+It could have been because you have an pneumonia.
+You also had a urine infection while you were here.
+You may need to see a blood doctor because of your history of clots and bleeding.
+They are aware and will call you with an appointment.

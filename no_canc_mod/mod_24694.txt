@@ -1,0 +1,51 @@
+Admission Date:  [**2114-7-29**]              Discharge Date:   [**2114-8-5**]  Date of Birth:  [**2067-1-5**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 2901**] Chief Complaint: s/p cardiac arrest  Major Surgical or Invasive Procedure: ICD placment  History of Present Illness: Mr. [**Known lastname 85008**] is a 47 year old man recently diagnosed with atrial flutter s/p DCCV x2 as well as ablation, and cardiomyopathy of unknown etiology (EF15-20%) who is transferred from [**Hospital1 **] after arresting at home and receiving AED shock for hypothermia protocol.
+On that admission he was diagnosed with atrial flutter and "ischemic" global cardiomyopathy, moderate RV hypokinesis, EF of 15-20%, 3-4% MR.  [**Name13 (STitle) **] his wife, the etiology of his cardiomyopathy was suspected to be secondary to viral illness.
+He soon became unresponsive and lost consciousness.
+She states that prior to him losing consciousness he did not complain of chest pain or pressure, palpitation, shortness of breath.
+He has not had any recent fevers, chills, changes in bladder habits, bloody stools/urine, lower or extremity edema.
+He was found to be in atrial fibrillation.
+He became hypotensive and was then started on neo and levo for pressure support.
+The patient's ECG showed atrial fibrillation with 1mm lateral STD.
+He got CXR that was consistent with pulmonary edema.
+CARDIAC HISTORY: - [**6-/2114**]: Atrial flutter diagnosed after 15lbs weight loss and prolonged malaise.
+S/p DC cardioversion x 2 and [**Year (4 digits) **] + Aflutter ablation on [**2114-7-23**] with creation of a cavo-tricuspid isthmus line of block with bidirectional block.
+- Cardiomyopathy identified on ECHO at OSH on [**2114-7-6**]: Severe ischemic, nearly global cardiomyopathy present with "smoke" in the LV.
+Moderate RV hypokinesia.
+Sclera anicteric.
+Irregularly irregular heart rate.
+No thrills, lifts.
+LUNGS: Anterior breath sounds clear, no wheezes/rales.
+Cooling pads in place; no organomegaly noted.
+No edema noted.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+[**2114-7-30**] Echo: The left atrium is mildly dilated.
+The left ventricular cavity is mildly dilated.
+There is severe global left ventricular hypokinesis (LVEF = 20%).
+Systolic function of apical segments is relatively preserved.
+No masses or thrombi are seen in the left ventricle.
+The right ventricular cavity is moderately dilated with severe global free wall hypokinesis.
+The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic regurgitation.
+There is no mitral valve prolapse.
+Moderate (2+) mitral regurgitation is seen.
+There is a trivial/physiologic pericardial effusion.
+IMPRESSION: Biventricular cavity enlargement with severe global hypokinesis c/w diffuse process.
+Moderate mitral regurgitation.
+[**2114-8-4**] CXR: New ICD has been placed with leads terminating in expected locations of the right atrium and right ventricle with no evidence of pneumothorax.
+Ground-glass and reticular opacities have developed in the perihilar regions, with similar appearance to an earlier radiograph of [**8-2**].
+The rapid fluctuations favor pulmonary edema over an atypical pneumonia.
+There is also an area of linear atelectasis in the right mid lung region, and there are questionable small pleural effusions posteriorly.
+[**2114-8-5**] EKG: Supraventricular tachycardia.
+Brief Hospital Course: 47 year old man recently diagnosed with atrial flutter s/p DCCV x2 as well as ablation, and cardiomyopathy of unknown etiology (EF15-20%) who is transferred from [**Hospital3 **] after arresting at home and receiving AED shock for hypothermia protocol.
+The etiology of his V-fib arrest was suspected to be secondary to his dilated cardiomyopathy vs prolonged QT.
+His amiodarone drip was continued on transfer but stopped given evidence of junctional rhythm w/ prolonged QT (see below).
+EEG did not show evidence of seizures.
+An echocardiogram was done on this admission that confirmed dilated cardiomyopathy.
+On [**10-3**], patient went into VF arrest on the floor and was taken for urgent ICD placement with overdrive pacing.
+# Cardiomyopathy:  An echocardiogram done on this admission showed biventricular cavity enlargement with severe global hypokinesis EF 20%, and moderate MR.  Etiology of his cardiomyopathy unknown, but suspected tachycardiac dilated CM.
+# Atrial Flutter:  On admission patient was in atrial flutter.
+Overnight, rhythm strips and ECG demonstrated junctional rhythm and prolonged QT.
+Subsequent ECGs showed atrial flutter.
+# Elevated TSH:  TSH 12, free T3/T4 within normal limits.
+Outpatient Lab Work INR check   Discharge Disposition: Home  Discharge Diagnosis: Primary: Ventricular fibrillation Post cardiac arrest Dilated cardiomyopathy   Discharge Condition: A&Ox3, self-ambulatory   Discharge Instructions: You were admitted to the hospital because you had a cardiac arrest.
+Soon afterwards, you had another episode of abnormal rhythm.
+For this reason we placed a defibrillator to prevent further arrhythmias.

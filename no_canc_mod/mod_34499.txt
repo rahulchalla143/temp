@@ -1,0 +1,30 @@
+Admission Date:  [**2172-1-10**]              Discharge Date:   [**2172-1-20**]  Date of Birth:  [**2110-8-11**]             Sex:   M  Service: MEDICINE  Allergies: Heparin Agents  Attending:[**First Name3 (LF) 492**] Chief Complaint: Tracheomalacia  Major Surgical or Invasive Procedure: s/p Y tracheal stent placement  History of Present Illness: The patient is a 61 yo transfer from St.vincents for tracheomalacia and bronchomalacia, now s/p IP stenting.
+The patient originally presented to an OSH on [**2171-12-19**] for shortness of breath.
+A TTE/TEE were negative for vegetations.
+Of note, while at the OSH he did have an episode of coffee ground emesis for which an EGD was performed and showed erosion in the antrum, duodenum and stomach.
+Finally, he was treated with prednisone and nebulizers for COPD exacerbation.
+A bronchoscopy was performed on [**2172-1-11**] which showed significant tracheobronchial malacia involving the distal trachea, right and left main stem bronchus.
+Sputum cultures from [**2172-1-11**] grew sparse staph aureus and rare gram negative rods.
+Past Medical History: Obesity DM type II COPD CAD HTN Hyperlipidemia Degenerative joint disease Chronic LE edema  Social History: Single; h/o 1ppd x >45yrs; No known ETOH or drug use  Family History: unknown  Physical Exam: Physical Exam: Vitals - BP 133/75, HR 91, RR 16, O2 100% Vent - AC 450x14, PEEP 10, FIO2 100% General - obese male, intubated and sedated HEENT - PERRL Neck - obsese, unable to appreciate JVP given size of neck CV - RRR Lungs - diffuse rhonci Abdomen - obese, non-tender, non-distended Ext - 1+ pitting edema bilaterally   Pertinent Results: Imaging: [**2171-12-23**] OSH ECHO - LV normal, EF 50-55%, RV normal, RV systolic function normal, [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) 3841**] dilated, borderline RA enlargement, MV normal, TV normal, RV systolic pressure 40-50mmHg, trace aortic regurg, tracepulm regurg, no pericardial effusion.
+[**2172-1-11**] CXR - Likely mild-to-moderate fluid overload and retrocardiac air space opacity, atelectasis versus developing pneumonia.
+Although potentially due to a structure external to the patient, a small aspirated tooth or other foreign body should also be considered.
+Micro: [**2172-1-11**] Blood - pending [**2172-1-11**] Sputum - 2+ GPC, 2+ GNR; culture growing spare staph aureus and rare GNR   Brief Hospital Course: Patient is a 61-year-old gentleman with obesity, DM, CAD, Hyperlipidemia who was transferred from an OSH because of difficulty weaning from ventilator support after developing MRSA pneumonia.
+# TRACHEOBRONCHOMALACIA/RESPIRATORY FAILURE - Patient was intubated on 3 occasions at OSH; most recently re-intubated on [**2172-1-6**].
+A bronchoscopy revealed tracheobronchomalacia and he had a Y stent placed in the OR on [**2172-1-13**].
+The Y stent did not adequately address his tracheobroncomalacia; he had increased secretions and dropped his lung daily so the Y stent was removed.
+# GNR PNEUMONIA - Mr. [**Known lastname 77222**] sputum grew citrobacter and acinetobacter.
+# VAP MRSA PNEUMONIA - has been on vancomycin for MRSA PNA since [**2172-1-2**] (started at OSH) due to fever and secretions.
+# HEPARIN-INDUCED THROMBOCYTOPENIA: The patient's platelets dropped early in his admission and he was found to be HIT +.
+# ATRIAL FIBRILLATION - currently rate controlled on metoprolol 25 TID.
+# HYPERLIPIDEMIA - continue statin .
+# AGITATION - The patient has required intermittent haldol and ativan for agitiation and pulling at lines while inpatient.
+# DM - Patient was maintained on insulin sliding scale .
+# PICC - Patient had PICC placed in R arm on [**2172-1-20**] for antibiotics and Argatroban.
+Ipratropium-Albuterol 18-103 mcg/Actuation Aerosol Sig: Six (6) Puff Inhalation Q4H (every 4 hours) as needed for shortness of breath or wheezing.
+Haloperidol Lactate 5 mg/mL Solution Sig: Five (5) mg Injection [**Hospital1 **] (2 times a day) as needed for agitation.
+Discharge Disposition: Extended Care  Facility: [**Hospital3 7**] & Rehab Center - [**Hospital1 8**]  Discharge Diagnosis: Tracheobronchomalacia GNR PNA MRSA PNA A Fib   Discharge Condition: Stable, on minimal vent settings   Discharge Instructions: You were admitted to the hospital because you had a prolonged intubation after a servere PNA.
+You developed a condition termed tracheobronchomalacia which makes breathing difficult.
+You completed a 14 day course of vancomycin for a MRSA pneumonia on [**2172-1-16**].
+you also developed a condition called HIT.
+You were started on  argatroban, which is a blood thinner and you are being transitioned to coumadin.
+Note to rehab: Argatroban falsely elevates INR so at rehab, when his INR is between [**5-3**], his argatroban should be held for 4 hours and an INR should then be checked.

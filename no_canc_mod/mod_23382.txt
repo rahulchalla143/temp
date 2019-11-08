@@ -1,0 +1,58 @@
+Admission Date:  [**2147-8-7**]              Discharge Date:   [**2147-8-31**]  Date of Birth:  [**2077-7-9**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 2297**] Chief Complaint: Respiratory distress  Major Surgical or Invasive Procedure: Intubation [**2147-8-8**] Double lumen intubation [**2147-8-9**] Arterial line placement [**2147-8-8**] PICC line placement [**2147-8-8**] Right subclavian central line placement [**2147-8-9**] Skin biopsy [**2147-8-9**] Bronchoscopy [**2147-8-8**]  History of Present Illness: Mr. [**Known firstname 2398**] [**Known lastname **] is a 70M with HIV (CD4 350 in [**5-8**]), SCC s/p RLL lobectomy [**8-7**] complicated by bronchopleural fistula treated with [**Last Name (un) 72968**] window, as well as empyema and invasive aspergillosis on outpatient voriconazole referred from [**Hospital1 **] [**Hospital1 8**] for fever and hypoxemia.
+CXR showed L-sided PNA most pronounced in LUL.
+CTA showed no PE but GGO w/ septal thickening in RML, LUL, LLL.
+Upon arrival to MICU, complains of dyspnea with minimal exertion, nonproductive cough, and chills.
+No fever, chest pain, palpitations, hemoptysis, abdominal pain, nausea, diarrhea, abd pain or rash.
+Past Medical History: PMH:  -History of multivessel CAD s/p PCI of the proximal left circumflex with a bare metal stent [**2143**] w/ Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] ([**Hospital 12017**] [**Hospital 12018**] Hospital) -HIV-infection, diagnosed in [**2137**], well-controlled.
+Pt states that his VL has always been undetectable -Chronic LV dysfunction last EF 55% -Severe migratory polyarthritis, on prolonged high-dose steroid use for presumed "adrenal insufficiency" -moderate MR [**Name13 (STitle) 19667**] -herpes labialis -TMJ -B/L inguinal hernia repair -SCC s/p RLL lobectomy [**8-7**] complicated by bronchopleural fistula treated with [**Last Name (un) 72968**] window, as well as empyema and invasive aspergillosis   Social History: Currently residing in [**Hospital **] [**Hospital 8**] Rehabilitation.
+Physical Exam: Vitals: T 97.1 BP 94/48 HR 109 RR 19 O2 89%NRB General: Respirations nonlabored, speaks in full sentences HEENT: Sclera anicteric, dry MM, poor dentition, left > right pupil (stable) Neck: no JVD Lungs: LLL rhonchi and coarse rales; R-sided chest dressing c/d/i CV: reg rate tachy nl S1S2 no m/r/g Abdomen: soft NTND normoactive BS diffuse ecchymoses Ext: warm, dry +PP no edema   Pertinent Results: ADMISSION LABS: .
+Ground-glass airspace opacity involving the majority of the left lung and also within the right middle lobe concerning for PCP [**Name Initial (PRE) 1064**].
+Please note other etiologic considerations include atypical pneumonia, hypersensitivity pneumonitis.
+Status post right lower lobe resection with open window thoracoplasty changes and packing material in the right pleural space.
+No evidence of pulmonary embolism.
+Stable small filling defect within the right lower lobe pulmonary artery is compatible with chronic thrombus related to right lower lobe resection.
+Multiple thoracic spine compression fractures, with a new T5 compression.
+Consider MR for further evaluation.
+There is moderate symmetric left ventricular hypertrophy.
+Doppler parameters are most consistent with Grade III/IV (severe) left ventricular diastolic dysfunction.
+The aortic valve leaflets (3) are mildly thickened.
+Mild (1+) aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Mild (1+) mitral regurgitation is seen.
+The tricuspid valve leaflets are mildly thickened.
+There is moderate pulmonary artery systolic hypertension.
+There is a trivial/physiologic pericardial effusion.
+There is an anterior space which most likely represents a prominent fat pad.
+- Dermal hemorrhage.
+Note: PAS-D and Gram stains are negative for fungal and bacterial organisms respectively.
+There is dermal hemorrhage, however, no significant dermal inflammation or vasculitis is observed.
+Skin, right shin, biopsy (B): Diffuse dermal hemorrhage consistent with ecchymosis (see note).
+Note:   There is dermal hemorrhage, however, no significant dermal inflammation or vasculitis is observed.
+Rare group of atypical epithelioid and squamous cells.
+Numerous neutrophils and pulmonary macrophages.
+Brief Hospital Course: 70M with HIV (undetectable VL), inflammatory arthritis on chronic steroid therapy, SCC s/p RLL lobectomy [**8-7**] complicated by bronchopleural fistula treated with [**Last Name (un) 72968**] window, as well as empyema and invasive aspergillosis on outpatient voriconazole admitted with hypoxemic respiratory failure and septic shock from pneumonia.
+# Hypoxemic respiratory failure: Patient presented with hypoxemic respiratory failure.
+Due to right sided air leak and dense disease on left lung it was difficult to ventilate the patient with a single endotracheal tube.
+Multiple blood and sputum cultures were obtained without definitive results.
+Due to the severity of his illness and his compromised immune status and risk for infection(HIV, chronic steroid use, malnutrition, and extended hospitalizations) he was treated broadly for HCAP with a 14 day course ending of [**2147-8-21**] as well as a 21 day course of therapeutic bactrim and steroids for PCP.
+He had significant difficulty managing his airway due to increased secretions and had repeated episodes of hypoxia from mucus plugging.
+After tracheostomy fever and increased sputum returned.
+#Hypotension: Patient presented with septic shock physiology.
+On arrival to the ICU he had persistently low blood pressures, tachycardia, and low urine output despite agressive volume resuscitation in the setting of active lung infection.
+#Sinus tachycardia: Patient with persistent tachycardia throughout most of admission.
+Tachycardia was believed to be multifactorial due to intravascular depletion, fever, infection, pain, hypoxia, pressors, and withdrawal of sedation.
+With resolution of infection and management of oral secretions his rate fell to 90-110s.
+He was ultimately started on metoprolol to improve cardiac output given his diastolic heart failure.
+# Liver lesion/nodularity:  Incidental finding on admission imaging.
+# BP fistula: No evidence of infection during hospitalization.
+#CAD: Patient with known history of CAD s/p PCI.
+- Continue ranitidine 150 mg daily for stress ulcer prophylaxis while on ventilator.
+If fever recurs whould have high suspiscion for extrapulmonary source (i.e.
+Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical TID (3 times a day) as needed for yeast.
+Ipratropium Bromide 0.02 % Solution Sig: One (1) neb Inhalation Q6H (every 6 hours) as needed for sob/wheeze.
+Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1) neb Inhalation Q6H (every 6 hours) as needed for sob/wheeze.
+Heparin, Porcine (PF) 10 unit/mL Syringe Sig: Two (2) ML Intravenous PRN (as needed) as needed for line flush.
+Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: 2-4 Puffs Inhalation Q6H (every 6 hours) as needed for SOB/Wheeze.
+Patient afebrile and off pressors for several days prior to discharge.
+Your hospital course was complicated by elevated heart rates, persistent fevers, altered mental status, malnutrition.
+Unfortunately you continued to have great deal of secretions that caused you to become short of breath and you were too weak to protect your lungs.

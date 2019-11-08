@@ -1,0 +1,42 @@
+Admission Date:  [**2123-4-4**]              Discharge Date:   [**2123-5-4**]  Date of Birth:  [**2098-5-6**]             Sex:   F  Service: MEDICINE  Allergies: Haldol / Fluphenazine / Chlorpromazine / Clozapine / Risperidone / Zyprexa / Reglan / Promethazine / Flagyl / Trileptal / Clindamycin / Cefazolin / Erythromycin Base / Amoxicillin  Attending:[**First Name3 (LF) 832**] Chief Complaint: Abdominal pain, nausea, vomiting, diarrhea  Major Surgical or Invasive Procedure: Intubation/Sedation to allow medical care early in hospital course  History of Present Illness: Ms. [**Known lastname 90100**] is a 24 year-old woman with recent diagnosis of SLE vs possible Crohn's on steroid taper and pervasive development disorder (resides in a group home) who presents with worsening abdominal pain, nausea, vomiting, and diarrhea.
+She has been having diarrhea, no BRBPR or melena.
+The mother feels that she is in pain as she brings her knees up to her chest.
+Her symptoms began this weekend as above.
+Howevever, her symptoms are different than in [**Month (only) 404**], given her emesis is clear and she is having watery diarrhea.
+CT showed no obstruction but diffuse colitis.
+Currently she is doing well with no clear abdominal pain.
+- Pervasive developmental disorder - OCD - Bipolar disorder - Question of seizure disorder  Social History: She is single, lives in a group home in [**Location (un) 16843**], with visitations from the family on weekends.
+Physical Exam: VS: T 98.2, BP 104/75, HR 111, RR 16, 100%RA Gen: well appearing, smiling, NAD HEENT: anicteric sclera, MMM, OP clear Neck: supple no LAD Heart: Tachy, regular, no m/r/g Lung: CTAB though exam limited by cooperation Abd: soft NT/ND +BS no rebound or guarding Skin: no obvious rashes though exam limited by cooperation Ext: no pitting edema, warm Neuro: alert, non-verbal, smiles and reactive.
+Diffuse colitis, infectious, inflammatory, or vasculitis etiologies should be considered.
+There is associated abdominal ascites, and small bowel dilatation.
+Small bowel acute on chronic inflammatory change with dilated loops and wall edema.
+No small bowel transition point is seen to suggest a mechanical bowel obstruction, and any component of partial obstruction is likely to be functional as the result of inflammation.
+No CT signs of vasculitis of the abdominal vessels and no arterial or venous occlusion.
+Small right pleural effusion.
+SIGMOIDOSCOPY [**2123-4-8**]: - Moderately severe colitis with likely pseudomembrane in the sigmoid and descending colon (biopsy, biopsy) - Loss of vascularity in the rectum - Internal hemorrhoids - Otherwise normal sigmoidoscopy to splenic flexure  RECS: Await pathology report.
+Likely C.diff colitis, but cannot rule-out Crohn's disease based on endoscopic appearance alone.
+Send stool studies for C.diff toxin/PCR, and would initiate empiric therapy for C.diff colitis with PO/PR Vancomycin.
+Would recommend against increasing steroid therapy for now given the concern and high likelihood for C.diff colitis, unless histologic evaluation appears otherwise.
+- No pseudomembranes, vasculitis, or cryptitis seen (additional levels were examined).
+PORTABLE ABDOMEN [**2123-4-12**]: Unchanged prominent loops of small bowel with some contrast seen in the ascending as well as descending colon likely representing essentially unchanged partial small bowel obstruction  Brief Hospital Course: 24 year-old woman with SLE, pervasive developmental disorder, who presented with nausea and vomiting feculant material [**1-20**] recurrent ileus vs. partial SBO associated with a probable vasculitis-induced colitis.
+CT demonstrated bowel wall thickening suggestive of colitis.
+Given patient's h/o lupus, there was concern for a possible vasculitic process.
+Biopsies were non-dagnostic and did not demonstrate signs of vasculitis, cryptitis or psuedomembranes.
+Nonetheless, it was the opinion of the rheumatology consult service that this likely represent vasculitis-associated colitis and her symptoms improved with ongoing prednisone and restarted azathioprine use.
+Symptomatically the patient had significant improvement with apparent improvement in abdominal pain and distention.
+He hospital course was complicated by pneumonia, with sputum growing out GI flora consistent with aspiration PNA, as well as UTI with EColi.
+The patient will reufse PO meds sometimes, so because of clinical stability and difficulty with administering IV or PO meds, treatment for Coag-neg staph was stopped at 12 days (stopped [**4-21**]).
+Ms. [**Known lastname 90100**] was followed by Psychiatry during her admission for behavioral issues and developmental disorder.
+On [**4-23**], she was noted to have increased agitation and stated she had abdominal pain.
+She has no signs of ongoing urinary difficulty.
+For recurrent abdominal complaints or changes in urinary patterns, this issue should be re-investigated.
+The patient had signs of a significant fungal infection of the perineum and intercrural region.
+3. diphenhydramine HCl 25 mg Tablet [**Hospital1 **]: One (1) Tablet PO once a day as needed for acute agitation.
+9. diazepam 5 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO Q6H (every 6 hours) as needed for anxiety.
+10. acetaminophen 325 mg Tablet [**Last Name (STitle) **]: 1-2 Tablets PO Q6H (every 6 hours) as needed for pain fever.
+Discharge Disposition: Extended Care  Facility: group home  Discharge Diagnosis: - Pancolitis, possibly from lupus - Systemic lupus erythematosus - Pneumonia, right upper lung, with MSSA and E. Coli from aspiration - Bacteremia, coagulase-negative staph aureus - Urinary tract infection, E. Coli - Urinary retention, resolved - Developmental delay  Discharge Condition: Mental Status: Confused - always.
+Discharge Instructions: You were admitted with nausea and vomitting from colitis that we think is related to your lupus.
+During the admission, you were also found to have a pneumonia, urinary infection and bacteremia, all of which were treated with antibiotics.
+Have weekly blood testing while on azathioprine.
+You were also noted to have urinary retention and a Foley catheter was placed.
+You also have a severe fungal infection of the thighs.

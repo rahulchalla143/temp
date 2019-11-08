@@ -1,0 +1,42 @@
+Admission Date:  [**2111-4-9**]              Discharge Date:   [**2111-4-13**]  Date of Birth:  [**2031-5-23**]             Sex:   F  Service: MEDICINE  Allergies: Levaquin  Attending:[**First Name3 (LF) 2758**] Chief Complaint: Hypotension; loss of consciousness; diarrhea  Major Surgical or Invasive Procedure: Central venous line placement.
+History of Present Illness: This is a 79-year-old woman with ESRD on HD, HTN, and hyperlipidemia who is admitted from rehab facility after episode of weakness, slurred speech, and hypotension during physical therapy.
+She recently had a UTI and c.diff infection as noted below.
+Patient states that diarrhea resolved, but then returned over the past 4 days.
+She says that during PT this morning, she developed lightheadedness and dizziness; she felt hypotensive as she had on prior occasions.
+Patient denies acutal syncope, but per nursing home report she actually lost consciousness.
+Patient was evaluated by neurology team who found no deficits.
+A CT scan of her head was negative for any acute pathology.
+Patient was found to be hypotensive on admission to 82/60.
+Patient received IV flagyl (was ordered for vanc and ceftriaxone but never got them), had a RIJ placed, and was started on levophed.
+Past Medical History: -CHF -ESRD on HD (since [**Month (only) 205**])- Tuesday, Thursday, Saturday -hypertension -hyperlipidemia -gout -osteoporosis -dry senile macular degeneration -rheumatic fever (last occurrence at age 12) -anemia -s/p open fracture of intertrochanteric section of femur [**1-20**] (slipping on wet steps; she denies any loss of balance or presyncope) -several left sided rib fractures [**1-20**] -h/o c.diff ([**2111-3-10**]) with recurrence->severe c.diff this admission  Social History: She has a 45-year history of smoking 1 PPD.
+Family History: Mother had breast cancer, died of colon cancer at 88.
+Father died of lung cancer at 64.
+Maternal grandfather died of MI at 94 or 95.
+Uncle had breast cancer, died of lung cancer at 94.
+Physical Exam: ADMISSION: VS: Afebrile, HR: 77, B: 99/40 (on levophed), SP02 95% on RA GENERAL:  Well appearing, no acute distress NECK:  JVP elevated 3cm above clavicular line CHEST:  Crackles in left lower base CARDIAC:  Regular rate and rhythm ABDOMEN: +BS, soft, non-tender EXT:  Warm and well perfused, no edema NEURO:  Alert and oriented x3  MORNING OF DISCHARGE: VS - Tc=Tm98.4, 130/68 (130-160/66-78), 78, 20, 97%RA Loose BM x2 yesterday; x1 this shift Exam at 0710 Gen: NAD CV: RRR, slight systolic murmur Pulm: CTAB, no crackles/wheezes Abdomen: soft, NT, +BS Ext: WWP, no erythema, no edema.
+Admission imaging: [**2111-4-9**] Head CT: no acute process.
+[**2111-4-9**] Chest Xray: Mild cardiomegaly.
+Small left pleural effusion.
+Minimal left basilar opacity, likely atelectasis.
+Non-specific anterolateral ST-T wave changes.
+Compared to the previous tracing of [**2111-4-9**] there is no definite change.
+[**2111-4-10**] Abdominal Xray: No definite findings suggestive of C. diff colitis, however there it insufficient air in the colon to evaluate for bowel wall thickening.
+Discharge Labs: [**2111-4-13**] 06:50AM BLOOD WBC-5.3 RBC-3.37* Hgb-9.1* Hct-29.9* MCV-89 MCH-27.0 MCHC-30.5* RDW-17.7* Plt Ct-332 [**2111-4-13**] 06:50AM BLOOD Glucose-82 UreaN-30* Creat-3.5* Na-140 K-3.9 Cl-104 HCO3-28 AnGap-12 [**2111-4-13**] 06:50AM BLOOD Calcium-8.9 Phos-2.8 Mg-2.2   Brief Hospital Course: Ms. [**Known lastname 780**] is a 79-year-old woman with end stage renal disease on hemodialysis, HTN, and hyperlipidemia who developed a recent UTI and c.diff infection while at a rehabilitation facility status post fall.
+A bedside echo showed no large effusions.
+A stroke code was called, but a Neurology evaluation was negative for deficits and head CT was negative for acute intracranial process.
+Her blood pressure improved with crystalloids, she remained afebrile, her white count remained normal, and her hypotension was attributed to volume loss from diarrhea and possibly the toxic effects from clostridium difficile.
+She clinically improved overall on antibiotics for c.diff, was otherwise without symptoms or signs of sepsis physiology afterwards, and remained hemodynamically stable for the remainder of her admission.
+EKG changes: On admission, she was noted to have ST depressions in leads V4, V5, and V6, and her BNP was elevated to greater than 24,000.
+The changes were attributed to demand ischemia secondary to her hypotension.
+These were held due to her hypotension on admission.
+End stage renal disease:  The Renal team continued to follow her course and make recommendations.
+7. polyethylene glycol 3350 17 gram/dose Powder Sig: One (1) PO BID (2 times a day) as needed for constipation.
+9. temazepam 15 mg Capsule Sig: One (1) Capsule PO HS (at bedtime) as needed for insomnia.
+Disp:*qs Capsule(s)* Refills:*0* 4. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every 6 hours) as needed for pain or fever.
+Aranesp (polysorbate)  Injection 8. peg 3350-electrolytes 227.1-21.5-6.36 gram Powder in Packet Sig: One (1)  PO twice a day as needed for constipation.
+10. temazepam 15 mg Capsule Sig: One (1) Capsule PO at bedtime as needed for insomnia.
+You were admitted to [**Hospital1 69**] after developing diarrhea and losing consciousness at your rehabilitation center.
+You were found to have very low blood pressure and were given intravenous fluids and medications to help raise your blood pressure in the emergency department.
+Your diarrhea improved with oral vancomycin, and tests confirmed that you have a clostridium difficile infection causing your diarrhea.
+After discussion with Renal specialists, it was decided not to restart your amlodipine or clonidine at this time.
+You may restart them, if needed, after your diarrhea resolves.
