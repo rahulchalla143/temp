@@ -1,0 +1,57 @@
+Admission Date:  [**2166-12-22**]              Discharge Date:   [**2167-2-3**]  Date of Birth:  [**2088-3-22**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 3918**] Chief Complaint: Abdominal distention  Major Surgical or Invasive Procedure: [**2166-12-24**] Pericentesis R IJ CVL placement PICC line placement [**2167-1-26**] Bronchoscopy   History of Present Illness: [**Known firstname **] [**First Name4 (NamePattern1) **] [**Known lastname **] is a 78-year-old G4P30013 Taiwanese female with history of aortic stenosis and HTN, who initially presented to [**Hospital1 **] [**Location (un) 620**] on [**2166-12-16**] with complaint of worsening fatigue, early satiety, increasing abdominal distention and discomfort, and constipation alternating with diarrhea.
+On [**2166-12-17**], the patient underwent a diagnostic paracentesis.
+1.5 liters of cloudy, yellow fluid was removed and sent for the appropriate studies.
+On [**2166-12-19**], the patient underwent a second paracentesis.
+She noted a mild improvement of her symptoms after the paracentesis, however now reports increasing discomfort due to further abdominal distention.
+Patient hospitalized twice ([**2162**], [**2165**]) with CP which resolved with SL NTG; see most recent stress test below.
+Physical Exam: VS: T 98.3  BP 110/60  HR 92  RR 16  O2Sat 97% RA General: Elderly Asian female, A&O x 3 Cardiac: RRR, no murmurs, rubs, gallops Lungs: CTAB, no rales, wheezes or crackles Abdomen: Moderate abdominal distention, shifting dullness c/w ascites, no tenderness to palpation, no masses, no HSM Ext: 1+ edema bilaterally, non tender   Pertinent Results: ** LABS ON ADMISSION ** [**2166-12-22**] 08:00PM BLOOD WBC-8.5 RBC-3.32* Hgb-11.3* Hct-32.8* MCV-99* MCH-33.9* MCHC-34.4 RDW-13.5 Plt Ct-257# [**2166-12-22**] 08:00PM BLOOD Plt Ct-257# [**2166-12-22**] 08:00PM BLOOD PT-13.9* PTT-67.6* INR(PT)-1.2* [**2166-12-22**] 08:00PM BLOOD Glucose-101 UreaN-16 Creat-1.0 Na-136 K-4.2 Cl-101 HCO3-26 AnGap-13 [**2166-12-22**] 08:00PM BLOOD ALT-46* AST-130* AlkPhos-41 Amylase-32 TotBili-0.3 [**2166-12-22**] 08:00PM BLOOD Lipase-21 [**2166-12-22**] 08:00PM BLOOD Albumin-2.8* Calcium-8.2* Phos-2.8 Mg-1.9 [**2166-12-22**] 08:00PM BLOOD CA125-696*  LABORATORY DATA: CA-125: 696 .
+Abnormal forms including target cells, ecchinocytes, and elliptocytes are also present.
+There are foamy hemosiderin laden macrophages present in the smear.
+Erythroid precursors are increased in number and show normoblastic maturation.
+Marrow clot section is not submitted.
+The study is inadequate to fully assess aortic valve, however mild stenosis is suggested based on two-dimensional images.
+Right PICC line lies at the level of the tricuspid valve.
+Moderately-severe aortic valve calcifications of uncertain physiologic significance.
+Brief Hospital Course: [**Known firstname **] [**First Name4 (NamePattern1) **] [**Known lastname **] is a 78-year-old female transferred to [**Hospital1 18**] with CT findings of ascites, omental thickening, and left adnexal fullness, as well as an elevated CA-125, concerning for ovarian cancer versus primary peritoneal cancer, found to have Burkitt's lymphoma as well as likely peritoneal TB.
+Also started on  Prednisone 100 mg for 7 days.
+Bone marrow biopsy demonstrated MILDLY HYPOCELLULAR ERYTHROID DOMINANT BONE MARROW WITH MATURING TRILINEAGE HEMATOPOIESIS AND REACTIVE (POLYCLONAL) PLAMACYTOSIS, but did not show evidence of lymphoma.
+Pt was then switched to a more easily tolerated regimen called [**Hospital1 **].
+The patient underwent two diagnostic and therapeutic paracenteses.
+The patient was aggressively diuresed on Lasix 40 mg IV BID with improvement.
+# Hypoxia: Initially, on the floor the patient required NRB for O2 sat 90-94%.
+Pulmonary and cardiac shunt essentially negative: LENI negative, ECHO bubble no intra-cardiac shunt, V/Q scan indeterminate secondary to volume overload (unable to do CTA in setting of renal failure with lysis).
+Pt was started on several antibiotics.
+The pt was also treated with vancomycin and meropenem which were eventually removed.
+Pt is now completing a a course of bactrim to be completed [**2167-2-10**] per the infectious disease service.
+The pt was started on 4 drug therapy with ethambutol, INH, rifabutin, and pyrazinamide.
+The pt was followed by Infectious Disease for the duration of her admission, and they recommended that the pt continued the four-medication regimen for two months.
+Per ID recommendations the pt received two doses of Ivermectin therapy.
+Patient was started on Lamivudine prophylaxis and was discharged on lamivudine.
+# Access: The pt was discharged with PICC in place as she will return for scheduled admission on [**Last Name (LF) 766**], [**2167-2-9**] for second cycle of [**Hospital1 **].
+Medications on Admission: Fosamax Atenolol Calcium MVI  Discharge Medications: 1.
+Omeprazole 20 mg Capsule, Delayed Release(E.C.)
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+Pyridoxine 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Isoniazid 300 mg Tablet Sig: Three (3) Tablet PO 3X/WEEK (TU,TH,SA).
+Rifabutin 150 mg Capsule Sig: Two (2) Capsule PO 3X/WEEK (TU,TH,SA).
+Ethambutol 400 mg Tablet Sig: Three (3) Tablet PO 3X/WEEK (TU,TH,SA).
+Pyrazinamide 500 mg Tablet Sig: Six (6) Tablet PO 3X/WEEK (TU,TH,SA).
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+Fluconazole 100 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours).
+Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 times a day).
+Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed for pain.
+Lamivudine 100 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Trimethoprim-Sulfamethoxazole 160-800 mg Tablet Sig: One (1) Tablet PO Q 8H (Every 8 Hours) for 7 days.
+Saline Flush 0.9 % Syringe Sig: One (1) flush Injection once a day as needed for line flush.
+Acyclovir 400 mg Tablet Sig: One (1) Tablet PO every eight (8) hours.
+Hydromorphone 2 mg Tablet Sig: One (1) Tablet PO every six (6) hours as needed for pain.
+Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO every six (6) hours as needed for nausea.
+Disp:*10 Tablet(s)* Refills:*0*   Discharge Disposition: Home With Service  Facility: Caregroup Home Care  Discharge Diagnosis: Burkitt's lymphoma Pneumonia Peritoneal tuberculosis   Discharge Condition: Good, able to climb stairs with assistance, ambulate without the use of nasal canula oxygen.
+You were started on chemotherapy treatment immediately.
+Your hospitalization was complicated by inflammation of your mouth and throat which limited your ability to eat and required intravenous nutrition.
+You were treated with antibiotics and recovered well.
+You will need to continue with further cycles of chemotherapy in the future.
+The following changes were made to your medications: - Your atenolol has been changed to metoprolol.
+- Many medications have been added to your medication regimen.
+The following are new medications: Omeprazole: for heartburn Senna: as needed for constipation Pyridoxine: to take with tuberculosis medications Isoniazid:  tuberculosis medication Ethambutol: tuberculosis medication Pyrazinamide: tuberculosis medication Docusate Sodium: for constipation Fluconazole: to prevent fungal infection Rifabutin: tuberculosis medication Metoprolol Tartrate: for blood pressure Acetaminophen: for pain Lamivudine: to prevent infection Trimethoprim-Sulfamethoxazole: to prevent infection Acyclovir: to prevent infection Hydromorphone: as needed for pain Lorazepam: as needed for nausea .
+Please continue all other home medications as previously directed.

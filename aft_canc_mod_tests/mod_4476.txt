@@ -1,0 +1,42 @@
+Admission Date:  [**2117-9-9**]              Discharge Date:   [**2117-10-28**]  Date of Birth:  [**2075-7-20**]             Sex:   M  Service: MEDICINE  Allergies: Heparin Agents  Attending:[**First Name3 (LF) 3918**] Chief Complaint: Night sweats, fevers, weight loss, abnormal CBC  Major Surgical or Invasive Procedure: Bone marrow biopsies (iliac crest and sternal) Lumbar puncture and intrathecal chemotherapy CVC placement  History of Present Illness: Mr. [**Known lastname 58834**] is a 42-year-old gentleman with a history of anxiety who was in his usual state of health until roughly three weeks ago.
+He returned to his PCP on day of admission who sent a CBC which was significant for anemia and thrombocytopenia, as well as a WBC of 16 with an abnormal differential.
+OP - petechiae over posterior palate Neck: supple Lymph: no supraclavicular, submandibular, cervical or axillary LAD Resp: CTAB CV: RRR, no MRG appreciated Abd: + BS, soft, obese, TTP in LUQ extending around to L flank, + splenomegaly [**Doctor Last Name **]: non-tender to palp over spine, paraspinal muscles Ext: no edema or calf tenderness Skin: petechiae over lower extremities Neuro: aao x 3, answering questions appropriately  Pertinent Results: [**2117-9-10**] 12:00AM   GLUCOSE-100 UREA N-16 CREAT-0.7 SODIUM-136 POTASSIUM-3.9 CHLORIDE-101 TOTAL CO2-26 ANION GAP-13 [**2117-9-10**] 12:00AM   ALT(SGPT)-20 AST(SGOT)-49* LD(LDH)-1755* ALK PHOS-81 TOT BILI-0.8 DIR BILI-0.2 INDIR BIL-0.6 [**2117-9-10**] 12:00AM   ALBUMIN-3.7 CALCIUM-8.3* PHOSPHATE-4.1 MAGNESIUM-2.1 URIC ACID-6.4 [**2117-9-10**] 12:00AM   HAPTOGLOB-275* [**2117-9-10**] 12:00AM   WBC-10.0 RBC-2.40* HGB-7.5* HCT-21.0* MCV-88 MCH-31.1 MCHC-35.5* RDW-17.6* [**2117-9-10**] 12:00AM   NEUTS-8* BANDS-3 LYMPHS-36 MONOS-0 EOS-0 BASOS-0 ATYPS-4* METAS-1* MYELOS-0 OTHER-48* [**2117-9-10**] 12:00AM   HYPOCHROM-NORMAL ANISOCYT-1+ POIKILOCY-NORMAL MACROCYT-NORMAL MICROCYT-NORMAL POLYCHROM-NORMAL [**2117-9-10**] 12:00AM   PLT SMR-VERY LOW PLT COUNT-23* [**2117-9-10**] 12:00AM   PT-15.8* PTT-27.4 INR(PT)-1.4* [**2117-9-10**] 12:00AM   FDP-10-40* [**2117-9-10**] 12:00AM   FIBRINOGE-594*  ECHO [**9-9**]: The left atrium is normal in size.
+Left ventricular wall thicknesses are normal.
+Overall left ventricular systolic function is normal (LVEF 60-70%).
+Tissue Doppler imaging suggests a normal left ventricular filling pressure (PCWP<12mmHg).
+The pulmonary artery systolic pressure could not be determined.
+CT TORSO [**9-10**] IMPRESSION: 1.
+MRI HEAD [**10-3**]: IMPRESSION: Focal acute infarction which appears to be cortically-based, in a non-arterial vascular distribution involving the left frontal and parietal lobes.
+A wet [**Location (un) 1131**] was given by the resident to Brit Guims at 5:10 p.m. on [**2117-10-3**] stating "Cortically based infarct DWI/ADC abnormality in the left parietal area involving pre- and mainly post-central gyrus area consistent with acute infarct.
+An additional [**Location (un) 1131**] describing the venous nature of the acute infarct and acute thrombosis of cortical veins and the superior sagittal sinus was given to Dr. [**First Name8 (NamePattern2) 3461**] [**Name (STitle) 12332**] (Neurology service) at 11:00 a.m. on [**2117-10-4**], and the findings were fully discussed with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], by Dr. [**Last Name (STitle) **], shortly thereafter.
+CT HEAD [**2117-10-4**]: Large hemorrhagic transformation of left MCA territory infarct with severe increased edema and rightward shift of midline structures to 7 mm, up to 4 mm.
+CT HEAD [**2117-10-6**]:  Stable extent of large hemorrhage in the left frontoparietal lobes with stable rightward shift of midline structures.
+CT head [**2117-10-16**]: 1.
+Brief Hospital Course: The patient is a 42-year-old gentleman with a history of anxiety who presented from [**Hospital 1474**] hospital with fevers, night sweats, weight loss, and a peripheral smear showing 30% blasts.
+He was admitted to BMT service for work-up and treatment of ALL.
+Serial CBCs, tumor lysis labs, and coagulation profiles were sent to rule out tumor lysis and DIC.
+Bone marrow biopsy on day 1 of admission showed acute lymphoblastic leukemia.
+Repeat bone marrow biopsy was not performed at this time given the patient's overall condition, and the fact that given his elevated liver enzymes, he would not be a candidate to undergo further therapy at this time.
+However, a repeat bone marrow biopsy may be performed in the future should the patient's condition improve.
+MRI at the time showed evidence for ischemic stroke in the left parietal lobe.
+CT on arrival to ICU revealed massive hemorrhagic transformation of left MCA territory infarct with severe increased edema and rightward shift of midline structures.
+Due to intense systolic hypertension at the time of intubation (SBP 223) he received 20mg IV hydralazine as well as sedation with fentanyl, propofol and midazolam which normalized his blood pressures.
+The following day, Neurology evaluation of imaging revealed superior sagginal sinus thrombosis and  suggested 4 vessel angigraphy and possible angio-jet procedure to evacuate the thrombus.
+Findings on CT of the head remained stable.
+The patient was successfully extubated on [**2117-10-8**] and was transferred back to BMT service on [**2117-10-10**] for further management.
+Repeat CT was performed after the patient's return to the floor and revealed worsening midline shift.
+Neurological exam was performed every 4 hours.
+Liver biopsy was not performed given the patient's condition.
+Total bilirubin levels peaked at 12.0, and gradually declined from there.
+At the time of discharge, total bilirubin levels are 2.5 and continue to decline.
+Blood cultures and urine cultures were negative.
+Repeat C. diff toxin test came back positive.
+Urinalysis was also significant for 9 WBCs although no bacteria.
+CXR was performed and showed no evidence of acute pulmonary process.
+Urine culture came back negative and Ciprofloxacin was discontinued prior to discharge.
+Inspection of the back of his throat revealed small nodules and erythema, suggestive of HSV reactivation.
+Repeat stool test for C. diff toxins came back positive.
+CT of abdomen was performed and revelealed mild wall thickening in the descending colon, but no clear evidence of colitis.
+He was noted to have two areas of splenic infarction on CT of abdomen and pelvis performed on [**2117-10-27**].
+NUTRITION: The patient failed speech and swallow evaluation following his stroke.
+Discharge Disposition: Extended Care  Facility: [**Hospital3 7**] & Rehab Center - [**Hospital1 8**]  Discharge Diagnosis: Primary: Acute Lymphocytic Leukemia, Central Venous Thrombosis with Hemorrhagic Conversion, Hyperbilirubinemia and Transaminitis, C. diff colitis.

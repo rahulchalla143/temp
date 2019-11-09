@@ -1,0 +1,18 @@
+ROS: patient with depressed mental status   Past Medical History: ESRD on hemodialysis (Tues/Thurs/Sat, [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 9449**] Dialysis, [**Location 1268**], [**Telephone/Fax (1) 69669**]) Type II diabetes mellitus CAD s/p MI (pt does not recall), MIBI in [**11-19**] showed reversible defects inferior/lateral CHF with EF 20-25% (from echo in [**6-/2155**]) and severe global hypokinesis Hypertension Dyslipidemia Atrial fibrillation History of gastrointestinal bleed: Duodenal, jejunal, and gastric AVMs, s/p thermal therapy; sigmoid diverticuli.
+Strength 5/5 in upper and lower extremities.
+[**2155-8-16**] 09:00PM   PT-17.8* PTT-33.6 INR(PT)-1.6* [**2155-8-16**] 09:00PM   PLT COUNT-335 [**2155-8-16**] 09:00PM   WBC-5.1 RBC-5.38 HGB-16.1# HCT-49.7 MCV-92 MCH-29.8 MCHC-32.3 RDW-16.6* [**2155-8-16**] 09:00PM   NEUTS-74.0* LYMPHS-17.5* MONOS-6.0 EOS-0.4 BASOS-2.1* [**2155-8-16**] 09:00PM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG bnzodzpn-NEG barbitrt-NEG tricyclic-NEG [**2155-8-16**] 09:00PM   CALCIUM-11.1* PHOSPHATE-6.9*# MAGNESIUM-2.9* [**2155-8-16**] 09:00PM   CK-MB-12* MB INDX-11.8* [**2155-8-16**] 09:00PM   cTropnT-0.34* [**2155-8-16**] 09:00PM   LIPASE-39 [**2155-8-16**] 09:00PM   ALT(SGPT)-45* AST(SGOT)-69* CK(CPK)-102 ALK PHOS-153* TOT BILI-1.8* [**2155-8-16**] 09:00PM   GLUCOSE-117* UREA N-85* CREAT-10.4*# SODIUM-137 POTASSIUM-7.4* CHLORIDE-99 TOTAL CO2-19* ANION GAP-26* [**2155-8-16**] 09:02PM   freeCa-1.13 [**2155-8-16**] 09:02PM   HGB-17.5 calcHCT-53 O2 SAT-85 CARBOXYHB-3.8 MET HGB-0.0 .
+CXR [**2155-8-16**] IMPRESSION: Increased moderate-to-large right pleural effusion and slightly decreased small left effusion.
+At time of transfer frm ICU to medical floor on [**2155-8-19**] the patient's K+ was 4, Na 139, Cl 98, Bicarb 26, BUN 37 and Cr 7 and Glu 172 and CBC showed wbc 4.7, Hgb 14.2, Hct 44.3, Plts 246 and 2 sets Blood Cultures drawn [**8-16**] are still pending.
+Discharge Labs:  [**2155-8-20**] 06:15AM BLOOD WBC-4.1 RBC-4.24* Hgb-13.1* Hct-39.6* MCV-94 MCH-30.9 MCHC-33.0 RDW-15.9* Plt Ct-217 [**2155-8-20**] 06:15AM BLOOD Glucose-127* UreaN-42* Creat-8.0* Na-138 K-4.3 Cl-102 HCO3-25 AnGap-15 [**2155-8-18**] 07:20AM BLOOD ALT-64* AST-76* CK(CPK)-69 AlkPhos-111 TotBili-1.0  Brief Hospital Course: 58yo M with a hx of systolic (EF 20-25%) and grade 4 diastolic heart failure, ESRD [**2-15**] DM on HD, atrial fibrillation with RVR, severe depression, and recent crack cocaine use presents with hyperkalemia to 7.4 and atrial fibrillation with RVR to 150s in the setting of missing dialysis for the past week.
+Potassium this morning, [**8-19**], was K 4.0  and team felt comfortable switching patient back to his Ace-inhibitor.
+Repeat EKGs showed no change from admission, and no new ischemia/infarction.
+The pain was reproducible on physical exam at the lower edge of xiphoid and epigastric region and responded to Maalox and it was felt that these complaints were large GI related vs. cardiac.
+[**Month/Year (2) **]:*30 Tablet(s)* Refills:*2* 6.
+[**Month/Year (2) **]:*9 Tablet(s)* Refills:*0* 10.
+[**Month/Year (2) **]:*30 Tablet(s)* Refills:*2* 14.
+Aluminum-Magnesium Hydroxide 225-200 mg/5 mL Suspension Sig: 15-30 MLs PO QID (4 times a day) as needed for chest/abdominal discomfort.
+[**Month/Year (2) **]:*1 pen* Refills:*2* 19.
+[**Month/Year (2) **]:*1 pen* Refills:*2*   Discharge Disposition: Home  Discharge Diagnosis: Primary: 1.
+CHF with EF of 20-25% 5.
+Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight > 3 lbs.
+Please return to the hospital for worsening chest pain, shortness of breath, abdominal pain, fainting, nausea, vomitting or any other concerns.

@@ -1,0 +1,36 @@
+Admission Date:  [**2102-12-25**]              Discharge Date:   [**2103-1-1**]  Date of Birth:  [**2030-9-29**]             Sex:   M  Service: MEDICINE  Allergies: Penicillins  Attending:[**First Name3 (LF) 1436**] Chief Complaint: worsening shortness of breath, recurrent pericardial effusion found on routine echo  Major Surgical or Invasive Procedure: Pericardial window ([**2102-12-28**])   History of Present Illness: 72M with PMH of DM, AFib on coumadin, and RA complicated by pericardial effusion and tamponade in [**5-6**], transferred from [**Hospital1 **]-[**Location (un) 620**] for further evaluation and management of recurrent pericardial effusion and tamponade seen on routine repeat echo.
+Found to have pericardial effusion, underwent pericardiocentesis with removal 300 cc clear slightly blood-tinged pericardial fluid, with decrease in pericardial pressure from 26 to 10 mmHg.
+Pericardial fluid culture and cytology returned negative.
+Fluid analysis revealed WBC# 6100 (81% PMN), RBC [**Numeric Identifier 83167**] TP 5.1 albumin 2.9 gluc 4 LDH 4230.
+Routine follow-up TTE today at [**Hospital1 **]-[**Location (un) 620**] showed a small to moderate mainly anterior pericardial effusion with diastolic right ventricular collapse suggestive of tamponade.
+Transferred to the [**Hospital1 18**] ED for further management, where triage V/S 98 125 138/83 18 94%RA.
+Labs notable for INR 3.7, Hct 30.5.
+EKG showed low voltage in the limb leads.
+CXR showed only bibasilar linear atelectasis.
+Vital signs prior to transfer 95 132/87 20 97%RA.
+Physical Exam: VS: T 98.2, BP 128/84, HR 97, RR 18, SO2 100% RA, Pulsus 5-7mmHg GENERAL: WDWN male in NAD.
+Pertinent Results: CBC [**2102-12-26**] 05:10AM BLOOD WBC-7.3 RBC-3.57* Hgb-9.1* Hct-28.5* MCV-80* MCH-25.4* MCHC-31.8 RDW-18.6* Plt Ct-264 [**2102-12-25**] 06:30PM BLOOD WBC-9.2 RBC-3.73* Hgb-9.6* Hct-30.5* MCV-82 MCH-25.7* MCHC-31.5 RDW-18.0* Plt Ct-253  Coags [**2102-12-26**] 05:10AM BLOOD PT-30.0* PTT-30.0 INR(PT)-3.0* [**2102-12-25**] 06:30PM BLOOD PT-35.8* PTT-30.3 INR(PT)-3.7*  Chemistry [**2102-12-26**] 05:10AM BLOOD Glucose-190* UreaN-25* Creat-1.3* Na-140 K-4.3 Cl-104 HCO3-27 AnGap-13 [**2102-12-25**] 06:30PM BLOOD Glucose-274* UreaN-28* Creat-1.2 Na-138 K-4.3 Cl-102 HCO3-25 AnGap-15  Echocardiogram ([**2102-12-25**]) FINDINGS: Overall left ventricular systolic function is low normal (LVEF 50-55%).
+Overall left ventricular systolic function is low normal.
+ECHO [**2102-12-30**] GENERAL COMMENTS: Suboptimal image quality - bandages, defibrillator pads or electrodes.
+Suboptimal image quality - body habitus.
+Overall left ventricular systolic function is probably normal although views are technically suboptimal.
+Compared with the prior study (images reviewed) of [**2102-5-26**], the pericardial effusion is now smaller.
+AP Chest [**2102-12-31**] Study is limited as the lung bases have been excluded from the field of view.
+CHEST (PORTABLE AP)	Study Date of [**2102-12-25**] 6:28 PM UPRIGHT AP VIEW OF THE CHEST: Cardiac silhouette is normal in size.
+CXR [**2103-1-1**] IMPRESSION: Heterogeneous opacification at both lung bases has improved since [**12-30**], probably atelectasis.
+Patient has been receiving regular follow up with his cardiologist with a repeat echo every 6 weeks.
+His echo read done at [**Location (un) 620**] showed a small to moderate mainly anterior pericardial effusion with evidence of diastolic right ventricular collapse suggestive of tamponade.
+An additional read done by cardiology service here showed small amount of fluid with no evidence of RV diastolic collapse.
+The drainage tube was subsequently removed and he is being followed with serial imaging which at the time of discharge showed a smaller pericardial effusion on echo and only atelectasis on CXR.
+Fluid culture was positive for propionobacterium acnes which was felt to be a contaminant.
+Biopsy from pericardial window showed unremarkable cartilage and skeletal muscle and fragments of pericardium with chronic inflammation and fibrin deposition.
+A fib - patient takes warfarin at home, was found to be supratherapeutic at INR of 3.7 on admission.
+INR was reversed for the pericardial window.
+He was bridged on heparin drip to coumadin and the coumadin alone was continued once his INR was therapeutic.
+An outpatient colonoscopy can be considered as an outpatient.
+Rheumatoid Arthritis - patient's home regimen of methotrexate was held for pericardial effusion.
+During this admission, we reviewed the echocardiogram that was performed at [**Location (un) 620**] and found that while there is some fluid present, it is not causing any tamponade of your heart.
+A pericardial window was performed by thoracic surgery to help drain the fluid around your heart and prevent future reaccumulation.
+If you experience any chest pain, worsening shortness of breath, or any other worrisome symptoms, please return to the emergency room  Followup Instructions: #1.MD: Dr. [**First Name8 (NamePattern2) 1026**] [**Name (STitle) 1016**] Specialty: Cardiology Date/ Time: [**Last Name (LF) 2974**], [**1-5**] at 10:00am Location: [**Street Address(2) **], [**Location (un) 620**], [**Numeric Identifier 3002**] Phone number: ([**Telephone/Fax (1) 8937**] .
+#4.Please go to [**Hospital Ward Name 23**] [**Location (un) **] Radiology on the [**Hospital Ward Name 516**] for a Chest X-ray, any time between 9am and 3pm on [**2103-1-13**].
+This chest x-ray must be done before your appointment with Dr [**First Name (STitle) **] on the 19th.

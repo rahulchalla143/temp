@@ -1,0 +1,28 @@
+She was given nitro and lasix en route to the hospital, and was intubated shortly after arrival for labored breathing.
+She received dopamine, ceftriaxone and azithromycin.
+She is transferred to the [**Hospital Unit Name 153**] for further monitoring and management of her hypoxia.
+Past Medical History: - h/o schizophrenia, diagnosed after first hospitalization in [**Last Name (LF) **], [**First Name3 (LF) **] at age 26 for psychosis - last hospitalized [**8-3**] at [**Hospital1 18**] - received care at [**Hospital1 2177**] until [**7-3**], when she transferred to [**Hospital1 18**] because she "would get more attention" - DMH client, case worker [**First Name4 (NamePattern1) 1785**] [**Last Name (NamePattern1) 4886**] [**Telephone/Fax (1) 49720**] - case manager [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] at [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 34620**] House [**Telephone/Fax (1) 49721**] - denies suicide attempts or h/o violence - current psychiatrist Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 5715**] at [**Hospital1 18**] - rep payee through [**Month (only) 116**] Behavioral Health ([**First Name4 (NamePattern1) 1785**] [**Last Name (NamePattern1) 4886**])   Social History: The patient was born and raised in [**State 4260**], and moved with her son to [**Name (NI) 86**] 10 years ago.
+An endotracheal tube has been inserted and terminates at the thoracic inlet.
+A nasogastric tube has been inserted and ends beneath the left hemidiaphragm in the region of the gastric fundus.
+She initially required intubation but was quickly weaned and treated with azithromycin, steroids, and nebs.
+A MRSA swab is pending given GPC were noted on sputum gram stain but given her clincal improvement, she does not need any further antibiotics at this time, regardless of the results of this test.
+She has completed her azithromycin and is weaning off the steroids.
+She will continue on advair and tiotropium with prn albuterol as an outpatient.
+2) HYPONATREMIA: Suspect psychogenic polydypsia given low urine osm (so unlikely SIADH) and continued to improve with subsequent lasix diuresis (so unlikely hypovolemia).
+6) DISPO:  Patient discharged to [**Hospital3 537**] ([**Telephone/Fax (1) 49723**])  Medications on Admission: Risperidone 2 mg Tablet Sig: Three (3) Tablet PO HS (at bedtime).
+Clonazepam 0.5 mg Tablet Sig: 0.5 Tablet PO QAM (once a day (in the morning)).
+Clonazepam 0.5 mg Tablet Sig: One (1) Tablet PO QHS (once a day (at bedtime)).
+Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig: One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+Combivent Ferrous Sulfate 325 (65) mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Risperidone 2 mg Tablet Sig: Three (3) Tablet PO HS (at bedtime).
+Clonazepam 0.5 mg Tablet Sig: 0.5 Tablet PO QAM (once a day (in the morning)).
+Clonazepam 0.5 mg Tablet Sig: One (1) Tablet PO QHS (once a day (at bedtime)).
+Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig: One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+Tiotropium Bromide 18 mcg Capsule, w/Inhalation Device Sig: One (1) Cap Inhalation DAILY (Daily).
+Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs Inhalation every 4-6 hours as needed for shortness of breath/wheezing: PLEASE USE WITH SPACER.
+Nicotine 7 mg/24 hr Patch 24 hr Sig: One (1) Patch 24 hr Transdermal DAILY (Daily).
+Ferrous Sulfate 325 (65) mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+Prednisone 10 mg Tablet Sig: 1-2 Tablets PO once a day for 4 days: follow taper.
+Discharge Disposition: Extended Care  Facility: [**Last Name (un) **] Center - [**Location (un) 701**]  Discharge Diagnosis: primary: COPD flare hyponatremia due to psychogenic polydypsia metabolic alkalosis  secondary: iron deficiency anemia schizophrenia   Discharge Condition: good: stable with intermittent need for supplemental O2, afebrile, breathing comfortably   Discharge Instructions: Please monitor for temperature > 101, worsening shortness of breath, chest pain, decreased mental status, or other concerning symptoms.
+Please taper prednisone as follows: [**Date range (3) 49724**] take prednisone 20 mg po qdaily [**Date range (3) 49725**] take prednisone 10 mg po qdaily  Followup Instructions: Please follow-up with Dr. [**Last Name (STitle) **] within 1-2 weeks to follow-up this hospital admission and to discuss a screening colonoscopy.

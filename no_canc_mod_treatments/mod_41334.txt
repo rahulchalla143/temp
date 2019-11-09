@@ -1,0 +1,51 @@
+Admission Date:  [**2116-7-10**]              Discharge Date:   [**2116-7-31**]  Date of Birth:  [**2078-11-6**]             Sex:   M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 3853**] Chief Complaint: Vomiting, fall  Major Surgical or Invasive Procedure: Intubation ([**2116-7-11**]) Bronchoscopy ([**2116-7-12**]) Left Internal Jugular Vein ([**2116-7-12**]) which was removed on [**2116-7-24**] Right Internal Jugular Access with Right Heart Cath and subsequent Dialysis Catheter Placement ([**2116-7-12**]) which was removed on [**2116-7-24**]  History of Present Illness: 37 y.o male with pmhx of non insulin dependent DM was walking home from [**Last Name (un) 1445**] [**Doctor Last Name **] when he fell down.
+Denies recent travel, sick contacts, dyspnea, chest pain, alcohol intake,confusion, hematochezia, melena, vision changes, headaches.
+In ED, temp 103, HR 160, BP 148/106, tachypneic.He recieved Ceftriaxone 1 gram, 500mg Tylenol,10 units of IV Regular insulin ,Tetanus-DiphTox-Acellular Pertuss vaccine for an abrasion on his arm, Levofloxacin 750mg.
+Recieved 3 liters of IV NS.
+Denies chest pain, chest pressure, palpitations, or weakness.
+BM: loose stools x8 GENERAL - calm, comfortable, in NAD HEENT - NC/AT, PERRLA, EOMI, Dobhoff in place NECK - supple, temp dialysis line removal site is c/d/i HEART - RRR, no m/r/g LUNGS - Trace crackles at the bases bilat L>R, no wheezes/rhonchi ABDOMEN - NABS, soft/NT/ND, no masses or HSM, no rebound/guarding EXTREMITIES - WWP, no c/c/e.
+PICC line in R arm, site is c/d/i.
+Recommend repeat chest radiograph after treatment to ensure resolution.
+He was initially treated with IV levaquin and IV azithromycin on [**7-10**], which was narrowed to IV levaquin on [**2116-7-23**].
+His course was complicated by septic shock requiring pressure support.
+He came off of pressors on [**7-22**] and was extubated on [**7-25**] with peri-extubation agitation.
+He was transferred to the medicine service on 2L NC and sating well.
+He completed a 21 day course of levofloxacin for his Legionella as of [**2116-7-30**].
+His course was complicated by aspiration as discussed below and he was broaded with flagyl and his course of antibiotics was extended to [**8-3**].
+After coming off of pressors on [**7-22**] for hypotension, patient became very hypertensive to the 250s.
+He was maxed out on all five medication with pressures still in the 170s and required an esmolol drip from [**Date range (1) 112373**].
+Renin and aldosterone levels are still pending as of discharge as well as 24hr urine for metanephrines.
+After transfer to the medicine floor, patient's creatinine to trend downwards and he was discharged with a creatinine level of 1.4.
+# Volume overload: Due to septic shock, patient received approximately 35L of fluids while in the MICU and required several days of CVVH.
+He was diuresed and responded well to Lasix 40mg IV.
+Patient had been fed with tube feeds from a Dobhoff until the day of transfer to the medicine service.
+He was started on IV flagyl for coverage of aspiration pneumonia.
+On discharge he was transition to PO flagyl and he will continue both Flagyl and Levaquin until [**8-3**] (7 day course).
+He was started on Iron and Vitamin C.  Repeat hematocrit can be checked at rehab in [**4-20**] days or sooner if there is concern for worsening anemia.
+His home metformin and glyburide were held on admission.
+He required insulin gtt initially which was transitioned to sliding scale insulin during the course of the ICU stay.
+He remained a sliding scale throughout admission and his sugars were well controlled.
+He was restarted on metformin and glyburide upon discharge.
+Levo and Flagyl course should finish on [**8-3**].
+TRANSITIONAL ISSUES: # Consider re-sending C. diff assay if still having multiple loose stools a day after stopping antibiotics.
+# Will need further titration of his antihypertensives # Will need follow-up arranged with his PCP after discharge from LTACH # Follow-up reinin and aldosterone levels as well as 24 hour urine for metanephrines for secondary HTN work-up.
+# Will finish Flagyl/Levo [**Last Name (un) 10128**] on [**2116-8-3**] # Consider repeat hematocrit 5-7 days after discharge - discharge Hct was 21.8  Medications on Admission: Amlodipine 5mg Labetelol 200mg Lisinopril 40mg dialy Glyburide 5mg [**Hospital1 **] aldactone 100mg [**Hospital1 **] Metformin 1000 [**Hospital1 **] Torsemide 20mg daily   Discharge Medications: 1.
+Amlodipine 10 mg PO DAILY 2.
+Labetalol 1000 mg PO TID hold for SBP<100 or HR<60 3.
+Lisinopril 40 mg PO DAILY 4.
+Spironolactone 100 mg PO BID 5.
+Torsemide 20 mg PO DAILY 6.
+Acetaminophen 325-650 mg PO Q6H:PRN pain 7.
+Heparin 5000 UNIT SC TID 8.
+Ferrous Sulfate 325 mg PO TID 10.
+Guaifenesin [**4-23**] mL PO Q4H 11.
+Levofloxacin 750 mg PO DAILY Duration: 3 Days Last dose on [**2116-8-3**] 12.
+MetRONIDAZOLE (FLagyl) 500 mg PO TID Duration: 3 Days Last dose on [**2116-8-3**] 13.
+Miconazole Powder 2% 1 Appl TP TID:PRN yeast infecton 14.
+GlyBURIDE 5 mg PO BID 15.
+MetFORMIN (Glucophage) 1000 mg PO BID 16.
+Ascorbic Acid 500 mg PO BID   Discharge Disposition: Extended Care  Facility: [**Hospital1 **] [**Location (un) 686**]  Discharge Diagnosis: Primary diagnoses: Legionella pneumonia/sepsis Aspiration pneumonia Severe hypertension  Secondary diagnoses: [**Last Name (un) **]   Discharge Condition: Mental Status: Clear and coherent.
+You also experienced very low blood pressures requiring medications for support.
+Your kidney function was also severely affected and you were on hemodialysis for a brief time.
+You were treated with fluids and antibiotics for your lung infection.
+Your two antibiotics will be continued until Monday [**8-3**].

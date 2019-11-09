@@ -1,0 +1,29 @@
+Admission Date:  [**2110-4-3**]              Discharge Date:   [**2110-4-16**]  Date of Birth:  [**2089-10-18**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**Last Name (NamePattern4) 290**] Chief Complaint: multifocal bacterial pneumonia; probable viral illness  Major Surgical or Invasive Procedure: bronchoscopy intubation/extubation mechanical ventilation   History of Present Illness: 20 yo female [**University/College 86794**] student presents with multifocal pneumonia.
+She was started on Tamiflu, and Levofloxacin (first dose 3/17 at 2am).
+IN [**Name (NI) **], pt given 2 L NS and Levofloxacin 750 mg IV.
+Nasal swab for influenza was negative, but pt had been on Tamiflu >24 hrs.
+Pt admitted to Medicine for ongoing management and evaluation.
+ROS: +: as per HPI, and fever, chills/rigors, night sweats, anorexia, sore throat, chest pain with cough, minimal SOB, cough, headache several days ago (now resolved), mild myalgias - most notable lower back (pt states not uncommon for her), mild-moderate dizziness with standing - improved s/p IVF.
+Denies: weight changes,  photophobia, loss of vision,  palpitations, LE edema, DOE, hemoptysis, nausea, abdominal swelling, diarrhea, constipation, hematemesis, hematochezia, melena, LAD, dysuria, rashes, arthralgias,  confusion, vertigo, paresthesias, weakness, depression.
+Worst in LLL, with near white-out and air bronchograms, as well as areas in RLL and RUL.
+There are no CT findings to suggest an empyema, but correlation with thoracentesis may be helpful if this diagnosis is being entertained clinically.
+Brief Hospital Course: 20 yo female college student presents with multifocal pneumonia, with signif white-out of LLL, and also with involvement of RLL and RUL, without pleural effusions, despite levofloxacin which was started approx 36 hours prior to admission.
+On arrival patient required a non rebreather to maintain oxygen saturation above 90%.
+Patient was electively intubated for hypoxia, requiring high levels of sedation with midazolam and fentanyl, and ultimately paralysis with vecuronium.
+Initially, she had oxygen saturations of 80% on mechanical ventilation.
+Her ventilator oxygen concentration was steadily decreased, and her tidal volumes were decreased and respiratory rate was increased with the goal of ARDSnet low tidal volume ventilation.
+Over the following days, her FiO2 and PEEP were gradually weaned down.
+Her tongue swelling resolved with a three day course of IV steroids, and she was successfully extubated on [**4-13**].
+She was treated with vancomycin, ceftriaxone and azithromycin.
+On day 8, CTX was discontinued as patient had persistent low grade temps and ID felt that CTX could be causing drug fever.
+Antibiotics were then stopped and the patient remained subsequently afebrile and stable from a cardiopulmonary standpoint.
+She was assessed by physical therapy in the hospital and will not need home oxygen in order to conduct her daily activities.
+Medications on Admission: oral contraceptive pills  Discharge Medications: 1.
+Fluconazole 150 mg Tablet Sig: One (1) Tablet PO once a day for 3 days.
+Outpatient Physical Therapy Please perform evaluation & treatment of patient for deconditioning following hospitalization.
+Discharge Disposition: Home  Discharge Diagnosis: Primary Diagnosis: 1. community-acquired multifocal pneumonia complicated by respiratory failure and mechanical ventilation   Discharge Condition: Mental Status: Clear and coherent Level of Consciousness: Alert and interactive Activity Status: Ambulatory - Independent   Discharge Instructions: You were seen at [**Hospital1 18**] for pneumonia complicated by difficulty breathing that required a breathing tube and mechanical ventilation.
+Your pneumonia responded appropriately to intravenous antibiotics and your breathing tube was removed without difficulty or complications.
+You do not need to continue antibiotics for your pneumonia after discharge.
+You should take a few more days of this antifungal medication before stopping treatment.
+You will need to continue physical therapy as an outpatient to regain your strength lost through deconditioning during your hospital stay.
+The following medications were changed during your hospitalization: ADDED fluconazole to treat your fungal infection  Followup Instructions: Appointments have been scheduled for you with both a primary care physician (Dr. [**Last Name (STitle) **] and the allergist (Dr. [**Last Name (STitle) 2603**].

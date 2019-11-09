@@ -1,0 +1,21 @@
+An abdominal US showed a dilated CBD with sludge.
+Patient was given 1L NS and 1 unit PRBCs for HCT 22.8.
+His VS remained stable, he was transfused another unit of PRBCs and this morning he was transferred to the [**Hospital Unit Name 153**] prior to ERCP.
+Due to the patient's clinical condition, lithotrpisy was not performed today.
+Repeat ERCP in one month for lithotripsy and stone extraction.
+Follow-up with referring physician  [**2109-9-15**] 02:10AM BLOOD WBC-13.1* RBC-2.53* Hgb-7.3* Hct-22.4* MCV-89 MCH-29.1 MCHC-32.7 RDW-15.8* Plt Ct-178 [**2109-9-15**] 09:03AM BLOOD WBC-12.6* RBC-3.27*# Hgb-9.6*# Hct-28.8*# MCV-88 MCH-29.3 MCHC-33.3 RDW-16.0* Plt Ct-139* [**2109-9-15**] 09:28PM BLOOD WBC-10.4 RBC-3.48* Hgb-10.3* Hct-31.3* MCV-90 MCH-29.6 MCHC-32.9 RDW-15.9* Plt Ct-152 [**2109-9-16**] 05:16AM BLOOD WBC-11.1* RBC-3.91* Hgb-11.6* Hct-35.0* MCV-89 MCH-29.6 MCHC-33.1 RDW-16.3* Plt Ct-205 .
+[**2109-9-15**] 02:10AM BLOOD Glucose-277* UreaN-23* Creat-0.8 Na-144 K-2.8* Cl-111* HCO3-25 AnGap-11 [**2109-9-15**] 09:03AM BLOOD Glucose-199* UreaN-20 Creat-0.7 Na-143 K-3.3 Cl-111* HCO3-23 AnGap-12 [**2109-9-15**] 09:28PM BLOOD Glucose-108* UreaN-20 Creat-0.7 Na-146* K-3.0* Cl-113* HCO3-23 AnGap-13 [**2109-9-16**] 05:16AM BLOOD Glucose-172* UreaN-20 Creat-0.7 Na-148* K-3.8 Cl-114* HCO3-19* AnGap-19 .
+[**2109-9-15**] 02:10AM BLOOD ALT-77* AST-68* LD(LDH)-170 AlkPhos-138* Amylase-42 TotBili-3.3* DirBili-3.0* IndBili-0.3 [**2109-9-15**] 09:28PM BLOOD ALT-83* AST-54* LD(LDH)-203 AlkPhos-142* TotBili-3.0* [**2109-9-16**] 05:16AM BLOOD ALT-94* AST-55* LD(LDH)-231 AlkPhos-149* Amylase-41 TotBili-2.3* DirBili-1.8* IndBili-0.5 .
+[**2109-9-15**] 02:10AM BLOOD Lipase-86* [**2109-9-16**] 05:16AM BLOOD Lipase-55 .
+[**2109-9-15**] 02:21AM BLOOD Lactate-1.6 .
+[**2109-9-18**] 06:55AM BLOOD WBC-7.4 RBC-3.79* Hgb-11.3* Hct-34.3* MCV-90 MCH-29.7 MCHC-32.9 RDW-15.6* Plt Ct-207 [**2109-9-18**] 06:55AM BLOOD Glucose-187* UreaN-16 Creat-0.7 Na-145 K-3.4 Cl-107 HCO3-25 AnGap-16 [**2109-9-18**] 06:55AM BLOOD ALT-51* AST-20 AlkPhos-104 Amylase-36 TotBili-1.0 [**2109-9-18**] 06:55AM BLOOD Lipase-51 [**2109-9-18**] 06:55AM BLOOD Calcium-8.4 Phos-1.7* Mg-1.8 .
+[**2109-9-15**] MRSA SCREEN MRSA SCREEN-FINAL INPATIENT [**2109-9-15**] BLOOD CULTURE Blood Culture, Routine-PENDING EMERGENCY [**Hospital1 **] [**2109-9-15**] URINE URINE CULTURE-PRELIMINARY {ENTEROCOCCUS SP., STAPHYLOCOCCUS, COAGULASE NEGATIVE} EMERGENCY [**Hospital1 **] [**2109-9-15**] BLOOD CULTURE Blood Culture, Routine-PENDING EMERGENCY [**Hospital1 **] .
+Blood Cultures from [**2109-9-14**] at [**Hospital6 19155**] positive for Klebsiella and Enterococcus.
+Brief Hospital Course: Mr. [**Known lastname 59777**] is an 85 year old male with colon and prostate CA and recent hospitalization for bowel resection for obstructing mass who was found to be hypoxic at rehab, OSH abdominal U/S showed dilated CBD and transferred to [**Hospital1 18**] for ERCP.
+# DM2: During his hospitalization his blood sugars were managed with insulin sliding scale.
+LFTs, Amylase, Lipase, and clinical presentation improved over next few days.
+Received fax from [**Location 75548**] with blood culture results from [**2109-9-14**].
+His sats remain in mid-90's on RA.
+Release 24 hr Sig: One (1) Capsule, Sust.
+Release 24 hr PO HS (at bedtime).
+Discharge Disposition: Extended Care  Facility: [**Hospital3 7665**]  Discharge Diagnosis: Choledocholithiasis Cholangitis Bacteremia-blood cultures positive at [**Hospital6 19155**] for Klebsiella and Enterococcus UTI-positive for enterococcus .

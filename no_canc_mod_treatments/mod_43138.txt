@@ -1,0 +1,50 @@
+Admission Date:  [**2120-9-4**]              Discharge Date:   [**2120-9-11**]  Date of Birth:  [**2054-11-17**]             Sex:   F  Service: MEDICINE  Allergies: Augmentin  Attending:[**First Name3 (LF) 1377**] Chief Complaint: Hematemesis   Major Surgical or Invasive Procedure: Therapeutic Paracentesis ([**2120-9-9**]) Esophagogastroduodenoscopy ([**2120-9-10**])   History of Present Illness: 65 year old female with PMH of ETOH cirrhosis c/b ascites recently discharged from [**Hospital1 18**] on [**9-1**] after hospitalization for acute liver decompensation, present with thrombocytopenia, hematemesis, and epistaxis.
+During prior hospitalization, patient was evaluated for hepatic decompensation with bilirubin rising from 1.1 to 10.1 over 2 months.
+She was discharged on 10 day course of macrobid for treatment of her UTI.
+On Monday, she developped vaginal spotting and frequent epistaxis which resolved with held pressure.
+Hepatology was consulted and recommended NG lavage which was not performed.
+Patient received Protonix 80mg IV and vitamin K 5 mg x 1.
+RECTAL: trace guiac + per ED exam   Pertinent Results: Labs On Admission: [**2120-9-4**] 11:10AM   PT-21.1* PTT-37.3* INR(PT)-2.0* [**2120-9-4**] 11:10AM   PLT SMR-RARE PLT COUNT-11*# [**2120-9-4**] 11:10AM   HYPOCHROM-NORMAL ANISOCYT-OCCASIONAL POIKILOCY-NORMAL MACROCYT-2+ MICROCYT-NORMAL POLYCHROM-NORMAL [**2120-9-4**] 11:10AM   NEUTS-70 BANDS-4 LYMPHS-17* MONOS-6 EOS-2 BASOS-0 ATYPS-0 METAS-1* MYELOS-0 [**2120-9-4**] 11:10AM   WBC-14.8*# RBC-2.41* HGB-9.0* HCT-26.0* MCV-108* MCH-37.6* MCHC-34.8 RDW-16.7* [**2120-9-4**] 11:15AM   HAPTOGLOB-39 [**2120-9-4**] 11:15AM   ALBUMIN-2.7* CALCIUM-8.1* PHOSPHATE-3.2 MAGNESIUM-1.3* [**2120-9-4**] 11:15AM   LIPASE-26 [**2120-9-4**] 11:15AM   ALT(SGPT)-69* AST(SGOT)-101* LD(LDH)-254* ALK PHOS-197* TOT BILI-10.2* [**2120-9-4**] 11:15AM   GLUCOSE-103* UREA N-12 CREAT-0.8 SODIUM-121* POTASSIUM-3.1* CHLORIDE-88* TOTAL CO2-28 ANION GAP-8 [**2120-9-4**] 11:28AM   LACTATE-2.3* .
+CD19 and CD20 co-expressing B cells comprise approximately 18% of lymphoid-gated events, and do not express aberrant antigens (CD5 or CD10).
+B-cell clonality could not be reliably assessed due to extremely dim expression of surface immunoglobulin light chain antibodies.
+Brief Hospital Course: The patient is an 65 year old female with alcoholic cirrhosis c/b ascites who presented with thrombocytopenia, hematemesis, epistaxis, vaginal bleeding, melena, and BRBPR.
+# Thrombocytopenia: Her thrombocytopenia may be due to liver disease, but the acute drop is more likely due to autoimmune causes, infection, or a medication effect.
+She did not receive Heparin during her last admission per POE orders, and platelets as low as 11 are unlikely to be due to HIT.
+Augmentin and Macrobid can cause thrombocytopenia, but the Macrobid was not started until after her platelets started to drop.
+She was given multiple platelet transfusions while in the MICU with continued thrombocytopenia.
+Further evaluation for HIT was not pursued.
+Hematology consult was called and recommended IVIg, flow studies for immunophenotyping, and H pylori serology.
+Her Plt count increased to the mid 60s after receiving IVIg, and had risen to the 70s by discharge.
+She did not require additional platelets after receiving IVIg.
+She was given an IV PPI, but Octreotide gtt and antibiotics were not given.
+Her Hct slowly trended down in the MICU, requiring multiple RBC transfusions.
+She was continued on Pantoprazole 40 mg IV Q12H.
+On discharge, she was switched to Omeprazole 20 mg PO BID.
+Amoxicillin was avoided given the possible relationship of Augmentin with her recent thrombocytopenia.
+Lasix and Spironolactone were restarted on [**2120-9-6**] without significant electrolyte abnormalities.
+She had a therapeutic tap for 4L on [**2120-9-9**] which had [**Numeric Identifier 54848**] RBCs, but only 250 WBCs and 48% polys.
+Her diuretics were restarted on [**2120-9-6**] with Lasix 40 mg PO daily and Spironolactone 50 mg PO daily.
+ENT was consulted and cauterized her left nostril with Surgicel placement.
+Her Atenolol was held in the setting of her recent bleeding, but restarted at discharge.
+Medications on Admission: furosemide 40 mg Tablet daily spironolactone 50 mg Tablet daily atenolol 50 mg Tablet daily folic acid 1 mg Tablet daily thiamine HCl 100 mg Tablet daily multivitamin daily Macrobid 100 mg PO twice a day for 10 days   Discharge Medications: 1. furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0* 2. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+3. thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+4. multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+5. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO every eight (8) hours as needed for pain: Do not take more than [**2109**] mg in 24 hours.
+6. atenolol 50 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0* 7. spironolactone 100 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0* 8. lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) as needed for insomnia.
+10. metronidazole 500 mg Tablet Sig: One (1) Tablet PO twice a day for 14 days.
+Disp:*28 Tablet(s)* Refills:*0* 11. clarithromycin 500 mg Tablet Sig: One (1) Tablet PO twice a day for 14 days.
+You were initially sent to the Intensive Care Unit, where you were given transfusions of blood, platelets, and clotting factors.
+You received additional platelet transfusions and evaluation of your liver disease.
+You were also seen by the Hematology department to help determine why your platelets were low.
+They recommended starting treatment with intravenous immunoglobulins.
+After receiving this treatment, your platelet count started increasing, and you did not require any additional platelet transfusions.
+Since your low platelets may have been caused by taking the antibiotic Augmentin, you should avoid taking this medication in the future unless absolutely necessary.
+While on the Liver service, you had a therapeutic paracentesis to remove ascites fluid from your abdomen and help make you more comfortable.
+Your medications were adjusted to slow the further accumulation of fluid in your abdomen.
+You were started on medications to treat this infection and eradicate the bacteria.
+START: Furosemide 40 mg by mouth daily START: Spironolactone 100 mg by mouth daily START: Omeprazole 20 mg by mouth twice daily START: Metronidazole 500 mg by mouth twice daily for 14 days START: Clarithromycin 500 mg by mouth twice daily for 14 days START: Lorazepam  0.5 mg by mouth at bedtime as needed for insomnia.
+Do not drive or operate machinery while taking this medication since it can make you sleepy and slow your reaction times.
+You should continue taking your other medications as indicated on your discharge medication sheet.

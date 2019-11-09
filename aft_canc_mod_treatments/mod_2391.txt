@@ -1,0 +1,49 @@
+Admission Date:  [**2127-3-18**]              Discharge Date:   [**2127-3-27**]   Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 9853**] Chief Complaint: Respiratory failure  Major Surgical or Invasive Procedure: extubation PICC line placement and removal   History of Present Illness: [**Age over 90 **] y/o F with recent admisison for PNA who presents from rehab with respiratory distress.
+Patient has a PMH of HTN, Alzheimer's, and chronic anemia who presents from her rehab facility after intubation for respiratory distress.
+Of note, the patient was recently admitted to [**Hospital1 18**] from [**Date range (1) 39348**] during which she was diagnosed with multifocal HAP for which she was treated with Vanc/Zosyn x 2 weeks.
+Patient required intubation at that time due to hypoxia.
+The patient was started on flagyl [**3-13**], to complete course on [**3-27**].
+She was placed on NRB and her sats improved to 90-97%.
+She was given [**1-5**]" nitropaste and intubated at rehab.
+She was given versed 2mg, vanco 1gm and zosyn 4.5gm IV x1.
+Hypertension, recently poorly controlled and fluctuating 2.
+Also, incidentally noted is a left upper extremity approach PICC line with the distal tip of the catheter projecting over the superior vena cava.
+Brief Hospital Course: Ms. [**Known lastname 39350**] is a [**Age over 90 **] year old Russian female with PMH of HTN, alzheimer's, recent CVA and PNA who was admitted from rehab with respiratory distress, requiring intubation and admitted to [**Hospital Unit Name 153**] for management.
+# Respiratory failure: On ABG at [**Hospital 100**] Rehab the pt had a mixed hypoxemic and hypercarbic picture.
+The patient was intubated at rehab.
+On admission the pt didn't have any evidence of pneumonia (she had recently completed a course of antibiotics for nosocomial pneumonia), and PE seemed unlikely as the pt had been on subcutaneous heparin at rehab and her oxygenation improved with intubation.
+On the day of extubation the pt was noted to have a leukocytosis and new infiltrate on chest xray, so a new course of antibiotics was initiated for a 7 day course for ventilator/hospital-acquired pneumonia (of Vancomycin and Cefepime) which she completed.
+# History of CVA: During this admission ASA and statin were continued.
+ASA was stopped when she placed on the heparin gtt (see below).
+Statin was discontinued given her prognosis.
+Beta blocker and ACEi were continued, ASA and statin were stopped as above.
+This resolved with IV metoprolol and there were no further episodes.
+Continued BB, ACE at home dose with holding parameters.
+FEN: Pt was restarted on tube feeds following extubation.
+Tube feeds are administered via NG tube.
+She was started on a heparin gtt after consulting with neurology who felt that she was far enough out from her stroke to make anticoagulation safe.
+She should be anticoagulated for a month (if goals of care do not change to hospice) but was not started on coumadin in case a PEG needs to be placed.
+If her peripheral IV access fails, she may be anticoagulated with Lovenox in the meantime.
+Given the risks of a central line, she should not return to the hospital specifically for line placement without discussing goals of care with the family.
+# Code Status: During this admission there was some discussion of the pt's code status, as even though the pt's HCP [**Name (NI) 4248**] (her daughter) stated that the pt was DNR, the pt's grandson was [**Name2 (NI) **] that all treatments be pursued, including re-intubation if extubation was unsuccessful.
+Aspirin 325 mg qd 2.
+Acetaminophen 325 mg Tablet [**Hospital **]: 1-2 Tablets PO Q6H prn 3.
+Bisacodyl 10mg PR daily 4.
+Simvastatin 20mg qd 5.
+Lisinopril 5 mg qd 6.
+Metoprolol Tartrate 25 mg tid 7.
+Albuterol nebs prn 8.
+Azithromycin 500mg IV daily ([**Date range (1) 39353**]) 9.
+Famotidine 20mg daily 10.
+Flagyl 500mg tid [**Date range (1) **] 13.
+Nystatin powder   Discharge Medications: 1.
+Acetaminophen 160 mg/5 mL Solution [**Date range (1) **]: [**10-21**] mL PO Q6H (every 6 hours) as needed for fever, pain.
+Bisacodyl 10 mg Suppository [**Month/Year (2) **]: One (1) suppository Rectal once a day.
+Lisinopril 5 mg Tablet [**Month/Year (2) **]: One (1) Tablet PO DAILY (Daily).
+Metoprolol Tartrate 25 mg Tablet [**Month/Year (2) **]: 1.5 Tablets PO TID (3 times a day).
+Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: One (1) Tablet,Rapid Dissolve, DR [**Last Name (STitle) **] DAILY (Daily).
+Metronidazole 500 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO Q8H (every 8 hours) for 1 weeks.
+Insulin Lispro 100 unit/mL Solution [**Last Name (STitle) **]: per sliding scale Subcutaneous ASDIR (AS DIRECTED).
+Heparin (Porcine) in NS (PF) 1,000 unit/500 mL Parenteral Solution [**Last Name (STitle) **]: per weight-based dosing guidelines  Intravenous gtt.
+After extubation, she developed a pneumonia and completed a course of broad spectrum antibiotics.
+She was also found to have a left upper extremity non-occlusive thrombus, likely related to a PICC line that was subsequentliy removed.

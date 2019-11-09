@@ -1,0 +1,27 @@
+Admission Date:  [**2202-4-2**]              Discharge Date:   [**2202-5-8**]   Service: CARDIOTHORACIC  Allergies: Penicillins / Aspirin / Nsaids / Erythromycin Base / Bactrim Ds / Atenolol / Heparin Agents / Nitroglycerin / Iodine Containing Agents Classifier  Attending:[**First Name3 (LF) 165**] Chief Complaint: Chest pain, shortness of breath  Major Surgical or Invasive Procedure: [**2202-4-28**] Open Tracheostomy and Placement of Percutaneous Endoscopic Gastrostomy Tube.
+[**2202-4-14**] Redo Sternotomy, Aortic Valve Replacement(19mm CE Pericardial Valve), and Single Vessel Coronary Artery Bypass Grafting(vein graft to left anterior descending).
+[**2202-4-7**] Cardiac Catheterization  History of Present Illness: Mrs. [**Known lastname 2916**] is a 86 year old woman with severe aortic stenosis (valve area 0.6cm, peak gradient 66mmHg) and coronary artery disease s/p CABG and recent DES to RCA, LCx w/ 80% stenosis-unable to intervene who presented with right-sided chest pressure, which is her typical anginal equivalent.
+Past Medical History: # Coronary Artery Disease s/p 2V CABG [**2198**](SVG to LAD, SVG to Ramus), History of STEMI [**12/2198**], s/p PCI of Left Main [**12/2198**], s/p PCI/DES to RCA and LCX in [**2-/2202**] # Aortic Stenosis/Insufficiency # Atrial Fibrillation, with history of tachy-brady, s/p PPM Placement # Hypertension # Hypercholesterolemia # Mild Mitral Regurgitation # Breast Ca s/p Bilateral Mastectomies approx [**2159**], and [**2172**], XRT # Rectal Cancer s/p LAR in [**2192**] # Radiation induced L axillary sarcoma, s/p XRT and resection [**2199**] # OA # Osteoporosis # History of colon polyps- adenomas, last screened [**2200**] # s/p Right THR # s/p spinal fusion # History HIT # Acute cholecystitis s/p Lap Chol [**11/2199**]   Social History: Widowed, lives indepently in [**Location (un) **].
+Pacer site- dressing c/d/e, no hematoma Abd: soft, moderately distended, with reproducible epigastric pain EXT: R arm 1+ pitting edema, LE with 2+ pitting edema above knees.
+[**2202-4-13**] Carotid Ultrasound: Duplex evaluation was performed of bilateral carotid arteries.
+Post Bypass - A well-seated bioprosthetic valve is seen in the aortic position with normal leaflet motion and gradients (mean gradient = 5 mmHg, peak 11 mmHg).
+She continued on Amiodarone for atrial fibrillation.
+She experienced increasing dyspnea and oxygen requirements which prompted transfer to the CCU for initiation of Lasix drip and CPAP.
+Cardiac surgery was therefore consulted for redo aortic valve replacment surgery.
+Of note, preop HIT assays were negative for PF4 Heparin antibodies.
+On [**4-14**], Dr. [**First Name (STitle) **] performed redo sternotomy, aortic valve replacement and coronary artery bypass grafting surgery.
+She required significant pressor support and multiple blood products.
+She also required re-exploration on postoperative day zero.
+Due to a prolonged critical condition and failure to wean from mechanical ventilation, tube feedings were initiated.
+She was unresponsive to Natrecor and Lasix drip.
+Due to eventual mechanical problems with CVVH, hemodialysis was temporarily required.
+She gradually transitioned back to Lasix drip with adequate response, and dialysis was no longer required.
+From a cardiac standpoint, she maintained stable hemodynamics and eventually weaned from inotropic support.
+Despite some improvement in renal function, she continued to remain ventilator dependent.
+A right sided chest tube was placed on [**4-25**] for worsening right pleural effusion.
+The Thoracic service was therefore consulted and performed open tracheostomy and placement of PEG tube on [**4-28**] without complication.
+Following placement of tracheostomy, she went on to develop worsening lethargy, altered mental status, and a rising BUN.
+She was transfused with PRBCs to maintain hematocrit near 30% and all narcotics were discontinued.
+Rectal tube was placed for persistent dark liquid stools.
+A morphine drip was initiated and the ventilator was withdrawn after discussion with Dr. [**First Name (STitle) **].
+Medications on Admission: Furosemide 20 mg PO DAILY Aspirin 325 mg PO DAILY Lisinopril 5 mg PO DAILY Clopidogrel 75 mg PO DAILY Vitamin D 400U DAILY Calcium Carb 500MG DAILY Lopressor 12.5MG PO TID Amiodarone 400MG PO BID Levofloxacin 250MG PO DAILY  Discharge Disposition: Extended Care  Facility: [**Hospital1 700**] - [**Location (un) 701**]  Discharge Diagnosis: Coronary Artery Disease Aortic Stenosis/Insufficiency s/p redo sternotomy/AVR/CABG s/p tracheostomy/PEG placement Chronic Diastolic Congestive Heart Failure Acute on Chronic Renal Insufficiency Atrial Fibrillation Postoperative Respiratory Failure Postoperaive Bleeding/Coagulopathy   Discharge Condition: expired                               [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(2) 173**]  Completed by:[**2202-5-21**

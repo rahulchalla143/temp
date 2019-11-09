@@ -1,0 +1,47 @@
+Admission Date:  [**2117-11-18**]              Discharge Date:   [**2117-11-24**]   Service: MEDICINE  Allergies: Ciprofloxacin / Amiodarone  Attending:[**Doctor First Name 1402**] Chief Complaint: transfer from [**Hospital 7168**] hospital for ventricular tachycardia and potential EP study and ablation procedure  Major Surgical or Invasive Procedure: [**2117-11-19**] EP study for VT ablation [**2117-11-19**] Pericardiacentesis with drain [**2117-11-20**] Drain removed   History of Present Illness: Mr [**Known lastname 32729**] is an 82 yo with h/o CAD s/p large anterior MI at age 36 with EF 25%; 2 vessel CAGB in [**2104**] (LIMA to LAD; SVG to OM); s/p SNTEMI [**10/2114**] with stent to native L circ.
+He had a pacemaker/defibrillator placed in [**2114**] for primary prevention; he had an episode of VTach in [**2115**] causing syncope and was begun on amiodarone (d/c'd) and then procainamide since 4/[**2116**].
+At baseline he can walk the length of a long corridor without significant SOB.
+Past Medical History: # CAD s/p large anterior MI at age 36; # 2 vessel CABG [**2101**] LIMA to LAD; SVG to OM # NSTEMI [**10/2114**] s/p stent to native L circ.
+# CHF with LV EF of 25% # Ventricular Tachycardia: had pacemaker placed in [**2114**] for primary prevention (MADIT criteria); had [**Hospital1 18**] hospitalization [**3-26**] (started on amio; d/c'd due to "balance disorder/falls"), started on procainamide [**12/2116**]; decreased from 1000mg tid to 500mg tid with level 7.2 on [**10-15**].
+?L arm emolism; on coumadin since [**7-/2116**] # B achilles tendon rupture [**12-24**] ciprofloxacin # Prostate CA: s/p brachytherapy # osteoarthritis (currently taking prednisone) .
+Brief Hospital Course: A/P 82 yo with CAD s/p old IMI, 2 vessel CABG in [**2101**], NSTEMI in [**2113**] with stent to native L circ, CHF with EF 25-30%, VT s/p ICD placement presenting with recurrent VT.
+He had successful ablation of LV scar but this procedure was complicated by pericardial effusion/tamponade.
+His procainamide dose was increased to 750mg po tid  (goal proc level 8) with similar metoprolol dose at 50mg toprol XL daily.
+He had a successful VT ablation with mapping complicated by bloody pericardial effusion/tamponade and groin bleed (see below).
+His pacemaker was reset to 80 bpm; there has been an advisory on his specific pacemaker and he was instructed to place a magnet to it daily to ensure that it is working correctly.
+Mr [**Known lastname 95741**] ablation was complicated by hemorrhagic effusion causing tamponade requiring pericardial drain (140cc off).
+The drain was pulled and repeat eccho initially showed some small reaccumulation which was subsuquently stable with no evidence tamponade.
+-- CAD: s/p IMI at age 36, CABG [**2103**] with SVG to OM and LIMA to LAD, NSTEMI [**2113**] with PTCA to L circ;  He was kept on metoprolol, losartan, aspirin, and statin -- Pump: baseline of EF 25-30%; symptomatically NYHA class II.
+During hospitalization had several episodes of hypotension, one resolving with draining of pericardial fluid, one with a NS bolus of 500cc and dopamine.
+Thought to be in setting of tamponade phsyiology and hypovolemia.
+This resolved quickly and he has been normotense on home antihypertensive regimen (metoprolol XL 50, losartan 25) for several days prior to discharge.
+Direct pressure and pressure dressing applied with good effect.
+Anticoagulation was reversed with FFP, a small amount of vit K and protamine.
+He did not require any pRBC transfusion.
+His anticoagulation was discontinued (as below).
+# L arm thrombosis: Discontinued anticoagulation as he has been anticoagulated for over 6 mos and likely no further indication.
+# Arthritis: continued prednisone as per outpatient PCP (although this is not likely an appropriate regimen).
+# Prostate CA: outpt managmement, continued home medications of flomax and detrol.
+Put back on outpt lasix dose on discharge.
+Medications on Admission:  ASA 81 # digoxin 0.0625 dialy # coumadin 3 # losartan 25mg daily # metoprolol 25 [**Hospital1 **] # procanamide 500mg po tid # lasix 20 mg po daily # zetia 10mg po daily # folate 1mg po daily # omeprazole 25mg po daily # Detrol 5mg po daily # flomax 0.5mg daily # prednisone 5mg daily (for ?arthritis?)
+Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Omeprazole 20 mg Capsule, Delayed Release(E.C.)
+Prednisone 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Tamsulosin 0.4 mg Capsule, Sust.
+Detrol LA 4 mg Capsule, Sust.
+Procainamide 250 mg Capsule Sig: Three (3) Capsule PO three times a day.
+Cephalexin 500 mg Capsule Sig: One (1) Capsule PO Q12H (every 12 hours) for 5 days.
+Losartan 25 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+Toprol XL 50 mg Tablet Sustained Release 24HR Sig: One (1) Tablet Sustained Release 24HR PO once a day.
+Disp:*30 Tablet Sustained Release 24HR(s)* Refills:*2*   Discharge Disposition: Home With Service  Facility: [**Location (un) 932**] VNA  Discharge Diagnosis: Primary diagnosis: Ventricular tachycardia cardiac tamponade systolic left ventricular dysfunction congestive heart failure chronic renal insufficiency CAD .
+Secondary diagnosis: arthritis prostate CA GERD   Discharge Condition: ambulating, tolerating oral intake, vital signs stable.
+You had a procedure to ablate your ventricular tachycardia and had the complication of some fluid around your heart called "cardaic tamponade".
+You then had a drain placed into your heart sac which was removed.
+You are being treated with antibiotics, Keflex or cephalexin, and should continue a total 7 day course.
+You should continue the medications we have prescribed for you.
+We have increased your procainamide dose and made changes to the doses of other medications as well.
+YOu should continue with a low sodium diet (2grams per day) and weigh yourself daiy; if you gain >2lbs or if you have trouble breathing you should contact your doctor.
+You will need to have your procainamide level checked and potassium and BUN, Creatinine checked.

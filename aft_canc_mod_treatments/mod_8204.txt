@@ -1,0 +1,51 @@
+Major Surgical or Invasive Procedure: -exploratory laparotomy, radical resection of tumor, infragastric omentectomy, left hemicolectomy, end colostomy, BSO for advanced ovarian cancer  -intubation  History of Present Illness: Ms [**Known lastname 66172**] is a 67 year old with a history of ER/PR positive breast cancer who presented with a recent CT scan revealing a large right adnexal mass, ascites as well as peritoneal irregularities suggestive of metastatic disease.
+She denies nausea, vomiting, and vaginal bleeding.
+PSH:  Vaginal hysterectomy secondary to prolapse [**2132**], left breast biopsy [**2141**], right breast biopsy [**2156**], right breast lumpectomy [**2156**].
+Physical Exam: Admission exam to the ICU after the surgery: General: Intubated, sedated, no acute distress HEENT: Sclera anicteric, oropharynx clear, PERRL Neck: supple, JVP not elevated, no LAD CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi Abdomen: soft, non-distended, bowel sounds hypoactive, no tenderness to palpation, no rebound or guarding, JP drain in place, ostomy in periumbilical region GU: Foley catheter in place Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema, left arm cooler than right, but intact pulses Neuro: withdraws to pain   Pertinent Results: Admission Labs: [**2159-7-27**] 03:23PM BLOOD WBC-3.3*# RBC-4.46 Hgb-12.8 Hct-37.7 MCV-84 MCH-28.6 MCHC-33.9 RDW-15.3 Plt Ct-437 [**2159-7-27**] 03:23PM BLOOD Neuts-79* Bands-1 Lymphs-14* Monos-5 Eos-0 Baso-0 Atyps-0 Metas-0 Myelos-1* [**2159-7-27**] 03:23PM BLOOD PT-15.0* PTT-27.5 INR(PT)-1.4* [**2159-7-27**] 03:23PM BLOOD Fibrino-158* [**2159-7-28**] 09:00PM BLOOD Ret Aut-1.6 [**2159-7-27**] 03:23PM BLOOD Glucose-217* UreaN-12 Creat-0.6 Na-141 K-3.8 Cl-111* HCO3-22 AnGap-12 [**2159-7-27**] 11:06PM BLOOD CK(CPK)-236* [**2159-7-27**] 11:06PM BLOOD CK-MB-2 cTropnT-<0.01 [**2159-7-27**] 03:23PM BLOOD Calcium-7.7* Phos-4.4 Mg-1.3* [**2159-7-27**] 12:40PM BLOOD Type-ART Temp-36.4 pO2-234* pCO2-41 pH-7.33* calTCO2-23 Base XS--4 [**2159-7-27**] 11:02AM BLOOD Glucose-162* Lactate-2.4* Na-133 K-3.9 Cl-108 calHCO3-22 [**2159-7-27**] 12:40PM BLOOD freeCa-1.02*  Discharge labs: [**2159-8-6**] 06:15AM BLOOD WBC-15.8* RBC-4.85 Hgb-13.2 Hct-41.4 MCV-86 MCH-27.3 MCHC-32.0 RDW-15.5 Plt Ct-615* [**2159-8-7**] 06:20AM BLOOD Glucose-124* UreaN-14 Creat-0.7 Na-139 K-4.1 Cl-101 HCO3-26 AnGap-16 [**2159-8-7**] 06:20AM BLOOD LDLmeas-87 [**2159-8-7**] 06:20AM BLOOD TSH-4.3* [**2159-8-7**] 06:20AM BLOOD HIV Ab-PND  [**8-2**] urine culture:  PSEUDOMONAS AERUGINOSA.
+Sensitivites: CEFEPIME--------------     2 S CEFTAZIDIME-----------     4 S CIPROFLOXACIN---------<=0.25 S GENTAMICIN------------   <=1 S MEROPENEM-------------<=0.25 S PIPERACILLIN----------       S TOBRAMYCIN------------   <=1 S  [**7-27**] CXR: NG tube tip has been inserted and its tip is in the stomach.
+ET tube tip is 4.5 cm above the carina.
+Mediastinal drain is in place.
+Brief Hospital Course: 67 yo female with history of ER/PR positive breast DCIS s/p ex lap, resection of tumor, infragastric omentectomy, left hemicolectomy, end colostomy, BSO for advanced ovarian cancer, who was admitted to the ICU for post-procedure extubation and hypotension and another ICU admission for flash pulmonary edema.
+#ICU admission #1 for hypotension, intubation, require intense monitoring immediately post-operation: 2 liters of ascitic fluid was drained upon opening of her abdomen, estimated blood loss for the surgery was 1 liter.
+During the surgery, patient transiently dropped her blood pressure during the procedure to 50s/30s, she was initiated on phenylephrine gtt through peripheral IV.
+She received 10 liters NS IVF during her procedure, ~2 liters NS while in PACU, 2 units PRBCs, 2 units FFP.
+Pt was gradually weaned off the phenylephrine gtt.
+IV Lasix was administered with good urine output during her 2nd ICU stay.
+She was placed on IV Nitro drip for a period of time for SBP in the 150-160's.
+Nitro drip was weaned off and carvedilol 6.25 mg twice daily was initiated.
+Cardiology recommended aspirin of 81 mg daily, Lasix 20 mg daily, continue with home medication Lisinopril 40 mg daily and Simvastatin.
+BiPAP was gradually weaned off and pt was transferred out of ICU with saturation in her 90's on NC of 2-3L.
+Pt will follow up as outpatient with Dr.[**Last Name (STitle) 32255**] (cardiologist) [**2159-8-16**] for medication adjustment and possible outpatient perfusion imaging versus catheterization.
+# Hypotension: she had large volume fluid shifts during surgery and hypovolemia due to blood loss.
+She received 12 liters IVF resuscitation, and was placed transiently on phenylephrine gtt for pressure support and on propofol for sedation.
+Her sedation and vasopressors were weaned without any difficulty, and her blood pressure remained normal at the time of transfer out of the ICU and continue to be stable prior to discharge to rehab.
+She received aggressive fluid resuscitation due to hypotension (see above) and some component of her HCT drop is likely dilutional.
+She was transfused with 4 units blood cells and 2 units of FFP throughout her hospital stay, and her HCT was stable at 41 at the time of transfer to rehab.
+# s/p Intubation: Patient was intubated for surgical procedure and was admitted to the ICU sedated with propofol.
+# Advanced ovarian carcinoma: s/p ex lap with resection of tumor, infragastric omentectomy, left hemicolectomy, end colostomy, BSO, and optimally debulked.
+She will continue treatment as outpatient with Dr. [**Last Name (STitle) 15759**].
+#Ostomy care: s/p consult and teaching from ostomy nurses.
+Chronic issues: # Hypertension: continued home med lisinopril, additional anti-HTN meds were added due to the heart failure ( Lasix 20 mg daily, Carvedilol 6.25 mg twice daily)  # Asthma: continued home meds fluticasone and nebs PRN  # Depression/anxiety: Continued home meds bupropion and sertraline  # Hypercholesterolemia: Continued home meds simvastatin   Medications on Admission: Preadmission medications listed are correct and complete.
+1. azelastine *NF* 0.15 % (205.5 mcg) NU 4 sprays [**Hospital1 **] 2.
+BuPROPion 150 mg PO DAILY 3. fenofibrate *NF* 145 mg Oral daily 4.
+Lisinopril 40 mg PO DAILY 6.
+Sertraline 100 mg PO DAILY 7.
+Simvastatin 10 mg PO DAILY 8.
+Xopenex Neb *NF* 0.63 mg/3 mL Inhalation PRN SOB   Discharge Medications: 1.
+BuPROPion 150 mg PO DAILY 2.
+Lisinopril 40 mg PO DAILY 4.
+Sertraline 100 mg PO DAILY 5.
+Xopenex Neb *NF* 0.63 mg/3 mL Inhalation PRN SOB 6.
+Aspirin 81 mg PO DAILY 7.
+Carvedilol 6.25 mg PO BID Hold for SBP < 100, HR < 60 8.
+Ciprofloxacin HCl 500 mg PO Q12H Duration: 10 Days 9.
+Famotidine 20 mg PO Q12H 10.
+Furosemide 20 mg PO DAILY please hold for SBP < 100 11.
+Ibuprofen 600 mg PO Q8H:PRN pain 12.
+Simvastatin 10 mg PO DAILY 13. fenofibrate *NF* 145 mg Oral daily 14. azelastine *NF* 0.15 % (205.5 mcg) NU 4 sprays [**Hospital1 **] 15.
+Oxycodone-Acetaminophen (5mg-325mg) [**1-8**] TAB PO Q4-6PRN pain RX *oxycodone-acetaminophen 5 mg-325 mg [**1-8**] tablet(s) by mouth every 4-6 hours Disp #*50 Tablet Refills:*0 16.
+Cephalexin 500 mg PO Q6H Duration: 10 Days   Discharge Disposition: Extended Care  Facility: [**Hospital 3548**] [**Hospital 3549**] Nursing and Rehab Center  Discharge Diagnosis: Ovarian cancer   Discharge Condition: Mental Status: Clear and coherent.
+You have recovered well after your operation, and the team feels that you are safe to be discharged home.
+Please follow these instructions:  General instructions: * Take your medications as prescribed.
+* Do not combine narcotic and sedative medications or alcohol * Do not take more than 4000mg acetaminophen (APAP) in 24 hrs * No strenuous activity until your post-op appointment * Nothing in the vagina (no tampons, no douching, no sex), no heavy lifting of objects greater than 10lbs for 6 weeks.
+* Your staples will be removed at your follow-up visit.

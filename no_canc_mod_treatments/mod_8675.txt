@@ -1,0 +1,55 @@
+Admission Date:  [**2101-3-3**]              Discharge Date:   [**2101-4-1**]  Date of Birth:  [**2054-10-22**]             Sex:   M  Service: NEUROSURGERY  Allergies: Hydralazine  Attending:[**First Name3 (LF) 78**] Chief Complaint: HEADACHE  Major Surgical or Invasive Procedure: CEREBRAL ANGIOGRAMS RIGHT/LEFT ICA COILING OF ANEURYSMS TRACHEOSTOMY PEG PLACEMENT   History of Present Illness: HPI: 46M with mild HA x 2 days.
+Right gaze preference Nonverbal, does not attempt to mouth words, tracheostomy in place Face symmetric, Pupils with R>L 3.5-3/3-2.5 RUE spontaneous and purposeful, generalized weakness 4/5.
+A gastrostomy  tube  is  noted  in  the  left upper  quadrant.
+Lumbosacral  fusion hardware  is  again  noted.
+Persistent pansinusitis.
+[**Hospital1 18**] - Division of Neurosurger [**Hospital Unit Name 18400**] [**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2054-10-22**] Age (years): 46 M  Hgt (in): 71 BP (mm Hg): 135/80  Wgt (lb): 189 HR (bpm): 100  BSA (m2): 2.06 m2 Indication: Source of embolism.
+ICD-9 Codes: 424.0, 424.2 Test Information Date/Time: [**2101-3-24**] at 10:20    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 171**], MD Test Type: Portable TTE (Complete) Son[**Name (NI) 930**]: [**Name2 (NI) 27490**] [**Last Name (un) 27491**] Doppler: Full Doppler and color Doppler Test Location: West SICU/CTIC/VICU Contrast: None Tech Quality: Adequate Tape #: 2008W002-0:22 Machine: Vivid [**8-2**] Echocardiographic Measurements Results  Measurements  Normal Range Left Atrium - Long Axis Dimension:  3.2 cm  <= 4.0 cm Left Atrium - Four Chamber Length:  *5.6 cm  <= 5.2 cm Right Atrium - Four Chamber Length:  4.4 cm  <= 5.0 cm Left Ventricle - Septal Wall Thickness:  0.9 cm  0.6 - 1.1 cm Left Ventricle - Inferolateral Thickness:  0.7 cm  0.6 - 1.1 cm  Left Ventricle - Diastolic Dimension:  4.9 cm  <= 5.6 cm Left Ventricle - Systolic Dimension:  2.8 cm Left Ventricle - Fractional Shortening:  0.43  >= 0.29 Left Ventricle - Ejection Fraction:  >= 55%  >= 55% Aorta - Sinus Level:  3.3 cm  <= 3.6 cm Aorta - Ascending:  3.2 cm  <= 3.4 cm Aortic Valve - Peak Velocity:  1.5 m/sec  <= 2.0 m/sec Mitral Valve - E Wave:  1.0 m/sec Mitral Valve - A Wave:  1.1 m/sec Mitral Valve - E/A ratio:  0.91 Mitral Valve - E Wave deceleration time:  182 ms  140-250 ms  Findings LEFT ATRIUM: Elongated LA.
+Electronically signed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 171**], MD, Interpreting physician [**Last Name (NamePattern4) **] [**2101-3-24**] 11:02     RADIOLOGY  Final Report  BILAT LOWER EXT VEINS PORT  [**2101-3-23**] 4:35 PM  BILAT LOWER EXT VEINS PORT  Reason: r/o DVT for source of embolic stroke  [**Hospital 93**] MEDICAL CONDITION: 46 year old man with R MCA stroke REASON FOR THIS EXAMINATION: r/o DVT for source of embolic stroke INDICATION: 46-year-old man with stroke, evaluate for embolic source.
+RADIOLOGY  Final Report  BILAT UP EXT VEINS US  [**2101-3-23**] 4:36 PM  BILAT UP EXT VEINS US; -59 DISTINCT PROCEDURAL SERVIC  Reason: r/o DVT for source of embolic stroke  [**Hospital 93**] MEDICAL CONDITION: 46 year old man with R MCA stroke REASON FOR THIS EXAMINATION: r/o DVT for source of embolic stroke INDICATION: 46-year-old man status post stroke, evaluate for embolic source.
+Center perfusion study on frontal horns of lateral ventricles (4 above, 4 below).
+TECHNIQUE: Noncontrast CT head, followed by CT angiogram of the head and neck and CT cerebral perfusion study was performed with IV contrast.
+Aneurysm clips in the bilateral supraclinoid ICA are noted, limiting adequate evaluation in this area.
+The patient is intubated with the endotracheal tube ending 3.7 cm above the tracheal bifurcation.
+Interval development of large right MCA territory acute infarction, as seen on non-contrast and CT Perfusion studies, compared to the study done on [**2101-3-17**].
+Limited evaluation of the supraclinoid segments, anterior and middle cerebral arteries due to artifacts from the aneurysm clips/coils.
+Center perfusion study on frontal horns of lateral ventricles (4 above, 4 below).
+TECHNIQUE: Noncontrast CT head, followed by CT angiogram of the head and neck and CT cerebral perfusion study was performed with IV contrast.
+Aneurysm clips in the bilateral supraclinoid ICA are noted, limiting adequate evaluation in this area.
+The patient is intubated with the endotracheal tube ending 3.7 cm above the tracheal bifurcation.
+Interval development of large right MCA territory acute infarction, as seen on non-contrast and CT Perfusion studies, compared to the study done on [**2101-3-17**].
+Limited evaluation of the supraclinoid segments, anterior and middle cerebral arteries due to artifacts from the aneurysm clips/coils.
+IMPRESSION: This is an abnormal portable EEG due to the disorganized and low voltage fast background activity admixed with excessive theta and delta frequencies and interrupted by brief bursts of moderate amplitude generalized mixed theta and delta frequency slowing.
+RADIOLOGY  Final Report  US ABD LIMIT, SINGLE ORGAN PORT  [**2101-3-10**] 4:38 PM  US ABD LIMIT, SINGLE ORGAN POR  Reason: eval for perotneal fluid  [**Hospital 93**] MEDICAL CONDITION: 46 year old man with cva, on triple h therapy now with bladder pressure of 35 REASON FOR THIS EXAMINATION: eval for perotneal fluid INDICATION: 46-year-old man with CVA, bladder pressure of 35, evaluate for peritoneal fluid.
+Incidentally noted is diffuse coarse echogenicity of the liver, incompletely evaluated on current study, raising the possibility of generalized fatty infiltration or other diffuse process LAB RESULTS:  [**2101-3-3**] 10:25PM   GLUCOSE-140* UREA N-12 CREAT-0.8 SODIUM-136 POTASSIUM-4.5 CHLORIDE-101 TOTAL CO2-27 ANION GAP-13 [**2101-3-3**] 10:25PM   estGFR-Using this [**2101-3-3**] 10:25PM   WBC-18.0*# RBC-4.56* HGB-15.1 HCT-44.3 MCV-97 MCH-33.1*# MCHC-34.0 RDW-13.2 [**2101-3-3**] 10:25PM   NEUTS-60.1 LYMPHS-34.2 MONOS-4.6 EOS-0.8 BASOS-0.2 [**2101-3-3**] 10:25PM   PLT COUNT-170 [**2101-3-3**] 10:15PM   PT-13.2 PTT-28.8 INR(PT)-1.1  Brief Hospital Course: [**2101-3-3**] Patient was admitted to the ICU for q1 hour neuro checks, BP control, dilantin, and HOB elevation.
+On [**3-7**] pt went to OR to have L.ICA aneurysm coiled by Dr. [**First Name (STitle) **] and tolerated the procedure well.
+CTP on [**3-11**] showed no vasospasm and nimodipine was discontinued due to hypotension.
+Secondary to patient developing edema Lasix drip was started and pressors were d/c'ed.
+[**3-15**] dilantin was switched to keppra for possible drug fever.
+[**3-17**] pt was started on NaCl drip due to hyponatremia.
+TPN was initiated for bowel rest due to pancreatitis.
+Wound cx negative.
+[**3-20**] Following commands with RUE.
+[**3-21**] pt neurologically improved with purposeful movement, following commands and eye tracking.
+Lasix was decreased and NaCl was weaned.
+He was started on normal saline for hydration to perfuse infarct area.
+A Passymuir valve was fitted that am.
+Diet advanced to goal tube feeds through PEG site.
+Medications on Admission: Medications prior to admission: Methadone 115mg/daily   Discharge Medications: 1.
+Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1) Injection TID (3 times a day).
+Ipratropium-Albuterol 18-103 mcg/Actuation Aerosol Sig: [**1-26**] Puffs Inhalation Q6H (every 6 hours) as needed.
+Albuterol Sulfate 2.5 mg/3 mL Solution for Nebulization Sig: One (1)  Inhalation Q6H (every 6 hours) as needed.
+Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation Q6H (every 6 hours) as needed.
+Methadone 10 mg/mL Concentrate Sig: One (1)  PO DAILY (Daily).
+Famotidine 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Simvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Bisacodyl 10 mg Suppository Sig: [**1-26**] Suppositorys Rectal DAILY (Daily).
+Nicotine 7 mg/24 hr Patch 24 hr Sig: One (1) Patch 24 hr Transdermal DAILY (Daily) for 7 days.
+Metoclopramide 10 mg Tablet Sig: One (1) Tablet PO QIDACHS (4 times a day (before meals and at bedtime)).
+Take your pain medicine as prescribed ??????
+Unless directed by your doctor, do not take any anti-inflammatory medicines such as Motrin, aspirin, Advil, Ibuprofen etc.
+If you have been prescribed an anti-seizure medicine, take it as prescribed and follow up with laboratory blood drawing as ordered ??????
+Pain or headache that is continually increasing or not relieved by pain medication ??????
+Any signs of infection at the wound site: redness, swelling, tenderness, drainage ??????

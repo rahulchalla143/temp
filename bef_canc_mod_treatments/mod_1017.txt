@@ -1,0 +1,65 @@
+Admission Date:  [**2133-10-1**]              Discharge Date:   [**2133-10-16**]  Date of Birth:  [**2059-11-16**]             Sex:   F  Service: SURGERY  Allergies: Latex / Penicillins / Advair Diskus  Attending:[**First Name3 (LF) 6088**] Chief Complaint: 73F with h/o AAA with EVAR in [**2130**] s/p explant in [**2130**] for [**Year (4 digits) **] infection with subsequent aorto to right common iliac artery [**Year (4 digits) **].
+Major Surgical or Invasive Procedure: [**2133-10-1**] Exploratory Lap [**2133-10-1**] Endovascular Covered stent [**Month/Day/Year **] Right Iliac Anastomosis  [**2133-10-2**] PICC line placement [**2133-10-8**] Tunneled HD line placement   History of Present Illness: T 74 y/o F with PVD, CAD (MI [**2132-8-18**] s/p 4 DES), CKD (on dialysis from [**2132-8-18**] to [**2133-2-18**] for CIN after cardiac cath) transferred from [**Hospital 1727**] Medical Center for concern of AAA rupture.
+She has a history of AAA with s/p repair in [**2130**] followed by explant in [**2130**] for [**Year (4 digits) **] infection with subsequent aorto to right common iliac artery [**Year (4 digits) **].
+Past Medical History: - CKD, developed CIN after her MI in [**2132-8-18**] and was on dialysis from [**2132-8-18**] to [**2133-2-18**].
+- MI in [**2132-8-18**] s/p 4 [**Name Prefix (Prefixes) **] - [**Last Name (Prefixes) **] - Diabetes (on the patient's list, but she denies having diabetes) - GERD - Hypothyroidism - PVD - History of C-diff - History of MRSA pneumonia - History of DVT - History of VISA fem-fem [**Last Name (Prefixes) **] infection - s/p Tonsillectomy - s/p Appendectomy - s/p Cholecystectomy - s/p Achilles tendon repair - s/p Exlap for ?UC - s/p EVAR c/b left limb occlusion [**2-26**] - s/p L ileofemoral bypass s/p R->L fem/fem bypass - s/p Left AKA & AKA revision - s/p STSG L groin wound - s/p R FEA, vein patch, R iliac limb angio, removal fem/fem [**Month/Year (2) **] - s/p Aortic and Iliac endarterectomies, Conversion to open retroperitoneal repair of abdominal aortic aneurysm with aorto-uni-iliac tube [**Month/Year (2) **].
+Pertinent Results: [**2133-10-1**] CT ABD FINDINGS:  CTA OF THE ABDOMEN AND PELVIS:  The patient is status post aorto-right iliac [**Month/Day/Year **] repair (AAA repair) and status post left AKA.
+The [**Female First Name (un) 899**] does not fill with contrast as seen on previous examinations.
+[**2133-10-8**] tunneled HD catheter TUNNELED DIALYSIS LINE PLACEMENT Study Date of [**2133-10-8**] 1:27 PM   [**2133-10-10**] [**Hospital1 18**] ECHOCARDIOGRAPHY REPORT  [**Known lastname 62957**], [**Known firstname 2747**]       [**Hospital1 18**] [**Numeric Identifier 63031**]Portable TTE (Complete) Done [**2133-10-10**] at 10:57:34 AM      FINAL Referring Physician     [**Name9 (PRE) **] Information [**Name9 (PRE) **], [**First Name3 (LF) 251**] C. Cardiovascular Institute at [**Hospital1 **] [**Hospital Unit Name 22682**] [**Location (un) 86**], [**Numeric Identifier 63032**]  Status: Inpatient DOB: [**2059-11-16**] Age (years): 73 F  Hgt (in): 61 BP (mm Hg): 146/55  Wgt (lb): 155 HR (bpm): 76  BSA (m2): 1.70 m2 Indication: Left ventricular function.
+ICD-9 Codes: 424.0 Test Information Date/Time: [**2133-10-10**] at 10:57    Interpret MD: [**Name6 (MD) **] [**Name8 (MD) **], MD Test Type: Portable TTE (Complete) Son[**Name (NI) 930**]: [**Name2 (NI) 16812**] [**Last Name (un) 16813**], RDCS Doppler: Full Doppler and color Doppler Test Location: West SICU/CTIC/VICU Contrast: None Tech Quality: Suboptimal Tape #: 2012W000-0:00 Machine: E9-2 Echocardiographic Measurements Results  Measurements  Normal Range Left Atrium - Long Axis Dimension:  2.7 cm  <= 4.0 cm Left Atrium - Four Chamber Length:  *5.7 cm  <= 5.2 cm Right Atrium - Four Chamber Length:  *5.6 cm  <= 5.0 cm Left Ventricle - Septal Wall Thickness:  *1.3 cm  0.6 - 1.1 cm Left Ventricle - Inferolateral Thickness:  *1.2 cm  0.6 - 1.1 cm  Left Ventricle - Diastolic Dimension:  4.0 cm  <= 5.6 cm Left Ventricle - Systolic Dimension:  2.8 cm Left Ventricle - Fractional Shortening:  0.30  >= 0.29 Left Ventricle - Ejection Fraction:  >= 60%  >= 55% Aorta - Sinus Level:  2.7 cm  <= 3.6 cm Aorta - Ascending:  2.5 cm  <= 3.4 cm Aortic Valve - Peak Velocity:  1.6 m/sec  <= 2.0 m/sec Aortic Valve - LVOT VTI:  12 Mitral Valve - E Wave:  1.0 m/sec Mitral Valve - A Wave:  0.8 m/sec Mitral Valve - E/A ratio:  1.25 Mitral Valve - E Wave deceleration time:  217 ms  140-250 ms  Findings This study was compared to the prior study of [**2133-4-28**].
+Surgical clips are seen in the right upper quadrant.
+Anterior abdominal surgical staples are unchanged.
+This initial management repair was done in [**State 108**], and subsequent problems with [**Name2 (NI) **] limb occlusion and infection resulted in left above knee amputation, removal of an infected femoral- femoral bypass [**Name2 (NI) **], and ultimately removal of the infected main body of the endovascular device.
+This was performed 2- [**1-19**] years ago, and the aorta was reconstructed with a rifampin-soaked tube [**Month/Day (2) **] from the infrarenal aorta to the common iliac artery on the right.
+She was unable to tolerate her Bactrim due to neutropenia, and after stopping it, never resumed any suppressive antibiotic therapy.
+She was  treated with a covered stent [**Last Name (STitle) **] R iliac anastamosis.
+HD was initiated and a tunneled line was placed.
+The pt together with her family decided that she would not want extensive surgery to explant her aortic [**Last Name (STitle) **].
+Her abdominal incision line is non erythematous and has staples in place.
+Medications on Admission: Preadmissions medications listed are incomplete and require futher investigation.
+Aspirin 325 mg PO DAILY 2.
+Clopidogrel 75 mg PO DAILY 3.
+Amlodipine 5 mg PO DAILY 4.
+Calcitriol 0.25 mcg PO DAILY 5.
+Duloxetine 30 mg PO DAILY 6.
+FoLIC Acid 1 mg PO DAILY 7.
+Furosemide 80 mg PO DAILY 8.
+Gabapentin 300 mg PO TID 9.
+Hydrocodone-Acetaminophen (5mg-500mg) [**1-19**] TAB PO Q4H:PRN pain  10.
+Isosorbide Mononitrate (Extended Release) 60 mg PO DAILY 11.
+Levothyroxine Sodium 112 mcg PO DAILY 12.
+Pantoprazole 40 mg PO Q24H 13.
+Temazepam 7.5 mg PO HS:PRN insomnia   Discharge Medications: 1.
+Amlodipine 10 mg PO BID 2.
+Aspirin EC 325 mg PO DAILY 3.
+Gabapentin 300 mg PO DAILY 4.
+Isosorbide Mononitrate (Extended Release) 60 mg PO DAILY 5.
+Levothyroxine Sodium 112 mcg PO DAILY 6.
+Pantoprazole 40 mg PO Q24H 7.
+Acetaminophen 500 mg PO Q6H:PRN discomfort 8.
+Linezolid 600 mg IV Q12H 9.
+Bisacodyl 10 mg PO/PR DAILY:PRN constipation 10.
+Calcium Carbonate 500 mg PO QID:PRN heart burn 11.
+Docusate Sodium 100 mg PO BID 12.
+Heparin 5000 UNIT SC TID 13.
+Heparin Flush (10 units/ml) 2 mL IV PRN line flush PICC, heparin dependent: Flush with 10mL Normal Saline followed by Heparin as above daily and PRN per lumen.
+Heparin Flush (10 units/ml) 2 mL IV PRN line flush Tunneled Access Line (e.g.
+Hickman), heparin dependent: Flush with 10 mL Normal saline followed by Heparin as above daily and PRN per lumen.
+Heparin Flush (1000 units/mL) 4000-[**Numeric Identifier 2249**] UNIT DWELL PRN line flush Dialysis Catheter (Tunneled 2-Lumen):  DIALYSIS NURSE ONLY: Withdraw 4 mL prior to flushing with 10 mL NS followed by Heparin as above according to volume per lumen.
+Lorazepam 0.5 mg PO BID 17.
+Metoprolol Tartrate 50 mg PO TID Hold for sbp<100 hr<60 18.
+Nystatin Oral Suspension 5 mL PO QID:PRN thrush swish and swallow 20.
+Simvastatin 10 mg PO DAILY 21.
+Lidocaine 5% Patch 1 PTCH TD DAILY 22.
+HYDROmorphone (Dilaudid) 0.25 mg IV Q2H:PRN pain 23.
+HydrALAzine 50 mg PO Q6H hold SBP<100 24.
+HydrALAzine 20 mg IV Q6H:PRN >160 25.
+Duloxetine 30 mg PO DAILY   Discharge Disposition: Extended Care  Facility: [**Hospital6 1293**] - [**Location (un) 8957**]  Discharge Diagnosis: Infected aortic [**Location (un) **] Acute Renal failure Failure to thrive Intraabdominal hemorrhage Diffuse peritonitis Disruption of the the distal anastomosis from aorta to the right common iliac artery.
+You were explored surgically and your abdomen washed out because of infection.
+Division of Vascular and Endovascular Surgery Abdominal Aortic Aneurysm (AAA) Surgery Discharge Instructions  WHAT TO EXPECT:  1.
+To avoid constipation: eat a high fiber diet and use stool softener while taking pain medication ??????
+Take all the medications you were taking before surgery, unless otherwise directed ??????
+No driving until post-op visit and you are no longer taking pain medications ??????
+Your incision may be left uncovered, unless you have small amounts of drainage from the wound, then place a dry dressing over the area  CALL THE OFFICE FOR : [**Telephone/Fax (1) 63033**] ??????
+A sudden increase in pain that is not controlled with pain medication ??????
+[**Telephone/Fax (1) **] / Vascular surgery / to be seen in two weeks for staple removal and follow up.

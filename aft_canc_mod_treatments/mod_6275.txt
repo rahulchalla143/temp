@@ -1,0 +1,39 @@
+Admission Date:  [**2187-7-9**]              Discharge Date:   [**2187-7-27**]  Date of Birth:  [**2131-1-22**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 20640**] Chief Complaint: hypoxia, shortness of breath  Major Surgical or Invasive Procedure: s/p central line placement   History of Present Illness: 56 yo F with h/o metastatic melanoma who was admitted on [**2187-7-9**] for IL-2 therapy and now is transferred to the [**Hospital Unit Name 153**] in the setting of shortness of breath and hypoxia.
+Course has been complicated by intermittent rigors, n/v/diarrhea, and hypotension responsive to IVF boluses.
+Remained hypoxic throughout the evening and IVFs stopped, IL-2 held, and given albuterol nebs for reported wheezing.
+Awoke at 1 am acutely short of breath and gasping for air with O2 sats 76% on 2L NC --> 92 % on NRB with RR 40.
+Given lasix 12 mg IV X 1 with only 100 ccs of urine output and then given lasix 20 mg IV X 1 and started on dopamine gtt at 2 mcg/kg/hr per biologics attending with subsequent 600 ccs in urine output.
+Given another lasix 20 mg IV and transferred to [**Hospital Unit Name 153**] for ongoing respiratory distress and hypoxia.
+Placed on BIPAP mask at 5/5 FiO2 70% with O2 sats 97-99%, given morphine 1 mg IV X 1.
+Switched dopamine to neosynephrine for HR 150s.
+Past Medical History: - Metastatic Melanoma - s/p R total maxillectomy with resection  of the pterygopalatine fossa as well as resection of tumor at the skull base foramina at [**Hospital 13128**] in [**4-9**].
+Admitted for IL-2 therapy on [**2187-7-9**], s/p 8 doses - DM II, insulin dependent - HTN - Hypercholesterolemia - h/o cervical CA s/p radical hysterectomy, XRT/chemo in [**2173**]   Social History: Recent widow, husband passed from bladder cancer approximately 8 mos ago.
+Brief Hospital Course: In short, Ms [**Known lastname 21822**] is a 56F with h/o metastatic melanoma on IL-2 therapy started on [**7-10**], who was transferred to the [**Hospital Unit Name 153**] after developing respiratory failure in the setting of chemo.
+# Acute Respiratory Failure: Thought to be [**3-5**] ARDS in the setting of systemic capillary leak from IL-2 therapy at first, w subsequent overlying HAP, which eventually grew MRSA and Enterobacter cloacae from the sputum.
+Pt received methylprednisolone intermittently to counter the effect of IL-2.
+Concern for palatal swelling and aspiration post-extubation (given s/p palate resection on [**4-/2187**] by Dr [**First Name4 (NamePattern1) 65219**] [**Last Name (NamePattern1) **] [**Telephone/Fax (1) 82659**] for melanoma mets), however, per discussion w ENT, no intervention needed.
+HAP was treated w a 14-day course of Vanc/Zosyn/Cipro ([**Date range (1) 82660**]).
+Also given bronchodilators and lasix diuresis as tolerated by blood pressure.
+Received supportive fluids as well as temporary pressure support w norepinephrine and phenylephrine drips.
+Infections treated w abx as above.
+Echo showed EF of 50% with hypokinesis of low posterior wall, trop at 0.27 then 0.21, cardiology consulted, recommended aspirin and hemodynamic support, no other intervention.
+[**Month (only) 116**] also be from dilution with IVF for resuscitation.
+# Hypernatremia: Likely [**3-5**] dehydration and NS fluid resuscitation, peaked at 151.
+# Metastatic melanoma: Received IL-2 therapy w complications as above.
+# DM2: on sliding scale insulin on admission, but temporarily required an insulin gtt in the setting of high-dose steroid treatment.
+# Code - Full, confirmed with patient # Communication - with patient and daughter [**Name (NI) 82661**] [**Name (NI) 74914**] [**Telephone/Fax (1) 82662**]  Medications on Admission: IL-2 (last dose [**2187-7-12**] at 9am) Lasix 20 mg IV X 1, Lasix 10 mg IV X 1 Dopamine gtt at 2 mcg/kg/min Neosynephrine gtt Cephalexin 500 mg po bid Tylenol 975 mg q6h Naproxen 375 mg q12h Gelclair 15 ml tid prn Ranitidine 150 mg [**Hospital1 **] Ativan 1-2 mg q4h prn Albuterol neb q6h prn Loperamide prn Benadryl 25-50 mg q6h prn Sarna qid prn Compazine q6h prn Meperidine 50-100 IV q2h prn Nystatin qhs HISS   Discharge Medications: 1.
+Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO four times a day as needed for fever or pain.
+Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for heartburn.
+Lorazepam 1 mg Tablet Sig: One (1) Tablet PO three times a day as needed for nausea/vomiting.
+Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO once a day.
+Fluticasone 50 mcg/Actuation Spray, Suspension Sig: Two (2) Spray Nasal [**Hospital1 **] (2 times a day).
+Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 hours) for 4 days.
+Metformin 500 mg Tablet Sig: One (1) Tablet PO twice a day.
+Lisinopril 10 mg Tablet Sig: One (1) Tablet PO once a day.
+Cilostazol 100 mg Tablet Sig: One (1) Tablet PO twice a day.
+Aspirin 81 mg Tablet, Delayed Release (E.C.)
+)(s)* Refills:*0*   Discharge Disposition: Home With Service  Facility: [**Location (un) 6138**] VNA  Discharge Diagnosis: Primary Diagnosis: Metastatic melanoma with ARDS in the setting of IL-2 therapy  Secondary Diagnoses: - Metastatic Melanoma - s/p R total maxillectomy with resection of the pterygopalatine fossa as well as resection of tumor at the skull base foramina at [**Hospital 13128**] in [**4-9**].
+Admitted for IL-2 therapy on [**2187-7-9**], s/p 8 doses - renal impairment of undetermined cause - DM II, insulin dependent - HTN - Hypercholesterolemia - h/o cervical CA s/p radical hysterectomy, XRT/chemo in [**2173**]   Discharge Condition: Afebrile, stable vital signs, tolerating POs, ambulating with a walker.
+Discharge Instructions: You were admitted for IL 2 chemotherapy.
+You were treated with antibiotics and you improved.
+Please take all your medications 2.

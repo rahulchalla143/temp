@@ -1,0 +1,75 @@
+Admission Date:  [**2163-5-19**]              Discharge Date:   [**2163-5-31**]  Date of Birth:  [**2086-5-2**]             Sex:   M  Service: MEDICINE  Allergies: Iodine-Iodine Containing / Shellfish / Oxycodone  Attending:[**First Name3 (LF) 4975**] Chief Complaint: Decreased responsiveness and respiratory distress  Major Surgical or Invasive Procedure: PICC line placement   History of Present Illness: Mr. [**Known lastname 27218**] is a 77yo M with history of COPD, DM and ischemic cardiomyopathy with EF of 10% ([**4-22**]) who was transferred to the cardiology service for ICD placement.
+During this hospitalization, he was in the ICU for hypercarbic respiratory failure s/p intubation/extubation, acute systolic CHF exacerbation and required pressors for hypotension.
+At that time, transfer to [**Hospital1 18**] for ICD placement but offered but declined.
+He received 40mg IV lasix prior to transfer.
+He is a former smoker but quit in [**2145**]   Family History: Mother with kidney problems Father with liver cirrhosis  Physical Exam: Admission: Vitals: T: 96 BP: 139/70 P: 69 R: 18 O2: 96% 1 L NC General: Alert, oriented to person only, mild respiratory distress HEENT: Sclera anicteric, MMM, oropharynx clear Neck: supple, JVP difficult to appreciate secondary to body habitus, no LAD Lungs: Bilateral lungs with coarse crackles anteriorly CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops appreciated over lung sounds Abdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly GU: foley in place Ext: warm, well perfused, 2+ pulses, 1+ pitting edema to knees bilaterally, moving all 4 extremities   Pertinent Results: [**2163-5-19**] 08:11PM   TYPE-ART PO2-61* PCO2-61* PH-7.30* TOTAL CO2-31* BASE XS-1 [**2163-5-19**] 08:11PM   LACTATE-0.9 [**2163-5-19**] 05:54PM   NA+-138 K+-4.8 CL--102 [**2163-5-19**] 05:40PM   GLUCOSE-136* UREA N-30* CREAT-1.3* SODIUM-137 POTASSIUM-5.3* CHLORIDE-101 TOTAL CO2-31 ANION GAP-10 [**2163-5-19**] 05:40PM   CK(CPK)-14* [**2163-5-19**] 05:40PM   CK-MB-2 cTropnT-<0.01 [**2163-5-19**] 05:40PM   WBC-7.2 RBC-3.81* HGB-11.5* HCT-37.0* MCV-97 MCH-30.1 MCHC-31.0 RDW-15.7* [**2163-5-19**] 05:40PM   PT-14.3* PTT-25.9 INR(PT)-1.2*  EKG: Normal sinus rhythm with PVCs, LAD, LBBB without ST changes.
+Upon arrival to the cardiology service he was transferred to the unit for hypersomnolence, hypoglycemia, and hypercarbic respiratory failure.
+Initial hypercarbia may have been related to somnolence from hypoglycemia leading to decreased RR and Co2 retention or decreased respiratory drive from excess oxygen supplied.
+Volume overload from cardiogenic pulmonary edema was likely contributing as aggressive diuresis overnight in the ICU initially resulted in marked improvement in O2 sats and mental status.
+He was further diuresed on lasix gtt and provided scheduled nebs.
+His episodes of decreased responsiveness seemed to increase in frequency throughout the week with agressive diuresis and progressive contraction alkalosis.
+He was started on acetazolamide for his metabolic alkalosis, and lasix gtt was discontinued.
+His acetazolamide was discontinued prior to discharge as his serum bicarb was 32 on day of discharge.
+OSA was diagnosed clinically during this admission based on exam and continuous oxygen monitoring.
+He was also occasionally resistant to nebulizer treatments and required frequent encouragement to participate in therapies.
+His COPD and metabolic alkalosis from aggressive diuresis were also likely responsible for CO2 retention and possible sedation.
+He was ultimately found to have ESBL E. coli UTI and upon treating with IV antibiotics his episodes of decreased responsiveness became less frequent.
+His gabapentin 300 mg po tid was discontinued as this may cause sedation and he had significant fluctuations in his renal function.
+He often requested vicodin for chronic back pain but this was not provided given his episodes of unresponsiveness.
+Would strongly recommend avoiding sedating medications and attempt to manage his pain with acetaminophen, lidocaine patches and increased mobility.
+# Ischemic cardiomyopathy/CAD: Initially patient was directly admitted for ICD placement and cardiac catheterization.
+Based on OSH records he was written for lasix 40 mg po BID on discharge from OSH in [**Month (only) 958**], but per records from his rehab he was not receiving any diuretics.
+He was diuresed as above during this admission, inititally with lasix boluses and later with lasix gtt and finaly transitioned to torsemide 40 mg po daily when he appeared euvolemic on exam.
+After patient became more stable and euvolemic, cardiac catheterization was attempted but patient became unresponsive on arrival to cath lab and it was cancelled.
+Stress mibi was scheduled as well to evaluate for reversible defects, however due to hypotension patient was unable to tolerate procedure and it was cancelled.
+However with ESBL UTI, discussed below, further evaluation for device placement was deferred.
+They are aware that the patient may return for re-evaluation for ICD placement at any time after his infection has cleared should the family change their mind.
+Patient will continue medical management of his systolic CHF and CAD with aspirin, beta blocker, statin, diuretics and [**Last Name (un) **] (currently being held until BP and renal function have proved stable).
+Patient's weights should be monitored closely after discharge and his diuretic dose adjusted for increased weight, shortness of breath or oxygen desaturations.
+Pt also required intermittent potassium repletion following initiation of Torsemide.
+Patient's electrolytes will need close monitoring and repletion as needed.
+He was started on meropenem for treatment on [**2163-5-27**].
+PICC line was placed for a 14 day course of meropenem (complete course on [**2163-6-10**]).
+# DM: Insulin dependent, on standing 70/30 [**Hospital1 **] at home and sliding scale Novolog.
+When his glucose eventually became elevated he was started on long acting glargine and sliding scale insulin which provided less risk of hypoglycemia compared to his 70/30 regimen given his various po intake.
+Blood sugars were consistently between 150 and 250 during the rest of his admission and his glargine was titrated up to 20 units on the day of discharge.
+Patient will likely need further adjustments in his insulin regimen to maintain glucose < 200 while avoiding hypoglycemia.
+# COPD: He has a history of COPD and takes Spiriva and Xopenex at home.
+He was maintained on standing xopenex and ipratroprium nebs Q6H during his hospitalization with some improvement in air movement and respiratory status.
+Diovan was stopped for elevations in creatinine and occasional hypotension.
+His carvedilol dose was decreased to 12.5 mg [**Hospital1 **].
+Cr bumped to 2.3 with aggressive diuresis.
+Agressive diuresis was stopped and he was transitioned to torsemide 40 mg po with goal of maintaining euvolemia.
+The family is aware of his poor prognosis and why invasive procedures including cardiac catheterization and ICD placement could not be safely pursued during this admission.
+Discussion was also had with the entire family regarding the utility of an ICD, as this would prevent death from arrhythmia but not death from other causes.
+# Code: DNR/DNI  Medications on Admission: ASA 325mg daily Multivitamin daily Vitamin B12 1000mcg daily Pantoprazole 40mg daily Spiriva 18mcg daily Vitamin D3 1000units daily Diovan 40mg [**Hospital1 **] Carvedilol F/C 25mg [**Hospital1 **] Vicodin w/ APAP 5-500mg [**Hospital1 **] Colace 100mg TID Gabapentin 300mg TID Xopenex HFA 45mcg 2 puffs q6 Simvastatin 80mg qHS Lidoderm patch Tums PRN Vicodin q6 PRN Lactulose with MOM with prune juice PRN Novolog 70/30 28units qAM, 18units qHS Novolog SSI  Discharge Medications: 1. aspirin 325 mg Tablet, Delayed Release (E.C.)
+2. multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+3. cyanocobalamin (vitamin B-12) 500 mcg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+4. pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+5. cholecalciferol (vitamin D3) 400 unit Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+6. carvedilol 12.5 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+7. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO TID (3 times a day).
+8. levalbuterol HCl 0.63 mg/3 mL Solution for Nebulization Sig: One (1) ML Inhalation Q6H (every 6 hours).
+9. simvastatin 40 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+10. lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig: One (1) Adhesive Patch, Medicated Topical DAILY (Daily).
+11. calcium carbonate 200 mg (500 mg) Tablet, Chewable Sig: One (1) Tablet, Chewable PO QID (4 times a day) as needed for indigestion.
+12. lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO Q8H (every 8 hours) as needed for constipation.
+13. magnesium hydroxide 400 mg/5 mL Suspension Sig: Thirty (30) ML PO Q8H (every 8 hours) as needed for constipation.
+14. ipratropium bromide 0.02 % Solution Sig: One (1)  Inhalation Q6H (every 6 hours).
+15. meropenem 500 mg Recon Soln Sig: One (1)  Intravenous every eight (8) hours: Last day [**2163-6-9**].
+16. torsemide 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Heparin Flush (10 units/ml) 2 mL IV PRN line flush PICC, heparin dependent: Flush with 10mL Normal Saline followed by Heparin as above daily and PRN per lumen.
+18. insulin glargine 100 unit/mL Solution Sig: 20  units Subcutaneous at bedtime.
+Novolog 100 unit/mL Solution Sig: ASDIR units Subcutaneous ASDIR: Sliding scale as directed by your outpatient provider.
+This was evaluated with a nuclear viability test  (a test to see how well the blood vessels in your heart are working) which showed extensive damage to your heart and blockages of your blood vessels that could not be changed with a catheterization procedure.
+For this you were started on antibiotics by IV.
+Please continue taking these antibiotics until [**6-9**].
+For this we gave you nebulizer treatments, removed the fluid overload with IV lasix, and changed your insulin to avoid low blood sugars.
+STOP taking novolog 70/30 2.
+STOP taking vicodin as this can worsen your breathing 3.
+STOP taking gabapentin .
+START taking insulin glargine 20 units at night 5.
+START taking ipratroprium and xopenex nebulizers every six hours as needed for shortness of breath 7.
+START taking Torsemide 40 mg by mouth daily.
+Your dose of Carvedilol was DECREASED from 25 mg twice a day to 12.5 mg twice a day 9.
+No other changes were made to your medications and you should continue taking all other medications as previously prescribed.

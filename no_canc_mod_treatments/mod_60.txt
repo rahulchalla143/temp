@@ -1,0 +1,49 @@
+Admission Date:  [**2154-3-24**]              Discharge Date:   [**2154-3-28**]  Date of Birth:  [**2084-12-30**]             Sex:   M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**Last Name (NamePattern4) 290**] Chief Complaint: Shortness of Breath   Major Surgical or Invasive Procedure: None  History of Present Illness: 69 yo M h/o HIV, COPD presenting with shortness of breath and "not feeling well."
+He was notably just admitted to [**Hospital1 2177**] for a COPD exacerbation [**Date range (1) 2178**].
+During this admission he was noted to have a tenuous respiratory status with poor air movement and was briefly intubated for a few hours.
+He was started on steroids with a slow taper and azithromycin.
+He was given IV zofran and phenergan.
+He was notably also given morphine and ativan.
+Upon arrival to the MICU, the patient was taken off of BiPAP due to significant nausea.
+He was given IV compazine and placed on nasal cannula with saturations near 100%.
+COPD, on chronic O2 therapy with recent intubation at [**Hospital1 2177**].
+DVT, left lower extremity in [**2152-3-17**], on Coumadin therapy due to sedentary life, although completed course of anticoagulation.
+Chronic low back pain s/p numerous back surgeries.
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops Abdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly GU: no foley Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema   Pertinent Results: Admission labs: [**2154-3-24**] 10:50AM BLOOD WBC-7.9 RBC-3.41* Hgb-9.5* Hct-31.3* MCV-92 MCH-27.9 MCHC-30.4* RDW-15.0 Plt Ct-159 [**2154-3-24**] 10:50AM BLOOD Neuts-86.3* Lymphs-8.4* Monos-5.0 Eos-0.3 Baso-0.1 [**2154-3-24**] 11:30AM BLOOD PT-15.9* PTT-20.7* INR(PT)-1.4* [**2154-3-24**] 10:50AM BLOOD Glucose-133* UreaN-26* Creat-1.0 Na-148* K-3.0* Cl-104 HCO3-31 AnGap-16 [**2154-3-24**] 04:59PM BLOOD Calcium-8.6 Phos-2.4* Mg-2.0 [**2154-3-24**] 10:26AM BLOOD Type-ART Rates-/26 O2 Flow-8 pO2-110* pCO2-50* pH-7.41 calTCO2-33* Base XS-6 Intubat-NOT INTUBA Comment-NEBULIZER  Discharge labs: [**2154-3-28**] 03:27AM BLOOD WBC-7.8 RBC-3.18* Hgb-9.4* Hct-29.4* MCV-93 MCH-29.6 MCHC-31.9 RDW-15.1 Plt Ct-191 [**2154-3-28**] 03:27AM BLOOD PT-23.4* PTT-35.6* INR(PT)-2.2* [**2154-3-28**] 03:27AM BLOOD Glucose-116* UreaN-37* Creat-1.2 Na-146* K-4.1 Cl-104 HCO3-37* AnGap-9 [**2154-3-28**] 03:27AM BLOOD Calcium-8.6 Phos-3.4 Mg-2.4  Chest X-Ray: 1.
+Brief Hospital Course: 69 yo M h/o HIV on HAART, COPD on home oxygen, and remote history of left leg DVT p/w worsening dyspnea after recent discharge from OSH for COPD.
+Patient was intermittently treated with BIPAP in ICU, however his oxygen saturation was good and he often requested BIPAP for only short amounts of time prior to removing BIPAP.
+Mr. [**Known lastname 2150**] was started on Methylprednisolone 125 mg IV Q6H for the first day of admission and then was transitioned to prednisone 60 mg daily.
+He will continue on a slow prednisone taper.
+He was also treated with a 5 day course of levofloxacin 750 mg.
+Patient was treated with duonebs and received ativan and oxycodone for dyspnea.
+He was started on bactrim, famotidine, and calc/vit D for prophylaxis for presumed long term steroids.
+Diltiazem was started at 30mg TID for HR control with HRs < 100. .
+He was started on PO diltiazem as above and continued on doxazosin.
+# H/O DVT: Patient was diagnosed with DVT in [**2152-3-17**].
+Reportedly completed coumadin course per Dr.[**Name (NI) 2179**] note in the past, however was continued due to sedentary life.
+Patient was started on SQH and pneumoboots for DVT prophylaxis.
+He was continued on coumadin at home dose.
+He requires daily INR levels as we are initiating bactrim therapy, coumadin should be adjusted as seen fit to maintain INR between [**12-20**].
+# Code: Full (discussed with patient)   Medications on Admission: Atazanavir 400 daily Epzicom 600-300 daily Lexiva 1400 [**Hospital1 **] Albuterol TID prn Asa 325 daily bisacodyl 5 [**Hospital1 **] Colace 100 [**Hospital1 **] Ferrous gluconate 324 daily Senna prn Spiriva daily warfarin 3 mg daily, except friday, take 4 mg daily Prednisone taper (50 x 3 day-> 40 x3->30 x 3 -> 20 x 3 -> 10 x 3 -> 5 x 4 days, then stop) Azithromycin 500 mg  Discharge Medications: 1. atazanavir 200 mg Capsule Sig: Two (2) Capsule PO DAILY (Daily).
+2. fosamprenavir 700 mg Tablet Sig: Two (2) Tablet PO Q12H (every 12 hours).
+3. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+4. ferrous gluconate 325 mg (37.5 mg Iron) Tablet Sig: One (1) Tablet PO DAILY (Daily).
+5. abacavir 300 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+6. lamivudine 150 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+7. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: Three (3) ml Inhalation Q2H (every 2 hours) as needed for shortness of breath or wheezing.
+8. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: Three (3) ml Inhalation Q4H (every 4 hours).
+9. ipratropium bromide 0.02 % Solution Sig: One (1) neb Inhalation Q4H (every 4 hours).
+10. ipratropium bromide 0.02 % Solution Sig: One (1) neb Inhalation Q2H (every 2 hours) as needed for shortness of breath or wheezing.
+11. warfarin 1 mg Tablet Sig: Three (3) Tablet PO 6X/WEEK ([**Doctor First Name **],MO,TU,WE,TH,SA).
+12. warfarin 2 mg Tablet Sig: Two (2) Tablet PO 1X/WEEK (FR).
+13. diltiazem HCl 30 mg Tablet Sig: One (1) Tablet PO TID (3 times a day).
+14. doxazosin 1 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime).
+15. famotidine 20 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 hours).
+Bactrim DS 800-160 mg Tablet Sig: One (1) Tablet PO 3 times a week MWF.
+17. prednisone 10 mg Tablet Sig: as directed  Tablet PO once a day: PREDNISONE TAPER = 50mg for 4days, 40mg for 4days, 30mg for 4days, 20mg for 4days, 10mg for 4days then stop.
+18. oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for breathlessness.
+Ativan 1 mg Tablet Sig: One (1) Tablet PO every 4-6 hours as needed for anxiety.
+Prednisone taper 2.
+Start famotidine while on prednisone 4.
+Start calcium and vitamin D 5.
+Start oxycodone and ativan for symptom control 6.

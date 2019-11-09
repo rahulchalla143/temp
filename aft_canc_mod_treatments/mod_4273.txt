@@ -1,0 +1,78 @@
+Admission Date:  [**2103-5-22**]              Discharge Date:   [**2103-6-7**]  Date of Birth:  [**2046-10-9**]             Sex:   M  Service: NEUROLOGY  Allergies: hydromorphone  Attending:[**First Name3 (LF) 8850**] Chief Complaint: Transfer for management of pneumonia and all oncology care.
+History of Present Illness: The patient is a 56-year-old man with history of right temporal lobe glioblastoma, s/p resection and XRT, currently on bevacizumab and dexamethasone followed by Dr. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 724**] as outpatient, who was sent to [**Hospital3 417**] hospital from [**Hospital1 15454**] [**Hospital1 **] in [**Location (un) 701**], MA on [**2103-5-19**] with SOB and fevers.
+He was started on imipenem/tigacycline, defervesced, requiring 3-4L of oxygen via nasal cannula.
+He was transfered to [**Hospital1 18**] for further management and since all of his oncology care has been coordinated by Dr. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 724**].
+He was found to have a UTI had his urinary catheter exchanged on arrival.
+His mental status and clinical condition improved with antibiotics and fluids in the ICU.
+Vancomycin was discontinued (given patient had only 1 out of 4 bottles positive for coag-positive staph at [**Year/Month/Day **], with negative blood culture here).
+He was discharged with meropenem/ciprofloxacin for a goal 14 day course to be completed on [**2103-4-26**].
+He denies visual changes, headache, dizziness, sinus tenderness, neck stiffness, rhinorrhea, congestion, sore throat or dysphagia.
+He denies chest pain, palpitations, orthopnea, dyspnea on exertion.
+- Underwent subtotal resection of the R temporal lobe mass by Papavassilious on [**2101-12-30**], path positive for GBM - received intracranial temozolamide chemo-radiation, followed by adjuvant temozolomide (4 cycles) [**2102-1-23**] to [**2102-3-7**] - Ventriculoperitoneal shunt placement [**2102-8-1**] - Procarbazine, CCNU, and Vincristine (PCV) on [**2102-8-23**] and had 1 cycle so far - Hospitalization from [**Date range (3) 84005**], during which time he had:  PCP PNA, [**Name Initial (PRE) **]/p PEA arrest and flail chest from compression, PE s/p IVC filter, was previously on lovenox - Discharged to [**Hospital1 **] course c/b C. difficile, ESBL PNA - plan was to treated with bevacizumab but this was delayed due to ICH Per wife has had 3 IC bleeds post craniectomy and as such has meant that anticoagulation was contraindicated - start bevacizumab treatment on [**2103-2-28**] and had 1 cycle so far at 5 mg/kg.
+- C. difficile:  First diagnosed during [**11/2102**] hospitalization with relapse on [**2103-3-26**], for which patient has completed an extended course of po vancomycin on [**2103-5-3**].
+- Previous left knee cartilage operation - osteoporosis - epilepsy - PE/bilateral DVTs (s/p IVC filter placement [**11/2102**])  Social History: Semi-retired accountant.
+He has 4 siblings and one has had recent stent placement for CAD.
+GENERAL:  Middle aged male appearing comfortable, Alert, conversant Place: [**Hospital1 18**] Year: [**2103**] SKIN:  Stage II sacral decubitis with dressing in place HEENT:  Left sided VP shunt, well healed surgical scar.
+CHEST:  Right sided porta cath in place with mild erythemia and skin break down surrounding port.
+Pertinent Results: ADMISSION LABS [**2103-5-22**] 10:38PM   GLUCOSE-108* UREA N-26* CREAT-0.4* SODIUM-141 POTASSIUM-4.2 CHLORIDE-103 TOTAL CO2-28 ANION GAP-14 [**2103-5-22**] 10:38PM   ALT(SGPT)-27 AST(SGOT)-17 LD(LDH)-269* ALK PHOS-109 TOT BILI-0.2 [**2103-5-22**] 10:38PM   ALBUMIN-3.1* CALCIUM-8.5 PHOSPHATE-3.5 MAGNESIUM-2.2 [**2103-5-22**] 10:38PM   WBC-8.9# RBC-3.81* HGB-12.8* HCT-38.6* MCV-101* MCH-33.6* MCHC-33.2 RDW-16.7* [**2103-5-22**] 10:38PM   NEUTS-70 BANDS-0 LYMPHS-8* MONOS-19* EOS-0 BASOS-0 ATYPS-1* METAS-2* MYELOS-0 [**2103-5-22**] 10:38PM   HYPOCHROM-NORMAL ANISOCYT-1+ POIKILOCY-1+ MACROCYT-3+ MICROCYT-1+ POLYCHROM-OCCASIONAL OVALOCYT-1+ SCHISTOCY-1+ TEARDROP-OCCASIONAL [**2103-5-22**] 10:38PM   PLT SMR-LOW PLT COUNT-138* [**2103-5-22**] 10:38PM   PT-11.5 PTT-28.8 INR(PT)-1.0 DISCHARGE LABS  [**2103-6-7**] 05:47AM BLOOD WBC-6.9 RBC-3.45* Hgb-11.3* Hct-34.5* MCV-100* MCH-32.7* MCHC-32.7 RDW-17.2* Plt Ct-178 [**2103-6-7**] 05:47AM BLOOD Glucose-84 UreaN-12 Creat-0.5 Na-147* K-3.6 Cl-107 HCO3-30 AnGap-14  MICRO [**6-3**] C. diff negative [**5-31**] C. diff negative [**5-29**] CSF gram stain neg FLUID CULTURE (Final [**2103-6-1**]):    NO GROWTH.
+MRI Head IMPRESSION: Status post right pterional craniotomy for glioblastoma resection.
+In addition, the presence of a disorganized [**6-19**] Hz theta frequency background is suggestive of a mild diffuse encephalopathy, seen with medication effect, metabolic disturbance, or infection.
+Brief Hospital Course: [**Known firstname **] [**Known lastname 13013**] is a 56-year-old man with glioblastoma, s/p resection and chemo-irradiation, and most recently on bevacizumab and dexamethasone as well as history of PCP PNA and PE Bilat DVTs admitted to OSH ICU for bilateral PNA.
+His hospitalization was complicated by confusion related to sedating medications.
+(1) Pneumonia:  Patient initially hypoxic and was on BIPAP on presentation to OSH in the ICU, concern for HAP vs aspiration PNA.
+He was initially treated with imipenem and tigecycline at OSH.
+On arrival to [**Hospital1 18**], he was changed to vancomycin and Zosyn for HCAP, he completeed an 8 day course [**2103-5-29**].
+(2) Seizure Disorder:  Patient suffered seizure and cardiac arrest [**11/2102**] and has been on valproic acid since.
+On [**2103-5-29**], patient had possible convulsive seizure witnessed by shaking of L>R extremities and patient was given 1mg Ativan however shaking had resolved prior to medication administration.
+Differential for this included underlying glioblastoma multiforme, question of seizure activity, infection and medications with sedative properties.
+Sedating medications were held, including lorazepam, gabapentin, morphine, oxycodone and diphenhydramine and mental status improved markedly.
+A warming blanket was placed, blood cultures sent and an lumbar puncture was performed as above.
+Diarrhea is attributed to antibiotic therapy with secondary effect on GI flora.
+(6) Gliobastoma/Seizure Disorder:  Patient s/p resection with intracranial chemo and s/p VP shunt.
+He is currently on dexamethasone and bevacizumab.
+He completed C4D1 of bevacizumab while in hospital [**2103-5-31**].
+MRI shows stable disease however concern was raised for progression of glioblastoma that cannot be seen on MRI.
+Dexamethasone tapered to 1mg daily on [**2103-5-26**], and to 0.75mg daily on [**2103-6-5**].
+He continued atovaquone and fluconazole PPx.
+Ritalin was increased to 20mg daily.
+He received increased AM gabapentin for headaches.
+(7) Headahce:  Following removal of oxycodone and morphine for pain control, patient complained of intermittant headaches.
+After one day of firocet therapy, he again appeared somnolent and fiorcet was discontinued.
+His a.m. gabapentin dose was increased 300 to 600mg.
+Gabapentin 300 Q noon added [**2103-6-7**], could increase to 600 Q noon if headaches worsen.
+Vancomycin was discontinued.
+He continued Heparin 5000U SC QID per outpatient oncologists Dr. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 724**] recommendation.
+He developed oozing at heparin sites and heparin was changed to heparin SC 5000 TID.
+He continued alendronate, vitamin C, calcium and vitamin D.  (14) Precautions for:  VRE, MRSA, and C. diff.
+Medications on Admission: Medication on Transfer alendronate 70mg q week ascorbic acid 1000mg TID Valcium vitamin d 1 tab Carbidopa/levodopa 1 dab daily Methylphenidate 5mg daily Colchicine 0.6mg daily fluconazole 100mg daily furosemide 20mg daily gabapentin 300mg QAM 1200mg QPM Potassium chloride 20meq daily Thiamine 100mg Valproate 1250mg Heparin sub q 500units TID fluticasone 2 sprays Q24 nystatin 500,000 units QID ipratropium 0.5mg UINH Q6H Levalbuterol 1.25mg Q6H Dexamethasone 2mg IV Q6H Pantoprazole 40mg IV daily Acetaminophen 650 Q4h PRN [**Doctor Last Name **]/hydrox/mg hydrox/simethicone 30ml Q4H PRN Guaifenesin 200mg Q6H PRN Mag hydroxide 10mL QHS PRN Docusate 100mg [**Hospital1 **] PRN Ondansetron 4mg Q6H PRN Ibuprofen 400mg Q8H PRN Tramadol 50mg Q4H PRN acetaminophen 650mg PR PRN albuterol sulgate 2.5 mg INH Q4H PRN Ipratropium 0.5mg INH Q4H PRN Pertolatum/zinc oxide 1 appl daily prn miconazole nitrate 1 appl [**Hospital1 **] PRN .
+Home meds accutane 20 mg 1 capsule [**Hospital1 **] x 3 weeks ([**2103-1-30**]) accutane 40 mg 2 caps po BID x 3 weeks ([**2103-1-30**]) acetylcysteine 20% (200 mg/mL) solution nebs q2hrs prn albuterol sulfate 90 mcg HFA inhaler 90 mcg nasal q4h prn alendronate 70 mg 1 po weekly atovaquone 750 mg/5 ml suspension 10 ml po daily carbidopa-levodopa 25 mg-100 mg 1 tab po BID colchicine 0.6 mg 1 tab po daily dexamethasone 0.75 mg 1 tab po daily esomeprazole magnesium (nexium) 40 mg E.C.
+1 cap po daily gabapentin 300 mg 1 cap po qam and 4 qhs heparin 5,000 units/mL cartridge 500 units sub-Q q6 hours ibuprofen 600 mg 1 tab po q8h prn methylphenidate 5 mg 1 tab po qam nystatin 100,000 unit/mL suspensi9on 10 mL po daily ondansetron 4 mg tab 1 po q8h prn potassium chloride 20 mEq ER 1 tab po daily sodium chloride 2.5 mEq/nL parenteral solution 20 mg daily valproic acid 250 mg 7 caps po TIC OTC: acetaminophen 325 mg 2 tabs po q6h prn acetaminophen extra strength 500 mg 2 tabs po qhs prn headache ascorbic acid 500 mg 1 tab po BID calcium carbonate-vitamin D3 500 mg calcium (1,250 mg)-400 unit [**Unit Number **] tab po TID diphenhydramine HCL 25 mg [**1-14**] caps po QHS prn insomnia docusate sodium 100 mg 1 cap po BID multivitamin 1 po daily thiamine HCL 100 mg 1 po daily  Discharge Medications: 1. acetylcysteine 20 % (200 mg/mL) Solution Sig: One (1) neb Miscellaneous Q2H (every 2 hours) as needed for dyspnea, wheeze.
+2. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: 1-2 puffs Inhalation every four (4) hours as needed for shortness of breath or wheezing.
+3. alendronate 70 mg Tablet Sig: One (1) Tablet PO QFRI (every Friday).
+4. atovaquone 750 mg/5 mL Suspension Sig: Ten (10) mL PO DAILY (Daily).
+5. colchicine 0.6 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+6. esomeprazole magnesium 40 mg Capsule, Delayed Release(E.C.)
+7. gabapentin 300 mg Capsule Sig: Two (2) Capsule PO QAM.
+8. gabapentin 400 mg Capsule Sig: Three (3) Capsule PO HS (at bedtime).
+9. heparin (porcine) 5,000 unit/mL Solution Sig: 5000 (5000) Units Injection Q6H (every 6 hours): DVT Treatment per primary oncologist.
+10. ibuprofen 600 mg Tablet Sig: One (1) Tablet PO every eight (8) hours as needed for fever or pain.
+11. methylphenidate 10 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+12. nystatin 100,000 unit/mL Suspension Sig: Ten (10) ML PO once a day.
+13. ondansetron 4 mg Tablet, Rapid Dissolve Sig: One (1) Tablet, Rapid Dissolve PO every eight (8) hours as needed for nausea.
+14. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every 6 hours) as needed for pain.
+15. acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO at bedtime as needed for headache.
+16. calcium carbonate-vitamin D3 500 mg(1,250mg) -400 unit Tablet Sig: One (1) Tablet PO three times a day.
+17. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO twice a day as needed for constipation: Hold for loose stools.
+18. multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+19. thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+20. ascorbic acid 500 mg Tablet Sig: Two (2) Tablet PO TID (3 times a day).
+22. heparin (porcine) 5,000 unit/mL Solution Sig: 5000 (5000) Units Injection TID (3 times a day).
+23. lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig: One (1) Adhesive Patch, Medicated Topical DAILY (Daily).
+24. dexamethasone 1.5 mg Tablet Sig: 0.5 tablets PO DAILY (Daily).
+25. potassium chloride 20 mEq Tablet, ER Particles/Crystals Sig: One (1) Tablet, ER Particles/Crystals PO once a day.
+26. loperamide 2 mg Tablet Sig: 1-2 Tablets PO four times a day: Hold for constipation.
+27. gabapentin 300 mg Capsule Sig: One (1) Capsule PO Q 12PM .
+28. miconazole nitrate 2 % Powder Sig: One (1) Appl Topical TID (3 times a day).
+We treated you with antibiotics and your symptoms improved.
+We belive that the diarrhea is related to antibiotics and will resolve with time.
+We recommend that you take  Medication changes START Loperamide for diarrhea INCREASE Methylphenidate INCREASE Gabapentin STOP Carbidopa/levodopa STOP sodium chloride STOP Diphenhydramine  Followup Instructions: Avastin appointment.

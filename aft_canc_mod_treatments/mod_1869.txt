@@ -1,0 +1,53 @@
+Admission Date:  [**2166-2-26**]              Discharge Date:   [**2166-3-7**]  Date of Birth:  [**2114-1-15**]             Sex:   M  Service: MEDICINE  Allergies: Pegasys ProClick / Penicillins  Attending:[**First Name3 (LF) 3021**] Chief Complaint: Elective resection of L temporal mass.
+Major Surgical or Invasive Procedure: [**2166-2-26**] Left temporal craniotomy for mass resection.
+[**2166-3-4**] Bone marrow biopsy.
+He was started on Keppra and the dose has been titrated up by Dr. [**Last Name (STitle) 724**] for control of these symptoms with good effect.
+Since the increase in Keppra to 1000mg [**Hospital1 **] the patient has not experienced any numbness, tingling, difficulies with speech or episodes of disorientation.
+He presents with his wife today for surgical consultation.
+DISCHARGE LABS: [**2166-3-7**] 12:54AM BLOOD WBC-5.7 RBC-3.68* Hgb-12.1* Hct-33.9* MCV-92 MCH-32.9* MCHC-35.7* RDW-12.1 Plt Ct-309 [**2166-3-3**] 05:18AM BLOOD PT-11.6 PTT-27.3 INR(PT)-1.1 [**2166-3-7**] 12:54AM BLOOD Glucose-113* UreaN-12 Creat-0.8 Na-127* K-4.1 Cl-95* HCO3-25 AnGap-11 [**2166-3-7**] 12:54AM BLOOD ALT-51* AST-16 LD(LDH)-162 AlkPhos-45 TotBili-0.7 [**2166-3-1**] 04:00AM BLOOD CK(CPK)-407* [**2166-3-3**] 05:18AM BLOOD ALT-43* AST-14 LD(LDH)-152 CK(CPK)-248 AlkPhos-51 TotBili-0.8 [**2166-3-1**] 04:00AM BLOOD CK-MB-2 cTropnT-<0.01 [**2166-3-7**] 12:54AM BLOOD Calcium-8.2* Phos-2.8 Mg-2.3 UricAcd-2.8* [**2166-2-28**] 01:08PM BLOOD Osmolal-273* [**2166-3-5**] 05:00AM BLOOD HBsAg-NEGATIVE HBsAb-NEGATIVE [**2166-3-5**] 05:00AM BLOOD HIV Ab-NEGATIVE [**2166-3-5**] 05:00AM BLOOD HCV Ab-NEGATIVE [**2166-3-6**] 05:21PM BLOOD mthotrx-0.43 [**2166-3-7**] 12:54AM BLOOD mthotrx-0.10  Brief Hospital Course: 52yo man with histiocytosis and diabetes insipidus admitted for left temporal mass resection, preliminary pathology suspicious for lymphoma.
+Seen in Brain [**Hospital 341**] Clinic [**2166-1-17**] and scheduled for resection [**2166-2-26**].
+He was admitted to the Neurosurgery service for elective bx and resection of temporal mass.
+He was transferred to the ICU for SBP control and q1 neurochecks.
+He tolerated the procedure well, but post-operatively he showed marked word finding difficulty.
+Neuro-oncology was consulted for further management and he was then transferred to the Oncology service.
+# Left temporal lesion: Craniotomy [**2166-2-26**] confirmed high-grade B-cell lymphoma.
+High-dose methotrexate delayed for iliac lymph node biopsy and bone marrow biopsy to exclude systemic lymphoma.
+Leucovorin (or levoleucovorin) rescue started 24hrs post-chemo.
+He tolerated chemotherapy very well and the expressive aphasia resolved over days.
+- PENDING final pathology of pelvic LN and bone marrow.
+# Seizures: Continued levetiracetam 1000 mg [**Hospital1 **].
+Continued clonazepam 1mg QHS for insomnia.
+# Aphasia: Speech therapy following with services at discharge.
+Hep B viral load negative; lamivudine not given.
+# Chest pain: Troponin negative, CTA negative.
+# FEN: Regular MTX diet (no citrate, vitamin C, or carbonated beverages).
+# PPX: Heparin SC, H2 blocker, bowel regimen.
+# Access: Triple lumen central line from craniotomy d/c'd at discharge.
+Medications on Admission: CLONAZEPAM 1 mg PO at bedtime DESMOPRESSIN [DDAVP] 2 sprays times a day HYDROCHLOROTHIAZIDE 25 mg PO once a day LEVETIRACETAM 1,000 mg PO BID LISINOPRIL 10 mg PO once a day ASPIRIN 81 mg PO once a day DIPHENHYDRAMINE-ACETAMINOPHEN [TYLENOL PM]  Discharge Medications: 1. clonazepam 1 mg PO QHS.
+2. clonazepam 0.5 mg PO NOON.
+Disp:*30 Tablet(s)* Refills:*0* 3. levetiracetam 1000 mg PO BID.
+Disp:*120 Tablet(s)* Refills:*2* 4. lisinopril 10 mg PO HS.
+5. dexamethasone 4 mg PO Q6H.
+Disp:*120 Tablet(s)* Refills:*1* 6. famotidine 20 mg PO Q12H.
+8. desmopressin 10 mcg/spray Aerosol, Spray Sig: One (1) Spray Nasal NOON.
+9. acetaminophen 325-650 mg PO Q6H PRN Pain.
+10. oxycodone 5-10 mg PO Q4H Pain.
+Disp:*20 Tablet(s)* Refills:*0* 11. docusate sodium 100 mg PO BID.
+12. senna 8.6 mg PO BID PRN constipation.
+13. leucovorin calcium 5 mg Tablet Sig: 4 Tablets PO Q6H x1 days.
+Disp:*16 Tablet(s)* Refills:*0* 14. sodium bicarbonate 1300 mg PO Q6H x1 days.
+Disp:*8 Tablet(s)* Refills:*0* 15. prochlorperazine maleate 5-10mg PO Q6H PRN Nausea.
+Outpatient Speech/Swallowing Therapy Speech therapy for resolving expressive aphasia post-craniotomy.
+SIADH (syndrome of inappropriate anti-diuretic hormone) makes sodium levels low.
+Discharge Instructions: You were admitted to the hospital for a craniotomy and resection of a brain mass in the left temporal region.
+The surgery was complicated by a severe word finding difficulty, which markedly improved over several days.
+High-dose methotrexate chemotherapy was given [**2166-3-5**] and you tolerated this well, but will need to take an additional day of sodium bicarbonate and leucovorin to help the kidneys continue excreting the chemotherapy.
+This was treated with DDAVP and careful monitoring of sodium levels.
+We generally recommend taking an over the counter stool softener, such as Docusate (Colace) & Senna while taking narcotic pain medication.
+Unless directed by your doctor, do not take any anti-inflammatory medicines such as Motrin, Aspirin, Advil, and Ibuprofen etc.
+If you are being sent home on steroid medication, make sure you are taking a medication to protect your stomach (Prilosec, Protonix, or Pepcid), as these medications can cause stomach irritation.
+Make sure to take your steroid medication with meals, or a glass of milk.
+Make sure to continue to use your incentive spirometer while at home.
+Dexamethasone 4mg every six hours.
+Leucovorin every six hours for one day.
+Please return to the office in [**7-1**] days (from your date of surgery) for removal of your staples/sutures and/or a wound check.

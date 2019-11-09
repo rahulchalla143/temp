@@ -1,0 +1,70 @@
+Admission Date:  [**2128-6-7**]              Discharge Date:   [**2128-6-19**]  Date of Birth:  [**2074-2-16**]             Sex:   M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 594**] Chief Complaint: Hypotension  Major Surgical or Invasive Procedure: [**2128-6-18**]: IR-guided drainage of superficial flank complex fluid collection [**2128-6-16**]: IR-guided paracentesis, IR-guided drainage of superficial flank complex fluid collection [**2128-6-14**]: IR-guided  drainage of superficial flank complex fluid collection [**6-9**]: Diagnostic and therapeutic paracentesis, IR-guided drainage of superficial flank complex fluid collection  History of Present Illness: 54yo M with history of hepatitis C and alcoholic cirrhosis and ascites with frequent therapeutic abdominal taps, with a recent discharge from [**Hospital1 18**] for expediated liver transplant evaluation in setting of hepatic encephalopathy, elevated Cr and elevated PA pressure on TTE presenting with worsening abdominal pain and distension from OSH.
+Patient is unsure whether he received albumin after his therapeutic tap.
+At OSH, patient was found to have K of 6.2 for which he was given amp of D50, 10 units insulin and 15gm Kayexalate.
+Na of 124 and started on Bicarb drip @150ml/hr.
+Had episode of hypotension to 70s SBP at OSH and given 350cc NS bolus.
+The patient underwent diagnostic paracentesis in the ED that showed a WBC 110K with 76% PMNs with RBC count of [**Numeric Identifier 23902**].
+The patient was given a dose of ceftriaxone in the ED.
+In the MICU, the pt was treated with ceftriaxone 2g IV q24h.
+He maintained his pressures on albumin and was mentating well, so he was called out to the floor.
+Past Medical History: Alcoholic/HCV cirrhosis complicated by ascites and encephalopathy, no known varices - Prior work-up significant for + Hep C, + Hep B sAb, + Hep A, + Smooth Ab, + [**Doctor First Name **], CEA 21, AFP 285 History of alcoholism Vitamin D deficiency based on labs dated [**2128-4-1**] (VitD 11) Chronic pain from MVA in [**2119**]   Social History: Patient lives in a boarding house.
+GU: Foley in place Ext: Warm.
+Microbiology [**2128-6-18**]	MRSA SCREEN	MRSA SCREEN-PENDING	INPATIENT [**2128-6-18**]	STOOL	C. difficile DNA amplification assay-PENDING; FECAL CULTURE-PENDING; CAMPYLOBACTER CULTURE-PENDING	INPATIENT [**2128-6-18**]	PERITONEAL FLUID	GRAM STAIN-FINAL; FLUID CULTURE-PRELIMINARY; ANAEROBIC CULTURE-PRELIMINARY	INPATIENT [**2128-6-16**]	BLOOD CULTURE	Blood Culture, Routine-PENDING	INPATIENT [**2128-6-16**]	BLOOD CULTURE	Blood Culture, Routine-PENDING	INPATIENT [**2128-6-16**]	PERITONEAL FLUID	GRAM STAIN-FINAL; FLUID CULTURE-PRELIMINARY {ENTEROCOCCUS SP.
+}; ANAEROBIC CULTURE-FINAL; FUNGAL CULTURE-PRELIMINARY	INPATIENT [**2128-6-9**]	PERITONEAL FLUID	GRAM STAIN-FINAL; FLUID CULTURE-FINAL; ANAEROBIC CULTURE-FINAL; FUNGAL CULTURE-PRELIMINARY	INPATIENT [**2128-6-8**]	SWAB	R/O VANCOMYCIN RESISTANT ENTEROCOCCUS-FINAL {ENTEROCOCCUS SP.}
+INPATIENT [**2128-6-7**]	MRSA SCREEN	MRSA SCREEN-FINAL	INPATIENT [**2128-6-7**]	PERITONEAL FLUID	GRAM STAIN-FINAL; FLUID CULTURE-FINAL {ENTEROCOCCUS SP., ENTEROCOCCUS SP.
+}; ANAEROBIC CULTURE-FINAL	EMERGENCY [**Hospital1 **] [**2128-6-7**]	BLOOD CULTURE	Blood Culture, Routine-FINAL  III.
+[**6-8**] CXR: As compared to the previous radiograph, the patient has received a left PICC line.
+Cirrhotic liver and sequelae of portal hypertension.
+Cirrhotic liver and sequelae of portal hypertension.
+Brief Hospital Course: 54M history of hepatitis C and alcoholic cirrhosis not on transplant list and ascites with frequent therapeutic abdominal taps, with a recent discharge from [**Hospital1 18**] for expedited liver transplant evaluation in setting of hepatic encephalopathy, elevated Cr and elevated PA pressure on TTE, presenting with worsening abdominal pain and distension with transient hypotension from OSH found to have VRE infected left flank hematoma likely iatrogenic in setting of multiple recent paracentesis performed with elevated INR.
+He required aggressive colloid resuscitation resulting in new oxygen requirement likely multi-factorial from ?
+HCAP, atelectasis, underlying pulmonary hypertension, and ultimately became hypotensive on [**2128-6-18**] despite fluid resuscitation requiring transfer to MICU.
+In the MICU, it was confirmed that the patient understood the seriousness of his illness and the fact that he is not a candidate for transplant and therefore would not benefit from interventions such as dialysis, intubation, or resucitation which would likely be futile given his poor prognosis.
+# Vancomycin-resistant Enterococcus infected flank hematoma with peritonitis Patient was transferred to [**Hospital1 18**] ER with leukocytosis, tachycardia, hypotension, and evidence of peritonitis on paracentesis.
+He was initially admitted to MICU GREEN with relative hypotension (SBP 80) and did not require pressor support.
+He was initially treated with vancomycin and ceftiraxone in addition to brief flagyl course for presumed peritonitis.
+His ascites  grew VRE on [**2128-6-7**] and [**2128-6-9**] and eventually cleared with antibiotic therapy.
+He was started on daptomycin ([**Date range (1) 110635**]) in addition to 7-day course of ceftriaxone ([**2128-6-8**] - [**2128-6-14**]) for SBP with re-initiation of ciprofloxacin for SBP prophylaxis.
+Transplant surgery evaluated the patient given concern for secondary etiology of peritonitis such as micro-perforation in setting of recent paracenteses or nidus of infection from the hematoma.
+The patient underwent US-guided diagnostic/therapeutic paracentesis on [**6-9**] with incomplete drainage of hematoma.
+It was discussed whether or not to place a drain for the hematoma; however, upon further discussion, it was thought that the risk would outweigh the benefit given his underlying coagulopathy and the hard composition of the hematoma.
+Of note, he received albumin on day 1 and day 3 with day 3 albumin given for both SBP and the large volume repeat paracentesis performed on that day.
+He initially improved; however, he started to have relative hypotension requiring colloid resuscitation thought to be from inadequate source control necessitating multiple other attempts of drainage of the infected superficial complex fluid collection, which turned out to be purulent in nature.
+His antibiotics were broadened to flagyl, cefepime for better intra-abdominal GNR coverage and also for ?
+HCAP, and linezolid ([**6-17**]) given concern for resistance of VRE.
+In the MICU, antibiotics were initially continued, but when the decision was made to proceed with comfort-focused care, the antibiotics were discontinued.
+However, patient had trend down in SBP to high 70s/low 80s on [**2128-6-18**] again despite volume resuscitaton resulting in a trigger event and transfer back to the MICU.
+Overall, his hypotension occurred in setting of FFP infusion.
+Given his cardiopulmonary circuit issues with pulmonary hypertension, it is suspected that he may have significant RV pressure/volume overload leading to right-sided heart failure.
+His hypotension may be due to interventricular dependence with septum bowing  into the LV resulting in decreased LV cardiac output and resultant hypotension.
+He was transferred to ICU for persistent hypotension despite volume resuscitation and difficulty of further volume resuscitation in setting of oliguric renal failure.
+In the MICU, pressors were considered, but the pt's blood pressure was initially managed with albumin, and pressures were not used.
+Hypotension was likely multifactorial from ongoing sepsis with poor source control despite IR-guided drainage of hematoma in addition to decreased cardiac output in setting of R sided heart failure in setting of pulmonary and portal hypertension.
+# Cirhosis (MELD 25) Patient has history of Hepatitis C and alcoholic cirrhosis complicated by ascites requiring frequent thoracentesis despite medical therapy.
+His diuretics were held given sepsis and hypotension in addition to nadolol.
+His SBP prophylaxis was held as he is being actively treated for an abdominal infection.
+The patient was not a candidate for transplant and therefore would not benefit from interventions such as dialysis, intubation, or resucitation which would likely be futile given his poor prognosis.
+He initially responded to volume challenge earlier in hospitalization but now increased rapidly to 2.
+Likely multi-factorial from poor ECV in setting of maladapative vascular patterns in liver disease leading to ATN with component of CIN from recent contrast load, cannot exclude HRS as well.
+# Hypoxemia Patient developed oxygen requirement on [**2128-6-14**] after 4 units of FFP, albumin 25 % 50 gm IV.
+atypical infection for which he was started on HCAP coverage including cefepime and levofloxacin.
+Since he is not a transplant candidate and has persistent hypotension, therapy with vasodilators was deferred.
+He was treated with supplemental oxygen to minimize hypoxemia.
+Likely from multiple blood draws but cannot rule out bleeding from multiple paracentesis in setting of low platelets and coagulopathy although seems unlikely given non-hemorrhagic ascites.
+TSH and cortisol within normal limits.
+His sedating medications except fentanyl patch were held until the patient was made CMO.
+# Impaired skin integrity Patient has sacral area of impaired skin integrity (grade I).
+He was placed on pressure ulcer precautions.
+# Goals of Care: The patient was admitted with cirrhosis and sepsis.
+Antibiotics were initially started, but then the decision was made to proceed with comfort-focused care, so the antibiotics were discontinued.
+The patient was not candidate for transplant and, therefore, would not benefit from interventions such as dialysis, intubation, or resuscitation which would likely be futile given his poor prognosis.
+Medications on Admission: 1. fentanyl 100 mcg/hr Patch 72 hr Sig: One (1) Transdermal every seventy-two (72) hours.
+2. gabapentin 800 mg Tablet Sig: One (1) Tablet PO three times a day.
+3. lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO 5X/DAY (5 Times a Day).
+4. furosemide 40 mg Tablet Sig: One (1) Tablet PO once a day.
+5. nadolol 40 mg Tablet Sig: One (1) Tablet PO once a day.
+6. pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+7. rifaximin 550 mg Tablet Sig: One (1) Tablet PO BID (2 times a  day).
+8. spironolactone 100 mg Tablet Sig: One (1) Tablet PO once a day.
+9. sulfamethoxazole-trimethoprim 800-160 mg Tablet Sig: One (1) PO DAILY 10. tramadol 50 mg Tablet Sig: One (1) Tablet PO TID (3 times a  day).
+11. ketoconazole 2 % Cream Sig: One (1) Appl Topical [**Hospital1 **] (2 times a day).

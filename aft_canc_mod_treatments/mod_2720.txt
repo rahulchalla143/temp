@@ -1,0 +1,52 @@
+Admission Date:  [**2191-10-6**]              Discharge Date:   [**2191-10-10**]  Date of Birth:  [**2120-10-4**]             Sex:   M  Service: MEDICINE  Allergies: Penicillins / Hydralazine  Attending:[**First Name3 (LF) 2181**] Chief Complaint: Cough and Shortness of breath  Major Surgical or Invasive Procedure: central venous femoral catheter placed [**2191-10-6**] Central venous femoral catheter dc'd [**2191-10-10**] PICC line placed [**2191-10-10**]   History of Present Illness: 71 yo M with multiple medical problems including diastolic HF, [**Name (NI) 7792**], CVA in [**5-20**] with baseline L hemiparesis and limited vocalization, alzheimer's dementia, and hx of multiple resistant infections, recent admission in [**8-21**] with similar presentation, admitted from nursing home with fever, dyspnea, hypoxia, and hyperglycemia.
+Patient had a recent admission and was treated for pneumonia with vancomycin and ceftazidime for 7 days for which a PICC was placed which finished [**2191-8-27**].
+Given levo and Vanc.
+Hydrocephalus, s/p VP shunt (~[**2182**] @ [**Hospital3 **], no revisions, unknown cause) 9.
+PVD 17. h/o SIADH, with fluid restriction of 1L per day 18. h/o recurrent aspiration PNAs 20. h/o Multiple Resistant Infections: - VRE UTI ([**2190-7-7**]) - h/o ESBL Klebsiella UTI ([**2190-9-23**]) & Sputum/endotracheal ([**2190-8-19**]) - MRSA, Sputum/endotracheal ([**2190-8-19**]) - Recurrent Clostridium difficile colitis ([**2187-3-12**]) 21.
+Skin: - Stage II sacral wounds - Unstageable left heel decubitus - [**Female First Name (un) 564**] (groin & perineum) 22. h/o Partial SBO, resolved with bowel rest ([**1-/2189**]) 23. h/o BRBPR ([**9-/2190**]) 24. h/o +PPD, s/p INH rx 25. h/o Elevated LFTs 26. right suprahilar lung mass [**8-21**]   Social History: Resides in NH.
+Physical Exam: General Appearance: Thin Eyes / Conjunctiva: PERRL, Pupils dilated Head, Ears, Nose, Throat: Poor dentition, Jtube Cardiovascular: (S1: Normal), (S2: Normal) Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial pulse: Not assessed), (Right DP pulse: Present), (Left DP pulse: Present) Respiratory / Chest: (Expansion: Symmetric), (Percussion: Resonant : , Hyperresonant: ) Abdominal: Soft, Non-tender, Bowel sounds present Extremities: Right lower extremity edema: Absent, Left lower extremity edema: Absent Musculoskeletal: Unable to stand Skin:  Warm Neurologic: Responds to: Verbal stimuli, Movement: Non -purposeful, Tone: Decreased, L side paralyzed  PHYSICAL EXAM ON TRANSFER FROM MICU TO FLOOR: Vitals - T 98.9 BP 126/37 HR 86 RR 19 O2Sat 100%4L GENERAL:  Awake, not responding to verbal stimulation, groaning constantly HEENT:  PERRLA, moving eyes well but unable to do full EOM exam, MM appear slightly dry, with nasal cannula CARDIAC:  RRR no apparent murmurs rubs or gallops although difficult to hear given groaning LUNG:  Mild rhonchi bilaterally ABDOMEN:  Slightly firm and with ?tenderness to palpations around umbilical area although hard to determine, BS+, mild distention EXT:  In pneumoboots, with 1+ edema to ankles.
+Pertinent Results: BlooD cx [**2191-10-6**] x3, NGTD Urine Cx [**10-6**], [**10-7**], NGTD Stool Cx [**10-7**] -ve C.diff toxin (stool) [**10-8**] - ve  [**2191-10-7**]  SPUTUM GRAM STAIN-FINAL; RESPIRATORY CULTURE-FINAL [**2191-10-8**]  SPUTUM GRAM STAIN-FINAL; RESPIRATORY CULTURE-PRELIMINARY {STAPH AUREUS COAG +} [**2191-10-8**]  STOOL FECAL CULTURE-FINAL; CAMPYLOBACTER CULTURE-FINAL INPATIENT [**2191-10-7**]  MRSA SCREEN MRSA SCREEN-FINAL {POSITIVE FOR METHICILLIN RESISTANT STAPH AUREUS} INPATIENT  [**2191-10-10**] 05:55AM BLOOD WBC-13.2* RBC-3.70* Hgb-9.2* Hct-31.8* MCV-86 MCH-24.9* MCHC-29.0* RDW-15.1 Plt Ct-284 [**2191-10-10**] 05:55AM BLOOD Plt Ct-284 [**2191-10-10**] 01:48PM BLOOD Na-145 Cl-114* [**2191-10-10**] 05:55AM BLOOD Calcium-7.7* Phos-2.8 Mg-2.1  [**2191-10-6**] 06:50AM   WBC-32.2*# RBC-4.81# HGB-12.6*# HCT-42.4# MCV-88 MCH-26.1* MCHC-29.7* RDW-15.9* [**2191-10-6**] 06:50AM   PLT COUNT-432 [**2191-10-6**] 06:50AM   GLUCOSE-721* UREA N-72* CREAT-1.1 SODIUM-157* POTASSIUM-4.5 CHLORIDE-110* TOTAL CO2-36* ANION GAP-16 [**2191-10-6**] 07:06AM   LACTATE-3.8*  EKG: sinus tach, NA, NI, V4 TW now upright but likely lead placement, no acute STTW changes  [**2191-10-6**] CHEST, PORTABLE UPRIGHT FRONTAL VIEW: The suprahilar right lung mass is again identified, now measuring 3.9cm (previously 2.9cm).
+Shunt catheter courses over the right lung into the peritoneum.
+Brief Hospital Course: 71 year old male with multiple medical problems including diastolic HF, [**Name (NI) 7792**], CVA in [**5-20**] with baseline L hemiparesis and limited vocalization, Alzheimer's dementia, and hx of multiple resistant infections, recent admission in [**8-21**] with similar presentation, admitted from nursing home with fever, dyspnea, hypoxia, and hyperglycemia found to have sepsis/PNA.
+Hypovolemic Shock and Sepsis:He was originally admitted to the medical ICU with leukocytosis and tachypnea.
+A central venous femoral catheter was placed for access.
+He was noted to have a right apical infiltrate and enlarging right upper lobe mass on chest x-ray.
+Given his history of MRSA and ESBL Klebsiella pneumonia, he was started on vancomycin and meropenen for a total course of 14 days.
+He was given IV fluids in the ED and in the ICU.
+He was given 1 amp of atropine and 1 amp of sodium bicarbonate.
+Levophed was increased and 2 liters of normal saline were bolused.
+He was thought to be significantly hypovolemic given an increased BUN/Cr ratio, hypernatremia and physical exam.
+He was given IVF boluses and the levophed was weaned.
+He had a PICC line placed in order to receive IV antibiotics at his extended care facility, and his central venous femoral catheter was discontinued.
+Hypernatremia: He had persistent hypernatremia after fluid resuscitation and antibiotic initiation.
+He was felt to be hypovolemic and his hypernatremia improved with free water boluses via his G tube and D5W administration.
+His leukocytosis has trended down consistent with resolving infection in the setting of successful antibiotic therapy.
+Hypertension: He is on captopril, metoprolol, and clonidine as outpatient.
+He was restarted on low dose metoprolol 12.5 mg po BID during his stay and his blood pressure tolerated this well.
+He is being discharged on his home doses of metoprolol, clonidie, and captopril.
+He was managed with his home Lantus and insulin sliding scale and did not require an insulin drip.
+After initial fluid resuscitation and treatment, his blood sugars remained well-controlled.
+He was started on heparin gtt in ED.
+Cardiac enzymes were cycled and he was monitored on telemetry.
+The heparin drip was discontinued in the MICU as it was not believed he had an ischemic event.
+Medications on Admission: -Captopril 12.5 mg Tab Oral Three times daily via J-tube -Reglan 5 mg Tab Oral Four times daily via J tube -Multi-Day Tab Oral Once Daily via J tube -Levothyroxine 25 mcg Tab Oral Once Daily via J tube -Ascorbic Acid 500 mg Tab Oral Once Daily via J tube -Omeprazole 20 mg Oral Packet Oral Twice Daily via J tube -Clonidine 0.3 1 Patch Weekly(s) once per week on wednesday -Metoprolol Tartrate 25 mg Tab Oral Three times daily via J tube -JUVEN Oral Packet Oral1 Packet(s) Twice Daily via J tube -Heparin (Porcine) 5,000 unit/mL Syringe Injection Three times daily SC - Albuterol Sulfate 2.5 mg/3 mL (0.083 %) Neb Solution Inhalation 1 Solution for Nebulization(s) Every 6 hrs - [**Doctor Last Name 1819**] Aspirin 325 mg Tab Oral 1 Tablet(s) Once Daily - Peridex 0.12 % Mouthwash Mucous Membrane 15ml Mouthwash(s) Twice Daily -Lantus 100 unit/mL Sub-Q Subcutaneous 30units Solution(s) Once Daily, at bedtime -Humalog 100 unit/mL Sub-Q Subcutaneous sliding scale Solution(s) unk times daily  Discharge Medications: 1.
+Captopril 12.5 mg Tablet [**Doctor Last Name **]: One (1) Tablet PO three times a day.
+Reglan 5 mg Tablet [**Doctor Last Name **]: One (1) Tablet PO four times a day.
+Levothyroxine 25 mcg Tablet [**Doctor Last Name **]: One (1) Tablet PO DAILY (Daily).
+Ascorbic Acid 500 mg Tablet [**Doctor Last Name **]: One (1) Tablet PO DAILY (Daily).
+Omeprazole 20 mg Capsule, Delayed Release(E.C.)
+Clonidine 0.3 mg/24 hr Patch Weekly [**Doctor Last Name **]: One (1) Patch Transdermal once a week.
+Metoprolol Tartrate 25 mg Tablet [**Doctor Last Name **]: One (1) Tablet PO three times a day.
+Heparin (Porcine) 5,000 unit/mL Solution [**Doctor Last Name **]: One (1) Injection Injection TID (3 times a day).
+Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization [**Doctor Last Name **]: One (1) Nebulization Inhalation Q6H (every 6 hours).
+Aspirin 325 mg Tablet [**Doctor Last Name **]: One (1) Tablet PO DAILY (Daily).
+Chlorhexidine Gluconate 0.12 % Mouthwash [**Doctor Last Name **]: Fifteen (15) ML Mucous membrane [**Hospital1 **] (2 times a day).
+Lantus 100 unit/mL Solution [**Hospital1 **]: Thirty (30) Units Subcutaneous at bedtime.
+Humalog 100 unit/mL Solution Subcutaneous 16.
+Acetaminophen 325 mg Tablet [**Hospital1 **]: 1-2 Tablets PO Q6H (every 6 hours) as needed for pain, fever.
+Vancomycin in Dextrose 1 gram/200 mL Piggyback [**Hospital1 **]: One (1) gram Intravenous Q 12H (Every 12 Hours): Please give through [**2191-10-19**].
+Meropenem 500 mg Recon Soln [**Year (4 digits) **]: One (1) Recon Soln Intravenous Q6H (every 6 hours): Please give through [**2191-10-19**].
+Discharge Disposition: Extended Care  Facility: Roscommons  Discharge Diagnosis: Primary Diagnosis: Pneumonia Sepsis  Secondary Diagnosis: Chronic diastolic heart failure Alzheimer's dementia Chronic diastolic congestive heart failure Hypernatremia Hyperglycemia Hypertension Bradycardia   Discharge Condition: Good, vital signs stable   Discharge Instructions: You were admitted to the hospital due to difficulty breathing and low blood pressure.
+You were found to have a pneumonia and you are being treated with IV antibiotics.
+You were also given IV fluids to help rehydrate you.
+Changes to your medications: ADDED vancomycin 1000 mg IV twice daily through [**2191-10-19**] ADDED meropenem 500 mg IV four times daily through [**2191-10-19**]  If you experience worsening shortness of breath, chest pain, worsening cough, or fevers greater than 101 degrees, you should call 911 or go to the nearest hospital.

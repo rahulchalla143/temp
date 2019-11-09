@@ -1,0 +1,51 @@
+Admission Date:  [**2160-10-13**]              Discharge Date:   [**2160-10-24**]  Date of Birth:  [**2096-4-23**]             Sex:   M  Service: MEDICINE  Allergies: Penicillins / Nsaids / Rapamune  Attending:[**First Name3 (LF) 1666**] Chief Complaint: Complete Heart Block & Ventricular Tachycardia  Major Surgical or Invasive Procedure: s/p temporary pacemaker line removal s/p right PICC line placement (and removal) s/p left PICC line placement ([**2160-10-22**])   History of Present Illness: 64yo man w/ h/o multiple medical problems including [**Name (NI) 2320**], CAD, HepC/ETOH cirrhosis & HCC s/p orthotopic liver tx ('[**57**]) on prograf w/ post-transplant course complicated by renal insufficiency, tracheostomy, chronic colonization/infections w/ mult resistant organisms who was transferred from [**Location (un) 745**] [**Hospital 3714**] Hospital to [**Hospital1 18**] CCU for pacemaker/ICD placement.
+Liver transfusion for Hepatitis C/EtOH cirrhosis & hepatocellular carcinoma, on tacrolimus followed by Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 497**].
+Tracheostomy: x2, [**8-11**] for chronic vent dependency, subglottic stenosis, tracheomalacia 3.
+Family History: Non-contributory  Physical Exam: VS: T: 99.2 HR: 70 RR: 19 bp: 131/91 SpO2: 97% on ventilatory mask 0.35 FIO2 Gen: A&O*4, appears mildly distressed HEENT: PERRLA, EOMI, 2mm pupils Neck: trach, pacemaker insertion site C/D/I Heart: temp pacemaker set at HR 50/ 10mV, RRR Lung: coarse rhonchi louder on LLL than RLL Abd: soft, NT, ND Ext: 0.5cm pustule on distal lateral LLE surrounded by 1 cm erythematous border   Pertinent Results: Admission labs: [**2160-10-13**] 08:22PM URINE  COLOR-Straw APPEAR-Clear SP [**Last Name (un) 155**]-1.014 [**2160-10-13**] 08:22PM URINE  BLOOD-TR NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-NEG [**2160-10-13**] 08:22PM URINE  RBC-0-2 WBC-0-2 BACTERIA-RARE YEAST-NONE EPI-0-2 [**2160-10-13**] 08:21PM   GLUCOSE-272* UREA N-48* CREAT-2.0* SODIUM-143 POTASSIUM-4.7 CHLORIDE-101 TOTAL CO2-31 ANION GAP-16 [**2160-10-13**] 08:21PM   ALT(SGPT)-23 AST(SGOT)-20 ALK PHOS-106 TOT BILI-0.2 [**2160-10-13**] 08:21PM   ALBUMIN-3.2* CALCIUM-8.8 PHOSPHATE-4.2 MAGNESIUM-1.7 [**2160-10-13**] 08:21PM   WBC-4.8 RBC-3.03* HGB-8.8* HCT-24.7* MCV-82 MCH-29.0 MCHC-35.5* RDW-15.7* [**2160-10-13**] 08:21PM   PLT COUNT-175 [**2160-10-13**] 08:21PM   PT-12.5 PTT-25.8 INR(PT)-1.1 .
+CXR: [**2160-10-13**] FINDINGS: A temporary pacemaker lead has been placed via a left internal jugular approach and there is a defibrillator pad overlying the lower right hemithorax.
+Brief Hospital Course: A/P: 64 y.o male w/ h/o HCV cirrhosis s/p liver transplant, and several other comorbidities presents s/p complete heart block.
+Pt had temp pacer wire placed at OSH.
+His temp line was eventually removed here as there were no further signs of AV block.
+Placement of permanent pacer delayed due infectious issues.
+Pt spiked temps, had (+) bld and line cx's--bld cx grew enterococcus and PICC line grew coag negative staph.
+Given these issues, plan made for pt to have permanent pacer placed after completion of 4wk course of antibiotics, followed by 2wks of monitoring for fever and blood cultures.
+If pt is fever free and has no further positive cultures during this period, he will go for pacemaker placement with Dr. [**Last Name (STitle) **] of [**Hospital1 18**].
+Pt's right PICC line (from [**10-15**]) grew coag negative staph resistant to oxacillin.
+Pt did have pseudomonas in the sputum, which was treated for a period with cefepime.
+It may be possible to change to ampicillin for treatment of enterococcal infection (since amp sensitive); however, this was not done as pt's right arm still emdematous & slightly erythematous from thrombophlebitis (from initial PICC line, which grew coag negative staph, resistant to oxacillin).
+Pt continued on prednisone and prophylactic bactrim.
+Pt treated with Epogen & iron.
+# Baslic vein thrombophbletis: partial, non-occlusive thrombosis of Right basilic vein on U/S.
+# DM2: Pt's glucose was managed with humalog sliding scale & daily glargine.
+Albuterol & atrovent given PRN .
+Treated pain control with morphine sulfate immediate release PO.
+# Anxiety/Bipolar Depression: Pt treated w/ Ativan PRN for anxiety & zyprexa for bipolar.
+# Prophylaxis: SC Heparin, Protonix, bowel regimen PRN .
+# code status: FULL     Medications on Admission: Prograf 1 mg [**Hospital1 **] Bactrim DS one tablet per day Keflex 500mg PO q6H Diflucan 200mg PO daily Prednisone 5mg PO daily Norvasc 10 mg PO daily Protonix 40mg PO daily Olanzapine 2.5mg PO daily zinc sulfate 220 mg po daily sliding scale insulin PRN Heparin 5000 units subcutaneously TID Ativan 1mg PO q6H PRN Motrin 600mg PO PRN Hydromorphone 0.5-2mg IV q2H PRN Artificial tears Miconazole powder PRN   Discharge Medications: 1.
+Zinc Sulfate 220 mg Capsule Sig: One (1) Capsule PO DAILY (Daily).
+Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Olanzapine 2.5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1) Injection TID (3 times a day).
+Prednisone 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Polyvinyl Alcohol 1.4 % Drops Sig: 1-2 Drops Ophthalmic  PRN (as needed).
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed.
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical  PRN (as needed).
+Ipratropium Bromide 17 mcg/Actuation Aerosol Sig: Two (2) Puff Inhalation QID, PRN ().
+Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs Inhalation Q6H (every 6 hours) as needed for SOB, wheeze.
+Morphine 15 mg Tablet Sig: One (1) Tablet PO Q4-6H (every 4 to 6 hours) as needed for pain.
+Epoetin Alfa 4,000 unit/mL Solution Sig: One (1)  Injection QMOWEFR (Monday -Wednesday-Friday).
+Trimethoprim-Sulfamethoxazole 80-400 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Lorazepam 0.5 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed for anxiety/insomnia.
+Insulin Lispro (Human) 100 unit/mL Solution Sig: per Insulin Flowsheet/sliding scale  Subcutaneous qACHS.
+Dolasetron 12.5 mg/0.625 mL Solution Sig: One (1) Intravenous  Q8H (every 8 hours) as needed for nausea.
+Vancomycin 500 mg Recon Soln Sig: One (1) Recon Soln Intravenous  Q 24H (Every 24 Hours) for 20 days.
+Tacrolimus 0.5 mg Capsule Sig: One (1) Capsule PO QAM (once a day (in the morning)) as needed for s/p liver transplant.
+Tacrolimus 0.5 mg Capsule Sig: Two (2) Capsule PO QPM (once a day (in the evening)).
+Heparin Flush PICC (100 units/ml) 2 ml IV DAILY:PRN 10 ml NS followed by 2 ml of 100 Units/ml heparin (200 units heparin) each lumen Daily and PRN.
+Insulin Glargine 100 unit/mL Solution Sig: 10units Subcutaneous once a day.
+Ferrous Gluconate 300 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Secondary: Orthotopic Liver Transplant Diabetes (type II) tracheostomy Bipolar d/o Chronic Kidney Disease H/o VRE & MRSA   Discharge Condition: Good, afebrile x 7 days, cultures no growth since [**2160-10-15**], minimal activity, potassium 4.1 BUN 34 Crt 1.9   Discharge Instructions: You were admitted to the hospital with an irregular heart rhythm.
+Potassium should be checked on [**2160-10-26**] and treated PRN.

@@ -1,0 +1,58 @@
+Admission Date:  [**2112-5-9**]              Discharge Date:   [**2112-5-25**]  Date of Birth:  [**2034-8-14**]             Sex:   F  Service: MEDICINE  Allergies: Morphine / Ace Inhibitors  Attending:[**First Name3 (LF) 30**] Chief Complaint: OSH transfer for evaluation of abdominal pain  Major Surgical or Invasive Procedure: stenting of SMA and celiac arteries [**2112-5-12**]  History of Present Illness: Ms [**Known lastname 6185**] is a 77F w DM2, HTN, HL, CAD (s/p CABG), PVDz, known celiac/SMA stenosis, pAF (on home Coumadin), chr sys CHF (EF 20% [**3-/2112**]), sinus bradycardia (s/p PPM), recent admission to [**Hospital1 18**] and OSH for SOB (s/p MICU and intubation), who originally presented to OSH 4 days ago w acute on chronic abdominal pain, and is now transferred to [**Hospital1 18**] for further evaluation.
+Past Medical History: CAD s/p CABGx3 and s/p inf MI Chr sys CHF (EF 20% in [**3-/2112**]) pAF (on home Coumadin) Sinus bradycardia (s/p PPM in [**2107**]) HTN HL DM2 H/o TIAs PVD severe celiac/SMA stenosis Gout COPD CKD Stage 2 (creatinine 1.2) s/p hemigastrectomy for PUD in remote past  Social History: Lives alone in a housing complex in [**Location (un) 14663**] in a single floor apartment w/ an elevator in the building.
+Physical Exam: Exam on Admission: VS: 99.3, 94/50, 69, 20, 96% RA GEN: pleasant, ill-appearing elderly woman lying in bed supine in NAD HEENT: NC/AT, PERRL, EOMI, MMM, OP clear NECK: supple, no LAD, normal JVP CV: irregular, S1S2, no M/R/G CHEST: diffuse crackles b/l midway up ABD: +TTP in RLQ, non-distended, NABS EXTR: WWP, no C/C/E, 2+ DP/rad pulses b/l NEURO: AOx3, CNII-XII intact, [**4-12**] Motor strength in UE/LE b/l  Pertinent Results: Labs on Admission: [**2112-5-9**] 09:00PM BLOOD WBC-10.9# RBC-3.83* Hgb-11.5* Hct-35.0* MCV-91 MCH-30.1 MCHC-33.0 RDW-18.2* Plt Ct-184 [**2112-5-9**] 09:00PM BLOOD PT-36.9* PTT-31.9 INR(PT)-3.9* [**2112-5-9**] 09:00PM BLOOD Glucose-147* UreaN-20 Creat-1.2* Na-131* K-4.5 Cl-102 HCO3-19* AnGap-15 [**2112-5-9**] 09:00PM BLOOD ALT-26 AST-30 AlkPhos-70 TotBili-0.7 [**2112-5-13**] 03:00AM BLOOD Lipase-13 [**2112-5-12**] 03:44AM BLOOD CK-MB-4 cTropnT-0.03* [**2112-5-12**] 12:59PM BLOOD proBNP-[**Numeric Identifier 42758**]* [**2112-5-14**] 11:56PM BLOOD CK-MB-4 cTropnT-0.01 [**2112-5-9**] 09:00PM BLOOD Albumin-3.2* Calcium-7.6* Phos-2.5*# Mg-1.0*  Labs on Discharge: [**2112-5-25**] 08:32AM BLOOD WBC-6.2 RBC-3.16* Hgb-9.3* Hct-28.7* MCV-91 MCH-29.5 MCHC-32.4 RDW-18.8* Plt Ct-309 [**2112-5-25**] 08:32AM BLOOD PT-15.0* INR(PT)-1.3* [**2112-5-25**] 08:32AM BLOOD Glucose-144* UreaN-25* Creat-1.0 Na-135 K-4.0 Cl-97 HCO3-33* AnGap-9  Urine Studies: [**2112-5-10**] 06:04AM URINE Color-Red Appear-Hazy Sp [**Last Name (un) **]-1.014 [**2112-5-10**] 06:04AM URINE Blood-TR Nitrite-POS Protein-TR Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.5 Leuks-LG [**2112-5-10**] 06:04AM URINE RBC-8* WBC-557* Bacteri-MANY Yeast-NONE Epi-3 TransE-1 [**2112-5-10**] 06:04AM URINE CastHy-12* [**2112-5-19**] 04:08AM URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.009 [**2112-5-19**] 04:08AM URINE Blood-NEG Nitrite-NEG Protein-TR Glucose-NEG Ketone-TR Bilirub-NEG Urobiln-NEG pH-5.5 Leuks-SM [**2112-5-19**] 04:08AM URINE RBC-2 WBC-7* Bacteri-NONE Yeast-NONE Epi-1 [**2112-5-19**] 04:08AM URINE CastHy-3*  Micro Data: [**2112-5-11**], [**2112-5-15**], [**2112-5-19**]: C. Diff negative X 3 [**2112-5-10**], [**2112-5-19**]: urine cultures contaminated  Studies: [**2112-5-12**] Angiography/Cath of Mesenteric Vessels: ANGIOGRAPHIC FINDINGS: 1.
+A small brachial artery required cutdown initially for access and was repaired using interrupted Prolene sutures without difficulty.
+[**2112-5-22**] CXR, portable: There is no significant change in the right PICC line, pacemaker, sternal wires and mediastinal clips, small bilateral effusions, left greater than right, and mild interstitial edema similar in appearance compared to the prior study.
+[**2112-5-23**] KUB: Stents are seen in the upper abdomen, likely in the celiac and SMA.
+Her INR was elevated and she was given FFP with plans for EGD/Colonoscopy to further evaluate her symptoms.
+Her INR was still therapeutic and this procedure was deferred.
+On [**2112-5-12**], patient became hypoxic and tachypneic likely secondary to volume overload; she was given lasix and transferred to the MICU.
+Then she was taken to the OR by the [**Date Range 1106**] team and had a brachial artery exposure and repair with celiac artery stent x1 and superior mesenteric stent x2 placed.
+She was later transferred to the VICU on [**Hospital Ward Name 121**] 5 and given gentle hydration.
+On HD9/POD5, [**2112-5-17**], patient was advanced to regular diet which she initially tolerated with improved abdominal distension.
+She had an episode of SOB; Lasix and spironolactone was restarted.
+She was aggressively diuresed with IV Lasix and improved.
+The EGD and colonoscopy were planned given her continued symptoms of abdominal pain, nausea and vomiting, however these were deferred given her tenuous respiratory status and inability to lie flat.
+Mesenteric Ischemia: s/p SMA and celiac stents.
+Needs to be on Plavix until follow-up with Dr. [**Last Name (STitle) **] on [**2112-6-24**].
+Pulmonary Edema: Was diuresed with Lasix 60mg PO BID and this was changed to Lasix 60mg PO qday on discharge.
+Patient should be weighed daily and if weight is increased > 3lbs, her primary care doctor should be notified and Lasix dose adjusted.
+CAD/CHF: The patient was kept on Aspirin 81mg PO qday, Toprol XL 25mg PO qday, Imdur 30mg PO qday, Spironolactone 25mg PO qday, Lasix 60mg PO qday.
+Losartan was started for heart failure management and she was given 12.5mg PO qday as tolerated by her blood pressure.
+Atrial Fibrilation: Coumadin was initially held for planned EGD/Colonoscopy.
+She was discharged on Coumadin 4mg PO qday with a Lovenox bridge until INR is therapeutic.
+She should have INR checked in 2 days and Coumadin dose adjusted if elevated.
+Lovenox should be stopped when INR is > 2.0.
+She was put on colace and senna PRN for bowels and had small loose stool on the day of discharge.
+Medications on Admission: HOME MEDS: Coumadin 2mg PO daily Furosemide 40mg PO daily Spironolactone 25mg PO daily Isosorbide Dinitrate 20mg TID Metoprolol 25mg PO BID Atorvastatin 20mg PO daily Glipizide 10mg PO daily Advair 100/50 INH [**Hospital1 **] Colchicine 0.6mg PO daily Omeprazole 20mg PO daily .
+TRANSFER MEDS: Metronidazole 500mg PO TID Coumadin 4mg PO daily Isosorbide Dinitrate 20mg TID Ranolazine 1000mg PO daily Metoprolol 25mg PO BID Atorvastatin 20mg PO daily Niacin ER 500mg PO daily SLNTG PRN for chest pain RISS Advair 100/50 INH [**Hospital1 **] Albuterol 2.5mg INH q6h:prn SOB/wheezing Colchicine 0.6mg PO daily Allopurinol 300mg PO daily Omeprazole 20mg PO daily Ondansetron 4mg IV q6h:prn N/V Tylenol PRN pain/fever Tramadol 50mg PO q4h:prn pain Zolpidem 5mg PO qhs:prn insomnia   Discharge Medications: 1.
+Fluticasone-Salmeterol 100-50 mcg/Dose Disk with Device Sig: One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+Ipratropium Bromide 0.02 % Solution Sig: One (1) nebulizer Inhalation Q6H (every 6 hours) as needed for SOB, CHF.
+Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed for pain.
+Allopurinol 100 mg Tablet Sig: One (1) Tablet PO EVERY OTHER DAY (Every Other Day).
+Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily): continue through [**2112-6-22**], then discuss with Dr. [**Last Name (STitle) **].
+Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+Metoclopramide 10 mg Tablet Sig: One (1) Tablet PO QIDACHS (4 times a day (before meals and at bedtime)).
+Insulin Lispro 100 unit/mL Solution Sig: per sliding scale unit Subcutaneous four times a day: please see sliding scale.
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+Metoprolol Succinate 25 mg Tablet Sustained Release 24 hr Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily): hold if BP<100, HR<60.
+Glyburide 2.5 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Losartan 25 mg Tablet Sig: 0.5 Tablet PO QPM (once a day (in the evening)): hold for BP<100.
+Furosemide 40 mg Tablet Sig: 1.5 Tablets PO DAILY (Daily).
+Enoxaparin 30 mg/0.3 mL Syringe Sig: Thirty (30) mg Subcutaneous [**Hospital1 **] (2 times a day): Stop this medication when INR is > 2.0.
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+Warfarin 2 mg Tablet Sig: Two (2) Tablet PO Once Daily at 4 PM: please adjust dose as need based on INR.
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+Heparin Flush (10 units/ml) 1 mL IV PRN line flush Temporary Central Access-Floor:    Flush with 10 mL Normal Saline followed by Heparin as above daily and PRN.
+Plesae maintain INR between [**1-12**] and adjust coumadin as necessary.
+Isosorbide Mononitrate 30 mg Tablet Sustained Release 24 hr Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily): please give only if BP > 100.
+Please stagger medications so that they are not all given at the same time.
+PICC line Please use saline and heparin flushes for PICC line.
+Acute on chronic systolic heart failure  Secondary: - CAD status post IMI and CABG - Atrial fibrillation/SSS status post pacemaker - Stroke - CKD stage II/III - PVD status post aorto-bifemoral bypass - Diabetes mellitus type II - COPD - Hypertension - Gout - s/p hemigastrectomy for peptic ulcer disease - s/p cholecystectomy - s/p bilateral cataract surgeries   Discharge Condition: afebrile, hemodynamically stable, eating and drinking without pain, nausea or vomiting   Discharge Instructions: You were admitted to the hospital for nausea and abdominal pain.
+You had a stent placed to your arteries in your abdomen which helped your symptoms.
+You were placed on Plavix because of this stent and should continue to take it until you see Dr. [**Last Name (STitle) **] on [**2112-6-22**].
+Start Aspirin 81mg by mouth once a day.
+Stop Ranolazine 1000mg by mouth once a day.
+You should call your doctor or return to the hospital with any fevers > 100.4, chills, night sweats, chest pain, shortness of breath, abdominal pain, nausea, vomiting, leg swelling, skin rashes or any other symptoms that concern you.

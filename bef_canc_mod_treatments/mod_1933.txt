@@ -1,0 +1,37 @@
+[**Name (NI) **] wanted to be evaluated for medication change.
+Per report in the ED, he was irritable and responding to internal stimuli, but denies AH and VH.
+While on the Pyschiatry service, he slowly improved with his psychiatric medications.
+On the day of transfer to the MICU team, at 4:50 PM, he was noted to be difficult to be aroused and required sternal rub to awaken.
+Hypertension  Psych: 1.reports history of bipolar disorder/ schizophrenia diagnosed when he was 17 2.two hosptializations at [**First Name5 (NamePattern1) 745**] [**Last Name (NamePattern1) 103300**] and [**Last Name (LF) 42339**], [**First Name3 (LF) **] mother, last [**Name2 (NI) 103301**] was 5 years ago see psychiatrist Dr. [**First Name (STitle) 1169**] at [**Hospital1 2177**] 3.Denies any suicide attempts in past   Social History: Social History: No smoking, occasional alcohol, no drug use.
+Physical Exam: Physical Exam: VS: Temp: 97.9 BP: 117/98 HR: 80s RR: 28 O2sat 88% on 2L NC GEN: obese AA male on BiPAP - conversant HEENT: anicteric, OP - not assessed as on BiPAP NECK: thick, short, no LAD appreciated OP: enlarged tonsils and adenoids RESP: CTAB, no w/r/r appreciated No crackles at bases CV: distant heart sounds, RRR, no m/r/g ABD: NDNT, soft, obese EXT: no c/c/e, 2+ DP pulses SKIN: no rashes, ecchymosis, petechiae noted NEURO: arousable, A&O x 3   Pertinent Results: ADMISSION LABS: [**2131-3-26**] 10:30PM BLOOD WBC-8.8 RBC-6.39* Hgb-19.3* Hct-61.7* MCV-97 MCH-30.2 MCHC-31.2 RDW-13.7 Plt Ct-202 [**2131-3-26**] 10:30PM BLOOD Neuts-70.1* Lymphs-21.3 Monos-5.9 Eos-2.0 Baso-0.7 [**2131-3-26**] 10:30PM BLOOD PT-14.3* PTT-28.4 INR(PT)-1.2* [**2131-3-26**] 10:30PM BLOOD Glucose-112* UreaN-8 Creat-0.8 Na-139 K-4.9 Cl-90* HCO3-40* AnGap-14 [**2131-3-26**] 10:30PM BLOOD Calcium-8.9 Phos-4.0 Mg-1.9 [**2131-3-26**] 10:30PM BLOOD TSH-1.3 [**2131-3-26**] 10:33PM BLOOD Lactate-2.4* [**2131-3-26**] 10:33PM BLOOD freeCa-1.18 [**2131-3-29**] 06:30AM BLOOD %HbA1c-6.9*  CARDIAC ENZYMES [**2131-3-26**] 10:30PM BLOOD CK(CPK)-74 [**2131-3-26**] 10:30PM BLOOD CK-MB-3 cTropnT-<0.01 proBNP-55 [**2131-3-27**] 05:01PM BLOOD CK-MB-NotDone cTropnT-<0.01 .
+ARTERIAL BLOOD GASES [**2131-3-26**] 04:06PM BLOOD Type-ART Temp-36.7 pO2-55* pCO2-92* pH-7.23* calTCO2-41* Base XS-7 Intubat-NOT INTUBA Comment-O2 DELIVER [**2131-3-26**] 07:36PM BLOOD Type-ART pO2-46* pCO2-80* pH-7.29* calTCO2-40* Base XS-7 Intubat-NOT INTUBA Comment-O2 DELIVER [**2131-3-26**] 10:33PM BLOOD Type-ART PEEP-5 pO2-61* pCO2-75* pH-7.37 calTCO2-45* Base XS-13 Intubat-NOT INTUBA [**2131-3-27**] 07:02AM BLOOD Type-ART pO2-54* pCO2-74* pH-7.36 calTCO2-44* Base XS-11  CXR: [**3-26**]: IMPRESSION: Although smaller lung volumes exaggerate heart size and pulmonary vascular crowding, since [**1-26**] there has been an increase in moderate cardiomegaly, and vascular congestion in both the lungs and mediastinum just to the point of interstitial edema.
+Mr. [**Known lastname 732**] is a 43 y/o AAM w/ schizoaffective d/o, sleep apnea, asthma, obesity hypoventilation syndrome, on home o2 of 2L, bipap at night, w/ polycythemia likely [**3-3**] to hypoxemia, originally admitted for mania, transferred to micu for hypercapneic resp failure, transferred to general medicine wards for further management of pulm issues.
+# Hypercarbic Respiratory Failure: Per pulmonary, most likely secondary to either decreased resp drive from increasing patient supplemental oxygen to quickly suppressing his respiratory drive or secondary to lack of proper bipap settings.
+Patient was seen by the sleep consultants who felt that his bipap should be set as follows.
+--Bipap used every night and w/ daytime naps, setting 16/12 w/ Oxygen 2L, titrated to sats above 85-90%.
+--During the day patient should be on n/c oxygen 2-4L titrate again sats btw 85-90%.
+--Avoid given supplement oxygen above 4L n/c, if needed while in house please reconsult pulmonary medicine and check ABG.
+--cont albuterol and ipratroprium standing nebulizers q6H.
+--cont fluticasone as prescribed.
+ENT felt tonsillectomy was not necessary at this time, but that pt may benefit from procedure at a later date.
+No therapeutic indications for phlebotomy at this time.
+-Signs and symptoms to be aware of for sludging include headache, chest pain, and neurological or stroke like symptoms, numbness, weakness, sensory deficits,  # Hypertension: Patient was normotensive during his hospital stay would continue.
+-continue lisinopril 10mg , HCTZ 25mg .
+No evidence of DM HgA1C 6.9 -cont insulin sliding scale okay to d/c if sugars normalize .
+- geodon 80mg [**Hospital1 **] - valproic acid 250mg [**Hospital1 **] .
+# Hypercholesterolemia: -continue simvastatin 20mg daily.
+[**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 8952**] [**MD Number(1) 8953**]  Medications on Admission: Medications on Admission: HCTZ 25 mg po daily Lisinopril 10 mg po daily Abilify 30 mg po daily Depakote EC 500 mg daily Perphenazine 8 mg po daily .
+Medications on Transfer to MICU: Fluticasone Proprionate 110 mcg 2 puffs INH [**Hospital1 **] Ziprasidone 80 mg po BID (?60) Lisniopril 10 mg po daily HCTZ 25 mg po daily Divalproez Sodium 500 mg po BID Simvastatin 20 mg po daily Ipratroprium Bromide MDI 2 puffs INH QID Beclomethasone Dipropionate 80 mcg IN daily Acetaminophen 650 mg po q4 hours prn Aluminum-MgOH-Simethicone 30 ml po q4 hours prn MOM 30 ml po q8 hours prn Senna 1 tab po BID prn Docusate 100 mg po BID prn Albuterol 2 puffs INH q6 hours prn .
+Meds on Txfer from MICU to Floor: Fluticasone Proprionate 110 mcg 2 puffs INH [**Hospital1 **] Ziprasidone 80 mg po BID Lisniopril 10 mg po daily HCTZ 25 mg po daily Simvastatin 20 mg po daily Albuterol  q6H neb Ipratropium  q6H neb SC Heparin   Discharge Medications: 1.
+Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation Q6H (every 6 hours).
+Albuterol Sulfate 2.5 mg/3 mL Solution for Nebulization Sig: One (1)  Inhalation Q2H (every 2 hours) as needed for SOB/ wheeze.
+Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Fluticasone 110 mcg/Actuation Aerosol Sig: Four (4) Puff Inhalation [**Hospital1 **] (2 times a day).
+Ziprasidone HCl 40 mg Capsule Sig: Two (2) Capsule PO BID (2 times a day).
+Valproic Acid 250 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+Insulin Regular Human 100 unit/mL Solution Sig: as directed Injection ASDIR (AS DIRECTED).
+Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO once a day: Hold if SBP below 90.
+You were seen by the pulmonary [**Hospital1 21334**] and [**Name5 (PTitle) **] [**Name5 (PTitle) 21334**] who recommended that you continue using BiPap at night with a setting of 17/12 on 2-4L of oxygen titrating your pulse oximetry up to above 85%.
+During the day you should be on 2-4L of oxygen by nasal canula.
+Please continue to use all of your nebulizers and inhalers.

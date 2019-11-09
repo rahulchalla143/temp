@@ -1,0 +1,33 @@
+Admission Date:  [**2107-3-18**]              Discharge Date:   [**2107-3-26**]  Date of Birth:  [**2062-8-16**]             Sex:   F  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**Last Name (NamePattern4) 290**] Chief Complaint: nausea, vomiting, inability to tolerate POs  Major Surgical or Invasive Procedure: Mechanical intubation Nephrostomy tube placement   History of Present Illness: ========================================================= [**Hospital1 18**] ONCOLOGY MOONLIGHTER PGY-3 ADMISSION NOTE [**Known lastname **],[**Known firstname 8207**] F [**Numeric Identifier 87461**] Age: 44 Sex: F DATE OF ADMISSION: [**2107-3-18**] ========================================================= .
+HPI: 44 yo F with metastatic lung cancer to brain s/p recent chemotherapy (C2D1 of Taxotere on [**2107-3-2**]) who was transferred from [**Location (un) 2274**] oncology clinic with persistent nausea, vomiting, and hypotension to the 80s.
+There has been discussion with her outpatient oncologist about clinical trials with TKIs but the patient needs to off chemotherapy for one month and needs to qualify for the study.
+She continues with daily VNA pleurex drainage bilaterally was performed today, 600cc from R catheter and, 250 cc from the left catheter.
+She received 1 L of NS in her clinic for an SBP of 80, decadron, zofran, and IV morphine for her back pain in the clinic prior to transfer to the [**Hospital1 18**] ED.
+Received Ativan 2 mg IV x1 and 1 L NS in the ED.
+[**Name10 (NameIs) **] that time she had a normocytic anemia 32.5, AST 74, ALT 148, t bili 0.2, ap 97, lipase 32.
+She underwent cholecystectomy and 1 week post op developed pericardial effusion.
+Also had multiple clots in both UEs with multiple subsegmental PE's; received IVF filter and enoxaparin.
+Completed six cycles of cis/navelbine (C6D8 on [**2106-11-1**]) Chemotherapy complicated with hospital admission for neutropenia  Also concern for TB initially but seen by [**Hospital1 18**] ID, TB treatment not necessary based on subtype [**Date range (1) 87462**]- Admitted to [**Hospital1 18**] with increase in dyspnea, facial swelling.
+Continued on Lovenox [**2107-2-9**]: Taxotere #1 (in hospital) [**Date range (1) 87463**]- Readmitted with right pleural effusion, pleurex placed.
+[**2-22**]: Port placed.
+[**2107-3-2**]: Taxotere #2 .
+PMH: - Lung adenocarcinoma with known mets to brain, dx [**6-/2106**]; metastatic to brain s/p cyberknife therapy, malignant pleural and pericardial effusions s/p pericardiocentesis (see above for further details) - DVTs s/p IVC and SVC filters - Malignant pleural effusion s/p drainage - PE s/p IVF on chronic lovenox and s/p IVC filter - Mycobacterium gordonae - s/p CCY - s/p pericardiocentesis   Social History: She is originally from the [**Country 31115**] in [**2092**], lives with husband.
+Physical Exam: VS: 98.6 114/78 63 18 96% on 3 L NC GA: pleasant F AOx3, NAD HEENT: PERRLA.
+2 pleurex catheters in place bandages c/d/i BL.
+CO3-25 AnGap-14  Brief Hospital Course: A/P: 44 yo woman with metastatic lung cancer s/p six cycles of cisplatin and navelbine presenting with persistent nausea, vomiting, and hypotension presented from oncology clinic found to have obstructive uropathy and pyelonephritis.
+# Obstructive Uropathy:  The patient underwent nephrostomy tube placement by interventional radiology in attempt to alleviate obstruction likely caused by metastatic spread of primary lung cancer to the retroperitoneum.
+The patient required mechanical intubation, multiple antibiotics and pressor support to maintain adequate BPs.
+#) Stage 2 ulcer - stable  Medications on Admission: .
+Oxygen Please provide 2-4L oxygen by nasal cannula when ambulating prn  2. dexamethasone 2 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+3. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+4. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2  times a day).
+5. oxycodone-acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO every four (4) hours as needed for pain.
+6. benzonatate 100 mg Capsule Sig: One (1) Capsule PO TID (3 times a day).
+7. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+8. ipratropium bromide 17 mcg/Actuation HFA Aerosol Inhaler Sig:  Two (2) puffs Inhalation every six (6) hours.
+9. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+10. bisacodyl 5 mg Tablet, Delayed Release (E.C.)
+11. codeine-guaifenesin 10-100 mg/5 mL Syrup Sig: 5-10 MLs PO Q6H (every 6 hours) as needed for cough.
+12. enoxaparin 60 mg/0.6 mL Syringe Sig: One (1) injection Subcutaneous Q12H (every 12 hours).
+13. morphine 15 mg Tablet Sig: One (1) Tablet PO every twenty-four(24) hours as needed for pain: To be used for pain from pleurex drainages; do not drive or operate machinery.
+Discharge Medications: NA  Discharge Disposition: Expired  Discharge Diagnosis: Obstructive Uropathy Sepsis Metastatic Lung Cancer  Discharge Condition: expired   Discharge Instructions: NA  Followup Instructions: NA                                [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Name8 (MD) **] MD [**MD Number(1) 292**]  Completed by:[**2107-5-9**

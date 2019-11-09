@@ -1,0 +1,24 @@
+An EKG done at her primary care physician's office was abnormal, and she was sent to [**Location (un) **] for a stress test.
+EXAM ON ADMISSION - VITAL SIGNS:  Heart rate 80, blood pressure 130/76, respirations 20, O2 sat 99% on 2 liters nasal cannula.
+LABS ON ADMISSION:  White count 11.0, hematocrit 39.9%, platelet count 285,000, sodium 136, potassium 3.5, chloride 98, CO2 28, BUN 15, creatinine 0.8, blood glucose 100.
+Her troponin was 0.04.
+Her chest x-ray showed prominent pulmonary vasculature.
+Her EKG showed normal sinus rhythm at 80 with occasional PVCs and a right bundle branch.
+HOSPITAL COURSE:  On [**1-8**], she had an echocardiogram which showed normal LV function with an EF of 55%.
+It showed moderate aortic stenosis with a peak gradient of 43, a mean gradient of 27, and aortic valve area of 0.9 cm2.
+Her cardiac catheterization was also done on [**1-8**], and it showed normal LV systolic function.
+The surgery was performed by Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1537**] with Dr. [**Last Name (STitle) 16398**] and [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], PA-C as assistants.
+The surgery was performed under general endotracheal anesthesia with a cardiopulmonary bypass time of 160 minutes, and a crossclamp time of 111 minutes.
+The patient tolerated the procedure well and was transferred to the Cardiac Surgery Recovery Unit in normal sinus rhythm, and on Levophed and propofol drips, with two atrial and two ventricular pacing wires, and two mediastinal and one left pleural chest tube.
+By the following morning, her milrinone was able to be weaned, and she was started on lasix for diuresis.
+Her chest tubes were DC'd on this day without incident, she did receive 1 unit of packed red blood cells for a hematocrit of 24.2%.
+She had her Lopressor increased and was to receive IV Lopressor should she have anymore bursts of atrial fibrillation.
+Also on postoperative day #7, she received a repeat cardiac echo to evaluate her ejection fraction, as she had had multiple PVCs and a couple of runs of nonsustained V. tach.
+Her echocardiogram showed an ejection fraction of 55%, and the electrophysiology service felt that there would be no need for further treatment or EP studies to evaluate her nonsustained V. tach.
+She continued to receive Coumadin to achieve goal INR of 2 to 2.5, and she did continue to have intermittent, self-limited bursts of atrial fibrillation with a ventricular response rate in the 110s-120s.
+She was continued on Lopressor and amiodarone, and by [**1-27**] had achieved goal anticoagulation, and it was felt that since her bursts of atrial fibrillation were self-limited, and she remained asymptomatic and hemodynamically stable, that it would be safe for her to be discharged to home with visiting nurse services.
+DISCHARGE EXAM: LUNGS:  Clear to auscultation bilaterally.
+EXTREMITIES:  Showed 1+ pitting edema in her bilateral lower extremities.
+LABS:  White count 10.8, hematocrit 31.8%, platelet count 340,000, potassium 4.3, PT 23.8, INR 3.8.
+10.Coumadin as directed for goal INR of 2 to 2.5, and she was directed to take 1 mg on the evening of discharge.
+[**MD Number(1) 1540**]  Dictated By:[**Last Name (NamePattern1) 31272**] MEDQUIST36  D:  [**2112-1-27**]  17:30 T:  [**2112-1-27**]  17:27 JOB#:  [**Job Number 54054**]

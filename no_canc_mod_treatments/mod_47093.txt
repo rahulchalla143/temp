@@ -1,0 +1,24 @@
+Name:  [**Known lastname **],[**Known firstname **]                    Unit No:   [**Numeric Identifier 15763**]  Admission Date:  [**2159-10-22**]              Discharge Date:   [**2159-11-3**]  Date of Birth:  [**2096-10-2**]             Sex:   M  Service: SURGERY  Allergies: Nickel  Attending:[**First Name3 (LF) 270**] Addendum: Updated discharge medications as follows:  1. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+2. bisacodyl 5 mg Tablet, Delayed Release (E.C.)
+3. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+4. tolterodine 2 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+5. metformin 850 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+6. acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed for pain.
+7. famotidine 20 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 hours).
+8. atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Insulin Sliding Scale Insulin SC Sliding Scale              Breakfast           Lunch               Dinner Regular Glucose Insulin Dose 0-70   mg/dL Proceed with hypoglycemia protocol 71-100   mg/dL 0   Units 0   Units 0   Units 101-150   mg/dL 3   Units 3   Units 3   Units 151-200   mg/dL 6   Units 6   Units 6   Units 201-250   mg/dL 9   Units 9   Units 9   Units 251-300   mg/dL 12   Units 12   Units 12   Units 301-350   mg/dL 15   Units 15   Units 15   Units > 350   mg/dL Notify M.D.
+11. warfarin 5 mg Tablet Sig: One (1) Tablet PO Once Daily at 4 PM.
+12. metoprolol tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 times a day).
+Medication on admission amlodipine 10, atenolol 50, hctz 25, lisinopril 40, metformin 850'', detrol sr 4, asa 81  14. enoxaparin 80 mg/0.8 mL Syringe Sig: Eighty (80) mg Subcutaneous Q12H (every 12 hours).
+Discharge Medications: 1. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+2. bisacodyl 5 mg Tablet, Delayed Release (E.C.)
+3. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+4. tolterodine 2 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+5. metformin 850 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+6. acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed for pain.
+7. famotidine 20 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 hours).
+8. atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Insulin Sliding Scale Insulin SC Sliding Scale              Breakfast           Lunch               Dinner Regular Glucose Insulin Dose 0-70   mg/dL Proceed with hypoglycemia protocol 71-100   mg/dL 0   Units 0   Units 0   Units 101-150   mg/dL 3   Units 3   Units 3   Units 151-200   mg/dL 6   Units 6   Units 6   Units 201-250   mg/dL 9   Units 9   Units 9   Units 251-300   mg/dL 12   Units 12   Units 12   Units 301-350   mg/dL 15   Units 15   Units 15   Units > 350   mg/dL Notify M.D.
+11. warfarin 5 mg Tablet Sig: One (1) Tablet PO Once Daily at 4 PM.
+12. metoprolol tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 times a day).
+Medication on admission amlodipine 10, atenolol 50, hctz 25, lisinopril 40, metformin 850'', detrol sr 4, asa 81  14. enoxaparin 80 mg/0.8 mL Syringe Sig: Eighty (80) mg Subcutaneous Q12H (every 12 hours).

@@ -1,0 +1,68 @@
+Admission Date:  [**2121-10-20**]              Discharge Date:   [**2121-10-31**]  Date of Birth:  [**2082-7-26**]             Sex:   F  Service: MEDICINE  Allergies: Amoxicillin / Sulfa (Sulfonamides) / Bactrim / Iodine; Iodine Containing  Attending:[**Last Name (NamePattern1) 4377**] Chief Complaint: hypotension, abdominal pain transfere from OSH  Major Surgical or Invasive Procedure: midline venous catheter  History of Present Illness: 39 yo woman with h/o AML s/p related allo-PSCT [**2118**], chronic GVHD, on prednisone, cellcept, h/o CAD s/p MI and stents, h/o R brachiocephalic DVT who was in her USOH until about 1300 today when she developed acute onset of mid abdominal pain after eating a few bites of her meal.
+She described her abdominal pain as sharp and crampy at the same time, non-radiating.
+Right femoral central venous catheter was placed.
+At the OSH, she received IVF, Hydrocortisone 100 mg IV once, Ertapenem 1 gm IV, had a KUB, CT chest and abdomen.
+She was also started on Insulin gtt.
+Surgery was consulted and recommended conservative management with serial exams.
+The patient was started on heparin gtt with a bolus and transfered to [**Hospital1 18**].
+The patient was given Morpine 2 gm IV, D51/2 NS c 40 mEq KCL.
+Insulin and heparin gtt were stopped (PTT >150).
+General surgery was consulted given findings of GB wall thickening on CT from the OSH.
+AML: diagnosed [**4-14**] s/p allo-HSCT in [**10-14**] (sister was donor) Cytoxan/MTX/TBI 2.
+Neuro: alert and oriented x3, appropriate, moving all 4 extremities Skin: changes c/w GVH, hyperpigmentation of face, thick/tightened arm skin Rectal (per surgery note): trace guaiac +   Pertinent Results: [**2121-10-19**] 09:00PM URINE  RBC-[**12-1**]* WBC-0-2 BACTERIA-RARE YEAST-NONE EPI-0-2 [**2121-10-19**] 09:00PM URINE  BLOOD-LG NITRITE-NEG PROTEIN-NEG GLUCOSE-100 KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-NEG [**2121-10-19**] 09:00PM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.041* [**2121-10-19**] 09:00PM   PT-15.8* PTT-150* INR(PT)-1.4* [**2121-10-19**] 09:00PM   PLT COUNT-316 [**2121-10-19**] 09:00PM   HYPOCHROM-NORMAL ANISOCYT-2+ POIKILOCY-2+ MACROCYT-2+ MICROCYT-2+ POLYCHROM-1+ SPHEROCYT-1+ SCHISTOCY-OCCASIONAL BURR-2+ STIPPLED-2+ TEARDROP-2+ PAPPENHEI-2+ ACANTHOCY-1+ [**2121-10-19**] 09:00PM   NEUTS-85* BANDS-1 LYMPHS-4* MONOS-8 EOS-0 BASOS-0 ATYPS-1* METAS-0 MYELOS-0 YOUNG-1* [**2121-10-19**] 09:00PM   WBC-11.2* RBC-3.20* HGB-10.8* HCT-31.7* MCV-99* MCH-33.8* MCHC-34.1 RDW-16.8* [**2121-10-19**] 09:00PM   CALCIUM-7.7* PHOSPHATE-3.7 MAGNESIUM-2.2 [**2121-10-19**] 09:00PM   CK-MB-4 [**2121-10-19**] 09:00PM   cTropnT-<0.01 [**2121-10-19**] 09:00PM   GLUCOSE-280* UREA N-19 CREAT-0.5 SODIUM-135 POTASSIUM-2.5* CHLORIDE-94* TOTAL CO2-27 ANION GAP-17 [**2121-10-19**] 09:34PM   LACTATE-3.9* [**2121-10-20**] 12:22AM   PT-14.9* PTT-150* INR(PT)-1.3* [**2121-10-20**] 12:23AM   LACTATE-2.0 K+-3.5 [**2121-10-20**] 12:23AM   COMMENTS-GREEN TOP [**2121-10-20**] 04:28AM   PT-13.6* PTT-53.6* INR(PT)-1.2* [**2121-10-20**] 04:28AM   PLT COUNT-303 [**2121-10-20**] 04:28AM   WBC-10.6 RBC-2.89* HGB-9.4* HCT-28.6* MCV-99* MCH-32.6* MCHC-32.9 RDW-16.7* [**2121-10-20**] 04:28AM   CALCIUM-7.9* PHOSPHATE-3.0 MAGNESIUM-2.2 [**2121-10-20**] 04:28AM   CK-MB-3 cTropnT-<0.01 proBNP-2673* [**2121-10-20**] 11:36PM   PT-14.2* PTT-150* INR(PT)-1.3* [**2121-10-20**] 04:29PM   PTT-150.0* [**2121-10-20**] 02:23PM   CK(CPK)-21* [**2121-10-20**] 02:23PM   CK-MB-3 cTropnT-<0.01 [**2121-10-20**] 02:17PM   PTT-150* [**2121-10-20**] 04:28AM   GLUCOSE-246* UREA N-13 CREAT-0.3* SODIUM-135 POTASSIUM-3.5 CHLORIDE-99 TOTAL CO2-29 ANION GAP-11  Brief Hospital Course: In brief the patient is a 39 year old woman with AML s/p related allo-PSCT, chronic GVHD, CAD s/p MI, DM who is admitted to ICU for close monitoring given bilateral PEs and hypotension on presentation.
+- She was initially put on supplemental oxygen and started on a continuous IV heparin infusion for anticoagulation.
+Upon transfer out of the [**Hospital Unit Name 153**], her heparin was transitioned to enoxaparin 1mg/kg [**Hospital1 **] for long-term anticoagulation.
+Her supplemental oxygen was very slowly weaned off.
+Upon discharge, she wsa completely off of supplemental oxygen and able to ambulate with a walker.
+- Her CCB and beta blocker were initially held while in the [**Hospital Unit Name 153**] due to hypotension.
+Upon transfer out, her BP was stable and she was resumed on her home dose of beta blocker for rate control of her chronic sinus tachycardia.
+# CAD: hx of STEMI s/p PCI with stents.
+- She was continued on her beta blocker as above.
+She was continued on aspirin and her statin.
+Her clopidogrel was held as above since she was 11 months out from stenting and since her new enoxaparin therapy would be further increasing her risk of bleeding.
+# DM2 - Her Lantus dose was increased to 40u QAM (from a home dose of 20u) upon admission to the ICU.
+- Due to her chronic prednisone therapy, she was put on stress-dose steroids at the outside hospital.
+This was switched to prednisone upon admission to the floor and gradually tapered back to her home regimen of 5mg daily.
+She was continued on chronic CellCept and Entocort per her home regimen.
+Continued on atovaquone, acyclovir, and fluconazole.
+- A R femoral line placed at the outside hospital was d/c'ed while in the [**Hospital Unit Name 153**] .
+# Code: FULL   Medications on Admission:  1.
+Prednisone 20 mg po qd 2.
+Mycophenolate Mofetil 500 mg po qid 3.
+Acyclovir 400 mg po q 8hrs 4.
+Fluconazole 200 mg po bid 5.
+Lipitor 80 mg po qd 6.
+Folic Acid 1 mg po qd 7.
+Nexium 40 mg po qd 8.
+Clopidogrel 75 mg po qd 9.
+Aspirin 325 mg po qd 10.
+Atovaquone 750 mg/5 mL po bid 11.
+Lasix 20 mg po bid 12.
+Verapamil 180 mg Tablet po bid 13.
+Metoprolol Tartrate 100 mg po bid 14.
+Budesonide 3 mg po tid 15.
+Insulin Glargine 36 units qam 16.
+Nexium 40 mg po qd 18.
+MagOx 400 mg po bid 19.
+Potassium Chloride 20 mEq po qd .
+Acyclovir 200 mg Capsule Sig: Two (2) Capsule PO Q8H (every 8 hours).
+Budesonide 3 mg Capsule, Sust.
+Fluconazole 200 mg Tablet Sig: One (1) Tablet PO Q 12H (Every 12 Hours).
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO TID (3 times a day).
+Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+Atovaquone 750 mg/5 mL Suspension Sig: Five (5) mL PO BID (2 times a day).
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+Enoxaparin 60 mg/0.6 mL Syringe Sig: One (1) pre-filled syringe Subcutaneous Q12H (every 12 hours).
+Mycophenolate Mofetil 500 mg Tablet Sig: One (1) Tablet PO TID (3 times a day).
+Metoprolol Tartrate 50 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day): Do not take if your systolic blood pressure is less than 100, or your heart rate is less than 60 per minute.
+Oxycodone-Acetaminophen 5-325 mg Tablet Sig: One (1) Tablet PO Q4-6H (every 4 to 6 hours) as needed for pain.
+Prednisone 5 mg Tablet Sig: 1-2 Tablets PO once a day: Please take 2 tablets (10mg) per day for the next two days; after that, resume taking 1 tablet per day.
+Morphine 15 mg Tablet Sustained Release Sig: One (1) Tablet Sustained Release PO Q12H (every 12 hours).
+Lantus 100 unit/mL Solution Sig: Twenty Five (25) units Subcutaneous qam.
+Disp:*qs units* Refills:*2*   Discharge Disposition: Home With Service  Facility: All Care VNA of Greater [**Location (un) **]  Discharge Diagnosis: Primary diagnosis: bilateral pulmonary emboli  Secondary diagnoses: history of AML status-post bone marrow transplant; chronic cutaneous and GI GVHD; coronary artery disease; type 2 diabetes mellitus   Discharge Condition: stable   Discharge Instructions: You were admitted to the hospital with blood clots in both of your lungs.
+For this, you were placed on Lovenox injections twice daily; you need to continue these for at least 6 months to help prevent new clots.
+Because you were put on Lovenox, and because your coronary stent was more than 9 months ago, we have stopped your [**Location (un) **].
+Because of this, you have not received your blood pressure medication (metoprolol) for the past couple of days.
+Please take all medications as prescribed and please attend all follow-up appointments.

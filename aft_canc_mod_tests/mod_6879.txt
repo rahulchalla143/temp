@@ -1,0 +1,52 @@
+EKG normal, Trop .35 There were no signs of vomiting, incontinence.
+Read by: [**Last Name (LF) **],[**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 10592**]    Intervals Axes Rate PR QRS QT/QTc P QRS T 87 134 94 388/435 -46 23 60   ([**-1/2036**]) [**Known lastname **],[**Known firstname 2618**] [**Medical Record Number 80918**] F  75  [**2112-3-31**]  Radiology Report CHEST (PORTABLE AP) Study Date of [**2187-4-27**] 8:03 PM   [**Last Name (LF) 14311**],[**First Name3 (LF) **] EU   [**2187-4-27**] 8:03 PM CHEST (PORTABLE AP)   Clip # [**Clip Number (Radiology) 80919**] Reason: eval ETT placment    [**Hospital 93**] MEDICAL CONDITION:    75 year old woman with head injury s/p intubation REASON FOR THIS EXAMINATION:    eval ETT placment    Final Report AP PORTABLE CHEST, [**2187-4-27**] AT [**2186**] HOURS.
+The cardiac silhouette is within normal limits for size.
+DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 7411**] Approved: FRI [**2187-4-27**] 11:04 PM    Imaging Lab  [**Known lastname **],[**Known firstname 2618**] [**Medical Record Number 80918**] F  75  [**2112-3-31**]  Radiology Report CT C-SPINE W/O CONTRAST Study Date of [**2187-4-27**] 8:04 PM   [**Last Name (LF) 80310**],[**First Name3 (LF) **] EU   [**2187-4-27**] 8:04 PM CT C-SPINE W/O CONTRAST   Clip # [**Clip Number (Radiology) 80920**] Reason: r/o abnl    [**Hospital 93**] MEDICAL CONDITION:    75 year old woman with fall, ip bleed REASON FOR THIS EXAMINATION:    r/o abnl CONTRAINDICATIONS FOR IV CONTRAST:    None.
+COMPARISON: CT C-spine obtained at [**Hospital **] Hospital approximately six hours earlier.
+TECHNIQUE: Contiguous axial images were obtained through the cervical spine.
+Multiplanar reformatted images were generated.
+Recommend clinical correlation and ultrasound evaluation if not previously performed, on a non-emergent basis.
+The study and the report were reviewed by the staff radiologist.
+DR. [**First Name (STitle) 2671**] [**Doctor Last Name **] DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 7411**] Approved: SAT [**2187-4-28**] 12:41 AM    Imaging Lab  [**Known lastname **],[**Known firstname 2618**] [**Medical Record Number 80918**] F  75  [**2112-3-31**]  Radiology Report CT HEAD W/O CONTRAST Study Date of [**2187-4-27**] 8:04 PM   [**Last Name (LF) 14311**],[**First Name3 (LF) **] EU   [**2187-4-27**] 8:04 PM CT HEAD W/O CONTRAST   Clip # [**Clip Number (Radiology) 80921**] Reason: eval for interval change in ICH    [**Hospital 93**] MEDICAL CONDITION:    75 year old woman with temporal hemorrhage now sz REASON FOR THIS EXAMINATION:    eval for interval change in ICH CONTRAINDICATIONS FOR IV CONTRAST:    None.
+Recommend f/u imaging to assess for evolution.
+COMPARISON: Head CT obtained at [**Hospital **] Hospital approximately six hours earlier.
+TECHNIQUE: Contiguous axial images were obtained through the brain.
+Multiplanar reformatted images were generated.
+Paranasal sinuses and mastoid air cells are otherwise well aerated.
+Recommend followup imaging to assess for interval change as a traumatic lesion should evolve on short order.
+The study and the report were reviewed by the staff radiologist.
+DR. [**First Name (STitle) 2671**] [**Doctor Last Name **] DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 7411**] Approved: SAT [**2187-4-28**] 12:39 AM    Imaging Lab  [**Known lastname **],[**Known firstname 2618**] [**Medical Record Number 80918**] F  75  [**2112-3-31**]  Radiology Report CT PELVIS W/O CONTRAST Study Date of [**2187-4-27**] 8:06 PM   [**Last Name (LF) 80310**],[**First Name3 (LF) **] EU   [**2187-4-27**] 8:06 PM CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST   Clip # [**Clip Number (Radiology) 80922**] Reason: eval bone ?
+sternal/rib fx    [**Hospital 93**] MEDICAL CONDITION:    75 year old woman with fall, ip bleed REASON FOR THIS EXAMINATION:    eval bone ?
+COMPARISON: CT chest obtained at [**Hospital **] Hospital approximately six hours earlier.
+TECHNIQUE: MDCT-acquired axial images were obtained through the torso.
+Multiplanar reformatted images were generated.
+CT CHEST WITHOUT IV CONTRAST: An endotracheal tube and nasogastric tube are in place.
+CT PELVIS WITHOUT IV CONTRAST: The absence of intravenous or oral contrast and the presence of a right hip prosthesis severely limit evaluation of pelvic contents, including evaluation of bowel.
+Limited evaluation of solid organs and bowel in the absence of intravenous and oral contrast.
+The study and the report were reviewed by the staff radiologist.
+Lungs are hyperexpanded consistent with CT demonstrated emphysema.
+DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 5785**] Approved: SAT [**2187-4-28**] 5:02 PM    Imaging Lab  [**Known lastname **],[**Known firstname 2618**] [**Medical Record Number 80918**] F  75  [**2112-3-31**]  Radiology Report CT ABDOMEN W/CONTRAST Study Date of [**2187-4-28**] 2:15 PM   [**Last Name (LF) **],[**First Name3 (LF) 742**] NSURG SICU-B [**2187-4-28**] 2:15 PM CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST   Clip # [**Clip Number (Radiology) 80924**] Reason: per trauma [**Doctor First Name **] Contrast: OPTIRAY Amt: 100    [**Hospital 93**] MEDICAL CONDITION:    75 year old woman with trauma REASON FOR THIS EXAMINATION:    per trauma [**Doctor First Name **] CONTRAINDICATIONS FOR IV CONTRAST:    None.
+COMPARISON: Non-contrast CT of the abdomen and pelvis of [**2187-4-27**].
+CT OF THE ABDOMEN WITH CONTRAST: Extensive emphysema is noted at the lung bases.
+CT OF THE PELVIS WITH CONTRAST: There is a moderate-to-severe amount of artifact related to the patient's right total hip replacement.
+Subcentimeter hepatic hypodensities, rounded and too small to  characterize.
+The study and the report were reviewed by the staff radiologist.
+DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 4346**] DR. [**First Name (STitle) 8085**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 8086**] Approved: SUN [**2187-4-29**] 8:45 AM    Imaging Lab  [**Known lastname **],[**Known firstname 2618**] [**Medical Record Number 80918**] F  75  [**2112-3-31**]  Radiology Report CT HEAD W/O CONTRAST Study Date of [**2187-4-28**] 2:15 PM   [**Last Name (LF) **],[**First Name3 (LF) 742**] NSURG SICU-B [**2187-4-28**] 2:15 PM CT HEAD W/O CONTRAST   Clip # [**Clip Number (Radiology) 80925**] Reason: follow up    [**Hospital 93**] MEDICAL CONDITION:    75 year old woman with left temp lobe contusion REASON FOR THIS EXAMINATION:    follow up CONTRAINDICATIONS FOR IV CONTRAST:    None.
+Provisional Findings Impression: DXAe SAT [**2187-4-28**] 8:58 PM No change since [**2187-4-27**].
+TECHNIQUE: Non-contrast axial imaging was obtained through the skull vertex to the skull base.
+Repeat imaging was obtained due to patient motion.
+Recommend MRI for further evaluation.
+The study and the report were reviewed by the staff radiologist.
+DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 94**] DR. [**First Name (STitle) **] [**Name (STitle) 12563**] Approved: SUN [**2187-4-29**] 10:10 AM    Imaging Lab  [**Known lastname **],[**Known firstname 2618**] [**Medical Record Number 80918**] F  75  [**2112-3-31**]  Radiology Report MR HEAD W & W/O CONTRAST Study Date of [**2187-5-1**] 1:41 PM   [**Last Name (LF) **],[**First Name3 (LF) 742**] NSURG FA11 [**2187-5-1**] 1:41 PM MR HEAD W & W/O CONTRAST   Clip # [**Clip Number (Radiology) 80926**] Reason: eval for underlying mass / as described on CT [**2187-4-28**] Contrast: MAGNEVIST Amt: 9    [**Hospital 93**] MEDICAL CONDITION:    75 year old woman with left temporal contusion and sah after fall in bathroom.
+Evaluate for underlying mass as described on the prior CT of the head.
+COMPARISON: Prior CT of the head without contrast dated [**4-28**], [**2187**].
+TECHNIQUE: Pre-contrast axial and sagittal T1-weighted images were obtained, axial FLAIR, axial magnetic susceptibility, axial T2, diffusion-weighted sequences.
+After the administration of intravenous gadolinium contrast material, the T1-weighted images were repeated in axial T1, sagittal MP-RAGE and multiplanar reconstructions.
+In comparison with the prior CT dated [**2187-4-28**], again a focus of hemorrhage is identified on the left temporal lobe, measuring approximately 6.6 x 10.0 mm in size (4:11), the T2 and FLAIR images demonstrate multiple scattered areas of hyperintensity signal in the subcortical white matter, likely consistent with chronic microvascular ischemic changes, the sulci and ventricles are prominent, likely indicating atrophy and possibly involutional in nature.
+Results of the echo are in the reports section of this summary.
+Repeat images were obtained and were stable.
+An MRI of the brain was done and ruled out underlying mass.
+HydrALAzine 10 mg IV Q6H:PRN SBP >160 11.
+F.   Followup Instructions: PLEASE FOLLOW UP WITH YOUR PRIMARY CARE PHYSICIAN TO REVIEW YOUR HOSPITALIZATION AS WELL AS THE FINDINGS ON YOUR CAT SCAN OF YOUR ABDOMEN.
+YOU WILL ALSO NEED TO HAVE YOUR PRIMARY CARE PHYSICIAN FOLLOW YOUR BLOOD LEVELS OF YOUR DILANTIN.
+PLEASE RETURN TO THE NEUROSURGERY OFFICE IN ONE MONTH WITH A CAT SCAN OF THE BRAIN AT [**Telephone/Fax (1) **] WITH DR. [**Last Name (STitle) **].

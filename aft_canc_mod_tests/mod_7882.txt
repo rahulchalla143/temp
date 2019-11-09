@@ -1,0 +1,47 @@
+Admission Date:  [**2174-8-11**]              Discharge Date:   [**2174-8-24**]  Date of Birth:  [**2135-11-15**]             Sex:   F  Service: MEDICINE  Allergies: Prochlorperazine / Heparin Agents  Attending:[**First Name3 (LF) 3565**] Chief Complaint: Fevers  Major Surgical or Invasive Procedure: Pericardiocentesis  History of Present Illness: Ms. [**Known firstname **] [**First Name4 (NamePattern1) 2431**] [**Known lastname **] is a 38yo F ALL s/p double cord blood SCT [**1-/2173**] c/b GVHD, severe left ventricular systolic dysfunction attributed to chemotherapy for ALL as well as XRT for [**Year (4 digits) 3242**] (EF 15-20%), embolic CVA now on coumadin, asthma, hypertension and chronic kidney disease, well-known to the [**Year (4 digits) 3242**] service who was just discharged yesterday ([**2174-8-10**]) after a prolonged hospital course for acute on chronic CHF thought be be due to cardiac GVHD and acute on chronic renal failure.
+CXR was done and cardiac silloette was increased, concerning for pleural effusion.
+Blood (PICC and peripheral) and urine cultures were sent, and she was started on empiric meropenem.
+WBC 149,000; received leukapheresis, started on hydroxyurea.
+- underwent phase I induction with daunorubicin, vincristine, dexamethasone, L-asparaginase, MTX; phase II with cyclophosphamide, cytarabine, mercaptopurine, MTX - Bone Marrow Aspirate/Biopsy on [**2172-10-26**] showed no morphologic evidence of residual leukemia - underwent allo double cord blood SCT [**2173-1-11**], course complicated by neutropenic fever and acute skin GVHD - subsequent course has been complicated by pseudomonas pneumonia in [**5-15**], empiric treatment of CMV pericarditis in [**7-15**], chronic nausea and vomiting which has been treated as GVHD with steroids though colonoscopies in [**8-14**] and [**11-14**] were negative for GVHD.
+OTHER MEDICAL HISTORY: - Embolic stroke in [**3-/2174**] on coumadin - Asthma - Hypertension - Cervical Intraepithelial Neoplasia - C-section in [**2165**] - Cardiomyopathy due to early anthracycline-related cardiotoxicity [**10/2172**] - Chronic kidney disease stage III/IV, baseline creatinine ~2.0 - Chronic abdominal pain: Her workup so far has included EGD [**2173-9-5**], [**2173-11-5**] with mild signs of gastritis, no GVHD.
+Colonoscopy [**2173-8-5**], unremarkable with biospy negative for GVHD, CMV.
+She has had multiple CT scans which have demonstrated moderate ascites with interval increase, no drainable fluid collection, diverticulosis, small fat-containing umbilical hernia with mild fat stranding, no bowel obstruction.
+RUQ ultrasound revealed ascites, gallbladder wall edema presumably from third spacing, and no biliary duct dilatation.
+Physical Exam: Physical Exam on Admission: VS: T97.9/Tm 102, BP 110/67, HR 86, RR 18, 94% on 2L GEN: AOx3, NAD HEENT: Pupil equal and round.
+Pertinent Results: [**2174-8-11**] 02:07PM   UREA N-82* CREAT-2.7* SODIUM-129* POTASSIUM-4.4 CHLORIDE-90* TOTAL CO2-27 ANION GAP-16 [**2174-8-11**] 02:07PM   ALT(SGPT)-23 AST(SGOT)-75* LD(LDH)-1186* ALK PHOS-540* TOT BILI-1.9* DIR BILI-1.4* INDIR BIL-0.5 [**2174-8-11**] 02:07PM   ALBUMIN-3.6 CALCIUM-8.3* PHOSPHATE-4.2 MAGNESIUM-1.9 [**2174-8-11**] 02:07PM   WBC-4.1 RBC-2.62* HGB-8.8* HCT-24.4* MCV-93 MCH-33.7* MCHC-36.3* RDW-23.7* [**2174-8-11**] 02:07PM   NEUTS-86* BANDS-0 LYMPHS-6* MONOS-7 EOS-1 BASOS-0 ATYPS-0 METAS-0 MYELOS-0 NUC RBCS-5* [**2174-8-11**] 02:07PM   PLT SMR-VERY LOW PLT COUNT-24* [**2174-8-11**] 02:07PM   GRAN CT-3543 .
+IMAGING: CXR ([**2174-8-11**]): AP single view of the chest has been obtained with patient in upright position.
+Comparison is made with the next preceding PA and lateral chest examination of [**2174-8-3**].
+The rather general increase of the heart shadow is suggestive of pericardial effusion.
+Pulmonary vascular congestive pattern has not changed significantly; however, the previously described patchy and partially confluenting parenchymal densities persist and apparently have progressed further.
+Echo ([**2174-8-12**]):  Moderate ?partially loculated pericardial effusion without definite evidence for tamponade physiology.
+Compared with the prior study (images reviewed) of [**2174-8-4**], the pericardial effusion is larger.
+Serial evaluation is suggested.
+Echo ([**2174-8-18**]): There is mild symmetric left ventricular hypertrophy.
+Overall left ventricular systolic function is normal (LVEF 65%).
+The pulmonary artery systolic pressure could not be determined.
+There are no echocardiographic signs of tamponade.
+Echo ([**2174-8-23**]): The left atrium appears extrinsically compressed (mildly) posteriorly, possibly by a consolidated posterior pericardial effusion.
+Overall left ventricular systolic function is low normal (LVEF 50%).
+RUQ ([**2174-8-23**]): 1.
+#Sepsis: Patient presented to the clinic with fevers to 102; CXR showed increased pulmonary infiltrates and heart size.
+She received a dose of meropenem, blood and urine cultures were sent, and she was admitted directly to the ICU.
+Bronchoscopy lavage fluid was sent for pan-culture, pneumocystis smear, and CMV screen.
+CMV pneumonitis was suspected given previous BAL CMV+.
+Microbiology revealed parainfluenza 3, but no other pathogens: sputum bacterial and fungal cultures + BAL cultures/stains/labs were all negative, including negative PCRs for PCP and CMV.
+# Hypoxia: Serial CXRs showed diffuse bilateral infiltrates.
+#Pericardial Effusion: Admission CXR showed increased heart size, and the echo done on [**2174-8-12**] showed increase in pericardial effusion without evidence of tamponade.
+Patient's primary cardiologist, Dr. [**First Name (STitle) 437**] was alerted and recommended follow up with echo on [**2174-8-15**].
+Follow-up echo showed worsening moderate-to-large pericardial effusion, which was drained by bedside pericardiocentesis.
+Pericardial fluid included 30% lymphocytes and 60% macrocytes, cultures negative.
+Although she does not carry a diagnosis of cardiac GVHD, this was suspected.
+A third follow-up echo showed normal LVEF.
+She was euvolemic to slightly volume up on exam with lower extremity pitting edema.
+NiCOM maneuvers were performed and a transesophageal Balloon was placed for pleural pressure monitoring.
+Following pericardiocentesis her cardiac output improved, repeat Echo was performed, and congestive heart failure was thought not to be the cause of her declining clinical picture.
+A repeat ECHO did show worsening right ventricular function.
+#Chronic Kidney Disease: Patient baseline creatinine 2.5 - 3.0 with admission Cr of 2.7.
+Creatinine continued to rise from 3.0 to 3.7 despite IVF.
+She was transiently IV fluid and pressor-dependent with hypotension to 85/45 but maintained BP through most of her ICU stay.
+Transfused 1U PRBC for Hct 22 on ICU day 2; post-transfusion Hct 27.
+Platelet count remained low but patient did not show signs of coagulopathy.
+-metoprolol succinate 50 mg Tablet Extended Release 24 hr, One (1) Tablet Extended Release 24 hr by mouth once a day -morphine [MS Contin]15 mg Tablet Extended Release One (1) Tablet Extended Release by mouth twice a day.

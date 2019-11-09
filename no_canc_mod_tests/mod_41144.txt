@@ -1,0 +1,48 @@
+Admission Date:  [**2162-1-2**]              Discharge Date:   [**2162-1-12**]  Date of Birth:  [**2084-5-20**]             Sex:   F  Service: MEDICINE  Allergies: Sulfonamides / Levofloxacin / Iodine; Iodine Containing / Atorvastatin  Attending:[**First Name3 (LF) 7881**] Chief Complaint: Right sided chest pain  Major Surgical or Invasive Procedure: Cardiac catheterization with drug eluting stent placement.
+In the emergency room her vitals were T: 97.8, HR 54, BP: 124/44, RR: 18, O2: 93% on RA.
+She has a CXR which appears to have evidence of congestion but no clear infiltrates.
+She had an EKG which showed normal sinus rhythm, normal axis and a LBBB.
+She had cardiac enzymes which were positive at Troponin 0.72.
+She was found to have a creatinine of 1.9 which is up from her last recorded value in [**Month (only) 116**] of this year of 1.2.
+Physical Exam: Vitals: T: 98.3 BP: 120/80 HR: 60 RR: 20 O2: 99% on 2L FS: 134 General: alert, oriented, no distress HEENT: sclera anicteric, MMM Neck: JVP not elevated CV: RRR, S1 + S2, harsh SEM at RUSB, no chest wall tenderness Resp: crackles 1/3 up lung fields bilaterally, no wheezes or ronchi GI: soft, non-tender, non-distended, +BS Ext: WWP, 2+ pulses, trace edema in feet, no calf tenderness   Pertinent Results: Admission Laboratories: Hematology: WBC-12.4*# RBC-3.35* Hgb-10.2* Hct-30.2* MCV-90 MCH-30.3 MCHC-33.7 RDW-13.2 Plt Ct-298 Neuts-78.8* Lymphs-15.3* Monos-4.6 Eos-1.1 Baso-0.2 PT-13.1 PTT-23.7 INR(PT)-1.1 .
+Chemistries: Glucose-257* UreaN-51* Creat-1.9* Na-134 K-4.9 Cl-95* HCO3-29 AnGap-15 .
+Cardiac Enzymes: [**2162-1-2**] 12:45PM BLOOD CK-MB-5 BLOOD CK(CPK)-159* cTropnT-0.72* [**2162-1-3**] 12:05AM BLOOD CK(CPK)-138 CK-MB-4 cTropnT-0.71* [**2162-1-3**] 06:28AM BLOOD CK(CPK)-492* CK-MB-12* MB Indx-2.4 cTropnT-0.63* [**2162-1-4**] 05:40AM BLOOD CK(CPK)-1187* CK-MB-15* MB Indx-1.3 cTropnT-0.40* [**2162-1-4**] 11:16PM BLOOD CK(CPK)-681* CK-MB-7 cTropnT-0.44* [**2162-1-5**] 06:15AM BLOOD CK(CPK)-509* CK-MB-7 cTropnT-0.47* .
+Other: D-Dimer-4040* calTIBC-217* VitB12-882 Folate-GREATER TH Ferritn-319* TRF-167* Ret Aut-1.5 .
+Imaging: CXR PA and Lateral [**2162-1-2**]: Cardiac silhouette is enlarged.
+These findings are more apparent than the prior study and suspicious for infectious/inflammatory etiology.
+Renal Ultrasound: The right kidney measures 12.9 cm.
+This examination is not tailored for subdiaphragmatic assessment.
+The estimated right atrial pressure is 10-20mmHg.
+There is mild symmetric left ventricular hypertrophy with normal cavity size and regional/global systolic function (LVEF>55%).
+Compared with the report of the prior study (images unavailable for review) of [**2160-12-24**], regional and global left ventricular systolic function appears preserved on the current study.
+Cardiac Cathterization: 1.
+Coronary angiography in this right-dominant system revealed native three-vessel disease.
+Arterial conduit angiography revealed the LIMA to be widely patent.
+Resting hemodynamics revealed elevated right-sided filling pressures, with RVEDP 29 mmHg.
+PA pressures were elevated, with PASP 68 mmHg.
+Final angiography revealed 0% residual stenosis, no angiographically apparent dissection and TIMI3 flow (see ptca  comments).
+Continue aspirin/plavix, statin 6.
+Serial ECGs and biomarkers 8.
+CXR to check ETT placement and r/o PTX as well as assess for  infiltrate given extubation episode with emesis.
+BP control 10.
+Renal u/s with doppler   Brief Hospital Course: Assessment/Plan:  77 year old female with a history of CAD s/p CABG, hypertension, hyperlipidemia, diabetes and achalasia who originally admitted with NSTEMI and pneumonia who developed acute respiratory distress likely secondary to flash pulmonary edema requiring emergent intubation.
+She was taken to emergent cardiac catheterization where she underwent DES to the left main and LCx.
+She underwent emergent catheterization which revealed occluded vein grafts with the exception of the LIMA-LAD.
+Her cardiac enzymes did not increase following this acute event.
+Following her catheterization she did not experience any further episodes of chest pain.
+Acute on Chronic Diastolic CHF:  The patient underwent repeat echocardiogram on [**2162-1-4**] which showed mildly dilated [**Last Name (LF) **], [**First Name3 (LF) **] >55%, mild symmetric LVH, moderately thickened AV, moderate AS ([**Location (un) 109**] 1.2cm), 1+ AR, 1+ MR, mod PA systolic HTN and preserved global LV systolic function.
+She will follow up with Dr. [**Last Name (STitle) 8906**] for her heart failure and her primary care physician for [**Name Initial (PRE) **] repeat creatinine and potassium check.
+She had bilateral lower extremity ultrasounds which were negative and a CTA showed clear evidence of diffuse infiltrates.
+Hypertension: The patient was noted to have fluctuating blood pressures during this admission.
+Given that her renal function was tenuous her lisinopril was held on two different occasions with significant increase in her blood pressure.
+Acute Renal Failure: On admission the patient's creatinine was 1.9 from a baseline of 1.0.
+Her FeNa was 0.6% consistent with a prerenal etiology.
+She had bilateral renal ultrasounds which were negative for hydronephrosis.
+Anemia: On admission the patient was noted to have an hematocrit of 30.2.
+Iron function studies were consistent with anemia of inflammation.
+Her hematocrit was stable throughout this admission.
+Urinary Tract Infection:  On [**2162-1-9**] the patient was noted to have a positive UA and a WBC count of 14.
+Thyroid function tests were notable for a TSH of 0.26 with a T4 of 1.4.
+Code: Full Code   Medications on Admission: Insulin - NPH 48 in AM, 18 at bedtime Insulin - Regular 8 units in AM ICAPS - eye vitamins daily Lutein - eye vitamins [**Hospital1 **] Lucentis - eye injections q month Liquigel 2 drops each eye as needed for dryness Erythromycin eye ointment to right eye QHS Lisinopril 30 mg daily Hydrochlorothiazide 25 mg daily Synthroid 200 mcg daily Gabapentin 900 mg TID Tylenol 1000 mg TID Tylenol #3 PRN Atenolol 25 mg PO QAM Ativan 0.25 mg QAM, 0.5 mg at 4 PM Zoloft 25 mg daily Ranitidine 200 mg [**Hospital1 **] Aciphex 2 tabs QHS Tricor 48 mg daily Folic Acid 400 mcg daily Calcium 2 tabs daily Aspirin 81 mg daily  Discharge Medications: 1.
+We were concerned about a pulmonary embolism, and you underwent Lower extremity ultrasound and CT scan which were negative for blood clots.
+At this appointment, you will need to have your labs checked to evaluate your kidney function and potassium.

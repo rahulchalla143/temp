@@ -1,0 +1,36 @@
+Admission Date:  [**2158-2-1**]              Discharge Date:   [**2158-2-21**]  Date of Birth:  [**2075-9-11**]             Sex:   F  Service: MEDICINE  Allergies: Iodine; Iodine Containing  Attending:[**First Name3 (LF) 3984**] Chief Complaint: Transfer from [**Hospital3 **] for Interventional Pulmonary, ONC eval, respiratory distress  Major Surgical or Invasive Procedure: Bronchoscopy [**2-2**], [**2-12**] Tracheostomy, PEG placement [**2-16**]  History of Present Illness: Ms [**Known lastname 53382**] is an 82 year old woman with history of breast cancer, s/p mastectomy, on tamoxifen, compression fractures and a newly diagnosed lung mass, presenting from [**Hospital3 4107**] for further oncologic evaluation.
+Patient was admitted to ICU and required non rebreather mask for oxygen desaturation.
+Ceftriaxone and Azithromycin started for suspected post obstructive pneumonia.
+Patients shortness of breath continued with tachycardia and anxiety, placed on BiPAP with resolution of dyspnea.
+Pulmonologist, Dr [**Last Name (STitle) 60991**], requested evaluation for potential intervention to relieve bronchial obstruction.
+Past Medical History: - Breast cancer [**2150**], s/p modified radical mastectomy, 5 years of tamoxifen (Dr [**First Name4 (NamePattern1) 636**] [**Last Name (NamePattern1) 116**]) - Lung mass, squamous cell carcinoma?
+- COPD, on 3L NC at rest - T8 compression fracture s/p kyphoplasty - CAD s/p MI, h/o pericardial effusion - Dyslipidemia - PVD - Cervical OA - Atrial arryhtmia?
+Hypodense area within the anterior liver as described, not fully characterized using non-contrast CT technique.
+[**2-6**] MR [**Name13 (STitle) 430**] IMPRESSION: 1.
+Acute Hypoxic Respiratory Distress:  Patient is s/p trach placement as she was ventilator dependent.
+Patient's condition was multifactorial given lung cancer, prior emphysema requiring oxygen and development of post obstructive pneumonia.
+Patient was intubated and was tough to completely wean off the ventilator.
+Patient had tracheostomy placed on [**2-16**] and has been intermittantly ventilator dependent.
+Patient has been able to tolerate trach mask for increasing duration during end of hospitalization, however has not been able to be off for full 24 hours and has been intermittantly pressure support dependent.
+Patient has also been treated with course of methylprednisonlone and has been completely weaned off.
+- Continue trach mask as tolerated, goal > 24 hours - Continue Atrovent / Albuterol nebs as needed - Continue mouth rinse  # Post Obstructive Pneumonia:  In the setting of new diagnosed lung mass, patient developed LLL pneumonia and was treated with Ceftriaxone, Levofloxacin, Flagyl for a total 14 day course.
+Patient has remained afebrile and has been maintaining saturations on trach mask.
+Patient was evaluated by Radiation oncology and recieved a short course of radiation.
+Patient was also followed by the Heme/Onc service and recommended possible chemotherapy as an outpatient once patient continues to be stable.
+# Nurtrition:  Patient had PEG placed on [**2-16**] and was receiving tube feeds during her hospitalization.
+- Continue Nutren tube feeds  Medications on Admission: Transfer Medications - Solumedrol 80mg q8H - Atrovent - Xopenex - Mucinex - Spiriva - Advair 250/50 - Aspirin 81 - Prinivil (Lisinopril) 2.5 - Cardizem CD 120mg - Pravachol 40mg - Nitroglycerin - Azithromax 500mg - Zosyn 3.375mg Q6H - Trazodone 25mg QHS PRN - Caltrate - Protonix - MVI  Discharge Medications: 1.
+Heparin (Porcine) 5,000 unit/mL Solution [**Month/Day (2) **]: One (1) Injection TID (3 times a day).
+Chlorhexidine Gluconate 0.12 % Mouthwash [**Month/Day (2) **]: One (1) ML Mucous membrane [**Hospital1 **] (2 times a day): Please use if patient mechanically ventilated.
+Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler [**Hospital1 **]: Four (4) Puff Inhalation Q6H (every 6 hours).
+Ipratropium Bromide 17 mcg/Actuation Aerosol [**Hospital1 **]: Two (2) Puff Inhalation Q6H (every 6 hours).
+Aspirin 81 mg Tablet, Chewable [**Hospital1 **]: One (1) Tablet, Chewable PO DAILY (Daily).
+Diltiazem HCl 60 mg Tablet [**Hospital1 **]: One (1) Tablet PO QID (4 times a day).
+Lisinopril 5 mg Tablet [**Hospital1 **]: 0.5 Tablet PO DAILY (Daily).
+Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: One (1) Tablet,Rapid Dissolve, DR [**Last Name (STitle) **] DAILY (Daily).
+Lorazepam 0.5 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO Q8H (every 8 hours) as needed.
+Bisacodyl 5 mg Tablet, Delayed Release (E.C.)
+Senna 8.6 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO BID (2 times a day) as needed.
+Oxycodone-Acetaminophen 5-325 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO Q6H (every 6 hours) as needed for pain.
+We we unable to wean you from the ventilator and thus had to place a tracheostomy as a bridge until you are able to be off the ventilator completely.
+Additionally, you had a PEG tube placed that will allow for tube feedings.
+Followup Instructions: Please follow up with the physican at your rehab  Hematology/Oncology Please call ([**Telephone/Fax (1) 14703**] to set up an appointment in [**11-18**] weeks for evaluation for chemotherapy.

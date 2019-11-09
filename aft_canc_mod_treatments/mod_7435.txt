@@ -1,0 +1,48 @@
+Admission Date:  [**2146-9-15**]              Discharge Date:   [**2146-9-20**]  Date of Birth:  [**2075-7-3**]             Sex:   M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 3977**] Chief Complaint: Fevers  Major Surgical or Invasive Procedure: None  History of Present Illness: Mr. [**Known lastname 174**] is a 71 year old man with a history notable for hypertrophic non-obstructive cardiomyopathy, Afib, and Stage IIB squamous cell lung cancer on chemo, s/p VATS RLL lobectomy [**2146-7-25**], now C1D10 cisplatin/taxotere adjuvant chemotherapy, who presents from heme/onc clinic with febrile neutropenia, tachycardia, and hypotension.
+He was referred to [**Hospital1 18**] ED for further management.
+He was given vamcomycin and cefepime.
+He was given tylenol 1g PO.
+For Afib, he was given 4L NS, diltiazem 10mg IV, metoprolol 50mg PO, and digoxin IV 0.5mg x1, 0.25mg Q6H x2 doses, but were unable to break his rapid Afib.
+Denies chest pain, chest pressure, palpitations.
+Past Medical History: Hypertrophic Obstructive Cardiomyopathy (Cardiol Dr [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 696**]) HTN CHF (EF 55%) Bicuspid AV Mild AS ([**Location (un) 109**] 1.7 cm2) Dilated ascending aorta Cholecystectomy Hypercholesterolemia Pneumonia ([**2139**]) Left leg claudication Left inguinal hernia repair ([**2142**]) Colonic polyps (proximal descending colon; distal sigmoid colon; [**2138**] colonoscopy) Right rotator cuff injury Atrial fibrillation ([**5-/2146**]) s/p DCCV [**2146-6-16**] Right lung nodule  Social History: He previously worked at Polaroid.
+Wife recently underwent surgery for brain aneurysm.
+He has 4 children - 42, 46 year old sons - one with prior melanoma; 47 and 49 year-old daughters.
+DISCHARGE LABS [**2146-9-20**] 07:20AM BLOOD WBC-34.1* RBC-4.04* Hgb-11.6* Hct-34.6* MCV-86 MCH-28.9 MCHC-33.6 RDW-15.7* Plt Ct-196 [**2146-9-19**] 08:05AM BLOOD UreaN-6 Creat-0.8 Na-139 K-3.7 Cl-104 HCO3-26 AnGap-13 [**2146-9-20**] 07:20AM BLOOD UreaN-10 Creat-0.9 [**2146-9-19**] 04:00PM BLOOD CK(CPK)-47 [**2146-9-18**] 07:00AM BLOOD ALT-19 AST-21 AlkPhos-100 TotBili-0.2 [**2146-9-19**] 08:05AM BLOOD Calcium-8.9 Phos-3.1 Mg-2.0  Brief Hospital Course: 71 year old man with hypertrophic cardiomyopathy, AFib, squamous cell lung cancer on adjuvant chemo C1D15 on day of discharge, cis/docetaxel who presented with febrile neutropenia, Afib with RVR, and hypotension.
+He had a dose of Neulasta at time of admission.
+He remains in sinus rhythm, with adjustments to his medications this admission.
+# Afib with RVR: - The patient has a history of Afib s/p DCCV in [**5-/2146**] and is on disopyramide for rhythm control and metoprolol for rate control.
+Metoprolol has been held.
+- Med changes per discussion with cardiology:  - [**9-18**] - stopped digoxin 0.25mg daily.
+Metoprolol changed to long acting 50 mg po daily.
+Stopped heparin gtt and started back on outpt [**Month/Year (2) **].
+# Hypotension: resolved with IVF and rate control; maybe associated with infection.
+- [**2146-9-18**] WBC 19, leukocytosis now - Patient received outpt Neulasta on [**2146-9-15**].
+- Had cefepime 2g q8h  (started [**2146-9-16**], had 5 day course); Will change to cefpodoxime to continue additional 3 days of therapy.
+- vancomycin started [**9-16**], stopped [**9-19**] to tailor therapy.
+# Squamous cell lung cancer: Cycle 1 of adjuvant chemo.
+# Hyperlipidemia - continue pravastatin  Patient will follow up with oncology and cardiology as instructed.
+Medications on Admission: Preadmission medications listed are correct and complete.
+[**Name2 (NI) 62055**] Etexilate 150 mg PO BID 2.
+Disopyramide CR 240 mg PO Q12H 3.
+Lorazepam 0.5-1 mg PO Q6H:PRN anxiety 4.
+Metoprolol Succinate XL 50 mg PO Q12H 5.
+Pravastatin 80 mg PO DAILY 6.
+Aspirin 81 mg PO DAILY 7.
+Ondansetron 4-8 mg PO Q8H:PRN nausea 8.
+Prochlorperazine 5-10 mg PO Q6H:PRN nausea   Discharge Medications: 1.
+Cefpodoxime Proxetil 200 mg PO Q12H Duration: 3 Days RX *cefpodoxime 200 mg 1 tablet(s) by mouth q12 h Disp #*6 Tablet Refills:*0 2.
+Aspirin 81 mg PO DAILY 3.
+[**Name2 (NI) 62055**] Etexilate 150 mg PO BID 4.
+Disopyramide CR 200 mg PO Q12H RX *disopyramide [Norpace CR] 100 mg 2 capsule(s) by mouth twice a day Disp #*120 Capsule Refills:*1 5.
+Lorazepam 0.5-1 mg PO Q6H:PRN anxiety 6.
+Pravastatin 80 mg PO DAILY 7.
+Diltiazem Extended-Release 120 mg PO DAILY RX *diltiazem HCl 120 mg 1 capsule(s) by mouth daily Disp #*30 Capsule Refills:*1 8.
+Ondansetron 4-8 mg PO Q8H:PRN nausea 9.
+Prochlorperazine 5-10 mg PO Q6H:PRN nausea 10.
+Metoprolol Succinate XL 50 mg PO DAILY RX *metoprolol succinate 50 mg 1 tablet(s) by mouth daily Disp #*30 Tablet Refills:*1   Discharge Disposition: Home  Discharge Diagnosis: Atrial Fibrillation with RVR Neutropenic Fever Urinary Tract Infection Hypotension Hyponatremia Squamous Cell Lung Cancer   Discharge Condition: Mental Status: Clear and coherent.
+Discharge Instructions: You were admitted due to infection from having a low immune system due to the chemotherapy for lung cancer.
+A urine source of infection was discovered and you were treated with appropriate IV antibiotics, and you will complete an additional 3 day course of oral antibiotics while at home.
+Your heart rate was also very fast and needed aggressive intervention with multiple medications.
+The heart doctors helped in your management and you are now on a good regimen that controls your heart rate.
+Start taking antibiotics either tonite or tomorrow morning and finish taking pills.
+Need to discuss with your cardiologist about HEART MEDICATION management.

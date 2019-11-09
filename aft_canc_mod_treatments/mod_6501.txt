@@ -1,0 +1,57 @@
+Admission Date:  [**2164-1-1**]              Discharge Date:   [**2164-1-11**]  Date of Birth:  [**2125-5-27**]             Sex:   F  Service: MEDICINE  Allergies: Penicillins / Aspirin  Attending:[**Last Name (NamePattern1) 4377**] Chief Complaint: Fever  Major Surgical or Invasive Procedure: Placement of Peripherally inserted central venous catheter x 2 Central line placement   History of Present Illness: 38F with Burkit's lymphoma of ovary, currently on chemo therapy, presenting with acute onset fever.
+Pt was recently admitted for IVAC and intrathecal MTX treatment, and was d/c'ed home on [**12-25**].
+She underwent left ophorectomy in [**2163-10-6**], and started alternating CODOX-M (cyclophosphamide, doxorubicin, Adriamycin, vincristine with intrathecal methotrexate and cytarabine followed by high-dose systemic methotrexate) with IVAC (ifosfamide, cytarabine, etoposide and intrathecal methotrexate).
+Pt had 3L NS, Vancomycin and Cefepime.
+Pt has a PICC line placed in [**Month (only) **].
+Denies chest pain, chest pressure, palpitations.
+- [**2163-10-20**] BMBx negative for involvement by lymphoma - [**2163-10-21**] C1D1 CODOX-M with IT Cytarabine 70 mg D1, VinCRIStine 2 mg D1,8, DOXOrubicin 40 mg/m2 D1, Cyclophosphamide 800 mg/m2 D1 and 200 mg/m2 D2,3,4,5, Methotrexate 1200 mg/m2 bolus D10 and 5520 mg/m2 infused over 23 hours on D10, and IT Methotrexate 12 mg D15 - [**2163-10-22**] CSF cytology negative for involvement by lymphoma - [**2163-10-30**] HD Methotrexate 3000 mg/m2 with leucovorin rescue - [**2163-11-4**] IT Methotrexate 25 mg - [**2163-11-9**] C1D1 IVAC Etoposide 60 mg/m2 D1,2,3,4,5, Ifosfamide 1500 mg/m2 D1,2,3,4,5 with Mesna, and Cytarabine [**2152**] mg/m2 D1,2 - [**2163-11-28**] C2D1 CODOX-M with VinCRIStine 1.5 mg/m2 caped at 2 mg D1,8, DOXOrubicin 40 mg/m2 D1, Cyclophosphamide 800 mg/m2 D1, Cyclophosphamide 200 mg/m2 D2,3,4,5, and Methotrexate 3500 mg/m2 D10 with Leucovorin rescue.
+- [**2163-11-28**] C1 Rituximab 375 mg/m2 - [**2163-12-5**] C2 Rituximab 375 mg/m2 - [**2163-12-19**]- [**12-25**] IVAC C2 etoposide 60 mg/m2 and ifosfamide 1500 mg/m2 D1-5, cytarabine [**2152**] mg/m2 Q12H D1,2, and IT methotrexate 12 mg with hydrocortisone 25 mg D5 .
+Test                          Result              Reference Range/Units M.PNEUMONIAE AB  IGG, EIA     1.52  H             <=0.90 ISR   Reference Ranges:  <=0.90     Negative - no Mycoplasma Pneumoniae                        Antibody detected  0.91-1.09  Equivocal  >=1.10     Positive - Mycoplasma Pneumoniae                        Antibody detected .
+Test Name                       In Range     Out of Range Reference Range ---------                       --------     ------------ --------------- Adenovirus DNA, Quantitative Real-Time PCR   Adenovirus DNA, Qn PCR     No DNA Detected <500 Copies/mL  This test was developed and its performance characteristics have been determined by Focus Diagnostics.
+Test ---- Fungitell (tm) Assay for (1,3)-B-D-Glucans  Results                                 Reference Ranges -------                                 ---------------- <31 pg/mL                               Negative       Less than 60 pg/mL                                         Indeterminate  60 - 79 pg/mL                                         Positive       Greater than or                        equal to 80 pg/mL  .
+CLINDAMYCIN = <=0.12 MCG/ML.
+Legionella Urinary Antigen  (Final [**2164-1-2**]):       NEGATIVE FOR LEGIONELLA SEROGROUP 1 ANTIGEN.
+Furthermore, in       infected patients the excretion of antigen in urine may vary.
+CATHETER TIP-IV      Source: PICC line.
+The change is likely due to new lymph node enlargement, difficult to demonstrate in the absence of intravenous contrast infusion.
+A left-sided central venous catheter ends in the upper right atrium.
+She was started on broad spectrum antibiotics however continued to spike despite broad spectrum antibiotics.
+Viral studies including adenovirus PCR and viral sputum culture were negative.
+Patient was broadly covered with vancomycin, cefepime, micafungin, and flagyl with subsequent negative blood cultures.
+When b-glucan and galactomannan were both negative, micafungin was discontinued and fluconazole was restarted.
+Fluconazole was discontinued when the patients WBC increased.
+Cefepime was discontinued given there was no evidence of gram negative bacterial infection.
+ID was consulted and recommended adding levofloxacin for empiric coverage of atypical pneumonia for a planned 7 day course.
+PICC line was replaced and she was transitioned to ceftriaxone for a planned 4 week course.
+The patient was diuresed initially with lasix gtt then lasix boluses with symptomatic improvement.
+Cardiology was consulted and recommended initiation of IV lopressor with transition to oral TID lopressor with improvement in rate.
+This medication was discontinued as HR improved.
+# Cardiomyopathy:  Initial transthoracic echocardiogram was concerning for dilated cardiomyopathy.
+She was supported with transfusion of PRBCs and platelets to keep Hct<24 and plt<20.
+She was initially continued on neupogen dose 480mcg.
+Counts improved over the course of admission and neupogen was discontinued.
+Continued Acyclovir and Bactrim prophylaxis.
+She is scheduled for a repeat PET as an outpatient.
+TRANSITIONAL ISSUES - Patient will follow-up with Dr. [**First Name (STitle) **] - Patient was full code throughout this admission  Medications on Admission: 1. acyclovir 400 mg q8h 2. butalbital-acetaminophen-caff 50-325-40 mg qd prn headache 3. clotrimazole 10 mg Troche tid prn mucosa membrane 4. norethindrone acetate 5 mg qd 5. omeprazole 20 mg Capsule qd 6. prochlorperazine maleate 10 mg q6 prn nausea 7. sulfamethoxazole-trimethoprim 400-80 mg qd 8. lamivudine 100 mg qd 9. docusate sodium 100 mg qd when on narcotics 10.
+Neupogen 300 mcg/mL Solution Sig: One (1) injection (300 mcg) Injection once a day: To start on [**12-26**].
+11. lorazepam 0.5 mg q6-8 h prn anxiety 12.
+Ciprofloxacin 500 mg qd 13. fluconazole 200 mg qd   Discharge Medications: 1. acyclovir 400 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 hours).
+2. sulfamethoxazole-trimethoprim 400-80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+3. lamivudine 100 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+4. norethindrone acetate 5 mg Tablet Sig: One (1) Tablet PO daily ().
+5. lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for anxiety.
+6. ceftriaxone in dextrose,iso-os 2 gram/50 mL Piggyback Sig: Two (2) gram  Intravenous Q24H (every 24 hours) for 18 days.
+Disp:*36 gram * Refills:*0* 7. levofloxacin 750 mg Tablet Sig: One (1) Tablet PO DAILY (Daily) for 2 days.
+Disp:*100 ML(s)* Refills:*0* 9. benzonatate 100 mg Capsule Sig: Two (2) Capsule PO TID (3 times a day) as needed for cough.
+Disp:*30 Capsule(s)* Refills:*0* 10. clotrimazole 10 mg Troche Sig: One (1)  Mucous membrane three times a day as needed for mucosal irritation.
+11. omeprazole 20 mg Capsule, Delayed Release(E.C.)
+12. prochlorperazine maleate 10 mg Tablet Sig: One (1) Tablet PO every six (6) hours as needed for nausea.
+13. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO once a day as needed for constipation.
+You started on antibiotics through your IV which you will need to continue until [**1-29**].
+You were given medications to help remove this fluid and to help control your heart rate.
+A repeat ultrasound of your heart was normal.
+We made the following changes to your medications 1.
+START Ceftriaxone 2 g daily for 18 more days 2.
+START Levofloxacin for 2 more days 3.
+START codeine-guaifenesin as needed for cough 4.
+STOP Fluconazole  You should continue to take all other medications as instructed.

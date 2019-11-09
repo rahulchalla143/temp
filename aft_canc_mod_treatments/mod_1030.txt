@@ -1,0 +1,68 @@
+Admission Date:  [**2192-8-1**]              Discharge Date:   [**2192-9-5**]  Date of Birth:  [**2113-8-9**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 11754**] Chief Complaint: lightheadedness at clinic neutropenic fever myelodypslastic syndrome  Major Surgical or Invasive Procedure: blood, platelet transfusions IV antibiotics Diverting transverese colosteomy w/ rod placement and removal Permacath placement   History of Present Illness: This is a 78 year old male with a history of aplastic anemia requiring chronic transfusions who presents from clinic where he was getting his labs drawn.
+He states his temperature was elevated at clinic, and was 100.7 orally in ED.
+Given some questions about a history of TB, he was treated with INH for one month and then started on prednisone 60mg daily on [**2192-7-5**].
+However, given a concern for this in face of starting steroids, Mr. [**Known lastname 22093**] is being treated with Isoniazid and Pyridoxine since [**2192-5-29**].
+CT RECONSTRUCTION  [**2192-8-2**] 6:12 PM CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST INDICATION: Gram-negative rod sepsis, febrile neutropenic, on steroids, evaluate for perforation colitis or abscess.
+CT CHEST W/O CONTRAST  [**2192-8-6**] 4:12 PM INDICATION: Latent TB, on treatment, but now with steroids and new fevers.
+Additional considerations include fungal organisms, Nocardia, and bacterial pathogens.
+worsening pulmonary nodules, starting empiric voraconazole Comparison was done to the CT chest of [**2192-8-6**].
+Calcified and atrophic left kidney is suggestive of prior tuberculous infection.
+Procedure date [**2192-8-18**]; Tissue received [**2192-8-21**] PERIANAL TISSUE Skin and subcutaneous tissue with acute inflammation and necrosis.
+LINE PLACEMENT  [**2192-8-19**] 12:01 AM Reason: s/p CVL placement IMPRESSION: Support lines and tubes in satisfactory position, possible lower lobe pneumonia.
+Blood sugars have been well controlled on ISS and [**Hospital1 **] FS, now discontinued since off steroids.
+Portacath placed [**9-3**] and central line pulled, sent for culture.
+# Febrile neutropenia - Patient initially presented with febrile neutropenia and was started on cefepime.
+No vancomycin was administered given no history of permanent lines.
+Given concern for immune supression from steroids as well as lack of benefit for his aplastic anemia, his prednisone was tapered off.
+In addition, Mr. [**Known lastname 22093**] was continued on INH and Vitamin B6 for suppression of his suspected prior tuberculosis.
+He was also started on atovaquone for PCP [**Name Initial (PRE) 1102**].
+TB-PCR was negative and nothing grew out on BAL cultures, but eventually returned PCR pos for HSV.
+Acyclovir was started on [**2192-8-16**].
+On [**8-13**] liposomal amphotericin was started as empiric coverage for fungal infection and vancomycin was added for broader bacterial coverage.
+Patient was started on metoprolol 25mg [**Hospital1 **] per cardiology.
+Per psychiatry, change in behavior was due to encephalopathy from infection and recommended head MR, haldol IV at night and treating his infection.
+On [**8-17**], cefipime was discontinued and tobramycin, clindamycin and zosyn were started for better pseudamonal coverage.
+Patient tolerated the surgery well, was extubated and subsequently returned to 7 Feldburg [**8-20**] where he continued to be afebrile, tolerating a full diet and weaned off oxygen.
+On [**8-21**] G-CSF was started to promote wound healing.
+Clindamycin and tobramycin were discontinued and changed to ciprofloxacin.
+Acyclovir was discontinued on [**8-23**], ambisome on [**8-25**], and vancomycin on [**8-26**].
+Swab of perineum at time of surgery grew VRE, pseudamonas and corynebacterium.
+Vancomycin was discontinued and daptomycin was begun on [**8-27**].
+Atovaquone was discontinued on [**8-30**] and ciprofloxacillin was discontinued on [**9-4**].
+He will continue to take zosyn and daptomycin until [**9-10**].
+He will continue on INH until follow-up at [**Hospital **] clinic on [**10-7**].
+# Rectal abscess/tranverse colostomy - CT abd, pelvis showed perirectal abscess, found to have a rectal fistula into perineal and scrotal region, s/p OR drainage of the abscess and a diverting transverse colostomy; ostomy care and surgery following - rod removed from ostomy [**9-1**] - TID dressing changes of peri-rectal abscess .
+# Hypertension - on metoprolol 50mg [**Hospital1 **] - consider increasing metoprolol if still hypertensive - disctoniued captopril as it  can cause neutropenia .
+# Anemia, thrombocytopenia, agranulocytosis - pt had gradual worsening of his anemia, requiring several blood transfusions over the course of his admission.
+Following platelet transfusion, his hemorrhoidal bleeding stopped.
+Patient continued to require interval transfusions secondary to his aplastic anemia.
+Mr. [**Known lastname 22093**] was tapered off prednisone in order to promote healing of his rectal wound and started G-CSF, neutropenic, ANC stable.
+Still requiring intermittent platelet transfusions for counts <10K.
+Rifampin was discontinued as ID was comfortable with a single [**Doctor Last Name 360**].
+# PPx - PPI, no need for anticoagulation given thrombocytopenia, avoid all heparin products .
+# code - full  Medications on Admission: Prednisone 60mg PO daily (since [**7-5**]) pantoprazole 40mg PO daily folic acid 1mg PO daily, isoniazid 300mg PO daily (since [**5-29**]) pyridoxone 50mg PO daily (since [**5-29**])  Discharge Medications: 1.
+Isoniazid 300 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Pyridoxine 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Prochlorperazine 10 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed.
+Diphenhydramine HCl 25 mg Capsule Sig: One (1) Capsule PO Q6H (every 6 hours) as needed for transfusion.
+Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4-6H (every 4 to 6 hours) as needed for fever.
+Hydrocortisone 2.5 % Cream Sig: One (1) Appl Rectal TID (3 times a day).
+Lidocaine HCl 5 % Ointment Sig: One (1) Appl Topical  [**Hospital1 **] (2 times a day) as needed.
+Zinc Oxide-Cod Liver Oil 40 % Ointment Sig: One (1) Appl Topical  PRN (as needed).
+Nystatin 100,000 unit/g Cream Sig: One (1) Appl Topical  [**Hospital1 **]  () as needed.
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Methylphenidate 5 mg Tablet Sig: One (1) Tablet PO QAM (once a day (in the morning)).
+Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical  QID (4 times a day) as needed.
+Metoprolol Tartrate 50 mg Tablet Sig: 1.5 Tablets PO BID (2 times a day).
+Morphine Sulfate 1-5 mg IV Q4H:PRN 17.
+Daptomycin 300 mg IV Q24H 19.
+Medication zosyn and daptomycin to be continued until [**2192-9-10**]   Discharge Disposition: Extended Care  Facility: [**Hospital3 **] Hospital  Discharge Diagnosis: 1.
+Rectal abscess s/p debridement 3.
+Aplastic anemia with anemia, thrombocytopenia, and agranulocytosis 5. s/p colonic resection with diverting ostomey 6.
+Take medications as directed.
+(Please continue daptomycin and zosyn until [**9-10**]).
+Continue isoniazid until ID appointment on [**10-12**].
+Check post platelet count.
+If <10,000, repeat procedure above until plts >10,000.

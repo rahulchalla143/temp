@@ -1,0 +1,49 @@
+Patient presented to his PCP [**Last Name (NamePattern4) **] [**2101-4-21**], upon which labs were drawn.
+He was noted to have WBC of 150K, Hct 17.5.
+Further studies showed that he had PT 19.5, PTT 42, K 2.0, Cr 2.8.
+A head CT was done and was reported as negative and CXR did not show any acute pathology.
+Fecal occult blood test was done which was positive.
+Patient was transfered to [**Hospital1 18**] for further management.
+In the [**Hospital1 18**] ED, initial vitals were as follows:  T 96.0  P 91 BP 96/40  R 18  Sat 100% 2L NC.
+Vitals in ED prior to transfer were as follows: BP 85/29  HR 106  RR 22 O2sat95% RA.
+Physical Exam: On admission: Vitals: T: 98.9  BP: 99/47  P: 108  R: 25  O2: 93%RA General: Alert, oriented x 3, patient appears comfortable, pleasant and cooperative, no acute distress HEENT: contusion present in left occipital area, sclera anicteric, PERRL, EOMI, no conjunctival hemorrhage, MMM, oropharynx clear, + gingival hyperplasia Neck: supple, JVP not elevated, enlarged 2 cm lymph node in left submandibular area, no cervical or supraclavicular LAD Lungs: Clear to auscultation bilaterally, no wheezes, rales, rhonchi CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops, PMI not displaced Abdomen:  soft, obese, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly, noted ecchymosis in RLQ GU: no foley Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema; ecchymosis present at right antecubital area, no petechiae or purpura on upper or lower extremities, no peripheral lesions Neuro: CNs II-XII intact, sensation intact to LT, 5/5 strength in all muscle groups, all extremities, [**Doctor First Name **] intact, 2+ reflexes in all extremities  At discharge:  Pertinent Results: ADMISSION LABS -------------- [**2101-4-22**] 03:22PM BLOOD WBC-119.9* RBC-1.65* Hgb-5.8* Hct-15.7* MCV-95 MCH-35.0* MCHC-36.7* RDW-15.8* Plt Ct-94* [**2101-4-22**] 03:22PM BLOOD Neuts-2* Bands-0 Lymphs-11* Monos-83* Eos-0 Baso-0 Atyps-2* Metas-0 Myelos-0 Other-2* [**2101-4-22**] 03:22PM BLOOD PT-22.1* PTT-36.4* INR(PT)-2.0* [**2101-4-22**] 03:48PM BLOOD Fibrino-609* [**2101-4-22**] 03:48PM BLOOD Gran Ct-2800 [**2101-4-22**] 03:22PM BLOOD Glucose-116* UreaN-40* Creat-2.7* Na-134 K-2.3* Cl-95* HCO3-27 AnGap-14 [**2101-4-22**] 03:48PM BLOOD ALT-72* AST-68* LD(LDH)-622* AlkPhos-84 TotBili-0.5 [**2101-4-22**] 03:48PM BLOOD Albumin-3.1* Calcium-6.7* Phos-4.3 Mg-1.1* UricAcd-15.2* [**2101-4-22**] 09:32PM BLOOD freeCa-0.86*  DISCHARGE LABS --------------  MICROBIOLOGY: all results are negative to date.
+------------ [**2101-5-13**] BLOOD CULTURE Blood Culture, Routine-PENDING [**2101-5-11**] BLOOD CULTURE Blood Culture, Routine-PENDING [**2101-5-11**] BLOOD CULTURE Blood Culture, Routine-PENDING [**2101-5-10**] URINE URINE CULTURE-FINAL [**2101-5-10**] URINE Chlamydia trachomatis, Nucleic Acid Probe, with Amplification-FINAL [**2101-5-10**] URINE URINE CULTURE-FINAL [**2101-5-8**] BLOOD CULTURE Blood Culture, Routine-FINAL [**2101-5-7**] BLOOD CULTURE Blood Culture, Routine-FINAL [**2101-5-7**] BLOOD CULTURE Blood Culture, Routine-FINAL [**2101-5-6**] BLOOD CULTURE Blood Culture, Routine-FINAL [**2101-5-6**] BLOOD CULTURE Blood Culture, Routine-FINAL [**2101-5-5**] BLOOD CULTURE Blood Culture, Routine-FINAL [**2101-5-5**] BLOOD CULTURE Blood Culture, Routine-FINAL [**2101-5-5**] URINE URINE CULTURE-FINAL [**2101-5-2**] BLOOD CULTURE Blood Culture, Routine-FINAL [**2101-5-2**] BLOOD CULTURE Blood Culture, Routine-FINAL [**2101-5-1**] STOOL OVA + PARASITES-FINAL; CLOSTRIDIUM DIFFICILE TOXIN A & B TEST-FINAL [**2101-5-1**] URINE URINE CULTURE-FINAL [**2101-5-1**] BLOOD CULTURE Blood Culture, Routine-FINAL [**2101-4-29**] URINE URINE CULTURE-FINAL [**2101-4-26**] BLOOD CULTURE Blood Culture, Routine-FINAL [**2101-4-26**] URINE URINE CULTURE-FINAL [**2101-4-25**] BLOOD CULTURE Blood Culture, Routine-FINAL [**2101-4-24**] BLOOD CULTURE Blood Culture, Routine-FINAL [**2101-4-24**] BLOOD CULTURE Blood Culture, Routine-FINAL [**2101-4-24**] STOOL CLOSTRIDIUM DIFFICILE TOXIN A & B TEST-FINAL [**2101-4-22**] BLOOD CULTURE Blood Culture, Routine-FINAL [**2101-4-22**] URINE URINE CULTURE-FINAL [**2101-4-22**] MRSA SCREEN MRSA SCREEN-FINAL [**2101-4-22**] BLOOD CULTURE Blood Culture, Routine-FINAL  IMAGING ------- [**2101-4-22**] BM biopsy: MARKEDLY HYPERCELLULAR BONE MARROW EXTENSIVELY INVOLVED BY ACUTE MYELOID LEUKEMIA WITH MONOCYTIC DIFFERENTIATION.
+MICROSCOPIC DESCRIPTION Peripheral Blood Smear: The smear is adequate for evaluation.
+The white blood cell count appears markedly increased and comprised of almost entirely of neoplastic promonocytes an occasional mature monocyte.
+Platelet count appears decreased, occasional large forms are seen.
+Differential count shows 5% neutrophils, 0% bands, 1% lymphocytes, 11% monocytes, 0% eosinophils, 0% basophils, 83% blasts and promonocytes.
+Differential (500 cells) shows: 58% Blasts and promonocytes, 2% Promyelocytes, 6% Myelocytes, 3% Metamyelocytes, 8% Bands/Neutrophils, <1% Plasma cells, 13% Lymphocytes, 9% Erythroid.
+Overall left ventricular systolic function is normal (LVEF>55%).
+[**2101-4-22**] Chest X-ray: The cardiac silhouette and mediastinum is grossly normal.
+[**2101-4-26**] CT chest: Diffuse predominantly peribronchial parenchymal opacities suggesting recent infection.
+Subtle changes described in the report of a [**2101-4-26**] CT scan are not appreciated on today's radiograph, question due to interval resolution versus limitations of radiographs versus CT.  [**2101-5-6**] BM cytogenetics: KARYOTYPE: 47,XY,+15,[**Doctor First Name 15**](15)(Q15Q24)[5]/46,XY[11] INTERPRETATION: Five of 16 metaphases contained an additional copy of chromosome 15 (TRISOMY 15) and an interstitial deletion of the long arm of chromosome 15.
+Peripheral Blood Smear: The smear is adequate for evaluation.
+The white blood cell count appears markedly decreased.
+Differential count shows   2% neutrophils,  76% lymphocytes,  19% monocytes,  1% basophils, 2% plasma cells.
+[**2101-5-9**] CT abd/pelvis: 1.
+Clinical correlation with examination is advised.
+Brief Hospital Course: 35 year old male with no past medical history with multiple month history of malaise and shortness of breath, presents with laboratory studies suggestive of acute leukemia, found to have AML.
+Bone marrow biopsy was completed on admission and showed ...  Hydroxyurea was started on admission, and then discontinued once 7+3 chemotherapy was begun the following day.
+Transthoracic echocardiogram was completed on admission prior to chemotherapy dosing.
+Electrolytes, CBC, fibrinogen, uric acid, and LDH were checked initially every four hours, but then every six hours to evaluate for both tumor lysis and DIC.
+CT sinus, chest, abdomen, and pelvis were done to evaluate but did not identify a source.
+There is a question of prostatis on imaging but without any clinical symptoms and with all urine cultures incl chlamydia being negative, but regardless was started on meropenem.
+CT neck ordered to evaluate and negative for mastoiditis.
+Repeat bone marrow biopsy done on day 14 revealed persistent cytogenetic abnormalities.
+Bone marrow biopsy done on day 20 revealed no leukemic cells and pt was discussed at transplant meeting w decision to postpone additional chemo or SCT at this time w plans for observation.
+# Thrombocytosis: Uptrend observed and splenomegaly appreciated on exam [**5-21**] w pt c/o mild abd discomfort w sitting.
+CT abd showed no acute process.
+Renal ultrasound was perfomed and showed enlarged kidney.
+Tumor lysis labs were obtained at first every four hours, then every six hours.
+DIC labs were initially obtained every four hours, then every six.
+His INR has been elevated so he has received 3 courses of vitamin K 5mg PO x3 days.
+Transfusions were given to maintain hematocrit greater than 21.
+CBC was trended multiple times per day.
+A baseline chest X-ray was obtained and showed no abnormality.
+A transthoracic echocardiogram was performed before chemotherapy administration which showed no gross abnormalities of heart function.
+ECG showed no abnormalities.
+Disp:*30 Tablet, Chewable(s)* Refills:*2* 3. calcium carbonate 200 mg calcium (500 mg) Tablet, Chewable Sig: One (1) Tablet, Chewable PO TID (3 times a day).
+Repeat bone marrow biopsy done on day 14 showed a persistence of abnormal cells.
+Bone marrow biopsy done on day 20 revealed lack of leukemia and we plan to observe you for now without additional chemotherapy at this time.
+A catscan was negative for bone involvement and you were treated with Afrin.
+[**Name2 (NI) **] had a cat scan of your abdomen which was negative.

@@ -1,0 +1,29 @@
+Admission Date:  [**2165-1-12**]              Discharge Date:   [**2165-1-18**]  Date of Birth:  [**2090-1-23**]             Sex:   F  Service: MEDICINE  Allergies: Aspirin  Attending:[**First Name3 (LF) 905**] Chief Complaint: Fever, hypotension  Major Surgical or Invasive Procedure: none  History of Present Illness: This is a 74 year old woman s/p Right total knee replacement in [**1-17**] and MAC lung disease s/p R knee liner exchange and wash out on [**12-3**], with intra-operative cultures growing Streptococcus virdians on ceftriaxone (last day [**1-16**]), now presenting with fever and hypotension.
+Access: 3 PIV's (2 18gauges, 1 20gauge) and PICC (c/d/i/no erythema or tenderness)  Pertinent Results: Labs On Admission: [**2165-1-11**] 10:30AM   WBC-7.8 RBC-3.51* HGB-10.3* HCT-31.0* MCV-88 MCH-29.3 MCHC-33.1 RDW-14.5 [**2165-1-11**] 10:30AM   UREA N-14 CREAT-0.7 [**2165-1-12**] 12:15PM   PT-15.5* PTT-30.2 INR(PT)-1.4* [**2165-1-12**] 12:15PM   PLT COUNT-535* [**2165-1-11**] 10:30AM   CRP-19.0* [**2165-1-12**] 12:15PM   SED RATE-60* .
+Micro: [**2165-1-12**] SPUTUM GRAM STAIN-FINAL; RESPIRATORY CULTURE-FINAL [**2165-1-12**] Influenza A/B by DFA DIRECT INFLUENZA A ANTIGEN TEST-FINAL; DIRECT INFLUENZA B ANTIGEN TEST-FINAL INPATIENT [**2165-1-12**] URINE Legionella Urinary Antigen -FINAL [**2165-1-13**] WOUND CULTURE No Growth - FINAL [**2165-1-14**] BLOOD CULTURE NGTD [**2165-1-15**] BLOOD CULTURE NGTD [**2165-1-16**] STOOL Cdiff NEGATIVE - FINAL [**2165-1-14**] URINE CULTURE NEGATIVE - FINAL [**2165-1-16**] 5:50 pm JOINT FLUID Source: Knee       GRAM STAIN (Final [**2165-1-16**]):       1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR LEUKOCYTES.
+FLUID CULTURE (Preliminary):    NO GROWTH.
+[**2165-1-16**] 2:07 pm SPUTUM      Source: Expectorated.
+[**2165-1-15**] 4:29 pm STOOL **FINAL REPORT [**2165-1-17**]**    FECAL CULTURE (Final [**2165-1-17**]):    NO SALMONELLA OR SHIGELLA FOUND.
+CAMPYLOBACTER CULTURE (Final [**2165-1-17**]):    NO CAMPYLOBACTER FOUND.
+CLOSTRIDIUM DIFFICILE TOXIN A & B TEST (Final [**2165-1-16**]):       Feces negative for C.difficile toxin A & B by EIA.
+Imaging: Echo [**1-14**]: IMPRESSION: No echocardiographic evidence of endocarditis.
+CXR [**1-13**] FINDINGS: As compared to the previous radiograph, there is a newly appeared minimal right-sided pleural effusion.
+CT chest without contrast [**1-16**]: The heart is normal in size, with aortic valvular and mitral annular calcifications noted.
+This examination is not tailored for subdiaphragmatic evaluation.
+Brief Hospital Course: 74 year old woman s/p R total knee replacement in [**1-17**] with R knee liner exchange and wash out on [**2164-12-3**], with intra-operative cultures growing Streptococcus virdians on ceftriaxone who presented to the MICU with fever and hypotension.
+Blood cultures were pending at the time of transfer to the floor.
+Urine cultures were negative.
+All of her Cxs returned negative (Blood, Urine, Sputum, catheter tip of PICC).
+As per ID c/s, a CT chest was done which was concerning for progression of [**Doctor First Name **], however pt's pulmonologist reviewed the films and felt that this was not the case.
+As we were happy to see the right knee did not seem to have an active infx, we presumptively treated the pt for an HCAP for a 7 day course as that was thought to be the most likely source, especially given the poor pulmonary substrate.
+Her tachypnea did come and go on the medicine floor with unknown etiology except for possible anxiety.
+Repeat CT as above was originally concerning for progressive [**Doctor First Name **], however Dr. [**Last Name (STitle) **], her pulmonologist did not feel this was the case.
+We did sent AFB Cxs (which were negative preliminarily) and also sent mycolytic blood cxs, which were negative/pending at time of discharge.
+As above, orthopedics did not feel it was infected, and our exam is definitely underwhelming for a septic picture.
+Iron labs were again sent during this hospitalization and were c/w Fe-deficiency anemia.
+Your CT scan was reviewed by Dr. [**Last Name (STitle) **] and it was felt that your [**Doctor First Name **] infection was stable.
+However, you met with the ID doctors, and your fevers were felt to be related to a pneumonia.
+Your blood pressures have been fine without your prinivil (lisinopril), so do not take this until your doctors [**Name5 (PTitle) **] [**Name5 (PTitle) **] to start it.
+Department: ORTHOPEDICS When: FRIDAY [**2165-1-18**] at 1 PM With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 10486**], MD [**Telephone/Fax (1) 1228**] Building: [**Hospital6 29**] [**Location (un) 551**] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage .
+Location: [**Hospital6 9657**] MEDICAL GROUP Address: [**Location (un) **], [**Apartment Address(1) 25389**], [**Location (un) **],[**Numeric Identifier 1700**] Phone: [**Telephone/Fax (1) 24396**] Appointment: Tuesday [**1-22**] at 2:40PM .
+Location: [**Hospital6 9657**] MEDICAL GROUP Address: [**Location (un) **], [**Apartment Address(1) 25389**], [**Location (un) **],[**Numeric Identifier 1700**] Phone: [**Telephone/Fax (1) 24396**] Appointment: Tuesday [**1-22**] at 2:40PM Please speak with Dr. [**Last Name (STitle) **] about setting up outpatient PFTs (Pulmonary Function Tests).

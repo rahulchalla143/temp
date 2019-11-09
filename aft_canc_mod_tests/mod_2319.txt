@@ -1,0 +1,46 @@
+Admission Date:  [**2134-4-19**]              Discharge Date:   [**2134-5-11**]  Date of Birth:  [**2061-11-2**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 12131**] Chief Complaint: Hypotension  Major Surgical or Invasive Procedure: Endoscopy Sigmoidoscopy Portacath removal [**First Name3 (LF) **] catheter placement [**First Name3 (LF) **]   History of Present Illness: 72M with pmh significant for metastatic rectal cancer was at radiology clinic receiving scheduled imaging when blood pressure at triage recorded 60/40.
+Recheck was 70/40.
+His last dose of irinotecan and panitumab chemotherapy was Monday [**2134-3-29**] (patient reports was [**4-12**] but not recorded in OMR), and he reports always getting diahrrea with his chemotherapy.
+Cr was 1.3 from 1.1.
+Hct was 27.3.
+CT torso was without PE or dissection, but did have multiple stable pulmonary nodules, and a small right pleural effusion.
+EKG was sinus in the 70's.
+Past Medical History: Past Oncologic History: Adenocarcinoma of the rectum - [**6-/2131**]:  The patient presented with a change in bowel habits and was noted to have an abnormal rectal exam by his primary care physician, [**Name10 (NameIs) 39262**] [**Name Initial (NameIs) **] gastrointestinal evaluation.
+- [**2131-8-2**] CT scan of the torso:  Irregular, polypoid lesion seen within the rectum, with multiple subcentimeter presacral and pericolic lymph nodes identified.
+Per report, a CT PET performed elsewhere demonstrated uptake in the left base of the lung.
+Pathology revealed adenocarcinoma of the rectum, low-grade, with invasion into the perirectal adipose tissue and metastasis to 7 of 13 regional lymph nodes (T3N2).
+Pathology from the ileostomy stoma demonstrated no evidence of malignancy.
+The left lower lobe wedge resection demonstrated an adenocarcinoma, 4.1 cm, consistent with metastasis of rectal origin.
+- [**2132-2-14**]: Evaluation by the hepatobiliary surgery consult team due to the finding on his recent PET scan of a likely liver metastasis.
+- [**2132-11-26**]: Hospital admission for SVC syndrome secondary to a catheter-associated thrombus causing occlusion of the SVC and bilateral brachiocephalic veins.
+Physical Exam: Admission: GEN: awake, alert, NAD VS: 97.6 110/46 88 19 100% 2L HEENT: EOMI, MMM CV: irregularly irregular, no m/g/r PULM: crackles at RLL ABD: well healed scars on abdomen, soft, NT, ND LIMBS: no edema SKIN: erythema and excoriation over left antecubital fossa.
+Pertinent Results: Admission labs: [**2134-4-19**] 11:35AM BLOOD WBC-2.8* RBC-3.30* Hgb-9.3* Hct-27.3* MCV-83 MCH-28.3 MCHC-34.2 RDW-20.0* Plt Ct-283 [**2134-4-19**] 11:35AM BLOOD PT-14.0* PTT-35.5* INR(PT)-1.2* [**2134-4-19**] 11:35AM BLOOD Glucose-199* UreaN-23* Creat-1.3* Na-139 K-4.0 Cl-106 HCO3-22 AnGap-15 [**2134-4-19**] 11:35AM BLOOD Calcium-8.3* Phos-2.4* Mg-0.8* .
+Discharge labs:  Micro: [**4-20**]: CLOSTRIDIUM DIFFICILE TOXIN A & B TEST (Final [**2134-4-21**]):       Feces negative for C.difficile toxin A & B by EIA.
+FECAL CULTURE (Final [**2134-4-22**]):    NO SALMONELLA OR SHIGELLA FOUND.
+CAMPYLOBACTER CULTURE (Final [**2134-4-22**]):    NO CAMPYLOBACTER FOUND.
+**FINAL REPORT [**2134-5-4**]**     CLOSTRIDIUM DIFFICILE TOXIN A & B TEST (Final [**2134-5-4**]):       Feces negative for C.difficile toxin A & B by EIA.
+WOUND CULTURE (Final [**2134-4-29**]):       STAPH AUREUS COAG +.
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              STAPH AUREUS COAG +                              | CLINDAMYCIN-----------<=0.25 S ERYTHROMYCIN----------<=0.25 S GENTAMICIN------------ <=0.5 S LEVOFLOXACIN----------<=0.12 S OXACILLIN-------------   0.5 S TRIMETHOPRIM/SULFA---- <=0.5 S  [**2134-4-24**] 2:47 pm BLOOD CULTURE      Source: Line-PICC.
+SENSITIVITIES PERFORMED ON CULTURE # 294-1510A [**2134-4-23**].
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              STAPH AUREUS COAG +                              | CLINDAMYCIN-----------<=0.25 S ERYTHROMYCIN----------<=0.25 S GENTAMICIN------------ <=0.5 S LEVOFLOXACIN----------  0.25 S OXACILLIN-------------     1 S TRIMETHOPRIM/SULFA---- <=0.5 S     Anaerobic Bottle Gram Stain (Final [**2134-4-26**]):       GRAM POSITIVE COCCI IN PAIRS AND CLUSTERS.
+Aerobic Bottle Gram Stain (Final [**2134-4-26**]):       GRAM POSITIVE COCCI IN CLUSTERS.
+[**4-19**] CT torso: 1.
+TECHNIQUE: Grayscale and Doppler evaluation of left upper extremity.
+FINDINGS: Grayscale and Doppler evaluation of the left internal jugular, subclavian, axillary, basilic, and brachial veins demonstrate normal flow, compressibility, and response to augmentation wherever applicable.
+COMPARISON: CTA chest performed [**2134-4-19**].
+RENAL ULTRASOUND: The left kidney measures 10.9 cm.
+GI was consulted and an EGD was performed on [**4-24**] which showed diffuse erythema/ulceration, in esophagus, stomach, duodenum.
+They were concerned that patient's whole GI tract was diffusely inflamed as was seen on EGD and that the anastamotic site from his colectomy might be a bleeding source; a flex sigmoidoscopy was done on as well and showed as well diffuse ulceration and inflammation.
+Stool cultures revealed no evidence of infection.
+On [**4-24**], the patient was found to have that 2/2 bottles of his blood cultures drawn from his portacath were growing GPCs, speciation showed MSSA.
+Daily surveillance blood cultures were performed and he was noted to clear his bacteremia on [**4-26**].
+Ct torso is without PE or dissection.
+His BP initally recovered with 500cc NS bolus.
+Once he had an episode of BRBPR, he became tacycardic to the 140s, with BP 90s/60s.
+He was bolused NS and given PRBC with improved HR to the 110s, and BP to 120s/80s.
+His left upper extremity was noted to be more edematous than the rest of his body, and a LUE ultrasound was acquired.
+Medications on Admission: DIPHENOXYLATE-ATROPINE - 2.5 mg-0.025 mg Tablet - [**1-30**] Tablet(s)  by mouth q6hr as needed for diarrhea ENOXAPARIN [LOVENOX] - 150 mg/mL Syringe - Inject 150 mg once a  day LISINOPRIL - (Prescribed by Other Provider) - 10 mg Tablet - 1 Tablet(s) by mouth daily METOPROLOL SUCCINATE [TOPROL XL] - (Prescribed by Other Provider) - 100 mg Tablet Sustained Release 24 hr - 1 Tablet(s)  by mouth daily METRONIDAZOLE [METROGEL] - 1 % Gel - apply to rash twice a day PROCHLORPERAZINE MALEATE - 10 mg Tablet - 1 Tablet(s) by mouth q6hr as needed for nausea SIMVASTATIN - (Prescribed by Other Provider) - 20 mg Tablet - 1  Tablet(s) by mouth daily LOPERAMIDE [IMODIUM A-D] - 2 mg Tablet - 2 Tablet(s) by mouth q4he as needed for diarrhea PYRIDOXINE - (OTC) - 50 mg Tablet - 2 Tablet(s) by mouth once a  day   Discharge Medications: 1.
+Your diarrhea then became bloody, and you also had an episode of vomit with blood in it.
+You had an upper endoscopy and a sigmoidoscopy, which showed ulceration in your esophagus, stomach and colon.
+Nephrocaps 1 capsule daily Phos-lo 667mg three times a day mesalamine 1000mg suppositories once a day Cefazolin 2g given with hemodialysis pantoprazole 40mg daily Erythropoetin given with hemodialysis  Your metoprolol was changed from 100mg once a day to 25mg three times a day  Your lisinopril and enoxaparin have been discontinued.
+Provider: [**First Name4 (NamePattern1) 2747**] [**Last Name (NamePattern1) 5780**], RN Phone:[**Telephone/Fax (1) 22**] Date/Time:[**2134-5-24**] 10:00    Completed by:[**2134-5-12**

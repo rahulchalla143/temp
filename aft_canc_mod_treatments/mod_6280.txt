@@ -1,0 +1,66 @@
+Admission Date:  [**2158-1-21**]              Discharge Date:   [**2158-1-27**]  Date of Birth:  [**2096-1-15**]             Sex:   M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 3913**] Chief Complaint: shortness of [**First Name3 (LF) 1440**]  Major Surgical or Invasive Procedure: [**2158-1-21**] - left-sided thoracentesis ([**2145**] mL drained)  History of Present Illness: 62yo male with history of refractory biphenotypic leukemia, disseminated fusarium [**Year (4 digits) 2**], who presents with shortness of [**Year (4 digits) 1440**].
+He had been doing well at home until yesterday when he developed shortness of [**Year (4 digits) 1440**] and [**Year (4 digits) **] after receiving PRBC and platelets (with 20mg PO lasix).
+His wife reports "decent" urine output after lasix administration.
+He was recently started on home oxygen at night but, given his shortness of [**Year (4 digits) 1440**], he used it around the clock with mild relief of his dyspnea.
+The patient did not look well clinically and continued to complain of shortness of [**Last Name (LF) 1440**], [**First Name3 (LF) **] he was placed on BiPAP with improvement in his symptoms.
+His ED stay was complicated with a-fib with RVR which was treated with IV fluids and digoxin 0.5mg x1 with improvement in his HR from 140s to 110s.
+He was covered broadly with vancomycin, cefepime and levofloxacin in the ED.
+Labs pertinent for WBC 2.1 (10% neutrophils, 71% blasts), plt 24, normal renal function, INR 1.7, trop < 0.01, lactate 1.6 and d-dimer 1829.
+Patient was weaned off BiPAP and is comfortable and satting well on 4L NC.
+Past Medical History: Past Medical History: PAST ONCOLOGIC HISTORY: Biphenotypic Leukemia - Initially presented with "autoimmune pancytopenia" treated with steroids and IVIG.
+Preliminary bone marrow biopsy was suspicious for a biphenotypic leukemia and therapy was initiated with hyperCVAD.
+His day 14 marrow showed persistent disease and his regimen was changed to 7+3.
+Further chemotherapy was held as he was found to have disseminated fusarium [**Hospital1 2**] in the setting of prolonged neutropenia.
+He was ultimately discharged on GM-CSF and daily Ambisome infusions.
+While hospitalized he was treated with a 10-day course of decitabine without complications.
+Of note he had a complicated admission from ([**Date range (1) 82692**]) with cardiac tamponade s/p pericardiocentesis, pleural effusions s/p thoracentesis for 2.1L [**10-29**].
+He was eventually d/c'ed home on [**2157-11-11**] on linezolid to treat VRE.
+OTHER PMH: Disseminated Fusarium ([**5-15**]):treated with Ambisome and Voriconazole H/O Hepatitis B (on Lamivudine) S/P appendectomy S/P umbilical hernia repair Atrial fibrillation  Social History: Currently on disability.
+The echo findings are suggestive but not diagnostic of pericardial constriction.
+Right PICC tip is in the mid-to-lower SVC.
+Symptoms developed after transfusion making fluid overload a definite possibility.
+Patient was initially covered on broad spec abx and was narrowed to vancomycin (he was also cont' on home ppx).
+Given patient's h/o of VRE bacteremia, immunosuppression and longstanding VSE in pl fluid, will treat with vancomycin x 6wks, the course given to patients for empyema/abscess.
+Patient also presented with afib with RVR and HR was stabilized with home medications over the course of his stay.
+Patient responded to the treatment above and was satting on RA ~72 hours prior to discharge.
+WRT to patient's longstanding and frequent reaccumulation of pleural fluid, a discussion with the IP team led to conclusion that patient is not candidate for pleurex given neutropenia and frequent infections, including possible pna currently.
+Will need serial thoracentesis for comfort prn SOB.
+# ANEMIA, DECREASED HEMATOCRIT - His cell counts have been decreased in the setting of his underlying malignancy, but following his thoracentesis there was a 6 point drop in his hematocrit without CT chest evidence of hemothorax.
+He was closely monitored and received 1 unit of packed red cells for that hematocrit, with overall improvement.
+At baseline, patient requires frequent transfusions and was subsequently transfused a couple of more times on the BMT service.
+Patient tolerated transfusions and was given lasix 20IV post to avoid positive fluid balance.
+# ATRIAL FIBRILLATION - Patient has a history of going into RVR to 140s, doing well since IV fluid resuscitation in the ED.
+Patient was restarted on home metop and dilt slowly given low SBP and concern for [**Last Name (NamePattern4) 2**], eventually titrated back to home medications with HR in the 80-100 range and SBP in the 90-100 range.
+We also continued his Bactrim, Acyclovir prophylaxis with Voriconazole given his history of disseminated Fusarium [**Last Name (NamePattern4) 2**].
+He is followed closely by Dr. [**Last Name (STitle) **] from Oncology and his cycle 3 for chemotherapy has been on hold this admission.
+Medications on Admission: 1. metoprolol succinate 100 mg Tablet Extended Release 24 hr Sig: One (1) Tablet Extended Release 24 hr PO once a day.
+Diltzac ER 240 mg Capsule, Extended Release Sig: One (1) Capsule, Extended Release PO once a day.
+3. digoxin 125 mcg Tablet Sig: One (1) Tablet PO once a day.
+4. levofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H (every  24 hours).
+5. acyclovir 400 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 hours).
+6. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+7. ipratropium bromide 0.02 % Solution Sig: One (1) neb Inhalation every four (4) hours as needed for shortness of [**Last Name (STitle) 1440**] or wheezing.
+8. lamivudine 100 mg Tablet Sig: One (1) Tablet PO once a day.
+9. sulfamethoxazole-trimethoprim 400-80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+10. voriconazole 200 mg Tablet Sig: 1.5 Tablets PO Q12H (every 12 hours).
+11. lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO every four (4) hours as needed for anxiety or insomnia.
+12. oxycodone 5 mg Tablet Sig: 1-2 Tablets PO every four (4) hours as needed for pain.
+Home O2- Home Oxygen 2L via nasal cannula, with ambulation only, pulse dose for portability (for ambulatory sats 86% on RA, 95% on 2L) RA sat at rest 92% dx: cardiomyopathy with pleural effusions  Discharge Medications: 1. vancomycin 750 mg Recon Soln Sig: One (1) injection Intravenous twice a day for 5 weeks.
+Toprol XL 100 mg Tablet Extended Release 24 hr Sig: One (1) Tablet Extended Release 24 hr PO once a day.
+Diltzac ER 240 mg Capsule, Extended Release Sig: One (1) Capsule, Extended Release PO once a day.
+4. digoxin 125 mcg Tablet Sig: One (1) Tablet PO once a day.
+5. acyclovir 400 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 hours).
+6. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+7. lamivudine 100 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+8. ipratropium bromide 0.02 % Solution Sig: One (1) nebulizer Inhalation every four (4) hours as needed for wheezing, shortness of [**Last Name (STitle) 1440**].
+9. sulfamethoxazole-trimethoprim 400-80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+10. voriconazole 200 mg Tablet Sig: 1.5 Tablets PO Q12H (every 12 hours).
+11. lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO every [**2-24**] hours as needed for insomnia.
+12. oxycodone 5 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours) as needed for pain.
+13. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day) as needed for constipation.
+Home O2 Home Oxygen 2L via nasal cannula, with ambulation only, pulse dose for portability (for ambulatory sats 86% on RA, 95% on 2L) RA sat at rest 92% dx: cardiomyopathy with pleural effusions  15.
+Outpatient Lab Work Vancomycin trough at next outpatient visit ([**2158-1-29**])   Discharge Disposition: Home With Service  Facility: Critical Care Systems  Discharge Diagnosis: afib with RVR pleural effusion/empyema  secondary: refractory biphenotypic leukemia, Hep B   Discharge Condition: Mental Status: Clear and coherent.
+Your heart medications have been titrated.
+You will be on Vancomycin for another 5 weeks, for a total of 6 wks of therapy (started [**2158-1-21**]).
+The following changes have been made to your medications: STOP levofloxacin START vancomycin, to be continued for another 5 weeks START colace as needed for constipation.
+Department: BMT/ONCOLOGY UNIT When: SUNDAY [**2158-1-29**] at 8:30 AM [**Telephone/Fax (1) 447**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **] Campus: EAST     Best Parking: Main Garage  Department: HEMATOLOGY/BMT When: TUESDAY [**2158-1-31**] at 12:00 PM With: [**First Name8 (NamePattern2) 539**] [**Last Name (NamePattern1) 9816**], RN [**Telephone/Fax (1) 3241**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage  Department: BMT CHAIRS & ROOMS When: TUESDAY [**2158-1-31**] at 12:00 PM

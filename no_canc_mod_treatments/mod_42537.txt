@@ -1,0 +1,64 @@
+Admission Date:  [**2121-12-6**]              Discharge Date:   [**2121-12-10**]  Date of Birth:  [**2079-7-20**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 348**] Chief Complaint: Hypertensive urgency  Major Surgical or Invasive Procedure: Hemodialysis   History of Present Illness: This is a 42 yo man with DM I, ESRD on HD, CAD, CHF, HTN presenting with substernal chest pain being transferred to MICU for hypertensive urgency requiring nitro gtt.
+Recieved ASA 325, Morphine, Anzememt, and Lopressor.
+Given persistent HTN started on NTG gtt and sent for [**First Name3 (LF) 1988**] hemodialysis.
+Underwent HD in K+ bath which he tolerated well without difficulty and remained chest pain free [-4.5L].
+Given NTG gtt for reasons other than CP, not suitable for floor admission.
+Pt transferred to MICU for further management.
+Right foot operation - bone excision 5.
+The exacerbating factor for this episode is unclear, but his blood pressures were better post hemodialysis and after being on a nitroglycerin drip in the MICU.
+- In the hospital the patient received nifedipine 90mg PO daily, Metoprolol XL 150 mg PO DAILY, Lisinopril 40 mg PO DAILY.
+We added a second dose of toprol XL 150 mg at night so that he was discharged on toprol 150 mg [**Hospital1 **].
+- We did consider increasing his lisinopril dose, but at the time of discharge, his blood pressure was in the 130s systolic.
+He received hemodialysis and was able to return to his usual schedule (Tuesday/Thursday/Saturday).
+- The patient was continued on his home Calcium Acetate 667 mg PO TID W/MEALS and  Calcium Carbonate 500 mg PO TID.
+He did complain of headache with the nitroglycerin drip.
+# DMI: The patient was given his home dose of NPH with HISS as per his home schedule.
+# GI: The patient was continued on his home regimen of hyoscyamine, glycopyrrolate (anticholinergic agents), metoclopramide, dolasetron, clonazepam (anti-emetics) and simethicone.
+It is noted that the patient often has undergoes hospitalization during times of increased social stressors.
+- He was continued on his home dose of citalopram 20mg daily.
+# FEN: He tolerated a cardiac, diabetic, renal diet while hospitalized.
+# Prophylaxis: He received subcutaneous heparin and protonix.
+# Code status: FULL  Medications on Admission: 1.
+Metoclopramide 10 mg PO QIDACHS 2.
+Calcium Carbonate 500 mg PO TID WITH MEALS 3.
+Lisinopril 20 mg PO DAILY 4.
+Nifedipine 60 mg Sustained Release PO DAILY 5.
+Docusate Sodium 100mg PO 6.
+Pantoprazole 40 mg Delayed Release (E.C) PO 7.
+Simethicone 80 mg PO QID 8.
+Citalopram 20 mg PO DAILY 9.
+Mirtazapine 15 mg PO HS 10.
+Gabapentin 300 mg PO Q24H 11.
+Clonazepam 0.5 mg PO TID 12.
+Aspirin 81 mg PO DAILY 13.
+Hyoscyamine Sulfate 0.125 mg Sublingual QID PRN 14.
+Calcium Acetate 667 mg PO TID 15.
+Metoprolol Succinate 50 mg Sustained Release 24HR PO DAILY 17.
+Doxepin 10 mg PO HS 18.
+Glycopyrrolate 1 mg PO TID 19.
+Dextromethorphan-Guaifenesin 10-100 mg/5 mL 5 ML PO Q6H 20.
+Cepacol 2 mg PRN 21.
+Nafcillin in D2.4W 2 g/100 mL IV Q6H  Discharge Medications: 1.
+Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO TID (3 times a day).
+Lisinopril 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Nifedipine 90 mg Tablet Sustained Release Sig: One (1) Tablet Sustained Release PO DAILY (Daily).
+Calcium Acetate 667 mg Capsule Sig: Two (2) Capsule PO TID W/MEALS (3 TIMES A DAY WITH MEALS).
+Metoclopramide 10 mg Tablet Sig: One (1) Tablet PO QIDACHS.
+Colace 100 mg Capsule Sig: One (1) Capsule PO once a day.
+Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Metoprolol Succinate 50 mg Tablet Sustained Release 24HR Sig: Three (3) Tablet Sustained Release 24HR PO twice a day.
+Disp:*90 Tablet Sustained Release 24HR(s)* Refills:*0* 9.
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+Simethicone 80 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO QID (4 times a day) as needed.
+Citalopram 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+Gabapentin 300 mg Capsule Sig: One (1) Capsule PO DAILY (Daily).
+Clonazepam 0.5 mg Tablet Sig: One (1) Tablet PO TID (3 times a day).
+Hyoscyamine Sulfate 0.125 mg Tablet, Sublingual Sig: One (1) Tablet, Sublingual Sublingual QID (4 times a day).
+Doxepin 10 mg Capsule Sig: One (1) Capsule PO HS (at bedtime).
+Glycopyrrolate 1 mg Tablet Sig: Two (2) Tablet PO TID (3 times a day).
+Insulin NPH Human Recomb 100 unit/mL Cartridge Sig: Twenty (20) UNITS Subcutaneous QAM.
+Insulin NPH Human Recomb 100 unit/mL Cartridge Sig: Twelve (12) UNITS Subcutaneous at bedtime.
+INSULIN Continue your NPH insulin twice per day, taking 20 units in the morning and 12 units at night.
+Discharge Disposition: Home  Discharge Diagnosis: Hypertensive urgency  Secondary: Diabetes mellitus End stage renal disease on hemodialysis   Discharge Condition: Hemodynamically stable and comfortable on room air   Discharge Instructions: Please take all medications as prescribed.
+Followup Instructions: You should continue your usual dialysis schedule on Tuesdays, Thursdays, and Saturdays.

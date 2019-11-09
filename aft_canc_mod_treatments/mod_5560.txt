@@ -1,0 +1,55 @@
+Admission Date:  [**2123-8-31**]              Discharge Date:   [**2123-9-6**]   Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**Last Name (NamePattern1) 1171**] Chief Complaint: Chest pain and shortness of breath  Major Surgical or Invasive Procedure: none  History of Present Illness: The pt is a 97-yo Russian-speaking man w/ h/o CAD s/p BMS [**11/2122**] and angioplasty [**5-/2123**], CHF (EF 40%), HTN, h/o GI bleeding and colon Ca, who presented to the ED for evaluation of chest pain.
+Pt saw his cardiologist on the day PTA, at which point the decision was made to pursue optimization of medical management rather than interventions.
+The pt was started on PRBCs for transfusion, but he developed chest pain and diaphoresis, so the transfusions were stopped for concern for a transfusion reaction.
+The pt was seen by Cardiology, who wanted to continue ASA / Plavix but not start heparin gtt.
+He had 2/10 chest pain with ECG showing worsening ST depressions precordially, which resolved with Nitro gtt and Lopressor.
+He then received an additional 2units PRBCs + Lasix.
+At 1230 am pt noted by nursing to have BP 50's/30's on automatic cuff, mentating well, asymptomatic.
+Of note he had been given lasix 20mg IV x1 at 8pm when he was noted to be tachypnic to 30's, O2 sat 93-94% on 3-4L, diffuse crackles and expiratory wheezing with chest xray per the radiology resident showing worsened pulmonary edema compared with admission.
+He responded well to lasix with resolution of respiratory distress and put out 600+ ml of urine with blood pressures 110-120.
+At 8pm he was given amlodipine 2.5mg.
+At 11pm he was given metoprolol 37.5mg and terazosin 1mg.
+Past Medical History: --Coronary Artery Disease - s/p BMS to OM2, D1, LCX ([**2122-11-16**]) for unstable angina with TWI in V2-V4    - NSTEMI s/p cardiac cath and balloon angioplasty on [**2123-5-24**]  --CHF, systolic EF 40% and [**Date Range 7216**] dysfunction with sever LVH --Valvular disease - moderate aortic stenosis, mild to moderate aortic and mitral regurgitation, ?bicuspid congenital valves --HTN --COPD --Gout --DJD - bilateral knee pain --h/o chronic pyelonephritis --s/p bladder stone removal --Colon cancer   Social History: Social history is significant for occasional cigarrettes socially 20 years ago.
+Physical Exam: VS - Temp F, BP 85/53, HR 72, R 25, O2-sat 99% 2L GENERAL - elderly man in NAD, comfortable, interactive HEENT - PERRL, EOMI, sclerae anicteric, MMM NECK - supple LUNGS - CTA bilat, no r/rh/wh HEART - RRR, nl S1-S2, no MRG ABDOMEN - +BS, soft/NT/ND, no HSM EXTREMITIES - WWP, no c/c/e, 2+ peripheral pulses (radials, DPs)   Pertinent Results: [**2123-8-31**] 09:30AM BLOOD WBC-5.7 RBC-2.77*# Hgb-5.9*# Hct-20.0*# MCV-72*# MCH-21.4*# MCHC-29.6* RDW-18.6* Plt Ct-236 [**2123-8-31**] 04:05PM BLOOD WBC-8.0 RBC-3.13* Hgb-6.6* Hct-23.8* MCV-76* MCH-21.0* MCHC-27.6* RDW-17.6* Plt Ct-250 [**2123-9-1**] 03:16AM BLOOD WBC-8.1 RBC-3.71* Hgb-8.9*# Hct-29.3* MCV-79* MCH-23.9*# MCHC-30.2* RDW-17.1* Plt Ct-194 [**2123-8-31**] 09:30AM BLOOD Neuts-73.8* Lymphs-19.4 Monos-3.7 Eos-2.8 Baso-0.4 [**2123-9-1**] 03:16AM BLOOD PT-14.3* PTT-28.6 INR(PT)-1.2* [**2123-9-1**] 03:16AM BLOOD Glucose-108* UreaN-42* Creat-1.3* Na-145 K-4.2 Cl-110* HCO3-26 AnGap-13 [**2123-9-1**] 03:16AM BLOOD ALT-12 AST-21 LD(LDH)-165 CK(CPK)-84 AlkPhos-87 TotBili-0.8 [**2123-8-31**] 09:30AM BLOOD cTropnT-0.03* [**2123-8-31**] 04:05PM BLOOD CK-MB-NotDone cTropnT-0.02* [**2123-8-31**] 11:24PM BLOOD CK-MB-NotDone cTropnT-0.09* [**2123-9-1**] 03:16AM BLOOD CK-MB-NotDone cTropnT-0.13*  Labs on Discharge:  [**2123-9-6**] 05:30AM BLOOD WBC-6.7 RBC-4.33* Hgb-10.9* Hct-34.5* MCV-80* MCH-25.0* MCHC-31.4 RDW-18.8* Plt Ct-207 [**2123-9-6**] 05:30AM BLOOD Glucose-141* UreaN-43* Creat-1.1 Na-143 K-4.6 Cl-107 HCO3-29 AnGap-12 [**2123-9-6**] 05:30AM BLOOD CK(CPK)-35* [**2123-9-6**] 05:30AM BLOOD CK-MB-NotDone cTropnT-0.19*  [**2123-8-31**] Chest Xray:Mild pulmonary edema has worsened, small right pleural effusion and mild-to-moderate cardiomegaly stable.
+Brief Hospital Course: Mr. [**Known lastname 95893**] is a [**Age over 90 **] yo M with PMH of severe CAD s/p multiple prior PCI, moderate aortic stenosis, daily angina, anemia due to chronic GI blood loss admitted with NSTEMI and hematocrit of 21. .
+1) NSTEMI/severe CAD- He has significant CAD hx s/p numerous percutaneous interventions and stenting previously.
+He was initially started on a nitroglycerin gtt and was transferred to the floor with persistant chest pain.
+He was given metoprolol 5mg IV x1 which resolved his hypertension, tachycardia and chest pain.
+Given the severity of his symptoms and his multiple prior PCI he was continued on his aspirin and plavix despite his GI blood loss.
+Heparin was not started given the significant risk of worsening his blood loss.
+Otherwise he was continued on maximal medical management of his NSTEMI/CAD including ASA, plavis, atorvastatin, metoprolol xl, isosorbide mononitrate.
+He is not at this time considered to be candidate for additional PCI and stenting.
+He has not had colonoscopy or endoscopy due to his tenuous cardiac status but he has had melena in the past making an upper GI source the likely cause of his continued blood loss.
+He was initially treated with IV PPI [**Hospital1 **] and was changed to po prior to discharge.
+He was continued on aspirin and plavix despite the bleeding given his cardiac status.
+In addition he received lasix prior to the episode for dyspnea and worsening pulmonary edema seen on CXR following transfusion.
+He was given gently IV fluids and his blood transfusion were continued to total of 4 units.
+His antihypertensive medications were restarted slowly and he was back on his full regimen prior to discharge with no recurrance of hypotension or melena.
+Known modearte-to-severe aortic valve stenosis (area 0.9cm2) and left ventricular hypertrophy.
+He did have intermittent periods of dyspnea which were thought most likely to be due to intermittent flash pulmonary edema that seemed to be provoked by pain or anxiety and responded to low dose morphine 0.25mg x1 or NTG.
+In addition, when hypertensive these episodes responded quickly to metoprolol 5mg IV x1.
+He was not diuresed given poor oral intake during his admission and hypotension on admission following lasix administration for dyspnea.
+His Metoprolol dose was increased to back to 37.5mg [**Hospital1 **] and he did not have any recurrance of Afib.
+There was not evidence of urinary retention however foley placement was difficulty due to his BPH.
+In addition, he had [**7-22**] penile pain following foley placement which improved with removing foley and morphine 0.25mg IV.
+There was no growth on urine culture however he was treated with bactrim for 3 day course given that he had pyuria and bladder spasm.
+held colchicine  8) Hyperlipidemia - cont home statin  9) FEN - regular diet  10) FULL CODE, confirmed with pt and son  11) Communication - Son [**Name (NI) 12584**] primary contact: (H) [**Telephone/Fax (1) 95895**], (W) [**Telephone/Fax (1) 95896**].
+Daughter [**Name (NI) **]: [**Telephone/Fax (1) 95897**]   Medications on Admission: allopurinol 300mg PO daily ASA 325mg daily amlodipine 2.5mg daily atorvastatin 80mg daily plavix 75mg daily colace 100mg [**Hospital1 **] colchicine .6mg [**Hospital1 **] prn imdur 60mg daily metoprolol succinate 37.5 mg [**Hospital1 **] NTG 0.3 SL pantoprazole 40mg [**Hospital1 **] Polysaccharide Iron suppliment 150mg daily terazosin 1mg qhs   Discharge Medications: 1.
+Ipratropium Bromide 0.02 % Solution Sig: One (1) Neb Inhalation Q6H (every 6 hours).
+Allopurinol 100 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Aspirin 325 mg Tablet, Delayed Release (E.C.)
+Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+Isosorbide Mononitrate 60 mg Tablet Sustained Release 24 hr Sig: One (1) Tablet Sustained Release 24 hr PO once a day.
+Trimethoprim-Sulfamethoxazole 160-800 mg Tablet Sig: One (1) Tablet PO BID (2 times a day): last day of treatment is [**2123-9-7**].
+Polysaccharide Iron Complex 150 mg Capsule Sig: One (1) Capsule PO DAILY (Daily).
+Tamsulosin 0.4 mg Capsule, Sust.
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+Metoprolol Tartrate 25 mg Tablet Sig: 1.5 Tablets PO BID (2 times a day).
+Nitroglycerin 0.3 mg Tablet, Sublingual Sig: One (1) tab Sublingual as directed as needed for chest pain: please take for your chest pain, you may take every five minutes for up to three pills.
+Colchicine 0.6 mg Tablet Sig: One (1) Tablet PO twice a day as needed for Acute Gout.
+Discharge Disposition: Extended Care  Facility: [**Hospital6 1643**] Center  Discharge Diagnosis: Severe Anemia likely due to gastrointestinal bleeding Coronary Artery disease Unstable Angina NSTEMI Chronic Systolic and [**Hospital6 7216**] heart failure, EF 40%, severe LVH Moderate-severe AS (area 0.8-1.0cm2 in [**2123-3-17**]) COPD   Discharge Condition: stable   Discharge Instructions: You were admitted to the hospital because you were having severe chest pain.
+You did not have a colonoscopy or endoscopy because of the severity of your heart disease.
+2) Your dose of allopurinol was reduced to be more appropriate for your age and kidney function.
+3) None of your other medications were changed.

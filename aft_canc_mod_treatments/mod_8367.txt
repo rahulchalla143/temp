@@ -1,0 +1,30 @@
+Admission Date:  [**2114-12-16**]              Discharge Date:   [**2115-1-1**]  Date of Birth:  [**2062-3-10**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 3276**] Chief Complaint: Chest Pain  Major Surgical or Invasive Procedure: Pericardial drain placement and removal  History of Present Illness: This is a 52 y/o woman with h/o HIV (last CD 4 801, VL 84,700 on [**2114-11-21**]) who p/w chief complaint of chest pain.
+Patient was given ASA 325, Morphine 2mg x3, zofran, levofloxacin 500mg PO and taken to Cath lab for treatment/evaluation of tamponade.
+After 685cc sanguinous fluid was removed RA pressure was 4, pericardial pressure was 4.
+Patient complained of [**7-8**] left shoulder pain following drain, better with movement, given 75ucg of fentanyl with some relief.
+Cardiac review of systems is notable for absence of paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope.
+Recent MRI brain negative for metastatic disease to brain, PET scan + for mets to left lung, hilar lymphadenopathy, possibly r-ischium and spleen.
+CV: Pericardial drain in place, +pericardial friction rub, Normal S1, S2, no S3 or S4.
+R-femoral groin line in place.
+A catheter is seen in the pericardial space.There are no echocardiographic signs of tamponade.
+There is a large circumferential pericardial effusion with right ventricular and right atrial diastolic collapse as well as accentuated respiratory variation in mitral/tricuspid valve inflows all consistent with impaired fillling/tamponade physiology.
+Pericardiocentesis catheter noted.
+[**2114-12-16**] 09:40PM   TYPE-[**Last Name (un) **] [**2114-12-16**] 09:40PM   LACTATE-1.0 [**2114-12-16**] 09:30PM   GLUCOSE-111* UREA N-11 CREAT-0.7 SODIUM-133 POTASSIUM-3.9 CHLORIDE-102 TOTAL CO2-26 ANION GAP-9 [**2114-12-16**] 09:30PM   LD(LDH)-249 CK(CPK)-46 AMYLASE-118* [**2114-12-16**] 09:30PM   CK-MB-NotDone cTropnT-<0.01 [**2114-12-16**] 09:30PM   TOT PROT-6.5 ALBUMIN-3.2* GLOBULIN-3.3 CALCIUM-8.5 PHOSPHATE-2.5* MAGNESIUM-2.1 IRON-20* [**2114-12-16**] 09:30PM   calTIBC-241* FERRITIN-181* TRF-185* [**2114-12-16**] 09:30PM URINE  HOURS-RANDOM [**2114-12-16**] 09:30PM URINE  bnzodzpn-POS barbitrt-NEG cocaine-NEG amphetmn-NEG mthdone-NEG [**2114-12-16**] 09:30PM   WBC-7.6 RBC-3.20* HGB-9.4* HCT-28.6* MCV-89 MCH-29.3 MCHC-32.8 RDW-13.5 [**2114-12-16**] 09:30PM   PLT COUNT-298 [**2114-12-16**] 09:30PM   PT-13.9* PTT-25.1 INR(PT)-1.2* [**2114-12-16**] 05:30PM OTHER BODY FLUID  WBC-8950* HCT-24.5* POLYS-36* LYMPHS-8* MONOS-0 EOS-1* MESOTHELI-17* MACROPHAG-22* OTHER-16* [**2114-12-16**] 09:36AM   LACTATE-2.9* [**2114-12-16**] 09:30AM   GLUCOSE-131* UREA N-12 CREAT-0.8 SODIUM-132* POTASSIUM-4.2 CHLORIDE-98 TOTAL CO2-23 ANION GAP-15 [**2114-12-16**] 09:30AM   estGFR-Using this [**2114-12-16**] 09:30AM   CK(CPK)-46 [**2114-12-16**] 09:30AM   CK-MB-NotDone cTropnT-<0.01 [**2114-12-16**] 09:30AM   WBC-8.5 RBC-3.58* HGB-10.6* HCT-31.2* MCV-87 MCH-29.5 MCHC-33.9 RDW-13.7 [**2114-12-16**] 09:30AM   NEUTS-62.0 LYMPHS-32.8 MONOS-4.1 EOS-0.9 BASOS-0.2 [**2114-12-16**] 09:30AM   PLT COUNT-297 [**2114-12-16**] 09:30AM   PT-13.2 PTT-24.8 INR(PT)-1.1 .
+COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct [**2114-12-31**] 06:40AM    4.6 3.23* 9.4* 28.4* 88 29.0 33.0 14.6 249   DIFFERENTIAL Neuts Bands Lymphs Monos Eos Baso Atyps Metas Myelos [**2114-12-28**] 08:05AM    19* 0 76* 2 0 2 1* 0 0   Brief Hospital Course: ASSESSMENT/PLAN: 52 y/o F with h/o HIV (last CD4 801, VL [**Numeric Identifier 102681**] on [**2114-11-21**]), not on HAART, p/w chest pain and SOB found to be in pericardial tamponade and admitted to the CCU s/p pericardiocentesis and drain placement, transferred to OMED for chemotherapy.
+# Pericardial Effusion: With clinical and echocardiographic signs of cardiac tamponade on presentation.
+All other studies, including a gram stain, bacterial culture, fungal culture, and AFB stain were negative.
+The pt was given toradol, percocet, and IV morphine prn for pain.
+The pericardial drain was pulled on [**12-18**].
+Oncology was reconsulted who recommended palliative chemotheraphy.
+Cardiac and thoracic surgery teams were also called for possible placement of a pericardial window prior to initiation of chemotherapy and the patient was determined to not be a good surgical candidate.
+In OMED, the patient received chemotherapy (carboplatin/gemcitabine regimen)  but a second dose was not feasible due to neutropenia.
+# ID/HIV: The patient had never previously been on HAART and CD4 count 801 in [**11-4**]; HAART therapy initiated due to need for palliative chemotherapy.
+She was started on efavirenz and emtricitabine-tenofovir.
+HAART had to be stopped due to renal failure, tghen restarted at discharge.
+# Asthma: Continued albuterol and ipratropium PRN.
+#Depression: Continued Quetiapine 200mg qhs, 100mg [**Hospital1 **].
+Medications on Admission: Quetiapine 200mg qhs, 100mg [**Hospital1 **] Albuterol INH q6h Ipratropium INH q6h  Discharge Medications: 1.
+Quetiapine 100 mg Tablet Sig: Two (2) Tablet PO QHS (once a day (at bedtime)).
+Quetiapine 100 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Ipratropium Bromide 17 mcg/Actuation Aerosol Sig: One (1) puff Inhalation every six (6) hours as needed for shortness of breath or wheezing.
+You were found to have non-small cell lung cancer and you were treated with two cycles of chemotherapy with gemcitabine and carboplatin.

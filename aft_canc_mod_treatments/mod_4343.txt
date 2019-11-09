@@ -1,0 +1,52 @@
+Admission Date:  [**2190-5-2**]              Discharge Date:   [**2190-5-11**]  Date of Birth:  [**2109-6-24**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 783**] Chief Complaint: Transfer from ERCP suite after episode of Vtach during stenting procedure for obstruction of biliary system sec to head of pancreas tumor.
+Major Surgical or Invasive Procedure: s/p ERCP s/p VT arrest requiring intubation   History of Present Illness: 80 yo gentleman with h/o DM2, HTN, CKD who initially presented to [**Hospital 67456**]Hospital with painless jaundice, found to have hyperbilirubinemia (t. bili 8), LFT elevation and subsequently a 3.2 cm mass in the head of the pancreas on CT [**4-29**].
+Abx was started to cover for ascending colangitis.
+Patient was refered to the ERCP suite for evaluation and stent deployment.
+Patient was turned sulpine and given DCCV of 200J with return to a narrrow complet tachycardia of ~140.
+Patient was intubated for airway protection.
+Patient breifly became hypotesive to 80's that responded to 1 L NS bolus.
+Given the need to decompress the biliary system, inconjugation with anesthsia, ERCP and MICU, patient underwent successful deployment of metal stent to the biliary system with bile and pus flow noted.
+Physical Exam: PE:  on admission to [**Hospital Unit Name 2112**]: 96.2 HR:99 BP:127/65 RR:21 Sats:100% on AC (TV600/RR14/PEEP5) Gen: Intubated and sedated: Jaundiced appearing.
+Pertinent Results: [**2190-5-2**] 07:00PM BLOOD WBC-8.1 RBC-3.22* Hgb-10.2* Hct-31.3* MCV-97 MCH-31.7 MCHC-32.7 RDW-14.8 Plt Ct-173 [**2190-5-11**] 07:10AM BLOOD WBC-8.8 RBC-3.12* Hgb-9.5* Hct-29.3* MCV-94 MCH-30.5 MCHC-32.5 RDW-15.5 Plt Ct-356 [**2190-5-2**] 07:00PM BLOOD Neuts-89* Bands-0 Lymphs-1* Monos-5 Eos-5* Baso-0 Atyps-0 Metas-0 Myelos-0 [**2190-5-8**] 07:37AM BLOOD Neuts-85* Bands-1 Lymphs-5* Monos-4 Eos-3 Baso-0 Atyps-0 Metas-2* Myelos-0 [**2190-5-2**] 07:00PM BLOOD Hypochr-2+ Anisocy-NORMAL Poiklo-2+ Macrocy-NORMAL Microcy-NORMAL Polychr-1+ Target-2+ [**2190-5-6**] 06:50AM BLOOD Hypochr-1+ Macrocy-1+ [**2190-5-2**] 07:00PM BLOOD PT-16.4* PTT-27.7 INR(PT)-1.5* [**2190-5-6**] 06:50AM BLOOD PT-12.4 PTT-29.1 INR(PT)-1.1 [**2190-5-11**] 07:10AM BLOOD Plt Ct-356 [**2190-5-2**] 07:00PM BLOOD Glucose-222* UreaN-20 Creat-1.5* Na-136 K-4.3 Cl-105 HCO3-21* AnGap-14 [**2190-5-11**] 07:10AM BLOOD Glucose-191* UreaN-16 Creat-1.6* Na-136 K-4.0 Cl-99 HCO3-24 AnGap-17 [**2190-5-2**] 07:00PM BLOOD ALT-166* AST-143* LD(LDH)-143 AlkPhos-486* Amylase-11 TotBili-10.6* [**2190-5-11**] 07:10AM BLOOD ALT-49* AST-30 AlkPhos-346* TotBili-3.8* [**2190-5-2**] 07:00PM BLOOD Lipase-6 [**2190-5-3**] 05:35PM BLOOD CK-MB-2 cTropnT-<0.01 [**2190-5-4**] 01:23AM BLOOD CK-MB-3 cTropnT-0.04* [**2190-5-4**] 04:31AM BLOOD CK-MB-3 cTropnT-0.03* [**2190-5-2**] 07:00PM BLOOD Albumin-2.6* Calcium-8.0* Phos-3.3 Mg-2.0 Iron-23* [**2190-5-6**] 06:50AM BLOOD Albumin-2.2* Calcium-7.9* Phos-3.1 Mg-2.2 [**2190-5-10**] 10:40AM BLOOD Mg-2.1 [**2190-5-2**] 07:00PM BLOOD calTIBC-182* VitB12-1703* Folate-14.8 Ferritn-637* TRF-140* [**2190-5-5**] 04:48AM BLOOD Hapto-309* [**2190-5-3**] 05:35PM BLOOD TSH-0.62 [**2190-5-3**] 05:35PM BLOOD T4-6.5 [**2190-5-4**] 09:47PM BLOOD Vanco-11.7* [**2190-5-8**] 07:37AM BLOOD Vanco-9.9* [**2190-5-3**] 05:57PM BLOOD Type-ART Temp-36.8 Rates-14/ Tidal V-600 PEEP-5 FiO2-100 pO2-349* pCO2-49* pH-7.28* calTCO2-24 Base XS--3 AADO2-318 REQ O2-58 -ASSIST/CON Intubat-INTUBATED [**2190-5-4**] 09:50PM BLOOD Type-ART Temp-37.3 Rates-/18 FiO2-21 pO2-77* pCO2-36 pH-7.42 calTCO2-24 Base XS-0 Intubat-NOT INTUBA [**2190-5-3**] 05:57PM BLOOD Lactate-1.1 [**2190-5-4**] 04:43AM BLOOD Lactate-0.9   CA [**02**]-9   Test                          Result              Reference Range/Units CA [**02**]-9                       5005  H             0-37 U/ML BY [**Doctor Last Name **] CENTAUR  TEST PERFORMED AT: [**Company **], [**State **], [**Hospital1 **], [**Last Name (LF) **], [**Name6 (MD) **] [**Last Name (NamePattern4) 67457**], M.D., DIRECTOR .
+LINE PLACEMENT; -77 BY DIFFERENT PHYSICIAN  Reason: assess placement of OG tube and R subclavian line  [**Hospital 93**] MEDICAL CONDITION: 80 yo M with DM2, HTN, CKD admit with painless jaundice, LFT elevation, pancreatic mass here after Vtach arrest during ERCP s/p CVL and OG tube placement.
+REASON FOR THIS EXAMINATION: assess placement of OG tube and R subclavian line INDICATION: 80-year-old male with diabetes, hypertension, elevated LFT.
+Check OG tube and right subclavian line.
+COMPARISON: Chest radiograph taken approximately 2 hours earlier on the same day.
+OG tube is terminating in left upper quadrant, probably in the stomach.
+IMPRESSION: Tubes and lines as described above.
+CT PELVIS W/CONTRAST  [**2190-5-3**] 10:31 AM  CTA ABD W&W/O C & RECONS; CT PELVIS W/CONTRAST  Reason: please eval for neoplasm and metastases Field of view: 40 Contrast: OPTIRAY  [**Hospital 93**] MEDICAL CONDITION: 80 year old man with painless jaundice and 3 cm mass at head of pancreas on osh films REASON FOR THIS EXAMINATION: please eval for neoplasm and metastases CONTRAINDICATIONS for IV CONTRAST: None.
+There are numerous lymph nodes adjacent to the pancreatic head within the portacaval space, within the porta hepatis, within the root of the mesentery, and a single pericardiac node and multiple hypoenhancing liver lesions, best seen on the portal venous phas,s that are consistent with metastases.
+There is multilevel lower thoracic and lumbar disc degeneration with numerous vacuum discs and disc osteophytes.
+Multiple adjacent lymph nodes and a pericardial lymph node as well as multiple hepatic lesions concerning for metastases.
+There has been interval placement of a metallic common bile duct stent with associated pneumobilia and air within the gallbladder.
+A Foley catheter with likely iatrogenic air is seen within the bladder.
+Interval placement of a metallic biliary stent with persistent biliary dilatation and new pneumobilia.
+CHEST (PORTABLE AP)  [**2190-5-5**] 5:24 AM  CHEST (PORTABLE AP)  Reason: intubated, interval progression  [**Hospital 93**] MEDICAL CONDITION: 80 yo M with DM2, HTN, CKD admit with painless jaundice, LFT elevation, pancreatic mass here after Vtach arrest during ERCP s/p CVL and OG tube placement.
+Narrowing of tracheal lumen above thoracic inlet which may be related to post- intubation edema.
+RIGHT UPPER EXTREMITY VENOUS ULTRASOUND: Color and [**Doctor Last Name 352**] scale son[**Name (NI) 493**] images of the right internal jugular vein, subclavian vein, axillary, basilic and cephalic veins were obtained.
+# Presumptive Pancreatic CA/Obstructive Jaundice: Patient underwent ERCP on [**2190-5-3**] with stent placement which was complicated by an episode of pulseless VT s/p resuscitation in the ERCP suite, intubated and then a short ICU stay and extubated quickly.
+His LFTs and bilirubin trended downward.
+He may opt to undergo empiric treatment for pancreatic CA vs. outpatient biopsy.
+Patient's pain was controlled with long acting oxycontin 10 [**Hospital1 **], short acting oxycodone for breakthrough.
+# CKD: Cr elevated to 1.9 at peak and trended down with IV hydration.
+Patient  received mucomyst and IVF w/bicarb prior to CT. ACEI and Metformin were held.
+# VT arrest: Patient experienced pulseless VT during ERCP procedure s/p shock and resuscitation.
+Patient was started on low dose beta blockade.
+Patient maintained on RISS while in house, diabetic diet.
+ACEI was held due to Cr elevation.
+Patient's BP remained under good control and he was discharged on a beta blocker s/p VT. .
+Medications on Admission: Home Medications: - Diovan 320 mg daily - Meformin 1,000 mg [**Hospital1 **] - ASA 325 mg daily .
+Medications on Transfer: - Diovan 320 mg QD - Metformin EF 1000 mg [**Hospital1 **] - Asa 325 QD - Insulin R QID - Ampicillin/sulbactam 1.5 gm   Discharge Medications: 1.
+Oxycodone 10 mg Tablet Sustained Release 12HR Sig: One (1) Tablet Sustained Release 12HR PO Q12H (every 12 hours).
+Disp:*60 Tablet Sustained Release 12HR(s)* Refills:*2* 2.
+Levofloxacin 250 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours) for 7 days.
+Metronidazole 500 mg Tablet Sig: One (1) Tablet PO TID (3 times a day) for 7 days.
+Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+Oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q4H (every 4 hours) as needed.
+Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q4-6H (every 4 to 6 hours) as needed.
+Glipizide 5 mg Tablet Sig: One (1) Tablet PO once a day.
+Obstructive Jaundice s/p biliary stent placement 3.
+Ventricular Tachycardia s/p cardiac arrest requiring shock   Discharge Condition: Fair - decreasing LFTs and bilirubin, pain under good control   Discharge Instructions: Please take all of your medications as directed.
+We are discharging you on a new medication called Glipizide.
+Please check your glucose twice a day with a glucometer.

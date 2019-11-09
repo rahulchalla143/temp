@@ -1,0 +1,26 @@
+Admission Date:  [**2157-6-28**]              Discharge Date:   [**2157-6-29**]  Date of Birth:  [**2126-1-16**]             Sex:   F  Service: MEDICINE  Allergies: Lithium / Penicillins / Grapefruit  Attending:[**Last Name (NamePattern1) 495**] Chief Complaint: swallowed a spoon  Major Surgical or Invasive Procedure: 1.
+Endotracheal intubation 2.
+Esophagogastroduodenoscopy with retrieval of foreign body   History of Present Illness: 31 yo female with PTSD and HIV admitted from the ED s/p having swallowed a spoon.
+Today, patient admitted for foreign body removal but felt that the patient would benefit from [**Hospital **] transfer to have intubation prior to the procedure.
+(unclear from the notes if the procedure was attempted today).
+She was given ativan and haldol and morphine with good effect.
+EGD with conscious sedation and intubation performed in ICU and gold-colored plastic spoon was removed.
+Linear erosion noted in teh stomach, so patient should continue on PPI therapy.
+Continue olanzapine, bupropion, and prozac.
+Received ativan, haldol, and seroquel prn agitation.
+Continue valacyclovir and bactrim prophylaxis.
+# FEN: continue MVI, calcium, thiamine, iron # PPx: heparin SC, bowel regimen, PPI # CODE: FULL   Medications on Admission: Albuterol 2 puffs q4h prn Olanzapine 10mg PO bid Colace 100mg PO qhs Iron 325mg PO bid Valacyclovir 1gm PO daily Prilosec 20mg PO daily KCl 20mEQ PO qid Bactrium 400/80 mg PO daily Thiamine 100mg PO dialy Bupropion SR 100mg PO daily Calcium 500mg PO daily Prozac 20mg PO qAM MVI 1 tab PO daily Psyllium packet prn constipation Guaifenesin prn cough Haldol 5mg PO q4h prn agitation Ativan 3mg PO q4h prn agitation Seroquel 300mg PO q6h prn agitation Tylenol 650mg PO q6h prn pain/fever Benadryl 75mg PO q4h prn agitation Magnesium Hydroxide 30mL qid prn ingestion   Discharge Medications: 1.
+Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs Inhalation Q6H (every 6 hours) as needed.
+Bupropion 100 mg Tablet Sustained Release Sig: One (1) Tablet Sustained Release PO QAM (once a day (in the morning)).
+Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+Ferrous Sulfate 325 (65) mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Fluoxetine 20 mg Capsule Sig: One (1) Capsule PO DAILY (Daily).
+Hexavitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).
+Olanzapine 10 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Quetiapine 100 mg Tablet Sig: Three (3) Tablet PO Q6H (every 6 hours) as needed.
+Bactrim 400-80 mg Tablet Sig: One (1) Tablet PO once a day.
+Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Valacyclovir 1 g Tablet Sig: One (1) Tablet PO once a day.
+Prilosec 20 mg Capsule, Delayed Release(E.C.)
+Colace 100 mg Capsule Sig: One (1) Capsule PO once a day.
+Hep C +   Discharge Condition: Good   Discharge Instructions: You were admitted for removal of a foreign body from your GI tract after you had swallowed a spoon.

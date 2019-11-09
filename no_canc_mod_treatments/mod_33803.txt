@@ -1,0 +1,27 @@
+Admission Date:  [**2116-6-27**]              Discharge Date:   [**2116-7-16**]  Date of Birth:  [**2036-3-20**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 1674**] Chief Complaint: Acute cholangitis, e.coli bacteremia, acute renal failure  Major Surgical or Invasive Procedure: intubation, ercp, central line placements  History of Present Illness: Mr. [**Known lastname 78835**] is an 80M with PMH HTN who presented to [**Hospital3 **] on [**6-26**] with a three day history of nausea, vomiting, and abdominal pain.
+He was given a dose of zosyn 2.25mg q8H, bolused ~4L of ormal saline.
+Past Medical History: HTN Abdominal hernia repair TIA Bilateral TAH CKD with b/l Cr 1.3-1.6  Social History: No ETOH, smoking, or drug use.
+IMPRESSION: Choledocholithiasis, with successful balloon extraction during ERCP.
+Brief Hospital Course: 80 y/o M admitted with acute cholangitis s/p ERCP with removal of stones and sludge.
+Patient was switched to ampicillin after being initially on piperacillin/tazobactam, no subsequent blood cultures were positive.
+Patient underwent ERCP with removal of stones and sludge, was intubated peri-ERCP.
+-  Follow up: needs to make appointment with Dr. [**First Name8 (NamePattern2) **] [**Name (STitle) 468**] of surgery to evaluate need for cholecystectomy .
+He was started on HD in hopes of clearing his mental status in order to extubate.
+He was treated with vancomycin and cefepime for 8 day course.
+He was successfully extubated without complication once mental status improved and he underwent ultrafiltration for fluid removal improving his pulmonary edema.
+He was then started on dialysis.
+Mental status improved following dialysis but he still required dialysis 3 x week.
+Patient was started on lanthanum, sevelamer and aluminum hydroxide for elevated phosphorus of 9.
+If you need help coordinating outpt dialysis placement after discharge from [**Hospital1 **], please [**First Name8 (NamePattern2) **] [**Doctor First Name 12906**] [**Location (un) 12907**] at [**Hospital3 **], [**Telephone/Fax (1) 8717**] pager [**Numeric Identifier 78836**].
+# Atrial fibrillation  Patient developed atrial fib with RVR to 180s post ERCP which required amiodarone gtt and transition to oral regimen.
+Patient went back into sinus rhythym after bacteremia was treated and amiodarone was hence stopped.
+He was not placed on anticoagulation given he was back in sinus and this was transient atrial fibrillation related to an acute process.
+Patient is receiving iron transfusions, last dose of ferrous gluconate is [**2116-7-19**].
+# Hypertension  Currently on lopressor and well controlled.
+Actually drops with dialysis and so midodrine started for prior to dialysis.
+Home meds included triamterine/HCTZ.
+Unclear whether this is due to effects of prior sepsis.
+# Congestive Heart Failure, systolic, left: Echo done during sepsis with LV hypokinesis, EF 40%, mildly improved on day of discharge.
+Continue beta blocker, consider starting aspirin.
+Medications on Admission: Triamterene/HCTZ Ferrous sulfate 325mg daily ASA 325mg daily   Discharge Disposition: Extended Care  Facility: [**Hospital3 105**] Northeast - [**Location (un) 38**]  Discharge Diagnosis: cholangitis cholelithiasis sepsis acute renal failure left ventricular dysfunction - systolic heart failure   Discharge Condition: stable   Discharge Instructions: Continue dialysis, continue physical therapy.
+Followup Instructions: Please make an appointment to follow up with surgeon Dr. [**Last Name (STitle) 468**] at [**Hospital1 69**] [**Telephone/Fax (1) 2835**] to discuss whether to have surgery to remove your gallbladder.

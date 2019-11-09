@@ -1,0 +1,76 @@
+Admission Date:  [**2186-4-5**]              Discharge Date:   [**2186-5-1**]  Date of Birth:  [**2126-1-11**]             Sex:   F  Service: MEDICINE  Allergies: Keflex / Ciprofloxacin / Ertapenem / Meropenem  Attending:[**First Name3 (LF) 943**] Chief Complaint: Acute renal failure, urinary tract infection  Major Surgical or Invasive Procedure: Bedside HD line placement, IR guided HD line placement, IR guided tunnelled HD line placement, PICC line placement, paracentesis, central line placement, intubation, NG tube placement   History of Present Illness: Ms [**Known lastname 92101**] is a 60 year old woman with cirrhosis [**3-13**] methotrexate (for psoriatic arthritis) and hepatitis C who initially presented with acute on chronic renal failure; her course has been complicated by UTI, bacteremia, respiratory distress requiring ICU transfer as well as worsening ARF requiring HD who is now stable for call out of the ICU to the floor.
+She was initially treated with first with Unasyn but developed a diffuse rash.
+She was switched to meropenem but developed diffuse erythroderma with eosinophilia after 3 days.
+Her blood cultures grew coag negative Staph x3 bottles and she was started on vancomycin.
+She also being treated for hepatorenal syndrome with albumin, midodrine, and octreotide.
+The renal team was unable to place an HD cath at the bedside on Friday [**2186-4-14**].
+She did not respond to lasix 80 IV, and was therefore transferred to the ICU.
+An IR guided temporary HD cath with a VIP port was placed.
+She underwent her first dialysis session on [**2186-4-17**].
+Her O2 was weaned to 2L NC (from 4L).
+Blood culture from [**2186-4-15**] grew VRE and her antibiotics were changed to Dapto.
+She also was noted to have AM hypoglycemia so her evening glargine was decreased to 10U from 20U.
+On the floor now she is comfortable on 2L NC but remains encephalopathic.
+Past Medical History: Hepatitis C, Genotype 1: Diagnosed in [**2185-1-8**] with last VL 263,000 in [**8-/2185**] Cirrhosis (Methotrexate and Hepatitis C Induced) s/p TIPS, complicated by hepatic encephalopathy and ascites Chronic Kidney Disease with baseline Cr 1.8-2.0 Diastolic CHF: Grade I diastolic dysfunction [**7-17**], EF 75% Esophageal Varices per report; however, EGD [**7-/2185**] reports normal esophagus Psoriasis with Arthropathy - s/p Methotrexate x 15 years (MTX d/c in 12.07 when patient developed ascites and now uses halobetasol cream) Anemia with baseline Hct 25-30 Thyroid nodule 2.2cm identified on ultrasound [**9-16**] Foot drop from peroneal nerve injury during TIPS procedure (per DC summary)   Social History: Quit smoking in [**2184**].
+Uses a walker but has a very difficult time getting around.
+SKIN: Diffusely dry skin with multiple skin tears.
+This isolate is an extended-spectrum beta-lactamase (ESBL) producer and should be considered resistant to all penicillins, cephalosporins, and aztreonam.
+SENSITIVITIES: MIC expressed in MCG/ML                              ESCHERICHIA COLI                              |          KLEBSIELLA PNEUMONIAE                              |          |          PSEUDOMONAS AERUGINOSA                              |          |          | AMIKACIN--------------                           8 S AMPICILLIN------------  =>32 R AMPICILLIN/SULBACTAM--     8 S        8 S CEFAZOLIN-------------       R      <=4 S CEFEPIME--------------       R      <=1 S       32 R CEFTAZIDIME-----------       R      <=1 S       32 R CEFTRIAXONE-----------       R      <=1 S CEFUROXIME------------    32 R        2 S CIPROFLOXACIN---------   =>4 R   <=0.25 S      =>4 R GENTAMICIN------------   <=1 S      <=1 S     =>16 R MEROPENEM-------------<=0.25 S   <=0.25 S        4 S NITROFURANTOIN--------  <=16 S       32 S PIPERACILLIN----------       R               =>128 R PIPERACILLIN/TAZO-----   <=4 S      <=4 S    =>128 R TOBRAMYCIN------------   <=1 S      <=1 S     =>16 R TRIMETHOPRIM/SULFA----   <=1 S     =>16 R .
+[**2186-4-15**] 6:00 am BLOOD CULTURE **FINAL REPORT [**2186-4-21**]** Blood Culture, Routine (Final [**2186-4-21**]): ENTEROCOCCUS FAECIUM.
+Screen predicts NO synergy with penicillins or vancomycin.
+Consult ID for treatment options.
+SENSITIVITIES: MIC expressed in MCG/ML                              ENTEROCOCCUS FAECIUM                              | AMPICILLIN------------  =>32 R DAPTOMYCIN------------       S LINEZOLID-------------     2 S PENICILLIN G----------  =>64 R VANCOMYCIN------------  =>32 R Anaerobic Bottle Gram Stain (Final [**2186-4-16**]): GRAM POSITIVE COCCI.
+She had completed treatment for bacteremia with vancomycin but the bacteremia with coag neg Staph recurred almost as soon as the vancomycin was stopped.
+She was againe treated with vancomycin for this.
+She continues to suffer from skin breakdown and hemorrhage.
+Goals of care: Given inability to treat her infections [**3-13**] skin breakdown and severe bleeding from heparin at HD, as well as the reality that [**Known firstname **] will never be eligible for liver or kidney [**Known firstname **], she and here family agreed to comfort care.
+Less bleeding on exam [**4-30**] and [**5-1**] off heparin for HD.
+It seems likely that her skin breakdown is etiologic to her recurrent bacteremia.
+Per derm, apply bactroban to erosions daily and cover with adaptic dressings.
+Then developed VRE bacteremia x1 BCx and was switched to daptomycin on [**4-17**].
+She completed treatment for coag neg Staph bacteremia on [**2186-4-21**] with vancomycin.
+There is always the possibility that her multiple line placements recently played a role (s/p PICC, HD attempt at beside, and HD line at IR).
+The PICC and HD lines were both pulled and the HD line was replaced at IR.
+She had initially been treated with Unasyn, then aztreonam but changed to meropenem once cultures grew out.
+Repeat UCx with yeast only so DC'd foley as only small amount of urine produced.
+Continue Rifaximin for bowel decontamination.
+BCx from HD line on [**2186-4-21**] grew coag neg Staph in [**3-13**] bottles.
+Restarted vancomycin and pulled line on [**2186-4-24**].
+New line was placed on [**2186-4-26**] by IR.
+Status post 7 day course of treatment with vanco from [**4-24**].
+Holding treatment for comfort measures.
+Acute on Chronic Kidney Injury: Patient's baseline Cr PTA was 1.8-1.9.
+Her Cr did no respond to increasing doses of octreotide, midorine, and albumin and she was unable to manage her volume status with a Cr around 3.
+She was ultimately started on HD for respiratory distress [**3-13**] hypervolemia.
+Discontinued octreotide once on HD to preserve skin integrity.
+Discontinued midodrine as hypertensive.
+Goals of care are palliative at this point, discontinuing HD for ongoing severe hemorrhage from heparin from lines.
+Continue Lactulose and rifaximin with goal to keep patient lucid, may refuse if she wants.
+HCV and MTX Cirrhosis: MELD rising now that on HD, but not a candidate for [**Month/Day (2) **] give poor clinical status and risks of surgery and immune suppression in this patient.
+Discontinued bactrim given focus on comfort.
+Type II Diabetes Mellitus: Lantus only with QAM fingersticks.
+ICU course: Was transferred to the MICU on HOD 11 ([**2186-4-16**]) for worsening respiratory distress and fatigue with tachypnea to 30's, hypoxemia requiring 4L NC (previously on RA).
+The patient pulled out her PICC line, so IR placed a VIP port.
+Lactulose was started with good effect of large BMs.
+Blood cultures were positive for VRE and the patient was started on daptomycin.
+She received hemodialysis on HOD 12 ([**2186-4-18**]).
+Medications on Admission: Rifaximin 400 mg TID Metoclopramide 5 mg TID Prochlorperazine Maleate 5 mg q6h prn for nausea Triamcinolone Acetonide 0.1 % Cream [**Hospital1 **] Famotidine 20 mg daily Lactulose 30 mL qid Glargine Insulin 20 U daily RISS Albuterol nebulizations q4h prn Ascorbic Acid 500 mg [**Hospital1 **] Zinc Sulfate 220 mg daily Bacrim SS daily Midodrine 5 mg TID   Discharge Medications: 1.
+Rifaximin 200 mg Tablet Sig: Two (2) Tablet PO TID (3 times a day).
+Metoclopramide 10 mg Tablet Sig: 0.5 Tablet PO QIDACHS (4 times a day (before meals and at bedtime)).
+Famotidine 20 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours).
+Lactulose 10 gram/15 mL Syrup Sig: Sixty (60) ML PO TID (3 times a day).
+Mupirocin Calcium 2 % Cream Sig: One (1) Appl Topical DAILY (Daily): To erosions on chest, legs, and arms daily and cover with telfa gauze and tegaderm.
+Citalopram 20 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Thrombin (Bovine) 5,000 unit Recon Soln Sig: One (1) Recon Soln Topical PRN (as needed): apply to bleeding areas for hemostasis.
+Prochlorperazine Maleate 5 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for nausea.
+Ipratropium Bromide 0.02 % Solution Sig: One (1) neb Inhalation Q6H (every 6 hours) as needed for wheezing.
+Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1) neb Inhalation Q6H (every 6 hours) as needed for wheezing.
+Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed.
+Morphine 10 mg/5 mL Solution Sig: 5-10 mg PO Q2H (every 2 hours) as needed.
+Simethicone 80 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO BID (2 times a day).
+Simethicone 80 mg Tablet, Chewable Sig: [**2-10**] Tablet, Chewables PO BID (2 times a day) as needed for gas.
+Insulin Glargine 100 unit/mL Solution Sig: Five (5) units Subcutaneous at bedtime.
+You ultimately needed to start dialysis for your renal failure.
+Dermatology consulted on your skin problems but despite our best efforts you continue to have skin breakdown.
+You have had several infections of your blood which have been treated with antibiotics.

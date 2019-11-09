@@ -1,0 +1,64 @@
+Admission Date:  [**2118-9-4**]              Discharge Date:   [**2118-9-7**]   Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 7333**] Chief Complaint: shortness of breath for 1 night, productive cough  Major Surgical or Invasive Procedure: none   History of Present Illness: Mr. [**Known lastname 28030**] is an 86 year-old man with a history of non-ischemic CM (EF 30-35%), hx PAF on coumadin and s/p recent successful cardioversion [**8-28**] followed by initiation of amiodarone, and a history of difficult to control volume status secondary to dietary indiscretion.
+O2 Sat fell to 85% on RA and he was placed on high-flow facemask.
+He received ASA 325 mg, 750 mg IV levofloxacin, and 1 g IV vancomycin and was admitted to the CCU for further managment.
+He denies any prior history of stroke, TIA, bleeding at the time of surgery, myalgias, joint pains, black stools or red stools.
+CARDIAC HISTORY: -CABG: none -PERCUTANEOUS CORONARY INTERVENTIONS: cath [**2109**] showing 1.
+JNC VI Stage 2 hypertension -PACING/ICD:  none - chronic systolic CHF - EF 30-35% on [**2118-6-27**] echo -mild diastolic HF per [**2109**] cath - paroxysmal atrial fibrillation, s/p cardioversion [**2118-8-27**] followed by initiation of amiodarone .
+Mr. [**Known lastname 28030**] is a very meticulous man who keeps lists and charts of his medications and physician [**Name Initial (PRE) 10700**].
+Brief Hospital Course: This is an 86 yo man with a history of non-ischemic cardiomyopathy and paroxysmal atrial fibrillation s/p successful cardioversion [**8-28**] presenting with an acute exacerbation of chronic systolic and diastolic congestive heart failure and found to again be in atrial fibrillation.
+- He responded well to diuresis with Lasix 40mg IV and PO.
+His home dose of Lasix was switched to 40mg once daily from 20mg twice daily.
+He was also advised to follow a low salt diet and give himself an extra dose of Lasix 40mg if his weight increases 5 pounds above his baseline dry weight.
+- He will also be discharged on his home dose of olmesartan 40mg, spironolactone 25mg daily was started, digoxin 125mcg every other day was continued.
+# Atrial Fibrillation:  He is currently back in atrial fibrillation, s/p recent cardioversion [**2118-8-23**].
+His INR remained therapeutic on his home Coumadin dosing.
+His initial rate in atrial fibrillation was up to the 120s so his metoprolol dosing was increased to 50mg twice daily and his home digoxin was continued.
+His rate then improved to the 70s, but it is unclear whether his rate would have improved with diuresis alone.
+- He will continue his anticoagulation with alternating coumadin 2 mg and 2.5 mg daily with a goal INR [**2-22**].
+- His digoxin will continue at 125mcg every other day and he will be put on metoprolol succinate 100mg daily for rate control.
+- He will continue his amiodarone per the loading dose schedule that was given to him by his outpatient cardiologist Dr. [**Last Name (STitle) **].
+- He will undergo a repeat cardioversion in [**3-23**] weeks after amiodarone has reached steady state wit Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **].
+- His simvastatin dosing was decreased to 20mg given the interaction with amiodarone.
+- ASA at 81 mg daily should be considered after warfarin dose is stable on full load of amiodarone.
+Spironolactone 25mg daily was newly started in house and he will continue as an outpatient.
+He will be discharged on metoprolol succinate 100mg daily, olmesartan 40mg daily, spironolactone 25mg daily.
+His home amlodipine will not be continued as an outpatient.
+He received 1 dose of vancomycin and levaquin in the ED, but his antibiotics were not continued in the CCU.
+# DM2:  On metformin and glyburide at home.
+Metformin was held in the setting of ARF and lactic acidosis, glyburide was also held.
+He had QID FS and his sugars were covered with ISS.
+# hx PE:  given subsegemental nature, plan was to continue anticoagulation for 3 months, but he will benefit from long term anticoagulation for his PAF anyway and has tolerated the medication well.
+Currently therapeutically anticoagulated and he will continue his coumadin at home dose.
+Plan was for outpatient follow up for PET CT and possible bronchoscopy with biopsy vs mediastinoscopy for tissue diagnosis.
+Medications on Admission: humira 40 mg twice monthly digoxin 125mcg 3x/wk amlodipine-olmesartan 5 mg-40 mg daily vitamin D 50 0000 units 3 times per month finasteride 5 mg daily folate 1 mg daily furosemide 20 mg [**Hospital1 **] glyburide 5 mg-500 mg 2 tabs [**Hospital1 **] metoprolol tartrate 100 mg daily oxycodone-acetaminophen prn simvastatin 40 mg daily warfarin 2 mg alternating with 2.5 mg QOD omeprazole 20mg daily Vitamin C, beta carotene, calcium, garlic, ginkgo, colon herbal cleanser, Lutein vision formula  Discharge Medications: 1.
+Olmesartan 40 mg Tablet Sig: One (1) Tablet PO daily ().
+Digoxin 125 mcg Tablet Sig: One (1) Tablet PO EVERY OTHER DAY (Every Other Day).
+Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Metoprolol Succinate 100 mg Tablet Sustained Release 24 hr Sig: One (1) Tablet Sustained Release 24 hr PO once a day.
+Omeprazole 20 mg Capsule, Delayed Release(E.C.)
+Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Finasteride 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Amiodarone 200 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day): change to 600 mg daily on [**2118-9-7**] and follow taper as before.
+Warfarin 2 mg Tablet Sig: One (1) Tablet PO QOD ().
+Warfarin 2.5 mg Tablet Sig: One (1) Tablet PO QOD ().
+Simvastatin 40 mg Tablet Sig: 0.5 Tablet PO once a day.
+Glyburide Micronized-Metformin 5-500 mg Tablet Sig: Two (2) Tablet PO twice a day.
+Oxycodone-Acetaminophen 5-325 mg Tablet Sig: One (1) Tablet PO four times a day as needed for pain.
+Beta Carotene 30 mg Capsule Sig: 0.5 Capsule PO once a day.
+Garlic Oil 500 mg Capsule Sig: Two (2) Capsule PO once a day.
+Ginkgo Biloba 120 mg Tablet Sig: One (1) Tablet PO once a day.
+Humira 40 mg/0.8 mL Kit Sig: One (1) injection Subcutaneous twice per month.
+Furosemide 20 mg Tablet Sig: Two (2) Tablet PO once a day: Take additional 40 mg daily if your weight increases 5 pounds .
+Outpatient Lab Work Please check chem-7, Digoxin level and INR on [**2118-9-13**] and call results to Dr. [**Last Name (STitle) **] at [**Telephone/Fax (1) 7728**]   Discharge Disposition: Home  Discharge Diagnosis: Acute on Chronic Systolic Congestive Heart Failure Atrial fibrillation with rapid ventricular response Hemoptysis Dyslipidemia Acute Renal Failure Diabetes Mellitus Type 2   Discharge Condition: stable   Discharge Instructions: You were admitted with congestive heart failure that we think was due to your high sodium diet and your rapid heart rate.
+You will need to follow a low sodium diet as discussed with you and weigh yourself daily.
+You will need to return for a cardioversion in about 3-4 weeks on a Monday or Tuesday.
+Medication changes: 1. discontinue your [**Last Name (un) 28031**] 2.
+Start spironolactone 25 mg daily 3.
+Start taking Olmesartan 40 mg daily 5.
+Continue your amiodarone taper as before 6.
+Increase your lasix to 40 mg daily.
+Decrease your Simvastatin to 20 mg daily.
+Your metoprolol was changed to a long acting pill.
+Stop taking herbal colon cleanse and Vitamin E. .
+Pulmonology: Provider: [**Name10 (NameIs) 1570**],INTERPRET W/LAB NO CHECK-IN [**Name10 (NameIs) 1570**] INTEPRETATION BILLING Date/Time:[**2118-10-5**] 10:30 Provider: [**Name10 (NameIs) 1571**] FUNCTION LAB Phone:[**Telephone/Fax (1) 609**] Date/Time:[**2118-10-5**] 10:10  Provider: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 4507**], MD Phone: ([**Telephone/Fax (1) 513**] Date/Time: [**10-5**] at 10:00am.

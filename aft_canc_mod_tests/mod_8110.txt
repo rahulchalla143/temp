@@ -1,0 +1,36 @@
+Admission Date:  [**2114-8-14**]              Discharge Date:   [**2114-9-6**]  Date of Birth:  [**2047-6-23**]             Sex:   F  Service: MEDICINE  Allergies: Influenza Virus Vaccine / Shellfish Derived / Egg / Adhesive Bandage / Heparinoids  Attending:[**First Name3 (LF) 10842**] Chief Complaint: fever  Major Surgical or Invasive Procedure: [**8-20**] Sternal wound debridement   History of Present Illness: 67 yo F with h/o DM, HTN, HIT, PE, mitral valve replacement & CAD s/p CABG [**4-1**] c/b chronic sternal wound infection with multi-drug resistant Pseudomonas and ESBL E.coli, who presented from rehab with fevers for evaluation of sternal wound.
+CXR showed left base atelectasis.
+CTA chest done and unchanged with no PE.
+EKG was unchanged.
+Past Medical History: - Diabetes - Hypertension - CAD s/p prior RCA stenting c/b ISR x 2, Cypher stenting in [**2106**] for NSTEMI, s/p CABG x 2 with LIMA-LAD, SVG-PDA [**3-/2113**] - MVR [**3-/2113**]: 25 mm [**Company 1543**] mosaic porcine valve - Non sustained polymorphic VT s/p [**Company 1543**] ICD placement [**2-24**] - Chronic sternal wound infection since [**4-1**] with multiple highly resistant organisms - VTE on warfarin - HIT (Heparin-induced thrombocytopenia) - Mengingioma, formerly on chronic steroids - Osteopenia/porosis - s/p TAH-BSO - h/o C diff - depression - anxiety - hypercholesterolemia - H/o large post cath RP hematoma, [**2105**] - Gastroesophageal reflux disease - History of pulmonary nodules, followed by serial imaging - History of H. pylori - History of GI bleed in the setting of anticoagulation  Social History: Currently at [**Hospital3 111094**].
+[**2114-8-14**]: CTA CHEST W&W/O C: 1.
+If there is continued clinical concern, a HIDA scan could be obtained for further evaluation.
+Overall left ventricular systolic function is mildly depressed (LVEF= 40 %).
+[**2114-8-21**] CTA chest:1.
+Global cardiac enlargement, stable since [**2114-4-25**].
+[**2114-8-21**] CT Head: Unchanged size and appearance of right frontal extra-axial mass, likely a meningioma, with unchanged surrounding edema and mass effect.
+MICROBIOLOGY: [**2114-8-21**] MRSA SCREEN MRSA SCREEN- NEGATIVE [**2114-8-21**] [**Numeric Identifier 3143**] CULTURE [**Numeric Identifier **] Culture, NEGATIVE [**2114-8-21**] URINE URINE CULTURE- NEGATIVE [**2114-8-20**] [**Numeric Identifier 3143**] CULTURE [**Numeric Identifier **] Culture, Routine- NEGATIVE [**2114-8-19**] [**Numeric Identifier 3143**] CULTURE [**Numeric Identifier **] Culture, Routine- NEGATIVE [**2114-8-18**] [**Numeric Identifier 3143**] CULTURE [**Numeric Identifier **] Culture, Routine- NEGATIVE [**2114-8-17**] [**Numeric Identifier 3143**] CULTURE [**Numeric Identifier **] Culture, Routine- NEGATIVE [**2114-8-16**] [**Numeric Identifier 3143**] CULTURE [**Numeric Identifier **] Culture, Routine- NEGATIVE [**2114-8-15**] SWAB GRAM STAIN-FINAL; WOUND CULTURE-FINAL {PSEUDOMONAS AERUGINOSA}; ANAEROBIC CULTURE-FINAL INPATIENT [**2114-8-14**] URINE URINE CULTURE- NEGATIVE [**2114-8-14**] [**Numeric Identifier 3143**] CULTURE [**Numeric Identifier **] Culture, Routine-FINAL {KLEBSIELLA PNEUMONIAE}; Aerobic Bottle Gram Stain-FINAL; Anaerobic Bottle Gram Stain [**2114-8-14**] [**Numeric Identifier 3143**] CULTURE [**Numeric Identifier **] Culture, Routine-FINAL {KLEBSIELLA PNEUMONIAE}; Aerobic Bottle Gram Stain-FINAL; Anaerobic Bottle Gram Stain .
+CULTURE DATA (organism and susceptibilities): [**2114-8-14**] 1:25 pm [**Month/Day/Year 3143**] CULTURE    KLEBSIELLA PNEUMONIAE.
+COLISTIN Susceptibility testing requested  and pending      AMIKACIN--------------    16 S      CEFEPIME--------------    16 I      CEFTAZIDIME-----------    16 I      CIPROFLOXACIN---------   =>4 R      GENTAMICIN------------  =>16 R      MEROPENEM-------------  =>16 R      PIPERACILLIN/TAZO----- =>128 R      TOBRAMYCIN------------  =>16 R .
+CT Head was negative for acute change, CT Chest Angio was negative for PE.
+An echocardiogram revealed no changes.
+Her wound culture grew MDR Pseudomonas.
+Her urine culture was negative.
+Plastic Surgery was concerned for possible gallbladder pathology and requested a RUQ ultrasound, which revealed a midly thick gallbladder with mobile gallstone and no other evidence of acute cholecystitis.
+A Chest CT showed no change in her sternal wound, no evidence of fluid collection.
+Her surveillance [**Month/Day/Year **] cultures were all negative.
+She was kept on Pneumboots until her INR was consistently theraputic (goal [**12-27**]).
+She will need continued [**Month/Day (3) **] work to monitor her INR and re-dose the Coumadin as appropriate to achieve INR goal of [**12-27**].
+# Acute Kidney Injury: The patient has had a slowly increasing creatinine (1.1 on day of discharge, 0.5-0.6 baseline) secondary to poor PO intake and low volume status.
+She will need monitoring of her kidney function by repeat creatinine measurements, and likely future re-initiation of her anti-hypertensives once her volume status corrects and kidney injury resolves.
+Also, the patient has needed frequent repletion of her potassium and magnesium during her hospitalization, likely due to poor nutritional status and being on diuretics.
+She will need monitoring of her electrolytes, and supplementation as needed, upon arrival to the skilled nursing facility.
+Her hematocrit never fell below 21%, but given her cardiac history, and physiologic signs such as tachycardia, as well as endorsed dyspnea, she received one unit of packed red [**Date Range **] cells on two separate occasions, and responded appropriately.
+Her CXRs were negative for pneumonia or signs of fluid overload.
+Her oxygen saturation remained within normal limits on room air.
+# HTN: The patient's [**Last Name (un) **] pressure ranged from systolics high 90s to 110s and diastolics from 50s to 60s.
+Mag oxide 400mg [**Hospital1 **] 21.
+KCl 20 meq daily 22.
+APAP 650mg Q4h prn pain/temp 23.
+We have made some changes to your medications, which are listed in detail in your instruction sheet.
+Additionally, you will need close monitoring of your INR and coumadin dosing.

@@ -1,0 +1,31 @@
+ROS: per HPI  Past Medical History: None  Social History: -married -1 ppd for "whole life" -denies drug use -Social EtOh   Family History: Non-contributory  Physical Exam: Physical Exam: NIHSS= 9 ( 3 for arm and leg weakness; 2 for facial droop; 1 for dysarthria Vitals: T: 97.6 P: 65 R: 16 BP: 237/124 SaO2: 100% RA General: Awake, cooperative, NAD.
+-Coordination: No dysmetria on FNF or HKS bilaterally on R. L sided is plegic  -Gait: deferred  Pertinent Results: LABS: ADMISSION:       14.9   90 8.7>--------<183       42.6 N:70.0 L:21.4 M:6.4 E:1.9 Bas:0.2  PT: 12.3  PTT: 29.4  INR: 1.0  %HbA1c: 5.9  140  105  15  102 -------------< 4.1  25  1.0  Ca: 9.2 Mg: 2.1 P: 3.9 CK: 93->97->168  Trop-T: <0.01 x3  ALT: 26 AP: 69 Tbili: 0.4 AST: 21  Cholesterol:190 Triglyc: 69 HDL: 51 CHOL/HD: 3.7 LDLcalc: 125  Serum ASA, EtOH, Acetmnphn, Benzo, Barb, Tricyc Negative Urine Tox: Negative  DISCHARGE: 138  104  22  90 -------------< 4.2  27  1.0  Ca: 9.0 Mg: 2.2 P: 4.5        13.6    92 6.4>---------<205       40.5  PT: 12.8  PTT: 61.8  INR: 1.1  IMAGING: [**2119-10-25**] ECG Normal sinus rhythm.
+Probable voltage criteria for left ventricular hypertrophy with secondary ST-T wave abnormalities.
+[**2119-10-25**] MRhead/MRA brain 1.
+[**2119-10-28**] CT chest/abdomen/pelvis IMPRESSION: Extensive arterial vascular calcifications, including among the coronary arteries, but no findings suspicious for malignancy by CT.  [**2119-10-30**] EEG (Prelim): No electrographic seizures  [**2119-10-31**] TEE No spontaneous echo contrast or thrombus is seen in the body of the left atrium/left atrial appendage or the body of the right atrium/right atrial appendage.
+IMPRESSION: Diffuse aortic atherosclerosis with complex (>4 mm) highly-mobile atheroma in the descending aorta and complex (>4 mm) non-mobile atheroma in the aortic arch.
+The patient is a 60 year-old right handed man with a PMH of tobacco use who was transferred from an OSH 6 hours after the onset of R face, arm, and leg weakness.
+Given the TEE findings, the patient initially was started on heparin gtt and Coumadin 5 mg daily; however, he then decided he does not want to be on Coumadin.
+Therefore he was continued on ASA 325 daily.
+He was started on Atorvastatin 20 daily.
+His bp was not able to be controlled with IV lopressor and IV hydralazine on the floor, so he was briefly transferred to NeuroICU for Labetalol gtt.
+He was discharged on Amlodipine 10 mg daily and Lisinopril 10 mg daily.
+This was thought to likely be obstructive, and he was started on Flomax 0.4 mg PO qhs.
+Arm Cellulitis: He developed arm cellulitis around the site of a peripheral IV, and was traeted with Cephalexin 500 mg PO q6 hr to complete a 7 day course.
+Contact: [**Name (NI) **] (daughter) [**Telephone/Fax (1) 80446**]  Medications on Admission: None  Discharge Medications: 1.
+Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Medications Humalog Insulin Sliding Scale 5.
+Cephalexin 500 mg Capsule Sig: One (1) Capsule PO Q6H (every 6 hours) for 2 days.
+Tamsulosin 0.4 mg Capsule, Sust.
+Nicotine 21 mg/24 hr Patch 24 hr Sig: One (1) Patch 24 hr Transdermal DAILY (Daily).
+Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1) neb Inhalation Q6H (every 6 hours) as needed for shortness of breath or wheezing.
+Ipratropium Bromide 0.02 % Solution Sig: One (1) neb Inhalation Q6H (every 6 hours) as needed for shortness of breath or wheezing.
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed for pain.
+Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+You elected not to be started on Coumadin, so you should continue taking Aspirin 325 mg daily.
+You were started on Aspirin, Atorvastatin, Amlodipine, Lisinopril, Tamsulosin, Albuterol as needed, and Ipratropium as needed while in the hospital.
+You should take Keflex for 2 mores days for your arm cellulitis.
+You will need to call the office before the appointment in order to complete your registration, and will need a referral from your PCP.

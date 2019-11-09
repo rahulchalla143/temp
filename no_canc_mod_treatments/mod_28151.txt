@@ -1,0 +1,32 @@
+Admission Date:  [**2149-1-18**]              Discharge Date:   [**2149-1-21**]  Date of Birth:  [**2069-6-1**]             Sex:   F  Service: MEDICINE  Allergies: Penicillins / Hydrochlorothiazide  Attending:[**First Name3 (LF) 5810**] Chief Complaint: s/p fall, altered mental status admitted to ICU for hyponatremia  Major Surgical or Invasive Procedure: none  History of Present Illness: Ms. [**Known lastname **] is a 79yo woman with h/o AFib on coumadin, HTN, and borderline DM who presented with confusion after a fall and was found to have hyponatremia to 112.
+She was started on hypertonic saline, and a PPD was placed on the left forearm.
+She was given ceftriaxone and levofloxacin and sent to [**Hospital1 18**] for further care.
+She received a dose of vancomycin and was admitted to the MICU for hypertonic saline and further work-up of her cavitary lesion on CXR.
+(-)ve: fever, chills, night sweats, chest pain, rhinorrhea, sputum production, hemoptysis, dyspnea, orthopnea, paroxysmal nocturnal dyspnea, nausea, vomiting, diarrhea, constipation, hematochezia, melena, dysuria, urinary frequency, urinary urgency, focal numbness, focal weakness, myalgias, arthralgias   Past Medical History: Paroxysmal AFib on coumadin HTN Hyperlipidemia Borderline DM Hypothyroidism h/o TIA Borderline positive exercise stress in [**2147**] (done for rhythm eval) Mitral valve prolapse with moderate MR s/p spinal fusion in [**2098**] s/p TAH at age 41 for fibroids s/p BSO, unclear indication, prior to TAH   Social History: She lives with her 87yo husband, who has health problems.
+There are nonspecific periportal lymph nodes not meeting the CT criteria for pathologic enlargement.
+[**2149-1-18**] 05:50AM BLOOD WBC-10.7 RBC-3.95* Hgb-11.9* Hct-33.8* MCV-86 MCH-30.2 MCHC-35.3* RDW-13.3 Plt Ct-381 [**2149-1-18**] 05:50AM BLOOD Neuts-70 Bands-9* Lymphs-4* Monos-15* Eos-1 Baso-0 Atyps-1* Metas-0 Myelos-0 [**2149-1-18**] 05:50AM BLOOD PT-25.8* PTT-37.0* INR(PT)-2.5* [**2149-1-18**] 05:50AM BLOOD Glucose-110* UreaN-8 Creat-0.6 Na-113* K-3.6 Cl-78* HCO3-24 AnGap-15 [**2149-1-18**] 09:23AM BLOOD Cortsol-18.9 [**2149-1-18**] 06:00AM BLOOD Lactate-1.1 Na-115* K-3.4*  Brief Hospital Course: 79yo woman with h/o AFib on coumadin admitted after a fall in the context of hyponatremia.
+DDx includes SIADH in setting dehydration, or medication side effect (on HCTZ).
+Initial sodium deficit of 15mEq, so hypertonic saline was started at 28cc/hr.
+Her sodium persisted to be 115 despite being at 46cc/hr, so that rate was continued with plan for correction of 8-12mEq over 24 hours.
+Na increased to 119 and hypertonic saline was stopped at 6pm on [**1-18**].
+She was initially still orthostatic and received gentle IV fluids.
+She was started on Levofloxacin [**1-18**] and flagyl was d/c'd on [**1-19**].
+She will complete a 7 day course of levofloxacin on [**1-24**]  # s/p fall: Likely due to unsteady gait, which may have been from developing hyponatremia over the last several days.
+She was somewhat unsteady with ambulation, requiring a walker to assist her.
+PT felt that she would benefit from home PT and continued use of walker for now.
+# Paroxysmal AFib: Restarted coumadin on [**1-19**].
+Need to follow inr closely on levofloxacin given drug interaction.
+coumadin was held x 1 day as an inpatient for this reason.
+Also started amlodipine given persistent HTN.
+Was on 10 mg daily at time of discharge  # Hyperlipidemia:  continued statin  # Borderline DM:  fingersticks and gentle SSI  # Hypothyroidism:  continued levothyroxine.
+CODE STATUS: Confirmed full, but she is thinking about this  EMERGENCY CONTACT:  [**Name (NI) **] [**Name (NI) **] [**Telephone/Fax (1) 65723**] or [**Telephone/Fax (1) 65724**]  Medications on Admission: MEDICATIONS (Confirmed with Pharmacy [**Telephone/Fax (1) 65725**]) Coumadin 2.5mg QD unknown dose Atenolol 50mg QHS HCTZ 25mg daily (recently changed to 1/2 tablet) Simvastatin 20mg QHS Levothyroxine 50mcg daily Xalatan eye drops  ALLERGIES:  PCN -- rash  Discharge Medications: 1.
+Levofloxacin 250 mg Tablet Sig: Three (3) Tablet PO DAILY (Daily) for 3 days: last day [**2149-1-24**].
+Coumadin 2.5 mg Tablet Sig: One (1) Tablet PO every other day: alternating with 2 tablets every other day.
+Atenolol 25 mg Tablet Sig: Two (2) Tablet PO QHS (once a day (at bedtime)).
+Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS (at bedtime).
+Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Sodium Chloride 1 gram Tablet Sig: One (1) Tablet PO twice a day.
+[**First Name8 (NamePattern2) 449**] [**Last Name (NamePattern1) 6955**], at [**Telephone/Fax (1) 65726**] (tel # is [**Telephone/Fax (1) 22629**])   Discharge Disposition: Home With Service  Facility: [**Location (un) **] Nursing Services  Discharge Diagnosis: [**Last Name (un) 65727**] hyponatremia with secondary complication: mental status change Pneumonia Hypertension Atrial fibrillation Hypercholesterinemia Hypothyroidism   Discharge Condition:  Mental Status:Clear and coherent Level of Consciousness:Alert and interactive Activity Status:Ambulatory - Independent with walker   Discharge Instructions: Your hydrochlorathiazide was stopped and is now considered an allergy since it caused your sodium to be very low.
+Amlodipine: for blood pressure Levofloxacin: for pneumonia.

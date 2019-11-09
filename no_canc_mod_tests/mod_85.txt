@@ -1,0 +1,24 @@
+Admission Date:  [**2189-9-7**]              Discharge Date:   [**2189-9-9**]  Date of Birth:  [**2129-3-28**]             Sex:   F  Service: MEDICINE  Allergies: Lomotil  Attending:[**Last Name (NamePattern1) 495**] Chief Complaint: Pyelonephritis  Major Surgical or Invasive Procedure: none   History of Present Illness: Ms. [**Known lastname 496**] is a 60 yo F with hx of chronic hepatitis C who presents to the ED with dysuria x 4 days, chills, nausea and vomiting.
+In the ED her initial vitals were: T 99.0, HR 102, BP 103/59, RR 16, O2 98% on RA, however shortly afterwards developed a fever to 104F and BP 80/30 (asymptomatic).
+She had a grossly positive U/A, and CT Abd/Pelvis showed evidence of bilateral pyelonephritis.
+She received approx 5L IVFs in the ED with 1L of urine output.
+no muscle weakness   Past Medical History: - Hepatitis C infection (Liver biopsy in [**2185-2-17**] --> grade 1 inflammation and stage 0 fibrosis; followed Dr. [**Last Name (STitle) 497**] - contracted from needlestick injury - Osteopenia - Herpes zoster in the right middle of the back and the side when she was 14 years of age, - Psoriasis - Lyme disease/Bell's palsy - Thyroid nodule   Social History: She is a sociologist at [**Hospital1 498**].
+?F) HR: 89 (77 - 109) bpm BP: 104/61(72) {76/34(50) - 106/74(80)} mmHg RR: 11 (11 - 30) insp/min SpO2: 98% RA Heart rhythm: SR (Sinus Rhythm) Height: 66 Inch  Gen: NAD, pleasant, conversive HEENT: PERRL, MMM, no OP lesions, EOMI Neck: Supple, no LAD, no bruit, no LVD Heart: RRR, nl S1/2, nl S3/4, no murmurs Lungs: CTA b/l, no w/r/r Abd: Soft, NT/ND, +BS, no guarding or rebound tenderness, normoactive bowel sounds, +CVA tenderness, R > L Extrem: no edema, cyanosis, clubbing, 2+ dp pulses b/l Skin: no rashes Neuro: A+Ox3, nl muscle strength, nl sensation  Pertinent Results: [**2189-9-9**] 05:32AM BLOOD WBC-7.3 RBC-3.16* Hgb-10.9* Hct-29.8* MCV-95 MCH-34.5* MCHC-36.5* RDW-13.6 Plt Ct-161 [**2189-9-9**] 05:32AM BLOOD Glucose-108* UreaN-11 Creat-1.0 Na-140 K-3.9 Cl-113* HCO3-24 AnGap-7* [**2189-9-8**] 04:59AM BLOOD ALT-28 AST-23 TotBili-0.8 [**2189-9-7**] 02:30PM BLOOD TSH-0.43 [**2189-9-7**] 02:30PM BLOOD Cortsol-32.2* [**2189-9-7**] 09:25PM BLOOD Lactate-0.9  U/A: Mod LE, Lg blood, Nitr negative, trace protein, >50 WBC, Bacteria - many, Epi [**1-21**].
+Urine cx [**9-7**]- E.Coli, sensitivities PENDING Blood cx [**9-8**]- pending  IMAGING: CT SCAN [**9-7**] CT OF THE ABDOMEN WITH IV CONTRAST: Dependent atelectases are present within the lung bases bilaterally.
+The stomach, small bowel, and large bowel are unremarkable.
+Brief Hospital Course: 60 yo female with hx of chronic hepatitis C infection (without cirrhosis) presenting to the ED with 4 day hx of dysuria, chills and found to have a grossly positive U/A with evidence of bilateral pyelonephritis on CT Abd/pelvis who became hypotensive to 80/30.
+# Pyelonephritis/Sepsis: Pt w/ signs and sx of UTI for several days; most likely with ascending GU infection.
+CT scan of was performed and consistent with pyelonephritis w/ no discrete abscess, but showed a hypodensity that could represent possible developing abscess in the left upper pole.
+The patient's blood pressures continued to range SBP 70-90's, but the patient had good mentation, urine output, peripheral perfusion, and no compliants indication adequate end organ perfusion.
+The patient was also given one dose of stress dose steriods, but was discontinued in the AM after her random cortisol was 32.
+The patient's urine grew E. Coli and sensitivities were pending.
+The patient's blood pressure ranged between SBP 90-110 on discharge.
+# Lyme disease/Bell's palsy - resolving .
+# Dispo: Pt will be discharged and will follow-up with her PCP [**Name Initial (PRE) 503**] ([**9-10**]) for vitals and CBC.
+You had a CT scan performed of your kidney and it was consistent with a kidney infection.
+You stayed in the ICU because your blood pressure was low.
+Please call your PCP or go to the ED if you experience worsening fevers, chills, pain with urination, nausea, vomiting, chest pain, shortness of breath, back pain, or other worsening symptoms.
+*********** PCP: [**Name10 (NameIs) **] patient should have a CBC and BP check tomorrow.
+The patient was hypotensive in ICU (not pressor dependent), but was back to her baseline blood pressure at discharge and afebrile.
+The patient's urine culture is growing E. Coli, but sensitivities are not back.
+Additionally, the patient's CT scan showed a hypodensity within the left upper pole, which may be at risk for developing into an abscess.

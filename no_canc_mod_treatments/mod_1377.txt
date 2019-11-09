@@ -1,0 +1,78 @@
+Admission Date:  [**2112-2-21**]              Discharge Date:   [**2112-3-1**]  Date of Birth:  [**2027-10-29**]             Sex:   M  Service: MEDICINE  Allergies: Percocet / Prednisone / Darvocet A500  Attending:[**First Name3 (LF) 1515**] Chief Complaint: Class IV heart failure, here for [**First Name3 (LF) **] on [**2112-2-23**]  Major Surgical or Invasive Procedure: [**2112-2-23**] TAVI/[**Year (4 digits) 10723**] percutaneous aortic valve replacement   History of Present Illness: Mr. [**Known lastname 10722**] is an 84-year-old gentleman with a history of CAD s/p LAD stenting in [**2105**], who has known diastolic heart failure with a normal LVEF (70%).
+He also has a history of tachy-brady syndrome and underwent a permanent pacemaker placement.
+In [**Month (only) 1096**], was admitted to [**Hospital3 **] with dyspnea and treated for a presumed CHF exacerbation.
+He was evaluated for aortic valve treatment options.
+During te last hospitalization, he was started on Pradaxa in preparation for procedure.
+He was also diuresed with lasix and achieved euvolemia, maintained on 2L oxygen, which he is on at home.
+CARDIAC HISTORY: - PERCUTANEOUS CORONARY INTERVENTIONS: [**4-/2106**]: s/p stent to LAD and D1 [**2106**]: s/p Diagonal stent 3.
+OTHER PAST MEDICAL HISTORY: - AFlutter s/p ablation, then tachy-brady s/p PPM - Aortic stenosis ([**Location (un) 109**] 0.8cm2) - Chronic AF: previously on coumadin, stopped [**1-28**] epistaxis, hematomas, frequent falls (now s/p IVC filter) - dCHF(Moderate-severe R dCHF, moderate L dCHF) - HCM - COPD on home O2 - OSA - Hypothyroid - Chronic Renal insufficiency - MRSA old wound and sputum - s/p IVC filter - s/p fracture of lower sacrum/upper coccyx [**2-5**] - Spinal Stenosis, s/p multiple interventions - Prostate Cancer - BPH - Chronic Fatigue - right rotator cuff injury - arthritis shoulders and knees (cortisone injections) - s/p multiple back surgeries - SBO s/p resection c/b post-op GI bleed in setting of elevated INR  Social History: Retired; former occupation was research and development of jet engines x45 years.
+An aortic [**Month/Day/Year **] prosthesis is present.
+The aortic valve prosthesis appears well seated, with normal leaflet/disc motion and transvalvular gradients.
+A well-seated aortic [**Month/Day/Year **] prosthesis is present.
+The patient tolerated the procedure well and post-procedure echo showed resolution of aortic stenosis with a well-seated valve, with an EF of 55%.
+During his last admission, he was diuresed with Lasix 40mg IV bolus once, and achieved euvolemia.
+Home torsemide and metoprolol were continued.
+# CAD: Pt is s/p stent to LAD and D1 ([**4-/2106**]) and s/p diagonal stent ([**2106**]).
+- continue home metoprolol tartrate 25mg PO bid, pravastatin 20mg daily and ASA 81mg.
+# Atrial Flutter: Pt has history of AFlutter s/p ablation, then tachy-brady s/p PPM.
+We continued home digoxin 0.125 and home metoprolol tartrate 25 [**Hospital1 **].
+He did have a bit of oozing from his left groin site, this was fixed with local lido/epi and pressure bandages.
+Given his several hospitalizations for epistaxis we discussed the risk benefit of anticoagulation with his hematologist/oncologist Dr. [**First Name (STitle) 4223**], who agreed with us that given his CHADS2 score of 4 with an annual stroke rate of 8% and no major bleeds, anticoaggulation would still be indicated, and the patient agreed with this plan.
+His symptoms were thought to be due to a viral gastrointestinal syndrome and resolved with supportive measures prior to his procedure.
+Patient has a recent GI bleed admission in [**2109**] with stable HCTs and colonscopy being a poor study but EGD showing erosive gastritis.
+He received 1 unit of PRBCs for a HCT of 25.5, and discharge HCT was 28.
+The patient's PCP will be notified of his anemia and that a screening colonoscpy (given the poor study) would be indicated in the future.
+#.BPH: continued home finasteride and tamsulosin .
+Continued gabapentin 100mg PO TID and tylenol 650mg PO q6 hrs PRN pain .
+#.GERD: continued home pantoprazole .
+muciprocin [**Hospital1 **] and chlorhexidine skin prep/shower was initiated.
+# Anemia of chronic renal disease: received Procrit 10,000 units  s/c on [**2-12**].
+Transfused 1 unit PRBCs at [**Hospital1 18**].
+CODE: FULL CODE COMM: patient, wife [**Name (NI) 794**] [**Telephone/Fax (1) 10725**]  Medications on Admission: 1. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2  times a day).
+2. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+3. calcium carbonate 200 mg calcium (500 mg) Tablet, Chewable Sig: One (1) Tablet, Chewable PO TID (3 times a day).
+4. cholecalciferol (vitamin D3) 400 unit Tablet Sig: One (1) Tablet PO DAILY (Daily).
+5. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+6. finasteride 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+7. gabapentin 100 mg Capsule Sig: One (1) Capsule PO Q8H (every 8 hours).
+8. multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+9. ascorbic acid 500 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+10. fenofibrate micronized 48 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+11. metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+12. pravastatin 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+13. torsemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+14. digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+15. tamsulosin 0.4 mg Capsule, Ext Release 24 hr Sig: One (1) Capsule, Ext Release 24 hr PO HS (at bedtime).
+16. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every 6 hours) as needed for pain.
+17. miconazole nitrate 2 % Powder Sig: One (1) Appl Topical [**Hospital1 **] (2 times a day): apply to groin folds and affected area.
+18. mupirocin calcium 2 % Ointment Sig: One (1) Appl Nasal [**Hospital1 **] (2 times a day) for 5 days.
+19. dabigatran etexilate 75 mg Capsule Sig: One (1) Capsule PO BID (2 times a day): 8am and 8pm - discontinue after pm dose on saturday [**2112-2-20**].
+Discharge Medications: 1. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+2. cholecalciferol (vitamin D3) 400 unit Tablet Sig: One (1) Tablet PO DAILY (Daily).
+3. finasteride 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+4. multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+5. ascorbic acid 500 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+6. pravastatin 20 mg Tablet Sig: One (1) Tablet PO at bedtime.
+7. digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+8. calcium carbonate 200 mg calcium (500 mg) Tablet, Chewable Sig: One (1) Tablet, Chewable PO TID (3 times a day).
+9. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day) as needed for constipation.
+10. pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+11. metoprolol succinate 50 mg Tablet Extended Release 24 hr Sig: One (1) Tablet Extended Release 24 hr PO DAILY (Daily).
+12. torsemide 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+13. sodium chloride 0.65 % Aerosol, Spray Sig: [**12-28**] Sprays Nasal QID (4 times a day) as needed for dry nose.
+14. bacitracin zinc 500 unit/g Ointment Sig: One (1) Appl Topical QID (4 times a day) as needed for lower leg sore.
+15. gentamicin 0.1 % Cream Sig: One (1) Appl Topical QID (4 times a day).
+16. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+17. lisinopril 5 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+18. warfarin 4 mg Tablet Sig: One (1) Tablet PO Once Daily at 4 PM.
+Flomax 0.4 mg Capsule, Ext Release 24 hr Sig: One (1) Capsule, Ext Release 24 hr PO at bedtime.
+Discharge Disposition: Extended Care  Facility: Newbridge on the [**Doctor Last Name **] - [**Location (un) 1411**]  Discharge Diagnosis: Discharge Diagnosis: 1. severe aortic stenosis -s/p [**Location (un) 10723**] transcatheter aortic valve replacement with percutaneous approach.
+MRSA (+)nares 6. renal insufficiency 7. anemia of chronic renal disease   Discharge Condition: Alert and oriented.
+Ambulating with walker and one assist.
+You then underwent elective [**Date Range 10723**] transcatheter aortic valve replacement by percutaneous approach to treat your severe symptomatic aortic valve stenosis.
+Your procedure was uneventful.
+Your were anemic during the procedure and receive one unit of packed red blood cells.
+You remained anemic later in your stay without any obvious sign of active bleeding for which you received two units of packed red blood cells and your usual dose of Procrit.
+Your medications will remain the same as before you came in EXCEPT: 1. you torsemide has been decreased to 10mg daily as you have much less fluid than before your procedure.
+2. we have added lisinopril 2.5 mg once a day to improve heart function.
+3. your coumadin dose may need to be adjusted daily until a therapeutic INR of 2.0 is reached as treatment for your underlying atrial fibrillation.

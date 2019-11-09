@@ -1,0 +1,23 @@
+Admission Date:  [**2132-5-16**]       Discharge Date:  [**2132-6-2**]   Service:  [**Last Name (un) **] [**Doctor First Name 147**]  HISTORY OF PRESENT ILLNESS:   This is a 78 year old male with a complex past medical history notable for non-small cell lung cancer, who was admitted to [**Hospital1 190**] Thoracic Surgery Service on [**2132-5-16**], for preoperative evaluation for a planned mediastinoscopy with a right upper lobe resection scheduled for [**2132-5-19**].
+Evaluation chest CT scan demonstrated a 3.2 centimeters right upper lobe mass and a 2 centimeter pre-carinal lymph node.
+Subsequent needle biopsy was notable for non-small cell lung cancer.
+A PET scan conducted [**2132-5-1**], demonstrated right sided primary lung cancer with activity in the right hilum, and no apparently involvement of other organs.
+The patient was subsequently referred to Dr. [**First Name4 (NamePattern1) 951**] [**Last Name (NamePattern1) 952**] for evaluation and thereafter scheduled for a mediastinoscopy with a right upper lobe resection on [**2132-5-19**].
+HOSPITAL COURSE:   On [**2132-5-16**], the patient was admitted to the Thoracic Surgery Service under the direction of Dr. [**First Name4 (NamePattern1) 951**] [**Last Name (NamePattern1) 952**] for preoperative heparinization.
+per hour for a target PTT of 60 to 80.
+The patient was successfully anti-coagulated without complication through [**2132-5-19**], at which point he underwent a mediastinoscopy with a right upper lobe resection.
+The patient was subsequently successfully extubated in the Operating Room and transferred to the Recovery Room for further evaluation and management.
+On postoperative check, the patient was noted to be afebrile and stable with a 91% oxygen saturation on a 40% face mask and a postoperative hematocrit of 32.2.
+Secondary to a persistently coarse respiratory examination, the patient underwent bronchoscopy on [**2132-5-21**], which demonstrated old obstructing blood clots with a greater preponderance in the right side versus the left side.
+The patient was restarted on his Coumadin therapy but was shortly thereafter noted to be supra-therapeutic with an INR of 3.1.
+Following identification of his super-therapeutic status, the patient was again noted to have transient worsening of his respiratory examination, instigating a repeat bronchoscopy on [**2132-5-23**].
+Repeat bronchoscopy demonstrated a complete obstruction of the right main stem, right middle lobe and right lower lobe bronchi with blood clots and thick secretions, which were all subsequently removed with suction.
+The patient was thereafter begun on aggressive chest Physical Therapy and an aspiration work-up was begun.
+Serial video swallow studies were thereafter obtained, which initially demonstrated total intolerance of thin liquids and marginal tolerance of soft solids and nectar thickened liquids.
+The patient was restarted on his Coumadin therapy and was subsequently gradually titrated to a target INR of 2.5.
+Repeat chest CT scan demonstrated improved aeration within portion of the right middle and right lower lobes.
+Repeat video swallow and barium swallow studies conducted on [**5-30**], demonstrated persistent but decreased aspiration of plain liquids and adequate tolerance of soft solids and nectar thickened liquids.
+The patient was thereafter noted to progress well clinically through postoperative day number 14, [**2132-6-2**], at which point he was cleared for discharge to an extended care facility for further evaluation and management, and was provided instructions for follow-up.
+Coumadin dosage to be titrated by Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] for a target INR of 2.5 to 3.0.
+Daily wound checks [**Hospital1 **]-weekly peripheral PT/INR draws on Mondays and Thursdays beginning [**2132-6-5**]; the results are to be reported to Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] for titration of Coumadin dose for target INR of 2.5 to 3.0.
+[**MD Number(1) 3352**]  Dictated By:[**Last Name (NamePattern1) 1053**] MEDQUIST36  D:  [**2132-5-31**]  18:08 T:  [**2132-5-31**]  18:16 JOB#:  [**Job Number 101399**]

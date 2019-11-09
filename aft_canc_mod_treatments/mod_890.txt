@@ -1,0 +1,42 @@
+Admission Date:  [**2142-3-23**]              Discharge Date:   [**2142-4-23**]  Date of Birth:  [**2080-6-29**]             Sex:   F  Service: MEDICINE  Allergies: Penicillins / Sulfa (Sulfonamide Antibiotics) / Hydrochlorothiazide  Attending:[**Last Name (NamePattern1) 4377**] Chief Complaint: Acute myelogenous leukemia  Major Surgical or Invasive Procedure: Central venous line placement PICC line placement  History of Present Illness: 61 y/o F hypertension, hyperlipidemia, and anxiety, presents after referral from [**Hospital1 1474**] for induction chemotherapy for acute myelogenous leukemia.
+Pt underwent a techinically difficult bone marrow biopsy, and pathology showed hypercellular bone marrow with left-shifted granulopoiesis and increased blasts, consistent with AML.
+Morphologic and cytogenetic/FISH analysis was pending at time of report.
+Of note, over the past several months, pt reports having 2 episodes of the flu, an episode of pneumonia (diagnosed by CXR, treated with Z-pak with resolution), and UTI (treated with Cipro with resolution.)
+On review of systems, pt reports low-grade fevers and chills following her bone marrow biopsy last week, but none since.
+She has occasional diarrhea/constipation that she associates with her hx of dysfunctional bowel syndrome.
+Past Medical History: Hypertension Hyperlipidemia Anxiety Dysfunctional bowel syndrome s/p hysterectomy, cyst removal s/p appendectomy s/p cholecystectomy Bladder suspension surgery with ?R upper thigh nerve impingement:pt says R leg sometimes flops to side Hx breast augmentation (silicone) R face/blepharospasm (extends from R front scalp-> R neck): used to have botox injections, but stopped to try and see if it resolves on its own, last dose ~2months ago   Social History: Pt is a homemaker.
+Physical Exam: VS-T 98.6 BP 140/90 RR 24 HR 70 O2sat 97%RA Gen: awake, alert, NAD, anxious, obese HEENT: PERRL, EOMI, sclera non-icteric, ?canker sore in R upper mouth, otherwise mucous membranes moist without obvious ulcers NECK: supple, no palpable LAD CV: regular rate and rhythm, no murmurs/rubs/gallops, S1 S2 present LUNGS: clear to auscultation bilaterally, no wheezes/rales/rhonchi ABD: soft, non-tender, non-distended, bowel sounds present, no HSM EXT: no cyanosis/clubbing/edema, 2+ DP pulses bilaterally NEURO: CN2-12 intact grossly, strength 5/5 diffusely in extremities x 4, sensation intact grossly, coordination intact GENITAL: lichen sclerosis inside labia majora, no other visible ulcers; ecchymosis with induration over right hip, TTP (site of BM bx); resolving faint ecchymosis over left hip (site of prior pain med injection)   Pertinent Results: Labs on Admission: 138 103 15 96 4.3 24 0.9 .
+CD38-bright cells (including plasma cells) are not increased.
+Flow Cytometry Differential - CD117+ HLA-DR+ 34 - CD34+ CD13+ 38 - CD34+ CD33+ 39 - CD34+ HLA-DR+ 35 - Lymphocytes 8 --B cells 2 ---Kappa <1 ---Lambda <1 ---Kappa:Lambda ratio 1.0 --T cells 6 ---CD4 3 --- CD3 3 ---CD4: CD8 ratio 0.8 ---CD3+ CD58+ 1 ---NK cells <1 --Monocytes 22 --Granulocytes 30 --CD34+ blasts 39 --Plasma cells <1 --Viability 97 .
+Patient underwent 7 + 3 induction chemotherapy (7 days ara-c, 3 days idarubicin) and tolerated it well.
+However, blasts were still present in her bone marrow biopsy and CBC differential after completion of chemotherapy, indicating residual disease.
+She was scheduled to follow-up with her outpatient oncologist on [**4-30**], and have another round of chemotherapy on [**4-20**] pending the results of the bone marrow biopsy.
+Patient briefly required ICU admission.
+Patient was treated with daptomycin, meropenem, and voriconazole/micafungin during her neutropenic phase.
+Patient was hemodynamically stabilized and was treated with a 14 day course of daptomycin and meropenem starting from [**2142-4-16**] (the day she was no longer neutropenic.)
+# Diverticulitis/Typhlitis: Treated with 14 day course of meropenem after patient was no longer neutropenic.
+#Pulmonary Nodules: Pt noted to be short of breath and hypoxic with a new oxygen requirement, improved with diuresis with IV lasix.
+Treated initially with albuterol/ipratroprium nebulizers and voriconazole, which was later d/c-ed due to LFT abnormalities and changed to micafungin.
+Nodules were slightly worsened on repeat Chest CT, but patient clincally improved.
+# Hypertension: Poorly controlled on patient's home regimen of metoprolol 25 mg PO BID, with SBPs into the 170s-190s.
+Once patient was hemodynamically stable, increased metoprolol to 50 mg PO TID and added amlodipine 5 mg daily, bridged with PRN doses of IV hydralazine.
+Patient's blood pressure was 148-150s systolic on discharge with the initiation of calcium channel blocker and increase in beta-blocker.
+Tapered celexa to 20 mg by mouth daily, and controlled anxiety with Ativan IV/PO as needed.
+Discharged patient on tapered celexa dose with PRN oral ativan, as she may likely need chemotherapy to treat her residual disease and may have difficulty with oral medications (requiring IV meds for anxiety).
+Medications on Admission: Crestor 10mg PO daily Metoprolol 25mg PO bid Celexa 40mg PO daily   Discharge Medications: 1.
+Lorazepam 0.5 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours) as needed for anxiety.
+Amlodipine 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO TID (3 times a day).
+Daptomycin 500 mg Recon Soln Sig: One (1) Recon Soln Intravenous Q24H (every 24 hours) for 6 days: 600 mg SOLUTION start date: [**2142-4-24**] end date: [**2142-4-29**].
+Ertapenem 1 gram Recon Soln Sig: One (1) gram recon solution Intravenous once a day for 6 days: start date: [**2142-4-24**] end date: [**2142-4-29**].
+Celexa 20 mg Tablet Sig: One (1) Tablet PO once a day.
+Normal Saline Flush 0.9 % Syringe Sig: Ten (10) mL Injection once a day for 7 days: SASH and PRN.
+Heparin Flush 10 unit/mL Kit Sig: One (1) flush Intravenous once a day for 7 days: SASH and PRN.
+Daptomycin 500 mg Recon Soln Sig: Six Hundred (600) mg Intravenous once a day for 6 days: start date: [**2142-4-24**] end date: [**2142-4-29**].
+Disp:*6 units* Refills:*0*   Discharge Disposition: Home With Service  Facility: Critical Care Systems  Discharge Diagnosis: 1' Diagnosis Acute Myelogenous Leukemia Vancomycin Resistant Enteroccocal Bacteremia  2' Diagnosis Pulmonary Nodules of Undetermined Significance Hypertension Anxiety   Discharge Condition: afebrile, hemodynamically stable   Discharge Instructions: You were admitted for chemotherapy for your acute myelogenous leukemia.
+You recovered from this infection, and will be treated with antibiotics.
+Please take your medications as directed.
+[**Name Initial (NameIs) **] We had added amlodipine 5 mg by mouth daily - We have increased your metoprolol to 50 mg by mouth three times a day.
+- We decreased your celexa to 20 mg by mouth daily, with ativan as needed for your anxiety.
+This was done as you will likely need more chemotherapy, and as you may have nausea associated with it, we wanted to decrease the number of medications you would need to take orally.
+- You need to take antibiotics for 6 more days (daptomycin and ertapenem).

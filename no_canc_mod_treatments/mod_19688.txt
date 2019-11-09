@@ -1,0 +1,21 @@
+Admission Date:  [**2109-11-18**]              Discharge Date:   [**2109-11-20**]   Service: NEUROLOGY  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 5018**] Chief Complaint: intracranial hemorrhage, s/p fall  Major Surgical or Invasive Procedure: Suturing of frontal laceration   History of Present Illness: [**Age over 90 **] year-old woman with dementia who presented from [**Hospital1 18**] [**Location (un) 620**] for further management of ICH.
+She was found lying on the floor with a laceration above her right eye, complaining of head pain.
+After arrival to [**Hospital1 18**], she was seen by Neurosurgery who recommended loading with 1g of IV dilantin.
+Past Medical History: -dementia, at baseline has deficits in short term memory and requires help with all ADLs.
+-psychosis -depression -anemia -diverticulosis -arthritis -trigeminal neuralgia -s/p removal of lump from left breast five or six years ago per son  Social History: She lives in [**Hospital3 **] ([**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]).
+She was continued on her carbamazepine (for trigeminal neuralgia); dilantin was initially loaded then discontinued once her carbamazepine level was found to be therapeutic.
+She was otherwise continued on all her home medications except ativan and trazodone (to avoid sedation).
+Code status:  DNR/DNI  Medications on Admission: -seroquel 50mg po bid and 25mg po qhs, additional 25mg daily prn agitation -tegretol 200mg po qid -effexor 37.5mg po bid -atenolol 12.5 mg po daily -trazodone 50mg po qhs -duragesic patch 25mcg/h q72h -percocet 1tab po qid and prn breakthrough pain -lorazepam prn agitation -senna, docusate prn -monthly IM vitamin B12 injections -was on bactrim DS 1 tab po bid from [**11-7**] to [**11-16**] for ?UTI  Discharge Medications: 1.
+Quetiapine 25 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day).
+Quetiapine 25 mg Tablet Sig: One (1) Tablet PO QHS (once a day (at bedtime)).
+Quetiapine 25 mg Tablet Sig: One (1) Tablet PO once a day as needed for agitation.
+Carbamazepine 200 mg Tablet Sig: One (1) Tablet PO QID (4 times a day).
+Venlafaxine 37.5 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Atenolol 25 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+Trazodone 50 mg Tablet Sig: One (1) Tablet PO at bedtime as needed for agitation.
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+Vitamin B-12 1,000 mcg/mL Solution Sig: One (1) injection Injection once a month.
+Percocet 2.5-325 mg Tablet Sig: One (1) Tablet PO four times a day as needed for pain.
+Ativan 0.5 mg Tablet Sig: One (1) Tablet PO twice a day as needed for agitation.
+Right frontal laceration requiring stitches Dementia Depression/psychosis breast mass s/p removal some years ago anemia diverticulosis trigeminal neuralgia   Discharge Condition: Stable; at baseline   Discharge Instructions: Please take all medications as prior to admission.

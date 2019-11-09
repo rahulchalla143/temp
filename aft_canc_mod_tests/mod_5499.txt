@@ -1,0 +1,19 @@
+Admission Date:  [**2165-5-13**]              Discharge Date:   [**2165-5-30**]  Date of Birth:  [**2105-8-15**]             Sex:   F  Service: MEDICINE  Allergies: Penicillins / Trazodone  Attending:[**Last Name (NamePattern4) 290**] Chief Complaint: Shortness of breath, transfer from 12 [**Hospital Ward Name 1827**]  Major Surgical or Invasive Procedure: Endotracheal intubation Arterial line placement  History of Present Illness: Ms. [**Known lastname **] is a 59 year-old female with newly diagnosed metastatic malignancy,  who presents from the out-patient gynecology unit with complaints of progressive shortness of breath.
+At that time, an abdominal U/S was obtained, which revealed an enlarged uterus with an echogenic mass.
+Further work-up included an abdominal MRI remarkable for an enlarged uterus, thickened endometrial stripe, and a vaginal mass.
+A CXR was also obtained, concerning for metastatic disease, and a CT chest subsequently confirmed pulmonary metastases, without PE.
+An MRI brain was negative.
+She was seen by an oncologist at [**Hospital3 **], and seen today on the day of admission in the [**Hospital 6669**] [**Hospital **] clinic for a biopsy of the vaginal mass, which was performed.
+While in the [**Hospital **] clinic, her saturation was noted to be 86% on RA, and she was referred to L&D triage on the [**Hospital Ward Name 516**].
+From there, she was admitted to 12 [**Hospital Ward Name 1827**], where concern was raised over her breathing status, and she was transferred to the ICU for close monitoring.
+Saturation 90-95% on 6L  NC at the time of transfer.
+Physical Exam: Physical examination on admission VITALS: T 99.4  HR104  BP125/71  RR32  O2sat: 92%RA on 6L NC GEN: Tachypneic, able to speak with full sentences, short of breath with minimal exertion.
+On day of admission: CBC: [**2165-5-13**] 01:18PM   WBC-27.0* RBC-5.20 HGB-14.3 HCT-43.1 MCV-83 MCH-27.5 MCHC-33.1 RDW-15.4 PLT COUNT-294 NEUTS-88.9* LYMPHS-6.5* MONOS-3.5 EOS-0.9 BASOS-0.2  Coagulation: [**2165-5-13**] 01:18PM   PT-13.5* PTT-28.4 INR(PT)-1.2*  Chemistry: [**2165-5-13**] 01:18PM   GLUCOSE-136* UREA N-26* CREAT-0.7 SODIUM-133 POTASSIUM-4.6 CHLORIDE-98 TOTAL CO2-20* ANION GAP-20 ALT(SGPT)-22 AST(SGOT)-39 LD(LDH)-579* ALK PHOS-237* AMYLASE-17 TOT BILI-0.5 LIPASE-16 ALBUMIN-3.3* CALCIUM-12.0* PHOSPHATE-2.0* MAGNESIUM-2.9* URIC ACID-6.9* CA125-149*  RELEVANT IMAGING DATA: [**2165-5-2**] PELVIC U/S: The uterus measures 11.6 x 9.2 x 11.1 cm and is heterogeneous in echotexture and contains a 9.2 x 5.4 x 6.7 cm echogenic mass anteriorly.
+[**2165-5-7**] MRI BRAIN with gad:1.
+[**2165-5-9**] CT CHEST/[**Last Name (un) **] with contrast: 1.
+[**2165-5-13**] CT CHEST/[**Last Name (un) **] WITH CONTRAST: 1.
+[**2165-5-27**] CT CHEST: 1.
+1) Pulmonary: As noted above, her initial CT chest was remarkable for innumerable pulmonary metastases, without PE (although a subsegmental PE could not be excluded).
+The pathology from her vaginal biopsy eventually returned as poorly differentiated squamous cell carcinoma, and per Hematology/Oncology, systemic chemotherapy was initiated with Carboplatin and Taxol (day 1 on [**2165-5-14**]).
+2) Metastatic malignancy: As noted above, pathology from her vaginal biopsy eventually returned as poorly differentiated carcinoma, most likely squamous.
+A repeat CT chest on [**2165-5-30**] showed some radiographic improvement in tumor burden, albeit with limited meaningful clinical improvement.

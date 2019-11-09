@@ -1,0 +1,80 @@
+Admission Date:  [**2127-8-12**]              Discharge Date:   [**2127-12-28**]  Date of Birth:  [**2077-8-13**]             Sex:   F  Service: MEDICINE  Allergies: Sulfa (Sulfonamides) / Aspirin / Iodine / Red Dye / Yellow Dye / Perfume Ht52  Attending:[**First Name3 (LF) 2485**] Chief Complaint: Anemia and weakness  Major Surgical or Invasive Procedure: Bone Marrow Biopsy PICC line placement Bone marrow biopsy Bronchoscopy Transjugular liver biopsy Tunneled central venous line placement Tooth extraction   History of Present Illness: Ms. [**Known lastname **] is a 49 year-old woman who was recently diagnosed with aplastic anemia.
+She was put on multiple courses of antibiotics (amoxicillin, Cipro, etc) for total of [**5-25**] month.
+HCV: She has received interferon and Ribavirin in the past, though has not received any treatment for at least 1-2 years.
+Sister had squamous cell cancer of skin at age 41.
+Note:  The overall features consistent with chronic viral hepatitis, grade 1 inflammation, stage 1 fibrosis.
+#Pancytopenia, diagnosed as AML:  Throughout her hospital stay, the pt had profound pancytopenia and required intermittent transfusion support of red cells and platelets.
+Parvovirus B19 and Herpes virus 6 were both negative.
+Pt was briefly on Epogen 40,000 units per week, which was discontinued after the results of the bone marrow biopsy were finalized.
+She received 7+3 chemotherapy in preparation for an alloSCT with her brother as the donor.
+Her transplant preparation was also repeated: lab tests, infectious serologies,echo and PFT's.
+She was started on Fluconazole and Acyclovir for neutropenic prophylaxis.
+A bone marrow biopsy performed on [**10-14**], which showed an ablated marrow, and the patient was consented for her bone marrow transplant.
+She recieved her stem cell transplantation on day 0 without any complications.
+While in the [**Hospital Unit Name 153**] the patient was placed on methylprednisolone and mycophenolate.
+Her methylprednisolone was weaned by 5mg qweek, and her mycophenolate was eventually titrated up to 100mg TID.
+Vancomycin was started on [**10-14**], and her central line was left in place.
+Flagyl and caspofungin were added on [**10-31**] as the patient began to spike through her regimen of vancomycin and cefepime.
+IV Vancomycin was discontinued on [**12-24**].
+Fluid restriction was stopped shortly afterward and her sodium remained normal.
+At that time, TPN was started, and the patient was started on a morphine PCA.
+Viral load was 12,600,000 in [**Month (only) **] [**2127**], then down to 2.27 million and after chemotherapy came up to 5 million.
+Liver biospy was performed on [**8-27**], which showed grade 1, stage 1 Hepatology following, liver biopsied, which was consistent with chronic viral hepatitis, grade 1 inflammation, stage 1 fibrosis.
+# Dental pain:  Pt was evaluated by a dentist, who recommended extraction of tooth #19 prior to SCT.
+Oral surgeon was re-evaluated the site of extraction and agreed with abx and also suggested a dressing for alveolar osteoitis if the pain does not resolve with abx.
+She was subsequently switched to Levofloxacin and Clindamycin; then just to Levofloxacin as there was no evidence of further dental infection.
+She was continued on lorazepam PRN.
+# GERD:  Pt continued on her home regimen of prevacid.
+Per GI reccs, the patient was started on Lamivudine.
+But patient was unable to take lamivudine due to mucositis.
+She was given Sarna for palliation.
+Given that she was laready on Fluconazole and topical [**Doctor Last Name 360**] was added.
+In addition, she briefly developed a contact dermatitis under her breasts bilaterally secondary to the adhesive on EKG leads; hydrocortisone was prescribed to these areas only.
+She was started on a calcium channel blocker to treat cylosporine-induced hypertension.
+She was then started amlodipine 10mg daily and anti-anxiety medications, including zyprexa.
+# Acute Renal Failure: Her creatinine began rising on [**11-20**] and steadily climbed during her [**Hospital Unit Name 153**] stay.
+She was initially on lasix for diuresis which was then held soon after her creatinine continued rising.
+RIJ dialysis line was discontinued on [**12-16**] secondary to fever, and CVVH was not restarted as the patient was not volume overloaded and did not have electrolyte abnormalities necessitating dialysis.
+Her phosphate continued to increase to 9.0 on [**12-19**] and she was begun on aluminum hydroxide phosphate binder.
+Upon transfer to the floor, her renal function improved steadily off of hemodialysis, and she consistently produced approx 2L urine daily.
+She was transferred to the [**Hospital Unit Name 153**] and intubated for hypoxic respiratory failure.
+She was started on Clindamycin and Primaquine as well as steroids for empiric PCP treatment given recent failure to take PCP [**Name Initial (PRE) 1102**].
+She was also started on Azithromycin.
+She was maintained on Cefepime, Vanc and Caspofungin initially.
+Because of the lack of evidence for a bacterial PNA, Cefepime was discontinued on [**12-3**].
+After determining that she was PCP negative, the [**Name9 (PRE) 16031**] and Primaquine were discontinued; she was placed on Atovquone prophylaxis.
+She was intially kept on steroids to reduce GVHD (not for PCP) but then tapered off.
+Histoplasma, Mycoplasma and Legionella were also negative; Azithromycin was discontinued.
+She was changed from Caspofungin to Posaconazole when one isolate of PITHOMYCES (diamacious fungus)grew from her pleural cultures.
+Posaconazole was eventually discontinued given the lack of suspicion for fungal infection; she was switched to prophylactic fluconazole.
+When BUN and Cr began increasing, lasix was stopped.
+A repeat bronchoscopy was performed which showed gross purulent material on the ET tube but no blood.
+Given the concern for ventilator associate pneumonia, she was re-started on Cefepime, and Cipro was added.
+In addition, CVVH was intiated for aggressive diuresis to treat pulmonary edema.
+Further cultures showed two colonies of pseudomonas, cefepime was switched to Zosyn and cipro was continued.
+Sensitivities of the cultures showed that they only were mutually sensitive to meropenem, so her cipro and zosyn were discontinued and she was started on meropenem.
+She was transitioned to an ativan/methadone weaning protocol which was not effective.
+She was next transitioned to fentanyl boluses to aid in weaning her off the vent.
+The patient had a trach and PEG placed on [**12-17**], after being on the vent for nearly three weeks.
+After tracheostomy was placed, the patient was able to ventilate on her own and was able to verbally communicate.
+She was still undergoing treatment for pseudomonas VAP, and is currently Day [**7-4**] of meropenem.
+patient was started on gancyclovir on [**12-16**].
+Given her changing creatinine clearance, her vancomycin levels were checked daily and vancomycin dosed accordingly.
+Vancomycin was D/C'd on [**12-24**].
+# Leukocytosis: The patient had leukocytosis during her [**Hospital Unit Name 153**] stay.
+A dialysis line was an additional port was placed with the plan of removing the Hickman.
+She was treated with Cefepime and Cipro until the gram stain only showed oralpharyngeal flora.
+However, WBC dropped to 1.5 on [**12-24**] and medications were examined for potential myelosuppression.
+Also vancomycin was discontinued.
+woman s/p 7+3, and s/p allogenic bone marrow transplant on [**10-29**], transferred to the MICU after tonic clonic seizure and hypoxic respiratory failure.
+# Respiratory Failure - Patient experienced acute desaturation following bone marrow biopsy and LP.
+Underlying problem: PNA v. pulmonary hemorrorhage in setting of seizure with platelets of 17 v aspiration pneumonitis.
+her ceftazidime was continued, along with the addition of colistin for pseudomonas VAP.
+she was administered ativan and dilantin loaded.
+She was continued on dilantin and did not experience any further seizures.
+Bone marrow biopsy was not consistent with loss of graft, and she was continued on neupogen .
+has been dosed according to renal function, previously considered discontinuing in setting of seizure and pancytopenia, however decided to continue gancyclovir with concurrent administration of neupogen.
+# AML: The patient was initially admitted with pancytopenia, and was found to have AML.
+She has undergone a long preparation for allogenic BMT including 7+3 induction chemotherapy, completion of abx for a tooth extraction, liver biopsy for history of Hepatits C/B and initiation of lamivudine prophylaxis, and bronchoscopy for findings of ground glass opacities on chest CT. She received a stem cell marrow transplantation on [**10-29**] without any immediate complications.
+MTX Day +1, +3, +6, +11 for GVHD ppx with leucovorin rescue.
+Cyclosporin d/c'd because of renal failure.

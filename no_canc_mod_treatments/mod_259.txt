@@ -1,0 +1,28 @@
+Admission Date:  [**2129-6-12**]              Discharge Date:   [**2129-6-14**]  Date of Birth:  [**2050-1-17**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 2704**] Chief Complaint: Planned Left internal carotid angio/stent  Major Surgical or Invasive Procedure: Catheterization with left internal carotid stent placement.
+Past Medical History: Hypertension Hyperlipidemia Peripheral vascular disease status post left iliac stenting in preparation for a fem-fem bypass for right iliac occlusion.
+Status post bilateral renal artery stenting under the care of Dr. [**First Name8 (NamePattern2) 487**] [**Last Name (NamePattern1) **] in [**2123-11-24**] Status post left common iliac artery stent for restenosis under the care of Dr. [**First Name8 (NamePattern2) 487**] [**Last Name (NamePattern1) **] Known left SFA total occlusion.
+CAD status post CABG in [**2113**].
+Status post coronary artery intervention under the care of Dr. [**Last Name (STitle) **] Chronic renal insufficiency, creatinine 1.9.
+PSurgH: Colon CA s/p colectomy (last year) CABG ([**2113**])  Social History: +tob 65 pack-year history.
+Family History: Father died in WWII at 32 y.o., Mother died of alzheimers at 56 y.o.
+His brother had a CABG at 56.
+Carotid series [**2129-6-1**]: LEFT: B-mode images of the left carotid bifurcation show an echolucent, heterogeneous plaque at the origin of the internal carotid artery.
+[**Doctor First Name 3098**] stenting: The patient had previous stenting to his [**Country **].
+The patient received [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3098**] stent.
+His normal BP medications were held and his SBP was maintained between 100-160 without the need for pressors.
+He received ASA and Plavix and was discharged on both medications.
+# CAD/Ischemia: The pt is s/p CABG in [**2113**], LIMA to LAD, SVG to rPDA and rPLV, SVG to OM.
+While in the hospital his ASA, plavix, and lipitor were continued.
+The patient was not on his home ACE or afterload reducers because of the possibility of decreased BP secondary to the vagal effects of stent placement.
+He should restart these medications after a BP check two days after discharge.
+# HTN: The patient's normal home BP medications were held during the hospitalization because of the possibility of decreased BP secondary to the vagal effects of stent placement.
+He should restart these medications after a BP check two days after discharge.
+The patient's normal home BP meds are Norvasc 5mg PO daily, Lisinopril 5mg PO daily, Toprol 100mg daily, and Isosorbide Dinitrate 20mg TID .
+# Prophylaxis: -The patient received Heparin 5000 units SQ TID during his hospitalization  Medications on Admission: Amlodipine 10 mg PO daily Isosorbide Dinitrate 20 mg PO TID Lipitor 40 mg PO daily 	 Lisinopril 5mg PO daily Nitroglycerin 400 MCG (1/150 GR) TABLET PRN CP Plavix 75mg PO daily ASA 325mg PO daily Toprol XL 100MG PO daily Omeprazole 20mg PO daily  Discharge Medications: 1.
+Atorvastatin 40 mg PO DAILY 2.
+Omeprazole 20 mg Capsule PO DAILY 3.
+Aspirin 325 mg PO DAILY 4.
+Plavix 75 mg PO DAILY   Discharge Disposition: Home  Discharge Diagnosis: Primary: Carotid Artery Stenosis  Secondary: Peripheral vascular disease.
+Discharge Instructions: You were admitted for carotid angiography with placement of a left carotid stent.
+Your should continue to take Atorvastatin, Aspirin, Omeprazole and Plavix.
+On Thursday you will have an appointment with [**First Name8 (NamePattern2) 402**] [**Last Name (NamePattern1) 3100**], Dr.[**Name (NI) 3101**] [**Name (STitle) **] Practicioner at which time they will assess which of your old blood pressure medications you should resume.

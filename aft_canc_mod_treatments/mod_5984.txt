@@ -1,0 +1,56 @@
+Admission Date:  [**2184-8-2**]              Discharge Date:   [**2184-8-18**]  Date of Birth:  [**2103-10-18**]             Sex:   F  Service: MEDICINE  Allergies: Ciprofloxacin / Zolpidem  Attending:[**First Name3 (LF) 1436**] Chief Complaint: Right pleural effusion and SOB  Major Surgical or Invasive Procedure: R thoracentesis with chest tube placement [**2184-8-3**] Left lung thoracentesis Right lung chest tube placement and drainage Right lung thoracentesis [**8-17**]   History of Present Illness: Ms. [**Known lastname 97276**] is an 80 year old female with history of CHF, CAD s/p PCI, and recently diagnosed multiple myeloma, transfered here from [**Hospital 1562**] Hospital with recurrent right sided pleural effusion and dyspnea.
+Patient was tapped one week ago with relief of dyspnea but symptoms recurred one day prior to transfer.
+Patient denies chest pain, weakness, fatigue, nausea, and abdominal pain.
+Past Medical History: coronary stents x3 in [**2181**]; hx of CHF; hx of DVT on coumadin and hx of paroxismal a fib.
+s/p right mastectomy; s/p thyroidectomy, hysterectomy;  Multiple myeloma diagnosed in [**Month (only) **]-[**2184-4-3**] due to investigation for anemia; with myelodisplastic syndrome; s/p blood transfusion.
+Pertinent Results: Pleural fluids [**2184-8-3**] 10:16AM PLEURAL TotProt-2.6 Glucose-198 LD(LDH)-127 Cholest-30 Triglyc-86 [**2184-8-3**] 10:16AM PLEURAL WBC-500* RBC-[**Numeric Identifier 81779**]* Polys-0 Lymphs-87* Monos-13* [**2184-8-4**] 05:36PM PLEURAL TotProt-2.6 Glucose-146 LD(LDH)-128 Cholest-27 Triglyc-40 [**2184-8-4**] 05:36PM PLEURAL WBC-350* RBC-[**Numeric Identifier **]* Polys-2* Lymphs-68* Monos-0 Plasma-1* Meso-2* Macro-16* Other-11* .
+[**2184-8-18**] 06:25AM BLOOD WBC-4.2 RBC-2.95* Hgb-8.6* Hct-26.1* MCV-89 MCH-29.3 MCHC-33.1 RDW-16.8* Plt Ct-152 [**2184-8-17**] 06:45AM BLOOD WBC-4.4 RBC-3.07* Hgb-9.0* Hct-27.1* MCV-88 MCH-29.3 MCHC-33.1 RDW-16.8* Plt Ct-156 [**2184-8-16**] 06:35AM BLOOD WBC-3.5* RBC-3.40* Hgb-9.5* Hct-30.9* MCV-91 MCH-27.9 MCHC-30.7* RDW-17.1* Plt Ct-198 [**2184-8-15**] 06:00AM BLOOD WBC-3.9* RBC-3.05* Hgb-8.9* Hct-26.9* MCV-88 MCH-29.3 MCHC-33.2 RDW-17.1* Plt Ct-164 [**2184-8-14**] 07:35AM BLOOD WBC-3.7* RBC-2.73* Hgb-8.1* Hct-24.5* MCV-90 MCH-29.7 MCHC-33.2 RDW-16.9* Plt Ct-138* [**2184-8-12**] 02:42PM BLOOD Neuts-50.9 Lymphs-39.9 Monos-7.8 Eos-0.5 Baso-0.9 [**2184-8-6**] 08:00AM BLOOD Neuts-39* Bands-1 Lymphs-46* Monos-9 Eos-3 Baso-0 Atyps-2* Metas-0 Myelos-0 [**2184-8-6**] 08:00AM BLOOD Hypochr-1+ Anisocy-OCCASIONAL Poiklo-OCCASIONAL Macrocy-NORMAL Microcy-OCCASIONAL Polychr-NORMAL Ovalocy-1+ Stipple-OCCASIONAL [**2184-8-18**] 06:25AM BLOOD Plt Ct-152 [**2184-8-18**] 06:25AM BLOOD PT-14.3* PTT-27.7 INR(PT)-1.2* [**2184-8-17**] 06:45AM BLOOD Plt Ct-156 [**2184-8-17**] 06:45AM BLOOD PT-17.8* PTT-29.0 INR(PT)-1.6* [**2184-8-16**] 06:35AM BLOOD Plt Ct-198 [**2184-8-16**] 06:35AM BLOOD PT-26.0* PTT-32.6 INR(PT)-2.5* [**2184-8-18**] 06:25AM BLOOD Glucose-216* UreaN-47* Creat-1.9* Na-137 K-3.5 Cl-96 HCO3-33* AnGap-12 [**2184-8-17**] 06:45AM BLOOD Glucose-160* UreaN-48* Creat-2.1* Na-135 K-3.9 Cl-94* HCO3-32 AnGap-13 [**2184-8-16**] 08:00PM BLOOD Glucose-181* UreaN-44* Creat-2.3* Na-135 K-4.2 Cl-93* HCO3-30 AnGap-16 [**2184-8-16**] 06:35AM BLOOD Glucose-154* UreaN-40* Creat-2.2* Na-137 K-3.7 Cl-93* HCO3-32 AnGap-16 [**2184-8-4**] 04:25PM BLOOD CK(CPK)-114 [**2184-8-4**] 02:51AM BLOOD CK(CPK)-184 [**2184-8-11**] 06:40AM BLOOD proBNP-1354* [**2184-8-9**] 07:30AM BLOOD CK-MB-3 cTropnT-0.07* [**2184-8-4**] 04:25PM BLOOD CK-MB-3 cTropnT-0.20* [**2184-8-4**] 02:51AM BLOOD CK-MB-8 cTropnT-0.23* [**2184-8-18**] 06:25AM BLOOD Calcium-8.6 Phos-4.6* Mg-2.3 [**2184-8-17**] 06:45AM BLOOD Calcium-8.8 Phos-5.6* Mg-2.3 [**2184-8-16**] 08:00PM BLOOD Calcium-8.9 Phos-5.7* Mg-2.1 [**2184-8-16**] 06:35AM BLOOD Calcium-9.1 Phos-5.9* Mg-2.1 [**2184-8-7**] 08:15AM BLOOD Triglyc-156* HDL-50 CHOL/HD-2.6 LDLcalc-50 [**2184-8-2**] 05:00PM BLOOD Digoxin-1.8 [**2184-8-12**] 07:25AM BLOOD PTH-65 [**2184-8-17**] 04:10PM BLOOD pH-7.45 Comment-PLEURAL FL [**2184-8-4**] 04:52PM BLOOD Type-[**Last Name (un) **] pH-7.46* [**2184-8-3**] 07:03AM BLOOD Type-ART pO2-84* pCO2-50* pH-7.42 calTCO2-34* Base XS-6 [**2184-8-4**] 04:52PM BLOOD freeCa-1.04* [**2184-8-17**] 04:01PM PLEURAL WBC-450* RBC-3800* Polys-3* Lymphs-86* Monos-11* [**2184-8-4**] 05:36PM PLEURAL WBC-350* RBC-[**Numeric Identifier **]* Polys-2* Lymphs-68* Monos-0 Plasma-1* Meso-2* Macro-16* Other-11* [**2184-8-3**] 10:16AM PLEURAL WBC-500* RBC-[**Numeric Identifier 81779**]* Polys-0 Lymphs-87* Monos-13* [**2184-8-17**] 04:01PM PLEURAL TotProt-3.5 Glucose-191 LD(LDH)-127 Albumin-2.3 Cholest-38 Triglyc-65 [**2184-8-4**] 05:36PM PLEURAL TotProt-2.6 Glucose-146 LD(LDH)-128 Cholest-27 Triglyc-40 [**2184-8-3**] 10:16AM PLEURAL TotProt-2.6 Glucose-198 LD(LDH)-127 Cholest-30 Triglyc-86 .
+IMPRESSION: No evidence of pneumothorax following successful right-sided thoracocentesis.
+Brief Hospital Course: Patient was admitted to thoracic surgery on [**2184-8-2**] for evaluation and treatment of right pleural effusion.
+Patient's INR on admission was 3.2 (on coumadin for afib) which was reversed overnight with 4U FFP and lasix.
+Patient was given sublingual nitro with BP returning to 140/90.
+In TICU, patient was started on BIPAP and briefly on nitro drip for SBP in 180s.
+Her dyspnea and hypertension responded well to BIPAP with O2 sats >95% on 4LNC.
+IP performed right pigtail placement with 1600cc of serosanginous fluid drained and samples sent for analysis.
+Preliminary results showed fluid c/w transudate, although chylothorax cannot be ruled out since patient had been NPO.
+Patient was kept on her home medications, including her aspirin, although coumadin was held.
+She was started on lasix 20 mg po qdaily but was held due to low systolic blood pressure.
+Cardiology was consulted for further management of her diastolic heart failure.
+Betablocker could not be started due to her sinus bradycardia.
+Lasix was increased to 20 mg po BID.
+She was transferred to cardiology service for further management of her diastolic heart failure.
+Abnormal UA: Start Bactrim DS once a day for 7 days (day #7 will be [**2184-8-15**]).
+Creatine @ baseline at 1.8. .
+Continue anticoagulation with aspirin.
+Coumadin started on [**2184-8-10**].
+# CAD s/p 3 stents to RCA in [**2181**]: Continue aspirin 81 mg po qdaily and atorvastatin 40 mg po qdaily.
+Recent therapy with Revlimide and prednisone.
+# Hyperthyroidism:  levothyroxine was continued .
+GERD: Omeprazole 20 mg po qdaily was continued.
+The patient responded well to a IV lasix drip and was net negative approx.
+Discontinued IV lasix  drip ( measured systolic was around 100 on arms and 140-180 on thigh readings, drip was on from 9/11PM to 9/13AM).Transitioned to oral lasix 60mg [**Hospital1 **] with net fluid goal of even to net negative 500cc a day with 1500cc/day fluid restriction.
+IP drained on [**8-17**] PM her right pleural effusion and removed around 1000cc and sent for extensive lab workup of the removed pleural fluid.F/u on the post drain chest X ray and pleural labs.
+Hypertension: Noted to have low SBP by electronic and manually on left arm (right breast mastectomy in the past).
+Abnormal UA: indicative of UTI with moderate positive Leuk.esterase Continued Bactrim DS once a day for 7 days and completed course as an inpatient.Had no dysuria on discharge.
+Creatine @ baseline at 1.7-1.9.Renal ultrasound given diffuse calcified arteries on CT chest-results included: No son[**Name (NI) 493**] evidence for renal artery stenosis, Cortical thinning with minimally elevated resistive indices, Right pleural effusion.
+# Paroxysmal atrial fibrillation: Was in sinus rhythm with rates in 60s-70s and episode of atrial fibrilliation for 15 minutes up to 120's, which was asymptomatic on [**8-16**].
+She transitioned spontaneously back into 60-90 normal sinus rhythm.No contraindication to beta blockers given  systolic blood pressures ranging from 130-170's.Start metoprolol tartrate 12.5mgBID for rate control ([**8-16**]), given some bradycardic episodes on [**9-14**] the patient will be d/c'd on 12.5mg/daily of metoprolol succinate.Restarted Coumadin on [**8-17**] with one time dose of 5mg/daily and standing on 3mg Coumadin on [**8-18**] to reach therapeutic range of [**1-7**].
+# CAD s/p 2 stents to RCA in [**2181**]: Continued aspirin 81 mg po qdaily and atorvastatin 40 mg po qdaily.Started metoprolol tartrate 12.5mg [**Hospital1 **] during the admission for rate control of atrial fibrilliation and CAD,dCHF.Given some bradycardic episodes on [**9-14**] the patient will be d/c'd on 12.5mg/daily of metoprolol succinate.
+s/p treatment with Revlimide and prednisone one month ago.Stopped because the patient thought she was becoming short of breath because of the chemo's side effects.
+Discharged on home dose glipizide and metformin .
+GERD: Continued omeprazole 20 mg po qdaily .
+Outpatient Follow Up The patient was started on metoprolol for rate control of PAF Some pleural Labs were pending at the time of discharge.
+Patient was in NSR at the time of discharge  Medications on Admission: digoxin - 0.125 mg thyroxine - 88 mcg Lasix - 40 mg QD Glipizide - 5 mg [**Hospital1 **] coumadin - 2.5 mg Daily lipitor - 40 mg QD ASA - 81 mg iron - 65 mg prilosec - 20 mg Dexamethasone and revlimid-> was tried for MM but she could not tolerated it.
+Levothyroxine 88 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Omeprazole 20 mg Capsule, Delayed Release(E.C.)
+Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+Iron (Ferrous Sulfate) 325 mg (65 mg Iron) Tablet Sig: One (1) Tablet PO once a day.
+Metoprolol Succinate 25 mg Tablet Sustained Release 24 hr Sig: 0.5 Tablet Sustained Release 24 hr PO once a day: Please take 12.5mg daily  .
+Furosemide 20 mg Tablet Sig: Three (3) Tablet PO BID (2 times a day).
+Coumadin 2.5 mg Tablet Sig: One (1) Tablet PO once a day: Please take 5mg on [**8-18**], and then take 2.5mg per day as prescribed thereafter.
+Lovastatin 40 mg Tablet Sig: One (1) Tablet PO once a day.
+Glipizide 5 mg Tablet Sig: One (1) Tablet PO twice a day.
+Metformin 500 mg Tablet Sig: One (1) Tablet PO twice a day.
+Following medication changes were made to your regimen: START Metoprolol 12.5mg per day, it is a medication for your heart STOP Digoxin .
+Your Lasix was increased to 60mg twice a day.
+Please take the rest of your medications as you were before coming to the hospital.

@@ -1,0 +1,23 @@
+Reports baseline orthopnea and PND - no change recently.
+Documentation from [**First Name4 (NamePattern1) 1188**] [**Last Name (NamePattern1) **] reports patient not feeling well with shortness of breath at 3am - VS T 97.2, BP 80/53, HR 103, RR 24, O2 Sat 94% 2 L - reported appearing diaphoritic with FS 257.
+EMS documented BP 172/88, O2 Sat high 70s, speaking in short sentances and working to breath.
+On arrival to the ED patient required NRB with T 97.8, HR 97, BP 160/125, RR 28.
+Femoral line was needed to be placed for labs and notable for K 4.5, Creatinine 4.5, BNP [**Numeric Identifier 35408**], HCT 27.1 (baseline 27) and lactate 1.5.
+CXR revealed hazy opacity right lung base suggestive of atelactasis and prominent mediastinum suggesting volume overload.
+On transfer vitals HR 85 RR 16 BP 173/78 100% BiPap (settings FiO2 30%, [**1-16**]).
+For concern of bactermia patient was discharged on Vancomycin for 14 days which was completed [**2163-2-10**] however no blood cultures were ever positive.
+Past Medical History: * Dyslipidemia/hypertension - coronary artery disease on aspirin * Hypertension * Complicated proximal humerus fracture ([**6-/2161**]) * Cerebral hypoperfusion: Evidence of multifocal previous strokes despite aspirin - clopidogrel added [**3-/2162**] * Post polypectomy bleed admitted on [**4-24**] for BRBPR and LGI bleed [**1-/2163**] with further non-bleeding polyps [**1-14**] * ESRD on HD: Tues, Thurs, Sat at [**Location (un) **].
+* CHF: ECHO [**2162-3-25**]: EF 30-40%.
+LVH ([**Month/Day/Year 1192**], and diastolic dysfunction) * Type 2 DM: diagnosed >40 years ago, complicated by ESRD, controlled on insulin * Sarcoidosis with ocular involvement: seen every 3 months for eye exam - not biopsy proven * Gout: last flair [**10-18**]; usually occurs in R toes * Knee surgery s/p fall * Obstructive sleep apnea: [**2161-8-12**] sleep study shows [**Year (4 digits) 1192**] obstructive sleep apnea consisting mainly of hypopneas that produced substantial drops in oxygen saturation.
+Family History: Mother - HTN and "blocked neck artery" Father - died young Sibs - Type 2 Diabetes mellitus, hypertension.
+CV: RRR, S1 and S2 wnl, no r/g, RUSB --> apex holosystolic blowing murmur, right sided HD catheter c/d/i w/o TTP or erythema ABD: nd, +b/s, soft, nt, no palpable masses EXT: no c/c/e, RUE AV fistula c/d/i SKIN: No rashes/lesions NEURO: AAOx3.
+Strength and sensation grossly intact   Pertinent Results: Admission labs: [**2163-2-12**] 05:15AM BLOOD WBC-8.7 RBC-2.82* Hgb-8.5* Hct-27.1* MCV-96 MCH-30.2 MCHC-31.4 RDW-17.3* Plt Ct-229 [**2163-2-12**] 05:15AM BLOOD Neuts-65.6 Lymphs-12.4* Monos-3.7 Eos-18.2* Baso-0.1 [**2163-2-12**] 05:15AM BLOOD Glucose-300* UreaN-40* Creat-5.2* Na-140 K-4.5 Cl-97 HCO3-32 AnGap-16 [**2163-2-12**] 02:04PM BLOOD CK(CPK)-37 [**2163-2-12**] 05:15AM BLOOD Calcium-9.9 Phos-3.9 Mg-2.3 .
+Other labs:  [**2163-2-12**] 02:04PM BLOOD CK(CPK)-37 [**2163-2-12**] 11:59PM BLOOD CK(CPK)-32 [**2163-2-12**] 05:15AM BLOOD proBNP-[**Numeric Identifier 35408**]* [**2163-2-12**] 05:15AM BLOOD cTropnT-0.08* [**2163-2-12**] 02:04PM BLOOD CK-MB-3 cTropnT-0.11* [**2163-2-12**] 11:59PM BLOOD CK-MB-3 cTropnT-0.13*\ .
+Microbiology: BC [**2-12**] pending .
+XR CHEST (PORTABLE AP) Study Date of [**2163-2-12**] 4:23 AM FINDINGS:  Single portable upright chest radiograph was obtained.
+The study is extremely limited due to patient motion.
+XR CHEST (PORTABLE AP) Study Date of [**2163-2-13**] 5:31 AM FINDINGS: Comparison is made to previous study from [**2163-2-12**].
+Discharge Labs: [**2163-2-16**] 05:15AM BLOOD WBC-8.4 RBC-3.09* Hgb-9.4* Hct-30.1* MCV-97 MCH-30.5 MCHC-31.3 RDW-17.6* Plt Ct-247 [**2163-2-16**] 05:15AM BLOOD Glucose-109* UreaN-20 Creat-4.0*# Na-144 K-4.4 Cl-97 HCO3-39* AnGap-12 [**2163-2-15**] 02:12AM BLOOD Calcium-9.5 Phos-4.5 Mg-2.7*  Brief Hospital Course: 76 year old woman w/ CAD on ASA/Plavix, ESRD on HD, type 2 DM, severe AS who presents with acute episode of shortness of breath requiring BiPap in the emergency department.
+She spent one night in the ICU with BiPAP which was able to be weaned off without difficulty and she was weaned down to to 1-2L nasal cannula by time of discharge with O2 Saturation in the mid 90s range.
+Heart rate controlled with carvedilol and BiPAP intervention.
+Followup Instructions: Provider: [**Name10 (NameIs) **],SCHEDULE HEMODIALYSIS UNIT Date/Time:[**2163-2-17**] 7:30 Provider: [**Name10 (NameIs) **] Phone:[**Telephone/Fax (1) 327**] Date/Time:[**2163-2-18**] 10:30 Provider: [**Name10 (NameIs) **] [**Last Name (NamePattern4) 16956**], MD Phone:[**Telephone/Fax (1) 1803**] Date/Time:[**2163-2-25**] 11:00    Completed by:[**2163-2-17**

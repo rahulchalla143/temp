@@ -1,0 +1,40 @@
+Admission Date:  [**2152-2-4**]              Discharge Date:   [**2152-2-18**]  Date of Birth:  [**2069-11-14**]             Sex:   F  Service: MEDICINE  Allergies: Penicillins / Tylenol/Codeine / Iodine Containing Agents Classifier  Attending:[**Last Name (NamePattern4) 290**] Chief Complaint: Failure to thrive, nausea  Major Surgical or Invasive Procedure: ERCP with removal and replacement of biliary stent RBC scan x 2, both unremarkable   History of Present Illness: Ms. [**Known lastname **] is an 82 year-old Spanish speaking woman with a history of non-resectable cholangiocarcinoma s/p seven cycles of gemcinabine (last [**11-18**]) and CyberKnife radiotherapy ([**8-18**]).
+Since her most recent chemotherapy, she has felt generally unwell and has been unable to take much PO.
+In the ED, initial VS: T 99, BP 138/48, HR 62, O2 Sat 100% RA.
+CXR showed no significant abnormality.
+Urinalysis was clean.
+She was admitted to OMED for further evaluation and management.
+Abdominal CT revealed soft tissue attenuation surrounding the superior mesenteric artery and extending to the periportal region; enhancing soft tissue surrounding the common hepatic and bile duct with periportal edema; and an ill-defined low attenuation in the head of the pancreas.
+Abdominal MRI revealed abnormal T2 dark soft tissues surrounding the celiac axis extending to the periportal region and abutting the head of the pancreas.
+On [**3-31**], the patient underwent EGD which demonstrated normal esophagus, stomach and duodenum.
+Following cannulation of the pancreatic duct, the CBD was cannulated and stented for the length of the stricture.
+On [**2151-4-29**], she underwent repeat ERCP and removal of the pancreatic duct stent.
+Treatment History: [**2151-5-14**]: C1 Gemcitabine 1000 mg/m2; W3 dose reduced by 25% to 750 mg/m2 [**2151-6-11**]: C2 Gemcitabine 750 mg/m2 [**2151-7-9**]: C3 Gemcitabine 750 mg/m2           Aranesp 200 mcg [**2151-7-23**] for Hg/Hct < 10/30 [**2151-8-6**]: C4 Gemcitabine 750 mg/m2.
+Mrs. [**Known lastname **] underwent CT scan on [**12-12**] and this revealed complete stability.
+Exam at discharge: Comfortable, alert and oriented x 3   Pertinent Results: [**2152-2-4**] 02:45PM BLOOD WBC-6.6 RBC-3.08* Hgb-10.3* Hct-30.0* MCV-97 MCH-33.4* MCHC-34.3 RDW-13.6 Plt Ct-198 [**2152-2-5**] 06:45AM BLOOD WBC-4.0 RBC-2.97* Hgb-9.7* Hct-29.3* MCV-99* MCH-32.6* MCHC-33.0 RDW-13.3 Plt Ct-168 [**2152-2-4**] 02:45PM BLOOD Neuts-75.8* Lymphs-16.9* Monos-4.8 Eos-2.1 Baso-0.5 [**2152-2-4**] 02:45PM BLOOD Plt Ct-198 [**2152-2-4**] 02:45PM BLOOD Glucose-106* UreaN-27* Creat-1.0 Na-134 K-3.8 Cl-98 HCO3-27 AnGap-13 [**2152-2-4**] 02:45PM BLOOD ALT-103* AST-125* LD(LDH)-201 AlkPhos-686* TotBili-1.1 [**2152-2-5**] 06:45AM BLOOD ALT-79* AST-78* LD(LDH)-165 AlkPhos-594* TotBili-0.7 [**2152-2-4**] 02:45PM BLOOD Albumin-3.3* [**2152-2-5**] 06:45AM BLOOD Albumin-2.9* Calcium-8.6 Phos-3.4 Mg-2.4  Chest X-Ray ([**2152-2-4**])- FINDINGS: As compared to the previous radiograph, there is no relevant change.
+[**2152-2-17**]: INTERPRETATION: Baseline images were obtained before tracer injection since the patient had a tagged RBC scan the day prior.
+Following intravenous injection of autologous red blood cells labeled with Tc-[**Age over 90 **]m, blood flow and dynamic images of the abdomen for 90 minutes were obtained.
+Pre-injection images show activity in the bowel compatible with interval bleed since the prior study.
+Flow study shows normal abdominal flow.
+Dynamic blood pool images show no evidence for a active GI bleed.
+[**2152-2-16**]: INTERPRETATION: Following intravenous injection of autologous red blood cells labeled with Tc-[**Age over 90 **]m, blood flow and dynamic images of the abdomen at 60 and 90 minutes were obtained.
+Blood flow images show flow into abdominal vasculature.
+Dynamic blood pool images show no evidence for bleeding.
+Left ventricular wall thicknesses are normal.
+Left ventricular systolic function is hyperdynamic (EF 70-80%).
+ERCP: 6 spot fluoroscopic images were obtained without a radiologist present and submitted for review.
+The study and the report were reviewed by the staff radiologist.
+CXR clear, no other localizing signs or symptoms.
+CT torso was performed with premedication to evaluate for metastatic and/or locally progressive disease.
+After her ERCP procedure, she was being prepared for discharge but developed a fever.
+Blood cultures were drawn and were positive for Serratia.
+A CT scan was performed and showed abscesses in the liver.
+She ultimately underwent a repeat ERCP.
+However, the patient's alkaline phosphatase and bilirubin levels continued to rise during this time.
+Of note, during this time as well, the patient's more recent blood cultures began to grow enterococcus.
+On [**2152-2-15**], because her alk phos and bilirubin were still rising, the patient underwent a 3rd ERCP, during which a defect was created in the distal portion of her previous stent so that bile could drain into the duodenum.
+A tagged RBC scan was performed which revealed no clear source of bleeding.
+# Cholangiocarcinoma:  Locally advanced and unresectable but stable in appearance by CT [**2151-12-22**], s/p 7 cycles of gemcitabine (most recent [**11-18**]) and Cyberknife ([**7-19**]).
+There was no evidence of metastatic disease on CT torso.
+# Anemia: Her hematocrit was  consistent with baseline, with expected drop from GI bleeding.
+Blood tests and CT showed that you had blockage in the ducts that drain the liver.

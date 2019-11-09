@@ -1,0 +1,50 @@
+Admission Date:  [**2178-2-9**]              Discharge Date:   [**2178-2-17**]  Date of Birth:  [**2105-9-27**]             Sex:   M  Service: MEDICINE  Allergies: Sulfonamides / A.C.E Inhibitors / Angiotensin Receptor Antagonist / Keflex  Attending:[**First Name3 (LF) 2167**] Chief Complaint: change in mental status  Major Surgical or Invasive Procedure: Intubation Central Venous Catheter placement Thoracentesis Bronchoscopy   History of Present Illness: Pt is a 72 yo M myelofibrosis, h/o c.diff, h/o delirium who presented to ED for AMS, fever.
+On the day of presentation, pt was received his regularly scheduled Interferon for myelofibrosis, then started to complain of nausea, vomiting, and diarrhea, as well as shortness of breath.
+Anesthesia was called and intubated the patient uneventfully.
+Arterial line was placed in the left wrist.
+He required Dopamine and Levophed to maintain his MAP>60.
+Past Medical History: Idiopathic myelofibrosis - Anemia associated with CKD & Fe deficiency - PVD with recurrent LE venous stasis ulcers - PAF s/p [**Location (un) 4448**] - CHF (EF 45% in [**4-10**]) - HTN - Hyperlipidemia - Hypothyroidism - BPH - Depression - H/o chronic C. diff - Diverticulitis - recurrent delirium  Social History: Currently lives in the [**First Name4 (NamePattern1) 2299**] [**Last Name (NamePattern1) **].
+Ext: Warm, well perfused, 2+ pulses radial and femoral, non-palpable DP and PT, no clubbing, cyanosis or edema  Pertinent Results: Pleural Fluid Chemistry Protein  1.6 Glucose  109 LD(LDH): 96  Pleural Fluid WBC  30 RBC  14 Poly  40 Lymph  11 Mono  28  [**2178-2-8**] 10:10PM   PT-18.9* PTT-29.3 INR(PT)-1.7* [**2178-2-8**] 10:10PM   PLT SMR-NORMAL PLT COUNT-427# [**2178-2-8**] 10:10PM   WBC-21.7*# RBC-4.85 HGB-13.0* HCT-43.9 MCV-91 MCH-26.9* MCHC-29.7* RDW-18.0* [**2178-2-8**] 10:10PM   NEUTS-67 BANDS-3 LYMPHS-12* MONOS-7 EOS-3 BASOS-1 ATYPS-0 METAS-5* MYELOS-2* NUC RBCS-4* [**2178-2-8**] 10:10PM   ALBUMIN-3.9 CALCIUM-9.7 PHOSPHATE-2.9 MAGNESIUM-1.9 [**2178-2-8**] 10:10PM   cTropnT-0.10* [**2178-2-8**] 10:10PM   CK-MB-2 [**2178-2-8**] 10:10PM   GLUCOSE-138* UREA N-27* CREAT-1.6* SODIUM-134 POTASSIUM-6.1* CHLORIDE-98 TOTAL CO2-23 ANION GAP-19 [**2178-2-8**] 10:20PM   HGB-13.9* calcHCT-42 [**2178-2-8**] 10:30PM URINE  [**Year/Month/Day 3143**]-NEG NITRITE-NEG PROTEIN-TR GLUCOSE-NEG KETONE-TR BILIRUBIN-SM UROBILNGN-4* PH-5.0 LEUK-NEG [**2178-2-8**] 10:30PM URINE  RBC-0-2 WBC-[**2-5**] BACTERIA-MANY YEAST-NONE EPI-[**5-13**] [**2178-2-9**] 12:48AM   CK-MB-5 proBNP-[**Numeric Identifier **]* [**2178-2-9**] 12:48AM   cTropnT-0.19* [**2178-2-9**] 12:48AM   CK(CPK)-206* [**2178-2-9**] 12:48AM   GLUCOSE-116* UREA N-27* CREAT-1.4* SODIUM-138 POTASSIUM-3.8 CHLORIDE-108 TOTAL CO2-18* ANION GAP-16 [**2178-2-9**] 12:54AM   LACTATE-3.0* [**2178-2-9**] 01:48AM   HGB-11.8* calcHCT-35 O2 SAT-97 [**2178-2-9**] 01:48AM   LACTATE-2.1* [**2178-2-9**] 01:48AM   TYPE-ART PO2-98 PCO2-44 PH-7.26* TOTAL CO2-21 BASE XS--6 [**2178-2-9**] 01:55AM   PT-21.3* PTT-34.9 INR(PT)-2.0* [**2178-2-9**] 01:55AM   PLT COUNT-371 .
+CXR [**2-13**]: Endotracheal tube and nasogastric tube have been removed.
+Aortic arch calcifications and [**Month/Year (2) 4448**] are unchanged.
+He was intubated and sedated on admission and ventilator settings were per ARDSnet protocol.
+He was given multiple antibiotics on admission (see below), which would cover pneumonia.
+At the time of transfer to the floor, he was continued on ceftriaxone for presumed pneumonia even though cultures were negative.
+The patient was transitioned to Precedex on [**2-11**] due to intolerance of fentanyl/versed.
+He was weaned from the ventilator and extubated on [**2-12**], and on transfer to the floor, was maintaining his O2 saturation on room air.
+Vancomycin/Zosyn/Ceftriaxone/Decadron given in the ED; Ampicillin (Listeria), Acyclovir (HSV), and Flagyl (pt h/o C. diff) given on admission to ICU.
+Although stool cultures were negative for c.diff, given the patient's history and CT findings consistent w/ colitis, he was treated with po vancomycin for c.diff.
+He was also treated with ceftriaxone for presumed pneumonia.
+Plan is for a total of a 10 day course of ceftriaxone with vancomycin to continue for 2 additional weeks thereafter.
+He received stress dose steroids for 48 hours given his inappropriate cortisol stim.
+IFN was held while hospitalized and should not be restarted without the input of Dr. [**Last Name (STitle) **] & Dr. [**First Name (STitle) **] of hematology  #  Cardiac: On day of admission, Troponins trended 0.10->0.19->0.26.
+He was given 325mg ASA but heparin was not started due to high INR.
+He was continued on ASA 81 mg. His echo showed an EF of 40%.
+After aggressive hydration in ICU, Mr. [**Known lastname **] was diuresed with IV lasix.
+He was also continued on beta blockers.
+#  Idiopathic Myelofibrosis: Pt was continued on hydroxyurea but interferon was held as per Hem Onc recs.
+#  Hypothyroidism: Continued levothyroxine .
+# Bleeding after heparin injection subQ: Pt had subcutaneous [**Location **] oozing after heparin shots.
+Hence heparin was held.
+Pt was given compression dressing and the bleeding stopped.
+Hence he was started on soft (dysphagia) diet and nectar thick liquids.
+Thin liquids were removed from his diet.
+# PPX: Heparin was held due to subcutaneous [**Date Range **] oozing and pt was given pnumoboots for DVT ppx.
+([**Telephone/Fax (1) 106217**])   Medications on Admission: - Levothyroxine 125mcg daily - Toprol XL 25mg daily - Seroquel 25 mg Tablet - [**1-6**] Tablet(s) by mouth twice daily.
+- Allopurinol 100mg daily - Simvastatin 10mg daily - Pentoxifylline 400mg TID - Danazol 200mg [**Hospital1 **] - Hydroxyurea 500mg alternating with 1000mg every other day - Albuterol prn 100mg Daily - Cymbalta 60mg daily - Lasix 40mg vs 80mg QOD - Vit C 500 mg Tablet - 1 Tablet(s) by mouth daily - Vit B - Vit D3 (400 for 7 weeks - ending [**2177-12-25**]) - MVI - Fe 325mg Daily - ASA 81mg daily - [**Month/Day/Year **], colace, fleets, bisacodyl, MOM - epogen [**2168**] [**Name2 (NI) **],W,F - ALBUTEROL SULFATE  - 1 vial neb Every 4 hours PRN - FAMOTIDINE - 20 mg Tablet daily - INTERFERON ALFA-2B [INTRON A] - 6 million unit/mL Solution - 3.0 million units subcutaneously Every Monday, Wednesday, and Friday - LIDOCAINE [LIDODERM] -  (Prescribed by Other Provider) - 5 % (700 mg/patch) Adhesive Patch, Medicated - Apply to lower back for 12 hours on, 12 hours off.
+- OXYCODONE - 5 mg Tablet - 1 Tablet(s) by mouth q 6 hrs as needed for pain - PROCHLORPERAZINE MALEATE -  (Prescribed by Other Provider) - 5 mg Tablet - One Tablet(s) by mouth twice a day as needed for nausea - TRAZODONE -  (Prescribed by Other Provider) - 50 mg Tablet - One half Tablet(s) by mouth at hs as needed for insomnia - ACETAMINOPHEN -  (Prescribed by Other Provider) - 325 mg Tablet - Two Tablet(s) by mouth Every 6 hours as needed for fever, pain - B COMPLEX VITAMINS [VITAMIN B COMPLEX] -  (OTC) -   Capsule - 1 Capsule(s) by mouth daily .
+Famotidine 20 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours).
+Vancomycin 250 mg Capsule Sig: One (1) Capsule PO Q6H (every 6 hours) for 2 weeks.
+Hydroxyurea 500 mg Capsule Sig: One (1) Capsule PO DAILY (Daily).
+Levothyroxine 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 times a day).
+Trazodone 50 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime) as needed.
+Hydralazine 10 mg Tablet Sig: Two (2) Tablet PO Q6H (every 6 hours).
+Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1)  Inhalation Q4H (every 4 hours) as needed for SOB/wheezing.
+Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+Ceftriaxone in Dextrose,Iso-os 1 gram/50 mL Piggyback Sig: One (1)  Intravenous Q24H (every 24 hours): last day = [**2-19**].
+Dextromethorphan-Guaifenesin 10-100 mg/5 mL Liquid Sig: [**4-12**] MLs PO Q6H (every 6 hours) as needed for cough.
+Ibuprofen 400 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 hours) as needed.
+Olanzapine 5 mg Tablet, Rapid Dissolve Sig: One (1) Tablet, Rapid Dissolve PO TID (3 times a day) as needed for agitation.
+You will need to finish a 14 day course of oral vancomycin and finish a 10 day course of ceftriaxone (another antibiotic).
+Dr. [**First Name (STitle) **] and Dr. [**Last Name (STitle) **] will need to decide at your next appointment whether to continue with the interferon treatments.

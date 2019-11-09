@@ -1,0 +1,26 @@
+Admission Date:  [**2125-10-28**]              Discharge Date:   [**2125-11-2**]  Date of Birth:  [**2070-10-3**]             Sex:   M  Service: NMED  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 5018**] Chief Complaint: Sudden onset of left-sided weakness and lightheadedness  Major Surgical or Invasive Procedure: None  History of Present Illness: Mr. [**Known lastname 724**] is a 55 year old with hx of CAD, CHF (EF 15% with apical thrombus), h/o severe MR s/p St. Jude valve [**2123**] (on Coumadin), HTN, DM, high cholesterol, who presented on [**10-28**] with one day of left sided weakness and lightheadedness.
+* In the ER, he was found to have BP 157/83 HR 73 RR18 O2Sat 99%.
+Exam was significant for inattention to left side, righ gaze deviation, right eye skew deviation, vertical upgaze palsy, left hemiparesis, left hemisensory loss.
+CT Scan showed 4cm x 3cm right basal ganglia/thalamic bleed with extension to right lateral ventricle with mass effect and slight midline shift.
+His INR was found to be 2.7.
+He was started on a labetalol drip to keep MAP less than 100.
+Echo in [**2119**] with EF 15%, apical thrombus, s/p AICD 3. s/p MV replacement with St. Jude valve for severe MR, [**2123**] by  Dr. [**Last Name (STitle) 1537**] 4.
+Registers [**3-7**], recalls [**2-6**].
+* Reflexes: B T Br Pa Ach Right 2 2 2 2 2 Left 2 2 2 2 2 * Grasp reflex absent * Toes were downgoing on right, upgoing on left.
+Pertinent Results: [**2125-11-2**] 10:00AM BLOOD WBC-10.6 RBC-4.23* Hgb-12.7* Hct-37.2* MCV-88 MCH-30.1 MCHC-34.1 RDW-13.6 Plt Ct-255 [**2125-11-1**] 05:00AM BLOOD WBC-11.4* RBC-3.88* Hgb-11.8* Hct-34.5* MCV-89 MCH-30.4 MCHC-34.2 RDW-13.7 Plt Ct-195 [**2125-10-31**] 01:50AM BLOOD WBC-12.4* RBC-4.04* Hgb-12.1* Hct-35.6* MCV-88 MCH-29.8 MCHC-33.9 RDW-14.1 Plt Ct-175 [**2125-11-2**] 10:00AM BLOOD Plt Ct-255 [**2125-11-2**] 10:00AM BLOOD PT-13.2 PTT-25.0 INR(PT)-1.1 [**2125-11-2**] 10:00AM BLOOD Glucose-197* UreaN-31* Creat-1.5* Na-142 K-4.1 Cl-109* HCO3-22 AnGap-15 [**2125-10-29**] 07:50AM BLOOD cTropnT-0.04* [**2125-10-28**] 11:35PM BLOOD CK-MB-5 cTropnT-0.04* [**2125-10-28**] 06:00PM BLOOD CK-MB-4 cTropnT-0.02* [**2125-10-28**] 11:35PM BLOOD %HbA1c-6.3* [**2125-10-29**] 04:57AM BLOOD Triglyc-172* HDL-45 CHOL/HD-3.8 LDLcalc-93  Brief Hospital Course: 55 yo male with h/o HTN, St. [**Male First Name (un) 923**] mitral valve, ischemic cadiomyopathy, DM, high cholesterol, CAD with right thalamic bleed in context of anticoagulation with coumadin.
+His exam is significant for left sided inattention, upgaze palsy, bilateral sixth nerve palsy, skew deviation of right eye, left hemiplegia, and left hemisensory loss.
+BPs remained fairly well controlled on drip, but he had episodes of agitation where BP was increased to 190's.
+- Repeat head CTs on [**10-29**] and [**10-30**] showed stable appearance of the bleed.
+- The patient's exam remained unchanged during his hospitalization.
+- Coumadin was d/c'ed, and the patient's goal INR was 1-1.5 throughout his hospital stay.
+Given the risk of bleed, it was felt that his goal INR should be 2.5-3.
+Pulm: - The pt had a low grade temp on [**10-30**] and CXR was obtained to r/o PNA.
+CXR was normal, but left lung base was not adequately visualized.
+A PA and lateral showed no infiltrate.
+Sats were good and pt did not have T spike.
+F/E/N: - Diabetic, cardiac diet - Pt coughed during neuro exam with thin liquids.
+Please start anticoagulation with coumadin on Sunday night, and check INR again at least by Wednesday morning.
+Goal INR should be 2.5-3.0 in the setting of the patient's resolving intracranial hemorrhage.
+INR needs to be monitored very carefully in this patient.
+As goal SBP is less than 140 in the setting of intracranial hemorrhage, this patient will need careful BP monitoring and titration of blood pressure medications.
+Discharge Disposition: Extended Care  Facility: [**Hospital3 7**] & Rehab Center - [**Hospital1 8**]  Discharge Diagnosis: - Right thalamic intracranial hemorrhage with intraventricular extension - HTN - DM - MVR ([**First Name8 (NamePattern2) **] [**Male First Name (un) 1525**])  Discharge Condition: Stable  Discharge Instructions: Please call your doctor or return to the ER if you have any further weakness or sensory loss, any difficulty breathing, or any difficulty seeing, speaking, or swallowing.

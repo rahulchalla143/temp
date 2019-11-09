@@ -1,0 +1,32 @@
+Admission Date:  [**2116-8-3**]              Discharge Date:   [**2116-8-10**]  Date of Birth:  [**2056-3-25**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 3326**] Chief Complaint: Metastatic Melanoma requiring IL-2 therapy Persistent acidemia, AG acidosis & ARF  Major Surgical or Invasive Procedure: - Central line placement [**2116-8-7**] - Central line placement [**2116-8-8**] - CVVH dialysis beginning [**2116-8-8**]  History of Present Illness: Pt is a 60 yo man with history of metastatic melanoma (primary in foot, known mets in pelvis, liver, lungs who initially presented on [**2116-8-3**] to biologics service for IL-2 therapy.
+Today, pt received his 13th out of 14 doses of IL-2 therapy at 5pm.
+During the day, he had been noted to have persistent acidemia (low HCO3) and had been treated with total of 5 amps bicarb throughout the day without much improvement of his HCO3.
+He was intubated for airway protection, initially started on levophed gtt for pressure support.
+Cardioversion was attempted but was unsuccessful.
+He was therefore switched from levophed to neosynephrine and was bolused amiodarone and started on amio gtt.
+Past Medical History: Metastatic Melanoma S/p Appy Migraine   Social History: - Married with 3 children - He is a retired truck driver and lives in [**Location 74394**].
+Physical Exam: Vitals - T , HR 190, BP 73/37, RR 36, O2 99% on NRB -> AC/FiO2 1.0/TV 500/RR30/PEEP 5 Gen - awake, alert, able to answer questions, visibly tachypnic with use of abdominal muscles HEENT - scleral icterus Lungs - slight wheezing at bases, otherwise CTA b/l CVS - tachycardic, irregular Abd - soft, use of abdominal muscles with breathing, no noted tenderness to palpation; tympanic in upper region Ext - [**1-14**]+ LE edema b/l Neuro - A+O initially, became more lethargic Skin - cool extremities, flushed appearance to limbs   Pertinent Results: [**2116-8-8**] CXR - prelim read low lung volumes, ?
+# Respiratory Failure:  Patient was initially intubated for work of breathing/tachypnea, resp distress.
+Presentation was more consistent with an ARDS picture, given bilateral pulm infiltrates as well as PaO2/FiO2 < 200, or IL-2 therapy adverse event as this can cause a capillary leak syndrome.
+The patient was continued on AC ventilation following ARDSnet protocol--> increase PEEP 12 to 15, decrease VT 600 to 550, wean oxygen as able.
+An esophageal balloon was used to measure pleural pressures to aid in target CVP assessment.
+The patient was maintained on CVVH to help with acid/base disorder with pt.
+IL-2 therapy was held.
+# Atrial Fibrillation: No known history of CAD; the patient had afib on admission to ICU but converted to NSR after shocks x2 & amiodarone IVP x1; o/n, converted back to Afib, requiring cardioversion as well as amiodarone without success.
+Hypotensive, thus requiring levophed, neosynephrine & vasopressin.
+Amiodarone infusion was not used because of hypotension as well as liver failure.
+The patient was hypothermic and hypotensive, requiring 3 vasopressors with SBP still 90's; hypotension was thought to be a side effect of IL-2 therapy, unsure if it was related to IL-2 toxicity.
+The patient was started on IV solumedrol, which was changed to standing hydrocortisone for treatment of IL-2 related adverse effects.
+Antibiotic therapy for broad spectrum coverage was continued throughout admission.
+Medications were renally dosed and nephrotoxins were avoided.
+# Severe Acidemia/AG-Acidosis:  The patient had severe lactic acidosis in the setting of hypotension SBP 60's on arrival to ICU & occasionally overnights, also with triple vasopressor use-vasoconstriction, ?abd compartment syndrome (however CT scan does not support this), shock or ischemic liver were also included in the differential.
+The patient was taken off IL-2 and was receiving thiamine and steroids.
+As mentioned above, the patient was started on CVVH to correct acid/base abnormality.
+Coagulopathy and LFTs were monitored, and a hepatology consult was obtained for further management.
+Initiated steroids to reverse effects of IL-2 currently.
+No melanoma treatment for now.
+The patient was maintained on PPI and pneumoboots for prophylaxis (no SC hep b/c plt low).
+During the admission a high-dose insulin drip was started up to 23 units/hr for FS up to 600s; however, the patient became hypoglycemic with FS (60s).
+There was a concern for hypoglycemia in the setting of liver failure and possibly retained insulin given renal failure.
+CPR was attempted with chest compressions for approximately 25 minutes without a return of pulse; the code was terminated because of persistent asystole with the time of death at 9:25pm on [**8-10**].
+Discharge Disposition: Expired  Discharge Diagnosis: Metastatic melanoma - s/p IL-2 therapy SIRS Respiratory failure Liver failure Renal failure DIC Acidemia   Discharge Condition: Expired

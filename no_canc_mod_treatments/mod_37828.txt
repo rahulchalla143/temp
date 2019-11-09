@@ -1,0 +1,35 @@
+Admission Date:  [**2161-11-22**]              Discharge Date:   [**2161-11-24**]  Date of Birth:  [**2091-2-18**]             Sex:   F  Service: MEDICINE  Allergies: Codeine  Attending:[**First Name3 (LF) 2880**] Chief Complaint: Dizziness  Major Surgical or Invasive Procedure: Pacemaker placement  History of Present Illness: This is a 70 year old female with a history of paroxysmal atrial fibrillation and tachy-brady syndrome who was scheduled for elective pacemaker placement for symptomatic bradycardia on the week of presentation due to an outside holter monitor showing sinus pauses up to four seconds.
+She received only Aspirin, zofran and 1L of NS in the ED prior to admission to the CCU.
+Temporary pacing wire was not placed in the ED.
+She stopped taking amiodarone in [**2161-3-27**] after developing transaminitis.
+Her last dose of coumadin was on [**11-19**] in anticipation of the elective procedure scheduled for this week.
+On review of systems, she denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.
+Cardiac review of systems is notable for absence of chest pain, dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope.
+CARDIAC RISK FACTORS: Diabetes, Dyslipidemia, Hypertension 2.
+CARDIAC HISTORY: -CABG: none -PERCUTANEOUS CORONARY INTERVENTIONS: s/p cath at [**Hospital1 112**] without CAD -PACING/ICD: PLANNED as per HPI 3.
+OTHER PAST MEDICAL HISTORY: - Paroxysmal atrial fibrillation S/p prior DCCV - Hyperlipidemia - Mild asthma - GERD - s/p right laparoscopic oophrectomy - pulmonary nodules  Social History: The patient currently lives in [**Location **], she is widowed.
+Mother: died of esophageal carcinoma in her 90s Father: died of pancreatic carcinoma in his 70s   Physical Exam: General Appearance: Well nourished Eyes / Conjunctiva: PERRL Cardiovascular: (S1: Normal), (S2: Normal), (Murmur: Systolic) Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse: Present), (Right DP pulse: Present), (Left DP pulse: Present) Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : ) Abdominal: Soft, Non-tender Extremities: Right lower extremity edema: Trace, Left lower extremity edema: Trace Skin:  Not assessed Neurologic: Attentive, Responds to: Not assessed, Movement: Not assessed, Tone: Not assessed   Pertinent Results: ADMISSION LABS: [**2161-11-22**] 04:15AM BLOOD WBC-8.3 RBC-3.80* Hgb-10.6* Hct-32.8* MCV-86 MCH-27.8 MCHC-32.2 RDW-14.6 Plt Ct-371 [**2161-11-22**] 04:15AM BLOOD Glucose-87 UreaN-24* Creat-1.1 Na-140 K-4.2 Cl-104 HCO3-30 AnGap-10 [**2161-11-22**] 04:15AM BLOOD TSH-6.1* [**2161-11-22**] 04:15AM BLOOD Free T4-1.1 --------------- DISCHARGE LABS: [**2161-11-24**] 07:20AM BLOOD WBC-7.9 RBC-3.55* Hgb-9.9* Hct-30.2* MCV-85 MCH-27.8 MCHC-32.7 RDW-14.5 Plt Ct-348 [**2161-11-24**] 07:20AM BLOOD PT-14.0* PTT-26.6 INR(PT)-1.2* [**2161-11-24**] 07:20AM BLOOD Glucose-82 UreaN-18 Creat-1.0 Na-133 K-4.4 Cl-98 HCO3-26 AnGap-13 [**2161-11-24**] 07:20AM BLOOD Calcium-9.0 Phos-4.0 Mg-2.0 --------------- EKG ([**11-22**]): Sinus bradycardia (HR35) with atrial premature beats and junctional beats.
+symptomatic with sick sinus syndrome:  Patient with PAF on diltiazem and flecanide & previously known tachy-brady syndrome with symptomatic sinus pauses presents with dizziness and is found to have intermittent sinus arrest with pauses up to 4 seconds.
+She was planned for a pacemaker placement later this week.
+Initially her junctional escape was proven to be reliable and she did not require a temporary pacing wire.
+She was treated with dopamine which improved her heart rate to the 50s with symptom resolution.
+She had a pacemaker placed the next day without complication.
+# FEN:  Patient received cardiac healthy diet.
+# CODE STATUS: Full code   Medications on Admission: ALENDRONATE - 70 mg Tablet - 1 Tablet(s) by mouth 1x week on Tues DILTIAZEM HCL - - 120 mg XR DAILY ESOMEPRAZOLE MAGNESIUM [NEXIUM] 40MG DAILY ESTRADIOL [VAGIFEM] - 25 mcg Tablet - 3x /week FEXOFENADINE [[**Doctor First Name **]] - 180 mg FLECAINIDE - 100 mg Tablet - [**Hospital1 **] MEDROXYPROGESTERONE - - 5 mg 4x /year SERTRALINE - - 100 mg Tablet daily SIMVASTATIN - - 20 mg Tablet - daily WARFARIN - 2.5 daily, holding since [**11-19**] ZOLPIDEM - 5 mg Tablet - daily ASPIRIN - 325 mg Tablet - daily CALCIUM with Vit D   Discharge Medications: 1.
+Alendronate 70 mg Tablet Sig: One (1) Tablet PO QTUES (every Tuesday).
+Nexium 40 mg Capsule, Delayed Release(E.C.)
+Fexofenadine 180 mg Tablet Sig: One (1) Tablet PO once a day.
+Sertraline 100 mg Tablet Sig: One (1) Tablet PO once a day.
+Simvastatin 20 mg Tablet Sig: One (1) Tablet PO once a day.
+Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Cephalexin 500 mg Capsule Sig: One (1) Capsule PO Q8H (every 8 hours) for 3 days.
+Diltiazem HCl 120 mg Capsule, Sustained Release Sig: One (1) Capsule, Sustained Release PO DAILY (Daily).
+Flecainide 100 mg Tablet Sig: One (1) Tablet PO twice a day.
+Vagifem 25 mcg Tablet Sig: One (1) tablet Vaginal three times per week.
+Medroxyprogesterone 5 mg Tablet Sig: One (1) Tablet PO four times per year.
+Warfarin 2.5 mg Tablet Sig: One (1) Tablet PO once a day: start on [**2161-11-26**].
+Zolpidem 5 mg Tablet Sig: One (1) Tablet PO once a day.
+Discharge Disposition: Home With Service  Facility: [**Location (un) 86**] VNA  Discharge Diagnosis: Bradycardia Paroxysmal Atrial Fibrillation   Discharge Condition: Mental Status:Clear and coherent Level of Consciousness:Alert and interactive Activity Status:Ambulatory - Independent   Discharge Instructions: You had a slow heart rate and required a pacemaker.
+You will need to take an antibiotic for 3 days to prevent an infection.
+Please see our instruction paper for further instructions.
+Do not start taking your coumadin again until [**2161-11-26**].

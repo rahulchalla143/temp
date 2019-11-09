@@ -1,0 +1,52 @@
+Admission Date:  [**2154-11-23**]              Discharge Date:   [**2154-12-2**]  Date of Birth:  [**2079-10-30**]             Sex:   M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**Last Name (NamePattern1) 1171**] Chief Complaint: Palpitations  Major Surgical or Invasive Procedure: None  History of Present Illness: Mr. [**Known lastname 16063**] is a 75M with history of atrial fibrillation on aspirin, non-small cell lung cancer status post neoadjuvant chemotherapy/radiation and excision, ulcerative colitis, and bladder cancer status post radical cystectomy and neobladder who presents from an outside hospital with atrial fibrillation with rapid ventricular response.
+On that admission, he was transferred to the medical ICU after he became hypotensive following 5mg IV metoprolol x3 for attempted rate control.
+Given a CHADS score of 1 at that time, the decision was made to anticoagulate with aspirin only in discussion with the patient's son.
+He received diltiazem 10mg IV x2 and diltiazem 30mg PO x1.
+He also was given calcium gluconate 1g IV x1.
+CARDIAC HISTORY: -CABG: None -PERCUTANEOUS CORONARY INTERVENTIONS: None -PACING/ICD: None 3.
+OTHER PAST MEDICAL HISTORY: -Ulcerative proctitis with evidence of ulcerative colitis -Bladder cancer status post radical cystectomy and neobladder -Non-small cell lung cancer status post neoadjuvant chemotherapy/radiation and left thoracotomy, left upper lobectomy, left chest wall resection, ribs one through four -Small bowel obstruction -Pneumonia in [**1-21**] complicated by rapid atrial fibrillation and medical ICU admission   Social History: He is a former welder who was born in Leningrad and moved to the United States in [**2137**].
+[**Name10 (NameIs) **] smoked one pack per day over an uncertain period, but quit 12 years ago.
+Heterogeneous opacification in the right lung has worsened since [**11-23**], probably pulmonary edema, accompanied by increasing small right pleural effusion.
+Predominant abnormality in the axillary region of the right upper lobe could be concurrent pneumonia, but I am not surprised by asymmetric distribution of edema in this patient with moderate-to-severe emphysema and scarring at the right lung apex.
+Labs at discharge [**2154-12-2**] 06:10AM BLOOD WBC-6.5 RBC-3.24* Hgb-9.6* Hct-30.2* MCV-93 MCH-29.5 MCHC-31.8 RDW-15.8* Plt Ct-616* [**2154-12-2**] 06:10AM BLOOD Glucose-85 UreaN-16 Creat-0.9 Na-134 K-4.1 Cl-98 HCO3-29 AnGap-11  Brief Hospital Course: Mr. [**Known lastname 16063**] is a 75M with history of atrial fibrillation on aspirin, non-small cell lung cancer status post neoadjuvant chemotherapy/radiation and excision, ulcerative colitis, and bladder cancer status post radical cystectomy and neobladder who presents from an outside hospital with atrial fibrillation with rapid ventricular response.
+Although no clear reversible cause was initially apparent, he later developed signs of a possible community-acquired pneumonia, for which he was treated with antibiotics as below.
+Following conversion to sinus rhythm on hospital day 2 without dedicated intervention, amiodarone load 400mg tid was initiated along with dabigatran 150mg [**Hospital1 **]; use of dabigatran was discussed with gastroenterologist Dr. [**First Name (STitle) 679**], given known ongoing refractory ulcerative colitis.
+He was discharged on home ER diltiazem, amiodarone (400mg tid x1 week, 400mg [**Hospital1 **] x1 week, 400mg daily x1 week, 200mg daily x1 week), and dabigatran, with close cardiology follow-up.
+# Community-acquired pneumonia: Although admission CTA chest demonstrated bibasilar and lingular opacities possibly reflective of aspiration or infection, antibiotics were held initially in the absence of clinical signs clearly attributable to pneumonia, including lack of fever, leukocytosis, or productive cough.
+Unfortunately the patient became progressively more hypoxic despite adequate rate control for his atrial fibrillation and on [**2154-11-26**] was broadened to vancomycin/cefepime/azithromycin for HCAP coverage.
+He required a non-rebreather on the floor to keep O2 sats in the mid90s and as such was transferred to the MICU.
+He was given gentle diuresis as well at this time, his respiratory status improved and his was weaned to NC and called back to the floor on [**2154-11-28**].
+Transient supplemental oxygen requirement was weaned by the time of discharge.
+He remained afebrile/hemodynamically stable without leukocytosis for the remainder of admission and was discharged on cefpodoxime and azithromycin, for a total 10 day antibiotic course.
+<< Inactive Issues  # Ulcerative colitis: Home prednisone 10mg daily and Cortifoam enemas were continued throughout admission while weekly methotrexate was held, given limited duration of stay.
+<< Transitional Issues  # Atrial fibrillation: He was discharged on home ER diltiazem, amiodarone (400mg tid x1 week, 400mg [**Hospital1 **] x1 week, 400mg daily x1 week, 200mg daily x1 week), and dabigatran, with close cardiology follow-up arranged.
+# Community-acquired pneumonia: He was discharged on cefpodoxime and azithromycin, for a total 10-day antibiotic course.
+Amitriptyline 10 mg PO HS 2.
+Diltiazem Extended-Release 240 mg PO DAILY 3.
+FoLIC Acid 1 mg PO QFRI 4.
+Hydrocortisone Acetate 10%  Foam 1 Appl PR DAILY 5.
+Methotrexate 2.5 mg PO QFRI 6.
+Omeprazole 20 mg PO DAILY 7.
+Sodium Bicarbonate 650 mg PO QID 8.
+Aspirin 325 mg PO DAILY 9.
+PredniSONE 10 mg PO DAILY 10.
+Ascorbic Acid 1000 mg PO DAILY 11.
+Vitamin B Complex 1 CAP PO DAILY   Discharge Medications: 1. home O2 Sig: Continuous home oxygen 2 L Disp: QS Diagnosis: COPD Oxygen saturation 85% on room air.
+Cefpodoxime Proxetil 400 mg PO Q12H Duration: 3 Days RX *cefpodoxime 200 mg 2 tablet(s) by mouth twice a day Disp #*24 Tablet Refills:*0 3.
+Amitriptyline 10 mg PO HS 4.
+Ascorbic Acid 1000 mg PO DAILY 5.
+Hydrocortisone Acetate 10%  Foam 1 Appl PR DAILY 6.
+Omeprazole 20 mg PO DAILY 7.
+PredniSONE 10 mg PO DAILY 8.
+Vitamin B Complex 1 CAP PO DAILY 9.
+Dabigatran Etexilate 150 mg PO BID RX *dabigatran etexilate [Pradaxa] 150 mg 1 capsule(s) by mouth twice a day Disp #*60 Capsule Refills:*0 10.
+Diltiazem Extended-Release 240 mg PO DAILY 11.
+FoLIC Acid 1 mg PO QFRI 12.
+Methotrexate 2.5 mg PO QFRI 13.
+Sodium Bicarbonate 650 mg PO QID 14.
+Azithromycin 250 mg PO DAILY RX *azithromycin 250 mg 1 tablet(s) by mouth once a day Disp #*6 Tablet Refills:*0   Discharge Disposition: Home With Service  Facility: Multicultural VNA  Discharge Diagnosis: Primary diagnoses: Atrial fibrillation with rapid ventricular response Healthcare-associated pneumonia   Discharge Condition: Mental Status: Clear and coherent.
+Yout atrial fibrillation initially was treated with amiodarone, which was later discontinued in the setting of breathing difficulty.
+You also were started on dabigatran for stroke prevention.
+You were found to have pneumonia during this admission and treated with intravenous antibiotics, including vancomycin, cefepime, and azithromycin.
+You did well and is currently off all intravenous medication and off O2 as well.
+-Please CONTINUE dabigatran, which was started in the hospital, until directed to discontinue by your cardiologist.

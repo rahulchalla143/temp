@@ -1,0 +1,46 @@
+Admission Date:  [**2150-1-17**]              Discharge Date:   [**2150-1-29**]  Date of Birth:  [**2074-4-3**]             Sex:   F  Service: MEDICINE  Allergies: Atorvastatin  Attending:[**First Name3 (LF) 905**] Chief Complaint: dyspnea  Major Surgical or Invasive Procedure: central venous line (subclavian) intubation  History of Present Illness: 75 yo female with PmHx of DM, asthma, HTN, hyperlipidemia who presented from her [**Hospital3 **] home [**1-17**] with respiratory distress.
+Of note, several medications were apparently changed [**1-13**] by her PCP, [**Name10 (NameIs) 19566**] initiation of Cardtia XT 300mg daily, with discontinuation of nifedipine.
+Micu course notable for resolution of her hyperkalemia, which was thought to be secondary to a combination acute on chronic renal failure and [**Last Name (un) **] toxicity, with resolution of normal sinus rhythm (rate in the 70s), and pressors were waned off on hospital day one.
+She was successfully extubated [**1-20**], though required intermittent noninvasive ventilation for hypercarbia thought to be secondary to combination of sedative medications and poor baseline respiratory status.
+She also was noted to be febrile, and was treated empirically for possible MRSA pneumonia (sputum cultures positive for MRSA), with defervescence on [**1-17**].
+Furthermore, discussion with outpatient psychiatrist revealed that patient has atypical reaction (extreme agitation/?psychosis) to midazolam, which may have contributed to her altered mental status during weaning period.
+She was also noted to have hypernatremia, which was thought to be secondary to crystalloid given during initial fluid resuscitation in the setting of acute renal insufficiency.
+?hepatic cyst, S/p right total knee replacement ([**2147**]).
+Status post right total knee replacement 2.
+Consequently, blood pressure normalized and patient was easily weaned off pressors on hospital day one.
+* RESPIRATORY DISTRESS: Patient was initially intubated upon arrival given hemodynamic collapse.
+However, patient was not extubated until hospital day 3, as patient was noted to be extremely agitated during spontaneous breathing trials despite excellent objective indications of successful extubation (low RSBI, appropriate respiratory rates and tidal volumes).
+Nonetheless, patient was successfully extubated, but required intermittent noninvasive ventilation for hypercarbia thought to be secondary to combination of sedative medications and baseline COPD.
+* BACTERIAL PNEUMONIA: Given above difficulty with extubation and intermittent fevers, sputum gram stain and cultures were sent, and patient was found to have MRSA pneumonia.
+Prior to microbiological data, patient was empirically started on levofloxacin and metronidazole, but vancomycin was added following identification of Staphylococcus aureus in sputum culture [**1-17**].
+This colony was later found to be oxacillin resistant, and patient was continued on vancomycin.
+Following medical stabilization, patient was restarted on quetiapine and valproic acid with PRN lorazepam for acute bouts of agitation.
+Quetiapine was uptitrated as needed.
+* HYPERNATREMIA: Thought to be due to large sodium load during initial fluid resuscitation in the setting of acute renal insufficiency.
+Patient was given a combination of free water boluses via NG tube and D5W to correct free water deficit 50%/day.
+* ACUTE ON CHRONIC RENAL FAILURE:  On admission, patient's creatinine was 2.7, thought to be secondary to hypoperfusion during bradycardic episode.
+She was started on losartan [**1-29**] and hydralazine was discontinued (due to concerns for compliance).
+Medications on Admission: albuterol prn, asa, Avandia, Depakote ER, Diovan, Prozac, Glucophage, lasix, lipitor, neurontin, Serax, seroquel, Cartia XT, oxycodone  Discharge Medications: 1.
+Heparin Sodium (Porcine) 5,000 unit/mL Solution Sig: One (1) ml Injection TID (3 times a day).
+Divalproex Sodium 500 mg Tablet Sustained Release 24HR Sig: Two (2) Tablet Sustained Release 24HR PO QHS (once a day (at bedtime)).
+Fluoxetine HCl 20 mg Capsule Sig: One (1) Capsule PO DAILY (Daily).
+Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 4 to 6 hours) as needed.
+Senna 8.8 mg/5 mL Syrup Sig: One (1) Tablet PO BID (2 times a day).
+Bisacodyl 5 mg Tablet, Delayed Release (E.C.)
+Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Gabapentin 300 mg Capsule Sig: One (1) Capsule PO DAILY (Daily).
+Bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal HS (at bedtime) as needed.
+Albuterol Sulfate 0.083 % Solution Sig: One (1) treatment Inhalation Q4H (every 4 hours) as needed for shortness of breath or wheezing.
+Quetiapine Fumarate 100 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.)
+Quetiapine Fumarate 25 mg Tablet Sig: 0.5 Tablet PO Q12H (every 12 hours) as needed.
+Ipratropium Bromide 0.02 % Solution Sig: One (1) treatment Inhalation Q4H (every 4 hours) as needed for shortness of breath or wheezing.
+Insulin NPH Human Recomb 100 unit/mL Suspension Sig: Twenty Four (24) Units Subcutaneous q am.
+Insulin NPH Human Recomb 100 unit/mL Suspension Sig: Twelve (12) units Subcutaneous at bedtime.
+Furosemide 40 mg Tablet Sig: 1.5 Tablets PO DAILY (Daily).
+Lactulose 10 g/15 mL Syrup Sig: Thirty (30) ML PO Q8H (every 8 hours) as needed.
+Metoprolol Succinate 25 mg Tablet Sustained Release 24HR Sig: One (1) Tablet Sustained Release 24HR PO DAILY (Daily).
+Diltiazem HCl 240 mg Capsule, Sustained Release Sig: One (1) Capsule, Sustained Release PO DAILY (Daily).
+Losartan Potassium 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Discharge Disposition: Extended Care  Facility: [**Hospital **] - [**Location (un) **]  Discharge Diagnosis: bradycardia hypotension bacterial pneumonia sepsis hypernatremia acute renal failure chronic renal failure   Discharge Condition: Good  Discharge Instructions: Please take all of your medications as prescribed.
+Provider: [**Name10 (NameIs) **],[**Name11 (NameIs) 9119**] [**Name12 (NameIs) 9120**] MEDICINE (PRIVATE) Where: ADULT MEDICINE UNIT [**Hospital3 **] HEALTHCARE - 1000 [**Location (un) **] - [**Location (un) 2352**], [**Numeric Identifier 9121**] Phone:[**Pager number **] Date/Time:[**2150-2-10**] 11:30                                [**Name6 (MD) 251**] [**Name8 (MD) **] MD [**MD Number(1) 910**]  Completed by:[**2150-1-29**

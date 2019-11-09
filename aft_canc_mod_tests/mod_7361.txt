@@ -1,0 +1,43 @@
+Admission Date:  [**2185-4-22**]              Discharge Date:   [**2185-5-4**]  Date of Birth:  [**2102-1-24**]             Sex:   F  Service: MEDICINE  Allergies: Beta-Adrenergic Blocking Agents / Pletal  Attending:[**First Name3 (LF) 1515**] Chief Complaint: Chest pain   Major Surgical or Invasive Procedure: Right heart catheterization   History of Present Illness: [**Known firstname 730**] [**Known lastname **] is an 83-year-old woman with h/o CAD s/p CABG in [**2158**] (LIMA->LAD,SVG->OM1,SVG->D1,SVG->PDA) prior DESx2->SVG to OM1, known occlusion of SVG->RCA, recent DES to SVG->D1 at OSH and [**2185-4-20**] with repeat DES to D1, HTN, hyperlipidemia, DM2, who was recently admitted with complaint of new chest pain [**4-19**] that felt like normal angina but more intense.
+During her admission, patient underwent cardiac catheterization, with anatomy as described below.
+ECG showed inferolateral ST depressions that resolved with resolution of patient's chest pain.
+HR in 70's, BP 120/70, RR 23, 93% on CPAP.
+Past Medical History: # CAD s/p MI and CABG '[**58**](LIMA->LAD,SVG->OM1,SVG->D1,SVG->PDA) - known occlusions of LMCA and SVG->RCA - s/p SVG->OM1 DES [**11/2177**] - [**6-28**] new stenosis SVG->OM1(prior [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) 8574**]) s/p DES - [**2-27**] SVG->D1 complex 95% stenosis w/ thrombus--> DES - [**3-31**] stenting of SVG-diagonal - Current anatomy as of [**2185-4-20**] was occluded LM, LAD, LCx, RCA 100% mid vessel, LIMA -> LAD (Patent w/ colaterals to RCA), SVG to OM patent with stents, SVG to D1 with 70% in stent restenosis, SVG to RCA is occluded.
+# Diastolic CHF with EF 50-55%, 1+AR, 1+MR in [**10-29**] # AFib,diagnosed at admission to [**Hospital3 **] [**2-/2184**] # Hyperlipidemia [**2-27**]; TC 146, LDL 56, HDL 73, TG 83 # DMII, HbA1c 7.2 [**2-27**] # HTN # PVD - s/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3098**] stent [**6-27**] - s/p Bilateral LE stents (not clear where) # COPD (FEV1 1.22 73% ), 120 PYHx of tobacco # Blepharitis # Left adrenal adenoma # R. renal mass s/p RF ablation .
+Percutaneous coronary intervention, anatomy as follows: - known occlusions of LMCA and SVG->RCA - s/p SVG->OM1 DES [**11/2177**] - [**6-28**] new stenosis SVG->OM1(prior [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) 8574**]) s/p DES - [**2-27**] SVG->D1 complex 95% stenosis w/ thrombus--> DES - [**3-31**] stenting of SVG-diagonal  .
+CV: PMI located in 5th intercostal space, midclavicular line.
+Pertinent Results: Admission labs: [**2185-4-21**] 06:50AM   WBC-12.1* RBC-4.04* HGB-11.6* HCT-33.6* MCV-83 MCH-28.7 MCHC-34.5 RDW-13.9 [**2185-4-21**] 06:50AM   PLT COUNT-268 [**2185-4-21**] 06:50AM   GLUCOSE-144* UREA N-24* CREAT-0.9 SODIUM-136 POTASSIUM-3.5 CHLORIDE-97 TOTAL CO2-29 ANION GAP-14 [**2185-4-22**] 12:40AM   NEUTS-87.5* LYMPHS-8.1* MONOS-3.8 EOS-0.3 BASOS-0.2 .
+Cardiac Enzymes: [**2185-4-21**] 06:50AM BLOOD CK(CPK)-59 [**2185-4-22**] 12:40AM BLOOD CK(CPK)-97 [**2185-4-22**] 06:23AM BLOOD CK(CPK)-99 [**2185-4-22**] 12:30PM BLOOD CK(CPK)-400* [**2185-4-22**] 08:31PM BLOOD CK(CPK)-428* [**2185-4-23**] 05:49AM BLOOD CK(CPK)-311* [**2185-4-24**] 06:30AM BLOOD CK(CPK)-125 [**2185-4-22**] 12:40AM BLOOD cTropnT-<0.01 [**2185-4-22**] 06:23AM BLOOD CK-MB-NotDone cTropnT-0.03* [**2185-4-22**] 12:30PM BLOOD CK-MB-44* cTropnT-0.38* proBNP-[**Numeric Identifier **]* [**2185-4-22**] 08:31PM BLOOD CK-MB-44* MB Indx-10.3* cTropnT-0.52* [**2185-4-23**] 05:49AM BLOOD CK-MB-27* MB Indx-8.7* cTropnT-0.83* [**2185-4-24**] 06:30AM BLOOD CK-MB-7 .
+EKG SR 76 IVCD anterolateral 1-3 mm downsloping STD 1 mm STE aVR 1 mm STD II,F (changes improved on pain-free EKG) .
+Chest X-ray ([**2185-4-22**]) - Increased interstitial opacities and tiny pleural effusions consistent with mild volume overload, stable cardiomegaly.
+ECHO ([**2185-4-22**]): The left atrium is normal in size.
+Left ventricular wall thicknesses and cavity size are normal.
+The pulmonary artery systolic pressure could not be determined.
+Compared with the prior study (images reviewed) of [**2184-3-8**], inferior hypokinesis was present on both studies, but is more pronounced now.
+Right Heart Catheterization: was performed by percutaneous entry of the right internal jugular vein, using a 7 French pulmonary wedge pressure catheter, advanced to the PCW position through an 8 French introducing sheath.
+IND {ml/min/m2} 125 A-V O2 DIFFERENCE {ml/ltr} 58 CARD.
+OP/IND FICK {l/mn/m2} 3.0/2.2 **RESISTANCES PULMONARY VASC.
+RESISTANCE 347 SVC LOW 59 PA MAIN 58 AO 96 COMMENTS: 1.
+Resting hemodynamics revealed normal right and left sided filling pressures with an RVEDP of 6 mmHg and a mean PCWP of 16 mmHg.
+There was a normal cardiac index of 2.2 L/min/m2.
+CT Chest ([**2185-4-28**])- Most recent chest CT showed moderate-to-severe emphysema, extensive right pleural calcification, probably restrictive, mild-to-moderate cardiomegaly, with particular left atrial enlargement possible chordopapillary calcification and probable pulmonary hypertension.
+Today's examination shows new small bilateral, nonhemorrhagic pleural effusions layering posteriorly and new heterogeneous opacification predominantly in the lung that is dependent with the patient supine, particularly pronounced in the posterior segment of the right upper lobe.
+Discharge labs: Na 130, K 4.9 Cl 92 Bicarb 29 BUN 42 Creat 1.2 Hct 29, WBC 12.4 Plt 360   Brief Hospital Course: 83F with CAD s/p CABG with extensive native vessel diffuse s/p taxus stent to SVG-diag on [**4-20**], HTN, COPD, DM, presenting with unstable angina and acute on chronic diastolic heart failure and profound new hypoxia.
+# NSTEMI: Patient with crescendo chest pain prompting admission and had NSTEMI with peak CK 428, MB 44 and TropnT 0.38.
+It was decided not to proceed to cardiac catheterization given the recent cardiac cath showing no intervenable lesions and patient was started on ranexa for management of chronic angina.
+Pulmonology was [**Hospital1 4221**] for further recommendations.
+A Chest CT was performed that showed small bilat pulmonary effusions, mild-to-moderate pulmonary edema and right upper lobe consolidation could be either pneumonia, hemorrhage, or edema.
+Her COPD was well controlled on Advair and Spiriva.
+#Hypertension: Patient's home blood pressure medications were uptitrated to achieve goal systolic blood pressure of 90-110. .
+She should have blood sugar checks before meals with humalog sliding scale as ordered.
+#Leukocytosis: Patient had a leukocytosis on admission with no clinical history to suggest infectious source, Urinalysis was negative, chest X-ray showed asymmetrical opacifications but not clear pneumonia.
+She remained afebrile and white count trended down during admission without antibiotics.
+# Decreased esophageal motility: Swallow evaluation initiated to assess whether silent aspiration contributing to hypoxia.
+We started a new medicine, Ranexa, to help decrease the chest pain.
+Torsemide: a diuretic to prevent fluid buildup 5.
+Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight > 3 lbs in 1 day or 6 pounds in 3 days.
+Please call Dr. [**Last Name (STitle) **] if you have further chest pain, trouble breathing, increasing swelling in your legs, light headedness, coughing up blood, or any other unusual symptoms.
+Followup Instructions: Cardiology: Provider: [**First Name11 (Name Pattern1) 2053**] [**Last Name (NamePattern4) 2761**], MD Phone:[**Telephone/Fax (1) 8645**] Date/Time:[**2185-6-7**] 4:00 .
+Primary Care: [**Last Name (LF) **],[**First Name8 (NamePattern2) 1141**] [**Last Name (NamePattern1) 2671**] Phone: [**Telephone/Fax (1) 4775**] Date/time: [**5-18**] at 9:00am.
+Podiatry: Provider: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 722**], DPM Phone:[**Telephone/Fax (1) 8645**] Date/Time:[**2185-6-8**] 11:00 .
+Urology: Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 11190**], MD Phone:[**Telephone/Fax (1) 8645**] Date/Time:[**2185-6-30**] 9:15 .

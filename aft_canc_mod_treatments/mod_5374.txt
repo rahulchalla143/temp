@@ -1,0 +1,36 @@
+Admission Date:  [**2131-12-31**]              Discharge Date:   [**2132-2-11**]  Date of Birth:  [**2075-11-11**]             Sex:   F  Service: MEDICINE  Allergies: Cefepime / Aztreonam  Attending:[**First Name3 (LF) 3913**] Chief Complaint: Hemodynamic instability s/p VATS  Major Surgical or Invasive Procedure: VATS, thoracotomy, chest tubes, BAL, intubation  History of Present Illness: 56-year-old woman with a history of [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 5622**] chromosome ALL s/p allogeneic transplant, s/p DLI with subsequent severe GVHD (diagnosed via transjugular liver biopsy) originally admitted on [**12-30**] for failure to thrive and fall, now with prolonged loculated hemothorax s/p R VATS converted to open thoracotomy, evacuation and decortication.
+Hospital course on that admission was complicated by a tension pneumothorax following biopsy which required a pigtail catheter on [**2131-12-4**] which did not resolve pneumothorax and a surgical chest tube was placed [**12-4**].
+Following this pt developed a hemothorax and a significant drop in hematocrit however pneumothorax did not improve and an adidtional Due chest tube was placed [**12-5**].
+Chest tube was eventually d/c'd on [**2131-12-16**] and a CXR prior to discharge was notable only for a tiny residual right apical pneumothorax and stable small right-sided loculated pleural effusion.
+During her follow-up visit with her Oncologist pt was noted to have weight loss (lost approx 40lbs over the past 3 months) that was attributed to her GVHD.
+Patient was started on Vancomycin, Zosyn, and Flagyl on [**1-2**].
+Patient was started on pressor therapy with Phenylephrine.
+She received adenosine push 6 mg IV.
+She was given amiodarone 150 mg IV bolus followed by loading drip.
+She also received lopressor 5mg x2, neosynephrine drip, and IV fluid bolus.
+Cardiology consult was obtained and they recommened completion of amio IV loading and possible elective DCCV.
+In the MICU patient was continued on antibiotics.
+Past Medical History: PAST ONCOLOGICAL HISTORY: [**Location (un) 5622**] chromosome positive ALL, status post allogeneic transplant with evidence of disease recurrence.
+Her last dose of cyclosporine was on [**2131-7-28**] and last dose of prednisone was on [**2131-7-24**].
+She was ultimately admitted on [**2131-8-10**] for part A of hyper-CVAD regimen (without CNS treatment) with Gleevec.
+Chest tube remains in place and post-surgical changes are again seen in the right hemithorax.
+Brief Hospital Course: 56-year-old woman with a history of [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 5622**] chromosome ALL s/p allogeneic transplant s/p DLI in remission with subsequent severe GVHD who on this admission underwent thoracotomy for empyema.
+DEATH SUMMARY: Pt was initially admitted for complicated empyema for which she was treated with 3 chest tubes and antibiotics by the SICU team prior to transfer to the medical floor.
+Meropenem was kept on long after finishing treatment for empyema & bacteremia because of concern for infection given that she still had 3 chest tubes in place.
+Thoracics was removing her chest tubes over time and her second tube was removed 2 days prior to her transfer to the ICU.
+CXRs were obtained after every adjustment of her chest tubes.
+Her pain was controlled with IV morphine sulfate with a continuous basal amount through a PCA and PO morphine sulfate for breakthrough pain.
+From an infectious point of view, meropenem was ultimately stopped because the patient developed c diff which resolved quickly on oral vancomycin.
+She was later started on levofloxacin for treatment of a UTI.
+Because she had ALL and was in remission she was continued on her acyclovir, inhaled pentamidine, and micofungin (she had previously been on caspofungin but this was discontinued in the setting of rising LFTs).
+Her GVHD was likely repsponsible for her rising LFTs and her steroid dose was adjusted during her hospital stay.
+Her metoprolol dose was adjusted to treat her worsening HTN in the setting of her increased dose of cellcept.
+The patient was improving markedly and the plan was for her final chest tube to be pulled, her diet to be advanced, and to soon be discharged.
+After sitting down for a while she suddenly complained of shortness of breath and the nurse placed her on 2L nasal canula for comfort despite a normal oxygen saturation.
+She was rushed to the CT scanner where she required Ativan due to starting to seize.
+Following the presence of increased Cheynne-[**Doctor Last Name **] and apneic episodes concerns for airway protection prompted an intubation.
+Several hours following intubation she was noted to have fully dilated and fixed bilateral pupils.
+The CT of the head showed extensive multifocal infarctions with dramatic increase in cerebral edema, new herniation of the cerebellar tonsils, and leftward subfalcine herniation.
+Given her situation, the decision was made by family for comfort measures only.
+Medications on Admission: Pyridoxine 100 mg PO DAILY Folic Acid 1 mg PO DAILY Acyclovir 400 mg PO Q8H Lorazepam 0.5 mg PO Q8H PRN Pantoprazole 40 mg PO Q24H Zolpidem 5 mg PO HS PRN Gabapentin 300 mg PO Q12H Budesonide 3 mg PO Q 8H Loperamide 2 mg PO QID Methylprednisolone 15mg IV qam and 10mg IV qpm Mycophenolate Mofetil 1000mg po bid Senna 8.6 mg PO BID PRN Oxycodone 20 mg SR PO q12H Docusate Sodium 100 mg [**Hospital1 **] Oxycodone 5-10 mg q6hours PRN Ursodiol 300 mg PO TID Atenolol 25mg po daily Potassium Chloride 20mg daily Caspofungin 35mg IV daily .
+Meds on transfer from floor: Fentanyl 25-100 mcg IV q4h prn Midazolam 1-2 mg IV q2h prn Lidocaine patch Hydrocortisone 100 mg IV q8h Linezolid 600 mg IV q12h Amiodarone drip Esmolol drip at 100 mcg/kg/min Mycophenolate Mofetil 500 mg IV bid Tobramycin 100 mg IV q8h Meropenem 500 mg IV q6h Phenylphrine 1 mcg/kg/min Vasopressin 1.2 units/hr Potassium sliding scale Calcium gluconate sliding scale Chlorhexidine Pantoprazole 40 mg IV q24h Acyclovir 400 mg IV q8h Caspofungin 35 mg IV q24h Insulin sliding scale .

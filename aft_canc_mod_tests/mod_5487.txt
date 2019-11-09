@@ -1,0 +1,33 @@
+The WBC rose today, however, and an abdominal CT was planned, but the pt became acutely hypotensive, tachypneic, and diaphoretic this morning.
+EKG showed q waves and 1 to 1.
+Labs showed CPK 68, Trop 3.570, Cre 2.8, lactate 1.9.
+ECHO with LVEF 30-35% with akinesis of the inferior, inferoseptal, and inferolateral walls (no priors for comparison).
+With a diagnosis of acute inferior myocardial infarction, the patient is being transferred to [**Hospital1 18**]-[**Location (un) 86**] for cardiac catheterization.
+PULSES: Right: Carotid unable to palpate [**1-2**] CVL, Femoral unable to palpate [**1-2**] femoral sheath, DP 1+ PT 1- Left: Carotid 2+ Femoral 1+ DP 1- PT 1-  Pertinent Results: [**10-24**] UCx: E. COLI.
+[**10-24**] cdiff: POSITIVE [**10-25**] cdiff: negative [**10-26**] cath tip: NGTD [**10-26**] BCx: NGTD [**10-26**] presacral fluid cx: BACTEROIDES FRAGILIS [**10-26**] cdiff: negative [**10-27**] sputum: NGTD [**11-5**] MRSA: negative [**11-11**] UCx: NGTD [**11-11**] sputum: KLEBSIELLA OXYTOCA resistant to zosyn, sensitive to cefepime [**11-11**] BCx: NGTD [**11-12**] MRSA: negative [**11-14**] BAL: yeast, KLEBSIELLA OXYTOCA sensitive to cefepime [**11-15**] BCx: pend [**11-15**]: pelvic abscess: YEAST [**11-15**]: ascites: NGTD [**11-15**] BCx (mycolytic): NGTD [**11-15**] BCx (m. furfur): NGTD [**11-17**] BCx: pending [**11-19**] MRSA: negative [**11-20**] urine: NGTD [**11-20**] BAL: KLEBSIELLA OXYTOCA .
+[**11-12**] ECHO - EF 35% 12/13 CXR - some increase in the lung volumes [**11-13**] RUQ US - large amt of R intraperit ascites.
+[**11-14**]: CT abdomen: anastomatic leak; pelvic drain superficial, likely just subq [**11-16**] CXR: continued opacification in the retrocardiac region consistent with volume loss in the left lower lung [**11-17**] ECHO: similar to prior study from [**11-12**].
+LVEF 35% 12/18 CXR: redemonstration of small pleural effusions and increased density in the retrocardiac area c/w atelectasis or consolidation.
+[**11-18**] CXR: No significant interval change [**11-18**] KUB: Limited study demonstrating findings consistent with ascites [**11-19**] CXR: Small stable bilateral pleural effusions and associated atelectases with continued mild pulmonary edema [**11-21**] CXR: Increased bilateral pleural effusions, increased moderate pulmonary edema [**11-22**] CXR: maybe mild increase in extent of R pleural effusion.
+[**11-23**]: kidney US shows: no hydronephrosis and color Doppler flow to the kidneys bilaterally [**11-25**] CXR: no other relevant changes .
+[**2181-10-24**] 11:11PM BLOOD WBC-19.9* RBC-2.48* Hgb-7.7* Hct-22.4* MCV-90 MCH-31.0 MCHC-34.3 RDW-16.4* Plt Ct-248 [**2181-11-26**] 03:38AM BLOOD WBC-19.0* RBC-3.44* Hgb-11.2* Hct-33.6* MCV-98 MCH-32.4* MCHC-33.2 RDW-26.1* Plt Ct-100* .
+[**2181-10-24**] 11:11PM BLOOD PT-27.5* PTT-81.1* INR(PT)-2.7* [**2181-11-26**] 03:38AM BLOOD PT-19.6* PTT-41.6* INR(PT)-1.8* .
+[**2181-10-24**] 05:50PM BLOOD Glucose-208* UreaN-69* Creat-2.9*# Na-132* K-4.6 Cl-99 HCO3-21* AnGap-17 [**2181-11-26**] 03:38AM BLOOD Glucose-105* UreaN-129* Creat-4.2* Na-134 K-5.2* Cl-102 HCO3-18* AnGap-19 .
+[**2181-10-24**] 05:50PM BLOOD ALT-73* AST-150* LD(LDH)-294* AlkPhos-110 TotBili-0.5 [**2181-11-26**] 03:38AM BLOOD ALT-47* AST-74* AlkPhos-303* TotBili-17.8* .
+[**2181-10-24**] 11:11PM BLOOD CK-MB-10 MB Indx-5.0 cTropnT-2.75* [**2181-11-22**] 02:47AM BLOOD CK-MB-2 cTropnT-0.29* .
+[**2181-10-25**] 04:37AM BLOOD Albumin-3.0* Calcium-6.9* Phos-4.6* Mg-1.8 [**2181-11-24**] 01:43AM BLOOD Albumin-3.0* Calcium-8.5 Phos-5.0* Mg-2.4 .
+Brief Hospital Course: The patient was transferred from [**Hospital1 18**]-[**Location (un) 620**] to [**Hospital1 18**]-[**Location (un) 86**] for management of the MI, for which he underwent a cardiac catheterization involving placement of 5 bare-metal stents by interventional cardiology on [**2181-10-24**].
+The following day an abdominal CT showed a pre-sacral abscess insufficiently controlled by the operatively-placed JP drain, for which a CT-guided pigtail catheter was placed by interventional radiology on [**2181-10-26**].
+The patient's mental status was slow to awaken, Head CT on [**10-29**] was negative for acute pathology, all sedation and narcotic medication was held, and eventually his mental status improved to permit extubation, and eventually transfer to the floor on [**2181-11-6**].
+High ileostomy outputs revealed CDiff enteritis, for which IV Flagyl and later vancomycin via both NGT and enema (via the distal limb of the ileostomy) were instituted.
+LFTs were mildly elevated, with INR ~2.0; a RUQ U/S was negative and presumably due to malnutrition and sepsis.
+A gastrograffin enema on [**2181-11-7**] revealed no anastomotic leak; the JP drain was subsequently discontinued.
+A bronchoalveolar lavage revealed a klebsiella PNA, resistant to zosyn, so the zosyn was switched to cefepime.
+Abdominal CT scan revealed persistence of the the anastomotic leak, a residual sacral collection, and dislodgement of the pigtail drain.
+The recent CT also revealed large-volume ascites; abdominal exam revealed significant distension and the ventilator pressures were increased as well.
+[**Name (NI) 1917**], pt developed worsening abdominal distension as well as grossly bloody ileostomy output, with a Hct that was now 17 from 27, and rising pressor requirements.
+The ileostomy output ceased but he developed worsening abdominal distension, increasing peak inspiratory pressures, increasing pressor requirements, consistent with an abdominal compartment syndrome.
+He was taken emergently to the OR on [**11-16**] for decompressive laparotomy, evacuation of 6500cc of clot, but no bleeding source could be identified; no bowel ischemia was noted.
+In light of holding the aspirin and plavix, cardiac enzymes were cycled and noted to be rising.
+Echocardiogram revealed no evidence of new MI and cardiology consult agreed, with recommendation to resume antiplatelet therapy once able, which was done one week later.
+Later, his renal function declined with rising creatinine and progressive oliguria, leading to worsening volume overload.

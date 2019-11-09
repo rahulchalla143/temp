@@ -1,0 +1,63 @@
+Admission Date:  [**2145-7-15**]              Discharge Date:   [**2145-7-22**]  Date of Birth:  [**2061-6-13**]             Sex:   M  Service: MEDICINE  Allergies: Aspirin / Ace Inhibitors  Attending:[**First Name3 (LF) 613**] Chief Complaint: Abdominal pain  Major Surgical or Invasive Procedure: Endoscopic retrograde cholangiopancreatography Sphincterotomy Percutaneous cholecystostomy [**2145-7-17**] PICC placement [**2145-7-21**]   History of Present Illness: [**Known firstname **] [**Known lastname **] is an 84-yo man with history of a-fib and hypercholesterolemia who presents with right sided abdominal pain that started on the night prior to admission.
+Pt was given Zosyn and 500cc NS.
+Patient was given metoprolol succinate 50mg po (home dose) for atrial fibrillation with RVR.
+General surgery and ERCP services were consulted.
+SKIN: Ecchymosis over left femoral distribution, purple in color.
+Given high clinical suspicion of cholangitis, a sphincterotomy was performed in the 12 o'clock position using a sphincterotome over an existing guidewire.
+A sphincterotomy was performed.
+He was started first on zosyn 4.5 g IV and was transferred to the surgery service.
+The patient had a US-guided transhepatic percutaneous cholecystostomy drain placed on [**2145-7-17**].
+Antibiotic coverage was changed from zosyn to unasyn.
+LFTs were monitored, with continued decline in total bilirubin.
+Alkaline phosphatase remained elevated to 170s with increase to 238 on day of discharge, while AST and ALT have peaked in the 60s and 70s.
+Interventional radiology has recommended repeating a RUQ US to assess drain location if LFTs become abnormal.
+The patient continued to have drainage from his cholecystostomy drain, and his pain resolved.
+Cultures of his drainage have grown Streptococcus anginosus and Clostridium perfringens.
+He will need to complete a 14-day course of unasyn, starting on [**2145-7-17**], and follow-up with surgery to discuss cholecystectomy.
+The oral metoprolol was increased, and he was given IV metoprolol.
+He was given diltiazem 10 mg IV x1 and started on diltiazem 30 mg IV q6h in addition to metoprolol 100 mg IV tid with heart rate improving to 60s-80s.
+He was titrated down to metoprolol succinate 200mg and no dilt on discharge.
+He was noted to be very hypervolemic from his admission, with a roughly 6 kg increase from baseline (92.7 kg, pt.
+He was diuresed with good response to doses of furosemide 20 mg IV with goal of 0.5-1.0L per day.
+Notably, the patient was reluctant to begin aspirin therapy due to a remote history of duodenal ulcer.
+Anticoagulation was initially held due to recent sphincterotomy until [**2145-7-20**].
+On [**2145-7-21**], the patient was started on aspirin 325 mg qday after confirmation of negative H. pylori testing after treatment roughly 1 year prior per the patient.
+He was also continued on omeprazole 20 mg po qday for GI protection.
+The patient's PCP was [**Name (NI) 653**], with plan made to defer discussion of warfarin or digibatran after hospital discharge per request of the PCP.
+# Hyperlipidemia: The patient's home statin was held due to elevations in LFTs and transhepatic cholecystostomy placement, with plan to restart once his LFTs improve.
+# Hypertension: The patient's home nifedipine was stopped in the setting a-fib and rate control.
+He is now on metoprolol succinate with BP well controlled.
+He will need continued BP monitoring.
+# Urinary retention: The patient has a history of prostate cancer with radical prostatectomy.
+Urology was consulted on admission and placed a Foley catheter, with recommendation to keep Foley in place until [**2145-7-27**] due to  bladder neck constriciton.
+# Hyperlipidemia: The patient's home statin was continued during hospitalization.
+Cholecysititis/drain: Monitor percutaneous drain output daily; order LFTs biweekly, and follow-up with surgery.
+If LFTs abnormal, IR has suggested repeat RUQ US to assess drain location.
+Diuresis: Plan for giving furosemide 20 mg IV qam on [**2145-7-23**] and [**2145-7-24**], with strict I&IOs, goal of negative 0.5-1L daily until clinically euvolemic, monitoring Chem7 for renal dysfunction.
+After [**2145-7-24**], please assess the patient clinically and continue diuresis as needed.
+Wound monitoring: Patient has wound s/p excision of squamous cell carcinoma on his shin.
+Medications on Admission: Metoprolol succinate 50 mg once a day Nifedipine 30 mg Tablet Extended Release once a day Omeprazole 20 mg once a day Simvastatin 40 mg once a day  Discharge Medications: 1.
+Heparin Flush (10 units/ml) 2 mL IV PRN line flush PICC, heparin dependent: Flush with 10mL Normal Saline followed by Heparin as above daily and PRN per lumen.
+3. ampicillin-sulbactam 3 gram Recon Soln Sig: Three (3) grams Injection Q6H (every 6 hours) for 10 days: last day is [**2145-7-30**], to complete a 14 day course.
+4. heparin (porcine) 5,000 unit/mL Solution Sig: One (1) Injection TID (3 times a day).
+5. omeprazole 20 mg Capsule, Delayed Release(E.C.)
+6. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+7. metoprolol succinate 100 mg Tablet Extended Release 24 hr Sig: Two (2) Tablet Extended Release 24 hr PO at bedtime: hold for sbp<90, hr<60.
+8. cholecalciferol (vitamin D3) 1,000 unit Capsule Sig: One (1) Capsule PO once a day.
+9. acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed for Pain: do not exceed more than 2000mg per day.
+10. furosemide 10 mg/mL Solution Sig: Twenty (20) mg Injection once a day for 2 days: Start on [**2145-7-23**].
+Discharge Disposition: Extended Care  Facility: [**Hospital **] Hospital for Continuing Medical Care  Discharge Diagnosis: Primary -Acute cholecystitis  Secondary -Atrial fibrillation with rapid ventricular response -Right sided heart failure, with normal left ventricular ejection fraction -pulmonary hypertension -prostate ca s/p resection with bladder neck stricture   Discharge Condition: Mental Status: Clear and coherent.
+You required a procedure (ERCP) to look for blockage of your gall bladder and placement of a gall bladder drain (cholecystostomy tube).
+You were started on intravenous antibiotics.
+Your liver and gallbladder are now improving, but you will need surgery at a future date.
+You were started on medications to control the heart rate and aspirin to prevent clots from forming in the heart.
+Due to the risk of stroke associated with this condition, you will need to discuss being on blood thinners with your doctor.
+You initially required a large volume of intravenous fluids, and we have begun removing this extra volume with medications (diuretics).
+Your breathing has improved as a result, and you will continue this process during rehabilitation.
+A catheter was placed, with plans for removal in 1 week in rehabilitation.
+- Simvastatin was stopped for now due to your liver test abnromalities.
+- Aspirin was started to prevent stroke from your atrial fibrillation.
+- Metoprolol was increased to control your heart rate.
+- Nifedipine was stopped as your blood pressure remained normal after treatment for your heart rate.
+- Ampicillin-sulbactam was started to treat your infection  Followup Instructions: Please make an appointment with your primary doctor for follow-up care before leaving rehabilitation.
+Please call him and report the results of your voiding trial after your Foley catheter is removed.

@@ -1,0 +1,54 @@
+Admission Date:  [**2184-1-29**]              Discharge Date:   [**2184-2-2**]  Date of Birth:  [**2125-7-17**]             Sex:   M  Service: MEDICINE  Allergies: Lipitor / Tricor  Attending:[**First Name3 (LF) 6734**] Chief Complaint: DKA  Major Surgical or Invasive Procedure: None  History of Present Illness: 58-year-old man with ESRD secondary to type I DM s/p living unrelated renal transplant on [**2179-6-16**] presenting with DKA in setting of gastroenteritis and insulin noncompliance.
+Pt states that he felt too unwell to go upstairs to retrieve his medications and thus did not take his medications, including his insulin, for the last three days.
+Prior to this, he reports good medication compliance, including compliance with his insulin (recently changed to humulin R U 500 30 units/meal).
+He presented to OSH ED where he was noted to be in DKA and started on IV insulin drip at 2units/hr.
+At [**Hospital1 18**] ED, he received Regular insulin 10units and placed on drip at 10units/hr.
+He also received zofran, morphine and hydrocortisone prior to transfer to ICU.
+Denies urinary/fecal incontinence/retention and saddle anesthesia.
+Denies chest pain, chest pressure, palpitations, or weakness.
+Past Medical History: - DM type I complicated by peripheral neuropathy - ESRD s/p renal transplant - Hypertension - Hyperlipidemia - Morbid obesity - ?CAD: stress test [**11-6**] that demontrated some mild ischemia in the posterior wall and some hypokinesis.
+Cardiac Cath-no significant disease requiring intervention - Hypothyroidism - Sarcoid, based on granuloma on lung scan  Social History: Lives with wife [**Name (NI) 55745**] and 1 dog.
+Right foot with superficial ulcer on medial aspect, dressed.
+Brief Hospital Course: 58 year-old man with ESRD s/p type DM I s/p living unrelated renal transplant on [**2179-6-16**] presenting with DKA in setting of gastroenteritis and insulin noncompliance.
+Likely triggered by recent gastroenteritis and subsequent insulin noncompliance.
+Patient was continued on insulin gtt and the anion gap closed.
+[**Last Name (un) **] was consulted and recommended starting his home insulin regimen at a decreased dose (100units Q8h rather than 150units Q8h).
+Insulin was further reduced to 80units Q8 hours.
+Per renal we continued tacrolimus 5mg [**Hospital1 **], prednisone 5mg daily, and bactrim prophylaxis, and changed MMF to 1000mg [**Hospital1 **].
+His furosemide was increased from 40 mg daily to 40 mg [**Hospital1 **].
+Continued home doses of metoprolol and isosorbide mononitrate.
+Restarted lasix at 40 [**Hospital1 **] for volume overload (see above) .
+#Insulin dose: While in the hospital his insulin was decreased from his home dose of 150units TID to 80units of TID because of hypoglycemia with higher doses.
+#Fenofibrate: This medication is listed in his current medications but also as an allergy.
+His furosemide was increased from 40 mg daily to 40 mg [**Hospital1 **].
+Bactrim SS 1 tablet daily 3.
+Metoprolol Succ 25mg QAM, 12.5mg QPM 4.
+Levothyroxine 100mcg daily 6.
+Prednisone 5mg daily 10.
+Lasix 40mg daily 12.
+Aspirin 325mg daily 13.
+Vicodin prn back pain 15.
+Humulin R U500 150 units/meal  Discharge Medications: 1. folic acid 1 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+2. sulfamethoxazole-trimethoprim 400-80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+3. metoprolol succinate 25 mg Tablet Extended Release 24 hr Sig: One (1) Tablet Extended Release 24 hr PO QAM (once a day (in the morning)).
+4. metoprolol succinate 25 mg Tablet Extended Release 24 hr Sig: 0.5 Tablet Extended Release 24 hr PO HS (at bedtime).
+5. levothyroxine 100 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+6. isosorbide mononitrate 30 mg Tablet Extended Release 24 hr Sig: One (1) Tablet Extended Release 24 hr PO DAILY (Daily).
+7. rosuvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+8. tacrolimus 5 mg Capsule Sig: One (1) Capsule PO Q12H (every 12 hours).
+Disp:*60 Capsule(s)* Refills:*0* 9. prednisone 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+10. ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+11. furosemide 40 mg Tablet Sig: One (1) Tablet PO twice a day.
+Disp:*60 Tablet(s)* Refills:*0* 12. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+13. mycophenolate mofetil 500 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day).
+Vicodin 5-500 mg Tablet Sig: One (1) Tablet PO every six (6) hours as needed for pain.
+15. insulin regular hum U-500 conc 500 unit/mL Solution Sig: Eighty (80) units Injection three times a day: with meals.
+Discharge Instructions: Dear Mr [**Known lastname 4901**], You were in the hospital because you had a medical condition from very high blood sugar called diabetic ketoacidosis.
+This happened because you were not taking your insulin and you had an infection called gastroenteritis.
+We made some changes in your insulin schedule.
+You should make sure to continue taking your insulin as directed (see below).
+You should also keep taking all other medications as you have been.
+Medication Changes Summary: Please take Humulin R U500 80 units/meal Please take tacrolimus 5mg twice a day Please increase your furosemide (Lasix) to 40mg twice a day until you see your PCP, [**Name10 (NameIs) 1023**] will decide whether to go back to your home dose.
+Please continue to take all other medications as you have been.
+Followup Instructions: Please call your PCP's office tomorrow to schedule a follow up appointment for Thursday or Friday so they can decide what to do about your Lasix (furosemide) dosing.
+[**Hospital1 18**] - Division of Nephrology [**Last Name (NamePattern1) 439**], LMOB #7 [**Location (un) 86**], [**Numeric Identifier 718**] Phone: [**Telephone/Fax (1) 673**]                                [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] MD [**MD Number(2) 6735**]

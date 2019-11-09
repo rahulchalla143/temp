@@ -1,0 +1,52 @@
+Admission Date:  [**2150-3-15**]              Discharge Date:   [**2150-3-24**]  Date of Birth:  [**2075-1-1**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 2297**] Chief Complaint: New onset atrial fibrillation, poor urine output  Major Surgical or Invasive Procedure: RIJ CVL placement and removal Arterial line placement RIJ temporary HD catheter placement R PICC placement Hemodialysis   History of Present Illness: 75 yo M h/o obesity, DM2, CRI (baseline cr 2.5), CHF, chronically vent dependent [**1-17**] [**12-23**] PNA, presented from [**Hospital 671**] Rehab after pt was noted to be in new atrial fibrillation.
+The pt was started on a 2 week course of linezolid and imipenem.
+Past Medical History: # DM2 # CRI (baseline 2.5) # CHF # Trached and vent dependent [**1-17**] PNA # Morbid obesity   Social History: lives with wife, who is HCP  Family History: Non-contributory  Physical Exam: # VS: T102.4, BP117/65, HR151, RR32, O2sat 91, PS 15/10 Fi 100%  Gen: slightly anxious, mouthing answers to questions appropriately HEENT: MM dry CV: irreg irreg, tachy, no murmurs Chest: diffusely poor air movement, minimal at bases Abd: obese, soft, NT, ND, +BS Ext: brawny edema in LE, venous stasis changes Neuro: following commands   Pertinent Results: Admission Labs:  [**2150-3-15**] 09:05PM BLOOD WBC-10.7 RBC-3.73* Hgb-10.4* Hct-32.8* MCV-88 MCH-27.9 MCHC-31.8 RDW-18.7* Plt Ct-174 [**2150-3-15**] 09:05PM BLOOD Neuts-86.2* Bands-0 Lymphs-8.9* Monos-1.7* Eos-3.0 Baso-0.3 [**2150-3-15**] 09:05PM BLOOD PT-15.0* PTT-31.5 INR(PT)-1.3* [**2150-3-15**] 09:05PM BLOOD Glucose-129* UreaN-129* Creat-4.4* Na-137 K-4.7 Cl-99 HCO3-24 AnGap-19 [**2150-3-15**] 09:05PM BLOOD ALT-5 AST-13 CK(CPK)-11* AlkPhos-169* TotBili-0.3 [**2150-3-15**] 09:05PM BLOOD CK-MB-3 proBNP-[**Numeric Identifier **]* [**2150-3-15**] 09:05PM BLOOD cTropnT-0.20* [**2150-3-15**] 09:05PM BLOOD Albumin-2.6* Calcium-8.4 Phos-4.6* Mg-2.2 .
+A PICC line from a right upper extremity approach is evident with the line extending at least to the superior vena cava.
+Bronchoscopy [**3-24**]: No evidence of trauma, thin frothy pink secretions consistent with pulmonary edema.
+# Sepsis: Patient met SIRS criteria with temperature >102 and hypotension with SBP 80s.
+He was given broad spectrum abx including linezolid given his h/o VRE, cefepime for broad gram neg coverage in this longterm rehab and hospital resident, as well as his home flagyl.
+A RIJ CVL was placed for pressors and CVP monitoring.
+He was given IVF to maintain CVP>8 and initially required neo to maintain MAP >60.
+Pressors were weaned off on HD #2.
+He was continued on meropenem and his flagyl and linezolid were discontinued.
+He was continued on meropenem to cover possible pulmonary infection as well as UTI, last dose to be given [**2150-3-25**].
+On prior admit he required aggressive treatment with pressors to resume UOP after being oliguric for a period.
+A trial of diuresis with diuril 500mg and lasix 160mg was attempted per renal with only 60cc of UOP.
+Given his volume overload and oliguria a temporary RIJ HD line was placed by IR on [**3-20**] and HD was initiated the same day.
+His medications were renally dosed.
+Was on broad-spectrum antibiotics with GNR in sputum.
+He was primarily maintained on PS ventilation 12/5, however patient was subjectively SOB and his pressure support was increased to 15 on [**3-20**] despite stable O2 sats.
+He did not have a significant amount of secretions and remained afebrile and his b/l infiltrates were felt to be [**1-17**] pulmonary edema rather than infection.
+He was initiated on HD for fluid removal on [**3-20**].
+He was started on Klonopin and Celexa on [**3-21**] to be uptitrated as necessary.
+His coumadin was held and decision to restart deferred *****.
+He was started on low dose BB for rate control with good effect.
+Once his PICC and HD line were placed he was started on coumadin.
+He should continue his coumadin dose with close INR monitoring - every three days for the first two weeks, and then prn for appropriate coumadin dose adjustments to keep INR at goal of [**1-18**].
+# hemoptysis: on the day of discharge the patient was having scant hemoptysis and bronchoscopy was performed.
+# DM2: He was maintained on his outpatient regimen of lantus 54units qam and RISS.
+# ppx: he was kept on PPI while in-house but this is discontinued as of [**3-24**], no heparin to be given after discharge as he is therapeutic on warfarin.
+# Access: R IJ removed [**3-19**], R PICC placed [**3-19**], RIJ temp HD line placed [**3-20**].
+# Code: Full (per discussion with wife and son)  Medications on Admission: lantus 54 units QAM pro-amatine 5 mg daily aranesp 40 mcg novolog sliding scale lactulose 30 mL qid combivent 4 puffs qid silvadene desenex vitamin c dulcolax phoslo 667 mg tid nexium 40 mg daiily asa 81 mg daily flagyl 500 mg tid tylenol bicitra 30 ml [**Hospital1 **] heparin 5000 tid zocor   Discharge Medications: 1.
+Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed.
+Albuterol 90 mcg/Actuation Aerosol Sig: Four (4) Puff Inhalation Q6H (every 6 hours).
+Ipratropium Bromide 17 mcg/Actuation Aerosol Sig: Four (4) Puff Inhalation QID (4 times a day).
+Simvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO TID (3 times a day): Hold for SBP<100 or HR <65.
+Warfarin 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+Citalopram 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Clonazepam 0.5 mg Tablet Sig: One (1) Tablet PO TID PRN () as needed for anxiety.
+Trazodone 50 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) as needed for insomnia.
+Meropenem 500 mg Recon Soln Sig: 500mg Recon Solns Intravenous Q12H (every 12 hours) for 1 days.
+Insulin Glargine 100 unit/mL Solution Sig: Fifty Four (54) units Subcutaneous qam.
+Insulin Regular Human 100 unit/mL Solution Sig: per sliding scale per sliding scale Injection with meals.
+You were started on an IV antibiotic called meropenem and will need to complete a 10-day course.
+You were started on a medication called metoprolol to help control your heart rate.
+Given your increased risk of stroke you were also started on a blood-thinning medication called coumadin.
+We also started you on two new medications for your anxiety.
+Your doctors [**Name5 (PTitle) **] adjust the doses of these to help with your anxiety.
+It was decided to initiate dialysis and a temporary catheter was placed and you were started on dialysis.
+Please take all of your medications as prescribed.
+Followup Instructions: Please follow up with your PCP for coumadin dosing, which will be adjusted based on bloodwork.
+Please check INR in three days and every three days for the next 2 weeks, then as needed to monitor coumadin dosing.

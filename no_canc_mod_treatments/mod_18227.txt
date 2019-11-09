@@ -1,0 +1,34 @@
+Admission Date:  [**2106-6-30**]              Discharge Date:   [**2106-7-22**]  Date of Birth:  [**2065-8-27**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 1666**] Chief Complaint: transfer for management of intracranial masses; also, odynophagia and hematemesis  Major Surgical or Invasive Procedure: Brain Bx Lumbar Puncture Bone Marrow Bx EGD#1 EGD#2  History of Present Illness: 40yo M with AIDS (CD4 9, VL>500,000) presents for admission and ID consult to manage known CNS lesions.
+He also received dexamethasone for cerebral edema.
+On [**6-10**], he was admitted to OSH for weakness, fever, confusion, and vomiting.
+He was empirically tx'd for toxo w/ pyrimethamine, sulfadiazine and decadron 4 mg qid, tapered to 3mg qid.
+He was discharged on [**6-24**] and advised to f/u with Dr. [**Last Name (STitle) **] in ID who continued empiric tx for toxoplasmosis and started him on fluconazole for thrush.
+Past Medical History: # appendectomy # gun shot wounds in a robbery, w/ shrapnel in neck and L chest    Social History: Wife and 3 children live in [**Country 4194**] and are unaware of his diagnosis.
+[**3-25**] dorsiflexion on L, [**4-24**] dorsiflexion on R; symmetric [**4-24**] on plantarflexion bilaterally.
+He has had a complex course during which he was discovered to have CMV viremia, [**Female First Name (un) **]/HSV esophagitis leading to unstable upper GI bleed, pancytopenia, and a small SDH.
+He was maintained pyrimethamine for presumed toxoplasmosis.
+A possible cause of his mental status change was revealed when studies found him to have CMV viremia--the patient was started on valganciclovir with some improvment in mental status.
+Per ID consult pt was switched to IV ganciclovir.
+He was continued on treatment for toxoplasmosis, steroids were d/DC'ed on [**7-8**].
+The biopsy was negative for [**Female First Name (un) 564**], positive for HSV, after which steroids were discontinued and he was started on acyclovir on [**7-8**].
+Acyclovir was discontinued when IV ganciclovir was started for CMV viremia (see below) on [**7-9**].
+His LFTs began to rise, and Caspofungin was discontinued on [**7-14**], with LFTs trending down at discharge.
+He was started on HAART on [**7-11**], which he tolerated well without evidence for immune reconstitution syndrome.
+He was maintained on azithromycin for [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) **].
+Treatment with valganciclovir was started on [**7-7**].
+He was switched to 2 week course of ganciclovir IV on [**7-5**], during which CMV viral load began to drop.
+He was discharged on valganciclovir 900 mg PO BID.
+FSBS were normal off steroids after [**7-8**].
+Medications on Admission: Pyrimethamine 75mg QD Sulfadiazine 1500mg q6hrs Leucovorin 10mg QD Dexamethasone 1.5 Q6hrs Azithromycin 1200mg weekly Fluconazole 100mg QD  Discharge Medications: 1.
+Nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID (4 times a day).
+Pyrimethamine 25 mg Tablet Sig: Three (3) Tablet PO DAILY (Daily).
+Azithromycin 600 mg Tablet Sig: Two (2) Tablet PO 1X/WEEK ([**Doctor First Name **]).
+Sulfadiazine 500 mg Tablet Sig: Three (3) Tablet PO Q6H (every 6 hours).
+Leucovorin Calcium 5 mg Tablet Sig: Two (2) Tablet PO Q 24H (Every 24 Hours).
+Emtricitabine-Tenofovir 200-300 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Lopinavir-Ritonavir 200-50 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day).
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+Valganciclovir 450 mg Tablet Sig: Two (2) Tablet PO twice a day.
+You have been recently diagnosed with HIV infection.
+Please take all medications as directed and keep all doctors [**Name5 (PTitle) 4314**].
+It is extremely important that you take your HIV medications exactly as prescribed, and we have set up follow-up to help you do this.

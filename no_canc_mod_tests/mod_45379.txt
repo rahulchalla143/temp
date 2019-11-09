@@ -1,0 +1,7 @@
+When the patient got to the Medical floor, blood cultures were obtained on [**2178-5-4**].
+When these blood cultures were negative for 24 hours, a PICC line was placed so that the patient could get IV clindamycin.
+The patient's left shoulder then did improve after the imaging of it.
+A chest x-ray was obtained showing no evidence of pneumonia.
+Urine culture was obtained which showed mixed bacterial flora.
+The patient is to followup with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] in Infectious Disease on [**2178-5-25**] at 1:30 pm on [**Hospital Ward Name 257**] 11th floor, phone #[**Telephone/Fax (1) 496**].
+The patient is to followup with Dr. [**Last Name (STitle) 8903**] in Rheumatology on [**2178-7-9**] at 1 pm on the [**Hospital **] Medical Building, Fourth Floor,  [**Hospital Unit Name 8904**], phone #[**Telephone/Fax (1) 8905**].

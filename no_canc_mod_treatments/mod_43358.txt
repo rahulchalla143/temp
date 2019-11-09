@@ -1,0 +1,38 @@
+Admission Date:  [**2114-2-25**]              Discharge Date:   [**2114-3-4**]  Date of Birth:  [**2038-10-25**]             Sex:   M  Service: MEDICINE  Allergies: Penicillins / Amiodarone  Attending:[**First Name3 (LF) 898**] Chief Complaint: Black stool/lightheadedness  Major Surgical or Invasive Procedure: EGD  History of Present Illness: HPI: 75yo man with extensive past medical history including CAD, ischemic cardiomyopathy with EF of 10%, ICD/pacemaker, and h/o SVC thrombosis now on anticoagulation presented on [**2-25**] after 2 episodes of symptomatic melena, now attributed to [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] tears seen on EGD.
+He was treated with protonix 40mg IV.
+He has not had any F/C/S, dizziness, CP, SOB, abdominal pain, or LOC since arriving at [**Hospital1 18**].
+Ischemic cardiomyopathy:  echo [**2113-6-19**] w/ global LV hypokinesis (LVEF [**10-27**] percent) w/ akinesis of the inferior, posterior, and lateral walls; 3+ MR; 2+ TR; moderate PA systolic  hypertension.
+Valvular heart disease:  moderate MR [**First Name (Titles) **] [**Last Name (Titles) **] 6. chronic kidney dz:  baseline creat 1.3-1.4 since [**2112**] 7. anemia:  baseline HCT 37-38 8. h/o SVC thrombosis (dx [**2-/2105**]); on warfarin since 9. h/o nephrolithiasis 10. s/p tonsillectomy 11. s/p appendectomy 12. s/p bilateral inguinal hernia repairs x 2   Social History: The patient lives in [**Location (un) 100183**] with his wife.
+He walks with a walker at home.
+gen: alert, oriented completely; no distress; appears pale heent: anicteric, mucous membranes moist neck: no JVD (4 cm JVP) cv: RRR, no m/r/g resp: mild crackles in L lung base abd: soft, nabs, nontender, palpable battery pack rectal: guaiac pos melena (in ED) extr: no peripheral edema, DP/PT 2+ b/l   Pertinent Results: [**2114-2-25**] 06:30PM   PT-37.1* PTT-33.8 INR(PT)-4.1* [**2114-2-25**] 06:30PM   WBC-9.7 RBC-2.52*# HGB-8.5*# HCT-24.0*# MCV-95 MCH-33.7* MCHC-35.3* RDW-14.0 [**2114-2-25**] 10:33PM   HCT-21.1*  Brief Hospital Course: # Upper GI bleeding.
+Coumadin and aspirin were held.
+GI recommended restarting aspirin 1 wk s/p EGD and keeping the patient on a PPI as long as he is taking aspirin.
+Anemia was also considered as a possible contributor but the team decided to hold off on further transfusions.
+His furosemide dose was increased from 10 to 20mg daily with good effect.
+Cardiac regimen as above.
+# Code status: Full  Medications on Admission: 1.
+Aspirin 81 mg 2.
+Atorvastatin 80 mg 3.
+Mexiletine 150 mg [**Hospital1 **] 4.
+Warfarin 5mg HS 5.
+Lisinopril 2.5mg qD 6.
+Magnesium Oxide 400 mg [**Hospital1 **] 7.
+Digoxin 125 mcg Tablet Sig: 0.5 Tablet PO EVERY OTHER DAY(Monday, Wednesday, Friday and Sunday) 8.
+Digoxin 125 mcg Tablet Sig: One (1) Tablet PO EVERY OTHER DAY  (Tuesday, Thursday and Saturday) 9.
+Carvedilol 3.125mg [**Hospital1 **] 10. lasix 10mg qD   Discharge Medications: 1.
+Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO once a day.
+Mexiletine 150 mg Capsule Sig: One (1) Capsule PO Q12H (every 12 hours).
+Digoxin 125 mcg Tablet Sig: [**1-9**] Tablet PO EVERY OTHER DAY (Mon, Wed, [**Last Name (LF) **], [**First Name3 (LF) **]).
+Digoxin 125 mcg Tablet Sig: One (1) Tablet PO EVERY OTHER DAY (Tues, Thurs, Sat).
+Lisinopril 5 mg Tablet Sig: [**1-9**] Tablet PO DAILY (Daily).
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+PO once a day: YOU MUST STAY ON THIS MEDICINE WHILE TAKING ASPIRIN SINCE YOU HAVE HAD A GI BLEED.
+Furosemide 20 mg Tablet Sig: One (1) Tablet PO once a day.
+Aspirin EC 81 mg Tablet, Delayed Release (E.C.)
+PO once a day: DO NOT RESTART ASPIRIN UNTIL [**2114-3-5**].
+Magnesium Oxide 400 mg Tablet Sig: One (1) Tablet PO twice a day.
+Carvedilol 3.125 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Please take all of your medications as directed.
+Restart aspirin on [**2114-3-5**].
+You must take a proton pump inhibitor (such as pantoprazole, also called protonix) with aspirin from now on.
+You also have a repeat endoscopy scheduled with Dr. [**Last Name (STitle) 3708**] on Friday, [**2114-4-6**] at 1pm at the [**Hospital1 18**] [**Hospital Ward Name 517**].

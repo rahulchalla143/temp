@@ -1,0 +1,26 @@
+Admission Date:  [**2196-10-21**]              Discharge Date:   [**2196-10-24**]  Date of Birth:  [**2118-5-3**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 2704**] Chief Complaint: ST elevation myocardial infarction status post catheterization complicated by groin hematoma  Major Surgical or Invasive Procedure: Cardiac catheterization on [**2196-10-21**]  History of Present Illness: Ms. [**Known lastname 1007**] is 78 year old female with PMH significant for hypercholesterolemia, GERD, and arthritis but no CAD history who presented to an OSH with back pain radiating to L arm and L jaw.
+At [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], she was noted to have ST elevations in inferior leads with a troponin of 0.55.
+There, she received ASA 325 x1, Plavix 600, atorvstatin 80 x 1, ativan 1 mg, integrilin, SL NTG x2, IV lopressor 5 mg * 3, heparin bolus + drip.
+Family History: Denies CAD hx  Physical Exam: VS- 97.0, 122/51, 84, 18, 99% RA HEENT- Normocephalic.
+LUNGS- clear to auscultation bilaterally.
+2+ DP pulses bilaterally.
+Non tender to palpation and non-pulsatile.
+Pertinent Results: labs on admission: significant for HCT 29.1 ekg- - [**10-21**] 22:43 - NSR 80, nl axis, nl intervals, no LVH/LAE, 1 mm STE in V2/V3, T wave inversion 3/F; no clear anatomic distribution of ischemia.
+Cardiac enzymes: CK peak 472, trending down following cath CK MB peak 69 Troponin peak 1.29 .
+Cardiac catheterization ([**10-21**]): 1.
+Femoral ultrasound ([**10-22**]): Hematoma.
+CXR ([**10-22**]): 1.
+Evaluation with a dedicated PA and lateral view is recommended.
+ECHO ([**10-22**]): 1.
+Left ventricular systolic function is hyperdynamic (EF>75%).
+Right ventricular systolic function is normal.
+Labs at discharge: WBC 6.4, Hgb 12.1, Hct 34.6 (stable), Platelets 147,000 BMP unremarkable Cholesterol 162, TG 94, HDL 45, LDL 98  Brief Hospital Course: Ms. [**Known lastname 1007**] is a 78 year old female with inferior ST elevation myocardial infarction now status post catheterization complicated by a large right groin hematoma.
+Her hematocrit at discharge was stable, though she did require three units of blood immediately following her catheterization due to falling hematocrit at that time.
+Her lipids are near goal with LDL 98.
+- Her echocardiogram does demonstrate a hyperdynamic ejection fraction.
+She will have labs drawn on [**Last Name (LF) 2974**], [**10-28**], to assess her electrolytes and renal function.
+There was no evidence of pseudoaneurysm on physical exam or on ultrasound performed on [**10-22**].
+Her hematocrit was stable on day of discharge, and the patient's movement was not impeded in any way.
+She had her electrolytes repleted as necesssary.
+#) Communication - The patient's son is [**Name (NI) **] [**Name (NI) 1007**] H [**Telephone/Fax (1) 68866**], C [**Telephone/Fax (1) 68867**].
+Discharge Disposition: Home  Discharge Diagnosis: ST elevation myocardial infarction, status post catheterization with stent placed in the right coronary artery   Discharge Condition: Hemodynamically stable, with stable red blood cell count, and comfortable on room air   Discharge Instructions: Please take all your medications as prescribed.

@@ -1,0 +1,43 @@
+Admission Date:  [**2135-8-6**]              Discharge Date:   [**2135-8-12**]  Date of Birth:  [**2072-8-29**]             Sex:   F  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 5129**] Chief Complaint: Fever, chills, malaise   Major Surgical or Invasive Procedure: IR guided drainage of right psoas fluid collection  History of Present Illness: Ms. [**Known lastname 104688**] is a 62F with PMHx of aggressive urothelial cancer s/p nephroureterectomy in [**2133**] who presented to [**Doctor Last Name **] [**Last Name (un) 45902**] on [**8-4**] for several days of weakness, chills and reduced PO intake and more acutely difficulty ambulating on morning of ED visit.
+She has a complicated history of urothelial carcinoma which after nephroureteral resection was shown to recur in liver and ?rectus sheath for which she received 5 cycles cisplatin/gemcitabine starting [**12-28**].
+She was treated empirically with Doripenem, Acyclovir, Doxycycline and Vancomycin.
+Denies chest pain, chest pressure, palpitations, or weakness.
+Past Medical History: - Uroepithelial Ca +peritoneal mets - RLE DVT, on Lovenox, [**2135-1-18**] - Malignancy associated hypercalcemia - Epilepsy (age 14), [**Doctor Last Name 11332**] mal - Skin graft s/p burn, right arm and hand [**2127**] - h/o Lyme Disease [**2132**]  Social History: Married, lives with husband who is healthcare proxy and supportive.
+Neuro: Lethargic but arousable, falls asleep occasionally during questioning.
+Exam on Discharge: ******   Pertinent Results: Labs on Admission: [**2135-8-7**] 12:09AM BLOOD WBC-2.1* RBC-3.07* Hgb-9.7* Hct-28.1* MCV-92 MCH-31.7 MCHC-34.6 RDW-25.0* Plt Ct-17* [**2135-8-7**] 12:09AM BLOOD Neuts-62 Bands-13* Lymphs-18 Monos-4 Eos-2 Baso-0 Atyps-1* Metas-0 Myelos-0 [**2135-8-7**] 12:09AM BLOOD PT-12.6 PTT-30.6 INR(PT)-1.1 [**2135-8-7**] 12:09AM BLOOD Glucose-129* UreaN-17 Creat-1.0 Na-134 K-4.1 Cl-109* HCO3-20* AnGap-9 [**2135-8-7**] 12:09AM BLOOD Albumin-2.3* Calcium-7.3* Phos-1.9* Mg-2.0 [**2135-8-7**] 12:29AM BLOOD Lactate-1.2 [**2135-8-7**] 11:03PM BLOOD Lactate-1.0 [**2135-8-7**] 12:29AM BLOOD freeCa-1.09*  Imaging [**8-7**] CXR: There is a Port-A-Cath with distal lead tip in the distal SVC.
+There is also patchy aeration at the bases, likely reflecting atelectasis as seen on chest radiograph.
+Labs on Discharge: [**2135-8-12**] 09:36AM BLOOD WBC-4.5 RBC-2.89* Hgb-9.1* Hct-27.5* MCV-95 MCH-31.4 MCHC-33.0 RDW-23.0* Plt Ct-15* [**2135-8-12**] 09:36AM BLOOD Neuts-74.9* Lymphs-17.8* Monos-4.3 Eos-2.8 Baso-0.2 [**2135-8-11**] 05:07AM BLOOD Glucose-133* UreaN-21* Creat-1.2* Na-141 K-4.4 Cl-105 HCO3-29 AnGap-11 [**2135-8-10**] 05:52AM BLOOD ALT-7 AST-15 LD(LDH)-112 CK(CPK)-5* AlkPhos-88 TotBili-0.4 [**2135-8-9**] 05:59AM BLOOD Calcium-9.8 Phos-3.5 Mg-1.6 [**2135-8-10**] 05:52AM BLOOD D-Dimer-1872* [**2135-8-10**] 05:52AM BLOOD Hapto-58 [**2135-8-9**] 10:15AM BLOOD Vanco-18.0   Brief Hospital Course: 62yo F PMHx aggressive urothelial Ca s/p right nephroereterectomy +chemo p/w AMS, fever, hypotension was initially admitted to MICU for management of sepsis.
+#Sepsis: Patient initially treated empirically with Vancomycin and Zosyn, initially briefly requiring Levophed; likely source was thought to be abdominal abscess seen on CT abdomen however patient underwent IR guided drainage of the cyst and cultures were negative and the fluid collection was felt to NOT represent an abscess.
+ID consulted and recommended continuing vanco/zosyn for a total of 14 days.
+They felt the leukopenia and thrombocytopenia was secondary to  chemotherapy (most recent dose of Carboplatin/Gemcitabine was [**2135-7-14**], 3wks prior to admission) and sepsis - both causing supression of her bone marrow.
+They feel she should receive a platelet transfusion is her platelets drop below 10,000 (should not happen since her PLTS are rising) or if she develops a significant bleed that cannot be cotrolled with conservative measures such as pressure.
+#Urethelial Carcinoma: Pt w h/o aggressive malignancy s/p chemotherapy and right nephrouretectomy, with evidence of abdominal metastasis.
+#H/O DVT: She was initially continued on treatment doses of lovenox for treatment of prior DVT.
+However, LE dopplers were negative for DVT here and V/Q scan was low probability, so since she had received 6 months of treatment for her first episode of DVT (arguably known source - CA), she was changed to prohylactic dose of Lovenox.
+Given her malignancy the risk-benefit of continuing prophylactic Lovenox indefinetely probably favors continuing it.
+#Pain: Pt w abd chronic pain [**1-19**] malignancy and resections, on chronic narcotics as an outpatient.
+Pain was exacerbated by IR drainage (see above), and pain was refratory to 5mg Oxycodone tabs, so pt was started on Morphine SR to improve basal control.
+After her ICU stay and severe illness, she is very weak and deconditioned and will require [**Hospital 3058**] rehabilitation before returning home.
+Medications on Admission: - Depakote 250mg PO TID - Lacosamide (anti-epileptic) 100mg PO BID - Remeron 2.5mg PO QHS - Keppra (unknown dose) - Ondansetron 8mg PO Q6hrs prn - Lovenox - Tylenol 1gm Q67hrs prn - Dulcolax supp - Senna 1 tab po Daily - Oxycontin 30mg PO QHS - Oxycodone 5mg PO Q4hrs prn   Discharge Medications: 1. valproic acid 250 mg Capsule Sig: One (1) Capsule PO TID (3 times a day).
+2. lacosamide 50 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day).
+3. levetiracetam 500 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day).
+4. ondansetron 4 mg Tablet, Rapid Dissolve Sig: Two (2) Tablet, Rapid Dissolve PO Q8H (every 8 hours) as needed for nausea.
+5. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every 6 hours) as needed for pain or fever >100.4.
+6. mirtazapine 15 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime).
+7. sodium chloride 0.65 % Aerosol, Spray Sig: [**12-19**] Sprays Nasal TID (3 times a day) as needed for dry nose.
+8. morphine 15 mg Tablet Extended Release Sig: One (1) Tablet Extended Release PO Q12H (every 12 hours).
+9. lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig: One (1) Adhesive Patch, Medicated Topical DAILY (Daily): On in the morning and off in the evening.
+10. docusate sodium 100 mg Capsule Sig: Two (2) Capsule PO BID (2 times a day).
+11. bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal [**Hospital1 **] (2 times a day) as needed for constipation.
+12. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for Constipation.
+13. enoxaparin 30 mg/0.3 mL Syringe Sig: One (1)  Subcutaneous Q24H (every 24 hours).
+14. oxycodone 5 mg Tablet Sig: 1-2 Tablets PO Q3H (every 3 hours) as needed for pain.
+Heparin Flush (10 units/ml) 5 mL IV PRN line flush Indwelling Port (e.g.
+Portacath), heparin dependent: Flush with 10 mL Normal Saline followed by Heparin as above daily and PRN per lumen.
+Heparin Flush (100 units/ml) 5 mL IV PRN DE-ACCESSING port Indwelling Port (e.g.
+Portacath), heparin dependent: When de-accessing port, flush with 10 mL Normal Saline followed by Heparin as above per lumen.
+17. vancomycin in D5W 1 gram/200 mL Piggyback Sig: One (1) gram Intravenous Q 24H (Every 24 Hours) for 6 days.
+18. piperacillin-tazobactam 4.5 gram Recon Soln Sig: 4.5 grams Intravenous every eight (8) hours for 6 days.
+The source of the infection was not identified, but you improved with antibiotics and, per our infectious disease service, need to finish two full weeks of IV antibiotics.
+You were also seen by our Oncology service and they feel that your blood counts are rising as expected after chemotherapy and the infection, including the platelet count which is rising more slowly.
+You were found to not have any evidence of blood clots in your legs or your lungs so the dose of Lovenox was decreased to 30 mg per day in order to prevent further blood clots from forming.

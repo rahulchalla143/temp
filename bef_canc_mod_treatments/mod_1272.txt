@@ -1,0 +1,66 @@
+Admission Date:  [**2102-5-27**]              Discharge Date:   [**2102-6-9**]  Date of Birth:  [**2036-11-14**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 800**] Chief Complaint: Hypotension, worsening oxygen requirement  Major Surgical or Invasive Procedure: Dialysis  History of Present Illness: Mr [**Known lastname 41841**] is a 65 year old male with a history of diastolic CHF (EF > 60%), CAD s/p CABG in [**2079**] and STEMI [**2102-5-19**] with three stents placed, ESRD on hemodialysis s/p failed transplant and known chronic bilateral pleural effusions with associated trapped lung who presented on [**2102-5-27**] with worsening dyspnea on exertion.
+His procedure was complicated by ventricular fibrillatoni arrest which requierd 2 shocks.
+During that admission he was noted to have persistent large pleural effusions but was not considered a candidate for pleurex catheter placement given his need for aspirin and plavix.
+He was started on digoxin and underwent scheduled dialysis and was discharged home.
+He initially presented to [**Hospital1 **] where he received plavix, cefepime and vancomycin and was transferred to [**Hospital1 18**] for further evaluation.
+There was initially concern for pulmonary embolism but the patient refused heparin gtt and CTA.
+Antibiotics were discontinued on admission.
+He underwent right sided thoracentesis on [**2102-5-29**] complicated by the development of a small basilar pneumothorax.
+600 cc serosangionous fluid was removed and fluid studies were consistent with transudate.
+He underwent hemodialysis on [**2102-5-29**] and [**2102-5-30**] with blood pressures ranging from 90s to 100s systolic.
+He was evaluated by thoracic surgery for potential VATS decortication and pleurodesis and was felt not to be a surgical candidate.
+He had a right EJ 18 g placed and received 2 L normal saline bolus and was transferred to the MICU.
+He did not receive antibiotics prior to MICU transfer.
+Peripheral dopamine is currently running at 20 mcg/kg/min with blood pressures in the 70s systolic.
+He had a left sided subclavian line placed.
+Past Medical History: Past Medical History: Diastolic Congestive Heart Failure: EF 60% Coronary Artery Disease s/p 7-vessel CABG in [**2079**] STEMI s/p Vision stent x 3 on [**2102-5-19**] complicated by vfib arrest requiring 2 shocks Atrial fib/[**Last Name (un) **] s/p ablation [**2099**], recurrence in [**2100**] on Coumadin Upper GI bleed [**2101**], pill esophagitis and [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]-[**Doctor Last Name **] tear Recurrent candidal esophagitis.
+ESRD on HD, failed renal transplant in [**2069**].
+related to immunosuppression Basal cell carcinoma Diverticulitis.
+Past Surgical History: Renal biopsy Appendectomy Left AV fistula placement 30 years ago.
+Skin resections for CA  Social History: Social history is notable for his being married.
+Skin: 1 cm hard bumps across legs, multiple areas of brusing, multiple areas of skin grafts  Pertinent Results: [**2102-5-27**] 09:30AM   CK(CPK)-23* [**2102-5-27**] 09:30AM   CK-MB-NotDone cTropnT-5.07* [**2102-5-27**] 01:28AM   COMMENTS-GREEN TOP [**2102-5-27**] 01:28AM   LACTATE-1.0 [**2102-5-27**] 01:15AM   GLUCOSE-84 UREA N-24* CREAT-4.4* SODIUM-140 POTASSIUM-4.7 CHLORIDE-97 TOTAL CO2-32 ANION GAP-16 [**2102-5-27**] 01:15AM   CK(CPK)-24* [**2102-5-27**] 01:15AM   cTropnT-6.23* [**2102-5-27**] 01:15AM   CK-MB-4 proBNP-[**Numeric Identifier 97839**]* [**2102-5-27**] 01:15AM   DIGOXIN-1.2 [**2102-5-27**] 01:15AM   WBC-6.4 RBC-3.44* HGB-9.8* HCT-31.7* MCV-92 MCH-28.6 MCHC-31.0 RDW-17.4* [**2102-5-27**] 01:15AM   NEUTS-77.8* LYMPHS-11.3* MONOS-9.7 EOS-0.7 BASOS-0.5 [**2102-5-27**] 01:15AM   PLT COUNT-239 [**2102-5-27**] 01:15AM   PT-17.6* PTT-30.9 INR(PT)-1.6*  Imaging: CXR [**5-27**]: UPRIGHT RADIOGRAPH OF THE CHEST: There has been no significant interval change with persistent bilateral pleural effusions and bibasilar opacities.
+Median sternotomy wires and mediastinal clips are unchanged.
+Brief Hospital Course: BRIEF HOSPITAL COURSE, BY PROBLEM: 65 year old male with a history of diastolic CHF (EF > 60%), CAD s/p CABG in [**2079**] and STEMI [**2102-5-19**] with three stents placed, ESRD on hemodialysis s/p failed transplant and known chronic bilateral pleural effusions with associated trapped lung who was admitted to the hospital with NSTEMI in the setting of a recent STEMI with stent placement.
+He required initially dopamine and levophed.
+Patient was ablee to be liberated from dopamine fairly rapidly after MICU admission.
+Patient on low dose prednisone and random cortisol yesterday was 11.5.
+His blood pressures improved on vanco and zosyn and he was weaned off levo without complications.
+He was continued on a course of vanco and zosyn for HAP.
+He was initially started on stress dose steroids and then tapered appropriately.
+On [**6-2**] he was completely off pressors with stable blood pressure.
+Hemodialysis was reinitiated and he tolerated it well.
+With abx treatment, his oxygen requirement was weaned down to 3L by nasal cannula and dyspnea is resolved.
+Given his need for aspirin and Plavix, in addition to the loculations of the left pleural effusion, interventional pulmonary and thoracics did not think he was a surgical candidate.
+#Coronary Artery Disease: s/p recent posterior MI with PCI and three vision stents complicated by vfib arrest requiring shocks.
+He was continued on ASA, plavix and his statin through his hospital course but his antihypertensives were held after he became hypotensive, and restarted (carvedilol and isosorbide).
+# Chronic diastolic congestive heart failure: He was continued on carvedilol (at lower dose, prescription provided) once his blood pressures could tolerate them.
+Digoxin was discontinued during this hospitalization, with the thought that it might be worsening his heart failure.
+Aggressive fluid removal via HD was attempted but was not particularly successful.
+# Atrial Fibrillation:  Patient was put on heparin gtt as well as ASA/plavix through his hospital course.
+His anticoagulation was initially discontinued, and warfarin was restarted on [**6-4**].
+He was then restarted on coumadin on [**6-2**] (2mg daily).
+Digoxin was discontinued as above.
+# ESRD on HD s/p failed transplant:  HD started back on [**6-2**] once he was liberated from pressor requirement.
+He was continued on sevelamer and fluconazole.
+Patient continued on home allopruinol 100mg PO.
+He was treated with fluconazole without complications.
+Medications on Admission: Allopurinol 100 mg PO daily Coreg 37.5 mg PO daily Citalopram 30 mg PO daily Epogen with dialysis Fluconazole 100 mg PO daily Hydralazine 50 mg TID Isosorbide Dinitrate 40 mg PO TID Omeprazole 20 mg [**Hospital1 **] Home oxygen 2L Pravastatin 80 mg daily Prednisone 2.5 mg daily Sevelamer 800 mg PO TID Prometazine 12.5 mg PO daily Temezepam 15 mg PO QHS:PRN Coumadin 2 mg Po daily Plavix 75 mg PO daily Digoxin 125 mcg q Tuesday and Saturday Aspirin 325 mg daily   Discharge Medications: 1.
+Home Oxygen Home oxygen @ 2-4 liters per minute via nasal cannula conserving device for portability 2.
+Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Carvedilol 12.5 mg Tablet Sig: One (1) Tablet PO BID (2 times a day): Do NOT take the morning of hemodialysis.
+Pravastatin 20 mg Tablet Sig: Four (4) Tablet PO DAILY (Daily).
+Isosorbide Dinitrate 10 mg Tablet Sig: Two (2) Tablet PO TID (3 times a day).
+Prednisone 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Sevelamer HCl 400 mg Tablet Sig: Two (2) Tablet PO TID W/MEALS (3 TIMES A DAY WITH MEALS).
+Omeprazole 20 mg Capsule, Delayed Release(E.C.)
+Fluconazole 100 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours).
+Citalopram 20 mg Tablet Sig: 1.5 Tablets PO DAILY (Daily).
+Allopurinol 100 mg Tablet Sig: One (1) Tablet PO EVERY OTHER DAY (Every Other Day).
+Promethazine 25 mg Tablet Sig: 0.5 Tablet PO Q8H (every 8 hours) as needed for nausea.
+Temazepam 15 mg Capsule Sig: Two (2) Capsule PO HS (at bedtime) as needed.
+Warfarin 2 mg Tablet Sig: One (1) Tablet PO once a day.
+Discharge Disposition: Home With Service  Facility: [**Last Name (LF) 486**], [**First Name3 (LF) 487**]  Discharge Diagnosis: acute on chronic diastolic congestive heart failure LVEF 55% ESRD on HD s/p failed renal transplant HTN bilateral pleural effusions   Discharge Condition: Stable, Sat low 90's on 2L nasal cannula  Discharge Instructions: You were admitted with chest pain and difficulty breathing.
+Your medications have been changed: - Your carvedilol has been cut in half (to 12.5mg twice daily) - Your citalopram has been increased (to 30mg daily) - Your hydralazine has been discontinued - Your prednisone has been increased to 5mg daily - Your isosorbide dinitrate has been decreased to 20mg three times a day - You should continue taking 2mg warfarin daily and have Dr. [**Last Name (STitle) **] recheck an INR - Your digoxin was discontinued.
+You must continue your aspirin and Plavix until instructed to stop by your cardiologist.
+You should continue dialysis three times weekly, and keep all of your follow up appointments as scheduled.

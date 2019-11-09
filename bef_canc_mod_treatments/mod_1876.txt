@@ -1,0 +1,29 @@
+Admission Date:  [**2105-5-25**]              Discharge Date:   [**2105-6-15**]  Date of Birth:  [**2034-2-15**]             Sex:   F  Service: SURGERY  Allergies: Shellfish  Attending:[**First Name3 (LF) 1556**] Chief Complaint: 71 year old female s/p laparoscopic ventral hernia repair on [**2105-5-4**] presents with nausea and vomiting and weakness.
+Major Surgical or Invasive Procedure: PICC Line Placement 1.
+Resection of small intestine (ileum 20 cm).
+Ileostomy creation.
+History of Present Illness: [**First Name8 (NamePattern2) **] [**Known lastname **] is a 71-year-old woman who underwent a laparoscopic hernia repair approximately a month ago.
+She was initially treated with nonoperative management.
+She developed abdominal pain as well as leukocytosis necessitating surgical treatment.
+Interval development of small bowel dilatation with relative decompression of distal ileal and large bowel loops, concerning for small-bowel obstruction.
+one month after a laparoscopic ventral hernia repair.
+She complains of nausea, abdominal pain, heaving, unable to eat and vomiting.
+Patient started receiving TPN through a PICC line.
+20 cm of necrotic small intestine was found upon operation along with right abdominal abscess.
+The following procedures were performed:  1) laparotomy, 2) lysis of adhesions, 3) drainage of intrabdominal abscess, 4) resection of small intestine, 5) ileostomy creation, 6) cecal mucous fistula, 7) closure with prosthetic mesh, 8) appendecomy, 9) excision of prosthetic mesh.
+Sedation was not reversed and patient was placed on CMV ventilation.
+Patient was given pressors to SBP>100.
+Upon return to the SICU, the ventilator and sedation were weaned.
+Brain and Cspine MRI was ordered for hyperreflexia and [**Wardname 2841**] was ordered for nerve conduction to be done on a outpatient basis.
+Nutrition- TPN as well as a regular diet with ensure tid to be given at rehab.
+She will follow up with Dr. [**Last Name (STitle) **] on [**6-26**] and will call and make an appointment with her oncology physician (Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **])   Medications on Admission: avapro 225', citalopram 40', ASA 81', colace, percocet prn  Discharge Medications: 1.
+Albuterol 90 mcg/Actuation Aerosol Sig: Four (4) Puff Inhalation Q6H (every 6 hours) as needed.
+Spironolactone 25 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO TID (3 times a day).
+Citalopram 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Famotidine 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+Zolpidem 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) as needed.
+Loperamide 2 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+Discharge Disposition: Extended Care  Facility: [**Hospital1 **]-[**Location (un) 686**]  Discharge Diagnosis: bowel ischemia and necrotic ileum   Discharge Condition: Stable   Discharge Instructions: You are being discharged on medications to treat the pain from your operation.
+These medications will make you drowsy and impair your ability to drive a motor vehicle or operate machinery safely.

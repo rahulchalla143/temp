@@ -1,0 +1,64 @@
+Admission Date:  [**2123-6-22**]              Discharge Date:   [**2123-6-25**]  Date of Birth:  [**2042-10-9**]             Sex:   F  Service: MEDICINE  Allergies: Ampicillin / Penicillins / Percocet / Bactrim / Gold Salts  Attending:[**Doctor Last Name 10493**] Chief Complaint: Melena in stools  Major Surgical or Invasive Procedure: None  History of Present Illness: Mrs. [**Known lastname **] is a 80 yo F from NH with PMH myelofibrosis transfusion dependent with last transfusion last week, c.diff on vanco, pulmonary hypertension in setting of chronic PE on lovenox and aspirin who comes to ED after having abnormal labs at NH.
+PT is also on iron supplementation.
+BCC on nasal bridge s/p excision in [**2116**] 13.
+Evidence of chronic pulmonary emboli (on CTA imaging from [**2123-4-2**])  Social History: She lived with her daughter and son-in-law in [**Name (NI) 13040**], but is now in a nursing home.
+She has been receiving PRBC transfusions for ongoing anemia.
+Per our records, the patient has had 21 non-reactive transfusions of PRBCs since [**2123-3-29**], with the last two units transfused on [**2123-5-15**].
+LABORATORY TESTING: Patient ABO/Rh: Group O, Rh negative Antibody screen: positive Antibody identity: anti-E Patient antigen phenotype from [**2123-6-22**]: E-antigen negative Units of blood transfused on [**2123-5-15**]: Antigen phenotype for 04LJ09610: E-antigen negative Antigen phenotype for 04FY06726A: E-antigen negative DAT: negative Eluate: negative  TRANSFUSION HISTORY: 21 previous non-reactive PRBC transfusions at the [**Hospital1 18**].
+The anti-E antibody is clinically significant and can cause hemolytic reactions in the setting of E-antigen positive PRBC transfusions.
+The patient will receive E-antigen negative red blood cells for future transfusions.
+[**2123-6-25**] 07:15   	19.5* 	2.48* 	6.9* 	21.5* 	87 	28.0 	32.2 	15.7* 	1371*1 I-HOS ADDED [**6-25**] @ 11:44 [**2123-6-22**] 20:10   	20.5* 	3.09* 	8.9* 	26.5* 	86 	28.6 	33.4 	15.1 	1608*3   RENAL & GLUCOSE 	Glucose 	UreaN 	Creat 	Na 	K 	Cl 	HCO3 	AnGap [**2123-6-25**] 07:15   	741 	11 	0.3* 	129* 	4.1 	94* 	26 	13  Brief Hospital Course: # SUMMARY: 80 yo F from NH with PMH myelofibrosis transfusion dependent with last transfusion last week, c.diff on vanco, pulmonary hypertension in setting of chronic PE on lovenox and aspirin who presented with anemia.
+She was made NPO, and was started on IV fluids, pantoprazole 40 mg IV BID, and Q6H Hct checks.
+# Sepsis: Based on her HR and WBC count, she met SIRS criteria on admission with the most likely source of her infection being a UTI given her positive UA.
+She was treated with ciprofloxacin x 5 days.
+She completed a course of ciprofloxacin with extended coverage of her prior c-diff infection with oral vancomycin.
+Since she was receiving transfusions and taking iron supplementation, her iron was discontinued to prevent iron toxicity from repeated transfusions.
+She was seen by heme-onc during this admission, who recommended additional blood tests.
+She previously was thought to have coagulalopathy of anoxeria on previous admission.
+She received vitamin K with improvement in her INR.
+# Chronic DVT/PE: Her home lovenox was held because of her presumed GI bleed.
+She was restarted on enoxaparin on discharge.
+# C. diff: She was started on oral vancomycin on [**6-14**] at [**Hospital1 95707**], given need for abx for her UTI.
+Her vancomycin course for c. diff needs to be extended with a start date when she finishes her cipro course.
+She is set to finish her cipro on [**2123-6-26**] and oral vancomycin should continue until [**2123-7-10**].
+She was continued on antibiotics and anti-coagulation for management of her chronic issues.
+- Code Status DNR/I  Medications on Admission: 1.
+Lovenox 80 mg SC Q12H 2.
+Aspirin 81 mg PO daily 3.
+Valsartan 320 mg PO daily 4.
+Simvastatin 20 mg PO QHS 5.
+Citalopram 20 mg PO daily 8.
+Folic acid 1 mg PO daily 9.
+Alprazolam 0.25 mg PO QHS 10.
+Dorzolamide-Timolol 2-0.5% one drop ophthalamic gtts [**Hospital1 **] 11.
+Acetaminophen 650 mg PO TID PRN pain 12.
+Calcitonin 200 units spray INH daily 13.
+Brimonidine 0.15% one drop ophthalamic [**Hospital1 **] 14.
+Triamcinolone actenoide 0.1% ointment applied TID PRN itching 15.
+Ferrous sulfate 325 mg PO daily   Discharge Medications: 1.
+Enoxaparin Sodium 80 mg SC Q12H 2.
+Aspirin 81 mg PO DAILY 3.
+Valsartan 320 mg PO DAILY 4.
+Simvastatin 20 mg PO QHS 5.
+Citalopram 20 mg PO DAILY 6.
+FoLIC Acid 1 mg PO DAILY 7.
+ALPRAZolam 0.25 mg PO BID:PRN anxiety 8.
+ALPRAZolam 0.25 mg PO QHS 9.
+Dorzolamide 2%/Timolol 0.5% Ophth.
+Acetaminophen 650 mg PO TID:PRN pain please do not exceed 1 gm/day 11.
+Calcitonin Salmon 200 UNIT NAS DAILY 12.
+Triamcinolone Acetonide 0.1% Ointment 1 Appl TP TID:PRN itching 14.
+Calcium Carbonate 500 mg PO BID 15.
+Vitamin D 400 UNIT PO BID 16.
+Ferrous Sulfate 325 mg PO DAILY 17.
+Ciprofloxacin HCl 500 mg PO Q12H Duration: 1 Days Day 5 [**6-26**] 18.
+Vancomycin Oral Liquid 125 mg PO/NG Q6H   Discharge Disposition: Extended Care  Facility: [**Location (un) 582**] at [**Location (un) 5176**]  Discharge Diagnosis: 1.
+Myelofibrosis 2.
+Together, you and your family and caregivers have decided to focus on comfort based care.
+Going forward, as part of your care plan, future lab draws, blood transfusions and re-hospitalizations will be avoided.
+While at [**Hospital1 18**] you were treated for a urinary tract infection.
+You will need 7 additional days of oral vancomycin after completing your ciprofloxacin for complete treatment of your clostridium difficile infection.
+We have also increased the frequency of alprazolam for treatment of your anxiety.
+The following changes were made to your medication list: 1.
+START ciprofloxacin for 1 additional day 2.
+CONTINUE vancomycin for 8 additional days 3.

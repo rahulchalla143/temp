@@ -1,0 +1,72 @@
+Admission Date:  [**2134-4-19**]              Discharge Date:   [**2134-5-11**]  Date of Birth:  [**2061-11-2**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 12131**] Chief Complaint: Hypotension  Major Surgical or Invasive Procedure: Endoscopy Sigmoidoscopy Portacath removal [**First Name3 (LF) **] catheter placement [**First Name3 (LF) **]   History of Present Illness: 72M with pmh significant for metastatic rectal cancer was at radiology clinic receiving scheduled imaging when blood pressure at triage recorded 60/40.
+His port was accessed and he was bolused with 300cc of IVF and transferred to the ED.
+His last dose of irinotecan and panitumab chemotherapy was Monday [**2134-3-29**] (patient reports was [**4-12**] but not recorded in OMR), and he reports always getting diahrrea with his chemotherapy.
+He has been taking immodium and diphenoxylate-atropine without improvement.
+EMS gave him another 500cc of NS prior to arrival to the ED.
+He was given 3L of NS and 4 grams of Mg. .
+He is denying fevers, abdominal pain, chest pain, hematochezia, melena.
+- [**2131-8-14**] to [**2131-9-25**]:  Neoadjuvant chemoradiation with continuous 5-FU at 225 mg/m2/day and radiation therapy five days weekly.
+The resection margins were uninvolved.
+- [**2132-2-13**]: Ileostomy takedown with simultaneous flexible bronchoscopy and VATS with left lower lobe resection.
+It was felt that the lesion was amenable to surgical resection, and it was planned that the patient would undergo two cycles of chemotherapy prior to proceeding with hepatic resection.
+- [**2132-4-9**]: FOLFOX chemotherapy initiated.
+The patient completed two cycles of therapy on [**2132-6-3**].
+- [**2132-10-22**]: Cycle 1 Day 1 5FU/LV for further adjuvant chemotherapy.
+Oxaliplatin eliminated due to neuropathy.
+The patient completed therapy in [**1-5**].
+The patient underwent TPA infusion followed by venous angioplasty with balloon dilation with resolution of symptoms.
+- [**2133-8-3**]: Initiation of ininotecan for recurrent disease.
+- [**2134-2-8**]: Due to laboratory and radiographic evidence of disease progression, cetuximab was added to ininotecan; due to an allergic reaction, cetuximab was changed to panitumumab on [**2134-2-16**].
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              STAPH AUREUS COAG +                              | CLINDAMYCIN-----------<=0.25 S ERYTHROMYCIN----------<=0.25 S GENTAMICIN------------ <=0.5 S LEVOFLOXACIN----------<=0.12 S OXACILLIN-------------   0.5 S TRIMETHOPRIM/SULFA---- <=0.5 S  [**2134-4-24**] 2:47 pm BLOOD CULTURE      Source: Line-PICC.
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              STAPH AUREUS COAG +                              | CLINDAMYCIN-----------<=0.25 S ERYTHROMYCIN----------<=0.25 S GENTAMICIN------------ <=0.5 S LEVOFLOXACIN----------  0.25 S OXACILLIN-------------     1 S TRIMETHOPRIM/SULFA---- <=0.5 S     Anaerobic Bottle Gram Stain (Final [**2134-4-26**]):       GRAM POSITIVE COCCI IN PAIRS AND CLUSTERS.
+Brief Hospital Course: Mr. [**Known lastname 1683**] is a 72 yo M with h/o metastatic rectal CA and SVC syndrome, now resolved on lovenox tx, who was admitted to OMED on [**4-19**] with intractable diarrhea thought [**3-2**] chemo and transferred to the [**Hospital Unit Name 153**] on [**4-24**] with BRBPR and hematemesis.
+They recommended PPI and carafate slurry.
+They were concerned that patient's whole GI tract was diffusely inflamed as was seen on EGD and that the anastamotic site from his colectomy might be a bleeding source; a flex sigmoidoscopy was done on as well and showed as well diffuse ulceration and inflammation.
+The patient was started on steroid enemas and mesalamine suppositories to decrease inflammation.
+The steroid enemas were discontinued, but the mesalamine suppositories were continued through to discharge.
+Infectious diseases was consulted and the patient was switched to nafcillin with confirmation of MSSA.
+The patient however despite aggressive crystalloid and colloid (albumin, a further 2 units of blood) resuscitation then developed sepsis related acute tubular necrosis.
+Hemodialysis was initiated which the patient tolerated well, and a permanent tunneled catheter line was placed on [**2134-5-7**].
+The patient was started on phosphate binders, nephrocaps and erythropoeitin dosed at hemodialysis.
+The carafate was discontinued due to risk of aluminum toxicity.
+The nafcillin was also changed to Cefazolin dosed 2mg at each [**Date Range 2286**] session for ease of administration and avoiding extra volume loading.
+Should the patient miss [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 2286**] session, extra doses of cefazolin should be administered as needed.
+The patient was planned for a 28 day course of cefazolin to be finished on [**2134-5-22**].
+His BP initally recovered with 500cc NS bolus.
+He was bolused NS and given PRBC with improved HR to the 110s, and BP to 120s/80s.
+s/p TPA infusion followed by venous angioplasty with balloon dilation with resolution of symptoms.
+He was initially treated with lovenox (dose recalculated this admission, should be lower than his admission dose), but this was held secondary to GI bleed.
+#Diarrhea - the patient continued to have diarrhea that was controlled with titration of his anti-diarrheal medications.
+Infectious sources were ruled out and the cause was likely irinotecan-induced GI toxicity and radiation proctitis.
+During volume resuscitation the patient became grossly edematous, and albumin was administered to little effect.
+The patient slowly became less edematous when [**Year (4 digits) 2286**] was initiated and ultrafiltration was started.
+Medications on Admission: DIPHENOXYLATE-ATROPINE - 2.5 mg-0.025 mg Tablet - [**1-30**] Tablet(s)  by mouth q6hr as needed for diarrhea ENOXAPARIN [LOVENOX] - 150 mg/mL Syringe - Inject 150 mg once a  day LISINOPRIL - (Prescribed by Other Provider) - 10 mg Tablet - 1 Tablet(s) by mouth daily METOPROLOL SUCCINATE [TOPROL XL] - (Prescribed by Other Provider) - 100 mg Tablet Sustained Release 24 hr - 1 Tablet(s)  by mouth daily METRONIDAZOLE [METROGEL] - 1 % Gel - apply to rash twice a day PROCHLORPERAZINE MALEATE - 10 mg Tablet - 1 Tablet(s) by mouth q6hr as needed for nausea SIMVASTATIN - (Prescribed by Other Provider) - 20 mg Tablet - 1  Tablet(s) by mouth daily LOPERAMIDE [IMODIUM A-D] - 2 mg Tablet - 2 Tablet(s) by mouth q4he as needed for diarrhea PYRIDOXINE - (OTC) - 50 mg Tablet - 2 Tablet(s) by mouth once a  day   Discharge Medications: 1.
+Diphenoxylate-Atropine 2.5-0.025 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed for diarrhea.
+Compazine 10 mg Tablet Sig: One (1) Tablet PO every six (6) hours as needed for nausea.
+Simvastatin 20 mg Tablet Sig: One (1) Tablet PO once a day.
+Loperamide 2 mg Capsule Sig: One (1) Capsule PO every four (4) hours as needed for diarrhea.
+Pyridoxine 50 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO TID (3 times a day).
+Ipratropium Bromide 0.02 % Solution Sig: One (1) neb Inhalation Q6H (every 6 hours) as needed for shortness of breath or wheezing.
+Simethicone 80 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO QID (4 times a day) as needed for bloating, gas.
+Heparin Flush (10 units/ml) 2 mL IV PRN line flush PICC, heparin dependent: Flush with 10mL Normal Saline followed by Heparin as above daily and PRN per lumen.
+Ondansetron 4 mg IV Q8H:PRN nausea 11.
+Prochlorperazine 10 mg IV Q6H:PRN nausea 12.
+CefazoLIN 2 g IV HD PROTOCOL HD protocol, to be given during hemodialysis 13.
+Diphenoxylate-Atropine 2.5-0.025 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for diarrhea.
+Calcium Acetate 667 mg Capsule Sig: One (1) Capsule PO TID W/MEALS (3 TIMES A DAY WITH MEALS).
+B Complex-Vitamin C-Folic Acid 1 mg Capsule Sig: One (1) Cap PO DAILY (Daily).
+Heparin (Porcine) 1,000 unit/mL Solution Sig: 4000-[**Numeric Identifier 2249**] Unit Injection PRN (as needed) as needed for line flush: DWELL PRN line flush [**Numeric Identifier **] Catheter (Tunneled 2-Lumen): [**Numeric Identifier **] NURSE ONLY: Withdraw 4 mL prior to flushing with 10 mL NS followed by Heparin as above according to volume per lumen.
+Insulin Lispro 100 unit/mL Solution Sig: Sliding scale units Subcutaneous ASDIR (AS DIRECTED): 2 units for 101-150 4 units for 151-200 6 units for 201-250 8 units for 251-300 10 units for 301-350 12 units for 351-400.
+Mesalamine 1,000 mg Suppository Sig: One (1) Suppository Rectal DAILY (Daily).
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1) nebulizer Inhalation Q6H (every 6 hours) as needed for dyspnea.
+Epogen 10,000 unit/mL Solution Sig: Hemodialysis  Protocol Injection with each [**Numeric Identifier 2286**] session.
+Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1) mL Injection TID (3 times a day).
+We believe the diarrhea was a side effect of the chemotherapy you had received; it was treated with 3 anti-diarrheal medications.
+You also have a low blood pressure on admission, this was likely due to dehydration in the setting of diarrhea, and it improved with rehydration with IV fluids.
+This severely damaged your kidneys, requiring you to be started on hemodialysis.
+You had a permanent [**Location (un) 2286**] catheter placed and you will need to continue getting [**Location (un) 2286**] 3 times a week.
+You were started on several new medications when you were admitted.
+Nephrocaps 1 capsule daily Phos-lo 667mg three times a day mesalamine 1000mg suppositories once a day Cefazolin 2g given with hemodialysis pantoprazole 40mg daily Erythropoetin given with hemodialysis  Your metoprolol was changed from 100mg once a day to 25mg three times a day  Your lisinopril and enoxaparin have been discontinued.
+[**Last Name (STitle) **] and [**Name5 (PTitle) **] [**Name5 (PTitle) **] discuss any further treatment for you rectal cancer.

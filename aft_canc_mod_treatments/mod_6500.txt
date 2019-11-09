@@ -1,0 +1,27 @@
+Admission Date:  [**2176-1-4**]              Discharge Date:   [**2176-1-7**]  Date of Birth:  [**2106-8-9**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**Last Name (NamePattern4) 290**] Chief Complaint: COB, cough, lung cancer with obstruction  Major Surgical or Invasive Procedure: None   History of Present Illness: 69 yo male with extensive smoking history, recurrent squamous cell lung cancer with hx of LLL lobectomy in the past, many hospitalizations for COPD flares (2 L home O2 baseline), with hx of intubations in the past, now presents in transfer from [**Hospital1 **] for palliative radiation therapy of recurrence of squamous cell lung cancer with RLL mass with bronchial obstruction, and SOB.
+He was treated with Vancomycin and Pip/Tazo epirically, however this was later discontinued after bronchoscopy as post-obstructive pneumonia was thought less likely.
+Denies: fever, chills/rigors, night sweats, anorexia, chest pain, palpitations, LE edema, hemoptysis, nausea, vomiting, abdominal pain, abdominal swelling,  constipation, hematemesis, hematochezia, melena.
+Past Medical History: # Lung cancer, squamous cell carcinoma, s/p Left lower lobe lobectomy # History Etoh abuse # COPD, with hx CO2 retention requiring ICU admission; 2L home O2 # CHF; EF [**1-30**] 50-55%, diastolic dysfunction, central hypertrophy, PE pressure approx 50 mmHg # BPH # Hx positive PPD since [**2149**] # Hx syncope, ?vasovagal # Prevertebral mass of unclear etiology # Neurosyphillis in [**2-27**], treated with IVP   Social History: Lives in a nursing home with his wife.
+Pertinent Results: Discharge Labs OSH: WBC 8.8  HCT 29.6  PLT 235 Na 140  K 5.3  Cl 98  CO2 38  BUN 21  Cr 1.4  Glu 79 Ca 8.6  Blood Gas BLOOD GASES            Type            pO2  pCO2 pH calTCO2 Base XS Intubat Comment [**2176-1-6**] 09:18AM    ART             80* 83*1 7.35 48*2 15  [**2176-1-5**] 11:41AM    ART 37.1        67* 85*3 7.34* 48*3 15 [**2176-1-5**] 01:37AM    ART             71* 91*6 7.31* 48*6 14  [**2176-1-5**] 12:13AM    ART             136* 101*1 7.27* 48*1 14  .
+Chemistries            Glu BUN Cre Na  K+  Cl- HCO3 [**2176-1-7**] 12:38PM                138 5.0 94* [**2176-1-7**] 05:09AM    88   15 1.1 138 5.2* 93* 42*2 [**2176-1-6**] 04:44AM    69*1 16 1.0 137 5.1 95* 37* [**2176-1-5**] 06:33PM    143*1 17 1.1 138 4.5 96 40* [**2176-1-5**] 09:09AM    67*1 16 1.0 143 5.1 99 39* [**2176-1-4**] 08:40PM    98   16 1.1 141 5.1 99 40* .
+Brief Hospital Course: 69 yo male with hx of severe COPD with hx of hospitalizations requiring intubations in the past, squamous cell lung cancer with hx of LLL lobectomy, presents in transfer from [**Hospital1 **] s/p episode of hypercarbic respiratory failure.
+He does require BiPAP at night with settings [**11-24**] with 14 backup rate, and 30% FIO2 to maintain O2 sat between 88 and 92%.
+During that hospitalization, he was treated with CPAP and underwent bronchoscopy for concern of RLL collapse which revealed mass obstructing the bronchus, and was confirmed to have recurrence of squamous cell cancer.
+Patient was transferred to [**Hospital1 18**] for radiation therapy per recommendations of their pulmonary consult, despite requesting transfer to [**Hospital1 112**] where his oncologist is.
+# Severe COPD, CO2 retention Floor course unclear, however patient was initially admitted to the floor, where BIPAP was not started.
+Patient was taken to the [**Hospital Unit Name 153**] where he was placed on standing nebs, and he was placed on BIPAP.
+As definitive treatment of this issue would be relief of dead space via XRT of his obstructing SCC, and because his oncological care is at the [**Hospital1 84145**] transfer to [**Hospital1 112**] for initiation of XRT was undertaken.
+Plan going forward: - Transfer to [**Hospital1 112**] for XRT - Continue NEBS - Continue BIPAP at 12/5 with 14 backup rate, and 30% FIO2 to maintain O2 sat between 88 and 92% .
+FEN: Cardiac diet CODE: DNR/DNI - confirmed by [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Last Name (NamePattern1) **] PPX: Heparin SQ, ppi   Medications on Admission: Spiriva 1 INH q Day Heparin 5000 units SQ TID Folic acid 1 mg po q day Colace 100 mg po bid tylenol 650 mg po q 4hr prn Mucinex 1200 mg po BID Albuterol nebs 1 4hr Protonix 40 mg po qday Flomax 0.4 mg po q day   Discharge Medications: 1.
+Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1) Injection TID (3 times a day).
+Tamsulosin 0.4 mg Capsule, Sust.
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+Guaifenesin 100 mg/5 mL Syrup Sig: 5-10 MLs PO Q6H (every 6 hours) as needed for cough.
+Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for fever or pain.
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1)  Inhalation Q4H (every 4 hours) as needed for wheezing.
+Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation Q6H (every 6 hours) as needed for wheezing.
+Budesonide 0.5 mg/2 mL Suspension for Nebulization Sig: Two (2) puffs Inhalation twice a day.
+COPD with CO2 narcosis requiring nocturnal BiPAP  Secondary: 1.
+Whilst you were there you were placed on a BiPAP mask to help your breathing.

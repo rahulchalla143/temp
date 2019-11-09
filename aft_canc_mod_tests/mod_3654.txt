@@ -1,0 +1,25 @@
+Mr. [**Known lastname **] had been discharged from [**Hospital1 18**] on [**2173-10-30**] after a cardiac catheterization and BMS placement to the LCx and [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] 3 to the LAD arteries.
+On arrival to the ER, patient's SBP was > 230 and was intubated.
+Pt had a temp > 101 at OSH and was started on IV Ceftriaxone.
+Pt was transferred to [**Hospital1 18**] for further management.
+CAD s/p BMS to LCx in [**9-12**] Chronic diastolic CHF AS NIDDM II PAD s/p stents PUD HTN hyperlipidemia   Social History: Moved to U.S. from [**Country 651**].
+Physical Exam: VS - 101.8, 100.8, 95, 142/56, 77, 19, 99% 2L NC Gen: Elderly gentleman resting comfortably lying flat.
+CV: PMI located in 5th intercostal space, midclavicular line.
+Pertinent Results: [**2173-11-7**] 08:26PM   GLUCOSE-74 UREA N-26* CREAT-1.5* SODIUM-145 POTASSIUM-4.2 CHLORIDE-103 TOTAL CO2-31 ANION GAP-15 [**2173-11-7**] 08:26PM   CK(CPK)-107 [**2173-11-7**] 08:26PM   CK-MB-5 cTropnT-0.93* [**2173-11-7**] 08:26PM   WBC-22.9*# RBC-3.85*# HGB-10.6*# HCT-32.1* MCV-84 MCH-27.6 MCHC-33.0 RDW-14.6  TEE [**11-11**]: No vegetations found.
+Renal US [**11-9**]: 1.
+CXR [**11-7**]: The current study demonstrates mild-to-moderate cardiomegaly, unchanged compared to the prior study.
+Acute on Chronic diastolic heart failure:  Patient presented to OSH with SBPs > 230 and flash pulmonary edema and was intubated.
+Pt was extubated prior to transfer and on arrival SBP on was 142.
+Patient's enzymes were flat at OSH, however Trop at [**Hospital1 18**] was 0.93.
+Severe Aortic stenosis: Last echo [**10-13**] showed severe AS of 0.8.
+MSSA Bacteremia: Pt found to be febrile, pancultured and found to have MSSA bacteremia.
+Pt had a TEE negative for vegetations and will thus require at 2-4 weeks of antibiotics course.
+HTN: Blood pressures were poorly controlled and pt initially required nitroglycerin drip.
+Disp:*60 Tablet(s)* Refills:*2*   Discharge Disposition: Home With Service  Facility: All Care VNA of Greater [**Location (un) **]  Discharge Diagnosis: Aortic Stenosis CHF Staph Bacteremia Gastritis Hypertension Renal Artery Stenosis   Discharge Condition: stable hct 32.2 bun 33 creat 1.4 wbc 5.0   Discharge Instructions: You have an infection in your blood that is caused by the staph bacteria.
+the echocardiogram did not show any evidence of bacteria on your valves.
+Close attention should be paid to your blood pressure and blood sugar to keep them well controlled.
+You will need another endoscopy in 6 weeks to show that this has been healed.
+Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight > 3 lbs in 1 day or 6 pounds in 3 days.
+Followup Instructions: Podiatry: Provider: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 722**], DPM Phone:[**Telephone/Fax (1) 543**] Date/Time:[**2173-11-30**] 1:40 .
+Cardiology: Provider: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], MD Phone: [**Telephone/Fax (1) 7960**] Date/Time: Wednesday [**12-1**] at 11:30am.
+Gastroenterology: Repeat endoscopy Provider: [**First Name8 (NamePattern2) **] [**Name11 (NameIs) **],EAST PROCEDURES ENDOSCOPY SUITES Phone:[**Telephone/Fax (1) 463**] Date/Time:[**2173-12-27**] 1:00.

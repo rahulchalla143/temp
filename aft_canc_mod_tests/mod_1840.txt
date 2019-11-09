@@ -1,0 +1,31 @@
+Admission Date:  [**2144-11-18**]              Discharge Date:   [**2144-12-5**]  Date of Birth:  [**2067-9-1**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 905**] Chief Complaint: CHF exacerbation  Major Surgical or Invasive Procedure: Central Line placment Hemodialysis   History of Present Illness: 77-year-old male with history of DM Type II, CHF (last echo [**7-/2143**] with EF 20-30%, 1+ MR, 1+ AR, LAH), CAD s/p CABG [**2129**]/[**2132**] (unclear anatomy, not on file here), chronic LE edema, LE superficial ulcers, who presented with worsening dyspnea, increased abdominal girth x 2 days (baseline wt ~ 172 lbs => 176 on last check this week).
+Of note, had episode of unheralded syncope on Monday; no aura or neurologic, cardiac prodrome; did not remember falling to ground, woke up on ground later after undetermined period, no bowel/bladder incontinence, post-ictal confusion, tongue biting.
+p-MIBI in [**3-/2143**] Partially reversible, moderate-severe myocardial perfusion defect involving the entire inferior wall and the inferior portion of the lateral wall.
+LV enlargement and global hypokinesis with EF of 21%.
+Congestive Heart Failure: ECHO [**2-21**]: Lventricular systolic function is severely depressed (ejection fraction 20-30 percent) secondary to akinesis of the inferior and posterior walls and severe hypokinesis of the inferior septum.
+Physical Exam: T: 96.5 BP: 118/64 HR: 61 RR: 18 O2sats: 98% RA Gen: NAD HEENT: NC/AT; MMM; OP clear without lesions or exudate; PERRLA ; EOMI NECK: Supple, No LAD, Thyroid smooth and not enlarged, JVP not distended Lungs: CTA bilaterally without wheezes, rhonchi or rales Heart: RRR, nl S1 and S2, no murmurs rubs or gallops Abd: Soft, NT, ND, NABS, no masses palpated Ext: No C/C/E; 2+DP/PT pulses bilaterally Skin: Warm and Dry Rectal: Normal rectal tone; brown guaiac negative stool Neuro: A&O x 3; CN II - XII individually tested and intact; strength 5/5 upper and lower extremities; sensation grossly intact in upper and lower extremities; 2+ reflexes in patella   Pertinent Results: ECHO [**2144-11-20**] Conclusions: The left atrium is moderately dilated.
+Overall left ventricular systolic function is severely depressed.
+Tissue velocity imaging E/e' is elevated (>15) suggesting increased left ventricular filling pressure (PCWP>18mmHg).
+Right ventricular systolic function appears depressed.
+Compared with the prior report (tape unavailable) of [**2143-3-1**], left ventricular systolic function is probably worse.
+EKG - NSR at 100, left axis deviation, 1' AVB, delayed RWP (new), non-specific IVCD/LBBB likely lead placement (had been LBBB on prior EKG, likely lead placement) .
+LABS on discharge: WBC 12.1 (improving), HCT 28.4 (received one unit of blood in dialysis after this lab value), PLT 356 Na 135, k 4.2, Cl 98, HCO3 25, BUN 51, Cr 4.6 INR 1.8 .
+CHEST CT WITHOUT IV CONTRAST ([**2144-12-3**]): Mosaic pattern of pulmonary perfusion is unchanged from [**2143-12-30**].
+These were both seen on the prior study and are not changed in the interval.
+Several other nodules seen on the prior study are not seen in the current study, either resolved of subsumed in the atelectasis in the right lung.
+Followup non- contrast chest CT is recommended after treatment to confirm stability of these nodules.
+Initial management was directed toward lowering his wedge pressure and further afterload reduction for resolution of his systolic heart failure.
+Serum creatinine increased to mid-3 (3.3) from 2.8 baseline on admission.
+Digoxin was restarted, with lopressor and nitrate held for further blood pressure room for fluid removal and amiodarone.
+Given concern for conduction delay, tissue doppler imaging echo was obtained, which disclosed a septal-to-posterior wall motion delay od 306 ms; however, biventricular pacing was deferred given his pituitary adenoma (and likely reimaging) and active lower extremity ulcerations.
+Transthoracic echocardiogram on [**11-20**] disclosed new aortic stenosis (valve area 1.0, though calculated in setting of low-flow, low-gradient), 1+ MR, global LV hypokinesis, with ejection fraction 21%.
+Chest CT was obtained for evaluation of right pleural effusion, and it was felt that by imaging and ultrasound, the right pleural effusion was too small to tap.
+He was transfused 2 units packed red blood cells, and re-started on lisinopril.
+Given his low ejection fraction, he was started on coumadin for a goal INR [**2-20**], and should have a repeat INR check within 3 days of discharge.
+Ceftriaxone (initially started in CCU for presumed UTI) was converted to ciprofloxacin given persistently positive urinalysis, and repeat urine culture was sent (pending on dischage); patient will complete ciprofloxacin 3 day course and, on INR check, should have a repeat urinalysis.
+Spironolactone, lisinopril, amiodarone were continued, and he was started on renagel and nephrocaps as he initiated hemodialysis.
+PTH and iron studies (requested by renal) pending on discharge.
+Coumadin 2 mg Tablet Sig: One (1) Tablet PO at bedtime: Please recheck INR on [**2144-12-6**] and adjust his dose as needed.
+Goal INR = [**2-20**].
+positive p-MIBI in [**3-/2143**] CHF with an EF here 21%, LV global HK Benign prostatic hypertrophy s/p TURP Sleep Apnea   Discharge Condition: Stable, on hemodialysis   Discharge Instructions: Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight > 3 lbs.
+[**First Name8 (NamePattern2) **] [**Doctor Last Name **] Phone:[**Telephone/Fax (1) 3512**] Date/Time:[**2144-12-28**] 10:00  Provider: [**Name10 (NameIs) **],[**First Name7 (NamePattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **] SURGERY (NHB) Date/Time:[**2145-1-14**] 11:30  Provider: [**Name10 (NameIs) 1571**] BREATHING TEST Phone:[**Telephone/Fax (1) 612**] Date/Time:[**2145-3-9**] 10:55                                [**Name6 (MD) 251**] [**Name8 (MD) **] MD [**MD Number(1) 910**]

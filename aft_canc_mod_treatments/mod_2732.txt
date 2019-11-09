@@ -1,0 +1,33 @@
+Admission Date:  [**2199-3-2**]              Discharge Date:   [**2199-3-20**]   Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 783**] Chief Complaint: Dyspnea  Major Surgical or Invasive Procedure: Intubation and Mechanical Ventilation; Esophagoduodenogastroscopy.
+On arrival to the ED, th OS was in the 80's on room air: hypertension, tachypnea and tachycardia were noted.
+Ceftriaxone and Azithromycin were started.
+[**2199-3-2**] 03:00AM   CK-MB-NotDone cTropnT-<0.01 proBNP-1100* [**2199-3-2**] 11:20AM   CK(CPK)-55 [**2199-3-2**] 11:20AM   CK-MB-NotDone cTropnT-0.03* [**2199-3-2**] 03:30PM   CK(CPK)-53 [**2199-3-2**] 03:30PM   CK-MB-NotDone cTropnT-0.03* .
+A definite pathogen was not identified, but atypical (possibly malignant vs premalignant) cells were seen in BAL along with chest imaging revealing upper lung-zone infiltrates.
+He improved from a respiratory standpoint and was weaned from MV.
+Resp Distress: The patient had an ICU MV/intubation course as above.
+His Chest CT showed dense apical infiltrates of unclear etiology, but he did well on CAP Rx (Ceftriaxone and Azithromycin).
+Amongst and after MV, he was continued on Ipratropium Bromide Neb 1 NEB IH Q6H:PRN and O2: by the middle of his course (soon after transfer to the floor) he was stable on room air and seemed comfortable.
+He received one unit of PRBC and was hematocrit-stable thereafter.
+He was followed by the GI service and was commenced on PPI [**Hospital1 **].
+PAF: He had new onset PAF/RVR over this hospital course, which was possibly related to the acute stress of infectiona and resp distress.
+Anticoagulation was not started given the fact this was a new-onset AF in the setting of acute illness and his new UGIB.
+HTN: He was titrated on the following regimen for relatively difficult to manage HTN: Lisinopril 40 mg PO DAILY, Metoprolol 37.5 mg PO TID, HCTZ 50 mg PO DAILY, and Amlodopine 5 mg PO DAILY.
+DMII: He was on FS QID with Insulin SC.
+He was controlled with Metformin at home.
+Enlarged Thyroid: An incidental heterogeneous thyroid with coarse calcifications and associated adenopathy was seen on CT, concerning for malignancy.
+Medications on Admission: metformin lisinopril nifedipine MVI  Discharge Medications: 1.
+Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day.
+Lisinopril 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Amlodipine Besylate 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Hydrochlorothiazide 25 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Atenolol 50 mg Tablet Sig: One (1) Tablet PO once a day.
+Acetylcysteine 20 % (200 mg/mL) Solution Sig: 600 mg Miscell.
+[**Hospital1 **] (2 times a day) for 4 doses: Mucomyst 600 mg by mouth in the morning and the evening of [**4-22**] and then again immediately after the CAT Scan - on [**2199-4-23**], please take Mucomyst 600 mg by mouth at 1PM and then again in the evening.
+Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.)
+Metformin HCl 500 mg Tablet Sig: One (1) Tablet PO once a day: Please confirm this dosing with your primary doctor.
+Discharge Instructions: 1) If you have any dark or black stools, diarrhea, nausea, vomiting, abdominal pain, light-headedness,dizziness, you may be bleeding in your stomach; please contact your doctor or return to the emergency room immediately.
+3) Please take your new medications as instructed.
+4) You have a CAT Scan of your chest scheduled for [**2199-4-22**].
+Please take Mucomyst 600 mg by mouth in the morning and the evening of [**4-22**] and then again immediately after the CAT Scan - on [**2199-4-23**], please take Mucomyst 600 mg by mouth at 1PM and then again in the evening.
+2) Please see Dr. [**First Name (STitle) 2643**] and Dr. [**First Name (STitle) 437**], your new stomach doctors (gastroenterologists) for the following appointment:  Provider [**Name9 (PRE) **],[**First Name7 (NamePattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **] WEST OFFICE (SB) Where: LM [**Hospital Unit Name **] GASTROENTEROLOGY Phone:[**Telephone/Fax (1) 1983**] Date/Time:[**2199-3-29**] 2:00  Provider [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 12427**], MD Where: [**Hospital6 29**] MEDICAL SPECIALTIES Phone:[**Telephone/Fax (1) 1954**] Date/Time:[**2199-4-16**] 1:40  3) Please see your new lung doctor (pulmonologist) for the following appointment:  Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] on [**2199-4-22**] at 12:45PM in the [**Location (un) **] of the [**Hospital Ward Name 23**] Building at the Pulmonary Clinic.
+Please take Mucomyst as instructed (which protects your kidneys) prior to the CAT Scan:  Provider CAT SCAN Where: [**Hospital6 29**] RADIOLOGY Phone:[**Telephone/Fax (1) 327**] Date/Time:[**2199-4-22**] 11:45  5) Please call for an appointment with your new thyroid doctor (endocrinologist) at the Thyroid [**Hospital **] Clinic.

@@ -1,0 +1,35 @@
+Admission Date:  [**2111-9-24**]              Discharge Date:   [**2111-10-2**]  Date of Birth:  [**2036-4-8**]             Sex:   M  Service: SURGERY  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 1481**] Chief Complaint: Intraabdominal bleed following appendectomy with polymicrobial superinfection, upper GI bleed documented by endoscopy  Major Surgical or Invasive Procedure: None   History of Present Illness: Mr. [**Known lastname 1255**] is a 75 year-old male s/p open appendectomy 10 days ago at OSH complicated by infected intra-abdominal hematoma requiring blood transfusions as well as IR drainage of hematoma 2 days ago.
+Past Medical History: PMH: - Glaucoma - Hyperlipidemia - Erectile dysfunction - BPH  PSH: - Open appendectomy ([**2111-9-15**])   Social History: Math professor [**First Name (Titles) **] [**Last Name (Titles) **].
+Physical Exam: Upon Discharge: Vitals - 98.1 98.0 87 120/58 18 100%RA Gen - AAOx3 NAD CV - RRR, +S1/S2, no murmurs/rubs/gallops Resp - CTAB Abd - soft, non-tender, non-distended, no palpable masses, +BS, no rebound/rigidity/guarding, drainage cathter in place with no erythema/drainage/induration, dressing clean/dry/intact and bag securely attached to patient.
+8 cc of Epinephrine 1/[**Numeric Identifier 961**] was injected.
+- Otherwise normal EGD to third part of the duodenum  CT ABDOMEN/PELVIS WITH IV CONTRAST ([**2111-9-30**]): 1.
+The transgluteal drain sits within the pelvis and does not demonstrate any significant amount of surrounding fluid.
+DISCHARGE LABS:  [**2111-10-2**] 04:49AM BLOOD WBC-9.5 RBC-2.73* Hgb-8.6* Hct-25.9* MCV-95 MCH-31.5 MCHC-33.3 RDW-18.8* Plt Ct-270 [**2111-10-2**] 04:49AM BLOOD Plt Ct-270 [**2111-10-2**] 04:49AM BLOOD Glucose-106* UreaN-18 Creat-1.1 Na-141 K-4.1 Cl-109* HCO3-30 AnGap-6* [**2111-9-25**] 01:00AM BLOOD ALT-22 AST-33 AlkPhos-81 TotBili-0.5 [**2111-10-2**] 04:49AM BLOOD Calcium-7.1* Phos-3.0 Mg-2.2  Brief Hospital Course: The patient was transfered to the General Surgical Service at [**Hospital1 18**] for evaluation and treatment of intra-abdominal hematoma in the context of open appendectomy with polymicrobial superinfection at an outside hospital, and upper GI bleed  He was admitted to the ICU on the night of [**2111-9-24**].
+He was kept NPO, on IV fluids, with a foley catheter, NGT, and pigtail catheter drain (placed at outside hospital) in place.
+Stool guaiac tests, as well as full labs, blood and urine cultures, and chest x-ray were obtained.
+He was placed on a pantoprazole infusion, as well as antibiotics (ciprofloxacin and flagyl).
+He remained NPO, on IV fluids, with a foley catheter and NGT, on antibiotics, with PPI infusion running and sucralfate QID added to his regimen.
+On HD#2 ([**9-26**]), he continued to be NPO, on IV fluids, with foley catheter and pigtail drain and NGT in place, on antibiotics, on PPI infusion and sucralfate QID.
+His foley cathter and pigtal drain were maintained.
+He remained on PPI infusion and sucralfate QID.
+Based on the findings, it was determined to proceed with Interventional Radiology drainage the following morning.
+Consequently, the patient was made NPO at midnight.
+Throughout this day, he continued to feel well, ambulating frequently, and tolerating regular diet well prior to being made NPO at midnight.
+On HD#7 ([**10-1**]), the patient underwent IR drainage during which 100cc of red cloudy fluid was aspirated.
+His prior drain was removed.
+The drain was maintained.
+Wound care was performed regularly and thoroughly.
+The patient received subcutaneous heparin and venodyne boots were used during this stay; was encouraged to get up and ambulate as early as possible.
+Atorvastatin 20 mg PO HS 2.
+Pantoprazole 40 mg PO Q12H RX *pantoprazole 40 mg 1 tablet(s) by mouth twice a day Disp #*60 Tablet Refills:*1 3.
+MetRONIDAZOLE (FLagyl) 500 mg PO Q 8H RX *metronidazole 500 mg 1 tablet(s) by mouth every eight (8) hours Disp #*21 Tablet Refills:*0 4.
+Ciprofloxacin HCl 500 mg PO/NG Q12H RX *ciprofloxacin 500 mg 1 tablet(s) by mouth every twelve (12) hours Disp #*14 Tablet Refills:*0 5.
+Docusate Sodium 100 mg PO BID RX *docusate sodium [Colace] 100 mg 1 capsule(s) by mouth twice a day Disp #*30 Capsule Refills:*0 6.
+Senna 1 TAB PO BID:PRN constipation RX *sennosides [senna] 8.6 mg 1 capsule by mouth twice a day Disp #*30 Capsule Refills:*0 7.
+Acetaminophen 650 mg PO Q6H:PRN fever/pain 8.
+Latanoprost 0.005% Ophth.
+Dorzolamide 2%/Timolol 0.5% Ophth.
+Sucralfate 1 gm PO QID RX *sucralfate 1 gram 1 tablet(s) by mouth four times a day Disp #*60 Tablet Refills:*0   Discharge Disposition: Home With Service  Facility: [**Hospital 119**] Homecare  Discharge Diagnosis: Intraabdominal bleed following appendectomy with polymicrobial superinfection, upper GI bleed documented by endoscopy   Discharge Condition: Mental Status: Clear and coherent.
+Discharge Instructions: You were admitted to the surgery service at [**Hospital1 18**] for evaluation and treatment of your intra-abdominal hematoma in the context of open appendectomy with polymicrobial superinfection at an outside hospital, and upper GI bleed.
+Also, please take any new medications as prescribed.
+Avoid driving or operating heavy machinery while taking pain medications.

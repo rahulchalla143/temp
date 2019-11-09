@@ -1,0 +1,45 @@
+Hct was 25, and patient was transfused 3 units pRBCs.
+Sent to [**Hospital1 18**] for further evaluation.
+RR was 32, O2 sat 97% on 2L.
+Labs notable for neutropenia with WBC 0.3 (16%N, 1 band, ANC 51), Hct 38.3, plt 61, Na 146, K 2.6, CO2 11, Cr 1.1 (baseline unknown), Ca 6.2, mag 1.1, trop 0.03.
+Lactate was 4.7.
+ABG 7.29/24/83/12.
+Repeat CT abd/pelvis here (on prelim read) showed [**Last Name (un) **] non-hemorrhagic free fluid in abdomen and pelvis w/ periportal edema, abnormal appearance of the ileocecal junction and proximal colon, significant wall thickening and inflammation suggestive of colitis, distal terminal ileum with minimal wall thickening, and a fluid-filled dilated appendix (14 mm) with surrounding inflammation (most likely reactive inflammation from primary process involving proximal colon).
+SBP dropped to 60s-70s.
+VS prior to transfer 129 95/53 24 98%.
+On arrival to the MICU, patient's VS. 97.3, 126 (sinus) 119/61, 18 98% 2L recieving norepinephrine 0.24 mg/min.
+NGT was in place draining coffee ground appearing material.
+She was readmitted to [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] on [**7-12**] with worsening abdominal pain and after out patient blood work demonstrated a K of 2.2.
+Family History: Mother with [**Name (NI) 4522**], Father with COPD   Physical Exam: ADMISSION PHYSICAL EXAM Vitals:  97.3, 126 (sinus) 119/61, 18 98% 2L recieving norepinephrine 0.24 mg/min.
+Pertinent Results: ADMISSION LABS Lactate: 4.7 -> 3.5 -> 3.6 freeCa: 0.67 -> 1.10  146 | 117 | 14 ----------------< 150 2.6 | 11  | 1.1   Ca: 6.2 Mg: 1.1 P: 3.4 ALT: 20 AST: 26 AP: 48 Tbili: 0.9 Alb: 2.6 Lip: 17 Trop-T: 0.03 WBC 0.3, Hgb 13.1, Hct 38.3, Plt 61 N:16 Band:1 L:75 M:4 E:0 Bas:0 Atyps: 4 PT: 11.9  PTT: 34.2  INR: 1.1  pH 7.29 / pCO2 24 / pO2 83 / HCO3 12 / BaseXS -12  UA: trace protein, trace ketones, 1 WBC, 1 RBC, few bacteria, no yeast, neg leuk, neg blood   Micro: Blood cultures 8/28 x2: pending Urine culture [**7-31**]: pending MICRO:  [**2153-8-3**] 10:37 am STOOL     CONSISTENCY: NOT APPLICABLE       Source: Stool.
+[**2153-8-21**] 12:05 pm BLOOD CULTURE      Source: Line-PICC.
+Blood Culture, Routine (Preliminary):       [**Female First Name (un) **] (TORULOPSIS) GLABRATA.
+IDENTIFICATION AND SENSITIVITIES PERFORMED ON CULTURE # 354-7014F          [**2153-8-21**].
+Anaerobic Bottle Gram Stain (Final [**2153-8-22**]):       Reported to and read back by DR. [**Last Name (STitle) **].
+TAN ON [**2153-8-22**] AT 2250.
+Aerobic Bottle Gram Stain (Final [**2153-8-23**]):    BUDDING YEAST.
+**FINAL REPORT [**2153-8-25**]**     WOUND CULTURE (Final [**2153-8-25**]):    No significant growth.
+[**2153-8-24**] 2:07 pm BLOOD CULTURE      Source: Venipuncture.
+Blood Culture, Routine (Preliminary):       YEAST.
+Aerobic Bottle Gram Stain (Final [**2153-8-26**]):    BUDDING YEAST.
+IMAGING: CT Abd/Pelvis with contrast [**2153-7-31**]: IMPRESSION: 1.
+Moderate to large amount of non-hemorrhagic ascites with mesenteric and periportal edema, findings consistent with shock physiology and recent aggressive volume resuscitation.
+Delayed excretion of contrast from both kidneys, findings suggestive of acute renal failure, correlate clinically.
+CXR [**2153-7-31**]: IMPRESSION:  No acute cardiopulmonary process  TTE [**2153-8-7**]: The left ventricular cavity size is normal.
+Overall left ventricular systolic function is low normal (LVEF 50-55%).
+Compared with the prior study (images reviewed) of [**2153-8-1**], both left and right ventricular cavities are now smaller.
+TTE [**2153-8-24**]: Left ventricular wall thicknesses are normal.
+Left ventricular systolic function is hyperdynamic (EF 80%).
+An apical intracavitary gradient is identified.
+Compared with the findings of the prior study (images reviewed) of [**2153-8-7**], the left ventricle is now quite small and hyperdynamic.
+If clinically indicated, a transesophageal echocardiographic examination is recommended to exclude vegetations.
+No definite vegetations seen  CXR [**2153-8-26**]: Portable AP radiograph of the chest was reviewed in comparison to [**2153-8-24**].
+The possibility of tracheostomy and PEG were discussed with her and her family, but were prevented by the development of fungemia.
+On the morning of [**8-26**], her O2 requirement increased, urine output decreased and she developed bilateral infiltrates on CXR concerning for infection or ARDS.
+#Sepsis: The patient presented with neutropenic fever and shock requiring 3 pressors presumed secondary to sepsis from GI source given signs of colitis on CT imaging.
+As above, she again developed signs of sepsis on [**8-26**] from presumed pulmonary source given poor oxygenation and diffuse bilateral infiltrates on CXR and broad antibiotic coverage was restarted.
+#Fungemia: Blood cultures from [**8-21**] grew [**Female First Name (un) **] and pt was started on micafungin for planned 4 week course, PICC line removed.
+#Anemia: HGB/HCT trended down with initial HCT 38.8 and subsequent HCT in low to mid 20s requiring 5 blood transfusions throughout her admission.
+Additionally her retic count was low at .5% indicating poor bone marrow function in the setting of known multiple myeloma.
+#ELEVATED INR: INR noted to be elevated to peak 1.9, likely due to combination of poor nutrition and antibiotic therapy.
+[**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Name8 (MD) **] MD [**MD Number(1) 292**]

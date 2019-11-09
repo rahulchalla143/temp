@@ -1,0 +1,23 @@
+Admission Date:  [**2101-3-8**]              Discharge Date:   [**2101-3-14**]  Date of Birth:  [**2040-3-6**]             Sex:   F  Service: CARDIOTHORACIC  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 1505**] Chief Complaint: angina  Major Surgical or Invasive Procedure: CABGx4 (Lima>LAD,SVG>OM,SVG>ramus,SVG>PDA) [**3-9**]   History of Present Illness: 61 yo F with known CAD s/p PCI/stent, angioplasty, now with angina at rest.
+The patient is status post sternotomy, with cardiomegaly and borderline ectatic, tortuous aorta.
+Read by: [**Last Name (LF) **],[**First Name3 (LF) **] I.    Intervals Axes Rate PR QRS QT/QTc P QRS T 81 170 78 418/454 38 -7 28  [**Hospital1 18**] ECHOCARDIOGRAPHY REPORT  [**Known lastname 7405**], [**Known firstname 23068**]       [**Hospital1 18**] [**Numeric Identifier 23069**] (Complete) Done [**2101-3-9**] at 5:39:23 PM      FINAL Referring Physician     [**Name9 (PRE) **] Information [**Name9 (PRE) **], [**First Name3 (LF) **] R. Division of Cardiothoracic [**Doctor First Name **] [**Hospital Unit Name 4081**] [**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2040-3-6**] Age (years): 61 F  Hgt (in): BP (mm Hg): /  Wgt (lb): 240 HR (bpm):  BSA (m2): Indication: coronary artery disease ICD-9 Codes: 440.0 Test Information Date/Time: [**2101-3-9**] at 17:39    Interpret MD: [**Name6 (MD) 3892**] [**Name8 (MD) 3893**], MD Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3893**], MD Doppler: Full Doppler and color Doppler Test Location: Anesthesia West OR cardiac Contrast: None Tech Quality: Adequate Tape #: 2008AW03-: Machine: Echocardiographic Measurements Results  Measurements  Normal Range Left Ventricle - Septal Wall Thickness:  *1.4 cm  0.6 - 1.1 cm Left Ventricle - Inferolateral Thickness:  *1.4 cm  0.6 - 1.1 cm  Left Ventricle - Diastolic Dimension:  4.7 cm  <= 5.6 cm Left Ventricle - Ejection Fraction:  55%  >= 55% Aorta - Ascending:  3.4 cm  <= 3.4 cm Aortic Valve - Peak Velocity:  1.0 m/sec  <= 2.0 m/sec  Findings LEFT ATRIUM: Dilated LA.
+Complex (>4mm) atheroma in the descending thoracic aorta.
+The patient was under general anesthesia throughout the procedure.
+Minimal MR.   Electronically signed by [**Name6 (MD) 3892**] [**Name8 (MD) 3893**], MD, Interpreting physician [**Last Name (NamePattern4) **] [**2101-3-9**] 17:42     Brief Hospital Course: She was taken to the operating room on [**3-9**] where she underwent a Coronary artery bypass graft.
+She was given 48 hours of IV vancomycin as she was in the hospital preoperatively.
+She was hypertensive and required Nipride initially which was weaned to off on POD #1 and she was transferred to the floor.
+Medications on Admission: Lopressor XL 100', Metformin 500", Glipizide 10", Actos 30', Lipitor 80', ASA 325', Plavix 75', Zetia 10'  Discharge Medications: 1.
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO once a day.
+Aspirin 81 mg Tablet, Delayed Release (E.C.)
+Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Metformin 500 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Glipizide 10 mg Tablet Sig: One (1) Tablet PO twice a day.
+Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours) as needed.
+Furosemide 20 mg Tablet Sig: One (1) Tablet PO once a day for 7 days.
+Actos 30 mg Tablet Sig: One (1) Tablet PO once a day.
+Lisinopril 2.5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*   Discharge Disposition: Home With Service  Facility: [**Hospital **] Hospice and VNA  Discharge Diagnosis: CAD now s/p CABG CAD(PTCA of LAD/RCA '[**90**] and BMS of RCA '[**98**]), MI [**2090**] HTN, ^chol, DM2, obesity + PPD   Discharge Condition: Good.
+SHower, no baths, no lotions, creams or powders to incisions.

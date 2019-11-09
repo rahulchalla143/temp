@@ -1,0 +1,60 @@
+Admission Date:  [**2204-11-15**]              Discharge Date:   [**2204-12-5**]   Service: MEDICINE  Allergies: Penicillins / Cephalosporins / A.C.E Inhibitors / Tobramycin  Attending:[**First Name3 (LF) 2181**] Chief Complaint: Chest Pain  Major Surgical or Invasive Procedure: None  History of Present Illness: 83 y.o.
+female with PMH of CAD s/p stents x2 (unknown year) placed at OSH who presents with sudden onset of chest pain and pressure at NH.
+She was discharged on Levaquin for a UTI and Flagyl for GI coverage although C.diff negative.
+Pt received IV hydration at that time for Na of 115 on admission.
+In [**Name (NI) **] pt received 2mg Morphine with complete resolution of chest pain.
+Pt discussed with Cardiology fellow who recommended [**Hospital Unit Name 196**] admission.
+Considered starting Heparin in ED but patient refused.
+Coronary artery disease, status post right coronary artery stent times two.
+History of ischemic bowel, status post total colectomy, resection of one-third of her small intestine in [**2200-3-25**].
+Status post cholecystectomy in [**2200-8-25**] for acute cholecystitis.
+LUNGS: good air movement, crackles at bases (minimally) R>L ABDOMEN: ND, ecchymoses, ileostomy bag in place (which large amount of bile like material).
+Consider Infectious          Disease consultation for serious infections caused by          ESBL-producing E. coli and Klebsiella species.
+Consider Infectious          Disease consultation for serious infections caused by          ESBL-producing E. coli and Klebsiella species.
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              ESCHERICHIA COLI                              |          KLEBSIELLA PNEUMONIAE                              |          | AMPICILLIN------------  =>32 R AMPICILLIN/SULBACTAM--  =>32 R     =>32 R CEFAZOLIN-------------  =>64 R     =>64 R CEFEPIME--------------  =>64 R          R CEFTAZIDIME-----------  =>64 R     =>64 R CEFTRIAXONE-----------  =>64 R          R CEFUROXIME------------  =>64 R     =>64 R CIPROFLOXACIN---------   =>4 R      =>4 R GENTAMICIN------------  =>16 R     =>16 R IMIPENEM--------------   <=1 S      <=1 S LEVOFLOXACIN----------   =>8 R      =>8 R MEROPENEM-------------<=0.25 S   <=0.25 S NITROFURANTOIN--------    64 I      128 R PIPERACILLIN---------- =>128 R PIPERACILLIN/TAZO-----   <=4 S       16 S TOBRAMYCIN------------     8 I     =>16 R TRIMETHOPRIM/SULFA----  =>16 R     =>16 R   Brief Hospital Course: 1.
+The patient was started on lovenox (patient refused q6 PTT checks making heparin inappropriate).
+She was continued on maximal medical management.
+She was managed medically with a beta blocker which can be titrated up as her blood pressure allows - on discharge she is on metoprolol 25 mg [**Hospital1 **], with BP ranging from 90-120 systolic.
+She is on ASA 325 mg daily, Lipitor 10 mg daily.
+Provided the patient continues to refuse intervention, nitroglycerin can be attempted for chest pain relief.
+She was not responding well to fluid bolues and a MICU consult was called.
+They recommended transfer to the ICU, but the patient was refusing central line placement and other ICU level care so she was kept on the general medicine floor.
+Her hypotension was thought secondary to infection (WBC 20/Lactate 2.7) and she was started on linezolid/axtreonam (multiple resistence organisms in the past with pen/ceph/tobra allergies).
+She was maintained on NS overnight and her blood pressure stabalized.
+The patient refused a PICC making antibiotic choice difficult.
+Later, her antibiotic coverage was changed to Levofloxacin.
+These other episodes were thought to be due to hight ostomy output and responded well to 1 liter normal saline fluid boluses.
+Left upper extremity PICC placed on [**11-21**] for hydration and electrolyte repletion.
+She completed her course of levaquin in house.
+COPD: The patient was continued on flovent and nebulizer treatments.
+She was started on steroids in the setting of her ICU admission for hypotension, and these were continued via a slow taper as it was thought they may have improved her COPD.
+Initially, her bismuth and loperimide were held for the possibility of infectious colitis.
+A PICC was placed for hydration and electrolyte repletion.
+Medications on Admission: Albuterol ASA Lactobacillus Loperimide Flagyl Mag gluconate Lopressor 12.5 TID Kaopectate Lipitor 10mg Flovent Zantac Levaquin  Allergies: PCN, ACE, Tobramycin, Eggs, Shrimp   Discharge Medications: 1.
+Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID (2 times a day): Titrate up as bp allows.
+Meropenem 1 g Recon Soln Sig: One (1) Recon Soln Intravenous Q12H (every 12 hours) for 11 days: Last dose [**2204-12-16**].
+Fluticasone 110 mcg/Actuation Aerosol Sig: Two (2) Puff Inhalation [**Hospital1 **] (2 times a day).
+Albuterol Sulfate 0.083 % Solution Sig: One (1) neb Inhalation Q6H (every 6 hours) as needed.
+Guaifenesin 600 mg Tablet Sustained Release Sig: One (1) Tablet Sustained Release PO BID (2 times a day).
+Ipratropium Bromide 0.02 % Solution Sig: One (1) INH Inhalation every six (6) hours.
+Prednisone 20 mg Tablet Sig: Two (2) Tablet PO daily () for 1 days: 1st.
+Prednisone 20 mg Tablet Sig: One (1) Tablet PO daily () for 3 days: 2nd.
+Prednisone 10 mg Tablet Sig: One (1) Tablet PO daily () for 3 days: 3rd.
+Prednisone 5 mg Tablet Sig: One (1) Tablet PO daily () for 3 days: 4th.
+Polyvinyl Alcohol 1.4 % Drops Sig: 1-2 Drops Ophthalmic  PRN (as needed).
+Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 4 to 6 hours) as needed for headache.
+Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1) injection Injection TID (3 times a day).
+Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO TID (3 times a day).
+Prochlorperazine 10 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed.
+Loperamide 2 mg Capsule Sig: One (1) Capsule PO QID (4 times a day).
+Cholestyramine-Sucrose 4 g Packet Sig: One (1) Packet PO BID (2 times a day).
+Bismuth Subsalicylate 262 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO QID (4 times a day).
+Zolpidem 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) as needed.
+Camphor-Menthol 0.5-0.5 % Lotion Sig: One (1) Appl Topical TID (3 times a day) as needed.
+Acetaminophen-Codeine 300-30 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed.
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+Heparin Lock Flush (Porcine) 100 unit/mL Syringe Sig: Two (2) ML Intravenous  DAILY (Daily) as needed.
+Colostomy in place.
+Discharge Instructions: You will be on antibiotics for another 11 days for your urinary tract infection.

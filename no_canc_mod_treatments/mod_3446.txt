@@ -1,0 +1,45 @@
+Admission Date:  [**2175-2-13**]              Discharge Date:   [**2175-2-20**]   Service: MEDICINE  Allergies: Sulfa (Sulfonamide Antibiotics)  Attending:[**First Name3 (LF) 2195**] Chief Complaint: Weakness  Reason for MICU transfer: Bilateral pulmonary embolus  Major Surgical or Invasive Procedure: [**2175-2-14**]: Placement of IVC filter under IR guidance [**2-14**]/27, [**2175**]: esophagogastroduodenoscopy   History of Present Illness: This is an 86 year old female with PMH significant for CAD (no prior stents or MI), hypothyodism, recent history of esophageal ulceration s/p endoclips on [**2175-2-6**] who is transferred from OSH for management of bilateral pulmonary emboli in the setting of recent GI bleed.
+EGD demonstrated a large superficial ulceration in the distal esophagus adjacent to the squamocolumnar junction with a central adherent clot and visible vessels.
+The ulceration site was managed with endoscopic clip placement and epinephrine injection.
+Her ulcerations were attributed to 4 pills of advil TID, fosamax, and recent initiation of full dose aspirin for her paroxysmal atrial fibrillation.
+Given protonix 40mg IV X 1.
+Was transferred here for IR evaluation of thrombectomy given recent GI bleed and concern for initiation of systemic anticoagulation.
+Patient was given an additional 2L NS with stabilization of tachycardia and blood pressures.
+Also given ativan 0.5 mg IV X 1.
+Cardiology service initially consulted, believed ECG changes and troponin leak due to RV strain and demand ischemia.
+IR service also consulted who did not recommend urgent intervention at this time.
+Patient was guiac negative, NG lavage was negative, and IV heparin with no bolus was initiated.
+Past Medical History: - history of bleeding esophageal ulceration [**1-/2175**] - paroxysmal atrial fibrillation; previously managed with asa 325mg PO daily prior to her GI bleed - hyperlipidemia - hypothyroidism - suspected coronary artery disease; no prior cath or stress tests - chronic back pain - osteopenia - osteoarthritis - asthma - cataracts   Social History: Patient lives alone, her son lives nearby.
+Brief Hospital Course: ISSUES REQUIRING PCP [**Last Name (NamePattern4) **]: -When and if to restart aspirin -On [**Hospital1 **] PPI for 8 weeks, then needs to decrease dose to daily -Urine Cx results pending -HR and BP after starting metoprolol -Whether to restart [**Hospital1 11573**] 86 year old female with PMH significant for CAD (no prior stents or MI), hypothyroidism, recent history of esophageal ulceration s/p endoclips on [**2175-2-6**] transferred from OSH for management of bilateral pulmonary emboli in the setting of recent GI bleed.
+She was started on heparin drip and transferred to the ICU at [**Hospital1 18**] for management of hemodynamically significant pulmonary embolism, in the setting of recent upper GI bleed.
+Heparin was discontinued  (total of 18 hours on drip).
+The bleed was managed as below and further anticoagulation was avoided given severity of the bleed.
+An IVC filter was placed on [**2-14**].
+She was electively intubated for approx 18 hours for EGD and IVC filter placement (and code status returned to DNR/DNI afterwards).
+She had transient hypotension after intubation that was responsive to IVF and did not recur after extubation on [**2-15**].
+On the day after transfer to [**Hospital1 18**], patient had HCT drop 29->22 and heparin drip was discontinued.
+Lower extremity US showed right DVT, [**Location (un) **] IVC filter was placed [**2-14**].
+She was continued on PPI drip x 72 hours and transitioned to [**Hospital1 **] PPI.
+Hypotension related to intubation and sedation as well as blood loss also responded to IVF and transfusion.
+Given her elevated BPs and high-normal heart rate, she was started on Metoprolol (to be titrated per PCP).
+# Incontinence and urge/freq: Pt began complaining of urge/freq and incontinence on day of discharge, but denied dysuria.
+As such, antibiotic therapy was not initiated, but culture results were pending at the time of discharge.
+Creatinine returned to baseline after IV fluid resuscitation.
+# History of atrial fibrillation: Aspirin was held in the setting of upper GI bleed.
+Although rates were <100, she was started on Metoprolol for both improved rate control and HTN.
+# Asthma: No active issues while in hospital she was treated with nebulizers as needed and resumed outpatient regimen on discharge.
+Medications on Admission: - [**Name (NI) **] 20mg PO daily - albuterol sulfate INH q4h: PRN - omeprazole 40mg PO daily - levothyroxine 56.25 mcg PO daily INCORRECTLY recorded as 37.5 on admission.
+- SL nitroglycerin 0.4mg PRN - vicodin 1 tab PRN - lacutulose PRN constipation - multivitamin - cyanocobalamin 1000mcg PO daily - vitamin D 1000 units PO daily - calcium - Hydrocodone 1/2 tabs Q6h PRN left leg pain - Voltaren gel appl to left knee 4 times/day - Ergocalciferol 1.25mg daily  Discharge Medications: 1. multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. benzonatate 100 mg Capsule Sig: One (1) Capsule PO TID (3 times a day): For cough.
+Disp:*30 Capsule(s)* Refills:*0* 3. dextromethorphan-guaifenesin 10-100 mg/5 mL Syrup Sig: Five (5) ML PO Q6H (every 6 hours) as needed for cough.
+5. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: [**1-22**] puff Inhalation every 4-6 hours as needed for shortness of breath or wheezing.
+6. levothyroxine 75 mcg Tablet Sig: 0.5 Tablet PO once a day.
+7. nitroglycerin 0.4 mg Tablet, Sublingual Sig: as previously directed  Sublingual As previously directed as needed for chest pain.
+Vicodin 5-500 mg Tablet Sig: One (1) Tablet PO PRN as needed for pain.
+9. lactulose 10 gram Packet Sig: One (1) packet PO PRN as needed for constipation.
+Vitamin D 1,000 unit Tablet Sig: One (1) Tablet PO once a day.
+12. metoprolol tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 times a day): Do not take if your heart rate is less than 60 or the top number of your blood pressure is less than 100.
+)(s)* Refills:*0*   Discharge Disposition: Home With Service  Facility: [**Location (un) **] Nursing Services  Discharge Diagnosis: Primary: pulmonary embolism  Secondary: -gastrointestinal bleed -atrial fibrillation -hypertension -hypothyroidism   Discharge Condition: Mental Status: Clear and coherent.
+You had a filter placed in your blood vessel to prevent further clots from moving to your lungs.
+Please take all medications as prescribed and go to all follow up appointments.
+The following medication changes were made: - STOP aspirin: please discuss with your primary care doctor if/when to resume aspirin - STOP [**Hospital1 11573**] - START Metoprolol 12.5mg twice a day; the VNA services will monitor your heart rate and blood pressure while taking this medication - START Guafenesin cough syrup (as needed) - START Tessalon perles for cough (you have a prescription for 10 days of medication) - INCREASE omeprazole to 40mg twice a day  Followup Instructions: Please follow up with your primary care doctor, [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 15131**], on Tuesday ([**2-28**]) at 10:30am.

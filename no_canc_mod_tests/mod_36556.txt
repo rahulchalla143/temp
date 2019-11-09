@@ -1,0 +1,30 @@
+Admission Date:  [**2171-9-14**]              Discharge Date:   [**2171-9-21**]   Service: MEDICINE  Allergies: Bactrim  Attending:[**First Name3 (LF) 4071**] Chief Complaint: chest pain  Major Surgical or Invasive Procedure: Cardiac Catheterization with a stent placed in the left anterior descending artery.
+In the ED, initial Vital Signs were T 98.1  BP 123/74  HR 62  RR 16   O2Sat 100%.
+Troponin was positive at 1.05 with CK of 391 and MB of 42.
+Her daughter, [**Name (NI) 108632**], in [**Name (NI) 8**] brings her to all her medical appointments.
+EXTREMITIES: tender to palpation over bones and muscles; bilateral lower extremity edema, nonpitting ; No right or left sided femoral bruit PULSES:  Right: DP 2+ ;  Left: DP 2+  Pertinent Results: [**2171-9-14**] 12:52PM BLOOD WBC-4.9 RBC-4.42 Hgb-12.9 Hct-39.5 MCV-89 MCH-29.2 MCHC-32.7 RDW-14.0 Plt Ct-229 [**2171-9-20**] 07:03AM BLOOD WBC-4.6 RBC-3.02* Hgb-9.1* Hct-27.9* MCV-92 MCH-30.0 MCHC-32.5 RDW-14.5 Plt Ct-187 [**2171-9-21**] 07:35AM BLOOD WBC-4.8 RBC-2.99* Hgb-8.8* Hct-27.5* MCV-92 MCH-29.4 MCHC-32.0 RDW-14.7 Plt Ct-221 [**2171-9-19**] 09:50AM BLOOD PT-12.1 PTT-26.3 INR(PT)-1.0 [**2171-9-14**] 12:52PM BLOOD Glucose-117* UreaN-13 Creat-0.9 Na-137 K-4.1 Cl-99 HCO3-25 AnGap-17 [**2171-9-21**] 07:35AM BLOOD Glucose-90 UreaN-12 Creat-0.8 Na-138 K-4.0 Cl-105 HCO3-23 AnGap-14 [**2171-9-14**] 12:52PM BLOOD CK(CPK)-391* [**2171-9-14**] 07:35PM BLOOD CK(CPK)-549* [**2171-9-15**] 02:08AM BLOOD CK(CPK)-473* [**2171-9-16**] 06:31AM BLOOD CK(CPK)-334* [**2171-9-14**] 12:52PM BLOOD CK-MB-42* MB Indx-10.7* proBNP-937* [**2171-9-14**] 12:52PM BLOOD cTropnT-1.05* [**2171-9-14**] 07:35PM BLOOD CK-MB-49* MB Indx-8.9* cTropnT-1.93* [**2171-9-15**] 02:08AM BLOOD CK-MB-37* MB Indx-7.8* cTropnT-1.07* [**2171-9-16**] 06:31AM BLOOD CK-MB-29* MB Indx-8.7*  EKG: In the ED: Atrial pacing.
+Compared to prior EKG from [**2170-5-11**]: A-V paced rhythm w left axis, wide QRS.
+Prior EKG from [**11-17**]: Ectopic atrial rhythm w normal axis; the precordial Twave inversions and lateral flattening are not present.
+CXR [**2171-9-14**]: No acute cardiopulmonary abnormality.
+TTE [**2171-9-16**]: The left atrium and right atrium are normal in cavity size.
+The pulmonary artery systolic pressure could not be determined.
+Compared with the report of the prior study (images unavailable for review) of [**2166-7-23**], new regional left ventricular systolic function is now present c/w interim infarction/ischemia.
+Cardiac cath [**2171-9-16**]: 1.
+Final angiography revealed no residual stenosis in the stent, no angiographically apparent dissection, and TIMI 3 flow.
+Resting hemodynamics demonstrated systemic arterial hypertension (153/65 mmHg), mild pulmonary arterial hypertension (38/19/26 mmHg), and mildly elevated right and left sided filling pressures (mean RAP 11mmHg, RVEDP 13 mmHg, mean PCWP 13 mmHg).
+Cardiac index was severely depressed (1.6 L/min/m2).
+Non-contrast CT pelvis [**2171-9-20**]: Small hematoma in the right proximal thigh anteriorly but no evidence of lower abdominal or pelvic retroperitoneal hematoma.
+# NSTEMI->STEMI: Ms. [**Known lastname 6164**] presented to the hospital after having six hours of substernal chest pressure which had resolved on its own.
+Her cardiac enzymes were elevated and peaked with a troponin-T of 1.9.
+She presented with T-wave inversions in V2-V4 and Twave flattening in V5-V6 on EKG; serial EKGs showed impressive T-wave changes, deepening T-waves in V1-V6 with no ST depressions or elevations.
+She was being treated with IV heparin while awaiting cardiac catheterization when she was noted to have marked ST elevations on telemetry.
+Catheterization revealed 3 vessel disease with subtotal 80-90% occlusion of her mid LAD.
+Echocardiogram showed EF 30-35%.
+# Anemia: Patient's hematocrit dropped from 40->28 in the course of her hospitalization.
+Over the last 3 days of her hospitalization, her hematocrit remained stable.
+Nevertheless, a CT pelvis was obtained and did not show evidence of retroperitoneal bleed or significant hematoma.
+# Acute on chronic systolic heart failure: Shortly after her cardiac cath, Ms. [**Known lastname 6164**] had low blood pressures and low urine output.
+However, several days later she became somewhat volume overloaded on exam and required some gentle IV diuresis.
+Discharge Disposition: Extended Care  Facility: [**Hospital3 537**]- [**Location (un) 538**]  Discharge Diagnosis: Primary Diagnosis: STEMI (heart attack)  Secondary Diagnosis: NSTEMI (heart attack) Acute on Chronic systolic heart failure Arthritis Blood loss Anemia Hypertension  Discharge Condition: All vital signs were stable.
+Phone:[**Telephone/Fax (1) 62**]  2.
+Phone: [**Telephone/Fax (1) 250**].

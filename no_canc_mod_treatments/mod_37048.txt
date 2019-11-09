@@ -1,0 +1,33 @@
+Admission Date:  [**2130-9-23**]              Discharge Date:   [**2130-9-28**]  Date of Birth:  [**2082-12-1**]             Sex:   M  Service: MEDICINE  Allergies: Penicillins / Vancomycin / Acyclovir  Attending:[**First Name3 (LF) 9874**] Chief Complaint: blurry vision bilaterally  Major Surgical or Invasive Procedure: PICC line placement.
+Ophtho recommended that he be admitted for further workup.
+He didn't take any anti-retroviral drugs for 4 years, but restarted 3 weeks ago.
+(last CD4: 81 CELL/UL ([**2130-1-19**]); last viral load 48.01*HI ([**2130-1-19**]) 2.shingles [**2118**], no more incidence ever since 3.left meniscus tear s/p knee surgery 4.arthritis, especially of knees b/l 5.hyperlipidemia [**3-/2123**] 6.acute gingivitis [**5-/2123**] 7.viral warts [**2119**] 8.nonspecific skin rash [**4-/2123**] 9.cryptosporidiosis [**8-/2123**] 10.pityriasis versicolor [**10/2123**] 11.hepatitis A [**3-/2123**] 12.oral aphthae 13.depression 14. deviated septum .
+Allergies: penicillin causes itchy hives and rash (received PCN once as child and once in 20s-30s), vancomycin (red man syndrome), acyclovir (itchiness), seasonal allergies  Social History: 10 pack-year smoking history, quit 15 years ago.
+ANALYSIS             WBC RBC Polys Lymphs Monos [**2130-9-24**] 03:41PM    190  5    72    24     4  2 CLEAR AND COLORLESS  [**2130-9-24**] 03:41PM    110 400   47    42     11 Source: LP  2 CLEAR AND COLORLESS  CHEMISTRY            TotProt Glucose [**2130-9-24**] 03:41PM    113    29  VDRL Pending Treponema Antibody Pending Herpes Simplex Virus [**12-27**] Detection and Diff, PCR    HSV 1 DNA                   Not Detected    HSV 2 DNA                   Not Detected [**Doctor Last Name **]-[**Doctor Last Name **] VIRUS (EBV) DNA, PCR  Result:  DETECTED  STUDIES: CT Head ([**9-23**]): IMPRESSION: No evidence of intracranial mass or hemorrhage.
+#Vision Loss:  The patient was admitted with bilateral vision loss, central scotoma, and a recent exposure to syphilis.
+He was initially empirically started on Vancomycin 1 gm IV q12hr for possible Staph uveitis and Acyclovir 10 mg/kg IV q8hr for possible CMV/HSV infection.
+The patient developed diffuse urticaria and rash after receiving Vancomycin, thought to be red man syndrome.
+His symptoms improved with premedication with Diphenhydramine prn and Ranitidine [**Hospital1 **].
+The patient was thought to have neuro-ocular syphilis and was started on Penicillin G 4,000,000 Units IV q4 hours after PCN desensitization in the MICU.
+Vancomycin was discontinued on hospital day 3 as Staph uveitis was a less likely diagnosis.
+Acyclovir was discontinued on hospital day 5 when CSF viral culture showed no virus isolated so far.
+A PICC line was placed on [**9-27**], and the patient was sent home with an infusion pump for Penicillin G 4,000,000 U IV q4 hours for 14 day course (last day [**2130-10-9**]).
+- Other Positive Blood Tests: VZV IgG, CMV IgG - Other Negative Blood Tests:  VZV Ab IgM, CMV IgM, Toxoplasma IgG/IgM, Lyme Disease, Blood/Fungal Culture, Blood/AFB Culture, ACE, RF <3, PPD negative - Pending Blood Tests: Blood Cx x2 NGTD, HLA-B27 - Pending CSF Tests: AFB Cx, VDRL, Treponema Antibody .
+The patient was transferred to the MICU for PCN desensitization protocol, with 7 doses of increasing penicillin over 3 hours.
+They recommended for him to continue Pred Forte 1 gtt Q1hr OU and Scopolamine 0.25% 1 gtt [**Hospital1 **] OU, which had been prescribed to him a few months earlier.
+He stopped taking antiretroviral medications 4 years ago, but was restarted on HAART 3 weeks prior to admission.
+His outpatient antiretroviral regimen was continued during the hospitalization (Darunavir, Emtricitabine-Tenofovir, Ritonavir, and Zidovudine).
+He also was continued on Bactrim DS daily for PCP [**Name Initial (PRE) 1102**].
+The patient had guaiac negative stools, iron studies normal, normal reticulocyte count, and normal B12 and folate levels.
+Allergies: Penicillin  Discharge Medications: 1.
+Ritonavir 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+Epinephrine HCl 0.1 mg/mL Syringe Sig: One (1)  Injection as needed as needed for anaphylaxis.
+Emtricitabine-Tenofovir 200-300 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Zidovudine 100 mg Capsule Sig: Three (3) Capsule PO Q12H (every 12 hours).
+Darunavir 300 mg Tablet Sig: Two (2) Tablet PO bid ().
+Trimethoprim-Sulfamethoxazole 160-800 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Prednisolone Acetate 1 % Drops, Suspension Sig: One (1) Drop Ophthalmic Q1H (every hour): 1 drop to each eye every hour.
+Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) for 12 days.
+Penicillin G Potassium 1,000,000 unit Recon Soln Sig: [**Numeric Identifier 109457**] ([**Numeric Identifier 109457**]) Units Injection every four (4) hours for 12 days: End date [**2130-10-9**].
+Penicillin allergy  Secondary: 1.
+Take all of your medications as prescribed and on time.

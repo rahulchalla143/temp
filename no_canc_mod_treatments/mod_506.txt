@@ -1,0 +1,26 @@
+Admission Date:  [**2131-12-18**]              Discharge Date:   [**2132-1-1**]  Date of Birth:  [**2077-7-1**]             Sex:   F  Service: MEDICINE  Allergies: Penicillins / Meperidine & Related / Codeine / Propoxyphene  Attending:[**First Name3 (LF) 898**] Chief Complaint: admit to [**Hospital Unit Name 153**] for RML pneumonia, hypotension  Major Surgical or Invasive Procedure: Intubation [**12-21**]   History of Present Illness: 54yo woman presented to the ED with 2 days of fevers, cough, and muscle aches.
+Initial SBP in the 80's, and received 3L NS and started on levophed gtt; bp went up to 101/44.
+- Quit tobacco about 2 months ago - history of sexual abuse  Family History: - father with pancreatic CA - grandmother with MI  Physical Exam: 97.1, 110, 101/44, 22, 100% on 4L  gen: a/o, nad heent: perrl, eomi, dry mucous membranes cv: tachycardic, regular; no m/r/g resp: decreased breath sounds, dullness and egophany at the RML distribution abd: tympanic, + BS, soft, NT extr: no c/c/e  Pertinent Results: [**2131-12-18**] 07:56AM URINE  COLOR-Straw APPEAR-Clear SP [**Last Name (un) 155**]-1.018 [**2131-12-18**] 07:56AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-NEG [**2131-12-18**] 07:51AM   LACTATE-1.8 [**2131-12-18**] 07:40AM   GLUCOSE-120* UREA N-27* CREAT-1.1 SODIUM-133 POTASSIUM-4.6 CHLORIDE-107 TOTAL CO2-17* ANION GAP-14 [**2131-12-18**] 07:40AM   ALT(SGPT)-13 AST(SGOT)-12 ALK PHOS-38* AMYLASE-41 TOT BILI-0.1 [**2131-12-18**] 07:40AM   LIPASE-31 [**2131-12-18**] 07:40AM   ALBUMIN-2.7* [**2131-12-18**] 07:25AM   GLUCOSE-100 UREA N-29* CREAT-1.3* SODIUM-132* POTASSIUM-5.4* CHLORIDE-103 TOTAL CO2-20* ANION GAP-14 [**2131-12-18**] 07:25AM   CK(CPK)-43 [**2131-12-18**] 07:25AM   cTropnT-<0.01 [**2131-12-18**] 07:25AM   CALCIUM-9.0 PHOSPHATE-2.4*# MAGNESIUM-1.4* [**2131-12-18**] 07:25AM   WBC-7.1 RBC-3.27* HGB-10.5* HCT-31.2* MCV-96 MCH-32.0 MCHC-33.5 RDW-12.2 [**2131-12-18**] 07:25AM   HYPOCHROM-NORMAL ANISOCYT-NORMAL POIKILOCY-NORMAL MACROCYT-NORMAL MICROCYT-NORMAL POLYCHROM-NORMAL .
+Pneumonia:  - treated empirically for CAP with ceftriaxone/azithromycin - completed 5 days of vancomycin; d/c after MRSA screen was negative - urinary legionella Ag was negative - serial CXRs showed marked resolution of PNA w/ Abx treatment  Hypotension:  - although low bp at baseline, patient was aggressively volume resuscitated in the ED and intially started on levophed to keep MAP > 60.
+Pulmonary Edema:  - developed pulmonary edema after fluid resuscitation, requiring supplemental oxygen, bipap, and ultimately intubation for progressive hypoxia and respiratory failure.
+- weaned down from AC to Pressure support ventilation; pressure support weaned, spontaneous breathing trial completed, and patient was extubated successfully and transferred out of the unit to the medical floor.
+While on the medical floor she was weaned off supplemental oxygen and was O2satting in mid 90s on RA  Psych:  - Extensive psychiatric history.
+While psychiatric meds were held on admission, these were added back to her medication regimen.
+Medications on Admission: adderall 20 [**Hospital1 **] evista 60 qD protonix 40qD fluoxetine 60 qD risperdal 2mg qD ibuporfen 600 QID MVI potassium, calcium clonazepam 2mg QID percocet one tab QID ambien 5mg HS lasix 40mg QD NTG prn metamucil TID myralax zelnorm 6mg [**Hospital1 **] atrovent/flovent mdi fioricet 2mg [**Hospital1 **]  Discharge Medications: 1.
+Fluoxetine HCl 20 mg Capsule Sig: Three (3) Capsule PO DAILY (Daily).
+Risperidone 0.5 mg Tablet Sig: Four (4) Tablet PO DAILY (Daily).
+Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO BID (2 times a day).
+Tegaserod Hydrogen Maleate 6 mg Tablet Sig: One (1) Tablet PO bid ().
+Fluticasone Propionate 110 mcg/Actuation Aerosol Sig: Two (2) Puff Inhalation [**Hospital1 **] (2 times a day).
+Raloxifene HCl 60 mg Tablet Sig: One (1) Tablet PO QD ().
+Zolpidem Tartrate 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) as needed for insomnia.
+Clonazepam 1 mg Tablet Sig: Two (2) Tablet PO QID (4 times a day).
+Albuterol Sulfate 0.083 % Solution Sig: One (1)  Inhalation Q3-4H () as needed for wheezes/SOB.
+Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation Q3-4H () as needed for SOB/wheezes.
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+Amphetamine-Dextroamphetamine 5 mg Tablet Sig: Four (4) Tablet PO BID (2 times a day).
+Azithromycin 250 mg Capsule Sig: One (1) Capsule PO Q24H (every 24 hours) for 14 days.
+Cefpodoxime Proxetil 200 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 hours) for 14 days.
+Disp:*1 1* Refills:*2*   Discharge Disposition: Home With Service  Facility: [**Hospital 119**] Homecare  Discharge Diagnosis: primary - Community-acquired Pneumonia - septic shock - hypotension - congestive heart failure  secondary   Discharge Condition: stable  Discharge Instructions: - Take medications as directed.
+Please note you are taking an antibiotic for penumonia.
+- Call your doctor or seek medical attention for shortness of breath, fever, cough, chest pain, dizziness, nausea, vomiting, inability to take medications, or other concerning symptoms.

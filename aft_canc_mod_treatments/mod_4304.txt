@@ -1,0 +1,33 @@
+Admission Date:  [**2137-10-19**]              Discharge Date:   [**2137-10-29**]  Date of Birth:  [**2066-1-22**]             Sex:   F  Service: MEDICINE  Allergies: Codeine / Oxycodone  Attending:[**First Name3 (LF) 11839**] Chief Complaint: Worsening jaundice, pneumonia  Major Surgical or Invasive Procedure: ERCP on [**2137-10-17**] with stent placement  History of Present Illness: PCP [**Name Initial (PRE) 7274**]: [**Name10 (NameIs) **],[**Name11 (NameIs) **] Location: [**Location (un) **]-[**Location (un) **] PRIMARY CARE Address: [**Street Address(2) **] STUITE 212, [**Location (un) **],[**Numeric Identifier 40624**] Phone: [**Telephone/Fax (1) 13266**] Fax: [**Telephone/Fax (1) 67271**]  71F with PMH of colon CA s/p partial colectomy in [**5-/2137**], on chemotherapy since [**Month (only) 216**], who recently developed acute cholecystitis and underwent a CCY [**2137-10-14**].
+Sphincterotomy was deferred due to coagulopathy (elevated INR to 1.8), but biliary stent was placed successfully.
+Bilirubin 4->6, AST/ALT elevated, alk phos normal.
+Dr. [**Last Name (STitle) 63834**] (surgeon) and her oncologist did not feel these abnormalities were related to her surgery or chemotherapy.
+Thus, she returns for further evaluation.
+Review of systems: 10 point ROS negative except as listed above  Past Medical History: Colon cancer, stage IIIb on adjuvant chemo with FOLFOX-6 Partial colectomy [**6-3**] s/p CCY [**2137-10-16**] Hypertension  Social History: Indpendent, cares for a blind child.
+CT ABD [**10-16**]: Acute cholecystitis, diverticulosis  WBC 4.1, Hct 36.6, Plt 189 Neut: 66, Band 5  INR 1.29, PTT 29.1  Na 1326, K 3.2, BUN 3, Cr 0.79, Ca 8.6, T bili 4.9->6.4, D bili 2.9, Alk phos 105, AST 111->92, ALT 118->108  [**Month/Year (2) **] cx [**10-17**]: NGTD Urine cx [**10-18**]: Negative - urine and [**Month/Year (2) **] cultures: [**2137-10-28**] no growth, final results pending on discharge.
+Evaluation of the lung parenchyma demonstrates marked thickening of the interlobular septae with ground glass change identified within the superior segments of the right lower lobe (series 2, image 21), distal segment of the right middle lobe (series 2, image 25) and within the superior segment of the lingula (series 2, image 31).
+Patient is status post cholecystectomy with surgical clips and minimal amount of fluid in the gallbladder fossa.
+A biliary stent is seen in the common bile duct.
+Brief Hospital Course: 71 yr/o F w/ stage IIIb colon Ca s/p partial colectomy in [**Month (only) 116**] [**2137**], on adjuvant chemo since [**Month (only) **] who recently underwent a lap chole and ERCP for cholecystitis with CBD stones presented with increase in liver function tests, LUL opacity concerning HAP, and fever.
+Early on admission was transfered from floor to ICU for tachypnea and hypoxia.
+# Tachypnea with hypoxia: likely [**2-26**] to fluid overload based on CXR which showed vascular congestion and diffuse bilateral opacities and exam with anterior crackles/wheezing and abdominal rounding; also may be due to underlying PNA however it was difficult see definite opacity in LUL described at OSH due to volume overloaded on initial examination.
+Treated with nitro ointment TP 0.25 in to venodilate and reduce preload/afterload.
+She was transferred to [**Hospital1 **], and 8 day course of empiric therapy completed.
+She conitued diureses with oral furesomide with continued negative fluid balance and electrolyte monitoring.
+# Transaminitis with elevated Tbili: Likely [**2-26**] to recent CBD stones with bypass stent by ERCP on [**10-17**].
+# Right portacath: Was removed and a left was placed [**2137-10-22**] due to problems drawing [**Name2 (NI) **].
+A repeat work-up for an infectious process was done and non-revealing.
+Pateint was on a low dose aspirin at home and should continue.
+Medications on Admission: Home: Aspirin not taking HCTZ 25mg daily Fluoxetine 40mg daily Simvastatin 20mg daily Fish oil supple Eye drops  TransferL Zosyn 3.375g IV q8 Vancomycin 1g IV q12 Ranitidine 50mg IV q8 HCTZ 25mg daily Benadryl 25mg IV q6prn Tylenol 650-1000mg q6 prn Lorazepam 1mg q6prn Milk of Mag Zofran 4mg IV q6 prn Reglan 10mg IV q4 prn Morphine 4mg IV q30 min prn  Discharge Medications: 1.
+Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every 6 hours) as needed for pain, fever: limit 2 grams per day.
+Fluoxetine 20 mg Capsule Sig: Two (2) Capsule PO DAILY (Daily).
+Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Calcium Carbonate 200 mg (500 mg) Tablet, Chewable Sig: One (1) Tablet, Chewable PO QID (4 times a day) as needed for indigestion.
+Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+7. oxygen 2lit per nasal cannula with exertion as needed to maintain satutaration 90% or above.
+Aspirin Low Dose 81 mg Tablet, Delayed Release (E.C.)
+Discharge Instructions: You were admitted to the hospital with pneumonia and a biliary tract obstruction as well as pulmonary edema (fluid in your lungs).You received a course of broad spectrum antibiotics nad also diuresed with significant improvement in your shortness of breath.
+Please take your medications as directed.
+You should have labs drawn to check a cbc to follow plt count and electrolytes to asses any need for potassium supplements and renal function.
+Your respiratory status and weight should be followed to titrate furesomide dose.
+Department: DIGESTIVE DISEASE CENTER When: THURSDAY [**2137-11-28**] at 1:30 PM With: [**Name6 (MD) 1948**] [**Last Name (NamePattern4) 1949**], MD [**Telephone/Fax (1) 463**] Building: [**First Name8 (NamePattern2) **] [**Hospital Ward Name 1950**] Building ([**Hospital Ward Name 1826**]/[**Hospital Ward Name 1827**] Complex) [**Location (un) 1951**] Campus: EAST     Best Parking: Main Garage If you would like to be set up with a new primary care physician here at [**Hospital1 18**] after you leave rehab, you can call the Find-A-Doc line at [**Telephone/Fax (1) 5867**] and someone will be able to help you with that.

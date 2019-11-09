@@ -1,0 +1,36 @@
+Admission Date:  [**2176-10-5**]              Discharge Date:   [**2176-10-11**]  Date of Birth:  [**2098-7-21**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 425**] Chief Complaint: chest pain, wide complex tachycardia  Major Surgical or Invasive Procedure: Internal Cardiac Defibrillator placement cardiac catheterization   History of Present Illness: 78 y/o gentleman with chronic AF, known CAD--NSTEMI in [**8-28**] (3 x 13 mm Cypher to RPLV and 2.25 x 18 mm Cypher to LCx/OM; also found to have 3-% LMCA, 70% mLAD with an 80% D1 and 90% D2), repeat PCI in [**10-29**] with BMS to mid-LAD for 70% stenotic lesion, possible ISR in [**2174**] with DES to LAD ([**Hospital1 3278**]), AS with most recent estimate of [**Location (un) 109**] of 1.07 cm2, presents from [**Hospital1 **] ED where he was found to have an irregular wide-complex tachycardia associated with chest pain.
+In [**Hospital1 18**] ED his vitals were T 98.6  HR 61  BP 97/40  RR  25  87% RA-> 100 % in NRB.
+His BP occasionally dropes to SBP of 80s which improved to 110s with 500cc of NS.
+ROS was negative for fever, chills, abdominal pain, recent BRBPR, melena, dysuria, hematuri.
+CARDIAC HISTORY: -> CAD: NSTEMI [**2172**] PCI- DES of the r-PLV and LCx/OM, [**10-29**] PCI- BMS to LAD; [**2174**]- PCI ([**Hospital1 3278**]) [**Name Prefix (Prefixes) **]-[**Last Name (Prefixes) **] for possible ISR -> Aortic Stenosis ([**Location (un) 109**] 1.07, mean Grad 21 mmHg), EF 50% on ETT [**2172**] -> Atrial Fibrillation 3.
+JVP 12 cm.
+JVP 12 cm.
+Pertinent Results: LABS ON ADMISSION: [**2176-10-5**] 12:00AM   WBC-13.5*# RBC-4.01* HGB-12.2* HCT-37.7* MCV-94# MCH-30.5 MCHC-32.5 RDW-14.0 [**2176-10-5**] 12:00AM   NEUTS-88.4* LYMPHS-8.0* MONOS-2.5 EOS-0.6 BASOS-0.5 [**2176-10-5**] 12:00AM   PLT COUNT-127* [**2176-10-5**] 12:00AM   PT-27.5* PTT-32.9 INR(PT)-2.7* [**2176-10-5**] 12:00AM   CK-MB-8 [**2176-10-5**] 12:00AM   cTropnT-0.05* [**2176-10-5**] 12:00AM   CK(CPK)-118 [**2176-10-5**] 12:00AM   GLUCOSE-122* UREA N-29* CREAT-1.3* SODIUM-137 POTASSIUM-4.9 CHLORIDE-105 TOTAL CO2-25 ANION GAP-12 [**2176-10-5**] 04:49AM   %HbA1c-5.6 [**2176-10-5**] 04:49AM   CK-MB-30* MB INDX-9.6* cTropnT-0.59* [**2176-10-5**] 04:49AM   CK(CPK)-313* [**2176-10-5**] 01:02PM   CK-MB-34* MB INDX-11.1* cTropnT-0.71* [**2176-10-5**] 01:02PM   CK(CPK)-306* .
+ECHO [**2176-10-5**]: The left atrium is dilated.
+Overall left ventricular systolic function is moderately depressed (LVEF= 30-40 %) secondary to akinesis of the basal septum and hypokinesis of the rest of the left ventricle.
+Tissue Doppler imaging suggests an increased left ventricular filling pressure (PCWP>18mmHg).
+CARDIAC CATHETERIZATION [**2176-10-7**]: 1.
+Coronary angiography in this right dominant system revealed diffuse calcified coronary artery disease.
+The LAD had widely patent stents, and total occlusion of a moderate sized diagonal seen on prior catheterization from [**2173-11-11**].
+Resting hemodynamics revealed moderate-to-severe aortic stenosis with mean gradient of 18 mmHg and estimated aortic valve area of 1.0 cm2.
+There were elevated left and right-sided filling pressures with mean RA pressure of 15, mean PCWP of 35 mmHg, and LVEDP of 29 mmHg.
+Cardiac output was mildly depressed at 4.0 L/min.
+ABDOMINAL ULTRASOUND [**2176-10-7**]: 1.
+Slight interval increase from the ultrasound of [**2173-10-24**].
+LABS ON DISCHARGE: WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct 7.9 3.88* 11.8* 35.4* 91 30.5 33.4 14.2 150 .
+Glucose UreaN Creat Na K Cl HCO3 AnGap 106* 20 0.9 134 4.0 101 26 11 .
+PT     PTT  INR(PT) 14.4* 28.6   1.2*  Brief Hospital Course: 78 year old gentleman with coronary artery disease with PCI in [**2174**], hypertension, moderate aortic stenosis, atrial fibrillation, presented with rest angina in the setting of rapid heart rate with wide complex tachycardia.
+Cardiac enzymes were cycled with peak trop at 0.92, MB 34, CK 313.
+Diagnostic left heart cath showed patent coronaries with prior stents in place, no evidence of renal artery stenosis.
+HbA1c and lipid panel as above, all normal.
+Electrophysiology study/intervention deferred in setting of highly calcific aorta and moderate aortic stenosis.
+INR 1.2 on discharge, will recheck INR in three days.
+Cath in [**2173**] with aortic valve area of 1.07 with gradient of 21 mmHg.
+# Abdominal aortic aneurysm:  Abdominal ultrasound showed AAA measuring 4.1 cm at the widest diameter, slight interval increase from the ultrasound of [**2173-10-24**].
+#  ARF:  Creatinine 1.3 on admission.
+Last Creatinine in our system is 0.9 in [**2173**].
+Renal function improved over course of stay, 0.9 on discharge.
+Outpatient Lab Work Please check INR on Monday [**10-14**] and call results to Dr. [**Last Name (STitle) **] at [**Telephone/Fax (1) 719**].
+You also had a cardiac catheterization that showed extensive blockages in your coronary artery.
+Restart your coumadin at 2 mg, you will need to check your INR on Monday [**10-14**].
+Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight > 3 lbs in 1 day or 6 pounds in 3 days.

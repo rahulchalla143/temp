@@ -1,0 +1,30 @@
+Patient states that his visiting nurse came to draw his INR yesterday, and afterwards, he had persistent bleeding from the site on his hand all day.
+By the afternoon, he was called by his PCP's office, was told his INR was 10 and that he should hold his coumadin.
+On arrival to the ED, initial vitals were 97 86 130/70 15 97%.
+INR was found to be > 19.2, ALT 45, K+ 2.2.
+CT head showed no acute process.
+Pertinent Results: ADMISSION LABS ============== [**2139-9-30**] 12:47AM BLOOD WBC-8.1 RBC-5.43# Hgb-16.6# Hct-45.4# MCV-84 MCH-30.5 MCHC-36.6* RDW-13.6 Plt Ct-273 [**2139-9-30**] 12:47AM BLOOD Neuts-71.3* Lymphs-18.9 Monos-6.6 Eos-2.0 Baso-1.2 [**2139-9-30**] 12:47AM BLOOD PT-150* PTT-54.4* INR(PT)-GREATER TH [**2139-9-30**] 09:30AM BLOOD PT-124.5* PTT-57.4* INR(PT)-15.4* [**2139-9-30**] 12:47AM BLOOD Glucose-180* UreaN-18 Creat-0.6 Na-137 K-2.2* Cl-90* HCO3-29 AnGap-20 [**2139-9-30**] 12:47AM BLOOD ALT-45* AST-35 AlkPhos-76 TotBili-0.5 [**2139-9-30**] 09:30AM BLOOD Calcium-8.7 Phos-3.0 Mg-1.7  INR TREND =========== [**2139-9-30**] 12:55PM BLOOD PT-110.4* INR(PT)-13.4* [**2139-10-1**] 06:25AM BLOOD PT-40.7* PTT-37.8* INR(PT)-4.2* [**2139-10-2**] 07:05AM BLOOD PT-26.2* PTT-31.8 INR(PT)-2.5* [**2139-10-3**] 06:45AM BLOOD PT-21.0* PTT-37.2* INR(PT)-1.9* [**2139-10-4**] 06:15AM BLOOD PT-18.0* PTT-34.6 INR(PT)-1.6* [**2139-10-19**] 06:05AM BLOOD PT-15.4* PTT-25.7 INR(PT)-1.3* [**2139-10-20**] 07:00AM BLOOD PT-16.6* PTT-27.3 INR(PT)-1.5* [**2139-10-21**] 06:55AM BLOOD PT-18.8* INR(PT)-1.7* [**2139-10-22**] 06:02AM BLOOD PT-25.7* PTT-29.5 INR(PT)-2.4* [**2139-10-23**] 08:15AM BLOOD PT-28.7* PTT-32.0 INR(PT)-2.8* [**2139-10-24**] 05:55AM BLOOD PT-29.1* PTT-33.9 INR(PT)-2.8* [**2139-10-25**] 05:33AM BLOOD PT-29.2* INR(PT)-2.8* [**2139-10-26**] 06:15AM BLOOD PT-30.6* INR(PT)-3.0*  CARDIAC ENZYMES =============== [**2139-9-30**] 12:55PM BLOOD CK-MB-2 cTropnT-<0.01 [**2139-10-1**] 12:09AM BLOOD CK-MB-3 cTropnT-<0.01 [**2139-10-1**] 06:25AM BLOOD CK-MB-3 cTropnT-<0.01  DISCHARGE LABS ============== [**2139-10-24**] 05:55AM BLOOD WBC-6.5 RBC-3.98* Hgb-12.0* Hct-37.3* MCV-94 MCH-30.1 MCHC-32.1 RDW-15.7* Plt Ct-506* [**2139-10-21**] 06:55AM BLOOD Glucose-124* UreaN-16 Creat-0.5 Na-136 K-4.2 Cl-100 HCO3-28 AnGap-12  MICROBIOLOGY ============== SPUTUM                             **FINAL REPORT [**2139-10-4**]**     GRAM STAIN (Final [**2139-10-2**]):       >25 PMNs and <10 epithelial cells/100X field.
+RESPIRATORY CULTURE (Final [**2139-10-4**]):       MODERATE GROWTH Commensal Respiratory Flora.
+IMAGING ============== HEAD CT [**2139-9-30**] IMPRESSION: 1.
+CT OF THE ABDOMEN:  [**2139-10-10**] There are mild bibasilar atelectasis.
+Brief Hospital Course: 61 year-old male with a history of cerebal palsey, mild mental retardation, atrial flutter s/p cardioversion, Pulmonary embolisms in [**2134**], [**2138**] on coumadin admitted with bleeding from a peripheral blood draw site with INR 19.
+He was treated with vitamin K and given lovenox bridge when INR <2.0, his course was complicated by pneumonia, and rectus sheath hematoma.
+Hematocrit remained stable.
+Head CT was negative for acute hemorrhagic stroke.
+Patient underwent ablation of inferior epigastric arteries, though no active rectus sheath bleeding was noted on IR.
+Subsequent serial HCTs were stable and increasing to 37.3 on discharge.
+Sputum sample was unable to be islated as patient was unable to produce forceful cough.
+Ileus: On [**2139-10-8**] he had abdominal distention and worsening abdominal pain, plain film showed ileus.
+Hct was checked and noted to be down 32->24, but the stool was guaiac negative.
+INR was 3.0.
+CT scan showed a large rectus sheath hematoma without evidence of active bleeding.
+Because repeat Hct did not appropriately increase after transfusion, he was given an additional 1 unit PRBC and transferred to the MICU for closer monitoring.
+This was performed and once patient's INR was therapeutic ([**2-5**]) he was discharged.
+EKG did not reveal U waves.
+# EKG changes: admission EKG was remarkable for ST Depressions in V4-5 which appeared more prominent in comparison to EKG from [**2138-11-21**].
+Serial EKGS showed persistence of ST Depressions in V4-5.
+Given his obesity, cerebral palsy, and other co-morbidities, lifestyle modifications may be difficult or impossible, and his primary care physician may consider [**Name9 (PRE) 44072**] him on a metformin regimen.
+# Anticoagulation: The patient was noted to have a stable INR 2.8->2.8->3.0 when taking 2mg warfarin daily.
+Outpatient Lab Work Please check INR on Monday [**2139-11-2**].
+We checked your blood level and found that you had not lost a significant amount of blood.
+We stopped your coumadin, gave you a blood transfusion, and your blood level stabilized.

@@ -1,0 +1,74 @@
+Admission Date:  [**2197-12-4**]              Discharge Date:   [**2197-12-29**]  Date of Birth:  [**2133-4-22**]             Sex:   F  Service: MEDICINE  Allergies: Aspirin / Codeine / Gadolinium-Containing Agents / Percocet / IV Dye, Iodine Containing / ondansetron  Attending:[**First Name3 (LF) 4057**] Chief Complaint: fever, bacteremia  Major Surgical or Invasive Procedure: ERCP Percutaneous biliary drain placement  History of Present Illness: Ms. [**Known firstname **] [**Known lastname 87852**] is a 64-year-old woman with Hx of metastatic breast cancer and active biliary cancer on chemotherapy who is transferred from [**Hospital3 **] hospital with fever and bacteremia.
+She was initially started on Zosyn and discharged on Augmentin.
+She re-presented to [**Hospital2 **] [**Hospital3 **] ER on [**11-23**] with chills, severe confusion, Temp 101.5 and HR 109.
+She was admittted for SIRS and given broad ABX with Vancomycin and Zosyn.
+She was switched to Penicillin since the original organism had sensitivity to this.
+On [**11-27**] she had fever [**Last Name (LF) **], [**First Name3 (LF) **] Vancomycin was continued (no significant time had passed where it was actually stopped from before).
+She was thought to be fluid overloaded and was given lasix 40mg IV as well as 2 units of PRBCs for an Hct of 25.
+A rapid response was called, and with IV lopressor and Ativan, her HR improved.
+Per D/C summary, blood cultures from [**11-30**] had 2/4 bottles positive for Strep viridans and Zosyn was discontinued.
+On [**12-1**] she had a PICC placed in anticipation of having her port pulled.
+ABX were not changed from Vancomycin and PCN from [**11-26**] until [**12-4**] when both were stopped.
+The patient received one dose of Imipenam before transfer on [**12-4**] since Blood culture on [**12-1**] had one out of four positive for Klebsiella which was sensitive to Imipenam.
+She started chemotherapy with gemcitabine and cisplatin on [**2197-2-27**].
+In the setting of pain, she was referred for CyberKnife therapy which was completed on [**2197-7-4**] after initial course was complicated by intercurrent biliary obstruction requiring hospitalization and stenting.
+[**9-20**] started Gemzar/Xeloda with [**Hospital3 **] oncology group  Other Past Medical History: -HTN -h/o minor MVA - rotator cuff injury s/p PT -hx nephrolithiasis -hx choledocolithiasis -C-section [**2169**]  ALLERGIES: 1.
+Aspirin causes stomachache.
+IV and iodine-containing dye causes rash and itching.
+Percocet results in general malaise.
+ABD: Soft, NT, blanching erythematous rash in RLQ, perc drain in place MSK: normal muscle tone and bulk EXT: 2+DPs, 2+ pedal edema, trace edema in upper extremities NEURO: oriented to self and place, not date, follows most commands, but slow to respond at times   Pertinent Results: Labs on Admission: [**2197-12-5**] 12:00AM   PLT SMR-NORMAL PLT COUNT-184 [**2197-12-4**] 08:50PM   GLUCOSE-122* UREA N-8 CREAT-0.4 SODIUM-138 POTASSIUM-3.1* CHLORIDE-100 TOTAL CO2-32 ANION GAP-9 [**2197-12-4**] 08:50PM   ALT(SGPT)-9 AST(SGOT)-16 LD(LDH)-228 ALK PHOS-311* TOT BILI-0.8 [**2197-12-4**] 08:50PM   CALCIUM-8.0* PHOSPHATE-2.9 MAGNESIUM-1.6 [**2197-12-4**] 08:50PM   WBC-18.6*# RBC-2.90* HGB-8.8*# HCT-26.7*# MCV-92 MCH-30.4 MCHC-33.0 RDW-20.6* [**2197-12-4**] 08:50PM   NEUTS-89* BANDS-1 LYMPHS-2* MONOS-7 EOS-0 BASOS-0 ATYPS-0 METAS-1* MYELOS-0 [**2197-12-4**] 08:50PM   HYPOCHROM-2+ ANISOCYT-1+ POIKILOCY-1+ MACROCYT-1+ MICROCYT-1+ POLYCHROM-NORMAL OVALOCYT-1+ TEARDROP-OCCASIONAL [**2197-12-4**] 08:50PM   PLT SMR-UNABLE TO  PLT COUNT-UNABLE TO [**2197-12-4**] 08:50PM   PT-15.7* PTT-34.0 INR(PT)-1.5* .
+Chest x-ray [**2197-12-5**]: As compared to the previous radiograph, the patient has received a right Port-A-Cath.
+The patient also has received a left PICC line.
+Pneumobilia, expected within context of biliary stenting and recent ERCP.
+A metal stent was seen at ampulla.
+Cannulation of the biliary duct was successful and deep with a balloon catheter using a free-hand technique.
+Large amount of sludge, debris and pus were extracted successfully using a 12 mm balloon.
+Brief Hospital Course: Ms. [**Known firstname **] [**Known lastname 87852**] is a 64-year-old female with history of HTN, metastatic breast cancer and active biliary cancer on chemotherapy who is transferred from [**Hospital3 **] hospital with fever and bacteremia.
+The patient was initially treated with Vancomycin/Zosyn and then vanc/penicillin but continued to [**Hospital3 **] temps.
+This was likely in part due to her intermediate sensitivity to antibiotics.
+Prior to transfer to [**Hospital1 18**], she was given Imipenem and was afebrile.
+In the ICU, Pt's antibiotics were continued.
+She did not require pressors and received fluid resuscitation.
+Her chemo port was surgically removed on [**12-6**], which she tolerated well.
+The patient did not receive IV gadolinium because she became nauseated and did not tolerate the rest of the exam.
+This was discussed with the infectious disease service, who felt at that time, aspirating the lesions would not change treatment given her proven bacteremia.
+Patient has biliary stent placed in 8/[**2196**].
+Other options would be percutaneous biliary drain for decompression vs. ERCP to extend the stent.
+Decision was made to have a percutaneous biliary drain placed for decompression.
+She went for the procedure on [**2197-12-19**].
+Pain and anxiety medications were uptitrated and started on labetalol and nitro.
+Patient's micro data showed [**Female First Name (un) **] in her bile, sputum, and urine cultures.
+Empirically started on micafungin, but then narrowed to fluconzole as the species was presumed [**Female First Name (un) **] albicans.
+Also grew Enterobactor cloacae in her bile and patient was continued on meropenem.
+Pain has been an ongoing issue, but the patient is now on morphine PCA and PO methadone which has been sufficient.
+She was taking IV morphine prn and IV methadone standing.
+The patient had SBP up to 190s requiring labetalol which she responded well to initially.
+An EKG showed questionable a fib vs a flutter and we started to use IV lopressor to bring down her blood pressure which she tolerated well.
+She will be discharged with a foley in place, as her mental status comes and goes, and the foley is not currently bothering her.
+She was receiving IV meropenem for blood and abscess cultures growing enterobacter, but will leave on PO levaquin.
+She was also started on a nystatin cream for a rash on her RLQ and R upper thigh.
+She will also leave on PO fluconazole.
+Medications on Admission: Medications - Prescription AMLODIPINE - 5 mg Tablet - 1 tablet by mouth at bedtime ANASTROZOLE - 1 mg Tablet - 1 Tablet(s) by mouth once a day FENTANYL - 50 mcg/hour Patch 72 hr - 1 patch to skin change every 72 hours HYDROCODONE-ACETAMINOPHEN - 5 mg-500 mg Tablet - 1 Tablet(s) by mouth twice a day as needed for pain HYDROMORPHONE [DILAUDID] - 4 mg Tablet - [**11-27**] Tablet(s) by mouth every 3 hours PRN pain LORAZEPAM - 0.5 mg Tablet - [**11-27**] Tablet(s) by mouth every eight (8) hours as needed for anxiety, insomnia, nausea ONDANSETRON HCL - 4 mg Tablet - 1 Tablet(s) by mouth q 8 hr as needed for nausea/vomiting POLYETHYLENE GLYCOL 3350 - 17 gram Powder in Packet - 1 packet by mouth once a day as needed for constipation PREDNISONE - 20 mg Tablet - 2 Tablet(s) by mouth Take 40 mg 16hr, 8 hr, and 2 hr prior to scan PROCHLORPERAZINE MALEATE - 10 mg Tablet - 1 tablet by mouth three times a day as needed for nausea RANITIDINE HCL - 150 mg Tablet - 1 Tablet(s) by mouth Take 150 mg 1 hr prior to scan  Medications - OTC DIPHENHYDRAMINE HCL - 25 mg Capsule - 2 Capsule(s) by mouth take 50 mg 1 hr before scan   Discharge Medications: 1. docusate sodium 50 mg/5 mL Liquid Sig: One (1)  PO BID (2 times a day).
+2. heparin (porcine) 5,000 unit/mL Solution Sig: One (1) Injection TID (3 times a day).
+3. polyethylene glycol 3350 17 gram/dose Powder Sig: One (1)  PO DAILY (Daily).
+4. bisacodyl 5 mg Tablet, Delayed Release (E.C.)
+5. fluconazole 200 mg Tablet Sig: Two (2) Tablet PO Q24H (every 24 hours) for 4 weeks.
+6. potassium chloride 20 mEq Packet Sig: One (1) Packet PO PRN (as needed).
+7. nitroglycerin 2 % Ointment Sig: One (1)  Transdermal DAILY (Daily): Please place nitropaste daily, ON for 14 hours, OFF for 10 hours   .
+8. quetiapine 25 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for agitation, delirium.
+9. magnesium hydroxide 400 mg/5 mL Suspension Sig: Thirty (30) ML PO Q12H (every 12 hours) as needed for constipation.
+10. acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed for pain/fever.
+11. nystatin 100,000 unit/g Cream Sig: One (1) Appl Topical [**Hospital1 **] (2 times a day): abdominal rash.
+12. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+13. carvedilol 12.5 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day).
+14. morphine 4 mg/mL Syringe Sig: One (1)  Injection once a day as needed for pain: 14.
+Morphine Sulfate 3 mg IVPCA Lockout Interval: 6 minutes Basal Rate: 0 mg(s)/hour 1-hr Max Limit: 12 mg(s) please monitor sedation closely while on mPCA  .
+15. methadone 5 mg Tablet Sig: 0.5 Tablet PO Q6H (every 6 hours).
+16. pantoprazole 40 mg Recon Soln Sig: One (1) Recon Soln Intravenous Q12H (every 12 hours).
+17. lorazepam 2 mg/mL Syringe Sig: One (1)  Injection Q4H (every 4 hours) as needed for anxiety.
+Levaquin 500 mg Tablet Sig: One (1) Tablet PO once a day for 4 weeks.
+You received IV antibiotics in the hospital and will continue oral antibiotics for 4 more weeks.
+We had issues controlling your blood pressure during your stay.
+You will leave on a medication to control your blood pressure.
+You should take the medications provided at time of discharge.
+Medication changes include: START levofloxacin 500mg for 4 more weeks (end date [**2198-1-27**]) START fluconazole 400mg for 4 more weeks (end date [**2198-1-27**]) START morphine PCA to help you control your pain START methadone to help you control your pain START carvedilol 25mg twice daily START nitroglycerin ointment to help with your blood pressure START colace, senna, and bisacodyl to help prevent constipation START protonix to help prevent reflux START seroquel for anxiety  STOP amlodipine STOP anastrazole STOP vicodin STOP dilaudid  You should continue your other medications as prescribed.

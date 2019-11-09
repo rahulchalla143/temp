@@ -1,0 +1,19 @@
+Patient presents for further workup of this new mass.
+Vital signs:  Temperature 98.1, heart rate 60, blood pressure 144/88, respiratory rate 17.
+Lungs:  Clear to auscultation bilaterally.
+Neurologic:  Cranial nerves II-XII intact; alert and oriented times three; 5/5 strength in the upper and lower extremities; finger-to-nose testing within normal limits; mildly unsteady gait; negative Romberg.
+LABORATORY DATA ON ADMISSION:  White count 95,000, 7% neutrophils, 0% bands, 91% lymphocytes, 2% monocytes, 0% eosinophils, 0% basophils, 0% atypicals, metamyelocytes.
+Hematocrit 37.7, platelet count 211.
+Electrolytes:  Sodium 137, potassium 4.0, chloride 101, bicarbonate 27, BUN 21, creatinine 0.8, glucose of 166.
+Liver function tests within normal limits on presentation.
+Lumbar puncture from outside hospital on [**2122-12-6**]:  Gram stain showed no micro-organisms, 4+ lymphocytes.
+Cell count from lumbar puncture 560 red blood cells, 46 nucleated cells, 97% lymphocytes.
+Protein 68, glucose 117.
+CT of the head at outside hospital:  Right temporoparietal enhancing density with minimal surrounding edema.
+MRI of the head [**2121-12-5**] from [**Hospital 4415**]: Abnormal signal in the region of the corpus callosum extending into the subependymal region and involving the fornix.
+Decadron was continued initially but then was stopped on [**2122-12-8**] out of concerns that steroid administration prior to the biopsy could interfere with the biopsy results.
+Due to scheduling difficulties the brain biopsy was delayed until [**2122-12-9**], at which time patient underwent stereotactic brain biopsy completed by Dr. [**First Name (STitle) **] without complication.
+The patient did have HIV serology testing upon presentation which did come back negative.
+Cryptococcal and toxoplasmosis testing also was negative.
+Patient was advised to schedule a follow-up appointment with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] of Neurosurgery in one week to be evaluated and to have staples from the brain biopsy site removed.
+DR.[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1557**], M.D.

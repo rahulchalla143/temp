@@ -1,0 +1,26 @@
+Name:  [**Known lastname 15855**],[**Known firstname 15856**]                  Unit No:   [**Numeric Identifier 15857**]  Admission Date:  [**2117-2-1**]              Discharge Date:   [**2117-2-8**]  Date of Birth:  [**2041-6-13**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 1775**] Addendum: Patient, given his recent sepsis, is at increased risk for complications post-prostate biopsy.
+For this reason the patient will be discharged to [**Hospital3 901**], then re-admitted on [**2-17**] for IV antibiotics, prostate biopsy and observation.
+The patient's ciprofloxacin will be entended to complete a one month course.
+Tamsulosin 0.4 mg Capsule, Sust.
+Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours) for 20 days: Last Day [**2117-2-28**] Please note this medication is renally dosed, as the patient's creatinine improves it may need to be redosed.
+Metronidazole 500 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) for 3 days: Last Day [**2117-2-11**].
+Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO QID (4 times a day) as needed for heartburn,upset stomach.
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day) as needed for constipation.
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed for fever, pain.
+Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1) injection Injection TID (3 times a day): Until patient regains mobility.
+Iron (Ferrous Sulfate) 325 mg (65 mg Iron) Tablet Sig: One (1) Tablet PO once a day: Please start [**2117-2-28**] after completion of Ciprofloxacin.
+Proscar 5 mg Tablet Sig: One (1) Tablet PO once a day.
+Discharge Disposition: Extended Care  Facility: [**Hospital3 901**] - [**Location (un) 382**]  Discharge Instructions: You were admitted for a severe urine infection, trouble urinating, and kidney failure.
+A foley catheter was placed to allow you to urinate.
+You are ready to go to [**Hospital3 901**] for rehabilitation to regain your strength.
+Please take your medications as prescribed.
+-You were started on Tamsulosin and Proscar for your urinary retention.
+-You were started on Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours) for 20: Last Day [**2117-2-28**] for your urinary tract infection.
+-You were started on Metronidazole 500 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) for 3 days: Last Day [**2117-2-11**].
+-You were started on Calcium Carbonate for heartburn, upset stomach.
+-You have been provided with Docusate Sodium and Senna as needed for constipation.
+-You have been provided with Tylenol as needed for pain.
+-You WILL BE STARTED on Iron for your anemia after you complete your antibiotics.
+- You have been started on Heparin SC to prevent clots while you are in bed.
+Followup Instructions: On discharge, you will need to see our urologists as an outpatient for management of your prostate issues.

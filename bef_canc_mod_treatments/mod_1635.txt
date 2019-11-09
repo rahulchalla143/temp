@@ -1,0 +1,31 @@
+Admission Date:  [**2202-2-18**]              Discharge Date:   [**2202-2-28**]  Date of Birth:  [**2158-6-23**]             Sex:   F  Service: MEDICINE  Allergies: Penicillins / Cephalosporins / Bactrim / Sulfa (Sulfonamides)  Attending:[**First Name3 (LF) 689**] Chief Complaint: bacteremia  Major Surgical or Invasive Procedure: colonoscopy [**2202-2-22**]  History of Present Illness: PCP: [**Name10 (NameIs) 107283**] [**Name11 (NameIs) **] ID: Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 724**] HEME/ONC: [**Doctor Last Name **]- (had been [**Doctor Last Name **] in the past) GI: [**Doctor Last Name 8494**] Liver: [**Doctor Last Name 497**] GYN: [**Doctor Last Name 1022**] Surgery: Fulgalson  43 yo F with complicated PMH of CVID, [**Doctor First Name **], ITP, lymphoma in [**2198**] treated with CHOP who presents with bacteremia.
+She has taken her temperature at home and denies any fevers, chills.
+She was given IVF for the low BP (asymptomatic).
+She was given gentamycin 80mg IV x1 and blood clutures were sent prior to abx.
+Past Medical History: LYMPHADENOPATHY CMV INFECTION IRON DEFICIENCY ANEMIA IDIOPATHIC THROMBOCYTOPENIA PURPURA s/p splenectomy and incidental finding of lymphoma LARGE B-CELL LYMPHOMA [**2198**] s/p RCHOP COMMON VARIABLE IMMUNODEFICIENCY SYNDROME PRIMARY CMV ADENITIS HPV MYCOBACTERIUM AVIUM INTRACELLULAR on chronic abx levofloxacin/clarithromycin VULVAR CONDYLOMATA [**2183**] Large liver- unknown cause esophagitis herpes chronic active colitis- likely from CVID S/P biopsy of L axillary LN showing lymphoid hyperplasia S/P Liver biopsy [**2198-11-6**] S/P splenectomy [**9-28**] S/P hysterectomy 5/'[**97**] S/P multiple cervical perianal biopsies/resections   Social History: lived with male partner for 9 years.
+Her hospital course is described below and was complicated by a MICU stay for GI bleeding after colonoscopy and multiple biopsies.
+ID was following and she was treated with flagyl for this.
+Her subsequent cultures before and after antibiotics were negative for any bacterial growth.
+Per ID recommendations, she is to complete a two week course of flagyl to end on [**2202-3-3**].
+She had a history of bleeding after colonic biopsy but had not required tranfusions in the past.
+# [**Doctor First Name **]: on levofloxacin and clarithromycin at home for maintance therapy.
+Found incidentally with splenectomy for ITP  # depression: continued on fluoxetine and ritalin  # code: full  Medications on Admission: valgancyclvir 450mg [**Hospital1 **] prozac 80mg daily ritalin 10mg qAM and qnoon trazadone 50mg-100mg qhs prn fluticasone nasal spray prilosec claritin D levofloxacin clarithromycin IVIG 35mg every three weeks- due this Saturday [**2202-2-20**]   Discharge Medications: 1.
+Fluoxetine 20 mg Capsule Sig: Four (4) Capsule PO DAILY (Daily).
+Methylphenidate 10 mg Tablet Sig: One (1) Tablet PO BID (2 times a day): 8am and noon.
+Valganciclovir 450 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Clarithromycin 250 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours).
+Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Trazodone 50 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) as needed.
+Fluticasone 50 mcg/Actuation Spray, Suspension Sig: One (1) Spray Nasal DAILY (Daily).
+Omeprazole 20 mg Tablet, Delayed Release (E.C.)
+Claritin-D 24 Hour 10-240 mg Tablet Sustained Release 24 hr Sig: One (1) Tablet Sustained Release 24 hr PO once a day.
+Metronidazole 500 mg Tablet Sig: One (1) Tablet PO three times a day for 4 days.
+Fluticasone 50 mcg/Actuation Spray, Suspension Sig: One (1) Spray Nasal DAILY (Daily).
+Iron 325 mg (65 mg Iron) Tablet Sig: 1-2 Tablets PO once a day: Start by taking one per day.
+Disp:*60 Tablet(s)* Refills:*2*   Discharge Disposition: Home With Service  Facility: TL Connections  Discharge Diagnosis: bacteremia with bacteroides and clostridium CVID with IVIG transfusions given [**Doctor First Name **] infection acute blood loss anemia requiring 9 units of PRBC  Secondary diagnosis: s/p lymphoma s/p RCHOP hepatomegaly of unknown cause   Discharge Condition: stable hct.
+You have been treated with metronidazole (flagyl) for this infection.
+You should continue to take this medication until [**2202-3-3**] for a total 2 week course.
+You also had a colonoscopy with biopsies which lead to bleeding.
+You were given 9 units of PRBCs and your blood level is now stable.
+You should continue your IVIG- dose was given [**2202-2-20**] and [**2202-2-26**].

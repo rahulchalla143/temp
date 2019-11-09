@@ -1,0 +1,72 @@
+Admission Date:  [**2135-5-2**]              Discharge Date:   [**2135-5-30**]  Date of Birth:  [**2070-1-31**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**Last Name (NamePattern1) 4377**] Chief Complaint: Hypoxia, hypotension  Major Surgical or Invasive Procedure: None  History of Present Illness: 65 year old male with Non hodgkins lymphoma on HCD122 chemo protocol, prior mycobacterium xenopi and MRSA PNA, emphysema, HTN, s/p PEG placement, who was admitted to ED from oncology clinic appt with right shoulder/chest pain, mild hypoxia, hypotension, and tachycardia.
+The patient had gone to oncology clinic for scheduled chemo (CD40 inhibitor study drug), when found to have new right-sided chest/shoulder pain, hypoxia to high 80s/low 90s on RA, tachycardia to 120s, and hypotension to 83/58.
+Patient describes 1 week h/o right sided pleuritic pain, fatigue, malaise, and decreased PO intake.
+Denies fever, chills, diarrhea, wheezing, chest pain, palpitations.
+He has had multiple hospitalizations in last year, the most recent being [**Date range (1) 55849**] for RSV infection - discharged on 10 days of levaquin for bacterial superinfection ppx.
+In the clinic, he was given heparin bolus 5000 units for concern of PE given increased lymphedema on right side and risk factors, and sent to ED.
+Patient's outpatient oncologist was made aware, pt was transferred to [**Hospital Unit Name 153**] for further care of her sepsis, hypoxia.
+Has been refractory to multiple chemotherapeutic regimens, currently enrolled on protocol DF#08-019 which is a Phase I/A/II multicenter open label study of HCD122 which is administered intravenously once weekly for 4 weeks -s/p 4 cycles of R-CVP -s/p 4 cycles of R-CHOP -s/p Zevalin in [**7-/2130**] -s/p Rituximab, fludarabine, and mitoxantrone in [**4-/2131**] -s/p 6 cycles bendamustine in [**2-/2132**] -s/p radiation therapy mesenteric mass in [**9-/2133**] -s/p radiation therapy to left pelvic lymphadenopathy causing ureteral obstruction) in [**1-/2134**] -s/p 1 course [**Hospital1 **] [**Date range (1) **]/[**2134**] .
+Other Medical History: 1) Mycobacterium xenopi infection since [**2132-12-26**]: Had received one year of Levofloxacin/Azithromycin therapy until [**3-/2134**] with good effect.
+Per ID, will need to continue for a total 6 month course (finish [**2135-2-16**]), after which he will be switched to azithromycin alone.
+s/p left VATS w wedge resections in [**2133**] for pulmonary nodules 2) C difficile colitis diagnosed during hospitalization in [**9-3**].
+He was initially treated on PO metronidazole then converted to PO vancomycin on [**2134-9-22**].
+3) During last [**Hospital1 **] admission ([**Date range (1) 32408**]), he had a MRSA UTI, treated with a total of 2 weeks of Vancomycin and then Bactrim.
+5) Repeat admission for failure to thrive resulted in PEG tube placement on [**2135-1-5**].
+6) Emphysema with smoking history  Social History: The patient has been living at sister's house, prior to this had been at Colony house for rehabilitation following multiple extended hospitalizations over the past several months.
+Physical Exam: On admission GENERAL: Elderly male with nasal cannula in place, not using accessory muscles, in NAD HEENT: Sclerae anicteric.
+LYMPH NODES: Possible small right anterior cervical at base/supraclavicular node.
+No LE edema NEUROLOGIC: grossly nonfocal   Pertinent Results: [**2135-5-2**] 09:00AM   GRAN CT-[**Numeric Identifier 55506**]* [**2135-5-2**] 09:00AM   PLT SMR-NORMAL PLT COUNT-245 [**2135-5-2**] 09:00AM   HYPOCHROM-NORMAL ANISOCYT-NORMAL POIKILOCY-NORMAL MACROCYT-NORMAL MICROCYT-NORMAL POLYCHROM-NORMAL [**2135-5-2**] 09:00AM   NEUTS-64 BANDS-12* LYMPHS-7* MONOS-9 EOS-0 BASOS-0 ATYPS-0 METAS-4* MYELOS-3* PROMYELO-1* [**2135-5-2**] 09:00AM   WBC-16.3* RBC-2.85* HGB-10.2* HCT-30.2* MCV-106* MCH-35.9* MCHC-33.9 RDW-18.4* [**2135-5-2**] 09:00AM   TOT PROT-5.2* ALBUMIN-3.3* GLOBULIN-1.9* CALCIUM-9.1 PHOSPHATE-5.1* MAGNESIUM-1.7 URIC ACID-8.2* [**2135-5-2**] 09:00AM   LIPASE-11 [**2135-5-2**] 09:00AM   ALT(SGPT)-18 AST(SGOT)-22 LD(LDH)-262* ALK PHOS-95 AMYLASE-30 TOT BILI-0.3 DIR BILI-0.2 INDIR BIL-0.1 [**2135-5-2**] 09:00AM   UREA N-57* CREAT-2.4* SODIUM-142 POTASSIUM-4.4 CHLORIDE-103 TOTAL CO2-19* ANION GAP-24* [**2135-5-2**] 09:20AM   PT-14.9* INR(PT)-1.3* [**2135-5-2**] 09:20AM   D-DIMER-767* [**2135-5-2**] 10:25AM   LACTATE-3.1* [**2135-5-2**] 03:22PM   LACTATE-2.6* [**2135-5-2**] 03:22PM   TYPE-ART PO2-86 PCO2-29* PH-7.42 TOTAL CO2-19* BASE XS--3 [**2135-5-2**] 03:50PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 LEUK-NEG [**2135-5-2**] 03:50PM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.026 [**2135-5-2**] 03:50PM URINE  OSMOLAL-345 [**2135-5-2**] 03:50PM URINE  HOURS-RANDOM CREAT-43 SODIUM-25 [**2135-5-2**] 11:41PM   CALCIUM-7.9* PHOSPHATE-5.8* MAGNESIUM-2.3 [**2135-5-2**] 11:41PM   GLUCOSE-93 UREA N-49* CREAT-2.0* SODIUM-140 POTASSIUM-4.3 CHLORIDE-112* TOTAL CO2-18* ANION GAP-14  MICRO: RESPIRATORY CULTURE (Final [**2135-5-6**]):       MODERATE GROWTH OROPHARYNGEAL FLORA.
+Specifically, no evidence of new parenchymal infectious process  DISCHARGE LABS: WBC: 13.4/9.2/28.1/347 CHEM 7: 136/4/96/25/29/1.3/97  Brief Hospital Course: 65 year old male with refractory Non hodgkins lymphoma on trial anti CD40 chemo protocol with a complicated medical history including COPD and M. xenopi infection as well as multiple recent pneumonias who presented with sepsis requiring brief ICU stay in the setting of a MRSA pneumonia.
+Treated with vancomycin and completed course.
+Developed C. diff and was treated with oral vancomycin starting [**2135-5-21**], total duration of treatment should be 2 weeks every 6 hours.
+Patient should then continue on prophylaxis of vancomycin 125mg po bid indefinitely.
+MRSA Pneumonia, sepsis:  Given the patient's hypoxia and right-sided pleuritic chest pain upon presentation, a CTA was done which failed to find a PE.
+The patient completed a 14 day course of vancomycin during which his clinical status as well as his pleuritic chest pain improved dramatically.
+By the end of his treatment course he was able to ambulate on room air without desaturation.
+He was started on PO vanco for a total of 2 weeks, last dose should be the evening on [**2135-6-4**] and then should be continued [**Hospital1 **] indefinitely as above.
+Additionally, he was treated with IvIg on [**2135-5-29**] given persisently low IgG levels.
+Hypotension: The patient's home diltiazem was held given his initial hypotension.
+A cardiology consult was called and recommended uptitrating beta-blockage in the setting of a multi-factorial atrial and multi-focal atrial tachycardia from deconditioning, COPD, and progressive failure to thrive.
+Non Hodgkins Lymphoma:  Continued on prophylactic acyclovir and fluconazole as well as monthly pentamidine.
+Per his primary oncologist, the CD40 study drug could not be obtained for the patient until 2 weeks after his completion of antibiotics (to end [**2135-6-4**]).
+He was continued on home fluticasone and combivent and nebs prn.
+# Mycobacterium Xenopi: The patient was continued on Azithromycin q tuesday.
+The patient was maintained on tube feeds via his G-tube.
+He was given swallowing exercises and continued to work with the speech therapy team on techniques to improve his swallowing and allow for eventual advancement of PO intake.
+# Code: FULL   Medications on Admission: Acyclovir 400mg [**Hospital1 **] Azithromycin 1,200mg Qweek Diltiazem 30mg QID Fluconazole 200mg daily Flagyl 500mg [**Hospital1 **] Fluticasone 110mcg, 2 puffs [**Hospital1 **] Hydrocodone acetaminophen 5/500, 1-2tabs Q6hr prn Combivent 18/103, 1-2 puffs Q6hr prn Lansoprazole 30mg daily Loperaminde 2mg QID prn Megestrol 400mg [**Hospital1 **] prn Mirtazapine 30mg QHS prn Compazine 10mg Q6hr prn Trazodone 50mg QHS prn Pentamadine Qmonth Tylenol prn Colace prn Senna prn Simethicone prn Multivitamins   Discharge Medications: 1.
+Fluconazole 200 mg Tablet [**Hospital1 **]: One (1) Tablet PO once a day.
+Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: One (1) Tablet,Rapid Dissolve, DR [**Last Name (STitle) **] DAILY (Daily): per G-tube.
+Docusate Sodium 100 mg Capsule [**Last Name (STitle) **]: One (1) Capsule PO BID (2 times a day) as needed for constipation.
+Senna 8.6 mg Tablet [**Last Name (STitle) **]: Two (2) Tablet PO BID (2 times a day) as needed for constipation.
+Acyclovir 200 mg/5 mL Suspension [**Last Name (STitle) **]: Four Hundred (400) mg PO every eight (8) hours.
+Mirtazapine 30 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO HS (at bedtime): per g-tube.
+Trazodone 50 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO HS (at bedtime) as needed for insomnia: per g-tube.
+Azithromycin 600 mg Tablet [**Last Name (STitle) **]: Two (2) Tablet PO 1X/WEEK (TU) as needed for mycobacterium: Total is 1200mg per g-tube.
+Fludrocortisone 0.1 mg Tablet [**Last Name (STitle) **]: 0.5 Tablet PO DAILY (Daily).
+Metoprolol Tartrate 25 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO TID (3 times a day): per g-tube.
+Allopurinol 300 mg Tablet [**Last Name (STitle) **]: 0.5 Tablet PO DAILY (Daily): per g-tube.
+Portacath), non-heparin dependent: Flush with 10 mL Normal Saline daily, PRN, and when de-accessing, per lumen.
+Heparin Flush (100 units/ml) 5 mL IV PRN DE-ACCESSING port Indwelling Port (e.g.
+Portacath), heparin dependent: When de-accessing port, instill Heparin as above per lumen.
+Heparin Flush (10 units/ml) 5 mL IV PRN line flush Indwelling Port (e.g.
+Portacath), heparin dependent: Flush with 10 mL Normal Saline followed by Heparin as above daily and PRN per lumen.
+Vancomycin 125 mg Capsule [**Last Name (STitle) **]: One (1) Capsule PO Q6H (every 6 hours): Last dose evening of [**2135-6-4**].
+Fluticasone 110 mcg/Actuation Aerosol [**Date Range **]: Two (2) Puff Inhalation [**Hospital1 **] (2 times a day).
+Ipratropium Bromide 0.02 % Solution [**Hospital1 **]: One (1) neb Inhalation Q6H (every 6 hours) as needed for shortness of breath or wheezing.
+Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization [**Hospital1 **]: One (1) neb Inhalation Q6H (every 6 hours) as needed.
+Erythromycin 5 mg/g Ointment [**Hospital1 **]: One (1) application Ophthalmic QID (4 times a day) for 6 days: apply to both eyes.
+Acetaminophen 160 mg/5 mL Solution [**Hospital1 **]: Six [**Age over 90 1230**]y (650) mg PO Q6H (every 6 hours) as needed for pain, fever.
+Ipratropium Bromide 0.02 % Solution [**Age over 90 **]: One (1) neb Inhalation Q8H (every 8 hours).
+Has been refractory to multiple chemotherapeutic regimens, currently enrolled on protocol DF#08-019 which is a Phase I/A/II multicenter open label study of HCD122 which is administered intravenously once weekly for 4 weeks -s/p 4 cycles of R-CVP -s/p 4 cycles of R-CHOP -s/p Zevalin in [**7-/2130**] -s/p Rituximab, fludarabine, and mitoxantrone in [**4-/2131**] -s/p 6 cycles bendamustine in [**2-/2132**] -s/p radiation therapy mesenteric mass in [**9-/2133**] -s/p radiation therapy to left pelvic lymphadenopathy causing ureteral obstruction) in [**1-/2134**] -s/p 1 course [**Hospital1 **] [**Date range (1) **]/[**2134**] .
+Other Medical History: 1) Mycobacterium xenopi infection since [**2132-12-26**]: Had received one year of Levofloxacin/Azithromycin therapy until [**3-/2134**] with good effect.
+Per ID, will need to continue for a total 6 month course (finish [**2135-2-16**]), after which he will be switched to azithromycin alone.
+s/p left VATS w wedge resections in [**2133**] for pulmonary nodules 2) C difficile colitis diagnosed during hospitalization in [**9-3**].
+He was initially treated on PO metronidazole then converted to PO vancomycin on [**2134-9-22**].
+3) During last [**Hospital1 **] admission ([**Date range (1) 32408**]), he had a MRSA UTI, treated with a total of 2 weeks of Vancomycin and then Bactrim.
+5) Repeat admission for failure to thrive resulted in PEG tube placement on [**2135-1-5**].
+6) Emphysema with smoking history 7) [**2135-3-13**] RSV infection - 10 day course of levofloxacin to prevent regrowth   Discharge Condition: Hemodynamically stable.
+You were found to have a MRSA pneumonia for which you were treated with 14 days of an IV antibiotic named vancomycin.
+After you finish this treatment (which is vancomycin 4 times a day), you will need to continue this medication twice a day to ensure that the infection does not recur.
+You were started on a medication named [**Name (NI) 55852**] with improvement in your blood pressure.
+Additionally, you developed conjunctivitis (and eye infection) and were started on an anti-bacterial ointment four times a day.
+Please be sure to keep all of your appointments as listed below.

@@ -1,0 +1,3 @@
+; hold for heart rate of under 50 and systolic blood pressure of under 100.
+; hold for systolic blood pressure of under 100.
+; hold for systolic blood pressure of under 100.

@@ -1,0 +1,53 @@
+Admission Date:  [**2166-6-5**]              Discharge Date:   [**2166-6-7**]  Date of Birth:  [**2087-1-30**]             Sex:   M  Service: MEDICINE  Allergies: Aspirin / Keflex / Neurontin  Attending:[**First Name3 (LF) 1115**] Chief Complaint: somnolence  Major Surgical or Invasive Procedure: none   History of Present Illness: Mr. [**Known lastname **] is a 79yo M with a pmh significant for DMII, CVA, HTN, and several recent admissions/ED visits (most recent [**2166-4-29**]) for altered mental status.
+He was empirically treated with Vancomycin and Atreonam given Cephalosporin allergy.
+REVIEW OF SYSTEMS: Unable to obtain   Past Medical History: - Type II diabetes mellitus on insulin - CVA in early [**2162**] with residual speech hesitancy, mild L weakness - Hypertension - Chronic venous insufficiency - Discogenic LBP s/p distant spinal surgery x 2 - Obesity - History of alcohol abuse - Dyslipidemia - Left toe ulcer s/p Percutaneous angioplasty of left popliteal artery, tibial-peroneal trunk, and anterior tibital artery   Social History: Lives at [**First Name4 (NamePattern1) 2299**] [**Last Name (NamePattern1) **].
+Limited in ambulation, uses a motorized wheelchair due to LBP/leg pain.
+HEENT - PERRLA, dry MM NECK - Supple, no thyromegaly, JVP non-elevated HEART - PMI non-displaced, Distant heart sounds RRR LUNGS - basilar crackles, good air movement, resp unlabored ABDOMEN - tender to palpation throughout abdomen, no rebound, no guarding, NABS, soft/ND, no masses or HSM EXTREMITIES - WWP, no pitting edema, 2+ peripheral pulses, chronic venous stasis skin changes SKIN - no lesions LYMPH - no cervical LAD NEURO - moving limbs with decreased effort.
+Pertinent Results: ADMISSION EXAM  [**2166-6-5**] 04:20PM BLOOD WBC-13.6*# RBC-4.80 Hgb-13.1* Hct-40.8 MCV-85 MCH-27.4 MCHC-32.2 RDW-15.0 Plt Ct-229# [**2166-6-5**] 04:20PM BLOOD Neuts-71.2* Lymphs-20.3 Monos-4.8 Eos-3.1 Baso-0.6 [**2166-6-5**] 04:20PM BLOOD Glucose-223* UreaN-27* Creat-1.2 Na-137 K-4.8 Cl-100 HCO3-25 AnGap-17 [**2166-6-5**] 04:20PM BLOOD ALT-12 AST-18 AlkPhos-74 TotBili-0.2 [**2166-6-5**] 04:20PM BLOOD Albumin-4.5 Calcium-9.8 Phos-4.1 Mg-2.2  PERTINENT LABS AND STUDIES [**2166-6-5**] 04:20PM BLOOD VitB12-696 Folate-12.1 [**2166-6-5**] 04:20PM BLOOD TSH-1.5 [**2166-6-5**] 04:20PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-6* Bnzodzp-NEG Barbitr-NEG Tricycl-NEG [**2166-6-6**] 12:42AM BLOOD Type-[**Last Name (un) **] pO2-75* pCO2-45 pH-7.38 calTCO2-28 Base XS-0 Comment-GREEN TOP [**2166-6-6**] 12:42AM BLOOD Lactate-1.1  CT abd [**2166-6-5**]: 1.
+Moderate-to-severe atherosclerotic disease involving the aorta and coronary arteries.
+RAPID PLASMA REAGIN TEST (Pending): __________________________________________________________ [**2166-6-5**] 4:35 pm BLOOD CULTURE     Blood Culture, Routine (Pending): __________________________________________________________ [**2166-6-5**] 4:35 pm URINE                              **FINAL REPORT [**2166-6-6**]**     URINE CULTURE (Final [**2166-6-6**]):    NO GROWTH.
+He was empirically treated with Vancomycin, Zosyn for 2 days (one dose of aztreonam in the ED) for presumed HCAP, despite lack of fevers, cough.
+At time of discharge, his tramadol and sertraline were restarted, but his trazodone and amitryptiline were not restarted.
+Because the patient did not have fevers, cough, and his leukocytosis was transient, also because he remained very hemodynamically stable and well-appearing, he was not continued on IV antibiotics as it was felt to be unlikely that the patient had MRSA or pseudomonas pneumonia given his clinical appearance, and he was thus discharged on PO levofloxacin and flagyl, the latter to cover anaerobes, especially as there may have been an aspiration component to his presentation.
+CHRONIC CARE # HTN: Continued lisinopril and atenolol.
+# BPH: Continued with finasteride and tamsulosin.
+# Diabetes: Continued NPH home regimen (10U qam/5U qpm) and HISS  # Peripheral Vascular Dz: continued on his Plavix, simvastatin.
+ISSUES OF TRANSITIONS IN CARE: # CONTACT: Daughter [**Known lastname **],[**First Name3 (LF) **] Phone number: [**Telephone/Fax (1) 84869**]  # PENDING STUDIES AT TIME OF DISCHARGE: - blood cultures - RPR - MRSA screening swab # ISSUES TO DISCUSS AT FOLLOW UP: - please repeat CXR in [**4-4**] weeks (mid-end of [**Month (only) 205**]) - consider restarting amitryptiline and trazodone  Medications on Admission: 1.
+Acetaminophen 650 mg PO TID 2.
+Atenolol 25 mg PO DAILY 3.
+Calcium Carbonate 500 mg PO DAILY 4.
+Clopidogrel 75 mg PO DAILY 5.
+Docusate Sodium 100 mg PO BID 6.
+Finasteride 5 mg PO DAILY 7.
+Furosemide 20 mg PO DAILY 8.
+NPH 10 Units Breakfast; NPH 5 Units Dinner; Insulin SC Sliding Scale using HUM Insulin 9.
+Lisinopril 15 mg PO DAILY 10.
+Senna 1 TAB PO BID:PRN constipation 11.
+Simvastatin 40 mg PO DAILY 12.
+Tamsulosin 0.4 mg PO HS 13.
+TraMADOL (Ultram) 50 mg PO TID 14.
+Dextrose 50% 12.5 gm IV PRN hypoglycemia protocol 15.
+Glucagon 1 mg IM Q15MIN:PRN hypoglycemia protocol 16.
+Amitriptyline 25 mg PO HS 17.
+Milk of Magnesia 30 mL PO DAILY:PRN constipation 19.
+Sertraline 75 mg PO DAILY 20. traZODONE 12.5 mg PO BID:PRN agitation   Discharge Medications: 1. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO three times a day.
+2. atenolol 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+3. calcium carbonate 200 mg calcium (500 mg) Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+4. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+5. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+6. finasteride 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Lasix 20 mg Tablet Sig: One (1) Tablet PO once a day.
+NPH insulin human recomb 100 unit/mL Suspension Sig: 10U breakfast; 5U dinner units Subcutaneous twice a day: 10U with breakfast; 5U with dinner.
+Insulin sliding scale with HUM Insulin.
+9. lisinopril 10 mg Tablet Sig: 1.5 Tablets PO DAILY (Daily).
+10. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+11. simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+12. tamsulosin 0.4 mg Capsule, Ext Release 24 hr Sig: One (1) Capsule, Ext Release 24 hr PO HS (at bedtime).
+Ultram 50 mg Tablet Sig: One (1) Tablet PO three times a day.
+Dextrose 50% 12.5 gm IV PRN hypoglycemia protocol 15. glucagon (human recombinant) 1 mg Recon Soln Sig: One (1) Recon Soln Injection Q15MIN () as needed for hypoglycemia protocol.
+Milk of Magnesia 400 mg/5 mL Suspension Sig: Thirty (30) mL PO once a day as needed for constipation.
+18. sertraline 25 mg Tablet Sig: Three (3) Tablet PO once a day.
+19. levofloxacin 750 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours) for 5 days.
+20. metronidazole 500 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 hours) for 5 days.
+You will continue these antibiotics for 5 more days.
+Please note the following changes to your medications: - START Levofloxacin for 5 more days - START Flagyl for 5 more days - STOP amitriptyline - STOP trazodone Please continue your other medications as prescribed.

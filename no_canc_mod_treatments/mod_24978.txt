@@ -1,0 +1,35 @@
+Admission Date:  [**2111-3-30**]              Discharge Date:   [**2111-4-14**]  Date of Birth:  [**2025-2-28**]             Sex:   M  Service: CARDIOTHORACIC  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 165**] Chief Complaint: syncope  Major Surgical or Invasive Procedure: Left carotid stent [**4-3**] Off Pump CABGx4 (LIMA>LAD,SVG to Diag/OM, SVG>RCA) [**4-8**]   History of Present Illness: Mr. [**Known lastname 88783**] is an 86 year old male with hypertension, diabetes mellitus, and benign prostatic hypertrophy that presented to [**Hospital6 3105**] on [**2111-3-29**] after a pre-syncopal episode in church.
+He had denied recent medication changes, had a good appetite and was otherwise feeling well.
+He also underwent a renal ultrasound unrevealing for signs of hydronepthrosis or obstruction but did reveal mild cortical atrophy.
+He had a cardiac catheterization whcih revealed coronary artery disease and was referred to cardiac surgery for revascularization evaluation.
+CAROTID SERIES COMPLETE Study Date of [**2111-4-1**] 12:43 PM TECHNIQUE AND FINDINGS: Extracranial evaluation of bilateral carotids was performed with B mode, color and spectral Doppler ultrasound.
+CTA HEAD: Calcified atheromatous plaque is identified along the cavernous segments of the internal carotid arteries without flow-limiting stenosis.
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT  [**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 88784**] (Complete) Done [**2111-4-8**] at 12:25:38 PM      PRELIMINARY Referring Physician     [**Name9 (PRE) **] Information [**Name9 (PRE) **], [**First Name3 (LF) **] Division of Cardiothoracic [**Doctor First Name **] [**First Name (Titles) **] [**Last Name (Titles) **] [**Hospital Unit Name 4081**] [**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2025-2-28**] Age (years): 86 M  Hgt (in): 66 BP (mm Hg): 167/89  Wgt (lb): 120 HR (bpm): 67  BSA (m2): 1.61 m2 Indication: Intraoperative TEE for off pump CABG.
+ICD-9 Codes: 786.05, 786.51, 424.1, 424.0, 424.2 Test Information Date/Time: [**2111-4-8**] at 12:25    Interpret MD: [**Name6 (MD) 1509**] [**Name8 (MD) 1510**], MD Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 1510**], MD Doppler: Full Doppler and color Doppler Test Location: Anesthesia West OR cardiac Contrast: None Tech Quality: Adequate Tape #: 2011AW6-: Machine: U/S6 Echocardiographic Measurements Results  Measurements  Normal Range Left Ventricle - Septal Wall Thickness:  *1.4 cm  0.6 - 1.1 cm Left Ventricle - Ejection Fraction:  55%  >= 55% Aorta - Ascending:  *3.5 cm  <= 3.4 cm Aortic Valve - Peak Velocity:  1.4 m/sec  <= 2.0 m/sec Aortic Valve - Peak Gradient:  8 mm Hg  < 20 mm Hg Aortic Valve - Mean Gradient:  3 mm Hg  Findings RIGHT ATRIUM/INTERATRIAL SEPTUM: A catheter or pacing wire is seen in the RA and extending into the RV.
+The patient was under general anesthesia throughout the procedure.
+His pre-op work-up carotid ultrasound showed 70% stenosis on the L and 80-90% stenosis on the R. A left carotid stent was placed on [**4-3**].
+On [**4-8**] he underwent an off pump coronary artery bypass grafting times four (LIMA>LAD,SVG to Diag/OM, SVG>RCA).
+He tolerated the procedure well and was transferred in critical but stable condition to the surgical intensive care unit.
+Epicardial wires were removed.
+This was followed on chest x-ray and would resolve.
+Chest tubes were discontinued.
+Amiodarone was started for atrial fibrillation.
+Medications on Admission: HOME MEDICATIONS: Glyburide 5mg PO BID Amlodipine 5mg PO Daily Glucophage 500mg PO BID Lisinopril 40mg PO Daily Flomax 0.4mg PO Daily Insulin (long acting but didn't remember name) 15u in AM .
+MEDICATIONS ON TRANSFER: ASA 81mg Daily Clonidine 0.1mg Dailt Colace 100mg [**Hospital1 **] Glyburide 5mg Daily Acetominophen Insulin - Novolog ISS Metoprolol 50mg PO BID Morphine IV 2mg PRN NTG 0.4mg SL PRN Zofran 4mg IV PRN Senna Tamsulosin 0.4mg Daily Amlodipine 5mg Daily  Discharge Medications: 1. metoprolol tartrate 50 mg Tablet Sig: Two (2) Tablet PO TID (3 times a day).
+2. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+3. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+4. aspirin 81 mg Tablet, Delayed Release (E.C.)
+5. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every 4 hours) as needed for pain.
+6. magnesium hydroxide 400 mg/5 mL Suspension Sig: Thirty (30) ML PO HS (at bedtime) as needed for constipation.
+7. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+8. glyburide 5 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+9. amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+10. atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+11. tamsulosin 0.4 mg Capsule, Ext Release 24 hr Sig: One (1) Capsule, Ext Release 24 hr PO HS (at bedtime).
+12. lisinopril 10 mg Tablet Sig: Three (3) Tablet PO DAILY (Daily).
+13. metformin 500 mg Tablet Sig: One (1) Tablet PO once a day.
+14. amiodarone 200 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day): 400mg [**Hospital1 **] x 1 week, then 400mg daily x 1 week, then 200mg daily until further instructed.
+15. furosemide 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) for 1 weeks.
+16. potassium chloride 20 mEq Packet Sig: One (1) Packet PO Q12H (every 12 hours) for 1 weeks.
+17. insulin lispro 100 unit/mL Solution Sig: One (1) Subcutaneous ASDIR (AS DIRECTED): per sliding scale.
+Look at your incisions daily for redness or drainage Please NO lotions, cream, powder, or ointments to incisions Each morning you should weigh yourself and then in the evening take your temperature, these should be written down on the chart  No driving for approximately one month and while taking narcotics, will be discussed at follow up appointment with surgeon when you will be able to drive No lifting more than 10 pounds for 10 weeks Please call with any questions or concerns [**Telephone/Fax (1) 170**] Females: Please wear bra to reduce pulling on incision, avoid rubbing on lower edge **Please call cardiac surgery office with any questions or concerns [**Telephone/Fax (1) 170**].

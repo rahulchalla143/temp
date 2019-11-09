@@ -1,0 +1,15 @@
+The patient was admitted to [**Hospital Ward Name 121**] 10 and underwent a CT head scan.
+Following his CT scan, the patient was noticed to experience a seizure.
+Physical Exam: VS: Tmax 99.1 Tcurr 99.0 HR74 BP 132/94 RR 20 O2Sat 96 GA: alert and oriented x 3, no acute distress HEENT: normal EOM, PERL, no lymphadenopathy CVS: normal S1, S2, no murmurs Resp: clear to auscultation bilaterally [**Last Name (un) **]: +BS, soft, non-tender, non-distended, staples removed from incision prior to discharge, steri-strips placed, incision clean, dry and intact.
+Ext: no peripheral edema, normal sensation, normal motor strength 5/5  Pertinent Results: [**2165-12-29**] 07:00PM   GLUCOSE-154* UREA N-10 CREAT-0.7 SODIUM-139 POTASSIUM-4.6 CHLORIDE-103 TOTAL CO2-24 ANION GAP-17 [**2165-12-29**] 07:00PM   ALT(SGPT)-113* AST(SGOT)-35 ALK PHOS-111 TOT BILI-0.8 [**2165-12-29**] 07:00PM   ALBUMIN-3.3* CALCIUM-8.4 PHOSPHATE-4.1 MAGNESIUM-1.4* [**2165-12-29**] 07:00PM   WBC-13.0*# RBC-3.33* HGB-11.0* HCT-32.4* MCV-97 MCH-33.1* MCHC-34.1 RDW-19.5* [**2165-12-29**] 07:00PM   PLT COUNT-228# [**2165-12-29**] 07:00PM   tacroFK-21.9* [**2165-12-29**] 09:13PM   CK(CPK)-152 [**2165-12-29**] 10:53PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-30 GLUCOSE-NEG KETONE-15 BILIRUBIN-NEG UROBILNGN-0.2 PH-7.0 LEUK-NEG  Brief Hospital Course: Mr. [**Known lastname **] was admitted to hospital for evaluation of mental status changes.
+He underwent a CT head that was negative for a stroke and hemorrhage.
+Shortly after his CT scan Mr. [**Known lastname **] had a witnessed seizure which stopped with ativan administration on the floor.
+He was transferred to T/SICU for further monitoring and work-up [**2165-12-29**].
+Neurology recommeded MRI, 24-hr EEG and lumbar puncture to determine the etiology of the seizures.
+MRI was negative.
+Lumbar puncture was performed to rule out a infectious source of the seizure activity and was found to be negative.
+On [**2166-1-1**], blood cultures taken [**2165-12-29**] returned positive for methicillin sensitive staphylococcus aureus and patient's antibiotic coverage was changed from vancomycin to dicloxacillin for 10 days.
+He was given instructions for outpatient labs and follow-up in transplant clinic and with neurology.
+Labs every Monday and Thursday at [**Last Name (NamePattern1) 439**] Lab Continue to check blood sugar prior to breakfast and supper.
+Keep a record of blood sugars.
+Followup Instructions: Provider: [**First Name11 (Name Pattern1) 819**] [**Last Name (NamePattern4) 820**], MD Phone:[**Telephone/Fax (1) 673**] Date/Time:[**2166-1-9**] 10:00 Provider: [**First Name11 (Name Pattern1) 674**] [**Last Name (NamePattern4) 675**], MD Phone:[**Telephone/Fax (1) 673**] Date/Time:[**2166-1-15**] 10:40 Provider: [**First Name11 (Name Pattern1) 674**] [**Last Name (NamePattern4) 675**], MD Phone:[**Telephone/Fax (1) 673**] Date/Time:[**2166-1-23**] 1:00 You will need to make a neurology follow up appointment with Dr. [**First Name (STitle) **] [**Name (STitle) 557**].

@@ -1,0 +1,34 @@
+He was taken to [**Hospital6 3105**], where he received an NIHSS of 9 (breakdown not available on the provided notes) and his head CT did not show acute infarcts by report.
+His INR yesterday was 2.6, and today's was 2.7 at the OSH.
+Exam was notable for dense L flaccid plegia, nosoagnosia, visual extinction on the L, R gaze preference, impaired body position sensation on the L. Patient immediately was sent for CTA for further characterization of his stroke.
+V: Facial sensation intact to light touch with no extinction on double simultaneous stimulation.
+Pertinent Results: ADMISSION LABS: -WBC-10.1 RBC-4.63 HGB-15.3 HCT-46.5 MCV-100* MCH-33.0* MCHC-32.9 RDW-14.4 -GLUCOSE-135* NA+-142 K+-4.0 CL--104 TCO2-24, UREA N-24*, CREAT-1.0 -PT-34.2* PTT-37.6* INR(PT)-3.3* -Serum tox: ASA-NEG ETHANOL-NEG ACETMNPHN-NEG bnzodzpn-NEG barbitrt-NEG tricyclic-NEG -Urine tox: bnzodzpn-NEG barbitrt-NEG opiates-NEG cocaine-NEG amphetmn-NEG mthdone-NEG -Urinalysis: BLOOD-TR NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.5 LEUK-NEG RBC-2 WBC-1 BACTERIA-FEW YEAST-NONE EPI-0 -VIT B12-383 .
+LABS ON DISCHARGE: -WBC-8.2 RBC-4.37* Hgb-14.4 Hct-43.2 MCV-99* MCH-33.0* MCHC-33.4 RDW-14.5 Plt Ct-167 -PT-18.3* PTT-34.6 INR(PT)-1.7*  ===================================  Imaging: .
+NONCONTRAST HEAD CT ([**7-28**]): There is a hyperdense middle cerebral artery on the right with obscuration of the lentiform nucleus on the right consistent with infarction.
+CT PERFUSION ([**7-28**]): There is a matched perfusion defect in the right MCA territory with delayed transit time and reduced blood flow and blood volume.
+No atrial septal defect or patent foramen ovale is seen by 2D, color Doppler or saline contrast with maneuvers.
+CHEST X-RAY ([**7-28**]): No focal infiltrate.
+NONCONTRAST HEAD CT ([**8-1**], our read): expected evolution of right MCA infarct with known hemorrhagic conversion.
+His exam was concerning for a dense right MCA infarct.
+Repeat head CT in our ED showed the right MCA infarct.
+CTA revealed a right M2 superior division cutoff.
+Mr. [**Known lastname 111885**] was initially admitted to the neurology ICU because his systolic blood pressures were in the low 100s and it was thought he may need vasopressors to attain adequate cerebral perfusion.
+In ICU he underwent stroke risk factor workup including TTE (showed no PFO/ASD), full lipid panel (showed LDL 66) and A1C (mildly elevated to 6.4%).
+MRI was performed, confirming presence of right MCA infarct.
+Of note, the MRI also showed some hemorrhagic conversion of the stroke, but regardless it was decided to continue anticoagulating patient as his neuro exam was stable.
+Repeat head CT on day of discharge showed no increase in hemorrhage.
+Once his INR drifted below 2, he was started on therapeutic Lovenox 70mg SC BID.
+Plan is for him to stay on Lovenox until INR <1.5, and then switch to Pradaxa 150mg [**Hospital1 **].
+INR on day of discharge was 1.7.
+On discharge, neuro exam was stable to mildly improved from admission: patient AAOx3 with abullic affect, and dense left face/arm/leg hemiplegia.
+===================== TRANSITIONS OF CARE: - please D/C Foley when pt arrives to rehab facility, and check post-void residuals - please HOLD morning dose of Lovenox until INR is checked on [**2186-8-2**].
+If INR is >1.5, give AM dose of Lovenox and recheck INR on [**2186-8-3**].
+If INR is <1.5, STOP Lovenox and START Dabigatran.
+(for LDL > 100) () Yes - (x) No (if LDL >100, Reason Not Given: ) 6.
+(x) Yes - () No (if LDL >100, Reason Not Given: ) 10.
+Enoxaparin Sodium 70 mg SC BID Please STOP enoxaparin once INR is <1.5.
+Dabigatran Etexilate 150 mg PO BID To be started AFTER INR is <1.5 (pt should remain on Enoxaparin until then).
+Outpatient Lab Work Please check INR on [**2186-8-2**]:  ---If INR is <1.5, please STOP enoxaparin and START dabigatran (Pradaxa).
+---If INR is >1.5, please CONTINUE enoxaparin and recheck INR daily until INR <1.5.
+Neuro exam on discharge: dense hemiplegia affecting left face, left arm, and left leg.
+We made some changes to your blood thinner medications to help prevent another blood clot from forming and leading to a stroke in the future.

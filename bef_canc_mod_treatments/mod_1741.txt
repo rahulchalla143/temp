@@ -1,0 +1,79 @@
+)Central Line Placement 2.
+)PICC line Placement 3.
+)Respiratory Intubation/Extubation   History of Present Illness: 69yo woman with PMH as below which includes CAD s/p MI/CABG, A-fib on coumadin who presented to [**Hospital3 934**] Hospital on [**2128-2-13**] with fever, shortness of breath and cough.
+She was diagnosed with a LLL pneumonia and initially treated with Ceftriaxone and Azithro.
+Her respiratory status worsened, she was transferred to their ICU and intubated for respiratory failure.
+She was continued on abx and given stress dose steroids given her chronic Prednisone for RA.
+She had been restarted on Heparin after her INR on [**2-17**] was 1.2.
+ICU course was remarkable for episodes of hypertension requiring labetalol and nitroglycerin gtts.
+She had been started on ceftriaxone/Vancomycin and changed to Ceftazidime for concerns of VAP.
+Antibiotics were altered on [**3-2**] from Vanco to linezolid given the continued fevers and antibiotic resistance profile of the enterococcus.
+There had been concern for possible CHF as the cause of her declining respiratory status on the floor and was diuresed with 20mg iv furosemide x 2 on [**3-2**] and 20mg iv furosemide x 1 on [**3-1**].
+Her urine output was reported to be 500cc to the last dose of furosemide on [**3-2**].
+CAD s/p MIx2, s/p CABG in [**2115**] 2.
+A-fib on Coumadin 3.
+Rheumatoid arthritis on MTX and prednisone s/p Remicade therapy in past, osteoarthritis 4.
+Mother had CHF  Physical Exam: 99.8  109/60  88  10  100%  on AC 500x10 PEEP 5, FiO2 0.40 Gen: Intubated, adequately sedated HEENT: pupils equal, OGT in place Neck: no JVD CV: irreg irreg, no murmur Resp: coarse rhonchi at left base, otherwise clear Abd: distended, minimal bowel sounds, large firm pelvic mass palpable Ext: no C/C/E, 1+ DP pulses, 2+ femoral pulses b/l  Pertinent Results: [**2128-2-24**] 05:17PM BLOOD Hct-34.1* [**2128-2-25**] 04:16AM BLOOD WBC-21.4* RBC-3.85* Hgb-12.0 Hct-34.9* MCV-91 MCH-31.1 MCHC-34.3 RDW-16.8* Plt Ct-189 [**2128-2-26**] 05:00AM BLOOD WBC-19.1* RBC-3.73* Hgb-11.5* Hct-34.6* MCV-93 MCH-30.9 MCHC-33.3 RDW-16.7* Plt Ct-220 [**2128-2-29**] 04:30AM BLOOD WBC-12.4* RBC-4.34 Hgb-13.0 Hct-37.8 MCV-87 MCH-30.0 MCHC-34.4 RDW-16.3* Plt Ct-227 [**2128-3-2**] 06:00AM BLOOD WBC-12.3* RBC-4.29 Hgb-13.2 Hct-39.7 MCV-93 MCH-30.8 MCHC-33.3 RDW-16.7* Plt Ct-181 [**2128-3-4**] 04:20AM BLOOD WBC-11.8* RBC-4.05* Hgb-12.7 Hct-37.4 MCV-92 MCH-31.3 MCHC-33.9 RDW-16.9* Plt Ct-180 [**2128-3-5**] 04:14AM BLOOD WBC-10.7 RBC-3.97* Hgb-12.2 Hct-35.2* MCV-89 MCH-30.8 MCHC-34.7 RDW-16.9* Plt Ct-187 [**2128-2-23**] 06:04PM BLOOD PT-13.2 PTT-25.5 INR(PT)-1.1  [**2128-3-2**] 06:00AM BLOOD PT-12.5 PTT-20.4* INR(PT)-1.0 [**2128-2-23**] 06:35PM BLOOD Glucose-113* UreaN-38* Creat-0.7 Na-145 K-3.9 Cl-113* HCO3-27 AnGap-9 [**2128-2-25**] 04:16AM BLOOD Glucose-122* UreaN-32* Creat-0.6 Na-146* K-3.6 Cl-111* HCO3-28 AnGap-11 [**2128-2-29**] 04:30AM BLOOD Glucose-89 UreaN-9 Creat-0.3* Na-138 K-3.7 Cl-103 HCO3-29 AnGap-10 [**2128-3-3**] 04:28AM BLOOD Glucose-135* UreaN-16 Creat-0.4 Na-137 K-3.8 Cl-96 HCO3-37* AnGap-8 [**2128-3-5**] 04:14AM BLOOD Glucose-84 UreaN-17 Creat-0.5 Na-135 K-3.7 Cl-95* HCO3-31* AnGap-13 [**2128-2-23**] 06:04PM BLOOD ALT-31 AST-32 LD(LDH)-371* CK(CPK)-405* AlkPhos-48 Amylase-23 TotBili-0.5 [**2128-3-3**] 04:28AM BLOOD Lipase-82* [**2128-2-23**] 06:04PM BLOOD CK-MB-8 cTropnT-0.10* [**2128-3-3**] 04:28AM BLOOD CK-MB-8 cTropnT-0.04* [**2128-2-23**] 06:35PM BLOOD Albumin-2.6* Calcium-8.1* Phos-4.3 Mg-2.1 [**2128-2-29**] 04:30AM BLOOD Calcium-8.3* Phos-2.9 Mg-1.9 [**2128-3-2**] 06:00AM BLOOD Calcium-8.2* Phos-2.6* Mg-1.8 [**2128-3-5**] 04:14AM BLOOD Calcium-8.5 Phos-2.9 Mg-1.6 [**2128-2-23**] 06:04PM BLOOD TSH-1.7 [**2128-2-23**] 07:51PM BLOOD Type-ART Temp-37.6 Rates-[**11-11**] Tidal V-500 PEEP-5 FiO2-40 pO2-112* pCO2-40 pH-7.42 calHCO3-27 Base XS-0 -ASSIST/CON Intubat-INTUBATED [**2128-2-25**] 05:18AM BLOOD Type-ART pO2-62* pCO2-36 pH-7.48* calHCO3-28 Base XS-3 [**2128-2-25**] 04:30PM BLOOD Type-ART Temp-38.2 FiO2-70 pO2-90 pCO2-41 pH-7.40 calHCO3-26 Base XS-0 Intubat-NOT INTUBA [**2128-2-27**] 10:14AM BLOOD Type-ART Temp-37.0 pO2-133* pCO2-43 pH-7.42 calHCO3-29 Base XS-3 [**2128-3-3**] 04:45PM BLOOD Type-ART pO2-115* pCO2-51* pH-7.47* calHCO3-38* Base XS-12 [**2128-3-3**] 04:45PM BLOOD Type-ART pO2-115* pCO2-51* pH-7.47* calHCO3-38* Base XS-12 [**2128-3-11**] ABG O2=72 CO2=32, pH=7.48 DIPSTICK URINALYSIS Blood Nitrite Protein Glucose Ketone Bilirub Urobiln pH Leuks [**2128-3-8**] 01:37PM    LG NEG NEG NEG NEG NEG NEG 9.0* NEG [**2128-3-7**] 09:45AM    LG NEG TR NEG NEG NEG NEG 7.0 NEG                        RBC WBC Bacteri Yeast Epi TransE RenalEp [**2128-3-8**] 01:37PM    21* 0      NONE NONE <1 [**2128-3-7**] 09:45AM      2 6*      FEW NONE <1  [**2128-2-29**] 08:18AM URINE Blood-TR Nitrite-NEG Protein-NEG Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-NEG [**2128-2-26**] 10:44AM URINE RBC-21-50* WBC-0-2 Bacteri-NONE Yeast-NONE Epi-[**4-3**] [**2128-2-29**] 08:18AM URINE RBC-6* WBC-0 Bacteri-NONE Yeast-NONE Epi-0 URINE CULTURE (Final [**2128-3-16**]):       ENTEROBACTERIACEAE.
+[**2128-3-11**] 2:38p CK: 66  MB: 7  Trop-*T*: 0.04 Comments: Note Updated Reference Ranges As Of [**2126-7-30**] Ctropnt > 0.10 Ng/Ml Suggests Acute Mi Other Blood Chemistry: Cortsol: 11.9 Normal Diurnal Pattern: 7-10am 6.2-19.4 / 4-8pm 2.3-11.9  [**2128-3-4**] 04:20AM URINE HISTOPLASMA ANTIGEN-PND  [**2128-3-4**] 4:20 am SEROLOGY/BLOOD                              **FINAL REPORT [**2128-3-4**]**     CRYPTOCOCCAL ANTIGEN (Final [**2128-3-4**]):       CRYPTOCOCCAL ANTIGEN NOT DETECTED.
+Reports:  CXR [**2-23**] 1) Cuff of endotracheal tube is overdistended and tip of vascular catheter abuts the apparent lateral wall of the superior vena cava.
+2) Lingular and left lower lobe consolidation suggestive of pneumonia  CXR [**3-3**] SEMI-UPRIGHT AP CHEST: The patient is post median sternotomy.
+The NG tube is unchanged.
+[**3-9**] C-Spine No fracture or malalignment is identified of the cervical spine.
+IVC GRAM/FILTER [**3-14**] Successful placement of retrievable recovery IVC filter inferior to the level of the renal veins via right common femoral access  CT ABD W&W/O C; CT PELVIS W&W/O C [**3-14**] ) A large, extraperitoneal heterogeneous mass representing a hematoma is seen arising from the left rectus abdominis muscle posteriorly.
+HTN: The patient remained fairly hypertensive following admission, and at one point required a NTG and then labetolol drip.
+Rheum: Hydrocortisone was initially started, then changed to Prednisone as the patient was taking prior to admission.
+Course on Floor: [**0-0-0**]  In summary, this is a 69yo female with hx of respiratory failure in the MICU, CAD, Afib( was on Coumadin), RA, HTN, and r adrenal adenoma presents who from OSH w/ PNA, supratherapeutic INR, and abdominal mass concerning for rectus sheath hematoma.
+Fever: Despite current negative sputum cx, negative BCX, and therapy w/ ceftaz and vanc, patient continued to spike fever.
+Try and avoid turning patient on right side as hematoma puts pressure on IVC.
+On [**2128-3-2**] patient was given dose of dilaudid for pain.
+Rheum: C/w maintenance prednisone for treatment of RA during her hospital course.
+FEN: During her hospital course tube feeds were increased to 45cc/hr.
+Given that the patient received pain meds the night of [**2128-3-2**], it was hypothesized that this reduced her respiratory effort.
+Patient received BIPAP and improved.
+The patient was immediately started on Heparin 600u IV q hour.
+Throughout the hospital course the patient's respiratory status continued to improve and the patient was weaned off nasal canula.
+It was suggested that the patient avoid opiates and benzodiazepines and obtain an MRI to rule out stroke.
+The patient was placed in a soft [**Location (un) 2848**] J Collar and MRI of the Cervical Spine was ordered in order to rule of spinal cord compression.
+Neurology felt that patient did not require further spinal cord imaging.
+On [**2128-3-11**] the patient was started on Zoloft after being discontinued per earlier neurology recs for concern about serotonin syndrome.
+On [**3-2**] patient received 20mg lasix x2 and breathing status improved.
+Patient's afib controlled on coumadin, she was started on heparin and coumadin overlap on [**3-9**].
+On [**2128-3-5**] patient was restarted on Ceftazadime which was discontinued on [**2128-3-3**] and also started on Flagyl for prophalaxysis against aspiration PNA.
+Endocarditis was also considered as a cause but ruled out by echo on [**2128-3-3**].
+On [**3-7**] she had a positive UA and as a result the foley catheter was changed and UA repeated, which was negative.
+However, blood cultures were collected and the patient was started on Flagyl and levofloxacin.
+Throughout her hospital course HCT stabalized and Coumadin was restarted for proph against AFIB.
+HTN: Patient has labile HTN being controlled on HCTZ, Metropolol and Captopril.
+Rheum: Patient continued on prednisone.
+FEN: Tube feeds started at 10ml/hr and were advanced to 45ml/hr between [**Date range (1) 59473**].
+Her diet was advanced to thin liquids on [**2128-3-9**].
+MICU Course [**3-12**]- [**3-16**]  This is a 69yo female with hx of respiratory failure in the MICU, CAD, Afib( was on Coumadin), RA, HTN, and r adrenal adenoma presents who from OSH w/ PNA, supratherapeutic INR, and abdominal mass concerning for rectus sheath hematoma.
+Her current problems include, likely resolving ICU neuropathy with  mental status change, fevers, compromised respiratory status from resolved LLL PNA and bilateral PEs for which she was on heparin between [**Date range (1) 50572**], and labile HTN.
+She has a resolving abdominal hematoma, which again enlarged during her course of heparin between [**Date range (1) 50572**].
+Patient was given haldol prn overnight for hallucinations and is now on standing seroquel.
+3.ID: +UA, UCx for g- rods while in MICU, now on IV Levofloxacin.
+If she has difficulty breathing consider one time lasix 20mg.
+No Coumadin for rate controlled afib.
+While no DVTs or Pelvic thrombosis were noted on abd/pel CT or lenis, IVC filter placed and patient now off heparin and coumadin.
+Patient s/p transufsion for HCT drop while in MICU.
+HTN: C/w Lopressor, increase as tolerated.
+Resp: Sat'ing well on room air, weaned slowly from oxygen, has history of bilateral PE was on heparin/coumading, now with IVC filter secondary to HCT drop and abdominal hematoma.
+CXR on [**3-18**] revealed LLL PNA vs atelectasis slightly increased from prior studies.
+Access: Central line removed in MICU, has PICC.
+Medications on Admission: Propofol gtt Fentanyl gtt Combivent inh Ceftriaxone 1gm Q24 Levoflox 500 Q24 Protonix Nystatin KCl Lopressor 25mg TID Diflucan 150mg EPO 40000U QSun Hydrocort 100mg IV Q8   Discharge Medications: 1.
+Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical  [**Hospital1 **] (2 times a day).
+Lansoprazole 30 mg Capsule, Delayed Release(E.C.)
+Albuterol Sulfate 0.083 % Solution Sig: One (1)  Inhalation Q2-4H (every 2 to 4 hours) as needed.
+Prednisone 1 mg Tablet Sig: Four (4) Tablet PO DAILY (Daily).
+Clotrimazole 1 % Cream Sig: One (1) Appl Topical  [**Hospital1 **] (2 times a day).
+Hydrocortisone 2.5 % Cream Sig: One (1) Appl Rectal [**Hospital1 **] (2 times a day).
+Potassium Chloride 20 mEq Packet Sig: Three (3)  PO QAM (once a day (in the morning)).
+Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 times a day).
+Nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID (4 times a day) as needed.
+Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Quetiapine Fumarate 25 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+Quetiapine Fumarate 25 mg Tablet Sig: 0.5 Tablet PO QAM (once a day (in the morning)).
+Albuterol-Ipratropium 103-18 mcg/Actuation Aerosol Sig: [**2-1**] Puffs Inhalation Q6H (every 6 hours) as needed for SOB/wheezing.
+Meropenem 1 g Recon Soln Sig: One (1)  Intravenous  every twelve (12) hours.
+)Pulmonary Embolism 4.
+Please take all medications as directed and contact your PCP with questions.

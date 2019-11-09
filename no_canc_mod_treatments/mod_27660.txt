@@ -1,0 +1,50 @@
+Admission Date:  [**2123-12-21**]              Discharge Date:   [**2123-12-30**]  Date of Birth:  [**2055-4-8**]             Sex:   F  Service: MEDICINE  Allergies: Lipitor / Sulfa (Sulfonamides) / Clarithromycin / Epinephrine / Thiopental / Tetanus / Shellfish / Iodine; Iodine Containing  Attending:[**First Name3 (LF) 2297**] Chief Complaint: Transferred from OSH for Trach + PEG MICU Transfer: Pneumonia on vent  Major Surgical or Invasive Procedure: -tracheostomy -G-tube placement -right thoracentesis   History of Present Illness: 68F h/o 02-dependent COPD, chronic hypercapneia, s/p mult admits in last 6mo's COPD exacerbations, though never intubated until current admission, who was transferred to [**Hospital1 18**] for trach and PEG on [**2123-12-22**].
+Pt being transferred to MICU service for management and tx of PNA.
+Pt failed BiPAP & required intubation.
+A triple lumen R-IJ was placed on [**2123-12-14**] in the setting of hypotension: she reportedly had SBP into the 80s & required pressors for a short period--dopamine initially (which made her tachycardic) then vasopressin.
+Because of this cx data, her abx were changed from levoflox to cefepime.
+Pt was started on TF via NGT.
+Given overall picture, pt evaluated for trach & PEG at OSH; however, it was felt that she would be high risk for procedure given her kyphosis & body habitus, so she was transferred here for intervention.
+On arrival to [**Hospital1 18**], pt was con't on cefepime for tx of PNA as well as IV steroids & nebs for COPD and dilt gtt for rapid afib.
+She was started on vanc in addition to cefepime.
+She was transitioned off dilt gtt and controlled with dilt PO.
+Past Medical History: -COPD 02 dependent, chronic hypercapnia, never intubated prior to current admission -mild CHF-->LVED 40-45% on OSH echo -mild pulm HTN w/ PA pressure of 35mmhg by OSH echo -P-Afib-->not on coumadin, unclear why not -[**Name (NI) 15764**]>pt reports this is only present while on steroids -kyphosis -PVD w/ LE ulcers  Physical Exam: VS: T:  HR: 87 (70-110s) BP: 130/50 RR: 19 Sat: 96 on AC 15/8, 0.45 Gen: awake, alert, oriented x3, mouthing words/writing to communicate, sl uncomfortable appearing HEENT: NCAT, PERRL, sclera anicteric Neck: Supple, no LAD, no JVD CV: RRR S1/S2, no m/r/g Resp: Roncherus w/ exp wheezes throughout anterior fields Abdomen: Soft, NTND, BS+ Ext: Trace LE edema DP pulses are 2+ bilaterally Neuro: A + O x 3, CN II-XII grossly intact, Motor [**6-5**] both upper and lower extremities Skin: B/l LE healed scars from old wounds/ulcers; scattered ecchymoses on b/l feet.
+Pertinent Results: [**2123-12-21**] 08:21PM   WBC-15.7* RBC-3.96* HGB-11.4* HCT-34.7* MCV-88 MCH-28.8 MCHC-32.9 RDW-16.3* [**2123-12-21**] 08:21PM   NEUTS-88* BANDS-0 LYMPHS-5* MONOS-7 EOS-0 BASOS-0 ATYPS-0 METAS-0 MYELOS-0 [**2123-12-21**] 08:21PM   GLUCOSE-295* UREA N-18 CREAT-0.4 SODIUM-134 POTASSIUM-4.6 CHLORIDE-88* TOTAL CO2-42* ANION GAP-9 [**2123-12-21**] 08:21PM   CALCIUM-8.9 PHOSPHATE-2.2* MAGNESIUM-2.0 [**2123-12-21**] 08:47PM   TYPE-ART PO2-58* PCO2-47* PH-7.52* TOTAL CO2-40* BASE XS-13  Brief Hospital Course: 68F h/o severe COPD, vent-dependent, planned for trach & PEG on admission deferred after finding MRSA LLL PNA + B pleural effusions (L>R), treated with vanc/cefepime, also on heparin gtt for PE.
+# MRSA Pneumonia: Pt was found to have LLL pneumonia, initially considered CAP vs. nosocomial as pt had been transferred from [**Hospital6 **] after being admitted there from home w/ PNA, and because pt had been vented for over a week before transfer.
+Pt received cefepime for pseudomonal coverage per OSH cultures, and was started on vancomycin for MRSA in sputum.
+She should be continued on vancomycin and cefepime until [**1-1**].
+# Respiratory distress: Pt originally intubated at OSH because of hypercarbic failure related to severe COPD, PNA, and pleural effusions.
+A right-sided thoracentesis was performed on [**2123-12-27**] seeking to drain an effusion; this was complicated by the development of a pneumothorax which required the placement of a chest tube.
+Bedside tracheostomy was subsequently performed by interventional pulmonology on [**2123-12-28**].
+Pt administered heparin gtt and to r/o possible future PE source, bilateral lower extremity ultrasounds were obtained and confirmed no DVTs.
+Pt's outpatient mgt will require long-term anticoagulation.
+Anticoagulation was held briefly in anticipation of her multple procedures; warfarin was re-started on [**2123-12-29**].
+Pt was therefore maintained on nebulizers and guaifenesin, and was started on methylprednisolone (Solumedrol) IV at 40mg IV q8h, which was tapered to 20mg q8h.
+Before [**12-27**] procedure, pt was maintained on stress-dose steroids.
+On [**2123-12-29**], she was transitioned to 15 mg daily of PO prednisone.
+# CHF: Pt uses furosemide 60mg daily as home regimen for baseline CHF, and was restarted on furosemide 60mg QOD to maximize respiratory capacity and was increased to 60mg PO daily.
+She should continue on lasix 60mg PO daily.
+# Type II DM: Per pt, elevated glucose only when steroids used.
+Pt was initially placed on insulin gtt, which was then changed to NPH 30units x1 dose AM after MICU transfer.
+# AFib:  Patient was rate-controlled initially on diltiazem gtt and later on diltiazem PO.
+Anticoagulation was held in the setting of surgial procedures but restarted on [**2123-12-29**].
+Continue warfarin and titrate to INR 2.0-3.0. .
+# Nutrition: Nutrition was consulted and recommended tube feeds as follows: Half strength Nutren 2.0 at 50ml/hour with 15g Benepro, 1251kcal, 61g protein.
+Medications on Admission: Medications on Transfer: Diltiazem 10 mg/hr IV DRIP INFUSION Docusate Sodium (Liquid) 100 mg NG [**Hospital1 **] Ipratropium Bromide MDI 8 PUFF IH QID Miconazole Powder 2% 1 Appl TP [**Hospital1 **] Acetaminophen 650 mg PO/PR Q6H:PRN Albuterol 8 PUFF IH Q6H:PRN Lorazepam 2-4 mg PO/IV Q4H:PRN Morphine Sulfate 2-4 mg IV Q1H:PRN Insulin SC Heparin 5000 UNIT SC TID Famotidine 20 mg PO BID CefePIME 1 gm IV Q8H Dexamethasone 4 mg IV Q6H Tobramycin-Dexamethasone Ophth Oint 1 Appl BOTH EYES QID Digoxin 0.25 mg IV DAILY Metoprolol 5 mg IV Q2-3H PRN Ibuprofen Suspension 400 mg NG Q6H:PRN pain Vancomycin 1000 mg IV Q 12H Ibuprofen Suspension 400 mg NG Q6H:PRN pain  Discharge Medications: 1.
+Digoxin 250 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Guaifenesin 100 mg/5 mL Syrup Sig: 5-10 MLs PO Q6H (every 6 hours) as needed.
+Coumadin 5 mg Tablet Sig: One (1) Tablet PO once a day: Please monitor INR until stable.
+Famotidine 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Tobramycin-Dexamethasone 0.3-0.1 % Ointment Sig: One (1) Appl Ophthalmic QID (4 times a day).
+Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical [**Hospital1 **] (2 times a day).
+Lorazepam 1 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for anxiety.
+Oxycodone 5 mg Tablet Sig: One (1) Tablet PO WITH DRESSING CHANGES () as needed for Administer 30 min prior to dressing changes.
+Insulin Regular Human 100 unit/mL Solution Sig: per sliding scale  Injection four times a day: Per sliding scale.
+Insulin NPH Human Recomb 100 unit/mL Suspension Sig: Twenty Five (25) units Subcutaneous twice a day: [**Month (only) 116**] require titration as prednisone is tapered.
+Furosemide 40 mg Tablet Sig: 1.5 Tablets PO DAILY (Daily).
+Ipratropium Bromide 17 mcg/Actuation Aerosol Sig: Two (2) Puff Inhalation Q4H (every 4 hours).
+Diltiazem HCl 30 mg Tablet Sig: One (1) Tablet PO QID (4 times a day).
+Prednisone 10 mg Tablet Sig: 1.5 Tablets PO DAILY (Daily) for 1 days: To be followed by 10mg daily for 1 day then 5 mg daily for 1 day then 3mg daily for 2 days then discontinue.
+Cefepime 1 gram Recon Soln Sig: One (1) Recon Soln Intravenous Q8H (every 8 hours) for 2 days: TO be completed on [**2124-1-1**].
+Vancomycin in Dextrose 1 gram/200 mL Piggyback Sig: One (1) Intravenous Q 12H (Every 12 Hours): To be completed on [**2124-1-1**].
+Discharge Disposition: Extended Care  Facility: [**Hospital 5503**] [**Hospital **] Hospital  Discharge Diagnosis: Primary Diagnoses -ventilator dependent COPD -MRSA LLL PNA and bilateral pleural effusions -tension pneumothorax -question of PE  Secondary Diagnoses -CHF -diabetes -atrial fibrillation  Discharge Condition: Good;   Discharge Instructions: You are being transferred to a rehabilitation facility for further care and treatment to improve your breathing over the long-term.

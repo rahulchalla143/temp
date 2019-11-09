@@ -1,0 +1,31 @@
+Admission Date:  [**2104-12-4**]              Discharge Date:   [**2104-12-21**]  Date of Birth:  [**2049-7-29**]             Sex:   M  Service: MEDICINE  Allergies: Penicillin V Potassium  Attending:[**Last Name (NamePattern1) 4377**] Chief Complaint: Cough, Fever  Major Surgical or Invasive Procedure: None  History of Present Illness: Mr. [**Known lastname 74199**] is a 55 yo man with a history of CML day +196 status post donor-matched allogeneic SCT complicated by GHV of gut and skin, cardiomyopathy (TTE [**8-18**] with LVEF > 55%) who presented with fever to 101, fatigue, and chest congestion.
+Past Medical History: # CML: Diagnosed [**7-/2103**], s/p Allogeneic transplant (sister as donor)in [**5-18**].
+Right sided Hickmann in place without surrounding erythema Skin: no rashes or lesions noted.
+-cerebellar: No nystagmus, dysarthria, intention or action tremor  Pertinent Results: Admission Labs:  [**2104-12-4**] 08:00PM   WBC-10.2 RBC-3.80* HGB-13.5* HCT-37.9* MCV-100* MCH-35.6* MCHC-35.8* RDW-14.8 [**2104-12-4**] 08:00PM   NEUTS-84.8* LYMPHS-7.4* MONOS-6.8 EOS-0.6 BASOS-0.5 [**2104-12-4**] 08:00PM   PLT COUNT-275 [**2104-12-4**] 08:00PM   ALT(SGPT)-28 AST(SGOT)-28 LD(LDH)-210 ALK PHOS-76 TOT BILI-0.3 [**2104-12-4**] 08:14PM   GLUCOSE-73 LACTATE-1.1 NA+-141 K+-3.6 CL--98* TCO2-27 [**2104-12-4**] 08:00PM   UREA N-14 CREAT-1.3* [**2104-12-5**] 12:00AM   PT-12.5 PTT-31.8 INR(PT)-1.1 [**2104-12-4**] 08:00PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR GLUCOSE-NEG KETONE-15 BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-TR [**2104-12-4**] 08:00PM URINE  RBC-0-2 WBC-0-2 BACTERIA-OCC YEAST-NONE EPI-0 [**2104-12-4**] 08:00PM URINE  HYALINE-[**2-12**]* [**2104-12-4**] 08:00PM   IgG-300*  CTA [**2104-12-14**] IMPRESSION: 1.
+Brief Hospital Course: Mr. [**Known lastname 74199**] is a 55 year old man with a history of CML status post allogeneic SCT complicated by GVHD of skin/gut on immunosuppression who was admitted with RSV bronchiolitis that was then complicated by hospital acquired pneumonia.
+The pt was treated with bronchodilators and received a single dose Synagis (15mg/kg) on [**2104-12-5**] with improvement in oxygen saturation.
+During the admission the pt required multiple transfers to the ICU for hypoxia, and was diagnosed with hospital acquired pneumonia and treated with Cefepime and Vancomycin initially.
+The pt then developed a diffuse morbilloform eruption that was attributed to Cefepime, and the antibiotic regimen for hospital-acquired pneumonia was changed to Linezolid, Aztreonam, Cipro and Flagyl per infectious disease recommendations.
+# CML: During this admission the pt was continued on his home immunosuppressive regimen of prednisone, Cellcept and Neoral.
+The pt was continued on his outpatient prophylaxis regimen of acyclovir and posaconazole.
+During the admission the pt also received a dose of intravenous immune globulin.
+Medications on Admission: ACYCLOVIR 400mg q8h CYCLOSPORINE MODIFIED 25mg [**Hospital1 **] POSACONAZOLE 400mg qam and 200mg qpm FOLIC ACID 1 mg daily LORAZEPAM 0.5-1mg q4h prn METOPROLOL SUCCINATE 150mg daily MYCOPHENOLATE MOFETIL 250mg [**Hospital1 **] OMEPRAZOLE 20mg [**Hospital1 **] PREDNISONE 7.5mg daily URSODIOL 300 mg Capsule [**Hospital1 **] ARTIFICIAL TEAR WITH LANOLIN - Ointment - 1 Ointment(s) R eye daily ASCORBIC ACID 500mg daily CALTRATE-600 PLUS VITAMIN D 600 mg-400 unit 2tab daily MAGNESIUM OXIDE 400 mg Tablet [**Hospital1 **] MULTIVITAMIN 1 tab daily TACROLIMUS ELIXIR 0.5/5ml's 5ml's swish and spit tid DEXAMETHASONE 5 mL(s) by mouth Swish and Spit QID  Discharge Medications: 1.
+Acyclovir 200 mg Capsule Sig: Two (2) Capsule PO Q8H (every 8 hours).
+Cyclosporine Modified 25 mg Capsule Sig: One (1) Capsule PO Q12H (every 12 hours).
+Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Lorazepam 0.5 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours) as needed.
+Mycophenolate Mofetil 250 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+Omeprazole 20 mg Capsule, Delayed Release(E.C.)
+Ursodiol 300 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Calcium Carbonate 500 mg Tablet, Chewable Sig: Two (2) Tablet, Chewable PO DAILY (Daily).
+Magnesium Oxide 400 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Dexamethasone 0.5 mg/5 mL Solution Sig: Five (5) ML PO TID PRN: MIX WITH TACROLIMUS SUSPENSION.
+Prednisone 5 mg Tablet Sig: One (1) Tablet PO QAM (once a day (in the morning)).
+Prednisone 2.5 mg Tablet Sig: One (1) Tablet PO QPM (once a day (in the evening)).
+Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Tacrolimus suspension 0.5mg/5cc swish and spit three times daily as needed for mouth pain.
+Mix with dexamethasone suspension.
+Pentamidine 300 mg Recon Soln Sig: One (1)  Inhalation once a month.
+You were treated with immunoglobulin therapy directed against the virus and with intravenous immunoglobulin, as well as a 14-day course of antibiotics.

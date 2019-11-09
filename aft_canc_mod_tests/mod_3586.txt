@@ -1,0 +1,30 @@
+Admission Date:  [**2107-9-5**]              Discharge Date:   [**2107-10-8**]  Date of Birth:  [**2029-7-11**]             Sex:   F  Service: OMED  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**Last Name (NamePattern1) 4377**] Chief Complaint: SOB, anemia to 22, weakness  Major Surgical or Invasive Procedure: Bronchoscopy x2 Bone marrow biopsy Mechanical ventilation  History of Present Illness: 78 yo woman with MDS, presenting to [**Hospital3 **] with SOB, hypotension, anemia (Hct = 22.1, Hbg = 7.6), leukocytosis (WBC = 31.4 with 21 bands), thrombocytopenia (Plt = 10).
+Pt was transferred to [**Hospital1 18**] for transfusion and bone marrow biopsy to R/O progression to AML.
+Last bone marrow biopsy in [**2106-11-15**] was negative for leukemia, just c/w MDS.
+Myelodysplasia - [**11-18**] 2.
+SBP usually in 170's.
+Biopsy of heel done at [**Hospital1 2025**].
+Pertinent Results: From [**Location (un) 620**]: Cr: 1.3 (baseline 0.6) with BUN = 33.
+Troponin: 0.3 WBC = 31.4 with 21 bands, Hct = 22.1, Hgb = 7.6, Plt = 10.
+UCx: 10-25K of each coag neg staph and diphtheroids  Admission labs at [**Hospital1 18**]: [**2107-9-5**] 03:30PM   GRAN CT-[**Numeric Identifier 6085**]* [**2107-9-5**] 03:30PM   WBC-19.9* RBC-2.57* HGB-7.8* HCT-23.9* MCV-93 MCH-30.4 MCHC-32.7 RDW-18.6* [**2107-9-5**] 03:30PM   HAPTOGLOB-332* [**2107-9-5**] 03:30PM   ALBUMIN-3.7 CALCIUM-8.3* PHOSPHATE-4.1 MAGNESIUM-2.2 URIC ACID-10.6* [**2107-9-5**] 03:30PM   ALT(SGPT)-24 AST(SGOT)-25 LD(LDH)-416* CK(CPK)-43 ALK PHOS-66 TOT BILI-0.8 DIR BILI-0.3 INDIR BIL-0.5 [**2107-9-5**] 03:30PM   GLUCOSE-127* UREA N-30* CREAT-1.2* SODIUM-140 POTASSIUM-3.7 CHLORIDE-105 TOTAL CO2-20* ANION GAP-19 [**2107-9-5**] 03:30PM   FIBRINOGE-372 [**2107-9-5**] 03:30PM   RET AUT-2.2  Discharge and other relevent labs: [**2107-10-8**] 02:00AM BLOOD WBC-1.8* RBC-2.78* Hgb-8.2* Hct-24.2* MCV-87 MCH-29.6 MCHC-33.9 RDW-14.8 Plt Ct-39* [**2107-10-8**] 02:00AM BLOOD Glucose-94 UreaN-15 Creat-0.2* Na-137 K-3.9 Cl-104 HCO3-24 AnGap-13 [**2107-10-3**] 12:00AM BLOOD Fibrino-204 [**2107-9-30**] 01:50AM BLOOD FDP-0-10 [**2107-10-6**] 01:20AM BLOOD Ret Aut-6.1* [**2107-10-7**] 12:53AM BLOOD Glucose-86 UreaN-17 Creat-0.2* Na-138 K-3.7 Cl-105 HCO3-25 AnGap-12 [**2107-10-6**] 01:20AM BLOOD VitB12-472 Folate-10.4 Hapto-100 [**2107-10-1**] 12:00AM BLOOD calTIBC-164 Ferritn->[**2102**] TRF-126* [**2107-9-26**] 12:00AM BLOOD Hapto-<20* [**2107-9-27**] 12:00AM BLOOD Hapto-<20* [**2107-9-29**] 12:45AM BLOOD Hapto-<20* [**2107-9-14**] 04:19AM BLOOD TSH-0.91 [**2107-9-19**] 03:56AM BLOOD ANCA-NEGATIVE B [**2107-9-19**] 03:56AM BLOOD [**Doctor First Name **]-NEGATIVE [**2107-9-12**] 04:20AM BLOOD Lactate-3.3* [**2107-9-15**] 04:15AM BLOOD Glucose-121* Lactate-1.3  Abd CT [**9-5**]: 1.
+Her O2 sats dropped to 90% on a NRB.
+While it was hoped that her intubation was only for the bronch, she instead required mechanical ventilatory support until [**2107-9-21**].
+On [**9-10**], she developed a pneumothorax on the R side that was moderate sized (R IJ TLC was placed on evening of [**9-8**] with 2 subsequent CXRs not demonstrating a ptx, had bronch [**9-9**], then had ptx on CXR [**9-10**], so unclear etiology.)
+She had another episode of bleeding and underwent repeat bronchoscopy [**2107-9-14**].
+Cardiovascular:  On admission, she had an echo that showed an EF >55%, with 1+ MR.  On the evening of [**9-8**], Mrs. [**Known lastname 50155**] went into a-fib with RVR, rates up to 170s and bp 70s/40s.
+She initially did not respond to any of these measures, and the dilt gtt was maxed out at 20 mg/hr.
+She remained in NSR while on BMT as she was originally monitored on telemetry, which was eventually discontinued.
+Her induced sputum was immunofluroescent negative for PCP.
+[**Name10 (NameIs) **] rest of her bronch studies were negative for organisms other than the spore mentioned above.
+She had a negative urine culture and CXR showed a possible worsening of her LLL infiltrate.
+Hematology:  Her bone marrow biopsy on [**9-6**] was negative for blasts, as was a repeat biopsy [**9-24**].
+She received packed red blood cells and platelets every other day, to keep a hematocrit greater than 25 and platelets greater than 20K (given the fear that she had bled into her lungs, it was felt that a platelet transfusion threshold of 20K was more advantageous than 10K).
+It was felt that her low hematocrit was [**1-17**] to her MDS and was not the result of another process.
+She did have evidence of hemolysis, with a low haptoglobin, elevated LDH, elevated indirect bilirubin, and a reticulocyte count of 6%.
+Because of her large transfusion requirements and possible hemolysis, a super-Coombs and an anti-platelet antibody test were sent, and were pending at time of discharge.
+On examination of her bone marrow biopsy, the attending heme pathologist felt that it was likely her cells were so dysplastic they did not survive long in the periphery.
+Prior to d/c a conversation was had with the patient where it was discussed and agreed upon by everybody (including the attending Hematologist) that there was no further treatment indicated for her MDS, and she would continue with symptomatic transfusions.
+On d/c her WBC count was also low, with an ANC of 1100.
+The hemochromatosis genetic mutations were sent and were pending at time of discharge.
+Her ferritin was greater than [**2102**].
+Followup Instructions: Please f/u with your Hematologist, Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 5292**] at [**Last Name (LF) 4068**], [**First Name3 (LF) **] his discretion.

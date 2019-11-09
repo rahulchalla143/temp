@@ -1,0 +1,50 @@
+Admission Date:  [**2142-4-25**]              Discharge Date:   [**2142-4-29**]  Date of Birth:  [**2079-6-8**]             Sex:   M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 4095**] Chief Complaint: Chief Complaint: shortness of breath  Reason for MICU transfer: tachypnea  Major Surgical or Invasive Procedure: Thoracentesis  History of Present Illness: This is a 62-year-old gentleman with HIV (not compliant with HAART, most recent CD4 220), DM2 with nephropathy (baseline Cr 1.8-2.0), Hodgkin's and Burkitt's lymphoma (s/p doxorubicin, vinblastine, dacarbazine now in remission), CHF (EF 22% in [**1-/2142**]) with recent admission to [**Hospital1 18**] from [**Date range (1) 39579**] for RLL pneumonia treated with 10 days of levofloxacin (end date [**2142-4-26**]).
+He received cefepime, vancomycin and metronidazole.
+IP [**Name (NI) 653**], planning for thoracentesis in AM.
+He received Torsemide 40 mg IV 1x and got a had a diagnostic thoracentesis which revealed a transudative effusion.
+Past Medical History: - NSTEMI [**9-/2140**] medically managed - HIV (CD4 198 [**2142-1-17**] and VL 84,000 [**2140-12-14**]) - HIV cholangiopathy - DM, type II, uncontrolled (most recent HA1c 9.0 on [**2142-1-17**]) - CKD - Cardiomyopathy with EF 20% on [**2140-2-11**] likely secondary to doxorubicin, although HIV and/or ischemia may have contributed - Pleural effusions - Burkitt's lymphoma ([**2134**]) - Hodgkins lymphoma (last cycle [**8-5**], stable disease)  Social History: Came from rehab.
+The fluid did not appear pustular on thoracentesis and patient felt much improved after fluid removal.
+Patient was initially treated with vancomycin and cefepime, but the vancomycin was stopped after plerual fluid gram stain showed no microorganisms.
+Patient received IV torsemide on arrival to MICU.
+He received 80mg lasix IV after transfer to the floor on HD2.
+He was then transitioned to home dose of PO torsemide 20mg [**Hospital1 **] with good response.
+# CHRONIC RENAL FAILURE: Suspected secondary to DM2, creatinine currently at baseline.
+During this admission, patient was continued Abacavir, Atazanavir, Lamivudine and Ritonavir.
+Will continue fluconazole for 2 weeks through [**2142-5-9**].
+During admission, patient was maintained on an insulin sliding scale with QID fingerstick checks and glargine 15 units qHS.
+He is to be restarted on his home dose medications after discharge.
+Patient was diuresed with toresemide and sodium remained stable.
+Medications on Admission: 1. abacavir 300 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+2. atazanavir 150 mg Capsule Sig: Two (2) Capsule PO DAILY (Daily).
+3. atovaquone 750 mg/5 mL Suspension Sig: 1500 (1500) mg PO once  a day.
+4. gabapentin 300 mg Capsule Sig: One (1) Capsule PO Q12H (every  12 hours).
+5. glipizide 10 mg Tablet Sig: 1.5 Tablets PO once a day.
+Epivir 150 mg Tablet Sig: One (1) Tablet PO once a day.
+7. metoprolol succinate 25 mg Tablet Extended Release 24 hr Sig:  One (1) Tablet Extended Release 24 hr PO once a day.
+8. nystatin 100,000 unit/mL Suspension Sig: Five (5) mL PO three  times a day.
+9. ritonavir 100 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+10. acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO three times a day as needed for pain.
+11. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable  PO DAILY (Daily).
+Eucerin     Cream Sig: One (1) application Topical twice a day as needed for rash.
+15. levofloxacin 750 mg Tablet Sig: One (1) Tablet PO Q48H (every 48 hours): started [**2142-4-17**], ending [**2142-4-26**].
+16. fluconazole 100 mg Tablet Sig: Two (2) Tablet PO Q24H (every  24 hours) for 7 days: started [**2142-4-18**], ending [**2142-4-24**].
+17. erythromycin 5 mg/gram (0.5 %) Ointment Sig: One (1) drop to  right eye Ophthalmic QID (4 times a day) for 5 days: started [**2142-4-18**], ending [**2142-4-22**].
+18. insulin glargine 100 unit/mL Solution Sig: Fifteen (15) units Subcutaneous at bedtime.
+19. insulin lispro 100 unit/mL Solution Sig: per sliding scale units Subcutaneous as directed: see insulin sliding scale.
+Abacavir Sulfate 600 mg PO DAILY 2.
+Aspirin 81 mg PO DAILY 3.
+Atazanavir 300 mg PO DAILY 4.
+Atovaquone Suspension 1500 mg PO DAILY 5.
+Fluconazole 200 mg PO Q24H 6.
+Gabapentin 300 mg PO Q12H 7.
+Glargine 15 Units Bedtime Insulin SC Sliding Scale using HUM Insulin 8.
+LaMIVudine 150 mg PO DAILY 9.
+Metoprolol Succinate XL 25 mg PO DAILY 10.
+Nystatin Oral Suspension 5 mL PO TID 11.
+RiTONAvir 100 mg PO DAILY 12.
+Torsemide 20 mg PO BID 13.
+GlipiZIDE XL 10 mg PO DAILY 14.
+Acetaminophen [**Telephone/Fax (1) 1999**] mg PO TID pain  Discharge Disposition: Extended Care  Facility: [**First Name4 (NamePattern1) 1820**] [**Last Name (NamePattern1) **] [**Location (un) 1821**]  Discharge Diagnosis: Congestive Heart Failure Exacerbation, Pleural Effusion  Discharge Condition: Mental Status: Clear and coherent.
+You were given some diuretic medications (Toresemide and Furosemide) with decrease of your swelling.
+It is very important that you continue taking your antiretroviral medications for your HIV.
+Please also take  Fluconazole 200 mg once a day for treatment of you fungal esophagitis through [**2142-5-9**]  The following changes were made to your medications: -- START taking Torsemide 20mg twice a day  Followup Instructions: Department: [**Hospital3 249**] When: WEDNESDAY [**2142-5-16**] at 10:30 AM With: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] [**Telephone/Fax (1) 2010**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 895**] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage  Department: WEST PROCEDURAL CENTER When: MONDAY [**2142-5-21**] at 8:30 AM With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 6543**], MD [**Telephone/Fax (1) 7769**] Building: [**Hospital Ward Name 121**] Building ([**Hospital Ward Name 121**] Complex) [**Location (un) **] Campus: WEST     Best Parking: [**Street Address(1) 592**] Garage  Department: WEST PROCEDURAL CENTER When: MONDAY [**2142-5-21**] at 8:30 AM [**Telephone/Fax (1) 5072**] Building: [**Hospital Ward Name 121**] Building ([**Hospital Ward Name 121**] Complex) [**Location (un) **] Campus: WEST     Best Parking: [**Street Address(1) 592**] Garage

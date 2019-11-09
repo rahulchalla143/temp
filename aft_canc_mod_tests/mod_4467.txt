@@ -1,0 +1,20 @@
+A CTA from OSH showed a new 3.9x2.7 x 2.8 cm L suprahilar mass impinging upon or invading the left pulmonary artery and obstructing L apical segmental bronchus with either tumor or mucus plugging in the adjacent segmental bronchi.
+INR was 1.9.
+CXR shows no infiltrate.
+Physical Exam: Vitals - T: 98.2 BP:115/87 HR:123 RR:22 02 sat:92% on 2L GENERAL: NAD; seems to have trouble catching his breath HEENT: PERRL; EOMI; mucous membranes moist; neck supple; no lymphadenopathy.
+DERM:no rashes or ecchymoses   Pertinent Results: Admission Labs: [**2100-9-26**] 01:40AM   WBC-9.9 HGB-15.1 HCT-43.0 [**2100-9-26**] 01:40AM   NEUTS-77* BANDS-0 LYMPHS-16* MONOS-5 EOS-2 BASOS-0 ATYPS-0 METAS-0 MYELOS-0 [**2100-9-26**] 01:40AM   HYPOCHROM-NORMAL ANISOCYT-NORMAL POIKILOCY-1+ MACROCYT-NORMAL MICROCYT-1+ POLYCHROM-NORMAL OVALOCYT-1+ [**2100-9-26**] 01:40AM   PLT COUNT-224 [**2100-9-26**] 01:40AM   GLUCOSE-201* UREA N-18 CREAT-1.1 SODIUM-138 POTASSIUM-4.3 CHLORIDE-101 TOTAL CO2-23 ANION GAP-18 [**2100-9-26**] 12:29PM   PT-14.9* PTT-21.3* INR(PT)-1.3* .
+CXR [**9-26**] - 1.
+Spirometry: SPIROMETRY 10:35 AM Pre drug Post drug     Actual Pred %Pred Actual %Pred %chg FVC   3.40 4.89 70 FEV1   1.37 3.21 43 MMF   0.42 2.71 16 FEV1/FVC   40 66 61  LUNG VOLUMES 10:35 AM Pre drug Post drug     Actual Pred %Pred Actual %Pred TLC   5.58 7.76 72 FRC   3.25 4.47 73 RV   1.96 2.87 68 VC   3.73 4.89 76 IC   2.33 3.30 71 ERV   1.29 1.60 81 RV/TLC   35 37 95 He Mix Time   1.38  DLCO 10:35 AM     Actual Pred %Pred DSB   13.49 25.51 53 VA(sb)   4.72 7.76 61 HB   14.10 DSB(HB)   13.69 25.51 54 DL/VA   2.90 3.29 88  [**2100-9-30**]   Radiology FDG TUMOR IMAGING (PET- IMPRESSION: 1.
+His coumadin was stopped and he was treated with vit K and FFP at the outside hospital before coming in.
+His INR was 1.1 on admission to [**Hospital3 **].
+He had a bronchoscopy that revealed that the bleeding had stopped and he did not have hemoptysis during his hospitalization.
+He had serial coags for goal INR <1.5, serial HCT q8-12 hrs, an active type and screen.
+He received a PET with CT scan for staging.
+He will see in PCP 3 days after discharge to check his rate and adjust the medicine as needed.
+# COPD: Patient found to have severe emphysema on CT scan and with PLT's.
+Oxygen 2-4L continous pulse dose for portability 2.
+Levalbuterol HCl 0.63 mg/3 mL Solution for Nebulization Sig: One (1) solution Inhalation q 4 hrs () as needed for wheeze, cough.
+You have the following appointment with Dr. [**Last Name (STitle) **] to make sure that your heart rate is being controlled on the medicine given.
+MD: Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] Date and time: Tuesday, [**10-5**] at 2:15pm Location: [**Hospital1 **] HEALTHCARE - [**Hospital1 **], ONE PEARL ST, [**Apartment Address(1) 84558**], [**Hospital1 **],[**Numeric Identifier 9647**] Phone number: [**Telephone/Fax (1) 10381**] .
+Followup Instructions: You have the following appointment with Dr. [**Last Name (STitle) **] to make sure that your heart rate is being controlled on the medicine given.
+MD: Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] Date and time: Tuesday, [**10-5**] at 2:15pm Location: [**Hospital1 **] HEALTHCARE - [**Hospital1 **], ONE PEARL ST, [**Apartment Address(1) 84558**], [**Hospital1 **],[**Numeric Identifier 9647**] Phone number: [**Telephone/Fax (1) 10381**]  Your information has been given to the oncology team and they will call you for an appointment to discuss your diagnosis and treatment options.

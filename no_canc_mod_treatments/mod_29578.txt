@@ -1,0 +1,71 @@
+Admission Date:  [**2170-10-30**]              Discharge Date:   [**2170-11-7**]  Date of Birth:  [**2095-1-20**]             Sex:   M  Service: MEDICINE  Allergies: Bactrim / Vancomycin / Ambien / Augmentin / Cephalexin / IV Dye, Iodine Containing  Attending:[**Doctor First Name 2080**] Chief Complaint: Dyspnea, fever, and productive cough  Major Surgical or Invasive Procedure: Tracheal intubation  History of Present Illness: Mr. [**Known lastname 14879**] is a 75 year-old gentleman with atrial fibrillation status post cardioversion x 2, dilated cardiomyopathy with EF of 15% s/p ICD placement, pulmonary embolism on coumadin, adrenal insufficiency, and pneumonia who presented from nursing home to the ED with shortness of breath, fever, and cough productive of yellow sputum.
+He was intubated for tachypnea and progressive tiring from increased work of breathing though he was not hypoxic.
+Blood, urine and viral cultures were all sent, and he was treated empirically with Vancomycin (despite listed allergy of diarrhea to this), levofloxacin, clindamycin, and oseltamavir while viral cultures were pending.
+He was given 5.5L IVF and started on fentanyl and midazolam gtts for sedation as well as norepinephrine 0.18 mcg/kg/min for BPs that dipped to MAP of 40s.
+Past Medical History: -Hypertension -Hyperlipidemia -Dilated cardiomyopathy.
+EF 15% per TEE [**10/2169**] -Atrial fibrillation s/p DCCV x 2 w/ reccurence and ablation [**2169-10-13**] -Chronic Systolic CHF, dry weight 196 lbs -h/o Pulmonary embolism -Rectal adenocarcinoma s/p transanal excision [**2166**] -s/p umbilical hernia repair with mesh -LLE insufficiency s/p ablation of L greater saphenous vein, c/b  ulcer formation.
+-Osteoarthritis s/p knee surgery -Spinal stenosis s/p back surgery -Allergic rhinitis -s/p nasal surgery -rosacea -actinic keratosis -h/o psychogenic polydipsia.
+Physical Exam: On Admission: VS: T 98.4 HR 70 BP 125/43 RR 18 (Set by vent) SaO2 99% on vent  Gen: intubated, sedated, unresponsive to voice, responsive to painful stimuli (when stomach is palpated, withdraws when eyes are examined) HEENT: pupils round equal, reactive to light, ETT in place Neck: supple no masses, R-sided IJ in place, marked JVD to earlobe Lungs: coarse ventilated BS, decreased BS at L base CV: regular rate, II/VI systoloic murmur @LLSB w/o radiation Abdomen: BS+, soft, slightly distended, slightly tender to palpation diffusely as evidenced by facial grimacing Extremities: trace to 1+ pitting edema on extensor surfaces of b/l LE Neurological: intubated, sedated 2+ DP and PT pulses B/L Skin: dry cracked skin on B/L LE, multiple ecchymoses and senile purpura, very thin paper-like skin likely from chronic steroid use  Pertinent Results: **************** CBC ****************  [**2170-10-30**] 11:10AM BLOOD WBC-15.5*# RBC-3.45* Hgb-8.9*# Hct-28.7* MCV-83 MCH-25.8*# MCHC-31.1 RDW-16.6* Plt Ct-327 [**2170-11-4**] 03:04AM BLOOD WBC-8.1 RBC-2.69* Hgb-6.8* Hct-22.8* MCV-85 MCH-25.4* MCHC-30.0* RDW-16.1* Plt Ct-180 [**2170-11-4**] 12:25PM BLOOD Hct-22.7* [**2170-11-4**] 11:32PM BLOOD Hct-24.0* PATIENT TRANSFUSED WITH 2 UNITS PRBC [**2170-11-5**] 05:23AM BLOOD WBC-7.5 RBC-3.13* Hgb-8.3* Hct-27.0* MCV-86 MCH-[**2170-11-7**] 05:54AM BLOOD WBC-8.7 RBC-3.50* Hgb-9.4* Hct-29.8* MCV-85 MCH-26.9* MCHC-31.6 RDW-16.0* Plt Ct-226  *************** DIFF *************** [**2170-10-30**] 11:10AM BLOOD Neuts-80.4* Lymphs-9.4* Monos-4.8 Eos-4.8* Baso-0.5 [**2170-11-7**] 05:54AM BLOOD Neuts-85.8* Lymphs-8.1* Monos-5.1 Eos-1.0 Baso-0  *************** COAGS *************** [**2170-10-30**] 12:50PM BLOOD PT-33.9* PTT-45.7* INR(PT)-3.4* [**2170-10-31**] 03:33AM BLOOD PT-36.9* PTT-59.7* INR(PT)-3.8* [**2170-11-1**] 04:33AM BLOOD PT-63.1* PTT-58.3* INR(PT)-7.2* [**2170-11-2**] 03:49AM BLOOD PT-36.7* PTT-46.4* INR(PT)-3.8* [**2170-11-2**] 10:23PM BLOOD PT-29.0* PTT-48.9* INR(PT)-2.9* [**2170-11-3**] 03:35AM BLOOD PT-27.2* PTT-39.3* INR(PT)-2.7* [**2170-11-4**] 03:04AM BLOOD PT-24.6* PTT-39.8* INR(PT)-2.4* [**2170-11-5**] 05:23AM BLOOD PT-19.5* PTT-36.8* INR(PT)-1.8* [**2170-11-6**] 04:55AM BLOOD PT-16.0* PTT-38.5* INR(PT)-1.4* [**2170-11-7**] 07:29AM BLOOD PT-18.4* PTT-34.7 INR(PT)-1.7*  **************** ELECTROLYTES **************** [**2170-10-30**] 11:10AM BLOOD Glucose-88 UreaN-34* Creat-1.6* Na-133 K-5.1 Cl-92* HCO3-29 AnGap-17 [**2170-11-7**] 05:54AM BLOOD Glucose-98 UreaN-32* Creat-1.1 Na-137 K-3.3 Cl-94* HCO3-35* AnGap-11  [**2170-10-30**] 11:14AM BLOOD Lactate-2.4*  *************** ABG *************** [**2170-10-30**] 12:05PM BLOOD Type-ART Tidal V-500 PEEP-5 O2 Flow-100 pO2-440* pCO2-62* pH-7.34* calTCO2-35* Base XS-5 -ASSIST/CON Intubat-INTUBATED [**2170-10-31**] 07:08AM BLOOD Type-ART pO2-78* pCO2-49* pH-7.40 calTCO2-31* Base XS-3  *************** URINE *************** [**2170-10-30**] 09:04PM URINE  COLOR-Straw APPEAR-Clear SP [**Last Name (un) 155**]-1.006 [**2170-10-30**] 09:04PM URINE  BLOOD-SM  NITRITE-NEG PROTEIN-TR GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-NEG [**2170-10-30**] 09:04PM URINE  RBC-4* WBC-2 BACTERIA-FEW YEAST-NONE EPI-0 [**2170-10-30**] 09:04PM URINE  MUCOUS-RARE  ***************** MICROBIOLOGY *****************  Sputum Culture GRAM STAIN (Final [**2170-10-31**]): >25 PMNs and <10 epithelial cells/100X field.
+Consider Infectious          Disease consultation for serious infections caused by          ESBL-producing species.
+Tigecycline AND COLISTIN SENSITIVITIES REQUESTED PER DR. [**Last Name (STitle) **].
+SENSITIVE TO Tigecycline (0.75MCG/ML).
+SENT TO [**Hospital1 4534**] LABORATORIES FOR COLISTIN SENSITIVITIES ([**2170-11-5**]).
+Legionella Urinary Antigen  (Final [**2170-10-31**]):       NEGATIVE FOR LEGIONELLA SEROGROUP 1 ANTIGEN.
+Patient may benefit from nasogastric tube decompression.
+New PICC line in satisfactory position as above.
+Endotracheal tube is also in satisfactory position.
+Chest Xray ([**2170-11-1**]) Endotracheal tube extends at least to the level of the carina with the patient's neck in a flexed position.
+Lungs are incompletely imaged on this study but are remarkable for slight improvement in degree of alveolar pulmonary edema.
+Brief Hospital Course: Mr. [**Known lastname 14879**] is a 75 year-old retired firefighter with an extensive past medical history including chronic systolic CHF, afib s/p ablation on coumadin, HTN, and adrenal insufficiency who was admitted to the [**Hospital Unit Name 153**] with fevers, hypotension and respiratory failure and was found to have MDR Klebsiella Pneumonia.
+A R-sided IJ was placed in the ED as he required norepinephrine to maintain blood pressure.
+On arrival to the [**Hospital Unit Name 153**], he was sedated and intubated with FiO2 40%.
+He was weaned off pressors completely and extubated on [**2170-11-1**].
+Initially he was treated with broad spectrum antibiotics including vancomycin, levofloxacin and aztreonam (due to his many drug allergies), but when cultures and sensitivities returned he was switched to meropenem on [**2170-11-2**].
+Aztreonam was discontinued as Klebsiella was resistant to this medication.
+COAGULOPATHY: On [**2170-10-1**], the patient's INR was noted to be 7.2 in the setting of Coumadin use and poor nutrition.
+The patient was treated with vitamin K 1 mg PO x 1.
+Coumadin was restarted on [**2170-11-5**] in the setting of INR 1.8.
+For this, he received 2 units of PRBCs on [**2170-11-4**].
+ADRENAL INSUFFICIENCY: Patient required stress dose steroids of 100mg Hydrocoritsone [**Hospital1 **] in the [**Hospital Unit Name 153**].
+He was weaned to 25mg Hydrocortisone [**Hospital1 **] prior to being transferred to the floor.
+ACUTE SYSTOLIC CHF: In the context of receiving fluid boluses for pressure support in the context of sepsis the patient became significantly volume overloaded.
+He was diuresed with furosemide drip and then bolus doses after blood pressures stabilized.
+He was satting 92-99% on 2L of oxygen and noted symptomatic relief in his SOB and cough.
+He was continued on the meropenem for his pneumonia while in the hospital, but discharged on ertapenem (for ease of administration) for a total coverage of 14 days.
+He was continued on his home dose of 5mg coumadin with improvement in his INR to 1.7 on day of discharge.
+He was not bridged on heparin gtt as his PE was remote and given recent concern for bleed.
+Hypertension Patient was hypertensive on transfer to the floor while awaiting receiving his BP meds.
+His pressures were stable and within the normal range on his home blood pressure regimen on the floor.
+Adrenal Insufficiency Patient was continued on 25mg [**Hospital1 **] hydrocortisone while in the hospital.
+Chronic Systolic CHF The patient remained euvolemic to slightly volume depleted on the floor after intensive diuresis in the unit.
+His furosemide was held in the context of the contraction alkalosis as noted.
+He will likely need an increase in his furosemide dose at home.
+Glucosamine 500mg 1 tab PO TID 2.
+Lipitor 10mg PO daily 3.
+Spiriva w/ handihaler 18mcg and inhalation caps 5. ascorbic acid SR 500mg PO daily 6. daily multivitmain 7. furosemide 40mg 1.5 tabs daily (60mg) 8. cozaar 25mg daily 9. hydrocortisone 10mg daily 10. nitroglycerin 0.4mg SL PRN 11. coumadin 2.5mg mondays 12. coumadin 5mg tab tues-sun 13. metoprolol sr 100mg daily  Discharge Medications: 1.
+Losartan 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: 1-2 puffs Inhalation every four (4) hours as needed for shortness of breath or wheezing.
+Digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Guaifenesin 600 mg Tablet Sustained Release Sig: One (1) Tablet Sustained Release PO BID (2 times a day).
+Warfarin 5 mg Tablet Sig: One (1) Tablet PO once a day.
+Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for pain, fever.
+Hydrocortisone 10 mg Tablet Sig: One (1) Tablet PO once a day.
+Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Bisacodyl 5 mg Tablet, Delayed Release (E.C.)
+Senna 8.6 mg Tablet Sig: 1-2 Tablets PO BID (2 times a day) as needed for constipation.
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+Ertapenem 1 gram Recon Soln Sig: One (1) gram Intravenous once a day for 9 days: last day of course should be [**2170-11-16**].
+Fluticasone-Salmeterol 500-50 mcg/Dose Disk with Device Sig: One (1) puff Inhalation twice a day.
+Tiotropium Bromide 18 mcg Capsule, w/Inhalation Device Sig: One (1) cap Inhalation once a day.
+Ascorbic Acid 500 mg Capsule, Sustained Release Sig: One (1) Capsule, Sustained Release PO once a day.
+Multivitamin     Tablet Sig: One (1) Tablet PO once a day.
+Furosemide 40 mg Tablet Sig: One (1) Tablet PO once a day.
+Metoprolol Succinate 100 mg Tablet Sustained Release 24 hr Sig: One (1) Tablet Sustained Release 24 hr PO once a day.
+Outpatient Lab Work Please check INR 3*/wk and adjust coumadin dose to goal INR of [**1-30**]   Discharge Disposition: Extended Care  Facility: [**Hospital3 2732**] & Retirement Home - [**Location (un) 55**]  Discharge Diagnosis: Multiple drug resistant Klebsiella Pneumonia Chronic systolic Congestive Heart Failure w/ exacerbation Hypoxic respiratory failure  Discharge Condition: Stable.
+Saturing well on 2L of oxygen by nasal canula.
+You improved dramatically on antibiotics and will be discharged with a 9 day course of antibiotics.
+You will need to continue to have your INR checked and your coumadin adjusted accordingly to maintain a therapeutic INR.
+While in the hospital you required stress dose steroids for your adrenal insufficency.
+You also required a blood transfusion as a result of a low hematocrit.
+We held your lasix while you were in the hospital as you appeared to be dehydrated.
+You should minimize your sodium intake.

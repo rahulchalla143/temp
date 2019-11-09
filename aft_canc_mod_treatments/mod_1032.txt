@@ -1,0 +1,44 @@
+Admited for symptom control and rule out .
+Hydralazine 25mg pushed and new BP was SBP 140s.
+Patient was asymptomatic s/p hydralazine.
+Past Medical History: paroxsymal atrial fibrillation on coumadin tachy-brady syndrome s/p pacemaker placement (DDI) hypertension hyperlipidemia diabetes mellitus type II c/b neuropathy coronary artery disease, status post CABG in [**2169**] - CABG: LIMA to LAD, SVG to OM2, SVG to RPDA, SVG to RPL peripheral [**Year (4 digits) 1106**] disease, status post left popliteal to peroneal bypass surgery 9/05 L first toe amputation [**10-2**] chronic renal insufficiency (baseline Cr 1.0-1.2) cataracts glaucoma CHF- EF 40-45% in [**8-2**] - status post combined phacoemulsification, PCIOL placement, and pars plana vitrectomy with membrane peel in the left eye in [**2177-5-29**] and status post a revision vitrectomy with endoscopic retinal photocoagulation in the left eye in [**2178-6-28**] for recurrent diabetic vitreous hemorrhage - stable quiescent proliferative diabetic retinopathy   Social History: Lives with wife at home.
+DISCHARGE PHYSICAL EXAM: VS - Temp afebrile, SBPs 160s, HR 60s GENERAL - Well appearing, well nourished male in NAD, comfortable, appropriate HEENT - NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear CHEST - Lsided pacemaker; sternotomy scar NECK - supple, no thyromegaly, no JVD, no carotid bruits LUNGS - CTA bilat, no r/rh/wh, good air movement, resp unlabored, no accessory muscle use HEART - PMI non-displaced, RRR, no MRG, S1-S2 clear and of good quality ABDOMEN - NABS, soft/NT/ND, no masses or HSM, no rebound/guarding EXTREMITIES - WWP, no c/c/e, 2+ peripheral pulses (radials, DPs)  SKIN - no rashes or lesions LYMPH - no cervical, axillary, or inguinal LAD NEURO - awake, A&Ox3, CNs II-XII grossly intact, muscle strength [**5-2**] throughout, sensation grossly intact throughout, DTRs 2+ and symmetric, cerebellar exam intact, steady gait   Pertinent Results: ADMISSION LABS: [**2182-10-17**] 10:00AM BLOOD WBC-10.3 RBC-4.87 Hgb-15.1 Hct-45.3 MCV-93 MCH-31.0 MCHC-33.3 RDW-13.1 Plt Ct-133* [**2182-10-17**] 10:00AM BLOOD Neuts-86.3* Lymphs-9.0* Monos-3.4 Eos-1.1 Baso-0.1 [**2182-10-17**] 10:00AM BLOOD Glucose-218* UreaN-30* Creat-1.4* Na-142 K-4.1 Cl-106 HCO3-25 AnGap-15 [**2182-10-18**] 06:50AM BLOOD Glucose-387* UreaN-42* Creat-1.9* Na-139 K-4.8 Cl-101 HCO3-15* AnGap-28* [**2182-10-18**] 04:13PM BLOOD Glucose-298* UreaN-47* Creat-1.8* Na-140 K-4.3 Cl-107 HCO3-20* AnGap-17 [**2182-10-17**] 10:00AM BLOOD ALT-20 AST-22 AlkPhos-102 TotBili-0.4 [**2182-10-17**] 10:00AM BLOOD cTropnT-<0.01 [**2182-10-17**] 05:42PM BLOOD CK-MB-4 cTropnT-<0.01 [**2182-10-18**] 06:50AM BLOOD CK-MB-14* MB Indx-7.3* cTropnT-0.27* [**2182-10-18**] 12:27PM BLOOD CK-MB-18* MB Indx-7.2* cTropnT-0.40* [**2182-10-18**] 04:13PM BLOOD CK-MB-23* MB Indx-8.0* cTropnT-0.78* [**2182-10-19**] 04:42AM BLOOD CK-MB-19* MB Indx-6.7* cTropnT-1.04* [**2182-10-19**] 11:07AM BLOOD CK-MB-15* MB Indx-4.1 cTropnT-1.00* [**2182-10-17**] 05:42PM BLOOD CK(CPK)-98 [**2182-10-18**] 12:27PM BLOOD CK(CPK)-249 [**2182-10-19**] 04:42AM BLOOD CK(CPK)-283 [**2182-10-19**] 11:07AM BLOOD CK(CPK)-370* [**2182-10-18**] 06:50AM BLOOD Calcium-8.2* Phos-5.4*# Mg-1.8 [**2182-10-18**] 10:13AM BLOOD Type-ART pO2-65* pCO2-31* pH-7.32* calTCO2-17* Base XS--8 [**2182-10-18**] 12:37PM BLOOD Type-[**Last Name (un) **] pO2-124* pCO2-35 pH-7.30* calTCO2-18* Base XS--7 Comment-GREEN TOP .
+#[**2182-10-17**] UPRIGHT AP VIEW OF THE CHEST: Patient is status post median sternotomy and CABG.
+A left-sided pacemaker device is noted with leads terminating in the right atrium and right ventricle, unchanged.
+Brief Hospital Course: Mr. [**Known lastname 656**] is a 88yo Russian-speaking man with a h/o CAD s/p quadruple bypass in [**2169**], IDDM, CRI, HTN, Afib A-paced, initially admitted for hypertensive urgency with the subsequent development of DKA, now with elevated troponin levels and minimal EKG changes from baseline without any chest pain.
+hydralazine 25mg pushed and new BP was SBP 140s.
+Patient was asymptomatic s/p hydralazine.
+NSTEMI was treated w/ high dose ASA, high dose atorvatatin, heparin drip, and O2.
+Pt had already gotten metoprolol that AM.
+Patient was started on q1hr finger sticks with prn IV insulin, but with little effect as gap only closed to 20 and so it was determined that transfer to MICU for insulin drip management was prudent.
+While in MICU, pt was observed and treated for DKA with insulin gtt.
+Pt was then transferred to Cardiology for further management of NSTEMI.
+Given that cardiac biomarkers still trending upward (Tn peaked 1.04, CK-MB peaked at 23), we proceeded with medically managing for NSTEMI vs Type 2 MI at this time: ASA 325mg daily, metoprolol 25 [**Hospital1 **], atorvastatin 80mg daily, heparin gtt (given for 48hrs) and discharged on plavix 75 daily.
+His anatomy (LIMA to LAD, SVG to OM2, SVG to RPDA, SVG to RPL) was obtained from [**Hospital1 2177**] records.
+# DKA/DM: Gap closed after fluid administration prior to admission to MICU.
+His blood pressures were better controlled with lisinopril 40 daily, coreg 25 [**Hospital1 **], amlodipine 5 mg po qdaily and chlorthalidone 25 daily.
+Switched metoprolol to carvedilol to control BP's.
+Anticoagulation was not started with concern for fall.
+Recommend 24 hr urine metanephrines and serum renin and aldosterone as outpatient with refractory hypertension.
+Medications on Admission: - Amiodarone 200 mg Tablet daily - Bimatoprost [[**Year (4 digits) **]] 0.03 % Drops at bedtime - Dorzolamide-Timolol [Cosopt] 0.5 %-2 % Drops twice daily - Fluticasone 50 mcg Spray, Suspension - [**12-30**] sprays(s) in each nostril twice a day - Furosemide 20 mg Tablet 1 Tablet(s) PO once a day alternating with 2 tablets on the other day - Insulin Lispro Protam & Lispro [HUMALOG MIX 75-25] 100 unit/mL (75-25) twice a day 28 units in am, 8-10 units in pm - Lactulose 10 gram/15 mL Solution - 15 cc(s) by mouth at bedtime - Lidocaine [LIDODERM] - 5 % (700 mg/patch) Adhesive Patch, Medicated - apply to site of pain 12 hours on and 12 hours off - Lisinopril 2.5 mg Tablet - 1 Tablet(s) by mouth twice a day - Metoprolol Succinate 50 mg Tablet Extended Release daily - Simvastatin 20 mg Tablet - 1 Tablet(s) by mouth qpm - Aspirin 81 mg Tablet, Delayed Release (E.C.)
+daily - Cholecalciferol (Vitamin D3) 1,000 unit Tablet - Docusate Sodium 100 mg Capsule by mouth [**Hospital1 **] - Polysaccharide Iron Complex 150 mg Capsule once daily  Discharge Medications: 1. amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. bimatoprost 0.03 % Drops Sig: One (1)  Ophthalmic qHS ().
+3. dorzolamide-timolol 2-0.5 % Drops Sig: One (1) Drop Ophthalmic [**Hospital1 **] (2 times a day).
+4. fluticasone 50 mcg/Actuation Spray, Suspension Sig: [**12-30**] Sprays Nasal [**Hospital1 **] (2 times a day).
+5. lactulose 10 gram/15 mL Syrup Sig: Fifteen (15) ML PO HS (at bedtime).
+6. cholecalciferol (vitamin D3) 1,000 unit Tablet Sig: One (1) Tablet PO once a day.
+7. polysaccharide iron complex 150 mg Capsule Sig: One (1) Capsule PO DAILY (Daily).
+8. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+9. atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+10. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+11. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+12. chlorthalidone 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+13. carvedilol 25 mg Tablet Sig: One (1) Tablet PO twice a day.
+14. lisinopril 40 mg Tablet Sig: One (1) Tablet PO once a day.
+15. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+16. amlodipine 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Carvedilol 25mg PO BID 2.
+Atorvastatin 80mg daily 3.
+Ranitidine 150mg daily 4.
+Plavix 75 mg daily  CHANGED: 1.
+Lisinopril 40 mg by mouth daily  STOPPED: 1.

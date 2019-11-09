@@ -1,0 +1,37 @@
+In the ED, initial VS: 96.7 95 133/76 22 100% 2L The patient had a CXR that showed pulm vascular congestion but no evidence of infection.
+EKG showed no ischemic changes.
+Labs showed Hct at baseline of 27, Cr 2.1 with recently increased baseline, BNP [**Numeric Identifier 38280**], Trop 0.06 x2.
+OTHER PAST MEDICAL HISTORY: - Coronary artery disease s/p stent (LCx, [**2145**] at [**Hospital1 882**]) - Chronic systolic and diastolic CHF (EF 30-35% in the past, most recently >55%) - Aortic stenosis (1.0cm2) - CVA [**2145**], left MCA with expressive aphasia, motor planning deficits, right-sided neglect.
+- BPH - Prostate CA, [**Doctor Last Name **] 3+3, s/p XRT [**2142**] - Thalassemia trait - G6PD, class I - severe - OSA on BiPap 16/13 at home.
+CARDIAC CATH: [**2145-4-13**] [**Hospital1 112**] Dr. [**Last Name (STitle) 38281**] [**Name (STitle) **] DES to Cx Right heart cath for pulmonary hypertension: RA 9, PCW 15, PA systolic 36.
+PA pressure 36/7(23)  Social History: Lives alone in [**Location (un) 686**].
+PULSES: Right: Carotid 2+ DP 2+ Left: Carotid 2+ 2+ DP 2+ .
+PULM: [**Month (only) **] BS throughout but no focal findings, no wheezes ABD: obese, soft, NT, bowel sounds hypoactive EXT: no edema, palpable peripheral pulses  Pertinent Results: Labs on admission: ==================  [**2152-2-4**] 02:20PM BLOOD WBC-6.5 RBC-3.70* Hgb-9.4* Hct-31.2* MCV-84 MCH-25.4* MCHC-30.3* RDW-15.8* Plt Ct-221 [**2152-2-4**] 02:20PM BLOOD Glucose-109* UreaN-46* Creat-2.2* Na-139 K-4.9 Cl-95* HCO3-31 AnGap-18 [**2152-2-4**] 02:20PM BLOOD proBNP-[**Numeric Identifier 38280**]* [**2152-2-4**] 02:20PM BLOOD cTropnT-0.06* [**2152-2-4**] 02:55PM BLOOD CK-MB-3 [**2152-2-4**] 02:55PM BLOOD cTropnT-0.06* [**2152-2-4**] 11:25PM BLOOD CK-MB-3 cTropnT-0.06* [**2152-2-5**] 08:00AM BLOOD CK-MB-3 cTropnT-0.06* [**2152-2-4**] 02:55PM BLOOD Calcium-7.8* Phos-4.5 Mg-1.9 .
+Microbiology: [**2152-2-5**] 6:37 pm URINE      Source: CVS.
+URINE CULTURE (Final [**2152-2-10**]):       ESCHERICHIA COLI.
+Imaging: ========= CXR [**2-4**]: Cardiomegaly with mild pulmonary vascular congestion.
+TTE [**2-7**]: The left atrium is moderately dilated.
+Left ventricular wall thicknesses are normal.
+Compared with the prior study (images reviewed) of [**2151-12-1**], biventricular cavity enlargement with more depressed systolic function is now present.
+The aortic valve gradient is lower (reflecting reduced cardiac output).
+Renal US [**2152-2-7**] FINDINGS: Note is made that this is a limited study due to the patient's body habitus.
+The right kidney measures 9.9 cm and the left kidney measures 10.8 cm.
+Labs on discharge: [**2152-2-28**] ================== BUN: 51, creat: 1.4, bicarb: 34 Na: 139, K 3.9 Hct: 29.6, WBC: 7.2, Plt: 318  Ca: 9.7 Mg: 2.1 P: 4.6     Brief Hospital Course: Mr. [**Known lastname 19122**] is a 72 year-old man with h/o CVA with expressive aphasia, OSA, AS, CAD, OSA on BiPap, chronic systolic CHF (EF30-35%) and thalassemia who was admitted for a CHF exacerbation.
+He also has severe AS, valve area 1.0 and mild-moderate AR, with EF>55% in [**11-18**].
+He was very volume overloaded on admission with weight 138kg (dry weight ~122kg).
+He continued to required significant diuresis and his dopamine drip was subseqently stopped and he was started on a lasix drip with excellent response achieving lenght of stay fluid balance approaching negative 20L.
+While intubated, he was diuresed with dopamine and lasix with goal net output of 2L per day achieving a length of stay fluid balance approaching negative 20L.
+# Aortic stenosis - severe, area 1.0cm2 in [**11-18**] with repeat TTE showing valve area 0.8cm2.
+He was seen by CT [**Doctor First Name **] who identified him as a poor candidate for surgery and was subsequently evaluated by the Aortic Stenosis Service for possible percutaenous AVR who also felt that he was a poor candidate for an intervention.
+# RHYTHM: Patient with QTc 460 remained in NSR with PVCs.
+His electrolytes were repleted as neeeded and he was was monitored on telemetry.
+# Acute renal failure - His baseline is a Cr 1.0 in from a [**11-18**] history of acute failure to Cr 7 in setting of diuresis.
+His Cr was 2.0 on admission and trended up to 3.0 with torsemide/lasix diuresis.
+Fe Urea was 4% indicating poor renal perfusion, likely in the setting of CHF.
+His Cr on discharge was 1.4.
+Please check chem-7 and CBC on Wednesday [**3-1**] and consider starting ACE inhibitor in a few days if creatinine is stable.
+# Gout: Allopurinol was held initially given ARF and then restarted when creatinine returned to [**Location 213**].
+Overnight CPAP or oxygen at 4L NC: CPAP is preferred but patient sometimes refuses in which case overnight O2 by NC can be used at 4L.
+Release 24 hr Sig: One (1) Capsule, Sust.
+Release 24 hr PO HS (at bedtime).
+An echocardiogram was done of your heart which showed worsening heart failure.

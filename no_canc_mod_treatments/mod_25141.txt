@@ -1,0 +1,73 @@
+Admission Date:  [**2190-2-7**]              Discharge Date:   [**2190-3-3**]  Date of Birth:  [**2122-4-16**]             Sex:   M  Service: MEDICINE  Allergies: Codeine  Attending:[**First Name3 (LF) 7651**] Chief Complaint: Chest pain, nausea, vomiting   Major Surgical or Invasive Procedure: Chest tube placement IR guided drainage of lung empyema Intubation IJ line for hemodialysis Intra-aortic balloon pump placement  History of Present Illness: Patient is a 67 y/o with PMH of CAD s/p MI [**8-/2189**], h/o UGIB, DM, hyperlipidemia, AS and CHF (EF 25%) who presented to OSH today with nausea and vomiting as well as chest pain.
+He took oxycodone for L rib fracture pain and immediately began vomiting.
+He was given zofran 4mg IV x 1, dilaudid  1mg IV x 2, and ASA 325mg PO x 1.
+After discussion with covering cardiologist he was also started on hep gtt and given lopressor 2.5mg IV x 1.
+Pt was continued on Heparin gtt 1000u/hr.
+He reports a history of bleeding on heparin (colonic AVM source requiring 17 units blood).
+Type 2 Diabetes Mellitus complicated by peripheral neuropathy and gastroparesis 4.
+Anemia, on Procrit and iron injections 9. h/o epistaxis on Plavix 10. h/o R hip fracture 11.
+NEURO: moving all extremities, oriented to person and time   Pertinent Results: Admission Labs [**2190-2-7**] WBC 11.3 / Hct 29.3 / Plt 183 N 87 / L 7 / M 6 / E 0 / B 0 INR 1.4 / PTT 40.5 Na 133 / K 4.9 / Cl 91 / CO2 29 / BUN 46 / Cr 2.5 / BG 325 Alb 3.9 / Ca 8.9 / Phos 5.9 ALT 30 / AST 237 / LDH 618 / Alk Phos 70 / TB .5 CK 2843 / MB 262 / Trop T 3.88 Iron 14 TChol 113 / HDL 36 / LDL calc 56 [**2190-3-3**]: Na 137, K 3.7 (repleted), Cl 101, Bicarb 28, BUN 40, Creat 2.7.
+[**Hospital3 **] Cr peak 4/0 [**2-7**] and [**2-8**] Cardiac Markers                     CK-MB MB Indx  cTropnT [**2190-2-23**] 07:06AM    6             4.18*1 CHEMS ADDED 8:58AM [**2190-2-16**] 04:06AM    2             5.90*2 Source: Line-aline [**2190-2-9**] 08:43AM    17*    1.5    13.50*1 [**2190-2-7**] 09:15AM    149*   5.4    7.31*1 Source: Line-A line [**2190-2-7**] 12:15AM    262*   9.2*   3.88*3                         ALT AST  (LDH)   (CPK) AP  [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) **] DBili IBili [**2190-2-21**] 05:34AM    45* 33    295*         54       0.9 [**2190-2-18**] 04:02AM    69* 21    63     1.1 [**2190-2-17**] 03:59AM    94* 24   337*    68             1.8* 1.2* 0.6 [**2190-2-12**] 04:09AM    683 185  663*   213*            4.1* 3.5* 0.6 [**2190-2-9**] 08:43AM   [**2197**] 1480* 1543* 1151* 68        1.0 [**2190-2-8**] 04:58AM   2737*4183* 5796*  70 [**2190-2-7**] 09:15AM    37  272*  2777*  61 [**2190-2-7**] 12:15AM    30  237*  618*  2843*  Discharge Labs 137  101  40  61   AGap=12 3.7  28  2.7 Ca: 8.0 Mg: 2.1 P: 4.8 WBC 5.0  HGB 8.4  PLT 145 HCT 25.2  MCV 90 PT: 15.9  PTT: 28.1  INR: 1.4  CARDIAC CATHETERIZATION - [**2190-2-7**] 1.
+The RCA was occluded proximally with left-to-right collaterals.
+Limited resting hemodynamics demonstrated markedly elevated biventricular filling pressures, with an RVEDP of 20mmHg and a mean PCWP of 36 mmHg (before lasix given).
+Interval decrease in multiple loculated hydropneumothorices within the left pleural cavity.
+Left chest tube remains in place, and there is no pneumothorax.
+Micro data PLEURAL ANALYSIS WBC    RBC  Polys Lymphs Monos Other [**2-15**]         [**Numeric Identifier 65463**]* [**Numeric Identifier 65464**]* 0   0      0      01 [**2-14**]         [**Numeric Identifier 65465**]* [**Numeric Identifier 890**]*  0   0      0     02  RIJ tip/blood cx  SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              STAPHYLOCOCCUS, COAGULASE NEGATIVE                              | CLINDAMYCIN-----------   =>8 R ERYTHROMYCIN----------   =>8 R GENTAMICIN------------  =>16 R LEVOFLOXACIN----------   =>8 R OXACILLIN-------------   =>4 R RIFAMPIN-------------- <=0.5 S TETRACYCLINE----------     2 S VANCOMYCIN------------     2 S  Pleural Fluid     STAPH AUREUS COAG +                              | ERYTHROMYCIN----------       R GENTAMICIN------------ <=0.5 S LEVOFLOXACIN----------<=0.12 S OXACILLIN-------------   0.5 S TRIMETHOPRIM/SULFA---- <=0.5 S   Brief Hospital Course: 67 yo male with a history of coronary artery disease s/p MI, diabetes mellitus, hyperlipidemia, and recent fall with rib fractures was admitted with nausea and vomiting, found to have myocardial ischemia.
+He had an intra-aortic balloon pump placed for improved blood pressures and coronary perfusion.
+He also required multiple vasopressors during his stay in the cardiac intensive care unit.
+His blood pressure slowly improved, and he was then restarted on his cardiac regimen of an aspirin, beta blocker, ACEI, and statin.
+He was initially maintained with an intra-aortic balloon pump, levophed, and dopamine.
+His blood pressure improved with medical management of his heart disease and bacteremia.
+His liver function tests and creatinine were transiently elevated in the setting of his hypotension but improved throughout hospital course.
+With the help of infectious disease, he was ultimately treated with 3 week course of nafcillin to be completed on [**2190-3-12**].
+He also had line associated coag negative staph bacteremia (1/4 bottles) and was treated with 7 day course of vancomcyin to be completed on [**2190-3-4**].
+He was treated with a course of levofloxacin with improvement in his symptoms.
+He underwent a thoracentesis by thoracic surgery and his effusion was consistent with an empyema.
+He initially was maintained with a pleurex catheter.
+He self discontinued the pleurex catheter and his chest tube was slowly withdrawn by thoracic surgery.
+The empyema drain is still in place and daily CXR were done to monitor progress.
+Blood cultures and a catheter tip culture returned positive with MSSA.
+He was treated with a 7 day course of vancomycin which was to be completed on [**2190-3-4**].
+Respiratory Failure Patient was initially intubated within 24 hours of admission to the hospital due to desaturations presumed related to his shock.
+His respiratory status improved with diuresis, treatment of his underlying infection, and treatment of his cardiac disease.
+Given his shock, fluid overload, and respiratory failure, patient was started on CVVH for a short time during his admission for aggressive fluid removal.
+Type 2 Diabetes Mellitus Patient was converted from multiple outpatient oral medications to insulin with an insulin sliding scale.
+His blood sugars were maintained on adequate control with fingerstick ranging from 100-200 on his sliding scale and long-acting basal insulin.
+Upon discharge, he was recommended to either transition back to his oral agents or consider starting insulin as an outpatient regimen and conducting insulin teaching.
+He is maintained on erythropoeitin and iron as an outpatient.
+Hyperlipidemia Patient was on vytorin as an outpatient.
+He was started on simvastatin during this admission.
+Peripheral Neuropathy He was continue on his gabapentin during his admission.
+Lyrica was also restarted during this admission as well as cymbalta.
+As patient's blood pressure improved, he was restarted on beta blocker, ACEI, and a decreased dose of lasix.
+We would recommend that his lasix be increased if he develops any signs of fluid overload.
+Delirium Patient had brief episodes of delirium thought related to prolonged hospitalization and ICU course, medications related to benzodiazepines and opiates.
+His symptoms improved quickly with frequent reorientation and avoiding further sedating or altering medications.
+ACCESS: L PICC in place FULL CODE CONTACT: Wife [**Name (NI) 37953**] [**Name (NI) 65466**] [**Telephone/Fax (1) 65467**] (H), [**Telephone/Fax (1) 65468**] (C)    Medications on Admission: Lasix 40mg [**Hospital1 **]-tid Glipizide 20mg [**Hospital1 **] Gabapentin 400mg, 3 in am, 3 in midday, 3 in pm, 1 at bedtime Metformin 1000mg [**Hospital1 **] Lyrica 50mg daily Prandin 2mg, 3 in am, 2 in midday, 2 in evening Carvedilol 3.125mg [**Hospital1 **] Nexium 40mg [**Hospital1 **] Cymbalta 60mg dialy Vytorin [**9-/2161**] daily Trazodone 50mg qhs prn (not taking) Januvia 100mg daily Provigil 200mg daily   Discharge Medications: 1.
+Gabapentin 300 mg Capsule Sig: One (1) Capsule PO TID (3 times a day).
+Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day): Please hold for bowel movements > 2.
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed for pain.
+Nexium 40 mg Capsule, Delayed Release(E.C.)
+Amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: [**12-25**]  Inhalation Q4H (every 4 hours) as needed.
+Vancomycin in Dextrose 1 gram/200 mL Piggyback Sig: One (1) Intravenous Q 24H (Every 24 Hours) for 4 days: Please continue through [**2190-3-4**].
+Nafcillin in D2.4W 2 gram/100 mL Piggyback Sig: One (1) Intravenous Q4H (every 4 hours): Please continue through [**2190-3-12**].
+Haloperidol 2 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) as needed.
+Pregabalin 50 mg Capsule Sig: One (1) Capsule PO once a day.
+Duloxetine 30 mg Capsule, Delayed Release(E.C.)
+Quetiapine 100 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Haloperidol 2 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) as needed.
+Carvedilol 3.125 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Furosemide 20 mg Tablet Sig: One (1) Tablet PO twice a day.
+Nafcillin 2 gram Piggyback Sig: One (1) dose Intravenous every four (4) hours for 9 days: last day [**2190-3-12**].
+Insulin Glargine 100 unit/mL Solution Sig: Seventeen (17) units Subcutaneous at bedtime.
+Vancomycin in Dextrose 1 gram/200 mL Piggyback Sig: One (1) Intravenous Q48H (every 48 hours) for 1 days: Last day [**2190-3-4**].
+Metoclopramide 10 mg Tablet Sig: One (1) Tablet PO QIDACHS (4 times a day (before meals and at bedtime)).
+We made the following changes to your medications: - vancomycin - this is a medication to treat your infection.
+This should be stopped on [**2190-3-4**] - nafcillin - this is an antibiotic to treat your lung infection and this should be continued until [**2190-3-12**].
+- insulin - this is a medication to treat your diabetes.
+While you are at rehab, they should be checking your blood sugars and will restart you on your home diabetes regimen of metformin, prandin, and januvia.
+- provigil - we have discontinued this medication -your ACE inhibitor was stopped because of acute renal failure, it should be restarted once your kidneys improve.

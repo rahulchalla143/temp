@@ -1,0 +1,43 @@
+Admission Date:  [**2165-11-25**]              Discharge Date:   [**2165-11-28**]  Date of Birth:  [**2131-7-14**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 458**] Chief Complaint: Chest Pain - tx to [**Hospital1 18**] from [**Hospital3 4298**] with STEMI  Major Surgical or Invasive Procedure: Cardiac catheterization - no intervention on totally occluded RCA.
+He felt his pulse was irregular.
+EKG there revealed STEMI with ST depressions in I and aVL (1cm) and STE in III and V1 (0.5-1mm).
+CPK 655.
+Catheterization showed hemodynamics of: RA 19, PA 23, PCW 14, CO 7.25.
+RCA was 100% occluded with poor restoration of flow.
+Past Medical History: PMH: None PSH: kneecap reconstruction x 2 at age 5, arthroplasty 10 yrs ago (3day hospital stay - does not recall heparin sq)   Social History: FH: mother - lupus with [**Hospital1 62555**] sister - [**Name (NI) 62555**] without lupus No history of early MI/early death ..... SH: etoh socially [**1-28**] drinks/wk, non-smoker, no current illicits.
+ABG in lab: 7.39/41/140 sat 98% .
+EKG POST catheterization: Sinus rhythm at 73, nml axis and intervals, 1mm q in II, III with 0.5-1mm STE, V2-V4 with 1-2mm STE.
+[**2165-11-25**] 06:22AM BLOOD WBC-10.5 RBC-4.97 Hgb-15.0 Hct-41.0 MCV-83 MCH-30.2 MCHC-36.5* RDW-12.9 Plt Ct-253 [**2165-11-25**] 06:22AM BLOOD Neuts-77.7* Lymphs-18.4 Monos-3.0 Eos-0.6 Baso-0.3 [**2165-11-25**] 06:22AM BLOOD PT-13.4* PTT-30.3 INR(PT)-1.2 [**2165-11-25**] 06:22AM BLOOD Plt Ct-253 [**2165-11-25**] 06:22AM BLOOD Glucose-122* UreaN-13 Creat-1.0 Na-142 K-4.5 Cl-106 HCO3-28 AnGap-13 [**2165-11-25**] 06:22AM BLOOD CK(CPK)-573* [**2165-11-25**] 01:40PM BLOOD CK(CPK)-467* [**2165-11-25**] 05:13PM BLOOD CK(CPK)-450* [**2165-11-26**] 05:54AM BLOOD CK(CPK)-393* [**2165-11-25**] 06:22AM BLOOD CK-MB-41* MB Indx-7.2* [**2165-11-25**] 06:22AM BLOOD cTropnT-1.09* [**2165-11-25**] 01:40PM BLOOD CK-MB-34* MB Indx-7.3* [**2165-11-25**] 05:13PM BLOOD CK-MB-33* MB Indx-7.3* cTropnT-0.98* [**2165-11-26**] 05:54AM BLOOD CK-MB-25* MB Indx-6.4* [**2165-11-26**] 05:54AM BLOOD Triglyc-98 HDL-46 CHOL/HD-3.6 LDLcalc-101 [**2165-11-25**] 05:13PM BLOOD Homocys-5.5 [**2165-11-25**] 08:46PM BLOOD [**Doctor First Name **]-NEGATIVE .
+Catheterization COMMENTS: 1.
+Resting hemodynamics revealed mildly elevated right and left sided pressures (mean RA pressure was 12 mmHG, mean PCWP was 14 mmHG).
+There was no evidence of pulmonary hypertension (mean PA pressure was 23 mmHg).
+The cardiac index was normal at 2.9 L/min/m2.
+Final angigoraphy demonstrated a small channel to the small distal vessels of the RCA and slow flow in the RCA.
+Post-cath Echocardiogram Conclusions: The left atrium is elongated.
+Left ventricular wall thicknesses and cavity size are normal.
+The pulmonary artery systolic pressure could not be quantified.
+Brief Hospital Course: BRIEF OVERVIEW:  34 yo M no cardiac risk factors with fam hx of anti-cardiolipin and distant cocaine hx presented with STEMI and 100% RCA occlusion that could not be opened on PTCA - per cath lab, suction cath was used to remove large amounts of fresh blood clot.
+Telemetry showed a narrow complex tachycardia that often terminated with a pause and had some internal variability - it appeared consistent with regularized afib/aflutter.
+In addition, he was started on amiodarone therapy after a baseline PA/Lateral CXR, TFT's, and LFT's were obtained as baseline.
+The goal of amiodarone therapy was for short term rhythm control (2-3 months) to be followed by EP study with likely pulmonary vein isolation.
+The patient was discharged with [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] of Hearts monitor with 2x daily monitoring plus event monitoring.
+An echo was perfomed to assess his LV function and is discussed above.
+Vessels: The patient was admitted with a STEMI and found to have a 100% RCA occlusion.
+It was thought that the patient could have had thrombus secondary to hypercoaguability or malignancy - there was no evidence of either (of note, CXR was clear and testicular exam was normal).
+ECG showed resolution of ST changes and pain resolved after the catheterization.
+Urgent doppler study of the leg showed no clot nor comprimise.
+It was never captured on 12 lead EKG and the patient was asymptomatic with the short spells (in contrast to his prior atrial fibrillation at the OSH where he described palpitations).
+He was started on amiodarone therapy with the goal of a short course of therapy until and EP study could be done.
+The hematology service was consulted and recommended a hypercoaguability workup focused on disorders that might be responsible for arterial thrombus formation.
+In preparation for his follow-up with Dr. [**Last Name (STitle) **], the patient was scheduled for a cardiac MRI and a 24hr [**Last Name (STitle) **] as pre-ablation evaluation.
+Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily): Take as directed to reduce blood clotting.
+Coumadin 1 mg Tablet Sig: Five (5) Tablet PO at bedtime: Take as instructed and adjust as directed based on INR testing.
+Toprol XL 100 mg Tablet Sustained Release 24HR Sig: One (1) Tablet Sustained Release 24HR PO once a day: Take as directed for heart protection and blood pressure control.
+You will need to take blood thinners to try to prevent this from happening again.
+You should follow up with Dr. [**First Name (STitle) 8260**] next week for basic blood tests and exam.
+You will need to have your blood drawn weekly for the next 1-2 months and [**Hospital1 **]-weekly thereafter to monitor your coumadin levels.
+Dr.[**Name (NI) 7914**] number is: ([**Telephone/Fax (1) 9530**].
+Before you see him you will need to have two tests: 1) 24 hour [**Hospital1 **] Monitor - this monitors your heart continuously for a 24 hour period.
+2) Cardiac MRI - this will give a clear picture of your heart.
+Will also need PT monitoring on coumadin.
+[**Month (only) **] - [**12-30**] at 11am Cardiac MRI - before [**1-8**] - [**Doctor First Name **] notified - pt being scheduled.

@@ -1,0 +1,59 @@
+Admission Date:  [**2101-11-25**]              Discharge Date:   [**2101-12-7**]  Date of Birth:  [**2039-5-25**]             Sex:   F  Service: MEDICINE  Allergies: Iron Dextran Complex / Heparin (Porcine) / Ibuprofen / Gadolinium-Containing Agents / Morphine / Vancomycin  Attending:[**Last Name (NamePattern1) 1136**] Chief Complaint: Encephalopathy  Major Surgical or Invasive Procedure: Intubation [**2101-11-25**] Lumbar Puncture x2   History of Present Illness: Ms. [**Known lastname **] is a 62F with multiple medical problems, most significantly IgA nephropathy status post renal transplant with subsequent graft failure and graft removal [**7-7**], now back on hemodialysis (Tu, [**Last Name (un) **], Sat), Hypertension, primary hyperparathyroidism s/p resection who presented to the [**Hospital1 18**] ED with confusion in the context of hypertension.
+The husband gave her some labetalol and tylenol without improvement.
+She was placed on a nitroprusside drip and given haldol and ativan for agitation.
+They were unable to obtain a head CT due to agitation so the patient was intubated and sedated with propofol and a head CT was performed; the preliminary [**Location (un) 1131**] was negative for bleed.
+Initially given antibiotics (Vanc/Cipro) for line infection and UTI, renal US showed signs of graft rejection, was hypertensive (up to SBP 220s) treated with labetalol and valsartan.
+She was asymptomatic from the elevated BPs and underwent transplant nephrectomy on [**7-13**] without complications.
+BP was 178/82 status post 10 mg IV hydralazine x 3.
+After getting home dose meds (which consisted of valsartan, amlodipine, and labetolol) her BP came down to 167/78.
+Labetalol was titrated up from 600mg [**Hospital1 **] to 800mg [**Hospital1 **].
+Initially covered with pip/tazo and linezolid for a possible HAP, later held as not evidence of infection.
+She was given 3 units of insulin for sugar of 160.
+It was determined that her confusion was likely due to a combination of poor nutrition (improved with Thiamine), hypertension, hypoglycemia, and possibly hypothryoidism.
+Past Medical History: # IgA nephropathy -S/p failed renal transplant of living unrelated kidney [**10-30**] with recent transplant nephrectomy -Now on HD Tu/Th/Sat # Asthma # Hypertension -With prior hospitalizations for confusion/agitation in the past in the setting of severe HTN.
+MRI and CT done at the time negative, resolved with home BP meds.
+# Gastroesophageal reflux disease # Hypercholesterolemia # Coronary artery disease -catheterization [**2087**] with 70% D1, 60% D2, echocardiogram [**2097**] WNL # Mild pulmonary hypertension # Primary hyperparathyroidism s/p parathyroidectomy, has had hypercalcemia in the past # History of abnormal [**Last Name (un) 104**] stim test and previously on hydrocortisone but no longer felt to be adrenally insufficient per endocrine (see [**Last Name (un) **] note, [**Doctor Last Name **],[**Doctor Last Name **], [**2101-9-21**]) # Diverticulosis- s/p severe LGIB with colectomy [**6-/2101**] # History of a highly resistant abdominal wound infection with carbepenamase producing klebsiella.
+PAST SURGICAL HISTORY: # Status post appendectomy # Status post Cesarean section # Status post right colectomy [**2101-7-12**] secondary to severe GIB # Status post renal transplant graft nephrectomy [**2101-7-12**]   Social History: Patient lives with her husband, children and grandchildren.
+NEURO: Sedated, intubated, face symmetric, pupils equal and reactive.
+BACK: TTP in lumbar area EXTREMITIES: no edema, no erythema at HD line NEURO: pt not cooperative  Pertinent Results: ADMISSION LABS: [**2101-11-24**] WBC 5.3 / Hct 36.6 / Plt 301 Na 138 / K 4.5 / Cl 100 / CO2 24 / BUN 20 / Cr 5.3 / BG 56 ALT 6 / AST 17 / CK(CPK) 22 / AlkPhos 153 / TotBili-0.5 Lipase 11 Serum Tox negative  [**2101-11-29**] TSH 9 [**2101-12-2**] PTH 162  DISCHARGE LABS: WBC 5.3 / Hct 40.1 / Plt 287 Na 138 / K 4.2 / CL 105 / CO2 23 / BUN 13 / Cr 4.4 / BG 83 Alb 2.5 / Ca [**01**].3 / Mg 1.8 / Phos 3.7  MICROBIOLOGY: [**11-24**], 27, 28 /09 Blood Cx negative [**2101-11-26**] Sputum Culture - Moraxella Catarrhalis, Coag positive staph [**2101-11-26**] Stool Cx - C.diff positive [**2101-11-26**] CSF Cx - negative [**2101-11-30**] Crypto Ag negative [**2101-11-30**] CSF Cx - negative  STUDIES: CT HEAD W/O CONTRAST [**2101-11-24**]	 No acute intracranial hemorrhage.
+Patient was intubated for altered mental status in the ED to help protect airway.
+She was agitated while intubated and was given multiple doses of haldol and ativan in the emergency room.
+Neurology was consulted, and she was immediately given 4mg of intravenous ativan, after which EEG showed significantly decreased epileptiform activity.
+She was immediately given two more doses of 2mg ativan intravenously and was kept on a video EEG event monitor overnight.
+She was also loaded with Dilantin and started on Dilantin treatment for a couple of days.
+Per Neurology recommendations, she was started empirically on acyclovir for possible HSV meningitis in addition to ceftriaxone and ampicillin for possible bacterial meningitis; of note, the patient has a listed allergy to vancomycin.
+Ampicillin and Ceftriaxone were discontinued after another day.
+Haldol and other antipsychotics were avoided for agitation because they have the potential to decrease the seizure threshold.
+CXR was suggestive of PNA, and she had spiked a fever to 101.1F, so she was started on Vanc/Cefepime/Acyclovir/Ampicillin to cover HAP and meningitis.
+On the floor, after patient was noted to be in nonconvulsive status epilepticus, the levofloxacin was discontinued because it can lower the seizure threshold.
+End-Stage Renal Disease: Patient was followed by the Nephrology team and continued on Hemodialysis on her Tuesday/Thursday/Saturday schedule.
+She was continued on her home doses of sevelamer, cinacalcet, nephrocaps.
+Malignant Hypertension: Patient was on nitroprusside drip in the ED.
+She was started on a labetalol drip given toxic metabolites of nitropruside in the MICU.
+The labetalol drip was weaned, and the patient was restarted on her home blood pressure medications, including labetolol 600mg TID, diovan 160mg [**Hospital1 **] (normally 320mg QD), amlodipine 10mg, doxazosin 2mg.
+Hypothyroidism: TSH was elevated at 9.0 but was trending down from much higher level of 31 at previous check, so levothyroxine dose was left unchanged at 50mcg daily.
+Clostridium difficile: Patient was noted to have a positive Clostridium difficile toxin test on [**2101-11-26**], so she was started on treatment with metronidazole.
+Her total course of metronidazole will be 14 days, which will last for seven full days after her last dose of antibiotics.
+Hyperparathyroidism/Hypercalcemia: Patient has history of primary hyperparathyroidism s/p surgical resection of parathyroid glands.
+Her calcium level should be monitored on dialysis days; the calcium in the bath may need to be decreased further.
+Medications on Admission: Nephrocaps 1 QD Cinacalcet 60 QD Omeprazole 20 Sevelamer 800 TID Amlodipine 10 Albuterol PRN Labetolol 600 TID Simvstatin 40 Valsartan 320 Synthroid 50 Trileptal  150 [**Hospital1 **] Doxasoin 2mg QD  Discharge Medications: 1.
+Sevelamer Carbonate 800 mg Tablet Sig: One (1) Tablet PO TID W/MEALS (3 TIMES A DAY WITH MEALS).
+Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig: [**12-31**] Adhesive Patch, Medicateds Topical DAILY (Daily).
+Labetalol 200 mg Tablet Sig: Three (3) Tablet PO TID (3 times a day).
+Valsartan 80 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day).
+Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Levetiracetam 500 mg Tablet Sig: AS DIRECTED Tablet PO AS DIRECTED: Please take 1000mg (2 tablets) each night before bed.
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: Three (3) ml Inhalation Q6H (every 6 hours) as needed for wheezing.
+Metronidazole 500 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 hours) for 7 doses.
+Doxazosin 1 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Cinacalcet 60 mg Tablet Sig: One (1) Tablet PO once a day.
+Aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day.
+Multivitamin     Tablet Sig: One (1) Tablet PO once a day.
+After you were transferred to the general medical floor, you were found to have a nonconvulsive seizure and were started on new seizure medications.
+You were continued on dialysis three days per week, and your blood pressure was kept under control with your home blood pressure medications.
+Please be sure to take all of your medications as directed, particularly your blood pressure medications.
+The following changes have been made to your medications: - Please STOP the Trileptal for your seizure disorder - Please START Levetiracetam (Keppra) for your seizure disorder:   - You should take 1000mg (2 tablets of 500mg each) each night before bed   - You should take an additional 250mg (0.5 tablet) after dialysis on Dialysis days (Tues, Thurs, Saturday) - You may START using Lidoderm patches to your back for pain - Please START taking Metronidazole (Flagyl) 500mg every 12 hours for 3.5 more days (7 more doses) for the C. difficile infection that was making your diarrhea worse  Please be sure to keep all of your followup appointments and continue your Tuesday/Thursday/Saturday dialysis schedule.
+Followup Instructions: Please be sure to keep all of your followup appointments, including Dialysis Tues/Thurs/Saturday.

@@ -1,0 +1,47 @@
+Admission Date:  [**2200-6-9**]              Discharge Date:   [**2200-6-18**]   Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 443**] Chief Complaint: CHIEF COMPLAINT: Chest pain/NSTEMI  Major Surgical or Invasive Procedure: Cardiac catheterization with [**Last Name (un) 2435**] placement Swan ganz catheter placement  History of Present Illness: Patient is an 85 yo M with h/o CAD s/p MI and 3 vessel CABG in [**3-10**] (LIMA ->LAD, SVG -> LAD; D1, SVG -> RCA 40% stenosis per cath in [**2198**]), CKD, bladder cancer with recent transurethral resection of tumor on [**6-9**], complicated by SOB, chest pain, now found to have NSTEMI who presents to the CCU for further management of his ACS.
+In brief, pt underwent successful transurethral resection of his bladder tumor on [**6-9**].
+Pt was treated with nebs, steroids, vanco/zosyn for asthma/aspiration.
+His BP improved with fluid boluses but was transferred to the [**Hospital Unit Name 153**] for further observation.
+He was also transfused 2 units PRBCs given his urinary clotting.
+CK, MB, and troponin trended upwards.
+The patient was given ASA/Plavix, heparin gtt, nitro gtt, metoprolol, and morphine.
+On further review of symptoms, he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.
+CAD s/p MI w Vfib arrest/syncope and CABGx3 [**3-10**], no warning symptoms, syncopized; EF [**10-12**] 45-50% on dobutamine stress echo, followed by outside cardiologist.
+Bladder cancer found [**5-15**] on cystoscopy, s/p transuretheral resection on [**6-9**] 4.
+Gout 5. cataract surgery '[**97**], '[**99**] 6. cholecystectomy '[**89**] 7.
+Physical Exam: VS: T 96.5, BP 122/60, HR 85, RR 18, O2 95% on 2L NC Gen: Pleasant talkative elderly male in NAD HEENT: NCAT.
+Successful PCI/stent to proximal left subclavian thrombosis with a 7.0x39mm Genesis stent deployed at 18atms and postdilated with a 9.0mm balloon.
+Brief Hospital Course: In summary, this is an 85 yo M with CAD, s/p MI and 3 vessel CABG in [**2194**], CKD, bladder tumor s/p recent transurethral resection c/b [**Hospital 7792**] transferred to the CCU for further care.
+Patient with known CAD and previous history of MI now with concerning EKG changes and positive cardiac enzymes.
+He was treated with morphine, nitro drip, increased O2, and a nebulizer treatment and the pain subsided.
+He went urgently to the cath lab where he was found to have a large, L subclavian thrombosis resulting in decreased perfusion to the LIMA-LAD graft as well as distal stenosis/haziness of the LAD.
+Bare metal stent was placed in the L subclavian.
+The patient was maintained on ASA 325mg daily, Plavix 75mg daily, integrilin x 18hours post cath, heparin IV, Metoprolol, and Lipitor 80mg (lipid panel adequate).
+Heparin and coumadin for prevention or LV thrombus was held due to hematuria.
+Repeat ECHO prior to discharge showed no sign of ventricular thrombus despite wall motion abnormalities, and given risk of rebleeding from bladder, anticoagulation was held on discharge.
+On [**6-10**] the patient was started on broad spectrum levo/flagyl/vanc plan for a total of 14 days due to concern of aspiration pneumonia given setting of fever and leukocytosis.
+Patient was discharged home off vanco, but to finish a total 14 day course of flagyl and levofloxacin.
+Has required 3 units pRBCs with moderate response.
+Heparin and coumadin were held during this episode of active bleeding.
+Bleeding resolved and CBI was able to be discontinued prior to discharge.
+He was given a 1:1 sitter and ditropan was held.
+On [**6-14**] a swan ganz catheter was placed to more closely assess the patient's volume status.
+Foley catheter was initially removed but was replaced on the day of discharge due to retention of ~ 400 cc in the bladder; the patient's foley catheter is to remain in place until evaluated at Dr.[**Name (NI) 6444**] office for voiding trial on Monday, [**6-23**].
+Coumadin and heparin were held in setting of hematuria.
+Given CKD, he was given allopurinol every other day.
+Medications on Admission: Medications (outpatient): ASA 81mg daily Lipitor 10mg daily Prilosec 20mg daily Allopurinol 100mg daily Centrum silver MVI daily Buproprion 100mg daily   Discharge Medications: 1.
+Bupropion 150 mg Tablet Sustained Release Sig: One (1) Tablet Sustained Release PO QAM (once a day (in the morning)).
+Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Atorvastatin 20 mg Tablet Sig: Four (4) Tablet PO DAILY (Daily).
+Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Allopurinol 100 mg Tablet Sig: One (1) Tablet PO EVERY OTHER DAY (Every Other Day).
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed.
+Prilosec 20 mg Capsule, Delayed Release(E.C.)
+Albuterol Sulfate 0.083 % (0.83 mg/mL) Solution Sig: One (1) Inhalation Q4H (every 4 hours) as needed for SOB.
+Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation Q6H (every 6 hours) as needed for SOB.
+Levofloxacin 250 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours) for 8 days.
+Metronidazole 500 mg Tablet Sig: One (1) Tablet PO TID (3 times a day).
+Metoprolol Succinate 25 mg Tablet Sustained Release 24 hr Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).
+Discharge Disposition: Extended Care  Facility: [**Hospital6 979**] - [**Location (un) 246**]  Discharge Diagnosis: bladder cancer s/p bladder resection coronary artery disease acute coronary syndrome hospital acquired pneumonia acute on chronic renal insufficiency anemia   Discharge Condition: stable, breathing comfortably   Discharge Instructions: Please call your physician if you experience fevers, chest pain, abdominal pain, blood in the urine, dizzines, lightheadedness or other concerning symptoms.
+Until that time, you should keep your foley catheter in place.

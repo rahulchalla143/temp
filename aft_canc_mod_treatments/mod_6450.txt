@@ -1,0 +1,48 @@
+Admission Date:  [**2116-12-29**]              Discharge Date:   [**2117-1-8**]  Date of Birth:  [**2057-12-15**]             Sex:   M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 2751**] Chief Complaint: Altered mental status and respiratory distress   Major Surgical or Invasive Procedure: [**2116-12-31**]: Intubation [**2117-1-1**]: Extubation [**2117-1-1**]: right internal jugular central line placement  History of Present Illness: Mr. [**Known lastname 88504**] is a 59 year old male with COPD, NSCLC and SCLC with metastases to brain s/p chemotherapy and radiation admitted with hypokalemia on [**2116-12-29**].
+His hypokalemia was difficult to replete with oral and IV potassium and eventually attributed to inappropriate ACTH secretion from his tumor.
+He triggered for tachypnea in the morning.
+He was started on vanc/cefepime for HAP.
+He was placed on a NRB and O2 sat came up to 100%.
+He was intubated for hypercarbic respiratory failure and transferred to the MICU.
+Past Medical History: NSCLC SCLC Metastases to brain HTN GERD COPD  Social History: Lives with wife.
+There is volume loss in the left lung compatible with prior partial lung resection with partial osteotomy in the left rib cage.
+There is right hilar prominence and lymphadenopaty cannot be excluded.
+[**2116-12-31**] CTA CHEST: TECHNIQUE: Axial CT images through the chest were acquired before and after administration of intravenous contrast.
+A large right hilar lymph node measures 26 mm (4:27, previously 18 mm).
+Acquired sequences included sagittal T1, axial T1, FLAIR, diffusion with ADC map images.
+[**2117-1-6**] RIGHT UPPER EXTREMITY ULTRASOUND: FINDINGS: Grayscale and Doppler son[**Name (NI) 1417**] of right internal jugular, right subclavian, axillary, and brachial veins were performed.
+A PICC is seen within the right basilic, axillary and subclavian veins.
+Brief Hospital Course: Mr. [**Known lastname 88504**] is a 59 year old male with history of non-small cell lung cancer (NSCLC) and small cell lung cancer (SCLC) with metastases to brain status post chemotherapy and radiation, admitted with profound weakness, found to have hypokalemia, high serum ACTH, and hypercortisolism secondary to bilateral adrenal hyperplasia; hospital course complicated by hypercarbic respiratory failure, shock, delirium, pneumonia, and thrush.
+Per his wife, patient had not been taking his potassium supplements as prescribed.
+Patient had associated symptom of hypertension, mood changes and delirium prior to and during his admission.
+On CT imaging during this admission, bilateral adrenal hyperplasia was present.
+Per Endocrinology consult, cortisol suppression treatment was implemented with ketoconazole, spironolactone and metyrapone.
+Additionally, potassium was repleted on an ongoing basis.
+The patient's delirium was also better-controlled with correction of hypercortisolemia.
+Acute episode of respiratory failure was multifactorial, secondary to pneumonia, baseline decreased pulmonary function from COPD and lung cancer, and profound muscle weakness/fatigue secondary to hypokalemia: CTA was performed which ruled out PE but did show large left lower lobe consolidation and small focus of consolidation in the right upper lobe with right upper lobe bronchial wall thickening, concerning for infection, for which vanc/cefepime were started empirically.
+He was treated with albuterol/ipratropium nebulizers while intubated.
+He was then continued on empiric antibiotics and standing albuterol/ipratropium nebulizers, along with supplemental oxygen as needed, with improved symptoms during the rest of his admission.
+It was not felt to be secondary to infection,  since his bronchoscopy was negative and he recovered with medication changes.
+The patient was treated empirically for HCAP with intravenous vancomycin and cefepime, which were both discontinued on day 7 of 8, per patient and family wishes.
+Patient was continued on albuterol and ipratropium nebulizers for symptoms of shortness of breath/wheezing and comfort.
+He was treated with nystatin swish and swallow .
+CHRONIC ISSUES: # COPD: Continued on albuterol and ipratropium nebulizers with supplemental oxygen as needed.
+The patient and his family understand likely decline in the near future, and are focusing on symptom management, including ongoing cortisol suppression.
+Palliative Medicine was helpful in constructing a home regimen to maximize comfort; this included lorazepam 1mg PO q6 hours standing, lorazepam 1mg PO q4 hours PRN and morphine 5-10 mg PO (elixir) q2 hours PRN pain/dyspnea.
+# Code status: DNR/DNI, CMO, confirmed with patient and HCP (wife, [**Doctor First Name **]  Medications on Admission: Keppra 500mg [**Hospital1 **] Omeprazole 20mg daily Trazodone 100mg qhs Lorazepam 1-2mg prn Albuterol Spiriva 18mcg inhalation Flovent 220mcg; 3 puffs [**Hospital1 **] Potassium chloride 20meq TID Zofran 8mg rapid dissolve compazine 10mg; q6h prn enalapril-HCTZ 10-25mg daily Salmeterol 50mcg; 1 inhalation [**Hospital1 **]   Discharge Medications: 1. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1) puff Inhalation q4 prn as needed for wheeze.
+2. ipratropium bromide 0.02 % Solution Sig: One (1) inhalation Inhalation q4 prn as needed for wheeze.
+3. insulin glargine 100 unit/mL Solution Sig: Five (5) units Subcutaneous at bedtime.
+Disp:*200 units* Refills:*0* 5. spironolactone 100 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day).
+Disp:*120 Tablet(s)* Refills:*0* 6. dexamethasone 0.5 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0* 7. potassium chloride 10 mEq Tablet Extended Release Sig: Four (4) Tablet Extended Release PO QID (4 times a day).
+Disp:*480 Tablet Extended Release(s)* Refills:*0* 8. lorazepam 1 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours).
+Disp:*120 Tablet(s)* Refills:*0* 9. lorazepam 1 mg Tablet Sig: One (1) Tablet PO Q4H (every 4 hours) as needed for agitation.
+Disp:*30 packet* Refills:*0* 11. metyrapone 250 mg Capsule Sig: Two (2) Capsule PO BID (2 times a day) for 14 days.
+Disp:*56 Capsule(s)* Refills:*0* 12. morphine 10 mg/5 mL Solution Sig: 5-10 mg PO Q2H (every 2 hours) as needed for pain, shortness of breath.
+Disp:*1000 mg* Refills:*0* 13. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+Disp:*60 Capsule(s)* Refills:*0* 14. senna 8.6 mg Tablet Sig: One (1) Tablet PO bid prn as needed for constipation.
+Disp:*60 Tablet(s)* Refills:*0* 15. ketoconazole 200 mg Tablet Sig: Two (2) Tablet PO TID (3 times a day).
+Outpatient Lab Work Please potassium once per week on: [**2117-1-11**], [**2117-1-18**], [**2117-1-25**], [**2116-2-9**], [**2116-2-16**], [**2116-2-23**], etc., and fax results to Dr. [**First Name8 (NamePattern2) 2127**] [**Last Name (NamePattern1) 4681**] Hunt at (Fax: [**Telephone/Fax (1) 6808**], Phone: [**Telephone/Fax (1) 88505**]), who will modify medications as needed.
+Equipment Glucometer, testing strips and lancets 20. potassium chloride 20 mEq Packet Sig: Two (2) packets PO four times a day: Only use if not able to swallow pill.
+You were treated for healthcare associated pneumonia as well with intravenous antibiotics.
+Please note, the following changes were made to your medications: - START ketoconazole 400 mg by mouth three times per day - START spironolactone 200 mg by mouth twice daily - START metyrapone 500 mg by mouth twice daily - START lorazepam 1 mg by mouth every 6 hours - START potassium chloride 40 mEq by mouth four times daily - START metyrapone 500 mg by mouth twice daily - START dexamethasone 0.5 mg by mouth daily - START morphine sulfate 5-10 mg by mouth every two hours as needed for pain or agitation .

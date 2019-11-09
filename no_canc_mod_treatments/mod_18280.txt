@@ -1,0 +1,44 @@
+Admission Date:  [**2192-6-20**]              Discharge Date:   [**2192-6-22**]  Date of Birth:  [**2140-8-7**]             Sex:   M  Service: MEDICINE  Allergies: Sulfa (Sulfonamide Antibiotics)  Attending:[**First Name3 (LF) 2641**] Chief Complaint: altered mental status, hypotension  Major Surgical or Invasive Procedure: central line placement  History of Present Illness: 51 yo M with history of ETOH abuse, CHF with EF 10-15%, HTN, Vpacer for bradycardia, CAD s/p MI in [**2189**], who presents after found intoxicated and hypotensive outside of [**Hospital3 74487**].
+He was discharged on his heart failure regimen, however anticoagulation was discontinued given frequent intoxication and history of subdural and subarachnoid hemorrhage.
+The patient had some bruising to his abdomen from injections of lovenox vs insulin.
+Patient was initially volume recussitated with 4L of NS with improvement of blood pressures to the 80s.
+He was started of levophed and RIJ was placed with improvement of pressures to 90s/50s (MAP of 60).
+Patient was started on vancomycin, ceftriaxone and acyclovir and 4g of mag IV.
+There was no nuchal rigidity or sign of infection, so antibiotics were all stopped.
+Metoprolol and digoxin were restarted.
+Still holding lasix and spironolactone.
+Review of systems:  unable to obtain   Past Medical History: # Hypercholesterolemia # V-pacer for bradycardia (?sick sinus), AICD for HF Device: [**Company 1543**] Secura Pacer last interrogated [**2192-5-25**] setting: D-D-D-R low rate: 70 upper rate: 140 tachyarrhythmias: none therapies delivered: none A-P: 2% v-pace: 99.5% V-sense response: on [**Hospital1 **]-V paced mode switch episodes: none # CAD s/p MI [**7-14**] "100% occlusion, no stents, ?appropriate for CABG # CHF with EF 10-15% # DM2 # BPH # Depression # Alcohol abuse # hilar adenopathy # hx of PE # hx of resolved LV thrombus # apical aneurysm # hx of subdural and subarachnoid hemorrhages   Social History: # Personal: Homeless, living in a veterans' shelter.
+RIJ in place CV: Regular rate and rhythm, normal S1 + S2, no murmurs Lungs: Decreased breath sounds at bases, no wheezes, rales, ronchi Abdomen: soft, non-tender, non-distended, bowel sounds present, no organomegaly GU: no foley Ext: warm, well perfused, 2+ pulses, trace LE edema Neuro: somnolent but arousable.
+He had a unit stay for the hypotension where he received IV fluid resuscitation overnight and pressors, and was weaned off by the morning.
+There was initial concern for meningitis given febrile with altered mental status and patient was started on vancomycin, ceftriaxone and acyclovir at meningitis dosing.
+Patient was monitored overnight and given afebrile, improvement in mental status, lack of nuchal rigidity and photophobia antibiotics were discontinued.
+There was initial concern for distributive shock due to possible sepsis and he was started on vancomycin, ceftriaxone, and acylovir for potential meningitis.
+However infectious workup negative and patient was afebrile, without leukocytosis, and clinically improved with IV fluids.
+He was started on levophed in the ED which was quickly weaned off overnight.
+He was likely volume depleted in the setting of acute intoxication.
+# ETOH abuse - Patient was placed on valium CIWA scale.
+# CHF with EF 10-15% - Home antihypertensives including toprol, lisinopril, lasix and spironolactone initially held.
+His digoxin was continued.
+As his blood pressures stabilized, patient was restarted on all his home meds by time of discharge - his pacer appearred to be pacing at ~100bpm.
+We offerred patient electrophysiology to look at pacer, but he declined and will f/u with his cardiologist.
+Patient discharged from [**Hospital1 3278**] off all anticoagulation due to noncompliance, history of ETOH abuse and subdural/subarachnoid bleeds.
+Lovenox and warfarin were held during admission given risk of bleed due to history of intracranial bleed.
+If patient can get sober, restarting coumadin would make more sense.
+PO medications intially held.
+Patient restarted on ASA and beta blocker.
+His ACE and beta blocker were initially held due to hypotension, but restarted by time of discharge.
+# Type 2 DM - Home metformin and glyburide held.
+Blood sugars were well controlled with insulin sliding scale.
+PO meds restarted at discharge.
+We offerred patient electrophysiology to look at pacer, but he declined and will f/u with his cardiologist.
+Medications on Admission: aspirin 81 mg po budesonide 80 mcg/4.5mcg 2 puffs [**Hospital1 **] digoxin 0.125 mcg daily lasix 20 mg [**Hospital1 **] glyburide 5 mg [**Hospital1 **] lisinopril 2.5 mg metformin 500 mg [**Hospital1 **] toprol XL 25 mg daily multivitamin omeprazole 20 mg daily simvastatin 40 mg daily sublingual nitro as needed aldactone 25 mg daily coumadin 5 mg every evening --> 1 tab SWF and 1.5 tabs MTThSat (not getting during recent hospitalization) lovenox 80 every 12 hours terazosin 1 mg qhs   Discharge Medications: 1. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+Disp:*1 inhaler* Refills:*0* 3. digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Lasix 20 mg Tablet Sig: One (1) Tablet PO twice a day.
+Disp:*60 Tablet(s)* Refills:*0* 5. glyburide 5 mg Tablet Sig: One (1) Tablet PO twice a day.
+Disp:*60 Tablet(s)* Refills:*0* 6. lisinopril 2.5 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0* 7. metformin 500 mg Tablet Sig: One (1) Tablet PO twice a day.
+Disp:*60 Tablet(s)* Refills:*0* 8. metoprolol succinate 25 mg Tablet Extended Release 24 hr Sig: One (1) Tablet Extended Release 24 hr PO once a day.
+)(s)* Refills:*0* 11. simvastatin 40 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0* 12. nitroglycerin 0.3 mg Tablet, Sublingual Sig: One (1) Sublingual Q5 minutes, take as needed for chest pain, call 911 after 2nd dose.
+Aldactone 25 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0* 14. terazosin 1 mg Capsule Sig: One (1) Capsule PO at bedtime.

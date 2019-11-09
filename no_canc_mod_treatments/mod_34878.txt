@@ -1,0 +1,25 @@
+Admission Date:  [**2168-8-24**]              Discharge Date:   [**2168-8-29**]  Date of Birth:  [**2101-4-27**]             Sex:   M  Service: CARDIOTHORACIC  Allergies: Penicillins  Attending:[**First Name3 (LF) 922**] Chief Complaint: chest pain  Major Surgical or Invasive Procedure: [**2168-8-24**] Coronary Artery Bypass times 4 (LIMA to LAD, SVG to DIAG, SVG to OM, SVG to PLV)   History of Present Illness: Mr. [**Known lastname 14710**] is a 67 year old gentleman who presented to [**Hospital1 18**] [**Location (un) 620**] with exertional chest pain while mowing his lawn.
+Hypertension BPH s/p tonsillectomy s/p hernia repair   Social History: Mr. [**Known lastname 14710**] lives in [**Hospital3 **] but has a home in [**Location (un) 620**].
+His abdomen was soft, non-tender, and non-distended.
+Pertinent Results: [**2168-8-28**] 01:00PM BLOOD WBC-6.5 RBC-2.86* Hgb-8.7* Hct-24.2* MCV-85 MCH-30.6 MCHC-36.2* RDW-14.3 Plt Ct-292# [**2168-8-24**] 03:15PM BLOOD WBC-8.5 RBC-3.30*# Hgb-10.2*# Hct-29.2*# MCV-89 MCH-30.9 MCHC-34.9 RDW-13.8 Plt Ct-211 [**2168-8-29**] 05:45AM BLOOD Glucose-168* UreaN-22* Creat-1.1 Na-133 K-4.0 Cl-100 HCO3-25 AnGap-12 [**2168-8-24**] 03:15PM BLOOD UreaN-19 Creat-0.9 Cl-115* HCO3-24     [**Known lastname **],[**Known firstname 569**] A [**Medical Record Number 79651**] M  67  [**2101-4-27**]  Radiology Report CHEST (PA & LAT) Study Date of [**2168-8-27**] 12:20 PM   [**Last Name (LF) **],[**First Name7 (NamePattern1) 177**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 5204**] FA6A [**2168-8-27**] SCHED CHEST (PA & LAT)   Clip # [**Clip Number (Radiology) 79652**] Reason: eval pneumothoraces    [**Hospital 93**] MEDICAL CONDITION:    67 year old man s/p CABG REASON FOR THIS EXAMINATION:    eval pneumothoraces    Final Report HISTORY: Status post CABG, to evaluate for pneumothorax.
+DR. [**First Name8 (NamePattern2) 1569**] [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 11006**] Approved: SAT [**2168-8-27**] 3:41 PM  [**Hospital1 18**] ECHOCARDIOGRAPHY REPORT  [**Known lastname **], [**Known firstname 569**]       [**Hospital1 18**] [**Numeric Identifier 79653**] (Complete) Done [**2168-8-24**] at 12:38:36 PM      PRELIMINARY Referring Physician     [**Name9 (PRE) **] Information [**Name9 (PRE) **], [**First Name3 (LF) 177**] C. [**Hospital Unit Name 927**] [**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2101-4-27**] Age (years): 67 M  Hgt (in): BP (mm Hg): /  Wgt (lb): HR (bpm):  BSA (m2): Indication: Aortic valve disease.
+Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 6507**], MD Doppler: Full Doppler and color Doppler Test Location: Anesthesia West OR cardiac Contrast: None Tech Quality: Adequate Tape #: 2008AW06-: Machine: Echocardiographic Measurements Results  Measurements  Normal Range Left Ventricle - Septal Wall Thickness:  1.1 cm  0.6 - 1.1 cm Left Ventricle - Inferolateral Thickness:  1.1 cm  0.6 - 1.1 cm  Left Ventricle - Diastolic Dimension:  4.0 cm  <= 5.6 cm Left Ventricle - Systolic Dimension:  0.0 cm Left Ventricle - Fractional Shortening:  1.00  >= 0.29 Left Ventricle - Ejection Fraction:  >= 55%  >= 55% Aorta - Sinus Level:  3.4 cm  <= 3.6 cm Aorta - Ascending:  *3.9 cm  <= 3.4 cm  Findings Multiplanar reconstructions were generated and confirmed on an independent workstation.
+A catheter or pacing wire is seen in the RA.
+The TEE probe was passed with assistance from the anesthesioology staff using a laryngoscope.
+Imaging Lab    Brief Hospital Course: Mr. [**Known firstname **] [**Known lastname 14710**] underwent a coronary artery bypass graft times four on [**2168-8-24**] with Dr. [**Last Name (STitle) 914**].
+The patient tolerated this procedure well and was transferred in critical but stable condition to the surgical intensive care unit.
+He was extubated by post-operative day one and his vasoactive drips were weaned.
+His chest tubes and wires were removed.
+Medications on Admission: aspirin 81mg daily metformin 750mg TID atenolol 50mg daily lisinopril glyburide gemfibrozil buproprion  Discharge Medications: 1.
+Furosemide 20 mg Tablet Sig: One (1) Tablet PO once a day for 5 days.
+Potassium Chloride 20 mEq Tab Sust.Rel.
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+Aspirin 81 mg Tablet, Delayed Release (E.C.)
+Rosuvastatin 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Bupropion 75 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day).
+Metformin 500 mg Tablet Sig: 1.5 Tablets PO TID (3 times a day).
+Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Glyburide 5 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day).
+Ferrous Gluconate 325 mg (37.5 mg Iron) Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO every six (6) hours as needed.

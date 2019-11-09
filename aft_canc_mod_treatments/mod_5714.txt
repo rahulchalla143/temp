@@ -1,0 +1,49 @@
+Admission Date:  [**2169-11-30**]              Discharge Date:   [**2169-12-9**]  Date of Birth:  [**2107-9-25**]             Sex:   M  Service: UROLOGY  Allergies: lisinopril  Attending:[**First Name3 (LF) 1232**] Chief Complaint: Bladder transitional cancer  Major Surgical or Invasive Procedure: radical cystoprostatectomy, pelvic lymph node disection, and creation of [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 59286**] neo-bladder on [**2169-11-30**]  History of Present Illness: 62-year-old male with a history of transitional cell bladder cancer s/p radical cystoprostatectomy, pelvic lymph node disection, and  creation of [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 59286**] neo-bladder on [**2169-11-30**] being transferred to [**Hospital Unit Name 153**] for acute onset HTN, tachycardia, and mental status changes.
+Pt underwent uncomplicated surgery on [**2169-11-30**] and had initially been doing well.
+On POD3 (day of transfer to [**Hospital Unit Name 153**]), he began to have mucus plug in his foley catheter with subsequent bladder distention and increasing pain.
+Denies chest pain, chest pressure, palpitations, or weakness.
+Past Medical History: hypertension nephrolithiasis [**2127**] traumatic mandibular fracture s/p reconstruction [**2156**] right knee arthroscopy [**2168**] removal of salivary stone from right parotid [**2164**]   Social History: Works as a chiropracter.
+Has a girlfriend [**Name (NI) 5627**].
+Family History: Father: lung cancer   Physical Exam: General: Alert, oriented to self (occasionally to place and date), diaphoretic, tachypneic when speaking HEENT: Sclera anicteric, dry MM, oropharynx clear Neck: supple, JVP not elevated, no LAD Lungs: Bibasilar crackles, no wheezes, rales, ronchi CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops Abdomen: soft, diffusely tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema Neuro: A & O x [**12-5**] (waxing and [**Doctor Last Name 688**] of mental status), following commands, moving all extremities, CN II-XII intact, able to recite days of week backwards   Pertinent Results: LABS:  On admission: [**2169-11-30**] 11:00AM BLOOD WBC-14.0*# RBC-3.58*# Hgb-10.8*# Hct-31.0* MCV-87 MCH-30.0 MCHC-34.6 RDW-13.2 Plt Ct-304 [**2169-11-30**] 07:07PM BLOOD PT-12.3 PTT-25.2 INR(PT)-1.1 [**2169-11-30**] 07:07PM BLOOD Glucose-176* UreaN-13 Creat-1.0 Na-142 K-3.9 Cl-107 HCO3-21* AnGap-18 [**2169-11-30**] 07:07PM BLOOD Calcium-8.0* Mg-1.7  Brief Hospital Course: Patient was admitted to Dr.[**Name (NI) 1233**] Urology service after undergoing radical cystectomy and neobladder reconstruction.
+Patient received perioperative antibiotic prophylaxis and deep vein thrombosis prophylaxis with coumadin.
+on POD3 the patient was transferred to the [**Hospital Unit Name 153**] for acute onset HTN, tachycardia, and mental status changes.
+The patient was found to have a blocket suprapubic tube and foley catheter prior to his mental status changes.
+He was treated with IV antibiotics and transferred out of the [**Hospital Unit Name 153**] on POD4.
+The patient was found to have E. coli in his blood and urine resistant to everything except meropenem and amikacin growing out of his blood.
+The patients stents were removed on POD6 without any issues.
+His JP drain was removed on POD8 after it was found to have a creatnine of 0.5 on 3 occasions.
+Of note, the patient's JP culture grew out yeast and was recommended to be treated with fluconazole for two weeks.
+Due to his yeast growth, it was decided to reduce his antibiotic course to 10 days with follow-up in [**Hospital **] clinic.
+The patient was ambulating and pain was controlled on oral medications by this time.
+He will be discharged home with his suprapubic tube and foley in place.
+Patient is scheduled to follow up in one week's time in clinic for wound check and staple removal.
+Medications on Admission: hydrochlorothiazide atenolol Diovan Klor-Con baby aspirin   Discharge Medications: 1. bacitracin zinc 500 unit/g Ointment Sig: One (1) Appl Topical TID (3 times a day).
+2. acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours) as needed for pain, fever>100: do not exceed 4g acetaminophen per day .
+3. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+Disp:*60 Capsule(s)* Refills:*2* 4. fluconazole 100 mg Tablet Sig: Four (4) Tablet PO Q24H (every 24 hours) for 13 days.
+Disp:*5 1 gm recon solutions* Refills:*0* 6. hydromorphone 2 mg Tablet Sig: One (1) Tablet PO Q3H (every 3 hours) as needed for pain > [**3-13**].
+Disp:*50 Tablet(s)* Refills:*0* 7. hydrochlorothiazide 12.5 mg Capsule Sig: One (1) Capsule PO DAILY (Daily).
+8. atenolol 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+9. omeprazole 20 mg Capsule, Delayed Release(E.C.)
+10. valsartan 160 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+11. magnesium hydroxide 400 mg/5 mL Suspension Sig: Thirty (30) ML PO Q12H (every 12 hours) as needed for constipation.
+12. simethicone 80 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO QID (4 times a day) as needed for gas/bloating/dyspepsia.
+13. sodium chloride 0.9 % 0.9 % Syringe Sig: One (1) syringe Injection [**Hospital1 **] (2 times a day) for 5 days: Flush 10cc BEFORE drug administration and 10cc AFTER drug administration  .
+Disp:*10 syringe* Refills:*0* 14. heparin, porcine (PF) 10 unit/mL Syringe Sig: One (1) syringe Intravenous DAILY (Daily) for 5 days: flush PICC with 5cc of heparin after drug administration.
+Discharge Instructions: -Please also refer to your instructions from the nursing staff on Foley catheter care/Supra-pubic tube care.
+- a 20-French Malecot catheter is being used as as suprapubic tube.
+The SPT is to gravity drainage and should remain secured to abdomen at ALL times to prevent trauma, accidental removal.
+Routine care and handling instructions Please flush GENLTY and FORWARD ONLY with 30-60cc NS QD and prn Measure UOP every 8 hours and prn.
+-Resume your pre-admission/home medications except as noted.
+ALWAYS call to inform, review and discuss any medication changes and your post-operative course with your primary care doctor.
+-Tylenol should be your first line pain medication, a narcotic pain medication has been prescribed for breakthrough pain >4.
+Replace Tylenol with narcotic pain medication.
+-Max daily Tylenol (acetaminophen) dose is 4 grams from ALL sources, note that narcotic pain medication also contains Tylenol  -If you have been prescribed IBUPROFEN (the ingredient of Advil, Motrin, etc.)
+, you may take this and Tylenol together (alternating) for additional pain control---please try TYLENOL FIRST and take the narcotic pain medication as prescribed if additional pain relief is needed.
+Please discontinue taking and notify your doctor should you develop blood in your stool (dark tarry stools)  -You may shower normally but do NOT immerse your incisions or bathe  -Please do not operate dangerous machinery or consume alcohol while taking narcotic pain medications.
+-Colace has been prescribed to avoid post surgical constipation and constipation related to narcotic pain medication.
+-Your suprapubic tube (SPT)--which is draining into a urine bag via gravity--should be secured at ALL times to inhibit accidental trauma and dislodging.
+-DO NOT have anyone else other than your urology surgeon, Dr. [**Last Name (STitle) **], remove your drains FOR ANY REASON.
+- Wear Large drainage bag for majority of time as the smaller leg bag is only for short-term when leaving house.
+Followup Instructions: -You will follow up in [**6-12**] days for wound check and Foley removal.
+DO NOT have anyone else other than your Surgeon remove your SPT/FOLEY or drain for any reason.

@@ -1,0 +1,59 @@
+Admission Date:  [**2106-11-27**]              Discharge Date:   [**2106-12-7**]  Date of Birth:  [**2029-7-6**]             Sex:   M  Service: MEDICINE  Allergies: Aspirin / Lasix / Monosodium Glutamate / Cucumber (Cucumis Sativus) / lisinopril  Attending:[**First Name3 (LF) 4327**] Chief Complaint: fatigue  Major Surgical or Invasive Procedure: [**2106-11-27**] - Synchronized electrical cardioversion [**2106-11-29**] - AVNRT ablation   History of Present Illness: The patient is a 77 year old male with medical history that includes non-ischemic cardiomyopathy thought to be secondary to velcade/rituxan (now with normalized left ventricular function), paroxysmal atrial fibrillation on coumadin, supraventricular tachycardia,  severe tricuspid regurgitation, ESRD secondary to waldenstroms macroglobulinemia, and metastatic prostate cancer who is transferred from [**Hospital **] Hospital with hypotension and supraventricular tachycardia.
+At dialysis this past week, he was felt to be volume overloaded and underwent extra ultrafiltration with removal of 6.5kg Tuesday, 2.5kg Wednesday, and 1kg Thursday with some improvement in his breathing and lower extremity edema.
+In [**5-/2106**], he underwent successful DCCV for atrial fibrillation.
+Since that time he has been noted during dialysis session to be in SVT, limiting fluid removal.
+He was seen by Dr. [**Last Name (STitle) **] in [**Month (only) **] and was started on amiodarone after declining invasive procedures to further characterize/treat his rhythm.
+He underwent hemodialysis on Saturday with removal of 1kg of fluid.
+Cardiology recommended starting dobutamine for hypotension.
+He was transferred to [**Hospital1 18**] on 5 of dobutamine with 2PIV.
+He was given adesonine 6mg and then 12mg without significant change in rate (130s) or rhythm.
+On review of systems, s/he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.
+Cardiac review of systems is notable for absence of chest pain, dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope.
+Waldenstrom's macroglobulinemia s/p Velcade and Rituxan (last Rx in [**8-/2103**]) 3.
+Hypercholesterolemia 7. s/p RV perforation and surgery with complication from RV biopsy to rule out amyloidosis   Social History: Retired photographer who lives with his wife, [**Name (NI) 1494**] [**Name (NI) 76298**] (she is also is HCP).
+Dilated and hypertrophied RV with pressure and volume overload.
+?s macroglobulinemia, and metastatic prostate cancer who [**Hospital 76343**] transferred from [**Hospital **] Hospital with hemodynamically unstable supraventricular tachycardia with improvement in blood pressure following electrical cardioversion.
+# SUPRAVENTRICULAR, NARROW-COMPLEX TACHYCARDIA - The patient presented with a regular, narrow complex tachycardia with predominantly no P (or P in QRS).
+Adenosine did not terminate (as typically occurs in AVNRT; he received 6 mg IV push followed by 12 mg IV push without resolve) his rhythm or bring out P waves (as typically occurs in atrial tachycardia).
+He was started on Amiodarone 100 mg IV loading followed by a 0.5 mcg/min continuous infusion with improvement in his HR to the 100-120s with improvement in his BP to the 80/60s range.
+We also initially held his anticoagulation (indication being atrial fibrillation) on admission, given that his INR was 5.4 - and he received 3 mg Vitamin K PO x 1 given his supratherapeutic INR and the need for an EP study.
+On [**2106-11-29**] he went to the Electrophysiology lab and underwent an AVNRT ablation with successful ablation of his re-entry pathway; although the passage of the wire was difficult given his wide-open tricuspid regurgitation.
+He was also transitioned to Amiodarone 200 mg PO daily following the procedure, however, he developed thrombocytopenia which was thought to be related to the IV amiodarone load he received, and this was briefly discontinued.
+After the procedure, he remained predominantly in NSR with frequent PACs but had some episodes of AFib.
+Prior to discharge, he had reverted back into Afib and will be restarted on amiodarone in an attempt to maintain NSR.
+The thrombocytopenia was thought to be related to the IV amiodarone as he had previously tolerated IV amio with no observed drop in platelets.
+# HYPOTENSION - The patient presented with hypotension in the setting of a supra-ventricular tachyarrhythmia, improved following electrical cardioversion initially, but then he spontaneously reverted to an atypical tachyarrhythmia with a blood pressure in the 70/50 mmHg range.
+Culture data was obtained on admission, which was unrevealing, and we held off on empiric antibiotics.
+His hypotension did improved with cardioversion and with initiation of anti-arrhythmic medication.
+He notably has blood pressures in the 80/60 mmHg range while at dialysis, per his records; without notable symptoms.
+# DECOMPENSATED HEART FAILURE WITH PRESERVED EJECTION FRACTION - The patient has a history of non-ischemic cardiomyopathy with a previous ejection fraction of 50-55% on most recent echocardiogram (prior LVEF was 20% while on chemotherapy agents).
+We initially held beta-blocker therapy given his hypotension; his home dose being Metoprolol succinate 250 mg PO daily.
+We were only able to remove fluid by ultrafiltration and his volume status slowly improved during admission, he will continue to have fluid removed by ultrafiltration at HD after discharge.
+HIT antibody was negative, and the patient has been receiving heparin at dialysis routinely, making HIT unlikely.
+Hematology was consulted, and he was treated with prednisone 50mg which was quickly tapered down and the patient's platetets improved.
+The etiology of his thrombocytopenia was thought to be antibody-mediated amiodarone toxicity from the IV amiodarone load he received at admission.
+At admission, he had been on PO amiodarone and had maintained his platelet count.
+# ESRD ON HEMODIALYSIS - Thought to be secondary to light chain cast nephropathy from Waldenstrom's macroglobulinemia, on hemodialysis since [**2102**].
+Nephrology was consulted and he continued to receive HD on a TuThSa this admission.
+He was maintained on Nephrocaps 1 tablet PO daily and all medications were renally dosed.
+# PROSTATE CANCER - The patient is followed by Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] for castrate-resistant metastatic prostate cancer that has been refractory to Docetaxel with a rising PSA (most recently 1883 in [**2106-10-19**]) on Zytiga and prednisone at home.
+He has also received radiation to his right hip in the past for metastatic disease.
+We continued his home Oxycodone medication (as needed) for pain control given his bone metastasis.
+Currently on Tuesday, Thursday, Saturday hemodialysis schedule 3.
+Medications on Admission: -amiodarone 200mg daily (started [**10/2106**]) -metoprolol succinate 100 mg daily -nephrocaps 1 capsule po daily -Lanthanum 1000 mg tablet po TID with meals -prednisone 5 mg po daily -coumadin 1 mg po daily -oxycodone 5mg Q4 hours PRN pain -vitamin E 400-800 mg po qd -hydroxyzine 25-50mg po BID prn -prochlorperazine maleate 10 mg po q8 hrs prn nausea -leuprolide 7.5 mg injected q 12 weeks  Discharge Medications: 1. amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY (Daily): Take this medication with food.
+Disp:*30 Tablet(s)* Refills:*0* 2. abiraterone 250 mg Tablet Sig: Four (4) Tablet PO Daily (): Take 1-2 hours before prednisone.
+3. prednisone 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+4. warfarin 1 mg Tablet Sig: One (1) Tablet PO Once Daily at 4 PM.
+5. hydroxyzine HCl 25 mg Tablet Sig: 1-2 Tablets PO BID (2 times a day) as needed for itching.
+6. oxycodone 5 mg Tablet Sig: One (1) Tablet PO every four (4) hours as needed for pain.
+7. vitamin E 400 unit Tablet Sig: One (1) Tablet PO once a day.
+8. prochlorperazine maleate 10 mg Tablet Sig: One (1) Tablet PO every six (6) hours as needed for nausea.
+9. metoprolol tartrate 50 mg Tablet Sig: One (1) Tablet PO three times a day: Hold SBP < 100, HR < 55.
+B complex-vitamin C-folic acid 1 mg Capsule Sig: One (1) Cap PO DAILY (Daily).
+11. metoprolol tartrate 50 mg Tablet Sig: One (1) Tablet PO three times a day: Hold SBP< 100, HR < 55.
+12. leuprolide 7.5 mg Syringe Kit Sig: One (1) injection Intramuscular every 12 weeks.
+AV node re-entrant tachycardia s/p ablation procedure Hypotension Paroxysmal atrial fibrillation .
+We treated you with an antiarrhythmic drug called amiodarone and performed an ablation procedure in an attempt to prevent this event from happening again.
+You tolerated the procedure well.
+You also continued to receive dialysis during your admission to remove extra fluid that was causing swelling in your arms and legs.
+START Amiodarone to slow your heart rate and keep you in a normal rhythm.

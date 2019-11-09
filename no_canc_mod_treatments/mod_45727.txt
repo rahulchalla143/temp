@@ -1,0 +1,3 @@
+Name:  [**Known lastname 8160**], [**Known firstname **]                      Unit No:  [**Numeric Identifier 8161**]  Admission Date:  [**2147-10-25**]     Discharge Date:  [**2147-11-19**]  Date of Birth:   [**2066-9-28**]     Sex:  F  Service:  Correction on discharge summary:  She was discharged on digoxin 0.125 mg on Monday, Wednesday, Friday, and Saturday.
+The discharge medication listed as lortazepine should be corrected mirtazapine 50 mg po q day.
+Patient will also follow up with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 86**] ([**Telephone/Fax (1) 8164**] for followup since she had an AICD placed on this admission.

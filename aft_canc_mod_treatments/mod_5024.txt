@@ -1,0 +1,27 @@
+Admission Date:  [**2113-1-15**]              Discharge Date:   [**2113-1-23**]  Date of Birth:  [**2048-11-18**]             Sex:   F  Service: CARDIOTHORACIC  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**Last Name (NamePattern1) 1561**] Chief Complaint: shortness of breath  Major Surgical or Invasive Procedure: Thoracoscopy, pleural biopsy, placement 24F chest tube, placement pleurx catheter   History of Present Illness: 64 yo W w/50 pkyr smoking hx has had several months of increasing SOB and cough was seen at OSH and found to have new L pleural effusion w/ complete lung collapse.
+Thoracentesis performed on day of admission revealed 2L of dark brown fluid with pH7 and glucose 1.
+IP was consulted and they performed thoracoscopy with pleural biopsy, drainage of 2L additional fluid and placement of 24F chest tube and pleurx.
+Past Medical History: s/p partial thyroidectomy, s/p cesarean-section, ?
+Family History: Mother with [**Name2 (NI) 64650**], Father died of CAD, grandfather and uncle both died of Lung Cancer  Physical Exam: Day of transfer:  Tm97.9 Tc96.6 Afib 143 (100-150)  115/60 NAD, confused, appears comfortable MMM, neck supple, L subclav c/d/i Diffuse wheezing, insp and exp crackles Tachy, irreg irreg Soft, nt, nd, nabs Warm X 4 w/pulses X 4 Confused   Pertinent Results: [**2113-1-22**] 04:14AM BLOOD WBC-13.6* RBC-3.61* Hgb-9.5* Hct-27.7* MCV-77* MCH-26.2* MCHC-34.2 RDW-15.4 Plt Ct-414 [**2113-1-21**] 03:43AM BLOOD Neuts-90.9* Lymphs-5.9* Monos-3.0 Eos-0 Baso-0.2 [**2113-1-22**] 04:14AM BLOOD Plt Ct-414 [**2113-1-22**] 04:14AM BLOOD Glucose-155* UreaN-37* Creat-0.6 Na-140 K-3.6 Cl-97 HCO3-35* AnGap-12 [**2113-1-20**] 04:02AM BLOOD ALT-15 AST-26 LD(LDH)-334* AlkPhos-136* TotBili-1.0 [**2113-1-19**] 04:17AM BLOOD GGT-44* [**2113-1-22**] 04:14AM BLOOD Calcium-9.1 Phos-3.3 Mg-1.9 [**2113-1-20**] 03:39AM BLOOD Type-ART pO2-61* pCO2-54* pH-7.36 calHCO3-32* Base XS-2 .
+For example, two adjacent right paratracheal nodes measure 16 x 12 and 15 x 13 mm in axial dimensions, respectively.
+More superiorly, a right upper paratracheal lymph node measures 15 x 13 mm, and a subcarinal node measures 28 x 17 mm.
+The heart, great vessels, and pericardium are unremarkable.
+Diffuse patchy ground glass opacities and septal thickening in the right lung, progressive over two days, which may represent pulmonary edema, given its rapid onset.
+Given the temporal relation to chest tube placement, it was hoped that the patient was experiencing re-expansion pulmonary edema that could be improved with lasix diuresis.
+Given diffuse disease evident in the lung, infiltrate could not be radiographically ruled out, so the patient was maintained on vancomycin, azithromycin and zosyn for broad coverage given her severe ilness.
+On the patient's second day in the MICU, cytology returned on his efussion for NSCLC, thus stage IIIB "wet" / stage IV.
+This was poorly rate controlled with IV boluses of metoprol, followed by diltiazem, so the patient was started on a diltiazem drip.
+Ca and atropine were maintained at the bedside given use of multiple nodal blocking agents, but the patient never converted to sinus.
+The larger MICU plan of care had been to reverse any treatable causes of shortness of breath, notably infiltrates via antiobiotics, pulmonary edema with diuretics, and COPD exacerbation with steroids, atrovent and albuterol.
+Both rate control and rhythm control strategies for afib had failed.
+The patient's children and medical team decided that cardioversion would not be indicated given lack of improvement to either quality of quantity of life.
+Chest tube was removed.
+Of note, her pleurx catheter was left in place as it was not causing discomfort and was a tunnelled line.
+A morphine drip was initiated in addition to the fentanyl patch that had already been started a day before.
+Fentanyl patch was not converted back to morphine given wide range of pharmacoconversion and success of current comfort regimen.
+Fentanyl 25 mcg/hr Patch 72HR Sig: One (1) Patch 72HR Transdermal Q72H (every 72 hours).
+Morphine in D5W 1 mg/mL Parenteral Solution Sig: One (1) Intravenous  TITRATE TO (titrate to desired clinical effect (please specify)): At 5mg/hr at time of transfer.
+Cepacol 2 mg Lozenge Sig: One (1) Lozenge Mucous membrane PRN (as needed).
+Haloperidol Lactate 5 mg/mL Solution Sig: One (1) 2.5mg IV Injection [**Hospital1 **] (2 times a day) as needed: For agitation/confusion.
+Lorazepam 2 mg/mL Syringe Sig: One (1) .5-5mg Injection Q2H (every 2 hours) as needed.
+Discharge Disposition: Extended Care  Facility: [**Hospital3 **] [**Hospital1 1501**]/[**Hospital 6136**] Hospital Group - [**Location (un) **]  Discharge Diagnosis: Stage IV Non small cell lung cancer   Discharge Condition: Hemodynamically stable, but dying   Discharge Instructions: Comfort measures as detailed in discharge summary and per accepting physician [**Name Initial (PRE) 64651**].

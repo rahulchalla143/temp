@@ -1,0 +1,8 @@
+Patient was found by EMS on the ground, with GCS 4.
+Patient transferred to [**Hospital1 18**] for further evaluation.
+Pertinent Results: [**2164-1-28**] 01:11PM   GLUCOSE-114* UREA N-7 CREAT-0.6 SODIUM-135 POTASSIUM-4.4 CHLORIDE-108 TOTAL CO2-20* ANION GAP-11 [**2164-1-28**] 01:11PM   CALCIUM-8.0* PHOSPHATE-3.3 MAGNESIUM-2.1 [**2164-1-28**] 01:11PM   WBC-12.1* RBC-3.90* HGB-11.3* HCT-33.0* MCV-84.2 MCH-29.0 MCHC-34.6 RDW-13.0 [**2164-1-28**] 01:11PM   PLT COUNT-181 [**2164-1-28**] 01:00AM   LIPASE-21 [**2164-1-28**] 01:00AM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG bnzodzpn-POS barbitrt-NEG tricyclic-NEG [**2164-1-28**] 01:00AM URINE  bnzodzpn-POS barbitrt-NEG opiates-NEG cocaine-NEG amphetmn-NEG mthdone-NEG [**2164-1-28**] 01:00AM   PT-13.8* PTT-26.3 INR(PT)-1.2* [**2164-1-28**] 01:00AM   FIBRINOGE-393  [**2164-1-28**] CT Torso : 1.
+[**2163-1-28**] Head CT :  #1 Acute left subdural hematoma along the left parietal and occipital lobes with associated mild left cerebral edema, but no significant midline shift.
+[**2164-1-28**] Head CT :   #2 Stable appearance of small left posterior temporal- parietal subdural hemorrhage   Brief Hospital Course: Ms. [**Known lastname 88335**] was evaluated by the Trauma team in the Emergency Room and admitted to the Trauma ICU for further management.
+She will follow up in 4 weeks with a repeat head CT scan.
+* You will need to follow up with the Neurosurgeon in 4 weeks with a repeat Head CT. * Continue your anti seizure medication thru [**2164-2-4**].
+Followup Instructions: It is being recommended that you follow up with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], Cognitive Neurology in the next 2 weeks for ongoing evaluation given your brain injury.

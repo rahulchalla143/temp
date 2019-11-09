@@ -1,0 +1,45 @@
+Admission Date:  [**2150-6-6**]              Discharge Date:   [**2150-6-11**]  Date of Birth:  [**2078-1-7**]             Sex:   M  Service: MEDICINE  Allergies: Zosyn  Attending:[**First Name3 (LF) 2181**] Chief Complaint: Dyspnea and UTI  Major Surgical or Invasive Procedure: PICC line placement and removal Left IJ line attempt   History of Present Illness: Mr. [**Known lastname 32400**] is a 72 yo man with COPD, obstructive sleep apnea, hypertension, paroxysmal atrial fibrillation, diastolic congestive heart failure, GERD, transitional cell carcinoma, and depression who presents with one day of worsening SOB for one day.
+In addition he received 125mg of solumedrol for his COPD exacerbation.
+He was originally on BIPAP and was weaned to a NRB.
+On transfer his vitals were HR:64 BP:119/50 RR:21 SpO2:93% on NRB .
+Denies chest pain, chest pressure, palpitations, or weakness.
+Past Medical History: - COPD, on 2.5L home 02, PFTs [**2140**] with FEV1/FVC 69%, no significant response to bronchodilators - OSA, has not tolerated CPAP in past secondary to discomfort - HTN - AAA, 4 cm descending aorto on [**2146**] CT - HLD - Transitional cell carcinoma of left kidney, dx [**2-28**] - Peripheral neuropathy thought secondary to alcoholism - Arthritis, cervical spine - Gastro esophageal reflux - Gait imbalance - Constipation - Benign prostatic hypertrophy - Vitamin d deficiency - Chronic neck and back pain, [**2141**] L-spine MRI with degerative disease, L3/L4 disc herniation with involvement of spinal nerves, mild to moderate neural foraminal narrowing multilevel,  mild central canal stenosis L3/L4 and L4/L5 - Mandibular osteomyelitis in past - Anemia   Social History: HCP [**Name (NI) 56581**] [**Name (NI) 5700**].
+SENSITIVITIES PERFORMED ON CULTURE # [**Numeric Identifier 85696**] FROM [**2150-6-6**].
+He was covered with linezolid, ciprofloxacin and cefepime for Pseudomonas, MRSA and VRE coverage.
+On HD#2 his urine culture grew klebsiela suseptible to ciprofloxacin and his cefepime was discontinued.
+Sputum cultures grew staph aureus, however no infiltrate was seen on CXR so linezolid was discontinued.
+He was also started on terazosin for his BPH.
+Pt was tx with ipratropium and levalbuterol nebs.
+Oxygen requirements improved from NRB in ICU to 4 to 2 liters NC at discharge (baseline).
+His echo from [**3-30**] did not show heart failure, and he did not appear fluid overloaded once on the floor, therefore, his home lasix and metolazone were stopped.
+# Transitional cell carcinoma: Follow-up with urology as an outpatient.
+# Hypertension: Continued on home dilt, metoprolol, and lisinopril.
+Terazosin was started as stated above.
+# Obstructive sleep apnea: Pt was maintained on his CPAP at night once he was weaned from his NRB on admission.
+OUTSTANDING ISSUES- - monitor daily wt, may need to restart metalazone 2.5mg and lasix 60mg - continue cipro until [**2150-6-19**]  Medications on Admission: aripiprazole 5mg QHS ASA 325 daily Calcium carbonate 650 [**Hospital1 **] Cholecalciferol 1000IU daily cyanocobalamin 1000mcg daily diltiazem 240 daily fluoxetine 80mg daily fluticasone nasal spary- 1 spray each nostril daily Fluticasone proprionate 2 puggs [**Hospital1 **] Folic acid 1 mg daily furosemide 60mg daily guaifenesin 600mg [**Hospital1 **] Levalbuterol 0.63mg four times daily neb lidocaine patch 2 daily lisinopril 30mg daily metolazone 2.5 mf daily metoprolol succinate 50mg daily mirtazapine 30mg QHS MVI daily Omeprazole 40mg daily oxycontin 20mg Q 12 hrs KCL 20MEQ [**Hospital1 **] simvastatin 10mg QHS Tiotropium 1 puff daily PRN: Acetaminophen 650 Q 4 PO PRN Bisacodyl 10mg Daily PR PRN Levalbuterol 0.63 four times daily neb PRN magnesium hydroxide 30mg daily PRN oxycodone IR 5mg Q 4 PO PRN oxycodone IR 10mg Q 4 PO PRN senna 17.2 PO daily PRN   Discharge Medications: 1.
+Aripiprazole 10 mg Tablet Sig: 0.5 Tablet PO QHS (once a day (at bedtime)).
+Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Calcium Carbonate 500 mg Tablet, Chewable Sig: 1.3 Tablet, Chewables PO BID (2 times a day): do not take at same time as cipro.
+Cyanocobalamin 500 mcg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Fluoxetine 40 mg Capsule Sig: Two (2) Capsule PO once a day.
+Fluticasone 50 mcg/Actuation Spray, Suspension Sig: One (1) Spray Nasal DAILY (Daily).
+Fluticasone 110 mcg/Actuation Aerosol Sig: Two (2) Puff Inhalation [**Hospital1 **] (2 times a day).
+Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+Guaifenesin 100 mg/5 mL Syrup Sig: 5-10 MLs PO Q6H (every 6 hours) as needed for cough.
+Mirtazapine 30 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Omeprazole 40 mg Capsule, Delayed Release(E.C.)
+Simvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal DAILY (Daily) as needed for constipation.
+Oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q4H (every 4 hours) as needed for pain: hold for sedation, RR<12.
+Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO twice a day for 9 days: last day is [**2150-6-19**].
+Lisinopril 10 mg Tablet Sig: Three (3) Tablet PO DAILY (Daily).
+DILT-XR 240 mg Capsule,Degradable Cnt Release Sig: One (1) Capsule,Degradable Cnt Release PO once a day.
+Terazosin 1 mg Capsule Sig: One (1) Capsule PO HS (at bedtime).
+Metoprolol Succinate 50 mg Tablet Sustained Release 24 hr Sig: One (1) Tablet Sustained Release 24 hr PO once a day.
+Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation Q6H (every 6 hours) as needed for SOB.
+Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig: Two (2) Adhesive Patch, Medicated Topical DAILY (Daily) as needed for pain.
+Tiotropium Bromide 18 mcg Capsule, w/Inhalation Device Sig: One (1)  Inhalation once a day.
+Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO every six (6) hours as needed for pain.
+The following changes were made to your medications: STARTED Cipro (antibiotic), last day will be [**2150-6-19**] STARTED Ipratropium nebulizer treatements as needed STARTED Terazosin 1mg at night to improve urination STARTED Colace for constipation STOP Oxycontin STOP magnesium while on CIPRO STOP potassium STOP lasix STOP metolazone   Followup Instructions: Please make an appointment with your PCP once you leave rehab.

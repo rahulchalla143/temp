@@ -1,0 +1,33 @@
+Admission Date:  [**2135-1-21**]              Discharge Date:   [**2135-1-31**]  Date of Birth:  [**2085-2-3**]             Sex:   F  Service: NEUROLOGY  Allergies: Hurricaine  Attending:[**Last Name (NamePattern1) 1838**] Chief Complaint: Called by Emergency Department as a Code Stroke for Left-sided weakness and aphasia  Major Surgical or Invasive Procedure: IV-tPA MERCI clot retrieval  History of Present Illness: NIH Stroke Scale score was 0: 17 1a.
+Sensory: 1 9.
+Language: 0 10.
+Dysarthria: 0 11.
+She was initially taken to OSH, where she had a CT head that was negative for hemorrhage; it was there determined that she was "out of the tPA window" and she was transferred to [**Hospital1 18**] for further care.
+Biceps reflex 2+ on right, remaining reflexes 1+.
+Coordination: finger-nose intact on right   Pertinent Results: [**2135-1-21**] 06:20PM   TYPE-ART PO2-104 PCO2-33* PH-7.45 TOTAL CO2-24 BASE XS-0 [**2135-1-21**] 05:02PM   TYPE-ART TEMP-37.1 RATES-/25 TIDAL VOL-500 PEEP-5 O2-40 PO2-148* PCO2-30* PH-7.47* TOTAL CO2-22 BASE XS-0 INTUBATED-INTUBATED VENT-SPONTANEOU [**2135-1-21**] 05:02PM   GLUCOSE-82 K+-3.7 [**2135-1-21**] 05:02PM   freeCa-1.08* [**2135-1-21**] 10:44AM   TYPE-ART TEMP-35.0 RATES-15/ TIDAL VOL-500 PEEP-5 PO2-139* PCO2-35 PH-7.42 TOTAL CO2-23 BASE XS-0 [**2135-1-21**] 10:44AM   GLUCOSE-124* [**2135-1-21**] 10:44AM   freeCa-1.07* [**2135-1-21**] 08:39AM   TYPE-ART PO2-187* PCO2-34* PH-7.44 TOTAL CO2-24 BASE XS-0 INTUBATED-INTUBATED VENT-CONTROLLED [**2135-1-21**] 08:39AM   HGB-9.5* calcHCT-29 [**2135-1-21**] 07:38AM   TYPE-ART PO2-169* PCO2-36 PH-7.44 TOTAL CO2-25 BASE XS-1 INTUBATED-INTUBATED VENT-CONTROLLED [**2135-1-21**] 07:38AM   GLUCOSE-146* LACTATE-1.5 NA+-135 K+-3.0* CL--101 [**2135-1-21**] 07:38AM   HGB-10.2* calcHCT-31 [**2135-1-21**] 07:38AM   freeCa-1.10* [**2135-1-21**] 04:35AM   GLUCOSE-119* UREA N-24* CREAT-1.4* SODIUM-138 POTASSIUM-3.7 CHLORIDE-99 TOTAL CO2-26 ANION GAP-17 [**2135-1-21**] 04:35AM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG bnzodzpn-NEG barbitrt-NEG tricyclic-NEG [**2135-1-21**] 04:35AM URINE  HOURS-RANDOM [**2135-1-21**] 04:35AM   WBC-11.3* RBC-4.08* HGB-11.7* HCT-36.2 MCV-89 MCH-28.6 MCHC-32.3 RDW-17.7* [**2135-1-21**] 04:35AM   PLT COUNT-523* [**2135-1-21**] 04:35AM   PT-12.2 PTT-21.3* INR(PT)-1.0 [**2135-1-21**] 04:35AM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.017 [**2135-1-21**] 04:35AM URINE  BLOOD-TR NITRITE-NEG PROTEIN-25 GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 LEUK-NEG [**2135-1-21**] 04:35AM URINE  RBC-0 WBC-0 BACTERIA-NONE YEAST-NONE EPI-0-2  CTA head/neck [**1-21**]: Occlusion of the right middle cerebral artery near its origin.
+CT head [**1-21**]:Hyperdense regions within the head of the right caudate nucleus and right lentiform nucleus.
+A followup MR study may be of help in differentiating between these two entities.
+rpt CT head [**1-22**]: 1.
+rpt CT head [**1-23**]:  1.
+[**1-26**]: attempted MRI Incomplete examination due to lack of patient cooperation.
+On her exam, her NIHSS is 17 and she has a dense left sided hemiparesis as well as right gaze deviation, left hemianopia and neglect.
+Her imaging shows an occlusion of R MCA near its origin.
+Her history, exam and imaging are consistent with acute embolic stroke in R MCA.
+The plan at this time is to proceed with tPA infusion and if clinical exam remains unchanged in 30 minutes, then plan is to proceed with angio for IA tPA vs. Merci.
+Her CT scans showed hemorrhagic conversion in the Right striatum and white matter.
+An MRI was attempted, but she was unable to tolerate this.
+CVR: Blood pressure was controlled metoprolol 25mg TID and as needed hydralazine.
+She had an transthoracic echocardiogram which showed no ASD or LV thrombus.
+A bubble study was not done.
+A transesophageal echocardiogram was attempted, however Ms. [**Known lastname 104742**] developed methemoglobinemia (level 29) after receiving benzocaine spray.
+A transthoracic echo with bubble was later done which showed No atrial septal defect or patent foramen ovale is seen by 2D, color Doppler or saline contrast with maneuvers.
+She had lower extremity doppler studies which were negative for DVT.
+Her HCT was stable during her hospitalization.
+Her electrolytes were monitored carefully, and repleted as necessary.
+She had an XR which showed no evidence of cortical disruptions suggestive of fracture or AC separation.
+Pain was treated with tylenol and oxycodone.
+Medications on Admission: -amlodipine 5mg daily -omeprazole 20mg daily -atenolol 50mg daily -levothyroxine 50mcg daily -vit B-12 1000mcg daily -vit B1 100mg [**Hospital1 **] -folic acid 1mg daily   Discharge Medications: 1. enoxaparin 40 mg/0.4 mL Syringe Sig: Forty (40) MG Subcutaneous DAILY (Daily).
+Discharge Disposition: Extended Care  Facility: [**Hospital6 85**] - [**Location (un) 86**]  Discharge Diagnosis: Primary diagnosis: -Stroke (Right PCA+MCA-territory infarction)  Secondary diagnoses: - EtOHism / withdrawal - chronic LBP - chronic mild anemia, possible MDS - methemoglobinemia secondary to benzocaine spray.
+You had multiple tests including head CT scans, attempted brain MRI, echocardiograms, and ultrasounds of your legs to determine the cause of your stroke.
+Additionally, multiple laboratory tests were sent which are still pending.
+Followup Instructions: Provider: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 640**] [**Last Name (NamePattern4) 3445**], MD Phone:[**Telephone/Fax (1) 2574**] Date/Time:[**2135-3-14**] 1:30  The following tests are pending at the time of discharge: antithrombin 3, factor v leiden, prothrombin gene mutation.

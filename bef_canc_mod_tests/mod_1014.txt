@@ -1,0 +1,57 @@
+Admission Date:  [**2139-2-18**]              Discharge Date:   [**2139-4-8**]  Date of Birth:  [**2081-12-5**]             Sex:   M  Service: MEDICINE  Allergies: Sulfa (Sulfonamide Antibiotics)  Attending:[**First Name3 (LF) 943**] Chief Complaint: Admission from clinic for CAP  Major Surgical or Invasive Procedure: EGD flexible sigmoidoscopy colonoscopy bronchoscopy  History of Present Illness: This is a 57 yo male with h/o [**First Name3 (LF) **] for hepatitis C and HCC 4 yrs ago, h/o RFA in [**2134**], cryoglobulinemia, ITP s/p splenectomy, HTN, and DVT who presented to liver clinic today with fever and cough.
+A CXR was done and he was found to have a multifocal pneumonia.
+He started developing chills yesterday and had a temp of 100.9 which he took 2 tylenol for.
+Past Medical History: Hepatitis C (VL 55,000,000 in [**6-6**]) Cirrhosis s/p liver [**Date Range **] Hemothorax with complicated pleural effusion HCC with RFA in [**4-5**] for lesions in segment V and VIII HTN (since [**Date Range **] [**2134**]) h/o DVT ([**2129**]) cryoglobulinemia kidney stones ([**2129**]) lumbar spine laminectomy Left partial orchiectomy ITP s/p splenectomy recurrent HCV   Social History: Lives at home with his wife.
+Half sister with diabetes mellitus   Physical Exam: His VSS T 101.3, BP 136/72, HR 92 RR 20 90% on RA General: Alert, answering questions appropriately, intermittent coughing HEENT: Sclera anicteric, MMM, oropharynx clear Neck: supple, no LAD Lungs: + mild rhonci and decreased air movement on right compared to left, no wheezes.
+Exam at discharge: VS: T 98.4, BP 120/60, P 97, R 20, O2 92% on RA (84% with ambulation) Gen: Well appearing man in NAD HEENT: Erythematous oropharynx, moist mucous membranes Cardiac: [**4-5**] holosystolic murmur Resp: Diffuse rhonchi and expiratory wheezes bilaterally Abd: Distended, non-tender, soft Ext: 1+ edema in LLE   Pertinent Results: ADMISSION LABS: WBC-69.2, Hgb-11.6* Hct-36.8* Plt Ct-40* PT-15.0* INR(PT)-1.3* UreaN-36* Creat-1.5* Na-137 K-4.1 Cl-96 HCO3-22 AnGap-23* ALT-32 AST-43* AlkPhos-90 TotBili-1.2 Albumin-4.5 Calcium-9.2 .
+WBC: 69.2 -> 31.9 ([**3-17**]) -> 58.4 ([**4-6**]) Platelets: Ranged from 24K to 40K Troponin: 0.01 -> 0.08 ([**2139-3-21**]) BNP: [**Numeric Identifier 63160**] ([**2-24**]) -> 9625 ([**3-27**]) Total protein: 5.4 TIBC: 204, B12 872, Folate 5.9, Ferritin 541, Hapto 138, TRF 157 HbA1c: 5.6% Total cholesterol: 80, LDL 48, HDL 13 TSH 5.0 ANCA: Negative AFP : < 1 BCR/ABL: Negative .
+MICROBIOLOGY: Beta glucan: Negative Galactomannan: Negative Strongyloides Ag: Negative Sputum [**2-18**]:   >25 PMNs and <10 epithelial cells/100X field.
+RESPIRATORY CULTURE (Final [**2139-2-20**]):       MODERATE GROWTH Commensal Respiratory Flora.
+Sputum Culture ([**3-11**]):       [**11-24**] PMNs and <10 epithelial cells/100X field.
+RESPIRATORY CULTURE (Final [**2139-3-13**]):       MODERATE GROWTH Commensal Respiratory Flora.
+CXR ([**2139-2-18**]):  Heterogeneous opacification in the lower lungs, particularly in the middle lobe, is new since [**Month (only) 359**].
+CT chest with contrast ([**2139-2-19**]):  1.
+Extensive multifocal parenchymal consolidations, ground-glass and tree-in-[**Male First Name (un) 239**] opacities predominantly in a peribronchial distribution, most severe within the right lower lobe.
+Mild left hydronephrosis, new compared to prior study of [**2138-11-19**].
+MRI L-spine with gad ([**2139-2-19**]):  1.
+CTA chest ([**2139-3-10**]):  1.
+TTE ([**3-20**]): The left atrium is mildly dilated.
+Left ventricular wall thicknesses are normal.
+Overall left ventricular systolic function is low normal (LVEF 50%) secondary to severe hypokinesis/akinesis of the basal inferior, posterior, and lateral walls.
+Compared with the findings of the prior study (images reviewed) of [**2139-2-24**], intercurrent inferoposterolateral infarct is evident with consequent severe mitral regurgitation.
+Cardiac Catheterization ([**3-20**]):  1.
+Limited resting hemodynamics revealed normal systemic arterial pressure with central aortic pressure 119/66 with a mean of 75 mmHg.
+TTE ([**2139-3-21**]): The left atrium and right atrium are normal in cavity size.
+Overall left ventricular systolic function is normal (LVEF>55%).
+Compared with the prior study (images reviewed) of [**2139-3-20**], the findings are similar.
+CT Chest ([**2139-3-22**]):  CT chest ([**2139-3-22**]):  1.
+Retention of IV contrast in the renal cortices, likely from cardiac catheterization two days prior, compatible with renal dysfunction.
+CT Chest ([**4-7**]): 1.
+EGD ([**3-27**]):  Varices at the lower third of the esophagus.
+Colonoscopy ([**4-1**]): 1.
+His hospital course was complicated by Klebsiella pneumonia, worsening mitral regurgitation s/p cardiac catheterization with BMS x2 to the LCx, lower GI bleed and recurrent epistaxis, now clinically stable.
+His sputum eventually grew out H. flu, so he completed a course of Ceftriaxone/Azithromycin.
+He had a repeat Chest CT on [**3-22**], which demonstrated improvement of the multifocal pneumonia and he had a bronchoscopy on [**2139-3-27**], from which the cultures were negative.
+His CXR prior to discharge remained consistent with multifocal pneumonia.
+He should have a repeat CT Chest performed in [**2-1**] weeks to assess for radiographic improvement.
+He had an EGD, which demonstrated grade I varcies and AVM and flexible sigmoidoscopy showed fresh blood in colon without source of bleeding.
+He had a TTE performed, which demonstrated worsening mitral regurgitation, and there was concern for inferolateral hypokinesis, thought to be secondary to ischemia.
+A repeat echo was done on [**2139-3-21**] which showed improvement in his MR and wall hypokinesis, somewhat unclear if this was related to the intervention in the cath lab or to improvement in cardiac function with diuresis.
+He should have a repeat TTE performed in [**3-5**] weeks.
+His peripheral smear was notable for eosinophils and hematology was concerned that he could have chronic eosinophilic pneumonia.
+Of note, his baseline WBC is in the 30s and his baseline platelet count is in the 40s.
+# HCC s/p OLT:  The patient was continued on Tacrolimus and his levels were checked daily with a goal of [**5-6**].
+Hydronephrosis on CT chest:  His creatinine was 1.6 on arrival and improved to 1.2.
+The wet read of his renal ultrasound showed no hydronephrosis or stone.
+His Hep C viral load was high during this admission and his CT scan in [**Month (only) 359**] showed no evidence of local recurrence or metastatic disease.
+His CT of the chest did reveal multiple perigarstric varices.
+b.i.d., level 3.8 Calcium 500 mg. 2x daily Vitamin D 400 units 2x daily Tylenol yesterday  Discharge Medications: 1. omeprazole 20 mg Capsule, Delayed Release(E.C.)
+Disp:*1 inhaler* Refills:*2* 7. guaifenesin 100 mg/5 mL Syrup Sig: 5-10 MLs PO Q6H (every 6 hours) for 1 months.
+Disp:*90 Capsule(s)* Refills:*2* 9. lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig: One (1) Adhesive Patch, Medicated Topical DAILY (Daily) as needed for to area of back pain.
+During the course of this treatment, you had worsening shortness of breath, and a cardiac ultrasound demonstrated that your mitral valve was no longer functioning as well as it once had.
+You had a cardiac catheterization performed, during which two metal stents were placed into one of the blood vessels around your heart.
+You received 5 units of blood during this hospital stay, and your hematocrit has remained stable for the past week.
+Your nose was packed and you were given antibiotics and a nasal spray.
+We STOPPED your HCTZ 2.
+Department: [**Month/Day/Year **] When: WEDNESDAY [**2139-4-15**] at 2:20 PM With: [**Year (4 digits) **] [**Hospital 1389**] CLINIC [**Telephone/Fax (1) 673**] Building: LM [**Hospital Unit Name **] [**Location (un) **] Campus: WEST     Best Parking: [**Hospital Ward Name **] Garage  Name: [**First Name8 (NamePattern2) 674**] [**Last Name (NamePattern1) **], MD Specialty: Internal Medicine When: Monday [**4-13**] at 9:30am Location: [**Hospital 63163**] MEDICAL Address: [**Street Address(2) 63164**], [**Hospital1 **],[**Numeric Identifier 63165**] Phone: [**Telephone/Fax (1) 63166**]  Name: [**First Name11 (Name Pattern1) 275**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], MD Specialty: Pulmonary When: Thursday [**4-23**] at 2:30pm Address: 1407 [**Location (un) **] TRAIL BLDG 4 STE A, [**Location (un) 63167**],[**Numeric Identifier 63168**] Phone: [**Telephone/Fax (1) 63169**]  Name: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 63170**], MD Specialty: Cardiology When: Wednesday [**5-6**] at 9:20am Address: 1377 [**Location (un) **] Trail, [**Location (un) **], [**Numeric Identifier 63171**] Phone: [**Telephone/Fax (1) 63172**] Fax: [**Telephone/Fax (1) 63173**] This appointment is in Dr. [**Last Name (STitle) **] office in [**Location (un) **].
+You also must get a copy of your cardiac catheterization done here at [**Hospital1 18**] on a disc and bring that disc to Dr. [**First Name (STitle) **] at this appointment.

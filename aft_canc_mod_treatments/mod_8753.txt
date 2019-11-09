@@ -1,0 +1,65 @@
+Admission Date:  [**2132-12-15**]              Discharge Date:   [**2132-12-23**]  Date of Birth:  [**2049-11-29**]             Sex:   M  Service: MEDICINE  Allergies: Vicodin / Percocet / Darvocet A500 / Oxycodone / Vancomycin / Adhesive Tape  Attending:[**First Name3 (LF) 1257**] Chief Complaint: Upper GI bleed  Major Surgical or Invasive Procedure: EGD X2 PICC and arterial line placement Hemodialysis   History of Present Illness: This is an 83 year old male with a history of CAD (S/P CABG), ESRD on HD, AAA, who was transferred from [**Hospital3 **] hospital for GI bleed.
+He received 1 unit of PRBCs and was transferred to [**Hospital1 18**].
+He believes that his GI bleeds have been in the setting of prednisone which he intermittently takes for Bullous pemphigoid.
+Patient was given IV fluids, IV pantoprazole, Zofran.
+He got Calcium gluconate for a K of 5.9.
+Past Medical History: 1)CAD -s/p 3-vessel CABG in [**2122**] (LIMA-LAD, SVG-RCA-occluded, SVG-OM1/OM3 occluded) -s/p NSTEMI in [**2-2**] (DES in L main) 2)ESRD -LUE AVF, HD MWF -Per patient, has congenital left kidney hypoplasia 3)AAA -s/p repair ([**2123**]) 4)PVD -s/p aortobililiac graft in [**2123**] -s/p left CEA in [**2123**] ([**2132-5-22**] US showed right ICA 70-79% stenosis, left ICA 1-39% stenosis) 5)Ischemic colitis -Admitted [**2132-3-9**] for bloody diarrhea, uneventful hospital course 6)Spinal stenosis -s/p discectomy and arthrodesis at C5-C6 and C6-C7 [**2130-12-4**] -Baseline impairment in walking (uses motoroized wheelchair or walker) 7)Right renal tumor, suspicious for RCC, undergoing watchful waiting, followed by Dr. [**Last Name (STitle) 3748**] 8)Prostate cancer -s/p brachytherapy in [**2122**] 9)Abdominal wall abscess in [**5-5**], s/p I&D, cultures grew Actinomyces 10)Cholangitis -s/p CCK in [**2130-3-21**] 11)Bullous pemphigoid (diagnosed in [**7-/2132**]) -Dermatologist is Dr. [**First Name8 (NamePattern2) 402**] [**Last Name (NamePattern1) **] 12)s/p Cataract surgery on left eye   Social History: Lives alone at [**Location (un) 33866**] [**Hospital3 400**] Residency.
+[**Month (only) **] Surgery was consulted and recommended CT abdomen with contrast which ruled out Aortoenteric Fistula (in setting of patient's AAA s/p repair).
+Patient was continued with active type and screen and telemetry until two days prior to discharge; no events were noted on telemetry.
+He was initially on a proton pump inhibitor gtt and transitioned to home Pantoprazole with good effect; he was also on stress dose steroids initially but transitioned to home Prednisone for management of his Bullous Pemphigoid.
+- Continue Pantoprazole 40mg twice daily for one month * Please have patient discuss need for long term Pantoprazole twice daily with his gastroenterologist at his appoinment - Follow-up in [**Hospital **] clinic with Dr. [**First Name (STitle) **] [**Name (STitle) **] on [**2-5**] at 1:30pm .
+He was discharged with baseline mental status.
+Leukocytosis: White blood cells intiially 27.3, likely secondary to demargination and stress dose intravenous steroids.
+Patient underwent hemodialysis and ultrafiltration with good effect on his significant anasarca.
+Patient did become hypotensive on hemodialysis so he was started on Midodrine 5mg to be given before hemodialysis on hemodialysis days.
+Medications were renally dosed while in-house, with avoidance of nephrotoxins as well.
+- Continue Midodrine 5mg PRIOR to hemodialysis on hemodialysis days, until Renal physicians at Hemodialysis decide otherwise - Continue to hold morning Metoprolol 25mg dose on hemodialysis days until after hemodialysis - Increased Sevelamer from 800mg three times daily to 1600mg three times daily .
+Patient was continued on Simvastatin inhouse but aspirin 325mg and beta blocker (Metoprolol 25mg twice daily) were held in-house in the setting of his GI bleed - DECREASE Aspirin to 81mg daily for now, given his GI bleed - Continue home Metoprolol 25mg twice daily and Simvastatin daily .
+# Back and hip pain: Managed with Tylenol in-house - Resume tramadol, oxazepam as outpatient, as blood pressure tolerates .
+Patient on prednisone taper (10mg daily for one month, starting [**12-19**] --> 5mg daily afterwards).
+Acetaminophen 325 mg po q6h PRN pain 2.
+Oxazepam 10 mg po qhs PRN insomnia 3.
+Calcium Carbonate 500 mg po tid 4.
+Citalopram 20 mg po daily 5.
+Docusate Sodium 100 mg po bid 6.
+Calcium Acetate 667 mg po tid 7.
+Simethicone 80 mg po qid PRN gas pain 8.
+Ezetimibe 10 mg po daily 9.
+Minocycline 100 mg po bid 10.
+Simvastatin 80 mg po daily 11.
+B Complex-Vitamin C-Folic Acid 1 mg po daily 12.
+Senna 8.6 mg po bid PRN constipation 13.
+Sevelamer HCl 800 mg po tid 14.
+Metoprolol Tartrate 12.5 mg po qid 15.
+Tramadol 50 mg po q6h PRN pain 16.
+Clobetasol 0.05 % Cream Topical [**Hospital1 **] 17.
+Pantoprazole 40 mg po bid 18.
+Aspirin 325 mg po daily 19.
+Prednisone 10mg daily x1 month until [**2133-1-2**].
+Simvastatin 40 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for pain, fever.
+Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO TID (3 times a day).
+Citalopram 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+PO Q12H (every 12 hours) for 30 days: Please discuss with GI at your appointment the need to continue this medication dose.
+Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO twice a day as needed for constipation.
+Docusate Sodium 100 mg Tablet Sig: One (1) Tablet PO twice a day.
+Calcium Acetate 667 mg Tablet Sig: One (1) Tablet PO three times a day.
+B Complex-Vitamin C-Folic Acid 1 mg Capsule Sig: One (1) Cap PO DAILY (Daily).
+Sevelamer Carbonate 800 mg Tablet Sig: Two (2) Tablet PO TID W/MEALS (3 TIMES A DAY WITH MEALS).
+Prednisone 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily) for 26 days: Decrease to Prednisone 5mg daily on [**1-19**].
+Simethicone 80 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO four times a day as needed for gas pains.
+Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO once a day.
+Oxazepam 10 mg Capsule Sig: One (1) Capsule PO at bedtime as needed for insomnia.
+Tramadol 50 mg Tablet Sig: One (1) Tablet PO every six (6) hours as needed for pain.
+Midodrine 5 mg Tablet Sig: One (1) Tablet PO QTUTHSA (TU,TH,SA): On hemodialysis days, PRIOR to hemodialysis.
+Clobetasol 0.05 % Cream Sig: One (1) application to affected areas Topical twice a day.
+Aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day.
+Discharge Disposition: Extended Care  Facility: Baypointe - [**Hospital1 1474**]  Discharge Diagnosis: Primary: Upper GI bleed (stomach fundus ulcer) Secondary: Coronary artery disease, end-stage renal disease on hemodialysis, bullous pemphigoid   Discharge Condition: Mental Status:Clear and coherent Level of Consciousness:Alert and interactive Activity Status:Out of Bed with assistance to chair or wheelchair   Discharge Instructions: -You were admitted with blood loss from your gastrointestinal tract.
+You were started on a medication that heals/protects ulcers.
+You also required extra hemodialysis because the transfusions caused you to swell with excess fluid.
+-It is important that you continue to take your medications as directed.
+We made the following changes to your medications during this admission: --> DECREASE Aspirin 325mg to 81mg daily (after your stomach bleed) --> DECREASE Prednisone 20mg to 10mg daily (until [**1-19**], start 5mg daily that day) --> INCREASE Sevelamer from 800mg --> 1600mg three times daily --> STOP Minocycline 100mg twice daily --> On hemodialysis days, take Metoprolol 25mg twice daily AFTER hemodialysis --> On hemodialysis days, START Midodrine 5mg BEFORE hemodialysis --> CONTINUE all other home medications .
+Also seek medical attention if you develop any new fever, chills, trouble breathing, chest pain, nausea, vomiting or unusual stools.
+It contains imaging of your neck and chest that will help guide your radiation treatments for your oropharyngeal cancer.

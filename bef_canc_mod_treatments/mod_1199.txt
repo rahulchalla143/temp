@@ -1,0 +1,33 @@
+Admission Date:  [**2160-8-2**]              Discharge Date:   [**2160-8-2**]   Service: MEDICINE  Allergies: Amoxicillin  Attending:[**Last Name (NamePattern4) 290**] Chief Complaint: Atrial fibrillation with [**Last Name (NamePattern4) 5509**]  Major Surgical or Invasive Procedure: None  History of Present Illness: Mr. [**Known lastname 66590**] is a [**Age over 90 **] yo M with multiple medical problems including autoimmune hemolytic anemia, previous AF with [**Age over 90 5509**], s/p mechanical AVR, CAD, CHF EF 45%, h/o GIB, s/p listeria endocarditis and CKD who presents from nursing home with low Hct and low BP.
+He remained with a low BP so an A-line was placed and he was given levofloxacin and vancomycin empirically.
+Past Medical History: # Anemia, multifactorial as below, baseline HCT 28 # Autoimmune hemolytic anemia (Coomb's +, warm autoantibody), on prednisone 10mg Po daily # Listeria Endocarditis s/p AVR, suppressive amoxicillin stopped due to hemolytic anemia # Aortic mechanical valve, recently Coumadin resistant so intermittently on Lovenox bridge, followed by Dr. [**Last Name (STitle) **] # hx recent GI bleeds: colonoscopy [**1-10**]: noted normal colon with melanotic stool in terminal ileum # GERD: EGD [**12/2159**] Polyp in the area of the papilla; found on the wall opposite the ampulla.
+# H/o presyncope # CKD Cr 1.6-2.0  Stage III # CAD s/p NSTEMI [**7-10**] # Chronic CHF, likely diastolic, ([**9-9**] EF=50%) # Hyperlipidemia # Hypertension # Depression vs adjustment disorder after death of brother # Prostate cancer- s/p radiation # Bladder/bowel incontinence # Right lateral malleolus stage 1 pressure ulcer # Dementia # Hypothyroidism   Social History: Never smoked, no EtOH or other drugs.
+Uses wheelchair typically.
+Brief Hospital Course: Mr. [**Known lastname 66590**] is a [**Age over 90 **] yo M with multiple medical problems including autoimmune hemolytic anemia, previous AF with [**Age over 90 5509**], s/p mechanical AVR, s/p listeria endocarditis, CAD, dCHF and CKD who presented for low BP and subsequently developed AF with [**Age over 90 5509**].
+He had transient HR control with diltiazem in ED.
+In the MICU he was continued on IV metoprolol for rate control.
+Hypotension:  The patient presented with SBP 80's that increased to the 130's transiently in the ED without intervention and decreased after he went into AF with [**Name (NI) 5509**].
+His hypotension was controlled via HR control as above, and a UA was sent to r/o UTI.
+Diuresis was deferred for now given his low BP, and carvedilol was held while controlling his AF with metoprolol.
+He received 2 units of packed red cells prior to discharge.
+His prednisone 10 mg daily was continued, and his stool guaiac was negative.
+His home dose of warfarin was continued.
+Medications on Admission: Warfarin 3 mg PO daily Carvedilol 3.125 mg PO BID Bactrim SS 1 tab PO daily Levothyroxine 75 mcg PO daily Prednisone 10 mg PO daily Omeprazole 40 mg PO BID Pravastatin 80 mg PO daily Cyanocobalamin [**2149**] mcg PO daily Folic acid 4 mg PO daily Acetaminophen 325 mg PO Q6h PRN pain Sucralfate 1 gram PO QID Oxycodone 2.5 mg TID PRN Bisacodyl 10 mg QOD Docusate 100 mg [**Hospital1 **] Senna 2 tabs QHS Zinc oxide 40% topical  Discharge Medications: 1. carvedilol 3.125 mg Tablet Sig: One (1) Tablet PO twice a day.
+2. warfarin 2 mg Tablet Sig: 1.5 Tablets PO Once Daily at 4 PM.
+3. sulfamethoxazole-trimethoprim 400-80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+4. levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+5. prednisone 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+6. omeprazole 20 mg Capsule, Delayed Release(E.C.)
+7. pravastatin 20 mg Tablet Sig: Four (4) Tablet PO DAILY (Daily).
+8. cyanocobalamin (vitamin B-12) 500 mcg Tablet Sig: Four (4) Tablet PO DAILY (Daily).
+9. folic acid 1 mg Tablet Sig: Four (4) Tablet PO DAILY (Daily).
+10. acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed for pain.
+11. sucralfate 1 gram Tablet Sig: One (1) Tablet PO QID (4 times a day).
+12. oxycodone 5 mg Tablet Sig: 0.5 Tablet PO Q8H (every 8 hours) as needed for pain.
+13. bisacodyl 5 mg Tablet, Delayed Release (E.C.)
+14. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+15. senna 8.6 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime).
+16. zinc oxide 40 % Ointment Sig: One (1) application Topical once a day as needed for rash.
+We gave you medications to stop this.
+You also had a low blood count and you received several blood transfusions.
+Followup Instructions: Please keep your regular follow up appointments:  Department: BMT CHAIRS & ROOMS When: MONDAY [**2160-9-1**] at 11:00 AM  Department: HEMATOLOGY/ONCOLOGY When: MONDAY [**2160-9-1**] at 11:00 AM With: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 13863**], RN [**Telephone/Fax (1) 3241**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage  Department: HEMATOLOGY/BMT When: MONDAY [**2160-9-1**] at 11:30 AM With: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 3919**], RNC [**Telephone/Fax (1) 3241**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage                                [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Name8 (MD) **] MD [**MD Number(1) 292**]  Completed by:[**2160-8-2**

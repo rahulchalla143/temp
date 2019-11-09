@@ -1,0 +1,49 @@
+Admission Date:  [**2127-5-7**]              Discharge Date:   [**2127-5-19**]  Date of Birth:  [**2058-12-3**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**Last Name (NamePattern1) 4377**] Chief Complaint: Fever, abnormal chest CT.  Major Surgical or Invasive Procedure: None   History of Present Illness: Mr. [**Known lastname **] is a 68 year old male with a history of stage I lymphocyte [**Doctor First Name **] classical Hodgkin's s/p XRT now with recurrent Hodgkins disease, s/p 3 cycles of AVD (last treatment was [**4-25**] (C3D15)), and presumed bleomycin pneumonitis on steroids, who presents from clinic with fever to 102.2 and dry cough.
+He took tylenol and proceeded to go to a dental appointment which included a cleaning and filling.
+He was seen in clinic later that day at which time his temperature was 99.7, blood cultures and a UA were sent, and he was given a prescription for clindamycin 300 mg PO QID which he has been taking.
+On review of systems he has noted a dry cough which has been unchanged since an episode of bleomycin hypersensitivity (see below).
+O2 sat 95% in clinic.
+He developed R sided chest discomfort and chills 2 hours after receiving bleomycin, with T 101.8, O2 sat 88% on RA.
+He was given hydrocortisone and recovered well.
+He was therefore started on prednisone 60 mg daily in clinic on [**4-11**] for presumed bleomycin pneumonitis.
+Repeat PFTs done on [**4-15**] showed DLCO significantly improved to 80%, therefore prednisone decreased to 40 mg daily, and subsequently was tapered to 30 then 20, but repeat DLCO was worsened at 73% therefore prednisone was increased back to 30 mg daily which is what he has been taking.
+Flow cytometry revealed monoclonal B cells which were CD5 positive, raising the possibility of CLL.
+BCL1 staining was was not consistent with mantle cell lymphoma.
+The B cells did not co-express CD10 or CD23.
+He was treated for stage 1A lymphocyte [**Doctor First Name **] Hodgkin's Disease w/ XRT to a modified mantle field, completed in [**2122-7-31**].
+Since he had only had XRT, and no previous chemotherapy, the plan was made for ABVD, of which he has completed 3 cycles, with complications as above, as well as neutropenia requiring neupogen injections.
+Right anterior chest subcutaneous soft tissue density, not significantly changed.
+[**2127-5-7**] 09:25AM   WBC-2.7*# RBC-4.18* HGB-11.5* HCT-35.5* MCV-85 MCH-27.6 MCHC-32.5 RDW-17.8* [**2127-5-7**] 09:25AM   NEUTS-40* BANDS-22* LYMPHS-6* MONOS-20* EOS-8* BASOS-0 ATYPS-2* METAS-0 MYELOS-0 YOUNG-2* [**2127-5-6**] 03:00PM   ALT(SGPT)-14 AST(SGOT)-13 LD(LDH)-223 ALK PHOS-52 TOT BILI-0.6 [**2127-5-6**] 03:00PM   UREA N-31* CREAT-0.9 SODIUM-138 POTASSIUM-4.0 CHLORIDE-101 TOTAL CO2-23 ANION GAP-18  Brief Hospital Course: 68 year old male with a history of stage I lymphocyte [**Doctor First Name **] classical Hodgkin's s/p XRT now with recurrent Hodgkins disease, s/p 3 cycles of AVD (last treatment was [**4-25**] C3D15), and presumed bleomycin pneumonitis on steroids, who presents from clinic with fever to 102.2, dry cough, and dyspnea, with CT scan concerning for PCP versus [**Month/Year (2) **] bleomycin toxicity.
+His presentation with dyspnea and worsening ground glass opacities on CT scan, in the setting of Hodgkin's Disease and having been on steroids was concerning for PCP.
+[**Name10 (NameIs) **] bleomycin pneumonitis/fibrosis was also a consideration.
+He was scheduled for bronchoscopy on the morning after admission, however was noted to be hypoxic (O2 sat 85% on RA) and tachypneic, and it was therefore felt that elective intubation would be the safest way to proceed to bronchoscopy.
+He was transferred to the ICU and had bronchoscopy with uneventful intubation and extubation immediately after the procedure.
+He was also started on high dose bactrim (15 mg/kg) secondary to high suspicion for PCP prior to the results, as well as high dose steroids to cover both PCP treatment and bleomycin toxicity treatment.
+We wanted to keep his O2 level around 88-92% given bleomycin toxicity.
+Slowly his respiratory status improved and steroids were slowly tapered.
+He will be sent home on prednisone 30mg for one day then 2 days of 15mg then 3 days of 5mg.
+He was continued on Bactrim DS 2 tabs TID and will need to continue for 21 day course which would finish [**5-30**].
+If he becomes neutropenic he will need to continue Bactrim for 21 days from becoming neutropenic.
+Given the inital presenation, there was concern for atypical pneumonia, therefore he was given levaquin until BAL showed PCP at which time levaquin was discontinued.
+He additionally was continued on clindamycin initially in case of blood stream infection from his dental procedure.
+[**Name10 (NameIs) **] fever was possibly secondary to a combination of neupogen injection which he had received on the day prior to admission, as well as PCP.
+He was continued diltiazem for rate control, and daily ASA for anticoagulation.
+Medications on Admission: Prednisone 30 mg one p.o.
+daily, diltiazem 120 mg q.p.m., albuterol p.r.n., allopurinol 100 mg once daily, aspirin 81 mg, Flovent two puffs daily, glucosamine b.i.d., Lipitor ten milligrams, multivitamin, Nasonex, PreviDent cream p.r.n., Protonix daily, and Zestril five milligrams daily.
+Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Atorvastatin Calcium 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Fluticasone Propionate 110 mcg/Actuation Aerosol Sig: Two (2) Puff Inhalation [**Hospital1 **] (2 times a day).
+Multivitamin     Capsule Sig: One (1) Cap PO DAILY (Daily).
+Prednisone 10 mg Tablet Sig: Three (3) Tablet PO QD () for 1 days: please take on [**5-20**].
+Prednisone 5 mg Tablet Sig: One (1) Tablet PO qd () for 3 days: please start after 15mg dose.
+Prednisone 5 mg Tablet Sig: Three (3) Tablet PO QD () for 2 days: Please start after 30mg dose.
+Allopurinol 100 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.)
+Diltiazem HCl 120 mg Capsule, Sustained Release Sig: One (1) Capsule, Sustained Release PO DAILY (Daily).
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed.
+Trimethoprim-Sulfamethoxazole 160-800 mg Tablet Sig: Two (2) Tablet PO TID (3 times a day) for 14 days.
+Please take all medications as prescribed.
+You will continue to take Bactrim DS three times weekly for prophylaxis after your initial course of antibiotics is complete.
+If he becomes neutropenic will need to continue Bactrim DS 2 tabs DS for 21 days from neutropenia otherwise can complete 21 day course which would end [**5-30**].
+He would then need prophylactic dosing of Bactrim DS 3x/wk.

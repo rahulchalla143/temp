@@ -1,0 +1,65 @@
+Admission Date:  [**2163-4-24**]              Discharge Date:   [**2163-5-4**]  Date of Birth:  [**2097-1-13**]             Sex:   M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 38616**] Chief Complaint: dyspnea  Major Surgical or Invasive Procedure: -Thoracentesis -Paracentesis -Pleurex Catheter Placement.
+He started noting increase in abdominal girth in [**Month (only) 958**], which progressed to include DOE as well.
+On [**4-15**], he had a paracentesis with 3L removed.
+He was admitted to BIDN on [**2163-4-18**] for expedited workup given his symptoms.
+During that admission, he underwent a lymph node biopsy w/ Dr. [**First Name (STitle) 2819**] on [**4-19**], and on [**4-20**] had ultrasound-guided paracentesis done of 2300 mL and a thoracentesis was done of 1200 mL.
+He was sent home on lasix 20mg daily which he has been taking.
+Denies chest pain, chest pressure, palpitations.
+Laminectomy 6.
+Arthroscopy 7.
+Left pleurex catheter in place.
+Abdomen: distended, no leakage at paracentesis sites, bowel sounds present, no organomegaly, no tenderness to palpation, no rebound or guarding GU: no foley Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis.
+Pertinent Results: Admission Labs: [**2163-4-24**] 02:40AM BLOOD WBC-13.4* RBC-4.70 Hgb-13.3* Hct-42.6 MCV-91 MCH-28.3 MCHC-31.2 RDW-16.2* Plt Ct-225 [**2163-4-24**] 02:40AM BLOOD Neuts-72.8* Lymphs-18.8 Monos-6.7 Eos-1.0 Baso-0.7 [**2163-4-24**] 02:40AM BLOOD PT-11.2 PTT-26.9 INR(PT)-1.0 [**2163-4-24**] 02:40AM BLOOD Glucose-97 UreaN-23* Creat-1.3* Na-136 K-4.3 Cl-100 HCO3-22 AnGap-18 [**2163-4-24**] 02:40AM BLOOD ALT-12 AST-31 LD(LDH)-244 AlkPhos-73 TotBili-0.5 [**2163-4-24**] 02:40AM BLOOD Lipase-35 [**2163-4-24**] 02:40AM BLOOD Albumin-3.5 Calcium-8.8 Phos-3.2 Mg-2.1 UricAcd-6.3 [**2163-4-24**] 03:01AM BLOOD Lactate-2.6* [**2163-4-24**] 05:18AM BLOOD Type-ART Temp-36.7 PEEP-5 FiO2-100 pO2-343* pCO2-40 pH-7.41 calTCO2-26 Base XS-1 AADO2-336 REQ O2-61 Intubat-NOT INTUBA  [**Hospital3 **]: [**2163-4-24**] 02:40AM BLOOD Triglyc-274* [**2163-4-24**] 02:40AM BLOOD HBsAb-PND [**2163-4-24**] 02:40AM BLOOD b2micro-PND  Ascites: [**2163-4-24**] 01:59PM ASCITES WBC-[**Numeric Identifier 38617**]* RBC-4000* Polys-3* Lymphs-95* Monos-2* [**2163-4-24**] 01:59PM ASCITES TotPro-2.8 Glucose-91 Creat-1.1 LD(LDH)-108 Albumin-2.2 Triglyc-379 [**2163-4-24**] 01:59PM OTHER BODY FLUID IPT-PND [**2163-4-24**] 04:48PM BONE MARROW [**Doctor Last Name 4427**]-PND  Discharge Labs: [**2163-5-4**] 06:10AM BLOOD WBC-8.0 RBC-4.22* Hgb-12.0* Hct-37.6* MCV-89 MCH-28.5 MCHC-32.0 RDW-16.8* Plt Ct-365 [**2163-5-3**] 06:06AM BLOOD Neuts-74.6* Lymphs-14.7* Monos-6.4 Eos-3.4 Baso-0.9 [**2163-5-4**] 06:10AM BLOOD Plt Ct-365 [**2163-5-4**] 06:10AM BLOOD PT-10.9 PTT-30.0 INR(PT)-1.0 [**2163-5-4**] 06:10AM BLOOD Fibrino-414* [**2163-5-4**] 06:10AM BLOOD [**2163-5-4**] 06:10AM BLOOD Glucose-98 UreaN-18 Creat-1.0 Na-138 K-4.4 Cl-104 HCO3-27 AnGap-11 [**2163-5-4**] 06:10AM BLOOD ALT-11 AST-18 LD(LDH)-137 AlkPhos-49 TotBili-0.2 [**2163-5-4**] 06:10AM BLOOD Calcium-8.7 Phos-4.4 Mg-2.1 UricAcd-5.5  [**2163-4-28**] 03:00PM PLEURAL WBC-5040* RBC-9900* Polys-7* Lymphs-81* Monos-4* Meso-5* Macro-3* [**2163-4-25**] 04:45PM PLEURAL WBC-4075* RBC-[**Numeric Identifier 34864**]* Polys-4* Lymphs-84* Monos-0 Macro-12* [**2163-4-28**] 03:00PM PLEURAL Glucose-126 Creat-1.1 LD(LDH)-122 Triglyc-75 [**2163-4-25**] 04:45PM PLEURAL TotProt-2.9 Glucose-144 LD(LDH)-93 Albumin-2.3 Cholest-53 Triglyc-62 [**2163-5-3**] 03:44PM ASCITES WBC-8389* RBC-3167* Polys-6* Lymphs-85* Monos-2* Mesothe-1* Macroph-3* Other-3* [**2163-4-28**] 09:06AM ASCITES WBC-6125* RBC-[**Numeric Identifier 30005**]* Polys-4* Lymphs-4* Monos-0 Mesothe-1* Macroph-1* Other-90* [**2163-4-24**] 01:59PM ASCITES WBC-[**Numeric Identifier 38617**]* RBC-4000* Polys-3* Lymphs-95* Monos-2* [**2163-5-3**] 03:44PM ASCITES TotPro-2.4 Glucose-107 LD(LDH)-99 Albumin-1.9 [**2163-4-28**] 09:06AM ASCITES TotPro-2.5 Glucose-163 Creat-1.1 LD(LDH)-84 Amylase-29 TotBili-0.2 Albumin-2.1 [**2163-4-24**] 01:59PM ASCITES TotPro-2.8 Glucose-91 Creat-1.1 LD(LDH)-108 Albumin-2.2 Triglyc-379 [**2163-4-24**] 01:59PM OTHER BODY FLUID CD23-DONE CD45-DONE HLA-DR[**Last Name (STitle) 7735**] [**Name (STitle) 38618**] CD10-DONE CD19-DONE CD20-DONE Lamba-DONE CD5-DONE [**2163-4-24**] 01:59PM OTHER BODY FLUID CD3-DONE [**2163-4-24**] 01:59PM OTHER BODY FLUID IPT-DONE [**2163-4-24**] 04:48PM BONE MARROW [**Doctor Last Name 4427**]-DONE  Microbiology: [**2163-4-24**] 1:59 pm PERITONEAL FLUID    GRAM STAIN (Final [**2163-4-24**]):       1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR LEUKOCYTES.
+Atelectasis at the left base  [**4-24**] Bone Marrow Biopsy SPECIMEN: BONE MARROW ASPIRATE AND CORE BIOPSY: DIAGNOSIS:      Hypercellular bone marrow with extensive involvement by follicular lymphoma MICROSCOPIC DESCRIPTION  Peripheral Blood Smear:  The smear is adequate for evaluation.
+Red blood cells are normochromic and normocytic with anisopoikilocytosis including frequent burr cells, occasional elliptocytes, and macrocytes are seen.
+Megakaryocytes are present in normal; abnormal forms are seen including several hypolobated forms, micromegakaryocytes, forms with disjointed nuclei.
+Clot Section and Biopsy Slides:  The core biopsy material is adequate for evaluation.
+Approximately 70% of marrow cellularity is comprised of atypical lymphocytes with scant cytoplasm and irregularly shaped nuclei; focal areas (<10%) of larger cells (centroblasts) with more open chromatin and nucleoli are seen.
+[**4-24**] Peritoneal fluid cytology Peritoneal fluid:    ATYPICAL.
+T cells comprise 28% of lymphoid gated events and express mature lineage antigens (CD3, CD5).
+[**4-25**] Pleural fluid cytology Pleural fluid:    Numerous lymphoid cells.
+FISH analyses of interphase nuclei with the IGH@/BCL2 and MYC probes were interpreted as ABNORMAL for the IGH@/BLC2 probes, consistent with rearrangement of these loci with an additional fusion signal seen.
+An additional fusion signal was seen in all abormal cells.
+A normal MYC FISH finding can result from absence of a MYC rearrangement, from an atypical MYC rearrangement, or from an insufficient number of neoplastic cells in the specimen.
+In addition, they do not have light chain (bright) expression.
+T cells comprise 80% of lymphoid gated events,and express mature lineage antigens CD3,CD5).
+[**2163-5-3**] Paracentesis Uneventful diagnostic and therapeutic paracentesis with removal of 4 liters of milky ascitic fluid.
+[**2163-5-4**] CXR In comparison with study of [**5-1**], there has been placement of a left Pleurx catheter with removal of substantial amount of pleural fluid.
+Paracentesis successfully removed 2L of fluid and relieved his breathing, although he remained on oxygen support.
+Thoracentesis was performed on [**4-25**] with about 1.2L of fluid removal; no antibiotics were initiated.
+Given the rapid reaccumulation of fluid from malignant etiology (confirmed by flow cytometry of pleural fluid), the patient needed more definitive therapy either via initiation of treatment for lymphoma or eradication of pleural space.
+He subsequently received treatment with bendamustine and rituximab as below, but continued to reaccumulate pleural effusions requiring recurrent thoracentesis.
+We eventually decided to place a left-sided pleurx catheter to allow frequent drainage of his malignant pleural effusions.
+He was initiated on dexamethasone [**4-24**] for a planned 4 day course.
+Tumor lysis labs were followed and the patient was provided aggressive hydration.
+Allopurinol was also provided to avoid hyperuricemia.
+Provided acyclovir to prevent HSV reactivation, particularly given history of post-herpetic neuralgia in legs.
+The patient was transferred to the Oncology service with the intention of initiating chemotherapy, and started on bendamustine as well as rituximab.
+The patient was temporarily transferred to the intensive care unit to receive rituximab via a 24 hour desensitization protocol.
+He improved with nebilizers and was able to be transferred back to floor immediately after the infusion.
+He did however, continue to rapidly reaccumulate both pleural effusions and ascites, with multiple thoracenteses and paracenteses, and eventual placement of a pleurx catheter as above.
+He will followup with Dr. [**Last Name (STitle) 3759**] and Dr. [**Last Name (STitle) 3274**] for further care as an outpatient.
+He will need to followup for furtehr therapeutic paracenteses.
+He complained only of palpitations and remained hemodynamically stable.
+He broke spontaneously and did not require vagal maneuvers or pharmacologic agents.
+He was started on a low dose of metoprolol 12.5mg [**Hospital1 **] in an attempt to suppress these episodes.
+Transitional Issues: - He weill require close outpatient followup with Drs [**Last Name (STitle) 3759**] and [**Name5 (PTitle) 3274**] for ongoing management of his follicular lymphoma.
+He will also need to followup with interventional pulmonology for management of his pleurx catheter and recurrent pleural effusions.
+Medications on Admission: Allopurinol 300 mg daily Diovan daily Lipitor 20 mg daily Lasix 20mg daily ProAir as needed multivitamin magnesium B12 fish oil   Discharge Medications: 1. allopurinol 100 mg Tablet Sig: Three (3) Tablet PO DAILY (Daily).
+Lipitor 20 mg Tablet Sig: One (1) Tablet PO at bedtime.
+Lasix 20 mg Tablet Sig: One (1) Tablet PO once a day.
+ProAir HFA 90 mcg/actuation HFA Aerosol Inhaler Sig: One (1) Inhalation every six (6) hours as needed for shortness of breath or wheezing.
+Fish Oil 300 mg Capsule Oral 7. cyanocobalamin (vitamin B-12)  Oral 8. escitalopram 20 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0* 9. acyclovir 400 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 hours) for 30 days.
+Disp:*qs Tablet(s)* Refills:*0* 10. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+Disp:*60 Capsule(s)* Refills:*0* 11. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+Disp:*60 Tablet(s)* Refills:*0* 12. sulfamethoxazole-trimethoprim 400-80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*14 Tablet, Rapid Dissolve(s)* Refills:*0* 14. metoprolol succinate 25 mg Tablet Extended Release 24 hr Sig: 1.5 Tablet Extended Release 24 hrs PO once a day.
+Disp:*45 Tablet Extended Release 24 hr(s)* Refills:*2* 15. oxycodone 5 mg Capsule Sig: [**12-20**] Capsules PO every 4-6 hours as needed for pain: do not take if drowsy.
+We performed multiple taps to drain the fluid from your lungs and abdomen, and placed a catheter in your left chest to allow frequent drainage of the pleural effusions.
+While you were here, we also treated you with bendamustine and rituximab.
+You initially developed a reaction to rituximab, but subsequently underwent uneventful desensitization in the ICU.
+We started you on medication (metoprolol) to slow down your heart.
+Please continue taking this medication following discharge.
+We made the following changes to your medications:  STOPPED -Valsartan  STARTED -Escitalopram for anxiety -Acyclovir and Bactrim to prevent infections -Metoprolol for blood pressure and heart rate -Senna and Sodium Docusate to help move your bowels -Ondansetron for nausea  Please continue taking your other medications as usual.
+Followup Instructions: Department: HEMATOLOGY/BMT When: FRIDAY [**2163-5-6**] at 2:00 PM With: [**First Name11 (Name Pattern1) 3750**] [**Last Name (NamePattern4) 3885**], NP [**Telephone/Fax (1) 3886**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage  Department: HEMATOLOGY/ONCOLOGY When: FRIDAY [**2163-5-6**] at 2:00 PM With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 3884**], MD [**Telephone/Fax (1) 3237**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage  Department: HEMATOLOGY/ONCOLOGY When: MONDAY [**2163-5-9**] at 2:00 PM [**Telephone/Fax (1) 38619**] Building: [**Street Address(2) 3001**] ([**Location (un) 620**], MA) [**Location (un) 551**] Campus: OFF CAMPUS     Best Parking: Free Parking on Site  Department: Thoracic Where: SC [**Hospital Ward Name **] CLINICAL CTR, [**Location (un) **]   MULTI-SPECIALTY THORACIC UNIT-CC9 When: [**2163-5-19**] at 11:00a With: Dr. [**First Name4 (NamePattern1) 1151**] [**Last Name (NamePattern1) 3373**]                                [**Name6 (MD) 11021**] [**Name8 (MD) 11022**] MD [**MD Number(2) 38620**]  Completed by:[**2163-5-7**

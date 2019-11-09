@@ -1,0 +1,48 @@
+Admission Date:  [**2186-3-16**]              Discharge Date:   [**2186-3-22**]  Date of Birth:  [**2118-6-9**]             Sex:   F  Service: MEDICINE  Allergies: Dilantin Kapseal / Calcipotriene / Lorazepam  Attending:[**First Name3 (LF) 5141**] Chief Complaint: syncope and pleuritic chest pain upon waking  Major Surgical or Invasive Procedure: None  History of Present Illness: The patient is a 67 year old female with epilepsy, hypertension, and pancreatic cancer s/p Whipple with positive margin who is currently undergoing chemotherapy and radiation.
+She was transferred to [**Hospital1 18**] and admitted to the ICU for further management.
+She was started on a Heparin drip and received several liters of IV fluids.
+She was given Zofran 4 mg IV and Ativan 1 mg PO for nausea.
+She was on a Heparin drip at 1000 units/hr.
+She was given Acetaminophen 1000 mg, which she reports helped the pain significantly.
+Her Heparin drip was titrated and she was admitted to the ICU for further management.
+She has chronic nausea, vomiting, and diarrhea related to her chemotherapy and radiation.
+She has had difficulty staying hydrated, requiring periodic IV fluids in [**Hospital **] clinic.
+Past Medical History: # Pancreatic Cancer -- as below # Epilepsy -- (Neurologist Dr [**First Name8 (NamePattern2) 449**] [**Last Name (NamePattern1) **] in [**Hospital1 1474**] MA) -- No seizure in about 5 years # Psoriasis # Basal cell carcinoma of the skin, status post excision # Hypertension -- now resolved # Tonsillectomy History .
+ONCOLOGIC HISTORY: # Pancreatic Cancer -- stage IIB (pT3, pN1, M0) -- Summer [**2184**] developed epigastric discomfort -- Few months later obstructive jaundice -- [**2185-11-21**]: CT scan at [**Hospital1 18**] showed mass in the pancreatic uncinate process -- [**2185-12-8**]: Whipple procedure with Dr. [**Last Name (STitle) 468**] -- Pathology showed a 2.4-cm moderately differentiated ductal adenocarcinoma in the head of the pancreas.
+-- [**2186-1-12**]: Started cycle 1 of chemotherapy with Gemzar.
+The patient is status post Whipple's procedure.
+Brief Hospital Course: The patient is a 67 year old female with epilepsy, hypertension, and pancreatic cancer s/p Whipple with positive margin who is currently undergoing chemotherapy and radiation.
+# Pulmonary Embolism: She presented with syncope and then had classic signs of PE including rapid onset SOB, pleurisy, and tachycardia.
+- Found to have bilateral PEs on CTA at the OSH and was started on a Heparin drip.
+- Thrombolysis was considered given her initial low BP (80-90?????
+- No IVC filter will be placed as the benefit does not outweigh the risk.
+- She was transitioned to Enoxaparin on [**2186-3-18**] and her Heparin drip was stopped.
+- She will be continued on enoxaparin 70mg SQ Q12H.
+- She was given Metoprolol 2.5 mg IV once, and converted back to sinus rhythm shortly thereafter.
+- She again went back into AFib the morning of [**3-19**], and was given 15mg total of IV lopressor, and then 1 hour after her last lopressor dose, she went back to NSR.
+- We started her on 12.5mg metoprolol tartrate TID with good achievement of rate control .
+# Anemia: Her Hct on admission was 34.5, which was at her recent baseline, but then was dropping after admission to 26.6 on [**3-19**].
+- Her stools were guaiac positive and a mild GI bleed was suspected given her treatment with Heparin - She did not show any evidence of upper or lower GI bleeding once transferred to the floor, and her hematocrit rose back up to 30.5 on DOD - Her hematocrit will be followed closely on her anticoagulation treatment and any potential cessation of treatment or intervention will be avoided while she is still in the subacute phase of PE treatment  # Epilepsy: She has a history of epilepsy treated with Carbamazepine and Levetiracetam, so we continued Carbamazepine 200 mg PO TID and Levetiracetam 500 mg PO Q6H per her home dosing regimen.
+# Pancreatic Cancer:  She has pancreatic adenocarcinoma stage IIB and is s/p Whipple procedure with positive margins on [**2185-12-6**].
+She is currently being treated with radiation and chemotherapy.
+She was started on Dexamethasone [**2186-2-22**] for nausea relief and improved appetite.
+She has had chronic nausea and diarrhea after her surgery and with her ongoing treatments.
+She is also on pancreatic enzyme supplements.
+She was briefly placed on stress dose steroids due to concern that it may have been contributing to her hypotension, however she was quickly changed back to her home dexamethasone 2mg PO daily.
+We continued pancreatic enzyme supplements with meals, and continued lorazepam 0.5mg PO Q6H PRN anxiety or nausea.
+Medications on Admission: Carbamazepine 200 mg PO TID Levetiracetam 500 mg PO Q6H Dexamethasone 2 mg PO daily Lipase-protease-amylase [Zenpep] (20,000-68,000-109,000 units) -- Take 3 capsules PO with meals and 2 capsules PO with snacks Pantoprazole 40 mg PO daily Potassium chloride 10 mEq PO BID Lorazepam 0.5 mg PO Q6H PRN anxiety or nausea   Discharge Medications: 1. enoxaparin 80 mg/0.8 mL Syringe Sig: Seventy (70) mg Subcutaneous twice a day.
+Disp:*60 syringes* Refills:*2* 2. carbamazepine 200 mg Tablet Sig: One (1) Tablet PO TID (3 times a day).
+3. levetiracetam 500 mg Tablet Sig: One (1) Tablet PO QID (4 times a day).
+4. lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for anxiety or nausea.
+5. pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+PO 3 caps with meals and 2 with snacks as needed for pancreas enzyme.
+7. dexamethasone 2 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+8. lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0* 9. metoprolol succinate 25 mg Tablet Extended Release 24 hr Sig: 1.5 Tablet Extended Release 24 hrs PO once a day.
+There you regained good functional status, finished your radiation treatments, and continued lovenox therapy for your blood clots.
+Because of your blood clots, you had evidence of strain on your heart.
+You will need to start taking a medication called metoprolol for your heart rhythm.
+Also please start taking lisinopril for heart protective effects and for blood pressure.
+START using lovenox shots twice a day 2.
+START metoprolol succinate 1.5 tablets once a day (for your new irregular heart rhythm) 3.
+START lisinopril for blood pressure control and for protective effects on your heart  Followup Instructions: Department: HEMATOLOGY/ONCOLOGY When: WEDNESDAY [**2186-3-29**] at 11:30 AM With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 593**], MD [**Telephone/Fax (1) 22**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 24**] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage  Department: HEMATOLOGY/ONCOLOGY When: WEDNESDAY [**2186-3-29**] at 11:30 AM With: [**Name6 (MD) 5145**] [**Name8 (MD) 5146**], MD, PHD [**Telephone/Fax (1) 22**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 24**] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage  Department: PSYCHIATRY When: TUESDAY [**2186-4-4**] at 10:40 AM With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 23908**], MD [**Telephone/Fax (1) 1387**] Building: Ra [**Hospital Unit Name 1825**] ([**Hospital Ward Name 1826**]/[**Hospital Ward Name 1827**] Complex) [**Location (un) 551**] Campus: EAST     Best Parking: Main Garage

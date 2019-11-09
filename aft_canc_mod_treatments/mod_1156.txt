@@ -1,0 +1,19 @@
+Admission Date:  [**2170-10-4**]              Discharge Date:   [**2170-10-10**]   Service: MEDICINE  Allergies: Amoxicillin  Attending:[**First Name3 (LF) 99**] Chief Complaint: GI Bleed  Major Surgical or Invasive Procedure: None   History of Present Illness: This is an 84 y/o female recently dx with AML on supportive treatment only, on coumadin for atrial fibrillation and h/o TIA, who presented to the ED with c/o maroon-colored stools x 6 days and fatigue with SOB x several days.
+Conversation with PCP and family lead to decision of tagged RBC scan to attempt localization of site in an effort to avoid invasive procedures, including EGD/colonoscopy given comorbid conditions.
+Atrial fibrillation with a history of TIA 10 years ago on chronic anticoagulation with Coumadin.
+Status post left hip replacement.
+Status post total abdominal hysterectomy with bilateral salpingo-oophorectomy.
+Spoke with IR, who recommended medical management with PRBCs and FFP for now as pt stable and procedure invasive given pt's co-morbid conditions.
+Family and pt agreed with conservative management.
+# AML - currently on supportive treatment for AML.
+Pt may be in acute blast crisis given leukocytosis of 45 K, with prior counts at 13 K. She is managed for goal of comfort at this time by primary care physician, [**Last Name (NamePattern4) **].
+She will be discharged on 7 days of PO levofloxacin for neutropenia.
+Coumadin 4 mg M/W/F, 5 mg S/[**Doctor First Name **]/Tues 3.
+Detrol 1 mg [**Hospital1 **] 4.
+Digoxin 250 mcg qd 5.
+Fosamax 70 mg qweek 6.
+Namenda 10 mg [**Hospital1 **] 7.
+Digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Memantine 5 mg Tablet Sig: Two (2) Tablet PO bid ().
+Donepezil 5 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime).
+Levofloxacin 250 mg Tablet Sig: One (1) Tablet PO QDAY () for 7 days.

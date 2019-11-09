@@ -1,0 +1,41 @@
+Admission Date:  [**2160-11-16**]              Discharge Date:   [**2160-11-19**]  Date of Birth:  [**2085-8-22**]             Sex:   M  Service: MEDICINE  Allergies: Aspirin / Indomethacin / Ciprofloxacin / Probenecid / Allopurinol And Derivatives / Phenytoin / Keflex  Attending:[**First Name3 (LF) 2024**] Chief Complaint: Hypotension  Major Surgical or Invasive Procedure: None  History of Present Illness: 75 year old gentleman with a PMH significant for HCV cirrhosis c/b HCC s/p lobe resection in [**2156**], POD 12 from craniotomy for SDH now admitted to the [**Hospital Unit Name 153**] for fever, rash, and hypotension.
+The patient was noted at rehab to be febrile to 103 today, and was also complaining of a "total body itchiness" and was noted both at rehab and by the ED attending to have trunk and arm erythema.
+He was started on keflex yesterday for possible superficial phlebitis at an old PIV site, and denies any localizing symptoms including HA, menigismus, cough, shortness of breath, dysuria, n/v/d.
+Of note, the patient was admitted to [**Hospital1 18**] under the Neurosurgical service from [**Date range (1) 30844**] after a fall with bilateral SDH, and underwent right craniotomy on [**11-5**], and ultimately was discharged to rehab on dilantin for seizure prophylaxis.
+Cousin and friends are support system.
+Last Updated on [**2160-11-17**]  Brief Hospital Course: 75 year old gentleman with a PMH significant for HCV cirrhosis complicated by HCC s/p lobe resection in [**2156**], who presented on post-operative day 12 from craniotomy for a subdural hematoma with fever, rash, and hypotension.
+Given recent craniotomy the neurosurgery service was consulted and was not concerned for CNS infection.
+The patient did receive a dose of Vancomycin and Levofloxacin in the ED but none were continued in the ICU as the patient remained afebrile and the ICU team's suspicion for infectious process was low.
+The patient recieved a dose of IV steroids in the ED and subsequently recieved a 3 day course of Prednisone 60mg.
+Dilantin was considered as a possible etiology for his presentation, especially given the acute renal failure and associated morbilliform rash, as a type IV drug reaction, including DRESS, though no eosinophilia was noted on differential.
+Adittionally patient had recently been started on Keflex so anaphylactic shock due to allergy to cephalosporins is another possibility.
+Both dilantin and Keflex were discontinued and should be avoided in the future.
+Elevated Liver Enzymes: 2/2o Hepatitis C Cirrhosis and Hepatocellular Carcinoma: Patient failed Interferon and Ribavirin in the past.
+Likely initially [**1-15**] to tissue hypoperfusion given the elevated lactate on admission.
+Had initial drop of Hct secondary to rehydration and resolution of Hemmoconcentration, Hct back to baseline at discharge.
+Hypertension: Anti-hypertensives were held in the setting of hypotension.
+Tamsulosin 0.4 mg was restarted on discharge.
+Amlodipine continues to be held on discharge .
+Hypothyroid: Patient was continued on Levothyroxine without event.
+# Code status during this admission: Full  Medications on Admission: 1.
+Amlodipine 5 mg DAILY 2.
+Tamsulosin 0.4 mg HS 3.
+Oxycodone 5 mg Q4H as needed for pain.
+Multivitamin 5.
+Cholecalciferol (vitamin D3) 400 Units DAILY 6.
+Vitamin E 400 Units DAILY 7.
+Levothyroxine 75 mcg DAILY 8.
+Docusate sodium 100 mg [**Hospital1 **] 9.
+Keflex  Discharge Medications: 1. tamsulosin 0.4 mg Capsule, Sust.
+Release 24 hr PO at bedtime.
+2. oxycodone 5 mg Tablet Sig: One (1) Tablet PO every four (4) hours as needed for Pain.
+3. multivitamin     Tablet Oral 4. cholecalciferol (vitamin D3) 400 unit Tablet Sig: One (1) Tablet PO once a day.
+5. levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+6. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+7. vitamin E 400 unit Tablet Sig: One (1) Tablet PO once a day.
+Discharge Disposition: Extended Care  Facility: [**Location (un) 23095**]  Discharge Diagnosis: Suspected Drug Reaction/Anaphylaxis CAVE PHENYTOIN CAVE CEPHALEXIN s/p craniotomy for bilateral acute on chronic sub dural hemmorahge Hepatitis C cirrhosis Hepatocelular Carcinoma   Discharge Condition: Mental Status: Clear and coherent.
+You were treated with intravenous fluids and steroids and your condition quickly improved.
+We believe this event may have been due to reaction or allergy to medications you were taking either Dilantin (phenytoin) or Keflex (cephalexin).
+Please avoid these medications in the future.
+The following changes were made to your medications: - STOP Dilantin - STOP Keflex - Amlodipin was stopped, please consult your treating physician about restarting this medication .
+Please continue to take your home medications without change.

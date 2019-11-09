@@ -1,0 +1,49 @@
+Admission Date:  [**2134-10-9**]              Discharge Date:   [**2134-11-19**]  Date of Birth:  [**2071-4-28**]             Sex:   F  Service: MEDICINE  Allergies: Bactrim / Dicloxacillin / Levofloxacin  Attending:[**First Name3 (LF) 3913**] Chief Complaint: Hypotension  Major Surgical or Invasive Procedure: Subclavian CVL  History of Present Illness: Mrs. [**Known lastname 52**] is a 63-year-old woman with a history of recurrent Burkitt's lymphoma D +15 of [**Hospital1 **], who was recently discharged from [**Hospital1 18**] after her first treatment for recurrence (see PMH).
+She was given IVF on transport and in the ED at [**Hospital3 **].
+She was afebrile, and her blood pressure responded to fluid resuscitation to 90s/40s on transfer.
+She was given a dose of vancomycin and cefepime at the outside hospital out of concern for infection given her neutropenia (WBC 0.2 at the OSH) and hypotension.
+On admission, there was a  palpable mass on her right chest wall and axilla.
+On [**2134-9-25**] she had an echocardiogram and began treatment with [**Hospital1 **].
+At that time she recieved intrathecal methotrexate and hydrocort.
+On [**2134-10-5**] her LP was repeated and she recieved intrathecal cytarabine.
+She was discharged with neupogen for one week with close follow-up.
+Hx of Parainfluenza and pneumonia   Social History: (from OMR, confirmed with patient) Her husband has COPD and has required frequent hospitalizations.
+One of her sons and daughter-in-law live downstairs with their three children.
+Blood cultures were drawn and she was given cefepime and vanco and transferred to 7 [**Hospital Ward Name 1826**].
+On arrival she was given 2L of fluid, 1 unit of blood, and cefepime, vancomycin, and flagyl.
+She was switched to ampicillin on [**10-12**] and her PICC was pulled.
+She was switched to daptomycin on Monday [**2134-10-18**] because she had begun receiving hyper CVAD part B and amp interferes with clearance of methotrexate.
+Her line was pulled and her broad spectrum antibiotic coverage (started given her sepsis in the setting of neutropenia) was narrowed to cefepime, gentamicin, and linezolid.
+Gentamicin was d/c-ed a few days after transfer to the floor and linezolid was transitioned to ampicillin as the patient was believed to have leukosuppression secondary to the linezolid.
+She completed a 10 day course of antibiotics (amp and cefepime) from the time her ANC was greater than 1000 per ID recommendations and remained afebrile and hemodynamically stable for the remainder of her hospital course.
+An LP with intrathecal chemotherapy was performed on [**2134-10-14**].
+A subclavian line was placed on [**10-15**] and treatment with hyper CVAD part B was started on [**10-16**].
+She tolerated her chemotherapy well, complicated by mild mucositis and the bacteremia discussed above.
+She had one more round of intrathecal chemotherapy with cytarabine on [**11-4**].
+She underwent MRI of her R shoulder which confirmed this finding and had 4 sessions of XRT as a palliative therapy.
+Pt had CT of torso to evaluate for progression of disease, read at the time of discharge was pending but will be followed up at follow-up appointment Monday following discharge when pt will return for chemotherapy gemcitabine and vinorelbine.
+Acyclovir and fluconazole were held given elevated LFTs, will trend LFTs as outpatient and do liver ultrasound if necessary.
+Pt was given pentamidine prior to discharge for PCP [**Name Initial (PRE) 1102**].
+Cardiology was consulted for management and she was started on metoprolol 12.5mg [**Hospital1 **] which she tolerated well.
+# DVT: Found to have right upper extremity DVT last admission and was on lovenox for that until she had a drop in platelets (treatment related).
+She was thrombocytopenic during her admission and her lovenox was held.
+Continued Levothyroxine 100mcg PO daily .
+Was started on citalopram 10 mg daily.
+Medications on Admission: 1. acyclovir 400 mg PO Q8 hours 2. clonazepam 0.5 mg PO TID PRN for anxiety.
+3. levothyroxine 100 mcg PO DAILY 4. pyridoxine 50 mg PO DAILY 5. docusate sodium 100 mg PO BID 6. nystatin 100,000 unit/mL Suspension 5 ML PO QID 7. senna 8.6 mg PO QHS PRN constipation 8. gabapentin 600 mg PO TID 9. polyethylene glycol 17 gram/dose Powder PO Daily PRN constipation 10.
+MS contin 60 mg PO Q8H 11. hydromorphone 2-4 mg PO Q4h prn pain 12. saliva substitution 30ML QID 13. enoxaparin 60 mg/0.6 mL Subcutaneous Q12H 14. filgrastim 300 mcg/mL SC Inj Q24H for 5 days.
+15. dexamethasone 2 mg PO DAILY   Discharge Medications: 1. clonazepam 0.5 mg Tablet Sig: One (1) Tablet PO QHS (once a day (at bedtime)) as needed for insomnia.
+2. levothyroxine 100 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+3. pyridoxine 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+4. docusate sodium 50 mg/5 mL Liquid Sig: One (1)  PO BID (2 times a day).
+5. nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID (4 times a day) as needed for thrush.
+6. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for Constipation.
+7. gabapentin 300 mg Capsule Sig: Two (2) Capsule PO Q8H (every 8 hours).
+8. oxycodone 30 mg Tablet Sustained Release 12 hr Sig: One (1) Tablet Sustained Release 12 hr PO Q12H (every 12 hours).
+Disp:*60 Tablet Sustained Release 12 hr(s)* Refills:*0* 9. hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours) as needed for pain.
+10. dexamethasone 4 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0* 11. citalopram 20 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0* 12. metoprolol tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 times a day).
+You had a short stay in the ICU and were treated with antibiotics and recovered.
+During your hospitalization you received chemotherapy and radiation therapy for your Burkitt's lymphoma.
+We have made the following changes to your medications: Take metoprolol 12.5mg twice a day for blood pressure Take celexa 10mg daily for depression Take dexamethasone 4mg daily Take OxyContin 30mg twice a day for long-acting pain control You can continue your home dilaudid 2-4mg every 6hrs as needed for breakthrough pain Please do not take acyclovir or fluconazole until you follow-up as an outpatient because these medications can elevate liver labs  It was a pleasure taking care of you.

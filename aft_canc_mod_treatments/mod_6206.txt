@@ -1,0 +1,72 @@
+Admission Date:  [**2171-9-9**]              Discharge Date:   [**2171-10-3**]  Date of Birth:  [**2125-7-23**]             Sex:   F  Service: MEDICINE  Allergies: Sulfa (Sulfonamide Antibiotics) / Gentamicin / Cefepime / Betadine / chlorhexidine  Attending:[**First Name3 (LF) 12131**] Chief Complaint: fatigue, chills, ?subphrenic/pleural fluid collection, metastatic ocular melanoma  Major Surgical or Invasive Procedure: - VATS [**2171-9-13**] - PICC line placement [**2171-9-14**] - PTC [**2171-9-24**]  History of Present Illness: [**Known firstname **] [**Known lastname 1391**] is a pleasant 46F from [**State 1727**] with metastatic ocular melanoma most recently treated with ipilimumab (held on C1D64).
+The patient reports considerable difficulties with ipilimumab including intermittent abdominal pain and diarrhea which began on [**2171-7-4**] and arthalgias which started on [**2171-8-11**].
+She received a blood transfusions, was placed on levofloxacin and vancomycin and her ASA and Plavix were discontinued.
+She is currently on ASA and Plavix for a portal vein stent.
+ROS: Gen: +chills, +fatigue, +weakness, denies fevers E&E: denies recent changes in vision/hearing HNT: denies headache, nasal congestion, sore throat Neck: denies neck pain/neck masses Resp: denies SOB/cough/hemoptysis Card: denies chest pain/palpitations/syncope GI: +diarrhea, denies abdominal pain/n/v/melena/hematochezia GU: denies dysuria/hematuria Ext: mild edema Skin: denies rashes/bruising Neuro: denies weakness/numbness/tingling  Past Medical History: Hypertension Left fibula fracture [**12/2170**] Metastatic ocular melanoma  ONCOLOGIC HISTORY: - [**2158**]: Diagnosed with choroidal melanoma in her left eye treated with proton beam radiation.
+- [**2163**]: Had a local recurrence and received repeat proton beam radiation.
+- [**2168-3-4**]: [**Month/Day/Year **] extended right hepatic lobectomy, cholecystectomy, and Roux-en-Y hepaticojejunostomy with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] which, postoperatively, was complicated by a bile leak and perihepatic abscess requiring a PTC drain and another perihepatic drain.
+- [**2169-3-2**]: [**Month/Day/Year **] a right upper anterior neck dissection with removal of a 4.3 cm lymph node confirmed to have extensive metastatic melanoma; there was evidence of extracapsular extension.
+- [**2-/2170**]: CT neck and torso negative for disease recurrence - [**2170-10-8**]: CT torso negative for disease recurrence - [**2171-2-18**]: CT torso - increased size of the left lower quadrant nodule - [**2171-2-28**]: Biopsy consistent with melanoma - [**2171-3-1**]: Portal venous stenting - [**2171-4-5**]: Resection of the left lower quadrant nodule - Pathology consistent with melanoma - [**2171-6-10**]: New liver and spleen lesions.
+Enlarging L4 lesion; concerning for progression of disease - [**2171-6-24**]: Started on ipilimumab - [**2171-7-15**]: C1D22 Ipilimumab - [**2171-8-5**]: C1D43 Ipilimumab - [**2171-8-27**]: C1D64 Ipilimumab held  PSH: -C-section ([**2149**]) -photoablation left eye for ocular melanoma ([**2158**],[**2163**]) -portal vein embolization ([**1-/2168**]) -right hepatic lobectomy, cholecystectomy, anastomosis of the left portal vein to the main portal vein, portal vein thrombectomy, Roux-en-Y hepaticojejunostomy to the left hepatic duct, and intraoperative ultrasound for metastatic melanoma ([**2168-3-4**]) -multiple biliary drainage procedures -VATS decortication ([**2168-3-24**]) -excision neck mass ([**2-/2169**]) -excision retroperitoneal melenaoma metastasis ([**2171-4-5**])  Social History: Married, lives in [**State 1727**] with husband and son.
+No intervention was performed - continued biliary diversion using the existing 8Fr PTBD.
+Patient had prior hemihepatectomy in [**2167**] for metastatic ocular melanoma.
+Brief Hospital Course: 46F with metastatic ocular melanoma recently treated with ipilimumab presenting for evaluation of a soft tissue mass in the right lung base associated with fatigue and chills.
+Recent hospitalization at [**Hospital 63985**] Medical Center in [**State 1727**] for fevers and GIB [**Date range (1) 81838**], treated with IV antibiotics and red cell transfusions.
+She was treated with vancomycin and levofloxacin at an outside hospital from [**Date range (3) 81838**] with resolution of fevers.
+Vancomycin and levofloxacin were restarted and blood/urine/sputum/stool cultures were ordered.
+She had IR quided drainage on [**9-11**] w 30 cc pus removed.
+She then had a chest tube placement with washout by thoracic surgery (Dr. [**Last Name (STitle) **] on [**2171-9-13**].
+She produced significant bilious output from this chest tube over the proceeding days.
+Ultimately, she [**Last Name (STitle) 1834**] placement of a percutaneous transhepatic catheter (PTC) into her biliary tree.
+This intervention significantly reduced the volume of output via the chest tube and improved her cough as well.
+Her chest tube will be slowly withdrawn over a series of visits with the thoracic surgery department.
+A CT prior to departure demonstrated partial resolution of her biliary-pleural fluid collection.
+Antibiotic recommendations for this infected fluid collection were tailored according to ID recommendations.
+She was initially treated with vancomycin, ceftazidime, metronidazole, and micafungin.
+Vancomycin was later discontinued and she was discharged on vancomycing, ceftazidime, and metronidazole.
+The duration of treatment with these agents remains unclear and will likely continue while her sub-pleural collection continues to drain via the existing chest tube.
+This was most likely secondary to her peri-septic state, and completely improved following fluid resuscitation and antibiotics.
+C.diff colitis was ruled out with PCR assay.
+ASA and Plavix were discontinued.
+Her anti-diarrheal agents were optimized as below, with some improvement.
+Her albumin improved throughout her hospitalization as her nutrition improved and fluid overload was corrected.
+Patient's prior hospitalization in [**State 1727**] due to upper GI bleed is suspicious for autoimmune colitis secondary to ipilumumab toxicity.
+Her biliary-pleural fistula is potentially related to metastatic melanoma, but insufficient tissue was able to biopsied during her IR procedures.
+She received ocular prednisolone throughout her stay.
+Final decisions on whether to resume this regimen will be made after this acute process resolves.
+Medications on Admission: Preadmission medications listed are correct and complete.
+Lisinopril 10 mg PO DAILY 2.
+Loperamide 4 mg PO QID:PRN diarrhea 3.
+Nystatin Oral Suspension 5 mL PO QID 4.
+PrednisoLONE Acetate 1% Ophth.
+Loperamide 4 mg PO QID:PRN diarrhea 2.
+PrednisoLONE Acetate 1% Ophth.
+Acetaminophen 325-650 mg PO Q6H:PRN fever 4.
+Albuterol 0.083% Neb Soln 1 NEB IH Q2H:PRN wheezing 5.
+Artificial Tear Ointment 1 Appl BOTH EYES [**Hospital1 **]:PRN dryness 6.
+Benzonatate 100 mg PO TID 7.
+Bismuth Subsalicylate 30 mL PO Q3HR:PRN diarrhea 8.
+CefTAZidime 2 g IV Q8H 9.
+Diphenoxylate-Atropine 2 TAB PO Q6H:PRN diarrhea 11.
+Guaifenesin-CODEINE Phosphate 15 mL PO Q6H:PRN severe cough 12.
+Heparin 5000 UNIT SC TID 13.
+HYDROmorphone (Dilaudid) 0.5 mg IV Q2H:PRN pain 14.
+Ipratropium Bromide Neb 1 NEB IH Q4H:PRN shortness of breath  15.
+Lorazepam 0.5-1 mg IV Q4H:PRN anxiety/insomnia/nausea 16.
+MetRONIDAZOLE (FLagyl) 500 mg IV Q8H 17.
+Micafungin 100 mg IV Q24H 18.
+Ondansetron 8 mg IV Q8H:PRN nausea 19.
+Pantoprazole 40 mg IV Q24H 21.
+Phosphorus 250 mg PO TID   Discharge Disposition: Extended Care  Facility: The [**Hospital 63985**] Medical Center  Discharge Diagnosis: PRIMARY: - metastatic ocular melanoma - biliary-pleural fistula - biliary abscess SECONDARY: - autoimmune colitis - anemia   Discharge Condition: Mental Status: Clear and coherent.
+You had a chest tube placed to drain this collection from your lung, and then had a drain placed into your liver to drain the bile.
+You also received intravenous antibiotics for this collection, as it proved to be infected.
+You will continue these antibiotics via your PICC line.
+You will need to follow-up with the hepatobiliary surgery team for management of your biliary drain (Dr. [**Last Name (STitle) **].
+You will need to follow-up with the infectious disease clinic for management of your antibiotics (Dr. [**Last Name (STitle) 7443**].
+Finally, you will need to follow-up with Dr. [**Last Name (STitle) **] for management of your chemotherapy.
+Upon discharge, please call Dr.[**Doctor Last Name 20641**] office at [**Telephone/Fax (1) 13016**] or present to your local ER if you experience any of the following: fever, chills, chest pain, worsening cough productive of bile, abdominal pain, nausea, vomiting, worsening diarrhea, bloody or dark colored bowel movements, increasing extremity swelling, or any other symptoms that concern you.
+Once discharged, you should have the chest tube flushed once per day with 20ml of normal saline.
+Record the output of your biliary drain (PTC) daily.
+Please take all medications only as prescribed.
+Followup Instructions: Department: HEMATOLOGY/ONCOLOGY - THORACIC SURGERY When: TUESDAY [**2171-10-15**] at 2:00 PM With: [**Name6 (MD) 1532**] [**Name8 (MD) 1533**], MD [**0-0-**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 24**] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage Please report to the [**Location (un) **] of the [**Hospital Ward Name 23**] center 30 min prior to your appointment for a chest xray.
+[**Name5 (PTitle) **]/[**Doctor Last Name **] [**Telephone/Fax (1) 13016**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 24**] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage  Department: TRANSPLANT CENTER When: WEDNESDAY [**2171-10-16**] at 11:20 AM With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 707**], MD, PHD [**Telephone/Fax (1) 673**] Building: LM [**Hospital Unit Name **] [**Location (un) **] Campus: WEST     Best Parking: [**Hospital Ward Name **] Garage  Department: INFECTIOUS DISEASE When: THURSDAY [**2171-10-17**] at 3:00 PM With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 7447**], MD [**Telephone/Fax (1) 457**] Building: LM [**Hospital Unit Name **] [**Hospital 1422**] Campus: WEST     Best Parking: [**Hospital Ward Name **] Garage  Name: [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern1) **], MD Specialty: Primary Care Location: FAMILY PRACTICE & INTERNAL MEDICINE Address: [**Street Address(2) 81839**] [**Apartment Address(1) **], [**Location (un) 81840**],[**Numeric Identifier 81841**] Phone: [**Telephone/Fax (1) 81842**] Please discuss with the staff at the facility a follow up appointment with your PCP when you are ready for discharge.

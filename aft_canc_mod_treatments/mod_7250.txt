@@ -1,0 +1,50 @@
+Admission Date:  [**2169-1-5**]              Discharge Date:   [**2169-1-11**]  Date of Birth:  [**2085-6-22**]             Sex:   F  Service: MEDICINE  Allergies: Penicillins  Attending:[**First Name3 (LF) 1253**] Chief Complaint: Sepsis  Major Surgical or Invasive Procedure: ERCP [**2169-1-6**] PICC line placement [**2169-1-9**]   History of Present Illness: 83 year old female with a history of biliary obstruction due to tumor with metal stents presenting to an OSH on [**1-3**] with an episode of weakness/incontinence found to have polymicrobial bacteremia/sepsis.
+The patient was treated for a UTI on [**12-21**] with Macrobid.
+She was treated initially with levofloxacin, but changed to Imipenim and gentamicin with improvement in her clinical status.
+The patient was transferred to [**Hospital1 18**] on [**2169-1-5**] for ERCP evaluation of her metal biliary stents given CT findings.
+Currently, she complains of irritation by the Foley, but denies headache, blurry vision, dry mouth, thirst, difficulty/pain with swallowing, chest pain, shortness of breath, palpitations, nausea, heartburn, vomiting, abdominal pain, diarrhea, constipation (though notes no BM in 1 week), new weakness, numbness or tingling.
+Past Medical History: -Biliary obstruction/malignant stricture s/p ERCP X 2 and 2 metal stents--last placed in [**9-12**].
+-Diabetes mellitus, type 2 -Hypertension -Coronary artery disease -Parkinson's disease -diastolic CHF -Vaginal Carcinoma -s/p Cholecystectomy -Urosepsis d/t E. coli and Proteus -Bacteremia due to VRE in [**9-12**] treated with 2 week course of Linezolid -Bacteremia due to E. coli in [**9-12**] treated with 2 week course of Ceftriaxone.
+-Atrial fibrillation -Hyperlipidemia  Social History: lives with husband in [**Name (NI) 3320**] no children.
+Pertinent Results: Admission Labs: [**2169-1-5**] 06:04PM   WBC-25.6*# RBC-4.26 HGB-11.5* HCT-35.4* MCV-83 MCH-27.1 MCHC-32.6 RDW-17.7* [**2169-1-5**] 06:04PM   NEUTS-91.3* LYMPHS-6.0* MONOS-2.5 EOS-0 BASOS-0.1 [**2169-1-5**] 06:04PM   PLT COUNT-120*# [**2169-1-5**] 06:04PM   PT-14.0* PTT-20.6* INR(PT)-1.2* [**2169-1-5**] 06:04PM   ALT(SGPT)-8 AST(SGOT)-27 LD(LDH)-152 ALK PHOS-139* TOT BILI-1.1 [**2169-1-5**] 06:04PM   GLUCOSE-111* UREA N-36* CREAT-0.8 SODIUM-142 POTASSIUM-4.4 CHLORIDE-110* TOTAL CO2-25 ANION GAP-11 [**2169-1-5**] 06:04PM   ALBUMIN-2.8* CALCIUM-9.8 PHOSPHATE-2.7 MAGNESIUM-1.9  OSH ([**Date range (1) 69929**]-[**Date range (1) **]) Labs WBC 26.6(87P,8B)->33.7(84P,6B)->30.1(87P,7B)->25.2 HCT 37.6->28.7->30.5->31.8 Plt 245->201->109->93 PT/INR ([**1-5**]) 11.4/1.1 Cr 1.44->1.32->1.08->0.75 Alb 1.9 TB 1.9->1.5->1.2 AP 198->134->128 AST 46->35->30 ALT <5->24->7 TNI 0.12 ([**2169-1-2**]) BNP 733 ([**1-3**])->1508 ([**1-4**]) UA: neg LE, neg nit, 1+ gluc, trace acetone, 1.015  OSH Micro: [**2169-1-2**]: Blood culture-E. coli (Amp R, Cipro R, [**Last Name (un) **] Augmentin, Aztreonam, Cefazolin, Cefoxitin, Ceftriaxone, fent, imipenem, zosyn) [**2169-1-2**]: Urine culture-negative [**2169-1-2**]: Blood cluture: K. pneumonia, other GNR [**2169-1-4**]: Blood culture: GNR, GPC [**2169-1-4**]: Blood culture: GPC [**2169-1-4**]: Sputum culture: Yeast  OSH studies: 1.
+CT abd/pelvis ([**1-3**]): double biliary stent catheter in place with evidence of continued biliary obstruction throught the liver--not improved.
+Liver shows areas of decreased enhancement in posterior right lobe and in the anterior left lobe with no definite mass effect seen suspicious for possibility of infections at that site.
+Procedures: Multiple stone fragments and sludge were extracted successfully using a 11 mm balloon.
+The nasogastric tube has been removed.
+The largest measures approximately 2 cm and may be amenable to percutaneous sampling if desired, but is not likely amenable to catheter drainage at its present size.
+9-mm pancreatic hypodensity, not previously visualized.
+[**2169-1-10**] CPK 10  AST 26  ALT 6  AlkPh 135  Tb 1.4   Brief Hospital Course: 83 year old female with history of biliary obstruction, polymicrobial bacteremia from cholangitis presented with biliary sepsis.
+On transfer to the floor from [**Hospital Unit Name 153**], she was transitioned to linezolid and gentamicin alone.
+ID was consulted, and antibiotics were changed from Linezolid and Gent to Ceftriaxone and Daptomycin on [**1-10**] due to the duration of treatment that will be required.
+# Cholangiocarcinoma: Discussion with family to clarify goals of care revealed that patient is not planning on surgery or chemo/XRT given extremely poor prognosis of cancer.
+CHADS score is 4, and she was placed on Lovenox with transition to coumadin.
+- resumed Lovenox [**2169-1-9**] s/p PICC placement for coumadin bridge - INR 1.9 at time of discharge - Coumadin dosing:  5 mg po q 1600 since [**2169-1-9**].
+Please follow INR and titrate coumadin dosing as appropriate.
+The patient was started on a heparin gtt with a goal PTT of 50-70, and then transitioned to Lovenox/coumadin.
+- on lovenox/coumadin .
+Has LE edema and is on chronic Lasix at home.
+ECG here with new TWI V1-V4 and maintainance of new axis since [**1-2**]--cycled enzymes; Trp 0.05 but CK-Mb remained negative.
+She was continued on aspirin and a statin.
+- Currently appears euvolemic and BUN/Cr stable - restarted Lasix [**1-10**] .
+# Concern for aspiration: There was concern that the patient aspirated her pm meds so her meds were changed to IV and speech and swallow c/s was requested.
+PO intake of nectar thick liquids and ground solids.
+# Parkinson's Disease: She was continued on Sinemet.
+Medications on Admission: Medications at home: simvastatin 10 mg daily, lasix 40 mg daily, omeprazole 40 mg daily, albuterol 2 puffs/4x day, singulair 10 mg daily, MVI, prazosin 2 mg [**Hospital1 **], mirapex 0.375 mg tid, carbidopa/levodopa 25/100 mg three times per day  Medications at transfer from rehab: Albuterol neb q4h, SSI, Lovenox, Protonix 40 mg IV daily, simvastatin 10 mg qhs, singulair 10 mg daily, MVI, Aspirin 81 mg daily, gentamicin 120 mg IV daily since [**1-3**], nystatin, imipenim/cilastin 250 mg IV q6h, pramipexole 0.375 mg tid, sinemet 25/100 mg three times/day, digoxin 0.25 mg IV q4h X 4 doses (received X 4), vancomycin 1 gm IV q24h, digoxin 0.125 mg po daily, propafenone.
+Diltiazem gtt stopped [**2169-1-5**] at 12 am.
+Carbidopa-Levodopa 25-100 mg Tablet Sig: One (1) Tablet PO TID (3 times a day).
+Simvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1)  Inhalation Q6H (every 6 hours) as needed.
+Montelukast 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+Ipratropium Bromide 0.02 % Solution Sig: One (1) nebs Inhalation Q6H (every 6 hours) as needed for wheezing.
+Digoxin 125 mcg Tablet Sig: One (1) Tablet PO EVERY OTHER DAY (Every Other Day).
+Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 times a day).
+Enoxaparin 80 mg/0.8 mL Syringe Sig: One (1) inj Subcutaneous Q12H (every 12 hours) for until INR >2 days.
+Warfarin 5 mg Tablet Sig: One (1) Tablet PO Once Daily at 4 PM: please follow INR and titrate dose accordingly.
+Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Heparin Flush (10 units/ml) 2 mL IV PRN line flush PICC, heparin dependent: Flush with 10mL Normal Saline followed by Heparin as above daily and PRN per lumen.
+CeftriaXONE 1 g IV Q24H Start: In am 15.
+Daptomycin 500 mg Recon Soln Sig: One (1) Recon Soln Intravenous Q24H (every 24 hours).
+Insulin Regular Human 100 unit/mL Solution Sig: One (1) per sliding scale Injection ASDIR (AS DIRECTED).
+Discharge Disposition: Extended Care  Facility: [**Hospital 169**] Center  Discharge Diagnosis: # Biliary sepsis # Biliary obstruction # Liver abscesses # Cholangiocarcinoma # Paroxysmal atrial fibrillation # Left lower extremity DVT # Chronic diastolic CHF # Parkinson's disease   Discharge Condition: stable   Discharge Instructions: Please seek medical attention if you develop fevers, chills, changes in mental status, abdominal pain, or any other concerns.
+Followup Instructions: Please continue to take antibiotics as prescribed.

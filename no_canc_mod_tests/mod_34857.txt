@@ -1,0 +1,21 @@
+Physical Exam: ADMISSION PHYSICAL EXAMINATION: VS: 98.4 83 123/59 16 95% 2L Gen: Comfortable.
+RLE DP pulse 2+.
+Pertinent Results: ADMISSION LABS: [**2175-3-4**] 03:00AM BLOOD WBC-12.6* RBC-4.49* Hgb-13.4* Hct-39.0* MCV-87 MCH-29.8 MCHC-34.3 RDW-13.8 Plt Ct-229 [**2175-3-6**] 01:45PM BLOOD Neuts-80.6* Bands-0 Lymphs-13.6* Monos-4.9 Eos-0.8 Baso-0.1 [**2175-3-4**] 03:00AM BLOOD Plt Ct-229 [**2175-3-4**] 10:37AM BLOOD PT-13.8* PTT-26.5 INR(PT)-1.2* [**2175-3-4**] 03:00AM BLOOD Glucose-185* UreaN-19 Creat-1.0 Na-139 K-4.2 Cl-104 HCO3-19* AnGap-20 [**2175-3-4**] 05:23AM BLOOD Calcium-9.5 Phos-2.9 Mg-1.9 Cholest-177 [**2175-3-4**] 05:23AM BLOOD Triglyc-110 HDL-38 CHOL/HD-4.7 LDLcalc-117 LDLmeas-124 [**2175-3-4**] 06:30AM BLOOD %HbA1c-5.9  CARDIAC ENZYMES: [**2175-3-4**] 03:00AM BLOOD cTropnT-0.19* [**2175-3-4**] 10:33AM BLOOD CK-MB-455* MB Indx-10.1* [**2175-3-4**] 06:06PM BLOOD CK-MB-197* MB Indx-6.6* cTropnT-6.94* [**2175-3-5**] 06:15AM BLOOD CK-MB-55* MB Indx-3.9 [**2175-3-6**] 05:45AM BLOOD CK-MB-12* MB Indx-2.6 cTropnT-4.64* [**2175-3-6**] 05:35PM BLOOD CK-MB-10 MB Indx-2.8  [**2175-3-4**] Cardiac Catheterization: 1.
+Coronary angiography of this right dominant system revealed single vessel coronary artery disease.
+The LMCA, LCx, and RCA were all without angiographically evident flow limiting stenosis.
+Resting hemodynamics revaled aortic systolic pressure of 101 mm Hg.
+Left ventriculography was not performed.
+Final angiography revealed no residual stenosis, no angiographically apparent dissection and TIMI III flow.
+Coronary angiography revealed stent thrombosis of proximal LAD.
+Resting hemodynamics revealed a SBP of 137mmHg and DBP of 92mmHg.
+The catheterization on [**2175-3-4**] was complicated by development of a right femoral hematoma.
+Femoral US on [**2175-3-4**] showed no bleed, pseudoaneurysm or AV fistula, and Hct remained stable.
+Repeat PTCA with overlapping BMS was performed.
+Patient will likely require cardiac rehabilitation, will defer further management to primary cardiologist.
+Acute Systolic heart failure: After MI, TTE revealed LVEF = 30% and moderate regional left ventricular systolic dysfunction with anterior, anteroseptal, apical, and distal inferior severe hypokinesis/akinesis (LAD distribution).
+Outpatient Lab Work Please check PT, PTT, INR and chem 7.
+You underwent a heart catheterization that was able to open the obstruction.
+Please keep all of your follow-up appointments and have your blood tests done as directed.
+You will have your INR level checked at your primary doctor's office in the next few days.
+At that time you should have your blood electrolytes, kidney function and INR checked.
+You also have an appointment with a cardiologist Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 7047**] [**Telephone/Fax (1) 8725**] on Tuesday, [**3-28**] at 4 pm.

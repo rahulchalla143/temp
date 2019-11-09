@@ -1,0 +1,70 @@
+Admission Date:  [**2151-8-1**]              [**Month/Day/Year **] Date:   [**2151-8-4**]  Date of Birth:  [**2074-11-28**]             Sex:   M  Service: MEDICINE  Allergies: Ancef  Attending:[**Last Name (NamePattern4) 290**] Chief Complaint: Chest pain  Major Surgical or Invasive Procedure: none   History of Present Illness: This is a 76 yo male with pmhx significant for morbid obesity, OSA, MG who was recently discharged ([**2151-7-27**]) after being admitted from OSH with ddx of bilateral cellulitis, CCU stay c/b VT and non STEMI, s/p post tracheostomy [**6-11**].
+At [**Hospital1 18**] he course could be resumed as follows: His cellulitis was treated with vancomycin on arrival, and he received 14 day antibiotic course.
+his NIF's were lowed, he also had a a RLL infiltrate that he was treated with levauine.
+His was treated with medical management heparin, BB, aspirin plavis and statin.
+Regaridng his MG, he was continued on mestinon and neoral.
+He was given ativan 2 mg x 1, ASA, 325mg Pox1.
+They placed a 3 way foley and started NS bladder irrigation.
+he was also given dilaudid 0.5mg x1.
+erythema over anterior shin area bilaterally.
+Left lower lobe atelectasis  Brief Hospital Course: 76 M with pmhx significant for morbid obesity, HTN, DM OSA, trach'd recently d/c from [**Hospital1 18**] with course c/b new NSTEMI and difficulties weaning off the vent who presents with an episode of chest pain.
+He was continued on aspirin, lipitor, metoprolol, plavix and lisinopril.
+GIven that there would be no change in management would avoid hospitalization unless there are other indicators of significant cardiac ischemia such as EKG changes or hemodynamic instability.
+However, on admission he was having 1 minute episodes of apnea when put on pressure support.
+He was slowly weaned and was tolerating pressure support [**12-5**] at [**Month/Year (2) **].
+He was also started on standing PO ativan which seems to help with anxiety which on PS.
+Bllod cultures had no growth to date as [**Month/Year (2) **], C. Diff was negative, urine culature neagtive and sputum showed gram negative rods which were not yet sepciated at [**Month/Year (2) **].
+# Renal: [**2151-8-3**] decrease on urine output that has responded to fluid boluses.
+Monitor and continue fluid boluses as needed.
+#CV: CAD: s/p NSTEMI - continue medical management plavix, aspirin, BB and statin.
+Well controlled on betablocker and ace inhibitor.
+#PPX: heparin SC, protonix.
+# Code: Full   Medications on Admission: 1.
+Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1) Injection TID (3 times a day).
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed.
+Sertraline 50 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+Clotrimazole 1 % Cream Sig: One (1) Appl Topical [**Hospital1 **] (2 times a day).
+Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q4-6H (every 4 to 6 hours) as needed.
+Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Multivitamin Capsule Sig: One (1) Cap PO DAILY (Daily).
+Zinc Sulfate 220 mg Capsule Sig: One (1) Capsule PO DAILY (Daily).
+Pyridostigmine Bromide 60 mg Tablet Sig: Three (3) Tablet PO  Q8H (every 8 hours).
+Insulin Regular Human 100 unit/mL Solution Sig: Three (3) Injection ASDIR (AS DIRECTED): Sliding Scale Per Protocol.
+Lansoprazole 30 mg Susp,Delayed Release for Recon Sig: One (1) PO DAILY (Daily).
+Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO Q6H (every 6  hours) as needed for anxiety.
+Ipratropium Bromide 17 mcg/Actuation Aerosol Sig: 6-12 Puffs  Inhalation QID (4 times a day).
+Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical QID  (4 times a day) as needed.
+Cyclosporine Modified 100 mg/mL Solution Sig: Seventy Five (75) mg PO Q12H (every 12 hours).
+Fluticasone 110 mcg/Actuation Aerosol Sig: Two (2) Puff Inhalation [**Hospital1 **] (2 times a day).
+Hydromorphone 0.5-2 mg IV Q3-4H:PRN 19.
+Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Metoprolol Tartrate 25 mg Tablet Sig: 1.5 Tablets PO BID (2  times a day).
+Lorazepam 0.5-1 mg IV HS:PRN Hold for RR <12 22.
+Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs Inhalation  Q4H (every 4 hours) as needed.
+Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1) mL Injection TID (3 times a day).
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed.
+Sertraline 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Clotrimazole 1 % Cream Sig: One (1) Appl Topical  [**Hospital1 **] (2 times a day).
+Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q4-6H (every 4 to 6 hours) as needed.
+Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Multivitamin     Capsule Sig: One (1) Cap PO DAILY (Daily).
+Zinc Sulfate 220 mg Capsule Sig: One (1) Capsule PO DAILY (Daily).
+Pyridostigmine Bromide 60 mg Tablet Sig: Three (3) Tablet PO Q8H (every 8 hours).
+Lansoprazole 30 mg Susp,Delayed Release for Recon Sig: Thirty (30) mg PO DAILY (Daily).
+Ipratropium Bromide 17 mcg/Actuation Aerosol Sig: 6-12 Puffs Inhalation QID (4 times a day).
+Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical  QID (4 times a day) as needed.
+Cyclosporine Modified 25 mg Capsule Sig: Three (3) Capsule PO Q12H (every 12 hours).
+Fluticasone 110 mcg/Actuation Aerosol Sig: Two (2) Puff Inhalation [**Hospital1 **] (2 times a day).
+Hydromorphone 2 mg/mL Syringe Sig: 0.5-2 mg Injection Q3-4H (Every 3 to 4 Hours) as needed for pain.
+Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Metoprolol Tartrate 25 mg Tablet Sig: 1.5 Tablets PO BID (2 times a day).
+Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs Inhalation Q6H (every 6 hours) as needed.
+Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Heparin Flush PICC (100 units/ml) 2 ml IV DAILY:PRN 10 ml NS followed by 2 ml of 100 Units/ml heparin (200 units heparin) each lumen Daily and PRN.
+Lorazepam 0.5-1 mg IV Q6H:PRN Hold for sedation, RR<12 24.
+Insulin Regular Human 100 unit/mL Solution Sig: Per sliding scale  Injection ASDIR (AS DIRECTED).
+Please take all of your medications as directed.

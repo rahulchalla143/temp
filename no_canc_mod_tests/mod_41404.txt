@@ -1,0 +1,26 @@
+Admission Date:  [**2122-7-16**]              Discharge Date:   [**2122-7-22**]  Date of Birth:  [**2054-10-24**]             Sex:   M  Service: MEDICINE  Allergies: Codeine / Ativan  Attending:[**First Name3 (LF) 1145**] Chief Complaint: Chest Pain  Major Surgical or Invasive Procedure: Cardiac Catheterization X2   History of Present Illness: 67 year old man with h/o of colon cancer )s/p colectomy + chemo year?
+Echo showed EF = 45-50% with global hypokinesis (poor windows).
+80% mid 85% distal RCA, 70% Circ, Left main 20%, LAD prox 40, mid 40%.
+NECK- Supple with JVP of 7 cm.
+distal LE with doplerable pulses and no motor or sensory deficits.
+SKIN- No rash PULSES- Right: Carotid 2+ Femoral 2+ DP doplered PT doplered Left: Carotid 2+ Femoral 2+ DP doplered PT doplered  \  Discharge Vitals - Tm/Tc:98.4/97.7 HR:80-90 BP:96-119/62-73 RR:18 02 sat: 97% RA In/Out:  Last 24H: 1840/2860 Weight: 46.7(44)different scale GENERAL: cachectic appear, NAD, oriented x 2 (person and place, not date or situation) HEENT: NCAT.
+adentitious NECK: Supple with JVP of 7 cm.
+Pertinent Results: ON ADMISSION  [**2122-7-17**] 08:40AM BLOOD WBC-3.3* RBC-3.75* Hgb-12.5* Hct-38.0* MCV-101* MCH-33.2* MCHC-32.8 RDW-14.7 Plt Ct-283 [**2122-7-17**] 08:40AM BLOOD Glucose-85 UreaN-10 Creat-0.8 Na-139 K-4.3 Cl-107 HCO3-22 AnGap-14 [**2122-7-18**] 05:07AM BLOOD Calcium-8.4 Phos-3.2 Mg-2.1 [**2122-7-17**] 08:40AM BLOOD Triglyc-171* HDL-44 CHOL/HD-5.0 LDLcalc-140* [**2122-7-17**] 08:40AM BLOOD %HbA1c-5.8 eAG-120  Nuclear ETT (OSH): reversible lateral and inferior wall ischemia, LVEF 45-50%.
+ECHOCARDIOGRAM (OSH): EF = 45-50% with global hypokinesis (poor windows).
+CARDIAC CATH [**7-16**]: Cardiac catheterisation used a L-femoral approach, after failed to access narrow R-radial.
+Diagnostic component revealed RCA: 80% mid, 85% distal; Cx: 70%; LMS: 20%; LAD: prox 40, mid 40%.
+CARDIAC CATH [**7-17**]: Cardiac catheterisation used a R-femoral approach.
+[**2122-7-18**] 12:17PM BLOOD CK-MB-133* MB Indx-11.7*  ECHO [**7-20**] The left atrium is normal in size.
+Left ventricular wall thicknesses and cavity size are normal.
+Discharge Labs: [**2122-7-22**] 06:00AM BLOOD WBC-4.6 RBC-2.96* Hgb-9.9* Hct-30.7* MCV-104* MCH-33.4* MCHC-32.3 RDW-15.4 Plt Ct-333 [**2122-7-22**] 06:00AM BLOOD Glucose-83 UreaN-8 Creat-0.6 Na-139 K-4.0 Cl-107 HCO3-25 AnGap-11 [**2122-7-17**] 08:40AM BLOOD Triglyc-171* HDL-44 CHOL/HD-5.0 LDLcalc-140* [**2122-7-17**] 08:40AM BLOOD %HbA1c-5.8 eAG-120  Brief Hospital Course: 67 year old man with h/o of colon cancer s/p colectomy + chemo [**2119**], tobacco smoking, COPD, HLD, Glaucoma and dementia who was transfered from [**Doctor First Name **]-[**Last Name (un) **], found to have positive ETT, now s/p cath with RCA rota 1.5mm burr with overlapping BMS x2 complicated by hypotension.
+Cath showed LMCA ostial 20% stenosis, distal 3+ calcification, LAD proximal 3+ calcification with 40% calcification and mid 40% stenosis, LCX had a proximal 3+ calcification with 70 % stenosis, RCA had a 3+ calcification of proximal, mid 80% and distal 85%.
+Will need further work up with ABI as inpt or once discharged.
+Chronic Issues Managed:  # COPD: Findings on lung exam and low ECG voltage suggest significant emphysematous changes.
+Per family he was more confused then baseline during admission  Transitions of Care: 1.Pt needs follow up for PAD 2.Consider adding ACEI if BP tolerates 3.
+Information was obtained from Family/Caregiver.
+Discharge Instructions: You were transferred to this hospital from [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] hospital after a test showed that you had some blockages in your arteries.
+You had a cardiac catherization which showed a blockage in your right coronary artery that was opened with 2 bare metal stents.
+You had a heart attack during the procedure but an echocardiogram showed that your heart is functioning well, although there is an area that is not contracting.
+It was a pleasure taking care of you, Mr [**Known lastname **] [**Last Name (NamePattern1) **] were transferred to this hospital from [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] hospital after a test showed that you had some blockages in your arteries.
+You had a cardiac catherization which showed a blockage in your right coronary artery that was opened with 2 bare metal stents.
+You had a heart attack during the procedure but an echocardiogram showed that your heart is functioning well, although there is an area that is not contracting.

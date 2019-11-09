@@ -1,0 +1,52 @@
+Admission Date:  [**2155-10-3**]              Discharge Date:   [**2155-10-14**]  Date of Birth:  [**2075-11-7**]             Sex:   M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**Last Name (NamePattern1) 29226**] Chief Complaint: Fever  Major Surgical or Invasive Procedure: None  History of Present Illness: This is a 79 year old man with a history of colon cancer s/p colectomy in [**2144**], relapse in [**2150**] with metastasis to liver and lung s/p TACE and multiple chemotherapy regimens, recently admitted to the [**Hospital1 18**] from [**Date range (3) 91580**] for further work up for biliary obstruction secondary to malignancy, s/p sphincterotomy and biliary stent placement with malignant appearing stricture noted at the hilum [**2155-9-17**], now presenting with fever and rigors.
+The patient was given five days of Ciprofloxacin after the stent procedure.
+Pt notes his chemo regimen was changed last week.
+Of note, he was discharged fromt he hospital recently on [**2155-9-18**] with for three weeks of puritis, anorexia, fatigue, and jaundice due to biliary obstruction secondary secondary to metatstic colon cancer, with an ultrasound showing liver mets leading to bile duct obscturtion, for which he was taken to ERCP [**2155-9-17**] with successful placement of metal stent.
+Past Medical History: Colon CA Dx [**2144**] Tx with colectomy only with anastamosis Repalse of disease in [**2150**] with metastasis to liver and lung s/p TACE and multiple chemotherapy regimens last dose 8/11.
+Ertapenem 0.023 MCG/ML, SENSITIVE : Sensitivity testing performed          by Etest , REQUESTED BY DR.[**Last Name (STitle) 2323**] [**Name (STitle) 2324**] ([**Numeric Identifier 38654**]).
+An infusion port catheter ends close to the superior cavoatrial junction.
+Brief Hospital Course: This is a 79 year old man with a history of metastatic colon cancer with known metastases to the liver and lung, s/p recent ERCP with biliary stent placement who presented with fever and hypotension requiring initial ICU admission, found to be bacteremic on admission.
+He later became hypotensive to 90s without compensatory tachycardia (of note, patient is on a beta-blocker at home).
+He was given IVFs and received 1 unit PRBCs.
+His blood pressures remained stable during his stay in the ICU and he did not require pressors at any time.
+His beta blocker was later added back on for hypertension, but was switched from atenolol to metoprolol in the setting of renal failure.
+He was started in empiric Vancomycin and Zosyn in the ICU and surveillance cultures were sent.
+These antibiotics were continued on the OMED service until admission blood cultures grew out E. coli, pansensitive except to cipro.
+He was switched to CTX and clindamycin (CTX for e. coli, clinda for concerns about oral infection because he was complaining of tooth pain).
+He was switched to vanc/zosyn per their recs and started on nystatin for oral thrush.
+He was also started on valtrex for outbreak of herpes labialis.
+ANC recovered and pt was switched to ertapenem monotherapy for ease of home dosing for a total course of 14 days.
+He will switch to maintenance therapy with acyclovir after a 7d course of valtrex.
+Oral surgery evaluated the patient and did not feel there was infection or abscess present, and that the tooth could be extracted at the patient's convenience, per onc recs on timing.
+Clinda was stopped after oral infection had been ruled out.
+Etiology was uncertain but could be medication vs. pre-renal (pt appeared dry and required a lot of fluids on the floor).
+Pt will require triple therapy at some point, but ID recommended pursuing this after completion of his current treatment for bacteremia.
+He was given 1 unit PRBCs as above and it was felt that his anemia was most likely secondary to his recent chemotherapy.
+His Hct stabilized after the transfusion and no further intervention was required.
+His BP stabilized in the ICU and he became hypertensive again on the OMED floor, so he was restarted on his beta blocker, though started metoprolol instead of atenolol in the setting of renal failure.
+# Anxiety:   Patient was continued on his home antianxiety medications - Lorazepam and citalopram  TRANSITIONAL ISSUES: 1.
+Triple therapy for H. pylori 2. follow up renal function 3. follow up CXR nodules  Medications on Admission: 1.
+Clindamycin Phosphate 1 % Topical Gel apply to affected areas three times a day 2.
+Ondansetron HCl 8 mg Oral Tablet take 1 tablet as directed 3.
+Lorazepam 0.5 mg Oral Tablet 1-2 tablets Q6 hours PRN nausea  4.
+Cholestyramine-Aspartame (CHOLESTYRAMINE LIGHT) 4 gram Oral Packet 1 PACKET THREE TIMES DAILY AS DIRECTED 5.
+Omeprazole 20 mg Oral Capsule, Delayed Release(E.C.)
+Atenolol 50 mg Oral Tablet one tablet daily 7.
+Citalopram 40 mg Oral Tablet take [**12-29**] tablet(20mg) daily 8.
+Darbepoetin Alfa In Polysorbat (ARANESP, POLYSORBATE,) 200 mcg/0.4 mL Injection Syringe 200mcg sub q 9.
+MULTIVITAMIN CAPSULE PO (MULTIVITAMINS) 1 po qd   Discharge Medications: 1. ertapenem 1 gram Recon Soln Sig: One (1) Recon Soln Injection daily () as needed for e.coli bacteremia for 3 days: last dose [**10-17**].
+Tablet, Rapid Dissolve(s) 3. lorazepam 0.5 mg Tablet Sig: 1-2 Tablets PO every six (6) hours as needed for anxiety.
+4. omeprazole 20 mg Capsule, Delayed Release(E.C.)
+5. metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Disp:*28 Tablet(s)* Refills:*0* 6. citalopram 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+7. clindamycin phosphate 1 % Gel Sig: One (1) appl Topical three times a day: to affected area.
+8. cholestyramine-aspartame 4 gram Packet Sig: One (1) packet PO three times a day: as directed.
+Disp:*42 packets* Refills:*0* 11. nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID (4 times a day) as needed for thrush.
+Disp:*140 mL* Refills:*0* 12. valacyclovir 500 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 hours) for 3 doses: last dose [**2155-10-15**] PM.
+Disp:*1 bottle* Refills:*0* 14. acyclovir 400 mg Tablet Sig: One (1) Tablet PO twice a day.
+Discharge Instructions: Thank you for letting us take part in your care at [**Hospital1 771**].
+Your white blood cell count was also low, which is a side effect of your chemotherapy.
+You were given antibiotics and your white blood cell count came up on its own.
+The following changes were made to your medications:  STOPPED 1. atenolol  INCREASED 2. omeprazole 20mg by mouth twice a day  STARTED 3. ertapenem 1000mg intramuscular injection every 24 hours for 3 doses (last dose [**2155-10-17**]) 4. metoprolol tartrate 25mg by mouth twice a day 5. gelclair gel packet 15mL three times a day as needed for oral irritation 6. nystatin suspension 5mL by mouth four times a day as needed for thrush 7. valacyclovir 500mg one tab by mouth every 12 hours for 3 doses (last dose [**2155-10-15**] PM) 8.
+Magic Mouthwash (lidocaine/diphenhydramine/maalox) 15-30mL four times a day as needed for oral irritation 9. acyclovir 400mg by mouth twice a day for HSV prophylaxis  Followup Instructions: Appointments: Dr. [**First Name (STitle) 3459**] on [**2155-10-15**] at 10:00am Dr. [**First Name (STitle) 3459**] on [**2155-10-22**] at 10:30am ****You should ask Dr. [**First Name (STitle) 3459**] about when it will be safe to have your tooth extracted.
+Please talk to your primary care doctor about starting antibiotics for H. pylori, a bacteria that causes stomach ulcers.

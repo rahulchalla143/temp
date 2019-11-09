@@ -1,0 +1,24 @@
+Admission Date:  [**2148-6-13**]              Discharge Date:   [**2148-6-25**]  Date of Birth:  [**2089-11-5**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**Known firstname 6169**] Chief Complaint: leukocytosis of unclear etiology  Major Surgical or Invasive Procedure: bedside debridement of failed skin graft from outside hospital R IJ placement and removal PICC placement  History of Present Illness: Patient is a 58M with no significant past medical history who was admitted from clinic for further evaluation after being evaluated in Dr.[**Name (NI) 6168**] clinic for WBC of 83.9, with peripheral smear showing 8% blasts and atypical cells.
+Had upper and lower endoscopy which was negative.
+Received tagged red cell scan which lit up in area of thigh lesion, but no other abnormalities.
+Had bone marrow biopsy to investigate etiology of anemia, was told initially that it was normal, but later informed that it was abnormal.
+Pertinent Results: [**2148-6-13**] 10:31PM   CK(CPK)-34* [**2148-6-13**] 10:31PM   CK-MB-1 cTropnT-<0.01 [**2148-6-13**] 09:15PM   GLUCOSE-211* UREA N-17 CREAT-0.9 SODIUM-135 POTASSIUM-4.5 CHLORIDE-98 TOTAL CO2-22 ANION GAP-20 [**2148-6-13**] 09:15PM   ALT(SGPT)-34 AST(SGOT)-36 LD(LDH)-353* CK(CPK)-34* ALK PHOS-129* AMYLASE-71 TOT BILI-0.6 [**2148-6-13**] 09:15PM   LIPASE-42 [**2148-6-13**] 09:15PM   CK-MB-1 cTropnT-<0.01 [**2148-6-13**] 09:15PM   WBC-89.1* RBC-3.31* HGB-8.0* HCT-24.9* MCV-75* MCH-24.1* MCHC-32.1 RDW-26.8* [**2148-6-13**] 09:15PM   PLT COUNT-103* [**2148-6-13**] 09:15PM   PT-13.1 PTT-26.3 INR(PT)-1.1 [**2148-6-13**] 05:00PM   TOT PROT-6.6 URIC ACID-8.2* [**2148-6-13**] 05:00PM   TSH-2.0 [**2148-6-13**] 05:00PM   PEP-NO SPECIFI IgG-1344 IgA-187 IgM-66 [**2148-6-13**] 12:30PM   GLUCOSE-121* UREA N-16 CREAT-0.7 SODIUM-142 POTASSIUM-4.4 CHLORIDE-103 TOTAL CO2-28 ANION GAP-15 [**2148-6-13**] 12:30PM   ALBUMIN-3.6 CALCIUM-8.9 PHOSPHATE-4.9* MAGNESIUM-1.9 [**2148-6-13**] 12:30PM   PLT SMR-LOW PLT COUNT-115* [**2148-6-13**] 12:30PM   WBC-83.9* RBC-3.58* HGB-8.5* HCT-26.6* MCV-74* MCH-23.8* MCHC-32.1 RDW-26.7* .
+([**2148-6-13**]) CXR: IMPRESSION: AP chest reviewed in the absence of prior chest radiographs: Lungs are fully expanded and clear.
+([**2148-6-14**]) Abdominal U/S: 1.
+However, for confirmation, when clinically feasible, a multiphasic CT or MR is recommended to evaluate further.
+Left ventricular wall thicknesses are normal.
+Left ventricular systolic function is hyperdynamic (EF>75%).
+There is a mild resting left ventricular outflow tract obstruction in the setting of tachycardia and hyperdynamic LV function.
+([**2148-6-13**]): Bone Marrow Biopsy --FISH: An expanded population of myelomonocytic precursor with increased myeloblasts (12% of total events) is present.
+Cytogenetic studies may be very helpful in further defining this condition since translocation of PDGFR is present in a fraction of CMML patients.
+ID was consulted for work-up and management of fever/wound.
+No other localizing sources for infection could be found, CXR/UA/Blood cultures were without growth.
+- HEME/ONC: Bone Marrow biopsy showed myeloproliferative/myelodysplastic overlap syndrome.
+Tumor lysis labs were monitored closely.
+Pulmonology team was consulted, felt that hypoxia was mainly attributable to fluid overload based on Chest CT findings.
+Biopsy was not performed, but OSH report was obtained by dermatology, and picture was consistent with expected inflammatory infiltrate.
+ECHO showed preserved EF with dilated left atrium.
+Chest CT confirmed presence of fluid overload.
+Provider: [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern1) **], RN Phone:[**Telephone/Fax (1) 3241**] Date/Time:[**2148-6-27**] 12:00  2.
+Provider: [**Name10 (NameIs) 3242**] CHAIR 5  Date/Time:[**2148-6-27**] 12:00  3.
+Provider: [**Known firstname 1730**] [**Last Name (NamePattern4) 6175**], MD Phone:[**Telephone/Fax (1) 3237**] Date/Time:[**2148-6-27**] 1:00    Completed by:[**2148-6-26**

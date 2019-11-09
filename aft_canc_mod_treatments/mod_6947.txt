@@ -1,0 +1,53 @@
+Admission Date:  [**2195-7-15**]              Discharge Date:   [**2195-7-28**]  Date of Birth:  [**2133-5-26**]             Sex:   M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**Last Name (NamePattern1) 1167**] Chief Complaint: hypotension, elevated creatinine   Major Surgical or Invasive Procedure: Right heart catheterization with cardiac biopsy Pacemaker evaluation with atrial and [**Hospital1 **]-ventricular lead placement   History of Present Illness: 62M with hx of dilated CM (EF 35%), A fib on coumadin, AICD [**2183**] for non-sustained VT, PV, hyperferritinitis, COPD, irritable bowel syndrome with chronic diarrhea, presents with hypotension and increased creatinine.
+Earlier today he presented to an outpatient clinic for scheduled phlebotomy to treat hyperferritinemia.
+Phlebotomy was cancelled and he was sent to the emergency department for evaluation.
+Multiple medications, particularly anti-hypertensives, have been discontinued and started in the last few months in an attempt to relieve any medication effect exacerbating his diarrhea.
+He presented with new-onset A fib in [**2195-4-12**] and was started on coumadin.
+In the ICU, patient's hypotension resolved with holding of his home metoprolol and losartan.
+Digoxin, Metoprolol succinate and Diltiazem were all given with no success decreasing rates below 110s-120s.
+Initially had been planning to follow this outpatient at heart failure clinic, but because patient has been persistently tachycardic there is now concern for connection between poor rate control and restrictive physiology.
+AICD placed [**2183**] for non-sustained VT (recent interrogation)  3.
+Hyperferritin and polycythemia (ferritin up to 600s, Hct in 40s, possibly reactive to hepatic inflammation); therapeutic phlebotomy Q 3 months, last [**2195-4-12**].
+A fib on coumadin (previously on pradaxa) 5.
+Hemorrhoids 11. h/o pancreatitis (date unknown) 12.
+Insomnia 28. s/p drainage of perirectal abscess ([**2180**])   Social History: (per OMR) retired (high school Spanish teacher), lives with spouse [**Name (NI) **] [**Known lastname **] - Tobacco:  1ppd - Alcohol:  2/day - Illicits:  denies   Family History: (per OMR) His mother died at 81 of heart disease and she had some form of dementia possibly Alzheimer's disease.
+ECHO ([**7-28**]): Focused study to evaluate [**Hospital1 **]-V Pacer settings Baseline atrial paced AV delay 150 ms: no atrial systolic contribution to left ventricular filling; LVOT VTI = 17 cm  At atrial paced AV delay 200 ms: still no atrial systolic contribution to left ventricular filling; LVOT VTI = 18 cm.
+Due to his history of hyperferritinemia (negative genetic testing for hemochromatosis but patient declined liver biopsy in the past) there was concern that iron deposition could be contributing to his heart failure, causing diastolic dysfunction on top of his preexisting systolic CHF.
+Patient remained compensated throughout hospitalization; clinically euvolemic with stable weights on home diuretics.
+He will follow up with Dr. [**First Name (STitle) 437**] about the results of his biopsy and for future management of his CHF.
+#RHYTHM: Patient was hypotensive on presentation, likely secondary to recent diarrhea and uptitration of Metoprolol to 100mg daily, so his antihypertensives were held and he was volume rescuscitated and returned to normotensive status.
+Next verapamil, dig and metoprolol were tried; however, the patient then had an episode of vtach progressing to ventricular fibrillation, terminated by his ICD.
+He was finally loaded with amiodarone (not used initially due to concern that it may have caused hypotension/pulmonary fibrosis in the past) and the verapamil and digoxin were stopped.
+Echo following pacer upgrade showed that he still had suboptimal LV filling with, so AV conduction delay was increased to 200ms.
+Meds on discharge are amiodarone, metoprolol and his home dose coumadin.
+# Hypotension :  presented with hypotension to the 80s/50s, not resolved following 3L NS in the ED, but improved shortly thereafter on transfer and with holding of metoprolol and his [**Last Name (un) **].
+He has had episodes of asymptomatic hypotension into the 80s/50s previously in [**2193**] which were found to be due to dehydration and over-medication with anti-hypertensives.
+His home metoprolol and losartan were restarted at half dose before discharge, which he tolerated well.
+# Emphysema:  All inhalers stopped in late [**Month (only) 116**] of this year, no steroids currently in use.
+Patient on nebulizers as needed.
+# Obstructive sleep apnea:  Irregularly compliant with CPAP at home, no paroxysmal nocturnal dyspnea events.
+Tamsulosin may have impact on blood pressure and thus was initially held.
+Tamsulosin was restarted on discharge.
+Continued OxyContin home dose  TRANSITIONAL ISSUES - heart biopsy f/u - needs echo in 3 months to assess for improved LV filling s/p increase in pacer AV delay, presuming AFib has not returned - may need 24 hour urine collection for metanephrines if concern for carcinoid tumor   Medications on Admission: metoprolol 75mg daily (AM) furosemide 40mg daily (AM) Losartan 50mg daily (PM) digoxin 0.250mg daily (PM) simvastatin 20mg daily (PM) fenofibrate 200mg daily (PM) tamsulosin 0.4mg QHS omeprazole 40mg [**Hospital1 **] clonazepam 1mg QHS gabapentin 600mg QHS OxyContin 20mg QHS citalopram 60mg daily folic acid 1mg daily (AM) MVI daily (AM) Vitamin E 400units [**Hospital1 **] thiamine 100mg daily (AM) .
+NOTE: over the last 4-6 weeks, has stopped the following: Combivent Flovent prednisone (taper from [**Month (only) **] PNA) modafenil Benicar amiodarone lorazepam atorvastatin mesalamine ASA   Discharge Medications: 1. citalopram 20 mg Tablet Sig: Three (3) Tablet PO DAILY (Daily).
+2. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+3. thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+4. clonazepam 0.5 mg Tablet Sig: Two (2) Tablet PO QHS (once a day (at bedtime)).
+5. gabapentin 300 mg Capsule Sig: One (1) Capsule PO HS (at bedtime).
+6. fenofibrate 50 mg Capsule Sig: Four (4) Capsule PO once a day.
+7. oxycodone 20 mg Tablet Extended Release 12 hr Sig: One (1) Tablet Extended Release 12 hr PO HS (at bedtime).
+8. warfarin 2.5 mg Tablet Sig: One (1) Tablet PO Once Daily at 4 PM: take 5mg one day per week per your regular schedule and have your INR checked when you see Dr. [**First Name (STitle) 1395**] next week.
+Disp:*32 Tablet(s)* Refills:*0* 9. simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+10. furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+11. nicotine 14 mg/24 hr Patch 24 hr Sig: One (1) Patch 24 hr Transdermal DAILY (Daily).
+Disp:*30 Patch 24 hr(s)* Refills:*0* 12. losartan 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0* 13. metoprolol succinate 50 mg Tablet Extended Release 24 hr Sig: One (1) Tablet Extended Release 24 hr PO DAILY (Daily).
+Disp:*30 Tablet Extended Release 24 hr(s)* Refills:*0* 14. tamsulosin 0.4 mg Capsule, Ext Release 24 hr Sig: One (1) Capsule, Ext Release 24 hr PO at bedtime.
+15. vitamin E 400 unit Capsule Sig: One (1) Capsule PO BID (2 times a day).
+16. amiodarone 200 mg Tablet Sig: as directed Tablet PO as directed: Take 1 pill twice a day for 7 days (first day = [**2195-7-29**], last day = [**2195-8-4**]) and then 1 pill once a day every day after that.
+Disp:*37 Tablet(s)* Refills:*0* 17. clindamycin HCl 300 mg Capsule Sig: One (1) Capsule PO every eight (8) hours for 7 days: Start date = [**7-29**] Stop date = [**8-4**].
+Discharge Instructions: You were referred to the hospital for low blood pressure, most likely caused by your recent diarrhea and recently increasing your blood pressure medications.
+Your heart rhythm was ultimately stabilized when we upgraded your pacemaker and made some changes to your heart medications (see below).
+Because you have heart failure and high iron levels, a cardiac biopsy was also done to determine whether iron deposition in your heart muscle is contributing to your heart failure (a potentially treatable condition).
+We made the following changes to your medications:  1) ADDED Amiodarone 200 mg twice a day for 1 week (start=[**6-28**], stop=[**7-4**]) then taper down to Amiodarone 200 mg once a day after that 2) ADDED Clindamycin 300mg every 8 hours for 7 days (start=[**6-28**], stop=[**7-4**]) 3) DECREASED Metoprolol succinate to 50mg daily 4) STOPPED Digoxin 0.25mg daily 5) DECREASED Losartan to 25mg daily 6) DECREASED Gabapentin to 300mg at bedtime  You should take the rest of your medications as prescribed before hospitalization.
+Followup Instructions: NEW APPOINTMENTS SCHEDULED FOR YOU:  Department: CARDIOLOGY (ELECTROPHYSIOLOGY) With: Dr. [**Last Name (STitle) 20574**] When: Please call ([**Telephone/Fax (1) 109598**] to schedule an appointment in the next month Department: DEVICE CLINIC When: Tuesday, [**2195-8-4**] at 1:30 PM Where: [**Hospital Ward Name **] CLINICAL CTR, [**Location (un) **]  Department: CARDIAC SERVICES When: MONDAY [**2195-8-10**] at 2:00 PM With: DR. [**First Name8 (NamePattern2) **] [**Doctor Last Name **] [**Telephone/Fax (1) 62**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage  Department: HEMATOLOGY/ONCOLOGY When: FRIDAY [**2195-8-7**] at 9:00 AM With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 9052**], MD [**Telephone/Fax (1) 22**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 24**] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage =============================================  PREVIOUSLY SCHEDULED APPOINTMENTS (you should keep):  [**2195-9-16**]  02:00p   DR. [**Last Name (STitle) **] [**Name (STitle) **] CLINICAL CTR, [**Location (un) **] CARDIOLOGY  [**2195-9-16**]  01:30p   DEVICE CLINIC [**Hospital Ward Name **] CLINICAL CTR, [**Location (un) **] DEVICE CLINIC  [**2195-9-7**]  11:30a   [**Last Name (LF) 1383**],[**First Name3 (LF) 1382**] (LIVER CENTER) LM [**Hospital Unit Name **], [**Location (un) **] LIVER CENTER

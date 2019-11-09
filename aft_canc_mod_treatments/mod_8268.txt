@@ -1,0 +1,32 @@
+Admission Date:  [**2153-7-31**]              Discharge Date:   [**2153-8-26**]  Date of Birth:  [**2076-5-20**]             Sex:   F  Service: MEDICINE  Allergies: Cipro / Codeine / Shellfish  Attending:[**Last Name (NamePattern4) 290**] Chief Complaint: abdominal pain   Major Surgical or Invasive Procedure: Intubation; blood product transfusions  History of Present Illness: 77F with history of Crohn's disease, multiple myeloma, anemia requiring multiple prior tranfusions, who initially presented to OSH with fevers and suddent onset of bilateral lower abdominal pain x1 day.
+Repeat CT abd/pelvis here (on prelim read) showed [**Last Name (un) **] non-hemorrhagic free fluid in abdomen and pelvis w/ periportal edema, abnormal appearance of the ileocecal junction and proximal colon, significant wall thickening and inflammation suggestive of colitis, distal terminal ileum with minimal wall thickening, and a fluid-filled dilated appendix (14 mm) with surrounding inflammation (most likely reactive inflammation from primary process involving proximal colon).
+She received a total of 4L IVF, and is currently receiving albumin 12.5 mg per Surgery recs.
+Received additional antibiotics with vancomycin 1 gram.
+Received fentantyl, dilaudid, and acetaminophen for pain control.
+Admitted to [**Hospital Unit Name 153**] with GI and Surgery to follow.
+She developed nausea and vomitting while on these medications and self d/c'd the cipro.
+Past Medical History: Crohn's disease COPD Multiple myeloma Chronic anemia requiring periodic transfusions Chronic pancytopenia  Past Surgical History: s/p ex-lap for Crohn's disease no bowel resection s/p cholecystectomy [**10**]'s s/p D&Cs   Social History: Lives at elderly nursing complex.
+Blood Culture, Routine (Preliminary):       [**Female First Name (un) **] (TORULOPSIS) GLABRATA.
+Blood Culture, Routine (Preliminary):       YEAST.
+The ET tube tip is 4 cm above the carina.
+The NG tube passes below the diaphragm terminating in the stomach.
+She was extubated on [**8-18**] after successful prolonged SBT, but reintubated approximately 8 hours later for an increase in work of breathing and O2 requirement.
+The possibility of tracheostomy and PEG were discussed with her and her family, but were prevented by the development of fungemia.
+A family meeting was held during which her family decided to transition to comfort care and she expired that afternoon.
+#Sepsis: The patient presented with neutropenic fever and shock requiring 3 pressors presumed secondary to sepsis from GI source given signs of colitis on CT imaging.
+She was weaned off pressors and completed 14 day course of Metronidazole and Cefepime.
+She was also briefly on PO/PR vancomycin which was discontinued after multiple C diff assays were negative.
+As above, she again developed signs of sepsis on [**8-26**] from presumed pulmonary source given poor oxygenation and diffuse bilateral infiltrates on CXR and broad antibiotic coverage was restarted.
+The possibility of tracheostomy and PEG placement were discussed with planned possible discharge to LTACH, but the patient developed fungemia before this was pursued.
+#Fungemia: Blood cultures from [**8-21**] grew [**Female First Name (un) **] and pt was started on micafungin for planned 4 week course, PICC line removed.
+#Anemia: HGB/HCT trended down with initial HCT 38.8 and subsequent HCT in low to mid 20s requiring 5 blood transfusions throughout her admission.
+#Colitis: Pt was followed by GI and started on high dose IV steroids for presumed Crohn's flare with slow taper (5mg/wk).
+She was also covered broadly with antibiotics for potential infectious etiology.
+#Edema: Pt became anasarcic with fluid resuscitation for sepsis.
+Diuresed briefly with lasix drip after which she showed brisk auto-diuresis with improvement in appearance of edema and return to near baseline weight.
+It was likely related to her initial hypotension, IV contrast,underlying multiple myeloma.
+Received DDAVP and several platelet transfusions prior to line placements.
+#Ileus: Pt had profuse, bilious output from NG/OG and was started on Erythromycin for gut motility with some improvement.
+Pain was managed with fentanyl boluses, agitation managed with olazepine and midazolam.
+#ELEVATED INR: INR noted to be elevated to peak 1.9, likely due to combination of poor nutrition and antibiotic therapy.
+Conservative managment with transfusions continued during hospitalization.

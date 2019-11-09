@@ -1,0 +1,8 @@
+Name:  [**Known lastname 4045**],[**Known firstname 4193**]                  Unit No:   [**Numeric Identifier 13745**]  Admission Date:  [**2192-2-16**]              Discharge Date:   [**2192-2-20**]  Date of Birth:  [**2129-3-11**]             Sex:   F  Service: MEDICINE  Allergies: Clindamycin  Attending:[**First Name3 (LF) 13746**] Addendum: Discharge meds on DC summary incorrect Asacol TID and metformin is [**Hospital1 **]   Glyburide  2.5 mg Tablet  Sig:  One (1) Tablet PO BID (2 times a day).
+Tablet(s)   Aspirin  81 mg Tablet  Sig:  One (1) Tablet PO once a day.
+Lisinopril  30 mg Tablet  Sig:  One (1) Tablet PO once a day.
+Actos  30 mg Tablet  Sig:  One (1) Tablet PO once a day.
+Asacol  400 mg Tablet, Delayed Release (E.C.)
+Pantoprazole  40 mg Tablet, Delayed Release (E.C.)
+Metformin  1,000 mg Tablet  Sig:  One (1) Tablet PO twice a day.
+Also PCP is [**Name9 (PRE) **] Name: [**Doctor Last Name 13747**] First Name: [**Doctor First Name **] Specialty: Internal Medicine Sub-specialty: Office Phone: ([**Telephone/Fax (1) 13748**] Office Fax: ([**Telephone/Fax (1) 13749**] Address Line 1: [**Last Name (NamePattern1) 13750**] [**Apartment Address(1) 13751**] Address Line 2: City: [**Location (un) 4887**] State: MA Zip: [**Numeric Identifier 13752**]   Discharge Disposition: Extended Care  Facility: [**Hospital1 536**] - [**Location (un) 42**]                               [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 13753**] MD [**MD Number(2) 13754**]  Completed by:[**2192-2-20**

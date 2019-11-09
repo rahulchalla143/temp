@@ -1,0 +1,43 @@
+Admission Date:  [**2132-1-8**]              Discharge Date:   [**2132-1-11**]  Date of Birth:  [**2073-6-4**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 1711**] Chief Complaint: chest pain  Major Surgical or Invasive Procedure: coronary catheterization with drug eluting stent placement in LAD   History of Present Illness: The patient is a 58 year old male physician with history of hypertension, mild chronic kidney disease (baseline Cr 1.5) no known CAD who presents with sudden onset heavy substernal chest pain that started at ~1am on the day of admission.
+He received aspirin, plavix 600, heparin and integrillin bolus and was taken emergently to the cath [**Hospital1 **].
+Heparin and integrilin were used for IV anticoagulation.
+A 6F XBLAD3.5 guiding catheter provided good support.
+The lesion was predilated with a 2.0x20 mm Voyager balloon at 8 ATM with TIMI 2 flow restored.
+A 3.5x23 mm Cypher stent was deployed across the lesion at 16 ATM and then postdilated with a 4.0x13 mm Powersail balloon at 20 ATM.
+IC Nitroglycerin and adenosine were given and normal flow in the LAD was restored.
+Successful emergency PTCA and stenting was performed of the proximal LAD occlusion with a 3.5x23 mm Cypher stent which was postdilated to 4.0 mm.
+PTCA of proximal LAD vessel.
+Successful PTCA and stenting of the proximal LAD with a drug eluting stent.
+ECHOCARDIOGRAM/TTE: Left Atrium - Long Axis Dimension: 4.0 cm (nl <= 4.0 cm) Left Atrium - Four Chamber Length: 5.2 cm (nl <= 5.2 cm) Right Atrium - Four Chamber Length: 4.8 cm (nl <= 5.0 cm) Left Ventricle - Septal Wall Thickness: *1.4 cm (nl 0.6 - 1.1 cm) Left Ventricle - Inferolateral Thickness: *1.4 cm (nl 0.6 - 1.1 cm) Left Ventricle - Diastolic Dimension: 4.4 cm (nl <= 5.6 cm) Left Ventricle - Ejection Fraction: 40% (nl >=55%) Aorta - Valve Level: *3.9 cm (nl <= 3.6 cm) Aorta - Ascending: 3.3 cm (nl <= 3.4 cm) Aortic Valve - Peak Velocity: 1.2 m/sec (nl <= 2.0 m/sec) Mitral Valve - E Wave: 0.5 m/sec Mitral Valve - A Wave: 0.6 m/sec Mitral Valve - E/A Ratio: 0.83 Mitral Valve - E Wave Deceleration Time: 185 msec INTERPRETATION: LEFT ATRIUM: Mild LA enlargement.
+Anterior myocardial infarction with ST-T wave configuration consistent with acute process 4.
+Anterior myocardial infarction with ST-T wave configuration acute/recent/in evolution process 5.
+Since previous tracing of [**2132-1-9**], no significant change   Brief Hospital Course: 58-year old white male was immediately taken to cardiac catheterization with intervention in the LAD, as noted above, transferred to CCU for post-procedure stabilization, and transferred to cardiology floor.
+Due to high suspicion of STEMI, patient was initiated on a heparin and integrillin drips and the patient was emergently taken to the cath [**Hospital1 **], where a 100% occlusion was found in the LAD and successfully stented, please see note above.
+From a medication standpoint, patient was treated with 80mg of a statin, aspirin 325mg, metoprol 25mg quid, plavix (post-cath) 150qd, and captopril, initally at 6.25 tid with uptitration to 12.5 tid.
+On day of discharge, patient's medication regimen continued with the high dose statin, aspirin, toprolXL 100qd, lisinopril 5mg qd.
+HEME:  Given risk for thrombus formation secondary to wall akinesis, anticoagulation was continued with an INR goal of 1.6 to 2.0.
+On hospital day 2, pt was begun on a coumadin bridge.
+Due to a small drop in hematocrit to 30, pt's anticoagulation with held with a subsequent rise to 33 with stabilization by the time of discharge.
+Patient's coumadin was re-initiated at 4mg qhs, with a discharge INR of 1.3  Patient was given one dose of 80units SC lovenox prior to his discharge and given a prescription for 80 units SC lovenox [**Hospital1 **] until early next week after follow INR checks, which will be addressed by patient's PCP.
+[**Name10 (NameIs) **] was also prescribed coumadin at 4mg qhs to be taken daily with the lovenox.
+PULM: patient's respiratory status was not an active issue during his stay, as he did not require oxygen supplemenation and did not acquire any shortness of breath upon exertion.
+Empirically he was initated on vancomycin and levofloxacin, with discontinuation of levofloxacin after a CXR failed to show any signs of pneumonia or infiltrate.
+The pIV lines were removed secondary to tenderness and possible cause of infection.
+Due to low clinical suspicion of an active clinical infection, the vancomycin was discontinued on day of discharge.
+Aspirin 325 mg Tablet, Delayed Release (E.C.)
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+Clopidogrel 75 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily) for 1 months.
+Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Enoxaparin 80 mg/0.8 mL Syringe Sig: One (1) syringe Subcutaneous Q12 () for 5 days: First dose to be administered, [**1-12**].
+Metoprolol Succinate 100 mg Tablet Sustained Release 24HR Sig: One (1) Tablet Sustained Release 24HR PO DAILY (Daily): First dose to be administered [**1-12**], received dose on [**1-11**].
+Disp:*30 Tablet Sustained Release 24HR(s)* Refills:*2* 7.
+Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily): First dose to be administered on [**1-12**], first dose given on [**1-11**].
+Warfarin 2 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime): First dose in PM of [**1-11**].
+tolerating oral medications and nutrition.
+Discharge Instructions: Patient is advised to continue all medications as prescribed.
+***Pt has been started on coumadin treatments for his depressed ejection fraction on his echocardiogram secondary to his myocardial infarction.
+On day of discharge, pt's INR was 1.3.
+Plan is to administer lovenox 80units sc prior to discharge and to write a prescription for lovenox 80units SC bid, concurrently administered with warfarin 4mg qhs saturday, sunday, and [**Last Name (STitle) **].
+Patient is given a PT/INR prescription to be checked on [**Last Name (STitle) 766**], which has been explained to him, and to which he and his wife agreed.
+Dr. [**Last Name (STitle) **] will then adjust the regimen of anticoagulation as he deems clinically indicated ([**Telephone/Fax (1) 49449**]).
+Also, if pt continues to bleed, risk vs. benefit of anticoagulation will have to be evaluated with PCP.

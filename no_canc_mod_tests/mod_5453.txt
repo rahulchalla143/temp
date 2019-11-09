@@ -1,0 +1,20 @@
+Admission Date:  [**2158-10-16**]              Discharge Date:   [**2158-10-21**]  Date of Birth:  [**2083-8-3**]             Sex:   M  Service: MEDICINE  Allergies: Penicillins / Iodine; Iodine Containing  Attending:[**First Name3 (LF) 7651**] Chief Complaint: NSTEMI  Major Surgical or Invasive Procedure: Cardiac Catheterization (diagnostic) Tooth extraction (#11)   History of Present Illness: Mr. [**Known lastname **] is a 75 y/o male with a h/o rheumatic heart disase, severe AS, HTN, and hyperlipidemia who presented initially to an OSH ED with severe SOB and was then transferred to the [**Hospital1 18**] ED when there was a concern for possible STEMI.
+Post-procedure, he was instructed to keep his BP 110-170, taking Sudafed at home if his BP decreased.
+A non-contrast CT scan was performed to r/o aortic dissection.
+OSH vitals on presentation: BP 146/80 HR 80 RR 16 100% on BiPap.
+Question of STE on EKG, CPK 521, Troponin 23.4, BNP 1328, and WBC 21.
+Vitals on presentation were T 98.5 HR 76 BP 112/69 RR 12 92% 4LNC.
+Denies alcohol or IVDU  Family History: Non-contributory  Physical Exam: General Appearance: Well nourished, No acute distress  Eyes / Conjunctiva: PERRL  Head, Ears, Nose, Throat: Normocephalic  Cardiovascular: (PMI Normal), (S1: Normal), (S2: Normal), (Murmur: Systolic), SEM, best heart RUSB, radiating to the carotids  Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse: Present), (Right DP pulse: Present), (Left DP pulse: Present)  Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Crackles : 1/2 up lung fields, No(t) Wheezes : )  Abdominal: Soft, Non-tender, Bowel sounds present, Distended, No(t) Tender:  Extremities: Right: 1+, Left: 2+  Skin:  Not assessed, Rash: on trunk, maculopapular  Neurologic: Attentive, A/O x 3.
+Pertinent Results: [**2158-10-16**] 05:33PM   CK(CPK)-241* [**2158-10-16**] 05:33PM   CK-MB-22* MB INDX-9.1* cTropnT-1.59* [**2158-10-16**] 05:33PM   GLUCOSE-145* UREA N-53* CREAT-1.9* SODIUM-139 POTASSIUM-3.6 CHLORIDE-99 TOTAL CO2-27 ANION GAP-17 [**2158-10-16**] 09:13AM   WBC-10.9 RBC-3.43* HGB-10.5* HCT-29.4* MCV-86 MCH-30.5 MCHC-35.6* RDW-15.1 [**2158-10-16**] 01:14AM   CK(CPK)-452* [**2158-10-16**] 01:14AM   CK-MB-41* MB INDX-9.1* [**2158-10-16**] 01:14AM   cTropnT-1.91*  CATH [**10-16**]: 1.
+ECHO [**10-16**]: Suboptimal image quality.
+LV wall thicknesses are normal.
+CXR [**10-16**]: 1.
+Bilateral atelectasis and retrocardiac opacities, for which repeat PA and lateral were recommended if there is concern for aspiration or pneumonia.
+CXR PA/LAT [**10-18**]: 1.
+Pt underwent cardiac catheterization which showed: 1.
+Pt agreed and underwent screening by CT [**Doctor First Name **] as well as multiple pre-op studies and dental work (removal of two teeth).
+Cardiac enzymes continued to trend down and pt was discharged home to continue course of plavix, to be stopped 4 days prior to surgery.
+Outpatient Lab Work Serum creatinine, urine analysis and urine culture to be done on [**11-1**] at [**Hospital **] medical building.
+You had a cardiac catheterization which showed severe aortic stenosis (a stiff arotic valve in your heart) and blockages in 3 of your arteries that feed blood to your heart.
+You will need to get repeat urine studies, as well as repeat blood work done on [**11-1**].
+Cardiology surgery: Stop taking plavix on [**11-1**] and have repeat labs done at the [**Hospital **] Medical Building [**Last Name (NamePattern1) 439**].

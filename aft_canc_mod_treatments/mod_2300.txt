@@ -1,0 +1,31 @@
+Admission Date:  [**2154-5-2**]              Discharge Date:   [**2154-5-10**]  Date of Birth:  [**2093-3-18**]             Sex:   M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 11839**] Chief Complaint: Renal Failure, Metabolic Disturbance  Major Surgical or Invasive Procedure: pleurodesis [**5-6**]   History of Present Illness: Mr. [**Known lastname 35763**] is a very pleasant 61 year old male with a new diagnosis of metastatic lung cancer who was referred to the ED after he was noted to have a creatinine of 10.3 on routine pre-procedure labs.
+Given Ceftriaxone 1g for presumed urinary tract infection Portable chest x-ray: Persistent right effusion Fluids: 1Lns Vitals prior to transfer: 97.4 107 103/54  20 1002L  On arrival to the MICU, patient's VS were 97.9 110, 127/70 26 100% on 2L.
+Although he did describe pain with coughing that resolved after the throcentesis on [**4-29**].
+Denies chest pain, chest pressure, palpitations.
+Brief Hospital Course: Mr. [**Known lastname 35763**] is a  61 year old male with a new diagnosis of metastatic lung cancer who was referred to the ED after he was noted to have a creatinine of 10.3 on routine pre-procedure labs.
+Most likely pre-renal azotemia from poor PO intake and possibly ATN due to IV contrast.
+CT chest with multiple masses in the lung including pleural based masses as well as evidence of bone mets.Pt has no pains incluing back pain or other symptoms suggestive of other bone mets/other mets.
+# Pleural Effusion: s/p thoracentesis [**2154-4-29**] (atypical cells).
+Effusion reaccumulated and IR peformed repeat thoracenetsis with placeemnt of pig tail.
+Pig tail removed and plan for pleurx cath next week as an outpt.
+# Fever/Pneumonia:Pt was staretd on ceftriaxone empirically for positive u/a on admision.
+Urine cx was eventually negative and pt with new fevers while on ceftriaxone.Pt was started on cefepime and vancomycin fo rpossible HCAP.
+Resolved with IVF in the ICU.
+Started albuterol nebs and switched to ipratropium due to tachycardia .
+#HTN: All hypertensive meds were d/c on admit.
+# DVT PPx: Heparin SC.
+Medications on Admission: Aspirin 81 mg Tab 1 Tablet(s) by mouth daily Hydrochlorothiazide 25 mg Tab 1 Tablet(s) by mouth daily Lisinopril 40mg PO daily Simvastatin 40 mg Tab 1 Tablet(s) by mouth daily Amlodipine 10mg PO Daily Sildenafil PRN Multivitamin Tab 1 Tablet(s) by mouth daily Folic acid 1 mg Tab  Discharge Medications: 1. nebulizer Nebulizer machine Diagnosis: COPD 2. thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*1* 3. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+4. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+5. multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+6. magnesium oxide 400 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Disp:*1 Disk with Device(s)* Refills:*0* 8. ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 hours) for 1 days.
+Disp:*2 Tablet(s)* Refills:*0* 9. metoprolol tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 times a day).
+Disp:*30 Tablet(s)* Refills:*0* 10. ipratropium bromide 0.02 % Solution Sig: One (1)  Inhalation Q8H (every 8 hours) as needed for shortness of breath or wheezing.
+Disp:*30 ml* Refills:*0* 11. docusate sodium 100 mg Tablet Sig: One (1) Tablet PO twice a day as needed for constipation.
+12. simvastatin 40 mg Tablet Sig: One (1) Tablet PO once a day.
+Discharge Instructions: Mr [**Known lastname 35763**], you were admitted to the intensive care unit because of kidney failure.
+Your blood pressure medications were stopped and you received IV fluids.
+You were also seen by the interventional radiology service and additional fluid was removed from your right lung.
+Changes in medications: New medications: metoprolol 12.5 mg po bid fluticasone salmeterol inhaler [**Hospital1 **] ipratropium nebulizer treatments q8hrs as needed for wheezing ciprofloxacin 500mg po bid x 1 day thiamine 100 mg po daily magnesium oxide 400mg po bid  Discontinue these medications: hydrochlorthiazide amlodpine lisinopril  Followup Instructions: You are scheduled for Monday morning to return to the interventional pulmonary service for teh pleurx catheter placement with Dr [**Last Name (STitle) **].
+Name:[**Doctor First Name 3577**] [**Last Name (NamePattern4) 35764**],MD Specialty: Primary Care Location: [**Hospital 3578**] COMMUNITY HEALTH CENTER Address: [**Hospital1 3579**], [**Location (un) **],[**Numeric Identifier 3580**] Phone: [**Telephone/Fax (1) 3581**] When: Tuesday, [**5-14**] at 12:45pm  Department: HEMATOLOGY/ONCOLOGY When: THURSDAY [**2154-5-16**] at 10:30 AM With: [**Name6 (MD) **] [**Name8 (MD) 831**], MD [**0-0-**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 24**] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage  Department: HEMATOLOGY/ONCOLOGY When: THURSDAY [**2154-5-16**] at 10:30 AM With: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] [**Telephone/Fax (1) 22**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 24**] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage .

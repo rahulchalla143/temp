@@ -1,0 +1,20 @@
+The patient was admitted for further management.
+The patient was initially diagnosed approximately 30 years ago with non-small cell lung cancer and underwent a Left upper lobectomy at that time.
+He was recently admitted in [**Month (only) 359**] with hemoptysis requiring intubation, found to have a new RUL mass and underwent bronchoscopy with laser excision found on pathology to be undifferentiated large cell CA.
+Dr. [**Last Name (STitle) 952**] of CT surgery saw the patient within the past 2-3 weeks.
+By report of the patient and his son, Dr. [**Last Name (STitle) 952**] wanted to proceed with possible surgical resection of the mass.
+Past Medical History: Onc History: NSCLC first diagnosed at age 45 s/p Left upper lobectomy at age 45 without adjuvant therapy at that time.
+On most recent admission, the patient suffered significant bleeding requiring intubation for airway protection.
+Pt underwent rigid bronchoscopy and argon ablation for neovascularization in the right mainstem bronchi.
+Because of the risk of hemoptysis anticoagulation was held.
+Continue Spiriva, Advair, Albuterol IH PRN.
+Continue beta blocker.
+Continue diuretic and beta-blocker.
+# CODE: Full Code   Medications on Admission: Hydrochlorothiazide 25 mg QD Lopressor 50 mg [**Hospital1 **] Lovenox 60 mg [**Hospital1 **] Advair [**Hospital1 **] Spiriva QD Albuterol inhaler PRN  Discharge Medications: 1.
+Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig: One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+Tiotropium Bromide 18 mcg Capsule, w/Inhalation Device Sig: One (1) Cap Inhalation DAILY (Daily).
+Albuterol 90 mcg/Actuation Aerosol Sig: One (1)  Inhalation every 4-6 hours as needed for shortness of breath or wheezing.
+You should not take this medication until you have talked with your oncologist.
+You should resume all of your home medications upon discharge including oxygen as needed.

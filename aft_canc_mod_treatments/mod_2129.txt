@@ -1,0 +1,68 @@
+Admission Date:  [**2161-11-9**]              Discharge Date:   [**2161-11-27**]  Date of Birth:  [**2099-7-2**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 3276**] Chief Complaint: Dyspnea, nausea, vomiting  Major Surgical or Invasive Procedure: received WBRT x 10 cycles  History of Present Illness: Mr. [**Known lastname 42603**] is a 62 year old male with history of metastatic large cell lung cancer to bone and recurrent malignant pleural effusion requiring PleurX catheter placement, HIV (CD4 535 in [**Month (only) 116**]) previously on HAART, who presented to the ED with N/V and SOB and tachypnea (RR of 55) that has not resolved since previous admission [**Date range (1) 42607**] where he was briefly in the MICU.
+He was admitted for dyspnea/tachypnea/epigastric pain, and found to have a Coag negative Staph in his pleural fluid and Urine and treated with levofloxacin.
+Also found to have tachypnea at that time that was thought to be [**3-9**] anxiety where morphine and ativan relieved his symptoms.
+Nothing appears to make it better, although now he states it is a [**2162-7-12**] on its own, although he received morphine and ativan in ED.
+He has also taken nausea pills that have helped some but have not fully relieved his symptoms.
+He received 2 L NS, Vancomycin 1 gram, Zosyn 4.5 grams, morphine 4 mg, ativan 1 mg.
+Not a good candidate for anticoagulation given his gastritis and mets.
+RR rate fluctates between 20 and 30 that responded to morphine and ativan.
+Past Medical History: [**7-/2159**]: Diagnosed with non small cell lung cancer by CT guided biopsy [**2159-9-20**]: PET scan with low-attenuation lesion in the left lobe of the thyroid gland measuring 25 x 7 mm in addition to markedly FDG avid left upper lobe mass consistent with known cancer and FDG avid prominent bilateral axillary lymphadenopathy suspicious for metastatic disease, but no pathologically enlarged infraclavicular lymph nodes.
+Further staging and treatment were deferred until the patient was stabilized on HAART therapy.
+He was initially seen by infectious disease doctors [**Last Name (NamePattern4) **] [**2160-1-10**] and was started on HAART therapy in 01/[**2160**].
+[**2160-8-6**]: Bronchoscopy, mediastinoscopy, and pleural drainage and talc pleurodesis by Dr. [**Last Name (STitle) **].
+He was started on carboplatin and gemcitabine on [**2160-8-28**] he has completed 4 cycles.
+[**2160-12-5**]: MR [**Name13 (STitle) **] with L1 lesion .
+- History of appendicitis status post appendectomy in [**2126**].
+He received transfusions potentially around the time of his appendectomy in [**2126**].
+exam unchanged    Pertinent Results: Admission Labs:  [**2161-11-9**] 09:25PM   GLUCOSE-157* UREA N-10 CREAT-1.7* SODIUM-144 POTASSIUM-3.5 CHLORIDE-110* TOTAL CO2-24 ANION GAP-14 [**2161-11-9**] 09:25PM   CALCIUM-8.8 PHOSPHATE-3.9 MAGNESIUM-2.3 [**2161-11-9**] 09:25PM   WBC-9.4 RBC-3.17* HGB-8.7* HCT-27.1* MCV-86 MCH-27.5 MCHC-32.1 RDW-17.5* [**2161-11-9**] 09:25PM   NEUTS-63.0 LYMPHS-28.4 MONOS-7.4 EOS-0.8 BASOS-0.4 [**2161-11-9**] 09:25PM   PLT COUNT-506* [**2161-11-9**] 09:25PM   PT-13.4 PTT-27.4 INR(PT)-1.1 [**2161-11-9**] 03:30PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-8.0 LEUK-NEG [**2161-11-9**] 03:23PM   LACTATE-2.0 K+-3.9 [**2161-11-9**] 03:15PM   ALT(SGPT)-20 AST(SGOT)-31 CK(CPK)-54 ALK PHOS-286* TOT BILI-0.3 [**2161-11-9**] 03:15PM   LIPASE-53 [**2161-11-9**] 03:15PM   cTropnT-<0.01 [**2161-11-9**] 03:15PM   ALBUMIN-2.9*  Results: CT chest/abdomen/pelvis: 1.
+Largely stable moderate left pleural effusion, containing pleural catheter located along the periphery of the effusion, unchanged from prior.
+Interval development of numerous supratentorial, infratentorial, and  brainstem enhancing lesions, some of them which are in the periphery [**Doctor Last Name 352**]-white matter junction and others which appear to invade/arise from the leptomeningeal space consistent with new intracranial metastatic disease.
+Labs at discharge: WBC    RBC  Hgb    Hct MCV MCH  MCHC RDW  Plt Ct 16.9* 3.43* 10.0* 28.9* 84 29.3 34.8 17.3* 369  Glucose UreaN Creat  Na   K  Cl HCO3 AnGap   163*   26*   1.4* 130* 4.1 90* 33*   11  ALT AST LD AlkPhos TotBili 28   32     342*     0.3  Calcium Phos  Mg  9.2    3.5  1.9      Brief Hospital Course: 62 year old man with HIV (CD4 483 in [**Month (only) **]) and a history of metastatic large cell lung cancer to the bone, and recurrent malignant pleural effusion with indwelling pleurx catheter, admitted for dyspnea and intractable nausea and vomiting.
+He is also s/p cholecystectomy and appendectomy.
+Since he has not been taking his HAART medication for some time, it was felt he can be safely transitioned to high dose proton pump inhibitors until he re-starts his HAART medication.
+He was also given zofran and compazine as needed for nausea.
+The patient was started on decadron with good response.
+He should receive his tenth and last cycle on [**2161-11-30**].
+Patient never had low saturations and was placed on nasal cannula at 3 liters/min of oxygen mainly for comfort.
+He was started on a fentanyl patch and given morphine and ativan as needed.
+He continued to recevie three times weekly drainage of his indwelling pleurx catheter during his hospital course.
+He should continue to receive thrice weekly drainage of 300 cc from his left-sided pleurx to manage his recurrent malignant pleural effusion.
+Of note, the patient was started on metformin for management of his steroid-induced hyperglycemia, and tolerated metformin well.
+He was initially managed with a basal/bolus regimen of insulin, but was transitioned to metformin with sliding scale insulin in an effort to limit his insulin requirements.
+He should continue this regimen following discharge.
+Was given ativan as needed.
+# CODE: Full code but changed to DNR later in stay  Medications on Admission: 1.
+Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Oxycodone 5 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours)  as needed for pain.
+Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1) Inhalation Q6H (every 6 hours) as needed for wheeze.
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2  times a day).
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Clonazepam 0.5 mg Tablet Sig: One (1) Tablet PO twice a day.
+Ranitidine HCl 150 mg Capsule Sig: One (1) Capsule PO once a  day.
+Compazine 10 mg Tablet Sig: One (1) Tablet PO once a day as needed for nausea.
+Lactulose 10 gram Packet Sig: One (1) PO once a day.
+Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1) Injection TID (3 times a day).
+Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for Constipation.
+Ondansetron 4 mg Tablet, Rapid Dissolve Sig: One (1) Tablet, Rapid Dissolve PO Q8H (every 8 hours) as needed for nausea.
+Omeprazole 20 mg Capsule, Delayed Release(E.C.)
+Lorazepam 0.5 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed for anxiety.
+Hydrochlorothiazide 12.5 mg Capsule Sig: Two (2) Capsule PO DAILY (Daily).
+Isosorbide Mononitrate 60 mg Tablet Sustained Release 24 hr Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).
+Dexamethasone 4 mg Tablet Sig: One (1) Tablet PO TID (3 times a day) for 5 days.
+Dexamethasone 4 mg Tablet Sig: One (1) Tablet PO twice a day for 5 days: please start on [**2161-12-2**].
+Dexamethasone 4 mg Tablet Sig: One (1) Tablet PO once a day for 5 days: please start on [**2161-12-7**].
+Lorazepam 1 mg Tablet Sig: One (1) Tablet PO TID (3 times a day) as needed for anxiety.
+Morphine 15 mg Tablet Sig: One (1) Tablet PO Q4H (every 4 hours) as needed for pain.
+Insulin Lispro 100 unit/mL Solution Sig: as directed Subcutaneous ASDIR (AS DIRECTED).
+Metformin 500 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day).
+Fentanyl 50 mcg/hr Patch 72 hr Sig: One (1) Patch 72 hr Transdermal Q72H (every 72 hours).
+Trimethoprim-Sulfamethoxazole 80-400 mg Tablet Sig: One (1) Tablet PO QTUTHSA (TU,TH,SA).
+Ondansetron HCl 8 mg Tablet Sig: One (1) Tablet PO every eight (8) hours as needed for nausea.
+- History of appendicitis status post appendectomy in [**2126**].
+Your nausea and vomiting improved with the radiation and steroids.
+You required insulin to control elevated blood sugars which were most likely due to the steroids.
+You tolerated the radiation well, and you were discharged on [**2161-11-27**] in improved and stable condition.

@@ -1,0 +1,47 @@
+Na+ 121 K+ 6 Cr 5.5(1.8-2 [**Hospital1 5348**]).
+pH 7.06 pCO2 50 pO2 374 HCO3 15 BaseXS -16.
+Labs notable for wbc of 16.9, hct 23.6 Na:124 K:5.3 Cl:96 Glu:245 Lactate:1.4.
+Vent set FiO2%:100; AADO2:297; Req:55; Rate:/12; AC.
+He received Piperacillin-Tazob, Albuterol Inhaler (ProAir) 8.5 g and Lorazepam 2mg/mL x2.
+BP dropped in ED to 60/40 turned fluids up at VS 115/41 60 100% on 50% CMV PEEP 5, Peaks pressures in 40s, TV 500, rate of 16(from 12 before gas).
+Scrotum enlarged, challenging foley placement, pus came out from penis, got it, made NO urine.
+Cr 5.5 at OSH.
+Upon arrival to the ICU, patient noted to be arousable to painful stimuli and to have facial twitching intermittantly.
+Family History: no history of pulmonary or cardiac disease  Physical Exam: On admission: Vitals:  93.3 81 113/96 99 17 100% on CMV 500 RR 16 FiO2 of 100% Peep 5, CVP 14 General: Pt is lying in bed - opens eyes on verbal and painful stimulus, withdraws arm to touch, unable to follow commands or speak.
+Skin:intact   Pertinent Results: LABORATORY DATA: [**2189-4-21**] (ADMISSION): -WBC-16.9* RBC-2.50* Hgb-7.3* Hct-23.6* MCV-94 MCH-29.2 MCHC-31.1 RDW-14.0 Plt Ct-288 Neuts-87* Bands-4 Lymphs-4* Monos-4 Eos-0 Baso-0 Atyps-0 Metas-1* Myelos-0 -PT-13.0 PTT-35.3* INR(PT)-1.1 -Glucose-252* UreaN-156* Creat-5.4* Na-123* K-5.5* Cl-91* HCO3-12* 0 -ALT-25 AST-28 LDH-227 AlkPhos-170* TotBili-0.1 -Albumin-2.1* Calcium-6.6* Phos-7.1* Mg-1.5* -Hapto-223* calTIBC-166* Ferritn-1248* TRF-128* -TSH-1.9 -Cortsol-40.0*  Last set of labs: [**2189-6-23**] Na 120, K 5.5 Cl 86 HCO3 16 BUN 258 Cr 8.5 Glu 144 Ca 7.8 Mg 2.4 Phos 9.5 WBC 23.2 Hgb 7.8 Hct 24.3 Plt 279 Neuts-89 Bands-0 Lymphs-3 Monos-6 Eos-2 Nrbc-1  URINE: [**2189-5-26**] 12:37PM URINE RBC-6* WBC-22* Bacteri-NONE Yeast-MANY Epi-0 [**2189-5-26**] 12:37PM URINE Blood-SM  Nitrite-POS Protein-100 Glucose-150 Ketone-10 Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-LG DISCHARGE: [**2189-5-31**] 04:11AM BLOOD WBC-10.4 RBC-3.03*# Hgb-9.4*# Hct-27.0* MCV-89 MCH-31.1 MCHC-34.8 RDW-16.3* Plt Ct-188 [**2189-6-1**] 03:09AM BLOOD Creat-6.8* Na-138 K-3.3 Cl-97 [**2189-5-15**] 03:10AM BLOOD calTIBC-126* Hapto-162 Ferritn-741* TRF-97*  MICROBIOLOGY: [**4-21**] Sputum mixed gram neg rods, proteus [**4-21**] Urine legionella negative [**4-21**] Urine culture (concerning for ESBL)    URINE CULTURE (Preliminary):       ESCHERICHIA COLI.
+GRAM STAIN (Final [**2189-4-29**]):       [**11-3**] PMNs and <10 epithelial cells/100X field.
+SUSCEPTIBLE TO MINOCYCLINE sensitivity testing performed by [**First Name8 (NamePattern2) 3077**]          [**Last Name (NamePattern1) 3060**].
+SENSITIVITIES: MIC expressed in MCG/ML _______________________________________________________                              STENOTROPHOMONAS (XANTHOMONAS) MALTOPHILIA                              |          PSEUDOMONAS AERUGINOSA                              |          | CEFEPIME--------------                8 S CEFTAZIDIME-----------  =>16 R        4 S CIPROFLOXACIN---------           <=0.25 S GENTAMICIN------------                8 I LEVOFLOXACIN----------   <=1 S MEROPENEM-------------           <=0.25 S PIPERACILLIN/TAZO-----                8 S TOBRAMYCIN------------              <=1 S TRIMETHOPRIM/SULFA----   <=1 S  [**2189-5-15**] H. pylori negative  [**2189-5-26**] Urine culture- aerobic culture negative, fungal culture with [**First Name5 (NamePattern1) 564**] [**Last Name (NamePattern1) 10577**]  [**2189-6-14**] 4:48 pm SPUTUM     Site: ENDOTRACHEAL       Source: Endotracheal.
+RESPIRATORY CULTURE (Final [**2189-6-20**]):       HEAVY GROWTH Commensal Respiratory Flora.
+RESISTANT TO TIMENTIN , MIC > 64 MCG/ML.
+Piperacillin/tazobactam sensitivity testing available on request.
+Piperacillin/Tazobactam sensitivity testing performed by [**First Name8 (NamePattern2) 3077**]          [**Last Name (NamePattern1) 3060**].
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              STENOTROPHOMONAS (XANTHOMONAS) MALTOPHILIA                              |          PROTEUS MIRABILIS                              |          |          ACINETOBACTER BAUMANNII COM                              |          |          | KLEBSIELLA PNEUM                              |          |          |          |  AMPICILLIN------------             =>32 R AMPICILLIN/SULBACTAM--               16 I      <=2 S     =>32 R CEFAZOLIN-------------                8 S                =>64 R CEFEPIME--------------              <=1 S        8 S          R CEFTAZIDIME-----------  =>16 R      <=1 S     =>64 R     =>64 R CEFTRIAXONE-----------              <=1 S                     R CIPROFLOXACIN---------              =>4 R      =>4 R      =>4 R GENTAMICIN------------                8 I     =>16 R      <=1 S IMIPENEM--------------                         <=1 S LEVOFLOXACIN----------   <=1 S                 =>8 R MEROPENEM-------------           <=0.25 S              <=0.25 S PIPERACILLIN/TAZO-----                                        S TOBRAMYCIN------------                2 S      <=1 S      <=1 S TRIMETHOPRIM/SULFA----   <=2 S     =>16 R        2 S     =>16 R  [**2189-6-17**] 6:52 pm STOOL CLOSTRIDIUM DIFFICILE TOXIN A & B TEST (Final [**2189-6-18**]):       Reported to and read back by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] [**2189-6-18**] @ 7:15 AM.
+IMAGING:  CT Abd/pelvis [**4-21**] 1.
+Renal ultrasound [**4-21**]: Limited study.
+CXR [**4-26**] Frontal view of the chest demonstrates tracheostomy in midline.
+CXR [**5-30**] As compared to the prior study, tracheostomy is in place, right PICC line tip is at the level of mid low SVC.
+Liver/gallbladder ultrasound [**6-16**] The gallbladder wall is mildly thickened however this is likely related to it being partially collapsed.
+CT abdomen/pelvis [**6-17**] 1.
+Findings have progressed when compared to the chest images from the abdominal CT of [**2189-4-21**].
+CXR [**6-23**] Moderate-to-large left pleural effusion has increased, obscuring much of the left lung where there could be either asymmetric edema or pneumonia, both worsened since the previous examination.
+# Acute on Chronic Respiratory Failure: Patient p/w leukocytosis, CXR demonstrating bilateral pneumonia, cultures growing pseudomonas.
+# Acute Renal Failure/Electrolyte disturbance: Patient was admitted with Creatinine of 5.5 ([**Month/Day (2) 5348**] of 1.8) and a significant acidemia (pH 7.04), thought to be [**2-11**] [**Last Name (un) **] in the setting of sepsis complicated by ATN.
+His Cr rose to 8.4.
+He was started on phosphate binders and his potassium began to rise slowly.
+Blood, urine and sputum cultures were unrevealing, except for gram negative rods in the sputum.
+Right upper quadrant ultrasound on [**2189-6-16**] showed a normal appearing liver and gallbladder.
+CT abd/pelvis did not show any infectious source.
+His HCT trended down gradually over time probably from frequent phlebotomy and decreased production given worsened renal failure.
+Urine cx and UA rechecked on [**5-24**] for concern for appearance of urine and mild leukocytosis, he was started on meropenem on [**5-25**] considering a urine cx concerning for ESBL earlier during admission.
+Final bacterial urine cx showed no growth so meropenem was discontinued.
+Fungal cx grew out [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 10577**] so pt was continued on fluconazole for 14 day course.
+[**Last Name (STitle) **], [**Name5 (PTitle) **] and [**Name5 (PTitle) **] that in the absence of a durable treatment for his renal insufficiency, aggressive life-sustaining efforts including CPR and defibrillation were not medically indicated.
+11. white petrolatum-mineral oil 56.8-42.5 % Ointment [**Hospital1 **]: One (1) Appl Ophthalmic PRN (as needed) as needed for dry eyes.
+Disp:*100 mL* Refills:*0* 19. chlorhexidine gluconate 0.12 % Mouthwash [**Month/Day (2) **]: One (1) Mucous membrane twice a day.
+D/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 28334**] Medical Equipment 1.
+D/C ventilator LTV 1200 2.
+Your kidneys have started producing urine again, however, your creatinine is still elevated but has improved during this admission.
+We also made some changes in your blood pressure medications, which should also help control your heart rate.
+During your admission, your blood pressure and heart rate were well controlled on prazosin and diltiazem, and these should be continued as directed below.
+Medications: - START taking Prazosin 1 mg twice a day - START taking Diltiazem 45 mg four times a day - START taking Famotidine 20 mg daily - START taking Darbopoietin 40 mcg injected once a week - START taking hydrocortisone 2.5% rectal cream 1 application twice a day to hemorrhoids - START taking lactulose 30 mL up to every 8 hours as needed for constipation - START taking probiotic three times a day - START taking senna up to twice a day as needed for constipation - START taking bisacodyl up to every night as needed for constipation - START taking potassium chloride 10 mEq daily  - CONTINUE taking levothyroxine 25 mcg daily - CONTINUE taking glipizide 5 mg daily - CONTINUE using artificial tears as needed for eye dryness - CONTINUE using albuterol-ipratroprium inhalers every 6 hours as needed for shortness of breath or wheezing - CONTINUE insulin as needed according to sliding scale  Followup Instructions: Please arrange follow-up with your outpatient physician.

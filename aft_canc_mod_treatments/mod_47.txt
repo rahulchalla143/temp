@@ -1,0 +1,32 @@
+Admission Date:  [**2157-5-16**]              Discharge Date:   [**2157-5-21**]  Date of Birth:  [**2088-4-1**]             Sex:   F  Service: UROLOGY  Allergies: Aspirin / Motrin / Trilisate / Naprosyn / Toradol / Vicodin / Percocet / Indocin / Dilaudid / Zomig  Attending:[**First Name3 (LF) 4533**] Chief Complaint: Kidney stone  Major Surgical or Invasive Procedure: Left pyeloscopy with laser lithotripsy and stent exchange, [**2157-5-16**], Dr. [**First Name (STitle) **] Flexible sigmoidoscopy, [**2157-5-20**], GI service.
+PICC, [**2157-5-21**]   History of Present Illness: Ms. [**Known lastname **] is a 69-year-old female who presented in [**Month (only) 958**] with an obstructing 5-mm left UPJ stone with mild hydronephrosis.
+She was managed at that time with stent placement and delayed stone management given acute diverticulitis at that time.
+The patient presented on admission for definitive stone management and she elected to undergo ureteroscopy with laser lithotripsy and stent change.
+Given concern for diverticulitis, she was given ceftriaxone and Flagyl before the time of surgery and was scheduled to be admitted for observation.
+Past Medical History: NIDDM, HTN, hypercholesterolemia  Incisional ventral hernia repair [**5-16**] TAH '[**30**] R knee arthroscopy   Social History: non-contributory   Family History: non-contributory  Physical Exam: Discharge Exam: AVSS Gen: NAD CV: RRR Resp: CTA-B Abd: obese, s/nt/nd; no CVA tenderness bilaterally Extr: no c/c/e T/L/D: PICC in place  Pertinent Results: [**2157-5-20**] 06:20AM BLOOD WBC-10.7 RBC-3.29* Hgb-8.7* Hct-26.2* MCV-80* MCH-26.4* MCHC-33.1 RDW-15.8* Plt Ct-371 [**2157-5-20**] 06:20AM BLOOD Glucose-140* UreaN-22* Creat-1.6* Na-137 K-3.6 Cl-109* HCO3-16* AnGap-16 [**2157-5-20**] 06:20AM BLOOD ALT-19 AST-13 LD(LDH)-198 AlkPhos-75 TotBili-0.3 [**2157-5-18**] 03:00PM BLOOD Lactate-0.9 Na-134* K-3.5 Cl-109  [**2157-5-19**] 7:28 pm STOOL     CONSISTENCY: LOOSE      Source: Stool.
+DR [**First Name (STitle) **] REQUESTED SENSITIVITIES TO AZTREONAM AND COLISTIN [**2157-5-19**].
+SENT TO [**Hospital1 4534**] LABORATORIES FOR COLISTIN SUSCEPTIBILITY.
+Blood Culture, Routine (Preliminary):       YEAST, PRESUMPTIVELY NOT C. ALBICANS.
+Blood Culture, Routine (Preliminary):       YEAST.
+Blood Culture, Routine (Preliminary):       YEAST.
+10,000-100,000 ORGANISMS/ML..   Brief Hospital Course: Ms. [**Known lastname **] was admitted after siagnostic pyeloscopy, left ureteroscopy with laser lithotripsy, left ureteral stent exchange on [**2157-5-16**].
+Blood cultures identified yeast and multi-drug resistant pseudomonas, urine culture identified yeast; PICC placed [**2157-5-21**]; managed with zosyn and micafungin and followed by ID team.
+She noted loose stools over the last few months, started on low-residue diet and seen by nutririon; flexible sigmoidoscopy identified polyps, started on immodium with improvement of loose stools, to follow-up in GI fellow's clinic for colonoscopy and biopsy reports within the next month.
+Her metformin has been held given Cr >1.4, diabetes managed with addition of an insulin sliding scale.
+At discharge patient without pain and improvement in loose stools, afebrile with no leukocytosis, tolerating low-residual diet, FSBS under 250, ambulating without assistance, and voiding without difficulty.
+She is being traanferred to [**Hospital1 1501**] for continued IV antibiotics and diabetes management under care of her PCP who is an ID specialist, Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **].
+She will follow-up with Dr. [**First Name (STitle) **] for stent removal prior to completion of her antibiotics, call for appointment.
+Medications on Admission: MEDS: Metformin 1000mg [**Hospital1 **] Lisinopril/HCTZ 20mg/12.5mg daily Glipizide XL 10mg DAILY Lipitor 80mg DAILY Atenolol 25mg DAILY   Discharge Medications: 1.
+Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Atenolol 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO Q6H (every 6 hours) as needed for Pain, fever.
+Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1)  Inhalation Q6H (every 6 hours) as needed for wheeze.
+Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation Q6H (every 6 hours) as needed for wheeze.
+Glipizide 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Hydrochlorothiazide 12.5 mg Capsule Sig: One (1) Capsule PO DAILY (Daily).
+Insulin Lispro 100 unit/mL Solution Sig: Sliding scale Subcutaneous ASDIR (AS DIRECTED): continue until able to restart metformin.
+Micafungin 50 mg Recon Soln Sig: One (1) Recon Soln Intravenous DAILY (Daily) for 1 weeks.
+Loperamide 2 mg Capsule Sig: One (1) Capsule PO DAILY (Daily) as needed for PRN diarrhea.
+Discharge Disposition: Extended Care  Facility: [**Hospital3 1186**] - [**Location (un) 538**]  Discharge Diagnosis: Fungemia, bactermia, sigmoid polyp   Discharge Condition: Stable   Discharge Instructions: Continue IV zosyn and micafungin as prescribed until urine and blood cultures are finalized, check LFTs weekly while on these medications, antibiotics and duration per accepting physician [**Last Name (NamePattern4) **].
+Followup Instructions: Call Dr. [**First Name (STitle) **] for stent removal and with any urological questions.

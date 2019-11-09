@@ -1,0 +1,56 @@
+Admission Date:  [**2125-10-29**]              Discharge Date:   [**2125-11-5**]  Date of Birth:  [**2050-1-26**]             Sex:   F  Service: MEDICINE  Allergies: Demerol / Codeine  Attending:[**Last Name (NamePattern1) 1136**] Chief Complaint: Hypotension/hypoxia  Major Surgical or Invasive Procedure: Intubation   History of Present Illness: Ms. [**Known lastname **] is a 75 year old woman with diabetes, hypertension, atrial fibrillation, history of C. diff, and vertebral osteomyelitis who presented with hypotension and hypoxia.
+She was recently discharged on [**10-26**] following surgery for her osteomyelitis.
+She was given metoprolol 50mg PO, lasix 80mg IV and noted to be hypotensive.
+Right groin line was placed.
+She received zosyn in the ED.
+She was on vancomycin and flagyl for osteomyelitis and C. diff.
+She was given fluids and transferred to the MICU.
+A paracentesis removed 2 L. Blood, urine, peritoneal cultures cxs are pending.
+She is currently on vanc/zosyn and flagyl for history of C. diff.
+Past Medical History: PAST MEDICAL HISTORY: Atrial fibrillation s/p ablation, not on coumadin Iron-deficiency anemia Gastritis per EGD, [**2124**] Insulin-dependent diabetes mellitus c/b neuropathy, retinopathy  Lumbar stenosis, s/p L5-S1 laminectomy (age 40) Hypertension Hyperlipidemia DJD Tremor Steatohepatitis Depression  PAST SURGICAL HISTORY: Cataract surgery Carpal tunnel release bilaterally Tonsillectomy Appendectomy Cholecystectomy   Social History: Patient currently lives in a house in [**Location (un) **], Mass.
+Family History: Diabetes II  Physical Exam: GENERAL: tired HEENT: No icterus CARDIAC: RR LUNG: crackles at bases ABDOMEN: +BS, bruise on right lower quadrant, right groin line without erythema, left sided bandage that is clean and dry EXT: 2+ LE edema of feet, 1+ of half way up calf NEURO: oriented to name, year, month, hospital, had difficulty naming months backward and asked, "If I can't do this, do I have to get another MRI?"
+Pertinent Results: ADMISSION LABS: [**2125-10-29**] WBC 16.6 / hct 33.3 / Plt 491 Na 144 / K 3.9 / Cl 109 / CO2 22 / BUN 26 / Cr 1.3 / BG 220 BNP [**Numeric Identifier 40151**]  DISCHARGE LABS: [**2125-11-4**] WBC 10.9 / Hct 27.1 / Plt 540 Na 143 / K 3.3 / Cl 111 / CO2 26 / BUN 17 / Cr 1.2 / BG 103  MICROBIOLOGY: [**2125-10-29**] Blood Cx negative [**2125-10-29**] Urine Cx yeast [**2125-10-30**] Urine Cx yeast [**2125-10-30**] Peritoneal Fluid Culture - negative [**2125-10-31**] Urine Cx yeast  STUDIES: ECHO ([**2125-10-29**])- The left atrium is mildly dilated.
+[**2125-10-29**] Abdominal U/S- IMPRESSION: Shrunken nodular liver with diffuse ascites consistent with the provided history of cirrhosis.
+She was managed there initially with diuresis but then fluid administration given possibility of sepsis.
+She was found to have a left sided pleural effusion on chest x-ray and was on 2L NC (satting 97% on discharge).
+She was on pressors briefly while in the unit but was quickly weaned off.
+Zosyn was added to her prior regimen of vancomycin and flagyl.
+Cultures did not grow anything so Zosyn was discontinued shortly thereafter.
+Acute Kidney Injury- Patient presented with creatinine of 1.7 and stopped responding to diuresis in the CCU.
+We considered giving her albumin or blood but were concerned of causing fluid overload in her lungs.
+We started her on lasix 20mg IV daily and she responded very well.
+Patient sent out with lasix 40mg PO daily.
+She underwent a paracentesis during which two liters of fluid was removed.
+She was initially on a soft (dysphagia) and Nectar prethickened liquids diet.
+In addition, patient was started on Megace 40mg TID for appetite stimulation.
+Patient counseled on importance of nutrition, especially relating to her recovery.
+Patient continued on vanc and flagyl.
+She was continued on flagyl 500mg PO q8hr for history of C.diff- last dose [**2125-12-20**].
+Type 2 Diabetes Mellitus, controlled but with complications - Continued on NPH and sliding scale with good control of her sugars.
+Metoprolol was initally held given concern of sepsis.
+As patient became more hemodynamically stable, metoprolol was resumed at home dose of 25mg PO BID.
+Resumed metoprolol once patient was hemodynamically stable.
+Patient continued on home iron supplementation.
+PPX: DVT prophylaxis with heparin SC TID.
+Code: Full Code Communication: Patient & [**First Name9 (NamePattern2) **] [**Doctor First Name **] is HCP, son [**Name (NI) **]: [**Telephone/Fax (1) 40152**]  Medications on Admission: Insulin SC (per Insulin Flowsheet) Lidocaine 5% Patch 1 PTCH TD DAILY; PRN pain Acetaminophen 325-650 mg PO/NG Q6H:PRN pain/fever MetRONIDAZOLE (FLagyl) 500 mg IV Q8H Miconazole Powder 2% 1 Appl TP [**Hospital1 **] Amitriptyline 75 mg PO HS Aspirin 81 mg PO/NG DAILY Piperacillin-Tazobactam 2.25 g IV Q6H Bisacodyl 10 mg PO/PR DAILY:PRN constipation Senna 1 TAB PO BID:PRN Constipation Simvastatin 40 mg PO/NG DAILY Docusate Sodium (Liquid) 100 mg PO BID Ferrous Sulfate 325 mg PO/NG DAILY Trifluoperazine HCl 2 mg PO DAILY Heparin 5000 UNIT SC TID Vancomycin 1250 mg IV Q 24H  Discharge Medications: 1.
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for Constipation.
+Docusate Sodium 100 mg Tablet Sig: One (1) Tablet PO twice a day as needed for constipation.
+Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1) inj Injection TID (3 times a day).
+Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Megestrol 40 mg Tablet Sig: One (1) Tablet PO TID (3 times a day).
+Trifluoperazine 2 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig: One (1) Adhesive Patch, Medicated Topical DAILY; PRN () as needed for pain: to affected area.
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+Amitriptyline 25 mg Tablet Sig: Three (3) Tablet PO HS (at bedtime).
+Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for pain/fever.
+Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical [**Hospital1 **] (2 times a day).
+Bisacodyl 5 mg Tablet, Delayed Release (E.C.)
+Vancomycin 500 mg IV Q 24H Start: In am 17.
+Insulin Fixed and Sliding scale Please follow attached scale 18.
+Flagyl 500 mg Tablet Sig: One (1) Tablet PO every eight (8) hours.
+Your oxygen requirement decreased, blood pressures normalized and kidney function improved.
+Please start taking lasix 40mg by mouth daily 2.
+He should discuss your echo results with you and possibility of outpatient stress test.

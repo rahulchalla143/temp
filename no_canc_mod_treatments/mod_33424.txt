@@ -1,0 +1,40 @@
+Admission Date:  [**2121-9-21**]              Discharge Date:   [**2121-9-23**]  Date of Birth:  [**2075-8-12**]             Sex:   F  Service: MEDICINE  Allergies: Azithromycin / Indomethacin / NSAIDS (Non-Steroidal Anti-Inflammatory Drug)  Attending:[**First Name3 (LF) 1145**] Chief Complaint: OSH transfer for dyspnea, bradycardia, [**Last Name (un) **] and hyperkalemia.
+She was found to be in junctional rythm by EMS (no strips available) and received 0.5mgx2 of atropine with HR increaing to 40s.
+At OSH, her CXR was suspicious for pneumonia and CHF, and she was given both Levofloxacin 750 mg and Furosemide 80 mg IV prior to transfer.
+Foley was placed and per sister patient put out 1L of urine.
+(Of note patient takes 60meq of potassium at home on daily basis).
+Her hyperkalemia was treated with Dextrose 25 grams, Insulin 5 units IV, and Calcium gluconate 2 grams IV.
+She was started on Furosemide drip at 5 mg/hr for her CHF.
+Cardiac review of systems is notable for absence of chest pain, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope.
+Past Medical History: # Cardiac Risk Factors: (-)Diabetes, (-)Dyslipidemia, (-)Hypertension # Down Syndrome -- likely Trisomy 21 -- genetic testing has not been performed # Congenital Heart Disease -- likely cyanotic -- ASD repaired [**2-/2086**] by Dr [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 38698**] at [**Hospital1 2025**] # Right Sided Dilated Cardiomyopathy -- admission to [**Hospital1 18**] [**Date range (1) 86135**] # Severe Pulmonary Hypertension # Severe Tricuspid Regurgitation # Hypothyroidism # Possible Right Femoral Osteonecrosis # Recurrent Aspiration Pneumonia # VRE UTI History # Gout  Social History: # Home: She lives with her sister who has cared for her since her mother's death.
+She was given 80mg IV lasix at OSH and received lasix gtt at 5mg/hr at [**Hospital1 18**] ED.
+Patient had excellent response to lasix and put out almost 4L in 24 hours.
+She was admitted to CCU where she was antidiuresising without requiring any IV lasix and continued to have good urine output.
+She was discharged on her home lasix dose and metolazone PRN.
+Patient had been taking Aleve in the outpatient setting and then stopped making any urine for 24 our prior to admission.
+She was given Insulin, Glucose, and Calcium in the ED to temporize.
+Her hyperkalemia resolved with return of patient kidney function.
+# Hypotonic hypervolumic Hyponatremia: Hyponatremia likely in the setting of [**Last Name (un) **] worsened with use of metolazone in the outpatient setting.
+# Abdominal pain: On admission patinet ocmplained of epigastric and RUQ pain.
+[**Name Initial (NameIs) **] [**Name11 (NameIs) **] will follow up with Dr. [**Last Name (STitle) **] for further management of her right heart failure and pulmonary hypertension.
+Medications on Admission: Preadmission medications listed are correct and complete.
+Furosemide 80 mg PO BID 2.
+Multivitamins 1 TAB PO DAILY 3.
+Nystatin Oral Suspension 5 mL PO TID 4.
+Omeprazole 20 mg PO DAILY 5.
+Albuterol Inhaler 2 PUFF IH Q6H:PRN SOB 7.
+Metolazone 2.5 mg PO EVERY OTHER DAY Take 30 minutes before Furosemide 8.
+Levothyroxine Sodium 100 mcg PO DAILY 9.
+Vitamin D [**2109**] UNIT PO DAILY 10. potassium chloride *NF* 20 % Oral [**Hospital1 **] 15ml in the morning and 10ml in the evening.
+Furosemide 80 mg PO BID 2.
+Levothyroxine Sodium 100 mcg PO DAILY 3.
+Multivitamins 1 TAB PO DAILY 4.
+Omeprazole 20 mg PO DAILY 5.
+Vitamin D [**2109**] UNIT PO DAILY 6. potassium chloride *NF* 20 % Oral [**Hospital1 **] 15ml in the morning and 10ml in the evening.
+Albuterol Inhaler 2 PUFF IH Q6H:PRN SOB 8.
+Metolazone 2.5 mg PO EVERY OTHER DAY Take 30 minutes before Furosemide 10.
+Nystatin Oral Suspension 5 mL PO TID 11.
+Discharge Instructions: Dear Ms. [**Known lastname **], It was a pleasure taking care of you during your hospitalization at [**Hospital1 18**].
+You were discharged on the same home medications you came in with.
+Since you have had terrible reactions to Aleve and Indomethacin in the past, please avoid any future NSAID medication which include but not limited to Ibuprofen (Advil, Motrin), Naproxen (Aleve), Indomomethacin (Indocin), Meloxicam (Mobic) etc.
+Followup Instructions: Name: [**Last Name (LF) **],[**First Name3 (LF) **] M. Location: [**Location (un) **] FAMILY PRACTICE Address: [**Street Address(2) **], [**Location (un) **],[**Numeric Identifier 32948**] Phone: [**Telephone/Fax (1) 83352**] Appt:  [**Last Name (LF) 766**], [**9-29**] at 11:30am  Department: CARDIAC SERVICES When: WEDNESDAY [**2121-10-8**] at 10:20 AM With: [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern1) **], MD [**Telephone/Fax (1) 62**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage    Completed by:[**2121-9-23**

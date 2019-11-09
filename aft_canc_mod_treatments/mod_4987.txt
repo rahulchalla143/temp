@@ -1,0 +1,60 @@
+Admission Date:  [**2174-8-1**]              Discharge Date:   [**2174-8-7**]  Date of Birth:  [**2100-1-17**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 2901**] Chief Complaint: dysphagia/odynophagia, with development of chest pain while hospitalized  Major Surgical or Invasive Procedure: Cardiac Catherization    History of Present Illness: Mr. [**Known lastname 2379**] is a 74 year old man with history of metastatic renal cell carcinoma to lung and sinuses, who was receiving therapy with AMG 386 and Sunitinib on [**6-27**] according to the protocol 09-014.
+He received a total of three administrations of AMG 386, last [**7-11**], and sutent until [**7-18**].
+On [**7-18**] the therapy was held due to multiple symptoms, including nausea, vomiting, diarrhea, extreme fatigue, and h hallucinations.
+Past Medical History: ONCOLOGIC HISTORY: Diagnosis of Stage IV clear cell renal cell carcinoma - [**2163**]: Left-sided nephrectomy about ten years ago at [**Location (un) 86773**]Hospital (we do not have the original pathology or details surrounding this operation).
+- [**2174-6-27**] Started therapy with Sunitinib + AMG 386 on protocol  09-014 (CT Torso [**7-12**] showed decrease size of some of the pulmonary lesions, the other being stable)- sunitinib d/c [**7-18**], AMG 386 third and last dose 7/12, held due to worsening of symptoms including nausea, vomiting, hallucinations.
+Right periorbital subcutaneous soft tissue density, enlarged in the short interim since the [**7-26**] MRI.
+Successful bare metal stenting of OM/LCX coronary artery.
+Successful bare metal stenting of LMCA for guide induced dissection.
+Plavix (clopidogrel)75 mg daily for 1 month uninterrupted, preferably for 12 months.
+Intergrillin for 18 hours.
+Brief Hospital Course: Mr. [**Known lastname 2379**] was admitted with complains of nausea, dysphagia/odynophagia to both solids and liquids.
+His hospitalization was complicated by an episode of significant chest pain, NTEMI was confirmed on EKG, pos CEs, and on cardiac cath.
+He was started on imdur and HCTZ.
+Bare metal stents were placed in both.
+Guide wire dissection of the LMCA occured, with stent placement of LCA into LMCA.
+PE unlikely given intermittent nature and resolution of hypoxia.
+Patient is to follow up with Dr. [**Last Name (STitle) 171**] as outpt and will cont metoprolol, plavix and asa therapy.
+#Hypertension: Patient had one episode of hypotension during his catheterization, but stabilized throughout his stay in the CCU.
+Patient was continued on all of his antihypertensives, and his atenolol was replaced with metoprolol given his s/p NSTEMI.
+Patient with multiple symptoms including peri-orbital swelling, cold intolerance, and possible dysphagia.
+Hypothyroidism may also explain hallucinations as is a reversible cause of altered mental status in the past.
+He was continued with levothyroxine 125mcg daily.
+He will need to follow up on thyroid function to make sure that dosage of levothyroxine is adequate to treat his hypothyroidism.
+# Renal cell carcinoma: s/p Left nephrectomy in [**2163**].
+Metastases to lung and maxillary sinus, last dose of Sunitinib and AMG 386 stopped at end of [**Month (only) 205**] secondary to nausea and vomiting.
+Plan is to restart treatment with resolution of current episode.
+Allopurinol 300 mg Tablet PO once a day.
+Amlodipine 10 mg Tablet PO once a day.
+Advair Diskus 100-50 mcg twice a day.
+Atenolol 50 mg Tablet Sig:  PO DAILY (Daily): AM.
+Atenolol 25 mg Tablet Sig:   QHS PM.
+Vytorin 10-40 10-40 mg Tablet  .5 Tablet  Mon, Wed, Fri, Sat.
+Hydralazine 25 mg Tablet Sig: One (1) Tablet PO four times a day.
+Vicodin 5-500 mg Tablet PO four times a day as needed for pain.
+Lisinopril 40 mg Tablet Sig: One (1) Tablet PO once a day.
+Lorazepam 0.5 mg Tablet Sig: 1-2 Tablets PO Q8H 11.
+Paroxetine HCl 20 mg Tablet 12.
+Tylenol Extra Strength 500 mg PRN for pain 13.
+Aspirin 81 mg  PO once a day.
+Vitamin D 400 unit Capsule PO once a day.
+Folic Acid 400 mcg PO once a day.
+Imodium A-D 2 mg  PO prn as needed for diarrhea.
+Levothyroxine 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Fluticasone-Salmeterol 100-50 mcg/Dose Disk with Device Sig: One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+Levothyroxine 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Paroxetine HCl 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Allopurinol 300 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 hours) as needed for anxiety.
+Vytorin 10-40 10-40 mg Tablet Sig: 0.5 Tablet PO Mon, Wed, Fri, Sat.
+Vicodin 5-500 mg Tablet Sig: One (1) Tablet PO four times a day as needed for pain.
+Imodium A-D 2 mg Tablet Sig: One (1) Tablet PO twice a day as needed for diarrhea.
+Amlodipine 10 mg Tablet Sig: One (1) Tablet PO once a day.
+Lisinopril 40 mg Tablet Sig: One (1) Tablet PO once a day.
+Toprol XL 100 mg Tablet Sustained Release 24 hr Sig: One (1) Tablet Sustained Release 24 hr PO once a day.
+Folic Acid 400 mcg Tablet Sig: One (1) Tablet PO once a day.
+Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO once a day.
+The following changes were made to your medications: STARTED Metoprolol XL 100 every day STARTED Ranitidine 150 mg two times a day STARTED Clopidogrel 75 mg once a day STARTED Hydrocholorothiazide 25 mg once a day INCREASED Aspirin to 325 mg once a day STOPPED Atenolol .

@@ -1,0 +1,40 @@
+Patient has a history of medication non-compliance and continues to drink EtOH.
+Started on IV fluids, octreotide and pantoprazole.
+Intubated for airway protection.
+BP on transfer 124/80, on minimal norepinephrin (0.05).
+On arrival, patient intubated and sedated.
+HEENT: Sclera anicteric, PERRL Neck: supple, no LAD Lungs: Clear to auscultation anteriorly CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops Abdomen: soft, non-tender, non-distended, mildly bulging flanks with a fluid wave.
+Small 1-2mm papules on scrotum Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema Neuro: moving all extremities spontaneously  DISCHARGE EXAM: ***  Pertinent Results: ADMISSION LABS: [**2158-11-10**] 10:49PM BLOOD WBC-10.6 RBC-3.03* Hgb-9.1* Hct-26.5* MCV-88 MCH-30.1 MCHC-34.4 RDW-16.9* Plt Ct-67* [**2158-11-10**] 10:49PM BLOOD Neuts-85.3* Bands-0 Lymphs-7.2* Monos-7.1 Eos-0.3 Baso-0.1 [**2158-11-10**] 10:49PM BLOOD PT-18.6* PTT-33.1 INR(PT)-1.7* [**2158-11-10**] 10:49PM BLOOD Glucose-210* UreaN-32* Creat-1.8* Na-135 K-5.4* Cl-102 HCO3-23 AnGap-15 [**2158-11-10**] 10:49PM BLOOD ALT-55* AST-194* LD(LDH)-383* AlkPhos-72 TotBili-4.3* [**2158-11-10**] 10:49PM BLOOD Lipase-73* [**2158-11-10**] 10:49PM BLOOD Albumin-2.9* Calcium-6.9* Phos-4.5 Mg-1.5*  MICROBIOLOGY: [**2158-11-11**] MRSA screen: negative  STUDIES: [**2158-11-10**] CXR: Endotracheal tube with its tip 4.7 cm above the carina in satisfactory position.
+PPI [**Hospital1 **].
+DISCHARGE LABS: *** [**2158-11-15**] 05:20AM BLOOD WBC-4.8 RBC-3.08* Hgb-9.3* Hct-27.6* MCV-90 MCH-30.2 MCHC-33.7 RDW-16.9* Plt Ct-77* [**2158-11-15**] 05:20AM BLOOD PT-16.9* PTT-29.3 INR(PT)-1.5* [**2158-11-15**] 05:20AM BLOOD Glucose-96 UreaN-9 Creat-0.8 Na-135 K-3.7 Cl-101 HCO3-27 AnGap-11 [**2158-11-15**] 05:20AM BLOOD ALT-39 AST-91* AlkPhos-94 TotBili-4.2* [**2158-11-15**] 05:20AM BLOOD Albumin-3.0* Calcium-8.4 Phos-2.9 Mg-1.7  Brief Hospital Course: Mr. [**Name13 (STitle) **] is a 49yo male w/ EtOH cirrhosis with h/o multiple prior upper GI bleeds from esophageal varices and gastric ulcers transferred from [**Hospital3 **] with hematemesis.
+Patient was treated with octreotide drip for 72 hours and [**Hospital1 **] iv pantoprazole.
+Pt was given cipro 500mg [**Hospital1 **], with plan for 1 week course.
+Pt was discharged with sulcralfate, nadolol, ciprofloxacin, and increased PPI.
+Pt will need to have a repeat EGD at some point in the future to remove his duodenal polyp and will need LFTs to monitor his recover on pentoxifylline .
+Pt was treated with pentoxifylline given discriminant function of 39.
+Pt was given pentoxifylline instead of steroids because of the possible ulcer-related etiology of his bleed.
+Lasix and spironolactone were held in the setting of the acute bleed but restarted without issue after his condition stabilized.
+Pt became hypertensive up to the 170s after his lisinopril and metoprolol were held, but was normotensive in 130s after starting and increasing nadolol to 40mg po daily, which was continued at discharge.
+#) Acute renal failure: most likely pre-renal from hypovolemia, resolved with transfusions and fluids.
+Patient monitored on CIWA after extubation.
+Pt's HR settled at ~100 after receiving diazepam 5-10mg q4hrs on CIWA scale > 10.
+TRANSITIONAL ISSUES: -Pt was discharged w/ 1 month course of pentoxifylline will need LFTs to assess the degree of recovery.
+-Pt's lisinopril and metoprolol were stopped in the setting of acute GI bleed and nadolol was started instead for varices.
+His prior BP meds may need to be restarted if he becomes hypertensive.
+Medications on Admission: - Citalopram 20mg daily - Metoprolol succinate 100mg daily - lisinopril 5mg daily - omeprazole 20mg daily - sucralfate 1000mg tab QID - Levaquin 750mg daily x5 days (started [**10-13**]) - Lasix 40mg daily - spironolactone 50mg [**Hospital1 **]  Discharge Medications: 1. pentoxifylline 400 mg Tablet Extended Release Sig: One (1) Tablet Extended Release PO TID (3 times a day).
+Disp:*90 Tablet Extended Release(s)* Refills:*0* 2. nadolol 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Disp:*60 Tablet(s)* Refills:*0* 3. ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 hours) for 3 days.
+Disp:*6 Tablet(s)* Refills:*0* 4. thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+5. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Lasix 40 mg Tablet Sig: One (1) Tablet PO once a day.
+7. spironolactone 50 mg Tablet Sig: One (1) Tablet PO twice a day.
+8. citalopram 20 mg Tablet Sig: One (1) Tablet PO once a day.
+9. sucralfate 1 gram Tablet Sig: One (1) Tablet PO four times a day.
+10. omeprazole 20 mg Capsule, Delayed Release(E.C.)
+You received blood and had an emergency upper endoscopy at [**Hospital1 **], during which your doctors [**First Name (Titles) **] [**Last Name (Titles) 12681**] a bleeding ulcer.
+You were also started on medications to help control the bleeding.
+You did not have any additional bleeding and did not need any further blood products.
+You were started on antibiotics to prevent infections associated with bleeding in patients with liver disease, which you will need to continue as an outpatient.
+You were also treated with medications for alcoholic hepatitis and acute alcohol withdrawal.
+We have made the following changes to your medications:  -Start nadolol to prevent bleeding episodes -Start ciprofloxacin to protect you from infection after the bleed -start pentoxyfiline to protect treat your alcoholic hepatitis and protect your kidneys -take the omeprazole TWICE daily instead of ONCE daily -STOP the metoprolol (we have you on Nadolol instead) -STOP the lisinopril (if you still have high blood pressure, your PCP may restart this) Please continue to take your other medications as previously prescribed.
+Followup Instructions: - You will need a repeat upper endoscopy (EGD) in order to remove a polyp seen in your duodenum Name: [**Last Name (LF) **],[**First Name7 (NamePattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] --GI Address: 100 [**Last Name (un) 49258**] Way, [**Location (un) 10068**],[**Numeric Identifier 39453**] Phone: [**Telephone/Fax (1) 65146**] Appt:  [**11-20**] at 4:45pm  Name: [**Last Name (LF) **],[**First Name7 (NamePattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 29702**] Care Address: 100 [**Last Name (un) 49258**] Way, [**Location (un) 10068**],[**Numeric Identifier 10069**] Phone: [**Telephone/Fax (1) 49260**] Appt:  [**11-27**] at 11:30am    Completed by:[**2158-11-15**

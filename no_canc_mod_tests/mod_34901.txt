@@ -1,0 +1,31 @@
+Admission Date:  [**2157-8-2**]              Discharge Date:   [**2157-8-5**]  Date of Birth:  [**2109-4-4**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 425**] Chief Complaint: Chest pain  Major Surgical or Invasive Procedure: Cardiac catheterization with angioplasty and placement of a bare metal stent   History of Present Illness: The patient is a 48 year old man with history of gout presenting with chest pain found to have anterior STEMI now s/p PCI with BMS to LAD.
+The chest pressure was described like a brick sitting on his chest.
+He was life-flighted to [**Hospital1 18**] for cardiac cath.
+Following vomiting his blood pressure recovered after transiently requiring dopamine.
+Neck: Supple with JVP not elevated CV: PMI located in 5th intercostal space, midclavicular line.
+alternates A1/B2 etc well.
+[**1-20**] objects recalled at 5 minutes CN: II-XII intact Motor: moving all 4 extremities symmetrically [**Last Name (un) **]: light touch intact to face, hands, feet  Pertinent Results: [**2157-8-5**] 08:00AM BLOOD WBC-9.0 RBC-4.77 Hgb-14.1 Hct-41.6 MCV-87 MCH-29.6 MCHC-34.0 RDW-13.5 Plt Ct-264 [**2157-8-5**] 08:00AM BLOOD Glucose-131* UreaN-18 Creat-1.1 Na-143 K-3.6 Cl-106 HCO3-24 AnGap-17 [**2157-8-5**] 08:00AM BLOOD Calcium-9.7 Phos-4.4 Mg-2.2 [**2157-8-5**] 08:00AM BLOOD PT-16.2* PTT-97.6* INR(PT)-1.4* .
+[**2157-8-2**] 01:30AM BLOOD ALT-160* AST-157* CK(CPK)-86 AlkPhos-52 TotBili-0.5 [**2157-8-3**] 08:15AM BLOOD ALT-137* AST-153* CK(CPK)-630* [**2157-8-4**] 06:44AM BLOOD ALT-104* AST-80* AlkPhos-54 TotBili-0.7 [**2157-8-5**] 08:00AM BLOOD ALT-84* AST-53* .
+[**2157-8-2**] 08:56AM BLOOD CK-MB-230* MB Indx-14.6* cTropnT-4.21* [**2157-8-2**] 11:02PM BLOOD CK-MB-108* MB Indx-9.4* cTropnT-5.21* [**2157-8-3**] 08:15AM BLOOD CK-MB-36* MB Indx-5.7 .
+[**2157-8-2**] 08:56AM BLOOD Triglyc-67 HDL-38 CHOL/HD-3.4 LDLcalc-79 [**2157-8-2**] 01:00AM BLOOD %HbA1c-5.6 [**2157-8-2**] 08:56AM BLOOD T4-6.2 T3-105 calcTBG-1.06 TUptake-0.94 T4Index-5.8 Free T4-0.99 [**2157-8-2**] 08:56AM BLOOD TSH-1.4 .
+CARDIAC CATHETERIZATION ([**2157-8-2**]) 1.
+The LMCA, LCx, and RCA had no angiographically apparent flow limiting epicardial coronary artery disease.
+Resting hemodynamics revealed no evidence of systemic arterial systolic or diastolic hypertension with SBP 117 mmHg and DBP 89 mmHg.
+Final angiography revealed no residual stenosis in the LAD, a pinched S1 and normal flow.
+ECHOCARDIOGRAM ([**2157-8-2**]) The left atrium is moderately dilated.
+LVEF 35%.
+ECG on admission showed STE in the anterior precordial leads with ST depressions inferiorly.
+Brief Hospital Course: 48 year old man with no significant PMHx admitted for anterior STEMI complicated by V fib arrest, s/p cath showing 1-vessel disease with BMS to proximal LAD.
+#CAD: The pt presented with nausea, chest tightness, and diaphoresis s/p V fib arrest.
+His ECG and enzymes were consistent with an anterior STEMI.
+Pt received a BMS to prox LAD with and experienced hypotension post-procedure which was associated with and resolved after 20 cc coffee ground emesis.
+A lipid panel was checked; however, it was likely suppressed secondary to recent coronary event and should be rechecked at a later date.
+His ectopy greatly decreased during the course of his hospitalization and his rhythm problems were resolved at the time of discharge.
+#Pump: A 2D echocardiogram showed a depressed EF of 35%.
+The echo showed moderate regional left ventricular systolic dysfunction with septal and apical akinesis and the patient was started on anticoagulation with an INR goal of [**2-20**].
+His liver enzymes were trending down but were still elevated at the time of discharge.
+His HCT remained stable during his hospitalization and he was discharged on pantoprazole.
+Enoxaparin 100 mg/mL Syringe Sig: One Hundred (100) mg Subcutaneous [**Hospital1 **] for five days: Please continue until INR therapeutic (goal [**2-20**]) for 2 days 9.
+Outpatient Lab Work Please have your INR checked on Monday [**8-8**] at [**Hospital **], call results to Dr. [**First Name (STitle) 9054**] [**Name (STitle) 6481**] at [**Telephone/Fax (1) 79690**].
+You have been given a prescription at discharge for a INR (coumadin level) to be checked on Monday [**8-8**].
+Followup Instructions: Please have your INR checked on Monday [**8-8**] at [**Hospital **], call results to Dr. [**First Name (STitle) 9054**] [**Name (STitle) 6481**] at [**Telephone/Fax (1) 79690**].

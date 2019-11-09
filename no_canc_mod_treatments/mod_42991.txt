@@ -1,0 +1,67 @@
+Admission Date:  [**2199-1-2**]              Discharge Date:   [**2199-1-15**]  Date of Birth:  [**2130-3-22**]             Sex:   M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**Doctor First Name 1402**] Chief Complaint: epistaxis  Major Surgical or Invasive Procedure: [**2199-1-4**] - Bilateral sphenopalatine and left descending palatine artery embolization by Interventional Radiology [**2199-1-2**] to [**2199-1-5**] - Intubation and mechanical ventilation [**2199-1-5**] - Bronchoscopy [**2199-1-11**] - Direct current electrical cardioversion   History of Present Illness: This is a 68-year old Male with a PMH significant coronary artery disease (s/p PCI with stenting of LAD, [**4-/2195**]), alcoholic vs. infarct-related dilated cardiomyoatphy (EF 20-25%), s/p biventricular [**Year (4 digits) 3941**] placement in [**6-/2195**], persistent atrial fibrillation (s/p multiple cardioversions), h/o embolic renal infarct ([**2-/2195**]) with prior left atrial appendage thrombus, alcohol abuse who presented to [**Hospital1 18**] [**Location (un) 620**] with uncontrolled left-sided posterior epistaxis and coagulopathy with INR of 5.2 requiring ENT consultation and Epistat packing.
+The bleeding progressed to bilateral involvement and he was not clearing the brisk [**Last Name (LF) **], [**First Name3 (LF) **] he was intubated for airway protection and a right Epistat was placed by ENT.
+He was transferred to [**Hospital1 18**] for further management; vent settings 500/16/5/100%.
+While in the MICU, patient received 1 unit of PRBCs (HCT nadir of 24.8%), 4 units of FFP total (INR peak 5.2) and was continued on Augmentin given packing placement.
+ENT evaluated the patient and agreed with iniatial management with packing for 5-days.
+On [**1-4**], the patient underwent IR-guided successful embolization of the right sphenopalatine artery and embolization of the left sphenopalatine artery and left desecending palatine artery utilizing coils.
+OG lavage following the procedure was reassuring.
+The patient did receive intermittent IV Lasix (20 mg IV x 2) given some volume overload concerns while in the MICU (net negative 1L for [**1-5**] prior to transfer, but positive LOS fluid balance of 3L).
+He was dosed Lasix 60 mg IV, received Albtuerol nebs and his CXR showed stable frank pulmonary congestion with minimal bilateral effusions and no evidence of consoldiation.
+Cardiac review of systems is notable for absence of chest pain, paroxysmal nocturnal dyspnea, orthopnea, palpitations, syncope or pre-syncope.
+- infarct-related vs. alcoholic dilated cardiomyopathy (EF 20-25% in [**4-/2198**]) - [**4-/2195**] - PCI stenting of proximal-LAD with [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] 1 after diagnostic cardiac catheterization (LMCA modest calcification, LAD 80-90% stenosis proximally, LCx 60% mid-segment lesion in the AV-groove), dominant RCA - [**8-/2195**] - direct-current cardioversion for atrial fibrillation - [**10/2195**] - successful pericardiocentesis via the subcostal approach with removal of 400 cc serousanguinous fluid for moderate-severe pericardial effusion with dyspnea in the setting of anticoagulation .
+IMAGING STUDIES: [**2199-1-4**] CAROTID/CERVICAL EMBOLIZATION - Successful embolization of the right sphenopalatine artery (3rd order branch) using Vortex coils.
+Successful embolization of the left sphenopalatine artery (3rd order branch) and left desecending palatine artery (3rd order branch) using PVA particles and coils.
+[**2199-1-5**] CHEST (PORTABLE AP) - The ET tube tip, the NG tube, the pacemaker leads, the cardiomegaly, and mediastinal silhouettes are unchanged.
+[**2199-1-10**] FOCUSED 2D-ECHO - LVOT VTI during biventricular paced beats = 11 cm.
+A 4-6mm mobile echodensity is seen in the right atrium (clip [**Clip Number (Radiology) **]) in close association with RV pacing lead and c/w a thrombus (cannot exclude vegetation if clinically suggested).
+Mobile right atrial echodensity associated with the pacing wire as described above most c/w thrombus.
+Compared with the prior study (images reviewed) of [**2199-1-7**] a mobile echodensity on the atrial pacing wire is now seen.
+Brief Hospital Course: IMPRESSION: 68M with a PMH significant for coronary artery disease (s/p PCI with stenting of LAD, [**4-/2195**]), alcoholic vs. infarct-related dilated cardiomyoatphy (EF 20-25%), s/p biventricular [**Year (4 digits) 3941**] placement in [**6-/2195**], persistent atrial fibrillation (s/p multiple cardioversions), h/o embolic renal infarct ([**2-/2195**]) with prior left atrial appendage thrombus, alcohol abuse who presented with severe epistaxis and coagulopathy requiring intubation for airway protection who was stabilized and subsequently extubated, now with worsening acute hypoxic respiratory failure, leukocytosis with AG-metabolic acidosis and acute renal insufficiency.
+PLAN: # ACUTE HYPOXIC RESPIRATORY FAILURE - The patient initially presented with epistaxis requiring intubation for airway protection and was weaned from ventillation on [**1-5**] without issues.
+Since floor transfer, the patient had developed worsening acute hypoxic respiratory failure with oxygen desaturations to the 80s on facemask with exam showing elevated JVP, inspiratory crackles and peripheral edema; CXR with evidence of pulmonary congestion with bilateral pleural effusions concerning for overt overload.
+He diuresed 3L and appeared euvolemic with weaning to only nasal cannula supplementation prior to discharge.
+We deferred antibiotic treatment for his sputum culture, given that his leukocytosis improved and he remained afebrile.
+3+ TR and 1+ MR at that time was noted, with mild pulmonary artery HTN and no pericardial effusion.
+We then titrated back his home heart failure regimen, which included Lisinopril, beta-blocker (Carvedilol) and felt his Digoxin therapy had limited benefit so this was discontinued.
+We also removed his LV pacing and a repeat 2D-Echo showed 18% improvement in his stroke volume without the pacing of the left ventricle, so this remained off.
+On discharge, his home lasix was resumed.
+Patient also had an anion-gap metabolic acidosis with compensatory respiratory component (and primary respiratory alkalosis given work of breathing) with a lactate of [**6-26**], leukocytosis trending from 13 to 18 (afebrile) which was suggestive of poor forward flow and impaired perfuson of peripheral tissues in the setting of decompensated heart failure with or without an infectious source.
+Upon admission, we performed aggressive diuresis and his creatinine improved to baseline.
+We renally dosed all medications and avoided nephrotoxins.
+Creatinine was 0.8 on the day of discharge, so lisinopril was increased to home dose.
+The patient presented with no prior known liver dysfunction or evidence of liver failure on exam with mild transaminitis in the past attributed to Amiodarone use?
+; acute liver injury with moderate-severe transaminitis noted on admission with AST 6854 and ALT 4790 with hyperbilirubinemia to 5.1 and mild jaundice.
+Evidence of natural immunity to hepatitis B and prior hepatitis A exposure was noted based on hepatitis serologies.
+We employed supportive management given his evidence of transaminitis with coagulopathy and hyperbilirubinemia with hypoalbuminemia.
+His iron studies: iron 30, TIBC 295, ferritin 1891 were reassuring.
+We avoided hepatotoxic medications (discontinued Amiodarone) and monitored serial LFTs with overall marked improvement.
+Infectious work-up in the setting of acute decompensated failure was reassuring and we deferred antibiotic therapy.
+We did not initiate statin treatment give his initial acute liver injury.
+We restarted his daily Aspirin 5-days following his embolization for epistaxis.
+# ATRIAL FIBRILLATION, RHYTHM - The patient had placement of a biventricular pacing device-[**Year (4 digits) 3941**] with OptiVol in [**2195**] with last interrogation in [**10/2198**] that was reassuring; patient is atrially paced with biventricular pacing.
+History of persistent atrial fibrillation s/p multiple cardioversions (last in [**2195**]) and on chronic Amiodarone therapy.
+We opted to perform electrical cardioversion this admission, with good result.
+His Coumadin was resumed on [**1-10**] when his coagulopathy had resolved and he had no further bleeding concerns.
+The bleeding progressed and required IR-guided successful embolization of the right sphenopalatine artery and embolization of the left sphenopalatine artery and left desecending palatine artery utilizing coils ([**1-4**]) without further bleeding concerns.
+He was antibiosed with Augmentin 875 mg PO Q12H for 10-days for TSS prophylaxis (started [**1-2**]).
+# HYPERTENSION - Home regimen includes ACEI, beta-blocker, loop diuretic; we restarted his agents as clinically indicated given acute CHF decompensation.
+Lidocaine level sent (patient transiently on Lidocaine gtt given his ventricular tachycardia) and should be followed-up by Cardiology.
+Started Aldactone 25 mg PO daily given his heart failure symptoms and heart failure class.
+Patient remains on anticoagulation for atrial fibrillation.
+Will continue his Coumadin dosing of 1.5 mg PO 5 days a week, as previous.
+Medications on Admission: Amiodarone 200 mg a day Coreg 25 mg twice per day Digoxin 125 mcg daily Lasix 40 mg in the morning if needed Lisinopril 30 mg  a day, warfarin 1.5 mg 5 days a week Monday through Friday Aspirin 162 mg a day Magnesium 250 mg daily Vitamin B complex daily Calcium carbonate with D daily.
+Discharge Medications: 1. aspirin 81 mg Tablet, Chewable Sig: Two (2) Tablet, Chewable PO DAILY (Daily).
+2. carvedilol 12.5 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Disp:*60 Tablet(s)* Refills:*0* 3. spironolactone 25 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0* 4. warfarin 1 mg Tablet Sig: 1.5 Tablets PO 5X/WEEK (MO,TU,WE,TH,FR).
+5. furosemide 40 mg Tablet Sig: One (1) Tablet PO once a day.
+6. magnesium oxide 250 mg Tablet Sig: One (1) Tablet PO once a day.
+8. calcium carbonate-vitamin D3  Oral 9. lisinopril 30 mg Tablet Sig: One (1) Tablet PO once a day.
+Epistaxis requiring embolization .
+You were admitted to the Coronary Care Unit (CCU) at [**Hospital1 771**] on [**Hospital Ward Name 121**] 6 regarding management of your heart failure and your acute respiratory issues.
+When you were admitted, you required IV medications to help remove extra fluid, which improved your breathing.
+You also developed some ventricular arryhthmia concerns which required IV anti-arrhythmic medications and adjustments in your [**Hospital Ward Name 3941**]/pacemaker.
+DISCONTINUE: Digoxin DISCONTINUE: Amiodarone .
+START: Spironolactone 25 mg by mouth daily .
+Please resume all other medications as you were previously taking them.
+Followup Instructions: Department: CARDIAC SERVICES When: TUESDAY [**2199-1-22**] at 2:30 PM With: [**First Name8 (NamePattern2) 1903**] [**Last Name (NamePattern1) 1904**], NP [**Telephone/Fax (1) 62**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage  Department: CARDIAC SERVICES When: MONDAY [**2199-1-28**] at 4:00 PM With: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], MD [**Telephone/Fax (1) 62**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage  Department: OTOLARYNGOLOGY (ENT) When: WEDNESDAY [**2199-1-30**] at 9:45 AM With: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 39**], M.D.

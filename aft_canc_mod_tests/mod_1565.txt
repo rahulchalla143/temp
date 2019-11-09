@@ -1,0 +1,37 @@
+Admission Date:  [**2184-12-16**]              Discharge Date:   [**2184-12-21**]  Date of Birth:  [**2104-11-3**]             Sex:   M  Service: MEDICINE  Allergies: Biaxin  Attending:[**First Name3 (LF) 3276**] Chief Complaint: hypotension, altered mental status  Major Surgical or Invasive Procedure: Left internal jugular central line  History of Present Illness: 80 yo M tobacco smoker with severe COPD on continuous home oxygen 2L NC (FEV1/FVC: 60%, FEV1: 17% and FVC: 28% in '[**82**]) and lung CA on day 16 of cycle 2 of Navelbine, who was recently admitted to [**Hospital1 18**] for CCOPD exacerbation and cellulitis/DVT ([**Date range (1) 32120**]).
+However he was found to be speaking in [**1-30**] word sentences and EMT found the pt to be hypotensive with BP of 84/54.
+In the ED, the pt was found to be hypotensive to the 84/54 with HR of 76 with oxygen saturation of 90% on RA.
+ABG at the time was the follow: 7.38/38/74.
+In addition, he was found to have a WBC of 0.7, an ANC of < 500, and lactate 2.1.
+The pt also had a proBNP of 1712.
+CXR demonstrated a right para mediastinal mass which measured 4.7 x 3.9 cm in size (unchanged from previous) and vague nodular densities at lung bases with some pulmonary edema but no focal infiltrates.
+In addition, the pt received 2unit of PRBC for Hct of 23.7 and 3L of NS and was transferred to the [**Hospital Unit Name 153**].
+A repeat colonoscopy on [**2183-9-2**] with bx showed high grade dysplasia and CIS.
+Follow up PET scan demonstrated abnormal FDG activity in a lung nodule and in the transverse colon.
+On [**2184-7-2**] a biopsy of the right upper lobe nodule yielded an undifferentiated carcinoma which was positive for CK 7, negative for CK 20 and TTF-1 and LCA.
+PFT on [**2183-9-18**] with FEV1/FVC: 60%, FEV1: 17% and FVC: 28%.
+[**Name (NI) **]: 1 PPD x 60 years, quit smoking 1 mo ago.
+Pertinent Results: [**2184-12-16**] 11:21PM   O2 SAT-77 [**2184-12-16**] 10:40PM   LD(LDH)-233 CK(CPK)-600* [**2184-12-16**] 10:40PM   CK-MB-3 cTropnT-<0.01 [**2184-12-16**] 10:40PM   CORTISOL-13.5 [**2184-12-16**] 07:43PM   LACTATE-1.7 [**2184-12-16**] 07:43PM   HGB-10.5* calcHCT-32 O2 SAT-59 [**2184-12-16**] 06:15PM   TYPE-ART PO2-74* PCO2-48* PH-7.38 TOTAL CO2-29 BASE XS-1 [**2184-12-16**] 04:49PM URINE  HOURS-RANDOM [**2184-12-16**] 04:49PM URINE  UHOLD-HOLD [**2184-12-16**] 04:49PM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.025 [**2184-12-16**] 04:49PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-250 KETONE-TR BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-NEG [**2184-12-16**] 12:47PM   GLUCOSE-275* LACTATE-2.1* [**2184-12-16**] 12:30PM   GLUCOSE-260* UREA N-24* CREAT-1.4* SODIUM-136 POTASSIUM-4.2 CHLORIDE-98 TOTAL CO2-27 ANION GAP-15 [**2184-12-16**] 12:30PM   ALT(SGPT)-15 AST(SGOT)-32 CK(CPK)-935* ALK PHOS-76 AMYLASE-34 TOT BILI-0.4 [**2184-12-16**] 12:30PM   cTropnT-<0.01 [**2184-12-16**] 12:30PM   CK-MB-3 proBNP-1712* [**2184-12-16**] 12:30PM   TOT PROT-6.1* CALCIUM-8.3* PHOSPHATE-4.0# MAGNESIUM-1.7 [**2184-12-16**] 12:30PM   WBC-0.7*# RBC-3.21* HGB-8.1* HCT-23.7* MCV-74* MCH-25.3* MCHC-34.3 RDW-20.2* [**2184-12-16**] 12:30PM   NEUTS-32* BANDS-12* LYMPHS-28 MONOS-20* EOS-0 BASOS-0 ATYPS-0 METAS-8* MYELOS-0 [**2184-12-16**] 12:30PM   HYPOCHROM-1+ ANISOCYT-1+ POIKILOCY-1+ MACROCYT-NORMAL MICROCYT-1+ POLYCHROM-NORMAL OVALOCYT-1+ SCHISTOCY-OCCASIONAL [**2184-12-16**] 12:30PM   PLT SMR-UNABLE TO  PLT COUNT-390 [**2184-12-16**] 12:30PM   PT-17.9* PTT-35.4* INR(PT)-2.2  Micro: [**2184-12-16**] 1:00 pm BLOOD CULTURE      VENIPUNCTURE.
+AEROBIC BOTTLE (Preliminary):       REPORTED BY PHONE TO [**First Name4 (NamePattern1) 26976**] [**Last Name (NamePattern1) 32121**], RN @ 4I [**Numeric Identifier 6026**] @ 0353AM ON       [**2184-12-17**].
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              KLEBSIELLA PNEUMONIAE                              | AMPICILLIN/SULBACTAM--  =>32 R CEFAZOLIN-------------   <=4 S CEFEPIME--------------   <=1 S CEFTAZIDIME-----------   <=1 S CEFTRIAXONE-----------   <=1 S CEFUROXIME------------    16 I CIPROFLOXACIN---------   =>4 R GENTAMICIN------------  =>16 R IMIPENEM--------------   <=1 S LEVOFLOXACIN----------   =>8 R MEROPENEM-------------<=0.25 S PIPERACILLIN/TAZO-----     8 S TOBRAMYCIN------------  =>16 R TRIMETHOPRIM/SULFA----  =>16 R     ANAEROBIC BOTTLE (Pending):     CXR [**2184-12-16**]: The right paramediastinal mass is not significantly changed in size, and on this radiograph measures 4.7 x 3.9 cm in size.
+ECG [**2184-12-16**]: poor baseline ?
+He was generally afebrile through course in [**Hospital Unit Name 153**] and did not require intubation By the end of the [**Hospital Unit Name 153**] stay once he was breathing with adequate saturation on 2L.
+Blood cultures from admission grew 2 out 4 bottles with final culture being Klebsiella sensitive to cefepime, resistant to levofloxacin and gentamcin.
+[**Hospital Unit Name 153**] course also remarkable for intermittent atrial flutter seen on telemetry and supratherapeutic INR for which coumadin was held.
+LE dopplers revealed no presence of DVT.
+His neutropenia was noted to resolve s/p GM-CSF treatment.
+Surveillance blood cultures taken on the His respiratory status was still not at baseline and therefore the pt was steroid regimen was made more potent by changing the steroid to solumedrol.
+Neutropenia, resolved s/p GM-CSF treatment -appears to be improving, continue to monitor CBC and ANC.
+DVT from [**10-2**] now gone.
+-Would check INR every 2 days the first few days after discharge.
+-when INR in therapeutic range start 150 mg SC lovenox once a day  6.
+Appears that he had this as far back as [**2184-5-28**] and plain films at that time were negative for any abnormality including SBO, free air or ascites.
+Guaiac is currently unknown (given his ANC <500, no rectal exam performed).
+Glyburide 10mg [**Hospital1 **] 6.
+Effexor XR 75mg once daily 9.
+Fe 325mg [**Hospital1 **]   Discharge Medications: 1.
+Release 24HR(s)* Refills:*2* 7.
+Inhalation Q4H (every 4 hours).
+Outpatient Lab Work Please check chemistries, CBC, and coagulation studies on [**2184-12-22**].
+Lovenox 150 mg/mL Syringe Sig: One (1) injection Subcutaneous once a day: Please do not start this medication until INR has returned to therapeutic range.
+[**First Name8 (NamePattern2) 251**] [**Name8 (MD) **] MD [**MD Number(1) 3282**]

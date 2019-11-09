@@ -1,0 +1,44 @@
+Admission Date:  [**2175-12-11**]              Discharge Date:   [**2175-12-23**]  Date of Birth:  [**2092-8-31**]             Sex:   F  Service: MEDICINE  Allergies: Atorvastatin / Celebrex  Attending:[**Last Name (NamePattern4) 290**] Chief Complaint: shortness of breath  Major Surgical or Invasive Procedure: none  History of Present Illness: The patient is an 83-year-old woman with chronic diastolic CHF (LVH, EF 75%), chronic atrial fibrillation on anticoagulation, severe pulmonary hypertension, diabetes, hypertension, dyslipidemia, and metastatic thyroid cancer undergoing cyberknife therapy, who presents to the ED today with complaints of 20-pound weight gain over the last two weeks and increasing shortness of breath, dyspnea on exertion, orthopnea, and PND.
+She was evaluated by Dr. [**First Name8 (NamePattern2) 449**] [**Last Name (NamePattern1) 437**] on [**2175-11-6**], at which point her digoxin was stopped due to her normal EF and her Lopressor was changed to Toprol XL and the dose was doubled.
+She subsequently has been undergoing CyberKnife therapy for her metastatic thyroid cancer, completing treatment [**4-16**] today.
+She had a shock ultrasound that was negative and was started on Neosynephrine for her hypotension.
+She received Ceftriaxone as empiric coverage given concern for sepsis contributing to her hypotension and possible underlying pneumonia.
+She was seen by the CCU team in the ED and started on an Esmolol drip and IV Digoxin.
+Esmolol and Neosynephrine were titrated up and she received 1 more dose of IV Digoxin.
+She did not tolerate BiPAP so she was transitioned to NRB.
+On review of systems, she denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.
+Atrial Fibrillation on Coumadin 3.
+Tonsillectomy 3.
+Cataract surgery  Social History: Widowed.
+Family History: Father with coronary artery disease, Two children and five grandchildren alive and healthy Daughter with hyperthyroidism  Physical Exam: VS: afeb, BP= 90s/40s, HR= 110s-130s, RR= 14-18, O2 sat= 96-99% NRB GENERAL: WD/WN elderly woman in moderate respiratory distress.
+RADIOLOGY: CXR ([**2175-12-12**]): FINDINGS: Large right thyroid masses again appreciated with calcification and leftward deviation of the trachea.
+CT Chest ([**12-21**]): pending   Brief Hospital Course: ASSESSMENT AND PLAN: 83-yo woman w/ chronic dCHF (LVH, EF 75%), chronic A-fib on anticoagulation, severe pulm HTN, DM, HTN, HL, and metastatic thyroid Ca s/p CyberKnife therapy, p/w 20-pound weight gain x2 weeks and progressively worsening SOB and DOE, found to be in A-fib w/ RVR in the ED, hypotensive, and hypoxic, admitted to the CCU, improved w diuresis and transferred temporarily to regular floor.
+Diltiazem had been used for rate control - beta blockers were discontinued given concern for ?contribution to respiratory decompensation on the floor.
+She was empirically started on vancomycin and zosyn for possible HAP on [**12-20**].
+The patient was aggressively diuresed with lasix drip.
+The patient was continued on BiPAP and was able to be weaned to NC only.
+However, the patient decided after much discussion that she desired to have comfort measures only.
+She was overloaded on exam and was responsive to a lasix drip with improvement in volume status.
+Given hypotension and mild acute renal failure, lasix drip was continued with 1-1.5 L net diuresis daily.
+Spironolactone was also continued at home dose.
+Nonetheless, the patient appears volume overloaded, restarted on lasix gtt yesterday.
+Continued lasix gtt, then switched to bolus lasix.
+She was in a-Fib w/ RVR on presentation to ED, w/ hypotension as below, in setting of worsening symptoms since stopping Digoxin and uptitrating Toprol XL.
+Low TSH also suggested a contribution of thyrotoxicity secondary to CyberKnife therapy for thyroid cancer.
+She was started on Esmolol gtt which was titrated to max in ED.
+Also given IV Digoxin 250mg x 2 in ED.
+Upon arrival to CCU, Diltiazem bolus + gtt were started with good effect, and esmolol was titrated off.
+Rate was subsequently well controlled on PO and diltiazem, which were increased for goal HR <80.
+Coumadin was continued but INR became supratherapeutic.
+Now s/p diltiazem and esmolol drips on PO diltiazem and metoprolol with HR 90-100.
+Low TSH suggests probable contribution from thyrotoxicity likely from CyberKnife therapy to thyroid cancer.
+Due to supratherapeutic INR, coumadin was d/c'd.
+# HYPOTENSION: Pt w/ SBP 80s-90s in ED in the setting of RVR, and neosynephrine  was started for BP support while on rate-controlling agents.
+Hypotension was attributed to  poor forward flow from acute on chronic diastolic CHF and A-Fib/RVR.
+Blood pressure improved with rate control and diuresis.
+Low UOP on lasix drip, ultrafiltration was considered.
+Will likely improve with HR control and diuresis.
+# DIABETES: On oral meds at home for glycemic control.
+# SUPRATHERAPEUTIC INR: Pt on coumadin for a-fib, but INR now > 6, unclear etiology.
+She has a tortuous trachea - ENT has eval'd think intubation would not be problem[**Name (NI) 115**].
+Medications on Admission: - Lasix 60mg PO daily - Glyburide 2.5mg PO daily - Lisinopril 2.5mg PO daily - Lorazepam 0.5mg PO daily - Pentasa 1000mg PO BID - Toprol XL 200mg PO daily - Omeprazole 40mg PO daily - Spironolactone 25mg PO daily - Warfarin 5mg PO daily   Discharge Medications: expired   Discharge Disposition: Expired  Discharge Diagnosis: expired  Discharge Condition: expired  Discharge Instructions: expired  Followup Instructions: expired                               [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Name8 (MD) **] MD [**MD Number(1) 292**]  Completed by:[**2175-12-26**

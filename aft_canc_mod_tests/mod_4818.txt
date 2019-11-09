@@ -1,0 +1,23 @@
+Admission Date:  [**2160-7-16**]              Discharge Date:   [**2160-7-29**]  Date of Birth:  [**2081-9-23**]             Sex:   F  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 16115**] Chief Complaint: hyponatremia  Major Surgical or Invasive Procedure: none   History of Present Illness: 78yo woman whose PMH includes DMII, HTN, RA, and recent diagnosis of pancreatic cancer with liver metastases, s/p ERCP with biliary stent on [**7-10**], p/w fatigue, near fall, found to have hyponatremia to 117.
+In the ED, initial VS were: 97.0 90 118/70 18 99%  Labs were notable for Na of 117.
+EKG performed, unrevealing for acute event.
+Neurological exam was performed which was fully intact except for foot drop on the left (chronic).
+On transfer to ICU, vitals were: 98 136/67 p77 sat 100 ra  In the [**Hospital Unit Name 153**], patient relays similar history.
+Pertinent Results: [**2160-7-16**] 06:50PM BLOOD Glucose-208* UreaN-7 Creat-0.4 Na-117* K-3.8 Cl-84* HCO3-23 AnGap-14 [**2160-7-16**] 09:35PM BLOOD Glucose-124* UreaN-6 Creat-0.5 Na-120* K-3.9 Cl-89* HCO3-23 AnGap-12 [**2160-7-17**] 12:23AM BLOOD Glucose-100 UreaN-5* Creat-0.5 Na-125* K-3.4 Cl-90* HCO3-24 AnGap-14 [**2160-7-16**] 06:50PM BLOOD WBC-11.8* RBC-3.68* Hgb-11.4* Hct-34.0* MCV-92 MCH-31.0 MCHC-33.6 RDW-13.8 Plt Ct-274 [**2160-7-17**] 12:23AM BLOOD Calcium-8.2* Phos-2.8 Mg-1.4* [**2160-7-16**] 09:35PM BLOOD Osmolal-254* .
+CT torso:  1.
+Equivocal filling defect in a left lower lobe pulmonary artery, inadequately evaluated on this examination which is not targeted for evaluation of the pulmonary vasculature.
+Further evaluation could be obtained with repeat chest CTA if clinically indicated.
+CXR [**2160-7-26**]: FINDINGS:  The PICC line projects over the right atrium and should be pulled back 1-2 cm to be in the SVC- done.
+The patient presented with a serum sodium of 117.
+She was given 1.25L normal saline in the ED and her sodium rose to 120.
+On the morning of [**7-17**] her serum sodium was 127, so IVF were stopped.
+Later that morning it was 122, so 500cc NS were given.
+RUQ US showed no significant change from prior, and stent confirmed to be in proper position.
+Along with elevated transaminases, ALP, and total bilirubin, symptoms are attributed to significant tumor burden.
+Her [**Location (un) 2274**] oncologist Dr [**Last Name (STitle) **] [**Name (STitle) **] was notified and agreed to hold off on chemotherapy.
+CT torso final read showed equivocal left lower lobe opacity in branch of pulmonary artery, could not rule out PE.
+CXR was repeated after hydration and raised possibility of LLL infiltrate, so she was started empirically on ceftriaxone & azithromycin on [**7-18**].
+Her antibiotics coverage was narrowed to augmentin/azithromycin and then discontinued when repeat CXR showed no infiltrate.
+Repeat bilirubin, UA, and C.difficile were unrevealing.
+You also received a few days of antibiotics while we were investigating a possible pneumonia, but these were stopped when a repeat chest X-[**Hospital1 **] showed no evidence of pneumonia.
+Location: [**Hospital1 641**] Address: [**Location (un) **], [**Location (un) **],[**Numeric Identifier 718**] Phone: [**Telephone/Fax (1) 3468**]

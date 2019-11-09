@@ -1,0 +1,45 @@
+Admission Date:  [**2107-7-8**]              Discharge Date:   [**2107-7-15**]  Date of Birth:  [**2041-8-5**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 2356**] Chief Complaint: Dyspnea on exertion, pericardial/pleural effusions, CDiff  Major Surgical or Invasive Procedure: Thoracentesis X2  History of Present Illness: Mrs. [**Known firstname 4134**] [**Known lastname 16479**] is a 65 year old female with a history of HTN, hyperparathyroidism, and hypothyroidism who was recently discharged from the [**Hospital1 18**] Cardiology Medicine service where she had been treated for pericarditis, presumed viral etiology.
+Her hospital course was complicated by frequent episodes of AVnRT (started on diltiazem), community acquired pneumonia (completed course of azithromycin and ceftriaxone), and C. difficile colitis (started on metronidazole).
+She received morphine (1mg IV), zofran (4mg IV), intravenous fluids and was started on Vancomycin/Cefepime with improvement.
+Was also started on PO Vancomycin and switched to IV Flagyl.
+Other Past History: Hypertension Anxiety Hyperparathyroidism Hypothyroid Osteoporosis Prior fractures to ankle at 21yo s/p falling on stairs C section  Social History: Housewife who previously walked [**3-24**] miles daily.
+Chest: Anterior chest wall deformity.
+Cardiac silhouette is suboptimally evaluated due to summation of shadows with pleural effusions.
+PT: 12.2  PTT: 22.7  INR: 1.0  Brief Hospital Course: 65 year old woman with history of hypertension, hypothyroidism, hyperparathyroidism and recent pericarditis, felt likely viral, s/p drainage of pleural effusion (pericardial effusion not drained) and CDiff infection who presents with dyspnea on exertion and returning pleural effusions.
+Each side was tapped on different days and patient was symptomatically better and hypoxia resolved.
+She was started on a prednisone taper which will be managed by her PCP.
+Was initially on broad spectrum abx and was ultimately placed on 250mg PO Vanco QID for a 14 day course.
+Colchicine was then discontinued and the diarrhea subsided.
+No further investigation was completed at this time.
+# Hypothryoidism: Patient remained on home dose of Lexovyl.
+# Anxiety: Patient remained on home doses of Ambien and Lexapro.
+Escitalopram 10 mg Tablet Sig: 0.25 Tablet PO QHS 2.
+Levothyroxine 88 mcg daily 3.
+Zolpidem 5 mg QHS 4.
+Multivitamin daily 5.
+Colchicine 0.6 mg daily 6.
+Diltiazem HCl 240 mg SR daily 8.
+Omeprazole 20 mg daily 9.
+Ativan 0.5 mg Q4H:PRN anxiety 10.
+Indomethacine 25mg TID 11.
+Alendronate 70 mg Qweek -?left off Discharge Med List  Discharge Medications: 1.
+Indomethacin 25 mg Capsule Sig: One (1) Capsule PO TID (3 times a day).
+Escitalopram 10 mg Tablet Sig: 0.25 Tablet PO QHS (once a day (at bedtime)).
+Levothyroxine 88 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Omeprazole 20 mg Capsule, Delayed Release(E.C.)
+Zolpidem 5 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime).
+Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for anxiety.
+Diltiazem HCl 240 mg Tablet Sustained Release 24 hr Sig: One (1) Tablet Sustained Release 24 hr PO once a day.
+Prednisone 10 mg Tablet Sig: see instructions Tablet PO once a day for 14 days: [**7-16**]: take 4 pills;[**7-17**]: take 4 pills;[**7-18**]: take 3 pills;[**7-19**]: take 3 pills;[**7-20**]: take 3 pills;[**7-21**]: take 3 pills;[**7-22**]: take 2 pills;[**7-23**]: take 2 pills;[**7-24**]: take 2 pills;[**7-25**]: take 2 pills;[**7-26**]: take 1 pill;[**7-27**]: take 1 pill;[**7-28**]: take 1 pill;[**7-29**]: take 1 pill.
+Vancomycin 250 mg Capsule Sig: One (1) Capsule PO every six (6) hours for 5 days: [**Month (only) 116**] give liquid.
+Reglan 10 mg Tablet Sig: One (1) Tablet PO three times a day as needed for nausea.
+ZOFRAN ODT 4 mg Tablet, Rapid Dissolve Sig: One (1) Tablet, Rapid Dissolve PO three times a day as needed for nausea.
+Disp:*15 Tablet, Rapid Dissolve(s)* Refills:*0*   Discharge Disposition: Home With Service  Facility: [**Location (un) 932**] Area VNA  Discharge Diagnosis: Primary: Bilateral pleural effusions Secondary: Pericardial effusion, Hypertension, Anxiety, Hyperparathyroidism, Hypothyroid, Osteoporosis, recent Clostridium difficile infection   Discharge Condition: Mental Status: Clear and coherent.
+You underwent drainage of the fluid in your lungs, with improvement in your symptoms.
+You were also started on Steroids to help your condition.
+-It is important that you continue to take your medications as directed.
+We made the following changes to your medications during this admission: --> STOPPED Colchicine --> STOPPED Flagyl --> STARTED Vancomycin.
+It is important for you to take this medication four times a day for 5 ADDITIONAL days.
+--> STARTED Reglan and Zofran for nausea.
+Please take these medications with meals if you feel nauseous.
+Also seek medical attention if you develop any new fever, chills, trouble breathing, chest pain, nausea, vomiting or unusual stools.

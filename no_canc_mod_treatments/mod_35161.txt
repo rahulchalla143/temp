@@ -1,0 +1,42 @@
+Admission Date:  [**2142-7-17**]              Discharge Date:   [**2142-7-18**]  Date of Birth:  [**2080-3-24**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 7333**] Chief Complaint: fatigue, increased leg edema, dyspnea on exertion, recurrent atrial fibrillation/flutter  Major Surgical or Invasive Procedure: Atrial Tachycardia Ablation  History of Present Illness: 62 year old patient of Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 65453**] and Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] with recurrent atrial fibrillation, who underwent left atrial tachycardia ablation, now transferred to the CCU for closer monitoring.
+He underwent cardioversion in [**2142-5-7**] on [**Hospital3 **] and then went back into afib/flutter again 4-5 days later and had another cardioversion in early [**Month (only) 205**] [**2141**].
+He was started on Diltiazem in addition to his Flecainide and Amiodarone and reports that he has spontaneously converted back to ?
+Cardiac review of systems is notable for absence of chest pain, dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope.
+On discharge: WBC 11, Hb 12.4, Hct 38.8, plt 281 Na 143, K 4.0, Cl 106, bicarb 26, BUN 16, Cr 1.2, glu 108  Brief Hospital Course: 62 y/o male with long-standing history of refractory and recurrent A-fib/flutter despite multiple ablations and antiarrhythmic treatments admitted to the CCU s/p repeat atrial ablation.
+# RHYTHM: s/p left sided AT ablation [**2142-7-17**].
+Prior to discharge, pt had been in NSR x 24 hours, and was restarted on his home amiodarone and flecainide.
+His diltiazem was discontinued, as it was originally started for rate control, and he does not require rate control currently.
+Pt was re-started on his home coumadin regimen.
+# CORONARIES: pt was continued on his home aspirin and zocor.
+Pt was given lasix 20 mg IV prior to discharge.
+Per respiratory therapy, pt was requiring increased CPAP settings to maintain oxygenation.
+# Hyperlipidemia - low fat, low cholesterol diet was continued.
+Zocor per home regimen was continued.
+# Hypothyroidism - stable, was continued on home Lexothyroxine 75mcg daily.
+Patient will resume home regimen of coumadin on discharge.
+# Dispo: discharge to home  Medications on Admission: Amiodarone 100mg daily ([**12-8**] of 200mg) Flecainide 150mg [**Hospital1 **] Cardizem 60mg 1 tablet 3 times daily Levothyroxine 75mcg daily Warfarin 5mg/7.5mg alternating doses, instructed to take 5mg MON night per Dr. [**Last Name (STitle) **] for INR of 2.9 on Monday Zocor 20mg daily Aspirin 325mg daily Vitamin C  2000mg daily Vitamin D3 2000mg [**Hospital1 **] Vitamin E 4000 IU daily Salmon oil 1000 daily DHA daily Cod liver oil daily Carnatine daily L- carnatine Tumeric daily Cursamin daily Alphalipoic acid 600mg daily Calcium-magnesium-potassium [**Hospital1 **] Magnesium 400mg [**Hospital1 **] Arginine daily Boron daily Chromium Albuterol PRN for SOB  Discharge Medications: 1.
+Amiodarone 100 mg Tablet Sig: One (1) Tablet PO once a day.
+Flecainide 150 mg Tablet Sig: One (1) Tablet PO twice a day.
+Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO once a day.
+Warfarin 5 mg Tablet Sig: 1 - 1 [**12-8**] Tablet PO once a day: Per INR.
+Zocor 20 mg Tablet Sig: One (1) Tablet PO once a day.
+Aspirin 325 mg Tablet Sig: One (1) Tablet PO once a day.
+Vitamin C 1,000 mg Tablet Sig: Two (2) Tablet PO once a day.
+Vitamin D-3 2,000 unit Tablet Sig: Two (2) Tablet PO once a day.
+Vitamin E  Oral 10.
+Salmon Oil-1000 1,000-200 mg Capsule Sig: One (1) Capsule PO once a day.
+13. carnatine  Sig: One (1)   once a day.
+14. l-carnatine  Sig: One (1)   once a day.
+16. cursamin  Sig: One (1)   once a day.
+Alpha Lipoic Acid 300 mg Capsule Sig: Two (2) Capsule PO once a day.
+18. calcium magnesium potassium  Sig: One (1)   twice a day.
+Magnesium Oxide 400 mg Tablet Sig: One (1) Tablet PO twice a day.
+Arginine (L-Arginine)  Oral 21. boron  Sig: One (1)   once a day.
+Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: Two (2) puffs Inhalation q 4-6 hours as needed for shortness of breath or wheezing.
+Omeprazole 40 mg Capsule, Delayed Release(E.C.)
+Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+Acetaminophen 500 mg Tablet Sig: 1-2 Tablets PO three times a day as needed for chest pain.
+Discharge Disposition: Home  Discharge Diagnosis: Atrial Tachycardia Ablations Atrial Fibrillation/Atrial Tachycardia Hypertension Hyperlipidemia Asthma OSA Hypothyroidism   Discharge Condition: v/s: afeb, 91% on RA, HR 82, BP Lungs: CTAB CV: RRR Ext: mile peripheral chronic edema  Discharge Instructions: You had an atrial tachycardia ablation for recurrent atrial arrhythmias.
+Please take all medications as prescribed.
+You will be started on omeprazole 40 mg daily for 4 weeks.
+Start a baby aspirin 81 mg daily 3.

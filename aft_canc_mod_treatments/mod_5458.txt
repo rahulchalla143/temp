@@ -1,0 +1,21 @@
+Admission Date:  [**2123-12-4**]              Discharge Date:   [**2123-12-5**]  Date of Birth:  [**2054-10-3**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 3984**] Chief Complaint: respiratory distress, fevers, sepsis  Major Surgical or Invasive Procedure: [**12-4**] -intubation -placement of left internal jugular central venous line -placement of right radial arterial line  [**12-5**] -placement of right femoral line  History of Present Illness: Mr. [**Known lastname 64263**] is a 69 year old gentleman with CLL x10 years s/p 2 blast crises this year.
+He was previously treated with Rituximab and Fludarabine several years ago but did not repeat this regimen due to anemia/thrombocytopenia.
+3 wks prior to admission, and prednisone 60mg that was initiated 4-5 days ago.
+CLL dx 10 yrs ago w/ 2 blast crises- previously treated with Rituximab and Fludarabine, most recently treated with 2.
+Obstructive sleep apnea, on C-PAP 3.
+[**2123-12-5**]:        11.5 462.6>---------< 46     95% lymphs        34.6  ABG: 7.13/ 45.7/ 64/ 16/ -14   Brief Hospital Course: 69 y/o gentleman with Chronic Lymphocytic Leukemia s/p chemotherapy and recent use of prednisone, was admitted to [**Hospital Unit Name 153**] with fevers of 104, sepsis and respiratory distress.
+Given patient's immunocompromised state due to advanced cancer and prednisone use, infectious etiologies of fever are most likely.
+Another possibility is aggressive transformation of his malignancy such as [**Doctor Last Name 6261**] transformation which would be characterized by high fever, elevated LDH and association with previous fludarabine use.
+He was given a cooling blanket and broad-spectrum antibiotics (vancomycin, levofloxacin and zosyn) were initiated.
+Patient was pan-cultured, and given IVF for hydration with 1 L NS boluses.
+He developed increased work of breathing and went into atrial fibrillation with heart rate in the 160s, refractory to low-dose diltiazem, so amiodarone drip was started.
+Patient eventually went into sinus rhythm on amiodarone drip, but due to oxygen desaturations and increased work of breathing, decision was made to intubate.
+He was given fentanyl and midazolam for sedation.
+A left internal jugular central line and right radial arterial line were placed emergently due to hypotension.
+Vasopressin was initiated as a second pressor, but only had minimal effect on blood pressure.
+Dopamine was initiated as a 3rd pressor due to systolic pressures in the 60s-70s.
+Patient was given multiple fluid boluses over night with very little effect on blood pressure and urine output.
+Blood cultures returned positive for gram positive cocci in pairs and clusters, and patient's vancomycin was changed to linezolid as per ID recommendations, for better VRE coverage.
+His zosyn was changed to meropenem for broad coverage and clindamycin was added due to its inhibitory effects on bacterial protein synthesis and therefore, action against endotoxins.
+Patient continued to do poorly, and emergent femoral line was placed due to concern of inaccurate readings from right radial arterial line.
+Medications on Admission: 1. lipitor 10mg daily 2. prednisone 60mg daily 3. valtrex (prophylaxis)  Discharge Medications: expired  Discharge Disposition: Expired  Discharge Diagnosis: expired  Discharge Condition: expired  Discharge Instructions: n/a                               [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 2437**] MD [**MD Number(1) 2438**]  Completed by:[**2123-12-15**

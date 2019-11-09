@@ -1,0 +1,22 @@
+Name:  [**Known lastname **],[**Known firstname 194**]           Unit No:   [**Numeric Identifier 14257**]  Admission Date:  [**2105-2-12**]              Discharge Date:   [**2105-3-8**]  Date of Birth:  [**2027-1-11**]             Sex:   F  Service: NEUROSURGERY  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 599**] Addendum: Patient changed to fosphenytoin IV after PICC line placed given Dilantin is unable to be given via a PICC line  Discharge Medications: 1. acetaminophen 325 mg Tablet [**First Name3 (LF) 1649**]: 1-2 Tablets PO Q6H (every 6 hours) as needed for fever/pain.
+2. bisacodyl 5 mg Tablet, Delayed Release (E.C.)
+3. senna 8.6 mg Tablet [**First Name3 (LF) 1649**]: One (1) Tablet PO DAILY (Daily).
+4. docusate sodium 50 mg/5 mL Liquid [**First Name3 (LF) 1649**]: One (1)  PO BID (2 times a day).
+5. heparin (porcine) 5,000 unit/mL Solution [**First Name3 (LF) 1649**]: 5000 (5000) units Injection TID (3 times a day).
+6. insulin lispro 100 unit/mL Solution [**First Name3 (LF) 1649**]: One (1) Subcutaneous ASDIR (AS DIRECTED).
+7. glucagon (human recombinant) 1 mg Recon Soln [**First Name3 (LF) 1649**]: One (1) Recon Soln Injection Q15MIN () as needed for hypoglycemia protocol.
+8. aspirin 325 mg Tablet [**First Name3 (LF) 1649**]: One (1) Tablet PO DAILY (Daily).
+9. lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) 1649**]: One (1) Tablet,Rapid Dissolve, DR PO BID (2 times a day).
+10. levetiracetam 100 mg/mL Solution [**Last Name (STitle) 1649**]: Fifteen (15) ml PO QHS (once a day (at bedtime)).
+11. levetiracetam 100 mg/mL Solution [**Last Name (STitle) 1649**]: Ten (10) ml PO QAM (once a day (in the morning)).
+12. magnesium hydroxide 400 mg/5 mL Suspension [**Last Name (STitle) 1649**]: Thirty (30) ML PO Q6H (every 6 hours) as needed for constipation.
+13. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler [**Last Name (STitle) 1649**]: Six (6) Puff Inhalation Q4H (every 4 hours) as needed for wheezing.
+14. nystatin 100,000 unit/mL Suspension [**Last Name (STitle) 1649**]: Five (5) ml PO QID (4 times a day).
+15. miconazole nitrate 2 % Powder [**Last Name (STitle) 1649**]: One (1) Appl Topical [**Hospital1 **] (2 times a day).
+16. metoprolol tartrate 25 mg Tablet [**Hospital1 1649**]: One (1) Tablet PO TID (3 times a day).
+17. ipratropium-albuterol 18-103 mcg/Actuation Aerosol [**Hospital1 1649**]: [**11-23**] Puffs Inhalation Q4H (every 4 hours).
+18. lisinopril 5 mg Tablet [**Month/Day (2) 1649**]: One (1) Tablet PO DAILY (Daily).
+19. ferrous sulfate 300  mg (60 mg Iron) Tablet [**Month/Day (2) 1649**]: One (1) Tablet PO DAILY (Daily).
+Ondansetron 4 mg IV Q8H:PRN nausea 21.
+Dextrose 50% 12.5 gm IV PRN hypoglycemia protocol 24.
+HydrALAzine 5 mg IV Q6H prn sbp>160 25. fosphenytoin 100 mg PE/2 mL Solution [**Month/Day (2) 1649**]: Two Hundred (200) mg PE Injection three times a day: Administer IV through PICC as Dilantin can not be given through PICC.

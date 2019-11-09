@@ -1,0 +1,49 @@
+Admission Date:  [**2110-9-8**]              Discharge Date:   [**2110-10-2**]   Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 1148**] Chief Complaint: s/p fall  Major Surgical or Invasive Procedure: Right renal artey embolization [**2110-9-9**] Thoracentesis [**2110-9-15**] Arterial line placement   History of Present Illness: This is an 84 yo male with DM, CRI, dementia, CVA, seizure disorder, and recent MVA who was originally transferred from an OSH for a right perinephric hematoma which he suffered from a twisting motion while getting out of bed.
+A therapeutic tap of 1500mL of serosanguinous fluid was done because he desaturated to 89% on RA.
+[**2110-9-8**] 06:00AM   PT-20.4* PTT-150* INR(PT)-2.0* [**2110-9-8**] 06:00AM   PLT SMR-NORMAL PLT COUNT-203 [**2110-9-8**] 06:00AM   HYPOCHROM-NORMAL ANISOCYT-2+ POIKILOCY-NORMAL MACROCYT-NORMAL MICROCYT-NORMAL POLYCHROM-NORMAL SCHISTOCY-1+ BURR-1+ ELLIPTOCY-1+ [**2110-9-8**] 06:00AM   NEUTS-93.4* BANDS-0 LYMPHS-3.8* MONOS-2.6 EOS-0.1 BASOS-0 [**2110-9-8**] 06:00AM   WBC-9.0 RBC-3.51* HGB-9.8* HCT-29.2* MCV-83 MCH-27.8 MCHC-33.5 RDW-18.1* [**2110-9-8**] 06:00AM   GLUCOSE-220* UREA N-30* CREAT-2.3* SODIUM-139 POTASSIUM-4.3 CHLORIDE-108 TOTAL CO2-21* ANION GAP-14 [**2110-9-8**] 06:22AM   HGB-10.6* calcHCT-32 [**2110-9-8**] 06:45AM URINE  AMORPH-MANY [**2110-9-8**] 06:45AM URINE  GRANULAR-[**3-9**]* [**2110-9-8**] 06:45AM URINE  RBC->50 WBC-0-2 BACTERIA-MANY YEAST-NONE EPI-[**3-9**] [**2110-9-8**] 06:45AM URINE  BLOOD-LG NITRITE-NEG PROTEIN-500 GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-NEG [**2110-9-8**] 06:45AM URINE  COLOR-Yellow APPEAR-Hazy SP [**Last Name (un) 155**]-1.022 [**2110-9-8**] 08:05AM   PT-18.1* PTT-34.8 INR(PT)-1.7* [**2110-9-8**] 08:38AM   LACTATE-2.2* [**2110-9-8**] 08:38AM   TYPE-ART PO2-110* PCO2-39 PH-7.34* TOTAL CO2-22 BASE XS--4 [**2110-9-8**] 10:32AM   FIBRINOGE-417* [**2110-9-8**] 10:32AM   PT-15.1* PTT-30.7 INR(PT)-1.4* [**2110-9-8**] 10:32AM   PLT COUNT-184 [**2110-9-8**] 10:32AM   WBC-10.8 RBC-3.22* HGB-9.2* HCT-26.7* MCV-83 MCH-28.7 MCHC-34.7 RDW-17.6* [**2110-9-8**] 10:32AM   CALCIUM-7.7* PHOSPHATE-4.7* MAGNESIUM-2.2 [**2110-9-8**] 10:32AM   GLUCOSE-211* UREA N-33* CREAT-2.4* SODIUM-146* POTASSIUM-4.3 CHLORIDE-113* TOTAL CO2-21* ANION GAP-16 [**2110-9-8**] 10:40AM   freeCa-0.96* [**2110-9-8**] 10:40AM   LACTATE-2.2* [**2110-9-8**] 10:40AM   TYPE-ART PO2-94 PCO2-30* PH-7.40 TOTAL CO2-19* BASE XS--4 [**2110-9-8**] 12:49PM   O2 SAT-44 [**2110-9-8**] 12:49PM   TYPE-[**Last Name (un) **] PO2-23* PCO2-39 PH-7.34* TOTAL CO2-22 BASE XS--5 [**2110-9-8**] 02:30PM   GLUCOSE-163* LACTATE-3.8* [**2110-9-8**] 02:30PM   TYPE-ART PO2-77* PCO2-30* PH-7.40 TOTAL CO2-19* BASE XS--4 [**2110-9-8**] 03:09PM   PT-13.7* PTT-28.1 INR(PT)-1.2* [**2110-9-8**] 03:09PM   PLT COUNT-256 [**2110-9-8**] 03:09PM   HCT-24.3* [**2110-9-8**] 06:15PM   PT-13.7* PTT-27.6 INR(PT)-1.2* [**2110-9-8**] 06:15PM   HCT-30.1* [**2110-9-8**] 06:15PM   MAGNESIUM-2.0 [**2110-9-8**] 06:15PM   POTASSIUM-4.4 [**2110-9-8**] 06:31PM   O2 SAT-93 [**2110-9-8**] 06:31PM   LACTATE-3.9* [**2110-9-8**] 06:31PM   TYPE-ART PO2-73* PCO2-33* PH-7.40 TOTAL CO2-21 BASE XS--2 [**2110-9-8**] 07:02PM   FIBRINOGE-287 [**2110-9-8**] 07:02PM   PT-21.7* PTT-106.7* INR(PT)-2.1* [**2110-9-8**] 07:39PM   O2 SAT-79 [**2110-9-8**] 07:39PM   TYPE-[**Last Name (un) **] [**2110-9-8**] 08:23PM   PT-13.8* PTT-27.8 INR(PT)-1.2* [**2110-9-8**] 10:25PM   HCT-28.6*  Brief Hospital Course: 84 yo male with DM, CRI, dementia, prior strokes and seizure disorder admitted for perinephric hematoma s/p embolization now admitted to the medical floors with mental status changes.
+However, it was also thought that there could have been an effect of his high keppra dose and anticholinergic drugs.
+His Keppra was decreased to an appropriate renal dose and all of his medications with anticholinergic side effects were stopped.
+He was initially given Haldol at night to control his evening agitation but it was later weaned off.
+He was not requiring a 1:1 sitter at the time of discharge and was believed to be back close to his baseline level of dementia.
+# PLEURAL EFFUSION - His first thoracentesis removed 1.5 L but the pleural fluid removed was not sent for diagnostic testing.
+At the time of discharge, the denied shortness of breath, had no other evidence on exam to suggest CHF besides pleural effusions, and had good O2 saturations on minimal O2 requirements.
+# PERINEPHRIC HEMATOMA - He had embolization of one of the branches of his right renal artery by Interventional Radiology.
+His anticoagulation with warfarin was held.
+# hypertension- patient was hypertensive to the 190s on the floor on beta blocker and long acting nitrate.
+Given his renal insufficiency and likelihood of requiring large doses of ACE inhibitor to obtain appropriate blood pressure control, he was started on po hydralazine with excellent improvement in pressures.
+However, given QID dosing, patient may benefit from switch to calcium channel blocker as an outpatient.
+# CVA - he was on warfarin and aspirin prior to his perinephric hematoma for stroke.
+Given his risk of falls and hematoma, only his aspirin was continued and his warfarin was held.
+# BPH - He was continued on his finesteride and flomax.
+# ELEVATED TROPONIN - His troponin peaked at 0.22 with no elevations in CK or CK/MB, and he had no chest pain.
+His CAD was treated conservatively with medical management including asa, metoprolol and isosorbide.
+# DM - His oral hypoglycemics were held during admission and he was managed with an insulin sliding scale.
+He was not restarted on his glipizide given his renal failure but was started on low dose avandia at the time of discharge.
+His PO meds needed to be crushed in puree.
+Liquid forms were requried if medications were not crushable.
+He was put on aspiration precautions, and all his meals needed to be supervised.
+# CODE: - DNR/DNI, discussed with wife who is health care proxy   Medications on Admission: Metoprolol 50 [**Hospital1 **] Coumadin 3 QHS Proscar 5 daily Zoloft 25 daily Keppra 500 daily Glucotrol 2.5 daily ASA 81 daily Flomax 0.4 daily Albuterol prn Prilosec 20 daily Flourinef 0.1 daily  Discharge Medications: 1.
+Albuterol Sulfate 0.083 % Solution Sig: One (1) Neb Inhalation Q6H (every 6 hours) as needed for SOB.
+Ipratropium Bromide 0.02 % Solution Sig: One (1) neb Inhalation Q6H (every 6 hours).
+Sevelamer 400 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+Tamsulosin 0.4 mg Capsule, Sust.
+Finasteride 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Multivitamin     Capsule Sig: One (1) Cap PO DAILY (Daily).
+Heparin (Porcine) 5,000 unit/mL Solution Sig: 5000 (5000) units Injection TID (3 times a day).
+Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Metoprolol Tartrate 50 mg Tablet Sig: 1.5 Tablets PO BID (2 times a day).
+Cepacol 2 mg Lozenge Sig: One (1) Lozenge Mucous membrane PRN (as needed) as needed for Cough.
+Levetiracetam 250 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Omeprazole 20 mg Capsule, Delayed Release(E.C.)
+Hydralazine 10 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours).
+Release 12HR Sig: Ten (10) ML PO BID (2 times a day).
+Avandia 2 mg Tablet Sig: One (1) Tablet PO twice a day.
+Imdur 60 mg Tablet Sustained Release 24HR Sig: One (1) Tablet Sustained Release 24HR PO once a day.
+Bisacodyl 5 mg Tablet, Delayed Release (E.C.)
+Senna 8.6 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day).
+Emphysema   Discharge Condition: hemodynamically stable, afebrile   Discharge Instructions: Please take all medication as prescribed.
+Your metoprolol has been increased.
+You have also been started on isosorbide dinitrate, hydralazine, and atorvastatin.
+You have not been restarted on your coumadin.
+Please follow up with your Primary Care Doctor and Trauma surgery as below.

@@ -1,0 +1,56 @@
+Admission Date:  [**2179-11-16**]              Discharge Date:   [**2179-11-26**]  Date of Birth:  [**2105-3-12**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 613**] Chief Complaint: Transfer from [**Hospital6 17032**] for management of sepsis  Major Surgical or Invasive Procedure: cardiac catheterization  History of Present Illness:     The patient is a 74 year old female with a past medical history significant for CAD, CHF (EF 45%), COPD, and who was recently hospitalized at [**Hospital1 18**] from [**2179-10-24**] until [**2179-10-30**] for multiple problems, including MRSA bacteremia complicated by mitral valve endocarditis, right upper lobe pneumonia, and ST elevation myocardial infarction.
+During her last hospitalization, initial plans for cardiac intervention were deferred due to sepsis, hypotension, and the discovery of high grade MRSA bacteremia.
+Her hospital course was notable for periods of hypotension (SBP 70-80s), requiring IVF and low dose neosynephrine.
+The patient was given empiric treatment with Flagyl for C. difficile colitis.
+She was administered Linezolid instead of Vancomycin for coverage of her MRSA bacteremia.
+The patient was transferred to the [**Hospital1 18**] MICU for further management of her hypotension and infectious issues.
+Past Medical History: CAD (anterior-inferior defects noted on previous stress tests), s/p STEMI on [**2179-10-24**].
+Plans for cardiac intervention during recent hospitalization were deferred due to sepsis, hypotension, and the discovery of high grade MRSA bacteremia.
+Patient started on Vancomycin [**2179-10-26**].
+Patient takes Coumadin daily.
+Pertinent Results: Notable labs from [**Hospital6 17032**]:  Blood cultures ([**11-15**]): 4/4 bottles MRSA Urine culture ([**11-15**]): negative to date C diff ([**11-15**]): neg x 1  Chemistries notable for BUN/Cr  38/2.5 ([**11-16**]),  Cr 0.7 on [**10-30**] CK=35, Trop=0.25 ([**11-16**]) WBC on ([**11-15**]) elevated at 17.6, with 8 bands, 85 polys INR ([**11-15**]) elevated at 7.5  [**2179-11-16**] 09:40PM   WBC-14.2* RBC-3.44* HGB-9.7* HCT-27.5* MCV-80* MCH-28.3 MCHC-35.5* RDW-13.8 [**2179-11-16**] 09:40PM   NEUTS-94.7* BANDS-0 LYMPHS-2.8* MONOS-2.4 EOS-0.1 BASOS-0 [**2179-11-16**] 09:40PM   PLT COUNT-172 [**2179-11-16**] 09:40PM   PT-26.1* PTT-42.3* INR(PT)-4.3 [**2179-11-16**] 09:40PM   GLUCOSE-170* UREA N-38* CREAT-1.5* SODIUM-139 POTASSIUM-4.0 CHLORIDE-108 TOTAL CO2-22 ANION GAP-13 [**2179-11-16**] 09:40PM   ALT(SGPT)-33 AST(SGOT)-21 CK(CPK)-22* ALK PHOS-89 TOT BILI-0.6 [**2179-11-16**] 09:40PM   CK-MB-4 cTropnT-0.06* [**2179-11-16**] 09:40PM   ALBUMIN-3.1* CALCIUM-8.3* PHOSPHATE-2.4* MAGNESIUM-1.5* [**2179-11-16**] 11:15PM URINE  COLOR-Straw APPEAR-Clear SP [**Last Name (un) 155**]-1.020 [**2179-11-16**] 11:15PM URINE  BLOOD-MOD NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-SM [**2179-11-16**] 11:15PM URINE  RBC-12* WBC-11* BACTERIA-MANY YEAST-NONE EPI-<1 [**2179-11-16**] 11:15PM URINE  EOS-NEGATIVE  Blood cx ([**11-16**]) 4/4 bottles w/ MRSA Subsequent blood cx were negative  Brief Hospital Course: A/P:  74 year old female with multiple medical problems, including CAD, CHF (EF 45%), and  COPD, s/p recent [**Hospital1 18**] hospitalization for MRSA bacteremia complicated by mitral valve endocarditis, right upper lobe pneumonia, and ST elevation myocardial infarction.
+The day of her transfer to [**Hospital1 18**] she had [**4-18**] blood culture bottles positive for MRSA at the OSH and was started on Linezolid at that institution.
+She was started empirically on Flagyl for a brief course until 3 C diff toxin tests were negative.
+Her PICC line was thought to be a likely nidus for her continued bacteremia and was d/c'd and cultured, but failed to grow an organism.
+Her BP was maintained with IVF and Levophed initially, though pressors were quickly weaned off in the first night.
+ID recommended changing from the linezolid back to vanc, but adding daptomycin as well and initially gentamycin.
+They also recommended getting a head CT to r/o emboli prior to her likely needed surgery for abscess drainage.
+CT [**Doctor First Name **] was initially recommended cath in prep for surgery given recent STEMI, but then after further review was not convinced that the pt had a true abscess requiring surgery.
+She was intended to have a CABG performed during her MVR and abscess drainage.
+The patient was started on beta blockers and aspirin once able to tolerate.
+She refused to be intubated, so a BIPAP was placed on to improve her oxygenation, which helped.
+She responded well to Lasix diuresis, though became SOB on occassion throughout her stay.
+Cardiology recommended beta-blockade and ACEI to reduce afterload, which improved her resp status.
+Given the risk of bleed from these lesions will anticoagulated from heparin on CP bypass, CT [**Doctor First Name **] was reluctant to take her to the OR but eventually agreed.
+Supratherapeutic INR: pt had been on coumadin as an outpatient for a h/o PEs, but had not had a recent INR check.
+Her INR slowly came down as we held her coumadin in house.
+On the final day of hospitalization, the issue of percutaneous intervention of the LAD stenosis was addressed with patient and again, patient refused any further intervention, surgery, catheterization, or otherwise.
+Medications on Admission: Meds on transfer from OSH: Neosynephrine @ 20 mcg/min Tapazole 10 mg PO qd Vitamin C 500 mg PO qd Zinc Sulfate 220 mg PO qd Flagyl 500 mg PO TID (started [**11-16**]) Linezolid 600 mg PO BID (started [**11-16**]) ASA 325 mg PO qd Plavix 75 mg PO qd Atrovent inh 1 puff q6hrs MVI with Fe 1 tab PO qd Protonix 40 mg PO qd Vitamin K 2 mg administered [**11-15**] Outpatient meds Lisinopril 5 mg PO qd, Atenolol 50 mg PO qd, Coumadin, and Lipitor 80 mg PO qd were held   Discharge Medications: 1.
+Methimazole 10 mg Tablet Sig: One (1) Tablet PO QD ().
+Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Zinc Sulfate 220 mg Capsule Sig: One (1) Capsule PO DAILY (Daily).
+Multivitamin     Capsule Sig: One (1) Cap PO DAILY (Daily).
+Ipratropium Bromide 18 mcg/Actuation Aerosol Sig: Two (2) Puff Inhalation QID (4 times a day) as needed for shortness of breath or wheezing.
+Insulin Regular Human 100 unit/mL Solution Sig: Sliding Scale  Injection ASDIR (AS DIRECTED).
+Ipratropium Bromide 0.02 % Solution Sig: One (1) dose Inhalation Q6H (every 6 hours).
+Camphor-Menthol 0.5-0.5 % Lotion Sig: One (1) Appl Topical TID (3 times a day) as needed.
+Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 4 to 6 hours) as needed for fever.
+Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day) as needed for constipation.
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+Metoprolol Tartrate 25 mg Tablet Sig: 1.5 Tablets PO TID (3 times a day): Hold for systolic blood pressure less than 100, heart rate less than 60.
+Captopril 25 mg Tablet Sig: One (1) Tablet PO TID (3 times a day): Hold for systolic blood pressure less than 100.
+Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily): Hold for systolic blood pressure less than 100.
+Daptomycin 500 mg Recon Soln Sig: One (1) Recon Soln Intravenous  Q24H (every 24 hours).
+Lansoprazole 30 mg Susp,Delayed Release for Recon Sig: Thirty (30) mg PO once a day.
+Disp:*900 mg* Refills:*2*   Discharge Disposition: Extended Care  Facility: [**Hospital3 11496**] - [**Location (un) **]  Discharge Diagnosis: Methicillin-resistant Staphylococcus aureus Endocarditis, with 3+ mitral regurgitation Congestive heart failure Coronary artery disease, left anterior descending coronary artery lesion 90% occluded Acute on Chronic renal failure   Discharge Condition: Fair - continued episodes of mild pulmonary edema due to valve defect as well as chronic congestive heart failure.
+Furthermore, non-intervened 90% stenosis of left anterior descending coronary artery per patient's request.
+Patient will require IV Daptomycin for four weeks following discharge.
+- If renal function declines, please check creatinine clearance for re-adjustment for daptomycin dosing.
+Continue taking medications as directed.
+- In addition, hold Lasix for systolic blood pressure <100.
+- Hold metoprolol for systolic blood pressure <100, or heart rate <60.
+Followup Instructions: For MRSA endocarditis, patient will require daptomycin therapy for four weeks following discharge.
+Dose of daptomycin may require adjustment per renal function.
+Patient has declined cardiac surgery or percutaneous intervention (and given embolic cerebral infarctions is not a candidate for thrombolysis or anticaogulation) for severe endocarditis and coronary artery disease, therefore fever and unstable angina are to be expected.
+Please draw cultures should patient become febrile and consider broadening antibiotic coverage.

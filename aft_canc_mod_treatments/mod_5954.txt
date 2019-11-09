@@ -1,0 +1,28 @@
+Admission Date:  [**2175-12-22**]              Discharge Date:   [**2176-1-3**]  Date of Birth:  [**2109-7-10**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 5552**] Chief Complaint: Hemoptysis, ?pneumonia  Major Surgical or Invasive Procedure: Rigid Bronchoscopy Attempted bronchial artery embolization Stereotactic Brain Biopsy  History of Present Illness: History of Present Illness: 66 yo male with h/o htn, glucose intolerance, recent dx of NSCLC who presents as a transfer from [**Hospital3 **] for rigid bronchoscopy and possible embolization for hemoptysis.
+He tolerated the procedure well, and then on [**2175-12-19**] he began to develop more hemoptysis.
+He became hypotensive in the setting of intubation and sedation, and was started on Neosynephrine.
+He spiked a fever on [**2175-12-21**], and was started on vancomycin and levofloxacin.
+His neosynephrine was changed to Levophed.
+His levofloxacin was changed to pip/tazo.
+Past Medical History: Past Medical History: Hypertension Hyperlipidemia Glucose intolerance NSCLC (dx [**2175-12-15**] via bronch) AAA s/p repair GERD  Social History: Social History (per old records): He lives alone and is not married.
+Bronchial Artery Embolization ([**12-25**]): IMPRESSION: Thoracic aortogram demonstrates a diffusely enlarged and tortuous aorta.
+Several attempts were made to advance a microcatheter into this artery, but were unsuccessful  Brief Hospital Course: Mr. [**Known lastname 6330**] was a 66-year-old man with a recent diagnosis of NSCLC with mediastinal lymphadenopathy, who presented with hemoptysis and respiratory failure, underwent bronchoscopy with cauterization, was successfully extubated, and underwent unsuccessful attempt at bronchial artery embolization [**2175-12-25**] due to tortuous aorta.
+# Respiratory failure:  Patient was previously intubated for airwary protection at OSH in setting of hemoptysis assumed to be from his known large lung mass.
+He was transferred to [**Hospital1 18**] and underwent rigid bronchoscopy.
+[**Last Name (un) **] showed significant amounts of clot in R bronchial tree, and he underwent removal of some clots and cauterization of bleeding areas.
+He was found to have a RUL PNA on CT scan [**12-23**], which was thought to be post-obstructive, and he was started on broad spectrum antibiotics (Vanco/Zosyn).
+He received Spiriva and Albuteral nebs prn.
+He was transferred out of the ICU ot OMED where he continued to improve clinically, requiring no supplemental oxygen by discharge.
+Rigid [**Last Name (un) 1066**] showed significant amounts of clot in R bronchial tree, and he underwent removal of some clots and cauterization of bleeding areas.
+Radiation oncology was consulted and recommended the patient be transferred from MICU to [**Hospital Unit Name 153**] for XRT after brain biopsy.
+The patient underwent palliative XRT initially but after his brain biopsy came back negative for malignancy by preliminary report, he had definitive XRT.
+He was given a 12-day course of vancomycin and piperacillin-tazobactam for broad coverage of post-obstructive vs. hospital aquired pneumonia.
+# Hypotension->Hypertension:  Patient was hypotensive at time of transfer, requiring levophed, however his blood pressure improved with cessation of sedation and extubation.
+He was started on captopril for tighter blood pressure control, but by discharge he was restarted on lisinopril.
+Amlodipine was held, however, and was to be added back by PCP when appropriate  Medications on Admission: Medications on transfer to [**Hospital1 18**]: Vancomycin 1g q12 Zosyn 4.5 q8 Fentanyl drip Midazolam drip Levophed drip Lansoprazole .
+You were intubated for airway protection but was extubated shortly after after your symptoms improved.
+You also underwent a biopsy of a mass in a part of your brain called cerebellum.
+You will receive chemotherapy and radiation as outpatient.
+Your medications have been changed.
+Please take the new medications as instructed and do not take any old medication that is not on the discharge medication list.
+Followup Instructions: Please go to the following appointments:  * Radiation oncology: 8 am, Friday, [**2176-1-5**], [**Hospital Ward Name 332**] Basement Radiation Therapy Department, [**Hospital1 1170**], [**Location (un) 86**], MA.

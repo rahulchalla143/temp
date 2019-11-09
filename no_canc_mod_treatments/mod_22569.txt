@@ -1,0 +1,26 @@
+Admission Date:  [**2171-11-9**]              Discharge Date:   [**2171-11-13**]  Date of Birth:  [**2116-12-19**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 45**] Chief Complaint: Acute AMI s/p thrombolysis  Major Surgical or Invasive Procedure: Cardiac cath with stent placement [**2171-11-12**]  History of Present Illness: Mr. [**Known lastname **] is a 54 yoM with minimal PMH who was mowing lawn at 11 AM [**2171-11-9**] and suddenly experienced accelerating exertional 7/10 intensity SSCP.
+Patient returned to house with continuous chest discomfort, unsuccessfully "trying to find comfortable position."
+At 4 PM, patient called wife and related continuing symptoms, and EMS was activated to transport patient to [**Hospital3 1443**] Hospital.
+Given lopressor IV (5mg x2), reglan, morphine IV.
+10 units retavase x 2 (17:29), heparin 4k bolus, 1k/hr maintenance.
+Started on nitroglycerin gtt for BP control.
+Hemo: PCW: 20 RA: 14 PA: 41/22 (30) LV: 129/34 RV: 41/21   Brief Hospital Course: A&P:  54 year old male with large AMI s/p thrombolysis at OSH.
+##Cardiac CAD - Initially patient continued on ASA, and heparin (goal 50-70) given bleeding diathesis after thrombolytics.
+No plavix given upcoming cath and possibility of surgical management.
+- Also started on Lipitor 80 mg po qd, beta blocker (metoprolol) and captopril   - Patient markedly hypertensive (SBP 160) on arrival - received IV NTG gtt for pressure control which was weaned off and ACEI and BB titrated up appropriately.
+- Pt under went a cardiac cath which revealed LAD lesion which was stented with [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Last Name (Prefixes) **].
+Given EF of 35% and apical, inferior and lateral apical akinesis pt started on coumadin for likely 3 month course.
+D/C home with lovenox until coumadin therapeutic.
+Toprol XL 25 mg Tablet Sustained Release 24HR Sig: One (1) Tablet Sustained Release 24HR PO once a day: For blood pressure control and heart protection.
+Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily): To reduce cholesterol.
+Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Warfarin 1 mg Tablet Sig: Five (5) Tablet PO once a day: 5 tablets as directed - adjust dose as instructed for proper anti-coagulation.
+Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily): To prevent stent re-stenosis.
+Lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily): For blood pressure control.
+Enoxaparin 100 mg/mL Syringe Sig: One (1) injection Subcutaneous Q12H (every 12 hours): For anti-coagulation.
+Nitroglycerin 0.3 mg Tablet, Sublingual Sig: One (1) Sublingual once a day: take in case of chest pain and call your physician.
+You underwent coronary artery stenting to re-open the coronary artery, but your heart sustained some damage from the event.
+You will need continuing care from a primary care physician and [**Name Initial (PRE) **] cardiologist to ensure proper management of your health issues.
+You will need to have lab work checked each Friday for the next 3 weeks to monitor your coumadin level.
+You will have your blood drawn by a nurse at Dr.[**Name (NI) 62553**] office and he will review the results and let you know if any adjustments are needed in your coumadin dose.
+Coumadin Nurse - [**Company 191**] on Fridays - results to [**First Name8 (NamePattern2) 6381**] [**Doctor Last Name **].

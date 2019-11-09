@@ -1,0 +1,71 @@
+Admission Date:  [**2198-11-1**]              Discharge Date:   [**2198-11-14**]  Date of Birth:  [**2135-3-22**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 3705**] Chief Complaint: fever, hypotension  Major Surgical or Invasive Procedure: EGD PEG placement PICC placement   History of Present Illness: HPI: 63 male with a history of end-stage liver disease secondary to non-alcoholic steatohepatitis, seizure disorder, type 2 diabetes, hypothyroidism presents with fevers and hypotension and profound dehydration from [**Hospital1 **].
+He was given aggressive fluid resuscitation.
+A subclavian line was placed.
+- CAD, s/p cardiac cath in [**2187**] for planned PTCA of RCA which failed secondary to occlusion and dissection; followed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] - Hyperlipidemia - UGIB s/p TIPS [**12/2197**]  Social History: Remote smoking history, married.
+Tip of right subclavian central venous catheter overlie the proximal right atrium.
+He was initially covered with linezolid with history of VRE, which was switched to daptomycin, piperacillin/tazobactam, and metronidazole for broad coverage.
+His antibiotics were subsequently removed and his vitals remained stable.
+# Seizures: Patient had a recent prolonged admission with refractory seizures, necessitating pentobarbital coma at one point.
+Seizures during his prior admission were primarily absence in nature, as he would stare off and become non-responsive, but no rhythmic motions were noted.
+He was continued on his prior regimen of phenytoin (at a lower dose), zonismaide, levetiracetam, and topiramate.
+He was also placed on lorazepam 0.75 mg TID for seizure prophylaxis in the setting of lowered seizure threshold.
+His phenytoin dose was further decreased to 150mg per PEG TID after his free phenytoin level returned elevated at 2.9.
+He should also continue on his current dose of lorazepam until [**2198-11-26**], when it should be decreased to 0.5mg IV Q8H.
+He was discharged on these medications with follow up with Dr. [**Last Name (STitle) 70525**].
+Please contact her at the above number for any questions regarding his antiepileptic medication regimen.
+He was maintained on lactulose and his rifaximin was increased.
+Antiepileptic management as above.
+His Dobhoff was removed and tube feedings were held.
+He received 3 U PRBCs with an increase in his Hct to 30.9.
+His aspirin and SC heparin were held, and he was placed on a PPI [**Hospital1 **].
+PEG tube was placed on [**11-9**] and he has been tolerating tube feeds.
+His SC heparin was restarted.
+Consider holding aspirin for 2 weeks (to restart on [**11-18**]) to allow mucosa to heal, in light of risk of recurrent life-threatening GI bleeding.
+He was maintained on a PPI.
+He also received free water boluses via PEG tube.
+His beta blocker and ACE-inhibitor were initially held in the setting of hypotension.
+His aspirin was held in the setting of an upper GI bleed as above.
+His home beta blocker and ACE-inhibitor were restarted after he remained stable after GI bleed.
+# Decubitus ulcer / heel blisters: Pt was admitted with stage 2 ulcer on coccyx and pressure blisters on heels.
+Wound care and Plastic Surgery consults were obtained and recommendations followed.
+A rectal tube was placed for hygiene and he may need fecal diversion in the future.
+He was previously considered for liver transplant but has been delisted due to his baseline mental status.
+He was maintained on lactulose and his rifaximin was increased.
+# ARF: Creatinine was 1.9 on admission (greatly increased from baseline of 0.5), considered likely prerenal given hypovolemia.
+It improved greatly with fluid resuscitation and has remained stable at 0.4-0.5. .
+On ACE-inhibitor as above.
+# Hypothyroidism: Continued home regimen of levothyroxine 200mcg daily.
+Speech and Swallow service was consulted, and patient was fitted for Passy-Muir valve.
+# FEN: Patient has tolerated tube feeds via PEG tube at goal rate.
+Hypovolemia on admission was corrected with aggressive fluid resuscitation.
+He was given occasional doses of IV furosemide for gentle diuresis.
+# PPX: Pneumoboots for DVT prophylaxis was maintained.
+SC heparin was also administered, with temporary hold in setting of GI bleed.
+Medications on Admission: - meropenem - dilantin 300 tid - keppra 2250 [**Hospital1 **] - topiramate 200 [**Hospital1 **] - zonisamide 700 qd - asa - metoprolol 12.5 [**Hospital1 **] - lisinopril 2.5 qd - lactulose - rifaxamin - aldactone 100 qd - lasix 140 qd - insulin nph 20 [**Hospital1 **] - synthroid 200 qd - fragmin  Discharge Medications: 1.
+Levetiracetam 500 mg Tablet [**Hospital1 **]: 4.5 Tablets PO BID (2 times a day).
+Topiramate 100 mg Tablet [**Hospital1 **]: Two (2) Tablet PO BID (2 times a day).
+Zonisamide 100 mg Capsule [**Hospital1 **]: Seven (7) Capsule PO DAILY (Daily).
+Levothyroxine 100 mcg Tablet [**Hospital1 **]: Two (2) Tablet PO DAILY (Daily).
+Lactulose 10 gram/15 mL Syrup [**Hospital1 **]: Thirty (30) ML PO TID (3 times a day).
+Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: One (1) Tablet,Rapid Dissolve, DR PO BID (2 times a day).
+Metoprolol Tartrate 25 mg Tablet [**Last Name (STitle) **]: 0.5 Tablet PO BID (2 times a day).
+Lisinopril 5 mg Tablet [**Last Name (STitle) **]: 0.5 Tablet PO DAILY (Daily).
+Heparin (Porcine) 5,000 unit/mL Solution [**Last Name (STitle) **]: 5000 (5000) units Injection TID (3 times a day).
+Lorazepam 2 mg/mL Syringe [**Last Name (STitle) **]: 0.75 mg Injection Q 8H (Every 8 Hours).
+Rifaximin 200 mg Tablet [**Last Name (STitle) **]: Two (2) Tablet PO TID (3 times a day).
+Nystatin 100,000 unit/g Cream [**Last Name (STitle) **]: One (1) Appl Topical [**Hospital1 **] (2 times a day).
+Heparin Lock Flush (Porcine) 100 unit/mL Syringe [**Hospital1 **]: Two (2) mg Intravenous DAILY (Daily) as needed.
+Albuterol Sulfate 0.083 % (0.83 mg/mL) Solution [**Hospital1 **]: One (1) nebulizer Inhalation Q4H (every 4 hours) as needed for shortness of breath or wheezing.
+Ipratropium Bromide 0.02 % Solution [**Hospital1 **]: One (1) nebulizer Inhalation Q4H (every 4 hours) as needed for shortness of breath or wheezing.
+Insulin NPH Human Recomb 100 unit/mL Suspension [**Hospital1 **]: as directed units Subcutaneous twice a day: Administer 28 units every morning and 32 units every evening.
+Ascorbic Acid 500 mg Tablet [**Hospital1 **]: One (1) Tablet PO BID (2 times a day) for 3 days.
+Zinc Sulfate 220 (50) mg Capsule [**Hospital1 **]: One (1) Capsule PO DAILY (Daily) for 3 days.
+Phenytoin 100 mg/4 mL Suspension [**Hospital1 **]: One [**Age over 90 1230**]y (150) mg PO TID (3 times a day).
+Insulin Lispro 100 unit/mL Solution [**Telephone/Fax (1) **]: as directed units Subcutaneous four times a day: Please see sliding scale.
+You were initially treated with antibiotics.
+Your blood pressure improved with IV fluids.
+Your aspirin was held and you were starting on an anti-acid medication.
+You were given a few doses of IV furosemide for edema in your arms and legs.
+A PICC line was placed.
+A feeding tube was placed in your stomach.
+Please take all of your medications as prescribed.

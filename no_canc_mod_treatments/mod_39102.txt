@@ -1,0 +1,54 @@
+Admission Date:  [**2174-1-11**]              Discharge Date:   [**2174-1-21**]  Date of Birth:  [**2106-4-20**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**Last Name (NamePattern4) 290**] Chief Complaint: hematochezia  Major Surgical or Invasive Procedure: Intubation  History of Present Illness: Mr. [**Known lastname 93733**] is a 67 year old man with history of severe COPD (on 3.5L home O2 and chronic steroids x 4 years, previously intubated on several occasions), was who was hospitalized at NEBH from [**Date range (1) 93734**] for a pseudomonal and proteus pneumonia, and had been discharged on cefepime to pulmonary rehab at [**Hospital1 15454**] from [**Date range (1) 86904**], where on [**2174-1-10**] he was found to have a bright red bloody bowel movement.
+He received one unit of pRBCs with Hct increase to 33.2 ([**1-11**] @8:38).
+He received 1 dose of cefepime and flagyl and was admitted to the MICU.
+In the MICU he received one unit of PRBCs and serial HCTs bumped appropriately and were stable.
+However, blood cultures from [**1-11**] grew [**5-12**] bottle of pan-sensitive (ampicillin) enterococcus.
+He was briefly treated empirically with vanc and then linezolid until sensitivities were available, and then switched to ampicillin [**1-14**].
+These were largely felt to be due to anxiety and he responded well to low dose haldol and ativan.
+On [**1-17**], he reveived a PICC line in anticipation of d/c.
+Due to his worsening CO2 narcosis/somnolence, he was voluntarily intubated and transferred back to the MICU for further management.
+Past Medical History: CHF atrial flutter s/p ablation hypertension multiple pneumonias glaucoma osteoporosis compression fx spine rib fracture gastroesophageal reflux disease cor pulmonale obstructive sleep apnea diabetes mellitus  Social History: 50yrs x 1.5 ppd smoking hx.
+Brief Hospital Course: Summary: 67 year old man with history of COPD, OSA, aflutter s/p ablation with recent subacute altered mental status transferred from OSH for w/u hematochezia found to have [**5-12**] blood cx +enterococcus.
+Urine or PICC line were thought to be most likely sources.
+Pt initially treated with linezolid; when sensitivities returned, he was transitioned to IV ampicillin with a two week course planned.
+He received a R PICC line on [**1-17**].
+He was started  on IV ampicillin and remained afebrile until his transfer back to the ICU on [**1-17**] for hypoxia and hypercarbia.
+He was noted to have worsening leukopenia and thromocytopenia while on ampicillin and although it has probable better coverage than vancomycin, the ampicillin was replace by vancomycin for total 14-day course.
+# Respiratory: Pt began treatment at OSH for pseudomonas and proteus PNA with ceftazidime on [**12-30**]; this was d/c'd after a 14 days.
+The patient's solumedrol was transitioned to PO prednisone daily, with a taper planned.
+He was started on Bactrim DS 3x/week for PCP prophylaxis while on high-dose steroids.
+However, on [**1-17**], he demonstrated increasing somnolence and an ABG showed a CO2 of 99, so the patient was intubated for ventilation and transferred back to the ICU.
+He does best on nasal cannula with O2 sat goal 90%.
+Anxiety control is therefore paramount to his respiratory status with emphasis on minimizing meds that will cause somnolence and respiratory depression.
+[**Hospital1 **] PO PPI therapy was initiated.
+Sedating medications were limited, although it was found that the patient has a good therepeutic response to low-dose Haldol administered in the evenings.
+Haldol 0.5-1mg can be given on PRN basis but pt also responds well to reasoning.
+Ativan 1mg PRN can be second-line treatment.
+# HTN: The pt's home dose of diltiazem had been lowered given bleed; this was slowly titrated back up with good effect.
+# DM: The patient's home metformin was held and he was managed on an insulin sliding scale with standing glargine.
+Medications on Admission: azopt eye drops 1 drop [**Hospital1 **] lumigan eye drops 1 drop [**Hospital1 **] lasix 40 mg daily solumedrol 40 mg q12 ceftazidime 1 gm q8hours fosamax 70 mg qTuesday celexa 20 mg daily zyprexa 2.5 mg daily zyprexa 5 mg qHS nexium 40 mg [**Hospital1 **] regular insulin sliding scale advair diskus 250/50 1 puff [**Hospital1 **] levalbuterol 1 neb q6 diltizem CR 240 mg daily colace 100 mg [**Hospital1 **] guaifenesin 1200 mg [**Hospital1 **] lidocaine patch daily metformin 500 mg [**Hospital1 **] potassium chloride 20mEq daily remeron 15 mg qhs levalbuterol 1 neb q3h:prn atrovent neb q6h tylenol 650 mg q4:prn bisacodyl 10 mg daily vicodin 1-2 tabs q4h:prn ambien 10 mg qhs:prn ativan 0.5 mg q6:prn  Discharge Medications: 1.
+Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig: One (1) Adhesive Patch, Medicated Topical DAILY (Daily) as needed for pain.
+Erythromycin 5 mg/g Ointment Sig: 0.5  Ophthalmic [**Hospital1 **] (2 times a day): both eyes.
+Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO BID (2 times a day).
+Insulin Glargine 100 unit/mL Solution Sig: Twelve (12) units Subcutaneous at bedtime.
+Diltiazem HCl 30 mg Tablet Sig: One (1) Tablet PO every six (6) hours.
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+Fluticasone 110 mcg/Actuation Aerosol Sig: Two (2) Puff Inhalation [**Hospital1 **] (2 times a day).
+Lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO Q8H (every 8 hours) as needed for constipation.
+Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed for pain.
+Tiotropium Bromide 18 mcg Capsule, w/Inhalation Device Sig: One (1) Cap Inhalation DAILY (Daily).
+Ipratropium-Albuterol 0.5-2.5 mg/3 mL Solution for Nebulization Sig: One (1) nebulizer Inhalation Q6H (every 6 hours) as needed.
+Furosemide 10 mg/mL Solution Sig: Four (4) mg Injection DAILY (Daily).
+Lorazepam 0.5 mg Tablet Sig: 1-2 Tablets PO Q3H (every 3 hours) as needed for shakiness, agitation: hold for sedation or respiratory rate <10; prn haldol should be first-line [**Doctor Last Name 360**].
+Haloperidol 1 mg IV HS 16.
+Haloperidol Lactate 5 mg/mL Solution Sig: One (1) mg Injection Q3H (every 3 hours) as needed for agitation.
+Vancomycin 1000 mg IV Q 12H day 1 [**1-11**], to stop [**1-25**] 18.
+Albuterol 90 mcg/Actuation Aerosol Sig: One (1) neg Inhalation Q2H (every 2 hours) as needed.
+Heparin Lock Flush (Porcine) 100 unit/mL Syringe Sig: Two (2) ML Intravenous DAILY (Daily) as needed.
+20. azopt eye drops 1 drop [**Hospital1 **] 21. lumigan eye drops 1 drop [**Hospital1 **]   Discharge Disposition: Extended Care  Facility: [**Hospital1 700**] - [**Location (un) 701**]  Discharge Diagnosis: PRIMARY: Chronic obstructive pulmonary disease SECONDARY: Gastrointestinal Bleed Anxiety Multifocal Atrial Tachycardia Enterococcal bacteremia   Discharge Condition: Good; breathing comfortably on 2L nasal cannula with increased control of anxiety.
+You were noted to have bacteria in your blood and were started on intravenous antibiotics.
+You also had difficulty with your breathing and required intubation for respiratory distress.
+You were intubated for less than 24 hours and did well.
+Some changes in yoru medications were made.
+Please discard all of your prior medications and start those prescribed.

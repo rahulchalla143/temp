@@ -1,0 +1,23 @@
+Given Morphine 16 mg IV w/o CP relief beyond [**7-25**].
+Here at [**Hospital1 18**], given dilaudid 4 mg IV w/ pain relief to [**2192-4-19**].
+ROS: negative for F/C/ myalgias/wt loss/ nightsweats/ cough/ recent viral symptoms/ GIB/ exertional CP.
+Pertinent Results: [**2187-5-10**] 03:00PM   CK(CPK)-56 [**2187-5-10**] 03:00PM   CK-MB-NotDone cTropnT-<0.01 [**2187-5-10**] 01:30PM OTHER BODY FLUID  TOT PROT-5.4 GLUCOSE-171 LD(LDH)-436 AMYLASE-28 ALBUMIN-3.4 [**2187-5-10**] 01:30PM OTHER BODY FLUID  WBC-[**Numeric Identifier 30501**]* HCT-8* POLYS-78* LYMPHS-9* MONOS-13* [**2187-5-10**] 09:30AM   GLUCOSE-231* UREA N-16 CREAT-0.8 SODIUM-138 POTASSIUM-4.4 CHLORIDE-106 TOTAL CO2-23 ANION GAP-13 [**2187-5-10**] 09:30AM   LD(LDH)-153 CK(CPK)-47 [**2187-5-10**] 09:30AM   CK-MB-NotDone cTropnT-<0.01 [**2187-5-10**] 09:30AM   TOT PROT-6.7 CALCIUM-8.2* PHOSPHATE-3.0 MAGNESIUM-2.0 [**2187-5-10**] 09:30AM   TSH-1.6 [**2187-5-10**] 09:30AM   [**Doctor First Name **]-NEGATIVE [**2187-5-10**] 09:30AM   RHEU FACT-7 [**2187-5-10**] 09:30AM   WBC-9.8 RBC-4.79 HGB-14.5 HCT-42.4 MCV-89 MCH-30.3 MCHC-34.2 RDW-13.2 [**2187-5-10**] 09:30AM   NEUTS-90.8* LYMPHS-5.3* MONOS-3.7 EOS-0.1 BASOS-0.1 [**2187-5-10**] 09:30AM   PLT COUNT-138* [**2187-5-10**] 09:30AM   SED RATE-8 [**2187-5-10**] 01:25AM   GLUCOSE-242* UREA N-15 CREAT-0.8 SODIUM-139 POTASSIUM-4.9 CHLORIDE-105 TOTAL CO2-23 ANION GAP-16 [**2187-5-10**] 01:25AM   CK(CPK)-71 [**2187-5-10**] 01:25AM   cTropnT-<0.01 [**2187-5-10**] 01:25AM   CK-MB-NotDone [**2187-5-10**] 01:25AM   WBC-12.7* RBC-5.17 HGB-15.7 HCT-45.6 MCV-88 MCH-30.3 MCHC-34.3 RDW-13.1 [**2187-5-10**] 01:25AM   NEUTS-92.9* BANDS-0 LYMPHS-3.9* MONOS-3.0 EOS-0.1 BASOS-0 [**2187-5-10**] 01:25AM   HYPOCHROM-NORMAL ANISOCYT-NORMAL POIKILOCY-NORMAL MACROCYT-NORMAL MICROCYT-NORMAL POLYCHROM-NORMAL [**2187-5-10**] 01:25AM   PLT SMR-NORMAL PLT COUNT-170 [**2187-5-10**] 01:25AM   PT-12.1 PTT-21.7* INR(PT)-1.0  ECG Study Date of [**2187-5-10**]  1:04:30 AM Sinus tachycardia.
+Successful placement of a pericardial catheter via the subxyphoid approach with aspiration of 400 cc of bloody fluid.
+After drainage of 400 cc of fluid, right atrial pressures decreased to 13 mmHg with return of normal Y-descent.
+Pericardial drain was left in place and continued to yield ~25cc the first day, then ~65cc of serosanguinous fluid the next day upon removal of the drain.
+Of note, pulsus had been reduced to 6mmHg following drainage in the cath lab on hospital day one and continued to remain stable at 6mmHg throughout remainder of hospitalization.
+In pursuit of etiology of effusion, a PPD was placed (flat @ 48 hours), AFB stain of fluid was negative, and no organisms were seen.
+However, the fluid did reveal 38,000 white cells with neutrophil predominance.
+Nonetheless, patient was in excellent clinical condition following drainage and was afebrile throughout course, suggesting that the effusion was less likely purulent.
+With the pericardial drain in place, patient continued to have significant pleuritic pain, which was treated to good effect with indomethacin 50mg TID.
+Patient required 75mcg of Fentanyl and 1mg of Versed at the time of removal of the drain.
+However, following removal of drain, patient was virtually pain free.
+Patient was discharged with instructions to return for echocardiogram within one week of discharge, to see PCP in followup for chemistries and CBC (while on indomethacin) within one week, and to return to see Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] in cardiology within two weeks to review echocardiogram results.
+Medications on Admission: Glucotrol 10mg Accupril 10mg Lipitor 10mg  Discharge Medications: 1.
+Aspirin 325 mg Tablet, Delayed Release (E.C.)
+Atorvastatin Calcium 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 4 to 6 hours) as needed.
+Quinapril HCl 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Glipizide 10 mg Tab, Sust Release Osmotic Push Sig: One (1) Tab, Sust Release Osmotic Push PO DAILY (Daily).
+Indomethacin 50 mg Capsule Sig: One (1) Capsule PO TID (3 times a day) for 7 days.
+Discharge Instructions: Continue taking indomethacin for pain as needed.

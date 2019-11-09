@@ -1,0 +1,96 @@
+Admission Date:  [**2115-4-24**]              Discharge Date:   [**2115-5-4**]  Date of Birth:  [**2049-9-11**]             Sex:   M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 613**] Chief Complaint: Reason for MICU Transfer: Hypotension  Major Surgical or Invasive Procedure: [**2115-4-29**] Temporary HD line placement [**2115-5-3**] Permanent HD tunneled line placement   History of Present Illness: 65M with history of DM, CPOD on 2L home O2, and CKD (recently started on HD 2.5 wks ago), and currently at rehab after admission for cellultis, worsening renal impairment and who presents now from rehab with subjective fevers for the last [**1-7**] days, malaise, and hypotension with SBP to 80s.
+Gave 40IV lasix for K. .
+Denies chest pain, chest pressure, palpitations, or weakness.
+Past Medical History: -diabetes mellitus type II -HTN -dCHF/right heart failure (EF>55%), -s/p open chest surgery for "dot" on lung at [**Doctor Last Name 1263**] -rheumatoid arthritis -COPD on 2L home O2 -Depression -Bipolar Disorder -Schizoaffective disorder -Glaucoma -stage 5 chronic kidney disease -peripheral vascular disease  s/p RLE bypass -history of pulmonary embolism on Coumadin -Obesity hypoventilation syndrome -OSA on bipap/cpap -chronically elevated left hemidiaphragm  Social History: Lives in [**Hospital3 2558**], Uses electric wheelchair at baseline.
+Oxacillin RESISTANT Staphylococci MUST be reported as also          RESISTANT to other penicillins, cephalosporins, carbacephems,          carbapenems, and beta-lactamase inhibitor combinations.
+Rifampin should not be used alone for therapy.
+Oxacillin RESISTANT Staphylococci MUST be reported as also          RESISTANT to other penicillins, cephalosporins, carbacephems,          carbapenems, and beta-lactamase inhibitor combinations.
+Rifampin should not be used alone for therapy.
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              STAPH AUREUS COAG +                              |          STAPH AUREUS COAG +                              |          | CLINDAMYCIN-----------<=0.25 S   <=0.25 S ERYTHROMYCIN----------   =>8 R      =>8 R GENTAMICIN------------ <=0.5 S    <=0.5 S LEVOFLOXACIN----------     4 R        4 R OXACILLIN-------------   =>4 R      =>4 R RIFAMPIN-------------- <=0.5 S    <=0.5 S TETRACYCLINE----------   <=1 S      <=1 S TRIMETHOPRIM/SULFA---- <=0.5 S    <=0.5 S VANCOMYCIN------------ <=0.5 S    <=0.5 S .
+[**2115-4-24**] 3:58 pm CATHETER TIP-IV      Source: tunneled HD line.
+Oxacillin RESISTANT Staphylococci MUST be reported as also          RESISTANT to other penicillins, cephalosporins, carbacephems,          carbapenems, and beta-lactamase inhibitor combinations.
+Rifampin should not be used alone for therapy.
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              STAPH AUREUS COAG +                              | CLINDAMYCIN-----------<=0.25 S ERYTHROMYCIN----------   =>8 R GENTAMICIN------------ <=0.5 S LEVOFLOXACIN----------     4 R OXACILLIN-------------   =>4 R RIFAMPIN-------------- <=0.5 S TETRACYCLINE----------   <=1 S TRIMETHOPRIM/SULFA---- <=0.5 S VANCOMYCIN------------     1 S .
+Right-sided central venous hemodialysis catheter is again seen, terminating in the right atrium.
+Patient is status post median sternotomy.
+[**2115-4-24**] CHEST (PA & LAT): Right-sided central venous hemodialysis catheter is again seen, terminating in the right atrium.
+Patient is status post median sternotomy.
+Patient is status post median sternotomy.
+Right-sided hemodialysis catheter has been removed.
+[**2115-5-3**] Tunneled HD Line Placement: Successful uncomplicated placement of a 15.5F 27-cm tip-to-cuff tunneled hemodialysis with tip in the right atrium.
+Right sided temporary HD catheter was removed.
+Brief Hospital Course: 65 y/o male with DM II, COPD, and CKD stage V, started on hemodialysis approximately 2.5 weeks prior to admission, who presented with sepsis due to MRSA bacteremia/ HD catheter infection.
+Given recent HD line placement there was concern for sepsis from bacteremia.
+He received Vancomycin and Cefepime in the ED for possible HCAP.
+Although a urinary source was considered less likely, he was changed to Vancomycin and Meropenem (Meropenem due to prior UTI sensitivities).
+ID was consulted early in his hospitalization and recommended HD line removal with a line holiday.
+TEE for further evaluation was not pursued, as the decision was made to treat with vancomycin IV for 6 weeks empirically.
+A temporary femoral line was placed into the right groin for better access.
+On the medicine floor, the patient continued vancomycin dosed with HD.
+Femoral line was removed and a RIJ temporary dialysis line was placed on [**4-29**], while awaiting permanent line, which was placed on [**5-3**].
+The patient tolerated these procedures well.
+The patient will need to continue vancomycin IV for 6 weeks, dosed with dialysis.
+# CKD stage V: Patient was started on dialysis approximately 2.5 weeks prior to presentation.
+Dialysis was not performed during his ICU stay due to removal of the HD line and tenuous blood pressures.
+He initially required fluid boluses for hypotension but his fluid balance was subsequently managed with Lasix boluses.
+A temporary HD line was placed on [**2115-4-29**] as noted above.
+Patient required several units of FFP and doses of vitamin K to reverse INR enough for placement of a permanent HD catheter, which was done on [**2115-5-3**].
+He ultimately received 4 units pRBCs for repeated hematocrits of high 20s-30, but also for hemodynamic support to avoid using crystalloid fluids exclusively.
+CHRONIC ISSUES: # COPD on 2L home O2: Patient presented on 2L of oxygen with saturations in the high 90s.
+He continued to receive his home Fluticasone, Albuterol and Tiotropium throughout his stay.
+# Diabetes mellitus II: He was managed on a Humalog ISS during his ICU stay.
+# HTN/dCHF/right heart failure (EF>55%): His Metoprolol and Aspirin 81 mg were continued initially.
+Metoprolol was held for hypotension but was restarted prior to floor transfer.
+# Depression/Bipolar Disorder/Schizoaffective disorder: Continued divalproex, oxcarbasezpine, risperdone .
+# Pulmonary Embolism on Coumadin: He presented with INR of 4.0 and Coumadin was held.
+He recieved 4 units of FFP for femoral line placement in the unit.
+For permanent HD line placement, desired INR was less than 1.5.
+The patient received several units of FFP and doses of vitamin K while on the floor prior to this procedure.
+On discharge his latest INR is 1.1, he will be continued on home regimen of 3mg daily, with INR to be checked by rehab and titrated for INR goal of [**2-8**].
+# Obesity hypoventilation syndrome and OSA: He was continued on BiPap throughout his ICU stay and on the floor at night, and intermittently as needed for respiratory distress.
+TRANSITIONAL ISSUES: # Vancomycin IV to continue for 6 weeks, dosed with HD.
+Patient should have labs checked weekly while on this antibiotic: CBC with differential, BUN/Cr, AST/ALT, Alk Phos, Total bili, ESR/CRP, vancomycin level.
+# Would consider further Psychiatric evaluation, and adjustment of medications to simplify regimen.
+# CODE: Full Code  Medications on Admission: 1. aspirin 81 mg Tablet PO DAILY (Daily).
+2. calcitriol 0.25 mcg Capsule Sig: PO DAILY 3. divalproex 250 mg Tablet, Delayed Release (E.C.)
+PO QAM 4. divalproex 500 mg Tablet, Delayed Release (E.C.)
+PO QPM 5. docusate sodium 100 mg Capsule [**Hospital1 **] 6. metoprolol tartrate 25 mg Tablet PO BID 7. cholecalciferol (vitamin D3) 1,000 unit PO DAILY (Daily).
+8. cholecalciferol (vitamin D3) 400 unit once a day.
+9. calcium carbonate 500 mg calcium (1,250 mg)  PO once a day.
+10. fluticasone 110 mcg/actuation Aerosol Sig: Two (2) Puff Inhalation [**Hospital1 **] (2 times a day).
+11. albuterol sulfate 90 mcg/actuation HFA Aerosol Inhaler Sig: Two (2) Puff Inhalation twice a day as needed for shortness of breath or wheezing.
+12. tiotropium bromide 18 mcg Capsule, w/Inhalation Device Sig: One (1) Cap Inhalation once a day.
+13. hydroxychloroquine 400 mg  PO BID 14. insulin lispro 100 unit/mL Solution Sig: Sliding scale units  Subcutaneous three times a day.
+15. risperidone 2.5 mg Tablet PO HS (at bedtime).
+16. tamsulosin 0.4 mg Capsule PO HS (at bedtime).
+17. oxcarbazepine 300 mg [**Hospital1 **] 18. sevelamer carbonate 1600 mg Tablet Sig: PO TID W/MEALS (3 TIMES A DAY WITH MEALS).
+Eucerin Cream Sig: One (1) application Topical four times a day as needed for itching.
+20. camphor-menthol [**11-16**] % Cream Sig: Topical twice a day as needed for itching.
+21. warfarin 3 mg 4PM daily.
+Discharge Medications: 1. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+2. calcitriol 0.25 mcg Capsule Sig: One (1) Capsule PO DAILY (Daily).
+3. divalproex 250 mg Tablet, Delayed Release (E.C.)
+4. divalproex 500 mg Tablet, Delayed Release (E.C.)
+5. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+6. metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Vitamin D3 1,000 unit Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Vitamin D3 400 unit Tablet Sig: One (1) Tablet PO once a day.
+9. calcium carbonate 500 mg calcium (1,250 mg) Capsule Sig: One (1) Capsule PO once a day.
+10. fluticasone 110 mcg/actuation Aerosol Sig: Two (2) Puff Inhalation [**Hospital1 **] (2 times a day).
+11. tiotropium bromide 18 mcg Capsule, w/Inhalation Device Sig: One (1) Cap Inhalation DAILY (Daily).
+12. hydroxychloroquine 200 mg Tablet Sig: Two (2) Tablet PO twice a day.
+13. insulin lispro 100 unit/mL Solution Sig: One (1) unit Subcutaneous four times a day: with meals and before bed, as directed by sliding scale.
+14. risperidone 1 mg Tablet Sig: 2.5 Tablets PO HS (at bedtime).
+15. tamsulosin 0.4 mg Capsule, Ext Release 24 hr Sig: One (1) Capsule, Ext Release 24 hr PO HS (at bedtime).
+16. oxcarbazepine 300 mg Tablet Sig: One (1) Tablet PO twice a day.
+17. sevelamer carbonate 800 mg Tablet Sig: Two (2) Tablet PO three times a day: with meals.
+18. camphor-menthol 0.5-0.5 % Lotion Sig: One (1) Appl Topical TID (3 times a day) as needed for itching.
+20. vancomycin in D5W 1 gram/200 mL Piggyback Sig: One (1) g Intravenous HD PROTOCOL (HD Protochol): day 1 = [**2115-4-24**]  , for six weeks.
+21. warfarin 3 mg Tablet Sig: One (1) Tablet PO once a day.
+22. albuterol sulfate 90 mcg/actuation HFA Aerosol Inhaler Sig: Two (2) Puff Inhalation Q6H (every 6 hours) as needed for SOB/ wheezing.
+Discharge Disposition: Extended Care  Facility: [**Hospital3 2558**] - [**Location (un) **]  Discharge Diagnosis: Primary diagnosis: MRSA septicemia from HD catheter .
+Secondary diagnoses: -chronic kidney disease stage V, on HD -COPD on home O2 -OSA on CPAP -HTN -dCHF/right heart failure (EF>55%) -rheumatoid arthritis -Depression -Bipolar Disorder -Schizoaffective disorder -Glaucoma -peripheral vascular disease  s/p RLE bypass -history of pulmonary embolism on Coumadin  Discharge Condition: Mental Status: Clear and coherent.
+You were treated with antibiotics for your infection.
+You will continue antibiotics (Vancomycin) for six weeks for continued treatment.
+Please note, the following changes were made to your medications: - START vancomycin 1 g IV with hemodialysis through [**6-6**] (for total duration of 6 weeks) Continue all of your other medications as you had prior to this hospitalization  Please weigh yourself every morning, and call your doctor if your weight goes up more than three pounds.
+Followup Instructions: Department: INFECTIOUS DISEASE When: TUESDAY [**2115-5-14**] at 9:30 AM With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 4593**], MD [**Telephone/Fax (1) 457**] Building: LM [**Hospital Unit Name **] [**Hospital 1422**] Campus: WEST     Best Parking: [**Hospital Ward Name **] Garage  Department: INFECTIOUS DISEASE When: TUESDAY [**2115-5-14**] at 11:45 AM With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 456**], MD [**Telephone/Fax (1) 457**] Building: LM [**Hospital Ward Name **] Bldg ([**Last Name (NamePattern1) **]) [**Hospital 1422**] Campus: WEST     Best Parking: [**Hospital Ward Name **] Garage  Department: TRANSPLANT CENTER When: THURSDAY [**2115-5-16**] at 1:30 PM With: [**First Name11 (Name Pattern1) 674**] [**Last Name (NamePattern4) 675**], MD [**Telephone/Fax (1) 673**] Building: LM [**Hospital Ward Name **] Bldg ([**Last Name (NamePattern1) **]) [**Location (un) **] Campus: WEST     Best Parking: [**Hospital Ward Name **] Garage                                [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) **] MD [**MD Number(2) 617**]

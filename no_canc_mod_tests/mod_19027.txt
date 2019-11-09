@@ -1,0 +1,26 @@
+EMS reports that the patient's pacemaker did not appear to be functioning adequately as they found the patient's heart rate to be between the 30's and 70's.
+The patient was bradycardic and a CXR demonstrated a displaced right ventricular pacer wire.
+After consultation with the family, the patient was transferred to [**Hospital1 18**] for further evaluation and management.
+A repeat ECHO demonstrated no effusion or complication of lead placement.
+Pulmonary edema, diastolic dysfunction 17. complete heart block.
+PULSES: Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 1+ PT 1+ Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 1+ PT 1+  Discharge: VITAL SIGNS: 98.8   71   110/38   26   99%2L GENERAL: NAD, AxOx1, agitated.
+NECK: Supple with JVP flat CARDIAC: irregular RR, normal S1, S2.
+Pertinent Results: LABS ON ADMISSION: [**2161-3-2**] 04:30PM BLOOD WBC-15.7* RBC-3.39* Hgb-10.1* Hct-30.8* MCV-91 MCH-29.7 MCHC-32.6 RDW-14.1 Plt Ct-232 [**2161-3-2**] 04:30PM BLOOD Neuts-83.7* Lymphs-11.3* Monos-3.7 Eos-0.9 Baso-0.4 [**2161-3-2**] 04:30PM BLOOD Plt Ct-232 [**2161-3-2**] 04:30PM BLOOD Glucose-103* UreaN-49* Creat-1.7* Na-145 K-5.3* Cl-117* HCO3-22 AnGap-11 [**2161-3-2**] 04:30PM BLOOD CK(CPK)-89 [**2161-3-3**] 04:38AM BLOOD Calcium-8.1* Phos-5.3* Mg-1.8 [**2161-3-2**] 04:21PM BLOOD Type-ART Rates-16/ Tidal V-400 PEEP-5 FiO2-100 pO2-472* pCO2-35 pH-7.36 calTCO2-21 Base XS--4 AADO2-206 REQ O2-43 Intubat-INTUBATED Vent-CONTROLLED .
+LABS ON DISCHARGE: [**2161-3-4**] 04:22AM BLOOD WBC-12.3* RBC-2.88* Hgb-8.8* Hct-26.3* MCV-92 MCH-30.6 MCHC-33.5 RDW-14.5 Plt Ct-191 [**2161-3-4**] 04:22AM BLOOD Plt Ct-191 [**2161-3-4**] 04:22AM BLOOD Glucose-93 UreaN-41* Creat-1.6* Na-145 K-4.3 Cl-116* HCO3-22 AnGap-11 [**2161-3-4**] 04:22AM BLOOD Calcium-7.8* Phos-4.2 Mg-2.9* [**2161-3-3**] 01:25AM BLOOD Lactate-1.1 [**2161-3-3**] 01:25AM BLOOD O2 Sat-98 [**2161-3-3**] 01:25AM BLOOD freeCa-1.14 .
+[**2161-3-2**] pCXR FINDINGS: In comparison with the study of [**3-2**], the new right ventricular lead appears to be in good position, substantially less peripheral than on the previous study.
+ECHO [**2161-3-2**] Overall left ventricular systolic function is normal (LVEF>55%).
+The right ventricular pacing lead is identified in the right ventricular cavity.
+There is a trivial pericardial effusion with no echocardiographic signs of tamponade.
+Compared with the prior study of earlier in the day, the right ventricular pacing lead no longer appears to extend beyond the free wall (though views are focused).
+ECHO [**2161-3-1**] Normal right ventricular cavity size and free wall motino.
+MICROBIOLOGY: [**2161-3-2**] 4:30 pm URINE     Site: NOT SPECIFIED      HEM# 1646E [**3-2**].
+URINE CULTURE (Preliminary):       ESCHERICHIA COLI.
+**FINAL REPORT [**2161-3-3**]**     CLOSTRIDIUM DIFFICILE TOXIN A & B TEST (Final [**2161-3-3**]):       Feces negative for C.difficile toxin A & B by EIA.
+An echo here demonstrated no pericardial effusion, but showed clear perforation of the RV lead.
+She underwent RV lead revision, with post-operative echo showing no complication.
+Repeat Echo demonstrates only minimal pericardial fluid, but no evidence of tamponade.
+Patient was monitored on telemetry and with serial EKG without additional complication.
+Cr was 1.7 on admission.
+Culture grew > 100k E.coli with sensitivities pending.
+# Transitions: - E.coli sensitivities from urine culture pending - spoke with PCP, [**Last Name (NamePattern4) **].
+You had an echocardiogram which showed no complication.

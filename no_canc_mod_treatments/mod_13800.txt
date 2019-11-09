@@ -1,0 +1,24 @@
+Admission Date:  [**2123-1-11**]              Discharge Date:   [**2123-1-13**]  Date of Birth:  [**2048-2-6**]             Sex:   F  Service: MEDICINE  Allergies: Sulfa (Sulfonamides) / Penicillins / Tetracycline / Cephalosporins  Attending:[**First Name3 (LF) 1145**] Chief Complaint: Chest Pain  Major Surgical or Invasive Procedure: Cardiac cath s/p 3 drug-eluding stents to her RCA  History of Present Illness: Ms. [**Known lastname 58825**] is a 74 yo woman who presents with chest pain.
+She was given IV lopressor and noted to have 1-2mm ST elevations in her inferior leads when her heart rate decreased.
+Past Medical History: Hyperlipidemia Colon Cancer s/p resection in [**2117**]  Social History: Lives with husband who has [**Name (NI) 11964**].
+Successful placement of drug-eluting stents in RCA.
+She was started on Amiodarone, which will be maintained for 6 weeks.
+She was also started on Coumadin, which will be maintained for 12 weeks.
+[**Last Name (STitle) **], in 6 days for an INR check and Coumadin adjustment.
+She is unlikely to need long-term amiodarone or coumadin, and that decision will be made in 12 weeks.
+Chronic RCA occlusion s/p 3 drug eluding stents: Pt remained chest pain free after cath and after her pericarditis improved.
+Right groin hematoma: Pt's post-cath course was complicated by a right groin hematoma measuring about 2cm on exam, along with some hemorrhaging from her femoral artery.
+She was transfused 2 units of packed red blood cells and her hematocrit remained stable (~33).
+Aspirin 325 mg Tablet, Delayed Release (E.C.)
+Clopidogrel Bisulfate 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Atorvastatin Calcium 40 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Amiodarone HCl 200 mg Tablet Sig: One (1) Tablet PO TID (3 times a day) for 6 weeks.
+Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Metoprolol Succinate 25 mg Tablet Sustained Release 24HR Sig: One (1) Tablet Sustained Release 24HR PO DAILY (Daily).
+Disp:*30 Tablet Sustained Release 24HR(s)* Refills:*2*   Discharge Disposition: Home With Service  Facility: [**Hospital 119**] Homecare  Discharge Diagnosis: Primary: 1.
+RCA occlusion s/p placement of three drug eluding stents  Discharge Condition: Pt was in good condition with stable vital signs and hematocrit (33.8).
+Her right groin hematoma was also stable and resolving, about 2cm on exam, and she was able to ambulate well.
+Continue to take your medications as prescribed.
+You will be on Amiodarone for 6 weeks to help.
+You will be on Coumadin for 12 weeks to thin your blood.
+You will see Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] monthly, and in 12 weeks time she will make a decision regarding continuing your Amiodarone and Coumadin.

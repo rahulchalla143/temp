@@ -1,0 +1,30 @@
+Admission Date:  [**2191-5-15**]              Discharge Date:   [**2191-6-11**]  Date of Birth:  [**2111-10-25**]             Sex:   F  Service: SURGERY  Allergies: Codeine / Lopressor  Attending:[**First Name3 (LF) 1556**] Chief Complaint: Abdominal pain  Major Surgical or Invasive Procedure: None   History of Present Illness: This is a 79 year old woman who underwent an exploratory laparotomy with lysis of adhesions in [**3-28**] presented to [**Hospital6 18346**] with nausea and vomiting.
+Interval increase in bilateral pleural effusions with associated lower lobe collapse.
+[**2191-5-15**] 03:40PM BLOOD WBC-16.1*# RBC-4.68 Hgb-14.3 Hct-40.5 MCV-87 MCH-30.5 MCHC-35.2* RDW-14.4 Plt Ct-345 [**2191-6-11**] 08:05AM BLOOD PT-22.0* PTT-28.6 INR(PT)-2.2* [**2191-5-15**] 03:40PM BLOOD Glucose-154* UreaN-24* Creat-1.3* Na-139 K-5.0 Cl-105 HCO3-21* AnGap-18 [**2191-5-15**] 03:40PM BLOOD ALT-15 AST-39 AlkPhos-86 Amylase-1460* TotBili-0.3 [**2191-5-15**] 03:40PM BLOOD Lipase-2144*  Brief Hospital Course: Ms. [**Known lastname 72820**] was admitted to [**Hospital1 18**] under the care of Dr. [**Last Name (STitle) **] in the SICU for care for her necrotizing pancreatitis.
+For her SMV and splenic vein thromboses, she was placed on a heparin drip with a goal of 60-80 seconds for PTT.
+An arterial line was placed to more accurately follow her blood pressures.
+Meropenem therapy was initiated for her necrotizing pancreatitis on HD3 and a PICC line was placed.
+On HD9, she was given Coumadin to begin transitioning to a PO anticoagulation regimen.
+She required a Neosynephrine drip to maintain her blood pressure.
+However, on HD10, she was intubated for respiratory failure.
+Her Neosynephrine drip was weaned to off.
+Her TPN was stopped, and tube feeding was initiated via [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]-jejunal tube.
+Neosynephrine was reinitiated to maintain her blood pressure.
+On HD14, she had another bout of atrial fibrillation and was placed on an Amiodarone drip.
+Her heart rhythm had converted to sinus on amiodarone and diltiazem.
+She was given IV diltiazem with no effect.
+She was then transferred to teh SICU for an amiodarone bolus and drip.
+She tolerated a regular diet and tube feeds were stopped.
+On HD24, her Foley catheter was removed.
+Medications on Admission: Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Enalapril Maleate 10 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day).
+Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day.
+Pantoprazole 20 mg Tablet, Delayed Release (E.C.)
+Coumadin 5 mg Tablet Sig: One (1) Tablet PO at bedtime.
+Amiodarone 200 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day) for 1 months.
+Gabapentin 100 mg Capsule Sig: One (1) Capsule PO once a day.
+Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Enalapril Maleate 10 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day).
+Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day.
+Pantoprazole 20 mg Tablet, Delayed Release (E.C.)
+You should see Dr. [**First Name (STitle) 2429**] on [**First Name (STitle) 766**] for discussions about Coumadin and Amiodarone.

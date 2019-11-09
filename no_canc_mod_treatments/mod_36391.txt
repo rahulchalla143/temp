@@ -1,0 +1,44 @@
+Admission Date:  [**2177-4-7**]              Discharge Date:   [**2177-4-26**]  Date of Birth:  [**2111-6-10**]             Sex:   M  Service: CARDIOTHORACIC  Allergies: Penicillins / Heparin Agents  Attending:[**First Name3 (LF) 1283**] Chief Complaint: DOE/Edema  Major Surgical or Invasive Procedure: [**2177-4-8**] Redo coronary artery bypass graft x2 (Saphenous vein graft > right coronary artery, Saphenous vein graft > interposition to Saphenous vein graft> obtuse marginal graft) Mitral Valve replacement (31mm [**Company 1543**] Mosaic Porcine valve)   History of Present Illness: 65 year old with pmhx of CABGx4 in [**2154**] and severe biventricular decompensated heart failure s/p AICD/PPM with known tricuspid and mitral valve regurgitation followed by serial echocardiogram.
+Massive diuresis was initiated and he was referred for surgical revascularization.
+Past Medical History: -CAD s/p MI [**2153**] s/p CABG [**2154**] -h/o VT s/p ICD [**2164**] -CHF w/ EF<20% by echo [**5-27**] -DM on insulin -HTN -Hypercholesterol -CRF w/ baseline Cr (1.5-1.8) -Hypercalcemia -Osteopenia -Erectile Dysfunction -Hypothyroid -Obesity -LFT abnormalities attributed to NASH, possibly amio   Social History: Lives with his wife and two adopted sons in [**Name (NI) 28318**], MA.
+Physical Exam: PE: Postop 97.8  130/66  61  95-98% ra gen well appearing, non-diaphoretic, nad cv distant heart sound lungs crackles in bases bilaterally abd active bs, soft ntnd, no organomegaly appreciated ext bilateral lower ext pitting edema; right lower ext bandage c/d/i; right upper extremity with edema > left   Pertinent Results: [**2177-4-26**] 06:16AM BLOOD WBC-8.7 RBC-3.37* Hgb-10.0* Hct-31.3* MCV-93 MCH-29.6 MCHC-31.9 RDW-17.1* Plt Ct-267 [**2177-4-7**] 05:24PM BLOOD WBC-10.8 RBC-4.74 Hgb-14.5 Hct-41.8 MCV-88 MCH-30.6 MCHC-34.7 RDW-17.1* Plt Ct-129* [**2177-4-26**] 06:16AM BLOOD Plt Ct-267 [**2177-4-26**] 06:16AM BLOOD PT-31.5* PTT-37.9* INR(PT)-3.4* [**2177-4-7**] 05:24PM BLOOD Plt Ct-129* [**2177-4-7**] 05:24PM BLOOD PT-11.6 PTT-26.6 INR(PT)-1.0 [**2177-4-26**] 06:16AM BLOOD Glucose-120* UreaN-64* Creat-2.8* Na-142 K-4.0 Cl-97 HCO3-37* AnGap-12 [**2177-4-7**] 05:24PM BLOOD Glucose-224* UreaN-100* Creat-2.9* Na-136 K-4.7 Cl-97 HCO3-27 AnGap-17  CHEST (PA & LAT)  [**2177-4-24**] 11:33 AM  CHEST (PA & LAT)  Reason: evaluate pleural effusions  [**Hospital 93**] MEDICAL CONDITION: 65 year old man s/p MVR REASON FOR THIS EXAMINATION: evaluate pleural effusions REASON FOR EXAMINATION: Follow up of patient after mitral valve replacement.
+PA and lateral upright chest radiograph compared to [**2177-4-19**].
+Height: (in) 66 Weight (lb): 252 BSA (m2): 2.21 m2 BP (mm Hg): 113/60 HR (bpm): 64 Status: Inpatient Date/Time: [**2177-4-18**] at 10:13 Test: TTE (Complete) Doppler: Full Doppler and color Doppler Contrast: None Tape Number: 2007W031-0:00 Test Location: West Echo Lab Technical Quality: Adequate     REFERRING DOCTOR: DR. [**First Name7 (NamePattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern1) **]  MEASUREMENTS: Left Atrium - Long Axis Dimension: *5.1 cm (nl <= 4.0 cm) Left Atrium - Four Chamber Length: *5.8 cm (nl <= 5.2 cm) Right Atrium - Four Chamber Length: *6.0 cm (nl <= 5.0 cm) Left Ventricle - Septal Wall Thickness: 1.1 cm (nl 0.6 - 1.1 cm)  Left Ventricle - Inferolateral Thickness: 1.1 cm (nl 0.6 - 1.1 cm) Left Ventricle - Diastolic Dimension: *7.6 cm (nl <= 5.6 cm) Left Ventricle - Systolic Dimension: 7.2 cm Left Ventricle - Fractional Shortening: *0.05 (nl >= 0.29) Left Ventricle - Ejection Fraction: *<= 20% (nl >=55%) Aorta - Valve Level: *4.0 cm (nl <= 3.6 cm) Aorta - Arch: 2.8 cm (nl <= 3.0 cm) Aortic Valve - Peak Velocity: 1.2 m/sec (nl <= 2.0 m/sec) Mitral Valve - Mean Gradient: 5 mm Hg Mitral Valve - Pressure Half Time: 81 ms Mitral Valve - E Wave: 1.9 m/sec Mitral Valve - A Wave: 1.4 m/sec Mitral Valve - E/A Ratio: 1.36 Mitral Valve - E Wave Deceleration Time: 456 msec TR Gradient (+ RA = PASP): *33 mm Hg (nl <= 25 mm Hg)  INTERPRETATION:  Findings:  This study was compared to the prior study of [**2177-2-22**].
+A catheter or pacing wire is seen in the RA and extending into the RV.
+MITRAL VALVE: Bioprosthetic mitral valve prosthesis (MVR).
+There is severe regional left ventricular systolic dysfunction with thinning and akinesis of septum, anterior and lateral walls, and hypokinesis of the remaining segments.
+A bioprosthetic mitral valve prosthesis is present, with normal leaflet motion and transvalvular gradients.
+Clinical:  Mitral valve disorder/mitral valve replacement; TVR; possible replacement via right thorax.
+It consists of a single piece of cardiac valve with attached chordae, measuring 2.3 x 1.1 x 0.4 cm.
+Brief Hospital Course: Mr. [**Known lastname **] was admitted to the [**Hospital1 18**] on [**2177-4-7**] for surgical management of his valvular heart and coronary artery disease.
+On [**4-8**], Dr. [**Last Name (STitle) 1290**] performed a redo-sternotomy with coronary artery bypass grafting and a mitral valve replacement with a 31 mm [**Company 1543**] mosaic porcine valve.
+He maintained stable hemodynamics as he gradually weaned from pressor support.
+Low dose beta blockade was resumed.
+HIT assay returned positive for HEPARIN PF4 antibodies.
+Argatroban anticoagulation was subsequently started with slow transition to Warfarin.
+Postop course was also complicated by significant fluid overload and heart failure which temporarily required intravenous Lasix drip.
+He was slowly transitioned to PO/oral diuretics.
+He also experienced sternal drainage with a leukocytosis.
+White count peaked to 17K, and he was empirically treated with Vancomycin.
+By discharge, his white count normalized and his sternal drainage improved.
+He eventually became therapeutic on Warfarin with appropriate Argatroban overlap.
+Warfarin should be dosed for a goal INR between 2.0 - 3.0.
+Given thrombus in setting of positive HIT assay, he will need Warfarin for at least six months.
+Plan for follow up with coumadin dosing by [**Company 191**] anti coagulation clinic.
+Medications on Admission: Aspirin 81 qd, Fosamax, Ambien 10 qhs, Imdur 30 qd, Lipitor 20 qd, Folate, Coreg 50 [**Hospital1 **], Amiodarone 200 qd, Lisinopril 2.5 qd, Levoxyl, Senispan 30 qod, Humalog, Humulin, Allopurinol, Torsemide 100qd, Digoxin 0.125 qd, Zoloft 50 qd, Spirinolactone 25 qd  Discharge Medications: 1.
+Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours) as needed for pain.
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Sertraline 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Levothyroxine 100 mcg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Cinacalcet 30 mg Tablet Sig: One (1) Tablet PO QOD ().
+Aspirin 81 mg Tablet, Delayed Release (E.C.)
+Alendronate 70 mg Tablet Sig: One (1) Tablet PO QTHUR (every Thursday).
+Coreg 6.25 mg Tablet Sig: One (1) Tablet PO twice a day.
+Coumadin 1 mg Tablet Sig: 1-2 Tablets PO once a day: hold coumadin tonite.
+Torsemide 100 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*   Discharge Disposition: Home With Service  Facility: [**Company **]  Discharge Diagnosis: Mitral Regurgitation s/p MVR Coronary Artery Disease s/p CABG Heparin Indued Thromboctyopenia c/b Upper Extremity Thrombosis Postop Leukocytosis with Sternal Drainage Ischemic Cardiomyopathy Systolic Heart Failure Chronic Renal Insufficiency Ventricular tachycardia w/ AICD Hyperparathyroid Elevated cholesterol Diabetes mellitus type 2 Obesity Sleep Apnea Hypothyroidism   Discharge Condition: Good   Discharge Instructions: Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight > 3 lbs.
+Take Warfarin as directed.
+Fax [**Telephone/Fax (1) 106733**] Office [**Telephone/Fax (1) 250**]    Followup Instructions: 1)Dr [**Last Name (STitle) 1290**] in 4 weeks ([**Telephone/Fax (1) 170**]) please call for appointment 2)Dr [**Last Name (STitle) **] in [**12-24**] weeks ([**Telephone/Fax (1) 250**]) please call for appointment 3)Dr [**First Name (STitle) 437**] in [**12-24**] week - please call for appointment 4)Dr [**Last Name (STitle) **] in [**1-26**] weeks - please call for appointment 5)Wound check appointment [**Hospital Ward Name 121**] 2 as instructed by nurse ([**Telephone/Fax (1) 3633**]) Coumadin dosing by [**Hospital 191**] [**Hospital3 **]    Completed by:[**2177-4-28**

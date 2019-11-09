@@ -1,0 +1,27 @@
+Admission Date:  [**2149-12-17**]              Discharge Date:   [**2149-12-24**]  Date of Birth:  [**2108-4-13**]             Sex:   F  Service: CARDIOTHORACIC  Allergies: Penicillins / Morphine / Darvocet-N 50 / Midazolam / Dilaudid  Attending:[**First Name3 (LF) 5790**] Chief Complaint: elective admission for tracheoplasty h/o tracheobronchomalacia  Major Surgical or Invasive Procedure: tracheoplasty  History of Present Illness: 41yoF lifetime non-smoker w/ tracheobronchomalacia s/p Y stent [**2149-10-20**]  Past Medical History: hypothyroidism, tracheobronchomalacia, elevated testosterone, lap CCY   Social History: non smoker  Family History: non contributory  Physical Exam: VS: T 98.3  HR: 95 SR   BP: 102/68   Sats: 93% RA General: NAD Card: RRR Resp: decreased breath sounds few rhonchi left lower lobe GI: benign Extr: warm no edema Incision: R thoracotomys site clean/dry/intact Neuro: non-focal   Pertinent Results: [**2149-12-22**] WBC-11.2* RBC-3.74* Hgb-10.9* Hct-30.6* Plt Ct-267 [**2149-12-21**] WBC-9.3 RBC-3.32* Hgb-9.8* Hct-27.7* Plt Ct-214 [**2149-12-20**] WBC-10.7 RBC-3.26* Hgb-9.5* Hct-27.2* Plt Ct-205 [**2149-12-18**] WBC-11.6* RBC-3.84* Hgb-11.5* Hct-31.8* Plt Ct-221 [**2149-12-16**] WBC-7.3 RBC-4.28 Hgb-12.0 Hct-35.5* Plt Ct-240 [**2149-12-24**] Glucose-107* UreaN-6 Creat-0.6 Na-138 K-3.7 Cl-100 HCO3-30 [**2149-12-23**] Glucose-143* UreaN-7 Creat-0.7 Na-137 K-3.5 Cl-98 HCO3-32 [**2149-12-22**] Glucose-111* UreaN-7 Creat-0.6 Na-133 K-3.8 Cl-91* HCO3-31 [**2149-12-16**] UreaN-12 Creat-0.9 Na-138 K-4.5 Cl-102 HCO3-28 AnGap-13 [**2149-12-21**] CK(CPK)-1641* [**2149-12-20**] CK(CPK)-4681* [**2149-12-19**] CK(CPK)-6402* [**2149-12-19**] CK(CPK)-7437* [**2149-12-18**] CK(CPK)-9169* [**2149-12-18**] BLOOD CK(CPK)-[**Numeric Identifier 79135**]*  CXR: [**2149-12-24**] IMPRESSION: No significant interval change with stable appearance of right lung with right pleural fluid and area of loculation, and right atelectasis.
+[**2149-12-22**]: Following removal of right-sided chest tube, no pneumothorax is identified.
+[**2149-12-19**]: IMPRESSION: Interval placement of PICC now appropriately positioned in mid to low SVC.
+She underwent a tracheoplasty without complications and was extubated and transferred to the ICU postoperatively.
+Due to her extensive issues with opiate-induced nausea, her pain was managed on a bupivacaine + dilaudid epidural.
+Due to concern for her prolonged OR time CK's were checked and peaked at [**Numeric Identifier 79135**] with positive urine myoglobin, she was treated with fluids, and her urine output remained excellent with a normal creatinine.
+On POD#1 her epidural was split, and she was tried on fentanyl then morphine PCAs before being returned to her bupivacaine/dilaudid epidural.
+On POD #2 she undeerwent bronchoscopy which showed thin secretions and unchanged tracheal stenosis, she received aggressive pulmonary toilet and was started on clears, which she tolerated without difficulty.
+Diuresis was started with lasix with a goal of - 1 L per day.
+On POD #3 her chest tube was placed on bulb suction, a regular diet was started.
+Her arterial line was discontinued as well.
+She was started on oral pain medication (standing tylenol + oxycodone + IV dilaudid & Zofran PRN).
+She required aggressive pulmonary toileting and chest PT.
+Medications on Admission: protonix 40mg [**Hospital1 **], Synthroid 175 daily, Cytomel 5 daily, metformin 1500mg daily, tussionex  Discharge Medications: 1.
+Levothyroxine 175 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Liothyronine 5 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Guaifenesin 600 mg Tablet Sustained Release Sig: Two (2) Tablet Sustained Release PO BID (2 times a day) as needed for thick secretions.
+Metformin 500 mg Tablet Sig: 1.5 Tablets PO BID (2 times a day).
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+Saline Saline Nebs tid Disp: 60 cc of saline 9.
+Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: Three (3)  Inhalation every 4-6 hours as needed for cough.
+Ipratropium Bromide 0.02 % Solution Sig: Two (2) ML Inhalation Q6H (every 6 hours).
+Chlorpheniramine-Hydrocodone 8-10 mg/5 mL Suspension, Sust.Release 12 hr Sig: Five (5) ML PO Q12H (every 12 hours) as needed.
+Enoxaparin 40 mg/0.4 mL Syringe Sig: One (1)  Subcutaneous once a day.
+Oxycodone 5 mg Capsule Sig: [**12-5**] Capsules PO every 4-6 hours as needed for pain.
+-Fever > 101 or chills -Increases shortness of breath, cough or sputum production -Chest pain -Incision develops drainage Continue chest PT, saline nebs, and cough medicine Lovenox 40mg once daily for 2weeks  Followup Instructions: Follow-up with Dr. [**Last Name (STitle) **] in 3 months [**Telephone/Fax (1) 2348**] Follow-up with [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] Friday [**12-26**] at 1:30pm in the [**Hospital Ward Name 121**] Building [**Hospital1 **] I Chest Disease Center.

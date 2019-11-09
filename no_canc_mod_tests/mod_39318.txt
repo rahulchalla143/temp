@@ -1,0 +1,9 @@
+He underwent a cardiac cath on [**3-26**] which showed severe three vessel coronary artery disease.
+Left ventricular wall thicknesses and cavity size are normal.
+Overall left ventricular systolic function is mildly depressed (LVEF= 40-45 %).
+Interpretation assigned to [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD, Interpreting physician   ??????
+[**2134-4-3**] 04:30AM BLOOD WBC-7.0 RBC-2.96* Hgb-9.2* Hct-26.4* MCV-89 MCH-30.9 MCHC-34.7 RDW-13.9 Plt Ct-153 [**2134-4-2**] 11:05AM BLOOD WBC-7.4 RBC-3.04* Hgb-9.5* Hct-27.5* MCV-90 MCH-31.2 MCHC-34.5 RDW-13.9 Plt Ct-124* [**2134-4-5**] 05:50AM BLOOD Glucose-192* UreaN-29* Creat-1.1 Na-137 K-4.3 Cl-99 HCO3-29 AnGap-13 [**2134-4-3**] 04:30AM BLOOD Glucose-214* UreaN-22* Creat-1.0 Na-135 K-4.6 Cl-100 HCO3-29 AnGap-11  Brief Hospital Course: Mr. [**Known lastname **] is a 63-year-old gentleman who had felt some chest discomfort and had a non-ST elevation myocardial infarction.
+He underwent a cardiac cath which revealed severe 3-vessel coronary artery disease.
+Following surgery he was transferred to the CVICU intubated and sedated for invasive monitoring in stable condition.
+POD#1 he was transferred to the step down unit for further monitoring.
+Physical Therapy was consulted for evaluation of strength and mobility.

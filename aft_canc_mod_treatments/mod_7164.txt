@@ -1,0 +1,61 @@
+Admission Date:  [**2172-3-24**]              Discharge Date:   [**2172-4-6**]   Service: MEDICINE  Allergies: Lipitor / Amoxicillin / Erythromycin Base / Sulfa (Sulfonamide Antibiotics) / Procainamide / Zocor  Attending:[**First Name3 (LF) 2290**] Chief Complaint: C. diff colitis  Major Surgical or Invasive Procedure: none   History of Present Illness: Mr. [**Known lastname **] is an 88 year-old gentleman with a history of prostate cancer currently undergoing hormonal therapy, diastolic CHF, atrial fibrillation not on aspirin/plavix only, PAD, who presents with a one-day history of feeling poorly and fever.
+He was found to have UTI with quinolone-resistant E. coli and proteus organisms and treated with 10-day course of cefepime which ended on [**2172-3-22**].
+His PICC line was pulled [**2172-3-23**].
+He has an indwelling foley catheter given his prostate cancer.
+Past Medical History: - Asbestosis with numerous pleural plaques (RUL mass seen on [**8-/2171**] admission, thoracic surgery recommended repeat CT scan) - Spinal stenosis, severe C3-C4 and C6-C7 - Atrial fibrillation (not on coumadin secondary to falls) - CAD - '[**52**] BMS to mid RCA, '[**64**] DES to mid RCA - Diastolic CHF - [**11-25**] EF 55%, LA mod dilated, mild LVH, RV normal, aortic root mildly dilated, no AS, no AI, trivial MR, mod pHTN - PAD - s/p stent to RLE SFA in [**12-25**] - H/o bladder cancer in [**2166**](s/p local resection) - hx of urethral stricture requiring permanent indwelling foley  - h/o prostate CA (s/p external beam radiation and Lupron injections; undergoing treatment with Leuprolide Acetate 22.5 mg IM planned for Q12 weeks) - Recurrent UTIs - Patient has a h/o of MRSA & Proteus UTI in [**12-26**] as well as STENOTROPHOMONAS, sensitive to bactrim and ENTEROCOCCUS SP, [**Last Name (un) 36**] to vanco in [**8-26**].
+Family History: Mother: had heart problems Father: had heart problems Brother: died from prostate cancer Brother: died from MI  Physical Exam: ADMISSION: VS: T 100.5, BP 114/39, HR 81, RR 24, 100% on 4L GEN: Elderly Caucasian gentleman awake in bed, NAD, weak with attempting to sit up, dozing off during conversation, mildly hard of hearing HEENT: PERRL, EOMI, dry mucous membranes including flaking skin on lips and roof of mouth (uses dentures but they are at [**Hospital1 1501**]) NECK: JVP difficult to assess given body habitus; appears to be above clavicle PULM: End-expiratory wheeze on exam at bases bilaterally, shallow inspirations, patient has difficulty complying with complete lung exam but there is questionable egophony at bases, dry crackles at left base CARD: RRR, no appreciable M/R/G ABD: Resolving ecchymoses over lower abdomen consistent with SQ heparin injections, mildly distended, non-tender, +NABS EXT: Weak left DP pulse, right DP difficult to palpate but clear with Doppler.
+SKIN: Healing ulceration on medial aspect of right heel, skin is healing over (no open sore, no oozing).
+DISCHARGE: VS: Tc 98.4; Tm 98.4; BP 114/58 (113-130/52-60); HR 88 (72-88); RR 18 (18-20); O2Sat 96% RA (88-96% RA) GEN: Well nourished elderly man; Alert and oriented; pleasant; NAD HEENT: NC/AT; no conjunctival pallor or injection; no scleral icterus; EOMI, PERRL, dry MM, OP clear NECK: JVP~10cm; no JVD; supple, trachea midline PULM: bibasilar crackles 1/3 up; good air movement throughout; no IWOB, speaking in full sentences CV: RRR, no appreciable m/r/g, nl S1 and S2 ABD: mildly distended but soft; tympanic; +BS; mild tenderness to deep palpation LLQ, no rebound EXT: no clubbing/cyanosis; scant pedal edema; no calf tenderness; passive dorsiflexion non-tender DERM: Healing ulceration on medial aspect of right heel NEURO: AAOx3; CN II-XII grossly intact; moving all limbs PSYCH: Appropriate mood and affect   Pertinent Results: Admission Labs: [**2172-3-24**] 08:35AM   WBC-5.4 RBC-3.09* HGB-9.0* HCT-27.6* MCV-89 MCH-29.0 MCHC-32.5 RDW-15.8* [**2172-3-24**] 08:35AM   NEUTS-88.5* LYMPHS-4.4* MONOS-3.9 EOS-2.7 BASOS-0.5 [**2172-3-24**] 08:35AM   GLUCOSE-98 UREA N-29* CREAT-1.7* SODIUM-141 POTASSIUM-4.3 CHLORIDE-102 TOTAL CO2-29 ANION GAP-14 [**2172-3-24**] 08:35AM   ALT(SGPT)-10 AST(SGOT)-19 ALK PHOS-76 TOT BILI-0.2 [**2172-3-24**] 09:03AM   LACTATE-2.2* [**2172-3-24**] 09:31AM   PT-13.4 PTT-26.1 INR(PT)-1.1 [**2172-3-24**] 09:00AM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.010 [**2172-3-24**] 09:00AM URINE  BLOOD-TR NITRITE-NEG PROTEIN-30 GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.0 LEUK-SM [**2172-3-24**] 09:00AM URINE  RBC-3* WBC-10* BACTERIA-FEW YEAST-NONE EPI-<1 TRANS EPI-<1 [**2172-3-24**] 09:00AM URINE  GRANULAR-1* HYALINE-4* [**2172-3-24**] 09:00AM URINE  MUCOUS-RARE [**2172-3-24**] 08:35AM   proBNP-617 .
+Brief Hospital Course: Mr. [**Known lastname **] is an 88 year-old M with multiple medical problems including prostate cancer, dCHF, CAD s/p stents, PAD, COPD who presented with fever and hypotension concerning for early sepsis.
+He was initially admitted to the ICU, where blood pressure remained stable after 3L of IVF in the ED without the use of pressors.
+He received 3L of IVF in the ED, and on arrival to the ICU pressures were stable with SBPs > 100.
+He was begun on vancomycin and cefepime for emperic coverage of suspected infection (HOD1).
+The vancomycin was continued until blood cultures were negative for 48 hrs, and was discontinued on HOD4.
+- recommend continuing PO vancomycin to finish 14 day course (last day of treatment [**2172-4-12**]) - recommend C. Diff precautions - recommend serial abdominal exams and standing aggressive bowel regimen .
+#) Hypoxia: Review of records in OMR reveal PFTs with obstructive pattern consistent with emphysema in [**2164**].
+Patient was not aware of this diagnosis nor is he on medications at home for COPD, so it seems that prior symptoms have been mild.
+Given wheezing on exam, he received albuterol and ipratropium nebs PRN.
+He was restarted on his home lasix therapy since it had been held since admission given hypotension.
+He was also converted to standing ipratroprium/albuterol nebs.
+On HOD10 the patient reported return to his baseline, and he no longer required supplemental O2 during the days.
+- Recommend continuing albuterol and ipratropium nebs PRN for wheezing or shortness of breath .
+The patient's home lasix was stopped in the MICU due to hypotension, and his creatinine trended down to 1.5 by HOD3.
+Due to worsening peripheral edema, crackles on exam, and increasing O2 requirement, lasix was restarted on HOD3.
+It was felt that the pt was hypovolumic given bland sedement and low FeUrea.
+He was transfused 2 units of pRBC (HOD12-13) given his need for intravascular volume and pre-existing baseline anemia.
+Lasix was initially held in the setting of fluid rescusitation and fever, as patient appeared dry on exam.
+Lasix was restarted on HOD3 at 40mg PO given worsening peripheral edema, crackles, and increase in O2 requirement.
+He was given 2 units of pRBC HOD13-14 for ARF on CKD and tolerated the additional volume well.
+- Recommend continuing home dose of lasix after discharge.
+He is not on any meds for rhythm or rate control at baseline at this time, though per family he may have been on rate-control agents in the past.
+He was continued on aspirin and Plavix and monitored on telemetry while in the ICU.
+- Consider beta blocker as an outpatient for rate control if needed .
+He was continued on aspirin and Plavix during this admission.
+#) Prostate Cancer On admission was day #20 of Leuprolide Acetate 22.5 mg IM planned for every 12 weeks x 2 cycles per OMR.
+Medications on Admission: - Asbestosis with numerous pleural plaques (RUL mass seen on [**8-/2171**] admission, thoracic surgery recommended repeat CT scan) - Spinal stenosis, severe C3-C4 and C6-C7 - Atrial fibrillation (not on coumadin secondary to falls) - CAD - '[**52**] BMS to mid RCA, '[**64**] DES to mid RCA - Diastolic CHF - [**11-25**] EF 55%, LA mod dilated, mild LVH, RV normal, aortic root mildly dilated, no AS, no AI, trivial MR, mod pHTN - PAD - s/p stent to RLE SFA in [**12-25**] - H/o bladder cancer in [**2166**](s/p local resection) - hx of urethral stricture requiring permanent indwelling foley  - h/o prostate CA (s/p external beam radiation and Lupron injections; undergoing treatment with Leuprolide Acetate 22.5 mg IM planned for Q12 weeks) - Recurrent UTIs - Patient has a h/o of MRSA & Proteus UTI in [**12-26**] as well as STENOTROPHOMONAS, sensitive to bactrim and ENTEROCOCCUS SP, [**Last Name (un) 36**] to vanco in [**8-26**].
+- Obstructive profile (emphysema) on PFTs [**2164**]  Discharge Medications: 1. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. calcium carbonate-vitamin D3 600 mg(1,500mg) -200 unit Tablet Sig: One (1) Tablet PO twice a day.
+3. aspirin 81 mg Tablet, Delayed Release (E.C.)
+Tylenol 325 mg Tablet Sig: 1-2 Tablets PO every 4-6 hours as needed for fever or pain.
+Lasix 20 mg Tablet Sig: One (1) Tablet PO once a day: Please alternate 1 tablet (20mg) and 2 tablets (40mg) every other day.
+6. ferrous sulfate 300  mg (60 mg Iron) Tablet Sig: One (1) Tablet PO DAILY (Daily).
+7. gabapentin 300 mg Capsule Sig: One (1) Capsule PO HS (at bedtime).
+8. multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+9. cyanocobalamin (vitamin B-12) 1,000 mcg Tablet Extended Release Sig: One (1) Tablet Extended Release PO once a day.
+10. cholecalciferol (vitamin D3) 400 unit Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+12. polyethylene glycol 3350 17 gram Powder in Packet Sig: One (1)  PO twice a day as needed for constipation.
+13. oxycodone 5 mg Tablet Sig: 0.5 Tablet PO Q4H (every 4 hours) as needed for pain.
+14. citalopram 20 mg Tablet Sig: 1.5 Tablets PO DAILY (Daily).
+15. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1)  Inhalation Q6H (every 6 hours) as needed for wheezing.
+16. ipratropium bromide 0.02 % Solution Sig: One (1)  Inhalation Q6H (every 6 hours) as needed for wheezing.
+17. bisacodyl 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily) as needed for constipation.
+18. trazodone 50 mg Tablet Sig: [**1-19**] Tablet PO at bedtime as needed for insomnia.
+Cranberry Concentrate 500 mg Capsule Sig: One (1) Capsule PO twice a day.
+20. famotidine 20 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours).
+21. vancomycin 125 mg Capsule Sig: One (1) Capsule PO Q6H (every 6 hours) for 7 days: Last day of treatment [**2172-4-12**] to finish a 14 day course.
+22. docusate sodium 100 mg Capsule Sig: Two (2) Capsule PO BID (2 times a day).
+Discharge Disposition: Extended Care  Facility: [**Hospital **] Healthcare & Rehabilitation Center - [**Location (un) **]  Discharge Diagnosis: Primary: Cdiff colitis  Secondary: h/o prostate cancer with urethral strictures A-fib CAD CHF   Discharge Condition: Mental Status: Clear and coherent.
+To treat this infection, you were started on a powerful oral antibiotic called vancomycin for a total course of 14 days.
+Also during this admission you had worsening kidney function which is likely a result of multiple causes including the infection in your colon, and the diureses you require for treatment of chronic heart disease.
+You were given two blood transfusions to help treat your heart condition, your kidney function, and to improve your anemia.
+The following changes were made to your medications: 1) Oral vancomycin was ADDED to your regimen, 125mg capsule every 6 hours to finish a 14 day course (last day of treatment [**2172-4-12**]) 2) Your pantoprazole was STOPPED and you were started on famotidine, 20 mg by mouth daily.

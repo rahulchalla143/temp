@@ -1,0 +1,36 @@
+Admission Date:  [**2118-11-17**]              Discharge Date:   [**2118-11-29**]  Date of Birth:  [**2089-6-13**]             Sex:   F  Service: MEDICINE  Allergies: cefepime  Attending:[**Last Name (NamePattern1) 4377**] Chief Complaint: fever  Major Surgical or Invasive Procedure: mechanical intubation and ventilation  History of Present Illness: The patient is a 29 y/o female w/ PMHx AML diagnosed in [**Month (only) **] s/p 7+3 followed by 5+2 induction, now day 18 of 4th cycle of HiDAC consolidation who presents with febrile neutropenia.
+Noted nasal congestion and drainage with sore throat.
+As a result of her persistent disease, she proceeded with 5 and 2 regimen with daunorubicin and cytarabine.
+Her treatment course was complicated by fever and no clear source was identified.
+[**2118-7-25**]: Cycle #1 high-dose ARA-C, complicated by fever, most likely due to ARA-C as had similar symptoms during induction.
+Alternatively, recent leukocytosis in immune challenged patient as reflected from online medical records, may cause similar appearance.
+Rapid respiratory viral culture [**11-18**]- negative Blood cultures 12/3- negative Urine culture [**11-19**]- negative Urine culture [**11-20**]- negative Expectorated sputum [**11-20**]- gram stain >25 PMNs and >10 epithelials/100x field, no acid fast bacilli on smear, culture pending Blood culture for mycolytics- NGTD, pending Urine culture [**11-21**]- negative for urinary legionella antigen                                Fungal culture pending Bronchoalveolar lavage [**11-21**]-     RML- GRAM STAIN (Final [**2118-11-21**]):       2+   (1-5 per 1000X FIELD):   POLYMORPHONUCLEAR LEUKOCYTES.
+no CMV DNA detected Aspergillus antigen- 0.1 Beta-glucan- <31 Histoplasma antigen - urine - negative .......................... Mycoplasma pneumonia PCR- pending Aspergillus antigen from BAL- pending [**Location (un) **] virus B antibodies - pending  PERTINENT LABS THROUGHOUT HOSPITAL COURSE CBC: [**2118-11-23**] 03:20PM BLOOD WBC-10.4# RBC-2.94* Hgb-9.4* Hct-25.2* MCV-86 MCH-31.9 MCHC-37.2* RDW-14.9 Plt Ct-55* [**2118-11-29**] 06:28AM BLOOD WBC-3.3* RBC-3.23* Hgb-10.3* Hct-29.0* MCV-90 MCH-31.8 MCHC-35.3* RDW-17.7* Plt Ct-104* DIFF: [**2118-11-21**] 06:05AM BLOOD Neuts-67 Bands-1 Lymphs-13* Monos-18* Eos-0 Baso-0 Atyps-1* Metas-0 Myelos-0 [**2118-11-23**] 03:24AM BLOOD Neuts-90.4* Lymphs-5.0* Monos-4.3 Eos-0.2 Baso-0.1 [**2118-11-26**] 12:00AM BLOOD Neuts-79.4* Lymphs-10.2* Monos-10.0 Eos-0.1 Baso-0.3 ANC: [**2118-11-18**] 05:55AM BLOOD Gran Ct-144* [**2118-11-19**] 06:00AM BLOOD Gran Ct-710* [**2118-11-20**] 07:25AM BLOOD Gran Ct-1748* [**2118-11-21**] 06:05AM BLOOD Gran Ct-2584 [**2118-11-26**] 12:00AM BLOOD Gran Ct-3260 LFTs: [**2118-11-21**] 06:30AM BLOOD ALT-30 AST-30 LD(LDH)-299* AlkPhos-97 TotBili-0.8 [**2118-11-24**] 07:14AM BLOOD ALT-101* AST-110* AlkPhos-107* TotBili-0.4 [**2118-11-29**] 06:28AM BLOOD ALT-48* AST-45* AlkPhos-105 TotBili-0.5 OTHER: [**2118-11-21**] 06:30AM BLOOD proBNP-[**Numeric Identifier 45977**]* [**2118-11-26**] 08:21AM BLOOD CK-MB-1 cTropnT-<0.01 [**2118-11-26**] 12:00AM BLOOD cTropnT-<0.01 [**2118-11-23**] 08:08AM BLOOD Hapto-310* [**2118-11-29**] 06:28AM BLOOD TSH-2.8 [**2118-11-29**] 06:28AM BLOOD Cortsol-26.6* [**2118-11-23**] 08:08AM BLOOD Fibrino-688*#   Brief Hospital Course: The patient is a 29 y/o female w/ PMHx AML diagnosed in [**Month (only) **] s/p 7+3 followed by 5+2 induction, s/p 4th cycle of HiDAC consolidation who presents with febrile neutropenia, fevers to 104, and bilateral pulmonary infiltrates.
+# Febrile neutropenia- pt s/p 4 cycles HiDAC consolidation, presented at 18 days from last cycle.
+Aztreonam and vancomycin were started.
+Pt had been taking home cipro and acyclovir prophylactically.
+Other etiologies considered include DAH, TRALI vs TACO (1 pRBCs had been administered on her 3rd day of hospitalization), drug pneumonitis given recent high dose ARA-c.
+In the setting of potential pulmonary infection, Levaquin was started, aztreonam switched to meropenem to cover for ESBL, Bactrim and prednisone started for PCP.
+[**Name10 (NameIs) **] transferred to the ICU, electively intubated for bronchoscopy, which showed 1+ GPC and 1+ GNR, and negative PCP, [**Name10 (NameIs) **] which point Bactrim and prednisone were discontinued.
+B-glucan and galactomannan were negative, urine Legionella and Histo Ab negative.
+Ambisome was discontinued after patient clinically improved and fungal markers negative.
+Patient electively intubated for bronchoscopy, initially difficult to extubate [**1-19**] tachypnea and high FiO2/PaO2 ratio.
+Antibiotics treatment per above.
+CXR began to clear after diuresis with lasix and auto-diuresis, and patient was extubated without complications.
+Testing for fungal wall elements, histo, legionella, CMV, crypto, coccidio, and mycoplasma negative.
+This is likely [**1-19**] recent chemotherapy as pt received daunorubicin, exacerbated in the setting of sepsis and increased demands on the heart.
+Pt started on carvedilol 3.125mg [**Hospital1 **], to have follow up with cardiology in 2 weeks at which time most likely repeat of TTE.
+Her first day out on the floor her SBPs were in the high 70s and pt required two 250cc boluses to maintain SBP in the 80s, likely combination of dehydration (decreased PO intake) in setting of decreased myocardial function.
+Pt was also started on carvedilol in the setting of CHF.
+Carvedilol was switched to metoprolol for its decreased alpha blocking effects.
+Pt went home on metoprolol XL 50mg daily.
+# AML/Pancytopenia - S/p 4 cycles of consolidation.
+Continue therapy per primary oncologist.
+Patient required a total of 2 units pRBC during this hospitalization.
+Medications on Admission: Acyclovir 400mg TID Ciprofloxacin 500mg [**Hospital1 **]   Discharge Medications: 1. acyclovir 400 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 hours).
+Disp:*90 Tablet(s)* Refills:*0* 2. metoprolol succinate 50 mg Tablet Extended Release 24 hr Sig: One (1) Tablet Extended Release 24 hr PO once a day.
+Disp:*30 Tablet Extended Release 24 hr(s)* Refills:*0* 3. fluconazole 100 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours) for 7 days.
+Accordingly you were sent to the ICU and placed on a breathing machine (intubated) while the infection cleared up.
+We started a medication called metoprolol which has been shown to be very helpful in situations of decreased heart function.
+The following CHANGES were made to your medications: START metoprolol succinate 50mg daily STOP ciprofloxacin START fluconazole (for mouth infection) take for 7 more days  Continue your acyclovir as you had been taking it before you were admitted to the hospital (400mg tablet three times a day)  Followup Instructions: Please follow up with the appointments below.
+[**Name10 (NameIs) **] MUST BE DONE BEFORE YOUR APPOINTMENT.

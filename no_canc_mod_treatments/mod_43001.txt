@@ -1,0 +1,65 @@
+Admission Date:  [**2112-2-23**]              Discharge Date:   [**2112-3-1**]  Date of Birth:  [**2056-1-27**]             Sex:   F  Service: MEDICINE  Allergies: Morphine Sulfate / Pronestyl / Quinidine-Quinine Analogues / Mexiletine / Captopril / Sulfa (Sulfonamide Antibiotics) / Latex / Nitrofurantoin  Attending:[**Last Name (NamePattern1) 1167**] Chief Complaint: progressive dyspnea  Major Surgical or Invasive Procedure: right heart cath PICC placement  History of Present Illness: Mrs. [**Known lastname 111334**] is a 56 year old woman with a history of severe dilated cardiomyopathy with an EF of [**10-24**]% (?viral vs post-partum) s/p ICD placement who was admitted on [**2112-2-23**] for severe shortness of breath and PND, presumably due to worsening congestive heart failure.
+Given the lack of edema or hypoxia, the patient was continued on her home regimen fo torsemide 30mg PO QAM and 10mg PO QPM.
+At the behest of her cardiologist, Dr. [**First Name (STitle) 437**], she underwent a right heart cath with plans for a trial of milrinone therapy.
+RHC revealed markedly elevated left and right heart filling pressures that significantly improved with milrinone infusion.
+If this milrinone trial fails, she would likely be transferred to [**Hospital1 3278**] for a heart transplant evaluation.
+On arrival to the CCU, the patient subjectively felt much better after milrinone infusion.
+REVIEW OF SYSTEMS On review of systems, she denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.
+CARDIAC HISTORY: - Idiopathic vs post partum cardiomyopathy atleast since [**2092**], EF of [**10-24**]% - 64 year old female with post-partum dilated cardiomyopathy s/p  abdominal ICD implantation for NSVT and inducible VT in EP study  in [**2092**].
+OTHER PAST MEDICAL HISTORY: - Incidental finding noted on chest CT scan of a 6 mm nodule, mild restriction on PFTs - status post cholecystectomy, status post appendectomy, two C-sections - remote asthma and multiple allergies - anxiety - ovarian cysts - Lyme disease seeing specialists in [**State 531**].
+PHYSICAL EXAM ON DISCHARGE: VS: T97.4, HR:95, BP99/50, RR18, O2sat:97%RA General: less drowsiness Extremities: PICC in place Exam otherwise unchanged from admission   Pertinent Results: ADMISSION LABS: WBC-8.9 RBC-4.82 Hgb-14.3 Hct-42.6 MCV-88 MCH-29.7 MCHC-33.6 RDW-13.1 Plt Ct-275 Neuts-74.3* Lymphs-21.1 Monos-3.1 Eos-0.7 Baso-0.7 Glucose-120* UreaN-27* Creat-0.9 Na-140 K-3.4 Cl-98 HCO3-31 AnGap-14 proBNP-4779* cTropnT-<0.01 .
+There are surgical clips in the upper abdomen, potentially from prior cholecystectomy.
+Following milrinone bolus and infusion of 0.5mcg/kg/min, PCWP decreased to mean of 30mmHg.
+Radiology Report CHEST (PORTABLE AP) Study Date of [**2112-2-25**] 7:30 AM FINDINGS: As compared to the previous radiograph, the patient has received a right internal jugular vein device, in addition to the left pacemaker.
+Lab Results on Discharge:  [**2112-2-29**] 07:38AM BLOOD WBC-6.3 RBC-3.98* Hgb-11.8* Hct-34.9* MCV-88 MCH-29.7 MCHC-33.9 RDW-13.2 Plt Ct-213 [**2112-2-24**] 05:50AM BLOOD Neuts-72.7* Lymphs-21.5 Monos-3.8 Eos-1.3 Baso-0.5 [**2112-3-1**] 09:00AM BLOOD PT-15.1* PTT-28.4 INR(PT)-1.4* [**2112-3-1**] 09:00AM BLOOD Glucose-115* UreaN-17 Creat-0.6 Na-136 K-3.5 Cl-102 HCO3-28 AnGap-10 [**2112-2-26**] 04:47AM BLOOD ALT-59* AST-29 AlkPhos-85 TotBili-0.4 [**2112-2-24**] 11:00AM BLOOD CK-MB-1 cTropnT-<0.01 [**2112-2-29**] 07:38AM BLOOD Calcium-9.5 Phos-3.7 Mg-2.2 [**2112-2-26**] 12:30AM BLOOD Type-ART pO2-91 pCO2-38 pH-7.49* calTCO2-30 Base XS-5 Intubat-NOT INTUBA [**2112-2-26**] 12:30AM BLOOD Glucose-105 Lactate-1.7 Na-137 K-3.5 Cl-100 [**2112-2-25**] 05:19AM BLOOD Hgb-12.4 calcHCT-37 O2 Sat-64 [**2112-2-26**] 12:30AM BLOOD freeCa-1.20  Brief Hospital Course: PRIMARY REASON FOR HOSPITALIZATION: Patient is a 56 year old woman with a history of severe dilated cardiomyopathy with an EF of 5% (?viral vs. post-partum) s/p ICD placement who was admitted on [**2112-2-23**] for severe SOB and PND, secondary to worsening chronic systolic CHF.
+She was started on milrinone drip and had improvement in symptoms and functional capacity in-house.
+Her EF was found to be 5%, BNP elevated to 4000 from baseline of 1000, and left and right sided pressures were markedly elevated (40s and 70s systolic respectively) on right cath performed on admission.
+She improved significantly on milrinone 0.5/hr infusion: CI rose from 1 to 1.9, CO improved and trans-pulmonary gradient decreased, which dramatically improved her pulmonary hypertension.
+She was transiently hypotensive on milrinone [**2-11**] milrinone's vasodilatory effects, which subsequently resolved with MAPs consistently >55 afterward.
+Given her profoundly reduced LV function, she was also started on Coumadin.
+Beta blocker was initiated per patient's cardiologist.
+PICC was placed for home milrinone infusion.
+Patient will ultimately require heart transplant at [**Hospital1 3278**] after optimization of hemodynamics with milrinone.
+# ARRYTHMIA: Patient went into multifocal ATach on HD#4 likely [**2-11**] discontinuation of her beta blocker after initiation of milrinone.
+This resolved and she returned to NSR after metoprolol 5mg IV.
+Per patient request and with her cardiologist's permission, she was restarted on low-dose metoprolol without recurrence of MAT.
+# Left wrist Superficial Thrombophlebitis: Patient developed superficial thrombophelbitis of left wrist since peripheral line removal in the ICU.
+She was started on a 7-day course of keflex to complete at home but noted some improvement after 2 days on antibitics in the hospital.
+They also feel that she would benefit from talk therapy and possibly antidepressant therapy as an outpatient.
+Her mood and affect improved on HD#2, although she did remain significantly anxious requiring frequent reassurance and low-dose klonopin throughout.
+ASTHMA: Patient has a remote history of asthma and is on prn ipratropium at home.
+START milrinone infusion at home.
+START saline nasal spray and fluticasone nasal spray as directed while having nasal congestion.
+START warfarin 5mg by mouth daily and adjust for INR under direction of the [**Hospital3 **].
+START metoprolol succinate 50mg by mouth once daily    8.
+STOP taking metoprolol tartrate    9.
+STOP taking losartan as your blood pressure is not tolerating this medication    10.
+START fexofenadine 60mg by mouth twice daily.
+START potassium chloride 20meq by mouth daily 2.
+OUTSTANDING CLINICAL ISSUES: -maintenance of coumadin therapy -evaluation for heart transplant -follow-up TTE's -titration of milrinone with cardiologist  Medications on Admission: Active Medication list as of [**2112-2-23**]:  Medications - Prescription CLONAZEPAM - (Prescribed by Other Provider; Dose adjustment - no new Rx) - 1 mg Tablet - 1/2-1 Tablet(s) by mouth three times a day as needed IPRATROPIUM BROMIDE [ATROVENT HFA] - 17 mcg/Actuation HFA Aerosol Inhaler - 1-2 puffs inhaled twice a day for wheezing LOSARTAN [COZAAR] - 25 mg Tablet - one Tablet(s) by mouth twice a day METOPROLOL TARTRATE - 25 mg Tablet - 1 Tablet(s) by mouth two times a day NATTOKINASE - (Prescribed by Other Provider) - - one capsule twice a day NYSTATIN - 100,000 unit/gram Powder - apply to inflammed area twice a day TERCONAZOLE [TERAZOL 7] - 0.4 % Cream - insert in vagina once a day TORSEMIDE - 20 mg Tablet - 1.5 Tablet(s) by mouth every morning, 0.5 tablets by mouth every evening  Medications - OTC ASPIRIN - (Prescribed by Other Provider; OTC) (Not Taking as Prescribed: forgets) - 81 mg Tablet, Delayed Release (E.C.)
+- 1 Tablet(s) by mouth once a day (not taking because she forgets) CHOLECALCIFEROL (VITAMIN D3) [VITAMIN D] - (Prescribed by Other Provider) - 2,000 unit Capsule - 1 Capsule(s) by mouth COENZYME Q10 [CO Q-10] - (Prescribed by Other Provider; OTC; Dose adjustment - no new Rx) - 300 mg Capsule - 1 Capsule(s) by mouth twice a day   Discharge Medications: 1. milrinone in D5W 40 mg/200 mL Piggyback Sig: 0.5 mcg/kg/min Intravenous continuous: OK to substitute 400mcg/mL strength formulation.
+3. multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+4. ipratropium bromide 17 mcg/actuation HFA Aerosol Inhaler Sig: 1-2 Puffs Inhalation [**Hospital1 **] (2 times a day) as needed for wheezing.
+5. metoprolol succinate 50 mg Tablet Extended Release 24 hr Sig: One (1) Tablet Extended Release 24 hr PO once a day.
+Disp:*30 Tablet Extended Release 24 hr(s)* Refills:*2* 6. cephalexin 500 mg Capsule Sig: One (1) Capsule PO Q6H (every 6 hours) for 6 days.
+Disp:*28 Capsule(s)* Refills:*0* 7. nystatin 100,000 unit/g Powder Sig: One (1) application Topical twice a day.
+8. terconazole 0.4 % Cream Sig: One (1) Appl Vaginal DAILY (Daily) as needed for vaginal itching for 7 days.
+9. torsemide 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Vitamin D-3 2,000 unit Capsule Sig: One (1) Capsule PO once a day.
+11. coenzyme Q10 300 mg Capsule Sig: One (1) Capsule PO twice a day.
+12. fluticasone 50 mcg/actuation Spray, Suspension Sig: One (1) Spray Nasal [**Hospital1 **] (2 times a day) as needed for nasal congestion.
+Disp:*1 bottle* Refills:*2* 13. sodium chloride 0.65 % Aerosol, Spray Sig: [**1-11**] Sprays Nasal QID (4 times a day) as needed for dryness.
+Disp:*1 bottle* Refills:*5* 14. acyclovir 5 % Ointment Sig: One (1) Appl Topical ASDIR (AS DIRECTED) for 3 days: apply to affected area on lip every two hours while awake for four days.
+Disp:*1 unit* Refills:*0* 15. warfarin 5 mg Tablet Sig: One (1) Tablet PO Once Daily at 4 PM.
+Disp:*30 Tablet(s)* Refills:*2* 16. fexofenadine 60 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Disp:*60 Tablet(s)* Refills:*2* 17. potassium chloride 20 mEq Tablet, ER Particles/Crystals Sig: One (1) Tablet, ER Particles/Crystals PO once a day.
+We started some new medications and adjusted others and your symptoms improved.
+START milrinone infusion at home.
+START saline nasal spray and fluticasone nasal spray as directed while having nasal congestion.
+START warfarin 5mg by mouth daily and adjust for INR under direction of the [**Hospital3 **].
+START metoprolol succinate 50mg by mouth once daily 8.
+STOP taking metoprolol tartrate 9.
+STOP taking losartan as your blood pressure is not tolerating this medication 10.
+START fexofenadine 60mg by mouth twice daily.
+START potassium chloride 20meq by mouth daily .
+Please take all other medications as prescribed .

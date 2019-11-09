@@ -1,0 +1,31 @@
+Major Surgical or Invasive Procedure: Right heart catheterization on [**2194-12-4**].
+History of Present Illness: Patient is a 66 year old woman with a history of CAD (status post MI in [**2186**] and [**2191**]), dilated cardiomyopathy, and CHF (EF 20-25% in [**2186**], 50% in [**2191**], 35% in setting of moderate to severe MR), who presented for a scheduled ECHO appointment today with two weeks of increasing shortness of breath.
+Past Medical History: -- HTN -- CHF, EF 20-25% in [**2186**], 50% in [**2191**] -- CAD, s/p MI [**2186**], [**2191**] -- CRI, baseline Cr 1.9-2.1 in [**2191**], 3.0 more recently per PCP's  office -- DMII   Social History: She has a 30 pack-year history of smoking; she quit in [**2186**].
+JVD appreciated 3cm below ear lobe.
+Pertinent Results: Right cardiac cath ([**2194-12-4**]):  Patient noted to have wedge of 36, RA 15, PA 55, RVED 22, CI 3.25. .
+EKG([**2194-12-3**]):  Sinus rhythm of 85.
+EF ([**2194-12-3**]):  EF 35%.
+The estimated right atrial pressure is 5-10 mmHg.
+Overall left ventricular systolic function is moderately depressed.
+[Intrinsic left  ventricular systolic function is likely more depressed given the severity of valvular regurgitation.]
+Tissue synchronization imaging demonstrates no significant left ventricular dyssynchrony.
+[Intrinsic left ventricular systolic function is likely more depressed given the severity of valvular regurgitation.]
+Resting hemodynamics revealed mildly elevated mean PCPW of 15mmHg.
+Cardiac index was normal at 3.8 l/min/m2.
+Brief Hospital Course: ASSESSMENT AND PLAN: 66 year old woman with CAD, status post MI in [**2186**] and [**2191**], moderate MR, EF 35%, and CHF who was hospitalized in [**Month (only) **] [**2193**] for CHF exacerbation, who presented for a scheduled appointment today and was noted to have increased shortness of breath over the past two weeks.
+#) CHF: The patient was noted to have an EF of 35% on [**2194-12-3**], in setting of moderate MR.  [**Name13 (STitle) **] has had increasing shortness of breath in the past several weeks.
+Right heart cath on [**2194-12-4**] revealted a wedge pressure of 36, RA 15, PA 55, and a CI 3.25.
+A repeat right heart cath on [**2194-12-9**] revealed much improved hemodynamics with a wedge pressure of 15 with a CI of 3.8.
+An ECHO on [**2194-12-9**] showed 3+MR and mild AS with an LVEF of 30-40%.
+She had preop labs drawn and carotid U/S which showed bilateral less than 40% stenosis.
+Her lipid panel showed TG 99, HDL 30, LDL calc 100. .
+Her creatinine peaked at 4.9 but she still continued to make urine.
+A renal u/s was performed which showed no hydronephrosis.
+Vein mapping was performed and the patient was informed about fistula placement.
+Hematocrit between 28-31.
+A PTH was sent and was found to be 14.
+SPEP found gamma globulin and UPEP showed only albumin.
+#)CODE: FULL   Medications on Admission: -hydralazine 25 qid -isosorbide SR 30 -toprol 25 [**Hospital1 **] -amlodipine 2.5qd -ezetimibe 10 qd -levothyroxine 75mcg qd -clopidogrel 75 qd -ferrous sulfate 325 qd -humalog 50-50 9qam, 10 qhs -glipizide 5 qd -norvasc 5qd -lasix 80 po bid -asa 325 -toprol xl 50 qd   Discharge Medications: 1.
+Disp:*90 Tablet, Chewable(s)* Refills:*2*   Discharge Disposition: Home  Discharge Diagnosis: Congestive heart failure- left ventricular systolic dysfunction with EF ~35%, +3-4MR end-stage-renal disease Mitral regurgitation   Discharge Condition: good, AFVSS, SaO2 100% on room air   Discharge Instructions: Please take all of the medications prescribed for you.
+You should also adhere to a renal diet which is low in things like potassium and phosphorus which your kidneys are unable to extrete properly.
+Dr. [**Last Name (STitle) 2357**] will contact you with details about this  Followup Instructions: Provider: [**Name10 (NameIs) 1344**] [**Last Name (NamePattern4) 3125**], MD Phone:[**Telephone/Fax (1) 673**] Date/Time:[**2195-1-5**] 10:40 .

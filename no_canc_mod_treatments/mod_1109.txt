@@ -1,0 +1,28 @@
+Admission Date:  [**2153-12-3**]              Discharge Date:   [**2153-12-18**]  Date of Birth:  [**2070-9-16**]             Sex:   M  Service: SURGERY  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 148**] Chief Complaint: Abdominal distention, low grade fevers  Major Surgical or Invasive Procedure: Pancreatic necrosectomy with external drainage  History of Present Illness: 83 year-old M presents from [**Hospital 100**] Rehab with complaint of abdominal distention and low grade temps for 48 hrs.
+Patient was discharged in late [**Month (only) 359**] for gallstone pancreatitis that led to sepsis, ARF, and severe pancreatitis.
+He had PEG placed during hospitalizations for feeds and he was trached for FTW off vent.
+WOUND CULTURE (Final [**2153-12-9**]):       Due to mixed bacterial types (>=3) an abbreviated workup is       performed; P.aeruginosa, S.aureus and beta strep.
+|          |          PSEUDOMONAS AERUGINOSA                              |          |          | AMIKACIN--------------   <=2 S AMPICILLIN------------             =>32 R CEFEPIME--------------   <=1 S                  16 I CEFTAZIDIME-----------   <=1 S                   4 S CEFTRIAXONE-----------   <=1 S CIPROFLOXACIN---------     2 I                 =>4 R GENTAMICIN------------  =>16 R                   4 S LINEZOLID-------------                2 S MEROPENEM-------------<=0.25 S                =>16 R PENICILLIN G----------             =>64 R PIPERACILLIN----------    64 I                  32 S PIPERACILLIN/TAZO-----                          64 S TOBRAMYCIN------------     8 I                 <=1 S TRIMETHOPRIM/SULFA----   <=1 S VANCOMYCIN------------             =>32 R     ANAEROBIC CULTURE (Final [**2153-12-8**]):    NO ANAEROBES ISOLATED.
+necrotizimg pancreatitis.
+Given lack of oral and IV contrast, evaluation is extremely limited and repeat CT with gastrografin through the G-tube can be performed to further assess as clinically indicated.
+Pathology [**2153-12-4**]: Pancreas, debridement:: Blood, inflammatory cells and fat necrosis with changes consistent with saponification.
+[**2153-12-2**] 04:25PM   PT-12.9 PTT-22.7 INR(PT)-1.1 [**2153-12-2**] 04:25PM   WBC-21.7*# RBC-3.31*# HGB-9.3* HCT-29.6* MCV-89# MCH-28.2 MCHC-31.6 RDW-15.8* [**2153-12-2**] 04:25PM   NEUTS-66 BANDS-23* LYMPHS-6* MONOS-2 EOS-1 BASOS-0 ATYPS-0 METAS-2* MYELOS-0 [**2153-12-2**] 04:25PM   PHOSPHATE-1.9* MAGNESIUM-2.0 [**2153-12-2**] 04:25PM   LIPASE-26 [**2153-12-2**] 04:25PM   ALT(SGPT)-18 AST(SGOT)-24 ALK PHOS-140* TOT BILI-0.6 [**2153-12-2**] 04:25PM   GLUCOSE-141* UREA N-73* CREAT-2.4* SODIUM-137 POTASSIUM-3.8 CHLORIDE-100 TOTAL CO2-27 ANION GAP-14 [**2153-12-2**] 04:34PM   LACTATE-1.5 [**2153-12-16**] 11:50PM BLOOD Glucose-102 UreaN-23* Creat-0.6 Na-136 K-4.1 Cl-101 HCO3-25 AnGap-14 [**2153-12-18**] 02:34AM BLOOD Glucose-113* UreaN-44* Creat-1.1 Na-133 K-4.4 Cl-98 HCO3-25 AnGap-14 [**2153-12-9**] 12:23AM BLOOD WBC-27.0* RBC-3.20* Hgb-9.4* Hct-29.0* MCV-91 MCH-29.3 MCHC-32.4 RDW-16.4* Plt Ct-219 [**2153-12-14**] 12:24AM BLOOD WBC-21.5*# RBC-2.24* Hgb-6.6* Hct-20.8* MCV-93 MCH-29.4 MCHC-31.6 RDW-17.1* Plt Ct-155 [**2153-12-14**] 01:08PM BLOOD WBC-18.2* RBC-3.81*# Hgb-10.9*# Hct-34.8*# MCV-92 MCH-28.7 MCHC-31.4 RDW-16.7* Plt Ct-108* [**2153-12-16**] 11:14AM BLOOD Hct-22.7* [**2153-12-18**] 02:34AM BLOOD WBC-23.1* RBC-3.47* Hgb-10.2* Hct-31.5*# MCV-91 MCH-29.5 MCHC-32.4 RDW-17.2* Plt Ct-74*  Brief Hospital Course: The patient was admitted to the General Surgical Service to the SICU on [**2153-12-3**] for evaluation and treatment of pancreatic necrosis.
+He underwent a pancreatic necrosectomy on [**2153-12-4**].
+Neuro: The patient received fentanyl and dilaudid with good effect and adequate pain control.
+CV: The patient's blood pressure periodically required support with norepinephrine, vasopressing, and phenylephrine drip.
+Pulmonary: The patient was trached and continued on mechanical ventilation through the course of his stay.
+Arterial blood gasses were routinely checked and his ventilator setting adjusted accordingly.
+GI/GU/FEN: Post-operatively, the patient was made NPO with IV fluids.
+The patient was started on TPN on [**2153-12-7**] and continued through the course of his stay.
+Ins and outs were followed closely by foley catheter and flexiseal and the patient was placed on continuous [**Last Name (un) **]-venous hemofiltration as needed starting on [**2153-12-7**].
+A tunneled dialysis line was placed on [**2153-12-10**].
+Family chose to discontinue dialysis on [**2153-12-17**].
+He was placed on meropenem and zosyn empirically on admission.
+Antibiotics were adjusted based on culture data.
+He was started on a course of ceftazidime and linezolid.
+Hematology: The patient's complete blood count was examined routinely; he was transfused packed red blood cells periodically for a low hematocrit.
+He required a total of 20 units of packed red blood cells.
+Prophylaxis: The patient received subcutaneous heparin and venodyne boots were used during this stay.
+Heparin was discontinued when the patient's transfusion requirement increased.
+His medications were discontinued and he was placed on an IV morphine drip.
+Medications on Admission: Atenolol 50 mg qday, Atrovent 17mg [**Hospital1 **], EC ASA 81 325 mg qday, Glipizide 5 mg qday, Lipitor 10 mg qday, Metformin 850 mg [**Hospital1 **], Terazosin 2 mg qhs   Discharge Medications: none  Discharge Disposition: Expired  Discharge Diagnosis: Infected pancreatic necrosis  Discharge Condition: Expired  Discharge Instructions: None  Followup Instructions: None   Completed by:[**2153-12-20**

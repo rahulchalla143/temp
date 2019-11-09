@@ -1,0 +1,34 @@
+Admission Date:  [**2181-7-20**]              Discharge Date:   [**2181-7-25**]  Date of Birth:  [**2130-6-17**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 896**] Chief Complaint: Fever, chills, lethargy  Major Surgical or Invasive Procedure: [**2181-7-24**] PICC line placement   History of Present Illness: Mr. [**Known lastname 80287**] is a 51 year old man with history of multiple sclerosis necessitating self bladder catheterization complicated by recurrent UTI's with resistant organisms, who was brought by EMS to the ED after being found lethargic at home.
+He was given 5L NS and started on vancomycin and zosyn.
+If there is continued clinical concern for a bone infection, recommend further evaluation with MRI.
+Consider Infectious          Disease consultation for serious infections caused by          ESBL-producing species.
+Consider Infectious          Disease consultation for serious infections caused by          ESBL-producing species.
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              ESCHERICHIA COLI                              | AMPICILLIN------------  =>32 R AMPICILLIN/SULBACTAM--     4 S CEFAZOLIN-------------  =>64 R CEFEPIME--------------       R CEFTAZIDIME-----------       R CEFTRIAXONE-----------  =>64 R CIPROFLOXACIN---------   =>4 R GENTAMICIN------------   <=1 S MEROPENEM-------------<=0.25 S NITROFURANTOIN--------  <=16 S PIPERACILLIN/TAZO-----   <=4 S TOBRAMYCIN------------   <=1 S TRIMETHOPRIM/SULFA----  =>16 R  [**2181-7-20**] MRSA Screen: Negative  Brief Hospital Course: This is a 51 year old man with MS, on self-catheterization regimen at home with hx of recurrent UTIs, who presented to the ED on [**7-19**] with lethargy, high fevers, tachycardia, elevated lactate, and gram negative rods growing out of urine and blood cultures (later speciated as ESBL E. Coli).
+After fluid resucitation and initial antibiotic the patient's condition greatly improved as his MS returned to baseline, his HR and RR decreased to WNL, his lactate returned to [**Location 213**] levels and his temperature decreased to WNL.
+He received additional hydration in the ICU, but did not require pressors.
+He was stable on arrival to the floor and was maintained on IV zosyn.
+A PICC line was placed on [**2181-7-24**], and he was discharged to a rehab facility where he can complete the course of IV zosyn.
+We recommended he stop his prophylactic regimen of Methenamine Hippurate until completion of his zosyn course, at which point he can resume it.
+PT saw him while on the floor and recommended further therapy at the rehabilitation center.
+Aspirin 325 mg Daily 2.
+Oxybutynin Chloride 5 mg [**Hospital1 **] 3.
+Ascorbic Acid 1000 mg [**Hospital1 **] 4.
+Fluoxetine 20 mg Daily 6.
+Ezetimibe 10 mg Daily 7.
+Methenamine Hippurate 1 g [**Hospital1 **]  Discharge Medications: 1.
+Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Fluoxetine 20 mg Capsule Sig: One (1) Capsule PO DAILY (Daily).
+Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+Bisacodyl 5 mg Tablet, Delayed Release (E.C.)
+Lidocaine HCl 2 % Gel Sig: One (1) Appl Mucous membrane PRN (as needed) as needed for Self-catheterization.
+Oxybutynin Chloride 5 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Sodium Chloride 0.9 % 0.9 % Parenteral Solution Sig: Ten (10) ML Intravenous every eight (8) hours as needed for line flush: PICC, non-heparin dependent: Flush with 10 mL Normal Saline daily and PRN per lumen.
+Methenamine Hippurate 1 gram Tablet Sig: One (1) Tablet PO twice a day: To be restarted on [**7-30**] after course of antibiotics complete.
+Vitamin C 1,000 mg Tablet Sig: One (1) Tablet PO twice a day.
+Discharge Disposition: Extended Care  Facility: [**Hospital **] Healthcare Center - [**Location (un) **]  Discharge Diagnosis: Primary: Extended-spectrum beta-lactamase E. Coli urinary tract infection, Extended-spectrum beta-lactamase E. Coli bacteremia, Acute Kidney Injury, Left hip wound Secondary: Multiple sclerosis   Discharge Condition: Mental Status: Clear and coherent.
+As your blood infection requires additional intravenous antibiotics, we placed a PICC (peripherally inserted central catheter).
+Staff at the rehab facility will continue to care for your left hip wound as well.
+Bisacodyl and senna are also included in your discharge medications; you can request these as required for constipation.
+- Please take the rest of your medications as you did prior to your admission.

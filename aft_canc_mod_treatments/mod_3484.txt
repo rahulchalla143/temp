@@ -1,0 +1,52 @@
+Admission Date:  [**2145-12-15**]              Discharge Date:   [**2145-12-28**]  Date of Birth:  [**2084-8-9**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 5552**] Chief Complaint: from ED for sepsis  Major Surgical or Invasive Procedure: placement of biliary drains   History of Present Illness: The pt.
+He is s/p Whipple and gemcitabine treatment for pancreatice cancer.
+Dr. [**First Name (STitle) **] [**Name (STitle) **] attempted to place a stent by ERCP on [**11-17**].
+The paitent was placed on levaquin and he proceeded on his trip to [**Country 11150**].
+He then he underwent a percutaneous biliary drain placement on [**12-10**].
+He was monitored in house for 2 days while the drain was draining.
+Yesterday, he called Dr. [**Last Name (STitle) **] saying he had a fever and he was restarted on Levaquin.
+He was recusistated with 7 L NS and BP improved.
+He recieved Unasyn, ibuprofen, tylenol, vancomycin and oxycodone for pain at the drain site.
+Drain was uncapped.
+In [**2142**], he underwent a resection and Whipple by Dr. [**Last Name (STitle) 468**].
+he then underwent a right VATS for lund nodules which showed pancreatic adneocarcinoma.
+He was initially treated with infusional Gemcitabine and responded well.
+He received his last dose of infusional Gemcitabine on [**11-18**],[**2143**].
+He received no treatment since infusional Gemcitabine until his CAT scan showed new multiple hepatic metastases.
+He was being treated on the Xelox protocol but developed severe diarrhea (grade 2), hand foot syndrome (grade 2) and dehydration.
+He then expressed the wish to discontinue treatment at this time.
+drain site with dressing soaked.
+Micro: [**12-15**] and [**12-16**] Bld cx and bile - grew E. coli                               SENSITIVITIES: MIC expressed in MCG/ML                              ESCHERICHIA COLI                              | AMPICILLIN------------  =>32 R AMPICILLIN/SULBACTAM--    16 I CEFAZOLIN-------------   <=4 S CEFEPIME--------------   <=1 S CEFTAZIDIME-----------   <=1 S CEFTRIAXONE-----------   <=1 S CEFUROXIME------------    16 I CIPROFLOXACIN---------   =>4 R GENTAMICIN------------     8 I IMIPENEM--------------   <=1 S LEVOFLOXACIN----------   =>8 R MEROPENEM-------------<=0.25 S PIPERACILLIN----------    32 I PIPERACILLIN/TAZO-----   <=4 S TOBRAMYCIN------------   <=1 S TRIMETHOPRIM/SULFA----   <=1 S .
+Status post Whipple surgery.
+Non-specific stranding in the right upper quadrant.
+[**12-20**] Cholangiogram  Nondilated right-sided biliary ducts were opacified.
+A new 8-French internal/external biliary drainage catheter was advanced over the wire and connected to a bag for drainage.
+The catheter was secured with 0-Proelene sutures and a dressing was applied.
+male with metastatic pancreatic cancer s/p percutaneous biliary drain placement who returned with septic shock.
+He was aggressively hydrated and started on zosyn IV and vancomycin.
+His blood cultures and biliary fluid subsequently grew e. coli and the vancomycin was discontinued.
+IR was reconsulted, the cholangiogram showed obstruction of the left sided bile duct and a second biliary drain was placed to improve drainage.
+He received a total of 4 units of PRBCs during this hospitalization to maintain a hct>27.
+# Coagulopathy: Patient was coagulopathic on admission and received a dose of vitamin K after which his coagulopathy resolved.
+Patient was started on oxycontin [**Hospital1 **] with oxycodone PRN.
+# Thrombocytopenia: Patient had thrombocytopenia initially which resolved without intervention and was attributed to sepsis/consumption.
+# h/o HTN: Lisinopril was held due to hypotension # Hyperlipidemia: Held lipitor in setting of liver dysfunction   Medications on Admission: 1. protonix 2. compazine 3. celexa 4. lisinopril 5.
+Insulin  Discharge Medications: 1.
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+Amylase-Lipase-Protease 33,200-10,000- 37,500 unit Capsule, Delayed Release(E.C.)
+Bisacodyl 5 mg Tablet, Delayed Release (E.C.)
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 4 to 6 hours) as needed.
+Oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q4-6H (every 4 to 6 hours) as needed for pain.
+Oxycodone 10 mg Tablet Sustained Release 12HR Sig: One (1) Tablet Sustained Release 12HR PO Q12H (every 12 hours).
+Disp:*60 Tablet Sustained Release 12HR(s)* Refills:*0* 8.
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Phenazopyridine 100 mg Tablet Sig: Two (2) Tablet PO TID (3 times a day) for 2 days.
+Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig: One (1) Adhesive Patch, Medicated Topical  QD (): patch should be put on for 12 hours, then off for 12 hours each day.
+Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 hours) for 5 days.
+Insulin Regular Human 100 unit/mL Solution Sig: as directed Injection ASDIR (AS DIRECTED): Please continue your usual home regimen of insulin.
+Ibuprofen 400 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 hours) as needed for pain.
+Discharge Disposition: Home With Service  Facility: [**Company 1519**]  Discharge Diagnosis: Primary Diagnoses: Pancreatic cancer with hepatic and pulmonary metastases E. coli bacteremia and sepsis hyponatremia, likely due to SIADH thrombocytopenia, likely due to sepsis Secondary Diagnoses: diabetes, secondary to pancreatic cancer pancreatic insufficiency hyperlipidemia   Discharge Condition: stable   Discharge Instructions: If you experience worsening fevers, chills, abdominal pain, or other concerning symptoms, please call your doctor or return to the emergency room for evaluation.
+Please take all medications as prescribed.
+Please talk to your doctor about whether these medications should be restarted.
+You should also contact Interventional Radiology to have your drains evaluated and/or changed.

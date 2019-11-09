@@ -1,0 +1,44 @@
+Admission Date:  [**2158-12-22**]              Discharge Date:   [**2159-1-2**]  Date of Birth:  [**2095-6-29**]             Sex:   M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 7333**] Chief Complaint: Hypotension  Major Surgical or Invasive Procedure: Cardiac Catheterization with placement of bare metal stent in OM1 Repeat Cardiac Catheterization Cardiopulmonary Resuscitation and Defibrillation   History of Present Illness: In brief this is a 63yo M PMHx HD dependent ESRD s/p failed allograft, CAD s/p CABG ([**2156**] - LIMA to LAD, SVG to RPDA, SVG to OM1, SVG to ramus), PVD, HTN, HLD, sCHF (EF 20-30%) who was admitted for elective cardiac catheterization [**12-22**], notable for occluded OM graft, patent LIMA, SVG-PDA and SVG-ramus grafts, OM1/Circ w flow-limiting disease, Circ not able to be wired, BMSx2 to OM1 takeoff, complicated by circ jailing, course further c/b femoral pseudoaneurysm at and hypotension during post-cath HD.
+Night prior to transfer, patient with continued slow bleeding from cath site (changing dressing q30-60minutes), abciximad held (given psuedoaneurysm).
+At time of initial exam in HD, patient w HR 60s, SBP 108, mentating well and without complaint of chest pain, shortness of breath, dizziness, EKG with ST depressions in II,III,avF similar to prior EKG.
+-PCI - ([**2158-12-22**]) BMS to OM1 x2 c/b jailed circ -PACING/ICD: None 3.
+-  GERD w Barrett's esophagus ([**2152**]) - Peripheral vascular disease - Colonic polyps - Prostate adenocarcinoma ([**2156-5-12**]) s/p CyberKnife therapy - s/p appendectomy.
+LUE fistula with thrill PULSES: Right: Carotid 2+ DP 2+ PT 2+ Left: Carotid 2+ DP 2+ PT 2+ NEURO: A/Ox3, CN II-XII intact.
+LUNGS: slight bibasilar crackles, but otherwise lung fields clear to auscultation b/l ABDOMEN: Soft, NTND.
+LUE fistula with thrill PULSES: Right: Carotid 2+ DP 2+ PT 2+ Left: Carotid 2+ DP 2+ PT 2+ NEURO: A/Ox3, CN II-XII intact.
+[**2158-12-22**] 07:12AM BLOOD WBC-9.4 RBC-3.50* Hgb-11.0* Hct-33.0* MCV-94 MCH-31.4 MCHC-33.3 RDW-17.9* Plt Ct-216 [**2158-12-22**] 01:10PM BLOOD Glucose-107* UreaN-53* Creat-9.7*# Na-130* K-5.9* Cl-92* HCO3-19* AnGap-25* [**2158-12-22**] 06:45PM BLOOD CK-MB-38* [**2158-12-22**] 06:45PM BLOOD CK-MB-38* [**2158-12-22**] 01:10PM BLOOD Calcium-9.7 Phos-4.3 Mg-2.6 .
+[**2158-12-23**] 10:04AM BLOOD CK-MB-319* MB Indx-24.0* cTropnT-2.47* [**2158-12-23**] 10:11AM BLOOD CK-MB-324* MB Indx-24.1* cTropnT-2.30* [**2158-12-24**] 02:32AM BLOOD CK-MB-204* MB Indx-19.1* cTropnT-6.21* [**2158-12-28**] 06:49AM BLOOD CK-MB-10 MB Indx-5.1 cTropnT-12.17* [**2158-12-28**] 04:55PM BLOOD CK-MB-9 cTropnT-13.07* [**2158-12-31**] 01:30AM BLOOD Cortsol-14.0 [**2158-12-30**] 04:40PM BLOOD Lactate-0.7 .
+[**2159-1-2**] 04:37AM BLOOD WBC-8.0 RBC-2.67* Hgb-8.4* Hct-24.7* MCV-93 MCH-31.3 MCHC-33.9 RDW-16.0* Plt Ct-284 [**2159-1-2**] 04:37AM BLOOD Glucose-80 UreaN-61* Creat-7.9*# Na-137 K-4.4 Cl-93* HCO3-28 AnGap-20 [**2159-1-2**] 04:37AM BLOOD Calcium-9.3 Phos-6.2*# Mg-2.3 .
+MRSA Screen [**12-25**]: Negative MRSA Screen [**12-27**]: Negative .
+Repeat echocardiogram to evaluate for improvement in LVEF after revascularizing the OM1.
+If not, consider repeat viability study (Dobutamine echo) and re-assess the need to open the LCx.
+Extremity U/S [**12-23**]: IMPRESSION: 1.2 x 1.1 cm right groin pseudoaneurysm.
+TTE [**12-25**]: The left atrium is moderately dilated.
+The estimated right atrial pressure is 0-5 mmHg.
+Left ventricular wall thicknesses and cavity size are normal.
+Compared with the prior study (images reviewed) of [**2158-8-9**], left ventricular systolic dysfunction is now regional and global systolic function is preserved.
+CXR PA/LAT [**12-27**]: FINDINGS: As compared to the previous radiograph, pre-existing pleural effusions have minimally decreased in extent.
+CT could be performed to clarify this suspicion.
+CXR Portable [**12-27**]: IMPRESSION: 1.
+# NSTEMI/VFib Cardiac Arrest In-Hospital: Mr. [**Known lastname **] was admitted for elective cardiac catheterization for optimization of cardiac function in preparation for possible renal transplant.
+During the procedure OM1 was successfully stented with BMS x 2, but there was an unsuccessful attempt to revascularize AV groove LCx.
+Following the procedure the patient developed chest pain with ST depressions in II/III/aVF and positive CKMB and troponins (CKMB peak of 24.1).
+Echo after the procedures was significant for increase in estimated LVEF (30-35% from 20-30% on prior) with preserved global systolic function but severe regional left ventricular systolic dysfunction with severe hypokinesis of the inferior and inferolateral walls.
+A second cardiac catheterization was conducted which was significant for a jailed AV groove Lcx with delayed flow and an unsuccessful attempt at PCI of AV groove Lcx due to inability to cross lesion with wire.
+He was transferred back to the CCU for continued evaluation and treatment and was loaded with IV then PO amiodarone.
+# Femoral Pseudoaneurysm: Following initial catheterization the patient was found to have a pseudoaneurysm reported as 1.2x1.1cm by radiology, read as 0.7cm by interventional radiology.
+The patient would benefit from repeat ultrasound in two weeks to assess the status of this finding.
+#Chronic Systolic CHF: ECHO during this admission demonstrated an LVEF of 30-35% up from 20-30% on prior.
+He will likely benefit from spironolactone in the future when his blood pressures are more robust.
+#Blood Pressure: His blood pressures have been a little soft, especially following dialysis which has caused us to lower his home BP regimen (metoprolol succinate 75mg PO daily -> metoprolol succinate 25mg PO daily, and lisinopril 20mg PO daily -> lisinopril 10mg PO daily).
+Home oxygen order Home oxygen for exertion when oxygen saturations fall below 88%.
+Titrate up to 4L's for oxygen saturations less than 88%.
+We did another heart catheterization, but no further interventions were able to be made.
+You should follow up with Dr. [**Last Name (STitle) **] as scheduled to arrange to have further studies and potential implantation of a defibrillator device at a later time.
+weight goes up more than 3 lbs in one day or more than 5 lbs in one week.
+Your oxygen levels have been low in the hospital, especially when you move around.
+Ideally your oxygen saturation levels should be greater than 94%.
+Your blood levels are also lower than normal.
+[**Name10 (NameIs) 2172**] last INR was 1.6 on [**2159-1-1**].
+[**Telephone/Fax (1) 62**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage .
+[**Telephone/Fax (1) 62**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage   Completed by:[**2159-1-4**

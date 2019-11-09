@@ -1,0 +1,53 @@
+Admission Date:  [**2137-2-21**]              Discharge Date:   [**2137-2-27**]  Date of Birth:  [**2059-2-18**]             Sex:   M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 4358**] Chief Complaint: Fatigue  Major Surgical or Invasive Procedure: Midline Placement   History of Present Illness: Mr. [**Known lastname 86647**] is a very pleasant 78 year old man with a PMH significant for dyslipidemia, hypertension, CKD, COPD, afib, bladder ca s/po cystectomy/prostectomy with urostomy, parathyroid resection, and lung nodule resection who presented to [**Hospital3 26615**] with a day's worth of weaknes.
+He had a recent U/A at a PCP's office a week ago which apparently showed a Klebsiella UTI, for which he was treated with a week's worth of ABX (he is not sure which kind).
+[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] gave him Levoquin and Vancomyin.
+He also recieved a dose of Zosyn.
+Levophed was placed at bedside but not hung.
+Denies chest pain, chest pressure, palpitations, or weakness.
+Past Medical History: Dyslipidemia Hypertension CKD (last Cr 2.9 on [**2-1**]) COPD Atrial fibrillation (paroxysmal, on Coumadin) Bladder CA s/p cystectomy/prostatectomy Hyperparathyroidism s/p parathyroid resection [**2135**] Lung nodule resection (PCP's office has record of adenocarcinoma of the lung but no info on tx) Gout CAD s/p stent placement to LAD and LCx [**2126**]   Social History: Patient lives [**Location (un) **] with his wife.
+CXR [**2137-2-21**]: FINDINGS: There has been interval placement of a right-sided internal jugular venous catheter.
+Chain suture is noted in the left hemithorax with volume loss suggestive of prior resection.
+Brief Hospital Course: 78 year old man with h/o dyslipidemia, hypertension, CKD, COPD, afib, bladder ca s/po cystectomy/prostectomy with urostomy, parathyroid resection, and lung nodule resection who presented to OSH with a one day of weakness transfered to [**Hospital1 18**] for evaluation and treatment of sepsis from suspected urinary source.
+# Sepsis from Urinary Source: Patient had a UA with 86 WBCs and large bacteria in setting of unusual urologic anatomy with urostomy.
+He was pan-cultured and treated with vanc and zosyn initially empirically for urosepsis.
+He was volume resuscitated with 2L in the ED with CVPs at goal, but continued to by hypotensive and was started on both levophed and vasopressin in the MICU.
+His antibiotics were changed to vanc/cefepime/flagyl after obtaining information from his PCP that he had recently been treated with doxycycline for a Klebsiella UTI (resistant to ampicillin, nitrofurantoin, piperacillin; sensitive to cephalsporins; non-ESBL).
+He was called out to the floor on [**2-23**] for further management.
+His antibiotics were narrowed to ceftriaxone.
+His fevers, leukocytosis (34K->7K), lactatemia, and other evidence of end organ ischemia resolved and he no longer required IV fluids to maintain his pressures.
+A midline was placed for him to finish his 10-day total course of ceftriaxone (last day [**3-3**]).
+Cr peaked in house to 4.6, up from prior baseline of 2.2 but trended back down to 2.2 with pressors and fluids rec'd in the unit and on the floor.
+# CAD/Troponin Leak: Has known h/o CAD s/p stenting to the LAD and LCx in [**2126**].
+Is not on anti-platelet agents (ASA/plavix) given h/o heavy bleeding.
+Per his PCP, [**Name10 (NameIs) **] coumadin dose had recently been changed from 2 to 1 mg in the setting of his elevated INRs.
+His beta blocker and coumadin were held in the setting of his acute illness and elevated INR.
+He received 5 mg of vitamin K to help correct his INR of 12.7.
+He was restarted on coumadin and his beta blocker on discharge.
+# Thrombocytopenia: In setting of elevated INR, concern for DIC- fibrinogen and FDP were sent and negative.
+He was started on a 3-day course of renally-dosed valacyclovir.
+His home diuretic regimen was held during his acute illness but re-started at the time of discharge.
+#Antibiotics: Patient is receiving a 10 day course of IV cephalosporins (first cefepime, now ceftriaxone) to end [**3-3**].
+#CHF: Patient is not on an Ace inhibitor which is indicated for his systolic CHF.
+Medications on Admission: Coumadin 2 mg Daily (changed to 1 mg [**2-14**]) Allopurinol 100 mg PO BID Metoprolol Succinate 50 mg Daily Levoxyl 50 mcg Daily Simvastatin 10 mg Daily Isosorbide Mononitrate 30 mg Daily Furosemide 40-80 mg Daily.
+Sodium Bicarb 650 mg QID.
+Spectravite Feosol 65 mg Daily Stool Softener Coquenzyme Q-10 100 mg Daily Spiriva 18 daily Imdur 30 daily  Discharge Medications: 1. warfarin 1 mg Tablet Sig: One (1) Tablet PO every other day.
+Disp:*15 Tablet(s)* Refills:*0* 2. allopurinol 100 mg Tablet Sig: One (1) Tablet PO twice a day.
+3. metoprolol succinate 50 mg Tablet Extended Release 24 hr Sig: One (1) Tablet Extended Release 24 hr PO once a day.
+4. levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO once a day.
+5. simvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+6. isosorbide mononitrate 30 mg Tablet Extended Release 24 hr Sig: One (1) Tablet Extended Release 24 hr PO once a day.
+7. furosemide 40 mg Tablet Sig: One (1) Tablet PO once a day.
+8. sodium bicarbonate 650 mg Tablet Sig: One (1) Tablet PO four times a day.
+Feosol 325 mg (65 mg iron) Tablet Sig: One (1) Tablet PO once a day.
+Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day.
+12. coenzyme Q10 100 mg Capsule Sig: One (1) Capsule PO once a day.
+Spiriva with HandiHaler 18 mcg Capsule, w/Inhalation Device Sig: One (1)  Inhalation once a day.
+14. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for Constipation.
+Disp:*30 Tablet(s)* Refills:*0* 15. sodium chloride 0.65 % Aerosol, Spray Sig: [**1-7**] Sprays Nasal QID (4 times a day) as needed for dry nares.
+Disp:*4 doses* Refills:*0* 18. valacyclovir 1 g Tablet Sig: One (1) Tablet PO once a day for 1 days.
+Secondary: -sCHF -CKD -Atrial fibrillation -COPD   Discharge Condition: Mental Status: Clear and coherent.
+You were transferred to [**Hospital1 18**] for evaluation and treatment of sepsis from a urinary tract infection.
+You were treated in the ICU with fluids, pressors, and antibiotics and your condition improved dramatically.
+You were further evaluated on the floor and you continued to improve with return of your kidney and liver function to your prior normal levels.
+We placed a temporary line in you for further antibiotic administration to complete your course.
+The following changes have been made to your medications: -START Ceftriaxone 1gram IV once daily for 4 more days (last day [**3-3**]) -START Valtrex 1gram by mouth once daily for 1 more day (last day [**2-28**]) -START Ipratropium/Albuterol MDI [**1-7**] inhalations four times a day as needed for shortness of breath/wheezes -START Saline nasal spray as needed -START Senna 1 tab by mouth twice daily as needed for constipation -DECREASE Coumadin (warfarin) to 1mg by mouth every other day (START taking it [**2-28**]) -Continue taking your other home medications as directed -Please have your INR checked on Friday [**3-1**] .

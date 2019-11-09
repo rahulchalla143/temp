@@ -1,0 +1,32 @@
+Admission Date:  [**2199-6-21**]              Discharge Date:   [**2199-6-26**]  Date of Birth:  [**2148-1-28**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 18369**] Chief Complaint: Shortness of breath, fever  Major Surgical or Invasive Procedure: None   History of Present Illness: Mr. [**Known lastname 68174**] is a 51 year-old male with metastatic RCC status post left radical nephrectomy in [**3-/2198**], status post Avastin and sorafenib, most recently on Sutent monotherapy since [**12/2198**], with mild renal insufficiency, who presented from home on [**2199-6-21**] with shortness of breath and fever.
+He was given Levo 750 mg PO X1, and Flagyl 500 mg PO X1.
+His BP decreased to 100 systolic despite hydration with 2L of NS.
+He was placed on Levo and Ceftriaxone.
+Metastatic renal cell carcinoma, diagnosed in [**3-/2198**], status post left radical nephrectomy at [**Hospital1 112**] in 03/[**2198**].
+He is status post Avastin plus sorafenib, protocol #04-393, discontinued in the setting of ongoing grade III rash, involving the hands and feet in addition proteinuria secondary to the Avastin.
+He has been maintained on single [**Doctor Last Name 360**] therapy with Sutent 50 mg daily as of [**12/2198**] and has completed nearly 6 cycles.
+Together with the interval development of bilateral pleural effusions, this indicates cardiac insufficiency (or alternatively volume overload) and an echocardiogram may be indicated for further evaluation.
+Brief Hospital Course: Mr. [**Known lastname 68174**] 51 year-old male with metastatic RCC on  Sutent since [**12/2198**], admitted with fever, hypoxemia, and bibasilar pneumonia.
+1) Bibasilar pneumonia: Patient was treated for community-acquired pneumonia.
+He was initially placed on Ceftriaxone, Levaquin, and Flagyl in the ICU but then changed to Azithromycin & CTX at time of transfer to the oncology service.
+His respiratory status improved slowly, oxygen was weaned off, and he was discharged on course of Levaquin.
+2) Metastatic RCC: Sutent was held on admission in light of acute infection.
+Patient was also found to have abnormal TFTs on Sutent and was started on replacement therapy.
+No limitations were placed in regards to weightbearing status.
+Patient was instructed to restart Sutent next [**Year (4 digits) 766**].
+Likely related to underlying malignancy as well as prerenal component given improvement with gentle hydration.
+Medications on Admission: MEDICATIONS ON ADMISSION: He takes Imodium and Lomotil while on Sutent for diarrhea.
+He is also on MS Contin 45 mg PO q12 hours (confirmed with wife) and [**Name (NI) 68177**] 15 mg every 4 hours as needed.
+MEDICATIONS ON TRANSFER: Heparin 5000 UNIT SC TID Albuterol 0.083% Neb Soln 1 NEB IH Q6H Ipratropium Bromide Neb 1 NEB IH Q6H CeftriaXONE 1 gm IV Q24H Levofloxacin 500 mg PO Q24H Morphine Sulfate 2-4 mg IV Q4H:PRN Docusate Sodium 100 mg PO BID Pantoprazole 40 mg PO Q24H Fluticasone Propionate 110mcg 2 PUFF IH [**Hospital1 **]  Discharge Medications: 1.
+Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours) for 4 days: last dose will be [**Last Name (LF) 1017**], [**6-30**].
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day): Take as necessary for constipation.
+SUTENT 50 mg Capsule Sig: One (1) Capsule PO Every other day: Please restart on [**Last Name (LF) 766**], [**7-1**].
+Morphine 15 mg Tablet Sig: One (1) Tablet PO Q4-6H (every 4 to 6 hours) as needed for Pain.
+Morphine 15 mg Tablet Sustained Release Sig: Three (3) Tablet Sustained Release PO Q12H (every 12 hours).
+Disp:*90 Tablet Sustained Release(s)* Refills:*0*   Discharge Disposition: Home  Discharge Diagnosis: Primary diagnoses: 1)Pneumonia 2)Acute renal failure 3)Metastatic renal cell carcinoma 4)Hypoxemia   Discharge Condition: Stable   Discharge Instructions: 1)Please take all medications as listed in the discharge instructions.
+2)You were admitted to the hospital and started on an antibiotic called Levaquin for a pneumonia.
+You should continue taking this medication and your last day will be [**Last Name (LF) 1017**], [**6-30**].
+You should resume this medication starting [**Last Name (LF) 766**], [**7-1**].
+You should take this medication every other day.
+As a result, you were started on thyroid supplements.

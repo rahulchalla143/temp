@@ -1,0 +1,37 @@
+Admission Date:  [**2139-9-6**]              Discharge Date:   [**2139-9-13**]  Date of Birth:  [**2084-2-27**]             Sex:   M  Service: SURGERY  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 695**] Chief Complaint: Hepatitis B and HCC, needing liver transplant  Major Surgical or Invasive Procedure: Liver Transplant [**2139-9-6**]   History of Present Illness: [**Known firstname **] [**First Name8 (NamePattern2) **] [**Known lastname 1256**] is a 54-year-old male with a history of hepatitis B diagnosed in [**2132**] who is presenting today for a possible liver transplant.
+Subsequently, he underwent transarterial chemoembolization of the second lesion in [**2138-2-13**].
+PSH: TACA and RFA as described above, otherwise no surgery  Social History: Home: lives with his wife, 21 yo son, and mother Occupation: employed as a database administrator EtOH: Denies Drugs: Denies Tobacco: Denies   Family History: 2 brothers with hepatitis  Physical Exam: On admission: VS: 96.8, 79, 105/61, 18, 97% RA, 75.4 kg General: A&Ox3, NAD, well nourished, no jaundice Neuro: A+Ox3, no asterixis, CN II-XII grossly intact HEENT: Sclerae anicteric.
+The patient is status post recent liver transplant on [**2139-9-4**].
+After his liver transplant, he was taken to the SICU and remained intubated overnight.
+The rest of his hospital stay is summarized below by system:  Neuro: pain was never a prominent complaint and was well controlled on narcotics with a relatively low pain med requirement.
+Pulm: he was extubated on POD 1 and weaned off of oxygen until he was on room air.
+His foley was removed on POD 3 and he voided without issue.
+Heme: transfusions as listed above.
+No major issues  ID: he was placed on antibiotic prophylaxis as per protocol (Bactrim/valganciclovir, fluconazole).
+He was restarted on his entacavir and was given HBIg in the OR and then daily for five days.
+On POD 1 he received [**Numeric Identifier 961**] units for a + HBAg, but then got 5000 as his HBAb was >500 and HBAg negative.
+F/E/N: He received adequate resuscitation in the peri and postoperative periods which were reduced and then discontinued as his diet was advanced.
+At the end of his hospital stay, he began to diurese well and was helped along with IV lasix.
+He was sent home with an 8 day supply of PO lasix to help get him get rid of his last excess fluid.
+He was also sent home with lantus and an insulin sliding scale while on steroids, having been seen by [**Last Name (un) **] in house.
+Immunosuppression: He was maintained on the typical liver transplant pathway, receiving MMF on admission and Solumedrol in the OR.
+He followed th pathway receiving tacrolimus, MMF and steroids per protocol.
+Steroids were tapered as usual and he was sent out on 20 of prednisone to be further tapered as an outpatient.
+He was taught how to take his meds with the self med program and he expressed understanding of this.
+Medications on Admission: Entacavir 0.5 mg daily  Discharge Medications: 1.
+Prednisone 5 mg Tablet [**Hospital **]: Four (4) Tablet PO DAILY (Daily).
+Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: One (1) Tablet,Rapid Dissolve, DR [**Last Name (STitle) **] DAILY (Daily).
+Valganciclovir 450 mg Tablet [**Last Name (STitle) **]: Two (2) Tablet PO DAILY (Daily).
+Entecavir 0.5 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO DAILY (Daily).
+Mycophenolate Mofetil 500 mg Tablet [**Last Name (STitle) **]: Two (2) Tablet PO BID (2 times a day).
+Docusate Sodium 100 mg Capsule [**Last Name (STitle) **]: One (1) Capsule PO BID (2 times a day).
+Fluconazole 200 mg Tablet [**Last Name (STitle) **]: Two (2) Tablet PO Q24H (every 24 hours).
+Sulfamethoxazole-Trimethoprim 400-80 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO DAILY (Daily).
+Oxycodone 5 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO Q4H (every 4 hours) as needed for pain.
+Insulin Regular Human 100 unit/mL Solution [**Last Name (STitle) **]: follow sliding scale  Injection ASDIR (AS DIRECTED).
+Insulin Glargine 100 unit/mL (3 mL) Insulin Pen [**Last Name (STitle) **]: Ten (10) units Subcutaneous every morning as needed for pain.
+Tacrolimus 1 mg Capsule [**Last Name (STitle) **]: Three (3) Capsule PO Q12H (every 12 hours).
+Furosemide 20 mg Tablet [**Last Name (STitle) **]: 0.5 Tablet PO once a day for 7 days.
+Disp:*5 Tablet(s)* Refills:*0*   Discharge Disposition: Home With Service  Facility: Home Heatlh VNA  Discharge Diagnosis: HBV s/p orthotopic liver transplant   Discharge Condition: Mental Status: Clear and coherent.
+Discharge Instructions: Please call the Transplant Office [**Telephone/Fax (1) 673**] if you have any of the warning signs listed below You will need to have blood drawn for labs every Monday and Thursday at [**Last Name (NamePattern1) 439**] [**Hospital 2577**] Medical Office Building No driving while taking pain medication You may shower.
+No heavy lifting/straining  Followup Instructions: Provider: [**Name10 (NameIs) **],[**Name11 (NameIs) 156**] TRANSPLANT SOCIAL WORK Date/Time:[**2139-9-23**] 10:00 Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 707**], MD, PHD[**MD Number(3) 708**]:[**Telephone/Fax (1) 673**] Date/Time:[**2139-9-23**] 10:40 Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 707**], MD, PHD[**MD Number(3) 708**]:[**Telephone/Fax (1) 673**] Date/Time:[**2139-9-30**] 10:40  Please call the [**Hospital **] [**Hospital 982**] Clinic at ([**Telephone/Fax (1) 4847**] to set up a follow up appointment for next week.

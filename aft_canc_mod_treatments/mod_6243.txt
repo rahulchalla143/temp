@@ -1,0 +1,46 @@
+Admission Date:  [**2192-11-30**]              Discharge Date:   [**2192-12-21**]  Date of Birth:  [**2132-11-12**]             Sex:   M  Service: NEUROSURGERY  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 78**] Chief Complaint: headache  Major Surgical or Invasive Procedure: [**2192-11-30**] external ventricular drain placement [**2192-11-30**] craniotomy for frontal IPH Multiple cerebral angiograms [**2192-12-18**] PEG PLACEMENT [**2192-12-18**] TRACHEOSTOMY PLACMENT   History of Present Illness: The patient is a 60 year old man from [**Country 2784**] h/o HTN who had a headache last night, took aspirin and went to bed.
+He required intubation because he could not protect his airway.
+Read by: [**Last Name (LF) **],[**First Name3 (LF) **] D.    Intervals Axes Rate PR QRS QT/QTc P QRS T 74 140 114 404/428 79 63 74   ([**Numeric Identifier 81929**]) [**Known lastname 81925**]-[**Known lastname 81926**],[**Known firstname 81927**] [**Medical Record Number 81928**] M  60  [**2132-11-12**]  Radiology Report CT C-SPINE W/O CONTRAST Study Date of [**2192-11-30**] 11:16 AM   [**Last Name (LF) 14311**],[**First Name3 (LF) **] EU   [**2192-11-30**] SCHED CT C-SPINE W/O CONTRAST   Clip # [**Clip Number (Radiology) 81930**] Reason: eval for cspine fx    [**Hospital 93**] MEDICAL CONDITION:    60 year old man with HTN p/w acute ALOC w/ HA and ?
+Evaluate for possible cervical spine fracture.
+There are an endotracheal tube and a nasogastric tube.
+[**Known lastname 81925**]-[**Known lastname 81926**],[**Known firstname 81927**] [**Medical Record Number 81928**] M  60  [**2132-11-12**]  Neurophysiology Report EEG Study Date of [**2192-12-6**]    OBJECT: EVALUATE FOR BRAIN ACTIVITY.
+ROUTINE SAMPLING AND SPIKE AND SEIZURE DETECTION PROGRAMS WERE UTILIZED.
+INTERPRETED BY: [**Last Name (LF) **],[**First Name3 (LF) **] L.  (09-0137F)  [**Known lastname 81925**]-[**Known lastname 81926**],[**Known firstname 81927**] [**Medical Record Number 81928**] M  60  [**2132-11-12**]  Radiology Report UNILAT UP EXT VEINS US LEFT PORT Study Date of [**2192-12-7**] 8:23 AM   [**Last Name (LF) **],[**First Name3 (LF) **] J. NSURG SICU-B [**2192-12-7**] SCHED UNILAT UP EXT VEINS US LEFT PO   Clip # [**Clip Number (Radiology) 81931**] Reason: BRAIN HAEMORRHAGE ASSESS FOR DVT    [**Hospital 93**] MEDICAL CONDITION:    60 year old man with REASON FOR THIS EXAMINATION:    r/o DVT    Final Report HISTORY: 60-year-old male.
+If there is clinical concern for an SVC syndrome, further evaluation with MRV could be considered.
+FINDINGS: Grayscale and color son[**Name (NI) 493**] imaging of the bilateral common femoral, femoral, popliteal and calf veins was performed.
+[**Known lastname 81925**]-[**Known lastname 81926**],[**Known firstname 81927**] [**Medical Record Number 81928**] M  60  [**2132-11-12**]  Radiology Report CHEST (PORTABLE AP) Study Date of [**2192-12-15**] 3:35 PM   [**Last Name (LF) **],[**First Name3 (LF) **] J. NSURG SICU-B [**2192-12-15**] SCHED CHEST (PORTABLE AP)   Clip # [**Clip Number (Radiology) 81934**] Reason: re-eval ETT position    [**Hospital 93**] MEDICAL CONDITION:    60 year old man with SAH REASON FOR THIS EXAMINATION:    re-eval ETT position    Final Report HISTORY: For ET tube position.
+FINDINGS: In comparison with the study of [**12-14**], the tip of the endotracheal tube now measures approximately 6.7 cm.
+Nasogastric tube and central catheter remain in place.
+He then had and EVD placed on Right side.
+Nimodipine, Abx, and anti-seizure medications were initiated.
+The pt recieved 1-2 doses of intrathecal TPA for assistance in keeping the external ventricular drain catheter clear.
+Mannitol was given and the pt was placed on  a cooling blanket.
+He underwent a trial of external ventricular drain clamping and the drain was removed on [**2191-12-16**].
+His blood cultures grew out gram negative rods and he was started on zosyn for this.
+Triple H therapy was discontued.
+Trach and peg were performed on [**12-18**] without complications.
+Therefore it is felt that rehabilitation could start now via an in pt facility whether within the U.S. or [**Country 2784**].
+Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed.
+Chlorhexidine Gluconate 0.12 % Mouthwash Sig: One (1) ML Mucous membrane [**Hospital1 **] (2 times a day).
+Potassium Chloride 20 mEq Tab Sust.Rel.
+Ibuprofen 400 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 hours) as needed for fever.
+Nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID (4 times a day) as needed.
+Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1) Injection TID (3 times a day).
+Levetiracetam 500 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day).
+Famotidine 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Bisacodyl 5 mg Tablet, Delayed Release (E.C.)
+Insulin Regular Human 100 unit/mL Solution Sig: One (1) unit Injection four times a day: FSBS check ac and hs cover with sliding scale reg.
+insulin prn.
+Nimodipine 30 mg Capsule Sig: Two (2) Capsule PO Q4H (every 4 hours).
+Methylphenidate 5 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Metoprolol Tartrate 5 mg/5 mL Solution Sig: One (1) Intravenous Q6H (every 6 hours) as needed for hr>95 or sbp >220.
+Hydralazine 20 mg/mL Solution Sig: One (1)  Injection Q6H (every 6 hours) as needed for MAP > 120.
+Discharge Disposition: Extended Care  Discharge Diagnosis: ACOMM ANEURYSM RUPTURE WITH COIL OF ANEURYSM SUBARACHNOID HEMORRHAGE INTRAVENTRICULAR HEMORRHAGE OPHTHALMIC ARTERY ANEURYSM / NOT TREATED LEFT INTERNAL CAROTID ARTERY ANEURYSM / NOT TREATED CEREBRAL VASOSPASM RESPIRATORY FAILURE DYSPHAGIA TRANSIENT THROMBOCYTOSIS   Discharge Condition: Neurologically stable at present   Discharge Instructions: General Instructions  ??????
+Take your pain medicine as prescribed.
+You may wash your hair only after sutures and/or staples have been removed.
+We generally recommend taking an over the counter stool softener, such as Docusate (Colace) while taking narcotic pain medication.
+Unless directed by your doctor, do not take any anti-inflammatory medicines such as Motrin, Aspirin, Advil, and Ibuprofen etc.
+If you haven been discharged on Keppra (Levetiracetam), you will not require blood work monitoring.
+?Please return to the office in [**5-31**] days(from your date of surgery) for removal of your staples/sutures and/or a wound check.
+[**Name10 (NameIs) **] you are discharged to an inpatient facility, the [**Hospital 81935**] medical staff can also discontinue the sutures or staples.

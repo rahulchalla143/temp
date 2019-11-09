@@ -1,0 +1,62 @@
+Admission Date:  [**2196-6-6**]              Discharge Date:   [**2196-7-26**]  Date of Birth:  [**2132-7-16**]             Sex:   M  Service: MEDICINE  Allergies: cefepime / vancomycin / Allopurinol  Attending:[**First Name3 (LF) 7591**] Chief Complaint: Acute leukemia  Major Surgical or Invasive Procedure: Right subclavian CVL Bone marrow biopsy x2   History of Present Illness: 63 yo m with hx polycythemia [**Doctor First Name **] with myeloid metaplasia s/p splenectomy on hydroxyurea therapy, now with fevers and 49% other cells concerning for leukemic transformation.
+Pt given cefepime 2 g x 1.
+Past Medical History: Polycythemia [**Doctor First Name **] with myeloid metaplasia on hydroxyurea therapy.
+S/p splenectomy [**2188**] complicated by hemorrhage and portal vein thrombosis.
+No pain   Pertinent Results: [**2196-6-6**] 06:05PM   WBC-24.8* RBC-2.35* HGB-9.2* HCT-27.4* MCV-117* MCH-39.2* MCHC-33.7 RDW-20.3* [**2196-6-6**] 06:05PM   NEUTS-28* BANDS-0 LYMPHS-17* MONOS-6 EOS-0 BASOS-0 ATYPS-0 METAS-0 MYELOS-0 NUC RBCS-7* OTHER-49* [**2196-6-6**] 06:05PM   HYPOCHROM-NORMAL ANISOCYT-2+ POIKILOCY-1+ MACROCYT-3+ MICROCYT-NORMAL POLYCHROM-NORMAL SPHEROCYT-OCCASIONAL OVALOCYT-1+ TEARDROP-OCCASIONAL HOW-JOL-OCCASIONAL FRAGMENT-OCCASIONAL [**2196-6-6**] 06:05PM   PT-33.9* PTT-32.0 INR(PT)-3.4* [**2196-6-6**] 06:05PM   WBC-24.8* RBC-2.35* HGB-9.2* HCT-27.4* MCV-117* MCH-39.2* MCHC-33.7 RDW-20.3* [**2196-6-6**] 07:00PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-30 GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-2* PH-5.5 LEUK-TR  ==================== Microbiology: [**2196-7-11**] 2:50 pm BLOOD CULTURE      Source: Line-central.
+COLISTIN AND  Tigecycline REQUESTED BY DR. [**Last Name (STitle) 4091**] [**2196-7-17**].
+COLISTIN <=2 MCG/ML,  Sensitivities performed by [**Hospital1 **]          laboratories.
+SENSITIVE TO Tigecycline @ 0.125 MCG/ML,  MIC interpretations are          based on manufacturer's guidelines that are FDA approved          Sensitivity testing performed by Etest.
+Daptomycin = 4 MCG/ML,  Sensitivity testing performed by Etest.
+Screen predicts NO synergy with penicillins or          vancomycin.
+Consult ID for treatment options.
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              ENTEROCOCCUS FAECIUM                              | AMPICILLIN------------  =>32 R DAPTOMYCIN------------       S LINEZOLID-------------     2 S PENICILLIN G----------  =>64 R VANCOMYCIN------------  =>32 R     Anaerobic Bottle Gram Stain (Final [**2196-7-13**]):       GRAM POSITIVE COCCI IN PAIRS AND CHAINS.
+POTASSIUM HYDROXIDE PREPARATION (Final [**2196-7-21**]):       TEST CANCELLED, PATIENT CREDITED.
+Peribronchial infiltration and ground-glass opacity with bilateral lower lobe predominance may be infectious or inflammatory.
+Bilateral LE duplex [**2196-6-13**]: Grayscale and color Doppler son[**Name (NI) 493**] imaging was performed of the bilateral common femoral, superficial femoral, popliteal, peroneal, and posterior tibial veins.
+DISCHARGE LABS:  [**2196-7-26**] 12:00AM BLOOD WBC-3.1* RBC-2.66* Hgb-8.7* Hct-25.6* MCV-96 MCH-32.5* MCHC-33.8 RDW-16.3* Plt Ct-388 [**2196-7-26**] 12:00AM BLOOD Neuts-57 Bands-2 Lymphs-17* Monos-14* Eos-0 Baso-0 Atyps-0 Metas-4* Myelos-4* Blasts-2* NRBC-2* [**2196-7-26**] 12:00AM BLOOD Plt Smr-NORMAL Plt Ct-388 [**2196-6-13**] 01:56AM BLOOD Fibrino-716* [**2196-7-26**] 12:00AM BLOOD Gran Ct-1829* [**2196-7-25**] 06:10AM BLOOD Gran Ct-1856* [**2196-7-26**] 12:00AM BLOOD Glucose-93 UreaN-18 Creat-0.6 Na-139 K-4.8 Cl-102 HCO3-29 AnGap-13 [**2196-7-26**] 12:00AM BLOOD ALT-12 AST-16 LD(LDH)-198 AlkPhos-141* TotBili-0.3 [**2196-7-26**] 12:00AM BLOOD Calcium-8.9 Phos-3.5 Mg-1.9  Brief Hospital Course: 63 yoM with PMH polycythemia [**Doctor First Name **] with myeloid metaplasia s/p splenectomy on hydroxyurea therapy who is admitted with fever leukocytosis with 49% blasts, newly diagnosed AML, treated with 7+3 followed by MEC, course complicated by VRE, E. coli ESBL, C. diff, drug rash..  # Leukocytosis: persistently elevated WBC at 21K, last check on [**5-27**] showed no blasts, now admitted with 49% blasts, concerning for leukemic conversion to AML, bone marrow biopsy was consistent with AML .
+Echocardiogram prior to chemotherapy showed LVEF 65% and was otherwise unremarkable.
+Repeat bone marrow biopsy on [**2196-7-26**] pending.
+He was started on vancomycin, cefepime.
+Levofloxacin was added in ICU and later discontinued.
+Micafungin was added for fungal coverage when patient continued to spike fevers on antibiotics.
+No culture growth, and fevers resolved with treatment of leukemia.
+Bronchoscopy was performed and patient empirically started on Voriconazole pending BAL galactomanin results.
+Patient also developed diarrhea, C. diff toxins were negative, but PCR positive, so patient started on PO Vancomycin.
+# Drug rash: rash to cefepime, IV vancomycin, allopurinol per skin biopsy.
+Eventually he was placed on cipro/tobra for GNR coverage; his E.Coli cx from [**7-11**] was resistant to cipro and intermediate to tobra.
+Found in afib w RVR on routine physical exam one morning.
+Given lopressor 5mg IV x2 with little response.
+Started PO lopressor and digoxin, which overnight caused [**1-21**] second pauses.
+Would consider coumadin if afib recurs.
+Placed on steroids for 2 days only, after which symptoms resolved.
+# Hypoxia: Was noted to be hypoxic to 80s while sleeping early into hospital course, placed on nonrebreather and transferred to ICU for monitoring and management.
+Repeat chest x-ray was suspicious for pneumonia vs. leukemic infiltrate vs. pulmonary edema, so his abx coverage was broadened to vancomycin, cefepime and levofloxacin and he was also given lasix.
+Pain controlled with lidocaine patch.
+Resolved with treatment of leukemia.
+# History of portal vein thrombosis: Occurred in the setting of spleenectomy which was complicated by portal vein thrombosis and hemorrheage.
+Given expected thrombocytopenia with chemotherapy, and the need for urgent central line placement, warfarin was held and INR reversed with FFP and Vitamin k.  Repeat CT abdomen showed resolution of portal vein thrombosis, so coumadin was not restarted on discharge.
+Reassess need to continue PO diltiazem as patient remained in sinus rhythm since [**7-10**].
+Medications on Admission: allopurinol 150 qd furosemide 20 qd hydroxyurea 1000 mg qd omeprazole 20 qd levothyroxine 75 qd Warfarin as directed   Discharge Medications: 1. omeprazole 20 mg Capsule, Delayed Release(E.C.)
+)(s)* Refills:*2* 2. levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*9 g* Refills:*0* 4. daptomycin 500 mg Recon Soln Sig: Four [**Age over 90 11578**]y (480) mg Intravenous Q24H (every 24 hours) for 9 days: Last day [**2196-8-4**].
+Ativan 0.5 mg Tablet Sig: 1-2 Tablets PO twice a day as needed for nausa; anxiety.
+Disp:*20 Tablet(s)* Refills:*0* 6. voriconazole 200 mg Tablet Sig: One (1) Tablet PO twice a day.
+Disp:*10 Tablet(s)* Refills:*0* 7. acyclovir 400 mg Tablet Sig: One (1) Tablet PO three times a day.
+Disp:*90 Tablet(s)* Refills:*0* 8. diltiazem HCl 90 mg Tablet Sig: One (1) Tablet PO TID (3 times a day).
+Disp:*90 Tablet(s)* Refills:*0* 9. vancomycin 250 mg Capsule Sig: Two (2) Capsule PO Q6H (every 6 hours) for 23 days: Last day [**8-18**].
+Disp:*184 Capsule(s)* Refills:*0* 10. voriconazole 200 mg Tablet Sig: One (1) Tablet PO twice a day for 1 days.
+You were started on chemotherapy called "7+3" which you tolerated well.
+You were transferred to ICU for a short time for monitoring of your oxygen levels while you were on supplemental oxygen.
+Your bone marrow biopsy in the middle of chemotherapy showed no signs of malignant cells.
+You can stop your hydroxyurea for polycythemia because these cells should be treated from the chemotherapy.
+We started you on a heart rate control medication called Diltiazem.
+If this irregular heart beat starts again, you may need anticoagulation with coumadin.
+Please continue diltiazem and follow up with your doctors.
+Your blood grew E. coli and Enterococcus (two types of bacteria) and you were treated with antibiotics through the vein.
+You developed rashes on your back and on your chest while you were on the antibiotics.
+You will continue on Meropenem and Daptomycin (antibiotics) until [**8-4**].
+This may change depending on the final result of your bronchoscopy.
+We treated you with oral antibiotic, and you will continue Vancomycin till [**8-18**].
+We also stopped your lasix because your blood pressures were on the lower side and you do not have significant edema.
+We stopped your Coumadin because your portal vein thrombosis is no longer present.
+MEDICATION CHANGE: START Daptomycin (last day [**8-4**]) START Ertapenem (last day [**8-4**]) START Vancomycin (last day [**8-18**]) START Acyclovir START Voriconazole (may change depending on the final result from your bronchoscopy) START Diltiazem 90mg three times a day STOP Coumadin STOP Hydroxyurea STOP Lasix STOP Allopurinol  Followup Instructions: Department: HEMATOLOGY/ONCOLOGY When: FRIDAY [**2196-7-29**] at 10:15 AM With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 9052**], MD [**Telephone/Fax (1) 22**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 24**] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage **Please follow up Galactomanin result from BAL, if negative, plan to switch Voriconazole to Fluconazole for prophylaxis If A-fib recurs, may need anticoagulation.

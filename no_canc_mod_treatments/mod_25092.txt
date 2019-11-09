@@ -1,0 +1,23 @@
+Admission Date:  [**2185-1-9**]              Discharge Date:   [**2185-1-12**]  Date of Birth:  [**2127-10-24**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**Last Name (NamePattern4) 290**] Chief Complaint: anasarca, SOB, anemia  Major Surgical or Invasive Procedure: none  History of Present Illness: 57 yo woman with no significant PMH, last seen by a physician decades ago, who presents with 6 week history (since [**Holiday **]) of increasing LE edema progressing to anasarca to the point that she wasn't able to walk on day of admission, abdominal distension, DOE, facial swelling, and jaundiced eyes since [**Month (only) 216**] per husband.
+She was ordered for 4 units of pRBCs and had received 1-2U before transfer with plan for 10mg IV lasix after the first unit.
+Gait assessment deferred PSYCH: Listens and responds to questions appropriately, pleasant  Pertinent Results: [**2185-1-9**] 08:30PM   WBC-2.7* RBC-0.48* HGB-2.2* HCT-6.5* MCV-134* MCH-46.2* MCHC-34.4 RDW-27.1* [**2185-1-9**] 08:30PM   PLT COUNT-111* [**2185-1-9**] 08:30PM   NEUTS-56.7 BANDS-0 LYMPHS-39.6 MONOS-1.6* EOS-0.8 BASOS-1.4 [**2185-1-9**] 08:30PM   RET MAN-3.4* [**2185-1-9**] 08:30PM   PT-18.0* PTT-35.1* INR(PT)-1.6* [**2185-1-9**] 08:30PM   GLUCOSE-97 UREA N-21* CREAT-0.9 SODIUM-135 POTASSIUM-4.3 CHLORIDE-103 TOTAL CO2-24 ANION GAP-12 [**2185-1-9**] 08:30PM   ALBUMIN-3.6 CALCIUM-8.3* MAGNESIUM-2.3 IRON-201* [**2185-1-9**] 08:30PM   ALT(SGPT)-14 AST(SGOT)-29 LD(LDH)-4360* ALK PHOS-44 TOT BILI-3.2* DIR BILI-0.4* INDIR BIL-2.8 [**2185-1-9**] 08:30PM   LIPASE-53 [**2185-1-9**] 08:30PM   calTIBC-213* VIT B12-50* FOLATE-7.6 HAPTOGLOB-<5* FERRITIN-226* TRF-164* [**2185-1-9**] 08:42PM   LACTATE-1.9 [**2185-1-10**] 03:01AM BLOOD Hypochr-3+ Anisocy-NORMAL Poiklo-2+ Macrocy-NORMAL Microcy-NORMAL Polychr-1+ Ovalocy-2+ Schisto-OCCASIONAL Stipple-OCCASIONAL Tear Dr[**Last Name (STitle) **]2+ [**2185-1-10**] 03:01AM BLOOD Fibrino-134* [**2185-1-9**] 08:30PM BLOOD ALT-14 AST-29 LD(LDH)-4360* AlkPhos-44 TotBili-3.2* DirBili-0.4* IndBili-2.8 [**2185-1-9**] 08:30PM BLOOD Lipase-53 [**2185-1-10**] 06:51PM BLOOD Homocys-113* [**2185-1-10**] 03:01AM BLOOD TSH-17* [**2185-1-10**] 03:01AM BLOOD T4-1.9* [**2185-1-10**] 09:54AM BLOOD T3-34* [**2185-1-10**] 06:51PM BLOOD Free T4-0.36* [**2185-1-10**] 09:54AM BLOOD Cortsol-18.1 [**2185-1-10**] 11:13AM BLOOD Parietl-NEGATIVE [**2185-1-10**] 03:01AM BLOOD [**Doctor First Name **]-NEGATIVE dsDNA-NEGATIVE .
+Folate and iron wnl, but likely to demonstrate deficiency with increased hematopoiesis after B12 repletion.
+Coagulopathy less readily explained, but may also be due to nutritional deficiency and stress on bone marrow.
+Heme/onc recommended 7 day course of 1000 mg IM B12, with folate and Vitamin K repletion.
+Homocystein was elevated, MMA pending.
+These should be repeated after 7 days, as should iron studies since patient will likely need iron supplementation as hematopoiesis increases.
+Patient will receive injections at heme/onc clinic in [**Location (un) 620**] for next 2 days and then from VNA.
+Endocrine was consulted for hypothyroidism and felt that anasarca was explained by hypothyroidism of this degree.
+Patient was started on levothyroxine 125 mcg daily.
+anti-thryoglobin and TPO AB were pending.
+Patient should f/u with Dr. [**First Name (STitle) **] at [**Hospital1 **] [**Location (un) 620**] in [**3-10**] weeks for repeat [**Date Range **] to assess adequacy of dosing.
+Patient should be monitored with thyroid treatment to ensure resolution of these fluid collections.
+Thoracentesis could be considered if effusions persist despite treatment.
+Cyanocobalamin 1,000 mcg/mL Solution Sig: 1000 (1000) mcg Injection DAILY (Daily) for 4 days.
+Levothyroxine 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Folic Acid 1 mg Tablet Sig: Five (5) Tablet PO DAILY (Daily).
+You were admitted with severe anemia and total body swelling.
+You were treated with B12 injections, folate and Vitamin K. You were also treated with thyroid hormone replacement.
+You will need 4 more days of B12 injections, and to continue taking folic acid daily.
+You will also need thyroid hormone replacement daily, probably indefinitely.
+Please take the following medications: 125 mcg levothyroxine by mouth daily folic acid tab by mouth daily B12 injections daily x 4 more days  Followup Instructions: You have an appointment to see Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 18619**] (Hematology) at [**Hospital1 **] [**Location (un) 620**] on Friday [**1-14**] .

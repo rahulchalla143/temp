@@ -1,0 +1,38 @@
+Admission Date:  [**2129-3-7**]              Discharge Date:   [**2129-3-18**]  Date of Birth:  [**2055-9-9**]             Sex:   M  Service: CARDIOTHORACIC  Allergies: Shellfish  Attending:[**First Name3 (LF) 1505**] Chief Complaint: chest pain  Major Surgical or Invasive Procedure: cardiac catheterization EGD colonoscopy GI capsule study  History of Present Illness: Mr. [**Known lastname **] is a 73 year old male with severe 3-vessel coronary disease s/p complex PCI with 5 RCA bare metal stents placed in [**2127**] (pt declined CABG), CHF with EF 40%, PVD, and seizure disorder who is transferred from [**Hospital3 4107**] for management of NSTEMI and anemia.
+He was treated conservatively with BB, ACE, aspirin, plavix, and blood transfusion (3U).
+Past Medical History: recent NSTEMI - no intervention at osh [**3-5**] ?cabg.
+ptx s/p ct removal  [**Hospital 93**] MEDICAL CONDITION: 73 year old man with s/p cabg REASON FOR THIS EXAMINATION: ?
+ptx s/p ct removal INDICATION: 73-year-old man with status post CABG and chest tube removal, evaluate for pneumothorax.
+SINGLE VIEW, CHEST: Interval removal of the chest tube and the mediastinal drain.
+Endotracheal tube and nasogastric tube in standard locations.
+Median sternotomy wires are evident without evidence of sternal dehiscence.
+Swan catheter in standard location.
+DR. [**First Name8 (NamePattern2) **] [**Name (STitle) 35563**] DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 4130**] DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 5785**] Approved: [**Doctor First Name **] [**2129-3-17**] 10:46 AM [**Hospital1 18**] ECHOCARDIOGRAPHY REPORT  [**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 69089**] (Complete) Done [**2129-3-14**] at 9:50:17 AM      FINAL Referring Physician     [**Name9 (PRE) **] Information [**Name9 (PRE) **], [**First Name3 (LF) **] R. Division of Cardiothoracic [**Doctor First Name **] [**Hospital Unit Name 4081**] [**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2055-9-9**] Age (years): 73 M  Hgt (in): 69 BP (mm Hg): 126/  Wgt (lb): 145 HR (bpm): 53  BSA (m2): 1.80 m2 Indication: Intra-op TEE for CABG, ?
+MVR ICD-9 Codes: 440.0, 441.2, 414.8, 424.0 Test Information Date/Time: [**2129-3-14**] at 09:50    Interpret MD: [**Name6 (MD) 928**] [**Name8 (MD) 929**], MD, MD Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 929**], MD Doppler: Full Doppler and color Doppler Test Location: Anesthesia West OR cardiac Contrast: None Tech Quality: Adequate Tape #: 2008AW209-9:4 Machine: Echocardiographic Measurements Results  Measurements  Normal Range Left Atrium - Long Axis Dimension:  *4.5 cm  <= 4.0 cm Left Atrium - Four Chamber Length:  3.9 cm  <= 5.2 cm Left Ventricle - Septal Wall Thickness:  0.9 cm  0.6 - 1.1 cm Left Ventricle - Inferolateral Thickness:  0.9 cm  0.6 - 1.1 cm  Left Ventricle - Diastolic Dimension:  4.9 cm  <= 5.6 cm Left Ventricle - Systolic Dimension:  4.2 cm Left Ventricle - Fractional Shortening:  *0.14  >= 0.29 Left Ventricle - Ejection Fraction:  30% to 35%  >= 55% Left Ventricle - Stroke Volume:  93 ml/beat Left Ventricle - Cardiac Output:  4.94 L/min Left Ventricle - Cardiac Index:  2.75  >= 2.0 L/min/M2 Aorta - Sinus Level:  3.6 cm  <= 3.6 cm Aorta - Sinotubular Ridge:  *3.2 cm  <= 3.0 cm Aorta - Ascending:  3.2 cm  <= 3.4 cm Aorta - Arch:  2.7 cm  <= 3.0 cm Aorta - Descending Thoracic:  *2.7 cm  <= 2.5 cm Aortic Valve - LVOT VTI:  19 Aortic Valve - LVOT diam:  2.5 cm  Findings LEFT ATRIUM: Mild LA enlargement.
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Dynamic interatrial septum.
+The patient was under general anesthesia throughout the procedure.
+See Conclusions for post-bypass data The post-bypass study was performed while the patient was receiving vasoactive infusions (see Conclusions for listing of medications).
+There is moderate regional left ventricular systolic dysfunction with apical, inferior, septal and anterior wall hypokinesis.
+Spontaneous echo contrast in noted in the LV, that resolved with systemic heparinization.
+POST-BYPASS: For the post-bypass study, the patient was receiving vasoactive infusions including Epinephrine and phenylephrine, Pt is in Sinus tachycardia.
+Aorta is intact post decannulation 4.
+Other findings are [**Last Name (Titles) 1506**] I certify that I was present for this procedure in compliance with HCFA regulations.
+He was followed by cardiac surgery throughout this time.
+He then had a colonoscoy which was negative.
+ON [**2129-3-14**] he underwent a CABGx4(LIMA->LAD, SVG->[**Last Name (LF) **], [**First Name3 (LF) **], and PDA).
+He tolerated the procedure well and was transferred to the CVICU on Epi, Neo, and Propofol in stable condition.
+He was transferred to the floor on POD#2 and his epicardial pacing wires were d/c'd on POD#3.
+He continued to progress with physical therapy and was discharged to home in stable condition on POD#4.
+He will undergo a small bowel enteroscopy with Dr. [**First Name (STitle) 908**] in 1 month.
+Medications on Admission: Toprol xL 25mg dailiy Lisinopril 20mg daily Lasix 40mg po daily Zocor 20mg daily Plavix 75mg daily Aspirin 325mg daily dilantin 300mg daily Phenobarbital 64.8mg po bid Omeprazole 20mg po daily   Discharge Medications: 1.
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+Aspirin 81 mg Tablet, Delayed Release (E.C.)
+Phenobarbital 15 mg Tablet Sig: Three (3) Tablet PO BID (2 times a day).
+Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Lisinopril 10 mg Tablet Sig: One (1) Tablet PO once a day.
+Omeprazole 20 mg Capsule, Delayed Release(E.C.)
+Toprol XL 25 mg Tablet Sustained Release 24 hr Sig: One (1) Tablet Sustained Release 24 hr PO once a day.
+Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily) for 7 days.
+Potassium Chloride 20 mEq Tab Sust.Rel.
+Discharge Instructions: Follow medications on discharge instructions.
+Call our office for sternal drainage, temp>101.5 Do not use creams, lotions, or powders on wounds.

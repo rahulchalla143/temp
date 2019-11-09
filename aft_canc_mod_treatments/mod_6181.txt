@@ -1,0 +1,37 @@
+Admission Date:  [**2102-4-6**]              Discharge Date:   [**2102-4-14**]   Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**Last Name (NamePattern4) 290**] Chief Complaint: Dyspnea  Major Surgical or Invasive Procedure: Endotracheal intubation Flexible bronchoscopy [**2102-4-8**]  History of Present Illness: Ms. [**Known firstname 79145**] is a [**Age over 90 **] year-old female with a history of HTN, DM, ?chronic aspiration, and Alzheimer's dementia who was transferred from the ED intubated after presenting with hypoxia and tachypnea.
+She was placed on a NRB and was satting in the 80-85% range, and a CXR demonstrated left sided consolidation.
+She was started on levofloxacin and ceftriaxone and intubated because of worsening tachypnea and hypoxia and then transferred to the [**Hospital Unit Name 153**].
+Review of systems is otherwise negative for fevers, chills, arthralgias, nausea, vomiting, diarrhea, and chest pain.
+Pertinent Results: [**2102-4-14**] 04:13AM BLOOD WBC-10.9 RBC-4.05* Hgb-12.3 Hct-37.3 MCV-92 MCH-30.4 MCHC-33.0 RDW-14.5 Plt Ct-384 [**2102-4-6**] 04:15PM BLOOD WBC-15.7*# RBC-4.37 Hgb-13.5 Hct-40.0 MCV-92 MCH-30.9 MCHC-33.8 RDW-15.1 Plt Ct-351 [**2102-4-10**] 03:38AM BLOOD Neuts-72.0* Lymphs-21.0 Monos-4.8 Eos-1.9 Baso-0.3 [**2102-4-11**] 03:39AM BLOOD PT-13.5* PTT-25.8 INR(PT)-1.2* [**2102-4-14**] 04:13AM BLOOD Glucose-123* UreaN-25* Creat-1.1 Na-141 K-4.2 Cl-97 HCO3-36* AnGap-12 [**2102-4-8**] 04:44AM BLOOD ALT-38 AST-30 LD(LDH)-159 AlkPhos-134* TotBili-0.3 [**2102-4-6**] 04:15PM BLOOD cTropnT-<0.01 [**2102-4-6**] 04:15PM BLOOD CK-MB-NotDone proBNP-5423* [**2102-4-13**] 04:48AM BLOOD Calcium-8.6 Phos-2.6* Mg-2.2 [**2102-4-12**] 03:12PM URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.010 [**2102-4-12**] 03:12PM URINE Blood-MOD Nitrite-NEG Protein-30 Glucose-NEG Ketone-10 Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-SM [**2102-4-12**] 03:12PM URINE RBC-92* WBC-14* Bacteri-FEW Yeast-NONE Epi-0  Urine, Blood and sputum cultures negative  Studies: ECHO: EF 70-75%, Preserved regional and global biventricular systolic function.
+Large to moderate amount of bilateral pleural effusion associated with adjacent atelectasis.
+The NG tube tip is in the stomach.
+Brief Hospital Course: Ms. [**Known lastname 22114**] is a [**Age over 90 **] year-old female with a history of HTN, DM, ?chronic aspiration, and Alzheimer's dementia who was transferred from the ED intubated after presenting with hypoxia and tachypnea.
+She was started on ceftriazone/azithromycin for community acquired pneumonia on presentation.
+On her second hospital day her chest radiograph changed significantly with the consolidation in her left upper lobe generally resolving suggesting this was more consistent with mucous plugging and volume loss.
+She was transiently intubated with reexpansion of a previously collapsed upper lobe.
+Given that her pulmonary edema and large pleural effusions were likely contributing to her volume loss and respiratory compromise an attempt was made to diurese with furosemide boluses, to which she responded well with decreasing oxygen requirements, down to 4L NC at dischage.
+Hypertension:  The patient has severe and labile hypertension and was continued  on an aggressive anti-hypertensive regimen at home including beta [**Last Name (LF) 7005**], [**First Name3 (LF) 14595**]-1 [**First Name3 (LF) 7005**], CCB, and ACE inhibitor.
+Alzheimer's dementia:  The patient has severe dementia at baseline, but is on no treatment for this at home.
+Code: CPR not indicated but intubation allowed - confirmed with daughter and granddaughter.
+Medications on Admission: Diltiazem 180 [**Hospital1 **] Doxazosin 2 qd Enalapril 20 [**Hospital1 **] Furosemide 20 qd Toprol 100 [**Hospital1 **] Potassium 8 meq qd Arimidex Simvastatin 20 qd Catapres 2( Clonidine patch 0.2 mg/24 hours) Clonidine 0.2 po tid  Discharge Medications: 1.
+Famotidine 20 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours): Per NGT.
+Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily): Per NGT.
+Metoprolol Tartrate 50 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day): Per NGT.
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed: Per NGT.
+Captopril 25 mg Tablet Sig: Three (3) Tablet PO TID (3 times a day): Per NGT.
+Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1) neb Inhalation Q6H (every 6 hours) as needed for SOB.
+Ipratropium Bromide 0.02 % Solution Sig: One (1) Neb Inhalation Q6H (every 6 hours).
+Clonidine 0.1 mg Tablet Sig: One (1) Tablet PO TID (3 times a day): Per NGT.
+Furosemide 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Digoxin 0.125 mg IV EVERY OTHER DAY 12.
+Arimidex 1 mg Tablet Sig: One (1) Tablet PO once a day.
+Your pneumonia improved, but you continued to be short of breath due to aspiration of your saliva and heart failure.
+For your heart failure your medications were changed to control your blood pressure and remove fluid as it was collecting in your lung.
+The following medication changes were made during this admission: .
+Doxazosin was STOPPED.
+Enalapril was CHANGED to captopril.
+Toprol was CHANGED to metoprolol.
+Catapres was CHANGED to oral clonidine pill.
+Clonidine 0.2mg was CHANGED to a different dose of clonidine.
+The following medications were started: Digoxin, famotidine, senna, colace, albuterol, ipratropium.
+All of your other home medications remain the same.

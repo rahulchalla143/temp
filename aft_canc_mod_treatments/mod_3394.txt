@@ -1,0 +1,45 @@
+Admission Date:  [**2167-10-11**]              Discharge Date:   [**2167-10-27**]  Date of Birth:  [**2087-4-10**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 545**] Chief Complaint: fever and RUQ abd pain  Major Surgical or Invasive Procedure: ERCP x 2 ([**10-11**], [**10-21**]) Paracentesis x 3 ([**10-15**], [**10-20**], [**10-27**]) Right Internal Jugular CVL ([**10-11**])  History of Present Illness: The patient is an 80 year old woman with history of pancreatic cancer s/p biliary stent 2 weeks ago ([**Hospital1 336**]), GERD, hypertension, and COPD and who is referred from [**Hospital3 3834**] for ERCP.
+She received vanc/levo/flagyl and 1 liters of IVF.
+A RIJ TLC was placed (and repositioned).
+Past Medical History: GERD Hepatic cirrhosis anxiety CAD COPD Hypertension Hypercholesterolemia s/p cholecystectomy s/p hysterectomy (fibroids) s/p appendectomy  Social History: Lives alone in [**Hospital3 **] without family in the US.
+Studies: CT ([**Location (un) **]) - pneumobilia, ascities, no changes CXR -  Recommend 3-cm pullback of right internal jugular central venous line for optimal positioning.
+<br> <b>[**Hospital1 18**] Admit Labs:</b> [**2167-10-11**] 01:00PM BLOOD WBC-10.1 RBC-4.10* Hgb-12.0 Hct-35.0* MCV-86 MCH-29.4 MCHC-34.4 RDW-16.9* Plt Ct-245 [**2167-10-11**] 01:00PM BLOOD Neuts-85.7* Bands-0 Lymphs-10.9* Monos-3.0 Eos-0.2 Baso-0.2 [**2167-10-11**] 01:00PM BLOOD PT-14.9* PTT-30.1 INR(PT)-1.3* [**2167-10-11**] 01:00PM BLOOD Glucose-140* UreaN-12 Creat-0.6 Na-135 K-3.7 Cl-102 HCO3-23 AnGap-14 [**2167-10-11**] 01:00PM BLOOD ALT-49* CK(CPK)-12* AlkPhos-869* Amylase-59 TotBili-2.7* [**2167-10-11**] 01:00PM BLOOD Lipase-47 [**2167-10-11**] 01:00PM BLOOD Albumin-2.3* Calcium-7.4* Phos-3.0 Mg-1.7 <br> <b>Other Labs:</b>  [**2167-10-12**] 05:26AM BLOOD ALT-33 AST-57* AlkPhos-661* TotBili-1.5 [**2167-10-13**] 03:17AM BLOOD ALT-25 AST-33 LD(LDH)-90* AlkPhos-564* TotBili-0.9 [**2167-10-14**] 06:00AM BLOOD ALT-17 AST-26 AlkPhos-551* TotBili-0.9 [**2167-10-15**] 06:15AM BLOOD ALT-17 AST-31 AlkPhos-636* TotBili-1.0 [**2167-10-18**] 07:15AM BLOOD ALT-10 AST-46* AlkPhos-769* Amylase-94 TotBili-1.0 [**2167-10-20**] 08:25AM BLOOD ALT-7 AST-20 LD(LDH)-126 AlkPhos-622* Amylase-77 TotBili-0.8 [**2167-10-21**] 09:00AM BLOOD ALT-6 AST-18 LD(LDH)-117 AlkPhos-497* TotBili-0.7 [**2167-10-25**] 06:05AM BLOOD ALT-5 AST-14 AlkPhos-310* Amylase-68 TotBili-0.7 [**2167-10-18**] 07:15AM BLOOD Lipase-102* [**2167-10-19**] 06:50AM BLOOD Lipase-64* [**2167-10-23**] 06:35AM BLOOD Lipase-116* [**2167-10-24**] 06:20AM BLOOD Lipase-72* [**2167-10-25**] 06:05AM BLOOD Lipase-109* [**2167-10-26**] 06:30AM BLOOD Lipase-148* [**2167-10-27**] 06:20AM BLOOD Lipase-131* [**2167-10-25**] 06:05AM BLOOD calTIBC-127* VitB12-555 Folate-5.5 Ferritn-82 TRF-98* [**2167-10-15**] 06:15AM BLOOD %HbA1c-5.2 [**2167-10-19**] 06:50AM BLOOD Ammonia-88* [**2167-10-15**] 06:15AM BLOOD HBsAg-NEGATIVE HBsAb-POSITIVE HBcAb-POSITIVE HAV Ab-POSITIVE [**2167-10-27**] 06:20AM BLOOD CEA-12* [**2167-10-18**] 07:15AM BLOOD AFP-2.8 [**2167-10-15**] 06:15AM BLOOD HCV Ab-INDETERMIN [**2167-10-15**] 06:15AM BLOOD HEPATITIS C - RIBA: HEPATITIS C - RIBA   Test                          Result              Reference Range/Units HCV AB, RIBA                  INDETERMINATE       NEGATIVE  5-1-1 (P)/C100 (P)            NONREACTIVE         NONREACTIVE  C33C                          NONREACTIVE         NONREACTIVE  C22P                          REACTIVE  A         NONREACTIVE  NS5                           NONREACTIVE         NONREACTIVE  HSOD                          NONREACTIVE         NONREACTIVE   BAND REACTIVITY PATTERN             INTERPRETATION NO REACTIVE BANDS PRESENT.
+BOX [**Numeric Identifier 19430**] CHANTILLY, [**Numeric Identifier 19431**] [**2167-10-18**] 07:15AM BLOOD ALPHA-1-ANTITRYPSIN- normal <br> <b>Ascitic Fluid:</b> ASCITES  ASCITES ANALYSIS WBC RBC Polys Lymphs Monos Mesothe Macroph [**2167-10-20**] 02:00PM    167* 106* 13* 53* 0 3* 31* [**2167-10-15**] 02:33PM    185* 120* 11* 27* 0   62* PERITONEAL FLUID  ASCITES CHEMISTRY TotPro Glucose Creat LD(LDH) Amylase TotBili Albumin [**2167-10-20**] 02:00PM                1.1 [**2167-10-15**] 02:33PM    2.5 142 0.5 43 74 0.7 1.2 <b>Micro Data:</b> Peritoneal Fluid ([**10-15**]) - negative Urine Cx ([**10-12**] x 2, [**10-11**]) - negative Blood Cx ([**10-11**] x 2) - negative <br> <b>Cytology:</b> Pathology Examination SPECIMEN SUBMITTED: AMPULLARY BIOPSY (1 JAR).
+<br> <b>Studies:</b> CTA ABD W&W/O C & RECONS  [**2167-10-26**] 3:28 PM CT OF THE ABDOMEN WITH AND WITHOUT INTRAVENOUS CONTRAST: Lung bases demonstrate mild atelectasis.
+The previously identified plastic biliary stent has been replaced with a metallic Wallstent with distal tip located within the duodenum.
+Subcentimeter hypodensities are seen within bilateral kidneys, too small to characterize.
+Status post replacement of previously noted plastic biliary stent with a metallic Wallstent.
+Metal biliary stent was placed across the lower CBD stricture.
+IMPRESSION: Successful ERCP with extraction of CBD stones and metal stent placement across the lower CBD stricture.
+CBD measures 2 mm.
+Pneumobilia is noted from prior stent placement.
+A borderline peripancreatic node is seen measuring 1.0 cm in short axis.
+A short interval followup CT possibly after stent removal is recommended to exclude a pancreatic mass.
+Extensive ascites throughout the abdomen and pelvis and small bilateral pleural effusions as well as anasarca could be related to CHF.
+<br> ERCP BILIARY&PANCREAS BY GI UNIT  [**2167-10-11**] 3:14 PM FINDINGS: Six fluoroscopic images obtained during the ERCP procedure were submitted to be evaluated by radiology.
+Brief Hospital Course: The patient is an 80 year old woman with likely biliary cancer, biliary obstruction s/p stenting presenting with cholangitis.
+Per the biliary team, patient required a repeat ERCP with placement of a metal stent.
+A metal stent was placed across the stricture.
+# Hypotension: Resolved with 2 L fluids over the initial 24-48 hrs.
+SBPs ranged from mid-90s to 100s (also influenced by being on Lasix and aldactone).
+Initial CT scan raised the suspicion of a pancreatic mass, however this was not seen in repeat CT scan after metal stent was placed.
+Viral hepatitis serologies were sent, and were positive for HAV antibody, prior HBV exposure, and HCV indeterminate (per RIBA as above).
+She was given Albumin 25g during the last two paracenteses.
+She was started on Lactulose with improvement in her symptoms.
+She was started on Lasix and Aldactone, with the doses titrated up as her blood pressure would allow.
+Was given acyclovir for 7 day course.
+She was not maintained on a beta blocker due to her low blood pressure.
+# Anxiety/Trigeminal Neuralgia: Continue on home carbamazepine.
+Medications on Admission: Carbamazepine 100 mg [**Hospital1 **] prilosec OTC 20 mg daily Lopressor 12.5 mg [**Hospital1 **] aldactone 25mg [**Hospital1 **] tylenol 650mg q4h:prn Milk of Magnesium 30mL daily:PRN Ducolax PR daily:prn compazine 5mg  q8:prn   Discharge Medications: 1.
+Carbamazepine 200 mg Tablet Sig: 0.5 Tablet PO BID (2 times a day): [**Month (only) 116**] substitute 100mg tablet.
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+Tiotropium Bromide 18 mcg Capsule, w/Inhalation Device Sig: One (1) Cap Inhalation DAILY (Daily).
+Lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO three times a day: Hold if having [**1-3**] bowel movements daily.
+Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Spironolactone 100 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Hexavitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).
+Aspirin 81 mg Tablet, Delayed Release (E.C.)
+Albuterol 90 mcg/Actuation Aerosol Sig: Two (2) puffs Inhalation four times a day as needed for shortness of breath or wheezing.
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+You underwent an ERCP 2 times (the second time a metal stent was placed in your bile ducts).
+To help with the symptoms, you underwent a paracentesis 3 times (the last being today, [**10-27**]).

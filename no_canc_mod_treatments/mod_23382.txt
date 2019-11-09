@@ -1,0 +1,68 @@
+Admission Date:  [**2147-8-7**]              Discharge Date:   [**2147-8-31**]  Date of Birth:  [**2077-7-9**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 2297**] Chief Complaint: Respiratory distress  Major Surgical or Invasive Procedure: Intubation [**2147-8-8**] Double lumen intubation [**2147-8-9**] Arterial line placement [**2147-8-8**] PICC line placement [**2147-8-8**] Right subclavian central line placement [**2147-8-9**] Skin biopsy [**2147-8-9**] Bronchoscopy [**2147-8-8**]  History of Present Illness: Mr. [**Known firstname 2398**] [**Known lastname **] is a 70M with HIV (CD4 350 in [**5-8**]), SCC s/p RLL lobectomy [**8-7**] complicated by bronchopleural fistula treated with [**Last Name (un) 72968**] window, as well as empyema and invasive aspergillosis on outpatient voriconazole referred from [**Hospital1 **] [**Hospital1 8**] for fever and hypoxemia.
+ABG on NRB 7.40/26/60.
+Given NS 1L, levo 750 IV, bactrim DS 2 tab, prednisone 60 mg. .
+No fever, chest pain, palpitations, hemoptysis, abdominal pain, nausea, diarrhea, abd pain or rash.
+Past Medical History: PMH:  -History of multivessel CAD s/p PCI of the proximal left circumflex with a bare metal stent [**2143**] w/ Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] ([**Hospital 12017**] [**Hospital 12018**] Hospital) -HIV-infection, diagnosed in [**2137**], well-controlled.
+Pt states that his VL has always been undetectable -Chronic LV dysfunction last EF 55% -Severe migratory polyarthritis, on prolonged high-dose steroid use for presumed "adrenal insufficiency" -moderate MR [**Name13 (STitle) 19667**] -herpes labialis -TMJ -B/L inguinal hernia repair -SCC s/p RLL lobectomy [**8-7**] complicated by bronchopleural fistula treated with [**Last Name (un) 72968**] window, as well as empyema and invasive aspergillosis   Social History: Currently residing in [**Hospital **] [**Hospital 8**] Rehabilitation.
+Physical Exam: Vitals: T 97.1 BP 94/48 HR 109 RR 19 O2 89%NRB General: Respirations nonlabored, speaks in full sentences HEENT: Sclera anicteric, dry MM, poor dentition, left > right pupil (stable) Neck: no JVD Lungs: LLL rhonchi and coarse rales; R-sided chest dressing c/d/i CV: reg rate tachy nl S1S2 no m/r/g Abdomen: soft NTND normoactive BS diffuse ecchymoses Ext: warm, dry +PP no edema   Pertinent Results: ADMISSION LABS: .
+[**2147-8-7**] 08:14PM   GLUCOSE-95 UREA N-8 CREAT-0.6 SODIUM-127* POTASSIUM-4.5 CHLORIDE-96 TOTAL CO2-22 ANION GAP-14 [**2147-8-7**] 08:14PM   CALCIUM-8.1* PHOSPHATE-2.5* MAGNESIUM-1.7 [**2147-8-7**] 04:23PM URINE  OSMOLAL-280 [**2147-8-7**] 12:19PM   TYPE-ART PO2-60* PCO2-26* PH-7.40 TOTAL CO2-17* BASE XS--6 [**2147-8-7**] 12:19PM   GLUCOSE-97 [**2147-8-7**] 11:15AM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.008 [**2147-8-7**] 11:15AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-150 BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-NEG [**2147-8-7**] 10:31AM   LACTATE-1.4 [**2147-8-7**] 10:30AM   GLUCOSE-112* UREA N-10 CREAT-0.7 SODIUM-125* POTASSIUM-4.5 CHLORIDE-90* TOTAL CO2-18* ANION GAP-22* [**2147-8-7**] 10:30AM   ALT(SGPT)-51* AST(SGOT)-46* ALK PHOS-88 TOT BILI-0.2 [**2147-8-7**] 10:30AM   cTropnT-0.01 [**2147-8-7**] 10:30AM   proBNP-1627* [**2147-8-7**] 10:30AM   TOT PROT-5.7* ALBUMIN-3.3* GLOBULIN-2.4 [**2147-8-7**] 10:30AM   OSMOLAL-252* [**2147-8-7**] 10:30AM   ASA-NEG ACETMNPHN-NEG [**2147-8-7**] 10:30AM   WBC-12.3* RBC-4.30* HGB-11.2* HCT-33.4* MCV-78* MCH-26.1* MCHC-33.6 RDW-15.8* [**2147-8-7**] 10:30AM   NEUTS-84.9* LYMPHS-13.0* MONOS-1.5* EOS-0.4 BASOS-0.2 [**2147-8-7**] 10:30AM   PLT COUNT-344 [**2147-8-7**] 10:30AM   PT-13.9* PTT-36.7* INR(PT)-1.2* .
+Status post right lower lobe resection with open window thoracoplasty changes and packing material in the right pleural space.
+Brief Hospital Course: 70M with HIV (undetectable VL), inflammatory arthritis on chronic steroid therapy, SCC s/p RLL lobectomy [**8-7**] complicated by bronchopleural fistula treated with [**Last Name (un) 72968**] window, as well as empyema and invasive aspergillosis on outpatient voriconazole admitted with hypoxemic respiratory failure and septic shock from pneumonia.
+He required intubation on [**2147-8-8**].
+Due to right sided air leak and dense disease on left lung it was difficult to ventilate the patient with a single endotracheal tube.
+He was switched to a double lumen endotracheal tube on [**2147-8-9**] that was much better tolerated.
+Due to the severity of his illness and his compromised immune status and risk for infection(HIV, chronic steroid use, malnutrition, and extended hospitalizations) he was treated broadly for HCAP with a 14 day course ending of [**2147-8-21**] as well as a 21 day course of therapeutic bactrim and steroids for PCP.
+He elected to undergo tracheostomy and PEG placement to improve comfort.
+After tracheostomy fever and increased sputum returned.
+Cultures again were negative and patient was started on another 7 day course of HCAP treatment (cefepime, cipro, vancomycin with last dose on [**2147-9-2**]).
+With initiation of antibiotics fevers resolved.
+At time of discharge patient was tolerating trach mask for the majority of the day and required ventilator during the night.
+Continue weaning patient on ventilator and encourage use of [**Date Range **] [**Date Range **] valve for communication.
+On arrival to the ICU he had persistently low blood pressures, tachycardia, and low urine output despite agressive volume resuscitation in the setting of active lung infection.
+After initial treatment of infection subsequent hypotension was thought to be multifactorial including medication induced vasodilation (versed, propofol), overdiuresis, relative adrenal insufficiency and diastolic heart failure.
+Of note, noninvasive blood pressure readings were found to be consistently 10 points below arterial line blood pressure readings.
+Tachycardia was believed to be multifactorial due to intravascular depletion, fever, infection, pain, hypoxia, pressors, and withdrawal of sedation.
+With resolution of infection and management of oral secretions his rate fell to 90-110s.
+He was ultimately started on metoprolol to improve cardiac output given his diastolic heart failure.
+At time of discharge patient is maintaining HRs of 90s with noninvasive systolic blood pressure readings of 90s-100s with Metoprolol 37.5 mg po TID.
+# Invasive aspergillosis: Patient was continued on outpatient regimen of voriconazole until [**2147-8-22**].
+Recommend follow up with Thoracic Surgery for future wound care and management.
+# HIV: Patient continued on home HAART regimen.
+Recommend continuing home HAART regimen and following up with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] after discharge from rehab.
+During admission he was continued on aspirin and statin.
+His metoprolol was restarted at a lower dose and titrated up after pressors were weaned off.
+# Glycemic Control:  FSBS QID with sliding scale insulin # Lines:  PICC placed [**2147-8-9**] # Prophylaxis: - Continue lovenox 40 mg sc daily for DVT prophylaxis.
+- Continue ranitidine 150 mg daily for stress ulcer prophylaxis while on ventilator.
+- Continue VAP prophylaxis with mouth care TID while using ventilator # Contact: Sister [**Name (NI) 55745**] # [**Name2 (NI) 7092**] status: DNR (confirmed with sister [**Name (NI) 55745**] his HCP) # Disposition: [**Hospital3 **] [**Hospital1 8**]  TO DO: [ ] Titrate up metoprolol dosing as blood pressure will allow.
+[**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 85241**] on discharge [ ] Ensure patient makes it to follow up appointment with Thoracic Surgery in clinic post discharge [ ] After completion of antibiotics (vancomycin, ciprofloxacin, cefepime) can discontinue PICC line.
+Medications on Admission: ASA 81 mg atorvastatin 10 mg calcium carbonate 500 mg [**Hospital1 **] cholestyramine/sucrose 4 mg [**Hospital1 **] truvada 1 tab daily celexa 40 mg daily gabapentin 300 mg TID medrol taper started [**7-26**] (12 mg [**Date range (1) 46278**], 8 mg [**Date range (1) 85242**]) metoprolol 12.5 mg [**Hospital1 **] miracle cream [**Hospital1 **] MVI protonix 40 mg daily KCl 20 mEq daily raltegravir 400 mg [**Hospital1 **] saccharomyces 250 mg [**Hospital1 **] sucralfate 1 g QID sulfasalazine 1000 mg [**Hospital1 **] tiotropium 18 mcg daily voriconazole 400 mg [**Hospital1 **] metformin 1000 mg [**Hospital1 **] oxycontin 20 mg [**Hospital1 **] tylenol prn bisacodyl prn dilaudid 2 mg q4h/prn loperamide prn polyethylene glycol prn compazine prn trazodone prn   Discharge Medications: 1.
+Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical TID (3 times a day) as needed for yeast.
+Enoxaparin 40 mg/0.4 mL Syringe Sig: One (1) inj Subcutaneous DAILY (Daily).
+Ipratropium Bromide 0.02 % Solution Sig: One (1) neb Inhalation Q6H (every 6 hours) as needed for sob/wheeze.
+Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1) neb Inhalation Q6H (every 6 hours) as needed for sob/wheeze.
+Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+Prednisone 2.5 mg Tablet Sig: Three (3) Tablet PO DAILY (Daily).
+Sulfamethoxazole-Trimethoprim 800-160 mg Tablet Sig: One (1) Tablet PO 3X/WEEK (MO,WE,FR).
+Metoprolol Tartrate 25 mg Tablet Sig: 1.5 Tablets PO TID (3 times a day).
+Sulfasalazine 500 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day).
+Ferrous Sulfate 300 mg (60 mg Iron)/5 mL Liquid Sig: Five (5) mL PO DAILY (Daily).
+Gabapentin 300 mg Capsule Sig: One (1) Capsule PO Q8H (every 8 hours).
+Escitalopram 10 mg Tablet Sig: Four (4) Tablet PO DAILY (Daily).
+Tenofovir Disoproxil Fumarate 300 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Emtricitabine 200 mg Capsule Sig: One (1) Capsule PO Q24H (every 24 hours).
+Raltegravir 400 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Acetaminophen 650 mg/20.3 mL Solution Sig: 1-2 doses PO Q6H (every 6 hours) as needed for fever.
+Vancomycin 1000 mg IV Q 12H 21.
+CefePIME 2 g IV Q12H 22.
+Ciprofloxacin 750 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 hours).
+Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: 2-4 Puffs Inhalation Q6H (every 6 hours) as needed for SOB/Wheeze.
+Sliding scale humalog insulin at meals and bedtime   Discharge Disposition: Extended Care  Facility: [**Hospital6 85**] - [**Location (un) 86**]  Discharge Diagnosis: HCAP Diastolic CHF HIV Malnutrition Invasive aspergillus   Discharge Condition: Hemodynamically stable: Stable on trach mask throughout most of the day and requires ventilator overnight.
+Patient afebrile and off pressors for several days prior to discharge.
+Tolerating tube feeds.
+You were admitted to the ICU and ultimately required intubation for your lung infection.
+Unfortunately you continued to have great deal of secretions that caused you to become short of breath and you were too weak to protect your lungs.
+You had a tracheostomy placed to help protect your airway from secretions and to help aid suctioning.
+You received nutrition during the majority of your admission via a feeding tube through your nose.
+Because you continued to be too weak to safely swallow regular food you underwent placement of a percutaneous feeding tube.
+You tolerated the procedure well and were fed through this external feeding tube.

@@ -1,0 +1,36 @@
+Admission Date:  [**2155-4-12**]              Discharge Date:   [**2155-4-19**]  Date of Birth:  [**2098-2-15**]             Sex:   F  Service: MEDICINE  Allergies: Cefepime  Attending:[**Last Name (NamePattern1) 495**] Chief Complaint: hypotension, neutropenic fever  Major Surgical or Invasive Procedure: None   History of Present Illness: Ms. [**Known lastname 107792**] is a 57-year-old woman with relapsed AML following a matched unrelated donor bone marrow transplant in [**7-/2154**] for therapy related AML, now s/p DLI on [**2154-11-23**].
+She has had to receive platelets on occasion and may need somered cells but otherwise does not really have any significant dyspnea on exertion, shortness of breath, and certainly no bleeding.
+She received 3LNS, blood cx drawn from line and peripheral, Vanc X 1, Zosyn X 1.
+T100.9; dynomap BP 85/64 (but on manual repeat 96/70); HR 125; RR 22; 98%RA.
+During her [**Hospital Unit Name 153**] stay, pt received additional 4L fluid with no significant increase in her SBP; pt, however, remained asymptomatic.
+Past Medical History: AML s/p unrelated donor BMT on [**2154-11-23**] Possible graft vs host skin reaction S/p breast CA in [**2151**] Positive PPD in the past, mother worked in TB sanitarium and s/p INH treatment in the 70's.
+2+ DP pulses BL SKIN: skin hypopigmentation over face (old per patient) NEURO: A&Ox3.
+#  Febrile neutropenia:  The patient was initially treated broadly with vancomycin and Zosyn (cefepime allergy) given her hypotensive presentation.
+Blood and urine cultures drawn before antibiotic administration were negative after 5 days.
+She completed a 7 day course of IV vancomycin and Zosyn.
+She was then switched to IV vancomycin and PO cipro and observed for 24 hours.
+She will be discharged on IV vancomycin, to be administered at home, and PO cipro to be continued while her ANC is low.
+#  Hypotension: The patient responded well to fluid boluses and upon presentation to the floor, was normotensive.
+She was initially treated with stress dose steroids given the concern for possible adrenal insufficiency, however these were rapidly weened back to her normal home dose with no adverse effects on her blood pressure .
+#  AML: The patient was post decitabine treatment day + 7 on admission.
+He WBC continued to rise with an increasing blast percentage to approximately 80%.
+She required intermittent platelet and PRBC infusions.
+Further treatment options will be discussed then.
+# Depression: Continued on Sertraline with good effect.
+# CODE: FULL  Medications on Admission: Acyclovir - 400 mg Q8H Fluconazole - 100 mg daily Folic Acid - 1 mg daily Hydroxyurea [Hydrea] 1 gram daily Lorazepam PRN Methylprednisolone 4mg daily Sertraline - 75 mg daily Bactrim DS - 800 mg-160 mg  Tu/Th/Sat .
+Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Acyclovir 200 mg Capsule Sig: Two (2) Capsule PO Q8H (every 8 hours).
+Sertraline 50 mg Tablet Sig: 1.5 Tablets PO DAILY (Daily).
+Fluconazole 100 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours).
+Trimethoprim-Sulfamethoxazole 160-800 mg Tablet Sig: One (1) Tablet PO BID, 3X/WEEK ().
+Methylprednisolone 2 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO every six (6) hours as needed.
+Ciprofloxacin 750 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 hours) for 10 days.
+Vancomycin in Dextrose 1 gram/200 mL Piggyback Sig: One (1) gram Intravenous Q 12H (Every 12 Hours) for 10 days.
+Hydroxyurea 500 mg Capsule Sig: Two (2) Capsule PO Q24H (every 24 hours).
+Magnesium Oxide 400 mg Tablet Sig: One (1) Tablet PO three times a day as needed.
+Sodium Chloride 0.9 % 0.9 % Solution Sig: Three (3) ML Injection once a day as needed: For hickman line care.
+You will need to continue to take IV vancomycin and oral ciprofloxacin when you return home.
+You will follow up with Dr. [**Last Name (STitle) 410**] to decide about possible further treatment.
+Please ask him about the duration of your antibiotics at that appointment.
+Please take all your medications as prescribed.

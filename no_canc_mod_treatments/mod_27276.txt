@@ -1,0 +1,41 @@
+Admission Date:  [**2147-3-16**]              Discharge Date:   [**2147-3-29**]  Date of Birth:  [**2081-10-16**]             Sex:   M  Service: MEDICINE  Allergies: Shellfish  Attending:[**First Name3 (LF) 134**] Chief Complaint: Transferred to [**Hospital1 18**] for cardiac catheterization for NSTEMI  Major Surgical or Invasive Procedure: Cardiac catheterization Intubation Thoracentesis Transfusion of packed RBC Central line placement Upper endoscopy  History of Present Illness: Patient is a 66 yo man with PMH of tobacco use, ?hyperlipidemia, does not see doctor regularly, initially presented to [**Hospital1 **] with respiratory symptoms today AM, treated for COPD, then found to have new LBBB and + troponin and was transferred to [**Hospital1 18**] for cardiac catheterization.
+He was treated for COPD exacerbation with combivent neb x 1, solumedrol 125mg IV x 1, albuterol neb x 1.
+In cath lab, pt was found to have 50% mid and proximal LAD disease, subtotal occlusion of L Cx from origin to mid vessel w/ severe disease extending into LPDA and OM2, slow flow in LPDA, 80% ostial/proximal OM1 lesion, 80% proximal RCA lesion (RCA noted to be small, non-dominant).
+Cardiac cath course was c/b persistent hypotension and pt was started on dopamine gtt and dobutamine gtt, and had IABP placed for presumed cardiogenic [**Hospital1 **].
+Intra-cath ECHO prelim demonstrates good LV fxn (EF>55%), no WMA (although could not exclude inferlateral hypokinesis).
+Physical Exam: Vitals - T 96.3, HR 134->82, BP 101/49, AC/FiO20.8/TV600/RR28/PEEP5, O2 sat 100%, ABG=7.34/39/135/22 (on 100% FiO2, prior to wean) General - intubated, sedated HEENT - small pupils, equal, reactive to light b/l, dried blood in nares, ENT packing in place Neck - JVD @ 7cm CVS - RRR, balloon pump ascultated, could not assess for M/R/G Lungs - coarse w/ scattered rhonci on right, clear anteriorly on left Abd - soft, no noted HSM, + BS Groin -  Some oozing noted around sheath/PA catheter site in R groin, no noted hematoma on R or L Ext - No LE edema b/l, [**1-2**]+ DP pulses b/l   Pertinent Results: Labs on admit:  [**2147-3-16**] 08:58PM   TYPE-ART TEMP-36.5 PO2-109* PCO2-34 PH-7.35* TOTAL CO2-20* BASE XS--5 [**2147-3-16**] 08:58PM   LACTATE-5.5* [**2147-3-16**] 08:30PM   GLUCOSE-411* UREA N-16 CREAT-1.1 SODIUM-133 POTASSIUM-4.3 CHLORIDE-102 TOTAL CO2-18* ANION GAP-17 [**2147-3-16**] 08:30PM   CK(CPK)-624* [**2147-3-16**] 08:30PM   CK-MB-38* MB INDX-6.1* [**2147-3-16**] 08:30PM   CALCIUM-8.0* PHOSPHATE-2.7 MAGNESIUM-1.6 [**2147-3-16**] 08:30PM   WBC-13.6* RBC-4.55* HGB-13.8* HCT-40.1 MCV-88 MCH-30.3 MCHC-34.4 RDW-13.8 [**2147-3-16**] 08:30PM   NEUTS-92.5* BANDS-0 LYMPHS-6.5* MONOS-1.0* EOS-0.1 BASOS-0  Brief Hospital Course: Assessment/Plan:  Patient is a 65 yo man with PMH hypercholesteromia, presented to [**Hospital1 **] with c/o URI and SOB, found to have [**Hospital 39700**] transferred to [**Hospital1 18**], en route developed respiratory distress requiring intubation, now in [**Hospital1 **].
+HTN and tachycardia treated with nitro gtt and lopressor PRN.
+Pt placed on bi-pap temporarily.
+Completed 10d course of Vanc/Zosyn for nosocomial pna.
+He was continued on a long steroid taper for his presumed COPD flare with atrovent MDI's prn.
+He was started on standing lasix for diastolic heart failure and diuresed well.
+However, was able to be weaned off balloon pump and pressors.
+He was continued on aspirin, plavix, toprol, lipitor, and lisinopril as an outpatient.
+Lisinopril and lopressor doses can be increased and titrated as necessary as an outpatient.
+However, intra-cath ECHO demonstrates good LV systolic fxn (EF>55%).
+He was started on standing lasix and lisinopril for his presumed diastolic dysfunction with good volume management.
+He became tachycardic with ventilator weaning and developed sinus tachycardia.
+This improved with standing metoprolol (he was also on diltiazem briefly).
+He will continue on lopressor as an outpatient.
+Since admission, pt initially treated with agressive IVF hydration, broad spectrum abx (vanc, zosyn) with improvement in lung fxn.
+Septic physiology improved, but he continued to have low grade fevers.
+Completed 10 day course of vanc and zosyn for nosocomial pna.
+# DM2:  Patient hyperglycemic on initial presentation, borderline elevated AG, acidemia (although likely [**2-2**] hypotension, not DKA).
+Initially managed on insulin drip, weaned off.
+He was started on metformin 500mg [**Hospital1 **], glucose under fair control.
+Resolved w/ treatment of sepsis above w/ IVF hydration.
+[**Name10 (NameIs) **] will need titration of his medications as an outpatient and close monitoring given new medication regimen.
+Medications on Admission: Medications as outpatient: [**Doctor Last Name 1819**] QD .
+Medications upon transfer: Solumedrol 125mg x 1 Albuterol/combivent nebs ASA 325mg x 1 Lipitor 80mg x 1 Plavix 300mg x 1 Integrillin bolus, then gtt Heparin bolus, then gtt Lopressor 5mg IV x 3 Pepcid 20mg IV x 1   Discharge Medications: 1.
+Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Prednisone 10 mg Tablet Sig: As directed Tablet PO once a day for 14 days: Take 4 tablets each day for 2 days, then 2 tablets each day for 4 days, then 1 tablet each day for 4 days, then 0.5 tablets each day for 4 days.
+Bacitracin Zinc 500 unit/g Ointment Sig: One (1) Appl Topical  QHS (once a day (at bedtime)).
+Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs Inhalation every 4-6 hours as needed for bronchospasm.
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+Metformin 500 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Metoprolol Succinate 25 mg Tablet Sustained Release 24HR Sig: Three (3) Tablet Sustained Release 24HR PO DAILY (Daily).
+Disp:*90 Tablet Sustained Release 24HR(s)* Refills:*2*   Discharge Disposition: Home With Service  Facility: Bayada Nurses Inc  Discharge Diagnosis: non-ST elevation MI Nosocomial pneumonia Septic [**Doctor Last Name **] Acute pulmonary edema COPD exacerbation Type 2 diabetes mellitus   Discharge Condition: good, completed antibiotics for pneumonia, weaned to room air, on steroid taper   Discharge Instructions: Please take your medications as prescribed.

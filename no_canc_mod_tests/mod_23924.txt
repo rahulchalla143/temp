@@ -1,0 +1,21 @@
+Admission Date:  [**2181-10-30**]              Discharge Date:   [**2181-11-9**]  Date of Birth:  [**2129-12-24**]             Sex:   M  Service: CARDIOTHORACIC  Allergies: Vancomycin  Attending:[**First Name3 (LF) 1406**] Chief Complaint: Chest pain  Major Surgical or Invasive Procedure: Cardiac Catherization s/p CABGx5(LIMA->LAD, SVG->Diag1, Diag2, OM, PDA) [**2181-11-5**]   History of Present Illness: 51 year male that presented on [**10-30**] with chest pain, SOB that had been occuring for over a month.
+He was gasping, saturating 78% on RA, [**Doctor Last Name 352**] in color with a respiratory rate in the 40s.
+Then weaned to non-rebreather and then back to 6L NC, with sats 93-95%.
+EKG showed new left bundle on admission, with trop of 0.15.
+An echo was done on [**2181-10-29**] showing new low EF of 25% with akinesis of apex, posterior and inferior walls, severe hypokinesis of septum and anterior walls.
+Given CP, elevated trop, he was put on a heparin gtt and was referred to [**Hospital1 18**] for cardiac evaluation.
+PULSES: Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+; cath site with no hematoma, mild tenderness.
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+   Pertinent Results: [**2181-11-9**] 05:45AM BLOOD WBC-7.4 RBC-2.32* Hgb-7.4* Hct-22.0* MCV-95 MCH-32.0 MCHC-33.8 RDW-13.7 Plt Ct-310 [**2181-11-7**] 02:29AM BLOOD PT-12.9 PTT-35.8* INR(PT)-1.1 [**2181-11-8**] 06:30AM BLOOD Glucose-98 UreaN-12 Creat-0.8 Na-142 K-4.4 Cl-107 HCO3-28 AnGap-11  Final Report AP CHEST 10:23 A.M. [**11-7**]:  HISTORY: CABG.
+IMPRESSION: AP chest compared to [**11-5**]:  Moderate right pleural effusion is larger.
+DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 3891**] Approved: WED [**2181-11-7**] 12:34 PM  [**Hospital1 18**] ECHOCARDIOGRAPHY REPORT  [**Known lastname 84520**], [**Known firstname 198**]       [**Hospital1 18**] [**Numeric Identifier 84521**] (Complete) Done [**2181-11-5**] at 1:31:53 PM      FINAL Referring Physician     [**Name9 (PRE) **] Information [**Name9 (PRE) **], [**First Name3 (LF) 177**] C. [**Hospital Unit Name 927**] [**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2129-12-24**] Age (years): 51 M  Hgt (in): BP (mm Hg): /  Wgt (lb): HR (bpm):  BSA (m2): Indication: Abnormal ECG.
+ICD-9 Codes: 402.90, 786.51, 440.0 Test Information Date/Time: [**2181-11-5**] at 13:31    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 5209**], MD Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 5209**], MD Doppler: Full Doppler and color Doppler Test Location: Anesthesia West OR cardiac Contrast: None Tech Quality: Adequate Tape #: 2009AW33-: Machine: Echocardiographic Measurements Results  Measurements  Normal Range Left Ventricle - Ejection Fraction:  30% to 35%  >= 55%  Findings LEFT ATRIUM: Marked LA enlargement.
+GENERAL COMMENTS: A TEE was performed in the location listed above.
+Conclusions PRE-CPB:1.
+Left ventricular wall thicknesses are normal.
+Overall left ventricular systolic function is moderately depressed (LVEF= 35 %).
+Transmitral Doppler and tissue velocity imaging are consistent with Grade I (mild) LV diastolic dysfunction.
+Electronically signed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 5209**], MD, Interpreting physician [**Last Name (NamePattern4) **] [**2181-11-5**] 16:33      Brief Hospital Course: Transferred from outside hospital for cardiac evaluation, underwent cardiac catherization that revealed coronary artery disease.
+He underwent preoperative workup for cardiac surgery.
+He was transferred to the intensive care unit for hemodynamic management.
+On postoperative day one he was weaned from pressors and remained in the intensive care unit for hemodynamic management.
+Discharge Instructions: Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more than 3 lbs.

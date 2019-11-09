@@ -1,0 +1,63 @@
+Admission Date:  [**2152-5-3**]              Discharge Date:   [**2152-5-25**]  Date of Birth:  [**2086-8-10**]             Sex:   F  Service: MEDICINE  Allergies: Penicillins / Levofloxacin / Iodine-Iodine Containing / Coreg / Rosuvastatin / metronidazole / alendronate sodium / simvastatin / Ezetimibe / risedronate sodium / Vitamin D  Attending:[**Last Name (NamePattern1) 1572**] Chief Complaint: Anticoagulation with heparin for colonoscopy   Major Surgical or Invasive Procedure: Elective colonoscopy on [**2152-5-5**] (with MAC) Colonoscopy on [**2152-5-9**] Colonoscopy on [**2152-5-12**]   History of Present Illness: 65 yo F pt with hx of rheumatic heart disease s/p mitral valve replacement ([**Doctor Last Name 1395**]-[**Doctor Last Name **] metallic prosthesis) [**2104**], complicated by diastolic dysfunction, mild stenosis,paravalvular leak prone to occasional heart failure and mild hypotension admitted for an elective colonoscopy with need for MAC anestheisa and heparin bridging.
+Pt's last dose of coumadin was Sunday.
+She will also need SBE prophylaxis as per her primary cardiologst (although guidelines don't say it is necessary, he recognizes this and would like to err on the side of caution).
+Rheumatic heart disease status post mitral valve replacement with a [**Doctor Last Name 1395**]-[**Doctor Last Name **] metallic prosthesis in [**2104**].
+Borderline diabetes, not on medications.
+Anemia, on iron supplements.
+Migraine headaches 12.
+Mitral valve replacement [**2104**] 2.
+Tubal ligation in [**2110**]   Social History: The patient lives with her husband.
+Cholecystectomy scar.
+Ball and cage mitral prosthesis with normal gradient and at least mild mitral regurgitation.
+Colonoscopy [**2152-5-5**]: Impression: Polyp in the proximal ascending colon (polypectomy) Otherwise normal colonoscopy to cecum.
+Colonoscopy [**2152-5-9**]: Impression: There was blood throughout the colon making visualization difficult.
+Biopsy forceps were used to try to remove the clot but this was not successful.
+Colonoscopy [**2152-5-12**]: Impression:Blood in the colon The polypectomy site was identified by presence of clips.
+Three clips were applied with successful hemostasis.
+5 cc of epinephrine was injected into the mucosa for hemostasis.
+Polyp described as serrated adenoma requiring repeat colonoscopy in 5 years given increased risk of finding of serrated polyp.
+Discharge Labs:   Brief Hospital Course: 65 yo F pt with hx of rheumatic heart disease at age 7, s/p mitral valve replacement ([**Doctor Last Name 1395**]-[**Doctor Last Name **] mechanical prosthesis) [**2104**], complicated by mitral insufficiency, ?
+ball variance/and or paravalvular leak, pulmonary hypertension and RV failure,tricuspid insufficiency and normal LV function, admitted for an elective colonoscopy with need for MAC anesthesia and heparin bridging.
+# Positive Colovantage test: Patient has not undergone routine screening colonoscopy however she underwent the Colovantage testing which came back as positive on [**2152-4-12**], indicating that she has increased likelihood of colorectal cancer.
+She was admitted for IV heparin bridge due to her mechanical valve (pt must be anticoagulated; at high risk for thrombus) starting [**12-23**] days after discontinuing her coumadin (stopped on [**4-30**]).
+Colonoscopy performed on [**5-5**] under MAC anesthesia with removal of a single sessile polyp in the ascending colon.
+Post procedure her stay was complicated by bleeding, see below.
+Her coumadin was held, heparin initially continued.
+Heparin was stopped and she was reprepped for a colonscopy (#2).
+On [**5-9**], a large clot was visualized at the polypectomy site which could not be evacuated, so additional  clips were placed along with epinephrine.
+Heparin was restarted after procedure.
+Patient received one more unit RBCs and heparin was dc'd for 6 hrs.
+# Mechanical Mitral Valve: Patient is s/p mitral valve replacement ([**Doctor Last Name 1395**] [**Doctor Last Name **] valve) for mitral stenosis/atrial fibrillation in [**2104**].
+Patient was admitted for heparin bridge for her procedure.
+She was given SBE prophylaxis (clindamycin 600mg IV) with her procedures.
+Her home coumadin was initially restarted on [**5-5**], but it was dc'd on [**5-7**] due to bloody bowel movements.
+For her bleeding episodes as stated above her heparin was stopped at given intervals.
+Her coumadin was restarted on [**2152-5-15**].
+She had increasing warfarin requirement from her usual dose of 5.5 mg with slow rise in INR until therapeutic plateau (2.3) was reached with 8 mg of warfarin Q PM likely related to increase in PO nutrients supplemented with Boost.
+She was bridged with heparin until [**2152-5-25**].
+Patient presents volume overloaded with systolic ejection murmur; repeat ECHO essentially unchanged from [**6-/2151**], worsening pulm htn.
+Her home medications, including nebivolol, valsartan, and diltiazem were discontinued in setting of bleed so that symptoms of blood loss would not be masked.
+Valsartan can be associated with leukopenia; further investigation revealed that pt had a cough with ace-inhibitor.
+#Atrial fibrillation: Patient is rate controlled with diltiazem, nebivolol; anticoagulated with heparin (was on coumadin) while in house.
+During colonoscopy, pt had episode of AFib with RVR, and required a dose of esmolol.
+In the ICU, home regimen of diltiazem was restarted.
+On a dose of Dilt ER without beta blocker her ambulatory HR was 120-130.
+Patient was successfully bridged back to coumadin with discharge INR of 2.3. .
+She was counseled to continue monitoring her temperature at home and call her primary care doctor with any new symptoms.
+No antibiotics were started.
+#Difficult to crossmatch blood: Patient required several transfusions and was difficult to crossmatch.
+Further investigation by the blood bank revealed a new clinically significant alloantibody, anti-E.
+She should also have heart failure medications re-evaluated and restarted.
+Unclear why she is on nebivolol rather than carvedilol.
+Medications on Admission: Home Medications (reconciled with Dr. [**Last Name (STitle) **]: Valsartan 160 mg once daily Diltiazem 120mg once daily Furosemide 20mg once daily Coumadin 5.5mg daily Nebivolol 10mg 1 tablet once daily Iron 325 mg 1 tablet twice a day Calcium citrate 600mg +400 iu 1 tablet twice a day   Discharge Medications: 1. furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. diltiazem HCl 180 mg Capsule, Extended Release Sig: One (1) Capsule, Extended Release PO DAILY (Daily).
+5. warfarin 8 mg PO once a day: Dose to be adjusted per Dr. [**Last Name (STitle) **].
+6. multivitamin     Tablet Sig: One (1) Tablet PO once a day.
+Discharge Disposition: Home  Discharge Diagnosis: Primary Diagnosis: Elective colonoscopy  Secondary Diagnosis: s/p mitral valve replacement [**Doctor Last Name 1395**] [**Doctor Last Name **] mechanical prosthesis diastolic CHF RV failure secondary to Pulmonary Hypertension Mitral insufficiency Atrial fibrillation,chronic Transfusion reaction alloantibody Anti E.   Discharge Condition: Mental Status: Clear and coherent.
+You required heparin while you were not taking Coumadin because of your mechanical mitral valve.
+During your colonoscopy on [**2152-5-5**] a polyp was removed and you started to bleed from your colon.
+After the bleeding stopped, you were able to start your Coumadin again [**2152-5-15**] to get you back close to your goal INR 2.5-3.5.
+You were very patient and we were able to get you close to you goal INR 2.3 with your Coumadin before leaving the hospital.
+You nebivolol and valsartan were stopped.
+Please: - STOP Bystolic (nebivolol) - increase diltiazem to 180mg daily - increase warfarin (Coumadin) to 8mg daily (4 x 2mg tablets) - STOP valsartan for now.
+Dr. [**Last Name (STitle) **] may want to restart this medication in the future.

@@ -1,0 +1,26 @@
+Admission Date:  [**2184-6-19**]              Discharge Date:   [**2184-6-27**]  Date of Birth:  [**2112-7-28**]             Sex:   F  Service: MEDICINE  Allergies: Aspartame  Attending:[**First Name3 (LF) 1711**] Chief Complaint: Chest pain  Major Surgical or Invasive Procedure: cardiac catheterization with bare metal stent placement [**2184-6-19**] intra-aortic balloon placement [**2184-6-19**] EP ablation of atrial flutter [**2184-6-24**] - noted to have both typical and atypical / bidirectional flutter - typical atrial flutter ablated   History of Present Illness: This is a 71 yo F h/o mitral valve repair with annuloplasty band in [**2180**],pre-op c.cath in [**2180**] showing 30% mid-LAD stenosis, hypertension and hyperlipidemia who presented to [**Hospital1 18**] ED with chest pain.
+In the ED, her vitals were T97.3 HR 100 BP 159/113 RR 21 Sat 95% RA.
+She was noted to have an ECG with ST elevations in V2-V6 and recipricol depressions in II, III, aVF.
+STEMI protocol was initiated and patient received ASA 325mg, Clopidogrel 600 mg x1, Heparin bolus and integrillin bolus and then taken to the cardiac cath lab.
+Her cardiac cath demonstrated total occlusion of the LAD just after the first diagonal.
+During the procedure diminised motion was noted in the anterior wall, as well as wedge pressures in the 30's.
+An IABP was thus placed to be left in overnight.
+In addition, patient's systolic blood pressures elevated to 190's so nitro gtt started resulting in pressure coming down to 140's.
+PULSES: 2+ DP/PT  Pertinent Results: ADMISSION LABS: [**2184-6-19**] CBC: WBC-16.8*# RBC-5.09# Hgb-16.1*# Hct-46.7# MCV-92 MCH-31.6 MCHC-34.4 RDW-13.4 Plt Ct-308 [**2184-6-19**] Coags: PT-13.2 PTT-21.3* INR(PT)-1.1 [**2184-6-19**] Chem 7: Glucose-147* UreaN-16 Creat-1.1 Na-137 K-3.7 Cl-101 HCO3-18* AnGap-22* [**2184-6-19**] 09:55PM BLOOD CK-MB-37* MB Indx-9.9* cTropnT-0.67*  [**2184-6-20**] 01:00AM BLOOD CK-MB-311* MB Indx-12.8* cTropnT-4.89* [**2184-6-20**] 08:40AM BLOOD CK-MB-311* MB Indx-11.3* cTropnT-4.84* [**2184-6-20**] 11:00PM BLOOD CK-MB-69* MB Indx-6.2* cTropnT-2.51* [**2184-6-21**] 08:40AM BLOOD CK-MB-29* MB Indx-4.4 cTropnT-2.53* [**2184-6-20**] LFT: ALT-43* AST-184* LD(LDH)-577* CK(CPK)-2422* AlkPhos-82 TotBili-0.9 [**2184-6-20**] 08:40AM BLOOD %HbA1c-5.8 [**2184-6-20**] 08:40AM BLOOD Triglyc-213* HDL-37 CHOL/HD-6.4 LDLcalc-155* LDLmeas-165*  [**2184-6-19**] CK(CPK)-373* [**2184-6-20**] BLOOD CK(CPK)-2752* [**2184-6-21**] BLOOD CK(CPK)-664*  ===========  IMAGING:  ECG [**2184-6-19**]: Sinus tachycardia.
+CARDIAC CATH [**2184-6-19**]: CARDIAC CATH: LMCA: no apparent CAD LAD: total occlusion proximal/mid just after diagonal 1 LCx: Mild luminal irregularities RCA: Mild luminal irregularities  CXR [**2184-6-20**]: Intra-aortic balloon pump is present with radiodense tip terminating approximately 3.8 cm below the superior aspect of the aortic knob.Heart is mild-to-moderately enlarged, and pulmonary vascularity is engorged.
+TTE [**2184-6-21**]: The left atrium is mildly dilated.
+Indistinctness of the pulmonary vasculature indicates interstitial thickening, which is most notable in the upper lungs bilaterally.
+Given that patient had a cardiac index of 1.7 and anterior wall motion abnormality was observed during the cath an IABP was placed and kept in for 36 hrs.
+An ECHO on [**6-21**] showed regional left ventricular systolic dysfunction consistent with CAD of mid-LAD distribution (severe hypokinesis of distal [**2-3**] ant septum and mild hypokinesis of ant wall/apex).
+LVEF - 35-40%.
+ECHO showed EF of 35-40%.
+Shortly after this she again went into RVR in the 120-140's and this time diltiazem was given which lowered her blood pressure and improved her heart rate, after which she did again revert to sinus rhythm.
+On [**6-23**], EP was consulted for continued, and she underwent EP study on [**6-24**] that showed her to have bidirectional flutter (typical and atypical), and the typical flutter tract was ablated without complication.
+# LOW GRADE FEVER: On [**2184-6-22**], the patient was pan-cultured for a low-grade fever of 100.7 F. Blood cultures are still pending on discharge but her UA and urine cultures were negative and CXR was unremarkable.
+Discharge Disposition: Home  Discharge Diagnosis: Primary: - Anterior STEMI - Paroxysmal atrial fibrillation/atrial flutter .
+Vital signs stable and patient ambulating.
+You underwent cardiac catheterization which demonstrated a blockage of one of your heart arteries.
+You were also found to have atrial fibrillation and atrial flutter, and you underwent and EP study to ablate the atrial flutter.
+You should call your doctor or return to the Emergency Room for evaluation if you develop any recurrent chest pain, shortness of breath, palpitations, dizziness, feeling faint, or any other concerning symptoms.
+You will also need to follow-up in [**Hospital 197**] Clinic for you blood INR checks.
+You should have your INR checked on Tuesday, [**6-29**], and have the result sent to Dr.[**Name (NI) 5907**] office.

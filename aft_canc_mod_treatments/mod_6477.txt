@@ -1,0 +1,58 @@
+Admission Date:  [**2153-9-30**]              Discharge Date:   [**2153-11-6**]  Date of Birth:  [**2100-8-11**]             Sex:   M  Service: NEUROSURGERY  Allergies: Demerol / Cefaclor  Attending:[**First Name3 (LF) 78**] Chief Complaint: Headache  Major Surgical or Invasive Procedure: [**9-30**] Right MCA aneurysm coling Bilateral extraventricular drain placement Left ventricular peritoneal shunt [**10-31**]   History of Present Illness: 53 y/o male presented to outside facility this am via ems at 9:48am c/o [**9-14**] headache, Left sided weakness, and few seconds of LOC after intercourse.
+was intubated for airway protection and transported to [**Hospital1 18**] ED.
+[**9-30**]: Endovascular Procedure    FINDINGS: Right internal carotid artery arteriogram demonstrates normal filling of the right internal carotid artery along the cervical, petrous, cavernous and supraclinoid portion.
+CLINICAL INDICATION: 53-year-old man, status post VP shunt, rule out hydrocephalus.
+[**Known lastname **],[**Known firstname **] [**Medical Record Number 79931**] M  53  [**2100-8-11**]  Radiology Report CHEST (PORTABLE AP) Study Date of [**2153-10-30**] 1:19 PM   [**Last Name (LF) **],[**First Name3 (LF) **] J. NSURG SICU-A [**2153-10-30**] SCHED CHEST (PORTABLE AP)   Clip # [**Clip Number (Radiology) 79933**] Reason: s/p PICC line placement    [**Hospital 93**] MEDICAL CONDITION:    53M WHOL, L weakness, LOC s/p coitus.
++diffuse SAH, intubated for airway    protection, now s/p coiling of aneurysm, L MCA coiling & stent and    ventriculostomy placement [**10-1**], s/p angio & IA verapamil [**10-5**].
+REASON FOR THIS EXAMINATION:    s/p PICC line placement    Provisional Findings Impression: SP TUE [**2153-10-30**] 3:06 PM PICC line terminating in mid SVC.
+Final Report TYPE OF EXAMINATION: Chest AP portable single view  INDICATION: Status post PICC line.
+History of diffuse SAH, intubated for airway protection.
+A previously present NG tube and right internal jugular approach central venous line have been removed.
+There is now evidence of a right-sided PICC line seen to terminate overlying the SVC at the level of the carina.
+No acute parenchymal infiltrates are seen, and thus chest findings are unaltered in comparison with a previous study.
+CT OF THE ABDOMEN WITH INTRAVENOUS CONTRAST: The lung bases show mild dependent atelectasis.
+A subcentimeter hypodensity in the right lobe of the liver (2:11) is too small to characterize.
+NG tube terminates in the stomach.
+Degenerative changes are seen involving the lower lumbar spine most notably involving L5-S1 with disc space narrowing, marginal osteophyte, and endplate sclerosis.
+[**Hospital1 18**] - Division of Neurosurger [**Hospital Unit Name 18400**] [**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2100-8-11**] Age (years): 53 M  Hgt (in): 70 BP (mm Hg): 167/88  Wgt (lb): 170 HR (bpm): 94  BSA (m2): 1.95 m2 Indication: Endocarditis.
+ICD-9 Codes: 424.0 Test Information Date/Time: [**2153-10-23**] at 16:07    Interpret MD: [**First Name8 (NamePattern2) **] [**Name8 (MD) **], MD Test Type: Portable TTE (Complete) Son[**Name (NI) 930**]: [**First Name8 (NamePattern2) 4134**] [**Last Name (NamePattern1) 4135**], RDCS Doppler: Full Doppler and color Doppler Test Location: West SICU/CTIC/VICU Contrast: None Tech Quality: Adequate Tape #: 2008W050-1:22 Machine: Vivid [**6-11**] Echocardiographic Measurements Results  Measurements  Normal Range Left Atrium - Long Axis Dimension:  3.7 cm  <= 4.0 cm Left Atrium - Peak Pulm Vein S:  0.6 m/s Left Atrium - Peak Pulm Vein D:  0.3 m/s Left Atrium - Peak Pulm Vein A:  0.3 m/s  < 0.4 m/s Left Ventricle - Septal Wall Thickness:  1.1 cm  0.6 - 1.1 cm Left Ventricle - Inferolateral Thickness:  *1.2 cm  0.6 - 1.1 cm  Left Ventricle - Diastolic Dimension:  5.2 cm  <= 5.6 cm Left Ventricle - Systolic Dimension:  3.6 cm Left Ventricle - Fractional Shortening:  0.31  >= 0.29 Left Ventricle - Ejection Fraction:  55% to 60%  >= 55% Aorta - Sinus Level:  *3.9 cm  <= 3.6 cm Aortic Valve - Peak Velocity:  1.4 m/sec  <= 2.0 m/sec Mitral Valve - E Wave:  0.8 m/sec Mitral Valve - A Wave:  0.7 m/sec Mitral Valve - E/A ratio:  1.14 Mitral Valve - E Wave deceleration time:  167 ms  140-250 ms  Findings LEFT ATRIUM: Normal LA size.
+INTERPRETED BY: [**Last Name (LF) **],[**First Name3 (LF) **] W.  RENAL & GLUCOSE Glucose UreaN Creat Na K Cl HCO3 AnGap [**2153-11-6**] 05:10AM    104 8 0.9 142 3.3 105 28 12 Source: Line-picc [**2153-11-5**] 02:18PM    125* 7 1.1 141 3.5 103 30 12 [**2153-11-5**] 11:39AM    57* 4*   148* 1.9*1 125*1 18* 7*  COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct [**2153-11-3**] 05:28AM    4.6 2.91* 9.2* 27.1* 93 31.6 33.9 16.4* 759* Source: Line-picc   DIFFERENTIAL Neuts Bands Lymphs Monos Eos Baso Atyps Metas [**2153-10-18**] 04:40AM    81.3*   14.3* 3.8 0.2 0.3 [**2153-10-9**] 03:30AM    71.3*   24.2 4.3 0 0.3   Brief Hospital Course: Pt was transferred from OSH with CT that showed diffuse SAH with extention to both Sylvial fissures on [**2153-9-30**].
+The patient tolerated the angio and EVD placement well.
+On HD2 ([**10-1**]), patient was taken back to angio suite and another aneurysm was coiled and a stent was placed.
+Patient tolerated the procedure well.
+HD6 ([**10-5**]) Patient was taken to angio suite where an angiogram was performed with verapamil injected into the vessel to treat spasm.
+Patient tolerated the procedure well and was following commands and talking.
+Patient was empirically started on Vancomyin.
+HD9 ([**10-8**])Patient continued to have fevers, central lines were changed by SICU team.
+Clamp trial for EVD removal yeilded EVD had to be opened twice for ICP spiking to 30.
+ID continued to follow for fever and recommended therapy with Nafcillin for 4 weeks from the last positive CSF culture which was on [**10-7**].
+He underwent coiling in angio and placement of an additional right frontal ventricular drain since the Left drain had clotted off.
+can tolerate being without a shunt or whether he is shunt dependant and will require a VPS on this hospitalization.
+During his ICU stay - he did develop Thrombocytosis to >1,000 plts / he was started on ASA - this was held periodically for the placement of VPS and later restarted / he will continue this unitl seen in f/u at neurosurgery office.
+His staples should be removed on [**11-10**].
+He was transferred to the step down unit and maintained on telemetry which noted V tach on [**2153-11-5**] / cardiology was consulted and their recs were followed / He is now on Verapamil 80 TID and metoprolol has been adjusted and will continue with Metoprolol XL 100MG daily.
+His PICC line on the left UE remains in place.
+Bisacodyl 5 mg Tablet, Delayed Release (E.C.)
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed.
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO once a day.
+Quetiapine 25 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 hours) as needed.
+Nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID (4 times a day) as needed.
+Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical PRN (as needed).
+Zinc Oxide-Cod Liver Oil 40 % Ointment Sig: One (1) Appl Topical PRN (as needed).
+Guaifenesin 100 mg/5 mL Syrup Sig: 5-10 MLs PO Q6H (every 6 hours) as needed.
+Oxycodone 5 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours) as needed for pain.
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+Cortisone 1 % Cream Sig: One (1) Appl Topical QID (4 times a day) as needed for hemorrhoids.
+Levetiracetam 500 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day).
+Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1) Injection TID (3 times a day).
+Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every 6 hours) as needed.
+Verapamil 40 mg Tablet Sig: Two (2) Tablet PO Q8H (every 8 hours).
+Metoprolol Succinate 100 mg Tablet Sustained Release 24 hr Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).
+Lorazepam 1 mg IV Q4H:PRN Seizure activity 18.
+Metoprolol Tartrate 2.5 mg IV Q2H:PRN htn, tachycardia give if hr>120bpm, bp>140mmHg 19.
+PICC line Please flush PICC line per institution protocol.
+Aspirin [**Hospital1 1926**] 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO once a day: Pt placed on ASA post coiling as well as for thrombocytosis.
+Discharge Disposition: Extended Care  Facility: [**Hospital6 1293**] - [**Location (un) 1294**]  Discharge Diagnosis: atraumatic Subarachnoid hemorrhages/ interventricular hemmorhage ruptured aneurysms kidney stone with hydronephrosis meningitis Ventricular tachycardia Focal seizure post-op Fever Respiratory failure hydrouretonephrosis communicating hydrocephalus   Discharge Condition: Stable   Discharge Instructions: ??????
+Take your pain medicine as prescribed.
+We generally recommend taking an over the counter stool softener, such as Docusate (Colace) while taking narcotic pain medication.
+Unless directed by your doctor, do not take any anti-inflammatory medicines such as Motrin, Aspirin, Advil, or Ibuprofen etc.

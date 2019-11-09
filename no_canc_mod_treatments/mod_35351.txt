@@ -1,0 +1,35 @@
+Admission Date:  [**2199-1-16**]              Discharge Date:   [**2199-1-19**]   Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 1253**] Chief Complaint: Cholangitis, sepsis  Major Surgical or Invasive Procedure: [**1-16**] ERCP with biliary stent   History of Present Illness: This is a 89 year-old male who presented to OSH with abdominal and back pain that started this afternoon, there patient was given Unacyn and transferred to [**Hospital1 18**] for further evaluation and treatment.
+He denies any nausea, vomitting, diarrhea, constipation, fevers, or chills.
+patient was given Vanc/Zosyn/Levo, fluids 4L, central line was placed for fluid and antibiotics, and admitted to [**Hospital Ward Name **] ICU for ERCP in am.
+ROS: The patient denies any fevers, chills, weight change, nausea, vomiting, abdominal pain, diarrhea, constipation, melena, hematochezia, chest pain, shortness of breath, orthopnea, PND, lower extremity oedema, cough, urinary frequency, urgency, dysuria, lightheadedness, gait unsteadiness, focal weakness, vision changes, headache, rash or skin changes.
+ERCP: Impression: Food mixed with liquid was found in the stomach Tortuous stomach was noted A single periampullary diverticulum was identified The major papilla was normal Successful deep cannulation of the common bile duct using a sphincterotome was performed Contrast medium was injected into the common bile duct resulting in complete opacification The common bile duct, common hepatic duct, and right and left hepatic ducts were filled with contrast and well visualized A 2 cm round-shaped stone was noted in the mid-common bile duct causing complete biliary obstruction Moderate biliary dilation was noted in the common bile duct proximal to the stone, as well as in the common hepatic ducts, and right and left hepatic ducts Successful placement of a 10Fr 9cm Cotton-[**Doctor Last Name **] biliary stent because of severe cholangitis was performed because of severe cholangitis.
+Adequate bile flow into the duodenum was noted following biliary stent placement.
+Recommendations: Fluids when alert and awake Follow up for response and complications Continue IV antibiotics and supportive care Follow up ERCP in 8 weeks for repeat ERCP, sphincterotomy, lithotripsy and CBD stone extraction Follow up with Dr [**First Name (STitle) **] .
+He was admitted to the ICU and he had an ERCP done on [**1-16**] with removal of 2cm stone from the mid-common bile duct which had been causing complete biliary obstruction and was stented.
+# Cholangitis: Pt underwent ERCP with 2 cm stone removal from CBD, and patient was treated with antibiotics which were converted to Levofloxacin and flagyl.
+- Pt being treated with antibiotics for cholangitis anyway which would be adequate treatment for pneumonia.
+- cont nebs .
+Due to pt's depressive symptoms, and general poor sense of well being prior to acute illness, it seems reasonable to start Synthroid and have pt follow up with PCP for [**Name9 (PRE) 21033**]'s with titration as appropriate.
+- B12/folate WNL - Synthroid 75 mcg po q day; f/u with PCP .
+# Comm: with patient and daughter [**Telephone/Fax (1) 80875**]   Medications on Admission: Records obtained from PCP: 1.
+Combivent 2 puffs QID 3.
+Celexa 40 mg daily 4.
+Vitamin B12 1000 mcg inj qmonth 5.
+Advair 500/50 one inh [**Hospital1 **] 6.
+Timolol eye drops 0.5% 1 gtt daily to the right eye 7.
+Prilosec 20 mg [**Hospital1 **] 9.
+Vitamin D 1000 units daily 12.
+Seroquel 25 mg QHS 13.
+Ultram 50 mg Q6H PRN PAIN 14.
+Ativan 0.5 mg Q6H PRN anxiety 15.
+Quetiapine 25 mg Tablet Sig: One (1) Tablet PO QHS (once a day (at bedtime)).
+Citalopram 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Ipratropium-Albuterol 18-103 mcg/Actuation Aerosol Sig: Two (2) Puff Inhalation Q6H (every 6 hours).
+Fluticasone-Salmeterol 500-50 mcg/Dose Disk with Device Sig: One (1) INH Inhalation twice a day.
+Prednisolone Acetate 1 % Drops, Suspension Sig: One (1) Drop Ophthalmic DAILY (Daily).
+Brimonidine 0.15 % Drops Sig: One (1) Drop Ophthalmic [**Hospital1 **] (2 times a day).
+Levofloxacin 250 mg Tablet Sig: Two (2) Tablet PO Q24H (every 24 hours) for 5 days.
+Metronidazole 500 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 hours) for 5 days.
+Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Discharge Disposition: Home With Service  Facility: [**Company 1519**]  Discharge Diagnosis: # Cholangitis # Biliary obstruction; 2 cm stone in CBD # Coagulopathy # Dementia # Depression # Possible lactose intolerance   Discharge Condition: stable   Discharge Instructions: Please take your medications as prescribed.
+Recommend follow up Thyroid function tests and titrate Synthroid as appropriate.

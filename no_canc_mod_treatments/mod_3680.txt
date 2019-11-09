@@ -1,0 +1,100 @@
+Admission Date:  [**2149-4-28**]              Discharge Date:   [**2149-5-3**]  Date of Birth:  [**2103-6-23**]             Sex:   F  Service: MEDICINE  Allergies: Codeine / Amoxicillin / Blood-Group Specific Substance / Adhesive Tape  Attending:[**First Name3 (LF) 1515**] Chief Complaint: Acute onset shortness of breath.
+History of Present Illness: A 45 year-old woman with past medical history of diabetes, dyslipidemia, hypertension, coronary disease s/p CABG in [**5-1**] (LIMA-LAD, SVG-PDA, OMI-Diag) with known occlusion of 2 SVGs with patent SVG to RCA and LIMA to LAD, diastolic CHF (EF 50-55%), ESRD s/p kidney transplant, who presents today with acute onset shortness of breath.
+She was initially evaluated at [**Hospital6 33**] where she was placed on a nitro drip (CP resolved) and BiPAP.
+She was given 80 mg IV Lasix with unclear amount of urine output.
+She was weaned off of BiPAP and placed on 2L oxygen by nasal cannula.
+She was given one dose of levofloxacin 750 mg IV and Dilaudid 1 mg IV and admitted to the CCU given her tenuous respiratory status.
+A Swan-Ganz was placed that showed [**Hospital1 **] pulmonary pressures, decreased SVR, and [**Hospital1 **] CO and CI.
+She was tried on various meds to control her blood pressure and reduce her afterload, including a nitroglycerine drip, a nitroprusside drip, and IV hydralazine.
+She was also diuresed with IV Lasix.
+Of note, while the patient was in the CCU, she was evaluated by CT surgery for potential mitral valve surgery in the future with plan for follow-up as outpatient.
+Of note, Lasix dose was recently decreased to 80 mg tablets twice daily, every other day; this was decreased from one tablet twice daily every day.
+Past Medical History: s/p CABG in [**5-1**] (LIMA-LAD, SVG-PDA, OMI-Diag) - known occlusion of 2 SVGs with patent SVG to RCA and LIMA to LAD - [**9-8**] PTCA of the LCx for recurrent CHF episodes - Recent hospitalization [**2149-3-21**] for left ankle septic arthritis L at ORIF site --> debrided in OR, cultures grew coagulase-negative staph aureus (oxacillin resistance) and pt d/c'ed on vanc.
+- Diastolic congestive heart failure, EF 50-55% - Diabetes Type I complicated by retinopathy (legally blind), diabetic foot ulcers, hypoglycemic seizure, and gastroparesis - ESRD s/p kidney transplant - CAD s/p CABG [**2140**] and PTCA in [**9-8**] - Hypertension - Hyperlipidemia - Hematemesis requiring multiple transfusions in [**2149-1-31**] at [**Hospital6 **] in the setting of vomiting.
+- PVD s/p R fem [**Doctor Last Name **] bypass graft, s/p L SFA [**Doctor Last Name **] ([**5-9**]) - Hx of intracranial bleed falling fall, [**2147**] - Sarcoidosis - Cataracts - Depression - s/p cholecystectomy - s/p tubal ligation - s/p left patella fracture - s/p left wrist fracture - s/p left ankle fracture, s/p ORIF [**10/2148**] complicated by purulent drainage and OR debridement [**2149-3-25**].
+Physical Exam: VS: T= 97.5, BP= 147/51, HR= 87, RR= 16, O2 sat= 94% 2L GENERAL: cachectic woman appears older than stated age, resting in bed in no acute distress HEENT: PERRLA NEURO: awake, alert and oriented NECK: +JVD to angle of mandible CARDIAC: RRR, normal s1/s2, holosystolic blowing murmur that radiates to axilla consistent with known mitral regurgitation LUNGS: bibasilar crackles ABDOMEN: soft, non-tender EXTREMITIES: no pitting edema; feet warm and perfused but without palpable pulses; cast in place over left lower extremity; this was removed to reveal a small ulceration over medial malleolus with white tissue at base; no exudate or surrounding erythema to suggest infection SKIN: left lower extremity ulcer as above  Pertinent Results: Labs at Admission:  [**2149-4-28**] 11:30AM BLOOD WBC-5.0 RBC-2.95* Hgb-8.2* Hct-25.9* MCV-88 MCH-27.8 MCHC-31.6 RDW-15.9* Plt Ct-410 [**2149-4-28**] 11:30AM BLOOD Neuts-69.3 Lymphs-20.5 Monos-4.2 Eos-5.5* Baso-0.6 [**2149-4-28**] 11:30AM BLOOD PT-12.6 PTT-24.1 INR(PT)-1.1 [**2149-4-30**] 04:00AM BLOOD ESR-4 [**2149-4-28**] 11:30AM BLOOD Glucose-180* UreaN-39* Creat-2.2* Na-136 K-4.6 Cl-102 HCO3-23 AnGap-16 [**2149-4-28**] 11:30AM BLOOD Calcium-9.6 Phos-2.3*# Mg-1.7 [**2149-4-29**] 04:58AM BLOOD CRP-7.8*  Labs at Discharge:  [**2149-5-3**] 06:16AM BLOOD WBC-3.5* RBC-2.77* Hgb-7.8* Hct-23.8* MCV-86 MCH-28.1 MCHC-32.6 RDW-15.8* Plt Ct-443* [**2149-5-1**] 04:55AM BLOOD PT-12.1 PTT-26.7 INR(PT)-1.0 [**2149-5-3**] 06:16AM BLOOD Glucose-176* UreaN-53* Creat-1.7* Na-136 K-4.4 Cl-100 HCO3-27 AnGap-13 [**2149-5-3**] 06:16AM BLOOD Calcium-9.3 Phos-4.5 Mg-1.9  Cardiac Enzymes:  [**2149-4-28**] 11:30AM BLOOD CK(CPK)-13* [**2149-4-29**] 01:17AM BLOOD CK(CPK)-12* [**2149-4-28**] 11:30AM BLOOD CK-MB-NotDone proBNP-[**Numeric Identifier 20434**]* [**2149-4-28**] 11:30AM BLOOD cTropnT-0.02* [**2149-4-29**] 01:17AM BLOOD CK-MB-1 cTropnT-<0.01  Vancomycin Levels:  [**2149-4-28**] 11:30AM BLOOD Vanco-8.9* [**2149-4-29**] 06:31PM BLOOD Vanco-17.7 [**2149-5-1**] 04:55AM BLOOD Vanco-17.5  Tacrolimus Levels:  [**2149-4-29**] 04:58AM BLOOD tacroFK-5.2 [**2149-4-30**] 04:00AM BLOOD tacroFK-3.0* [**2149-4-30**] 08:08AM BLOOD tacroFK-2.6* [**2149-5-1**] 04:55AM BLOOD tacroFK-6.6 [**2149-5-2**] 05:42AM BLOOD tacroFK-5.5  Microbiologic Data:  Left ankle biopsy ([**2149-4-30**]): 11:25 am TISSUE     Site: ANKLE      LEFT ANKLE.
+A right-sided PICC line is again seen, terminating in the proximal SVC.
+Patient is status post median sternotomy.
+Surgical clips are seen overlying the right lung base/breast.
+Renal transplant ultrasound ([**2149-4-29**]): FINDINGS: Multiple transverse and longitudinal son[**Name (NI) 1417**] of the renal transplant were obtained.
+Vascularity is symmetric throughout and venous drainage is normal.
+Laterally there is an intramedullary pin through the distal fibula with two fixation transverse screws extending across this rod into the adjacent tibial metaphysis.
+Brief Hospital Course: In summary this is a 45 year-old woman with history of DM1, CAD s/p CABG and PCI, ESRD s/p living-related kidney transplant in [**10-31**], and recent hospitalization for shortness of breath presumed due to worsening mitral regurgitation and pulmonary hypertension who now presents with acute onset shortness of breath.
+She was diuresed with 80 mg boluses of intravenous Lasix to which she responded well.
+Oxygen was weaned as tolerated.
+Cardiac surgery was consulted for further consideration of mitral valve replacement.
+At time of discharge she has resumed oral Lasix at a dose of 80 mg once daily.
+She has follow-up planned with cardiac surgery as outpatient.
+They recommended adjustments to her Glargine dose and Humalog sliding scale parameters (see medication changes below).
+Orthopedics performed a washout and bone biopsy, and the microbiologic report showed no bacterial growth.
+A wound vac was placed by orthopedics.
+Infectious disease recommended continuing her vancomycin through [**5-2**] to complete a 6-week course, at which point they recommended to stop both vancomycin and Bactrim.
+In one to two weeks, she should have a repeat bone biopsy off of all antibiotics to ensure that the infection has been appropriately treated.
+Orthopedics (Dr. [**Last Name (STitle) **] will schedule the procedure for one to two weeks following discharge.
+As above, she was diuresed with intravenous boluses of 80 mg Lasix.
+She had a good response and was discharged on 80 mg oral Lasix once daily.
+She is not on an ACE-inhibitor.
+# S/p Kidney Transplant.
+Transplant nephrology was involved from the start of this admission and recommended checking daily tacrolimus levels and a transplant renal ultrasound with doppler.
+Tacrolimus and prednisone were continued at her home doses.
+We continue her home nifedipine dose.
+Labetalol was decreased from 800 tid to 600 tid.
+Hydralazine was stopped due to hypotension during this admission.
+We continued her home Wellbutrin and citalopram.
+Hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO every four (4)  hours as needed for pain.
+Bupropion HCl 75 mg Tablet Sig: One (1) Tablet PO DAILY 3.
+Ferrous Sulfate 300 mg (60 mg Iron) Tablet Sig: One (1) Tablet PO twice a day.
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2  times a day).
+Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+Prochlorperazine 25 mg Suppository Sig: One (1) suppository Rectal every twelve (12) hours as needed for nausea.
+Metoclopramide 10 mg Tablet Sig: One (1) Tablet PO QIDACHS (4 times a day (before meals and at bedtime)).
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+Citalopram 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Sulfamethoxazole-Trimethoprim 400-80 mg Tablet Sig: One (1)  Tablet PO QMonWedFri.
+Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Trazodone 100 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+Multivitamin Tablet Sig: One (1) Tablet PO once a day.
+Furosemide 80 mg Tablet Sig: One (1) Tablet PO twice a day.
+Hydralazine 100 mg Tablet Sig: One (1) Tablet PO TID (3 times a day).
+Tacrolimus 1 mg Capsule Sig: Four (4) Capsule PO Q12H (every  12 hours).
+Nifedipine 90 mg Tablet Extended Rel 24 hr Sig: One (1) Tablet Extended Rel 24 hr PO once a day.
+Vancomycin in D5W 1 gram/200 mL Piggyback Sig: Seven Hundred  Fifty (750) mg Intravenous every twenty-four(24) hours for 18 days: Dose should be adjusted based off of renal function.
+Insulin Glargine 100 unit/mL Solution Sig: Twenty Two (22) units Subcutaneous at bedtime.
+Humalog insulin sliding scale 26.
+Sodium Chloride 0.9% Flush 10 mL IV PRN line flush PICC, non-heparin dependent: Flush with 10 mL Normal Saline daily and PRN per lumen.
+Prednisone 1 mg Tablet Sig: Four (4) Tablet PO DAILY (Daily).
+Atrovent HFA 17 mcg/Actuation HFA Aerosol Inhaler Sig: Two (2) puffs Inhalation every six (6) hours as needed for shortness  of breath or wheezing.
+Labetalol 200 mg Tablet Sig: Four (4) Tablet PO TID (3 times  a day): hold for SBP<100 or HR<60.
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day) as needed for constipation.
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+Hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours) as needed for pain.
+Bupropion HCl 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Ferrous Sulfate 300  mg (60 mg Iron) Tablet Sig: One (1) Tablet PO twice a day.
+Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Polyethylene Glycol 3350 17 gram/dose Powder Sig: One (1) pakcet PO DAILY (Daily) as needed for constipation.
+Prochlorperazine 25 mg Suppository Sig: One (1) Suppository Rectal Q12H (every 12 hours) as needed for nausea.
+Metoclopramide 10 mg Tablet Sig: One (1) Tablet PO QIDACHS (4 times a day (before meals and at bedtime)).
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+Citalopram 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Trazodone 100 mg Tablet Sig: One (1) Tablet PO at bedtime.
+Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Furosemide 80 mg Tablet Sig: One (1) Tablet PO once a day.
+Tacrolimus 1 mg Capsule Sig: Four (4) Capsule PO Q12H (every 12 hours).
+Nifedipine 90 mg Tablet Sustained Release Sig: One (1) Tablet Sustained Release PO DAILY (Daily).
+Prednisone 1 mg Tablet Sig: Four (4) Tablet PO DAILY (Daily).
+Ipratropium Bromide 17 mcg/Actuation HFA Aerosol Inhaler Sig: Two (2) Puff Inhalation Q6H (every 6 hours) as needed for shortness of breath or wheezing.
+Labetalol 200 mg Tablet Sig: Three (3) Tablet PO TID (3 times a day).
+Insulin Glargine  Subcutaneous 25.
+Humalog  Subcutaneous  Discharge Disposition: Home With Service  Facility: [**Hospital3 **] VNA  Discharge Diagnosis: Primary diagnosis: Acute on chronic congestive heart failure, secondary to mitral regurgitation Left medial maleolus ulcer, concern for osteomyelitis  Secondary diagnoses: Insulin dependent diabetes mellitus End stage renal disease s/p kidney transplant Anemia related to chronic kidney disease   Discharge Condition: Alert and oriented with stable vital signs, 98% on room air.
+You were given medications to remove the fluid on your lungs and you were able to breathe better.
+However, you were on antibiotics at the time.
+Therefore, we would like you to stop your antibiotics (vancomycin and bactrim) and return in one week to have a repeat biopsy.
+Please note the following changes to your medications: ** Change to Lasix 80mg daily ** STOP Bactrim (trimethoprim-sulfamethoxazole) until the biopsy; please resume after the biopsy at your regular dose ** STOP Vancomycin ** STOP Hydralazine ** Change labetalol to 600mg three times a day.
+** Change your lantus to 9 units in the morning and evening ** If you are not eating food, you should use your bedtime insulin sliding scale.
+We have included an updated sliding scale for insulin in your paperwork.

@@ -1,0 +1,105 @@
+Admission Date:  [**2117-8-5**]              Discharge Date:   [**2117-9-2**]  Date of Birth:  [**2037-3-13**]             Sex:   M  Service: MEDICINE  Allergies: Ciprofloxacin / Macrobid / neomycin-bacitracin-polymyxin  Attending:[**First Name3 (LF) 3256**] Chief Complaint: persistent fever   Major Surgical or Invasive Procedure: bronchoscopy bone marrow biopsy video speech and swallow  History of Present Illness: History of Present Illness ([**Hospital1 18**] [**Location (un) 620**] notes):  80-year-old male with hairy cell leukemia in remission, prostate cancer s/p cystoprostatectomy with ileal stoma, recently s/p cholecystectomy and parastomal hernia repair presents with persistent fever.
+He originally presented to [**Hospital1 18**]-[**Location (un) 620**] on [**7-5**] for cholecystecomy and parastomal hernia repair.
+He was discharged on [**7-8**] with Bactrim for an E coli UTI.
+He was treated with ertapenem for Proteus and Klebsiella.
+This was treated with prednisone 60 mg with a planned taper.
+Antibiotics included Augmentin for [**7-23**] to [**8-1**], Bactrim for [**8-1**] to [**8-3**], ceftazidime from [**8-3**] to [**8-5**].
+On [**8-5**] antibiotics were changed to Zosyn given persistent fever.
+Past Medical History: Hairy cell leukemia s/p splenectomy in [**2091**] with replapse in [**2104**] treated with Fludarabine.
+Recent lab work from outside hospital shows neutropenia and hypogammaglobulinemia Prostate cancer s/p brachytherapy c/b prostatic abscess with extension now s/p cystoprostatectomy and urostomy Mitral valve prolapse w/mild MR CAD h/o klebsiella urosepsis [**9-10**] h/o Bronchopneumonia [**9-11**] Pyoderma gangrenosum Splenectomy in [**2092**] TURP [**2093**] bilateral rotator cuff repairs radical cystoprostatectomy and ileal conduit in  [**2112**] I and D of scrotal abscess in [**2112**] right thoracotomy with lung biopsy [**2114**] cholecystecomy in [**2116**] hernia repair around his cystoprostatectomy ileal conduit in [**2116**]   Social History: Lives at home with his wife.
+Discharge Physical Exam: Vitals:  97.6, 159/92, 62, 99RA General:  Well NAD, AOx3, but with slow response and blunted affect HEENT: Large eschar on bottom lip Lungs:  crackles at the bases bilaterally that do not clear w/ coughing CV:  s1 s2 no MRG Abdomen:  soft, non tender, surgical dressing in place, osteomy site intact w/ no errythema or signs of breakdown Ext: large subcutaneous hard lesions on right upper arm and hand, ankle edema with sacral edema as well and   Pertinent Results: Admission Labs: [**2117-8-6**] 04:55AM BLOOD WBC-7.9# RBC-3.04* Hgb-11.0* Hct-33.3* MCV-109*# MCH-36.0* MCHC-32.9 RDW-15.5 Plt Ct-416 [**2117-8-6**] 04:55AM BLOOD Glucose-116* UreaN-26* Creat-1.0 Na-137 K-4.6 Cl-96 HCO3-26 AnGap-20 [**2117-8-6**] 04:55AM BLOOD Calcium-9.3 Phos-3.6 Mg-1.9 .
+[**2117-8-27**] 16:37 B-GLUCAN   Test ---- Fungitell (tm) Assay for (1,3)-B-D-Glucans  Results                                 Reference Ranges -------                                 ---------------- <31 pg/mL                               Negative       Less than 60 pg/mL                                         Indeterminate  60 - 79 pg/mL                                         Positive       Greater than or equal to                                                        80 pg/mL .
+Test Name                  In Range     Out of Range Reference Range ---------                  --------     ------------ --------------- C difficile Toxin PCR                     POSITIVE                                     (Semi-Urgent Result) .
+Predominantly macrophages, neutrophils, and polymorphous lymphocytes, consistent with reactive inflammatory infiltrate (See Note).
+Note: Please refer to the corresponding cell block specimen S11-[**Pager number 95303**]H for further characterization and the results of immunohistochemistry studies.
+Flow cytometry ([**8-10**]): FLOW CYTOMETRY IMMUNOPHENOTYPING The following tests (antibodies) were performed: HLA-DR, FMC-7, Kappa, Lambda, and CD antigens 3, 5, 10, 11c, 19, 20, 22, 23, 25, 103.
+They do not express any other characteristic antigens including CD5 or CD10.
+For example, a paratracheal node measuring 9 mm (4:96) was 10 mm in [**2117-7-5**] and 6 mm in [**2114-10-6**].
+Multiple small mediastinal nodes measure up to 6 mm, not meeting CT criteria for pathologic enlargement.
+Increased bilateral consolidations, greater on the left and consistent with atelectasis which extends along the aortic contour and corresponds to findings on chest radiograph.
+Right central line tip is in the lower SVC.
+TECHNIQUE: Oropharyngeal swallowing videofluoroscopy was performed in conjunction with the speech and swallow division.
+Brief Hospital Course: 80-year-old male with hairy cell leukemia in remission, prostate cancer s/p cystoprostatectomy with ileal stoma, recently s/p cholecystectomy and parastomal hernia repair presents with persistent fever.
+# Fevers: DDX UTI, PNA, wound infection, pyoderma, leukemia recurrence, vasculitis.
+[**First Name8 (NamePattern2) **] [**Location (un) 620**] records, the patient was initially treated for a UTI but following multiple cultures and treatment modalities his UA cleared.
+Pyoderma gangrenosum could cause fever, but was improving on steroid treatment.
+CT scan revealed multifocal infiltrates, treated with Vanc/Zosyn for possible pneumonia.
+Following completion of antibiotic courses for both pneumonia and urinary tract infection, the fevers continued.
+He was therefore started on Cyclosporine starting [**8-13**].
+Given patient had not been improving on vanc/zosyn, antibiotic coverage changed to linezolid/meropenem.
+Given desire to minimize immunosuppresssion, prednisone and cyclosporine tapers initiated.
+CMV and fungal studies were negative, but a C.diff PCR was positive despite multiple negative toxin tests and the patient treated with PO vancomycin.
+Patient had been afebrile for 5 days prior to discharge and had been transitioned off of IV antibiotics.
+# UTI:  patient was initially treated for a UTI as source for his persistant fevers and UA cleared.
+Patient was sent to the ICU with respiratory failure and concern for sepsis and was therefore treated for these pathogens.
+Patient was started on 2 week course of Linezolid and Fluconazole to end on [**9-11**].
+Patient was treated with a 5 day course of acyclovir with improvement in the lesion.
+Patient was then switched to PO vancomycin as had little change in his stooling frequency.
+# Hypoxic respiratory distress: On [**8-27**], patient triggered on the floor for tachycardia, tachypnea and marked nursing concern.
+His oxygen was quickly weaned from NRB to NC to room air.
+Repeat CXR showed minimal improvement, and has patient had not been improving on vanc/zosyn for possible HCAP, antibiotics changed to linezolid/meropenem.
+Meropenem was discontinued after several days without fever and patient continued to be stable on linezolid alone.
+As the patient had recently been febrile with chills, his fever was treated with Tylenol and he was given IVF.
+Metoprolol IV was given with some effect, as his HR slowed to 120-140 and BP rose to 90s/50s.
+Further fluid boluses were given to support volume status.
+He was transferred to the ICU for conversion with diltiazem and/or cardioversion.
+In the MICU, he was loaded with amiodarone and subsequently converted to sinus rhythm, which was maintained with PO amiodarone 300 mg [**Hospital1 **].
+He was transferred back to the floor and his rhythm and rate well-controlled with metoprolol for the remainder of his stay.
+Surgery and Wound Care followed the patient during his stay, and a wound vac was placed to facilitate healing.
+This was removed as the wound healed, and wet-to-dry dressings used.
+# Hypertension: Continued metoprolol 50 mg daily, ASA 81mg daily, was also started on lisinopril 5 mg daily prior to discharge for persistantly elevated BPs to the 160s.
+He was on prednisone 20 mg on transfer.
+His prednisone was increased and cyclosporine started for immune suppression.
+Rheumatology recommended tapering of prednisone over several weeks.
+He was felt to have a low solute from his ileal conduit and poor PO intake.
+# Depression:  Continued Effexor 75mg daily despite starting on linezolid as patient was clinically stable and on low dose of effexor and difficulty in tapering this medicaiton.
+Patient should be actively monitored for any signs of fever, extreme hypertension, tachycardia, significantly altered mental status as possible signs of serotonin syndrome.
+# Hypothyroidism:  Continued levothyroxine 25 mcg daily.
+# Glaucoma:  Continued Xalatan drops 1 drop OS daily.
+# Ileal conduit:  Continued 1300 mg sodium bicarb twice daily, later increased to TID.
+Iron supplements could be considered on discharge.
+Transitional Issues: - follow-up with Surgery re: wound care - follow-up with Dr. [**Last Name (STitle) **] in oncology   Medications on Admission: Effexor 75mg daily Levothyroxine 25mcg daily Xalatan drops qHS Lopressor 50mg daily Sodium Bicarb 1300mg [**Hospital1 **] ASA 81 mg daily MVI advil prn fish oil Prednisone 60mg daily .
+MEDICATIONS ON TRANSFER from [**Hospital1 18**]-[**Location (un) 620**] to [**Hospital1 18**] [**Location (un) 86**]:       1.
+Zosyn 4.5 grams q.8 hours started on the date of transfer,       [**2117-8-5**].
+Prednisone 20 mg daily.
+Aspirin 81 mg daily.
+Metoprolol 50 mg daily.
+Levoxyl 25 mcg daily.
+Effexor 75 mg daily.
+Sodium bicarb 1300 mg b.i.d.
+Pepcid 20 mg b.i.d.
+Heparin 5000 units subcu t.i.d.
+Tylenol 500 to 1000 mg q.6 hours p.r.n.
+Xalatan 1 drop OS daily.
+Discharge Medications: 1. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+Tablet, Chewable(s) 2. levothyroxine 25 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+3. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day) as needed for constipation.
+4. senna 8.6 mg Tablet Sig: 1-2 Tablets PO BID (2 times a day) as needed for constipation.
+5. heparin (porcine) 5,000 unit/mL Solution Sig: One (1) Injection TID (3 times a day).
+6. sulfamethoxazole-trimethoprim 800-160 mg Tablet Sig: One (1) Tablet PO 3X/WEEK (MO,WE,FR).
+7. nystatin 100,000 unit/g Cream Sig: One (1) Appl Topical [**Hospital1 **] (2 times a day).
+8. lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+9. linezolid 600 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 hours): to end on [**9-11**].
+10. multivitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).
+11. sodium bicarbonate 650 mg Tablet Sig: Two (2) Tablet PO TID (3 times a day).
+12. prednisone 10 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily): on [**9-4**] switch to 15 mg daily (1.5 tablets), on [**9-11**] switch to 10 mg daily (1 tablet), on [**9-18**] switch to 5 mg (0.5 tablets) for 1 week then stop.
+13. cyclosporine modified 25 mg Capsule Sig: Three (3) Capsule PO Q12H (every 12 hours): on [**9-4**] switch to 75 mg (3 capsules) daily for 1 week then stop.
+14. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q8H (every 8 hours) as needed for pain or fever.
+15. metoprolol succinate 50 mg Tablet Extended Release 24 hr Sig: One (1) Tablet Extended Release 24 hr PO DAILY (Daily): hold for BP <110 systolic and HR<50.
+16. latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic DAILY (Daily).
+17. pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+18. venlafaxine 75 mg Capsule, Ext Release 24 hr Sig: One (1) Capsule, Ext Release 24 hr PO DAILY (Daily).
+19. fluconazole 200 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours): To stop on [**9-11**].
+20. vancomycin 125 mg Capsule Sig: One (1) Capsule PO every six (6) hours: to end on [**9-16**] (five days after stopping linezolid).
+Oral herpes 5. clostridium difficle infection 6. hairy cell leukemia 7. pyoderma gangrenosum  Secondary: 1. s/p Splenectomy 2. prostate cancer 3. mitral valve prolapse 4. s/p ileal conduit   Discharge Condition: Mental Status: Clear and coherent.
+You were initially treated with prednisone and cyclosporine for pyoderma of the lung, but upon review of your old biopsies by our pulmonologists and pathologists this was felt not to be the cause of your fevers.
+You started to taper off of your immune suppressants, and were treated with antibiotics and antifungals for a UTI as well as a presumed pneumonia.
+You also received treatment for a c. diff infection of your colon.
+You were transitioned to oral antibiotics and sent to a rehab facility to regain your strength.
+MEDICATION CHANGES: - START PREDNISONE 20mg daily (immune suppressant) to be tapered by 5 mg weekly as directed on your prescription.
+- START cyclosporine 75mg twice a day (immune suppressant) to be tapered by 75 mg daily as directed on your prescription.
+- START Bactrim DS 1 tablet three times a week (Monday, Wednesday, Friday) (antibiotic for infection prophylaxis while on immune suppressants).
+- START Linezolid 600 mg every 12 hours until [**9-11**].
+- START Vancomycin 125 mg every 6 hours until [**9-16**].
+- START Fluconazole 200 mg Daily until [**9-11**].
+- START Lisinopril 5 mg daily - CONTINUE Levothyroxine 25 mcg daily - CONTINUE Daily Multivitamin - CONTINUE Venlafaxine XR 75 mg daily - CONTINUE Sodium Bicarbonate 1300 mg three times daily - CONTINUE Pantoprazole 40 mg daily - CONTINUE Metoprolol XL 50 mg Daily - CONTINUE Latanopros 0.005% 1 drop to both eyes daily - CONTINUE Aspirin 81 mg daily  Please seek medical attention for any worsening symptoms.

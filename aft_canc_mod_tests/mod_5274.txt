@@ -1,0 +1,30 @@
+Admission Date:  [**2170-6-12**]              Discharge Date:   [**2170-6-21**]  Date of Birth:  [**2104-11-7**]             Sex:   F  Service: MEDICINE  Allergies: Sulfa (Sulfonamides)  Attending:[**First Name3 (LF) 7651**] Chief Complaint: transferred from OSH for cath for ST elevation, elevated [**First Name3 (LF) **] concerning for STEMI  Major Surgical or Invasive Procedure: Cardiac catheterization - [**2170-6-12**]  History of Present Illness: 65 yo female with PMH of CAD s/p DES to LAD in [**2167**], squamous cell lung carcinoma s/p left lobectomy, chemo, and XRT, complicated by laryngeal paralysis, COPD on 2L home O2, transferred from [**Hospital1 **] for cardiac catheterization.
+PCP thought her to have a pneumonia given her symptoms of fever, cough, and SOB, found that she was having O2 saturation of less than 88%, and sent her to the emergency room for possible pneumonia.
+CXR with small amount CHF and possible LLL consolidation.
+In the ICU, they noted ST elevations on EKG in inferolateral leads, and a troponin of 4.84 and 6.75.
+Patient was transferred to [**Hospital1 18**] for cardiac catheterization for concerns of STEMI.
+Cardiac cath was performed which showed that her prior LAD stent was patent, LCX with 50% proximal stenosis, and RCA with 50% mid segment stenosis.
+Past Medical History: - CAD s/p DES to LAD ([**2167**]) - HTN - severe COPD on 2L home O2 - squamous cell lung carcinoma s/p left lobectomy, chemo, XRT - hyperlipidemia - uterine fibroids - laryngeal paralysis - s/p partial hysterectomy - h/o head injury with seizure disorder 11 years ago - anxiety - chronic back pain  Social History: Patient is married.
+Pertinent Results: Cardiac Cath Study Date of [**2170-6-12**] COMMENTS: 1.
+Resting hemodynamics demonstrated elevated right sided filling pressures with RVEDP 12 mm Hg, elevated left sided filling pressures with LVEDP 29 mm Hg and PCWP 22 mm Hg.
+The cardiac index was 2.2 l/min/m2 which gives a calculated PVR of 9 [**Doctor Last Name 6641**] units.
+TTE (Complete) Done [**2170-6-12**] at 3:48:03 PM The left atrium is normal in size.
+Left ventricular wall thicknesses and cavity size are normal.
+Chest CT: Lymphadenopathy in the mediastinum and right hilum extending along the bronchovascular structures in the right lung could be reactive due to infection, but is concerning for neoplasm given the patient's previous history of lung neoplasm and should be followed up with repeat CT thorax in 2 months to ensure resolution.
+CT of Chest report read: PE was of concern given tachycardia and SOB, however patient was ruled out with CTA.
+Lymphadenopathy in the mediastinum and right hilum extending along the bronchovascular structures in the right lung could be reactive due to infection, but is concerning for neoplasm given the patient's previous history of lung neoplasm and should be followed up with repeat CT thorax in 2 months to ensure resolution.
+TTE at OSH showed LVEF of 30% which is decreased from a reported 50% in [**2167**].
+Given these focal wall motion abnormalities she was taken to cath which showed patent LAD stent with 50% prox LCx lesion and 50% mid RCA lesion, and given these findings of non-flow limiting CAD in the setting of focal wall motion abnormalities, the pt was felt to have a stress related cardiomyopathy vs focal myo/pericarditis.
+EKG post-cath still showed ST elevations however these resolved over time and the pt was without significant Q waves.
+Hypotension - patient was initially hypotensive with SBP in the 70-80s, for which antihypertensives were held.
+As her blood pressure stabilized, beta blockers and Losartan were restarted.
+By discharge, her blood pressures were in the 90's to low 100's.
+As her above problems were addressed, her heart rate gradually came down, and beta blockade was also added.
+By discharge, her heart rate had come down to consistently in the 90-100's.
+Anxiety - patient has a history of anxiety for which she received ativan PRN  Medications on Admission: dilantin 200 mg [**Hospital1 **] rosuvastatin 40 mg daily diovan 80 mg [**1-27**] tab daily ASA 81 mg daily clopidogrel 75 mg daily metoprolol tartrate 50 mg [**Hospital1 **] sertraline 100 mg daily MS contin 15mg/30mg/15mg gabapentin 800mg TID Spiriva 1 puff daily advair 250/50 1 puff [**Hospital1 **] Lorazepam 0.5 mg PO prn  Discharge Medications: 1.
+Phenytoin Sodium Extended 200 mg Capsule Sig: One (1) Capsule PO twice a day.
+Disp:*45 Tablet(s)* Refills:*0*   Discharge Disposition: Home With Service  Facility: [**Location (un) 86**] VNA  Discharge Diagnosis: Cardiomyopathy with EF 25% Acute on Chronic Systolic and Diastolic Congestive Heart Failure Coronary Artery Disease s/p drug eluting stent to LAD in [**2167**] Sqamous Cell Lung CA s/p resection, radiation and chemotherapy Chronic Obstructive Pulmonary Disease Laryngeal Paralysis   Discharge Condition: Mental Status: Clear and coherent.
+Discharge Instructions: You had trouble breathing and low oxygen levels and was admitted to [**Hospital1 18**] for a cardiac catheterization after changes were seen on your EKG.
+The catheterization showed 50% blockages in 2 arteries.
+You will need another echocardiogram to check your heart function in about a month.
+[**Hospital1 66685**], [**Numeric Identifier 47974**] Phone: ([**Telephone/Fax (1) 66686**]  Please note: Lymphadenopathy in the mediastinum and right hilum extending along the bronchovascular structures in the right lung could be reactive due to infection, but is concerning for neoplasm given the patient's previous history of lung neoplasm and should be followed up with repeat CT thorax in 2 months to ensure resolution.

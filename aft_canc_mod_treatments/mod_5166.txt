@@ -1,0 +1,37 @@
+Admission Date:  [**2120-9-21**]              Discharge Date:   [**2120-9-25**]  Date of Birth:  [**2043-6-19**]             Sex:   M  Service: MEDICINE  Allergies: Penicillins / Sulfa (Sulfonamides) / Iodine  Attending:[**First Name3 (LF) 2297**] Chief Complaint: Acute drop in hct  Major Surgical or Invasive Procedure: None  History of Present Illness: 77 year-old man with a history of T3N1 poorly differentiated esphageal cancer diagnosed earlier this year, diabetes type II and asthma, hx of two spinal surgeries after trauma who was admitted to the [**Hospital Unit Name 153**] for acute drop in Hct.
+His post-op course was complicated by desaturations requiring intubation with extubation on [**9-3**], hct drop responsive to transfusion, pneumonia with GNR-serratia and GPC not identified, frank aspiration necessitating feeding tube placement by IR and poor urine output.
+On arrival to the ED that day, he was found to be desaturating on 6L NC so he was taken to the OR by anesthesia due to his recent cervical surgeries.
+On arrival to the [**Name (NI) **], pt was asymptomatic and HD stable.
+He received one unit of NS and 2U PRBCs.
+A chest and abd CTA was done given concern for perforation following PEG placement but was negative for any bleeding, perforation or dissection.
+Past Medical History: PAST MEDICAL HISTORY:  Significant for diabetes type 2, mild asthma, [**Doctor Last Name 3271**]-[**Doctor Last Name **] virus, lower extremity edema, T3N1 poorly differentiated esophageal cancer s/p palliative chemotherapy and XRT.
+.. PAST SURGICAL HISTORY:  Status post inguinal hernia repair in [**2082**], and he is status post exploratory laparotomy in [**2098**] for abdominal pain, at which time they performed an incidental cholecystectomy and appendectomy.
+Anterior partial vertebrectomy of C5, C6, C7.
+Physical Exam: Exam: T 96.1 BP 118/72 P 86 R 20 O2 99% 5L Gen: NAD, AO x 3 HEENT: PERRL, mmm, large nontender mass at back of neck CV: rrr, s1 s2 Chest: ctab Abd: PEG tube in place, clean dressing; +BS, soft, NT/ND Ext: trace edema b/l, 1+ DP   Pertinent Results: [**2120-9-21**] 08:22PM   LACTATE-1.6 [**2120-9-21**] 02:15PM   GLUCOSE-144* UREA N-40* CREAT-1.1 SODIUM-137 POTASSIUM-3.3 CHLORIDE-100 TOTAL CO2-25 ANION GAP-15 [**2120-9-21**] 02:15PM   WBC-7.0 RBC-2.07* HGB-6.5*# HCT-19.5* MCV-95 MCH-31.3 MCHC-33.1 RDW-17.6* [**2120-9-21**] 02:15PM   NEUTS-83.0* BANDS-0 LYMPHS-11.1* MONOS-4.7 EOS-0.9 BASOS-0.2 [**2120-9-21**] 02:15PM   HYPOCHROM-NORMAL ANISOCYT-3+ POIKILOCY-OCCASIONAL MACROCYT-2+ MICROCYT-2+ POLYCHROM-2+ OVALOCYT-OCCASIONAL STIPPLED-OCCASIONAL [**2120-9-21**] 02:15PM   PLT SMR-NORMAL PLT COUNT-323 [**2120-9-21**] 02:15PM   PT-13.7* PTT-37.2* INR(PT)-1.3  [**2120-9-24**] B/L UE U/S IMPRESSION:  No DVT within the left or right upper extremity.
+Brief Hospital Course: A/P: 77M with hx of DM, asthma, cervical spine fractures s/p fusion and repair, aspiration pneumonia s/p PEG placement, esophageal cancer presents with acute on chronic anemia .
+On day one and two of admission the pt received three units of prbcs with appropriate bumps in his hematocrit.
+The risks and benefits of restarting lovenox were discussed amongst the team members.
+Given his risk for re-bleed, it was decided to hold his lovenox on discharge.
+He is followed by an oncologist in NH and is S/P XRT and chemotherapy with Cisplatin.
+4) DM: The pt was maintained on an RISS throughout admission.
+5) Asthma: The pt was maintained on albuterol/atrovent nebs prn throughout his admission.
+6) hx of tachycardia/MAT: Ther pt was continued on a CCB for HR control.
+7) Stage 3 sacral decub: The pt was continued on vitamin C, zinc, and daily wound care and placed on an air mattress.
+8) FEN: The pt is s/p PEG tube placement.
+9) Ppx: The pt was placed on pneumoboots, a PPI, bowel regimen, and aspiration precautions throughout the admission.
+Enoxaparin 80 mg/0.8 mL Syringe Sig: One (1) injection Subcutaneous Q12H (every 12 hours).
+Ipratropium Bromide 18 mcg/Actuation Aerosol Sig: Two (2) Puff Inhalation QID (4 times a day).
+Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs Inhalation Q6H (every 6 hours).
+Zinc Sulfate 220 mg Capsule Sig: One (1) Capsule PO DAILY (Daily).
+Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Diltiazem HCl 60 mg Tablet Sig: One (1) Tablet PO QID (4 times a day).
+7. insulin sliding scale 8.
+Potassium Chloride 20 mEq Packet Sig: One (1) packet PO once a day.
+Vancomycin in Dextrose 1 g/200 mL Piggyback Sig: One (1) Intravenous  Q 12H (Every 12 Hours) for 5 days.
+Lansoprazole 30 mg Capsule, Delayed Release(E.C.)
+Heparin Lock Flush (Porcine) 100 unit/mL Syringe Sig: Two (2) ML Intravenous  DAILY (Daily) as needed.
+Discharge Disposition: Extended Care  Facility: [**Hospital6 979**] - [**Location (un) 246**]  Discharge Diagnosis: Primary: Neck hematoma  secondary: esophageal CA MAT DM sacral decubital ulcer   Discharge Condition: Stable   Discharge Instructions: To pt: Please take all medication as prescribed.
+- Continue tube feeds.
+- Continue PT - Oxygen as needed to keep sts>94% - Continue zinc and vitamin C to help wound healing of sacral decubital ulcer.
+- Please continue air mattress and frequent repositioning.
+- Please monitor fingersticks and use humalog insulin sliding scale.

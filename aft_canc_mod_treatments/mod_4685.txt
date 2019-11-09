@@ -1,0 +1,56 @@
+Admission Date:  [**2191-8-26**]              Discharge Date:   [**2191-9-7**]  Date of Birth:  [**2111-2-8**]             Sex:   F  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 5141**] Chief Complaint: work-up of endobronchial mass  Major Surgical or Invasive Procedure: Thoracentesis PICC line placement   History of Present Illness: Primary Oncologist: [**Location (un) **], [**Name8 (MD) **] NP [**Last Name (LF) **], [**First Name7 (NamePattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **] .
+She recently presented to OSH with c/o SOB, and was treated with oral abx (Avelox) for PNA.
+She was found to have afib with RVR, was treated with dilt, and on her request trasferred to an other OSH (see outside records).
+She was treated with Zosyn and levofloxacin for post obstructive pna, given extensive pulmonary disease on OSH Ct.
+-In [**2188**] she was found to have multiple PET avid pulmonary nodules.
+- In [**2189-8-1**] started chemotherapy with temozolomide with initial decrease of the pulmonary lesions and than disease stability.
+- She received Temozolomide until [**2191-4-1**] when a right arm nodule, present since [**2189**] increased in size.
+Other Past Medical History: Essential thrombocythemia on hydroxyurea A.Fib on coumadin, s/p pacemaker placement HTN Aortic stenosis and moderate MR DCIS of the left breast Hx of Barrett's esophagus s/p hysterectomy in [**2160**]  Social History: married with 5 children, used to smoke 1ppd, quit over 20 years ago.
+NEURO: CNII-XII grossly intact, no apparent change to motor or sensory function  Pertinent Results: ADMISSION LABS: [**2191-8-27**] 05:20AM BLOOD WBC-13.0* RBC-2.99* Hgb-11.4* Hct-34.2* MCV-115* MCH-38.3* MCHC-33.4 RDW-13.2 Plt Ct-536* [**2191-8-27**] 05:20AM BLOOD Neuts-87* Bands-0 Lymphs-2* Monos-11 Eos-0 Baso-0 Atyps-0 Metas-0 Myelos-0 [**2191-8-27**] 05:20AM BLOOD Hypochr-NORMAL Anisocy-1+ Poiklo-NORMAL Macrocy-2+ Microcy-NORMAL Polychr-NORMAL [**2191-8-27**] 05:20AM BLOOD PT-15.6* PTT-27.6 INR(PT)-1.4* [**2191-8-27**] 05:20AM BLOOD Glucose-126* UreaN-10 Creat-1.0 Na-141 K-3.9 Cl-105 HCO3-23 AnGap-17 [**2191-8-27**] 05:20AM BLOOD ALT-13 AST-23 AlkPhos-83 TotBili-0.5 [**2191-8-27**] 05:20AM BLOOD Calcium-8.6 Phos-2.3* Mg-1.7 [**2191-8-27**] 05:20AM BLOOD VitB12-1352* Folate-13.3  DISCHARGE LABS: [**2191-9-6**] 08:47AM BLOOD WBC-7.2 RBC-2.76* Hgb-10.6* Hct-30.9* MCV-112* MCH-38.1* MCHC-34.3 RDW-13.4 Plt Ct-533* [**2191-9-6**] 08:47AM BLOOD Neuts-88* Bands-0 Lymphs-2* Monos-7 Eos-2 Baso-1 Atyps-0 Metas-0 Myelos-0 [**2191-9-6**] 08:47AM BLOOD Glucose-115* UreaN-12 Creat-1.3* Na-141 K-4.5 Cl-105 HCO3-25 AnGap-16 [**2191-9-6**] 08:47AM BLOOD Calcium-9.9 Phos-3.1 Mg-2.1  MICRO: [**2191-9-6**]  Blood Culture, Routine-PENDING [**2191-9-6**] URINE URINE CULTURE-FINAL {YEAST}; FUNGAL CULTURE-FINAL [**2191-9-6**] BLOOD CULTURE -PENDING [**2191-9-3**] URINE URINE CULTURE-FINAL {YEAST} INPATIENT [**2191-9-2**] STOOL CLOSTRIDIUM DIFFICILE TOXIN A & B TEST-negative [**2191-8-30**] MRSA SCREEN-negative [**2191-8-29**] PLEURAL FLUID GRAM STAIN-FINAL; FLUID CULTURE-FINAL; ANAEROBIC CULTURE-FINAL INPATIENT [**2191-8-27**] BLOOD CULTURE -FINAL negative [**2191-8-27**] BLOOD CULTURE -FINAL negative  IMAGING: CXR ([**8-27**]): FINDINGS: Low lung volumes.
+Right pectoral pacemaker with correct lead position.
+Right transvenous catheter tip is in the standard position in the right ventricle.
+CXR ([**8-29**]): A single lead right chest wall pacemaker is seen with the tip terminating in the right ventricle.
+=================================== ACTIVE ISSUES =================================== # Hypoxemia: Patient transferred with new oxygen requirement and endobronchial mass.
+Pt transferred for interventional pulmonary and radiation oncology consultation.
+In ICU, patient diuresed aggressively with IV lasix with improvement of hypoxia to 4LNC.
+Pt completed course of antibiotics for post-obstructive pneumonia on [**9-6**].
+Pt continued to require 4LNC thought to be [**2-2**] endobronchial mass however intervention was deffered to outpatient follow with interventional pulmonary.
+Primary oncologist was notified and further work-up and treatment options were deferred to outpatient.
+Patient was treated with diltiazem.
+Anticoagulation was changed to lovenox given history of cancer.
+However consideration to change back to warfarin could be considered as an outpatient.
+However head imaging should be completed prior to starting warfarin to rule out mets to brain .
+# Urinary Tract Infeciton: Patient had foley catheter while in ICU.
+Pt was started ceftriaxone on [**9-6**].
+Medications were renally dosed however electrolytes should be rechecked in 1 week to determine if medications need to be redosed.
+=================================== INACTIVE ISSUES =================================== HTN: stable - continue lisinopril at home dose - continue dilt as above  =================================== TRANSITIONAL ISSUES =================================== 1.
+Recheck electrolytes in 1 week and redose medications accordingly 4.
+Obtain head imaging prior to starting coumadin 5.
+Medications on Admission: Niacin 500 mg , t tabs qhs xopenex nebs q4hr prn lactulose prn constipation humalog ss hydroxyurea 500 mg q48hr heparin s.c 5000 units tid advair 250/50 [**Hospital1 **] diltiazem 60 mg q6h asa 81 mg zosyn 3.375 q 6hr ppi 40 mg daily tylenol prn zofran prn  Discharge Medications: 1. niacin 100 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+2. fluticasone-salmeterol 250-50 mcg/dose Disk with Device Sig: One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+3. bisacodyl 5 mg Tablet, Delayed Release (E.C.)
+4. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every 6 hours) as needed for fever.
+5. ondansetron 4 mg Tablet, Rapid Dissolve Sig: One (1) Tablet, Rapid Dissolve PO Q8H (every 8 hours) as needed for nausea.
+6. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day) as needed for constipation.
+7. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+8. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+9. omeprazole 20 mg Capsule, Delayed Release(E.C.)
+10. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1)  Inhalation Q6H (every 6 hours) as needed for wheeze, sob.
+11. ipratropium bromide 0.02 % Solution Sig: One (1)  Inhalation Q6H (every 6 hours) as needed for wheeze, sob.
+12. lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+13. hydroxyurea 500 mg Capsule Sig: One (1) Capsule PO EVERY OTHER DAY (Every Other Day).
+14. diltiazem HCl 360 mg Capsule, Ext Release 24 hr Sig: One (1) Capsule, Ext Release 24 hr PO once a day.
+15. enoxaparin 60 mg/0.6 mL Syringe Sig: One (1)  Subcutaneous DAILY (Daily).
+16. camphor-menthol 0.5-0.5 % Lotion Sig: One (1) Appl Topical TID (3 times a day) as needed for Rash.
+Heparin Flush (10 units/ml) 2 mL IV PRN line flush PICC, heparin dependent: Flush with 10mL Normal Saline followed by Heparin as above daily and PRN per lumen.
+18. ceftriaxone 1 gram Recon Soln Sig: One (1)  Intravenous once a day for 8 days.
+You were placed on antibiotics for an pneumonia.
+Here you continued to require oxygen; we had intervential pulmonologists and the radiation oncologists see you however decision was made not to pursue further interventions for now because you clinical status was very poor.
+Your oxygen requirement improved as we gave you lasix.
+You also had a chest tube placed to help remove the fluid from your lungs.
+You completed the course of antibiotics for the pneumonia prior to discharge.
+You were given medication to help slow heart rate down.
+You were also started on an anticoagulant to help prevent blood clots.
+The following changes were made to your medications: --- STARTED Ceftriaxone 1g every 24 hours for 8 more days.
+--- STARTED Lovenox 60mg injected daily.
+--- STARTED Diltiazem XL 360mg daily --- STARTED Advair 250-50 1 puff twice a day --- STARTED Omeprazole 20mg daily --- STOPPED Nifedipine --- STOPPED Coumadin --- STOPPED Iron --- STOPPED Metoprolol  Please be sure to continue taking your other medications as directed.

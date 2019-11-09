@@ -1,0 +1,41 @@
+Admission Date:  [**2169-1-23**]              Discharge Date:   [**2169-1-28**]  Date of Birth:  [**2109-6-15**]             Sex:   M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 106**] Chief Complaint: sudden cardiac arrest; ventricular fibrillation arrest  Major Surgical or Invasive Procedure: None this hospitalization  History of Present Illness: This is a 59 year-old Male with a PMH significant non-ischemic cardiomyopathy (cardiac MRI showing dilated LV with mild-to-moderate global systolic dysfunction, EF 42%, mild MR in [**2165**]), HLD, known LBBB who was in bed this morning at 7:45 AM and his wife noted him to be unresponsive with agonal breathing.
+He was intubated (had spontaneous respirations, dilated pupils, rechecked at 3-4 mm) and sedated with a Propofol gtt.
+Propofol gtt was continued.
+A Dopamine gtt was started given some SBP in the 70-80 mmHg range.
+He was given Fentanyl 250 mg IV x 1 and Rocuronium 50 mg IV x 1.
+He was also given Amiodarone 300 mg IV x 1.
+Prior to in-flight arrival, he received an additional 200 mg of IV Fentanyl, Midazolam 2 mg IV and Rocuronium 60 mg IV x 1.
+Given these findings, he was seen by Dr. [**Last Name (STitle) **] in Electrophysiology clinic, and he recommended repeating a 2D-Echo, which was done in [**8-/2167**] and showed an LVEF of 40-45% and thus ICD placement was deferred at that time.
+On arrival to the CCU, the patient arrived on cooling protocol and was minimally responsive given sedation and paralyzation.
+Cardiac review of systems is notable for absence of chest pain, dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or pre-syncope.
+They deny bleeding at the time of prior procedures or surgeries.
+Non-ischemic cardiomyopathy (cardiac MRI showing dilated LV with mild-to-moderate global systolic dysfunction, EF 42%, mild MR in [**2165**]; cardiac catheterization in [**2165**] was without coronary disease) 2.
+Brief Hospital Course: IMPRESSION: 59M with a PMH significant for non-ischemic cardiomyopathy (cardiac MRI showing dilated LV with mild-to-moderate global systolic dysfunction, EF 42%, mild MR in [**2165**]), HLD, known LBBB who is status-post sudden cardiac arrest (with undetermined rhythm) who had ROSC after shocks and CPR who is now intubated, sedated, paralyzed and on a hypothermia protocol, and is now hemodynamically stable.
+Etiologies for sudden cardiac arrest included ACS versus arrhythmia, enzymes flat and EKG with LBBB but not meeting criteria for ACS.
+The Artic Sun cooling protocol continued for 18-hours and then the patient was rewarmed without issues.
+We also started Aspirin, Atorvastatin and Metoprolol given the concern for acute coronary syndrome; but ultimately his cardiac biomarkers were reassuring and he had no new wall motion abnormalities on 2D-Echo so atorvastatin was discontinued and his aspirin was lowered to 81mg.
+He received an Amiodarone load of 300 mg IV at the outside hospital, but this was not continued on arrival to the CCU.
+His CTA chest was negative for pulmonary embolus and his heparin gtt was discontinued.
+A 48-hour EEG was continued per post-arrest protocol and showed no evidence of epileptiform foci, only moderate global encephalopathy.
+Following his rewarming protocol, sedation was weaned off, he awoke and was extubated on [**2169-1-25**] without issues.
+He was seen by Dr. [**Last Name (STitle) **] in Electrophysiology clinic, and he recommended repeating a 2D-Echo, which was done in [**8-/2167**] and this showed an LVEF of 40-45% and thus ICD placement was deferred at that time.
+He has been managed as an outpatient with ACEI and beta-blocker.
+We started Metoprolol and titrated this to control his heart rate; we discontinued his home Carvedilol dose.
+We started Atorvastatin 80 mg PO daily given concern ACS/MI.
+His lipid panel was overall reassuring and ultimately atorvastatin was discontinued as it was felt that his arrest was likely related to arrhythmia rather than ACS/atherosclerosis.
+Needs follow-up with [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] in [**3-4**] weeks for neuro-cognitive issues following cardiac arrest.
+Medications on Admission: HOME MEDICATIONS (confirmed with patient's wife) 1.
+Lisinopril 20 mg PO daily 2.
+Carvedilol 25 mg PO BID 3.
+Aspirin 81 mg PO daily  Discharge Medications: 1. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+2. lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+3. metoprolol succinate 200 mg Tablet Extended Release 24 hr Sig: One (1) Tablet Extended Release 24 hr PO once a day.
+Keflex 500 mg Capsule Sig: One (1) Capsule PO four times a day for 2 days.
+Disp:*8 Capsule(s)* Refills:*0* 5. lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO at bedtime: As needed for sleep.
+You were admitted to the Coronary Care Unit (CCU) at [**Hospital1 771**] on [**Hospital Ward Name 121**] 6 regarding management of your witnessed cardiac arrest event with return of circulation.
+Following stabilization, CPR and shocks, you required intubation and a cooling protocol to optimize your neurologic outcome.
+CHANGES IN YOUR MEDICATION RECONCILIATION: .
+* Upon admission, we ADDED Metoprolol succinate 200mg once per day by mouth.
+Keflex 500mg by mouth four times per day for 2 days.
+* The following medications were DISCONTINUED on admission and you should NOT resume: Carvedilol  * You should continue all of your other home medications as prescribed, unless otherwise directed above.
+Department: Primary Care Name: Dr. [**First Name8 (NamePattern2) **] [**Name (STitle) 1057**] When: Friday [**2169-2-3**] at 10:45 AM Location: [**Hospital1 **] HEALTHCARE - [**Hospital1 **] Address: ONE PEARL ST, [**Apartment Address(1) 17002**], [**Hospital1 **],[**Numeric Identifier 9647**] Phone: [**Telephone/Fax (1) 14331**]  Department: CARDIAC SERVICES When: THURSDAY [**2169-2-2**] at 1:30 PM With:  DEVICE CLINIC [**Telephone/Fax (1) 62**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage

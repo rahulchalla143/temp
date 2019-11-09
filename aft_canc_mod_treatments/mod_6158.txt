@@ -1,0 +1,72 @@
+Admission Date:  [**2185-5-12**]              Discharge Date:   [**2185-5-26**]  Date of Birth:  [**2117-2-8**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 30**] Chief Complaint: Fever, hypotension  Major Surgical or Invasive Procedure: Transthoracic echocardiogram   History of Present Illness: HPI: Mr. [**Known lastname 11753**] is a 68 YOM with COPD (on 2-4L O2 baseline), CLL, hypertension, PE (on coumadin c/b recent GI bleed [**4-23**] requiring 4 units pRBCs), chronic systolic heart failure (EF 35%), atrial fibrillation, and recent admission for Enterococcus faecalis bacteremia treated with ampicillin, who was admitted from rehab facility on [**2185-5-12**] for hypotension, lethargy, and fever.
+Of note, E. faecalis during prior admission was treated with ampicillin.
+Antibiotics were completed [**2185-4-30**], however his PICC was retained.
+During this time he became febrile to 102 on [**2185-5-10**], and PICC was removed [**2185-5-11**].
+On [**2185-5-12**] the patient was noted to have SBP in the mid-80s (baseline 110-130s) with tachypnea and increased oxygen requirement (baseline 88-90% on NC 3-5L).
+Vancomycin was considered but not given due to no IV access.
+He received Unasyn, levofloxacin, and NS 800cc.
+Past Medical History: - Chronic lymphoid leukemia - COPD (FVC 79% pred, FEV1 71% pred, FEV1/FVC 90% pred [**2-/2185**]) - [**Hospital1 **]-ventricular systolic failure, EF 45%; dilated RV with signs of overload - Pulmonary hypertension - Depression - Hypertension - Hyperlipidemia - Peptic ulcer disease - Right eye cataract (S/p removal at the age of 12.
+He had an injury to his eye and has no vision in that eye for years) - Deviated nasal septum, s/p nasal septal surgery - Cervical arthritis - History of colon polyps (?
+adenoma) - History of herniated disks - Chronic back pain - Pulmonary nodules - Pulmonary embolism s/p intubation, complicated by VAP - Enterococcus faecalis bacteremia  Social History: Married.
+Physical Exam: 98.2, 125, 123/69, 22, 100% 6L NC Gen:  Comfortable, mildy tachypneic HEENT:  Right surgical pupil; left pupil reactive to light; moist mucous membranes Neck:  JVP elevated approximately 12cm CV:  Irregularly irregular; tachycardic; normal S1/S2; no murmurs appreciated Pulmonary:  Bibasilar crackles Abdomen:  Hypoactive bowel sounds; soft, nontender, not distended Ext:  1+ edema at ankles, trace to knees bilaterally; radial, DP pulses 2+ except left DP 1+ Neuro:  Left EOMI; left pupil reactive to light; CN II-XII other than above intact Psych:  AOx3; answers questions appropriately  Pertinent Results: ADMISSION LABS: [**2185-5-12**] 03:30PM WBC-13.6* RBC-3.97* Hgb-11.1* Hct-34.8* MCV-88 Plt Ct-293 [**2185-5-12**] 03:30PM Neuts-35* Bands-0 Lymphs-49* Monos-8 Eos-0 Baso-0 Atyps-8* Metas-0 Myelos-0 [**2185-5-12**] 03:30PM Hypochr-1+ Anisocy-1+ Poiklo-1+ Macrocy-NORMAL Microcy-1+ Polychr-1+ Schisto-1+ Burr-1+ [**2185-5-12**] 03:30PM PT-20.2* PTT-32.8 INR(PT)-1.9* [**2185-5-12**] 03:30PM Glucose-95 UreaN-16 Creat-1.0 Na-137 K-4.3 Cl-100 HCO3-28 AnGap-13 [**2185-5-12**] 03:30PM ALT-19 AST-29 CK(CPK)-30* AlkPhos-64 TotBili-0.6 [**2185-5-12**] 03:30PM CK-MB-NotDone cTropnT-0.03* proBNP-[**Numeric Identifier 31519**]* [**2185-5-12**] 03:30PM Albumin-3.6 [**2185-5-12**] 08:07PM Type-ART pO2-58* pCO2-30* pH-7.50* calTCO2-24 Base XS-0 [**2185-5-12**] 04:07PM Lactate-2.3*  OTHER PERTINENT LABS:  [**2185-5-26**] BLOOD CULTURE Blood Culture, Routine-PENDING INPATIENT [**2185-5-25**] BLOOD CULTURE Blood Culture, Routine-PENDING INPATIENT [**2185-5-24**] BLOOD CULTURE Blood Culture, Routine-PENDING INPATIENT [**2185-5-23**] BLOOD CULTURE Blood Culture, Routine-PENDING INPATIENT [**2185-5-23**] BLOOD CULTURE Blood Culture, Routine-PENDING INPATIENT [**2185-5-22**] BLOOD CULTURE Blood Culture, Routine-PENDING INPATIENT [**2185-5-21**] BLOOD CULTURE Blood Culture, Routine-PENDING INPATIENT [**2185-5-21**] BLOOD CULTURE Blood Culture, Routine-PENDING INPATIENT [**2185-5-20**] BLOOD CULTURE Blood Culture, Routine-PENDING INPATIENT [**2185-5-20**] BLOOD CULTURE Blood Culture, Routine-FINAL INPATIENT [**2185-5-19**] BLOOD CULTURE Blood Culture, Routine-FINAL INPATIENT [**2185-5-18**] BLOOD CULTURE Blood Culture, Routine-FINAL INPATIENT [**2185-5-18**] BLOOD CULTURE Blood Culture, Routine-FINAL INPATIENT [**2185-5-18**] BLOOD CULTURE Blood Culture, Routine-FINAL INPATIENT [**2185-5-17**] BLOOD CULTURE Blood Culture, Routine-FINAL INPATIENT [**2185-5-17**] BLOOD CULTURE Blood Culture, Routine-FINAL INPATIENT   DISCHARGE LABS: COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct [**2185-5-26**] 06:31    15.9* 3.31* 8.6* 28.5* 86 25.9* 30.1* 18.7* 226 BASIC COAGULATION (PT, PTT, PLT, INR) PT PTT Plt Smr Plt Ct INR(PT) [**2185-5-26**] 06:31     21.1*       2.0* RENAL & GLUCOSE Glucose UreaN Creat Na K Cl HCO3 AnGap [**2185-5-26**] 06:31    861 16 0.9 138 4.3 103 27 12 CHEMISTRY TotProt Albumin Globuln Calcium Phos Mg UricAcd Iron Cholest [**2185-5-26**] 06:31          8.2* 3.0 1.9     MICRO: [**2185-5-12**] 3:40 pm BLOOD CULTURE       ENTEROCOCCUS FAECALIS.
+URINE: [**2185-5-12**] 03:40PM Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.015 [**2185-5-12**] 03:40PM Blood-NEG Nitrite-NEG Protein-25 Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-TR [**2185-5-12**] 03:40PM RBC-0-2 WBC-[**2-25**] Bacteri-NONE Yeast-FEW Epi-0-2 [**2185-5-12**] [**Last Name (un) **] Legionella: negative URINE CULTURE (Final [**2185-5-13**]):  MIXED BACTERIAL FLORA  Sputum: [**2185-5-13**] SputumCx: GPR, budding yeast [**2185-5-16**] SputumCx: SPARSE GROWTH Commensal Respiratory Flora.
+The common bile duct is not dilated and measures 0.3 cm.
+[**2185-5-20**] MR OF THE ABDOMEN WITH IV GADOLINIUM (MR ENTEROGRAPHY): T2-weighted dynamic images demonstrate normal peristalsis of the stomach and small bowel.
+Fusiform dilatation of the infrarenal abdominal aorta to 2.6 cm.
+Multiplanar 2D and 3D reformations and subtraction images generated on an independent workstation were valuable in assessment for source of infection or bleeding.
+There is atherosclerotic calcification of the aorta and coronary arteries.
+He was diuresed with IV Lasix and showed improvement, O2 requirement decreased from 6LNC to 4LNC.
+Rate control was obtained with Digoxin (pt was loaded), Diltiazem, and Metoprolol.
+The patient was subtherapeutic on his coumadin so a heparin bridge was briefly initiated until he became therapeutic.
+As he was not on oxygen prior to [**Month (only) 958**], it was thought that he was in acute heart failure with poor baseline reserve from his COPD, so he was aggressively diuresed with lasix.
+He was discharged on lasix 40 mg PO daily, spironolactone 12.5 mg daily and home O2.
+He had a positive blood culture at the rehab center and had his PICC line removed (per report the tip was cultured and showed no growth).
+The source of the patient's recurrent enterococcus bacteremia was further investigated, and GI was consulted to determine if he was seeding his blood from a source in the gut.
+The patient will need to continue ampicillin for a total of four week course to end on [**2185-6-13**]  He will follow up with ID on [**2185-6-9**].
+His PICC line was not centrally located at discharge but after discussion with pharmacy and nursing it was concluded it could be still be used as a midline for Ampicillin administration.
+In the ICU he was loaded with Digoxin and started on diltiazem in addition to his metoprolol.
+He was rate controlled on this regimen with rates in the 80s-90s.
+Eventually the diltiazem was discontinued and he remained well controlled.
+Coumadin was continued and he was found to have a subtheraputic INR during which time he was bridged with heparin.
+His INR later became therapeutic and heparin was stopped.
+Hypertension: The patient was started on Dogoxin, and diltiazem in addition to his home dose metoprolol as above for rate control.
+He was also started on lasix for his CHF.
+His diltiazem was discontinued and he was aggressively diuresed as his blood pressure could tolerate.
+He was not started on an ACE inhibitor depite his low ejection fraction because he was heavily diuresed with lasix and his SBP remained 90's-110's after he was re-started on his PO lasix dose.
+He should continue to take 40 mg PO of lasix daily.
+He should discuss with his PCP the need to start an ACE inhibitor due to his low ejection fraction.
+It was thought that in the setting of sepsis and IV fluid administration as well as a fib with RVR, the patient had decompensation of his CHF.
+He diuresed well to Lasix 20mg IV, and was negative 1 to 2 liters a day during the course of his admission.
+His respiratory status improved, however he still required supplemental oxygen at discharge.
+He will need to continue his lasix and metoprolol.
+He was started on spironolactone 12.5 mg daily for mortality benefit and on simvastatin 20 mg daily.
+As above, he should eventually start an ACE inhibitor if his blood pressure can tolerate it.
+# Urinary retention:  The patient had a foley placed in the ICU when he was being resuscitated.
+After the foley was removed he failed his voiding trial.
+He was started on finasteride and tamsulosin and his urinary retention improved.
+Medications on Admission: 5% lidocaine patch to R ribs 6a-6p daily Aspirin 81 mg daily oxycodone 5 mg po q6h prn pain diltiazem 60 mg po QID KCl 20 mEq po daily Multivitamin daily Spiriva 18 mcg inh [**Hospital1 **] Lopressor 100 mg po BID Pulmicort 90 mcg 2 puffs [**Hospital1 **] Levalbuterol 0.63/3 ml q6h senna Lasix 40 mg po qam Ativan 0.5 mg po qhs Remeron 7.5 mg po qhs [**Name (NI) **] unclear dosing, ?4 mg daily, scheduled for 3 mg po the night of admit which he did not receive.
+Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig: One (1) Adhesive Patch, Medicated Topical DAILY (Daily): to area of pain.
+Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+Oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for Pain.
+Multivitamin     Capsule Sig: One (1) Capsule PO once a day.
+Metoprolol Succinate 100 mg Tablet Sustained Release 24 hr Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).
+Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Spironolactone 25 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) as needed for Insomnia.
+Finasteride 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Tamsulosin 0.4 mg Capsule, Sust.
+Warfarin 5 mg Tablet Sig: One (1) Tablet PO Once Daily at 4 PM.
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+Digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Mirtazapine 15 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime).
+Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Budesonide-Formoterol 80-4.5 mcg/Actuation HFA Aerosol Inhaler Sig: Two (2) puffs Inhalation twice a day.
+Tiotropium Bromide 18 mcg Capsule, w/Inhalation Device Sig: One (1) Cap Inhalation twice a day.
+Ampicillin Sodium 2 gram Recon Soln Sig: One (1) Recon Soln Injection Q4H (every 4 hours) for 18 days.
+You were started on antibiotics for this infection.
+You will need to continue to take antibiotics by IV until [**2185-6-13**].
+You were given medicines to take fluid off and your breathing was better - although not back to your baseline from [**Month (only) 958**].
+It was thought that your CHF and COPD were contributing to your chronic shortness of breath.
+You will need to continue to take lasix to prevent fluid from building up in your lungs and causing you to be short of breath.
+Please note the following changes to your medications: Start: Ampicillin 2 g IV every 4 hours until [**2185-6-13**] Start: Spironolactone 12.5 mg daily Start: Digoxin 0.125 mg daily Start: Finasteride 5 mg daily Start: Tamsulosin 0.4 mg daily Start: Metoprolol succinate 100 mg daily Start: Simvastain 20 mg daily Start: Symbicort 2 puffs twice a day Stop: Metorpolol tartrate (Lopressor) Stop: Diltiazem Stop: Budesonide Stop: KCl  Please go to your follow up appointments (see below)  It was a pleasure taking part in your care, Mr. [**Known lastname 11753**].
+[**Telephone/Fax (1) 457**] Building: LM [**Hospital Unit Name **] [**Hospital 1422**] Campus: WEST     Best Parking: [**Hospital Ward Name **] Garage  Department: PULMONARY FUNCTION LAB When: THURSDAY [**2185-6-16**] at 2:10 PM With: PULMONARY FUNCTION LAB [**Telephone/Fax (1) 609**] Building: [**Hospital6 29**] [**Location (un) **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage  Department: PFT When: THURSDAY [**2185-6-16**] at 2:30 PM  Department: SURGICAL SPECIALTIES When: WEDNESDAY [**2185-7-13**] at 9:30 AM With: UROLOGY UNIT [**Telephone/Fax (1) 164**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage  Department: CARDIAC SERVICES When: MONDAY [**2185-7-11**] at 11:00 AM With: DR. [**First Name8 (NamePattern2) **] [**Doctor Last Name **] [**Telephone/Fax (1) 62**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **] Campus: EAST Best Parking: [**Hospital Ward Name 23**] Garage

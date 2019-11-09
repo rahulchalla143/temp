@@ -1,0 +1,17 @@
+The patient does not follow with a doctor; last saw MD 1.5 years ago for kidney stones.
+The patient has never had a colonoscopy or prostate exam.
+Family History: no history of bleeding/clotting disorders, father with massive MI at 60, grandmother with [**Name2 (NI) 499**] cancer  Physical Exam: Admission Physical Exam: VS: 184/92 (111), 92, 17, 93% on 3L General: pleasant obese gentleman, tachypneic with speaking, on nasal cannula, sitting up comfortably in bed HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL Neck: supple, hard to appreciate if JVP was elevated given habitus CV: RRR, S1, S2, no murmurs/rubs/gallops Lungs: Clear to auscultation bilaterally, no wheezes/crackles, good air movement Abdomen: obese, soft, non-tender, non-distended, bowel sounds present, no organomegaly Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema Neuro: CNII-XII intact, normal strength and sensation throughout   Discharge Physical Exam: VS:  Tc 97.8, Tm 99.0, 133/84, 58, 18, 96% 2LNC GA: AOx3, sleeping, pleasant, NAD HEENT: MMM.
+The patient was started on heparin drip in the ED and transferred to the MICU because of his great clot burden.
+The patient remained on IV heparin drip, with PTT goal 60-80, and was started on coumadin.
+INR was not sufficiently increasing after 3 days of coumadin 5mg, so coumadin 7.5mg was given and patient was started on lovenox shots on the day prior to discharge.
+Transitional Issues: Patient will have VNA service to help with lovenox administration and INR lab draws.
+He will also have an evaluation for cardiopulmonary and respiratory therapy as an outpatient.
+Medications on Admission: occassional aleve or advil once every other week  Discharge Medications: 1. enoxaparin 120 mg/0.8 mL Syringe Sig: One (1) syringe Subcutaneous Q12H (every 12 hours) for 14 days.
+Disp:*28 syringe* Refills:*0* 2. warfarin 7.5 mg Tablet Sig: One (1) Tablet PO once a day.
+Outpatient Lab Work Please draw INR on [**2179-11-11**] and fax results to [**Hospital1 18**] Anticoagulation Management Service, Fax# [**Telephone/Fax (1) 3534**].
+This will require that you take coumadin (also called warfarin) orally and lovenox shots twice daily and follow up regularly at clinic.
+Please START taking Lovenox 120mg syringe twice daily, at 8am and 8pm.
+Please START taking Warfarin 7.5mg by mouth daily.
+You will likely have your warfarin dose changed as we monitor the thinness of your blood, in order to achieve an appropriate level of anticoagulation.
+Followup Instructions: Department: [**Hospital3 249**] When: MONDAY [**2179-11-15**] at 9:40 AM With: Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] Address: [**Location (un) 830**] [**Location (un) 86**], [**Numeric Identifier 718**] Location: [**Company 191**] POST [**Hospital 894**] CLINIC [**Telephone/Fax (1) 250**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 895**] Central [**Hospital **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage This appointment is with a hospital-based doctor as part of your transition from the hospital back to your primary care provider.
+***Finally, you will be contact[**Name (NI) **] by the Gastroenterology Department and scheduled for a colonoscopy with Dr. [**Last Name (STitle) 92545**] [**Name (STitle) **] for sometime in the next month.

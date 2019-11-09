@@ -1,0 +1,54 @@
+Per the daughter, the pt's physician was concerned about the labs and recommended evaluation in the ED.
+In the ED at [**Hospital1 18**], initial VS 97.1 112/73  70  2 97 RA.
+UA was positive for UTI with WBC 12.1.
+Serum sodium was noted to be 155.
+He was given 5 units reg insulin for glucose 474.
+Pertinent Results: [**2115-5-22**] 01:05AM URINE  COLOR-Yellow APPEAR-Hazy SP [**Last Name (un) 155**]-1.025 [**2115-5-22**] 01:05AM URINE  BLOOD-LG NITRITE-POS PROTEIN-TR GLUCOSE-1000 KETONE-TR BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-MOD [**2115-5-22**] 01:05AM URINE  RBC-[**11-15**]* WBC->50 BACTERIA-MANY YEAST-NONE EPI-0-2 [**2115-5-22**] 12:53AM   COMMENTS-GREEN TOP [**2115-5-22**] 12:53AM   LACTATE-3.3* [**2115-5-22**] 12:35AM   GLUCOSE-474* UREA N-76* CREAT-1.5* SODIUM-155* POTASSIUM-4.2 CHLORIDE-121* TOTAL CO2-21* ANION GAP-17 [**2115-5-22**] 12:35AM   estGFR-Using this [**2115-5-22**] 12:35AM   ALT(SGPT)-7 AST(SGOT)-14 ALK PHOS-62 TOT BILI-0.4 [**2115-5-22**] 12:35AM   LIPASE-57 [**2115-5-22**] 12:35AM   CALCIUM-8.6 PHOSPHATE-2.9 MAGNESIUM-3.1* [**2115-5-22**] 12:35AM   WBC-12.1*# RBC-4.09*# HGB-13.0*# HCT-40.9# MCV-100* MCH-31.8 MCHC-31.8 RDW-14.9 [**2115-5-22**] 12:35AM   NEUTS-79.7* LYMPHS-14.5* MONOS-2.8 EOS-2.6 BASOS-0.4 [**2115-5-22**] 12:35AM   PLT COUNT-145* [**2115-5-22**] 12:35AM   PT-13.4 PTT-23.7 INR(PT)-1.2* .
+CXR [**2115-5-22**]:  UPRIGHT RADIOGRAPHS OF THE CHEST: Mildl enlargement of the cardiac silhouette is chronic.
+MICRO: URINE CULTURE (Final [**2115-5-25**]):       ESCHERICHIA COLI.
+FECAL CULTURE (Final [**2115-5-26**]):    NO SALMONELLA OR SHIGELLA FOUND.
+CAMPYLOBACTER CULTURE (Final [**2115-5-25**]):    NO CAMPYLOBACTER FOUND.
+CLOSTRIDIUM DIFFICILE TOXIN A & B TEST (Final [**2115-5-23**]):       Feces negative for C.difficile toxin A & B by EIA.
+**FINAL REPORT [**2115-5-28**]**     CLOSTRIDIUM DIFFICILE TOXIN A & B TEST (Final [**2115-5-28**]):       Feces negative for C.difficile toxin A & B by EIA.
+AXR [**2115-5-25**]: HISTORY: 87-year-old man with sepsis, recovering, but more distended with diarrhea, evaluate for colonic distention.
+TECHNIQUE: A supine abdominal x-ray dated [**2115-5-25**] at 11:15 a.m. was obtained.
+Comparison is made to a prior CT scan of the abdomen and pelvis dated [**2115-3-24**].
+The study and the report were reviewed by the staff radiologist.
+CT abdomen/pelvis with oral contrast [**2115-5-26**]: CT ABDOMEN/PELVIS WITH CONTRAST: In the visualized lung bases, there are new small bilateral pleural effusions, left more than right.
+Evaluation of the collapsed bladder is limited, but no gross abnormality is identified.
+CXR [**2115-5-26**]: IMPRESSION: AP chest compared to [**5-23**] and 31.
+Pulmonary and mediastinal vascular congestion accompanied by small increasing right pleural effusion suggests that the basal predominant opacification in the lungs is due to pulmonary edema and not pneumonia.
+TTE [**2115-5-28**]: The left atrium is mildly dilated.
+Overall left ventricular systolic function is normal (LVEF>55%).
+If clinically indicated, a transesophageal echocardiogram may better assess for valvular vegetations.
+His donepezil was discontinued and his heart rate normalized to the 60s.
+On the evening of transfer back to the floor on [**2115-5-26**], the patient again became febrile to 101.9 with SBP in the 70s.
+Continued to hold BP meds.
+Repeat CXR showed a possible new LLL PNA, however subsequent CXR relayed that this was more likely effusion/atelectasis in the LLL.
+Given his abdominal distension and diarrhea, CT abdomen/pelvis was performed.
+C diff was negative x 3 and stool cultures were negative.
+Repeat UA still appeared dirty so urine culture was again sent but was negative.
+Repeat blood cultures were negative.
+TTE on [**5-28**] showed no vegetations and EF of 55%.
+Once transferred back to the floor, the pt continued to have pauses up to 2 seconds and HR in the 50s.
+He would also have bursts of HR up to 120s.
+Na was 139 at discharge.
+Given staph aureus in the urine, blood cultures were checked but were negative.
+Initially was treated with Vanc/Cefepime/Zosyn, but tailored down to bactrim based on urine sensitivities.
+As per above, once pt was hypotensive again, his antibiotics were again changed back to Vanc/Cefepime/flagyl and UA/urine culture were repeated.
+# Pulmonary edema: Pt had noted edema on CXR on [**2115-5-26**] after 4 L NS fluid resuscitation.
+Oxygen saturation remained mid 90s on room air.
+TTE on [**2115-5-28**] showed normal EF at 55%.
+On day of discharge [**5-29**], pt had increased wheezing and crackles in his lungs on exam (still satting 98% RA), so given Lasix 10 mg IV x1.
+As BP tolerates, pt may need some gentle diuresis after the aggressive fluid resuscitation he received here.
+His creatinine improved with IVF to 0.9 at discharge.
+# PEG tube replacement: Pts PEG tube fell out on [**2115-5-26**] after returning from CT scan.
+# Leukopenia: WBC was lower at 3.5 on both [**5-28**] and [**5-29**].
+Would repeat CBC on [**2115-6-1**] to ensure WBC is stable.
+C diff was negative x 2.
+Given persistent fevers/hypotension, CT abdomen/pelvis was performed on [**2115-5-26**].
+Can consider restarting as BP remains stable (had been on 2.5 mg three times a day).
+Your blood pressure dropped while you were here, requiring admission to the ICU.
+Your blood pressure again dropped, and you were started on broad spectrum antibiotics.
+Your blood pressures have improved, and you have had no more fevers for over 48 hours.
+Call your doctor or go to the ER for any worsening confusion, recurrent fevers, abdominal pain, vomiting, persistent diarrhea, or any other concerning symptoms.

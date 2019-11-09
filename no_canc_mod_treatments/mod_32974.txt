@@ -1,0 +1,45 @@
+Admission Date:  [**2129-6-3**]              Discharge Date:   [**2129-7-12**]  Date of Birth:  [**2052-7-24**]             Sex:   M  Service: CARDIOTHORACIC  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 922**] Chief Complaint: Chest pain  Major Surgical or Invasive Procedure: [**2129-6-7**] Coronary artery bypass grafting to four vessels.
+(Left internal mammary artery->Left anterior descending artery, Saphenous vein graft(SVG)->Diagonal artery, SVG->Obtuse marginal artery, SVG->Posterior descending artery.
+Past Medical History: Atrial fibrillation (on coumadin) Chronic obstructive pulmonary disease Hypertension Hyperlipidemia Obesity Glaucoma Bronchitis Myocardial infarction 30 y ago Cholethiasis (by CT scan) right pericardial Cyst (noted on CT [**5-12**]) Peripheral artery disease  Social History: Occupation: Retired  Lives with wife [**Name (NI) 1139**]:  2pks x 30y   ETOH: occasional  Family History: non-contributory  Physical Exam: Pulse: 81 SR  Resp: 14  O2 sat: 98% 4 L NC B/P  Right: 112/66   Left: Height: 5'8''     Weight: 220 lbs  General: Skin: Dry [x] intact [] edema 2 + pitting in [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) 4459**]: PERRLA [] EOMI [x] Neck:  Supple [x] Full ROM [] short neck Chest: Lungs clear bilaterally [x] Heart: RRR [ ]  Irregular [x]  Murmur - Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds + [] Extremities: Warm [x], well-perfused []  Edema Varicosities: cannot assess Neuro: Grossly intact/ moves 4 ext Pulses: Femoral      Right: +  Left: + DP           Right: dop  Left: dop PT           [**Name (NI) 167**]:   Left: Radial       Right: +  Left: +  Carotid Bruit        Right: -   Left: -   Pertinent Results: [**2129-6-6**] Carotid Ultrasound 1.
+POST-CPB: On infusions of phenylephrine and epinephrine, AV pacing, preserved biventricular systlic function compared with pre-bypass, LVEF = 35-40%, MR remains mild, aortic contour normal post decannulation, no evidence of hematoma or dissection of aortic wall.
+DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 3891**] Approved: FRI [**2129-7-8**] 2:57 PM ===========================================   [**2129-6-3**] 08:56PM URINE  BLOOD-LG NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-TR [**2129-6-3**] 08:56PM URINE  RBC->50 WBC-[**7-13**]* BACTERIA-FEW YEAST-NONE EPI-0-2 [**2129-6-3**] 07:34PM   GLUCOSE-103 UREA N-23* CREAT-1.5* SODIUM-139 POTASSIUM-3.3 CHLORIDE-99 TOTAL CO2-31 ANION GAP-12 [**2129-6-3**] 07:34PM   ALT(SGPT)-14 AST(SGOT)-16 LD(LDH)-269* CK(CPK)-51 ALK PHOS-72 AMYLASE-40 TOT BILI-0.7 [**2129-6-3**] 07:34PM   LIPASE-34 [**2129-6-3**] 07:34PM   CK-MB-NotDone cTropnT-0.04* [**2129-6-3**] 07:34PM   ALBUMIN-3.5 CALCIUM-8.5 PHOSPHATE-3.2 MAGNESIUM-1.9 [**2129-6-3**] 07:34PM   %HbA1c-6.6* [**2129-6-3**] 07:34PM   TSH-2.6 [**2129-6-3**] 07:34PM   WBC-5.3 RBC-3.05* HGB-9.7* HCT-29.5* MCV-97 MCH-31.7 MCHC-32.9 RDW-16.7* [**2129-6-3**] 07:34PM   PT-25.1* PTT-56.2* INR(PT)-2.5* [**2129-6-3**] 07:34PM   PLT COUNT-226 [**2129-7-11**] 08:55AM BLOOD WBC-8.5 RBC-3.25* Hgb-9.8* Hct-30.2* MCV-93 MCH-30.2 MCHC-32.5 RDW-18.2* Plt Ct-224 [**2129-7-11**] 08:55AM BLOOD PT-18.7* INR(PT)-1.7* [**2129-7-11**] 08:55AM BLOOD Glucose-179* UreaN-30* Creat-1.6* Na-140 K-5.1 Cl-99 HCO3-30 AnGap-16 ======================================== [**2129-7-3**] 11:06 am URINE      Source: Catheter.
+SENSITIVITIES: MIC expressed in MCG/ML                              CITROBACTER FREUNDII COMPLEX                              | CEFEPIME--------------   <=1 S CEFTAZIDIME-----------  =>64 R CEFTRIAXONE-----------    16 I CIPROFLOXACIN---------     2 I GENTAMICIN------------   <=1 S MEROPENEM-------------<=0.25 S NITROFURANTOIN--------  <=16 S TOBRAMYCIN------------   <=1 S TRIMETHOPRIM/SULFA----   <=1 S ==============================================      Brief Hospital Course: Mr. [**Known lastname 953**] was admitted to the [**Hospital1 18**] on [**2129-6-3**] for surgical management of his coronary artery disease.
+Plavix was allowed to washout of his system.
+On [**2129-6-7**], Mr. [**Known lastname 953**] was taken to the operating room where he underwent coronary artery bypass grafting to four vessels with ligation of his left atrial appendage.
+He remained on pressors and intubated overnight.
+He remained intubated for a prolonged postoperative period due to hemodynamic instability as well as thick secretions impairing his ventilation/oxygenation status.
+By POD#7 Mr.[**Known lastname 953**] was weaned off all pressors and inotropes.
+He was treated with antibiotics for positive staph sputum culture and he was aggressively diuresed to optimize his potential for extubation.
+POD#13 Ventilator weaning continued until an episode of flash pulmonary edema which required increased ventilatory support.
+All lines and drains were removed in a timely fashion.
+Over the next several days Mr.[**Known lastname 953**] remained in the CVICU due to his state of confusion, refusing medications and nutrition, requiring Haldol and need for pulmonary management.
+Sleep consult was called and CPAP was initiated for obstructive sleep apnea.
+Full anticoagulation was attained with Coumadin for his rate controlled, chronic atrial fibrillation.
+Beta-blocker, Digoxin, aspirin and statin were initiated once blood pressure and heart rate would tolerate.
+Speech and swallow evaluated oral and pharyngeal dysphagia with recommendations for nectar thickened/ground solid advancement of po intake and tube feeds over night.
+Wound care was also consulted for skin impairments and heel ulcerations.
+Given his delirium, it was recommended to continue Haldol twice daily and prn, optimize non-psychopharm measures(frequent reorientation, emphasize sleep wake cycle, dimming lights at night) and minimize benozodiazepines, opiates and anti-cholinergics.
+A u/a was also check which was positive and the patient was started on Bactrim.
+By POD# 35 he continued to progress and he was cleared for discharge to rehab for further increase in strength, endurance and conditioning.
+All follow up appointments were advised   Medications on Admission: Lasix 40 mg daily Xalatan eye drops Timoptic 0.5% one drop each eye prilosec 20 mg daily Zocor 80 mg daily Plavix 75mg daily Cardizem CD 120 mg daily Aspirin 81 mg daily Lopressor 50 mg twice a day Fluorouracil 5% cream every 8 hours topical Combivent inhaler 2 puffs QID  Discharge Medications: 1.
+Carvedilol 12.5 mg Tablet [**Doctor Last Name **]: One (1) Tablet PO BID (2 times a day).
+Ipratropium Bromide 0.02 % Solution [**Doctor Last Name **]: One (1)  Inhalation Q6H (every 6 hours) as needed for wheezing.
+Digoxin 125 mcg Tablet [**Doctor Last Name **]: One (1) Tablet PO DAILY (Daily).
+Simvastatin 40 mg Tablet [**Doctor Last Name **]: One (1) Tablet PO DAILY (Daily).
+Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: One (1) Tablet,Rapid Dissolve, DR [**Last Name (STitle) **] DAILY (Daily).
+Latanoprost 0.005 % Drops [**Last Name (STitle) **]: One (1) Drop Ophthalmic HS (at bedtime).
+Bisacodyl 10 mg Suppository [**Last Name (STitle) **]: One (1) Suppository Rectal DAILY (Daily) as needed for constipation.
+Acetaminophen 325 mg Tablet [**Last Name (STitle) **]: Two (2) Tablet PO Q4H (every 4 hours) as needed for pain/fever.
+Aspirin 81 mg Tablet, Delayed Release (E.C.)
+Warfarin 1 mg Tablet [**Last Name (STitle) **]: as directed to keep INR 2-2.5 Tablets PO DAILY (Daily): Target INR 2-2.5 Patient to recieve 2mg on [**7-12**] then as directed to keep INR 2-2.5.
+Insulin Regular Human 100 unit/mL Solution [**Month/Day (4) **]: sliding scale  Injection QAC&HS.
+Potassium Chloride 20 mEq Tab Sust.Rel.
+Haloperidol 2 mg Tablet [**Month/Day (4) **]: One (1) Tablet PO TID (3 times a day).
+Trimethoprim-Sulfamethoxazole 160-800 mg Tablet [**Month/Day (4) **]: One (1) Tablet PO BID (2 times a day) for 10 days.
+Furosemide 10 mg/mL Solution [**Month/Day (4) **]: Sixty (60) mg Injection [**Hospital1 **] (2 times a day).
+Heparin, Porcine (PF) 10 unit/mL Syringe [**Hospital1 **]: as outlined below ML Intravenous PRN (as needed) as needed for line flush: Heparin Flush (10 units/ml) 2 mL IV PRN line flush PICC, heparin dependent: Flush with 10mL Normal Saline followed by Heparin as above daily and PRN per lumen.
+Discharge Disposition: Extended Care  Facility: [**Hospital1 700**] - [**Location (un) 701**]  Discharge Diagnosis: Coronary artery disease s/p CABG Postop Delirium Atrial fibrillation Chronic Obstructive Pulmonary Disease Hypertension Hyperlipidemia Obesity Glaucoma Bronchitis Myocardial Infarction Cholelithiasis Peripheral artery disease Cellulitis MRSA (nasal swab)   Discharge Condition: Good.
+These include redness, drainage or increased pain.
+4)  No lotions, creams or powders to incision until it has healed.
+Use sunscreen on incision if exposed to sun.
+8)Adjust Warfarin for goal INR between 2.0 - 3.0.

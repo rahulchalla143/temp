@@ -1,0 +1,28 @@
+Admission Date:  [**2169-12-7**]              Discharge Date:   [**2169-12-9**]  Date of Birth:  [**2130-2-9**]             Sex:   M  Service: MEDICINE  Allergies: Ampicillin / Ancef  Attending:[**First Name3 (LF) 898**] Chief Complaint: Tx from [**Hospital1 **] -Need for eval for pacemaker   Major Surgical or Invasive Procedure: None  History of Present Illness: This is a 39 year old male with a history of paraplegia after a car accident at the age of 19 who was in [**Hospital1 **]-Need for a UTI.
+Patient has a history of UTIs and was being treated with imipenum given past reistance patterns.
+He grew Enterobacter from his urine that was sensitive to Cipro and Bactrim but he was continued on Imipenum given past sensitivities.
+5. s/p appendicovesicostomy 6.
+HEENT: Sclera anicteric, MMM, oropharynx clear Neck: supple, JVP not elevated, no LAD Lungs: CTA b/l CV: bradycardic, normal S1 + S2, no murmurs, rubs, gallops Abdomen:  urostomy and bowel cateter site clean, soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly GU: foley intact Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema Neuro: Right eye prosthesis.
+Pertinent Results: [**2169-12-7**] 10:28PM BLOOD WBC-4.3 RBC-2.69* Hgb-8.7* Hct-25.9* MCV-96 MCH-32.3* MCHC-33.6 RDW-17.1* Plt Ct-67*# [**2169-12-7**] 10:28PM BLOOD Plt Ct-67*# [**2169-12-7**] 10:28PM BLOOD Glucose-90 UreaN-29* Creat-1.2 Na-145 K-4.5 Cl-110* HCO3-26 AnGap-14 [**2169-12-7**] 10:28PM BLOOD Calcium-8.3* Phos-3.5 Mg-1.9 [**2169-12-7**] 10:28PM URINE Color-Straw Appear-Clear Sp [**Last Name (un) **]-1.006 [**2169-12-7**] 10:28PM URINE Blood-SM  Nitrite-NEG Protein-100 Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-LG [**2169-12-7**] 10:28PM URINE RBC-3* WBC-27* Bacteri-FEW Yeast-NONE Epi-0 [**2169-12-7**] 10:28PM URINE Mucous-RARE  [**12-7**] Urine culture pending  Brief Hospital Course: 39-year-old male, with a C5 quadriplegia, history of recurrent urinary tract infections, bladder dysfunction that requires frequent bladder cath, previous history of bradycardia, who was initially admitted to [**Hospital1 **] [**Location (un) **] with severe UTI and concerns for sepsis, transferred to [**Hospital1 18**] for evaluation of pacemaker.
+Patient is asymptomatic with these episodes.
+The patient was initially admitted to the MICU, had external pacer pads in place, and also had atropine at the bedside.
+Oral Baclofen was stopped at [**Hospital1 **] [**Location (un) 620**] and Zoloft was restarted here at [**Hospital1 18**].
+The Electrophysiology service was consulted, and recommended medical optimization of his regimen, including weaning down baclofen.
+Given history of ESBL, patient was started on Imipenem at [**Hospital1 **] [**Location (un) 620**].
+Patient was maintained on his home regimen of keppra and dilantin.
+Based upon the patient's history of significant clostridium difficile infection with previous antibiotic use, the patient should be covered with flagyl while on antibiotics and for 2 weeks after completion of antibiotics.
+Medications on Admission: Sertraline 100 mg DAILY Senna 8.6 mg 4 Tablets PO q T/T/S Levetiracetam 1000 mg [**Hospital1 **] Trazodone 50 qHS prn B Complex Plus Vitamin C 15-10-50-5-300 mg daily Docusate Sodium 400 mg qT/T/S Bisacodyl 20mg qT/T/S Saline Flushes through bowel catheter to promote BM.
+Simvastatin 40 mg daily Baclofen  Intrathecal Phenytoin Sodium Extended 100 mg [**Hospital1 **]  Discharge Medications: 1.
+Sertraline 50 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Senna 8.6 mg Tablet Sig: Four (4) Tablet PO QTUTHSA (TU,TH,SA).
+Levetiracetam 500 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day).
+Trazodone 50 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) as needed for insomnia.
+B-Complex with Vitamin C     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Docusate Sodium 100 mg Capsule Sig: Four (4) Capsule PO QTUTHSA (TU,TH,SA).
+Bisacodyl 5 mg Tablet, Delayed Release (E.C.)
+Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Metronidazole in NaCl (Iso-os) 500 mg/100 mL Piggyback Sig: One (1) piggyback Intravenous Q8H (every 8 hours) for 22 days: To be continued 2 weeks after completion of antibiotics.
+Meropenem 500 mg Recon Soln Sig: One (1) Recon Soln Intravenous Q6H (every 6 hours) for 14 days: day 1 = [**12-3**].
+Discharge Disposition: Extended Care  Facility: [**Hospital1 700**] - [**Location (un) 701**]  Discharge Diagnosis: Primary diagnosis: Sinus Bradycardia Urinary tract infection  Secondary diagnosis: Paraplegia   Discharge Condition: Mental Status:Clear and coherent Level of Consciousness:Alert and interactive Activity Status:Out of Bed with assistance to chair or wheelchair   Discharge Instructions: You were admitted for evaluation of sinus bradycardia (slow heart rate).
+You were evaluated by Cardiology, who recommended that you do not need a pacemaker for this.
+We continued treating you with antibiotics for your urinary tract infection.

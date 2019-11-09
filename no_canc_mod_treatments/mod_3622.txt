@@ -1,0 +1,26 @@
+Admission Date:  [**2126-3-1**]              Discharge Date:   [**2126-3-3**]  Date of Birth:  [**2079-4-2**]             Sex:   M  Service: MEDICINE  Allergies: Lisinopril / Shellfish Derived  Attending:[**First Name3 (LF) 7333**] Chief Complaint: chest pain  Major Surgical or Invasive Procedure: cardiac catheterization  History of Present Illness: Mr. [**Known lastname **] is a 46 year old man w/hx of CAD s/p inferolateral MI [**3-25**] and [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] 2 to proximal LCx into OM1 who presented to the ED with chest pain.
+He does not take NTG at home and does not have any.
+He received aspirin 325mg x 1, Plavix 600mg x 1, Morphine 4mg IV x 1.
+NTG gtt, heparin gtt and integrillin gtt were started.
+A balloon angioplasty was performed and IVUS showed the stent to be intact.
+He was given Prasugrel 60mg X 1 in the cath lab.
+Of note, he admits to missing several [**Month/Year (2) 4319**] of Plavix in the last few months.
+His aspirin dose was recently decreased from 325mg to 81mg daily.
+On review of systems, he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.
+Cardiac review of systems on admission is notable for absence of chest pain, dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope.
+Past Medical History: CAD s/p inferolateral MI [**3-25**] with 2 overlapping Cypher stents to occluded LCx into OM1 prior RCA stenting [**6-19**] Angioedema after starting Lisinopril [**3-25**], resolved Pneumonectomy s/p MVA  Social History: Social history is significant for the absence of current tobacco use, quit in [**2121**], 1ppd prior.
+Successful thrombectomy and PTCA of the OM stent thrombus with a 3.5mm balloon.
+Successful closure of the right femoral arteriotomy site with a 6F Perclose device.
+Thrombus within mid LCx stent successfully treated with thrombectomy and PTCA.
+Brief Hospital Course: Mr. [**Known lastname **] is a 46yo M with CAD s/p prior inferolateral MI and [**Known lastname **] to OM1 [**3-25**] who presented to the ED with chest pain, was found to have a STEMI and taken to the cath lab were OM1 stent showed acute thrombus.
+A balloon angioplasty was performed and IVUS showed the stent to be intact.
+Patient was also continued on aspirin 325mg daily, Metoprolol 25mg PO BID, Toprol XL 25mg daily and lipitor 80mg daily.
+Patient came back from the cath lab on nitro gtt which was promptly turned off, and he was chest pain free during the rest of his hospital stay.
+Toprol 25mg daily was continued.
+# FEN: Patient received cardiac, heart-healthy diet, and he tolerated POs well.
+# PPX: Patient was on SC Heparin for DVT prophylaxis.
+# COMM: wife [**Name (NI) 19904**]: [**0-0-**] (cell); [**Telephone/Fax (1) 19905**] (home)   Medications on Admission: Lipitor 80mg PO qday Plavix 75mg PO qday Toprol XL 25mg PO qday ASA 325mg PO qday  Discharge Disposition: Home  Discharge Diagnosis: Primary diagnoses: - Myocardial infarction - Coronary artery disease   Discharge Condition: Afebrile, hemodynamically stable, chest pain free Mental Status:Clear and coherent Level of Consciousness:Alert and interactive Activity Status:Ambulatory - Independent   Discharge Instructions: It was a pleasure to be involved in your care, Mr. [**Known lastname **].
+Your Plavix was changed to Prasugrel 10mg by mouth once a day to help prevent a clot from reforming.
+Your other medications have not been changed.
+Please continue to take lipitor, toprol XL, and full dose aspirin (325mg daily).
+Followup Instructions: You need to see Dr. [**Last Name (STitle) **], your cardiologist, within the next two weeks.

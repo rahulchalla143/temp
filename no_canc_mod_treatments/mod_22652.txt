@@ -1,0 +1,59 @@
+Admission Date:  [**2117-7-27**]              Discharge Date:   [**2117-8-23**]  Date of Birth:  [**2047-3-17**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**Doctor First Name 3290**] Chief Complaint: Diarrhea  Major Surgical or Invasive Procedure: Colonoscopy EGD Octreotide Scan   History of Present Illness: Mr. [**Known lastname 85187**] is a 70 year old with a history of chronic diarrhea who presented to [**Hospital1 18**] with positive blood cultures and arterial clots.
+He was given 1gm IV vancomycin and 2L normal saline.
+He was started on a heparin gtt without a bolus.
+He has been on prilosec and zantac in the past but is not taking these currently.
+In the past two weeks, he has been started on Peptamen as well as a low-fat diet.
+Past Medical History: R Kidney Tumor treated with partial nephrectomy 2 years ago S/P Retinal Detachment and cataract surgery bilaterally Inguinal Hernia Repair Appendectomy 4 years ago ?
+Radiology: MR ENTEROGRAPHY ([**Numeric Identifier 46893**]&[**Numeric Identifier 46894**]) SBFT	Study Date of [**2117-7-27**] 7:08 AM IMPRESSION: 1.
+Recommend evaluation with colonoscopy if not recently performed.
+The right PICC line tip can be seen till the level of low SVC at least.
+[**8-15**] MRI Abdomen: No hypervascular tumors; no evidence of neuroendocrine tumor   Brief Hospital Course: Mr. [**Known lastname 85187**] is a 70 yoM, Greek-speaking only, who initially presented for work-up of chronic diarrhea (protein losing enteropathy, possible lymphangectasia), who was incidentally found to have MSSA endocarditis with arterial thrombus to mesentery; also with PICC line LUE DVT, bil.
+pleural effusions; recently started on TPN .
+Blood cultures grew MSSA and the patient is on Nafcillin 2g q4h to complete a 6 week course; last day of antibiotics is [**2117-9-7**].
+The patient should have a repeat Echo and blood cultures at the end of therapy to be certain he has cleared the infection.
+He has had problems in the past with pulmonary edema and was on Lasix 40 mg qd at home in [**Country 5881**].
+Lasix was started and since the 11th, the patient has maintained stable weight.
+He was discharged on a regimen of PO Lasix 120 mg qam, and 80 mg q6pm.
+He may need either up or down titration of this regimen depending on his diuresis.
+He has also required regular potassium repletion during active diuresis.
+#LUE DVT: The patient was found to have a PICC line associated thrombus in his L UE on [**8-6**] so the PICC line was removed and a new PICC was placed on the Right.
+Hematology recommended anticoagulation therapy for 3 months.
+The patient was initially on a heparin drip but was transitioned to lovenox and coumadin.
+On the day of discharge, the patient was still subtherapeutic on coumadin with an INR of 1.2.
+He was discharged on 7.5 mg coumadin qday as well as lovenox 70 mg [**Hospital1 **].
+#Atrial Tachycardia: While in the ICU and the beginning of his stay on the floor, the patient was noted to have a murmur (likely aortic vegetation), as well as bursts of tachycardia up into the 150s, which one night required the usage of PO and IV Metoprolol.
+Cardiology was consulted, and after examining the EKGs felt that the patient's tachycardia was likely atrial tachycardia vs sinus tachycardia with very frequent PAC, and recommended starting him on PO Metopolol.
+The patient responded well to Metoprolol Tartrate 25 mg PO/NG TID, and did not have any further bursts of tachycardia during his stay.
+He was recently started on a low-fat diet and a medium chain triglycerides, which are a large part of the Peptamen formulation, and found some improvement in his diarrhea, which was therefore thought to be evidence consistent with intestinal lymphangiectasia.
+A colonoscopy and enterography were concerning for TI and IC valve ulcers, but the gross appearance of the proximal transverse lumen and jejunal were unremarkable.
+His Hct stabilized during his hospitalization at 23-24.
+It reached a nadir during his stay at 73; Heme/Onc was consulted, and they felt that his thrombocytopenia was likely due to consumption and infection, particularly as it normalized to ~200 at the time of his discharge following treatment of his endocarditis and nutrition via TPN.
+The patient was anticoagulated with heparin drip/pneumoboots/lovenox or coumadin for DVT prophylaxis.
+Medications on Admission: Chlordiazepoxide-Clidinium (Librax) 5/2.5mg daily Lasix 40mg PO daily Spironolactone 25mg PO daily Peptamen supplement    Discharge Medications: 1.
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO TID (3 times a day).
+Nafcillin in D2.4W 2 gram/100 mL Piggyback Sig: Two (2) grams Intravenous Q4H (every 4 hours) for 15 days: Please continue to take until [**2117-9-7**].
+Medium Chain Triglycerides 7.7 kcal/mL Oil Sig: Fifteen (15) ML PO TID (3 times a day): Pt may take up to 4-5 times per day as tolerated.
+Enoxaparin 80 mg/0.8 mL Syringe Sig: One (1) 70mg dose Subcutaneous Q12H (every 12 hours): Until stopped by PCP.
+Coumadin 2.5 mg Tablet Sig: Three (3) Tablet PO once a day: Please follow the coumadin regimen prescribed by your new PCP.
+Citalopram 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Lorazepam 1 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) as needed for insomnia.
+Lasix 40 mg Tablet Sig: 2-3 Tablets PO twice a day: Please take 3 tabs (120 mg) each morning and 2 tabs (80mg) each evening .
+Potassium Chloride 10 mEq Tablet Sustained Release Sig: Two (2) Tablet Sustained Release PO twice a day.
+Outpatient Lab Work You will need weekly labs drawn including LFTs, Cr/BUN, and CBC with diff.
+For her, weekly labs including CBC/diff and CMP should be faxed to [**Telephone/Fax (1) 18738**].
+Outpatient Lab Work You will need to have routine INR's drawn and managed by your PCP, [**Last Name (NamePattern4) **].
+We then imaged your heart with ultrasound, and saw that you had a bacterial vegetation on one of your heart valves - the aortic valve.
+In addition, we consulted the GI doctors who performed a colonoscopy and an enteroscopy.
+We have temporarily started you on IV nutrition, known as TPN, that will be continued after you are discharged from the hospital.
+Finally, your hospital course was complicated by a blood clot in your left arm that was associated with the PICC line (IV) that you had placed.
+For this, you have been started on anticoagulation and will need to complete 3 months of anticoagulation therapy.
+You will receive lovenox shots twice per day until your INR is therapeutic on coumadin.
+In the hospital, we STOPPED the following of your home medications: Please STOP taking the following medications: - Chlordiazepoxide-Clidinium (Librax) 5/2.5mg daily - Spironolactone 25mg PO daily .
+We STARTED the following medications: Nafcillin 2 g IV every four hours until [**9-7**] Pantoprazole 40 mg DAILY Metoprolol Tartrate 25 mg THREE TIMES A DAY Coumadin 7.5 mg per day; Your PCP will help manage your anticoagulation; you will need labs drawn (INR) until your regimen is stabilized Lovenox 70 mg TWICE DAILY; 1 shot every 12 hours Ativan 1 mg at bedtime as needed for anxiety/insomnia Celexa 20 mg per day; this medication may need to be further titrated by your PCP We started you on TPN -> the prescription is included in your discharge papers Peptamen (Medium Chain Triglycerides); you should take [**3-12**] cans per day as tolerated to help supplement your nutrition Lasix (120 mg in the AM, 80 mg at night) Potassium 20 mEq, twice per day .
+They will help to manage your antibiotic therapy.
+You will need weekly labs drawn including LFTs, Cr/BUN, and CBC with diff.
+For her, weekly labs including CBC/diff and CMP should be faxed to [**Telephone/Fax (1) 18738**].
+Finally, when you complete your antibiotic course, please have your doctor check a blood culture to make sure that you have been cleared of your infection.
+Followup Instructions: Your appointments are listed below:  You have a new primary care doctor, Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], to help manage your coumadin (INR) levels as well as your diuresis with Lasix.
+When you return to [**Country 5881**], please make appointments to see your Primary Care doctor, Dr. [**Last Name (STitle) 85188**], as well as a cardiologist, as well as an infectious disease physician.

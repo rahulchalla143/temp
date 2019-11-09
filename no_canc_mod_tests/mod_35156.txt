@@ -1,0 +1,21 @@
+Admission Date:  [**2133-6-29**]              Discharge Date:   [**2133-7-1**]  Date of Birth:  [**2092-4-24**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 425**] Chief Complaint: Chest pain  Major Surgical or Invasive Procedure: Cardiac catheterization w/ [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) 5175**] X1   History of Present Illness: The patient is a 41 yo man with h/o GERD and 3-week history of stable angina who presented s/p cardiac catheterization with possible RV perforation.
+The chest pain was a pressure, [**4-3**], exacerbated with exertion, which radiated to his left shoulder.
+During the cardiac catheterization at [**Hospital1 18**], the patient was found to have a 99% stenosis in the LAD and an apical occlusion.
+The patient had a TTE at this time which did not show any evidence of effusion.
+Physical Exam: VS: T 98.2, BP 132/74, R 16, P 88, O2 99% RA GENERAL: Middle aged man, pleasant, in NAD.
+NECK: Supple with JVP of 8 cm.
+PULSES: Right: DP 2+ PT 2+ Left: DP 2+ PT 2+   Pertinent Results: ETT: [**2133-6-29**] at [**Hospital3 **]: Reproduced chest pressure after 4-5 minutes into the test and remained 4 minutes into recovery.
+CARDIAC CATH: [**2133-6-29**] (at [**Hospital1 18**]):  LAD with 99% mid stenosis with ?
+thrombus, muscle bridge distal (50% stenosis) and apical occlusion (wrap around LAD) -> PTCA -> stenting -> slow flow suggesting acute worsening of stenosis, active plaque -> 0% residual in mid vessel -> advanced wire through the apical occlusion to restore some flow -> slight contrast stain worrisome for microperforation -> echo showed no effusion -> slow flow restored across the apical LAD.
+CXR ([**6-29**]): PA and lateral views of the chest reveal clear lungs with normal cardiac and mediastinal outlines and pulmonary vascular distribution.
+ADMISSION LABS: U/A: Negative Na: 140, K: 4.6, Cl: 103, CO2: 27, BUN: 9, Cr: 0.8, Glucose: 104, Ca: 9.6 Total Chol: 214 HDL: 31 LDL: 155 Triglycerides: 148 WBC: 7.9 Hct: 46.8 Plt: 268 PT: 10.4 / INR: 1.0 / PTT: 31.3 .
+Cardiac Enzymes: [**2133-6-29**] 7pm:   CK55               Trop<0.01 [**2133-6-30**] 4am:   CK346 MB40         Trop0.29 [**2133-6-30**] 10am:  CK428 MB46 MBI10.7 Trop0.40 [**2133-6-30**] 4pm:   CK387 MB36 MBI10.7 Trop0.39 [**2133-6-30**] 10pm:  CK306 MB23 MBI7.5  Trop0.37 [**2133-7-1**] 5:45am:CK188 MB12 MBI6.4  Trop0.36   Brief Hospital Course: The patient is a 41 yo man with h/o GERD and recently diagnosed stable angina who presents s/p elective cardiac catheterization with concern for LAD microperforation.
+Pulsus checked overnight after cardiac cath, negative throughout.
+The patient had serial TTE echocardiograms to assess for pericardial effusion.
+# CAD:  The patient has a three week history of stable angina, for which he underwent cardiac catheterization today.
+Cardiac enzymes peaked on [**2133-6-30**] at 10am (CK306 MB23 MBI7.5    Trop0.37) but trended down ([**2133-7-1**] AM CK188 MB12 I6.4 Trop0.36).
+Disp:*30 * Refills:*0*   Discharge Disposition: Home  Discharge Diagnosis: Stable chest pain (angina) s/p elective cardiac catheterization w/ drug-eluting stent placement X1   Discharge Condition: Improved.
+A blockage was found in one of your heart vessels and a stent placed to open up the vessel and maintain blood flow.
+Followup Instructions: - Please follow-up with your primary care physician, [**Last Name (NamePattern4) **].
+[**First Name8 (NamePattern2) 2331**] [**Last Name (NamePattern1) **] within 1-2 weeks.
+- Please follow-up with the cardiologist, Dr. [**First Name4 (NamePattern1) 4597**] [**Last Name (NamePattern1) 5017**] within 1-2 weeks.

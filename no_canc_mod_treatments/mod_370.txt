@@ -1,0 +1,29 @@
+Admission Date:  [**2156-8-1**]              Discharge Date:   [**2156-8-12**]   Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 358**] Chief Complaint: epigastric/chest pain  Major Surgical or Invasive Procedure: ERCP with stent placement, no sphincterotomy seconary to supratheraputic INR  History of Present Illness: HPI: 87yo man with h/o CAD s/p CABG [**2141**], mult PCI since, ischemic CMY with LVEF 35%, Afib on coumadin, possible AS and/or MR, diet controlled DM2, ?CRI, gout, who presented to [**Hospital **] Hospital at 4am on [**2156-8-1**] with pain in his epigastrium and chest, and was transferred here out of concern for cholangitis.
+The pain felt different than his prior angina, and he treated it with Tylenol with some relief.
+He was felt to be in CHF on exam, given Lasix for diuresis.
+He received Levaquin + CTX, vomited once and received Zofran.
+Past Medical History: CAD s/p CABG [**2141**], mult PCI since ischemic cardiomyopathy with LVEF 35% cardiac murmur consistent with MR Afib on coumadin DM2, diet controlled CKD (?)
+1. pancreatitis/E.coli septicemia -- ERCP revealed obstructive gallstone, and a stent was placed.
+He received antibiotics, including initially rocephin at outside hospital, ampicillin on transfer, then ciprofloxacin since [**8-5**], with a stop date planned for [**2156-8-16**].
+A follow up appointment as an outpatient for repeat ERCP and stent removal should be planned for [**4-12**] weeks post discharge (initial ERCP date [**2156-8-4**]).
+2. acute renal failure -- improved to baseline with Lasix and supportive care of sepsis.
+ACE inhibitor and digoxin held.
+His antiplatelet medications were held due to interventions, and should be held 10 days post ERCP.
+His beta blocker was restarted when he improved from his inital presentation.
+A statin was added during his hospitalization as well, and should be followed up with liver enzymes and lipid profile in 5 weeks after discharge.
+His home dose Lasix was restarted as well, three days prior to discharge.
+It was held the night prior to discharge, with instructions for the rehab facility to follow INR closely, and adjust coumadin appropriately.
+He was rate controlled appropriately throughout his hospitalization, although his digoxin was held secondary to renal insufficiency.
+5. hypertension -- mildly elevated blood pressures in the latter part of his hospitalization, controlled with Lasix and metoprolol.
+He should have Crt/potassium checked one week after restarting ace (instructions given to rehab facility).
+Famotidine 20 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours).
+Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day) as needed for constipation.
+Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 hours) for 5 days.
+Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+9. lisinopril 5 mg po qday   Discharge Disposition: Extended Care  Facility: [**Location (un) 4047**] Nursing & Rehabilitation Center - [**Location (un) 4047**]  Discharge Diagnosis: 1. gallstone pancreatitis s/p ERCP with stent placement 2.
+E.coli sepsis, resolved 3. acute renal failure, resolved   Discharge Condition: stable   Discharge Instructions: You were hospitalized with gallstone pancreatitis in the ICU.
+You will be discharged to a rehabilitation facility in order to gain strength and continue to receive help with your medications.

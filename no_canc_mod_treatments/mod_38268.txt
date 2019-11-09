@@ -1,0 +1,86 @@
+Admission Date:  [**2163-8-1**]              Discharge Date:   [**2163-8-10**]  Date of Birth:  [**2098-1-5**]             Sex:   M  Service: MEDICINE  Allergies: Penicillins / Heparin Agents  Attending:[**First Name3 (LF) 1973**] Chief Complaint: Shortness of breath, hypoxia.
+Major Surgical or Invasive Procedure: Bronchoscopy x3 ([**8-2**], [**8-3**], [**8-7**])  History of Present Illness: Mr. [**Known lastname 1924**] is a 65 y/o man with history of AAA repair ([**1-/2163**]) c/b T8 paraplegia, bowel perforation leading to graft infection with bacteriodes, strep pneumo and [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 23729**]/fungemia on chronic suppressive medications (antibiotics and antifungals - fluconazole, cipro, flagyl), recently admitted and discharged on [**7-9**] for PNA, who represented to [**Hospital1 18**] on [**8-1**] from [**Hospital 38**] rehab w/ increasing white count to 39, increased shortness of breath, increased cough and inability to clear his airway secretions.
+Given acute deterioration in respiratory function he underwent bronchoscopy that demonstrated purulent secretions in the LLL c/w infection.
+His antibiotics were broadened from cipro/flagyl/fluconazole (chronic suppressive meds) to levofloxacin/vancomycin/flagyl/fluconazole.
+He was discharged with plan for 14 days on this abx course, with plan to go back on his chronic suppressive therapy afterwards.
+In the MICU, ID was consulted who started patient on meropenem to cover bacteroides and pseudomonas PNA.
+ROS: Otherwise positive for occasional pleuritic CP, chest heaviness, occasional pain from his abdominal surgical area with tenderness though unchanged.
+Past Medical History: - AAA repair ([**1-/2163**]) c/b T8 paraplegia, bowel perforation with graft infection and bacteremia/fungemia (bacteriodes, strep pneumo and [**Female First Name (un) **]).
+On chronic suppressive medications with suppressive antibiotics with ciprofloxacin, Flagyl and fluconazole.
+- complete heart block, now status post pacemaker placement - Hypertension - Hyperlipidemia - COPD - Osteoarthritis - Increased PSA for which the patient underwent a biopsy prior to [**2163-1-29**], which was complicated by an E. coli bacteremia - s/p Trach for inability to clear secretions  Social History: Has 50 pack-year smoking history who stopped smoking prior to his admission in [**Month (only) 404**].
+He works as a wine distributor but is currently on disability and also retired a year ago.
+Tracheostomy tube in standard placement.
+CXR [**2163-8-7**]: Tracheostomy tube is in place.
+A right-sided single-lead pacemaker is present with lead tip over right atrium.
+Left PICC line is present, tip at confluence of brachiocephalic and proximal SVC.
+Brief Hospital Course: 65 y/o man with a history of AAA repair ([**1-/2163**]) c/b T8 paraplegia, bowel perforation leading to graft infection with bacteriodes, strep pneumo and [**Female First Name (un) **] bacteremia/fungemia on chronic suppressive medications, recently admitted and discharged on [**7-9**] for SOB, and treated for a PNA, who represents to [**Hospital1 18**] from [**Hospital 38**] rehab w/ increasing white count, increased shortness of breath, hypoxia, and leukocytosis.
+In the MICU, patient underwent multiple bronchoscopy due to concern for mucous plugging with return of thick secretions.
+ID was consulted and patient was initiated on meropenem based on prior sensitivities for pseudomonas from BAL cultures as well as to cover for bacteriodes.
+Patient's course of Meropenem will end with last dose on [**8-14**] after which patient will return to his chronic suppresive medications with cipro, flagyl, and fluconazole.
+Patient will continue to need ongoing monitoring of oxygen saturations and suction as needed for secretions at LTAC facility.
+He would also benefit from a cough assisting device (coughalator) at LTAC to help clear secretions.
+Required multiple bronchoscopy to remove thick secretions, which improved with broad spectrum antibiotics.
+Patient also continued on albuterol and atrovent nebs.
+Repeat urine culture when foley was changed ([**8-4**]) showed no growth.
+Followed by ID for long term chronic therapy with cipro/flagyl/fluconazole.
+Eventual plan for potential intervention once patient has completed rehab.
+He was treated with meropenem and fluconazole.
+Cipro/Flagyl (his chronic suppressive regimen) was held and will be restarted once he finishes his course of Meropenem on [**8-15**].
+Will continue Benadylr and Sarna lotion to help with itching.
+# H/O Graft Infection: Abx modified/continued as above.
+# HTN: on lisinopril as home med.
+Transition of Care: - Patient does not have good cough reflex and would benefit from a Coughalator at LTAC to help clear thick secretions.
+- Patient will finish his course of Meropenem with last dose to be taken on [**8-14**].
+- Patient will follow up with ID for chronic antibiotic management.
+Medications on Admission: 1. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: [**1-30**] Inhalation Q6H (every 6 hours) as needed for shortness of breath.
+2. ferrous gluconate 325 mg (37.5 mg Iron) Tablet Sig: One (1) Tablet PO DAILY 3. fluticasone-salmeterol 500-50 mcg/dose Disk with Device Sig: [**1-30**] Disk with Devices Inhalation [**Hospital1 **] (2 times a day).
+4. fondaparinux 2.5 mg/0.5 mL Syringe Sig: One (1) Subcutaneous once a day.
+5. guaifenesin 100 mg/5 mL Syrup Sig: 5-10 MLs PO Q6H (every 6 hours) as needed for cough.
+6. metronidazole 250 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 hours).
+7. pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+8. paroxetine HCl 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+9. trazodone 50 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) as needed for insomnia.
+10. bisacodyl 5 mg Tablet, Delayed Release (E.C.)
+11. lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO Q4H (every 4 hours) as needed for anxiety.
+12. lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+13. fluconazole 200 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours): please give at 22:00.
+14. acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for pain.
+15. sorbitol 70 % Solution Sig: One (1) ML Miscellaneous DAILY (Daily) as needed for constipation.
+16. ondansetron 4 mg Tablet, Rapid Dissolve Sig: One (1) Tablet,Rapid Dissolve PO Q8H (every 8 hours) as needed for nausea.
+17. tiotropium bromide 18 mcg Capsule, w/Inhalation Device Sig: One (1) Inhalation once a day.
+18. magnesium oxide 400 mg Tablet Sig: One (1) Tablet PO once a  day.
+19. levofloxacin 750 mg Tablet Sig: One (1) Tablet PO once a day  for 10 days.
+20. ciprofloxacin 250 mg Tablet Sig: One (1) Tablet PO every twelve (12) hours 21. vancomycin in D5W 1 gram/200 mL Piggyback Sig: One (1) gram  Intravenous every twelve (12) hours for 10 days.
+Discharge Medications: 1. acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for fever, pain.
+2. tiotropium bromide 18 mcg Capsule, w/Inhalation Device Sig: One (1) Inhalation Inhalation once a day.
+3. senna 8.6 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime) as needed for constipation.
+4. bisacodyl 5 mg Tablet, Delayed Release (E.C.)
+5. ondansetron 4 mg Tablet, Rapid Dissolve Sig: One (1) Tablet, Rapid Dissolve PO Q8H (every 8 hours) as needed for nausea.
+6. lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO Q4H (every 4 hours) as needed for anxiety.
+7. paroxetine HCl 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+8. trazodone 50 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) as needed for insomnia.
+9. pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+10. lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+11. fondaparinux 2.5 mg/0.5 mL Syringe Sig: One (1) Subcutaneous DAILY (Daily).
+12. fluconazole 200 mg Tablet Sig: One (1) Tablet PO QHS (once a day (at bedtime)).
+13. bisacodyl 10 mg Suppository Sig: One (1)  Rectal once a day as needed for constipation.
+14. ferrous gluconate 325 mg (36 mg iron) Tablet Sig: One (1) Tablet PO once a day.
+15. guaifenesin 100 mg/5 mL Syrup Sig: Ten (10) ML PO Q6H (every 6 hours) as needed for cough.
+16. magnesium oxide 400 mg Tablet Sig: One (1) Tablet PO once a day.
+17. sorbitol 70 % Solution Sig: One (1)  Miscellaneous once a day as needed for constipation.
+19. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: [**1-30**] Inhalation Inhalation every six (6) hours as needed for wheezing, SOB.
+20. docusate sodium 50 mg/5 mL Liquid Sig: Two (2)  PO BID (2 times a day) as needed for constipation.
+21. meropenem 1 gram Recon Soln Sig: One (1) Recon Soln Intravenous Q8H (every 8 hours): Last Dose to be taken on [**8-14**].
+Flagyl 250 mg Tablet Sig: One (1) Tablet PO every eight (8) hours: Please start taking on [**8-15**] after finishing course of Meropenem.
+23. ciprofloxacin 250 mg Tablet Sig: One (1) Tablet PO every twelve (12) hours: Please Start taking on [**8-15**], after finishing course of Meropenem.
+24. diphenhydramine HCl 25 mg Capsule Sig: One (1) Capsule PO every 6-8 hours as needed for itching.
+Sarna Anti-Itch 0.5-0.5 % Lotion Sig: Apply as needed Topical once a day as needed for itching.
+Discharge Instructions: Dear Mr. [**Known lastname 1924**], it was a pleasure taking care of you during your hospitalization at [**Hospital1 18**].
+Your prior long term antibiotics regimen was changed and you were started on Meropenem to be taken until [**8-14**].
+Then you should resume your chronic antibiotic therapy with ciprofloxacin, flagyl, and fluconazole.
+Your symptoms improved with antibiotics and with repeated suctioning.
+on [**8-15**], you will then resume with your outpatient chronic antibiotic therapy of ciprofloxacin, flagyl, and fluconazole.
+-STOPPED Vancomycin -STOPPED Levofloxacin -STARTED Benadryl to be used only as needed for itching -STARTED Sarna lotion to be used only as needed for itching .
+Once you start taking your Flagyl again, please aviod any alcohol containing products which can interact with Flagyl and cause severe reaction.
+Please follow up with Infectious disease doctors (as scheduled below) for any further decision on your future antibiotics course.
+Please also follow up with your Primary care physician (as scheduled below) for evaluation of anemia and to monitor resolution of pneumonia.

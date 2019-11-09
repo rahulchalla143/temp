@@ -1,0 +1,24 @@
+Admission Date:  [**2145-9-15**]              Discharge Date:   [**2145-9-17**]  Date of Birth:  [**2077-5-8**]             Sex:   M  Service: MEDICINE  Allergies: Vancomycin / Cefepime  Attending:[**First Name3 (LF) 14385**] Chief Complaint: transferred from rehab for fever, hypotension, and recurrent pneumonias x 1 month  Major Surgical or Invasive Procedure: intubation  History of Present Illness: Pt is a 68 yo male with angioimmunoblastic T cell Lymphoma diagnosed [**9-26**] s/p 6 cycles of CHOP chemotherapy, Atrial fibrillation, COPD, CAD s/p MI, DM who presented to the ED from rehab with fever and hypotension.
+Pt had been discharged from [**Hospital1 **] to rehab on [**2145-7-29**] after presenting from OSH in [**Month (only) 116**] with increasing hypoxia, orthopnea, weakness, and increasing abdominal girth necessitating [**Hospital Unit Name 153**] admission; he remained in the ICU for 6 weeks with complicated hospital course.
+He was covered broadly for pneumonia with ceftriaxone, azithromycin, bactrim, vancomycin, and voriconazole.
+Was on Vanco/CTX/Azithro/Vori x 14 days([**Date range (1) 62192**]), on Zosyn for increased fever and secretions, 7 day course ([**7-1**]- [**7-8**]).
+Pt was trached and was able to be weaned off of the ventilator after many weeks intubated, but complicated by MRSA tracheobronchitis treated with Vanc and acute renal failure with peak Cr 4.6.
+Additionally, paracentesis at OSH prior to transfer was consistent with both malignancy and SBP and pt was treated with ceftriaxone.
+Per ED resident, pt was placed horizontally for central line and pressure fell to 65 systolic.
+In ED given, levaquin 500 IV x 1, flagyl 500 mg x 1, Decadron 10 IV x 1, Linezolid 600 mg IV x 1.
+Past month with recurrent febrile PNAs (MRSA [**8-22**], Chlamydia [**8-27**]) s/p numerous Abx treatments including doxycycline and linezolid (last dose 8/15), and treatment for C. diff on [**8-16**] treated with Flagyl.
+Originally from [**Country 6257**]   Family History: mother died of trauma, father died of old age  Physical Exam: VS: BP 107/76; HR 128; T  ; 100% sat on GEN: Portuguese speaking male, sedated, intubated, responsive to verbal stimuli HEENT: Left subclavian line in place C/D/I.
+Given complicated medical history, recent [**Hospital Unit Name 153**] hopsitalization (> 2 months), and several respiratory infections (MRSA tracheobronchitis, chlamydia pneumonia), patient was started on Linezolid, Meropenem, and Ciprofloxacin for broad-spectrum antibiotics coverage.
+Patient remained stable on pressor overnight.
+Diltiazem drip was started for control of Atrial fibrillation as patient was tachcardic to 140s.
+HR was [**Last Name (un) 4662**] under control, and patient remained stable on Diltiazem drip and Levophed drip that was weaned off by the morning.
+Insulin drip was started for tight glucose control.
+Esmolol drip was started.
+Patient became hypotensive to 80s requiring aggressive fluid resuscitation.
+Esmolol and Diltiazem drips were discontinued.
+Patient underwent electrical cardioversion.
+Phenylephrine drip was started for hypotension.
+Patient continued to be in pressure demise, and vasopressin was added.
+Patient also became hypoxic requiring increase in ventilator settings.
+Patient's condition continued to deteriorate and required continued use of dual pressors and high ventilator settings, and patient expired later the next morning due to overwhelming sepsis and multi-organ failure.
+Medications on Admission: KCl 30mEq [**Hospital1 **] Ibuprofen PRN RISS Procrit [**Numeric Identifier **] U SC qweekly Warfarin 3mg PO qd Cardizem 240mg PO BID ASA EC 81mg PO qd Lopressor 75 PO TID Lasix 60mg PO BID Flagyl 500 TID 2nd course started [**2145-9-13**] Protonix 40mg PO qd Colace 100mg PO qd   Discharge Medications: Patient expired.

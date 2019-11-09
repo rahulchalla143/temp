@@ -1,0 +1,45 @@
+Per patient, per her usual routine, at ~6:30 am, she received her Lantus 34 units from her visiting RN.
+She had a meal of tea and toast at ~7am and returned to bed following her usual routine.
+She denies any headache, lightheadedness, diaphoresis, chest pain, cough, shortness of breath, PND, orthopnea, extremity edema.
+She also denies nausea, vomiting, diarrhea, constipation, abdominal pain, fever, chills, dysuria, arthralgias or myalgias, rhinorrhea.
+Review of systems: (+) Per HPI; urinary and stool incontinence per caregiver if she is not prompted   Past Medical History: Past Medical History: -IDDM Type 2 complicated by neuropathy, mild diabetic retinopathy -Tachycardia/Afib -Stroke [**2103**] -Hypertension -Dementia -- ?mixed vascular and AD; subcortical vascular dementia -Neurodevelopmental disorder -Cataracts -Macular degeneration -Multiple falls, uses rolling walker  Past Surgical History: -Tonsillectomy -Appendectomy   Social History: Lives in group home (Walnut street center, [**Hospital1 8**], MA) with 3 other residents (2 residents: 1 caregiver).
+Intraluminal filling defect within the distal segment of the right M1 segment, representing a non-occlusive thrombus.
+She is being discharged on a decreased lantus dose (28u) due to an A1c of 6.8 and symptomatic hypoglycemia at home.
+She is also being discharged off of sitagliptin, which her PCP can reintroduce at some point in the future if desired versus consideration of metformin to reduce insulin requirements.
+Per old PCP, [**Name10 (NameIs) **] on coumadin possibly because of risk of bleeding given h/o multiple falls.
+In review of old records, was on coumadin for some time but discontinued due to falls, then after CVA in [**6-20**] at [**Hospital1 2177**] was placed on aspirin/plavix instead.
+Instead of her home Diltiazem XR 240 mg Q24H, she was initially written for Diltiazem 60 mg QID.
+Cardiology was consulted who recommended discontinuing digoxin, decreasing her lopressor and diltiazem which provided acceptable AV-nodal blockade.
+She is being discharged on same dose Toprol, half dose Cardizem and no digoxin, as well she will take Pradaxa for anticoagulation with discontinuation of aspirin and plavix.
+Decision was made to start pradaxa in conjunction with PCP and cardiology and discontinue aspirin and plavix.
+Transitional Issues: - d/c sitagliptin, digoxin, aspirin, plavix - decreased diltiazem from 240mg qd to 120mg qd - decreased lantus from 34u to 28u, could consider restarting sitagliptin versus starting metformin in the future if necessary for further glycemic control - started Pradaxa 150mg [**Hospital1 **] - close pcp [**Name9 (PRE) 702**] for ongoing evaluation of T2DM and Afib management  Medications on Admission: Preadmission medications listed are correct and complete.
+Glargine 34 Units Q24H 2.
+Atorvastatin 10 mg PO QPM 3.
+Divalproex (EXTended Release) 500 mg PO QPM 4.
+Clopidogrel 75 mg PO DAILY 5.
+Gabapentin 300 mg PO QAM 6.
+Donepezil 10 mg PO DAILY 7.
+Digoxin 0.25 mg PO DAILY 8.
+Metoprolol Succinate XL 50 mg PO DAILY 9.
+Aspirin EC 325 mg PO DAILY 10.
+Diltiazem Extended-Release 240 mg PO DAILY 11.
+Acetaminophen 650 mg PO Q6H:PRN pain 12.
+Bismuth Subsalicylate Chewable 262 mg PO Q6H:PRN reflux 13.
+Insulin Lispro Desensitization Protocol 4 UNIT SUBCUT ASDIR Follow Insulin Lispro Desensitization Protocol BSL 200-250, give 4 Units BSL 251-300, give 6 Units BSL 201-350, give 8 Units BSL 351-400, give 10 Units BSL > 400, give 12 units 15. sitaGLIPtin *NF* 50 mg Oral daily 16.
+Vitamin D 50,000 UNIT PO EVERY OTHER WEEK   Discharge Medications: 1.
+Atorvastatin 10 mg PO QPM 2.
+Bismuth Subsalicylate Chewable 262 mg PO Q6H:PRN reflux 3.
+Divalproex (EXTended Release) 500 mg PO QPM 4.
+Donepezil 10 mg PO DAILY 5.
+Gabapentin 300 mg PO QAM 6.
+Glargine 28 Units Breakfast Insulin SC Sliding Scale using HUM Insulin 7.
+Vitamin D 50,000 UNIT PO EVERY OTHER WEEK 9.
+Acetaminophen 650 mg PO Q6H:PRN pain 11.
+Dabigatran Etexilate 150 mg PO BID RX *Pradaxa 150 mg 1 capsule(s) by mouth twice a day Disp #*60 Capsule Refills:*0 12.
+Metoprolol Succinate XL 50 mg PO DAILY 13.
+Diltiazem Extended-Release 120 mg PO DAILY   Discharge Disposition: Home With Service  Facility: [**Hospital **] Homecare  Discharge Diagnosis: Hypoglycemia Bradycardia Atrial fibrillation Ischemic (embolic) stroke  Chronic issues: Dementia (?Mixed vascular and Alzheimers)   Discharge Condition: Mental Status: Confused - sometimes.
+You were admitted for hypoglycemia (low blood sugar), likely related to too much lantus insulin and sitagliptin.
+With consultation from cardiology (heart disease specialists), we reduced your dose of Diltiazem and stopped your Digoxin.
+You are being started on a new medication to thin your blood to prevent this from happening again.
+[**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] at [**Telephone/Fax (1) 98989**], to check your blood sugar, and continue management of your medications.
+Followup Instructions: Name: [**Last Name (LF) **],[**First Name3 (LF) **] Location: [**Hospital6 5242**] CENTER Address: [**Location (un) 5243**], [**Location (un) **],[**Numeric Identifier 2260**] Phone: [**Telephone/Fax (1) 798**] Appointment: Monday [**2104-9-22**] 12:20pm                                [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **] DO 12-BWD

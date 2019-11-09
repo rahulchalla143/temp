@@ -1,0 +1,6 @@
+HISTORY OF PRESENT ILLNESS:  The patient is a 54 year old man, transferred to [**First Name4 (NamePattern1) 3867**] [**Last Name (NamePattern1) **] [**First Name (Titles) **] [**Last Name (Titles) **] for cardiac catheterization after a positive exercise tolerance test.
+An exercise tolerance test was requested by his primary care physician, [**Name10 (NameIs) 6643**] came back positive for reversible wall motion defect, with a left ventricular ejection fraction of 54%.
+Chest:  Clear to auscultation bilaterally.
+HOSPITAL COURSE:  The patient was admitted to [**First Name4 (NamePattern1) 3867**] [**Last Name (NamePattern1) **] [**First Name (Titles) **] [**Last Name (Titles) **] on [**2168-9-2**] and underwent cardiac catheterization, which demonstrated severe three vessel disease in the left main with an ulcerated 80% stenosing plaque, 50% stenosis of the circumflex discreetly and 80% stenosis of the right coronary system.
+By postoperative day number five, the patient was afebrile with a heart rate in the 70s and blood pressure in the 120s/70s.
+[**MD Number(1) 75**]  Dictated By:[**Name8 (MD) 4720**]  MEDQUIST36  D:  [**2168-9-10**]  12:27 T:  [**2168-9-10**]  09:53 JOB#:  [**Job Number 36616**]

@@ -1,0 +1,29 @@
+Colonoscopy 3.
+Angiogram with coiling  History of Present Illness: This is a 70 year-old male with a history of gout and depression who presents with GI bleed and transferred to [**Hospital1 18**] for further management.
+The patient presented to [**Hospital3 3765**] on [**2148-12-2**] with complaints of [**2-1**] days of multiple large liquid maroon stool.
+His Hct on admission was noted to be 18.
+The evening of [**2148-12-3**] the patient had an NSTEMI with the development of burning chest pain and ECG showing ST depression in v3-v4.
+CE were positive with a trop 2.90 (ULN: 0.78), but flat CK (89).
+ECHO showed EF 40-45% with wall motion abnormality consistent with apical infarct.
+He undewent a tagged RBC scan on [**2148-12-9**] that did not show evidence of active bleeding.
+He also undewent a push enteroscopy on [**2148-12-9**] that also did not identify the source of the bleed.
+Pertinent Results: Labs on admission: [**2148-12-10**] 05:23PM BLOOD WBC-6.7 RBC-3.17* Hgb-9.9* Hct-27.6* MCV-87 MCH-31.2 MCHC-35.8* RDW-16.4* Plt Ct-178 [**2148-12-10**] 05:23PM BLOOD Neuts-80* Bands-0 Lymphs-16* Monos-3 Eos-1 Baso-0 Atyps-0 Metas-0 Myelos-0 [**2148-12-10**] 05:23PM BLOOD PT-13.5* PTT-27.1 INR(PT)-1.2* [**2148-12-10**] 05:23PM BLOOD Glucose-93 UreaN-20 Creat-0.9 Na-140 K-3.7 Cl-109* HCO3-28 AnGap-7* [**2148-12-10**] 05:23PM BLOOD ALT-7 AST-11 LD(LDH)-79* CK(CPK)-44* AlkPhos-36* TotBili-0.5 [**2148-12-10**] 05:23PM BLOOD Albumin-2.2* Calcium-8.1* Phos-2.6* Mg-1.8  Cardiac enzymes: [**2148-12-10**] 05:23PM BLOOD CK-MB-3 cTropnT-0.24* [**2148-12-11**] 02:35AM BLOOD CK-MB-2 cTropnT-0.18* [**2148-12-11**] 06:07AM BLOOD CK-MB-4 cTropnT-0.18* [**2148-12-11**] 04:07PM BLOOD CK-MB-9 cTropnT-0.20* [**2148-12-11**] 10:54PM BLOOD CK-MB-9 cTropnT-0.23*  Imaging: [**12-10**] Echo: The left atrium is mildly dilated.
+Tissue Doppler imaging suggests a normal left ventricular filling pressure (PCWP<12mmHg).
+Impression: focal apical dyskinesis; consider Takotsubo cardiomyopathy vs apical infarct  [**12-10**] CXR:  roughly 3-cm wide opacity projecting over the intersection of the left fourth anterior and tenth posterior ribs could be superimposition of normal structures or early region of consolidation, particularly if patient has had aspiration episodes.
+Tagged RBC scan INTERPRETATION: Following intravenous injection of autologous red blood cells labeled with Tc-[**Age over 90 **]m, blood flow and dynamic images of the abdomen for 120 minutes were obtained.
+Blood flow images show normal abdominal blood flow.
+Dynamic blood pool images show intermittent brisk bleeding from the hepatic flexure of the colon.
+In addition, the magnitude of blood was too great to allow for evaluation of the mucosa.
+Diverticulum in the sigmoid colon Otherwise normal colonoscopy to splenic flexure  DISCHARGE LABS: [**2148-12-16**] 04:09AM BLOOD WBC-4.6 RBC-3.47* Hgb-10.8* Hct-31.2* MCV-90 MCH-31.2 MCHC-34.7 RDW-16.0* Plt Ct-219 [**2148-12-15**] 04:56AM BLOOD Glucose-130* UreaN-11 Creat-0.9 Na-141 K-3.9 Cl-109* HCO3-29 AnGap-7* [**2148-12-14**] 04:20AM BLOOD CK-MB-3 cTropnT-0.31* [**2148-12-13**] 04:32AM BLOOD Triglyc-102  Brief Hospital Course: Mr [**Known lastname 7842**] is a 70 year-old male with a history of gout and depression who was transferred from [**Hospital3 3765**] for further evaluation of GI bleed.
+HCT trended Q8hrs.
+GI bleed work-up in house: tagged RBC scan on [**12-12**] with dynamic blood pool images demonstrated intermittent brisk bleeding from the hepatic flexure of the colon.
+TO DO: - will need follow up CBC - will need repeat colonoscopy at [**Hospital1 18**] in next 2-4 weeks to re-assess area - recommend surgical consultation at [**Hospital1 18**] to discuss semi-elective resection of area of bowel that was bleeding.
+EKG with dynamic changes in V2-4, flat CKs and trops peak at 0.3.
+Transfusion goal > 30.
+Can re-consider after further GI/cardiology evaluation - Beta blocker held given HYPOTENSION with this medication in [**Hospital Unit Name 153**] with chest pain.
+Release 24 hr Sig: One (1) Capsule, Sust.
+Outpatient Lab Work Please check a CBC and EKG on next follow up   Discharge Disposition: Home  Discharge Diagnosis: Lower GI bleed Blood loss anemia NSTEMI (non-ST elevation myocardial infarction) Depression Gout   Discharge Condition: Mental Status: Clear and coherent.
+After many blood transfusions, the bleeding was stopped via angiogram and coiling.
+You will need to follow up with your PCP closely for repeat blood work and for coordination of care.
+You will need to see your cardiologist as soon as possible to further assess your recent heart attack and need for further testing and treatment.
+Followup Instructions: You have an appointment with Dr. [**Last Name (STitle) 26929**] in Wednesday [**12-18**] at 1:30PM in [**Location (un) **] office  Please call [**Telephone/Fax (1) 463**] to schedule a colonoscopy at [**Hospital1 18**] within the next 2-4 weeks.

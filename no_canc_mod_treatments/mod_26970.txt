@@ -1,0 +1,60 @@
+Admission Date:                        Discharge Date:  Date of Birth:  [**2028-12-19**]             Sex:   M  Service: MEDICINE  Allergies: NSAIDS (Non-Steroidal Anti-Inflammatory Drug)  Attending:[**Last Name (un) 11220**] Chief Complaint: Fever  Major Surgical or Invasive Procedure: Right ureteroscopy with laser lithotripsy and stent exchange([**2110-9-30**])   History of Present Illness: 81 yo M with recurrent UTIs, DM, afib, CP, sent to the ED from his [**Hospital1 1501**] with fever.
+He has a chronic indwelling foley and was recently admitted for klebsiella urosepsis.
+He was given meropenem and flagyl.
+He states that he has had his urinary catheter in for "a long time" but is unable to be more specific.
+Not on coumadin due to fall risk) - Cerebral palsy - dCHF (LVEF 55% [**2110-8-4**]) - Hypertension - Dyslipidemia  Social History: Patient is a limited historian.
+CV: irreg irreg, no murmrs LUNGS: CTA b/l ABD: soft, non tender, non distended GU: foley in place EXT: no edema  DISCHARGE PHYSICAL EXAM: Vitals: T 98.0 144/78 HR 76 RR 20 SaO2 96% on RA Afebrile since [**10-3**] General: Alert, oriented, no acute distress.
+Given previous multi-drug resistent UTIs, was given IV meropenem and he improved.
+Was set to be discharged on [**9-30**] but had a previously-scheduled outpatient urological procedure (stent exchange and lithotripsy), so we decided to allow for this while in house.
+Unfortunately, he became septic in the PACU following the procedure and had rapid ventricular response to his atrial fibrillation requiring a two day stay in the ICU which was complicated by acute kidney injury, acute liver injury, and cardiac demand ischemia.
+Upon returning to the floor, he was treated with IV antibiotics for urosepsis and PO antibiotics for c. diff colitis and he improved, with details as below.
+Although no blood or urine cultures grew definitive pathogens, treated for presumptive bacteremia, given previous MDR UTIs, indwelling foley, and systemic inflammatory response syndrome following urological instrumentation, a transient bacteremia was suspected.
+#) CATHETER-ASSOCIATED URINARY TRACT INFECTION: No urinary pathogen isolated on this admission (cultures grew > 3, suggestive of contamination)  Given recent history of previous admission for multi drug resistant klebsiella UTI resulting in urosepsis, we treated him empirically with meropenem.
+Cultures growing mixed flora from [**Hospital1 1501**] and [**Hospital1 18**] could possibly be true results rather than contamination given chronic indwelling foley.
+Reported diarrhea at [**Hospital1 1501**], but this has much improved over the course of his hospitalization.
+Given PO metronidazole but switched to PO vancomycin at the suggestion of ID.
+Continued on digoxin while here.
+Not on coumadin due to fall risk per Atrius records.
+("Risk of Falls and Major Bleeds in Patients on Oral Anticoagulation Therapy."
+#) DIABETES MELLITUS: Glipizide and metformin held in setting of sepsis.
+Started on insulin drip [**10-1**] for elevated blood sugars with an anion gap and ketonuria concerning for DKA.
+Anion gap closed and patient was transitioned over to an insulin sliding scale.
+Upon return to the floor, was restarted on PO meds and insluin was discontinued with good response in blood sugars.
+Acetaminophen 650 mg PO Q6H:PRN fever 2.
+Aspirin 325 mg PO DAILY 3.
+Calcium Carbonate 500 mg PO BID 4.
+Digoxin 0.25 mg PO EVERY OTHER DAY 5.
+Furosemide 20 mg PO DAILY 6.
+Lisinopril 5 mg PO DAILY 7.
+Multivitamins 1 TAB PO DAILY 8.
+Omeprazole 20 mg PO DAILY 9.
+Simvastatin 10 mg PO DAILY 10.
+Vitamin D 400 UNIT PO BID 12.
+Bisacodyl 10 mg PO/PR DAILY:PRN Constipation 13.
+Finasteride 5 mg PO DAILY 14.
+GlipiZIDE 10 mg PO BID 15.
+MetFORMIN (Glucophage) 1000 mg PO BID 16.
+Milk of Magnesia 30 mL PO Q6H:PRN constipation 17.
+Tamsulosin 0.4 mg PO HS 18. traZODONE 25 mg PO HS:PRN insomnia   Discharge Medications: 1.
+Bisacodyl 10 mg PO/PR DAILY:PRN Constipation 2.
+Aspirin 325 mg PO DAILY 3.
+Calcium Carbonate 500 mg PO BID 4.
+Digoxin 0.25 mg PO EVERY OTHER DAY 5.
+Finasteride 5 mg PO DAILY 6.
+Furosemide 20 mg PO DAILY 7.
+GlipiZIDE 10 mg PO BID 8.
+Lisinopril 5 mg PO DAILY 9.
+MetFORMIN (Glucophage) 1000 mg PO BID 10.
+Milk of Magnesia 30 mL PO Q6H:PRN constipation 11.
+Multivitamins 1 TAB PO DAILY 12.
+Omeprazole 20 mg PO DAILY 13.
+Simvastatin 10 mg PO DAILY 14.
+Tamsulosin 0.4 mg PO HS 15.
+Timolol Maleate 0.5% 1 DROP BOTH EYES [**Hospital1 **] 16. traZODONE 25 mg PO HS:PRN insomnia 17.
+Vitamin D 400 UNIT PO BID 18.
+Meropenem 500 mg IV Q6H 19.
+Vancomycin Oral Liquid 125 mg PO Q6H CDI failed flagyl 20.
+Acetaminophen 650 mg PO Q6H:PRN fever   Discharge Disposition: Extended Care  Facility: [**Doctor First Name **] center  Discharge Diagnosis: Urosepsis Acute kidney injury Acute liver injury Cardiac demand ischemia Nephrolithiasis Sacral ulcer Clostridium difficile colitis Atrial fibrillation Diabetes mellitus Cerebral palsy   Discharge Condition: Mental Status: Clear and coherent.
+You were admitted with a fever and were found to have a urinary tract infection.
+You were improving, but you likely developed an infection in your blood after your urological procedure which transiently damaged your kidneys, liver, and heart, which are recovering upon discharge.
+Followup Instructions: Name: Dr. [**First Name (STitle) **] [**Name (STitle) **] Department: [**Location (un) 2274**]- [**Location (un) **] Urology Address: [**Location (un) 4363**] [**Location (un) 86**], [**Numeric Identifier 6425**] Phone: [**Telephone/Fax (1) 2284**] Appointment: Tuesday [**2110-10-14**] 2:15pm  Name: [**Last Name (LF) 38584**],[**First Name3 (LF) **] P. Location: [**Hospital1 641**] Address: [**Location (un) **], [**Location (un) **],[**Numeric Identifier 2260**] Phone: [**Telephone/Fax (1) 3530**] Please discuss with the staff at the facility a follow up appointment with your PCP when you are ready for discharge.

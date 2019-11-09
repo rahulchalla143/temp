@@ -1,0 +1,52 @@
+Admission Date:  [**2147-6-10**]              Discharge Date:   [**2147-6-16**]  Date of Birth:  [**2068-2-6**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 443**] Chief Complaint: acute on chronic systolic heart failure  Major Surgical or Invasive Procedure: none  History of Present Illness: 78M with a medical history of CAD s/p CABG ([**2139**] LIMA->diag, SVG->OM1, SVG->LAD), s/p stent to LAD, [**Year (4 digits) **] to RCA ([**2146**]), systolic heart failure secondary to ischemic cardiomyopathy (EF 20-30% [**2141**]), history of NSVT s/p ICD implantation ([**2141**]) transferred from [**Hospital6 17032**] for further management of acute on chronic systolic heart failure, hypotension in setting of diuresis, and worsening acute on chronic renal insufficiency.
+The initial exam was notable for bibasilar crackles and severe bilateral LE edema with BNP of 2620 (unclear baseline), felt to be c/w CHF exacerbation, for which he was given IV lasix boluses.
+The diuretics were held (has not gotten lasix in >48 hours) and he was given IV fluid boluses (volume unclear).
+He had evidence of a UTI on admission UA so was started on ceftriaxone.
+Chest X-ray reported possible right base infiltrate with effusion so this was broadened to levaquin and ceftriaxone.
+Cardiac review of systems is notable for absence of chest pain, palpitations, syncope or presyncope.
+CARDIAC HISTORY: -CABG:   -s/p CABG in [**2139**] (LIMA->diag, SVG->OM1, SVG->LAD) -PERCUTANEOUS CORONARY INTERVENTIONS:   -s/p prior LAD stent and PTCA of diag   -s/p  [**Year (4 digits) **] to RCA in [**2146**] -PPM/ICD:   - Ischemic cardiomyopathy, s/p ICD implantation [**2141-7-14**]   - PPM (unclear when placed) -OTHER CARDIAC HISTORY:   - Paroxysmal atrial fibrillation   - Nonsustained ventricular tachycardia   - Chronic systolic CHF [**2-14**] ischemic cardiomyopathy(last EF 20%)   - Mitral regurgitation   - Pulmonary Hypertension 3.
+OTHER PAST MEDICAL HISTORY: -Chronic Obstructive Pulmonary Disease on 3L home O2 since [**2146**] -Chronic Renal Insufficiency (baseline creatinine 1.5-1.8) -s/p right renal artery stent -Severe Peripheral Vascular Disease, s/p left fem-[**Doctor Last Name **] bypass [**2137**] -Obstructive sleep apnea intolerant to CPAP -GERD -Anxiety -Depression -Post Traumatic Stress Disorder  Social History: Married and lives with his wife.
+Tethering of anterior and posterior mitral valve leaflets with mitral valve calcifications and severe MR. 3.
+Successful PTCA and stenting of the distal RCA with a Xience drug eluting stent.
+CBC [**2147-6-11**] 04:23AM BLOOD WBC-13.3* RBC-4.68 Hgb-13.5* Hct-43.9 MCV-94 MCH-28.9 MCHC-30.9* RDW-17.0* Plt Ct-186 [**2147-6-10**] 04:38PM BLOOD WBC-14.7*# RBC-4.51* Hgb-13.4* Hct-41.7 MCV-93 MCH-29.7 MCHC-32.1 RDW-17.0* Plt Ct-191  Coags [**2147-6-11**] 04:23AM BLOOD PT-19.9* PTT-29.5 INR(PT)-1.8* [**2147-6-10**] 04:38PM BLOOD PT-22.1* PTT-29.3 INR(PT)-2.1*  Chemistry [**2147-6-11**] 02:52PM BLOOD Glucose-341* UreaN-88* Creat-3.2* Na-132* K-4.1 Cl-91* HCO3-30 AnGap-15 [**2147-6-11**] 04:23AM BLOOD Glucose-300* UreaN-92* Creat-3.5* Na-132* K-4.8 Cl-89* HCO3-24 AnGap-24* [**2147-6-10**] 04:38PM BLOOD Glucose-196* UreaN-97* Creat-3.9*# Na-132* K-5.3* Cl-90* HCO3-27 AnGap-20 [**2147-6-11**] 02:52PM BLOOD Calcium-8.5 Phos-4.4 Mg-2.5 [**2147-6-11**] 04:23AM BLOOD Albumin-3.6 Calcium-8.7 Phos-5.3* Mg-2.7* [**2147-6-10**] 04:38PM BLOOD Albumin-3.9 Calcium-8.6 Phos-6.3*# Mg-3.0*  LFTs [**2147-6-11**] 04:23AM BLOOD ALT-1765* AST-2200* LD(LDH)-575* AlkPhos-92 TotBili-1.9* [**2147-6-10**] 04:38PM BLOOD ALT-2221* AST-4086* LD(LDH)-1418* AlkPhos-98 TotBili-2.1*  Brief Hospital Course: 78M with a medical history of CAD s/p CABG ([**2139**] LIMA->diag, SVG->OM1, SVG->LAD), s/p stent to LAD, [**Year (4 digits) **] to RCA ([**2146**]), systolic heart failure secondary to ischemic cardiomyopathy (EF 20-30% [**2141**]), history of NSVT s/p ICD implantation ([**2141**]) transferred from [**Hospital6 17032**] with acute on chronic systolic heart failure, hypotension limiting diuresis, worsening acute on chronic renal insufficiency, and worsening liver function.
+#Acute on Chronic systolic Heart failure/Dyspnea: Patient was initally treated for HCAP at OSH but this was stopped given his CXR was without evidence of infiltrates.
+He was diuresed for acute on chronic systolic heart failure with lasix gtt.
+His outpatient cardiologist was contact[**Name (NI) **] who confirmed that patient was on diovan, aldactone, and coumadin as an outpatient.
+Ultimately, his lasix gtt was switched to torsemide.
+Valsartan was and metoprolol were restarted.
+EP was also consulted for possible biv upgrade of patient's ICD as he was 90% RV pacing with widened QRS.
+Atrial Fibrillation: Confirmed with outpatient cardiologist that patient had been on coumadin and was in favor of restarting this.
+Patient wsa restarted on coumadin with lovenox bridge.
+His [**Last Name (un) **] and beta blocker were started slowly as blood pressure tolerated.
+# Acute on Chronic Renal Insufficiency: Creatine improved with diuresis; diovan restarted later on his hospital course.
+Plavix was stopped as patient was over a year out from his catheterization.
+GERD: Ranitidine renally dosed at 150mg daily .
+Medications on Admission: - Humalog 50/50 16u [**Hospital1 **] - Aldactone 12.5mg [**Hospital1 **] - Duoneb INH QID - Amiodarone 100mg daily - ASA 81mg daily - plavix 75mg daily - colase 100mg [**Hospital1 **] - tricor 145mg daily - advair 250/50 [**Hospital1 **] - flonase 1 spray daily - lasix 80mg [**Hospital1 **] - zestril 2.5mg [**Hospital1 **] - MVI daily - Nystatin S/S QID - Miralax 1 tblsp daily - zantac 150mg [**Hospital1 **] - zocor 10mg daily - trazadone 50mg QHS - Effexor XR 112.5mg daily  Discharge Medications: 1.
+Amiodarone 200 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+Simvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Venlafaxine 75 mg Tablet Sig: 1.5 Capsule, Sust.
+Release 24 hrs PO DAILY (Daily).
+Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO DAILY (Daily) as needed for constipation.
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig: One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+Ipratropium-Albuterol 18-103 mcg/Actuation Aerosol Sig: [**1-14**] Puffs Inhalation Q6H (every 6 hours).
+Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Valsartan 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Torsemide 100 mg Tablet Sig: One (1) Tablet PO once a day.
+Miralax 17 gram Powder in Packet Sig: One (1) packet PO once a day.
+Trazodone 50 mg Tablet Sig: One (1) Tablet PO at bedtime.
+Warfarin 5 mg Tablet Sig: One (1) Tablet PO Once Daily at 4 PM for 2 days: Then continue Warfarin according to INR, goal 2.0-3.0.
+Enoxaparin 100 mg/mL Syringe Sig: One (1) syringe Subcutaneous Q12H (every 12 hours): continue until INR > 2.0, then d/c.
+Metoprolol Succinate 50 mg Tablet Sustained Release 24 hr Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).
+Insulin Lispro 100 unit/mL Solution Sig: per sliding scale units Subcutaneous three times a day: before meals.
+Tricor 145 mg Tablet Sig: One (1) Tablet PO once a day.
+You will return to see Dr. [**Last Name (STitle) **] next month to discuss a revision of your pacemaker that may help with the congestive heart failure.
+We started you on coumadin to prevent blood clots and stroke with your irregular heart beat.
+Information about coumadin was given to you here.
+Discontinue Zestril, furosemide, flonase, Plavix and spironolactone 2.
+Start Diovan 40 mg to lower blood pressure and help your heart work better 3.
+Start Lovenox to prevent blood clots until the coumadin level is > 2.0.
+Then d/c Lovenox 6.
+Start coumadin at 5mg daily for 2 days, check INR on [**First Name8 (NamePattern2) 1017**] [**6-18**] and adjust coumadin accordingly.

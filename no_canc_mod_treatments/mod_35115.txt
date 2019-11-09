@@ -1,0 +1,39 @@
+Denies any changes to his anti-hypertensive medications or water pills except for recent discontinuation of Amlodipine.
+Pt also received Calcium Gluconate 1g, Sodium Bicarbonate 50mEq, Dextrose 50% 50mL, Kayexalate 30g, Insulin Human Regular 5U.
+Past Medical History: Past Medical History: -Cardiomypathy/CHF diag in [**7-29**] (prior echo at [**Male First Name (un) **] hospital) -H/o Cardiac arrest (3.5 yrs ago) -Complete heart block: s/p BiV ICD in [**8-29**] -Hypertension -Hypercholseterolemia -Diabetes -Parkinson's disease -Dementia -s/p CVA 2 yrs ago w/ R sided weakness, recovered function -Gout -Nephrolithiasis in [**9-28**] -OSA (noncompliant with CPAP)  Social History: He lives in [**Location **] with his wife and daughter.
+General: Alert, awake, oriented x3, no acute distress HEENT: anicteric sclerae, EOMI, PERRL, oropharynx clear, dry mucous membranes Neck: supple, JVP not elevated, no LAD Lungs: good air movement, bibasilar crackles, no wheezes CV: RRR with frequent "skipped beats", distant heart sounds no murmurs, rubs, gallops Abdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly GU: foley in place, draining clear yellow urine Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema  Pertinent Results: [**8-29**] WBC 8.8 Hb 10.3 Hct 32.5  Plts 228 [**8-29**] Neut 74.5 Lymph 21.4 Monos 3.3 Eosos 0.6 Basos 0.2 [**8-29**] PT 12.2 PTT 23.8 INR 1.0 [**8-29**] 7pm Gluc 114 BUN 106 Cr 3.4 Na 138 K 5.4 Cl 110 HCO3 15 AG 18 [**8-29**] 3pm Gluc 141 BUN 117 Cr 4.0 Na 134 K 6.2 Cl 108 HCO3 15 AG 17 [**8-29**] ALT 3 AST 10  AlkPh 44  T bili 0.3 Alb 4.0 [**8-29**] CK 108 CK-MB 5 TnT 0.02 [**8-29**] Ca 9.4 Mg 4.9 Ph 2.0 [**8-29**] Lactate 1.7 [**8-29**] UA neg  Micro: [**2130-8-29**] Blood Cx negative [**2130-8-29**] Urine Cx [**Numeric Identifier 961**]-[**Numeric Identifier 4856**] Coag+ Staph aureus and [**Numeric Identifier 961**]-[**Numeric Identifier 4856**] GBS [**2130-8-30**] MRSA Screen negative [**2130-9-1**] Urine Cx pending  Images: CXR [**2130-8-29**]: IMPRESSION: Low lung volumes are somewhat limited evaluation, but no evidence for acute process.
+Abdominal aortic atherosclerotic disease, with focal celiac artery aneurysm.
+The patient's blood pressure responded very well to IV fluid resuscitation.
+No pressors were required after fluid resuscitation.
+No HTN medications were restarted at time of discharge.
+The renal function returned to its baseline (creatinine 1.5) after fluid resuscitation and resolution of hypotension.
+Post-void residual showed about 100cc of urine retention (done by bladder scan).
+No antibiotic therapy initiated.
+Pt to contact his primary care physician if symptoms of fever, hypotension, dysuria, increased frequency develop.
+Supplemental potassium, spironolactone, and benazepril were held.
+Carvedilol, Benazepril, Spironolactone, and Furosemide were held for hypotension.
+Reinitiation of medication to be determined at next visit with PCP that was suggested for the week following discharge.
+HTN: all anti-hypertensive medications held for hypotension.
+Allopurinol held because of acute renal failure.
+Code status: DNR/DNI  Medications on Admission: Medications: Allopurinol 300 daily Benzapril 40 daily Carbidopa-levodopa 50-200 SR [**Hospital1 **] Carvedilol 12.5 [**Hospital1 **] Colesevelam 625 (3 tabs daily) Aggrenox 25-200 [**Hospital1 **] Cymbalta 60 DR [**Last Name (STitle) **] Lasix 40 daily Glipizide  5mg [**Hospital1 **] KCL 10 mEq SR daily Pravastatin 80 daily  (recently incr from 40 daily) Rivastigmine 6mg [**Hospital1 **] Spironolactone 25 daily Aspirin 81 daily recently dc'd Amlodipine 5mg daily recently dc'd Tricor  Discharge Medications: 1.
+Pravastatin 20 mg Tablet Sig: Four (4) Tablet PO DAILY (Daily).
+Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+Dipyridamole-Aspirin 200-25 mg Cap, Multiphasic Release 12 hr Sig: One (1) Cap PO BID (2 times a day).
+Carbidopa-Levodopa 50-200 mg Tablet Sustained Release Sig: One (1) Tablet PO BID (2 times a day).
+Duloxetine 30 mg Capsule, Delayed Release(E.C.)
+Glipizide 5 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Rivastigmine 6 mg Capsule Sig: One (1) Capsule PO twice a day.
+WelChol 625 mg Tablet Sig: Three (3) Tablet PO once a day.
+Allopurinol 300 mg Tablet Sig: One (1) Tablet PO once a day.
+Discharge Instructions: You were admitted to the [**Hospital1 18**] on [**2130-8-29**] with the diagnosis of hypotension likely from dehydration and on several hypertension medications.
+Treatment administered were IV fluids and stopping your blood pressure medication.
+Your kidneys were also injured from being hypotensive, but they showed good recovery after treatment for your hypotension.
+We are discontinuing the following medications (that all can lower blood pressure) until your blood pressure is reassessed by a physician: 1.
+Amlodipine 2.
+Carvedilol 3.
+Furosemide 4.
+Spironolactone 5.
+Benazepril 6.
+Potassium chloride  Recommended diet: Diabetic diet, no excessive salt.
+It should be determined whether or not you should resume taking any of the medications that were discontinued (see above).
+You should follow up with your neurologist routinely for your Parkinson's disease.

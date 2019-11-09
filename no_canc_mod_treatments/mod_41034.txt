@@ -1,0 +1,28 @@
+Admission Date:  [**2194-12-11**]              Discharge Date:   [**2194-12-13**]   Service: NEUROLOGY  Allergies: Penicillins  Attending:[**First Name3 (LF) 2569**] Chief Complaint: aphasia  Major Surgical or Invasive Procedure: IV tPA  History of Present Illness: Reason for Consult: Called by Emergency Department to evaluate for aphasia, transferred from OSH s/p tPA  Time Code Stroke called: 00:14 Time Neurology at bedside for evaluation: 00:15 Time (and date) the patient was last known well: [**2194-12-10**] 20:15 NIH Stroke Scale Score: 6 t-[**MD Number(3) 6360**]:   -x-- Yes     Time t-PA was given   22:52 (tpA given at OSH prior to transfer)               --- No       Reason t-PA was not given or  I was present during the CT scanning and reviewed the images within 20 minutes of their completion.
+She ambulates with a cane at baseline.
+She is able to tell me the names of her daughter and son-in-law.
+Occlusion of the anterior left M2 division with perfusion abnormalities suggesting acute infarct in the left anterior frontal lobe.
+NIHSS unknown on arrival but tPA was given at 10:52 PM and she was then transferred to [**Hospital1 18**] for further management.
+Upon arrival, her NIHSS here was 6, with deficits due to her nonfluent aphasia/anomia and disorientation (though the disorientation may be her baseline).
+No further intervention was taken as risks believed to outweigh benefits at that time.
+# Neuro: She was maintained on close neuro and BP checks following tPA.
+Her home antihypertensives were held and BP was allowed to autoregulate with goal SBP 140-180 with hydralazine prn SBP > 180.
+Her home atenolol was restarted at half her home dose the following day, then on the day of discharge was increased back to her prior home dosing.
+She was maintained on telemetry monitoring throughout her admission.
+She was started on simvastatin 20mg QD for an elevated LDL and for secondary stroke prevention.
+She was maintained on IVF @ 100cc/hr given elevated Cr and CTA.
+# Endo She was maintained on fingersticks ACHS with insulin sliding scale with a goal of euglycemia.
+Her LDL was 151 so she was started on simvastatin as above.
+Medications on Admission: -ASA 81 mg daily -Atenolol 50 mg daily -Hudrocerin cream to skin on arms and legs at bedtime -I-CAPS plus daily -Lisinopril 20 mg daily -Multivitamin -Namenda 10 mg [**Hospital1 **] -Ranitidine 150 mg daily -Vitamin D 1000 units daily -Loperamide 2 mg prn diarrhea  Discharge Medications: 1. atenolol 50 mg Tablet Sig: One (1) Tablet PO once a day.
+2. lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+3. multivitamin     Tablet Sig: One (1) Tablet PO once a day.
+Namenda 10 mg Tablet Sig: One (1) Tablet PO twice a day.
+5. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2* 6. simvastatin 20 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2* 7. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO once a day.
+Vitamin D 1,000 unit Tablet Sig: One (1) Tablet PO once a day.
+9. loperamide 2 mg Tablet Sig: One (1) Tablet PO three times a day as needed for diarrhea.
+11. hudrocerin  Sig: One (1) application  at bedtime.
+2) We STARTED you on SIMVASTATIN 20mg once a day.
+3) We STARTED you on PLAVIX 75mg once a day.
+Please continue to take your other medications as previously prescribed.

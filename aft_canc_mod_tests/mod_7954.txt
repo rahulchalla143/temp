@@ -1,0 +1,31 @@
+Admission Date:  [**2155-10-3**]              Discharge Date:   [**2155-10-14**]  Date of Birth:  [**2075-11-7**]             Sex:   M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**Last Name (NamePattern1) 29226**] Chief Complaint: Fever  Major Surgical or Invasive Procedure: None  History of Present Illness: This is a 79 year old man with a history of colon cancer s/p colectomy in [**2144**], relapse in [**2150**] with metastasis to liver and lung s/p TACE and multiple chemotherapy regimens, recently admitted to the [**Hospital1 18**] from [**Date range (3) 91580**] for further work up for biliary obstruction secondary to malignancy, s/p sphincterotomy and biliary stent placement with malignant appearing stricture noted at the hilum [**2155-9-17**], now presenting with fever and rigors.
+Blood cultures were drawn, and albs were notable for lactate of 0.9, Cr 1.7, BUN 44, ALT/AST 148/114, AP 475, Tbili 3.4, WBC 1.2, HCT 27.6, Plt 151.
+A CXR done showed subtle nodules in the left mid and right lower lung, for which non-emergent CT may be obtained to further assess.
+Family History: FH: no cancer or blood disorders   Physical Exam: Admission Physical Exam: Vitals - T: 102.1 BP: 150/96 HR: 97 RR: 23 02 sat: 94% RA SKIN: warm and well perfused, no excoriations or lesions, no rashes, trace edema bilaterally HEENT: AT/NC, EOMI, PERRLA, sclera mildly icteric, dry MMM CARDIAC: RRR, S1/S2, no mrg LUNG: CTAB ABDOMEN: nondistended, +BS, nontender in all quadrants, no rebound/guarding, no hepatosplenomegaly M/S: moving all extremities well, no cyanosis, clubbing or edema, no obvious deformities PULSES: 2+ DP pulses bilaterally NEURO: CN II-XII intact .
+Discharge Physical Exam: HEENT: AT/NC, EOMI, PERRLA, sclera mildly icteric, MMM, healing herpetic lesions on lips CARDIAC: RRR, S1/S2, no mrg LUNG: CTAB ABDOMEN: nondistended, +BS, nontender in all quadrants, no rebound/guarding M/S: moving all extremities well, no cyanosis, clubbing or edema, no obvious deformities PULSES: 2+ DP pulses bilaterally NEURO: CN II-XII intact  Pertinent Results: Admisson Labs: [**2155-10-3**] 07:09PM BLOOD WBC-1.2*# RBC-3.02* Hgb-9.1* Hct-27.6* MCV-92# MCH-30.1 MCHC-32.8# RDW-17.6* Plt Ct-151 [**2155-10-3**] 07:09PM BLOOD Neuts-87.1* Lymphs-11.5* Monos-0.8* Eos-0.3 Baso-0.3 [**2155-10-4**] 05:57AM BLOOD Gran Ct-2430 [**2155-10-4**] 05:57AM BLOOD Ret Aut-1.0* [**2155-10-3**] 07:09PM BLOOD Glucose-84 UreaN-44* Creat-1.7* Na-135 K-4.4 Cl-102 HCO3-23 AnGap-14 [**2155-10-3**] 07:09PM BLOOD ALT-148* AST-114* AlkPhos-475* TotBili-3.4* [**2155-10-3**] 07:09PM BLOOD Calcium-8.5 Phos-2.7 Mg-1.7 [**2155-10-4**] 05:57AM BLOOD Hapto-182 [**2155-10-4**] 05:57AM BLOOD Osmolal-291 [**2155-10-3**] 07:10PM BLOOD Lactate-0.9 .
+Discharge Labs: [**2155-10-14**] 05:28AM BLOOD WBC-1.8* RBC-3.14* Hgb-9.7* Hct-29.6* MCV-94 MCH-30.9 MCHC-32.8 RDW-17.4* Plt Ct-257 [**2155-10-14**] 05:28AM BLOOD Gran Ct-680* [**2155-10-14**] 05:28AM BLOOD Glucose-95 UreaN-11 Creat-1.4* Na-145 K-3.7 Cl-109* HCO3-28 AnGap-12 [**2155-10-14**] 05:28AM BLOOD ALT-54* AST-43* AlkPhos-437* TotBili-1.9* [**2155-10-14**] 05:28AM BLOOD Calcium-8.2* Phos-2.6* Mg-1.8 .
+MICRO: [**2155-10-3**] 7:09 pm BLOOD CULTURE      PORT [**Last Name (un) **].
+Piperacillin/Tazobactam sensitivity testing performed by [**First Name8 (NamePattern2) 3077**]          [**Last Name (NamePattern1) 3060**].
+Ertapenem 0.023 MCG/ML, SENSITIVE : Sensitivity testing performed          by Etest , REQUESTED BY DR.[**Last Name (STitle) 2323**] [**Name (STitle) 2324**] ([**Numeric Identifier 38654**]).
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              ESCHERICHIA COLI                              | AMPICILLIN------------  =>32 R AMPICILLIN/SULBACTAM--  =>32 R CEFAZOLIN-------------     8 R CEFEPIME--------------   <=1 S CEFTAZIDIME-----------   <=1 S CEFTRIAXONE-----------   <=1 S CIPROFLOXACIN---------   =>4 R GENTAMICIN------------   <=1 S MEROPENEM-------------<=0.25 S PIPERACILLIN/TAZO-----       S TOBRAMYCIN------------   <=1 S TRIMETHOPRIM/SULFA----   <=1 S     Aerobic Bottle Gram Stain (Final [**2155-10-4**]):       GRAM NEGATIVE ROD(S).
+Anaerobic Bottle Gram Stain (Final [**2155-10-4**]):    GRAM NEGATIVE ROD(S).
+IMAGING: CXR ([**2155-10-3**]) Subtle nodules in the left mid and right lower lung, for which non-emergent CT may be obtained to further assess.
+CXR [**2155-10-8**]: Previous pulmonary vascular congestion has not recurred.
+His blood pressures remained stable during his stay in the ICU and he did not require pressors at any time.
+His BP averaged around 120/60 upon transfer to the oncologic service.
+Viral cultures were sent which were negative.
+He was started in empiric Vancomycin and Zosyn in the ICU and surveillance cultures were sent.
+These antibiotics were continued on the OMED service until admission blood cultures grew out E. coli, pansensitive except to cipro.
+Repeat CXR was neg for pneumonia.
+RUQ u/s was neg for biliary pathology (originally a concern due to stent).
+He was discharged when his ANC was over 500.
+A panorex film was obtained.
+# Anemia: Patients hematocrit was noted to be down from 33.5 to 27.6.
+Hemolysis labs did not reveal evidence of hemolysis.
+His Hct stabilized after the transfusion and no further intervention was required.
+# CXR nodules: Patient was noted to have nodules on CXR.
+The patient may require a CT of the chest for further work up.
+His BP stabilized in the ICU and he became hypertensive again on the OMED floor, so he was restarted on his beta blocker, though started metoprolol instead of atenolol in the setting of renal failure.
+Your white blood cell count was also low, which is a side effect of your chemotherapy.
+You were given antibiotics and your white blood cell count came up on its own.
+Magic Mouthwash (lidocaine/diphenhydramine/maalox) 15-30mL four times a day as needed for oral irritation 9. acyclovir 400mg by mouth twice a day for HSV prophylaxis  Followup Instructions: Appointments: Dr. [**First Name (STitle) 3459**] on [**2155-10-15**] at 10:00am Dr. [**First Name (STitle) 3459**] on [**2155-10-22**] at 10:30am ****You should ask Dr. [**First Name (STitle) 3459**] about when it will be safe to have your tooth extracted.

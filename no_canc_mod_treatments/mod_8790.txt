@@ -1,0 +1,21 @@
+Admission Date:  [**2118-1-14**]              Discharge Date:   [**2118-1-19**]   Service: NEUROLOGY  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 2569**] Chief Complaint: Speech difficulties and right sided weakness  Major Surgical or Invasive Procedure: none   History of Present Illness: The patient is a [**Age over 90 **] year old woman with a history of atrial fibrillation off Coumadin since [**2117-12-31**] in the setting of recent spontaneous hemoperitoneum requiring exploratory laparatomy and splenectomy for grade III splenic laceration, hypertension, prior TIA, and CAD who presents as a CODE STROKE for aphasia and right face/arm weakness.
+She was given ASA 300 mg PR and transferred to [**Hospital1 18**].
+She received 2 U PRBCs and was transferred to [**Hospital1 2025**] for spontaneous hemoperitoneum of unclear etiology while on Coumadin.
+She underwent an exploratory laparotomy (as her Hct initially appropriately bumped to 31 but then decreased to 27 within hours) and was found intraoperatively to have a grade III splenic laceration so a splenectomy was performed on [**2118-1-3**].
+On POD 3 she complained of foot pain consistent with her prior diagnosis of gout, and this migrated to other joints to rheumatology was consulted and recommended a prednisone taper and continuing colchicine.
+Per the discharge summary, the "surgeons did not restart coumadin due to fall risk and need for recent splenectomy due to fall."
+The report that the cardiologists could restart coumadin as an outpatient "if he determines the risk of stroke from atrial fibrillation is significant."
+She has been off Coumadin since [**12-31**], and she was not put on an ASA.
+Extinction/Neglect: X NIHSS Score Total: 15   Past Medical History: -Atrial fibrillation currently off Coumadin -Hypertension -TIA -CAD s/p MI [**2115**] -Gout -CRI -OA -Spontaneous hemoperitonem of unclear etiology while on Coumadin s/p exploratory laparotomy, and intraoperative splenectomy for grade III splenic laceration discovered intra-operatively [**2118-1-3**] -s/p umbilical hernia repair [**2118-1-3**] -s/p spinal surgery   Social History: She has been living in rehab since her recent discharge from [**Hospital1 2025**].
+Reflexes: 2+ in right biceps, brachioradialis, triceps and trace on the left.
+Her R hemiplegia was persistent as well and she was noted to fail a swallow evaluation twice.
+Given the extent of her injury, her current status and exam was discussed at length with her HCP- [**Name (NI) **] [**Name (NI) 30047**].
+She was also noted to develop PNA and had increasing tachypnea, oxygen requirement and a leukocytosis.
+Mr. [**Name13 (STitle) 30047**] decided to make her CMO and she was therefore started on morphine, oxygen and scopolamine.
+She was also started on Ativan for intermittent tachypnea and continued on oxygen for comfort.
+Medications on Admission: Lopressor 12.5 mg PO q6 hr Zocor 20 mg qhs Lasix 40 mg [**Hospital1 **] Isordil 5 mg [**Hospital1 **] Prednisone taper (it appears that she is currently on 20 mg [**Hospital1 **] x5 doses, then 10 mg [**Hospital1 **] x6 doses then 5 mg [**Hospital1 **] x6 doses) Colchicine 0.6 mg PO every other day Omeprazole 20 mg [**Hospital1 **] Heparin 5000 U SC tid Colace 100 mg [**Hospital1 **] Senna 1 tablet PO bid Dulcolax 10 mg PR daily Tylenol 650 mg PO q6 hr prn Oxycodone 5 mg PO q4 hr prn   Discharge Medications: 1.
+Scopolamine Base 1.5 mg Patch 72 hr Sig: One (1) Patch 72 hr Transdermal ONCE (Once) for 1 doses.
+Acetaminophen 650 mg Suppository Sig: [**2-12**] Suppositorys Rectal Q6H (every 6 hours) as needed for fever or pain.
+Morphine Concentrate 20 mg/mL Solution Sig: One (1)  PO Q1H (every hour) as needed for pain/aggitation.
+Lorazepam Intensol 2 mg/mL Concentrate Sig: One (1) ML PO Q1H PRN () as needed for aggitation, tachypnea.
+Oxygen Via Nasal Canuli or face mask as needed for tachypnea   Discharge Disposition: Extended Care  Facility: [**Hospital3 11496**] - [**Location (un) **]  Discharge Diagnosis: Stroke   Discharge Condition: R hemiplegia; CMO   Discharge Instructions: Comfort measures only  Followup Instructions: NA                                [**First Name8 (NamePattern2) **] [**Name8 (MD) 162**] MD [**MD Number(2) 2575**]

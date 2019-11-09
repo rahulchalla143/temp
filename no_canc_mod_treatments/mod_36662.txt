@@ -1,0 +1,37 @@
+Admission Date:  [**2180-4-13**]              Discharge Date:   [**2180-4-18**]  Date of Birth:  [**2115-2-2**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 3151**] Chief Complaint: fever  Major Surgical or Invasive Procedure: PICC Line Placement   History of Present Illness: 65 year old male with a history of AVR (bioprosthetic) in [**2162**] for history of recurrent endocarditis presenting with fever of 103.7 at home, altered mental status and incontinence of urine and feces.
+The day of admission his long-term significant other found him in the bathroom, covered in stool and urine and acting confused.
+Patient was seen at the WX VA in [**Month (only) 958**] for "flu", with fevers, chills, productive cough, and myalgias, and given IV hydration in the ED.
+received 1 gram Vancomycin and 750 mg of levofloxacin.
+He also received 10 mg of IV Diltiazem.
+His ECG showed dig changes and 1st degree AV block, which is old, and he was noted to be in and out of a flutter with concurrent BP drop 80/50's, both of which are new.
+PSYCH: appropriate affect   Pertinent Results: Admission Labs: [**Age over 90 **]|92|19 --------<178 3.4|25|1.3 estGFR: 55/67 CK: 326  MB: 6  Trop-T: 0.02 Ca: 8.8 Mg: 1.5 P: 2.6 Dig: 0.5 UA: Color Yellow  Appear Clear  SpecGr 1.016  pH 5.0  Urobil Neg  Bili Neg  Leuk Neg  Bld Sm  Nitr Neg  Prot Tr  Glu Neg  Ket Neg  RBC <1  WBC <1  Bact Occ  Yeast None  Epi <1 Lactate:2.8      13.3 15.1>--<100     36.6 N:95.0 Band:0 L:2.7 M:2.1 E:0.1 Bas:0.1 CSF: Protein 32 Glucose 100 WBC 2 RBC 0 Poly 6 Lymph 60 Mono 0 Macroph 34 ALT: 32 AP: 73 Tbili: 0.9 Alb: 3.3 AST: 37 LDH: 370  Studies: [**2180-4-13**] CT Abd/Pelv: 1.
+A bioprosthetic aortic valve prosthesis is present.
+Aortic valve bioprosthesis with thickened leaflets and mild regurgitation.
+[**2180-4-17**] CXR: Successful repositioning of right-sided PIC line with tip in lower SVC.
+He was initially treated with vancomycin and gentamycin due to concern for staph bacteremia and endocarditis however this was changed to Penicillin G once cultures were positive for GAS.
+In addition he was treated with clindamycin for 48 hours to treat GAC toxin given erythroderma on exam.
+He continued to improve on this regimen with no complications and he was discharged to rehab facility to complete 2 week course of Penicillin G.  A PICC line was placed prior to discharge.
+Clinidamycin was stopped after 48 hours given his improvement.
+He was started on diltiazem in the ICU.
+He was continued on diltiazem and did not have any further episodes of SVT.
+He was discharged on diltiazem and his hydrochlorothiazide was stopped.
+8) Dyslipidemia: continue simvastatin  9) Depression: continue fluoxetine  10) GERD: continue omeprazole  CODE: FULL  Medications on Admission: Fluoxetine 20 mg daily HCTZ 12.5 mg daily Provigil 200 mg daily Omeprazole 20 mg daily Simvastatin 20 mg daily Digoxin 0.25 mg   Discharge Medications: 1.
+Digoxin 250 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Omeprazole 20 mg Capsule, Delayed Release(E.C.)
+Fluoxetine 20 mg Capsule Sig: One (1) Capsule PO DAILY (Daily).
+Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed.
+DILT-XR 120 mg Capsule,Degradable Cnt Release Sig: One (1) Capsule,Degradable Cnt Release PO once a day.
+Loperamide 2 mg Capsule Sig: One (1) Capsule PO DAILY (Daily).
+Heparin Flush (10 units/ml) 2 mL IV PRN line flush PICC, heparin dependent: Flush with 10mL Normal Saline followed by Heparin as above daily and PRN per lumen.
+Menthol-Cetylpyridinium 3 mg Lozenge Sig: One (1) Lozenge Mucous membrane PRN (as needed).
+Insulin Lispro 100 unit/mL Solution Sig: as directed Subcutaneous ASDIR (AS DIRECTED): take as directed according to sliding scale.
+Trazodone 50 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) as needed.
+Penicillin G Potassium in D5W 2,000,000 unit/50 mL Piggyback Sig: 4 million units Intravenous every four (4) hours for 10 days: Last day of antibiotics is [**2180-4-28**].
+Provigil 200 mg Tablet Sig: One (1) Tablet PO QAM.
+Discharge Disposition: Extended Care  Facility: [**Location (un) 582**] Of [**Location (un) 5176**]  Discharge Diagnosis: Group A Strep Bacteremia Urinary Incontinence Diarrhea, fecal incontinence =============== Aortic Valve Replacement paroxysmal SVT DJD prior endocarditis Dyslipidemia Hypertension Depression OSA GERD   Discharge Condition: fair   Discharge Instructions: You were admitted to the hospital because you were having fevers and confusion.
+You were treated with IV antibiotics and your [**Location (un) **] improved.
+You were started on Immodium for your [**Name5 (PTitle) **] and you should follow up as an outpatient in [**Hospital **] clinic as below.
+Medications: 1)You were started on Penicillin which you will take at home to complete 2 weeks of antibiotics for your Strep infection.
+3)Your hydrochlorothiazide was stopped as you were started on the diltiazem instead.
+4) You were started on Loperamide to treat your loose stool.

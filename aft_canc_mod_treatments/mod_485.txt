@@ -1,0 +1,60 @@
+Admission Date:  [**2109-7-13**]              Discharge Date:   [**2109-8-31**]  Date of Birth:  [**2051-9-11**]             Sex:   M  Service: MEDICINE  Allergies: Cefepime  Attending:[**Last Name (NamePattern1) 4377**] Chief Complaint: sent by primary care physician for bruising, plt 7K  Major Surgical or Invasive Procedure: PICC line placement bone marrow biopsy bronchoalveolar lavage colonic mucosa biopsy  History of Present Illness: Pt is a 57 yo male with a PMH significant for HTN, h/o basal cell carcinoma s/p resection 1 year prior, chronic neck/back pain presents with pancytopenia.
+He states that he has also noticed frequent brusing without apparent trauma.
+ROS: The patient denies any fevers, chills, vomiting, abdominal pain, diarrhea, constipation, melena, hematochezia, chest pain, shortness of breath, orthopnea, PND, lower extremity edema, cough, urinary frequency, urgency, dysuria, lightheadedness, gait unsteadiness, focal weakness, vision changes  Past Medical History: HTN s/p basal cell resection(chest 1yr ago) s/p resection of dermal dysplastic lesion on back "Irregular heart beat" s/p Cardiac cath->WNL; no stents or atypical findings.
+Neck pain- s/p ACDF 10yrs ago(C4-5 Knee pain - s/p multiple bilateral knee scopes Back pain  Social History: Smoke: none EtOH: [**12-7**] glasses of wine per day Drugs: none Married - lives at home with wife [**Name (NI) **]: disabled secondary to [**Last Name **] problem, previously worked in QA for [**Name (NI) 14006**] electronics  Family History: Grandfather with [**Name2 (NI) 499**] cancer.
+No history of leukemia or lymphoma Brother with melanoma/squamous cell of the skin Mother with stroke at 70 and HTN   Physical Exam: PE on transfer to BMT: VS Tmax: 99.2 ?????
+[**2109-8-23**] Bronchial washings cytology: Clusters of atypical epithelial cells with enlarged nuclei and conspicuous nucleoli, favor reactive pneumocytes.
+[**2109-8-15**] Bone marrow cytogenetics: FISH evaluation for a PML-RARA rearrangement was performed on nuclei with the Vysis LSI PML/RARA Dual Color, Dual Fusion Translocation Probe ([**Doctor Last Name 7594**] Molecular) for PML at 15q22 and RARA at 17q21 and is interpreted as ABNORMAL.
+Rearrangement was observed in 31/100 nuclei, which exceeds the normal range (up to 1% dual rearrangement) for this probe in our laboratory.
+Technically suboptimal study, nevertheless, with evidence of bilateral pulmonary emboli including probable right main pulmonary artery embolus as characterized above.
+While atypical infectious etiologies (ie PCP) could have a similar appearance, given bronchoscopy findings, this is most consistent with ongoing/recurrent diffuse alveolar hemorrhage.
+[**8-23**], [**8-22**], [**8-20**], [**8-17**], [**8-16**], [**8-15**], [**8-14**], [**8-13**], [**8-12**], [**8-10**], [**8-8**], [**8-6**], [**8-5**], [**7-26**], [**7-25**]: blood cx negative [**8-23**], [**8-15**], [**8-8**]: urine cx negative [**2109-8-23**]: CMV viral cx negative [**2109-8-17**]: fungal cx positve for Aspergillus versicolor, negative for Legionella, negative for acid fast bacilli [**2109-8-16**]: No Antibody to B. BURGDORFERI DETECTED BY EIA [**2109-8-7**]: no virus isolated from Respiratory Viral Screen & Culture, Source: Nasopharyngeal swab [**2109-8-5**]: stool viral cx negative [**2109-8-2**]: CMV VL negative [**8-1**], [**7-28**], [**7-27**], [**7-26**]: stool neg for Cdiff [**2109-7-25**]: BRONCHOALVEOLAR LAVAGE negative for respiratory viral Ag, no CMV   Brief Hospital Course: 57 y/o male who p/w bruising, increasing fatigue, night sweats, and labs suggestive of low grade DIC, diagnosed with APML, s/p 7+4 induction with cytarabine and daunarubicin then ATRA, in morphologic CR in bone marrow prior to discharge, with hospital course complicated by fevers, multifocal pna, bilateral PE's, ?alveolar hemorrhage, atypical squamous cells in sputum, gout, norovirus diarrhea, and genital HSV2.
+# APML: given history, started on ATRA initially 50 mg [**Hospital1 **].
+After bone marrow biopsy and flow cytometry confirmed suspicion for APML, patient started 7+4 with daunorubicin and cytarabine.
+Pt also started on dexamethasone 10 mg [**Hospital1 **] as prophylaxis against ATRA syndrome, as on [**7-15**] the patient became short of breath and CXR showed pulmonary congestion.
+He was enrolled in the ECOG low to moderate risk APML protocol, and underwent sternal bone biopsy.
+He was started on Cytarabine and Daunarubicin 7+4 on [**7-17**].
+His cell counts dropped subsequent to this, and he was supported with PRBC and platelet transfusions.
+Neurosurgery was consulted, and recommended keeping supporting platelet count through transfusions, without other intervention.
+Resolving left occipital intraparenchymal hemorrhage, now measuring 5 x 2 mm.
+Antibiotics were largely guided by ID consult, and at various times, included: aztreonam 2g IV Q8, voriconazole 400mg IV Q12, vancomycin 1g IV Q8, levofloxacin 500mg PO Q24, daptomycin, micafungin, flagyl, bactrim, and cefepime.
+Cefepime was later substituted with aztreonam on [**7-31**] due to development of a drug rash.
+On discharge, patient had completed at least a 14 day course of vancomycin and levofloxacin for HAP.
+# Multifocal pneumonia: imaging showing multifocal consolidative and ground glass opacities throughout the lungs bilaterally, consistent with multifocal infectious process, requiring [**Hospital Unit Name 153**] transfer at one point (on 4-5L NC).
+PCP was less likely given only one side of the lungs was affected, but he was started on bactrim therapy as well.
+While in the [**Hospital Unit Name 153**], the patient was placed on now Day 4 Vanco/aztreonam/voriconazole and Day 3 levaquin but cultures had been negative.
+He never required intubation and was weaned off of O2 without difficulty.
+Patient completed extensive antibiotic regimen (as noted above), and completed at least 14 day course of vancomycin and levofloxacin.
+Given his aspergillus versicolor positive fungal culture on [**8-17**], patient will continue PO voriconazole 400 mg Q12 for 11 more days on discharge.
+Bronchoscopy washings for cytology done [**2109-8-23**] showing "clusters of atypical epithelial cells with enlarged nuclei and conspicuous nucleoli, favor reactive pneumocytes."
+Pt started on heparin gtt, and transitioned/discharged on lovenox.
+He was started on prednisone 40 mg, with taper, as treatment for gout, with improvement.
+Initially started on IV steroids, and then tapered, with clinical improvement and resolution of hemoptysis.
+# Chronic back pain - continued home oxycodone and oxycontin .
+The patient was given sarna lotion which improved the pruritis.
+Patient started on valtrex 1 g [**Hospital1 **] until resolution of all lesions.
+He is then to continue suppressive regimen of 500 mg [**Hospital1 **] while immunosuppressed.
+Patient was counselled on transmission and implications of HSV.
+Medications on Admission: **Narcotics agreement** Doxycycline 100mg daily (for blepharitis) HCTZ 25mg daily Oxycodone 10mg daily Oxycontin 10-20mg [**Hospital1 **] Sertaline 100mg daily Viagra 100mg prn Blephamide(dose unknown) Diovan 160mg daily Ambien 5mg at bedtime  Discharge Medications: 1.
+Sodium Chloride 0.9%  Flush 10 mL IV PRN line flush PICC, non-heparin dependent: Flush with 10 mL Normal Saline daily and PRN per lumen.
+Enoxaparin 100 mg/mL Syringe Sig: One Hundred (100) mg Subcutaneous Q12H (every 12 hours) for 30 days: please dispense pre-filled syringes.
+Voriconazole 200 mg Tablet Sig: Two (2) Tablet PO Q12H (every 12 hours) for 11 days.
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day) as needed for prn constipation.
+Trimethoprim-Sulfamethoxazole 80-400 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Ibuprofen 400 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 hours) as needed for acute gout.
+Zolpidem 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) as needed for insomnia.
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+Oxycodone 30 mg Tablet Sustained Release 12 hr Sig: One (1) Tablet Sustained Release 12 hr PO Q12H (every 12 hours).
+Oxycodone 5 mg Tablet Sig: Two (2) Tablet PO Q4 hours as needed for pain.
+Valacyclovir 500 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day).
+Prednisone 5 mg Tablet Sig: 4 tablets daily for 3 days, then 2 tablets daily for 3 days, then 1 tablet daily for 3 days, then stop Tablets PO once a day.
+Bactrim 80-400 mg Tablet Sig: One (1) Tablet PO once a day.
+Ativan 0.5 mg Tablet Sig: One (1) Tablet PO every 4-6 hours as needed for anxiety, insomnia.
+SECONDARY: 1. multifocal pneumonia 2. gout 3. pulmonary embolus 4. genital herpes simplex virus type 2   Discharge Condition: good, without shortness of breath, ambulating well, tolerating food without difficulty, pain controlled   Discharge Instructions: You were admitted to [**Hospital3 **] Hospital and diagnosed with acute promyelocytic leukemia after bone marrow biopsy.
+You completed a regimen called 7+4 with cytarabine and daunarubicin.
+You also started and completed treatment with a medication called ATRA.
+You will begin your next therapy with Arsenic with Dr. [**Last Name (STitle) 410**] starting Monday, [**2109-9-2**].
+Your hospital course was complicated by multifocal pneumonia, for which you completed an antibiotic course; gout, for which you will be placed on a prednisone taper; atypical squamous cells in the sputum, which will be re-evaluated by the pulmonary team; pulmonary embolus, for which you will be on lovenox; and genital herpes simplex virus, for which you will be on valtrex.
+NEW MEDICATIONS/MEDICATION CHANGES: - stop hydrochlorothiazide - stop sertraline - stop sildenafil until genital lesions resolve - stop valsartan - increase oxycontin to 30 mg by mouth twice a day - increase oxycodone to 5-10 mg by mouth every 4 hours as needed for pain - start valtrex 1000 mg by mouth twice a day until genital herpes lesions are gone.
+then start 500 mg by mouth twice a day until chemotherapy completed.
+- start prednisone 20 mg by mouth for 3 days, then prednisone 10 mg by mouth for 3 days, then prednisone 5 mg by mouth for 3 days, then stop (treatment for acute gout) - start ibuprofen 400 mg three times a day as need for gout pain - start lovenox 100 mg subcutaneous injection twice a day - start voriconazole 400 mg by mouth every 12 hours (end date [**2109-9-10**]) - start protonix 40 mg by mouth daily - start bactrim 1 tablet by mouth daily - start senna 1 tablet by mouth twice a day as needed for constipation - start colace 1 tablet by mouth twice a day as needed for constipation - start ativan 0.5 mg tablet by mouth every 4-6 hours as needed for anxiety, insomnia  Followup Instructions: Please attend the following appointments below.

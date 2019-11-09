@@ -1,0 +1,27 @@
+Patient was given empiric cefepime and vancomycin.
+Denies nausea, vomiting, diarrhea, constipation, abdominal pain, melena, hematemesis, hematochezia.
+Treated w/ C2D1 High dose Cytarabine pmn [**12-21**].
+He underwent a bone marrow aspirate and biopsy and pathology demonstrated acute myelogenous leukemia with myelomonocytic differentiation that was positive for the inversion 16 mutation.
+He initiated therapy with standard 7+3 including Daunorubicin at 90 mg/m2 and cytarabine 100 mg/m2.
+He began postremission therapy with high dose cytarabine on [**2127-11-17**].
+On [**12-14**] he had dendritic cell collection (vaccine trial protocol #09-412).
+DISCHARGE LABS: [**2128-3-19**] 12:00AM BLOOD WBC-6.6 RBC-3.06* Hgb-8.9* Hct-25.5* MCV-83 MCH-29.1 MCHC-34.9 RDW-14.6 Plt Ct-119* [**2128-3-19**] 12:00AM BLOOD Neuts-56 Bands-0 Lymphs-21 Monos-17* Eos-0 Baso-0 Atyps-0 Metas-2* Myelos-4* NRBC-2* [**2128-3-19**] 12:00AM BLOOD PT-13.8* PTT-26.1 INR(PT)-1.2* [**2128-3-19**] 12:00AM BLOOD Gran Ct-4067 [**2128-3-19**] 12:00AM BLOOD Glucose-90 UreaN-17 Creat-0.7 Na-141 K-3.9 Cl-104 HCO3-27 AnGap-14 [**2128-3-19**] 12:00AM BLOOD ALT-69* AST-31 LD(LDH)-326* AlkPhos-78 TotBili-0.5 [**2128-3-19**] 12:00AM BLOOD Calcium-8.7 Phos-3.7 Mg-2.3 ................................................................ MICROBIOLOGY: [**2128-3-10**] Blood Cx: Strep viridans (4/4 bottles) CLINDAMYCIN-----------       S ERYTHROMYCIN----------   =>8 R PENICILLIN G----------<=0.06 S VANCOMYCIN------------   <=1 S [**2128-3-10**] Urine Cx: no growth x2 [**2128-3-10**] Rapid Resp Viral Screen: negative [**2128-3-11**] Blood Cx: negative [**2128-3-11**] Urine Legionella Ag: negative [**2128-3-12**] Blood Cx: negative [**2128-3-12**] Stool Cx: no C.diff [**2128-3-13**] Blood: CMV VL not detected [**2128-3-13**] Blood Cx: negative [**2128-3-14**] Blood Cx: NGTD [**2128-3-14**] Blood: Cryptococcal Ag not detected [**2128-3-14**] Stool Cx: negative [**2128-3-16**] Blood Cx: NGTD ................................................................
+He was empirically started on vanc/cefepime + oseltamivir.
+He continued to experience fevers to 104 and desaturation to the low 90s, so voriconazole and levofloxacin were added.
+Blood cultures returned positive for Strep viridans (4/4 bottles), so antibiotics were changed to vanc/meropenem/vori.
+Due to an increasing O2 requirement, he was transferred to the ICU for close monitoring and oxygen through face mask.
+Azithromycin was added to his antibiotic regimen to cover atypical organisms, though a urine legionella antigen was negative.
+The patient experienced diarrhea and was empirically started on PO vancomycin.
+A PICC was placed and the patient was discharged home on vanc/meropenem for a total 7-day course for pneumonia (to be completed on [**3-22**]).
+He will then complete an additional 3 days of ceftriaxone for a total 10-day course for the bacteremia (to be completed on [**3-25**]).
+# Blurry vision: The patient reported several days of blurry vision in his right eye.
+# AML: The patient is s/p induction with 7+3 and subsequently underwent 4 cycles of HiDAC.
+He was neutropenic upon admission and received several days of Neupogen while in the ICU, which was discontinued on the floor since he was no longer neutropenic.
+# Full code  Medications on Admission: 1. acyclovir 400 mg q8h 2. albuterol inh prn wheezing 3. ciprofloxacin 500 mg [**Hospital1 **] x 14 days (day 1 = [**2128-2-29**]) 4. fluconazole 200 mg daily x 14 days (day 1 = [**2128-2-29**]) 5. prednisolone acetate 1% 1 drop TID 6. prochlorperazine 10 mg q8h prn nausea  Discharge Medications: 1. acyclovir 400 mg Tablet Sig: One (1) Tablet PO every eight (8) hours.
+2. fluconazole 200 mg Tablet Sig: One (1) Tablet PO once a day.
+3. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: One (1) puff Inhalation every six (6) hours as needed for shortness of breath or wheezing.
+4. prochlorperazine maleate 10 mg Tablet Sig: One (1) Tablet PO every eight (8) hours as needed for nausea.
+5. ertapenem 1 gram Recon Soln Sig: One (1) gram Intravenous once a day: Administer 1 gram daily from [**Date range (1) 27632**].
+Disp:*4 days supply* Refills:*0* 6. vancomycin 10 gram Recon Soln Sig: 1250 (1250) mg Intravenous every eight (8) hours: Administer 1250mg every 8 hours from [**Date range (1) 27632**].
+Heparin Flush (10 units/ml) 2 mL IV PRN line flush PICC, heparin dependent: Flush with 10mL Normal Saline followed by Heparin as above daily and PRN per lumen.
+We have made the following changes to your medications: - STARTED vancomycin and ertapenem (antibiotics) which you will take through [**2128-3-22**] - STARTED ceftriaxone (antibiotic) which you will take from [**Date range (1) 27633**] after you finish the vancomycin and ertapenem - STOPPED ciprofloxacin  Followup Instructions: Please call ([**Telephone/Fax (1) 6179**] to arrange a follow up appointment with Dr. [**Last Name (STitle) **].

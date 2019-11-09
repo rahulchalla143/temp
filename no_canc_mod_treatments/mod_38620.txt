@@ -1,0 +1,36 @@
+Admission Date:  [**2123-4-4**]              Discharge Date:   [**2123-5-4**]  Date of Birth:  [**2098-5-6**]             Sex:   F  Service: MEDICINE  Allergies: Haldol / Fluphenazine / Chlorpromazine / Clozapine / Risperidone / Zyprexa / Reglan / Promethazine / Flagyl / Trileptal / Clindamycin / Cefazolin / Erythromycin Base / Amoxicillin  Attending:[**First Name3 (LF) 832**] Chief Complaint: Abdominal pain, nausea, vomiting, diarrhea  Major Surgical or Invasive Procedure: Intubation/Sedation to allow medical care early in hospital course  History of Present Illness: Ms. [**Known lastname 90100**] is a 24 year-old woman with recent diagnosis of SLE vs possible Crohn's on steroid taper and pervasive development disorder (resides in a group home) who presents with worsening abdominal pain, nausea, vomiting, and diarrhea.
+Her Prednisone was increased to 10mg.
+Pt received zofran, reglan (with benadryl), and hydrocortisone 100mg prior to transfer.
+Diffuse colitis, infectious, inflammatory, or vasculitis etiologies should be considered.
+SIGMOIDOSCOPY [**2123-4-8**]: - Moderately severe colitis with likely pseudomembrane in the sigmoid and descending colon (biopsy, biopsy) - Loss of vascularity in the rectum - Internal hemorrhoids - Otherwise normal sigmoidoscopy to splenic flexure  RECS: Await pathology report.
+Send stool studies for C.diff toxin/PCR, and would initiate empiric therapy for C.diff colitis with PO/PR Vancomycin.
+Would recommend against increasing steroid therapy for now given the concern and high likelihood for C.diff colitis, unless histologic evaluation appears otherwise.
+Management is complicated by behavioral issues (pulling out all lines), requiring sedation and intubation to enable medical management.
+Decompression with [**Last Name (un) **]-gastric tube was performed.
+C.diff toxin and C.diff PCR were negative.
+Patient was started on a course 1000 mg Methylprednisolone x3d followed by a taper.
+Nonetheless, it was the opinion of the rheumatology consult service that this likely represent vasculitis-associated colitis and her symptoms improved with ongoing prednisone and restarted azathioprine use.
+The patient will continue on 30mg daily of prednisone and 75mg daily of azathioprine with calcium, vitamin d, atovaquone prophylaxis with weekly blood draws for azathioprine toxicity monitoring.
+She was treated with Meropenem for 8 days ([**Date range (1) **]).
+Treatment with Vancomycin was planned for 14 days ([**Date range (1) 90101**]), but the patient pulled out her IV access and was converted to PO Linezolid.
+The patient will reufse PO meds sometimes, so because of clinical stability and difficulty with administering IV or PO meds, treatment for Coag-neg staph was stopped at 12 days (stopped [**4-21**]).
+Foley catheter was placed which found the bladder to be retaining 900cc urine.
+Subsequently the patient pulled her foley catheter and repeat post-void residual measurement revealed <100cc residual on multiple repeat measurements.
+Attempts were made at treating this with antifungal powder however the patient intermittently refused this therapy and she did not show clinical response.
+She was therefore started on a 2 week course of oral fluconazole.
+Medications on Admission: Azathioprine 25 mg daily Clonazepam 0.5mg [**Hospital1 **] Benadryl 25 mg daily Prednisone 10 mg daily Prevacid 30 mg [**Hospital1 **] CaCO3 500 mg [**Hospital1 **] Vitamin B12 Colace 100 mg [**Hospital1 **] Vitamin D Folate 1gm qAM MVI Miralax  Discharge Medications: 1. azathioprine 75 mg Tablet [**Hospital1 **]: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2* 2. clonazepam 0.5 mg Tablet [**Hospital1 **]: One (1) Tablet PO BID (2 times a day).
+3. diphenhydramine HCl 25 mg Tablet [**Hospital1 **]: One (1) Tablet PO once a day as needed for acute agitation.
+4. prednisone 10 mg Tablet [**Hospital1 **]: Three (3) Tablet PO DAILY (Daily).
+Prevacid SoluTab 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: One (1) Tablet,Rapid Dissolve, DR [**Last Name (STitle) **] twice a day.
+6. calcium carbonate 500 mg calcium (1,250 mg) Tablet [**Last Name (STitle) **]: One (1) Tablet PO twice a day.
+Disp:*30 Tablet(s)* Refills:*2* 8. folic acid 1 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO once a day.
+9. diazepam 5 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO Q6H (every 6 hours) as needed for anxiety.
+10. acetaminophen 325 mg Tablet [**Last Name (STitle) **]: 1-2 Tablets PO Q6H (every 6 hours) as needed for pain fever.
+11. atovaquone 750 mg/5 mL Suspension [**Last Name (STitle) **]: Two (2)  PO DAILY (Daily).
+Disp:*60 doses* Refills:*3* 12. fluconazole 100 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO Q24H (every 24 hours) for 2 weeks.
+You were treated with decompression with an NG tube and steroids and you gradually improved.
+Treatment for lupus was given; initially with steroids and then Azathioprine was added.
+You should continue to take these medications along with atovaquone and calcium with vitamin d. You should also follow-up with your rheumatologist for ongoing care of this issue.
+You were also noted to have urinary retention and a Foley catheter was placed.
+Please use the anti-fungal cream as prescribed as well as fluconazole for 2 weeks.

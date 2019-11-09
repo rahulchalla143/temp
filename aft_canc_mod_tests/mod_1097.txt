@@ -1,0 +1,34 @@
+Admission Date:  [**2123-10-8**]              Discharge Date:   [**2123-10-20**]  Date of Birth:  [**2043-10-28**]             Sex:   F  Service: MEDICINE  Allergies: Celecoxib  Attending:[**First Name3 (LF) 1145**] Chief Complaint: Altered Mental Status  Major Surgical or Invasive Procedure: None  History of Present Illness: 79 yo F with PMH CHF EF 45%, DMII, HTN, CHD who presented to ED with shortness of breath and sommnolence from home.
+CXR was read by ED as clear.
+Pertinent Results: [**2123-10-8**] 08:20PM BLOOD WBC-5.1 RBC-3.14* Hgb-9.6* Hct-29.1* MCV-93 MCH-30.6 MCHC-33.0 RDW-14.8 Plt Ct-171 [**2123-10-9**] 04:07AM BLOOD WBC-4.5 RBC-2.78* Hgb-8.5* Hct-25.4* MCV-92 MCH-30.7 MCHC-33.6 RDW-14.9 Plt Ct-174 [**2123-10-10**] 04:50AM BLOOD WBC-4.8 RBC-2.95* Hgb-9.0* Hct-26.4* MCV-90 MCH-30.6 MCHC-34.1 RDW-15.1 Plt Ct-143* [**2123-10-10**] 04:50AM BLOOD Neuts-60.9 Lymphs-30.8 Monos-6.3 Eos-1.9 Baso-0.2 [**2123-10-8**] 08:20PM BLOOD PT-13.4 PTT-26.7 INR(PT)-1.1 [**2123-10-8**] 08:20PM BLOOD Plt Ct-171 [**2123-10-10**] 04:50AM BLOOD Plt Ct-143* [**2123-10-8**] 08:20PM BLOOD Glucose-144* UreaN-16 Creat-1.2* Na-118* K-4.8 Cl-87* HCO3-23 AnGap-13 [**2123-10-9**] 04:07AM BLOOD Glucose-110* UreaN-17 Creat-1.2* Na-121* K-3.9 Cl-89* HCO3-21* AnGap-15 [**2123-10-9**] 10:50AM BLOOD Glucose-162* UreaN-18 Creat-1.2* Na-123* K-4.2 Cl-89* HCO3-19* AnGap-19 [**2123-10-10**] 04:50AM BLOOD Glucose-135* UreaN-27* Creat-1.6* Na-117* K-4.3 Cl-84* HCO3-21* AnGap-16 [**2123-10-10**] 01:15PM BLOOD UreaN-28* Creat-1.6* Na-115* K-4.8 Cl-81* [**2123-10-8**] 08:20PM BLOOD cTropnT-<0.01 proBNP-[**Numeric Identifier **]* [**2123-10-9**] 12:07AM BLOOD Calcium-8.8 Phos-3.6# Mg-1.8 [**2123-10-10**] 04:50AM BLOOD Albumin-3.7 Calcium-8.2* Phos-4.1 Mg-1.8 Cholest-149 [**2123-10-10**] 04:50AM BLOOD Triglyc-94 HDL-40 CHOL/HD-3.7 LDLcalc-90 [**2123-10-9**] 12:07AM BLOOD Osmolal-263* [**2123-10-9**] 12:07AM BLOOD TSH-8.1* [**2123-10-10**] 04:50AM BLOOD Prolact-25* [**2123-10-9**] 10:50AM BLOOD Free T4-1.5 [**2123-10-9**] 04:07AM BLOOD Cortsol-17.5 [**2123-10-8**] 08:20PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG Bnzodzp-NEG Barbitr-NEG Tricycl-NEG [**2123-10-10**] 07:59AM BLOOD Type-ART pO2-93 pCO2-33* pH-7.41 calTCO2-22 Base XS--2 [**2123-10-10**] 02:15PM BLOOD Type-ART pO2-92 pCO2-31* pH-7.41 calTCO2-20* Base XS--3 [**2123-10-10**] 02:15PM BLOOD Lactate-2.6* [**2123-10-10**] 02:15PM BLOOD O2 Sat-96 .
+Echo [**2123-10-9**]: Conclusions The left atrium is normal in size.
+Left ventricular wall thicknesses and cavity size are normal.
+[Intrinsic right ventricular systolic function is likely more depressed given the severity of tricuspid regurgitation.]
+There are no echocardiographic signs of tamponade.
+Compared with the prior study (images reviewed) of [**2123-2-2**], left ventricular function has declined.
+Right ventricular function is less vigorous.
+Head CT [**10-12**]: IMPRESSION: 1.
+CXR [**10-16**]: Slight blurring appears to reflect respiratory motion.
+Please note that the hazy opacity in the right cardiophrenic region is new compared with the radiograph from [**2123-10-14**].
+However, a similar appearance was present on a radiograph from [**2123-10-8**] and, at that time, a followup chest CT from [**2123-10-9**] showed some pericardial fluid and pericardial nodes in this location, which could contribute to the appearance of the right cardiophrenic angle on today's exam.
+Cardiac Cath [**10-16**]: COMMENTS: 1.
+Resting hemodynamics revealed elevated right and left sided filling pressures with RVEDP 18 mHg and mean PCWP 26 mmHg.
+The cardiac index was preserved at 3.35 l/min/m2.
+PT: 13.4  PTT: 24.3  INR: 1.1    Brief Hospital Course: 79 year old woman with PMH s/f CHF, HTN, asthma and hypothyroid who presented with lethargy and hypoxemia, found to be hyponatremic to 118 down from 133 9 days prior to admission and a newly depressed EF of 15% from 45% in [**Month (only) 956**].
+# DECOMPENSATED HEART FAILURE: Presented profoundly volume overloaded with substantial sacral edema as well as some physical examination and radiographic signs of pulmonary congestion.
+# ACUTE-ON-CHRONIC RENAL FAILURE: Admitted with creatinine of 1.6, likely due to decreased effective circulatory volume in the setting of CHF decompensation.
+Her creatinine improved with diuresis and at discharge was 1.0. .
+IV PPI was started and GI was consulted; their recommendation was for outpatient work-up since the patient's Hct remained stable and stool was brown 12 hours after the initial episode.
+She will need another TSH in 2 months as an outpatient.
+Hct remained stable this hospitalization and was as detailed above upon discharge.
+Of note, she has received Epogen in the past for chronic anemia and may need additional doses if hct does not improve.
+)(s)* Refills:*2* 3. calcium carbonate 200 mg (500 mg) Tablet, Chewable Sig: One (1) Tablet, Chewable PO BID (2 times a day): Take with meals.
+An echocardiogram showed that your heart function has worsened and a cardiac catheterization did not show any significant blockages in your coronary arteries.
+Please call Dr.[**Name (NI) 3733**] if weight increases more than 3 pounds in 1 day or 5 pounds in 3 days.
+Your weight at the time of discharge is 133 pounds.
+You had diarrhea and tests showed there was some blood in your stool.
+You will need to have some blood labs checked on Friday, the VNA can do this at home and send results to Dr. [**Last Name (STitle) 1789**].
+Followup Instructions: Department: PULMONARY FUNCTION LAB When: MONDAY [**2124-2-28**] at 2:10 PM With: PULMONARY FUNCTION LAB [**Telephone/Fax (1) 609**] Building: [**Hospital6 29**] [**Location (un) **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage  Department: PFT When: MONDAY [**2124-2-28**] at 2:30 PM  Department: MEDICAL SPECIALTIES When: MONDAY [**2124-2-28**] at 2:30 PM With: [**First Name8 (NamePattern2) **] [**Name8 (MD) **], M.D.
+[**Telephone/Fax (1) 612**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage .
+Address: [**Street Address(2) 16711**], [**Location (un) **],[**Numeric Identifier 6809**] Phone: [**Telephone/Fax (1) 1792**] Appointment: Wednesday, [**10-27**] at 11:40AM  Department: CARDIAC SERVICES When: FRIDAY [**2123-11-5**] at 1:40 PM With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 4511**], MD [**Telephone/Fax (1) 62**] Building: [**Hospital6 29**] [**Location (un) **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage .
+Gastoenterology: [**Telephone/Fax (1) 463**].

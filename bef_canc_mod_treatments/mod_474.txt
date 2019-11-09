@@ -1,0 +1,41 @@
+Admission Date:  [**2147-2-9**]              Discharge Date:   [**2147-2-24**]  Date of Birth:  [**2091-8-27**]             Sex:   M  Service: SURGERY  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 668**] Chief Complaint: Hypotension  Major Surgical or Invasive Procedure: Paracentesis x 2 Thoracentesis RIJ central venous line placement Hemodialysis catheter placement Hemodialysis  History of Present Illness: Mr. [**Known lastname 32595**] is a 55 yo male with EtOH cirrhosis (hx of SBP and hepatic encephalopathy), DM who presented to Dr.[**Name (NI) 948**] office today for a regular appointment.
+[**Name (NI) **] was recently admitted at [**Hospital3 **] for 5 days for RLE cellulitis in which he was d/c's one week ago and finished a course of keflex 2 days ago.
+He was recetnly of his lasix dose during that stay [**1-16**] increased creatinine, but it was restarted upon his discharge.
+His home dose of aldactone was stopped 1.5 weeks ago.
+He has had no other changes in his medications and ocntinues to take his lactulolse, titrated to [**4-19**] BMs daily.
+In the ED, he recieved a 500cc bolus with improvement in his BP to 101/59.
+A paracentesis was not performed reportedly because of concern about his platelets being 21 and INR 1.8.
+- On [**Hospital3 **] list after a recent 40lb weight loss - Multiple admissions to [**Hospital3 3583**] and [**Hospital1 18**] for hepatic encephalopathy - s/p TIPS [**2137**] with frequent revisions [**11/2145**] and then closure  in [**4-/2146**] secondary to hepatic encephalopathy # Pancytopenia -Chronic from underlying liver disease -Baseline HCT in mid 20s -Baseline platelets in 20-40 # CKD with baseline Cr 1.0 # DM2, insulin dependent # s/p cholecystectomy for porcelain gallbladder in [**10/2145**] # Carcinoid tumor in gastric fundus # OSA (doesn't use his home BiPAP) # Squamous cell skin ca on left shoulder # Morbid Obesity # Chronic Venous Stasis  Social History: Lives with his wife.
+He previously worked as the director of food & beverage services on a cruiseline in the Hawaiian islands.
+Brief Hospital Course: MEDICINE Course: 55 yo with EtOH cirrhosis admitted for hypotension who was found to have ESBL Ecoli PNA and new ARF believed to be 2/2 HRS now on HD but may also have a component of ATN from hypotension.
+He was transferred off of Medicine for a liver [**Year (4 digits) **].
+Encephalopathy was managed with high doses of lactulose and rifamixin.
+Started on metoprolol with good effect.
+Improved with management of his PNA and high doses of lactulose + rifaximin 600 mg PO BID.
+Renal failure: Concern for HRS with worsening creatinine despite IVF and albumin.
+Nephrology involved and patient had tunneled SC right side placed [**2147-2-13**], started HD [**2147-2-13**].
+Treated with meropenem for known Ecoli and Klebsiella PNA.
+Plan for total of 14 days of treatment to be completed on [**2147-2-24**], but transferred to surgery prior to that time.
+He initially received significant fluid resuscitation, albumin, and blood products with refractory blood pressure.
+Nonetheless, infectious work-up was pursued with a diagnostic paracentesis performed at time of admission to the ICU.
+He was started empirically on Levofloxacin for empiric coverage of a community-acquire pneumonia.
+Due to persistently low BP's, [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 104**] stim test was performed to rule out adrenal insufficiency with appropriate result 11.7 -> 19.7.
+His home dose of Nadolol was held.
+A central line was placed and CVP measured at 33, following fluid resuscitation.
+BP's remained low for ~24 hours in the ICU, and antibiotic coverage was subsequently broadened to Vancomycin, Meropenem, and Levofloxacin.
+Sputum culture eventually grew an ESBL e.coli and pan-sensitive klebsiella organism.
+Vancomycin was discontinued, and patient was continued on Meropenem.
+Foley placement attempt was unsuccessful and Urology was called.
+Per Liver consult recommendations, patieht was started on standing albumin, midodrine, and octreotide for presumed hepatorenal syndrome.
+On [**2-13**] a hemodialysis catheter was placed by IR, and HD was initiated without incident.
+He was continued on Rifaximin and Lactulose.
+4) Coagulopathy:  He required multiple transfusions of platelets and FFP in effort to modify his coagulopathy for invasive procedures, including CVL placement, paracentesis, HD line placement, and thoracentesis.
+His home dose of NPH was discontinued, and he was continued on sliding scale insulin.
+6) Pleural effusion:  s/p dignostic thoracentesis on [**2-10**] with removal of 1 liter serosanguinous fluid, consistent with transudate.
+After his abdomen was closed, he remained critically ill with pressor requirements.
+He was urgently decompressed with a 16gauge angiocatheter needle -- a formal 28Fr chest tube was then inserted at the bedside.
+His oxygenation and pressures improved after these interventions.
+On POD [**1-15**], he required multiple pressors to maintain his blood pressures.
+His ionized calcium levels were persistently below 1.0, and his pressures transiently improved with calcium supplementation.
+Given this complication, there were extensive discussions with the family about the patient's prognosis, and they chose to make him comfort measures only.
+Medications on Admission: lasix 120mg qday (off for 5 days, restarted one week ago) aldactone 50mg (stopped 1.5 weeks ago) rifaximin 600 [**Hospital1 **] cipro 200 qday protonix 40mg qday nadolol 20mg qday lactulose ~ 45ml - titrate to [**4-19**] BMs insuline NPH 75qAM and 70qPM humalogue SSI QID acidophilus keflex QID (finished 5 days ago  Discharge Disposition: Expired  Facility: [**Hospital1 18**]  Discharge Diagnosis: s/p OLT [**2-21**] Acute renal failure Pneumonia Hypotension Pleural effusion Ascites Pancytopenia Coagulopathy Cirrhosis  Discharge Condition: Expired

@@ -1,0 +1,35 @@
+Admission Date:  [**2172-2-14**]              Discharge Date:   [**2172-2-19**]  Date of Birth:  [**2097-10-28**]             Sex:   M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 2265**] Chief Complaint: ICD Firing  Major Surgical or Invasive Procedure: none   History of Present Illness: Mr [**Known lastname 25268**] is a 74 year old genetleman with history of CAD s/p CABG, MI, ICD placement atrial fibrillation on coumadin whop resented today after a firing of his ICD.
+Of note he was hospitalized at [**Hospital1 112**] from [**2172-2-1**] to [**2172-2-8**] for urosepsis secondary to obstructive nepholithiasis s/p L percutaneous neprhostomy tube and L utereral stent placement, multifocal pneumonia, afib with RVR and NSTEMI.
+On arrival, he was started on pressors and intubated.
+He was treated with ceftriaxone for pansensitive Ecoli fromt he urine and also for CAP.
+On [**2172-2-2**] he was extubated, folliwing he developed AMS and flash pulmonary edema which resolved with BiPAP and diuresis.
+He also had an NSTEMI not heparinized given supratherapeutic INR.
+On [**2-4**], he returned to IR for replacement of nephrostomy tube, went into PEA arrest in the setting of induction.
+On [**2-6**] he was taken tot he OR for placement of a left ureteral stent, left nephrostomy tube was removed.
+On review of systems, he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.
+Cardiac review of systems is notable for absence of chest pain, dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope.
+CARDIAC RISK FACTORS: Diabetes, Dyslipidemia, Hypertension 2.
+OTHER PAST MEDICAL HISTORY: afib on coumadin Fem [**Doctor Last Name **] bypass in [**2147**] colon cancer s/p SBR in [**2155**] skin cancer s/p resception and chemotherapy  Social History: - Tobacco history: 30pack years, quit in [**2143**] - ETOH: none - Illicit drugs: none  Family History: - No family history of early MI, arrhythmia, cardiomyopathies, or sudden cardiac death; otherwise non-contributory.
+IMPRESSION: Severe focal LV hypokinesis, consistent with prior inferior/inferolateral infarction.
+[**2172-2-19**] 06:20AM BLOOD WBC-4.3 RBC-3.34* Hgb-9.7* Hct-29.0* MCV-87 MCH-29.1 MCHC-33.6 RDW-17.9* Plt Ct-514* [**2172-2-19**] 06:20AM BLOOD PT-26.3* INR(PT)-2.5* [**2172-2-19**] 06:20AM BLOOD Glucose-91 UreaN-22* Creat-1.1 Na-137 K-4.5 Cl-98 HCO3-34* AnGap-10   Brief Hospital Course: 74 year old male with history of CAD s/p CABG, recurrent MI in [**2165**], VT with ICD, PAF with inappropriate ICD response, who presents with inappropriate ICD firing after prolonged hospitalization for urosepsis and respiratory distress.
+# Afib with RVR: Patient was previously on nadolol 80mg which was recently changed to metoprolol 25mg daily.
+He subsequently had 2 episodes of Afib with RVR requiring IV lopressor and dilt.
+His standing dose was then increased to 25mg PO TID.
+He was started on amiodarone 200 mg TID and discharged on metorpolol succinate 50 once a day.
+He was diuresed throughout his admissions several liters and eventually discharged on lasix 40 once a day.
+ASA, BB, Statin   Medications on Admission: Simvastatin 80mg daily Coumadin 2mg daily Metoprolol XL 25mg daily Lisinopril 2.5mg daily Avalxon 400mg daily, just finished Xalatan 0.005% daily Brimonidine 0.2% daily Stopped Nadolol 80mg daily, Captopril 25mg tid  Discharge Medications: 1. brimonidine 0.15 % Drops Sig: One (1) Drop Ophthalmic [**Hospital1 **] (2 times a day).
+2. latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS (at bedtime).
+3. amiodarone 200 mg Tablet Sig: One (1) Tablet PO TID (3 times a day) for 2 weeks: Ten decrease to twice daily for 2 weeks, then decrease to once daily indefinitely.
+Disp:*75 Tablet(s)* Refills:*0* 4. aspirin 81 mg Tablet, Chewable Sig: Two (2) Tablet, Chewable PO DAILY (Daily).
+5. lisinopril 5 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+7. warfarin 1 mg Tablet Sig: One (1) Tablet PO once a day.
+8. simvastatin 40 mg Tablet Sig: One (1) Tablet PO once a day.
+9. metoprolol succinate 50 mg Tablet Sustained Release 24 hr Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).
+Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*2* 10. furosemide 40 mg Tablet Sig: One (1) Tablet PO once a day.
+We gave you high doses of a diuretic, Furosemide (lasix) to get rid of the excess fluid.
+You will go home on furosemide pills to keep the fluid off.
+Decrease your warfarin to 1mg daily starting on thursday [**2-20**].
+Decrease Simvastatin to 40 mg daily.
+Start amiodarone as above 4.
+Increase Metoprolol to 50 mg daily 5.
+Location: [**Location (un) 2274**]-[**Location (un) **] Address: 26 CITY [**Doctor Last Name **] MALL, [**Location (un) **],[**Numeric Identifier 6086**] Phone: [**Telephone/Fax (1) 31019**] Appt: Friday [**2-21**] at 3:50pm  Name: [**Last Name (LF) 6512**], [**Name8 (MD) **] MD Location: [**Hospital1 641**] Address: [**Location (un) **], [**Location (un) **],[**Numeric Identifier 718**] Phone: [**Telephone/Fax (1) 2258**] Appt: [**2-28**] at 10:10am                                [**First Name8 (NamePattern2) **] [**Name8 (MD) 162**] MD [**MD Number(2) 2273**]

@@ -1,0 +1,42 @@
+Admission Date:  [**2153-6-25**]              Discharge Date:   [**2153-6-29**]  Date of Birth:  [**2088-1-24**]             Sex:   M  Service: CARDIOTHORACIC  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 1505**] Chief Complaint: shortness of breath  Major Surgical or Invasive Procedure: Aortic valve replacement (25mm [**First Name8 (NamePattern2) **] [**Male First Name (un) 923**]) [**6-25**]   History of Present Illness: 65 year old male who was found to have aortic stenosis on outside study.
+Echocardiogram repeated revealing severe aortic stenosis ([**Location (un) 109**] 1.0cm2, peak gradient 99mmHG, EF 55%).
+He was seen by Dr. [**Last Name (STitle) **] for an aortic valve replacement and has undergone dental work in preparation for surgery.
+He returns today for preadmission testing for surgery [**2153-6-19**].
+Past Medical History: Severe aortic stenosis Hypertension Hyperlipidemia History of rheumatic fever Diabetes mellitus type 2 Peripheral vascular disease Tobacco abuse Obesity Obstructive sleep apnea, uses CPAP with O2 concentrator Hypothyroid Venous stasis, skin [**Month/Day/Year 5235**] arthritis (knees) Left foot fracture Left wrist fracture Bells palsy, resolved Kidney stone S/P "ulcers" in eye caused by virus right arthroscopic knee surgery Umbilical hernia repair [**2124**] and [**2127**] Tonsillectomy   Social History: He lives with his wife and works as a production coordinator.
+Soft [x] non-distended [x] non-tender [x] Extremities: Warm [x], well-perfused [x]  [**1-8**]+ LE Edema with chronic venous stasis changes Varicosities: None [x] Neuro: Grossly [**Month/Day (2) 5235**] [x] Pulses: Femoral      Right: palp  Left: palp DP           Right: palp  Left: palp PT           [**Name (NI) 167**]: palp  Left: palp Radial       Right: palp  Left: palp  Carotid Bruit        Right: none  Left: none   Pertinent Results: [**Hospital1 18**] ECHOCARDIOGRAPHY REPORT  [**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 92320**] (Complete) Done [**2153-6-25**] at 10:34:16 AM      FINAL Referring Physician     [**Name9 (PRE) **] Information [**Name9 (PRE) **], [**First Name3 (LF) **] R. [**Hospital1 18**], Division of Cardiothorac [**Hospital Unit Name 4081**] [**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2088-1-24**] Age (years): 65 M  Hgt (in): BP (mm Hg): /  Wgt (lb): HR (bpm):  BSA (m2): Indication: AVR ICD-9 Codes: 786.05, 786.51, 424.1 Test Information Date/Time: [**2153-6-25**] at 10:34    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 3318**], MD  Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3318**], MD Doppler: Full Doppler and color Doppler Test Location: Anesthesia West OR cardiac Contrast: None Tech Quality: Adequate Tape #: 2012AW-1: Machine: us4 Echocardiographic Measurements Results  Measurements  Normal Range Left Ventricle - Inferolateral Thickness:  *1.2 cm  0.6 - 1.1 cm  Left Ventricle - Diastolic Dimension:  *6.2 cm  <= 5.6 cm Left Ventricle - Ejection Fraction:  50% to 55%  >= 55% [**Last Name (NamePattern4) **] - Ascending:  3.0 cm  <= 3.4 cm Aortic Valve - Mean Gradient:  54 mm Hg Aortic Valve - LVOT diam:  2.3 cm Aortic Valve - Valve Area:  *1.2 cm2  >= 3.0 cm2  Findings LEFT ATRIUM: No spontaneous echo contrast is seen in the LAA.
+AORTIC VALVE: Moderate AS (area 1.0-1.2cm2) Moderate (2+) AR.
+The patient was under general anesthesia throughout the procedure.
+[**2153-6-29**] 05:02AM BLOOD WBC-10.5 RBC-3.36* Hgb-10.9* Hct-32.8* MCV-98 MCH-32.5* MCHC-33.4 RDW-13.4 Plt Ct-87* [**2153-6-25**] 02:50PM BLOOD PT-12.9* PTT-31.1 INR(PT)-1.2* [**2153-6-29**] 05:02AM BLOOD Glucose-125* UreaN-28* Creat-0.9 Na-142 K-3.7 Cl-105 HCO3-32 AnGap-9  Brief Hospital Course: The patient was brought to the Operating Room on [**6-25**] where the patient underwent an aortic valve replacement.
+Overall the patient tolerated the procedure well and post-operatively was transferred to the CVICU in stable condition for recovery and invasive monitoring.
+The patient was neurologically [**Month/Year (2) 5235**] and hemodynamically stable, weaned from inotropic and vasopressor support.
+Beta blocker was initiated and the patient was gently diuresed toward the preoperative weight.
+He was thrombocytopenic post-operatively but was heparin dependent antibody negative and his platelets slowly began to recover.
+Chest tubes and pacing wires were discontinued without complication.
+For DVT prophylaxis he was given subcutaneous heparin and venodyne boots, which he should continue at rehab until he is more mobile.
+By the time of discharge on POD four the patient's wound wound was healing and pain was controlled with oral analgesics.
+Levothyroxine Sodium 300 mcg PO DAILY 2.
+Lisinopril 20 mg PO DAILY 3.
+Hydrochlorothiazide 25 mg PO DAILY 4. meloxicam *NF* 15 mg Oral daily 5.
+MetFORMIN (Glucophage) 1000 mg PO BID 6.
+Niacin 500 mg PO DAILY 7.
+Simvastatin 20 mg PO DAILY 8.
+Levothyroxine Sodium 300 mcg PO DAILY 2.
+Niacin 500 mg PO DAILY 3.
+Simvastatin 20 mg PO DAILY 4.
+Lisinopril 20 mg PO DAILY 5.
+Hydrochlorothiazide 25 mg PO DAILY 6.
+MetFORMIN (Glucophage) 1000 mg PO BID 7. meloxicam *NF* 15 mg ORAL DAILY 8.
+Acetaminophen 650 mg PO Q4H:PRN pain/fever 10.
+Albuterol Inhaler 4 PUFF IH Q4H:PRN wheezes 11.
+Aspirin EC 81 mg PO DAILY 12.
+Bisacodyl 10 mg PR DAILY:PRN constipation 13.
+Docusate Sodium 100 mg PO BID 14.
+Dextrose 50% 12.5 gm IV PRN hypoglycemia protocol 16.
+Heparin 5000 UNIT SC TID 17.
+Insulin SC       Sliding Scale  Fingerstick QACHS Insulin SC Sliding Scale using REG Insulin 18.
+Metoprolol Tartrate 25 mg PO BID Hold for HR < 55 or SBP < 90 and call medical provider.
+Milk of Magnesia 30 ml PO HS:PRN constipation 20.
+Potassium Chloride 20 mEq PO Q12H Hold for K+ > 4.5 21.
+TraMADOL (Ultram) 50 mg PO Q4H:PRN pain 22.
+Furosemide 40 mg IV BID taper per clinical exam and weight.
+Answering service will contact on call person during off hours** Females: Please wear bra to reduce pulling on incision, avoid rubbing on lower edge   Followup Instructions: You are scheduled for the following appointments: Wound Check at Cardiac Surgery Office [**Telephone/Fax (1) 170**] [**2153-7-10**] at 10:30 Surgeon Dr. [**Last Name (STitle) **] [**2153-7-25**] at 1:45pm [**Telephone/Fax (1) 170**] Cardiologist Dr. [**Last Name (STitle) **] (Dr.[**Name (NI) 8664**] office will call patient) Please call to schedule the following: Primary [**First Name (STitle) 92321**], [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] in [**4-12**] weeks ([**Telephone/Fax (1) 83249**]  **Please call cardiac surgery office with any questions or concerns [**Telephone/Fax (1) 170**].

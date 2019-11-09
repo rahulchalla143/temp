@@ -1,0 +1,85 @@
+Admission Date:  [**2118-10-7**]              Discharge Date:   [**2118-11-29**]  Date of Birth:  [**2049-8-15**]             Sex:   F  Service: MEDICINE  Allergies: Penicillins / raw egg yolk / Bactrim / flu shot  Attending:[**First Name3 (LF) 3963**] Chief Complaint: Abnormal labs  Major Surgical or Invasive Procedure: PICC line Lumbar puncture Thoracentesis  History of Present Illness: 69 year old female with a questionable history of sarcoidosis with massive LAD leading to lymphedema and a recent left-sided ureteral stenosis s/p stent ([**2118-8-24**]) presents from rehab with elevated creatinine, hyponatremia, and hyperkalemia.
+She is mostly concerned about her sarcoidosis and wants to "start treatment already and stop playing around with medications".
+She had been refractory to high-dose steroids and her subclavicular lymphadenopathy has left her with massive lymphedema.
+As such, she was started on methotrexate and other diagnoses such as lymphoma were considered, but not confirmed by biopsy.
+Her muscle weakness has been attributed to steroid myopathy.
+Renal (Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 1366**]) was consulted around the time of her admission to [**Hospital1 **] [**Location (un) 620**] for a similar set of circumstance (though she was hypokalemic at that time) and outlined the following issues: (1) Creat 1.5 with low grade proteinuria (UP/Cr ~1.5), (2) Edema with hypoalbuminemia (mid 2s), (3) Hyponatremia of likely multifactorial etiologies, (4) Left ureteral obstruction with stent placed in [**Location (un) **] in [**Month (only) **], as above.
+Exam was notable for AAOx3, but occasionally confused at times and yelling, severe LE edema bilaterally with ulcers on right lateral lower leg, left dorsal aspect of foot, and left calf.
+EKG unremarkable with normal sinus rhythm and no peaked T waves, but received calcium gluconate and IV regular insulin for treatment of hyperkalemia.
+She was given morphine for pain control.
+Urinalysis showed pyuria and many bacteria, so she was started on Cipro as well.
+Renal U/S showed moderate left hydronephrosis, new in comparison to prior study from [**2118-8-28**] with visualization of the renal stent (patient reports passing the stent).
+After a phone call from the ICU admitting team, she was given a dose of steroids given her abrupt cessation of prior high-dose steroids.
+On arrival to the MICU, she reiterates her concern about sarcoidosis treatment and wants to be more comfortable in the bed.
+Denies chest pain, chest pressure, palpitations, or weakness.
+Past Medical History: - Lymphadenopathy with lymphedema causing anasarca and hypercalcemia, unresponsive to high-dose prednisone with atypical histiocytes with proliferation in the left nodes ----questionable diagnosis of sarcoidosis since [**2112**] with lung findings and inconclusive biopsy, presumed to have sarcoidosis ----started on methotrexate on [**2118-10-4**] ----supraclavicular LN biopsy: Atypical histiocyte-[**Doctor First Name **] proliferation, favor sarcoidosis (post-steroid treatment) ----multiple coccyx and LE ulcers - Left-sided ureteral stenosis, s/p stenting in [**2118-8-24**] - Adrenal mass: large 3 cm adrenal gland mass, increased in size from [**Month (only) 956**] to [**2118-5-24**] - Spinal stenosis - Hypertension - Hypercholesterolemia - Thyroid disease - GERD - Depression  Social History: Denies alcohol or tobacco.
+Spongy, pitting edema extends all the way up her legs to her groin and lower back Skin:  multiple stage 2 and 3 ulcers along gluteal folds Neuro: CNII-XII intact, strength not assessed, grossly normal sensation, gait deferred  ON DISCHARGE  Pertinent Results: ADMISSION LABS [**2118-10-7**] 03:45PM   PLT SMR-NORMAL PLT COUNT-187 [**2118-10-7**] 03:45PM   HYPOCHROM-NORMAL ANISOCYT-1+ POIKILOCY-1+ MACROCYT-1+ MICROCYT-NORMAL POLYCHROM-NORMAL OVALOCYT-OCCASIONAL BURR-OCCASIONAL TEARDROP-OCCASIONAL [**2118-10-7**] 03:45PM   NEUTS-92* BANDS-2 LYMPHS-6* MONOS-0 EOS-0 BASOS-0 ATYPS-0 METAS-0 MYELOS-0 [**2118-10-7**] 03:45PM   WBC-7.3 RBC-3.12* HGB-9.7* HCT-29.5* MCV-95 MCH-31.1 MCHC-32.9 RDW-19.7* [**2118-10-7**] 03:45PM   CORTISOL-33.8* [**2118-10-7**] 03:45PM   TSH-5.4* [**2118-10-7**] 03:45PM   OSMOLAL-290 [**2118-10-7**] 03:45PM   CALCIUM-7.7* PHOSPHATE-8.2* MAGNESIUM-2.1 [**2118-10-7**] 03:45PM   GLUCOSE-154* UREA N-114* CREAT-3.2* SODIUM-114* POTASSIUM-6.5* CHLORIDE-81* TOTAL CO2-22 ANION GAP-18 [**2118-10-7**] 05:09PM   K+-6.2* [**2118-10-7**] 08:21PM   LACTATE-2.5*  IMAGING [**2118-10-7**] CT Abd/Pelvis IMPRESSION: 1.
+DLC: The diffusing capacity corrected for hemoglobin is moderately reduced.
+The urinary bladder contains a Foley and is not distended.
+The bladder contains a Foley catheter and is decompressed.
+Although this may account for some of the patient's anasarca, non-anatomic causes should also be pursued.
+Tip of the right PIC line ends in the right atrium, and would need to be withdrawn 4.5 cm to reposition it in the low SVC.
+If the patient has received systemic therapy for lymphoma, it is possible that we are observing a partial response.
+Bibasilar opacifications, likely combination of effusions and atelectasis.
+Daptomycin = 3.0 MCG/ML.
+SENSITIVITIES: MIC expressed in MCG/ML _________________________________________________________                              ENTEROCOCCUS FAECIUM                              | AMPICILLIN------------  =>32 R DAPTOMYCIN------------       S PENICILLIN G----------  =>64 R VANCOMYCIN------------     1 S  Bottle 2- Gran neg rods in aerobic and anaerobic  [**10-12**], [**10-13**], [**10-14**], [**10-17**], [**10-22**], [**11-7**] Blood Cultures: No growth  [**2118-10-24**] PICC tip culture: No growth  [**2118-11-5**] and [**2118-11-8**] Urine Cx: Mixed flora consistent with contamination  [**2118-11-10**] CSF Cryptococcal antigen: Not detected  [**2118-11-10**] CSF Culture: PENDING  [**2118-11-11**] Blood EBV: PENDING  [**2118-11-11**] Pleural Fluid Culture: PENDING  PATHOLOGY  [**2118-10-11**] Bone Marrow Immunophenotyping: Non-specific T cell dominant lymphoid profile; diagnostic immunophenotypic features of involvement by leukemia/lymphoma are not seen in specimen.
+[**2118-10-11**] Bone Marrow and Core Biopsy DIAGNOSIS: CELLULAR BONE MARROW WITH INVOLVEMENT BY CLASSICAL HODGKIN LYMPHOMA.
+CD15 stains neutrophils and bands and together with CD45 is difficult to appreciate reactivity among large atypical cells.
+[**2118-11-11**] Pleural Fluid Immunophenotyping: PENDING  ENDOCRINE LABS  [**2118-10-27**] 06:55AM BLOOD 17 HYDROXYPROGESTERONE-Test [**2118-10-27**] 06:55AM BLOOD ANDROSTENEDIONE-PND [**2118-10-27**] 06:55AM BLOOD Testost-<12 DHEA-SO-13 SHBG-42 [**2118-10-13**] 05:50AM BLOOD Cortsol-42.9* [**2118-10-7**] 03:45PM BLOOD Cortsol-33.8* [**2118-10-7**] 03:45PM BLOOD TSH-5.4* [**2118-10-8**] 05:06PM BLOOD PTH-282* [**2118-10-8**] 05:06PM BLOOD Free T4-1.2 [**2118-10-15**] 05:39AM BLOOD VitB12-384 Folate-GREATER TH [**2118-10-31**] 07:30AM BLOOD Cortsol-28.0* [**2118-11-10**] 11:45AM BLOOD Cortsol-22.9* [**2118-11-10**] 12:15PM BLOOD Cortsol-33.8* [**2118-11-10**] 01:33PM BLOOD Cortsol-40.9*  DISCHARGE LABS  Brief Hospital Course: 69 year old female with a history of questionable sarcoidosis with inconclusive prior biopsies, mesenteric LAD with lymphedema, and recent left-sided ureteral stenosis, presenting with hyponatremia with hyperkalemia and acute kidney injury, found to have decreasesing WBC count (ANC 16), intermittent hypotension, and blood cultures postitive for enterococcus and gram negative rods.
+Bone marrow toxicity due to recent methotrexate, ciprofloxacin, and bone marrow invasion from recently diagnosed Hodgkin's disease were considered as possible etiologies.
+Patient was started on Neupogen and Leucovorin and counts improved (WBC 9.2, ANC was >4K, HCT 25.2, PLT 59) prior to transfer to BMT.
+Received neupogen and blood products  2.
+Patient had a bone marrow biopsy on [**10-11**] showing classical Hodgkin Lymphoma, which is stage IV given bone marrow involvement.
+She had pulmonary function tests showing a decreased DLCO and was therefore started on AVD chemotherapy with C1D1 on [**2118-10-21**].
+Bleomycin was not given due to potential pulmonary toxicity.
+Patient tolerated her first cycle well without significant side effects.
+The culture drawn off of her PICC grew vancomycin-sensitive enterococcus faecium at approximately 19 hours.
+Her peripheral bottle grew gram-variable rods at approximately 36 hours.
+She was started on Vancomycin [**10-12**] and Meropenem [**10-13**].
+Her PICC line was not pulled due to massive edema and concern for loss of access.
+Given her history of high-dose steroids and possibly quick taper to 10mg of prednisone daily in order to start methotrexate, adrenal insufficiency was considered and high-dose stress steroids were administered without effect.
+Cortisol level before steroid administration was wnl.
+She was on a fluid restriction and reportedly on diuretics (furosemide + metolazone?)
+at outside facility, so hypovolemia was considered the most likely scenario and she was continued on fluid resuscitation with good result and Na+ increase at the appropriate rate of 0.5mEq/hr.
+As she was volume resuscitated, her urine electrolytes of urine Na+<10 seemed to indicate appropriate sodium avidity and subsequent appropriate ADH release.
+After beginning chemotherapy with AVD, patient was again found to be hyponatremic.
+Patient received salt tabs and was started on TPN with good result.
+Her renal function improved dramatically with IV hydration.
+This was felt to be due to intravascular depletion in the setting of limited PO intake and patient was started on TPN and received gentle fluids with return of Cr to baseline.
+She continued to have anasarca despite interval decrease in size of mesenteric lymph nodes after AVD, and required aggressive diuresis with IV lasix.
+She was followed by wound care and Dermatology was consulted, who determined her lesions were unlikely to be fungal or vasculitis and did not recommend biopsy.
+Surgery was consulted for possible debridement of necrotic escars and recommended waiting on debridement until after patient's counts have recovered from chemotherapy.
+She was started on weekly Vitamin D [**Numeric Identifier 1871**] IU and her electrolytes were repleted as needed.
+She developed hypothermia and was found to have TSH of 11 and low FT4, so endocrine was consulted and she was started on IV levothyroxine, absorption of PO levothyroxine may have been impaired by gut edema.
+Morning cortisol was not low.
+Given lack of endocrinologic laboratory abnormalities, mass may represent lymphoma.
+Narcotics/Chronic Pain: Throughout admission, patient often requested additional pain medications in spite of oversedation.
+Her medications were titrated to a combination regimen of both short and long acting oxycodone, with good reported pain control.
+Patient's daughter approached RN to share concerns that her mother was abusing narcotics and had been addicted to narcotics for many years.
+On [**10-31**], patient was observed by her nurse hiding her morning oxycontin dose in a pill bottle, and her nurse found 2 additional oxycontin pills in the bottle.
+NG tube was placed for decompression and she was placed on bowel rest.
+Hypernatremia:  Patient developed hypernatremia, likely due to gastrointestinal losses (from small bowel obstruction), insensible water losses, and concomittant inability to take PO fluids in the setting of clinical deterioration.
+After discussion with her daughter and health care proxy, the decision was made to make her comfort measures only.
+Palliative care was consulted and she received supportive care with morphine, lorazepam, and haloperidol as needed for comfort.
+Medications on Admission: Preadmission medications listed are correct and complete.
+Bisacodyl 10 mg PR HS:PRN constipation 2.
+Milk of Magnesia 30 mL PO DAILY:PRN constipation 3.
+PredniSONE 10 mg PO DAILY 4.
+Senna 1 TAB PO QHS 5.
+Heparin 5000 UNIT SC TID 7.
+Pravastatin 40 mg PO HS 8.
+Ondansetron 4 mg PO BID:PRN nausea 9.
+Polyethylene Glycol 17 g PO DAILY 10.
+Acetaminophen 650 mg PO Q 8H 11.
+Guaifenesin [**6-2**] mL PO Q6H:PRN cough 12.
+Sodium Chloride 1 gm PO BID 13.
+Ondansetron 4 mg PO QAM 14.
+Levothyroxine Sodium 162.5 mcg PO DAILY 15.
+Oxycodone SR (OxyconTIN) 30 mg PO QHS 16.
+Oxycodone SR (OxyconTIN) 20 mg PO QAM 17.
+Nystatin 500,000 UNIT PO QID 18.
+FoLIC Acid 1 mg PO DAILY 19.
+Famotidine 20 mg PO DAILY 20.
+Lorazepam 0.25 mg PO BID:PRN anxiety 21.
+HYDROmorphone (Dilaudid) 2-4 mg PO Q4H:PRN pain 22.
+Gabapentin 100 mg PO HS   Discharge Medications: n/a  Discharge Disposition: Expired  Discharge Diagnosis: Hodgkin Lymphoma   Discharge Condition: Expired  Discharge Instructions: n/a  Followup Instructions: n/a   Completed by:[**2119-1-1**

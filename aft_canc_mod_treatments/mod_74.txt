@@ -1,0 +1,48 @@
+Admission Date:  [**2169-8-9**]              Discharge Date:   [**2169-8-12**]  Date of Birth:  [**2094-11-9**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 425**] Chief Complaint: Bradycardia (slow heart rate)  Major Surgical or Invasive Procedure: Implantation of a Pacemaker ([**Company 1543**] VDD type single lead)   History of Present Illness: Mr. [**Known firstname 1975**] [**Known lastname 5512**] is a 74 yo [**Known lastname 595**]-speaking male with ESRD on HD, h/o mild CAD, hypertension, dyslipidemia, diastolic dysfunction, who presented to hemodialysis today and was found to be bradycardic.
+He completed hemodialysis without any complications and had 2.5L of fluid removed.
+His physical exam was normal; orthostasis, valsalva were not done.
+He received aspirin 81 mg. Hct was at his baseline of 35, cardiac enzymes were CK: 103, MB: 7 and Trop-T: 0.27.
+At that time he was treated with atropine and ended up with a wide-complex tachycardia requiring intubation and pressors.
+Cardiac review of systems is notable for absence of chest pain, dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope.
+LYMPH - no cervical, axillary, or inguinal LAD NEURO - awake, A&Ox3, CNs II-XII grossly intact, muscle strength [**5-16**] throughout, sensation grossly intact throughout, DTRs 2+ and symmetric, cerebellar exam intact, gait not assessed PULSES:  Right: Carotid 2+ Femoral 2+ Popliteal Left: Carotid 2+ Femoral 2+ Popliteal 2+ (DP and PT not assessed due to wrapping, will do in am before procedure)  Pertinent Results: Admission Labs ([**2169-8-9**]): WBC-7.1 HGB-11.3* HCT-35.6* PLT-207 GLUCOSE-88 UREA N-24* CREAT-4.3* SODIUM-140 POTASSIUM-3.9 CHLORIDE-98 TOTAL CO2-28 ANION GAP-18 CALCIUM-8.9 PHOSPHATE-3.2 MAGNESIUM-1.7 CK-MB-7, cTropnT-0.27*, CK(CPK)-103 PT-13.2 PTT-39.1* INR(PT)-1.1  CXR ([**2169-8-11**]): Compared with [**2169-8-10**], a single lead right-sided pacemaker is in place, with lead tip over right ventricle.
+Brief Hospital Course: Mr. [**Known firstname 1975**] [**Known lastname 5512**] is a 74 yo [**Known lastname 595**]-speaking male with h/o ESRD on HD, HTN, HL, and mild CAD who presented with asymptomatic bradycardia and underwent pacemaker placement.
+He received a [**Company 1543**] single-lead pacemaker.
+He had difficult access for the pacemaker, and required multiple sticks on the right side.
+His pacemaker was in the correct place via follow-up CXR and an interrogation the morning after the procedure showed a normally functioning pacemaker.
+His BP was highest post-dialysis, as he does not take his medications the morning before dialysis.
+We increased his dose of clonidine 0.2mg po daily to 0.2mg po bid.
+His BP stabilized by the time of discharge on these medications, although he would likely benefit from outpatient BP monitoring.
+He was continued on aspirin 81mg po daily and he was started on simvastatin 40mg po daily.
+# Chronic Kidney Disease Stage V on HD - patient dialyzed MWF while in house, and has follow-up with dialysis clinic.
+His electrolytes were monitored and repleted, and calcium acetate and nephrocaps were continued.
+Aspirin 81mg po daily was also continued.
+He presented with diffuse wheezing that improved with his home medications and albuterol.
+Medications on Admission: ADMISSION MEDICATIONS: Calcium acetate 667 mg po TID Hysocyamine sulfate 0.375 mg PO Daily Ondansetron 8 mg PO PRN nausea Donepezil 5 mg PO QHS Citalopram 10 mg PO Daily Clonazepam 0.5 mg PO QHS Lisinopril 20 mg PO BID Fexofenadine 180 mg PO Daily NephroCaps 1 cap po Daily Tiotropium bromide 18 mcg 2 puff PO Daily Montelukast 10 mg PO Daily Valsartan 80 mg PO Daily Amlodipine 7.5 mg Daily B Complex-Vitamin C - Folic Acid 1 mg capsule Daily Clonidine 0.2mg po daily HCTZ 12.5mg po daily Aspirin 81 mg PO Daily SL Nitroglycerin prn  Discharge Medications: 1.
+Calcium Acetate 667 mg Capsule Sig: One (1) Capsule PO TID W/MEALS (3 TIMES A DAY WITH MEALS).
+Hyoscyamine Sulfate 0.375 mg Capsule, Sust.
+Release 12 hr PO DAILY (Daily).
+Ondansetron 8 mg Tablet, Rapid Dissolve Sig: One (1) Tablet, Rapid Dissolve PO Q8H (every 8 hours) as needed for for nausea.
+Donepezil 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+Citalopram 20 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+Clonazepam 1 mg Tablet Sig: One (1) Tablet PO QHS (once a day (at bedtime)).
+Lisinopril 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Fexofenadine 60 mg Tablet Sig: Three (3) Tablet PO DAILY (Daily).
+B Complex-Vitamin C-Folic Acid 1 mg Capsule Sig: One (1) Cap PO DAILY (Daily).
+Tiotropium Bromide 18 mcg Capsule, w/Inhalation Device Sig: One (1) Cap Inhalation DAILY (Daily).
+Montelukast 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Valsartan 80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Amlodipine 2.5 mg Tablet Sig: Three (3) Tablet PO DAILY (Daily).
+Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Clonidine 0.1 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day).
+Hydrochlorothiazide 12.5 mg Capsule Sig: One (1) Capsule PO DAILY (Daily).
+Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+Nitroglycerin 0.3 mg Tablet, Sublingual Sig: One (1) Tablet, Sublingual Sublingual PRN (as needed) as needed for chest pain.
+Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every 6 hours) as needed for for pain.
+Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig: One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+Discharge Disposition: Home With Service  Facility: [**Hospital6 1952**], [**Location (un) 86**]  Discharge Diagnosis: Primary diagnosis: Second degree heart block  Secondary diagnoses: End Stage Renal Disease on Hemodialyis COPD/Asthma Coronary Artery Disease Hypertension Dyslipidemia   Discharge Condition: Stable   Discharge Instructions: You were admitted to the hospital due to a slow heart rate (bradycardia).
+You were given a pacemaker ([**Company 1543**] VDD) in order to speed up your heart rate.
+You were started on simvastatin 40mg by mouth daily to help lower your cholesterol and prevent your risk of heart attacks in the future.
+In addition, your dose of clonidine was doubled because your blood pressure was high during your hospital stay.
+Your dialysis clinic should draw a vancomycin level AFTER dialysis and should give you one dose of vancomycin if your level is low.
+Provider: [**Name10 (NameIs) **] LAB Phone:[**Telephone/Fax (1) 1237**] Date/Time: [**2169-8-17**] 8:00 (for venous imaging of the lower extremities)  Provider: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 722**], DPM Phone:[**Telephone/Fax (1) 543**] Date/Time:[**2169-8-22**] 2:45 (Podiatry)  Provider: [**Name10 (NameIs) 2105**] [**Name11 (NameIs) 2106**], MD Phone:[**Telephone/Fax (1) 673**] Date/Time: [**2169-8-24**] 8:40 (Transplant Medicine)

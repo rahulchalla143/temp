@@ -1,0 +1,11 @@
+Admission Date:  [**2125-9-3**]              Discharge Date:   [**2125-9-4**]  Date of Birth:  [**2078-2-8**]             Sex:   M  Service: MEDICINE  Allergies: Iodine Containing Agents Classifier  Attending:[**First Name3 (LF) 2186**] Chief Complaint: flushing, periorbital edema, and hives during CT scan  Major Surgical or Invasive Procedure: 1.
+The patient went for a CTA pancreas to rule out pancreatic neoplasm b/c of elevated CEA and CA19-9.
+The patient maintained his O2 sats >100% on a 100% NRB, and BP had MAP>60.
+Pertinent Results: [**2125-9-3**] 05:54PM   WBC-15.4*# RBC-4.27* HGB-14.0 HCT-40.6 MCV-95 MCH-32.7* MCHC-34.4 RDW-12.6 [**2125-9-3**] 05:54PM   PLT COUNT-279 [**2125-9-3**] 05:54PM   GLUCOSE-102 UREA N-9 CREAT-0.7 SODIUM-135 POTASSIUM-3.5 CHLORIDE-101 TOTAL CO2-22 ANION GAP-16 [**2125-9-3**] 05:54PM   CALCIUM-8.0* PHOSPHATE-3.8 MAGNESIUM-1.6 [**2125-9-3**] 05:54PM   ALT(SGPT)-17 AST(SGOT)-31 LD(LDH)-158 ALK PHOS-67 AMYLASE-59 TOT BILI-0.5 [**2125-9-3**] 05:54PM   LIPASE-67* [**2125-9-3**] 05:54PM   PT-13.7* PTT-27.1 INR(PT)-1.3  Abd CT:  Area of atelectasis is seen in the right lung base.
+Anaphylaxis:  the pt had anaphylactoid reaction to IV contrast dye during CT as evidenced by acute onset of flushing, periorbital/facial edema, and hives.
+He was treated in the CT suite with IV benadryl, and was observed to maintain O2 sat 100% on NRB and had MAP>60 at all times.
+The pt had stable respiratory status and BP throughout his admission.
+Chronic pancreatitis:   his pacreatitis has been long-standing, with evidence of pancreatic calcification on CT and ERCP consistent with pancreatic ductal stones.
+Vital signs normal; no dyspnea, itching, or other evidence of active anaphylaxis.
+Your vital signs and symptoms have all returned to [**Location 64314**].
+Followup Instructions: Follow-up with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 468**] in [**12-10**] weeks for evaluation of further treatment options for your chronic pancreatitis.

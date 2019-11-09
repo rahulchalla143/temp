@@ -1,0 +1,51 @@
+Admission Date:  [**2108-5-27**]              Discharge Date:   [**2108-5-30**]  Date of Birth:  [**2041-8-27**]             Sex:   M  Service: MEDICINE  Allergies: Penicillamine / Ciprofloxacin / Vancomycin / Insulins / Lithium  Attending:[**First Name3 (LF) 3984**] Chief Complaint: fever 101.3, hypoxia, tachycardia, tachypnea  Major Surgical or Invasive Procedure: Right internal jugular central venous line  History of Present Illness: 66 yo male chronic nursing home resident with hx recently admitted to the [**Hospital1 18**] [**Hospital Ward Name 332**] MICU with Influenza complicated by S. aureus pneumonia requiring intubation, bronchectasis, and Afib.
+Initially treated with Vanc/Zosyn for 7 days, and later switched to Oxacillin with plan to finish Oxacillin on [**2108-5-31**].
+He was given doses of Vanco, levoflox, and Flagyl.
+He was given iv NS 4 litres.
+Past Medical History: Wilson's disease, bipolar disease, hx SI, hs Pica, bronchiectasis, atrial fibrillation, coronary artery disease, history of pancreatitis, status post Billroth II for peptic ulcer disease, chronic renal insufficiency baseline cr 1.9-2.4, status post mitral valve replacement, status post a cholecystectomy.
+He has had an exploratory laparotomy,status post bowel resection for obstruction.
+He is also status post partial colectomy.
+He is also status post gastrostomytube placement.
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              KLEBSIELLA PNEUMONIAE                              |          GRAM NEGATIVE ROD #2                              |          | AMPICILLIN/SULBACTAM--  =>32 R CEFAZOLIN-------------  =>64 R CEFEPIME--------------       PND CEFTAZIDIME-----------  =>64 R CEFTRIAXONE-----------       PND CEFUROXIME------------  =>64 R CIPROFLOXACIN---------   =>4 R GENTAMICIN------------   <=1 S IMIPENEM--------------   <=1 S LEVOFLOXACIN----------   =>8 R MEROPENEM-------------<=0.25 S NITROFURANTOIN--------   128 R PIPERACILLIN/TAZO-----    16 S TOBRAMYCIN------------   <=1 S TRIMETHOPRIM/SULFA----   <=1 S     _ _ _ _ _ _ _ ________________________________________________________________     RADIOLOGY  Final Report  CT CHEST W/O CONTRAST  [**2108-5-27**] 5:42 PM  CT CHEST W/O CONTRAST  Reason: r/o pulm abcess  [**Hospital 93**] MEDICAL CONDITION: 66 year old man with recurrent aspiration PNA , presents c new worsening PNA despite appropriate atb REASON FOR THIS EXAMINATION: r/o pulm abcess CONTRAINDICATIONS for IV CONTRAST: renal failure  INDICATION: Recurrent pneumonia, evaluate for pulmonary abscess.
+TECHNIQUE: MDCT acquired axial images of the chest were obtained without IV contrast secondary to patient's elevated creatinine level.
+Brief Hospital Course: 66 yo male with complicated medical hx, recent aspiration pna on Oxacillin still with Subclavian line, from HRC with fever, oxygen desaturation, and continued cough.
+Coverage broadened to vancomycin and zosyin and he will compltete a 14 d course to end [**2108-6-9**].
+Hypoxia improved with frequent chest PT and suctioning.
+# Bipolar disorder and Wilsons disease: continue on home meds clonazepam, olanzapine, buproprion, lamotragine.
+# Orthostatic hypotension: Continue midodrine and fludrocort while also giving Metoprolol for patient's underlying CAD as long as pressure can tollerate it.
+Improved with hydration and medicatino doses re-adjusted.
+# Nutrition: tube feeds 35 kcal /kg , 1g prot.
+Bupropion 100 mg [**Hospital1 **] 2.
+Lamotrigine 25 mg [**Hospital1 **] 3.
+Midodrine 5 mg TID 4.
+Ipratropium Bromide 0.02 % Nebs 6.
+Albuterol Sulfate Nebs 7.
+Aspirin 325 mg QD 8.
+Lansoprazole 30 mg QD 9.
+Metoprolol Tartrate 25 mg TID 10.
+Oxacillin 2 g q6 for 8 days (he ws discharged 5 days ago, still needs another 3 days) 11.
+Albuterol 90 mcg/Actuation Aerosol q4-6 12.
+Ipratropium Bromide 17 mcg/Actuation q6 13.
+Olanzapine 5 mg QD 14.
+Clonazepam 0.5 mg QAM 15.
+Trientine 250mg [**Hospital1 **]   Discharge Medications: 1.
+Bupropion 100 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Lamotrigine 25 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Midodrine 5 mg Tablet Sig: One (1) Tablet PO TID (3 times a day).
+Sucralfate 1 g Tablet Sig: One (1) Tablet PO QID (4 times a day).
+Ipratropium Bromide 0.02 % Solution Sig: One (1) neb Inhalation Q6H (every 6 hours).
+Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Lansoprazole 30 mg Susp,Delayed Release for Recon Sig: Thirty (30) mg PO DAILY (Daily).
+Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO TID (3 times a day).
+Olanzapine 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Clonazepam 0.5 mg Tablet Sig: One (1) Tablet PO QAM (once a day (in the morning)).
+Heparin (Porcine) 5,000 unit/mL Solution Sig: 5000 (5000) units Injection TID (3 times a day).
+Acetaminophen 160 mg/5 mL Solution Sig: Six [**Age over 90 1230**]y (650) mg PO Q4-6H (every 4 to 6 hours) as needed.
+Zinc Sulfate 220 mg Capsule Sig: One (1) Capsule PO DAILY (Daily).
+Albuterol Sulfate 0.083 % Solution Sig: One (1) neb Inhalation Q4H (every 4 hours) as needed.
+Bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal DAILY (Daily) as needed.
+Heparin Lock Flush (Porcine) 100 unit/mL Syringe Sig: One (1) ML Intravenous  DAILY (Daily) as needed: central line care.
+Vancomycin in Dextrose 1 g/200 mL Piggyback Sig: One (1) g Intravenous  Q 24H (Every 24 Hours) for 10 days.
+Piperacillin-Tazobactam 2.25 g Recon Soln Sig: One (1) Recon Soln Intravenous  Q6H (every 6 hours) for 10 days.
+Discharge Disposition: Extended Care  Facility: [**Hospital1 100**] Senior Living  Discharge Diagnosis: Pneumonia   Discharge Condition: Good   Discharge Instructions: Please continue your anitbiotics until [**2108-6-9**].
+Please remove right internal jugular central venous line at the conclusion of antibiotic course.

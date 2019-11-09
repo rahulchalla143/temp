@@ -1,0 +1,49 @@
+Admission Date:  [**2104-6-25**]              Discharge Date:   [**2104-8-2**]  Date of Birth:  [**2040-6-10**]             Sex:   F  Service: MEDICINE  Allergies: Nsaids / Nut Flavor / Lactose / Corn / Radioactive Diagnostics, General Classif / Vancomycin  Attending:[**First Name3 (LF) 465**] Chief Complaint: Hypotension  Major Surgical or Invasive Procedure: Laparoscopic ileostomy on [**2104-6-23**] Central line placement (now removed) PICC line placement on [**2104-7-28**] for long-term antibiotics   History of Present Illness: HPI: Pt is a 64 year old female with a history of Crohn's colitis who was transferred from [**Hospital3 7571**]Hospital after she was observed to have stool discharging from the vagina.
+Pt had previously been hospitalized at [**Hospital6 6689**] numerous times for Crohn's colitis and resultant diarrhea, deyhydration, and electrolyte abnormalities.
+During the admission, she was clinically thought to have a vesicular-sigmoid fistula, although this was not demonstrated on CT scan.
+Anteroseptal MI resulting in cardiogenic shock - [**2104-5-21**], recent Persantine MIBI shows small-to-moderate inferolateral reversible defect.
+EF 20-25% from [**5-21**] echo 5.
+Bipolar Disorder 6. h/o c diff, now with c diff toxin negative x2 but persistent diarrhea, s/p tx with flagyl 7. h/o VRE 8. h/o MRSA 9.
+HTN 10. gallstones 11. fibromyalgia 12. scoliosis 13. depression   Social History: Ms. [**Known lastname 24414**] lives alone.
+Physical Exam: Vitals: Temp 99.7, BP 74/doppler, Pulse 106, RR 20, O2 sat 97% 2L Gen: slightly lethargic, but responds appropriately to questions.
+Ext: no c/c/e Neuro: A&Ox3 Rectal (from OSH records): guaiac +   Pertinent Results: [**2104-6-25**] 11:59PM   WBC-5.3 RBC-3.09* HGB-9.7* HCT-28.2* MCV-91 MCH-31.3 MCHC-34.3 RDW-15.9* [**2104-6-25**] 11:59PM   PLT COUNT-313 [**2104-6-25**] 08:12PM   GLUCOSE-66* UREA N-7 CREAT-0.2* SODIUM-132* POTASSIUM-4.0 CHLORIDE-95* TOTAL CO2-29 ANION GAP-12 [**2104-6-25**] 08:12PM   CALCIUM-7.1* PHOSPHATE-3.5 MAGNESIUM-1.4* [**2104-6-25**] 08:12PM   WBC-5.3 RBC-3.67* HGB-11.4* HCT-33.3* MCV-91 MCH-31.1 MCHC-34.2 RDW-16.0* [**2104-6-25**] 08:12PM   PLT COUNT-355 .
+LVEF 55% Based on [**2094**] AHA endocarditis prophylaxis recommendations, the echo findings indicate a low risk (prophylaxis not recommended).
+CT C/A/P [**2104-7-9**]: 1.
+LOWER EXTREMITY U/S [**2104-7-17**]: The left common femoral vein demonstrates intraluminal thrombus and is not completely compressible, although it is patent.
+TTE [**2104-7-18**]: The left atrium is elongated.
+Compared with the findings of the prior study (images reviewed) of [**2104-6-30**], no major change is evident.
+SHOULDER 1 VIEW LEFT  [**2104-7-29**] 1:55 PM Two radiographs of the left shoulder demonstrate anatomic alignment of the glenohumeral joint.
+IMPRESSION: Limited study given single angle of projection.
+UNILAT UP EXT VEINS US  [**2104-7-28**] 1:43 PM LEFT UPPER EXTREMITY ULTRASOUND: [**Doctor Last Name **] scale and Doppler ultrasound of the left internal jugular, subclavian, brachial, basilic, and cephalic veins was performed.
+Compared to the previous tracing of [**2104-7-22**] no diagnostic change.
+Pt had previously been hospitalized at [**Hospital6 6689**] numerous times for Crohn's colitis and resultant diarrhea, deyhydration, and electrolyte abnormalities.
+During the admission, she was clinically thought to have a vaginal/sigmoid fistula, although this was not demonstrated on CT scan.
+Shortly after admission to [**Hospital1 18**], the pt had episode of hypotension with BP 60/doppler.
+Shortly after starting levophed, she experienced [**3-31**] chest pressure and experienced increased ectopy on telemetry.
+Levophed was stopped, and SBP decreased to the 70's.
+Pt's chest pressure resolved, however she became tachy to 120's and remained hypotensive.
+She also had urine cultures positive for >100k yeast, that was treated with one dose of fluconazole.
+She then had episodes of bradycardia with HR in the 40s o/n that were asymptomatic.
+To look for possible abscess around her fistula, the pt underwent a Abd/pelvic CT scan on [**7-9**] that did not show any evidence for abscess, but a DVT in her LLE was found incidentally.
+After refusing LENI for further evaluation, the pt was started on heparin drip and returned to the medicine floor.
+Blood cultures taken during this episode of tachycardia and hypotension subsequently grew vancomycin resistant enterococcus and coag-positive staph, and sepsis vs. adrenal insufficiency were suspected to be the precipitation factor.
+A TTE was performed on [**7-15**] to evaluate her for endocarditis in the setting of MRSA and VRE bacteremia but showed no evidence of valve vegetation.
+Cefepime & vancomycin d/c'd on [**7-19**].
+# Bacteremia: hypotension, tachycardia Positive blood cultures from [**7-15**] have grown VRE/MRSA; suspected sepsis as cause of hypotensive episodes.
+TTE on [**7-15**] showed no evidence of valve vegetation.
+Cefepime & vancomycin d/c'd on [**7-19**].
+Daily blood cultures since [**7-16**] have been negative.
+A tranesophageal echocardiogram revealed small, partially mobile echodensity on the aortic valve as described above c/w (but not diagnositic of) a vegetation.
+# DVT: Filling defect in left femoral vein found incidentally on CT pelvis.
+Left upper extremity ultrasound to evaluate for clot was negative which decreased concern for HIT and checking heparin dependent antibody was not clinically indicated given normal platelet counts.
+Per Cardiology input, she is at moderate cardiac risk for peri-operative complications; however, cardiac catheterization is not indicated.
+BP stabilized after starting stress dose steroids prior to surgery and she has remained normotensive post-op.
+# Adrenal insufficiency: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 104**] stim test suggestive of adrenal insufficiency.
+It may have been contributing to her persistent hypotension with SBP in 90s before surgery.
+She is now hemodynamically stable with SBP 130s.
+Iron studies indicated anemia of chronic disease.
+Valproate Sodium 250 mg/5 mL Syrup Sig: One (1)  PO QHS (once a day (at bedtime)).
+Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: One (1) Tablet PO twice a day.
+Discharge Disposition: Extended Care  Facility: [**Hospital3 105**] Northeast - [**Hospital1 **]  Discharge Diagnosis: Primary diagnoses: Rectovaginal fistula, secondary to Crohn's colitis VRE/MRSA endocarditis Adrenal insufficiency Hypotension [**1-24**] sepsis, now resolved .
+vesicular-sigmoid fistula 2) Hx recent Klebsiella UTI, c/b sepsis 3) Crohn's Disease - diagnosed [**2104-3-19**], on steroids 4) Anteroseptal MI resulting in cardiogenic shock - [**2104-5-21**], recent Persantine MIBI shows small-to-moderate inferolateral reversible defect.
+EF 20-25% from [**5-21**] echo (unclear if pt has more recent echo) 5) Bipolar Disorder 6) h/o c diff, now with c diff toxin negative x2 but persistent diarrhea, s/p tx with flagyl 7) h/o VRE 8) h/o MRSA 9) HTN 10)Gallstones 11)Fibromyalgia 12)Scoliosis 13)Depression   Discharge Condition: Stable   Discharge Instructions: Please take all medications as prescribed.

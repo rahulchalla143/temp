@@ -1,0 +1,39 @@
+Admission Date:  [**2174-8-11**]              Discharge Date:   [**2174-8-24**]  Date of Birth:  [**2135-11-15**]             Sex:   F  Service: MEDICINE  Allergies: Prochlorperazine / Heparin Agents  Attending:[**First Name3 (LF) 3565**] Chief Complaint: Fevers  Major Surgical or Invasive Procedure: Pericardiocentesis  History of Present Illness: Ms. [**Known firstname **] [**First Name4 (NamePattern1) 2431**] [**Known lastname **] is a 38yo F ALL s/p double cord blood SCT [**1-/2173**] c/b GVHD, severe left ventricular systolic dysfunction attributed to chemotherapy for ALL as well as XRT for [**Year (4 digits) 3242**] (EF 15-20%), embolic CVA now on coumadin, asthma, hypertension and chronic kidney disease, well-known to the [**Year (4 digits) 3242**] service who was just discharged yesterday ([**2174-8-10**]) after a prolonged hospital course for acute on chronic CHF thought be be due to cardiac GVHD and acute on chronic renal failure.
+She was discharged home with daily infusions of IV torsamide and methylprednisolone.
+Blood (PICC and peripheral) and urine cultures were sent, and she was started on empiric meropenem.
+Per her sister, the pt got her torsemide and methyprednisolone in clinic today.
+- underwent phase I induction with daunorubicin, vincristine, dexamethasone, L-asparaginase, MTX; phase II with cyclophosphamide, cytarabine, mercaptopurine, MTX - Bone Marrow Aspirate/Biopsy on [**2172-10-26**] showed no morphologic evidence of residual leukemia - underwent allo double cord blood SCT [**2173-1-11**], course complicated by neutropenic fever and acute skin GVHD - subsequent course has been complicated by pseudomonas pneumonia in [**5-15**], empiric treatment of CMV pericarditis in [**7-15**], chronic nausea and vomiting which has been treated as GVHD with steroids though colonoscopies in [**8-14**] and [**11-14**] were negative for GVHD.
+OTHER MEDICAL HISTORY: - Embolic stroke in [**3-/2174**] on coumadin - Asthma - Hypertension - Cervical Intraepithelial Neoplasia - C-section in [**2165**] - Cardiomyopathy due to early anthracycline-related cardiotoxicity [**10/2172**] - Chronic kidney disease stage III/IV, baseline creatinine ~2.0 - Chronic abdominal pain: Her workup so far has included EGD [**2173-9-5**], [**2173-11-5**] with mild signs of gastritis, no GVHD.
+Progression of bilateral pulmonary infiltrates in this patient on stem cell transplant therapy.
+The epicardial surface of the right ventricle as well as atria appears to be encased in a layer of echodense material (epicardial fat vs consolidated effusive material).
+Moderate-sized bilateral pleural effusions and a small amount of ascites   Brief Hospital Course: 38 year old female with ALL s/p cord blood transplant complicated by multi-organ GVHD admitted directly to the ICU for recurrent fever and increased pulmonary infiltrates on CXR.
+She received a dose of meropenem, blood and urine cultures were sent, and she was admitted directly to the ICU.
+After transfer to the ICU she was given IV fluids and continued on broad-spectrum antibiotics (vancomycin, cefepime), antifungal (voriconazole) and antiviral (gancyclovir).
+Bronchoscopy lavage fluid was sent for pan-culture, pneumocystis smear, and CMV screen.
+CMV pneumonitis was suspected given previous BAL CMV+.
+Hypoxia and work of breathing worsening and she required intubation for ventilation (see below).
+She received vancomycin, cefepime, ganciclovir, voriconazole, and amphotericin B for broad anti-bacterial, anti-fungal, and anti-viral coverage.
+She was sedated on fentanyl and versed due to agitation and discomfort on the vent.
+She required mechanical ventilation at an Fi02 of 100% O2 until the time of expiration.
+#Congestive heart failure with systolic dysfunction: Patient has known CHF with systolic dysfunction from chemo, XRT and suspected cardiac GVHD.
+NiCOM maneuvers were performed and a transesophageal Balloon was placed for pleural pressure monitoring.
+CVVHD was discontinued as the patient developed hypotension despite being on three pressors.
+#ALL: Pt is s/p double cord blood SCT [**1-/2173**] complicated by GVHD on immunosuppression, recently discharged on mycophenolate, IV solumedrol and bactrim/acyclovir for prophylaxis.
+Her mycophenolate dose was changed to 500 mg PO BID and she was continued on this plus 60 mg IV solumedrol daily.
+She was on Bactrim prophylaxis prior to admission, and this was increased to therapeutic dosing while in the ICU.
+Home nifedipine and lopressor were held.
+Medications on Admission: -acyclovir 400 mg Tablet One (1) Tablet by mouth every twelve (12) hours.
+-albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization One (1) Neb Inhalation every six (6) hours as needed for SOB, wheezing -digoxin 125 mcg Tablet One (1) Tablet by mouth EVERY OTHER DAY.
+-ergocalciferol (vitamin D2)50,000 unit Capsule One (1) Capsule by mouth 1X/week -lorazepam 0.5 mg Tablet One (1) Tablet by mouth every six (6) hours as needed for anxiety/nausea.
+-methylprednisolone sodium succ Sixty (60) mg Intravenous once a day.
+-metoprolol succinate 50 mg Tablet Extended Release 24 hr, One (1) Tablet Extended Release 24 hr by mouth once a day -morphine [MS Contin]15 mg Tablet Extended Release One (1) Tablet Extended Release by mouth twice a day.
+-mycophenolate mofetil 500 mg Tablet Two (2) Tablet by mouth twice a day.
+-nifedipine 60 mg Tablet Extended Release One (1) Tablet Extended Release by mouth once a day in the evening.
+-NPH insulin human recomb Ten (10) units Subcutaneous twice a day: Please administer 10 units before breakfast and 10 units before dinner.
+-omeprazole 40 mg Capsule, Delayed Release(E.C.)
+-ondansetron 4 mg Tablet, Rapid Dissolve [**2-6**] Tablet, Rapid Dissolves by mouth three times a day as needed for nausea.
+-oxycodone 5 mg Tablet One (1) Tablet by mouth every 4-6 hours as needed for pain.
+-sildenafil 20 mg Tablet Four (4) Tablet by mouth three times a day.
+-sulfamethoxazole-trimethoprim 400-80 mg Tablet One (1) Tablet by mouth DAILY (Daily).
+-torsemide 20 mg/2 mL (10 mg/mL) Solution Forty (40) mg Intravenous once a day.
+-voriconazole 200 mg Tablet One (1) Tablet by mouth every twelve (12) hours.

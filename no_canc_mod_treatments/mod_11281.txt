@@ -1,0 +1,30 @@
+Admission Date:  [**2100-9-24**]              Discharge Date:   [**2100-9-29**]  Date of Birth:  [**2038-4-21**]             Sex:   F  Service: CARDIOTHORACIC  Allergies: Iodine  Attending:[**First Name3 (LF) 165**] Chief Complaint: chest pain, DOE  Major Surgical or Invasive Procedure: s/p CABGx4(LIMA->LAD, SVG->[**Last Name (LF) **], [**First Name3 (LF) **], RCA) [**2100-9-23**]   History of Present Illness: 62F with h/o CAD, s/p stents to LAD and RCA.
+[**Name (NI) **] pt reports sx <24h, no residual) depression moderate arthritis restless leg syndrome Past Surgical History: cholecystectomy bladder extension   Social History: Lives with: husband and son Occupation: retired (worked in quality control of books) Tobacco: none ETOH: none   Family History: mother died at 54 with [**Name (NI) 1932**] father died 62 MI sister died 46 MI sister died 54 MI brother died 50 MI   Physical Exam: Pulse: 74 Resp: 16  O2 sat: 94%RA B/P  Right:    Left:  177/71 Height:     Weight: 230lb  General: NAD, overweight female Skin: Dry [x] intact [x] HEENT: PERRLA [] EOMI [x] left pupil sluggish, fixed @4mm Neck:  Supple [x] Full ROM [x] Chest: Lungs clear bilaterally [x] Heart: RRR [x]  Irregular []  Murmur Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds + [x] obese Extremities: Warm [x], well-perfused [x] Edema 1+edema bilateral ankles/feet  Varicosities: None [] small spider veins Neuro: Grossly intact x Pulses: Femoral      Right: 1+  Left: NP DP           Right: 1+  Left: 1+ PT           [**Name (NI) 167**]: NP  Left: NP Radial       Right:  cath site Left: 2+  Carotid Bruit        Right:    Left: no bruits   Pertinent Results: [**2100-9-29**] 06:35AM BLOOD WBC-11.0 RBC-3.42* Hgb-9.8* Hct-28.8* MCV-84 MCH-28.7 MCHC-34.0 RDW-14.7 Plt Ct-284 [**2100-9-24**] 02:10PM BLOOD PT-14.7* PTT-32.8 INR(PT)-1.3* [**2100-9-28**] 04:28AM BLOOD Glucose-159* UreaN-22* Creat-0.7 Na-133 K-4.5 Cl-100 HCO3-28 AnGap-10  [**Known lastname 36272**],[**Known firstname **] [**Medical Record Number 36273**] F  62  [**2038-4-21**]  Radiology Report CHEST (PORTABLE AP) Study Date of [**2100-9-28**] 7:54 AM   [**Last Name (LF) **],[**First Name3 (LF) **] CSURG FA6A [**2100-9-28**] 7:54 AM CHEST (PORTABLE AP)   Clip # [**Clip Number (Radiology) 36274**] Reason: eval for effusion  Final Report INDICATION: Status post CABG, evaluation for pleural effusion.
+No change in valve structure and function 3.
+She tolerated the procedure well and was transferred to the CVICU on insulin and propofol.
+She was extubated on the post op night and remained on an insulin drip.
+She went into rapid atrial fibrillation on POD#1 and was started on an amiodorone drip.
+She also required Neo and was eventually weaned off and transferred to the floor on POD#3.
+Her chest tubes were d/c'd on POD#2 and her epicardial pacing wires were d/c'd on POD#3.
+Medications on Admission: Atenolol 50mg [**Hospital1 **] Diltiazem HCl 240mg daily Glargine 80 Units am ISMN 90mg daily lisinopril 20mg daily Metformin 1000mg [**Hospital1 **] Oxybutynin 10mg daily Paroxetine 20mg daily Pramipexole 0.25mg [**Hospital1 **] Prasugrel 10mg daily Simvastatin 40mg daily Omeprazole 20mg daily Aspirin 81mg daily FeSO4 325mg daily Glucosamine MVI   Discharge Medications: 1. potassium chloride 20 mEq Tab Sust.Rel.
+2. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+3. aspirin 81 mg Tablet, Delayed Release (E.C.)
+4. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every 4 hours) as needed for pain.
+5. simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+6. oxybutynin chloride 5 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+7. paroxetine HCl 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+8. pramipexole 0.25 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+9. omeprazole 20 mg Capsule, Delayed Release(E.C.)
+10. ferrous sulfate 300  mg (60 mg Iron) Tablet Sig: One (1) Tablet PO DAILY (Daily).
+11. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+12. multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+13. prasugrel 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+14. metformin 500 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day).
+15. amiodarone 200 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day) for 5 days: Decrease dose to 400 mg PO daily after this dose is finished.
+Give 400 mg PO daily for 7 days, then decrease the dose to 200 mg PO daily.
+16. metoprolol tartrate 50 mg Tablet Sig: One (1) Tablet PO TID (3 times a day).
+17. insulin glargine 100 unit/mL Solution Sig: Eighty (80) units Subcutaneous q AM.
+18. glargine  Sig: Twenty (20) units  q PM.
+19. furosemide 10 mg/mL Solution Sig: Two (2)  Injection Q12H (every 12 hours) for 5 days.
+Discharge Disposition: Extended Care  Facility: [**Hospital **] Healthcare Center - [**Hospital1 1559**]  Discharge Diagnosis: Coronary artery disease-s/p CABG [**2100-9-23**] s/p NSTEMI [**2090**] w/ PCI of LAD and RCA HTN hyperlipidemia IDDM PVD GERD insomnia s/p CVA [**11-17**] depression OA restless leg syndrome   Discharge Condition: Alert and oriented x3 nonfocal Ambulating with steady gait Incisional pain managed with Percocet Incisions: Sternal - healing well, no erythema or drainage Leg Right/Left - healing well, no erythema or drainage.
+Look at your incisions daily for redness or drainage Please NO lotions, cream, powder, or ointments to incisions Each morning you should weigh yourself and then in the evening take your temperature, these should be written down on the chart  No driving for approximately one month and while taking narcotics, will be discussed at follow up appointment with surgeon when you will be able to drive No lifting more than 10 pounds for 10 weeks Please call with any questions or concerns [**Telephone/Fax (1) 170**] Females: Please wear bra to reduce pulling on incision, avoid rubbing on lower edge **Please call cardiac surgery office with any questions or concerns [**Telephone/Fax (1) 170**].

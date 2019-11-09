@@ -1,0 +1,20 @@
+Name:  [**Known lastname 10025**],[**Known firstname 2636**] DR                [**Last Name (STitle) 4221**] [**Name (STitle) **]:   [**Numeric Identifier 10026**]  Admission Date:  [**2182-5-30**]              Discharge Date:   [**2182-6-5**]  Date of Birth:  [**2099-9-16**]             Sex:   M  Service: MEDICINE  Allergies: Amoxicillin  Attending:[**First Name3 (LF) 10027**] Addendum: Pt has been discharged with the following medications:  Discharge Medications/Orders: Carbidopa-Levodopa  25-100 mg Tablet  [**First Name3 (LF) 1649**]:  [**12-7**] Tablet PO TID (3 times a day): please administer at 6, 11, 16 .
+Heparin (Porcine)  5,000 unit/mL Solution  [**Month/Day (2) 1649**]:  One (1) Injection TID (3 times a day).
+Carbidopa-Levodopa  25-100 mg Tablet  [**Month/Day (2) 1649**]:  One (1) Tablet PO 5X/DAY (5 Times a Day).
+Finasteride  5 mg Tablet  [**Month/Day (2) 1649**]:  One (1) Tablet PO DAILY (Daily).
+Lasix  40 mg Tablet  [**Month/Day (2) 1649**]:  One (1) Tablet PO once a day.
+Aspirin  325 mg Tablet  [**Month/Day (2) 1649**]:  One (1) Tablet PO DAILY (Daily).
+Tablet(s)   Cholecalciferol (Vitamin D3)  400 unit Tablet  [**Month/Day (2) 1649**]:  2.5 Tablets PO DAILY (Daily).
+Senna  8.6 mg Tablet  [**Month/Day (2) 1649**]:  One (1) Tablet PO BID (2 times a day).
+Polyethylene Glycol 3350  100 % Powder  [**Month/Day (2) 1649**]:  One (1) PO DAILY (Daily).
+Tamsulosin  0.4 mg Capsule, Sust.
+Pramipexole  0.125 mg Tablet  [**Month/Day (2) 1649**]:  One (1) Tablet PO TID (3 times a day).
+Simvastatin  40 mg Tablet  [**Month/Day (2) 1649**]:  One (1) Tablet PO DAILY (Daily).
+Metoprolol Tartrate  25 mg Tablet  [**Month/Day (2) 1649**]:  One (1) Tablet PO BID (2 times a day).
+Acetaminophen  160 mg/5 mL Solution  [**Month/Day (2) 1649**]:  One (1) PO Q6H (every 6 hours) as needed for pain.
+Isosorbide Dinitrate  20 mg Tablet  [**Month/Day (2) 1649**]:  One (1) Tablet PO TID (3 times a day).
+Oxycodone  10 mg Tablet Sustained Release 12 hr  [**Month/Day (2) 1649**]:  One (1) Tablet Sustained Release 12 hr PO Q12H (every 12 hours).
+Primidone  50 mg Tablet  [**Month/Day (2) 1649**]:  0.5 Tablet PO HS (at bedtime).
+Sertraline  50 mg Tablet  [**Month/Day (2) 1649**]:  0.5 Tablet PO DAILY (Daily).
+Lansoprazole  30 mg Tablet,Rapid Dissolve, DR  [**Last Name (STitle) 1649**]:  One (1) Tablet,Rapid Dissolve, DR [**Last Name (STitle) **] DAILY (Daily).
+Hydralazine  25 mg Tablet  [**Last Name (STitle) 1649**]:  1.5 Tablets PO TID (3 times a day).

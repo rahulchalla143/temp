@@ -1,0 +1,42 @@
+Admission Date:  [**2187-10-2**]              Discharge Date:   [**2187-10-22**]  Date of Birth:  [**2133-1-13**]             Sex:   F  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**Doctor First Name 2080**] Chief Complaint: seizures (shaking, loss of consciousness)  Major Surgical or Invasive Procedure: #) Intubation for status epilepticus [**2187-10-2**] #) Thoracentesis [**2187-10-15**]  History of Present Illness: Ms. [**Known lastname 52213**] is a 54 yo W with h/o metastatic brain cancer with brain mets s/p resection and whole brain radiation, as well as leptomeningeal spread, and history of status epilepticus who presents with multiple seizures.
+During that admission, the seizures resolved with Dilantin and she was later transitioned to Keppra.
+She also had an LP positive for malignant cells, and received intrathecal cytarabine, complicated by chemical meningitis with mental status changes.
+She thereafter continued systemic cisplatin, and received intrathecal thiotepa on [**8-20**] and [**9-21**].
+She was intubated after the 5th seizure for airway protection and started on propofol.
+She received steroids at OSH, and Ativan (4 mg total), fosphenytoin 1500 mg at [**Hospital1 18**].
+Past Medical History: Triple Negative Breast Cancer - s/p Adriamycin and cyclophosphamide therapy from [**Month (only) 205**] to [**2186-9-10**]; s/p taxol therapy from [**Month (only) **] to [**2186-11-10**].
+Recently on capecitabine therapy but stopped due to it not working.
+Brain mets discovered on MRI in [**2187-3-13**] - underwent whole brain cranial irradiation in [**2187-3-13**].
+An orogastric tube distal port is seen within the stomach.
+Right-sided PICC line tip is at the cavoatrial junction.
+An Ommaya catheter is seen terminating within the left lateral ventricle near the foramen of [**Last Name (un) 2044**].
+Contour abnormalities at the level of the aortic arch and the aortopulmonary window suggest the presence of extensive lymphadenopathy.
+PERTINENT LABS ON DISCHARGE: [**2187-10-21**] 05:46 WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct 5.6 3.20* 11.1* 32.1* 100* 34.8* 34.8 18.2* 40* [**2187-10-21**] 05:46 Glucose UreaN Creat Na K Cl HCO3 AnGap 191*1 25* 0.2* 141 3.8 106 28 11 Calcium Phos Mg 8.4 2.7 1.6 [**2187-10-15**]: LDH 981   Brief Hospital Course: 54 y/o F with h/o metastatic breast cancer with brain mets and h/o seizure, who presented on [**2187-10-2**] with recurrent seizures and mental status decline.
+Pt received a thoracentesis and the fluid was bloody.
+On [**2187-10-19**] she triggered with SBP 170s, and repeat CXR showed interval increase in pleural effusions, with evidence of volume overload.
+She responded well to IV lasix.
+She continued to breathe spontaneously with good oxygenation and minimal evidence of respiratory distress, although she appeared to make grimaces that responded well to pain relief (see below).
+It appeared that no further interventions could be made.
+She was intubated for airway protection and fosphenytoin was added to her regimen of Levetiracetam.
+She was successfully extubated on [**2187-10-6**] and was continued on IV Keppra and IV fosphenytoin.
+She was started on dexamethasone.
+Per her neurooncologist, she could not be offered further interventions for these metastases.
+#) Metastatic Breast Cancer / Goals of care - She had an Ommaya reservoir placed in [**8-/2187**] for salvage chemotherapy as her breast cancer had been refractory to prior treatments.
+Nonetheless, a repeat MRI Head with and without contrast revealed interval progression of disease despite her intrathecal chemotherapy.
+She was treated with dexamethasone 6mg Q4 for her resultant cerebral edema.
+Her glucose levels were also followed and she was placed on insulin sliding scale for hyperglycemia due to corticosteroid use.
+She received periodic one-time doses of IV lasix, which would temporarily improve her urine output.
+#) Nutrition: Given her mental status and concern for aspiration, a Dobhoff tube was placed but she was able to demonstrate adequate and safe PO intake and it was pulled on [**2187-9-11**].
+She was hydrated with D51/2 NS continuous.
+Her family desired PEG tube placement for nutrition, but on further consideration decided to proceed with Dobhoff tube placement instead.
+On [**2187-10-19**] after the trigger event, she was deemed unstable to proceed with Dobhoff placement, and received TPN thereafter for parenteral nutrition.
+A few days during hospital course she received one-time doses of IV morphine when she appeared to be grimacing in pain, which was received with good effect.
+Pt received IV metoprolol throughout hospital course, requiring one-time doses of hydralazine occasionally for SBP>170.
+She received pain control as above.
+Neurology service thought this could have been due to heparin prophylaxis, but HIT antibody panel was negative.
+She was on fondaparinaux SC for prophylaxis until transfer to Medicine, where this was discontinued and she was placed on pneumoboots instead (given low platelet count).
+Dr. [**Last Name (STitle) 3877**] thought this was due to marrow failure, as her counts should have responded by this time after cisplatin therapy.
+We therefore discontinued her antibiotics on [**2187-10-17**].
+Both the dermatologist and Dr. [**Last Name (STitle) 3877**] felt there were no further interventions that could be made.
+She was continued on famotidine daily.
+Medications on Admission: dexamethasone 4 mg q6 omeprazole 20 mg daily Keppra 1250 mg [**Hospital1 **] cephalexin 250 mg QID x 10 days (unclear start date) percocet prn hydroxyzine prn bowel regimen MVI  Discharge Medications: expired  Discharge Disposition: Expired  Discharge Diagnosis: PRIMARY #) Status epilepticus #) Malignant pleural effusion #) Thrombocytopenia #) Left breast skin carcinoma #) Acute renal failure SECONDARY #) Gastric reflux disease #) Metastatic breast cancer   Discharge Condition: Expired.

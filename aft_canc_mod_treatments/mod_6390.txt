@@ -1,0 +1,53 @@
+Admission Date:  [**2161-6-4**]              Discharge Date:   [**2161-6-8**]  Date of Birth:  [**2121-5-5**]             Sex:   F  Service: MEDICINE  Allergies: Levaquin / Azithromycin / Bactrim  Attending:[**First Name3 (LF) 3276**] Chief Complaint: Fever  Major Surgical or Invasive Procedure: Bone marrow biopsy Transfusion of 2 units of blood   History of Present Illness: [**Known firstname **] [**Known lastname **] is a 40 year old woman with metastatic non-small cell lung cancer, admitted with febrile neutropenia.
+In [**Month (only) 359**] [**2160**] disease progressed and she was treated with two additional cycles carboplatin/gemcitabine.
+In [**2161-1-15**] she developed neurologic symptoms of headache, dysarthria, and difficulty with fine motor skills, and brain imaging diagnosed multiple brain metastases.
+She completed whole brain radiation as of [**2161-2-26**] and was then treated with two cycles Navelbine.
+Keppra and dexamethasone were held, adn she then had a seizure.
+Keppra and dexamethasone were restarted.
+She was hospitalized again [**Date range (1) 81108**]/09 with pulmonary embolism and was started on enoxaparin.
+CT raised concern for progressive disease in her liver, and on [**2161-5-20**] she began treatment on erlotinib.
+Bactrim was discontinued out of concern this was marrow suppression from drug effect.
+She underwent chemotherapy with gemcitabine and carboplatin  from [**Month (only) 956**] to [**2160-6-15**], again [**Month (only) **] to [**2160-11-15**].
+She also had ~2 weeks of vinorelbine on [**3-23**], stopped for elevated LFTs.
+Started erlotinib [**5-23**] * Malignant L pleural effusion, s/p multiple thoracenteses.
+Family History: There is no family history of cancer including lung, ovary, colon and breast.
+Physical Exam: General 97.2 101 83/69 24 99% on 2L NC HEENT Sclera white, conjunctiva pink, oropharynx without lesions, cushingoid facies Neck Supple, no adenopathy Pulm Lungs with few fine rales bilaterally, no wheezing CV Regular S1 S2 no m/r/g appreciated Abd Obese nontender +bowel sounds no HSM appreciated GU No perirectal abscess Extrem Warm no edema palpable distal pulses Derm No rash or jaundice Neuro Alert and interactive, moving all extremities, has difficulty sitting up in bed due to weakness Lines/tubes/drains No port   Pertinent Results: Admission Labs: [**2161-6-3**] 10:10PM BLOOD WBC-1.3*# RBC-3.08* Hgb-6.3*# Hct-19.7*# MCV-64* MCH-20.6* MCHC-32.1 RDW-18.2* Plt Ct-256# [**2161-6-3**] 10:10PM BLOOD Neuts-4* Bands-0 Lymphs-82* Monos-11 Eos-0 Baso-0 Atyps-3* Metas-0 Myelos-0 NRBC-7* [**2161-6-3**] 10:10PM BLOOD Hypochr-1+ Anisocy-2+ Poiklo-2+ Macrocy-OCCASIONAL Microcy-2+ Polychr-OCCASIONAL Ovalocy-1+ Schisto-OCCASIONAL Tear Dr[**Last Name (STitle) **]2+ [**2161-6-3**] 10:10PM BLOOD PT-15.5* PTT-44.5* INR(PT)-1.4* [**2161-6-3**] 10:10PM BLOOD Gran Ct-52* [**2161-6-3**] 10:10PM BLOOD Glucose-127* UreaN-10 Creat-0.5 Na-139 K-3.9 Cl-103 HCO3-27 AnGap-13 [**2161-6-3**] 10:10PM BLOOD ALT-96* AST-40 LD(LDH)-532* CK(CPK)-12* AlkPhos-159* TotBili-0.7 [**2161-6-3**] 10:10PM BLOOD Hapto-285*  IMAGING: Echo [**6-4**]: The left atrium is normal in size.
+MICRO: Blood cx [**6-3**]: NGTD Urine cx [**6-3**]: >100K lactobacillus Legionella Ag [**6-4**]: negative Sputum: viral neg  Bone Marrow Biopsy pending  Brief Hospital Course: 40 yo female with metastatic NSCLC on dexamethasone for brain mets, and recent admission for PE returned with febrile neutropenia.
+# Febrile neutropenia:  She was admitted to the MICU due to a borderline BP initially, which improved with fluids.
+She was given stress dose steroids x24hrs before returning back to her normal deacron dose.
+She was was broadly covered with cefepime and vanco while she remained neutropenic.
+Once her counts rose with an ANC > 500 these were stopped and she was started on cefpodoxime to complete a 7-day course.
+Differential for her neutropenia included marrow suppression/infiltration from her disease vs medication effect vs infection affecting her bone marrow.
+Patient's bactrim was stopped on [**5-18**] and her counts were found to be depressed on the next lab check she had after starting the bactrim.
+During her hospitalization  her keppra was stopped and she was started on topamax instead as keppra was also suspected of causing marrow suppression.
+Bactrim was added as an allergy to OMR and she was instructed not to take bactrim again.
+Iron studies showed anemia of chronic disease and vitamin B12 and folate have recently been normal.
+# Metastatic NSCLC with brain mets: Patient has known brain mets s/p XRT which have resulted in seizures.
+She was continued on gabapentin 300 mg PO Q8H.
+As above her keppra was stopped and she was started on Topiramate 100 mg PO BID for seizure prevention.
+She is on dexamethasone to decrease cerebral edema.
+After the day of stress dose steroids as above she was continued on the dexamethasone taper as outlined by Dr. [**Last Name (STitle) 724**]: On [**6-12**] will decrease to 0.5 mg every other morning and on [**2161-6-27**] with stop.
+She was being treated with erlotinib prior to admission.
+Upon discharge she was asked to restart it at her home regimen as an outpatient.
+She was continued on lovenox 90 mg SC Q12H.
+# CODE: FULL CODE   Medications on Admission: Lovenox 90mg [**Hospital1 **] Dexamethasone 1mg daily Erlotinib 100mg daily Neurontin 300mg TID Levetiracetam 500mg [**Hospital1 **] Ibuprofen prn Tylenol prn  Discharge Medications: 1.
+Enoxaparin 100 mg/mL Syringe Sig: Ninety (90) mg Subcutaneous Q12H (every 12 hours).
+Dexamethasone 0.5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily): Take 1 tablet daily until [**6-12**], then take 1 tablet every other day until [**6-27**].
+Stop taking dexamethasone on [**6-27**].
+Gabapentin 300 mg Capsule Sig: One (1) Capsule PO Q8H (every 8 hours).
+Topiramate 100 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Cefpodoxime 200 mg Tablet Sig: One (1) Tablet PO twice a day for 4 days.
+Oxycodone-Acetaminophen 5-325 mg Tablet Sig: One (1) Tablet PO Q4H (every 4 hours) as needed for pain: Do not drive while taking this medication.
+Compazine 10 mg Tablet Sig: One (1) Tablet PO every six (6) hours as needed for nausea.
+Tarceva 100 mg Tablet Sig: One (1) Tablet PO once a day.
+Your blood counts were found to be low so you were monitored closely and treated with broad spectrum antibiotics.
+You were also given blood transfusions due to low blood counts.
+Your counts improved and you were changed to oral antibiotics and remained without evidence of infection.
+You should not take bactrim in the future and it has been added to your drug allergy list in our records.
+You will need to finish 4 days of cefpodoxime 200 mg twice daily.
+Your dexamethasone is being tapered: Take 1 tablet daily until [**6-12**], then take 1 tablet every other day until [**6-27**].
+Stop taking dexamethasone on [**6-27**].
+Your keppra was stopped and you were started on topomax 100 mg twice daily.
+You should restart your tarceva as prescribed upon discharge.
+For nausea you can take 10 mg of compazine every 6 hours as needed.
+Continue to take your outpatient medications as prescribed.

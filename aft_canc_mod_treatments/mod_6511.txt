@@ -1,0 +1,49 @@
+Admission Date:  [**2158-9-1**]              Discharge Date:   [**2158-9-15**]  Date of Birth:  [**2096-1-5**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 3276**] Chief Complaint: Diarrhea  Major Surgical or Invasive Procedure: None  History of Present Illness: Mr. [**Known lastname 22627**] is a 62 year old male with a history of Stage IIIb moderately differentiated squamous cell carcinoma of the lung s/p right pneumonectomy in [**6-/2158**] complicated by bronchopleural fistula.
+The patient started chemotherapy on [**2158-8-21**] with Cisplatin/VP16 and with XRT.
+He last received chemotherapy on [**2152-8-28**].
+He was checked for clostridium difficile during that admission and was negative x 1.
+He has a blood pressure cuff at home and his blood pressure at baseline ranges from the 110s to 130s systolic.
+The cough has been associated with production of brown-green sputum.
+He received flagyl 500 mg IV x1 and ceftazidime 2 gram IV x 1.
+He received neurontin 800 mg PO, pepcid 20 mg PO x 1 and albuterol inhalers.
+He received approximately 3 liters of normal saline with improvement in his blood pressures to the 100s systolic.
+In [**Name (NI) 153**] pt was started on IV Flagyl, IV ceftaz, PO and IV vancomycin.
+Surgrical consult obtained and recommended [**Hospital 70883**] medical therapy.
+Pt also received fluid resuscitation 5-7l NS.
+Pt's Metoprolol was held due to his sepsis, reverted to a-fib with RVR, rate controlled following lopressor 5mg x3, dilt 10mg and then metoprolol 25mg [**Hospital1 **] PO.
+Status post right knee arthroscopy.
+Lung cancer as above s/p pneumonectomy   Social History: Patient lives with his wife in [**Name (NI) 17927**].
+He has never used IV drugs.
+Pertinent Results: [**2158-9-15**] 12:00AM BLOOD WBC-4.2 RBC-3.21* Hgb-8.9* Hct-26.6* MCV-83 MCH-27.8 MCHC-33.6 RDW-16.2* Plt Ct-469* [**2158-9-14**] 12:00AM BLOOD WBC-3.8* RBC-3.55* Hgb-10.2* Hct-29.7* MCV-84 MCH-28.8 MCHC-34.5 RDW-16.2* Plt Ct-467* [**2158-9-13**] 12:00AM BLOOD WBC-4.0 RBC-3.21* Hgb-9.2* Hct-26.7* MCV-83 MCH-28.7 MCHC-34.5 RDW-16.0* Plt Ct-483* [**2158-9-12**] 12:00AM BLOOD WBC-6.0 RBC-3.58* Hgb-10.2* Hct-30.3* MCV-85 MCH-28.5 MCHC-33.7 RDW-15.8* Plt Ct-474* [**2158-9-11**] 12:00AM BLOOD WBC-6.8 RBC-3.63* Hgb-10.5* Hct-30.5* MCV-84 MCH-28.8 MCHC-34.2 RDW-15.5 Plt Ct-442* [**2158-9-10**] 06:00AM BLOOD WBC-7.1 RBC-3.82* Hgb-10.7* Hct-32.3* MCV-85 MCH-28.0 MCHC-33.1 RDW-15.1 Plt Ct-399 [**2158-9-15**] 12:00AM BLOOD Glucose-101 UreaN-15 Creat-1.1 Na-139 K-3.6 Cl-105 HCO3-27 AnGap-11 [**2158-9-14**] 12:00AM BLOOD Glucose-115* UreaN-11 Creat-1.0 Na-139 K-3.8 Cl-107 HCO3-25 AnGap-11 [**2158-9-11**] 12:00AM BLOOD ALT-12 AST-15 LD(LDH)-116 AlkPhos-150* TotBili-0.2 [**2158-9-2**] 10:51PM BLOOD LD(LDH)-91* CK(CPK)-15* [**2158-9-2**] 10:51PM BLOOD CK-MB-3 cTropnT-<0.01 [**2158-9-15**] 12:00AM BLOOD Calcium-8.3* Phos-3.3 Mg-1.3* [**2158-9-14**] 12:00AM BLOOD Calcium-8.2* Phos-3.9 Mg-1.6 [**2158-9-13**] 12:00AM BLOOD calTIBC-163* VitB12-GREATER TH Folate-13.3 Ferritn-225 TRF-125* [**2158-9-3**] 04:59AM BLOOD Lactate-1.8 [**2158-9-2**] 09:28PM BLOOD Lactate-2.0 K-3.6 [**2158-9-2**] 03:38PM BLOOD Lactate-3.2* [**2158-9-1**] 12:35PM BLOOD Lactate-2.3* [**2158-9-1**] 07:46AM BLOOD Lactate-2.5* K-3.6  Brief Hospital Course: A/P: 62 year old male with stage IIIb squamous cell Lung CA s/p pneumonectomy in [**6-/2158**] on chemotherapy, radiation admitted for sepsis secondary to C. Diff colitis.
+Pt was admitted to [**Hospital Unit Name 153**] where he received several CT scans which showed diffuse colitis without free air or colonic dilitation, pt was started on PO Vancomycin and IV Metronidazole.
+Surgery was consulted due to the severity of the colitis recommended aggressive medical management or colectomy is symptoms persisted.
+Pt was stabilized following fluid resuscitation and transferred to oncology floor.
+Pt was kept NPO and surgery was reconsulted for possible colectomy due to the severity of the pt's persistent symptoms.
+Pt's symptoms showed clinical response with the addition of Rifaximin to high dose PO Vancomycin and IV Metronidazole.
+Pt was discharged on a 2 week course of Rifaximin, slow taper of PO Vancomycin and follow up with Gastroenterology as an outpatient.
+Acute Kidney Injury: On admission pt's creatinine was noted to be elevated at 1.4 from a baseline of 0.9.
+Pt's Creatinine responded to IV fluid therapy.
+Stage IIIb lung cancer: Pt was continued on radiation treatment whilst hospitalize.
+Pt was discharged on a short course of Furosemide treatment to help with fluid removal.
+Medications on Admission: Albuterol 2 puffs Q6H Benazepril 10 mg daily Cilostazol 100 mg [**Hospital1 **] Citalopram 20 mg daily Advair 500-50 1 puff [**Hospital1 **] Gabapentin 800 mg TID Ativan 1 mg Q4-6H PRN Metoprolol XL 150 mg daily Odansetron 8 mg PO Q8H:PRN Crestor 20 mg daily Spiriva 18 mcg daily Aspirin 81 mg daily Multivitamin daily Omeprazole 20 mg daily   Discharge Medications: 1.
+Rifaximin 200 mg Tablet Sig: Two (2) Tablet PO three times a day for 10 days: Please take as prescribed until medication is completel finished.
+Vancomycin oral solution 500mg/10mL sterile water Sig:Take 2 teaspoons FOUR TIMES a day from [**2158-9-15**] - [**2158-9-28**].
+Dispense 28 grams (560 mL) 3.
+Vancomycin Oral Soln.
+Vancomycin Oral Soln.
+Vancomycin Oral Soln.
+500mg/10mL sterile water Sig:Take 1 teaspoons TWO TIMES a day from [**2158-10-13**] - [**2158-10-20**] Dispense 3,500mg (70 mL) 6.
+Vancomycin Oral Soln.
+Citalopram 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig: One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+Tiotropium Bromide 18 mcg Capsule, w/Inhalation Device Sig: One (1) Cap Inhalation DAILY (Daily).
+Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs Inhalation Q6H (every 6 hours) as needed for wheezing, sob.
+Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for pain.
+Maalox 200-200-20 mg/5 mL Suspension Sig: Five (5) ML PO TID (3 times a day) as needed for indigestion.
+Metoprolol Succinate 50 mg Tablet Sustained Release 24 hr Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+Furosemide 20 mg Tablet Sig: One (1) Tablet PO once a day for 10 days: For leg swelling.
+You also need to continue on a special diet.
+Continue to take all other medications as prescribed.
+Please contact a physician or return to the emergency room if you notice worseing severe abdominal pain, diarrhea, nausea, vomitting, or any other concerning symptoms.

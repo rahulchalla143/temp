@@ -1,0 +1,32 @@
+Admission Date:  [**2117-12-7**]              Discharge Date:   [**2117-12-17**]  Date of Birth:  [**2041-7-19**]             Sex:   F  Service: MEDICINE  Allergies: Sulfa (Sulfonamide Antibiotics)  Attending:[**First Name3 (LF) 905**] Chief Complaint: right lung mass  Major Surgical or Invasive Procedure: Intubation Bronchoscopy with lymph node biopsies Laryngoscopy with vocal cord biopsy   History of Present Illness: 76F with little PMH, lifelong smoker, admitted to OSH with chest pain, shortness of breath, and nausea; now transferred to [**Hospital1 18**] for further management of R lung and vocal cord masses.
+She had a chest CT without PE but this did show RLL mass.
+In the MICU, the patient's antibiotics were changed to clinda and CTX to cover necrotizing pneumonia since CT showed gas in collapsed RLL.
+ENT plans to perform laryngoscopy to biopsy mass and assess airway edema.
+- s/p cholecystectomy - s/p appy - s/p hernia repair   Social History: Lives with husband.
+- Tobacco: 50-60 pack year history (1 PPD x 50-60 years).
+Lungs: Clear to auscultation bilaterally with some decreased air entry at R base and occ inspiratory rhonchi posteriorly, no accessory muscle usage CV: Regular rhythm, normal rate, normal S1 + S2, soft SM at LUSB without radiation.
+Abdomen: soft, obese, non-tender, non-distended, bowel sounds, without masses, no organomegaly Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema Neuro: CNII-XII grossly intact, no focal deficits appreciated   Pertinent Results: [**2117-12-7**] 08:15PM   WBC-13.1* RBC-3.13* HGB-7.9* HCT-26.8* MCV-86 MCH-25.4* MCHC-29.6* RDW-14.9 [**2117-12-7**] 08:15PM   NEUTS-84.1* LYMPHS-7.7* MONOS-8.0 EOS-0 BASOS-0.2 [**2117-12-7**] 08:15PM   GLUCOSE-113* UREA N-15 CREAT-0.6 SODIUM-139 POTASSIUM-4.0 CHLORIDE-105 TOTAL CO2-32 ANION GAP-6 [**2117-12-7**] 08:15PM   CALCIUM-7.9* PHOSPHATE-1.9* MAGNESIUM-1.6 IRON-13* [**2117-12-7**] 08:15PM   ALT(SGPT)-5 AST(SGOT)-14 LD(LDH)-69* CK(CPK)-12* ALK PHOS-66 TOT BILI-0.2 [**2117-12-7**] 08:15PM   calTIBC-140* VIT B12-328 FOLATE-4.9 FERRITIN-346* TRF-108*  [**2117-12-7**] EKG: Sinus rhythm.
+Left ventricular wall thicknesses are normal.
+Overall left ventricular systolic function is normal (LVEF>55%).
+The pulmonary artery systolic pressure could not be determined.
+[**2117-12-9**] CT neck: 1.
+[**2117-12-10**] LN biopsy x2: NEGATIVE FOR MALIGNANT CELLS [**2117-12-15**] CT Torso: 1.
+A CXR was taken which was significant for a mass in the RLL.
+A CT was done which showed a cystic mass.
+The patient was transferred to [**Hospital1 18**] for further management.
+Hematology/oncology was consulted and requested a CT torso and MRI head for further evaluation.
+The MRI of the head had no evidence for mets.
+The CT torso had a "suspicious lesion" in the spleen.
+She had a laryngoscopy with biopsy of the mass.
+A repeat laryngoscopy and stroboscopy showed resolution of the swelling.
+Upon awakening her heart rate would return to normal range.
+Anemia: Her hematocrit was stable since the outside hospital course.
+Lung mass 2.
+Tobacco abuse   Discharge Condition: Mental Status:Clear and coherent Level of Consciousness:Alert and interactive Activity Status:Ambulatory - requires assistance or aid (walker or cane)   Discharge Instructions: You were admitted from another hospital for evaluation of a lung mass.
+You underwent an ultrasound guided biopsy of lymph nodes in your chest which were negative.
+You had an MRI which was negative for signs of metastatic lesions in your brain.
+You had a CT torso which showed a suspicious lesion in your spleen.
+You will need a PET/CT scan and pulmonary function tests (PFTs)as an outpatient which we have set up for you.
+You will follow up with interventional pulmonology doctors, the thoracic surgeons, and the ear-nose-throat doctors.
+[**Hospital1 **] Healthcare - [**Location (un) 1439**] [**Street Address(2) 19167**] [**Location (un) 1439**], [**Numeric Identifier 10535**] Phone: [**Telephone/Fax (1) 9347**] Fax: [**Telephone/Fax (1) 12540**]  Pulmonary Doctor [**First Name (Titles) **] [**Last Name (Titles) 1092**] Surgeon: Provider: [**First Name8 (NamePattern2) 828**] [**Name11 (NameIs) 829**], MD Phone:[**0-0-**] Date/Time:[**2117-12-28**] 1:30 [**Hospital Ward Name **] CLINICAL CTR, [**Location (un) **] Provider: [**Name10 (NameIs) 1532**] [**Name11 (NameIs) 1533**], MD Phone:[**0-0-**] Date/Time:[**2117-12-28**] 2:00 [**Hospital Ward Name **] CLINICAL CTR, [**Location (un) **]  Ear Nose and Throat Doctor: Provider: [**First Name4 (NamePattern1) 177**] [**Last Name (NamePattern1) **], MD Phone:[**Telephone/Fax (1) 41**] Date/Time:[**2118-1-14**] 1:00 [**Hospital Ward Name **] BLDG ([**Doctor First Name **]), [**Location (un) **]  The PET/CT scan is on Febuary 5th at 1:45pm.
+Provider: [**Name10 (NameIs) 1570**],INTERPRET W/LAB NO CHECK-IN [**Name10 (NameIs) 1570**] INTEPRETATION BILLING Date/Time:[**2117-12-28**] 11:00 [**Hospital Ward Name **] BUILDING (FELBEERG/[**Hospital Ward Name **] COMPLEX), [**Location (un) **]                                [**Name6 (MD) 251**] [**Name8 (MD) **] MD [**MD Number(1) 910**]

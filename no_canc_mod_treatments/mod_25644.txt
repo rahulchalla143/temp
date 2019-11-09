@@ -1,0 +1,22 @@
+Admission Date:  [**2128-8-27**]              Discharge Date:   [**2128-9-4**]  Date of Birth:  [**2061-7-1**]             Sex:   M  Service: NEUROLOGY  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**Last Name (NamePattern1) 11784**] Chief Complaint: aphasia and right hemiparesis  Major Surgical or Invasive Procedure: IV tPA and MERCI device   History of Present Illness: The patient is a 67 year old right handed man with a past medical history significant for a.fib (not on Coumadin - for unclear period of time, possible not since [**2122**]), HTN, HLD, DM - on insulin, heavy smoking history who presents with a sudden onset of right sided weakness, determined to have a LMCA syndrome at an OSH, given tPA and sent to [**Hospital1 18**] for further evaluation.
+Here on examination he continued to have severe deficits, given a stroke scale of 23.
+Past Medical History: - afib w RVR, only on ASA not on Coumadin (unclear if ever was) - CHF - HTN - DM on insulin - peri-rectal abscess treated a few months ago   Social History: Lives by himself in [**Location (un) **].
+He has a long 40 year x 3ppd smoking history, etoh use and uses pain pills that are not his according to his daughter.
+-Coordination and gait: not tested .
+The perfusion studies are limited and evaluation for mismatch and territory at risk is not possible.
+This was discussed with Dr. [**Last Name (STitle) 88862**] of the stroke service and Dr. [**Last Name (STitle) **] of Interventional Neuroradiology, and the patient was brought for an interventional procedure.
+59 DISTINCT PROCEDURAL SERVICE [**2128-8-27**]: FINDINGS: .
+RIGHT INTERNAL CAROTID ARTERY INJECTION, PREPROCEDURE: There is complete proximal M1 occlusion with distal collateral flow provided by ACA branches and scant leptomeningeal collaterals.
+IMPRESSION: Successful left MCA M1 division thrombectomy using a combination of 10 mg of IV TPA and a Merci retrieval device.
+PORTABLE CXR [**2128-8-27**]: FINDINGS: The tip of the endotracheal tube projects 3.8 cm above the carina.
+The tip of the nasogastric tube is projecting over the stomach.
+LABS ON DAY OF EXPIRATION: [**2128-9-4**] 02:17AM BLOOD WBC-11.7* RBC-3.93* Hgb-10.0* Hct-32.3* MCV-82 MCH-25.4* MCHC-30.9* RDW-15.7* Plt Ct-415 [**2128-9-4**] 02:17AM BLOOD PT-16.3* PTT-29.4 INR(PT)-1.4* [**2128-9-4**] 02:17AM BLOOD Glucose-172* UreaN-26* Creat-1.0 Na-152* K-3.6 Cl-124* HCO3-21* AnGap-11 [**2128-9-4**] 02:17AM BLOOD Calcium-7.9* Phos-1.3* Mg-2.0 [**2128-9-4**] 02:17AM BLOOD Osmolal-321* [**2128-9-3**] 03:32AM BLOOD Type-ART pO2-170* pCO2-34* pH-7.42 calTCO2-23 Base XS--1 .
+Brief Hospital Course: *)NEURO: Patient was admitted [**2128-8-27**] s/p large left MCA stroke with resultant aphasia and right sided weakness.
+He received TPA at an OSH and was transferred to the [**Hospital1 18**] for interventional angiography which was able to partially recanalize his posterior vessels.
+He was intubated for protection of his airway and cared for in the NICU.
+The rest of his care proceeded according to the stroke protocol including continued anticoagulation with ASA and heparin and appropriate imaging.
+*)CARDIO: During this hospitalization, the patient exhibited atrial fibrilation which was controlled with Amiodarone 200 mg and hypertension which was controlled with labetolol 10 mg IV.
+The patient also was placed on statin therapy for control of his LDL levels.
+*)INFECTIOUS DISEASE: Patient had pneumonia and E. coli positive UTI which were controlled with broad spectrum antibiotics including Vancomycin 100mg, Tobramycin 740 mg, and Cefepime 2 g IV.
+*)ENDOCRINE: Patient was placed on an insulin sliding scale during this hospitilzation due to history of DM2 and per stroke protocol.
+Medications on Admission: - ASA 81 - Omeprazole 20mg qd - Toprol 100mg - Zocor 40mg qd - Lisinopril 40mg - Insulin   Discharge Medications: N/A, pt expired on [**9-4**].

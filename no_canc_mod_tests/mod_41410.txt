@@ -1,0 +1,28 @@
+Admission Date:  [**2163-7-30**]              Discharge Date:   [**2163-8-2**]   Service: MEDICINE  Allergies: lisinopril / Levofloxacin / Penicillins  Attending:[**First Name3 (LF) 1145**] Chief Complaint: chest pain  Major Surgical or Invasive Procedure: cardiac catheterization with bare metal stents to the Right coronary artery and left circumflex artery.
+History of Present Illness: 87yo woman w/ a PMHx of CAD (noted on cath [**2151**]), Afib on dabigatran, and valvular HD presented to [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] with 2 days of intermittent midline chest discomfort as well as bilateral jaw discomfort, increasing weakness, and nausea w/ no vomiting.
+In the ED, EKG was notable for A-Fib @87bpm and ST elev in 3, aVF, V5-V6.
+Troponin was elevated to 1.65.
+RR: 26 BP:113/80.
+CARDIAC RISK FACTORS: (-)Diabetes, (+)Dyslipidemia,(+)Hypertension 2.
+PULSES: Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+ Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+  Pertinent Results: Admission/ Relevant Labs: [**2163-7-30**] 06:00PM BLOOD WBC-8.9 RBC-3.63* Hgb-9.5* Hct-30.2* MCV-83 MCH-26.2* MCHC-31.5 RDW-16.8* Plt Ct-261 [**2163-7-31**] 07:00AM BLOOD PT-13.8* PTT-41.0* INR(PT)-1.3* [**2163-7-30**] 06:00PM BLOOD Glucose-118* UreaN-22* Creat-0.8 Na-140 K-3.4 Cl-104 HCO3-24 AnGap-15 [**2163-7-30**] 06:00PM BLOOD AST-50* CK(CPK)-356* [**2163-7-30**] 06:00PM BLOOD CK-MB-25* MB Indx-7.0* cTropnT-0.57* [**2163-7-31**] 04:14AM BLOOD CK-MB-38* MB Indx-6.1* [**2163-8-1**] 07:10AM BLOOD Calcium-9.1 Phos-3.0 Mg-1.6 [**2163-8-1**] 07:10AM BLOOD %HbA1c-5.9 eAG-123 .
+Discharged Labs: [**2163-8-1**] 07:10AM BLOOD WBC-7.6 RBC-3.69* Hgb-9.7* Hct-31.4* MCV-85 MCH-26.4* MCHC-31.1 RDW-16.6* Plt Ct-294 [**2163-8-1**] 07:10AM BLOOD PT-12.6* PTT-30.5 INR(PT)-1.2* [**2163-8-2**] 07:10AM BLOOD Glucose-119* UreaN-21* Creat-0.8 Na-140 K-4.5 Cl-105 HCO3-26 AnGap-14 .
+Cath: [**2163-7-30**] 1.
+Limited resting hemodynamics revealed normal systemic arterial blood pressure with a central aortic blood pressure of 132/73 mmHg.
+Aspirin 81 mgs daily indefinitely, Clopidogrel 75 mgs for minimum 6 weeks.
+Left ventricular wall thicknesses and cavity size are normal.
+[Intrinsic left ventricular systolic function is likely more depressed given the severity of valvular regurgitation.]
+[Intrinsic right ventricular systolic function is likely more depressed given the severity of tricuspid regurgitation.]
+#STEMI: EKG at [**Hospital1 **] notable for ST elevations in AvF, III, and v5, v6 and had (+)trop which was concerning for LCx teritory STEMI.
+She had TTE once day after cath which showed mild regional left ventricular systolic dysfunction with severe hypokinesis of the inferolateral wall with EF 50-55%.
+She continued to have good oxygen saturation and stable from respiratory stanpoint.
+# Hypertension: Her Blood pressure was well controlled on metoprolol.
+Valsartan was added on day of discharge but BP [**Month (only) **] to 90/50 so was not prescribed on discharge.
+Her hematocrit reamined stable.
+Transitions of Care: - Patient will have her Chem-7 and hct checked on Monday [**8-8**] wtih results faxed to Dr. [**Last Name (STitle) **].
+Information was obtained from PatientFamily/Caregiver.
+OxycoDONE (Immediate Release)  5 mg PO Q8H:PRN Pain 10.
+Outpatient Lab Work Please check Chem-7 abd hct on Monday [**8-8**] wtih results to Dr. [**Last Name (STitle) **] at  Phone: [**Telephone/Fax (1) 111971**] Fax: [**Telephone/Fax (1) 111972**] ICD-9: 585.2   Discharge Disposition: Home With Service  Facility: [**Company 1519**]  Discharge Diagnosis: Inferolateral ST elevation myocardial infarction Hypertension Atrial fibrillation Diastolic Congestive heart failure Anemia GERD  Discharge Condition: Mental Status: Clear and coherent.
+You had a heart attack and had a cardiac catheterization.
+The catheterization showed 2 blockages and you received 2 bare metal stents to keep the arteries open.
+An echocardiogram showed that your heart is still strong despite and area that was affected by the heart attack.
+Followup Instructions: Name:[**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 111973**], MD Specialty: Primary Care Address: 21 [**Doctor Last Name **] HWY [**Apartment Address(1) 111974**], [**Hospital1 **],[**Numeric Identifier 20089**] Phone: [**Telephone/Fax (1) 111971**] When: Tuesday, [**8-9**] at 11:15am  Name:[**First Name11 (Name Pattern1) 177**] [**Last Name (NamePattern4) 92598**], MD Location: [**Hospital 20086**] MEDICAL GROUP Address: [**Street Address(2) 20087**], STE 3A, [**Hospital1 **],[**Numeric Identifier 10727**] Phone: [**Telephone/Fax (1) 7164**] When: Tuesday, [**8-16**] at 11:30am

@@ -1,0 +1,30 @@
+Admission Date:  [**2131-12-24**]              Discharge Date:   [**2131-12-27**]  Date of Birth:  [**2058-2-4**]             Sex:   M  Service: MEDICINE  Allergies: Aspirin / Ibuprofen  Attending:[**Doctor First Name 1402**] Chief Complaint: ASA desensitization  Major Surgical or Invasive Procedure: Cardiac catheterization ([**2131-12-24**]) Intubation ([**2131-12-25**])   History of Present Illness: The pt is a 73-yo man w/ severe COPD and recently-diagnosed cardiomyopathy with EF 30% who presented to OSH on [**2131-12-21**] with complaints of increasing SOB, DOE, orthopnea, PND, chest tightness, and wheezing.
+He was seen by Cardiology and Pulmonology consults, and repeat TTE showed an LVEF of 20-25% with global LV hypokinesis and chamber dilatation, and the possibility of an apical thrombus could not be ruled out.
+He was started on weight-based heparin gtt and transferred to the [**Hospital1 18**] Cardiac Cath Lab for catheterization.
+Catheterization here showed diffuse 20-30% stenosis with mid-vessel 80% stenosis of the LAD and mild luminal irregularities with mid-vessel 60% eccentric stenosis of the LCx.
+On arrival to the CCU: VS - Temp 97.6F, BP 125/93, HR 94, R 22, SaO2 97% 2L NC.
+Past Medical History: - severe COPD / bronchial asthma - cardiomyopathy w/ EF 30-35%, cause unknown - suspected TIA - h/o recent pneumonia - LBBB on ECG - nephrolithiasis - s/p cataract surgery - s/p hernia repair   Social History: Lives with his wife, fairly independent until symptomatic w/ SOB.
+Physical Exam: VS: T = 97.6 F, BP = 125/93, HR = 94, RR = 22, O2 sat = 97% 2L NC GENERAL: WA middle-aged man in NAD.
+NECK: Supple with JVP of 10cm.
+PULSES: Right: DP 2+ PT 2+ Left: DP 2+ PT 2+   Pertinent Results: [**2131-12-24**] 08:26PM BLOOD WBC-8.2 RBC-4.02* Hgb-11.8* Hct-35.0* MCV-87 MCH-29.4 MCHC-33.8 RDW-15.0 Plt Ct-293 [**2131-12-24**] 08:26PM BLOOD Neuts-84.6* Lymphs-9.4* Monos-5.9 Eos-0.1 Baso-0 [**2131-12-24**] 08:26PM BLOOD PT-12.7 PTT-25.9 INR(PT)-1.1 [**2131-12-24**] 08:26PM BLOOD Glucose-106* UreaN-26* Creat-0.9 Na-141 K-4.7 Cl-103 HCO3-31 AnGap-12 [**2131-12-26**] 05:31AM BLOOD LD(LDH)-333* [**2131-12-26**] 05:31AM BLOOD cTropnT-0.08* [**2131-12-24**] 08:26PM BLOOD Calcium-9.2 Phos-4.5 Mg-2.3 .
+ECG ([**2131-12-24**]): Sinus rhythm with atrial premature beats and possible first beat being a ventricular premature beat.
+CARDIAC CATH ([**2131-12-24**]): 1.
+Resting hemodynamics revealed elevated right sided filling pressures with an RVEDP of 17 mmHg.
+There were moderately  elevated left sided filling pressures with a PCWP mean of 24 mmHg.
+The cardiac index was normal at 2.9 L/min/m2.
+CXR ([**2131-12-24**]): 1.
+TTE ([**2131-12-25**]): The left atrium is normal in size.
+The estimated right atrial pressure is 0-10mmHg.
+Left ventricular wall thicknesses are normal.
+CT Abdomen/Pelvis ([**2131-12-26**]): 1.
+Brief Hospital Course: The patient is a 73-year-old man with severe COPD and recently-diagnosed cardiomyopathy with EF 30%, who presented to an OSH on [**2131-12-21**] with symptoms of acute on chronic systolic heart failure, transferred to [**Hospital1 18**] for cardiac catheterization to assess for ischemic cardiomyopathy, which showed LAD disease.
+He was admitted to the CCU for aspirin desensitization with plan for repeat cardiac catheterization and PCI.
+Acute on chronic systolic CHF - The patient was recently diagnosed with a cardiomyopathy of unknown etiology, and was being treated for acute on chronic systolic heart failure prior to transfer.
+Repeat TTE here revealed EF 15% with global LV dysfunction and no wall-motion-abnormalities to suggest ischemic cardiomyopathy.
+Coronary artery disease - The patient underwent cardiac catheterization that showed a left-dominant system, an LAD with diffuse 20-30% lesions throughout and mid-vessel 80% stenosis, and a LCx with mild luminal irregularities and mid-vessel eccentric 60% stenosis.
+It was also suggested that he would need a viability study to assess for antero-apical myocardial viability in preparation for a potential PCI of his mid-LAD lesion, but his TTE showed no wall-motion-abnormalities to suggest ischemia as the reason for his cardiomyopathy, so there was felt to be no indication for viability study at this time.
+Apical thrombus - The patient was transferred to [**Hospital1 18**] for evaluation for apical thrombus as the TTE done at OSH was unable to properly assess the apex.
+# COPD - The patient has a history of severe COPD, with mild wheezes on exam on admission.
+Non-ischemic cardiomyopathy (EF 15%) 3.
+Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight > 3 lbs.
+You should discuss blood thinners with your cardiologist for your atrial fibrillation.

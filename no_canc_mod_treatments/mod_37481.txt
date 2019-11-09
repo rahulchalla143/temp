@@ -1,0 +1,48 @@
+Admission Date:  [**2114-8-10**]              Discharge Date:   [**2114-8-21**]  Date of Birth:  [**2033-11-17**]             Sex:   F  Service: MEDICINE  Allergies: Lisinopril / Verapamil / Beta-Adrenergic Agents  Attending:[**First Name3 (LF) 30**] Chief Complaint: Fever and altered mental status  Major Surgical or Invasive Procedure: -Attempt at lumbar puncture on [**2114-8-10**] -Hemodialysis (Tuesday/Thursday/Saturday) -Removed left internal jugular hemodialysis catheter (tunneled) - [**2114-8-17**] -Replaced tunneled hemodialysis catheter [**2114-8-20**]   History of Present Illness: Ms. [**Known lastname 89279**] is an 80yo female with ESRD on hemodialysis [**2-19**] Type 2 diabetes mellitus, hypertension, peripheral vascular disease, coronary artery disease who was admitted to the MICU for fever and altered mental status.
+Anemia - low iron and EPO 13. s/p Breast biopsy 14. s/p Hysterectomy 15. s/p excision of a left ear mass 16. s/p transmetatarsal amputation (right foot)   Social History: -Resident of [**Hospital3 537**] since [**2114-6-14**], -Sister very involved in her care, and is the HCP.
+A-t baseline, patient ambulated with walker, could feed herself and interact with family.
+Physical exam on transfer to CC7: VS: T 98.7 (Tm99.4), HR 69 (58-79), BP 175/61 (90/38-149/59), RR 24 (20-28), 98%RA Gen: NAD, A&OX1 - responds to name only HEENT: PERRL, normal oro/nasopharynx, adentuolous NECK: Soft, supple, no LAD/JVD CV: RRR, no gallops/rubs, nl S1/S2, II/VI systolic murmur LUSB/LLSB (non-radiating) Pulm: CTAB, no wheezing/rhonchi/rales, left chest tunneled HD cath in place - c/d/i Abd: nontender, nondistended, +BS, soft, left femoral central line in place - c/d/i, Ext: no cyanosis/ecchymosis/edema, left arm scar (likely from previous AV fistula) Neuro: responsive but non-verbal   Pertinent Results: On admission - .. \ 10.1 / 19.6 ---- 230 .. / 34.7 \ .
+Ca 9.3 Mg 1.5 Phos 4.4 .
+On transfer - Albumin 2.8, Direct bili 0.1 Vanco: 14.5 <-- 15.3  Chem10 137  98  22  185   AGap=15 3.4  27  3.5 .
+Brief Hospital Course: Ms. [**Known lastname 89279**] is an 80F with a PMH s/f ESRD on HD, who presented to the [**Hospital1 18**] on [**8-10**] with fevers, leukocytosis, dilantin toxicity and altered mental status.
+In the MICU, patient was started on meningitis doses of vanco and ceftriaxone given her significantly altered mental status, and flagyl for the abdominal CT findings.
+At that time her fever source was identified, and her antimicrobials were pared down to vancomycin and zosyn.
+An infectious disease consultation was obtained to find the source of her MRSA bacteremia.
+Her tunneled HD line was removed on [**2114-8-17**], and re-inserted on [**2114-8-20**].
+She completed a course of vancomycin/zosyn for hospital-acquired pneumonia, and will continue vancomycin for a six week course for a presumed endovascular source, to complete on [**2114-9-24**].
+She is recieving the vancomycin via HD protocol and will need vancomycin troughs on the days of [**Year (4 digits) 2286**].
+Patient has multiple prior admissions for AMS that resolved spontaneously and have been attributed to multiple metabolic derrangements including infections, ?post-ictal states, missing [**Last Name (un) 2286**], hypoglycemia.
+Most likely this admission's altered mental status was related to the bacteremia and dilantin toxicity.
+In close consultation with pharmacy and neurology, patient's dilantin was stopped for two days and restarted at 250mg per day of crushed tablets delivered through the tube feeds (150mg in the afternoon, after HD on hemodialysis days; 100mg before bed).
+HD line associated Left upper extremity DVT - Per sister's observations while patient was in the MICU.
+Ultrasound showed a DVT in the left internal jugular so patient was started on heparin.
+This is currently on hold given bleeding at her HD line site, despite pressure dressings.
+She was dosed with 3mg of coumadin, and her most recent INR is subtherapeutic at 1.1  She will likely require a limited duration of anticoagulation as this is HD line associated.
+HD line site bleeding: Pressure dressing in place, and topical thrombin applied today.
+ESRD on HD - Patient was continued on cinacalcet and nephrocaps.
+She is able to change her HD schedule to [**Last Name (LF) 12075**], [**First Name3 (LF) **] discussion with the renal fellow.
+Patient was continued on glargine and HISS while in house.
+Patient was restarted on Labetalol and Captopril - both medications continued to be slowly titrated up with minor improvements.
+CAD - Patient was continued on home aspirin and statin.
+Patient was continued on methimazole.
+FEN: Patient was NPO with tubefeeds throughout her hospital course.
+During hemodialysis on [**2114-8-16**], 4 liters of fluid was taken off so Nutrition was consulted regarding concentrating her tubefeeds to minimize fluid intake.
+PPx: Bowel regimen, heparin SQ was discontinued [**2114-8-13**] when patient found to be hypertensive, bradycardic with concern for increased intracranial pressure --> pneumoboots .
+Lines: Left hemodialysis tunneled cath (removed [**2114-8-17**] as possible infectious source - patient given HD holiday until [**2114-8-21**]), left femoral central line (for antibiotics) was removed [**2114-8-15**] when PICC line was placed, rectal tube in place.
+CODE: FULL CODE, confirmed with sister [**First Name8 (NamePattern2) 5464**] [**Name (NI) 89279**] [**Telephone/Fax (1) 102786**])     Medications on Admission: Aspirin 81 mg daily Acetaminophen 650 mg q 6 hour prn pain Atorvastatin 10 mg daily Bisacodyl 10 mg daily Docusate Sodium 100 mg [**Hospital1 **] B Complex-Vitamin C-Folic daily Lisinopril 20 mg daily Methimazole 15 mg daily Lidocaine 5% patch daily Phenytoin Sodium Extended 100 mg TID 6 units Glargine qhs Humalog insulin sliding scale Labetolol 200 mg [**Hospital1 **]   Discharge Medications: 1.
+Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+Captopril 25 mg Tablet Sig: 1.5 Tablets PO TID (3 times a day).
+Methimazole 5 mg Tablet Sig: Three (3) Tablet PO DAILY (Daily).
+Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig: One (1) Adhesive Patch, Medicated Topical DAILY (Daily).
+Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed for fever, pain.
+Insulin Glargine 100 unit/mL Solution Sig: Twelve (12) units Subcutaneous at bedtime.
+Insulin Regular Human 300 unit/3 mL Insulin Pen Sig: Per sliding scale units Subcutaneous QACHS.
+Labetalol 100 mg Tablet Sig: Three (3) Tablet PO TID (3 times a day).
+Vancomycin 1000 mg IV HD PROTOCOL 11.
+PICC line care per protocol 12.
+Heparin Flush (10 units/ml) 2 mL IV PRN line flush PICC, heparin dependent: Flush with 10mL Normal Saline followed by Heparin as above daily and PRN per lumen.
+Dilantin toxicity 4.
+-Needs frequent suctioning -Rectal tube in place -HD line site with bleeding secondary to heparin (no on hold), pressure dressing in place.
+Discharge Instructions: You were admitted with fevers and altered mental status, which we think is secondary to an hemodyalysis line infection, pneumonia, and dilantin toxicity.
+You are improving with antibiotics and discontinuation of you dilantin.

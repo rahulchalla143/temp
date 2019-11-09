@@ -1,0 +1,69 @@
+Admission Date:  [**2125-2-7**]              Discharge Date:   [**2125-3-11**]  Date of Birth:  [**2070-10-2**]             Sex:   F  Service: MEDICINE  Allergies: Codeine / Latex  Attending:[**First Name3 (LF) 3326**] Chief Complaint: OSH transfer intubated and ventilated  Major Surgical or Invasive Procedure: intubation, ventilation  History of Present Illness:  The pt is a 54 yo female with stage III fibrosis hepatitis C with history of cryoglobulinemia, lymphoma, h/o IVDU including ICU stays for heroin and benzodiazepine overdose, PNA, Candidemia, who was admitted to [**Hospital1 2025**] on [**2-2**] after being found unresponsive in her own vomit.
+The patient had apparently been using heroin IV along with pills, likely Klonopin and morphine.
+Her tox screen on admission was positive for opiates, cocaine, benzos, and marijuana.
+The patient was profoundly hypotensive, requiring norepinephrine to 45 and vasopressin.
+The patient was started on very broad coverage antibiotics for pneumonia with aspiration, along with micafungin, given a previous history of fungemia.
+The patient also received stress dose steroids.
+The patient had been originally placed on ARDSnet protocol.
+The patient's antibiotics were then tailored to nafcillin/levofloxacin/Flagyl, the course of which will end on [**2125-2-9**].
+The patient has been weaned to Pressure Support with an FiO2 of 40% and a PEEP of 5.
+The patient receives lactulose and puts out good amount of stool to the lactulose.
+Past Medical History: history of IVDU depression sialolithiasis fine tremor peripheral neuropathy s/p prolonged ICU stay for heroin and benzodiazepine overdose multi-lobar pneumonia (M. catarrhalis) .
+SENSITIVE TO CHLORAMPHENICOL (<=8 MCG/ML), SENSITIVE TO TIMENTIN          (16 MCG/ML).
+CEFTAZIDIME , CHLORAMPHENICOL , AND TIMENTIN sensitivity testing          performed by Microscan.
+SENSITIVITIES: MIC expressed in MCG/ML _________________________________________________________                              STENOTROPHOMONAS (XANTHOMONAS) MALTOPHILIA                              |          SERRATIA MARCESCENS                              |          |          PSEUDOMONAS AERUGINOSA                              |          |          | CEFEPIME--------------              <=1 S        8 S CEFTAZIDIME-----------  =>16 R      <=1 S        4 S CEFTRIAXONE-----------              <=1 S CIPROFLOXACIN---------           <=0.25 S      =>2 R GENTAMICIN------------              <=1 S        2 S LEVOFLOXACIN----------   <=1 S MEROPENEM-------------           <=0.25 S        4 S PIPERACILLIN/TAZO-----              <=4 S      <=8 S TOBRAMYCIN------------              <=1 S      <=1 S TRIMETHOPRIM/SULFA----   <=1 S      <=1 S     LEGIONELLA CULTURE (Final [**2125-2-18**]):    NO LEGIONELLA ISOLATED.
+# LIVER AND GALLBLADDER US ([**2125-2-8**] at 1:17 PM): FINDINGS: There are no focal or textural abnormalities in the liver.
+Given the patient's intubated and presumed fasting state this is of uncertain significance and should be correlated with the clinical circumstance.
+A central venous catheter terminates in the lower SVC.
+An endotracheal tube terminates at the carina.
+An NG tube terminates within the stomach.
+Endotracheal tube terminating at the level of the carina.
+# LIVER AND GALLBLADDER US ([**2125-2-12**] at 12:11 PM): FINDINGS: The liver contains no focal mass.
+Noted only on the localizer images are a Foley, rectal tube and right hip prosthesis.
+# MR HEAD W & W/O CONTRAST ([**2125-2-15**] at 3:25 PM): FINDINGS: The study is limited due to patient motion-related artifacts.
+Study limited due to patient motion-related artifacts.
+F-response minimum latency was mildly prolonged.
+Left median sensory nerve response amplitude was mildly-to-moderately reduced and conduction velocity was normal.
+Left ulnar sensory nerve response amplitude was moderately reduced and conduction velocity was normal.
+The review of the previous MRI of the brain demonstrates no evidence of filling defect on post-gadolinium images.
+# LIVER AND GALLBLADDER US ([**2125-2-27**] at 7:49 AM): Normal liver echotexture without focal liver lesion.
+There is trace of fluid identified in the right and left lower quadrant, which is not large enough for either a diagnostic or therapeutic paracentesis at this time.
+Brief Hospital Course: 54-year-old woman with a history of polysubstance abuse, HCV + cirrhosis and lymphoma who was transferred intubated and ventilated from OSH following treatment for septic shock [**1-24**] secondary MSSA pneumonia, passed away on [**3-11**] from liver failure and sepsis.
+She completed an 8-day course of Nafcillin/Levofloxacin/Metronidazole with reported improvement at the OSH, but presented here with persistent fevers, hypotension, tachycardia, and tachypnea.
+Her hypotension was secondary to severe sepsis and was intially treated with fluid boluses and pressors which were eventually weaned.
+She was initially unresponsive to wide spectrum antibiotic coverage with the above regimen of Nafcillin/Levofloxacin/Metronidazole.
+She was started on Bactrim IV and later switched to an equivalent Bactrim PO dose for coverage of the Stenotrophomonas, which was found to be Bactrim sensitive.
+Vancomycin and Meropenem were discontinued in favor of Nafcillin, but was later changed to Zosyn and Vancomycin.
+Her treatment course was planned for 15 days.
+She had completed her Zosyn, Bactrim and vancomycin courses by [**3-3**].
+Her liver function continued to deteriorate (see below) and so liver recommended starting vancomycin and zosyn [**2125-3-7**] in the setting of her continued deterioration from a hepatic stand point, which was done.
+These improved with treatment of her pneumonia and with subsequent diuresis for her fluid overload.
+She responded well to aggressive diuresis and was extubated on [**2125-2-20**] after passing her SBT.
+She eventually needed Albumin for intravascular depletion, as is discussed below in ARF section.
+On [**2125-2-23**], she developed bleeding from an unclear location in her nasopharynx or hypopharynx, and required reintubation for airway protection given her difficulty clearing secretions.
+After discussion with her HCP, a tracheostomy was performed on [**2125-2-26**], which she tolerated well.
+However, her mental status became significantly worse in the setting of liver failure, and her O2 sats began to drop.
+She was followed by the liver team and treated with Lactulose and Rifaximin for possible hepatic encephalopathy.
+She was given Vitamin K 5 mg PO daily from [**2125-2-23**] to [**2125-2-25**] with some improvement in her INR.
+She was given another dose of Vitamin K on [**2125-2-28**].
+Her platelets continued to trend down, but it was felt that in the setting of her not actively bleeding, it was inappropriate to continue to give her platelet transfusions as her thrombocytopenia stemmed from her liver failure.
+As pt's TBili continued to trend up to a high of 15.2 the day she passed away, and her INR continued to trend up to 7.2 on [**3-7**] (after which she was given FFP and vitamin K), it was felt that her transaminase peak reflected her liver burning out and her synthetic function was continuing to worsen and lag behind.
+Dobhoff was in place, and tube feedings started [**2-28**].
+When patient was put on Passe-Muir valve, she was able to verbalize only some very mild abdominal pain despite having been on aggressive lasix diuresis and getting tube feedings.
+# ICU Myopathy: After weaning off her sedation, she was noted to be alert but unable to squeeze her hands or wiggle her feet.
+There was concern for critical illness myoneuropathy, and EMG was consistent with critical illness myopathy.
+She was given Lorazepam 4 mg total, after which the seizure broke.
+Her home Clonazepam 0.5 mg [**Hospital1 **] was restarted.
+Together these patterns are consistent with a mild to moderate diffuse encephalopathy, commonly seen with medication effect, metabolic disturbance, or infection.
+Her Clonazepam was discontinued when sedation was intiated for tracheostomy placement and not restarted afterwards.
+Broke with ativan 1mg x2.
+Likely etiologies were benzo withdrawal, meds lowering seizure threshold and electrolyte abnormalities.
+Her creatinine improved to 1.0 with hydration and BP support.
+After resuscitation, she became grossly edematous and tolerated aggressive diuresis initially.
+Given her poor synthetic function and liver failure, she was given Albumin (25%) 50 grams total on [**2125-2-22**] in an attempt to increase oncotic pressure to mobilize edematous fluid.
+Her creatinine subsequently improved back to 1.0 after several days and remained stable afterwards despite aggressive diuresis with lasix.
+Medications on Admission: albuterol sulfate [ProAir HFA] 90 mcg HFA Aerosol Inhaler 1-2 puffs by mouth every four (4) to six (6) hours as needed for cough/wheezing alendronate 70 mg Tablet 1 Tablet(s) by mouth q week; take with full glass of water on empty stomach.
+citalopram 40 mg Tablet 1 Tablet(s) by mouth daily fluticasone 50 mcg Spray, Suspension 2 puffs(s) per nostril once a day x one week, then decrease to one puff per nostril furosemide 20 mg Tablet 2 Tablet(s) by mouth qam and 1 qpm gabapentin 300 mg Capsule 3 Capsule(s) by mouth at bedtime [**2125-1-10**] ibuprofen 600 mg Tablet 1 tablet Tablet(s) by mouth tid to qid as needed for prn pain; take with food omeprazole 20 mg Capsule, Delayed Release(E.C.)
+1 Capsule(s) by mouth once a day spironolactone 25 mg Tablet 1 Tablet(s) by mouth twice a day .
+Meds on transfer: acetaminophen 650mg PO q6h albuterol MDI 4 puff inh q4h docusate 100mg solution [**Hospital1 **] ipratropium MDI 4 puff inh q4h lactulose 30mL qid levofloxacin 500mg IV q48h metronidazole 500mg IV q8h nafcillin 1500mg IV q4h omeprazole 20mg QD senna 10mL [**Hospital1 **] .
+Discharge Medications: N/A  Discharge Disposition: Expired  Discharge Diagnosis: *Patient expired [**3-11**] at 7am*  Primary: Sepsis secondary to MSSA + Stenotrophomonas + Serratia Marascens + Psuedomonas pneumonia Liver failure Thrombocytopenia Pancreatitis Acute Kidney Injury ICU Myopathy S/P Seizure  Secondary: Hepatitis C Substance Abuse   Discharge Condition: *Patient expired at 7am on [**3-11**]*  Discharge Instructions: N/A  Followup Instructions: N/A

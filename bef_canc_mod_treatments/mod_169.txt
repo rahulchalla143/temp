@@ -1,0 +1,48 @@
+Admission Date:  [**2128-12-4**]              Discharge Date:   [**2128-12-8**]  Date of Birth:  [**2081-2-27**]             Sex:   F  Service: MEDICINE  Allergies: Penicillins / Amoxicillin / Bactrim  Attending:[**First Name3 (LF) 603**] Chief Complaint: RUQ pain, nausea, fever, LLE swelling  Major Surgical or Invasive Procedure: Incision and drainage of left lower extremity abscess, [**2128-12-6**]   History of Present Illness: Ms. [**Known lastname **] is a 47 yo female with IDDM and chronic pancreatitis who presents with worsening right upper quadrant abdominal pain for the past 2 days.
+She states that she has not taken her insulin since Thursday since she has not been feeling well.
+She denies any recurrence of the perirectal abscess from previous hospitalization and she denies any active genital lesions.
+Patient received 50 units IV regular insulin over 30 minutes by accident (incident report filed).
+Her repeat fingersticks one hour after insulin was 361, 341, 350, 329.
+Foot abscess was cultured, and patient received Vancomycin 1 gram.
+Prior to transfer, insulin gtt at 7 units/hour was started.
+On chronic narcotics and Pancrease enzymes.
+Oxacillin RESISTANT Staphylococci MUST be reported as also          RESISTANT to other penicillins, cephalosporins, carbacephems,          carbapenems, and beta-lactamase inhibitor combinations.
+Rifampin should not be used alone for therapy.
+DOXYCYCLINE REQUESTED BY DR.[**Last Name (STitle) **].
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              STAPH AUREUS COAG +                              | CLINDAMYCIN-----------<=0.25 S ERYTHROMYCIN----------<=0.25 S GENTAMICIN------------ <=0.5 S LEVOFLOXACIN----------  0.25 S OXACILLIN-------------   =>4 R PENICILLIN G---------- =>0.5 R RIFAMPIN-------------- <=0.5 S TETRACYCLINE----------   <=1 S TRIMETHOPRIM/SULFA---- <=0.5 S VANCOMYCIN------------   <=1 S     ANAEROBIC CULTURE (Final [**2128-12-8**]):    NO ANAEROBES ISOLATED.
+Oxacillin RESISTANT Staphylococci MUST be reported as also          RESISTANT to other penicillins, cephalosporins, carbacephems,          carbapenems, and beta-lactamase inhibitor combinations.
+Rifampin should not be used alone for therapy.
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              STAPH AUREUS COAG +                              | CLINDAMYCIN-----------<=0.25 S ERYTHROMYCIN----------<=0.25 S GENTAMICIN------------ <=0.5 S LEVOFLOXACIN----------  0.25 S OXACILLIN-------------   =>4 R PENICILLIN G---------- =>0.5 R RIFAMPIN-------------- <=0.5 S TETRACYCLINE----------   <=1 S TRIMETHOPRIM/SULFA---- <=0.5 S VANCOMYCIN------------   <=1 S     ANAEROBIC CULTURE (Final [**2128-12-10**]):    NO ANAEROBES ISOLATED.
+She was transferred to the MICU, where she was placed on an insulin gtt with potassium repletion.
+She received ~ 7.7 L NS and her AG returned to [**Location 213**].
+The next morning, she was restarted on a Humalog insulin sliding scale.
+She was seen by [**Last Name (un) **], who adjusted this regimen, and her sugars improved on this new scale.
+The wound was packed twice daily and the dressing was changed each day.
+The patient was started on Vancomycin IV for the MRSA abscess, and this was changed to a 10-day course of Doxycycline on discharge.
+She was made NPO on admission for probable pancreatitis and was given aggressive fluid rehydration.
+She was continued on her home regimen of Fentanyl patch, pancreatic enzymes, and Dilaudid for breakthrough pain.
+Depression: Patient was continued on her home dose of Paxil 20 mg daily.
+Medications on Admission: Lantus 40 units qHS RISS Norvasc 10 mg daily Atenolol 50 mg daily Lisinopril 40 mg daily Pancrease 2 tabs qAC Omeprazole 20 mg daily Oxycodone 5 mg PRN Fentanyl 75 mcg TD q72 hours Prochlorperazine 10 mg PRN nausea Paxil 20 mg daily Colace 100 mg [**Hospital1 **]  Discharge Medications: 1.
+Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Atenolol 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Lisinopril 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Amylase-Lipase-Protease 20,000-4,500- 25,000 unit Capsule, Delayed Release(E.C.)
+Omeprazole 20 mg Capsule, Delayed Release(E.C.)
+Prochlorperazine Maleate 10 mg Tablet Sig: One (1) Tablet PO every eight (8) hours as needed for nausea.
+Paroxetine HCl 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+Fentanyl 100 mcg/hr Patch 72 hr Sig: One (1) patch Transdermal every seventy-two (72) hours.
+Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Doxycycline Hyclate 100 mg Capsule Sig: One (1) Capsule PO Q12H (every 12 hours) for 9 days.
+Percocet 5-325 mg Tablet Sig: Two (2) Tablet PO three times a day for 6 days.
+Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig: One (1) Adhesive Patch, Medicated Topical DAILY (Daily).
+Insulin [**Hospital1 7452**] 300 unit/3 mL Insulin Pen Sig: Forty (40) Units Subcutaneous at bedtime.
+Humalog Pen 100 unit/mL Insulin Pen Sig: as directed Units Subcutaneous qachs: Please use per sliding scale insulin.
+You were started on Doxycycline for this infection, which you should continue to take for 10 days.
+We increased your fentanyl patch to 100 mg every 72 hours 2.
+We started you on Percocet for your pain.
+Please reevaluate your pain medications with Dr. [**Name (NI) **] on Tuesday.
+We started you on Doxycycline for your infection.
+We started you on a Lidocaine patch for your leg pain.
+We changed your insulin sliding scale.
+Please take all medications as prescribed.

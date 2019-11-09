@@ -1,0 +1,27 @@
+Admission Date:  [**2151-11-17**]              Discharge Date:   [**2151-11-27**]  Date of Birth:  [**2107-10-14**]             Sex:   M  Service: CARDIOTHORACIC  Allergies: Penicillins  Attending:[**First Name3 (LF) 165**] Chief Complaint: Fatigue, shortness of breath  Major Surgical or Invasive Procedure: [**2151-11-17**] Cardiac Catheterization [**2151-11-19**] Bentall Procedure utilizing a 23mm Homograft with Repair of a Sinus Valsalva Fistula [**2151-11-24**] Placement of Dual Chamber Permanent Pacemaker(Guidant Insignia Ultra DR)   History of Present Illness: Mr. [**Known lastname 76674**] is a 44 year old male who was diagnosed with rectal abscess and alpha hemolytic Streptococcus aortic valve endocarditis on [**2151-10-15**].
+Serial echocardiograms showed severe AI with a L->R shunt from the sinus of valsalva to right ventricle.
+He was admitted for further evaluation and treatment.
+Physical Exam: Blood pressure was 113-133/31-41 mm Hg while seated.
+Pulse was 109 beats/min and regular, respiratory rate was 16 breaths/min.
+The neck was supple with JVP of 8 cm.
+Palpation of the heart revealed a prominent PMI.
+Inspection and/or palpation of skin and subcutaneous tissue showed no stasis dermatitis, ulcers, scars, or xanthomas.
+Pertinent Results: Hematology   COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct [**2151-11-27**] 05:44AM    5.5 3.31* 9.3* 28.0* 85 27.9 33.0 15.9* 264 Chemistry   RENAL & GLUCOSE Glucose UreaN Creat Na K Cl HCO3 AnGap [**2151-11-27**] 05:44AM    101 15 1.1 137 4.4 100 31 10  [**2151-11-17**] Cardiac Catheterization: 1.
+Coronary angiography in this right dominant system revealed no angiographically apparent coronary artery disease in the LMCA, LAD, LCx, and RCA (although coronaries could not be well opacified due to severe aortic regurgitation).
+Resting hemodynamics revealed markedly elevated left and right sided filling pressures with mean PCW of 21 mmHg and RVEDP of 25 mmHg.
+The cardiac index was preserved at 3.2 L/min/m2.
+There was normal systemic arterial pressure with SBP of 114 mmHg and DBP of 56 mmHg.
+[**2151-11-17**] TEE: Right ventricular systolic function is normal.
+[**2151-11-18**] Abdominal CT Scan: 1.
+Small amount of free intraperitoneal fluid and small-to-moderate size right pleural effusion, neither of which measure blood density.
+[**2151-11-21**] Chest/Abdominal CT Scan: 1.
+Patchy opacities are again noted within the right lung, not significantly changed since the prior chest x-ray of [**11-25**].
+[**Last Name (NamePattern1) 5034**]       Brief Hospital Course: Mr. [**Known lastname 76674**] was admitted and underwent cardiac catheterization and transesophageal echocardiogram which confirmed aortic valve endocarditis, severe aortic insufficiency and a sinus of Valsalva fistula.
+Coronary angiography showed normal coronary arteries.
+His creatinine on admission was noted to be 1.8.
+Based on the above, cardiac surgery was consulted and further evaluation was performed.
+An abdominal CT scan was performed which ruled out a retroperitoneal bleed.
+Chest x-rays were notable for extensive bilateral consolidations and bilateral pleural effusions.
+Blood tinged secretions were noted in the lower lobes along with an occlued right middle lobe by mucosal edema.
+Bronchoalveolar lavage was performed and sent for culture.
+Cultures eventually grew out MRSA and antibiotics were titrated accordingly per ID recommendations.

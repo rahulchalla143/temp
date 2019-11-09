@@ -1,0 +1,62 @@
+Admission Date:  [**2203-2-18**]              Discharge Date:   [**2203-2-24**]  Date of Birth:  [**2123-12-6**]             Sex:   M  Service: MEDICINE  Allergies: Lisinopril / Macrobid / metformin  Attending:[**First Name3 (LF) 603**] Chief Complaint: Flank pain  Major Surgical or Invasive Procedure: [**2203-2-18**] - Left nephrostomy tube replacement [**2203-2-18**] - Mechanical ventilation during nephrostomy replacement [**2203-2-18**] - Central venous line placement in right internal jugular vein   History of Present Illness: 79yo male w/ dCHF, COPD, OSA on CPAP and  metastatic, castrate resistant prostate cancer who comes in with left-flank pain and fevers.
+Of note, he had a nephrostomy tube placed [**2-9**] by interventional radiology because of hydronephrosis on CT scan.
+A CT scan his nephrostomy tube was out of place, with resultant hydronephrosis and surrounding fat-stranding concerning for pyelonephritis.
+He was intubated for nephrostomy replacement.
+Past Medical History: Adenocarcinoma of the prostate - metastatic, androgen resistant Benign Prostatic Hypertrophy s/p TURP with GreenLight [**10-9**] COPD - FEV1 67% predicted in [**2198**] Low back pain Type II Diabetes Diastolic Congestive Heart Failure Coronary Artery Disease: Mild, reversible inferior wall defect on stress MIBI [**6-6**]; [**9-11**] cath showed microvascular disease Hypertension GERD Obstructive Sleep Apnea on CPAP (intermittently) Migraine Headaches Hypercholesterolemia s/p CCY [**12-11**]  Social History: The patient has never smoked.
+Discharge exam - unchanged from above, except as below: General: Alert, comfortable, no resp distress CV: RRR, no m/r/g Back: left sided nephrostomy tube in place  Pertinent Results: Admission labs: [**2203-2-18**] 10:40AM BLOOD WBC-11.8* RBC-3.83* Hgb-10.6* Hct-31.0* MCV-81* MCH-27.7 MCHC-34.1 RDW-14.1 Plt Ct-276 [**2203-2-19**] 04:39AM BLOOD PT-12.6* PTT-33.5 INR(PT)-1.2* [**2203-2-18**] 10:40AM BLOOD Glucose-153* UreaN-35* Creat-1.8* Na-131* K-5.3* Cl-94* HCO3-23 AnGap-19 [**2203-2-18**] 10:40AM BLOOD ALT-38 AST-74* AlkPhos-113 TotBili-0.9 [**2203-2-19**] 04:39AM BLOOD Calcium-8.0* Phos-6.5* Mg-2.2 [**2203-2-18**] 10:20AM URINE Color-Straw Appear-Clear Sp [**Last Name (un) **]-1.007 [**2203-2-18**] 10:20AM URINE Blood-NEG Nitrite-NEG Protein-NEG Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-2* pH-5.5 Leuks-NEG  Discharge labs: [**2203-2-24**] 07:38AM BLOOD WBC-7.3 RBC-3.18* Hgb-8.6* Hct-25.9* MCV-82 MCH-27.1 MCHC-33.2 RDW-14.3 Plt Ct-334 [**2203-2-24**] 07:38AM BLOOD Glucose-93 UreaN-31* Creat-1.5* Na-140 K-3.4 Cl-103 HCO3-26 AnGap-14 [**2203-2-24**] 07:38AM BLOOD Calcium-7.2* Phos-3.4 Mg-2.1  Micro: -UCx ([**2203-2-18**]): URINE CULTURE (Final [**2203-2-22**]):       MORGANELLA MORGANII.
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              PSEUDOMONAS AERUGINOSA                              | CEFEPIME--------------     2 S CEFTAZIDIME-----------     4 S CIPROFLOXACIN---------<=0.25 S GENTAMICIN------------     2 S MEROPENEM-------------<=0.25 S PIPERACILLIN/TAZO-----       S TOBRAMYCIN------------   <=1 S  -BCx ([**2203-2-18**]): No growth final  Imaging:  -CT Abd/Pelvis ([**2203-2-18**]): IMPRESSION: Misplaced left percutaneous nephrostomy catheter with the pigtail coiled in the lateral perinephric fat.
+Moderate-to-severe left hydroureteronephrosis with extensive perinephric fat stranding and pararenal fascial thickening.
+This could represent pyelonephritis in a closed urinary collecting system, or post-surgical changes from the recent procedure and displacement of the catheter.
+Routine followup with bone scan is recommended.
+-KUB ([**2203-2-19**]): There is some overlying artifact and motion on the study.
+A percutaneous nephrostomy tube appears to be projecting over the left mid abdomen.
+-KUB ([**2203-2-22**]): Unchanged left nephrostomy tube position.
+Brief Hospital Course: 79yo male with dCHF, COPD, OSA on home CPAP and metastatic prostate cancer causing left-sided hydronephrosis who presents with displacement of his nephrostomy tube and pyelonephritis with sepsis.
+# Pyelonephritis with sepsis: At admission, the patient was started on broad spectrum antibiotics with vanc/zosyn and his nephrostomy tube was replaced by IR.
+A foley was placed which required a guidewire and assistance by [**Month/Day/Year **] given his prostate cancer and large prostate.
+Given his sepsis and chronic steroid use at home he was given stress dose steroids which were eventually tapered back to his home dose of hydrocortisone.
+This was not improved after flushing the tube with 15cc of NS.
+We considered a nephrostogram to ensure proper placement of the tube, however IR felt the tube was correctly placed based on a KUB that was obtained.
+They did not want to perform the nephrostogram given that he would have to lie prone and required intubation for this last time.
+The nephrostomy tube continued to drain urine into the collection bag at the time of discharge.
+# Tachypnea/respiratory failure: The patient was intubated upon arrival to the MICU for his nephrostomy tube change, which required him to lie prone.
+He was extubated soon after the nephrostomy tube was replaced and remained on room air at the time of discharge.
+He was intubated for his procedure as above.
+He was restarted on his home dose of Lasix after his sepsis improved and continued on his home metoprolol.
+# Metastatic prostate cancer: Currently on ketoconazole and hydrocortisone at the time of admission.
+He continued to receive palliative radiation during his admission.
+# Diabetes: His metformin was held and he was covered with an insulin sliding scale.
+Ta discharge, he was restarted on metformin.
+# Coronary artery disease: Continued home aspirin, rosuvastatin, beta blocker.
+# Depression: Continued home dose of fluoxetine  # Transitional issues: -Will follow-up with his urologist regarding removal of his Foley catheter -Will follow-up with his oncologist regarding his metastatic prostate cancer and alternative treatment options given that his PSA continued to rise on the current regimen -Amlodipine was held at discharge given SBP of 110-120, BP control should be re-evaluated as an outpatient -He will continue Cipro PO after discharge for a total 14 day course  Medications on Admission: - albuterol 90mcg 2puffs QID - albuterol nebs - amlodipine 5mg daily - finasteride 5mg daily - fluoxetine 20mg daily - fluticasone 100 mcg nasal daily - Advair 500/50mcg 1 puff [**Hospital1 **] - furosemide 80mg daily - gabapentin 300mg QHS - hydrocortisone 20mg QAM, 10mgQPM - ketoconazole 400mg [**Hospital1 **] - loratadine 10mg daily - lorazepam 0.5mg 1-2 tabs QHS - metformin 500mg [**Hospital1 **] - metoprolol succinate 50mg Q24hr - montelukast 10mg daily - omeprazole 40mg daily - rosuvastatin 20mg daily - tiotropium 18mcg daily - tramadolol 50mg 1-2 tabs QID - Aspirin 81mg daily - ferrous sulfate 325mg [**Hospital1 **] - senna 8.6mg 2 tabs daily   Discharge Medications: 1. albuterol sulfate 90 mcg/actuation HFA Aerosol Inhaler Sig: 2-4 Puffs Inhalation Q6H (every 6 hours) as needed for shortness of breath or wheezing.
+2. finasteride 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+3. fluoxetine 20 mg Tablet Sig: One (1) Tablet PO once a day.
+4. fluticasone 50 mcg/actuation Spray, Suspension Sig: Two (2) sprays Nasal once a day: Each  nostril.
+5. fluticasone-salmeterol 500-50 mcg/dose Disk with Device Sig: One (1) puff Inhalation twice a day.
+6. furosemide 80 mg Tablet Sig: One (1) Tablet PO once a day.
+7. gabapentin 300 mg Capsule Sig: One (1) Capsule PO at bedtime.
+8. hydrocortisone 20 mg Tablet Sig: One (1) Tablet PO QAM (once a day (in the morning)).
+9. hydrocortisone 10 mg Tablet Sig: One (1) Tablet PO Each afternoon.
+10. ketoconazole 200 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day).
+11. loratadine 10 mg Tablet Sig: One (1) Tablet PO once a day.
+12. lorazepam 0.5 mg Tablet Sig: 1-2 Tablets PO at bedtime.
+13. metformin 500 mg Tablet Sig: One (1) Tablet PO twice a day.
+14. metoprolol succinate 50 mg Tablet Extended Release 24 hr Sig: One (1) Tablet Extended Release 24 hr PO once a day.
+15. montelukast 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+16. omeprazole 40 mg Capsule, Delayed Release(E.C.)
+17. rosuvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+18. tiotropium bromide 18 mcg Capsule, w/Inhalation Device Sig: One (1) capsule Inhalation once a day.
+19. tramadol 50 mg Tablet Sig: 1-2 Tablets PO four times a day.
+20. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+21. ferrous sulfate 325 mg (65 mg iron) Tablet Sig: One (1) Tablet PO twice a day.
+22. senna 8.6 mg Tablet Sig: Two (2) Tablet PO once a day.
+23. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1) neb Inhalation four times a day as needed for shortness of breath or wheezing.
+24. amlodipine 5 mg Tablet Sig: One (1) Tablet PO once a day.
+25. ammonium lactate 12 % Cream Sig: One (1) application Topical twice a day.
+26. prochlorperazine maleate 10 mg Tablet Sig: One (1) Tablet PO every eight (8) hours as needed for nausea.
+27. ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO twice a day for 8 days: Last dose on [**2203-3-4**].
+Your left nephrostomy tube was replaced and you were treated with IV antibiotics.
+A Foley catheter was placed at admission.
+You also continued to receive radiation treatments during your admission.
+We stopped your amlodipine because your blood pressure was normal without it.
+The following changes were made to your medications: START Cipro 500mg twice daily for 9 more days (last dose on [**2203-3-4**]) STOP amlodipine until you are seen by your PCP in [**Name9 (PRE) 702**]  Followup Instructions: Department: [**Hospital3 249**] When: FRIDAY [**2203-2-25**] at 3:25 PM With:DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **] (works on Dr. [**Last Name (STitle) 52249**] team) Phone:[**Telephone/Fax (1) 250**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 895**] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage  Department: SURGICAL SPECIALTIES When: MONDAY [**2203-2-28**] at 4:30 PM With: [**First Name8 (NamePattern2) 161**] [**Name6 (MD) 162**] [**Name8 (MD) 163**], MD [**Telephone/Fax (1) 164**] Building: [**Hospital6 29**] [**Location (un) **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage  Department: HEMATOLOGY/[**Hospital Ward Name **] When: TUESDAY [**2203-3-8**] at 1:30 PM With: [**First Name11 (Name Pattern1) 2946**] [**Last Name (NamePattern4) 3217**], MD [**Telephone/Fax (1) 10784**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 24**] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage  **We are working on a sooner follow up appointment with Dr. [**Last Name (STitle) **] than the scheduled appointment of [**3-8**] as seen above.

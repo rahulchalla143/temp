@@ -1,0 +1,35 @@
+[**6-13**] patient was found to have saturations in the 80s on vent, breathing 30-40/min.
+Respiratory rate remained in the 40s, pulling large tidal volumes, currently denies any pain or shortness of breath.
+Lowest reported blood pressure in the ED was 90/45, which recovered with 1L NS.
+Patient's highest temperature was 99.9.
+CXR prelminary demonstrated new left-sided consolidation and baseline interstitial lung disease.
+Family History: No CAD, no DM, No cancers  Physical Exam: Admission PE: Vitals: Temp = 98.2, HR = 114, BR = 113/65, RR = 36, O2sat = 99% General: Alert, oriented, tachypnic HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL Neck: supple, JVP unable to see due to collar, no LAD CV: tachycardic irregular rate/ rhythm, normal S1 + S2, no murmurs, rubs, gallops Lungs: Diminished at bases with crackles.
+Pertinent Results: [**2168-6-13**] 09:29PM   TYPE-ART PO2-78* PCO2-46* PH-7.46* TOTAL CO2-34* BASE XS-7 [**2168-6-13**] 04:53PM   TYPE-[**Last Name (un) **] PEEP-5 PO2-64* PCO2-46* PH-7.45 TOTAL CO2-33* BASE XS-6 INTUBATED-INTUBATED [**2168-6-13**] 04:44PM   PO2-114* PCO2-42 PH-7.49* TOTAL CO2-33* BASE XS-8 COMMENTS-GREEN TOP [**2168-6-13**] 04:44PM   LACTATE-2.5* [**2168-6-13**] 04:43PM URINE  HOURS-RANDOM [**2168-6-13**] 04:43PM URINE  UHOLD-HOLD [**2168-6-13**] 04:43PM URINE  COLOR-Yellow APPEAR-Cloudy SP [**Last Name (un) 155**]-1.020 [**2168-6-13**] 04:43PM URINE  BLOOD-MOD NITRITE-NEG PROTEIN-30 GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.5 LEUK-SM [**2168-6-13**] 04:43PM URINE  RBC-27* WBC-12* BACTERIA-MANY YEAST-NONE EPI-0 [**2168-6-13**] 04:30PM   GLUCOSE-178* UREA N-51* CREAT-0.9 SODIUM-141 POTASSIUM-4.8 CHLORIDE-102 TOTAL CO2-30 ANION GAP-14 [**2168-6-13**] 04:30PM   estGFR-Using this [**2168-6-13**] 04:30PM   cTropnT-<0.01 [**2168-6-13**] 04:30PM   proBNP-4396* [**2168-6-13**] 04:30PM   WBC-12.7* RBC-2.83* HGB-7.9* HCT-25.9* MCV-91 MCH-28.1 MCHC-30.7* RDW-15.1 [**2168-6-13**] 04:30PM   NEUTS-86.3* LYMPHS-8.3* MONOS-4.7 EOS-0.6 BASOS-0.1 [**2168-6-13**] 04:30PM   PLT COUNT-362 [**2168-6-13**] 04:30PM   PT-33.1* PTT-28.6 INR(PT)-3.2* ECG Baseline artifact.
+Compared to the previous tracing of [**2168-5-19**] the rate is much faster and now tachycardic.
+Read by: [**Last Name (LF) **],[**First Name3 (LF) **] [**First Name8 (NamePattern2) **] [**Doctor Last Name **] Intervals Axes Rate PR QRS QT/QTc P QRS T 109 0 100 310/395 0 -43 44  CXR: [**2168-6-13**] FINDINGS:  The patient is status post tracheostomy, which appears unchanged.
+A moderate-to-severe interstitial abnormality suggests known interstitial lung disease without significant change.
+[**2168-6-13**] 04:30PM BLOOD proBNP-4396* [**2168-6-13**] 04:30PM BLOOD WBC-12.7* RBC-2.83* Hgb-7.9* Hct-25.9* MCV-91 MCH-28.1 MCHC-30.7* RDW-15.1 Plt Ct-362 [**2168-6-14**] 03:30PM BLOOD WBC-12.3* RBC-2.78* Hgb-7.7* Hct-25.2* MCV-91 MCH-27.6 MCHC-30.5* RDW-15.2 Plt Ct-357 [**2168-6-16**] 05:00AM BLOOD WBC-11.4* RBC-2.68* Hgb-7.6* Hct-24.7* MCV-92 MCH-28.2 MCHC-30.7* RDW-15.2 Plt Ct-333 [**2168-6-18**] 06:13AM BLOOD WBC-10.3 RBC-2.79* Hgb-7.7* Hct-25.3* MCV-91 MCH-27.7 MCHC-30.5* RDW-15.4 Plt Ct-352 [**2168-6-20**] 04:59PM BLOOD WBC-13.5* RBC-3.14* Hgb-8.7* Hct-28.9* MCV-92 MCH-27.6 MCHC-30.0* RDW-16.0* Plt Ct-425 [**2168-6-21**] 05:59AM BLOOD WBC-12.6* RBC-2.98* Hgb-8.2* Hct-27.6* MCV-93 MCH-27.5 MCHC-29.7* RDW-16.3* Plt Ct-388 [**2168-6-22**] 02:57AM BLOOD WBC-16.0* RBC-3.19* Hgb-8.8* Hct-29.5* MCV-92 MCH-27.7 MCHC-30.0* RDW-16.9* Plt Ct-411 [**2168-6-23**] 05:33AM BLOOD WBC-12.6* RBC-3.17* Hgb-9.0* Hct-29.2* MCV-92 MCH-28.4 MCHC-30.8* RDW-17.1* Plt Ct-358  [**2168-6-14**] 04:46AM BLOOD PT-39.7* PTT-28.8 INR(PT)-3.9* [**2168-6-15**] 06:26AM BLOOD PT-24.5* PTT-27.1 INR(PT)-2.3* [**2168-6-17**] 06:07AM BLOOD PT-14.8* PTT-23.5* INR(PT)-1.4* [**2168-6-22**] 02:57AM BLOOD PT-31.7* PTT-36.1 INR(PT)-3.1* [**2168-6-21**] 05:59AM BLOOD PT-28.7* INR(PT)-2.8* [**2168-6-22**] 02:57AM BLOOD PT-31.7* PTT-36.1 INR(PT)-3.1* [**2168-6-23**] 05:33AM BLOOD PT-28.7* PTT-34.1 INR(PT)-2.8*  [**2168-6-20**] 04:59PM BLOOD Glucose-149* UreaN-30* Creat-0.7 Na-140 K-4.8 Cl-96 HCO3-39* AnGap-10 [**2168-6-21**] 05:59AM BLOOD Glucose-140* UreaN-30* Creat-0.8 Na-141 K-4.2 Cl-99 HCO3-38* AnGap-8 [**2168-6-22**] 02:57AM BLOOD Glucose-145* UreaN-30* Creat-0.8 Na-139 K-4.3 Cl-99 HCO3-36* AnGap-8 [**2168-6-23**] 05:33AM BLOOD Glucose-157* UreaN-32* Creat-0.9 Na-140 K-4.2 Cl-98 HCO3-36* AnGap-10  Brief Hospital Course: 73 yo M with ILD, OSA, presents from Siani with question of repeat PNA in the setting of rapidly progressing interstitial lung disease.
+It appears that the previous culture grew two strains of klebsiella, only one was sensitive to cefepime, so it was possible that it was incompletely treated.
+Pt's sputum culture grew Pseudomonas and received 8 days of meropenem for presumed HCAP.
+A CXR was performed which was slightly improved from prior.
+Sputum Cx were sent, however there was low concern for infection given he had finished his 8 day course of meropenem the day prior.
+His lasix 40mg IV BID was restarted out of concern for fluid overload.
+Of note, on the day of discharge it was noted that his sputum culture had grown Pseudomonas so [**Hospital 100**] Rehab was called and the physician taking care of him there was personally advised to continue Meropenem for a total of two weeks (with a planned stop date of [**2168-6-30**]) in an effort to completely and optimally treat this Pseudomonas.
+# Atrial fibrillation: Pt's CHADS2 score of 4, but anticoagulation was held initially due to supratherapeutic INR.
+Coumadin restarted once INR was below <2.
+His INR was difficult to control likely due to antibiotic therapy and decreased hepatic clearance.
+Today INR was 2.8 and warfarin can be restated at 2.5mg.
+INR should be rechecked on [**2168-6-25**] and warfarin dose can be adjusted at that time.
+Guaiac stools were negative and no obvious acute bleeding was found during MICU stay.
+Hematocrit remained stable.
+We continued pt on ISS and serum glucose remained in mid 100s.
+# Med rec: - Continue Acetaminophen 650 mg PO Q6H:PRN fever/ pain - Hold Docusate Sodium 100 mg PO BID:PRN constipation - Hold Senna 1 TAB PO BID:PRN constipation - Hold ALPRAZolam 0.25 mg PO TID:PRN anxiety - OxycoDONE (Immediate Release)  5 mg PO/NG Q8H:PRN pain - Hold Albuterol-Ipratropium [**11-30**] PUFF IH Q2H:PRN dyspnea  Transitional Issues: - Complete two weeks of Meropenem (last day [**2168-6-30**]) for Pseudomonas treatment.
+- TSH level in 6 months for followup - monitor INR while on coumadin - DISCONTINUE Flagyl on [**2168-7-5**] (end of 2 week course for C. diff) - DNR.
+Information was obtained from  [**Location (un) 511**] Siani list.
+Miconazole 2% Cream 1 Appl TP Q8H to perianal area 14.
+Albuterol-Ipratropium [**11-30**] PUFF IH Q6H 17.
+OxycoDONE (Immediate Release)  5 mg PO Q8H:PRN pain 11.
+Albuterol-Ipratropium [**11-30**] PUFF IH Q6H 14.
+Albuterol-Ipratropium [**11-30**] PUFF IH Q2H:PRN dyspnea 15.
+Miconazole 2% Cream 1 Appl TP Q8H to perianal area 18.
+Your sputum cultures confirmed that you had a pneumonia and you tolerated the 8 day course of antibiotics very well.

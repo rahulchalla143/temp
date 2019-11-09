@@ -1,0 +1,51 @@
+Admission Date:  [**2122-12-15**]              Discharge Date:   [**2122-12-30**]  Date of Birth:  [**2075-10-6**]             Sex:   M  Service: MEDICINE  Allergies: Amitriptyline / Benzodiazepines / Morphine / Valium  Attending:[**First Name3 (LF) 338**] Chief Complaint: dyspnea, cough, pedal edema  Major Surgical or Invasive Procedure: - bronchoscopy - central venous catheter/pulmonary artery catheter placement - arterial line placement  History of Present Illness: Mr. [**Known lastname 1511**] is a 47 year-old man with HIV/AIDS (CD4 8, VL [**Numeric Identifier 8638**] on [**2122-10-19**]; compliant with HAART; history of high-grade resistance patterns; no history of OIs; diagnosed [**2111**]; presumed contracted from MSM contact) who presented to the Emergency Dept today with six days of worsening bipedal edema, exertional dyspnea, and fevers.
+He has been compliant with all of his medications, including his HAART and his Bactrim prophylaxis.
+[**Name (NI) **] did receive this year's influenza vaccine and OMR indicates that he received the Pneumovax in [**2117**].
+He saw one of his PCP's colleagues earlier today and was afebrile with a BP of 94/64, HR 100, and O2 sat of 94% on room air.
+Out of concern for Pneumocystis pneumonia, he was given 400mg of IV Bactrim and 60mg of prednisone.
+Since this was thought to likely be demand ischemia in the setting of an acute pulmonary process, no anticoagulation was started after discussion by the ED team with the cardiology consultant on call.
+He denies any weight loss, hemoptysis, visual changes, abdominal pain, diarrhea, or hematochezia.
+Past Medical History: - HIV/AIDS, diagnosed [**2111**]; genotyping in [**10/2116**] showed high-grade NNRTI resistance, suspected to have PI-resistance as well; no history of OIs - Two-vessel CAD; inferior STEMI in [**2114**] (totally-occluded RCA, two mid-LAD lesions; all of them stented); BMS to RPLB in [**3-/2118**] (in the setting of positive stress and angina); DES to mid-LAD (in-stent restenosis; in the setting of worsening fatigue and exertional dyspnea) - Diastolic and systolic congestive heart failure (LVEF 37-50%, depending on study; no echo on the OMR) - Dyslipidemia - Hypertriglyceridemia - Hypertension - Severe peripheral neuropathy, thought secondary to stavudine; on very large narcotic regimen - C5-C6 diskectomy and fusion in [**2110**] - Emphysema - Depression  Social History: The patient lives in [**Location (un) 3844**] with his long-term partner.
+Physical Exam: T 96.6  BP 98/60  HR 99  RR 21  Sat 100% on CPAP 7/5, FiO2 35%  General: thin middle-aged man in breathing comfortably with CPAP mask, but in substantial respiratory distress without the mask HEENT: OP clear; no scleral icterus or conjunctival erythema Neck: unable to assess JVP due to CPAP mask; no cervical or clavicular lymphadenopathy Chest: scattered faint expiratory wheezing with mild bibasilar rales; moderately-restricted air movement; no egophony; no dullness to percussion Cardiovascular: borderline tachycardic, regular; normal s1s2; no murmurs or rubs; nondisplaced PMI Abdomen: moderately distended; nontender; normal bowel sounds; no hepatosplenomegaly Back: no CVA tenderness Extremities: 2+ pitting edema bilaterally to the lower shins; 2+ PT pulses; warm, well-perfused; no cyanosis or clubbing Rectal: Guaiac negative (performed in ED) Skin: multiple papular lesions with central dimpling on chin, jawline and neck; no jaundice Neuro: alert, oriented x3, CN 2-12 intact, 5/5 strength in both arms and legs  Pertinent Results: Viral DFA- nasopharyngeal aspirate ([**2122-12-16**]): Respiratory viral antigens not detected.
+The right ventricular cavity is mildly dilated, with hypokinesis of the basal half of the free wall.
+He was started initially on empiric high-dose Bactrim and prednisone for possible pneumocystis pneumonia, as well as levofloxacin for coverage of community-acquired pathogens.
+A bedside TTE done on the evening of admission showed possible evidence of RV strain, so he was started on a heparin infusion for possible pulmonary embolus.
+On the morning following his admission, he developed worsening distress and was urgently intubated for hypoxemic respiratory failure with concurrent hypotension.
+He underwent bronchoscopy with BAL which was negative for viral DFA and Pneumocystis [**Last Name (LF) 8640**], [**First Name3 (LF) **] his Bactrim was reduced to prophylactic dose and his prednisone was discontinued.
+They contact[**Name (NI) **] a specialist on this pathogen and recommended switching his levofloxacin to imipenem.
+This was swicthed to levofloxacin and doxycycline upon discharge; he will complete 2 more weeks for a total 4 week course; he will follow up with infectious disease as an outpatient.
+He was on heparin (as noted above), and cardiology was consulted.
+Due to the unclear etiology of his hypotension, acute renal failure, and respiratory failure, a Swan-Ganz catheter was placed, and he was noted to have elevated filling pressures (PCWP 35-38, PAD 38, CI 2.9, SVR 800) consistent with cardiogenic shock/acute-on-chronic systolic and diastolic CHF.
+With a furosemide drip and Diuril, however, he began diuresing well (with subsequent improvement in his renal function) and thus plans for a cardiac cath were deferred.
+His heparin drip was discontinued.
+He was kept on aspirin and clopidogrel, and his beta blocker was titrated upwards to help maximize any tachycardia-induced demand ischemia.
+He should follow up with his cardiologist for further risk stratification (elective cath vs. stress test).
+As his multifactorial (cardiogenic shock, emphysema, B. bronchisepticum pneumonia) respiratory failure slowly resolved, his ventilator settings were gradually weaned down.
+He was diuresed and put on a nitroglycerin with gradual improvement in his respiratory status.
+Following extubation, he was restarted on narcotics for his longstanding peripheral neuropathy.
+Regarding his HIV/AIDS, he was continued on his outpatient HAART regimen throughout.
+He was continued on Bactrim prophylaxis (briefly on treatment-dose Bactrim, as above) and fluconazole.
+Azithromycin was added for [**Doctor First Name **] prophylaxis.
+Given his persistent treatment failure, HIV genotyping was sent and should be followed up as an outpatient.
+Medications on Admission: Oxycontin 120mg four times daily oxycodone 5-10 mg tid prn abacavir 300mg [**Hospital1 **] indinavir 800mg q8h lamivudine 300mg daily Bactrim DS 1 tab daily fluconazole 100mg daily aspirin 325mg daily clopidogrel 75mg daily Toprol XL 100mg daily pravastatin 40mg daily fenofibrate 48mg daily fluoxetine 40mg daily Advair 1 puff [**Hospital1 **] albuterol MDI prn  Discharge Medications: 1.
+Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Indinavir 400 mg Capsule Sig: Two (2) Capsule PO Q8H (every 8 hours).
+Abacavir 300 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Lamivudine 150 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Trimethoprim-Sulfamethoxazole 160-800 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Fluconazole 200 mg Tablet Sig: 0.5 Tablet PO Q24H (every 24 hours).
+Pravastatin 10 mg Tablet Sig: Four (4) Tablet PO DAILY (Daily).
+Fluoxetine 20 mg Capsule Sig: Two (2) Capsule PO DAILY (Daily).
+Oxycodone 5 mg Tablet Sig: Four (4) Tablet PO Q6H (every 6 hours) as needed.
+Oxycodone 40 mg Tablet Sustained Release 12 hr Sig: Two (2) Tablet Sustained Release 12 hr PO Q6H (every 6 hours).
+Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours) for 14 days.
+Doxycycline Hyclate 100 mg Capsule Sig: One (1) Capsule PO Q12H (every 12 hours) for 14 days.
+Azithromycin 250 mg Capsule Sig: One (1) Capsule PO Q24H (every 24 hours).
+Albuterol 90 mcg/Actuation Aerosol Sig: Two (2) Puff Inhalation Q6H (every 6 hours) as needed.
+Ipratropium Bromide 17 mcg/Actuation Aerosol Sig: Two (2) Puff Inhalation QID (4 times a day).
+Metoprolol Succinate 50 mg Tablet Sustained Release 24 hr Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).
+Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*2*   Discharge Disposition: Home  Discharge Diagnosis: Primary : Bordetella Bronchisepticans pneumonia Pulmonary edema Systolic CHF NSTEMI  Secondary: HIV/AIDS Peripheral neuropathy CAD HTN COPD   Discharge Condition: Stable, ambulating, oxygenation stable on room air   Discharge Instructions: Please continue all medications as prescribed.
+You will need to complete the course of levofloxacin and doxycycline over the next two weeks.
+Other new medications include lasix, a reduced dose of Toprol (50 mg daily), and azithromycin for prophylaxis.

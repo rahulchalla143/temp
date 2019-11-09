@@ -1,0 +1,20 @@
+Admission Date:  [**2110-2-10**]              Discharge Date:   [**2110-2-14**]  Date of Birth:  [**2062-11-21**]             Sex:   M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 11892**] Chief Complaint: Abnormal Labs   Major Surgical or Invasive Procedure: PICC line placement   History of Present Illness: 47yo M with h/o HIV not on HAART presnted to PCP's office and then to our ED with non-productive cough, hiccups, jaundice, and icterus x 4 days.
+Labs at PCP notable for WBC [**Numeric Identifier 43204**] (3060 bands), Hb/HCT 11.8/35.7 ESR 119, Na 120, Cl 86, Ca 7.7, Alb 2.7, TB 10.2, DB 6.6, SGOT 294, SGPT 225.
+Had a multitude of tests sent including EBV (IgM non-reactive, one IGG reactive and the other negative), CMV (negative), RMSF (negative) and HIV which returned positive.
+Has also spiked fever to 102.2 and receiving toradol for the fever.
+Otherwise denied abdominal pain, dysuria, frequency, chest pain, shoulder pain, rash, sick contacts, palpitations.
+Pertinent Results: Admission labs: Labs from this admission: Lactate 4.0-> 2.3 with 3L NS 120 / 84 / 17 -------------- 4.0 \ 22 \ 1.0 Glucose 117 Ca: 8.3 Mg: 2.3 P: 3.1 ALT: 253 AP: 134 Tbili: 12.7 Alb: 3.0 AST: 329 LDH: 435 Dbili: 9.8 TProt: [**Doctor First Name **]:  Lip: 61 Tox negative (serum) WBC 23 85N, 10 band, 2L, 1Meta, 0eos INR 1.3, PTT 26.3 .
+Legionella Urinary Antigen  (Final [**2110-2-11**]):       NEGATIVE FOR LEGIONELLA SEROGROUP 1 ANTIGEN  Blood Culture, Routine (Final [**2110-2-13**]):       STREPTOCOCCUS PNEUMONIAE.
+Initially he was broadly treated with vanc, cefepime, levofloxacin (for legionella/atypicals), and bactrim (for PCP).
+[**Name Initial (NameIs) **] he steroids were discontinued when strep pneumo was speciated from the blood.
+Once the blood cultures came back his antibiotics were tailored to CTX only.
+Several viral serologies, acute hepatitis serologies, autoimmune workup, and iron studies/ceroplasmin were sent for additional workup and did not reveal any cause of liver injury.
+He will need follow up with his PCP after discharge for initiation of HAART.
+A CMV was also checked and returned with CMV IgG positive, but viral load was negative.
+# Hyponatremia: Patient was initally hyponatremic with a Na of 120 which improved with volume resuscitation.
+Comm:  with patient and [**Name (NI) 65032**] (roommate) [**Telephone/Fax (1) 65033**] Code:  Confirmed full   Medications on Admission: None  Discharge Medications: 1. sulfamethoxazole-trimethoprim 800-160 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2* 2. ceftriaxone 2 gram Recon Soln Sig: Two (2) gram Intravenous every twenty-four(24) hours for 10 days: Last day [**2-24**].
+Disp:*qs * Refills:*0* 3. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: 1-2 puffs Inhalation every 4-6 hours as needed for shortness of breath or wheezing.
+You were treated in the ICU with IV antibiotics, and these were continued on the floor.
+We checked your CD4 count and it came back at 123, so you were continued on a prophylactic dose of bactrim for pneumocystis carinii pneumonia.
+Albuterol MDI 1-2 puffs every 4-6 hours as needed for wheeze, shortness of breath  Please follow up with your PCP as scheduled.

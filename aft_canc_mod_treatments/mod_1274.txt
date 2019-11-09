@@ -1,0 +1,51 @@
+Admission Date:  [**2137-4-19**]              Discharge Date:   [**2137-4-25**]  Date of Birth:  [**2057-8-1**]             Sex:   F  Service: MEDICINE  Allergies: Amoxicillin / Percocet  Attending:[**First Name3 (LF) 9853**] Chief Complaint: shortness of breath  Major Surgical or Invasive Procedure: bronchoscopy and intubation  History of Present Illness: Mrs. [**Known lastname 23410**] is a 79 yo woman with h/o diffuse large B-cell lymphoma in the mediastinum s/p R-CHOP and R-[**Hospital1 **], s/p stent in left main stem bronchus [**1-7**] to left main stem bronchus compression due to mediastinal LAD, hypothyroidism, hypertension and recent discharges from two multi day admissions for pseudomonas pneumonia, C-diff, and work up for fever of unknown origin who reports acute shortness of breath "late in the evening" about four days ago at her rehab facility.
+Her 3 day [**Hospital Unit Name 153**] course included being intubated for two bronchoscopies that relieved the mucus plug.
+Her vital signs in the [**Hospital Unit Name 153**] were notable for persistent tachycardia to 120s despite apparent adequate volume resuscitation to include 1 unit of PRBCs.
+On review of systems, patient reported possible fevers, productive cough, and SOB on exertion and solid stool BM on [**4-21**].
+Past Medical History: Non-Hodgkins Lymphoma, in remission per the notes (diagnosed in [**2133**] diffuse large B cell lyphoma high grade, treated with R-CHOP and [**Hospital1 **] and XRT) - Left bronchial stent due to hilar LAD in [**2133**] - Hypertension - Hypothyroidism - Hyperlipidemia - Osteoporosis based on compression fractures on xray.
+Pertinent Results: Admission labs:  [**2137-4-18**] 11:00PM   WBC-5.8 RBC-3.24* HGB-9.6* HCT-29.0* MCV-89 MCH-29.5 MCHC-33.0 RDW-17.1* [**2137-4-18**] 11:00PM   NEUTS-87.4* LYMPHS-7.0* MONOS-4.2 EOS-0.5 BASOS-0.9 [**2137-4-18**] 11:00PM   GLUCOSE-133* UREA N-8 CREAT-0.6 SODIUM-136 POTASSIUM-3.7 CHLORIDE-98 TOTAL CO2-25 ANION GAP-17 [**2137-4-18**] 11:54PM   GLUCOSE-136* LACTATE-1.9 NA+-136 K+-3.5 CL--96* TCO2-28 [**2137-4-18**] 11:00PM   ALT(SGPT)-19 AST(SGOT)-39 CK(CPK)-23* ALK PHOS-93 TOT BILI-0.2 [**2137-4-18**] 11:00PM   LIPASE-20 [**2137-4-18**] 11:00PM   cTropnT-<0.01 [**2137-4-18**] 11:00PM   CK-MB-NotDone [**2137-4-18**] 11:00PM   ALBUMIN-3.2* PHOSPHATE-3.6 MAGNESIUM-1.8 [**2137-4-18**] 11:00PM   PT-12.7 PTT-28.6 INR(PT)-1.1 [**2137-4-18**] 11:00PM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.012 [**2137-4-18**] 11:00PM URINE  BLOOD-TR NITRITE-NEG PROTEIN-30 GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 LEUK-NEG [**2137-4-18**] 11:00PM URINE  RBC-0-2 WBC-0-2 BACTERIA-NONE YEAST-NONE EPI-0-2 [**2137-4-18**] 11:00PM URINE  GRANULAR-0-2  Discharge Labs:  [**2137-4-25**] 06:45AM BLOOD WBC-3.7* RBC-3.22* Hgb-10.0* Hct-29.0* MCV-90 MCH-31.2 MCHC-34.6 RDW-16.5* Plt Ct-160 [**2137-4-25**] 06:45AM BLOOD Glucose-73 UreaN-17 Creat-0.4 Na-136 K-3.4 Cl-96 HCO3-33* AnGap-10 [**2137-4-25**] 06:45AM BLOOD Calcium-8.8 Phos-2.4* Mg-1.6 [**2137-4-24**] 10:23PM BLOOD Tobra-5.4* [**2137-4-24**] 05:57PM BLOOD Tobra-1.7*  Imaging:  [**4-18**] CXR: 1.
+SENSITIVITIES: MIC expressed in MCG/ML   _________________________________________________________                              PSEUDOMONAS AERUGINOSA                              | CEFEPIME--------------     8 S CEFTAZIDIME-----------     4 S CIPROFLOXACIN---------     1 S GENTAMICIN------------   <=1 S MEROPENEM-------------     1 S PIPERACILLIN----------     8 S PIPERACILLIN/TAZO-----   <=4 S TOBRAMYCIN------------   <=1 S  [**2137-4-18**] 11:00 pm BLOOD CULTURE     Site: ARM                              **FINAL REPORT [**2137-4-25**]**     Blood Culture, Routine (Final [**2137-4-25**]):    NO GROWTH.
+Brief Hospital Course: 79yF with history of hypothyroidism, hypertension, DLBCL in remission, and bronchial stent in left mainstem bronchus (for compressive lymphadenopathy), recent Pseudomonal pneumonia, c-Dif and admission for FUO, who presented for acute shortness of breath and required 3 day course in [**Hospital Unit Name 153**] for intubation/bronch times 2, and currently being treated for pseudomonal infection of airways with ceftaz and tobra.
+Patient's exam, O2 requirement and very concerning radiography caused her to be admitted to intensive care unit, at where she underwent intubation and bronchoscopy (twice) to remove mucous plugging of left mainstem bronchus.
+After her second bronchoscopy she was extubated and had good improvement in symptoms/signs.
+Because of her history of pseudomonal pneumonia, she was empirically treated with ceftaz and when her sputum cultures grew pseudomonas, inhaled tobramycin was added to her antibiotic regimen.
+She was also treated with a brief steroid course given concern for a reactive airway disease component to her presentation.
+She was then transferred to regular care floor with decreased need for supplemental O2 (sat 96 % on room air at rest).
+She was seen by infectious disease and had her antibiotic changed to IV tobramycin.
+She was treated with nebulizers, chest PT, acapella treatment, and antibiotics with decrease in her decreas in her productive cough and decreased rhoncerous breath sounds.
+She will complete a three week course of antibiotics at rehab.
+Finished a prior to admission course of vanc during hospitalization.
+Given reinitiation of antibiotics during this hospitalization, she was restarted on PO vancomycin with plans to continue for five days after completion of this new antibiotic course.
+She has a h/o this condition so was continued diltiazem at with good control of her blood pressure.
+#)Prophylaxis:  Patient was placed on prescribed bowel regimen and had solid stools while on regular floor.
+Additionally, she received subcutaneous heparin to prevent DVTs.
+Medications on Admission: - Acetaminophen 325-650mg PO Q6H - Diltiazem HCl 120 mg SR daily - Fluticasone-Salmeterol 250-50 mcg/Dose [**Hospital1 **] - Levothyroxine 100 mcg daily - Calcium Carbonate 1000 mg [**Hospital1 **] - Cholecalciferol (Vitamin D3) 800 unit daily - Oxycodone 5 mg Tablet PO Q4H - Albuterol 90 mcg 1-2 puffs QID PRN wheezing - Loratadine 10 mg Tablet daily - Fluticasone-Salmeterol 45-21 mcg [**Hospital1 **] - Vancomycin 125 mg PO Q6H - Ranitidine HCl 150 mg PO BID - Albuterol 0.083% Neb Q6-8H PRN SOB, wheezing - Codeine Sulfate 30 mg PO Q4H - Guaifenesin 100 mg/5 mL Syrup, 15mL PO Q6H - Celebrex 100 mg PO BID   Discharge Medications: 1.
+Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed for fever, pain.
+Calcium Carbonate 500 mg Tablet, Chewable Sig: Two (2) Tablet, Chewable PO BID (2 times a day).
+Levothyroxine 100 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Guaifenesin 100 mg/5 mL Syrup Sig: Fifteen (15) ML PO Q6H (every 6 hours) as needed for cough.
+Celecoxib 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+Acetylcysteine 20 % (200 mg/mL) Solution Sig: Four (4) ML Miscellaneous Q6H (every 6 hours).
+Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1) 2.5 mg/3mL (0.083%) Inhalation Q6H (every 6 hours).
+Ipratropium Bromide 0.02 % Solution Sig: One (1) 0.2 MG/ML Inhalation Q6H (every 6 hours).
+Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1) 2.5mg/3mL (0.083%) Inhalation Q2H (every 2 hours) as needed for sob/wheezing.
+Vancomycin 125 mg Capsule Sig: One (1) Capsule PO Q6H (every 6 hours): to finish five days after last dose of tobramycin.
+Ceftazidime 1 gram Recon Soln Sig: One (1) Recon Soln Intravenous Q8H (every 8 hours) for 16 days.
+Diltiazem HCl 120 mg Tablet Sustained Release 24 hr Sig: One (1) Tablet Sustained Release 24 hr PO once a day.
+Claritin 10 mg Tablet Sig: One (1) Tablet PO once a day as needed for allergy symptoms.
+Codeine Sulfate 30 mg Tablet Sig: One (1) Tablet PO every four (4) hours as needed for cough.
+Heparin Flush (10 units/ml) 5 mL IV PRN line flush Indwelling Port (e.g.
+Portacath), heparin dependent: Flush with 10 mL Normal Saline followed by Heparin as above daily and PRN per lumen.
+Heparin Flush (100 units/ml) 5 mL IV PRN DE-ACCESSING port Indwelling Port (e.g.
+Portacath), heparin dependent: When de-accessing port, instill Heparin as above per lumen.
+Tobramycin in NS 60 mg/50 mL Piggyback Sig: Two (2) Intravenous twice a day for 19 days: Check tobra peak and trough on night of [**4-27**]; fax results to [**Hospital1 18**] ID at [**Telephone/Fax (1) 23413**].
+Discharge Instructions: You were treated for acute shortness of breath and hypoxia that was caused by mucous plugging of your large airways and infection of your lungs.
+You underwent bronchoscopy to remove the plug in your large airway and are receiving antibiotics to treat the infection in your lungs.
+You were evaluated by physical therapy (PT) and received chest PT in order to help get the secretions out of your lungs/airways.
+You are being discharged to an extended care facility so that your may continue to receive intravenous antibiotics (total of 3 weeks), have regular blood work done, and chest PT.
+Please take all your medications as prescribed.
+The following changes were made to your medication regimen.
+Please take tobramycin 120 mg IV BID for 19 more days 2.
+Your oxycodone was discontinued 4.
+You were prescribed acetylcysteine nebulizers to help with mucous secretion  Should you experience shortness of breath, dizzyness, mental status changes, chest pain, or other concerning symptoms  Followup Instructions: Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 4380**], MD Phone:[**Telephone/Fax (1) 3237**] Date/Time:[**2137-5-10**] 2:00 Provider: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD Phone:[**Telephone/Fax (1) 22**] Date/Time:[**2137-5-10**] 2:00  Provider: [**Name10 (NameIs) 357**] follow up in the infectious disease department after completion of antibiotic course.

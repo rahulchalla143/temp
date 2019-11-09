@@ -1,0 +1,37 @@
+Admission Date:  [**2118-7-4**]              Discharge Date:   [**2118-7-15**]  Date of Birth:  [**2050-4-8**]             Sex:   F  Service: NEUROLOGY  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 8850**] Chief Complaint: Seizure  Major Surgical or Invasive Procedure: Intubation PICC line   History of Present Illness: [**Known firstname **] [**Known firstname 14611**] is a 68-year-old woman, status post resection of an intermediate grade meningioma followed by involved-field cranial irradiation, who presents with seizures and was intubated for airway protection.
+She was found by her husband with seizure activity at 01:00 a.m.  She was given Ativan 0.5 mg at home, as well as 1.0 mg by EMS on the way to [**Hospital **] Hospital.
+She received Ativan 2.0 mg x 2, Dilantin 1400 mg IV, Decadron 10 mg IV, 1.5L normal saline, and was transferred to [**Hospital1 18**] for further care.
+She was intubated for airway protection and admitted to the [**Hospital Unit Name 153**] for further management.
+She then underwent involved-field cranial irradiation with 6000 cGy over 30 fractions ending [**2118-1-26**].
+- Bilateral hip replacement - Varicose vein ligation - Cataract surgeries OU - Removal of a hemangioma from the right middle finger - DVT right leg [**10-18**], s/p warfarin therapy x 6 months - Arthritis - Cesarean Section - Osteoporosis - Hyperlipidemia - Seizures  Social History: She lives with her husband.
+Pertinent Results: [**2118-7-4**] 11:21PM   TYPE-ART PEEP-5 O2-40 PO2-117* PCO2-46* PH-7.37 TOTAL CO2-28 BASE XS-1 [**2118-7-4**] 11:21PM   LACTATE-0.9 [**2118-7-4**] 11:21PM   freeCa-1.18 [**2118-7-4**] 05:32PM   TYPE-ART PO2-127* PCO2-39 PH-7.41 TOTAL CO2-26 BASE XS-0 [**2118-7-4**] 12:06PM   TYPE-ART RATES-/16 TIDAL VOL-500 O2-60 PO2-158* PCO2-31* PH-7.50* TOTAL CO2-25 BASE XS-2 -ASSIST/CON INTUBATED-INTUBATED [**2118-7-4**] 05:11AM   LACTATE-1.2 [**2118-7-4**] 05:00AM   GLUCOSE-136* UREA N-15 CREAT-0.7 SODIUM-142 POTASSIUM-3.7 CHLORIDE-108 TOTAL CO2-24 ANION GAP-14 [**2118-7-4**] 05:00AM   estGFR-Using this [**2118-7-4**] 05:00AM   ALT(SGPT)-13 AST(SGOT)-21 LD(LDH)-243 ALK PHOS-56 TOT BILI-0.3 [**2118-7-4**] 05:00AM   CALCIUM-9.2 PHOSPHATE-3.1 MAGNESIUM-1.7 [**2118-7-4**] 05:00AM   WBC-10.7 RBC-4.09* HGB-12.6 HCT-37.5 MCV-92 MCH-30.9 MCHC-33.7 RDW-12.5 [**2118-7-4**] 05:00AM   NEUTS-89.3* LYMPHS-9.3* MONOS-1.0* EOS-0.2 BASOS-0.3 [**2118-7-4**] 05:00AM   PLT COUNT-281 [**2118-7-4**] 05:00AM   PT-12.8 PTT-24.9 INR(PT)-1.1 [**2118-7-4**] 05:00AM URINE  COLOR-Straw APPEAR-Clear SP [**Last Name (un) 155**]-1.009 [**2118-7-4**] 05:00AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-8.0 LEUK-NEG  EEG [**2118-7-5**]: This is an abnormal video EEG telemetry due to generalized slowing, as well as runs and bursts of theta and delta slowing, indicative of a moderate to severe encephalopathy which could be due to ischemia, infection, or mass among other etiologies.
+Generalized  superimposed beta activity was seen, likely due to a medication effect, most commonly from benzodiazepines or barbiturates.
+Additional bursts of beta activity were seen in the cardiac monitor which, at times, correlated with left frontotemporal beta activity likely due to artifact.
+EEG [**2118-7-6**]: IMPRESSION: This is an abnormal video EEG telemetry due to generalized slowing, with continuous theta and delta slowing, which are much more prominent than the previous day's recording, with occasional brief periods of generalized suppression.
+These findings are indicative of a severe encephalopathy which could be due to ischemia, infection, or toxic/ metabolic disturbances and medication effects, among other etiologies.
+Generalized superimposed beta activity was seen, likely due to a  medication effect, most commonly from benzodiazepines or barbiturates.
+Generalized superimposed beta activity was seen, likely due to a medication effect, most commonly from benzodiazepines or barbiturates.
+Portable CXR [**2118-7-4**]:  An endotracheal tube is new and ends ~3.7 cm above the carina.
+A nasogastric tube courses into the stomach and beyond the field of view.
+Brief Hospital Course: [**Known firstname **] [**Known firstname 14611**] is a 68-year-old woman, status post resection and radiation of an atypical meningioma who presents with seizures and was intubated for a total of 10 days for airway protection.
+She has been maintained on levetiracetam, phenytoin, and dexamethasone for seizure prophylaxis and has not been noted to have further seizure activity.
+Also had a fever in the ICU during prolonged intubation so was started on cefepime and vancomycin.
+Patient was intubated for several days for altered mental status and seizures.
+She is also status post high-doses of lorazepam for seziure and sedation was continued with propofol.
+She was weaned off of sedation and was extubated  (2) Health Care Associated Pneumonia:  Cefepime/Vanc started on [**2118-7-9**] due to leukocytosis, fever, and question of infiltrates on chest radiograph leading to presumed diagnosis of health care associated pneumonia.
+Therapy to be adminstered through PICC placed during this hospitalization.
+Medications on Admission: MEDICATIONS AT HOME  Famotidine 20mg PO daily - Levetiracetam 1250mg PO QAM, 1000mg PO Qnoon, 1250mg PO QPM - Lorazepam 0.5mg PO TID - Simvastatin 20mg PO HS - Colace 100mg PO qAM - Decadron 0.5mg PO daily - Tylenol 325mg PO prn MEDICATIONS AT TRANSFER from ICU to OMED -Acetaminophen 325-650 mg PO/NG Q6H:PRN -LeVETiracetam 1250 mg PO/NG [**Hospital1 **] -LeVETiracetam 1000 mg PO/NG QNOON -CefePIME 2 g IV Q8H -Magnesium Sulfate  IV Sliding Scale -Dexamethasone 4 mg IV Q12H -Phenytoin Sodium Extended 100 mg PO QAM -Phenytoin Sodium Extended 200 mg PO QPM -Docusate Sodium (Liquid) 100 mg PO/NG [**Hospital1 **] -Famotidine 20 mg PO/NG DAILY -Senna 1 TAB PO/NG [**Hospital1 **]:PRN constipation -Simvastatin 20 mg PO/NG DAILY -Heparin 5000 UNIT SC TID -Vancomycin 1000 mg IV Q 12H  Discharge Medications: 1.
+Levetiracetam 500 mg Tablet Sig: Two (2) Tablet PO QNOON ().
+Famotidine 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Vancomycin in D5W 1 gram/200 mL Piggyback Sig: One (1) gm Intravenous Q 12H (Every 12 Hours) for 7 days: Last doses on [**7-22**].
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+Camphor-Menthol 0.5-0.5 % Lotion Sig: One (1) Appl Topical TID (3 times a day) as needed for itching.
+Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for pain, fever.
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+Ceftazidime 2 gram Recon Soln Sig: Two (2) gm Intravenous q8H for 7 days: Last day [**7-22**].
+Levetiracetam 500 mg Tablet Sig: 2.5 Tablets PO twice a day: QAM and QPM.
+Simvastatin 20 mg Tablet Sig: One (1) Tablet PO once a day.
+Dexamethasone 4 mg Tablet Sig: One (1) Tablet PO twice a day.
+We have given you medication for your seizures and you were successfully extubated.
+Your medications have been changed.
+You have been started on the following medications IV Antibiotics: for seven more days - Vancomycin 1gram Every 12 Hours - Ceftazidime 2 g IV every 8 hours  You have also been started on - Phenytoin 200mg twice daily - Acetaminophen 325mg 1 tablet every 6 hours as needed for pain  Followup Instructions: When you are discharged from [**Location (un) 38**] please schedule a follow up with your PCP to discuss your hospitalization.

@@ -1,0 +1,12 @@
+Admission Date:  [**2110-6-5**]              Discharge Date:   [**2110-6-23**]  Date of Birth:  [**2051-10-26**]             Sex:   F  Service: SURGERY  Allergies: [**Doctor First Name **]  Attending:[**First Name3 (LF) 4111**] Chief Complaint: Colon cancer found on routine screening  Major Surgical or Invasive Procedure: Sigmoid Colectomy   History of Present Illness: This patient is a 58-year-old single lady, working at [**Company **], who underwent a routine screening colonoscopy on [**2110-5-12**] and was found to have a sigmoid colon lesion, which was biopsied and came back as carcinoma.
+Blood pressure 178/74, temperature 97.6, heart rate 81, and respirations 16.
+Her chest, the diaphragms move 4-6 cm and there are no rales or adventitious sounds and no dullness.
+On POD#2, Ms. [**Known lastname 634**] was noted to be hypotensive over night with a systolic blood pressure in the 80s.
+Her pressure responded to fluid boluses.
+Her hematocrit was 24 and a repeat hematocrit was 25, and became as low as 18.
+Ms. [**Known lastname **] PTT was >150 and her INR 1.8.
+She received a total of 7units of FFP and 3 units of pRBCs.
+Her coagulopathy was corrected and her hematocrit rose to 27.
+On POD#3, the patient received 2 additional units of pRBCs to a hematocrit of 30.
+A KUB was obtained, and showed multiple loops of dilated bowel with air-fluid levels, consistent with ileus.
+Followup Instructions: Provider: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], MD Where: [**Hospital6 29**] HEMATOLOGY/ONCOLOGY Phone:[**Telephone/Fax (1) 22**] Date/Time:[**2110-7-9**] 1:00  Provider: [**Name10 (NameIs) **],[**Name11 (NameIs) 3628**] SURGICAL ASSOC [**Name11 (NameIs) 3628**]-3A (NHB) Where: LM [**Hospital Unit Name 3665**] ASSOCIATES Phone:[**Telephone/Fax (1) 3666**] Date/Time:[**2110-7-9**] 11:00  Please follow up with Dr. [**Last Name (STitle) **] in one month.

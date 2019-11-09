@@ -1,0 +1,13 @@
+CHIEF COMPLAINT:  This is an 80-year-old patient of Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 3357**] referred for outpatient cardiac catheterization due to decreased exercise tolerance.
+His recent cardiac testing had included an echocardiogram on [**2147-8-14**] showing LAE, dilated ascending aorta, mild aortic insufficiency, MAC, thick mitral valve, prolapsed posterior leaflet, moderate MR, mild TR and PI, mild pulmonary hypertension, normal left ventricular size, ejection fraction 50-55%, basal inferior wall dyskinesis, hypokinesis of the inferior apical and inferior wall.
+On [**2147-9-11**], ETT showed exercise for three minutes before being stopped due to EKG changes, significant ST depressions.
+Height 71 kg, weight 165 cm.
+Cardiac risk factors were negative for hypertension, negative for cholesterol, negative for cigarettes, negative for diabetes, negative family history.
+LABORATORY DATA:  White count 7.3, hematocrit 49.1, glucose 145.
+Sodium 142, potassium 4.4, chloride 102, bicarbonate 32, BUN 31, creatinine 1.2.
+HOSPITAL COURSE:  Cardiac catheterization results showed severe three-vessel disease, mildly depressed LV systolic function and mild LV diastolic dysfunction with mild MR.
+On discharge the patient was afebrile with a heart rate of 70 and a blood pressure of 124/64, respiratory rate 18, saturation rate of 97% on room air, white count of 6.8, hematocrit 30.3, and platelet count 202.
+Chemistries showed a sodium of 136, potassium 4.1, chloride 102, bicarbonate 30, BUN 24, creatinine 1.2, glucose 142, calcium 9, magnesium 2, phosphorous 3.6.
+DISPOSITION:  The patient was discharged to home with VNA for wound checks, monitoring of vital signs, and medication compliance.
+[**First Name5 (NamePattern1) 233**] [**Last Name (NamePattern1) 1002**] 10 mEq, two tablets p.o.
+[**MD Number(1) 1540**]  Dictated By:[**Last Name (NamePattern4) 7013**] MEDQUIST36  D:  [**2147-9-26**]  12:27 T:  [**2147-9-26**]  12:45 JOB#:  [**Job Number 51528**]

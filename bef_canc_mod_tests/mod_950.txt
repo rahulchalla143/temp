@@ -1,0 +1,27 @@
+Admission Date:  [**2167-7-13**]              Discharge Date:   [**2167-7-28**]  Date of Birth:  [**2094-2-10**]             Sex:   F  Service: SURGERY  Allergies: Benadryl / Lorazepam  Attending:[**First Name3 (LF) 371**] Chief Complaint: abdominal pain and purulent drainage from urostomy  Major Surgical or Invasive Procedure: [**2167-7-14**] CT guided drainage of intraabdominal abcess [**2167-7-18**] Ultrasound drainage of intraabdominal abcess [**2167-7-26**] Abdominal catheter exchanged for larger size  History of Present Illness: 73F s/p surgery on [**2167-6-6**] for a strangulated ventral/periurostomal hernia with resection of necrotic bowel and extensive LOA.
+Family History: NA  Physical Exam: Exam: 97.2 86 124/76 18 95RA NAD CTAB RRR, -MRG large periurostomal hernia w some surrounding redness, ostomy bag with thick white liquid, midline incision s/p recent removal of retention sutures, soft, NT, ND, +BS   Pertinent Results: [**2167-7-13**] 01:20PM   WBC-11.8* RBC-3.73* HGB-10.1* HCT-31.2* MCV-84 MCH-26.9* MCHC-32.2 RDW-14.9 [**2167-7-13**] 01:20PM   NEUTS-76.6* LYMPHS-14.4* MONOS-7.3 EOS-1.1 BASOS-0.5 [**2167-7-13**] 01:20PM   PLT COUNT-662* [**2167-7-13**] 01:20PM   ALT(SGPT)-6 AST(SGOT)-13 ALK PHOS-93 TOT BILI-0.2 [**2167-7-13**] 01:20PM   GLUCOSE-108* UREA N-10 CREAT-0.6 SODIUM-132* POTASSIUM-3.9 CHLORIDE-94* TOTAL CO2-27 ANION GAP-15  [**2167-7-13**] Abd Ct : 1.
+Bilateral hydronephrosis appears increased compared to CT scan of [**2167-6-3**] but likely not significantly changed from [**2167-6-13**].
+[**2167-7-18**] Abd CT : 1.
+[**2167-7-21**] CXR : Lung volumes are lower, the small bilateral pleural effusions are new, but the most important change is widespread multifocal peribronchial opacification--most likely widespread infection, perhaps embolic--almost nodular in the left upper lobe, a new large region of consolidation at both lung bases, the right anterior and the left posterior.
+[**2167-7-26**] Abd CT : 1.
+FLUID CULTURE (Final [**2167-7-22**]):       LACTOBACILLUS SPECIES.
+ANAEROBIC CULTURE (Final [**2167-7-22**]):       Mixed bacterial flora-culture screened for B. fragilis, C.       perfringens, and C. septicum.
+FLUID CULTURE (Final [**2167-7-21**]):       LACTOBACILLUS SPECIES.
+Susceptibility testing requested by DR. [**First Name8 (NamePattern2) 62369**] [**Last Name (NamePattern1) **] ([**Numeric Identifier 62370**]).
+Sensitivity testing performed by Sensititre.
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              LACTOBACILLUS SPECIES                              | AMPICILLIN------------     1 S GENTAMICIN------------   <=2 S PENICILLIN G----------     1 S     ANAEROBIC CULTURE (Final [**2167-7-22**]):    NO ANAEROBES ISOLATED.
+**FINAL REPORT [**2167-7-23**]**     URINE CULTURE (Final [**2167-7-23**]):       ENTEROCOCCUS SP..    >100,000 ORGANISMS/ML..       YEAST.
+She underwent CT guided drainage on [**2167-7-14**] and after draining close to 1 liter the drain accidently fell out.
+She underwent serial exams thereafter and she gradually became distended.
+Her initial wound culture grew gram negative and gram positive rods and eventual Lactobacillus.
+A CT showed re accumulation of her abdominal fluid collection and she had a drain replaced under ultrasound guidance.
+During this time she developed diarrhea and specimens for C difficile were sent on 3 different occasions.
+Over 3 days the diarrhea gradually resolved and a C Difficile PCR toxin was sent which was negative.
+A chest Xray was done which showed bilateral lower lobe consolidations and she was already being treated with Vancomycin and Zosyn.
+She underwent chest PT, incentive spirometry and nebulizer treatments and within 24 hours had symptomatically improved with a decreased cough and Room Air saturations of 94-95%.
+Of note she had a urine culture done on [**2167-7-20**] which grew .100K VRE.
+Medications on Admission: Requip 2mg TID, Alendronate 35mg qwk, Omeprazole 20mg daily Methotrexate 15mg qwk, Iron 325mg TI week, metoprolol 25mg daily, synthroid 125mg daily, salsalate 1500mg daily   Discharge Medications: 1.
+You will have a CT scan in a few weeks to check the area and see if the fluid is all drained.
+* Continue to check your temperature twice daily and call the [**Hospital 2536**] Clinic if it is greater than 101.
+Followup Instructions: Call the [**Hospital 2536**] Clinic at [**Telephone/Fax (1) 600**] for a follow up appointment in 2 weeks with an abdominal CT with PO and IV contrast.
+Infectious Disease follow up: Provider: [**Name10 (NameIs) **] [**Name8 (MD) **], MD Phone:[**Telephone/Fax (1) 457**] Date/Time:[**2167-8-24**] 9:30 Provider: [**First Name4 (NamePattern1) 2482**] [**Last Name (NamePattern1) **], MD Phone:[**Telephone/Fax (1) 457**] Date/Time:[**2167-9-14**] 9:30    Completed by:[**2167-7-28**

@@ -1,0 +1,49 @@
+Admission Date:  [**2185-11-15**]              Discharge Date:   [**2185-11-24**]  Date of Birth:  [**2126-1-11**]             Sex:   F  Service: MEDICINE  Allergies: Keflex / Ciprofloxacin / Ertapenem  Attending:[**First Name3 (LF) 943**] Chief Complaint: altered mental status  Major Surgical or Invasive Procedure: Status post airway intubation (performed at outside hospital, extubated here) PICC placement [**2185-11-17**]   History of Present Illness: Hepatologist:  Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 497**] PCP:  [**Last Name (NamePattern4) **].
+WBC elevated at 16 with Hct and Cr at baseline.
+ROS:  unable to obtain   Past Medical History: Hepatitis C, Genotype 1: Diagnosed in [**2185-1-8**] with last VL 263,000 in [**8-/2185**] Cirrhosis (Methotrexate and Hepatitis C Induced) Portal Hypertension Chronic Kidney Disease with baseline Cr 1.8-2.0 Diastolic CHF: Grade I diastolic dysfunction [**7-17**], EF 75% Ascites Diuretic-Resistant Esophageal Varices per report; however, EGD [**7-/2185**] reports normal esophagus Psoriasis with Arthropathy - s/p Methotrexate x 15 years (MTX d/c in 12.07 when patient developed ascites and now uses halobetasol cream) Anemia with baseline Hct 25-30 Thyroid nodule 2.2cm identified on ultrasound [**9-16**], needs Bx (has f/u in Thyroid nodule clinic) Admission [**Date range (1) 92102**]:  for elective TIPS, also had UTI Admission [**Date range (1) 92103**]:  for hyponatremia and ARF Foot drop from peroneal nerve injury during TIPS procedure (per DC summary) Hyponatremia with baseline Na 128-130 .
+Uses a cane and walker.
+[**2185-11-16**] MR [**Name13 (STitle) 430**] and Brain without contrast:  Limited study due to motion artifact.
+She was reported to have a hx of poor compliance with lactulose at home.
+Upon arrival in the MICU she was started on lactulose and rifaximine.
+She underwent a paracentesis to eval for SBP, which had a negative gram stain and culture.
+Given her AMS, she was considered high risk for aspiration, and she was started on empiric treatment with vanc/aztreonam/azithromycin (allergic to cipro and keflex) for nosocomial or aspiration PNA vs SBP.
+Following extubation and decreased sedation, her mental status improved and the focal eye findings resolved.
+She is being discharged on Rifaximin and furosemide.
+# Respiratory failure: Patient was intubated for airway protection at OSH.
+It is unclear if she received IVF at OSH.
+She was weaned off of the vent quickly as she required minimal pressure support and had good RSBIs.
+Pt has known allergies to Keflex ad Cipro, and had received ertapenem at the OSH.
+She was treated with topical clobetasol cream to the rash on abdomen and lower extremities (avoiding folds), and hydrocortisone 2.5% cream to rash in folds of abdomen and groin.
+Also, the bullae over time evolved into ulcerations on the pt's legs, arms and left shoulder which were treated with wound care as recommended by our wound care team and plastics.
+# Cirrhosis [**3-12**] Hep C: Pt was treated as described above with lactulose and rifaximine as well as a PPI, and was followed by Hepatology.
+She should have a repeats TIPS ultrasound in 1 month.
+She had a 5L paracentesis on [**11-20**] which was negative for increased WBC and culture was sterile.
+# VRE: Pt had blood culture [**11-16**] which grew VRE sensitive to daptomycin and linezolid in [**2-11**] bottles.
+Daptomycin was started on [**11-17**].
+The pt should be continued on IV daptomycin to complete a 14 day course on [**2185-12-2**].
+She received albumin 25g in 500cc NS x2 and her HR and urine output were followed.
+Her diuretics were held until the next morning.
+# Chronic diastolic heart failure: Appeared hypovolemic admission, her diuretics were held as above.
+# Chronic Kidney Disease:  baseline Cr 1.8-2.0, Cr on discharge 1.5, urine output initially poor on admission, but improved after fluid challenge.
+# Hyponatremia: Pt has chronic hyponatremia seen on past admission with baseline 128-130.
+Treatment ongoing for this condition should include ongoing fluid restriction to approximately 1500cc/day.
+# Hypercalcemia: Pt had transient hypercalcemia to 10.8 this admission thought to be [**3-12**] Calcium and vitamin D use at home.
+Recommend not restarting these medications at this time.
+Medications on Admission: Metoclopramide 5mg TID Pantoprazole 40 mg daily Clobetasol 0.05 % Cream [**Hospital1 **] Ergocalciferol (Vitamin D2) 50,000 unit QWednesday Calcium-Cholecalciferol (D3) 500 (1,250)-400 mg-unit [**Hospital1 **] Nystatin 100,000 unit/mL 5ml QID Lactulose 30ml [**Hospital1 **] Furosemide 40 mg daily Spironolactone 25 mg daily .
+Heparin Flush (10 units/ml) 2 mL IV PRN line flush PICC, heparin dependent: Flush with 10mL Normal Saline followed by Heparin as above daily and PRN per lumen.
+Daptomycin 500 mg Recon Soln Sig: Four Hundred (400) mg Intravenous Q48H (every 48 hours): Please continue for 9 days.
+Clobetasol 0.05 % Cream Sig: One (1) Appl Topical [**Hospital1 **] (2 times a day) as needed for psoriasis.
+Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO twice a day.
+Metoclopramide 10 mg Tablet Sig: One (1) Tablet PO TID (3 times a day).
+Nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID (4 times a day).
+Rifaximin 200 mg Tablet Sig: Two (2) Tablet PO TID (3 times a day).
+Hydrocortisone 2.5 % Cream Sig: One (1) Appl Rectal [**Hospital1 **] (2 times a day).
+Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for pain.
+Discharge Disposition: Extended Care  Discharge Diagnosis: Primary: Vancomycin Resistant Enterococcus Bacteremia Encephalopathy Traumatic Skin Rash Hyponatremia  Secondary: Hepatitis C Cirrhosis Chronic Kidney Disease   Discharge Condition: Afebrile, stable, ambulatory.
+You will continue on an antibiotic, Daptomycin, intravenously for a total of 14 days, finishing on [**12-2**].
+They are being cared for currently with wound care.
+She had been taking ergocalciferol and cholecalciferol both of which were stopped, and the calcium normalized.

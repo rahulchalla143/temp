@@ -1,0 +1,37 @@
+Admission Date:  [**2149-11-29**]              Discharge Date:   [**2149-12-4**]  Date of Birth:  [**2072-3-16**]             Sex:   F  Service: MEDICINE  Allergies: Ace Inhibitors  Attending:[**Last Name (un) 11974**] Chief Complaint: Palpitations and NSVT  Major Surgical or Invasive Procedure: EP Study  History of Present Illness: The patient is a 77-year-old female with a past history of HTN, HL, CAD s/p MI x 3 and CABG x 2, ischemic cardiomyopathy (EF 30 %), h/o NSVT s/p ICD (replaced 2 years ago), presenting from [**Hospital3 **] with NSVT.
+She had been started on amiodarone on discharge, however, this was discontinued in [**Month (only) 547**] secondary to tingling/twitching in her ears and a swollen throat.
+On review of systems, she denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.
+OTHER PAST MEDICAL HISTORY: Depression s/p ECT S/p cholecystectomy S/p hysterectomy S/p thyroid surgery for a benign mass S/p cataract surgery  Social History: Married.
+[**2149-12-4**] Stress Test: INTERPRETATION: This 77 yo woman s/p MI x3, CABG in [**2126**] and [**2132**], nonsustained MMVT and s/p ICD was referred to the lab for arrhythmia evaluation.
+In the presence of beta blocker therapy, the heart rate response to exercise was limited.
+Brief Hospital Course: 77-year-old female with a past history of HTN, HL, CAD s/p MI x 2 and CABG x 2, ischemic cardiomyopathy (EF 25 %), h/o NSVT s/p ICD (replaced 2 years ago), presenting from [**Hospital3 **] with NSVT.
+Pt has defibrillator in place that was investigated upon admission.
+Pt was on amiodarone in the past, which worked well for her initially but then discontinued its use in [**Month (only) 547**] due to adverse side effects.
+Before her EP study, pt's symptoms and ectopy were managed adequately with a lidocaine drip.
+Pt was continued on metoprolol, and then started on quinidine and mexilitine after the EP study, with good control of pt's symptoms and no more ectopy on telemetry.
+CHRONIC ISSUES: # CAD: Pt's history of CAD includes 3 MIs and CABG x2 in [**2126**] and [**2132**].
+She is on nitroglycerin at home for chest pain, but did not need it during the hospitalization.
+She was continued on her home lipitor and ezetimibe.
+# HTN: Documented history of this problem, for which she had been treated with hydralazine, isosorbide, and lopressor prior to admission.
+However, she was slightly hypotensive in-house, and so her home hydralazine and isosorbide were held, but she was continued on her home lopressor.
+Before discharge, she was transitioned to long-acting lopressor that she will take twice daily.
+There was some thought about starting her on Diovan, but due to her adverse reaction to ace inhibitors (and their relationship to ARBs), she was simply continued on lopressor and her isosorbide and hydralazine were held.
+On hydralazine and isosorbide at home but was held in-house.
+Pt was continued on home lipitor and ezetimibe.
+Pt was continued on home oxazepam.
+TRANSITIONAL ISSUES # Pt's isosorbide and hydralazine were held during the hospitalization due to low blood pressures.
+Medications on Admission: ATORVASTATIN [LIPITOR] 20 mg Tablet, 1 Tablet PO BID EZETIMIBE [ZETIA] 10 mg Tablet, 1 Tablet PO daily HYDRALAZINE HCL 10MG Tablet, 1 Tablet PO TID ISOSORBIDE DINITRATE 20 mg Tablet, 1 Tablet PO TID LOPRESSOR 50mg Tablet, 1 Tablet PO TID NITROGLYCERIN - 0.4 mg Tablet, Sublingual - as directed once a day TRIAMCINOLONE ACETONIDE - 0.1 % Cream - as directed once a day OXAZEPAM 30mg Tablet, 1 Tablet PO TID  Discharge Medications: 1. quinidine gluconate 324 mg Tablet Extended Release Sig: One (1) Tablet Extended Release PO Q8H (every 8 hours).
+Disp:*90 Tablet Extended Release(s)* Refills:*2* 2. mexiletine 150 mg Capsule Sig: One (1) Capsule PO Q12H (every 12 hours).
+Disp:*60 Capsule(s)* Refills:*2* 3. atorvastatin 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+4. ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+5. oxazepam 30 mg Capsule Sig: One (1) Capsule PO three times a day.
+6. magnesium oxide 400 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Disp:*60 Tablet(s)* Refills:*2* 7. metoprolol succinate 25 mg Tablet Extended Release 24 hr Sig: Three (3) Tablet Extended Release 24 hr PO BID (2 times a day).
+Disp:*180 Tablet Extended Release 24 hr(s)* Refills:*2* 8. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+9. nitroglycerin 0.4 mg Tablet, Sublingual Sig: One (1) tablet Sublingual as directed as needed for chest pain.
+You were admitted with palpitations caused by ventricular tachycardia and needed to get intravenous medicine to control the arrhythmias.
+An ablation was attempted by Dr. [**Last Name (STitle) **] but he was not able to complete this procedure because the heart rhythm that caused the palpitations was not able to be induced during the procedure.
+Therefore, you have been started on 2 new medicines to control the arrythmias, mexilitine and quinidine.
+START taking mexilitine and quinidine gluconate to control your ventricular tachycardia 2.
+STOP taking isosorbide mononitrate (Imdur) and hydralazine for now, talk to Dr. [**Last Name (STitle) **] about restarting these medicines at your next appt.
+START taking magnesium tablets twice daily to increase your magnesium levels  Followup Instructions: .

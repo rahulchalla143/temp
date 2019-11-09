@@ -1,0 +1,64 @@
+Admission Date:  [**2156-7-4**]              Discharge Date:   [**2156-7-15**]  Date of Birth:  [**2080-11-20**]             Sex:   F  Service: MEDICINE  Allergies: Premarin  Attending:[**Last Name (NamePattern1) 1167**] Chief Complaint: shortness of breath x 1 month, and chest pain for 2-3 days  Major Surgical or Invasive Procedure: Right heart catheterization with placement of Swan Ganz catheter  History of Present Illness: Ms. [**Known lastname 2470**] is 75F with history of CAD s/p STEMI, CABG in [**12/2155**] (LIMA-LAD, SVG-OM1, SVG Y-graft-diag, SVG-PDA), ischemic cardiomyopathy (EF 20-25%), most recent estimate at 10%, HTN, HLD, s/p fem-[**Doctor Last Name **] [**2-18**] who initially presented with dyspnea on exertion for the last one month and chest pain for 2-3 days prior to presentation.
+Prev study on [**2156-2-11**] showed LVEF 20-25%)  While on the [**Hospital1 1516**] service, the patient was initially given lasix boluses, and was later started on a Lasix drip on [**2156-7-5**].
+The patient diuresed 914ccs [**2155-7-6**] PM after stopping lasix gtt.
+However, she still complained of SOB, so RHC with Swan Ganz was performed to assess volume status.
+The patient tolerated the R heart cath well.
+Given her elevated pressures despite Lasix and in the setting of a creatinine increase and low EF, the patient was transferred to the CCU for initiation of milrinone and IV Lasix.
+Of note, while on [**Hospital1 1516**], the patient was also started on amiodarone for her atrial fibrillation.
+CARDIAC HISTORY: - CABG: CABG x4(LIMA->LAD, svg->OM1,svg-Y-graft->diag, svg->pda)  [**2156-1-19**] -Atrial Fibrillation 3.
+OTHER PAST MEDICAL HISTORY: H pylori Back pain Osteopenia Pancreatic cyst AAA s/p endovascular repair [**2151-5-20**]   Social History: She exercises three times a week at her adult day center.
+The cardiac index was notably depressed on 2L supplemental oxygen (with an assumed oxygen consumption) of 1.58  l/min/m2.
+Right internal jugular swan [**Last Name (un) **] catheter was sutured to the neck for additional pressure measurements during hospitalization.
+Brief Hospital Course: Ms. [**Known lastname 2470**] is 75F with history of CAD s/p STEMI, CABG in [**12/2155**] (LIMA-LAD, SVG-OM1, SVG Y-graft-diag, SVG-PDA), ischemic cardiomyopathy (EF 20-25%), most recent estimate at 10% who initially presented with dyspnea on exertion for the last one month and chest pain for 2-3 days prior to presentation.
+She was transferred to the CCU for initiation of milrinone and Lasix drip.
+Her milrinone was replaced with dobutamine 5 mcg/kg/min, which was up-titrated to 7mcg/kg/min.
+Her afterload was reduced was increasing doses of captopril, which allowed for reduction of her dobutamine dose to 5 mcg/kg/min.
+Patient was discharged on the following mediations for her CHF: dobutamine drip, lisinopril 5mg, Dig .125 every other day, torsemide 40mg daily, spironolactone 25 mg daily, imdur 60 mg daily  # ATRIAL FIBRILLATION: since CABG 1/[**2155**].
+Her coumadin was initially held given the need for catherization and central line placement.
+On [**7-10**], her coumadin was restarted with a heparin bridge.
+Pt was also on amiodarone for Afib and will continue this medication upon discharge.
+Because her INR was subtherapeutic we will discharge the patient on warfarin 7.5 mg daily with close follow up.
+Began to develop after Cr normalized s/p easing of diuretic regimen.
+#Code status: Patient was DNR/DNI at one point during hospitilization and then changed her mind to FULL CODE.
+# DYSLIPIDEMIA: The patient's statin was continued while in hospital.
+Dr [**Last Name (STitle) **] will follow up with this  Medications on Admission: Preadmission medications listed are correct and complete.
+Atorvastatin 20 mg PO DAILY 2.
+Benzonatate 200 mg PO TID:PRN cough 3.
+Clopidogrel 75 mg PO DAILY 4.
+Digoxin 0.125 mg PO DAILY 5.
+Losartan Potassium 12.5 mg PO DAILY 7.
+Torsemide 40 mg PO DAILY 8.
+Warfarin 2 mg PO DAILY16 9.
+Aspirin 81 mg PO DAILY 10.
+Docusate Sodium 100 mg PO BID 11.
+Metoprolol Succinate XL 12.5 mg PO DAILY 12.
+Spironolactone 25 mg PO DAILY   Discharge Medications: 1.
+Aspirin 325 mg PO DAILY RX *aspirin 325 mg 1 tablet(s) by mouth daily Disp #*30 Tablet Refills:*0 2.
+Atorvastatin 20 mg PO DAILY RX *atorvastatin 20 mg 1 tablet(s) by mouth daily Disp #*30 Tablet Refills:*0 3.
+Digoxin 0.125 mg PO EVERY OTHER DAY RX *digoxin 125 mcg 1 tablet(s) by mouth every other day Disp #*30 Tablet Refills:*0 4.
+Docusate Sodium 100 mg PO BID RX *Colace 100 mg 1 capsule(s) by mouth twice a day Disp #*30 Capsule Refills:*0 5.
+Spironolactone 25 mg PO DAILY RX *spironolactone 25 mg 1 tablet(s) by mouth daily Disp #*30 Tablet Refills:*0 6.
+Benzonatate 200 mg PO TID:PRN cough RX *benzonatate 200 mg 1 capsule(s) by mouth three times a day Disp #*30 Capsule Refills:*0 7.
+Torsemide 40 mg PO DAILY RX *torsemide 20 mg 2 tablet(s) by mouth daily Disp #*60 Tablet Refills:*0 8.
+DOBUTamine 5 mcg/kg/min IV DRIP INFUSION RX *dobutamine in D5W 250 mg/250 mL (1 mg/mL) 5 mcg/kg/min Infusion Disp #*12 Bag Refills:*0 9.
+Isosorbide Mononitrate (Extended Release) 60 mg PO DAILY RX *Imdur 60 mg 1 tablet(s) by mouth daily Disp #*30 Tablet Refills:*0 10.
+Lisinopril 5 mg PO DAILY please hold for SBP<100 RX *lisinopril 5 mg 1 tablet(s) by mouth daily Disp #*30 Tablet Refills:*0 11.
+Sarna Lotion 1 Appl TP QID:PRN itch RX *Anti-Itch 0.5 %-0.5 % Apply as needed prn Disp #*1 Bottle Refills:*0 12.
+Senna 1 TAB PO BID:PRN constipation RX *senna 8.6 mg 1 capsule by mouth twice a day Disp #*30 Capsule Refills:*0 13.
+Amiodarone 200 mg PO BID Afib Duration: 7 Days On [**7-17**], please take just ONE pill a day thereafter.
+RX *amiodarone 200 mg 1 tablet(s) by mouth twice a day Disp #*30 Tablet Refills:*0 15.
+Warfarin 7.5 mg PO DAILY16 RX *Coumadin 7.5 mg 1 tablet(s) by mouth daily Disp #*30 Tablet Refills:*0   Discharge Disposition: Home With Service  Facility: VNA Partners [**Name (NI) **] [**Name2 (NI) **]- Central intake  Discharge Diagnosis: Primary diagnosis: acute on chronic systolic heart failure exacerbation Secondary diagnosis: Ischemic cardiomyopathy   Discharge Condition: Mental Status: Clear and coherent.
+We gave you medications to remove the excess fluid that was causing you to be short of breath and gave you other medications to help improve your heart function.
+This required placement of a line through your neck to help us monitor your blood pressure parameters.
+You were admitted to the cardiac intensive care unit so that we could adjust your medications accordingly and you did well.
+Several of your medications are new or have changed: START: 1.
+Amiodarone 200 mg by mouth twice daily until [**2156-7-17**] where you will then take ONE pill a day thereafter 2.
+Isosorbide mononitrate 60 mg daily 3.
+Lisinopril 5 mg daily 4.
+Digoxin 0.125 g EVERY OTHER day.
+Warfarin 7.5 mg daily.
+Torsemide 40 mg daily (increased from 20 mg) 7.
+Dobumatine drip at 5 mg.  You have discussed with the infusion therapy team how to manage this medication  You will continue to take your spironolactone 25 mg daily  STOP taking these medications 1.
+Metoprolol 2.
+Losartan 3.
+Followup Instructions: Department: CARDIAC SERVICES When: TUESDAY [**2156-7-20**] at 1 PM With: ECHOCARDIOGRAM [**Telephone/Fax (1) 62**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage  Department: CARDIAC SERVICES When: TUESDAY [**2156-7-20**] at 2:00 PM With: [**First Name8 (NamePattern2) 1903**] [**Last Name (NamePattern1) 1904**], NP [**Telephone/Fax (1) 62**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage  Department: [**Hospital1 7975**] ST. HLTH CTR-KCSS When: WEDNESDAY [**2156-8-25**] at 12:00 PM With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 7978**], MD [**Telephone/Fax (1) 7980**] Building: [**Hospital1 7977**] ([**Location (un) 686**], MA) [**Location (un) **] Campus: OFF CAMPUS     Best Parking: Free Parking on Site

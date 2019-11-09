@@ -1,0 +1,33 @@
+Admission Date:  [**2117-7-4**]              Discharge Date:   [**2117-8-5**]  Date of Birth:  [**2065-6-17**]             Sex:   F  Service: MEDICINE  Allergies: All drug allergies previously recorded have been deleted  Attending:[**First Name3 (LF) 3561**] Chief Complaint: Altered mental status, septic shock  Major Surgical or Invasive Procedure: Intubation, central line placement, tunnelled line placement, deep tissue biopsy of thigh, CVVH, hemodialysis.
+Of note she was recently seen in her nephrology clinic on [**2117-6-30**] at which time her blood pressure was 150/90 with HR 68.
+In the ED, her initial vital signs were 104  140  60/palp 16 86% on 100%.
+A CXR, CT head/torso were done.
+Family History: Unremarkable  Physical Exam: T 99.9 HR  133 BP 74/37  RR 30  O2sat 100% vent: AC 450x20 PEEP 5 FIO2 0.7 PIP 16 GEN: intubated HEENT: AT, NC, PERRLA (4->2mm bilat), no conjuctival injection, anicteric, OP clear, MMM, Neck supple, no LAD, no carotid bruits.
+PSYCH: unable to assess   Pertinent Results: [**2117-7-4**] CXR - 1.
+[**2117-7-4**] CT torso - 1.
+[**2117-7-4**] CT head - Limited study without evidence of hemorrhage or mass effect.
+[**2117-7-6**] CT abdomen/pelvis: 1.
+[**2117-7-6**] CT Right lower extremity: 1.
+Left ventricular wall thicknesses and cavity size are normal.
+Overall left ventricular systolic function is severely depressed (LVEF= 20 %).
+There are no echocardiographic signs of tamponade.
+Overall left ventricular systolic function is normal (LVEF>55%).
+The pulmonary artery systolic pressure could not be determined.
+There are no echocardiographic signs of tamponade.
+# Septic shock: [**2-27**] serratia bacteremia presumably from GI source given pancolitis on CT abdomen/pelvis.
+Shock requiring max dose 4 pressors on presentation and she was initially started on broad spectrum antibiotics and stress dose steroids until blood cultures grew serratia bacteremia.
+Also cardiogenic in setting of sepsis as EF was severely depressed on initial echo obtained upon presentation to the ED (since normalized s/p treatment of sepsis).
+CT right LE was negative for fluid collection/abscess/air.
+General surgery and dermatology were consulted and deep tissue biopsy did not show e/o nec fasciitis however did also grow serratia to lesser degree than in blood.
+# Fungemia:  [**Female First Name (un) 564**] albicans grew from [**7-19**] blood cultures presumably from line source as initial cultures were drawn from tunnelled line.
+Surveillance cultures were monitored without subsequent growth after initial positive.
+She was started on coumadin, and the heparin gtt until INR [**2-28**].
+She did have bloody oral secretions but not enough to lose that amount of blood (23.5-->19).
+Her HCT remained stable.
+Repeat bronchoscopy did not show any areas of frank bleeding, and it was thought to be secondary to trauma from the tube.
+Her HCT remained stable.
+In the setting of fungemia, however, her tunnelled line was discontinued and her UOP continued to improve.
+Docusate Sodium 50 mg/5 mL Liquid [**Hospital1 **]: [**1-27**]  PO BID (2 times a day).
+Sodium Chloride 0.9%  Flush 10 mL IV PRN line flush Temporary Central Access-ICU: Flush with 10mL Normal Saline daily and PRN.
+Followup Instructions: Provider: [**First Name8 (NamePattern2) 610**] [**Last Name (NamePattern1) **], [**Name12 (NameIs) 1046**] Phone:[**Telephone/Fax (1) 1047**] Date/Time:[**2117-8-16**] 12:00 Provider: [**Name10 (NameIs) 251**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 6929**], MD Phone:[**Telephone/Fax (1) 1682**] Date/Time:[**2117-8-17**] 2:30 Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 658**], M.D.
+Phone:[**Telephone/Fax (1) 1690**] Date/Time:[**2117-9-14**] 11:30  Please follow up with [**Last Name (LF) 5059**], [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] in the next 2-4 weeks.

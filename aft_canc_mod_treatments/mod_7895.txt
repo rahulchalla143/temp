@@ -1,0 +1,55 @@
+Admission Date:  [**2187-5-14**]              Discharge Date:   [**2187-6-6**]  Date of Birth:  [**2104-6-21**]             Sex:   M  Service: MEDICINE  Allergies: indomethacin / Heparin Agents  Attending:[**Attending Info 90680**] Chief Complaint: shortness of breath  Major Surgical or Invasive Procedure: [**2187-5-19**] left internal jugular vein dialysis catheter placement   History of Present Illness: Mr. [**Known lastname 90678**] is an 82y/o gentleman with critical AS ([**Location (un) 109**] <0.8cm2), Afib on Coumadin, CHF (EF 30-35%), HTN, HLD, DM II, CKD IV (Cr ~4 baseline), and CML who presented to the ED with shortness of breath and hemoptsysis and has been found to have CHF exacerbation.
+During that stay, he was diuresed with IV Lasix and transitioned to 160mg PO BID.
+There have been ongoing outpatient discussions about TAVI vs AVR (he has seen Dr. [**Last Name (STitle) **] for consultation).
+Troponin 0.14, BNP [**Numeric Identifier 90682**].
+He received cefepime 2gm, vancomycin 1gm, furosemide 100mg IV ONCE, ASA 325mg PO ONCE.
+A foley catheter was placed, which drained 800cc and DNR/DNI status was confirmed.
+His systolic BP has been ~100 so lasix gtt has been on and off.
+REVIEW OF SYSTEMS: (+) Red urine (but only since the foley was placed last night) (-) No chest pain, palpitations, lightheadedness.
+CARDIAC HISTORY: -CABG: none -PERCUTANEOUS CORONARY INTERVENTIONS: none -PACING/ICD:none -CHF EF 45% -afib on Coumadin -severe AS (peak velocity 3.8m/sec, calc [**Location (un) 109**] 0.8cm2) -conduction system disease consisting both of sinus bradycardia with infrequent sinus pauses noted in [**2182**] up to 2.7 seconds in the frequent ventricular ectopy as well as short runs of supraventricular tachycardia.
+OTHER PAST MEDICAL HISTORY: -CKD stage IV (baseline ~4) -CML on hydroxyurea -gout -Hyperparathyroidism -CVA -Fe deficiency -BPH -GERD -Hepatitis  Social History: -Tobacco history: denies -ETOH: denies -Illicit drugs:   Family History: Non-contributory  Physical Exam: ADMISSION PHYSICAL EXAMINATION: VS: Tm 97.9/Tc 97.9, BP 100/60 (90-100)/(50-60), HR 85-90, RR 18, POx 94% 2L NC IN: 450cc OUT: 500cc GENERAL: Elderly gentleman sitting in chair, breathing comfortably HEENT: NCAT.
+U/A: [**2187-5-14**] 07:00PM URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.006 [**2187-5-14**] 07:00PM URINE Blood-SM  Nitrite-NEG Protein-NEG Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-TR [**2187-5-14**] 07:00PM URINE RBC-1 WBC-1 Bacteri-NONE Yeast-NONE Epi-0     URINE CULTURE (Final [**2187-5-20**]):       ENTEROCOCCUS SP..    10,000-100,000 ORGANISMS/ML..                                SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              ENTEROCOCCUS SP.
+There is a left IJ central venous catheter with distal lead tip in the brachiocephalic vein.
+A left internal jugular catheter tip remains at the confluence of the left brachiocephalic and SVC.
+KUB [**2187-5-23**]: FINDINGS:  Portable supine and upright frontal views of the abdomen demonstrate a nonspecific bowel gas pattern with gas in non-distended loops of small and large bowel.
+Brief Hospital Course: Mr. [**Known lastname 90678**] is an 82 year old gentleman with critical aortic stenosis (AS), Afib on Coumadin, chronic kidney disease (CKD) stage IV (Cr ~2.5 baseline), and chronic myelocytic leukemia (CML) who presented with acute on chronic systolic heart failure.
+He was thought not to be a candidate for any aortic valve procedures including balloon valvuloplasty and his kidneys did not tolerate diuretics for the heart failure exacerbation.
+He eventually expired on [**2187-6-6**] from a PEA arrest after having chest pain during hemodialysis earlier in the day, he was DNR/DNI so resuscitation was not attempted.
+He was started on IV lasix gtt, however diuresis was difficult due to his low blood pressure and his preload dependence from AS.
+His urine output declined and on HD#6 he was transferred to CCU for initiation of CVVH for volume removal (see below).
+His creatinine gradually increased from 2.7 on admission to 4.7 and BUN 110-120.
+The renal service was consulted and recommended trial of more aggressive diuresis with metolazone/lasix.
+His urine output did not improve and he was transferred to the CCU for placement of temporary dialysis line and CVVH.
+After discussions with Dr. [**Last Name (STitle) **] and family about no options for valve repair, he was trialed on intermittent HD.
+He was started on 10mg midodrine prior to dialysis and a tunnelled HD line was placed to allow for outpatient HD.
+Was continued on calcium TID, calcitriol daily, and sevalamer with meals.
+Kayexelate was used for hyperkalemia between HD sessions.
+He has been evaluated for his options to repair or replace aortic valve, including AVR, TAVI, or balloon angioplasty.
+The risks and benefits of valvuloplasty were discussed with the patient and his family, including likelihood that he would continue to be HD-dependent as well as risk of stroke.
+It was decided that he would not undergo balloon valvuloplasty and to transition to HD as above for fluid management.
+Later in the hospitalization, the family again pushed for balloon valvuloplasty and there were discussions with the interventional cardiologist about possible valvuloplasty however the patient developed HITT and these discussions were held.
+# Heparin-induced thrombosis and thrombocytopenia (HITT): After several days of heparin used for anticoagulation of afib as well as for dialysis, he developed thrombocytopenia.
+He was taken off heparin and started on argatroban to stop thrombosis from HITT as well as prophylaxis for his afib with CHADS2 score of 6.
+All further discussions for balloon valvuloplasty and peritoneal dialysis catheter placement were on hold pending HITT work-up.
+He was initially treated with PO vancomycin only because of his age, creatinine, and WBC count.
+However, his leukocytosis continued to worsen so IV flagyl was added to the regimen and his PO vancomycin dose was increased to 500 mg Q6h.
+When he continued to have rising leukocytosis on this regimen a repeat set of cultures was sent on all body fluids and his urine grew VRE (see below).
+The antibiotic steward recommended use fo tigecycline to dual treat VRE in the urine and C.diff.
+He was narrowed again to PO vancomycin 125 po q6 hours to complete a 14 day course following completion of 7 days of tigecycline 50 mg q12h for VRE in the urine.
+He was felt to be colonized with this pathogen because his urinalysis both times had 16 and then 3 WBCs, which would be expected to have a more robust pyuria if he was acutely infected.
+Nonetheless, because of rising leukocytosis, he was treated for VRE with tigecycline which would dual-cover his C.diff above.
+Nonetheless, his white count continued to rise even after clinical resolution of C.diff and with empiric treatment of VRE.
+His WBC gradually downtrended on hydroxyurea 1000 mg daily before reducing to 500mg daily in setting of thrombocytopenia.
+# Hematuria: Pt had hematuria during previous admission that required CBI and holding anticoagulation.
+Warfarin was restarted at [**Hospital **] rehab facility and pt had gross hematuria on admission.
+The urology service was consulted and recommended sending urine cytology and outpatient f/u with cystoscopy in [**12-25**] weeks after discharge.
+Rate was well controlled on home metprolol.
+INR was therapeutic on admission but warfarin was held for much of the admission while awaiting decisions on the aortic valve proceudres and for placement of dialysis catheters.
+He was maintained on heparin IV during this time with PTT 60-100.
+However, given concern for HITT later in hospital stay, patient was transitioned to argatroban infusion with the same target PTT.
+# Hypertension (HTN): Systolic blood pressures during admission were ranging from 70s-90s even on intermittent HD.
+His metoprolol was held due to low pressures and he was started on midodrine 10 mg MWF before HD sessions.
+# Hyperlipidemia (HLD): Continued Simvastatin # Diabetes mellitus, type 2 (DMT2): Diet controlled.
+Maintained on sliding scale insulin in house.
+# Insomnia/anxiety: Continued home Lorazapam 1mg HS PRN and quetiapine qhs.
+Transitional Issues: expired  Medications on Admission: 1) Lasix 120mg [**Hospital1 **] 2) Metoprolol 12.5mg PO BID 3) Simvastatin 40mg PO BID 4) Flonase 50mcg 1 spray Daily 5) Miralax 17gm daily 6) Prilosec 20mg PO daily 7) Senna 17.2mg PO daily 8) Colace 200mg PO BID 9) Renagel 1600mg PO TID with meals 10) Allopurinol 150mg PO daily 11) Aspirin 81mg PO daily 12) Calcitriol 0.25mcg PO daily 13) Warfarin 2mg daily  Discharge Medications: expired  Discharge Disposition: Expired  Discharge Diagnosis: Primary: Acute on chronic systolic heart failure--EF 30% Aortic stenosis Acute on chronic renal failure Hematuria  Secondary: Atrial fibrillation  Discharge Condition: expired  Discharge Instructions: expired  Followup Instructions: expired

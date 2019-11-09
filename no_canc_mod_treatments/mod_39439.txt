@@ -1,0 +1,66 @@
+Admission Date:  [**2102-10-10**]              Discharge Date:   [**2102-11-15**]  Date of Birth:  [**2043-6-18**]             Sex:   F  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**Doctor First Name 2080**] Chief Complaint: shortness of breath  Major Surgical or Invasive Procedure: Left groin exploration with proximal and distal thrombectomy ([**2102-10-10**]) Four-compartment fasciotomy of the left lower extremity ([**2102-10-10**]) Right internal jugular central venous line placement Left PICC placement ([**2102-11-6**]) Right subclavian central venous line placement ([**2102-11-7**]) Right chest tube placement ([**2102-11-7**]) Left PICC placement ([**2102-11-10**]) Right chest tube removal ([**2102-11-11**])   History of Present Illness: Ms. [**Known lastname **] is a 59 F with PMH anxiety and depression who was initially admitted on [**2102-10-10**] for ischemic left foot s/p heparinazation and thrombectomy with left leg fasciotomy.
+Was started on bactrim, as well as steroid taper.
+The patient frequently desatted while in the unit to the mid 80s in the context of taking off her nasal cannula or any physical activity.
+Her O2 sats improved with putting on NC and resting.
+The patient had an interesting affect in the unit and based on CD4 count, it was decided that brain imaging was indicated.
+Received 40 mg IV lasix on transit to ICU.
+PCP [**Name Initial (PRE) 11091**]: While she was there she was continued on her bactrim and prednisone taper for her PCP [**Name Initial (PRE) 1064**].
+ID was concerned about cryptococal meningitis, but the patient has been refusing LP.
+ID did not want to start HAART before cryptococal was ruled out because of [**Doctor First Name **].
+Anxiety  Social History: Ceased tobacco use 12 weeks ago, formerly smoked 1 ppd x 30 years, denies EtOH consumption, and denies recreational drug use    Family History: No history of lung or heart disease   Physical Exam: ADMISSION PHYSICAL EXAM: T: 98.2  P: 93  BP: 114/57  RR: 18  O2sat: 100% on RA General: awake, alert, NAD HEENT: NCAT, EOMI, anicteric, teeth stained red from red italian ice consumed earlier Heart: RRR Lungs: normal excursion, no respiratory distress Abdomen: soft, NT, ND Pelvis: deferred Neuro: decreased movement/sensation in L foot Extremities: RLE WWP, cyanotic and mottled L foot from ankle down with tenderness and prolonged capillary refill, palpable B radial/femoral/popliteal, palpable R DP/PT, non-dopplerable L DP/PT Skin: cool/mottled L foot Pyschiatric: flat affect .
+Abdomen: soft, nontender, nondistended Ext: Left LE: necrotic distal metatarsals, sutures in place on medial and lateral left shin: healing well Neuro: alert, oriented x3, CNs [**1-14**] grossly intact  Pertinent Results: ADMISSION LABS: [**2102-10-10**] 04:15PM BLOOD Neuts-91.6* Lymphs-5.3* Monos-1.8* Eos-1.3 Baso-0.1 [**2102-10-10**] 04:15PM BLOOD PT-13.3 PTT-27.2 INR(PT)-1.1 [**2102-10-27**] 09:13PM BLOOD  WBC-9.6 Lymph-3* Abs [**Last Name (un) **]-288 CD3%-55 Abs CD3-158* CD4%-4 Abs CD4-11* CD8%-51 Abs CD8-147* CD4/CD8-0.1* [**2102-10-10**] 04:15PM BLOOD Glucose-85 UreaN-20 Creat-0.6 Na-140 K-3.4 Cl-109* HCO3-22 AnGap-12 [**2102-10-10**] 04:15PM BLOOD ALT-20 AST-59* AlkPhos-95 TotBili-0.2 [**2102-10-10**] 09:23PM BLOOD ALT-20 AST-68* CK(CPK)-1068* AlkPhos-90 [**2102-10-10**] 04:15PM BLOOD Lipase-30 [**2102-10-10**] 04:15PM BLOOD cTropnT-<0.01 [**2102-10-10**] 09:23PM BLOOD CK-MB-22* MB Indx-2.1 cTropnT-<0.01 [**2102-10-11**] 03:09AM BLOOD CK-MB-33* MB Indx-2.1 cTropnT-<0.01 [**2102-10-10**] 09:23PM BLOOD Calcium-7.5* Phos-3.5 Mg-1.6 [**2102-10-11**] 11:31AM BLOOD calTIBC-109* TRF-84* [**2102-11-4**] 11:40AM BLOOD Triglyc-276* HDL-53 CHOL/HD-3.8 LDLcalc-92 LDLmeas-109 [**2102-10-27**] 01:57AM BLOOD HBsAg-NEGATIVE HBcAb-NEGATIVE [**2102-10-27**] 09:13PM BLOOD HIV Ab-POSITIVE * [**2102-10-27**] 01:57AM BLOOD HCV Ab-NEGATIVE [**2102-10-10**] 06:49PM BLOOD Type-ART pO2-121* pCO2-51* pH-7.26* calTCO2-24 Base XS--4 Intubat-INTUBATED [**2102-10-10**] 06:49PM BLOOD Glucose-117* Lactate-1.3 Na-136 K-2.7* Cl-109* [**2102-10-10**] 06:49PM BLOOD freeCa-1.12 [**2102-10-24**] galactomannan negative [**2102-10-24**] beta D glucan 327 .
+COMPARISONS: MR brain of [**2102-11-3**] and CT brain of [**2102-11-4**]  TECHNIQUE: MDCT-acquired contiguous images through the brain were obtained without intravenous contrast at 5-mm slice thickness.
+Subclavian central venous line, evaluate pneumothorax.
+TECHNIQUE: Multidetector helical scanning of the chest was performed without the indication for intravenous contrast [**Doctor Last Name 360**], read in conjunction with conventional chest radiographs as recent as 2:20 p.m. on [**11-7**] and a preceding chest CT on [**10-24**].
+An endotracheal tube is in standard position.
+Nasogastric tube passes to the mid stomach, the lowest level of imaging.
+ACTIVE ISSUES: ============== # Respiratory failure: Required multiple intubations and admissions to ICU.
+There may also have been CMV pneumonia as well given CMV antigen from BAL.
+-- Completed 21 day course of bactrim and steroids -- Will continue additional 5 days of steroids to taper -- Will start prophylactic dose Bactrim after therapy is completed .
+# Health Care Associated Pneumonia: Developed late in course of hosptilazation and required reintubation but responded rapidly to antibiotics.
+# Diarrhea: Extensive workup for stool pathogens was unremarkable.
+Given that patient had CMV viremia and severe diarrhea in the setting of CD4 count of 11, the patient was started on treatment for CMV colitis.
+-- 3-6 weeks of Gancicyclovir IV with duration to be determined at ID follow-up with Dr. [**Last Name (STitle) **] -- PRN loperamide now that most infectious causes ruled out.
+Multiple causes may be contributing including acute illness, suppression from virus (CMV, HIV) or medications (antivirals, bactrim).
+CD4 count 11.
+Patient was started on HAART with darunavir, ritonavir and truvada.
+Will be followed-up by Dr. [**Last Name (STitle) **] with medication changes made if neccessary.
+-- continue prophylaxis with azithromycin and bactrim .
+-- 3-6 weeks of Gancicyclovir IV with duration to be determined at ID follow-up with Dr. [**Last Name (STitle) **] .
+Most likely toxic/metabolic encephalopathy from severe illness that improved with treatment of underlying conditions.
+- Home dose of sertraline was increased to 150mg daily - Aripiprazole 2mg daily was added as adjunctive therapy - Home clonazepam was stopped - Patient will need outpatient follow-up after resolution of acute illness .
+Testing for acquired predispositions to arterial thrombosis was unremarkable.
+# HSV2 vesicles: Improved with antivirals -- There should be less chance of reactivation with initiation of HAART -- Gancyclovir also provides coverage for HSV2 .
+# Limb ischemia: s/p thrombectomy for ischemic left foot and fasciotomy caused by an acute arterial thrombus.
+-- Patient non-weight bearing on the left -- continue heparin gtt for bridge to coumadin.
+Discharge INR 2 after receiving 3 mg warfarin x 3 days.
+Please monitor INR closely and adjust warfarin as necessary.
+Her sensitivity to warfarin at discharge was high, requiring a very low dose.
+Complication of subclavian line placement.
+Patient had chest tube placed, which was removed on [**2102-11-10**].
+While inpatient she was aspirating initially and therefore had a NG tube placed for feeding.
+Most likely the etiology is her severe underlying illness including AIDS and the other superimposed infections causing increased caloric needs and decreased appetite.
+- Studies pending at discharge: HIV genotyping  Medications on Admission: Sertraline Clonazepam  Discharge Medications: 1. aripiprazole 1 mg/mL Solution [**Telephone/Fax (1) **]: Two (2) mg PO DAILY (Daily).
+2. sertraline 50 mg Tablet [**Telephone/Fax (1) **]: Three (3) Tablet PO DAILY (Daily).
+3. warfarin 1 mg Tablet [**Telephone/Fax (1) **]: One (1) Tablet PO Once Daily at 4 PM: Goal INR [**1-5**].
+4. heparin (porcine) in D5W 25,000 unit/250 mL Parenteral Solution [**Month/Day (3) **]: One (1) gtt Intravenous ASDIR (AS DIRECTED): D/C when INR stabilized in therapeteutic range.
+5. miconazole nitrate 2 % Cream [**Month/Day (3) **]: One (1) Appl Topical [**Hospital1 **] (2 times a day) as needed for ITCH/FUNGAL RASH.
+6. lidocaine-prilocaine 2.5-2.5 % Cream [**Hospital1 **]: One (1) Appl Topical [**Hospital1 **] (2 times a day) as needed for pain.
+7. emtricitabine-tenofovir 200-300 mg Tablet [**Hospital1 **]: One (1) Tablet PO DAILY (Daily).
+8. darunavir 400 mg Tablet [**Hospital1 **]: Two (2) Tablet PO DAILY (Daily).
+9. ritonavir 80 mg/mL Solution [**Hospital1 **]: One Hundred (100) mg PO DAILY (Daily).
+10. sulfamethoxazole-trimethoprim 200-40 mg/5 mL Suspension [**Hospital1 **]: Ten (10) ML PO once a day.
+11. azithromycin 600 mg Tablet [**Hospital1 **]: Two (2) Tablet PO 1X/WEEK (TU).
+12. ganciclovir sodium 500 mg Recon Soln [**Hospital1 **]: Three Hundred (300) mg Intravenous Q12H (every 12 hours).
+13. prednisone 5 mg/mL Concentrate [**Hospital1 **]: Twenty (20) mg PO DAILY (Daily) for 5 days: last dose 12/19.
+14. loperamide 2 mg Capsule [**Hospital1 **]: One (1) Capsule PO QID (4 times a day) as needed for diarrhea.
+15. lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: One (1) Tablet,Rapid Dissolve, DR [**Last Name (STitle) **] DAILY (Daily) for 5 days: Last dose [**2102-11-20**].
+16. morphine 2 mg/mL Syringe [**Month/Day/Year **]: 1-2 mg Injection Q4H (every 4 hours) as needed for pain.
+Discharge Disposition: Extended Care  Facility: [**Hospital **] Hospital for [**Hospital 91030**] Medical Care  Discharge Diagnosis: Primary Diagnoses: Acquired Immune Deficiency Syndrome Pneumocystis [**Hospital **] Hospital Acquired Pneumonia Arterial Thrombus Distal Left Foot Infarction Right Occipital Stroke Cytomegalovirus Viremia CMV Colitis (not confirmed by biopsy) Pneumothorax HIV retinopathy  Secondary Diagnoses: Anemia HSV-2 Ulcers Depression Anxiety   Discharge Condition: Mental Status: Clear and coherent.
+During an operation for this, you developed difficulty breathing and were eventually diagnosed with pneumocystis pneumonia.
+Your pneumocystis pneumonia was treated with a course of antibiotics and steroids.
+During your stay, you also developed a secondary bacterial pneumonia which was treated with an additional course of antibiotics.
+Once your acute issues were stabilized and you were able to take oral medications, treatment for your HIV infection was also started.
+You will need eventual followup with Vascular Surgery for surgical treatment of your ischemic foot, likely with an amputation.
+Your home medication regimen was significantly changed during your stay.
+You should refer to your discharge medication sheet for your new medication regimen and dosing instructions.

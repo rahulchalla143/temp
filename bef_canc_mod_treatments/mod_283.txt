@@ -1,0 +1,35 @@
+Admission Date:  [**2168-1-26**]              Discharge Date:   [**2168-1-28**]   Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**Doctor First Name 1402**] Chief Complaint: VTach, AICD firings  Major Surgical or Invasive Procedure: ventricular tachycardia ablation   History of Present Illness: Mr. [**Known lastname **] is an 89 year old gentleman with PMH significant for HTN, dyslipidemia, CAD s/p CABG in [**2156**] (LIMA-LAD, SVG-D1, SVG-ramus, SVG-PDA), remote history of VF arrest in [**2151**] s/p AICD, hospitalization in CCU in [**7-/2167**], [**Hospital Unit Name 196**] [**8-/2167**] due to multiple AICD firings, paroxysmal atrial fibrillation, history of endovascular AAA repair who presented to [**Hospital6 20592**] earlier this AM after his ICD fired 8 times.
+He received IV amiodarone load, started on an amiodarone gtt, and also IV Lidocaine x 1.
+Per Dr.[**Name (NI) 20593**] last note in [**Month (only) 359**], he was decreased to amiodarone 200-mg/day, and he remained on mexillitine.
+On review of systems, he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.
+Cardiac review of systems is notable for absence of chest pain, dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope.
+Past Medical History: -CAD s/p CABG in [**2156**] (LIMA-LAD, SVG-D1, SVG-ramus, SVG-PDA) PACING/ICD: -Paroxysmal atrial fibrillation -AICD place in [**2151**] after an episode of VFib arrest -Recently admitted to CCU for recurrent ventricular tachycardia successfully terminated by ICD; started on amiodarone - chronic renal insufficiency (baseline Cr 1.3) - AAA s/p endovascular repair in [**2163**] - s/p cholecysectomy - s/p TURP - chronic anemia (early myelodysplasia), s/p 2 units of pRBC about 2 months ago  Social History: -Live with wife.
+Biosense mapping of the LV performed, after the administration of IV heparin, via a retrograde aortic approach using a long sF sheath.
+Extensive mapping of the LV and an area with a mid-diastolic potential and perfect entrainment was found in the basal region of the LV at 4-5 oclock on the mitral annulus.
+Ablation was performed in that area and resulted in termination of the VT.  A total of 3 RF applications were performed.
+Post ablation repeat EPS with double VES were delivered without induction of VT .
+Conclusion: Successful ablation of V-tach from basal left ventricle  Brief Hospital Course: Mr. [**Known lastname **] is an 89 year old gentleman with PMH significant for HTN, dyslipidemia, CAD s/p CABG in [**2156**] (LIMA-LAD, SVG-D1, SVG-ramus, SVG-PDA), remote history of VF arrest in [**2151**] s/p AICD, hospitalization in CCU in [**7-/2167**], [**Hospital Unit Name 196**] [**8-/2167**] due to multiple AICD firings, paroxysmal atrial fibrillation on coumadin, history of endovascular AAA repair who presented to [**Hospital6 17032**] earlier this AM after his ICD fired 8 times due to Monomorphic VT 120s, now s/p ablation.
+He was continued on Metoprolol 25 [**Hospital1 **] (increased from prior Toprol XL dose of 25 mg daily), and amiodarone 300 mg once daily, which was decreased back to 200mg daily on discharge.
+We continued home pravastatin, aspirin, and increased beta blocker dose of 25mg [**Hospital1 **], which was converted to Toprol- XL 50mg daily on discharge.
+# AFib: Pt remained rate controlled in-house on with metoprolol 25 mg [**Hospital1 **] (increased from home Toprol XL dose of 25 mg).
+Coumadin initially held secondary to supratherapeutic INR of 3.3 which normalized to 2.6 on discharge.
+He was instructed to continue his coumadin at his home dose.
+He was provided with prescription for an INR check in 1 week.
+Home Lasix was held in-house as Cr was elevated above baseline, but restarted on discharge.
+His Toprolol was increased as above.
+Increased metoprolol as above.
+We held his home lasix in-house, but was instructed to restart at home.
+He was given a prescription for electrolyte/creatinine check in 1 week  Medications on Admission: Amiodorone 200mg daily if SBP > 90 Metoprolol 25 mg XL if SBP > 90 Pravastatin 20mg daily Coumadin, 5mg Wed 2.5 mg the rest of the wk Ascorbic acid 500mg [**Hospital1 **] Folic acid 2.5mg daily multivitamins 1 tablet daily Vitamin B6 50mg daily Lasix 40mg daily ASA 81mg daily Mexilitine 150 daily per outpt EP note  Discharge Medications: 1. multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. ascorbic acid 500 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+3. pyridoxine 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+4. folic acid 1 mg Tablet Sig: 2.5 Tablets PO DAILY (Daily).
+5. pravastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+6. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+7. acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day) as needed for pain/sleep.
+8. furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+9. warfarin 2.5 mg Tablet Sig: One (1) Tablet PO once a day: Tkae 2 tablets on Wednesday.
+Outpatient Lab Work Please have Chem-7 and INR checked on Tuesday [**2-2**] at Dr. [**Name (NI) 20596**] office 11. amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+12. metoprolol succinate 50 mg Tablet Sustained Release 24 hr Sig: One (1) Tablet Sustained Release 24 hr PO once a day.
+Keep your amiodarone at 200 mg 2.
+Stop taking Mexilitine 3.
+Increase Metoprolol to 50 mg daily .

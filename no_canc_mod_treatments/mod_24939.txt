@@ -1,0 +1,55 @@
+Admission Date:  [**2159-4-15**]              Discharge Date:   [**2159-4-20**]  Date of Birth:  [**2094-3-15**]             Sex:   F  Service: MEDICINE  Allergies: Penicillins / Cefepime / Bactrim / Imipenem  Attending:[**Last Name (NamePattern1) 13129**] Chief Complaint: STEMI  Major Surgical or Invasive Procedure: Cardiac Cathiterization  History of Present Illness: 65 year old femal with known 3V CAD s/p stent to LCX in [**2154**] with ischemic cardiomyopathy and EF 25% h/o of cardiogenic [**Year (4 digits) **], 2+MR, PHTN, atrial fibrillation (not anti-coagulated) with multiple medical problems and wheel chair bound who presented with a STEMI.
+On review of systems, s/he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.
+Cardiac review of systems is notable for absence of chest pain, dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope.
+She was given ASA 325 mg PO daily, Heparin 5000 units, Plavix 600 and Integrilin 6.2 ml  Past Medical History: -Syncope 3yrs ago  .
+PAST MEDICAL HISTORY: -Coronary Artery Disease (3VD, not a surgical candidate, s/p stent to LCX in [**12/2154**]) -CHF, h/o cardiogenic [**Last Name (LF) **], [**First Name3 (LF) **] 20-30% -Severe MR, moderate TR -Atrial fibrillation on amiodarone -Syncope 3yrs ago -Neck pain, eval in 2/99 at [**Hospital1 336**] with some fibromyalgia points, occured after viral syndrome -Iron deficient Anemia -Fibromyalgia -Diverticulosis -Internal Hemorrhoids -Osteopenia -Cluster A personality (schizoid) with question underlying dementia, court order for her to be DNR/DNI -Gastritis -Bursitis -Adrenal adenoma   Social History: Patient lives in [**Hospital 11851**] healthcare.
+Cath Notes: 170 cc contrast/ SBP 117/64 MAP 84 LMCA: NL LAD: diffuse proximal and mid disease 50-70% LCX: proximal mid stents widely patent RCA: proximal tortuous 80% stenosis, mid total occlusion  ASA 325 daily, Plavix > 6 months, Cardiac Echo.
+The left kidney measures 9.1 cm.
+MRI: FINDINGS: THORACIC SPINE: The thoracic vertebral body alignment, heights and marrow signal are maintained.
+LUMBAR SPINE: The lumbar vertebral body alignment, heights and marrow signal are maintained.
+Facet arthrosis and ligamentum flavum infolding along with the disc bulge results in mild spinal canal narrowing and mild right neural foraminal narrowing.
+If clinically indicated, post-contrast imaging can be repeated with patient co-operation.
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              ESCHERICHIA COLI                              | AMIKACIN--------------   <=2 S AMPICILLIN------------  =>32 R AMPICILLIN/SULBACTAM--     8 S CEFAZOLIN-------------   <=4 S CEFEPIME--------------   <=1 S CEFTAZIDIME-----------   <=1 S CEFTRIAXONE-----------   <=1 S CIPROFLOXACIN---------<=0.25 S GENTAMICIN------------  =>16 R MEROPENEM-------------<=0.25 S NITROFURANTOIN--------  <=16 S TOBRAMYCIN------------     8 I TRIMETHOPRIM/SULFA----  =>16 R   Brief Hospital Course: Ms. [**Known lastname 65370**] is a 65 year old female with a history of 3V CAD s/p stent to LCX in [**2154**] with ischemic cardiomyopathy and EF 25% h/o of cardiogenic [**Year (4 digits) **], 2+MR, PHTN, atrial fibrillation (not anti-coagulated) with multiple medical problems and wheel chair bound who presented with a STEMI with subsequent development of Sepsis [**1-24**] UTI complicated by [**Last Name (un) **], non-anion gap acidosis, hematemesis secondary to a presumed stress ulcer, and eosinophilia with marked erythema from a drug rash.
+Transition Issues: - CBC and Chem 7 need to be monitored closely - Anti-hypertensives and diuretics were held at discharge and need to be restarted carefully pending improvement of blood pressure and creatinine .
+She was not initially placed on a beta blocker or ACE due to the development of sepsis from a UTI.
+She was admitted briefly to the CCU for hypotension secondary to her sepsis, but upon arrival to the floor and volume resuscitation she was started on a beta blocker.
+She was not started on an ACE due to persistent [**Last Name (un) **].
+Prior to discharge she was kept on Metoprolol, ASA 325, Plavix 75 daily and Atorvastatin 40 mg daily (decreased due to amio).
+When she spiked a fever on day #2 of admission she was also started on clindamycin.
+When her cultures returned with the aforementioned speciation, her antibiotics were narrowed to PO cipro.
+She was give a 2 week course of antibiotics given her history of recurrent UTI.
+The patient was placed on a protonix drip and then transitioned to PO protonix [**Hospital1 **].
+Because the patient had been started on aspirin and plavix for her STEMI and BMS, and her desire to have only one EGD and one Colonoscopy, it was felt that she should have the procedures as an outpatient when GI could intervene if they found a polyp.
+Due to her [**Last Name (un) **] she was not started on her diruetics at the time of discharge but should be readdressed following her discharge.
+She presented with a mild elevation in her gap that resolved with IVF and treatment of her infection.
+7) Peripherial Eosinophilia/Body Erythema: As mentioned above, she has a peripherial eosinophilia with normal LFT's w/o evidence of DRES.
+The only new medication added during admission was Iron sulfate, which could percipitate her drug reaction, although she was on lasix and iron sulfate prior to admission.
+However, her hyponatremia resolved after the administration of IV fluids in the setting of her sepsis.
+10) Back pain, Dejenerative Joint Disease without compression: The patients back pain continues to persist despite long acting morhpine, lidocaine patches, and hot packs.
+11) Fibromyalgia: She was restarted on her long acting morphine after she was admitted to the ICU for sepsis.
+She was also given lidocaine and warm packs for her pain.
+She was continued on Haldol 1 mg PO qHS.
+CODE: FULL   Medications on Admission: Aldactone 25 mg PO daily Aspirin 81 mg PO dilay Amiodarone 200 mg PO daily Colace 200 mg PO daily Ferrous Sulfate Oral Elixir 220 (44 Fe) MG/5mL  5 mL PO BID Flonase 50 mcg/dose 1 spray [**Hospital1 **] Lasix 80 mg PO daily Haldol 1 mg qHS Klor-Con 20 meq daily Levoxyl 25 mcg daily Ms Contin 30 mg PO BID Multivitamin daily Plavix 75 mg PO daily Prilosex 40 mg PO dilay Procrit Injection 20,000 MWF Senna 2 tabs PO daily Vitamin C 500 mg PO daily Lisinopril 2.5 mg PO daily Simvastatin 10 mg PO daily Allopurinol 100 mg PO daily Abluterol q4H PRN wheezing/respiratory distress Iprotropium q4H PRN wheezing/respiratory distress Benadryl 12.5 mg PO q8H PRN itch Calcium Caronate 1000 mg PO q4H: PRN Compazine 10 mg PO q8H PRN: nausea Dulcolax REctal Suppository 10 mg PR: PRN constpiation Fleet Enema: daily PRN constipation   Discharge Medications: 1. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+3. amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+4. levothyroxine 25 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+5. haloperidol 0.5 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime).
+6. allopurinol 100 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+7. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1)  Inhalation Q6H (every 6 hours) as needed for shortness of breath.
+8. ipratropium bromide 0.02 % Solution Sig: One (1)  Inhalation Q6H (every 6 hours).
+9. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every 6 hours) as needed for pain.
+10. morphine 15 mg Tablet Extended Release Sig: One (1) Tablet Extended Release PO Q12H (every 12 hours).
+11. atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+12. pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+13. hydroxyzine HCl 25 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+14. senna 8.6 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day).
+15. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+16. ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours) for 10 days: Last dose [**2159-4-28**].
+17. polyethylene glycol 3350 17 gram/dose Powder Sig: One (1) PO DAILY (Daily).
+18. heparin (porcine) 5,000 unit/mL Solution Sig: One (1) Injection TID (3 times a day).
+19. metoprolol tartrate 25 mg Tablet Sig: 0.5 Tablet PO TID (3 times a day).
+You were given medicatoins to help thin your blood and you had a stent placed in your coronary arteries.
+You were placed on antibiotics and medications that help prevent your stomach from bleeding.
+You also developed diffuse redness across your body which may be due to a reaction to a medication you received.
+The following medication changes were made: ADDED: Protonix, Hydroxyzine, Ciprofloxacin, Metoprolol, Zofran STOPPED: Aldactone, Lisonpril, Lasix, Ferrous Sulfate, Procrit, Vitamin C, Klor-Con, Flonase CHANGED: Aspirin  Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more than 3 lbs.
+He should arrange for you to have an EGD and a colonoscopy once you are no longer on plavix therapy.

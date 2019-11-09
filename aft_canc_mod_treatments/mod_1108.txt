@@ -1,0 +1,28 @@
+Admission Date:  [**2190-1-16**]              Discharge Date:   [**2190-1-21**]   Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**Last Name (NamePattern4) 290**] Chief Complaint: GI bleed, AAA, pneumomediastinum, [**Doctor First Name **] [**Doctor Last Name **] tear, L hip fx  Major Surgical or Invasive Procedure: ORIF [**2190-1-20**] with Dr. [**Last Name (STitle) **]   History of Present Illness: 86 M w/ pmh of CAD s/p CABG, HTN, PMR on chronic steroids, known AAA, osteoporosis, prostate CA who presented to BINeedham on [**1-14**] after fall resulting in L hip pain.
+Pt stated he was in his USOH on [**1-14**] when he slipped and fell on the ice in his back yard, landing on his left hip and left elbow.
+He denied preceeding symptoms including chest pain, SOB, lightheadedness or palpitations.
+He was found to have a left intertrochanteric fracture on plain film.
+He remained HD stable and maintained on nexium IV.
+He was started on Zosyn for the pneumomediastinum and kept NPO.
+Slight HA, no vision changes (other than related to cataract surgery 4 days ago).
+Past Medical History: R eye cataract surgery on [**1-12**] CAD s/p MI and CABG (per grandson there was an episode of AF perioperative requiring transient coumadin/dig in [**2179**]) L CEA [**2179**] AAA (5cmx5.4 at BINeedham) Prostate Ca x ~1 year HTN PMR on chronic steroids Osteoporosis GERD Hyperlipidemia Hypothyroidism   Social History: The patient lives with his daughter in a home.
+Recommend followup to resolution in [**3-6**] weeks after appropriate antibiotic treatment.
+-pt on diltiazem drip, transitioned to PO metoprolol for rate control -TTE showed nl LV function, LA not enlarged -Pt on heparin gtt with transition to coumdin.
+Started on heparin overnight both for AF and suspicion of PE.
+-heparin gtt, transitioned to coumadin -LENIs showed no DVT  #UGIB.
+Underwent EGD which showed 2 small non-bleeding AVMs in bulb, [**Doctor First Name 329**]-[**Doctor Last Name **] tear with protruding vessel in distal esophagus, non-bleeding, was injected with epi and cauterized.
+Pt was started on IV PPI and kept NPO.
+Pt remained HD stable.
+Will follow up with Dr. [**Last Name (STitle) **] in 2 weeks for f/u x-rays and suture removal.
+Had NGT tube placed at OSH for decompression in setting of abd distention and dilated loops of bowel on CT scan.
+Pt s/p rectal decompression overnight with lactulose enema and rectal tube with significant decrease in abd distention and discomfort.
+# CAD:History of MI with CABG [**2179**].
+-pt had been holding asa since before [**1-12**] for eye surgery.
+Pt to continue vancomycin for 7 day course.
+# Code Status:Per discussion with HCP pt is [**Name (NI) 835**] not DNR  # Communication HCP is daughter and grandson, 1st call: [**Doctor First Name **] [**Doctor First Name **] (RN at [**Company 2860**]) Cell # [**Telephone/Fax (1) 23235**] home [**Telephone/Fax (1) 23236**] office [**Telephone/Fax (1) 23237**]  2nd call: Daughter [**First Name8 (NamePattern2) 622**] [**Known lastname 7710**] (out of town at the moment) [**Telephone/Fax (1) 23238**]  [**Name (NI) **] [**Name (NI) 23239**], [**First Name3 (LF) **] in law, [**Telephone/Fax (1) 23240**].
+Medications on Admission: Medications: (on admission to [**Location (un) 620**]) Prednisone 2 mg [**Hospital1 **] Vit D 400 IU Tums 1 tab daily Diltiazem 120 mg daily Lipitor 10 mg daily ASA 81 mg daily (had been holding for cataract surgery) Prilosec 20 mg daily Paxil 2.5 mg [**Hospital1 **] Fosamax 70 mg q Friday Iron 325 daily Levothyroxine 25 mcg daily Ofloxacin 0.3% 1 drop R eye qid Econopred 1% eyedrops R eye 6X per day Diclofenac 0.1% 1 drop R eye [**Hospital1 **]   Discharge Disposition: Extended Care  Facility: [**Hospital6 459**] for the Aged - MACU  Discharge Diagnosis: Primary diagnosis: Left intertrochanteric hip fracture Upper GI bleed Atrial fibrillation Abdominal aortic aneurysm Bacteremia Secondary diagnoses: Gastroesophageal reflux Polymyalgia rheumatica Hypothyroidism Prostate CA Hyperlipidemia   Discharge Condition: Stable   Discharge Instructions: You were admitted after a hip fracture, you also had an episode of bleeding from your esophagus as well as a rapid irregular heart rate and an infection in your blood.
+Please take all medications as prescribed.
+You were started on a medication called coumadin or warfarin which is an anticoagulant for your atrial fibrillation, you will need to have your blood checked in 3 days to monitor these levels and dose your coumadin accordingly.
+You are on an IV antibiotic for your infection, you should take this for a total of 7 days.
+Please call your doctor or return to the emergency room if you experience bleeding, any chest pain, fevers, increased shortness of breath or for any other concerning symptoms.
+Followup Instructions: Please call your primary physician for an appointment within 2 weeks of discharge: Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] [**Telephone/Fax (1) 17753**]  Please call your orthopedic surgeon Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] for a follow up appointment in two weeks for suture removal and follow up x-rays.

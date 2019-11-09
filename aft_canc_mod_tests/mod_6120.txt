@@ -1,0 +1,32 @@
+Admission Date:  [**2126-10-21**]              Discharge Date:   [**2126-11-8**]  Date of Birth:  [**2058-6-18**]             Sex:   F  Service: MEDICINE  Allergies: Keppra / Dilantin / Lamictal / Toprol Xl / Enoxaparin  Attending:[**First Name3 (LF) 3276**] Chief Complaint: Altered Mental Status  Major Surgical or Invasive Procedure: None  History of Present Illness: Ms. [**First Name8 (NamePattern2) **] [**Known lastname 11923**] is a very nice 68 YO woman with h/o HTN, NSCLC metastatic to the brain who initially presented to [**Hospital1 20004**] with altered mental status, a HR of 120 and SBP in the 90s.
+Physical Exam: Physical Exam: Temp HR 135 BP 99/60 RR 16  SpO2 99% on 3L NC General: NAD, AOX3 HEENT: MMM, OP CLEAR, JVP to earlobe at 45 degrees Heart: tachycardic, regular rhythm, no m/r/g.
+Lungs: Bibasilar ronchi with occasional wheezes most notable on the LL lung field Abdomen: BS+, soft, NT, ND, No masses or organomegaly Extremities: WWP, no c/c/e, no calf tenderness or palpable cords Neuro:  AOx3, CN2-12 normal, [**6-3**] stregnth in all 4 extremities: UE: deltoid, bicep, tricep, wrist flex / ext, grip stregnth, LE: quad, ham, dorsiflexion, plantarflexion, abduction Skin:  Diffuse erythematous patch on back, blanching, no papules or excoriation  Pertinent Results: On Admission: [**2126-10-21**] 02:00PM   WBC-7.1# RBC-3.67* HGB-10.4* HCT-32.4* MCV-88 MCH-28.4 MCHC-32.2 RDW-18.2* [**2126-10-21**] 02:00PM   NEUTS-70 BANDS-19* LYMPHS-4* MONOS-5 EOS-2 BASOS-0 ATYPS-0 METAS-0 MYELOS-0 NUC RBCS-1* [**2126-10-21**] 02:00PM   HYPOCHROM-1+ ANISOCYT-2+ POIKILOCY-1+ MACROCYT-NORMAL MICROCYT-NORMAL POLYCHROM-NORMAL SPHEROCYT-OCCASIONAL OVALOCYT-OCCASIONAL TEARDROP-OCCASIONAL [**2126-10-21**] 02:00PM   PLT SMR-NORMAL PLT COUNT-166 [**2126-10-21**] 02:00PM   PT-13.9* PTT-23.9 INR(PT)-1.2* [**2126-10-21**] 02:00PM   GLUCOSE-175* UREA N-16 CREAT-0.6 SODIUM-139 POTASSIUM-3.4 CHLORIDE-105 TOTAL CO2-21* ANION GAP-16 [**2126-10-21**] 02:09PM   GLUCOSE-169* LACTATE-3.4* NA+-139 K+-3.4* CL--106 TCO2-21 [**2126-10-21**] 02:10PM URINE  COLOR-Amber APPEAR-Clear SP [**Last Name (un) 155**]-1.024 [**2126-10-21**] 02:10PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.0 LEUK-NEG [**2126-10-21**] 02:10PM URINE  RBC-0-2 WBC-0-2 BACTERIA-MOD YEAST-NONE EPI-0-2 [**2126-10-21**] 02:10PM URINE  MUCOUS-MOD [**2126-10-21**] 02:00PM   CK(CPK)-24* [**2126-10-21**] 02:00PM   CK-MB-NotDone cTropnT-0.15* .
+CT Head [**2126-10-21**]: No acute intracranial hemorrhage.
+Please note, CT is not as sensitive as MRI in the detection of intracranial lesions or metastasis.
+ECG [**2126-10-21**]: Sinus tachycardia.
+CXR [**2126-10-21**]: Large left lung mass.
+CTA Chest [**2126-10-21**]: 1.
+Echo [**2126-10-22**]:  Right ventricular cavity enlargement with free wall hypokinesis with pulmonary artery hypertension probable main pulmonary artery thrombus c/w pulmonary embolism.
+CXR [**2126-10-22**]: Since yesterday, mild bibasal atelectasis slightly increased.
+CXR [**2126-10-23**]: No significant interval change was demonstrated.
+The bilateral hilar enlargement might represent pulmonary hypertension due to massive pulmonary embolism.
+CXR [**2126-10-23**]: In comparison with the study of [**10-23**], the left mid lung opacification has somewhat decreased.
+CXR [**10-24**]: There is slight interval worsening in right upper lobe opacities which might represent developing pneumonia given its absence on [**2126-10-22**].
+CXR [**10-26**]: As compared to the previous radiograph, the left lung mass is unchanged.
+CXR [**10-30**]: Previous large right upper lobe pneumonia is slightly improved since [**10-26**].
+Mediastinal contour suggests adenopathy, better delineated by recent chest CT scanning.
+Echo showed RV cavity enlargement with free wall hypokinesis with pulmonary artery hypertension probable main pulmonary artery thrombus c/w pulmonary embolism.Cardiac enzymes also elevated likely secondary to RV strain and PE.
+She continued to have wheezes on exam and tachypnea at baseline but improved slowly during her admission.
+She was kept on telemetry and remained tachycardic at baseline, however her blood pressure remained stable.
+Her tachycardia improved as well, and heart rates in the 80's.
+Started on argatroban, which was continued until her platelets hit 100, at which point warfarin was added.
+On [**11-6**], her INR was was 4.4, and on [**11-8**] she completed 48 hours of overlap.
+Her discharge INR was 4.5.
+Her warfarin dosing should be adjusted appropriately for a goal INR [**3-3**].
+# Pneumonia: Chest X-ray on [**9-26**] was suggestive of infiltrate.
+CBC and differential was trended.
+She has a follow up appointment with Dr. [**Last Name (STitle) 3274**] on [**11-21**] for evaluation for further treatment.
+Medications on Admission: Procrit 4,000 U/mL M-W-F PRN HCT <30 Citalopram 20mg PO QD Provigil 200mg PO QD Seena-Gen 8.6mg Calcium Acid Relief Vitamin C 500mg PO QD Tylenol 325mg PO q4hrs PRN pain/fever Ativan 1mg PO TID PRN Ativan 0.5mg PO TID Ativan MIlk of Magnesia Vitamin B-1 100mg PO QD Dexamethasone 4mg PM and 2mg AM (One Tablet(s) by mouth twice a day; Per taper: 4mg [**Hospital1 **] ([**10-14**] thru [**10-17**]; 4mg in the am and 2 mg in the pm ([**10-18**] thru [**10-21**]); 2mg [**Hospital1 **] ([**10-22**] thru [**10-25**]); 2 mg once a day ([**10-26**] thru [**10-29**]); 2 mg QOD ([**10-30**], [**11-1**], [**11-3**]); Stop the Decadron after the dose on [**2126-11-3**].
+Levalbuterol HCl 0.63 mg/3 mL Solution for Nebulization Sig: One (1) ML Inhalation q4H () as needed for wheeze.
+Warfarin 2 mg Tablet Sig: One (1) Tablet PO Once Daily at 4 PM: Adjust dose as needed for INR goal [**3-3**].
+Followup Instructions: Provider: [**First Name8 (NamePattern2) 251**] [**Name11 (NameIs) **], MD Phone:[**0-0-**] Date/Time:[**2126-11-21**] 9:00 Provider: [**Name10 (NameIs) 5005**] [**Last Name (NamePattern4) 5342**], MD Phone:[**Telephone/Fax (1) 44**] Date/Time:[**2126-11-18**] 3:00 Provider: [**Name10 (NameIs) 706**] MRI Phone:[**Telephone/Fax (1) 327**] Date/Time:[**2126-11-18**] 1:15                                [**First Name8 (NamePattern2) 251**] [**Name8 (MD) **] MD [**MD Number(1) 3282**]

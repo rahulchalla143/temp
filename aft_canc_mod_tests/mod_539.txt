@@ -1,0 +1,50 @@
+Admission Date:  [**2137-4-26**]              Discharge Date:   [**2137-6-5**]  Date of Birth:  [**2072-11-26**]             Sex:   M  Service: MEDICINE  Allergies: Morphine  Attending:[**First Name3 (LF) 2880**] Chief Complaint: abd distension/leg swelling  Major Surgical or Invasive Procedure: Transesophageal Echocardiogram on [**2137-4-26**] Paracentesis on [**2137-4-29**] and [**2137-5-2**] EGD on [**2137-5-1**], [**2137-5-7**], [**2137-5-17**] Colonoscopy [**2137-5-17**] Transjugular liver biopsy on [**2137-5-3**]   History of Present Illness: 64 year old patient of [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 73**] who lives part time in the [**Country 13622**] and part time in the US, just returned from the [**Country 13622**].
+Hx of CABG/Mechanical MVR in [**2131**] at [**Hospital1 18**], HIV+ (dx'ed approx 7 yrs).
+Blood cultures grew Enterococcus but no follow-up blood cultures drawn.
+His CD4 count was checked and was 50 (Viral load checked but currently do not have these results).
+CT Abd/Pelvis done with old splenic infarcts, ascites but no acute bowel pathology.
+HIV (VL 175 on [**2135-6-21**])- on HAART 2.
+MVR [**2131**] w/ cabg 5. left thoracotomy [**8-5**] for pleural effusion 6. cord compression/spinal stenosis w/ c4-c6 laminectomy and decompression [**10-7**] 7.
+EF 40% [**2132**] 9. anemia - fe deficiency (baseline hct 30), had been worked up for pancytopenia in the past and this was when his HIV dx was discovered.
+Family History: Non-contributory  Physical Exam: VS - 96.6F  HR 67  145/70  16  100%/2L 205lbs Gen: awake, alert, NAD HEENT: PERRL, anicteric, OP clear, no evidence of thrush, small area of erythema under tongue Neck: supple, no LAD, JVP 9cm CV: regular, S1, mech S2, soft systolic murmur Pulm: Crackles bilaterally [**2-6**] way up with exp wheeze Abd: (+) BS, distended, firm, mild, diffuse TTP, no rebound or guarding Ext: WWP, 2+ LE edema b/l, 1+ DP pulse b/l skin: no rash  Pertinent Results: TEE ECHOCARDIOGRAM [**2137-4-26**]: The left atrium is dilated.
+LV systolic function appears depressed.
+CT TORSO [**2137-4-27**]: TECHNIQUE: Contiguous axial CT images of the chest, abdomen, and pelvis are obtained with the administration of intravenous contrast [**Doctor Last Name 360**], 130 cc of Optiray.
+Multiplanar reformation images are reconstructed.
+Evaluation of the lung is somewhat limited due to motion artifact.
+EGD [**2137-5-1**]: No esophageal varices.
+CXR [**2137-5-1**]: PICC with tip overlying proximal portion of the superior vena cava.
+EGD [**2137-5-17**]:  Impression: Normal mucosa in the esophagus.
+Liver Biopsy Pathology [**2137-5-3**]: Liver, transjugular biopsy: 1.
+Trichrome stain shows focal increased sinusoidal fibrosis.
+Reticulin stain shows no definitive features of nodular regenerative hyperplasia.
+Iron stain shows no stainable iron.
+Brief Hospital Course: 64 year old male with CAD s/p CABG and mech mitral valve [**2131**], HIV+ CD4 50, DM2, transferred from outside hospital with CHF, Enterococcal endocarditis, and ascites.
+Of note, OSH TTE showed possible aortic (and not mitral) vegetation which was not seen on TEE here.
+Blood cultures were persistently negative.
+2) GI Bleed: On [**5-1**] his Hct was noted to drop from 27 the day prior to 22.
+He underwent EGD and blood was seen in the stomach as well as a Dieulafoy's ulcer, which was was ligated.
+He was transfused 2 units pRBCs and Hct stabilized.
+He underwent repeat EGD on [**2137-5-7**] and no active bleeding was seen.
+His hematocrit continued to gradually trend down, with trace guaiac positive stools, therefore he had a third EGD, this time with colonoscopy, on [**5-17**].
+On [**5-31**] the patient had another hematocrit drop to 19, with melena.
+This time a tagged RBC scan was performed, which demonstrated a proximal source of bleeding, likely stomach.
+He was transferred to the CCU where he had another EGD, this time with visualization of bleeding from clips at site of Dieulafoy.
+Heparin was restarted on the evening of [**6-3**] and his hematocrit was stable >31 after a day.
+He should have a repeat hemoglobin in 2 weeks and every 2-4 weeks thereafter.
+Goal hemoglobin is [**12-16**], so if > 12, stop erythropoetin.
+4) CHF: Echo at the outside hospital revealed EF 45-50%, which is likely underestimated in the setting of mitral regurgitation.
+In the end, it is felt most likely secondary to liver cirrhosis with sampling error on the liver biopsy making fibrosis look less extensive than it is.
+His transaminases were never elevated, though alk phos was mildly elevated at 200 (with elevated GGT).
+Anti-mitochondrial antibody was negative (making primary biliary cirrhosis less likely).
+He ultimately underwent liver biopsy which showed only mild portal inflammation.
+Additionally, he had 2 diagnostic/therapeutic paracentesis, both of which demonstrated SAAG < 1.1, with many WBC and > 250 polys.
+He was already on ceftriaxone for his endocarditis, and cultures were without growth, making an infectious etiology unlikely.
+CT abdomen with contrast was negative for peritoneal carcinomatosis, and cytology was negative from the ascites.
+Acid fast smears were negative, though culture is still pending.
+They also felt that peritoneal biopsy would be unlikely to yield the diagnosis.
+His INR was stable at 3.0 on 8 mg of coumadin.
+Prior to procedures, his INR seemed to be stable at 3.0 on 8 mg of coumadin.
+Needs frequent INR checks until therapeutic consistently on a stable dose of coumadin.
+Azithromycin for MAC prophylaxis will be considered as an outpatient (once acid fast cultures from peritoneal fluid are known to be negative).
+11) Access:  He had a PICC placed on [**5-1**], confirmed in good position by CXR and in working order.
+You have a follow-up appointment scheduled in the Infectious Disease Clinic with [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 13632**], MD Phone:[**Telephone/Fax (1) 457**] Date/Time:[**2137-6-24**] 10:30                                [**First Name11 (Name Pattern1) 900**] [**Last Name (NamePattern1) 2882**] MD, [**MD Number(3) 2883**]

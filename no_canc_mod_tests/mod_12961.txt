@@ -1,0 +1,8 @@
+Admission Date:  [**2167-1-1**]              Discharge Date:   [**2167-1-6**]  Date of Birth:  [**2105-3-5**]             Sex:   M  Service: CARDIOTHORACIC  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 1505**] Chief Complaint: CC:[**CC Contact Info 59102**]  Major Surgical or Invasive Procedure: Cardiac catheterization [**2167-1-1**] CABGx3 [**2167-1-2**]  History of Present Illness: Pt is a 62 yo male with hypertension, hypercholesterolemia and family history who presents after having an abnormal stress test showing inferior defect.
+A cardiac catheterization was performed which showed severe left main disease.
+EF 56%  [**2167-1-1**] 03:10PM   PT-12.8 PTT-30.4 INR(PT)-1.0 [**2167-1-1**] 03:10PM   PLT COUNT-262 [**2167-1-1**] 03:10PM   WBC-5.8 RBC-4.32* HGB-12.6* HCT-37.3* MCV-86 MCH-29.1 MCHC-33.8 RDW-13.8 [**2167-1-1**] 03:10PM   ALT(SGPT)-19 AST(SGOT)-19 LD(LDH)-149 ALK PHOS-63 AMYLASE-67 TOT BILI-0.4 [**2167-1-1**] 07:44PM URINE  BLOOD-TR NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 LEUK-NEG  [**2167-1-1**] CXR The heart size is normal.
+[**2167-1-3**]  CXR There has been interval removal of the endotracheal tube and mediastinal drains.
+[**2167-1-3**] EKG Sinus rhythm 83.
+Brief Hospital Course: Mr. [**Known lastname 59103**] was admitted to the [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1675**] [**Last Name (NamePattern1) **] Medical Center on [**2167-1-1**] for a cardiac catheterization.
+On postoperative day two, he was transferred to the step down unit for further recovery.
+Beta blockade was titrated for optimal heart rate and blood pressure control.

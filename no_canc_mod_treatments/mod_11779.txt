@@ -1,0 +1,31 @@
+Admission Date:  [**2166-5-22**]              Discharge Date:   [**2166-5-25**]  Date of Birth:  [**2106-8-24**]             Sex:   M  Service: MEDICINE  Allergies: Sulfa (Sulfonamide Antibiotics)  Attending:[**First Name3 (LF) 2265**] Chief Complaint: Cough, lightheadedness  Major Surgical or Invasive Procedure: None   History of Present Illness: Mr. [**Known lastname 41871**] is a 59yo M w/hx of HTN who presents with cough and lightheadedness for 1 day.
+He states that he has been having intermittent episodes of lightheadness and dizziness for the past 1 month.
+He was given 20mg IV diltiazem and started on a dilt gtt at 5mg/hr.
+He then began to be more tachypneic with RR in the 30s and oxygen sats dropped requiring a non-breather.
+Due to concerns for flash pulmonary edema he was placed on bipap, started on a nitro gtt and was given 40mg IV Lasix.
+He put on 1700ml to the Lasix in the ED and an additional 500ml on the floor.
+Denies chest pain, chest pressure, palpitations, or weakness.
+Family History: + for DM in grandparents  Physical Exam: Vitals: T: 99.6 BP: 137/75 P: 200 R: 15 O2: 95% face tent General: Alert, oriented, no acute distress HEENT: Sclera anicteric, MMM, oropharynx clear Neck: supple, JVP elevated to ~10-12cm, no LAD Lungs: bibasilar crackles, no wheezing CV: irregular, tachycardic, no murmurs, rubs, gallops Abdomen:  soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly GU: no foley Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema  Pertinent Results: Labs on admission: [**2166-5-22**] 03:50PM   PT-11.6 PTT-23.2 INR(PT)-1.0 [**2166-5-22**] 03:50PM   PLT COUNT-192 [**2166-5-22**] 03:50PM   NEUTS-72.4* LYMPHS-20.4 MONOS-5.9 EOS-0.4 BASOS-1.0 [**2166-5-22**] 03:50PM   WBC-15.5* RBC-5.14# HGB-16.0# HCT-47.6# MCV-93 MCH-31.1 MCHC-33.5 RDW-15.0 [**2166-5-22**] 03:50PM   TSH-2.3 [**2166-5-22**] 03:50PM   CK-MB-NotDone proBNP-[**Numeric Identifier 41872**]* [**2166-5-22**] 03:50PM   cTropnT-<0.01 [**2166-5-22**] 03:50PM   CK(CPK)-84 [**2166-5-22**] 03:50PM   estGFR-Using this [**2166-5-22**] 03:50PM   GLUCOSE-125* UREA N-16 CREAT-1.0 SODIUM-144 POTASSIUM-4.0 CHLORIDE-106 TOTAL CO2-24 ANION GAP-18 [**2166-5-22**] 09:00PM   TYPE-ART PO2-19* PCO2-49* PH-7.32* TOTAL CO2-26 BASE XS--2 [**2166-5-22**] 09:51PM   TYPE-ART TEMP-37.2 PO2-365* PCO2-24* PH-7.53* TOTAL CO2-21 BASE XS-0 INTUBATED-NOT INTUBA  IMAGES / STUDIES:  CXR [**2166-5-22**]: FINDINGS: Lung volumes are diminished.
+He was initially placed on a nitro drip and admitted to the MICU.
+He later received diltiazem and digoxin for rate control, with good improvement - the nitro drip was weaned.
+Adenosine was avoided given risk of SVT/WPW.
+Patient was transitioned to diltiazem 90mg QID and sotalol 120mg [**Hospital1 **] with good control of HR in 70-80s.
+Patient was also started on warfarin anticoagulation which will be further managed at the [**Hospital 2274**] [**Hospital3 **].
+The patient received Lasix boluses PRN.
+He also received levofloxacin and ceftriaxone given concern for possible PNA.
+Patient was able to be weaned off supplemental O2 with further diuresis.
+He was discharged home with furosemide 40 mg [**Hospital1 **] and will complete a 5 day course of levofloxacin.
+Medications on Admission: Lisinopril Metoprolol  Discharge Medications: 1.
+Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Sotalol 80 mg Tablet Sig: 1.5 Tablets PO BID (2 times a day).
+Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Furosemide 40 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Levofloxacin 250 mg Tablet Sig: Three (3) Tablet PO DAILY (Daily) for 3 days.
+Warfarin 5 mg Tablet Sig: One (1) Tablet PO Once Daily at 4 PM.
+Diltiazem HCl 360 mg Capsule, Sust.
+Release 24 hr PO once a day.
+Further you were started on a medication to thin your blood (Coumadin).
+It is extremely important for you to have the level of anticoagulation in your blood followed closely.
+Please only take the medications as listed below: - new: sotalol 120 mg twice a day - new: diltiazem, sustained release 360 mg daily - new: furosemide 40 mg twice a day - new: lisinopril 5 mg daily - new: warfarin 5 mg daily - new: aspirin 325 mg daily - new: levofloxacin 750 mg daily for 3 days   Followup Instructions: Please follow up with cardiology: Dr. [**First Name8 (NamePattern2) **] [**Name (STitle) **] at [**Telephone/Fax (1) 2258**].
+You will need to have your INR (level of anticoagulation) monitored closely because you were started on Warfarin (an anticoagulant) while you were hospitalized.
+Address:  [**Location (un) 4363**] [**Location (un) 86**], [**Numeric Identifier 4364**] Hours:  M-F 8am-8pm Telephone:  [**Telephone/Fax (1) 41874**]                                  [**First Name8 (NamePattern2) **] [**Name8 (MD) 162**] MD [**MD Number(2) 2273**]

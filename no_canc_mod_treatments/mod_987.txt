@@ -1,0 +1,48 @@
+Admission Date:  [**2133-2-3**]              Discharge Date:   [**2133-2-13**]   Service: MEDICINE  Allergies: Streptokinase / Avandia / Amiodarone / Phenergan / Morphine / Percocet  Attending:[**Last Name (NamePattern1) 1167**] Chief Complaint: chronic cholecystitis with cholelithiasis  Major Surgical or Invasive Procedure: laparoscopic cholecystectomy  History of Present Illness: This 86-year-old gentleman recently presented with a bad flareup of acute cholecystitis which put him in the hospital at [**Hospital1 3343**] for a number of days back in [**Month (only) 359**].
+He also has a cardiac history including coronary artery bypass graft with anticoagulation for atrial fibrillation.
+Dr. [**Last Name (STitle) **] indicated that a laparoscopic cholecystectomy would be indicated for his [**Last Name **] problem in that this has become quite symptomatic for him.
+Past Medical History: - Diverticulosis - s/p lower GI bleed with recent admission as noted above - Ischemic cardiomyopathy, NYHA Class III - Coronary artery disease s/p CABGx2 ([**2109**] and redo [**2118**]) - Chronic systolic congestive heart failure with severely depressed ventricular function, last LVEF 25% - Biventricular pacemaker and [**Year (4 digits) 3941**], s/p AVJ ablation [**2125**] - Diabetes Mellitus - Chronic a-fib - s/p MVA [**6-15**] injuring back, chest & hit head - Chronic renal insufficiency, stage 3 - Cholelithiasis - Pancreatic cysts - Hyperlipidemia - Gunshot wounds to left lower extremity with decreased sensation - Low back pain - Cataracts  Social History: Social history is significant for the absence of current tobacco use.
+Discharge labs: [**2133-2-13**] 07:05AM BLOOD WBC-6.2 RBC-2.74* Hgb-8.1* Hct-24.0* MCV-88 MCH-29.8 MCHC-33.9 RDW-15.5 Plt Ct-263 [**2133-2-13**] 07:05AM BLOOD Plt Ct-263 [**2133-2-13**] 07:05AM BLOOD PT-27.2* PTT-41.4* INR(PT)-2.7* [**2133-2-13**] 07:05AM BLOOD Glucose-122* UreaN-46* Creat-1.4* Na-135 K-3.8 Cl-97 HCO3-29 AnGap-13 [**2133-2-13**] 07:05AM BLOOD Calcium-8.1* Phos-3.1 Mg-2.2  Brief Hospital Course: Mr. [**Known lastname **] was admitted to Dr.[**Name (NI) 2829**] Pancreaticobiliary Surgery Service on [**2133-2-3**] and underwent laparoscopic cholecystectomy.
+He tolerated the procedure well, but his post-operative course was complicated by respiratory distress in the PACU requiring reintubation and admission to the Surgical ICU.
+During that time, he was transitioned off of IV fluids and his diet was advanced.
+His pain was well controlled on oral medications.
+[**Last Name (STitle) 665**], the patient was transferred to the Cardiology service for management of his fluid overload secondary to his congestive heart failure in the setting of a surgical intervention and the associated fluid shifts.
+On the cardiology service he was diuresed with 80mg IV lasix, followed by a lasix drip at 10mg/hr.
+He tolerated diuresis well, with no signs of hemodynamic compromise.
+A foley catheter was placed, draining 800ccs of urine with resolution of his pain.
+The foley catheter was left in place and he was started on Flomax (tamsulosin).
+He was started on amoxicillin 875mg Q12 hours for a 14-day course.
+The patient has atrial fibrillation, s/p pacer placement and AV junction ablation.
+He restarted coumadin post-op with a lovenox bridge.
+He was discharged on a half dose of Coumadin (1.25mg daily) and will follow-up with the [**Hospital 18**] [**Hospital 197**] clinic.
+The staples were removed and steri-strips placed.
+He was seen by physical therapy who felt he could walk well, even with a foley bag in place.
+Medications on Admission: lipitor 40', Carvedilol 6.25", digoxin 125mcg', enalapril 10", lovenox, eplerenone 25', Lasix 80', Isosorbide Monoitrate SR 30', levothyroxine 150mcg', Nitrostat 0.4mg prn Chest pain, protonix 40", Miralax [**Hospital1 **], Coumadin (has been on hold x 1 week), ambien 5', ASA 81', Vitamin B12, Fish oil, Vitamin B6, Lantus 32 qAM, Humalog SS  Discharge Medications: 1.
+Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Carvedilol 6.25 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Enalapril Maleate 10 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Eplerenone 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Insulin Glargine 100 unit/mL Solution Sig: Thirty (30) units Subcutaneous QAM.
+Isosorbide Mononitrate 30 mg Tablet Sustained Release 24 hr Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).
+Levothyroxine 150 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Nitrostat 0.4 mg Tablet, Sublingual Sig: One (1)  Sublingual Q5 minutes as needed for chest pain: Up to three doses.
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+Polyethylene Glycol 3350 17 gram/dose Powder Sig: One (1) packet PO twice a day.
+Warfarin 2.5 mg Tablet Sig: 0.5 (half) Tablet PO DAILY (Daily): Dosage to be titrated by your doctor.
+Zolpidem 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) as needed for insomnia.
+Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+Tamsulosin 0.4 mg Capsule, Sust.
+Furosemide 80 mg Tablet Sig: One (1) Tablet PO once a day.
+Vitamin B-6  Oral 18.
+Vitamin B-12  Oral 20.
+Humalog 100 unit/mL Solution Sig: One (1) dose Subcutaneous QACHS: Please resume your home insulin sliding scale.
+Amoxicillin 875 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) for 14 days.
+Disp:*28 Tablet(s)* Refills:*0*   Discharge Disposition: Home With Service  Facility: vna carenetwork  Discharge Diagnosis: chronic cholecystitis with cholelithiasis congestive heart failure  Discharge Condition: Mental Status:Clear and coherent Level of Consciousness:Alert and interactive Activity Status:Ambulatory - requires assistance or aid (walker or cane)  Discharge Instructions: You were admitted for a cholecystectomy.
+You will get physical therapy at home to help you regain your strength.
+A foley catheter was placed.
+You will keep the foley catheter in until your urology appointment.
+You were also found to have a urinary tract infection and were started on an antibiotic, augmentin.
+You should take augmentin for two weeks.
+Some changes were made to your medications: - We lowered your coumadin for the next few days.
+- We started augmentin 875mg by mouth to be taken twice a day.

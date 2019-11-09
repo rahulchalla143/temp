@@ -1,0 +1,33 @@
+Admission Date:  [**2193-5-29**]              Discharge Date:   [**2193-6-5**]  Date of Birth:  [**2106-4-7**]             Sex:   M  Service: MEDICINE  Allergies: aspirin  Attending:[**First Name3 (LF) 348**] Chief Complaint: Fever, weakness  Major Surgical or Invasive Procedure: Leg ulcer debridement   History of Present Illness: History of Present Illness: 87M w/PMH myelodysplastic d/o, ESRD on HD who presented from [**Hospital3 2558**] Skilled Nursing Facility with fevers and weakness for 3-4 days.
+He received dialysis [**5-28**] in [**Location (un) **] as scheduled, and was rescheduled to get an additional session of UF [**5-29**] for extra fluid removal.
+His blood pressures after dialysis [**5-28**] was 110/56 his baseline after dialysis.
+He was given 1L, vanc 1g, cefepime 1g, levofloxacin 750mg, and hydrocortisone 100mg.
+He was admitted for possible emergent hemodialysis, and evidence of pneumonia/sepsis.
+Moderate multilevel degenerative changes with spinal canal stenosis, worst at C6-7.
+He was started on a 8-day course of vancomycin and cefepime (starting [**2193-5-29**]) and was transitioned to vancomycin and ceftazidime, for which he completed a 7 day course.
+He was treated with hemodialysis [**2193-5-30**], which removed 3L of fluid and another liter on [**2193-5-31**].
+He was resticted to a low sodium, low fluid diet, and his home antihypertensives were held.
+#Troponinemia: Patient chronically has elevated troponin (0.6 is baseline) but had elevation to 2.17.
+He was then given dialysis and repeat troponin was drawn with CK-MB.
+He was treated with IV vancomycin and ceftazidime for a total of 7 days, albeit for a MFP, and not cellulitis.
+On the day prior to discharge, he was evaluated by wound care, who noted a much larger area skin that required debridement; this was performed by vascular surgery, with a plan for repeat evaluation in the clinic by Dr. [**Last Name (STitle) **] at [**Hospital1 18**] in a week's time; he was sent out with a week's worth of Augmentin for his wound.
+He was treated with HD on his normal schedule (T, Th, Sat), and continued on his home nephrocaps.
+He has a known history of myelodysplastic syndrome, and his leukocytosis is likely a combination of his mds and superimposed sepsis.
+Other pertinent labs on admission included uric acid 6.4 and LDH 456 elevated.
+# HTN: His home antihypertensives amlodipine and metoprolol were held initially, and he was restarted on metoprolol on [**2193-5-31**].
+Please re-evaluate his CHF/anti-HTN medications as an outpatient.
+Please follow-up wound eval in [**Hospital **] clinic  Medications on Admission: - amlodipine 5 mg Po daily on dialysis days - amlodipine 10 mg po daily on non dialysis days - atorvostatin 80 mg po daily at bedtime - nephrocaps 1 tab po daily - finasteride 5 mg po daily - levothyroxine 75 mcg po daily - methylphenidate 5 mg po daily - metoprolol succinate 25 mg po daily - mirtazapine 7.5 mg po daily qhs - tylenol prn - calcium carbonate 1 tab [**Hospital1 **] - cholecalciferol (vitamin d3) 400 unit po daily - sennosides [**Hospital1 **]  Discharge Medications: 1.
+Acetaminophen 325 mg PO Q6H:PRN pain, fever 2.
+Atorvastatin 80 mg PO DAILY 3.
+Calcium Carbonate 500 mg PO BID 4.
+Finasteride 5 mg PO DAILY 5.
+Levothyroxine Sodium 75 mcg PO DAILY 6.
+MethylPHENIDATE (Ritalin) 5 mg PO QAM 7.
+Mirtazapine 7.5 mg PO HS 8.
+Senna 1 TAB PO BID:PRN constipation 10.
+Vitamin D 400 UNIT PO DAILY 11.
+Amlodipine 5 mg PO DAILY ON DIALYSIS DAYS 12.
+Amlodipine 10 mg PO DAILY ON NON-DIALYSIS DAYS 13.
+Metoprolol Succinate XL 25 mg PO DAILY 14.
+Amoxicillin-Clavulanic Acid 500 mg PO Q24H Duration: 7 Days Please administer at 8 PM Daily RX *amoxicillin-pot clavulanate 500 mg-125 mg 1 tablet(s) by mouth Daily Disp #*7 Capsule Refills:*0   Discharge Disposition: Extended Care  Facility: [**Hospital3 2558**] - [**Location (un) **]  Discharge Diagnosis: Primary Diagnosis: Multi-focal pneumonia, Possible Cellulitis  Secondary Diagnosis: End stage renal disease, congestive heart failure, Troponinemia   Discharge Condition: Mental Status: Confused - sometimes.
+Location: [**Hospital 99830**] MEDICAL GROUP Address: [**Last Name (un) 12264**], [**Location (un) **],[**Numeric Identifier 10614**] Phone: [**Telephone/Fax (1) 99831**]  Department: VASCULAR SURGERY When: THURSDAY [**2193-6-20**] at 10:00 AM With: [**Name6 (MD) 251**] [**Last Name (NamePattern4) 1490**], MD [**Telephone/Fax (1) 1237**] Building: LM [**Hospital Ward Name **] Bldg ([**Last Name (NamePattern1) **]) [**Location (un) **] Campus: WEST     Best Parking: [**Hospital Ward Name **] Garage  Department: HEMODIALYSIS When: THURSDAY [**2193-6-6**] at 7:30 AM  Department: INFUSION/PHERESIS UNIT When: FRIDAY [**2193-6-7**] at 8:15 AM [**Telephone/Fax (1) 14067**] Building: GZ [**Hospital Ward Name **] BUILDING (FELBEERG/[**Hospital Ward Name **] COMPLEX) [**Location (un) **] Campus: EAST     Best Parking: Main Garage  Department: OSTOMY/[**Hospital **] CLINIC When: TUESDAY [**2193-6-11**] at 9:30 AM With: WOUND/OSTOMY NURSE [**Telephone/Fax (1) 23664**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage    Completed by:[**2193-6-5**

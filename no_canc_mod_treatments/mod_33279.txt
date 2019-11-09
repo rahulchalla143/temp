@@ -1,0 +1,76 @@
+Admission Date:  [**2111-6-9**]              Discharge Date:   [**2111-7-6**]  Date of Birth:  [**2044-10-12**]             Sex:   F  Service: MEDICINE  Allergies: Levofloxacin  Attending:[**First Name3 (LF) 2817**] Chief Complaint: dyspnea, pneumonia  Major Surgical or Invasive Procedure: [**2111-6-18**] ET tube change [**2111-6-19**] Arterial line placement [**2111-6-20**] Right IJ line placement [**2111-6-25**] IR-guided PICC placement [**2111-6-29**] Trach placement [**2111-6-29**] PEG placement [**2111-7-3**] PICC removed for fungemia [**2111-7-6**] Single Lumen PICC placed  History of Present Illness: 66 year-old woman with history of asthma, COPD, DM, hypothyroidism, with recent history significant for worsening dyspnea over past three months, status post four courses of antibiotics and steroids for presumed COPD exacerbation, presenting to [**Hospital3 26615**] Hospital on [**2111-6-3**] with acute worsening dyspnea, intubated for respiratory distress, and transferred to [**Hospital1 18**] for further management.
+As noted above, she has a history of worsening dyspnea over the past few months that has been treated with antibiotics and steroids.
+She presented to OSH on [**2111-6-3**] with worsening dyspnea and had a fever to 103F, and was started on ceftriaxone/azithromycin ([**Date range (1) 83455**]) for pneumonia and COPD exacerbation.
+She developed an increasing oxygen requirement, however, and initially required nasal canula (94% on 1 L O2) but later required face mask (86% on 15 L on [**6-7**]).
+It is unclear why she received double coverage for gram negatives.
+She was also given methylprednisolone ([**6-6**] dose 20 mg iv q8; then 80->60 mg iv q8 afterward).
+On [**6-7**], she was admitted to the ICU and intubated electively for hypoxia and SOB.
+Phenylephrine was started because of hypotension to SBPs in the 80s after being intubated and starting on propofol ([**Date range (1) 83456**]), which had to be uptitrated for sedation.
+She was transferred to [**Hospital1 18**] on [**6-9**] based on her family's wishes.
+On arrival, her ventilator settings were Vt 500cc, FiO2 100%, PEEP 16.
+She was on phenylephrine at 0.6 and rapidly weaned off.
+Her VS were 98.6 56 18 96%vent  Past Medical History: COPD Asthma Diabetes mellitus Hyperlipidemia Hypothyroidism GERD Left breast cancer s/p lumpectomy H/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 1557**]-[**Doctor Last Name **] Syndrome (per PCP)  Social History: She does not smoke or drink.
+Family History: Non-contributory  Physical Exam: Vitals: T: 98 BP: 127/60 P: R: 18 O2: General: intubated, obese, arousable HEENT: ETT, Sclera anicteric, MMM, oropharynx clear Neck: supple, JVP not elevated, no LAD Lungs: soft inspiratory wheezes bilaterally, no rales or rhonchi CV: Regularly irregular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops Abdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema  Pertinent Results: Admission labs [**2111-6-9**] 11:36PM   TYPE-ART TEMP-37.0 RATES-18/5 TIDAL VOL-500 PEEP-16 O2-100 PO2-98 PCO2-50* PH-7.42 TOTAL CO2-34* BASE XS-6 AADO2-565 REQ O2-93 INTUBATED-INTUBATED [**2111-6-9**] 11:22PM   GLUCOSE-355* UREA N-35* CREAT-0.9 SODIUM-141 POTASSIUM-4.2 CHLORIDE-104 TOTAL CO2-27 ANION GAP-14 [**2111-6-9**] 11:22PM   CALCIUM-8.1* PHOSPHATE-2.2* MAGNESIUM-2.5 [**2111-6-9**] 11:22PM   WBC-10.0 RBC-3.53* HGB-10.3* HCT-29.9* MCV-85 MCH-29.0 MCHC-34.3 RDW-15.3 [**2111-6-9**] 11:22PM   PLT COUNT-289 [**2111-6-9**] 11:22PM   PT-12.4 PTT-24.9 INR(PT)-1.0 .
+[**2111-6-16**] UPEP: MULTIPLE PROTEIN BANDS SEEN, WITH ALBUMIN PREDOMINATING BASED ON IFE (SEE SEPARATE REPORT), NEGATIVE FOR BENCE-[**Doctor Last Name **] PROTEIN.
+Detection of viruses other than those listed above will only be       performed on specific request.
+Refer to respiratory viral culture for further information.
+Legionella Urinary Antigen  (Final [**2111-6-11**]):       NEGATIVE FOR LEGIONELLA SEROGROUP 1 ANTIGEN.
+Blood Culture, Routine (Preliminary):       [**Female First Name (un) **] PARAPSILOSIS.
+Consolidation in the posterior segment of right upper lobe and superior segment of right lower lobe likely aspiration pneumonia.
+Air-fluid level seen in the sphenoid sinuses, which may be the result of long-term intubation or nasal feeding tube.
+Abd X-ray [**2111-7-4**]: FINDINGS: A percutaneous feeding tube is present overlying the midabdominal region.
+Hematology   COMPLETE BLOOD COUNT WBC   RBC   Hgb   Hct  MCV MCH MCHC  RDW Plt Ct [**2111-7-6**] 04:00AM    10.9 3.67* 10.7* 32.7* 89 29.1 32.5 16.9* 521*   DIFFERENTIAL          Neuts  Lymphs Monos Eos Baso [**2111-7-6**] 04:00AM    76.3*   14.2* 5.3 3.6 0.7 Chemistry   RENAL & GLUCOSE     Glucose UreaN Creat Na K Cl HCO3 AnGap [**2111-7-6**] 04:00AM    132* 76* 0.9 145 4.3 104 30 15 ANTIBIOTICS              Vanco [**2111-6-26**] 08:16PM    23.6*   Brief Hospital Course: 66 year-old woman with history of asthma, COPD, DM, hypothyroidism presenting to OSH with acute on chronic dyspnea, treated with antibiotics for pneumonia and intubated for worsening hypoxia, and transferred for further management.
+At the time of transfer, her CXR, large A-a gradient, and low PaO2/FiO2 were thought to be consistent with ARDS/acute lung injury, and mechanical ventilation settings targeted low tidal volumes and high respiratory rate.
+Culture data from the OSH eventually demonstrated MRSA in her sputum culture and she was initially managed with vancomycin/zosyn and then zosyn was discontinued, and she was given a course of solumedrol because of her history of question COPD.
+The ID service was consulted and recommended switching from vancomycin to linezolid and empirically completing a course of oseltamavir Of note, she also underwent a repeat chest CTA that was negative for PE and a TTE with a bubble study that was limited in quality but negative for intracardiac shunt.
+Diuresis was tried several times with minimal change in PEEP.
+Linezolid was switched back to vancomycin given concern for lactic acidosis.
+A PICC line was placed on [**2111-6-25**] for long term antibiotics.
+Oseltamivir was discontinued on [**6-25**].
+Gradually able to wean down PEEP with improvement in bronchospastic episodes on increased sedation, and a trach was placed by IP on [**2111-6-30**].
+Sedatives eventually weaned off on [**7-2**] and transitioned to fentanyl gtt and valium, which too were weaned off to a 25 mcg patch q72 hours - This should be weaned further at her facility under the direction of the accepting MD.
+Patient was transitioned to lasix IV boluses until Cr and BUN bumped, then PRN to keep her I/Os even.
+Pt finished her 15 day course of meropenem on [**2111-7-7**].
+- Single lumen PICC was placed [**2111-7-6**] after a 3 day line holiday.
+She was started on hep gtt and amio-loaded.
+Heparin was discontinued at time of trach placement; long-term anticoagulation was not started as she is considered low-risk s/p conversion.
+She was continued on amiodarone and ASA.
+Lasix gtt was started to have a smoother diuresis as bolus doses (of 40mg IV lasix) made her transiently hypotensive.
+She was restarted on lasix gtt in setting of pressors, which were eventually weaned off.
+She was then transitioned to IV lasix boluses at 160mg IV tid until Cr and BUN bumped, then transitioned to PRN Lasix boluses to keep I/Os even.
+Of note, she was on acetazolamide for a few days due to metabolic alkosis but this was discontinued as bicarb normalizing.
+- Please give IV lasix 80-160mg PRN to keep fluid balance even.
+She was started on oral fluconazole on [**2111-7-2**] due to persistent yeast-positive urine cultures despite changing out Foley catheters.
+As blood cx grew C. paraipsilosis, changed to fluconazole IV to complete 14-day course of antifungal (last dose [**2111-7-16**]).
+Concern was for emoblic event given AF as well as fungemia.
+# Hypertriglyceridemia: TG elevated to 303 in setting of propofol gtt.
+Pt initially switched to fentanyl and midazolam with improvement in TG.
+# Atyical BAL pathology: Tissue from bronch done on [**5-31**] showed atypical plasmacytoid immunoblasts with abnormal CD138+/CD56+ cell population on flow cytometry.
+# Diabetes: Required insulin drip temporarily for elevated blood glucose but transitioned back to ISS with glargine with good control.
+Son is [**Name (NI) **] [**Name (NI) **] [**Telephone/Fax (1) 83459**] (c)  Medications on Admission: Singulair 10 mg qhs Prevacid 30 mg daily Levothyroxine 100 mg daily [**Doctor First Name **] D [**Hospital1 **] Flonase 2 sprays eat nostril daily Advair 500/50 on inh [**Hospital1 **] Albuterol nebs prn Janumet (metformin and sitagliptin)   Discharge Medications: 1.
+Lansoprazole 30 mg Capsule, Delayed Release(E.C.)
+Levothyroxine 100 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Ipratropium Bromide 17 mcg/Actuation Aerosol Sig: 6-8 Puffs Inhalation Q4H (every 4 hours).
+Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: Two (2) Puff Inhalation Q4H (every 4 hours) as needed for shortness of breath or wheezing.
+Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Meropenem 500 mg Recon Soln Sig: Five Hundred (500) mg Intravenous Q8H (every 8 hours) for 1 days: Last dose on [**2111-7-7**].
+Fluconazole in Saline(Iso-osm) 400 mg/200 mL Piggyback Sig: Four Hundred (400) mg Intravenous once a day for 12 days: Last dose on [**2111-7-16**].
+Fentanyl 50 mcg/hr Patch 72 hr Sig: One (1) Patch 72 hr Transdermal Q72H (every 72 hours) for 2 days: Please remove AM of [**2111-7-8**].
+Fentanyl 25 mcg/hr Patch 72 hr Sig: One (1) Patch 72 hr Transdermal Q72H (every 72 hours) for 3 days: Please place [**2111-7-8**].
+Amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 times a day).
+Nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID (4 times a day) as needed for sores.
+Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed for fever.
+Chlorhexidine Gluconate 0.12 % Mouthwash Sig: Fifteen (15) ML Mucous membrane [**Hospital1 **] (2 times a day).
+Senna 8.6 mg Tablet Sig: 1-2 Tablets PO BID (2 times a day) as needed for Constipation.
+Lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO TID (3 times a day) as needed for constipation.
+Insulin Glargine 100 unit/mL Cartridge Sig: Forty (40) units Subcutaneous once a day.
+Insulin Regular Human 300 unit/3 mL Insulin Pen Sig: Sliding scale as below  Subcutaneous every six (6) hours: Adjust as needed 0-60: [**1-16**] amp D50, 61-80: 0 Units, 81-120: 9 Units, 121-160: 12 Units, 161-200: 15 Units, 201-240: 18 Units, 241-280: 21 Units, 281-320: 24 Units, 321-360: 27 Units, 361-400: 30 Units, > 400: Notify M.D.
+Heparin (Porcine) 5,000 unit/mL Solution Sig: 5000 (5000) units Injection TID (3 times a day).
+- [**Female First Name (un) 564**] Parapsilosis fungemia/line infection.
+Secondary - COPD/Asthma - Diabetes mellitus - Hyperlipidemia - Hypothyroidism - GERD - [**Doctor First Name 1557**]-[**Doctor Last Name **] syndrome - Left breast cancer s/p lumpectomy   Discharge Condition: Stable on vented trach   Discharge Instructions: You were transferred from another hospital for further management of COPD exacerbation and pneumonia requiring intubation.
+You had a complicated ICU course but your ventilator was able to be weaned down gradually.
+Given your continued need for respiratory support, however, a tracheostomy was placed and a PEG-tube in your stomach for nutrition.
+Lastly, you were treated for a fungal blood infection.
+Antibiotic courses are as follows: - Meropenem (last dose [**2111-7-7**]) - Fluconazole (last dose [**2111-7-16**]) Most of your other medications were changed.
+Please refer to your new medication list and take all medications as prescribed.

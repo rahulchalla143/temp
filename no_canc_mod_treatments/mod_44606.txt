@@ -1,0 +1,31 @@
+Admission Date:  [**2190-4-5**]              Discharge Date:   [**2190-4-17**]  Date of Birth:  [**2156-11-23**]             Sex:   M  Service: MEDICINE  Allergies: morphine  Attending:[**First Name3 (LF) 425**] Chief Complaint: Infected ICD lead  Major Surgical or Invasive Procedure: ICD removal and reimplantation   History of Present Illness: This is a 33 yo male with PMHx of congenital heart defect s/p ASD repair [**2159**], s/p MV repair [**2174**] and then mechanical MVR (model number #[**2184-1-18**]), complicated by complete heart block s/p pacemaker, developed pacemaker-induced cardiomyopathy, upgraded to biventricular ICD upgraded in [**2188**], who presents with an infected, eroded, exposed lead to OSH this AM.
+He initially noted a small pustule around the [**Year (4 digits) **] pocket 2 weeks ago.
+Prior to transfer, the patient was started on 1.25mg vancomycin q12 and Ancef 1g q8.
+CXR showed no subcutaneous air and pacerleads looked intact.
+He was transferred to [**Hospital1 18**] on the same day for hardware removal and reimplantation.
+CARDIAC HISTORY: *Premium ASD repair [**2159**] *MV repair [**2174**] *H/o Afib *MVR and Maze in [**1-/2184**] c/b CHB s/p PPM with pacemaker induced CM s/p *BiV ICD upgrade (EP-Hx: [**2184-2-18**] PPM placement for CHB post MVR; [**2184-10-29**] Upgrade to BiV ICD afer noted to have CM (EF 45--->17%); [**2188-4-8**], Generator change, RV PPM and Fidelis Lead extraction)complicated by a hematoma .
+Moderate cardiomegaly, status post valvular replacement.
+A bileaflet mitral valve prosthesis is present.
+A mechanical mitral valve prosthesis is present.
+Median sternotomy wires, and surgical clips are noted.
+Brief Hospital Course: Patient is a 33yo M w/ PMHx of congenital heart defect, s/p ASD repair at age 2, MVR, pacemaker induced cariomyopathy, s/p ICD placement who presents with an infected, eroded, exposed [**Month/Day/Year **] lead, s/p hardware removal and reimplantation.
+The patient was started on IV cefepime and vancomycin under the guidance of infectious disease consult service.
+He then underwent a pacemaker replacement on his right anterior chest on [**2190-4-14**] with removal of the temporary pacing device.
+He is to continue antibiotic thearpy for 10 days following his new pacemaker placement, with linezolid and moxifloxacin.
+His outpatient medications of lisinopril, metoprolol, and digoxin were initially held due to concern of hypotension.
+They were restarted at lower doses, including lisinopril 5mg daily and metoprolol tartrate 12.5mg [**Hospital1 **].
+The patient was stopped on coumadin in the setting of intiating antibiotics (anticipate elevated INR) and started on a heparin drip.
+Coagulation studies were followed through the admission, and the heparin drip was adjusted accordingly.
+His INR was 2.2 on day of discharge and heparin was stopped.
+TRANSITIONAL ISSUES - He needs close monitoring of INR due to antibiotic use.
+Medications on Admission: Coumadin 5-7.5mg qday (INR goal 2.5-3.5) Lisinopril 10mg [**Hospital1 **] Digoxin 250mcg [**Hospital1 **] Metoprolol succinate 100mg [**Hospital1 **] No longer takes ASA  Discharge Medications: 1. linezolid 600 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 hours) for 8 days.
+Disp:*16 Tablet(s)* Refills:*0* 2. digoxin 250 mcg Tablet Sig: One (1) Tablet PO Q12H (every 12 hours).
+3. lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0* 4. warfarin 2.5 mg Tablet Sig: Three (3) Tablet PO Once Daily at 4 PM.
+5. metoprolol succinate 25 mg Tablet Extended Release 24 hr Sig: One (1) Tablet Extended Release 24 hr PO once a day.
+Disp:*30 Tablet Extended Release 24 hr(s)* Refills:*0* 6. moxifloxacin 400 mg Tablet Sig: One (1) Tablet PO once a day.
+[**Hospital1 19721**]-pocket infection 2. s/p ASD repair 3. s/p MVR 4.
+You were transferred to us for a [**Last Name (NamePattern1) **]-pocket infection.
+You will be on the antibiotics for 10 days after implantation.
+Please note these medication changes to your medication: Linezolid 600mg twice daily for 8 more days for infection Moxifloxicin 400mg daily for 8 more days for infection Reduce lisinopril to 5mg daily (this can be further discussed with Dr. [**First Name (STitle) **] Reduce metoprolol succinate to 25mg daily (this can be further discussed with Dr. [**First Name (STitle) **]  Followup Instructions: Name: DREW,[**First Name7 (NamePattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] Location: [**State **]CARDIOLOGY CENTER Address: [**Location (un) **], [**Apartment Address(1) 77647**], [**Hospital1 **],[**Numeric Identifier 91109**] Phone: [**0-0-**] Appointment: Thursday [**2190-4-22**] 10:20am  Department: CARDIAC SERVICES Please call to make an appointment on Thursday or Friday.
+With:  DEVICE CLINIC [**Telephone/Fax (1) 62**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage  Name: NP [**Location (un) 3230**] [**Location (un) 110215**] Address: 450 VETERANS [**Hospital1 **] PKWY [**Apartment Address(1) **], EAST [**Hospital1 **],[**Numeric Identifier 110216**] Phone: [**Telephone/Fax (1) 110217**] Appointment: Friday [**2190-4-23**] 1:00pm  Department: INFECTIOUS DISEASE When: FRIDAY [**2190-4-30**] at 10:30 AM With: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 13125**] [**Name8 (MD) **], MD [**Telephone/Fax (1) 457**] Building: LM [**Hospital Ward Name **] Bldg ([**Last Name (NamePattern1) **]) [**Hospital 1422**] Campus: WEST     Best Parking: [**Hospital Ward Name **] Garage  Department: SPINE CENTER When: FRIDAY [**2190-4-30**] at 2:45 PM With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 2477**], MD [**Telephone/Fax (1) 39347**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 551**] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage

@@ -1,0 +1,52 @@
+Admission Date:  [**2182-5-1**]              Discharge Date:   [**2182-5-8**]  Date of Birth:  [**2111-6-19**]             Sex:   M  Service: MEDICINE  Allergies: Vancomycin / Rifampin  Attending:[**First Name3 (LF) 348**] Chief Complaint: septic shock and respiratory failure  Major Surgical or Invasive Procedure: none  History of Present Illness: This is a 70 year old man who was discharged after a 3 month complicated hospitalization who presents with hypotension and respiratory failure.
+He underwent a ORIF of C6-7 with posterior fusion, laminectomy, and iliac crest bone graft with wire placement in [**1-21**].
+His course was complicated by a CSF leak which was repaired, but then followed by development of MRSA meningitis, cerebritis, sinusitis, and mastoiditis, PE/DVT, NSTEMI, acute interstitial nephritis and hypersensitivity desquamative dermatitis believed secondary to vancomycin or rifampin, respiratory failure from pneumonia, ICU neuropathy/myopathy, candidemia, and mental status changes.
+He had an ABG of 7.14/74/83 on unknown O2 settings and was found to be satting 91% on NRB mask and have systolic pressures from 40-60, so he was intubated and transported to [**Hospital1 18**].
+His pressures stauyed in the 40-60's and he was started on levophed and fluids.
+He was given 4L more fluid and a right IJ sepsis line was placed with CVP from [**5-23**].
+Coronary Artery Disease s/p CABG x 3 3.
+L3-L4 Surgery 7.
+Recent hospitalization notable for: Traumatic Comminuted C7 Verterbral Fracture [**2182-1-2**] ORIF/Laminectomy/Instrumentation/Posterior Fusion [**2182-1-23**] CSF Leak - Wound infection s/p drainage and dural repair [**2182-2-9**] Incision and drainage and hardware exchange [**2181-2-12**] MRSA Meningitis MRSA Pneumonia Left Heart Failure Non-ST Elevation Myocardial Infarction Left Occipital Stroke vs MRSA Cerebritis RLE Deep Venous Thrombosis Pulmonary Embolism Non-Sustained Ventricular Tachycardia Hypersensitivity Desquamative Dermatitis (Rifampin vs Vancomycin) Eosinophilia Hypoxic Respiratory Failure Septic vs. Anaphylactic Shock Delirium Cholestasis RUE Paresis Bilateral Lower Extremity Myopathy Dysphagia GI Bleed Nosocomial LLL Pneumonia Anemia - multifactorial: Illness, blood loss, CKD.
+ETT in place.
+Pertinent Results: [**2182-5-1**] 148  114  44     AGap=17 -------------< 216 4.5  22  1.8 Ca: 8.0 Mg: 1.6 P: 6.0 D             96 27.9 \ 7.7 / 461      / 26.1\  N:80 Band:17 L:1 M:2 E:0 Bas:0 PT: 29.5  PTT: 51.6  INR: 3.1  [**2182-5-6**] 05:46AM BLOOD WBC-6.8 RBC-3.25* Hgb-9.2* Hct-28.8* MCV-89 MCH-28.5 MCHC-32.1 RDW-18.0* Plt Ct-309 [**2182-5-5**] 06:00AM BLOOD Neuts-60.0 Bands-0 Lymphs-24.3 Monos-6.2 Eos-9.0* Baso-0.6 [**2182-5-6**] 05:46AM BLOOD Plt Ct-309 [**2182-5-6**] 05:46AM BLOOD Glucose-130* UreaN-31* Creat-1.3* Na-145 K-3.6 Cl-116* HCO3-21* AnGap-12 [**2182-5-2**] 09:43PM BLOOD CK(CPK)-42 [**2182-5-2**] 09:43PM BLOOD CK-MB-NotDone cTropnT-0.07* [**2182-5-2**] 03:25PM BLOOD CK-MB-NotDone cTropnT-0.09* [**2182-5-2**] 07:57AM BLOOD CK-MB-NotDone cTropnT-0.12* [**2182-5-2**] 04:57AM BLOOD Cortsol-23.2* [**2182-5-2**] 07:57AM BLOOD Cortsol-31.2* [**2182-5-2**] 08:30AM BLOOD Cortsol-33.5* [**2182-5-3**] 04:12AM BLOOD Triglyc-168* HDL-27 CHOL/HD-3.6 LDLcalc-37 [**2182-5-5**] 05:58AM BLOOD Type-ART pO2-83* pCO2-35 pH-7.39 calHCO3-22 Base XS--2 [**2182-5-4**] 09:18AM BLOOD Lactate-1.1 [**2182-5-3**] 08:45PM BLOOD O2 Sat-80  MICRO [**2182-5-4**] BLOOD CULTURE AEROBIC BOTTLE-PENDING; ANAEROBIC BOTTLE-PENDING INPATIENT [**2182-5-4**] BLOOD CULTURE AEROBIC BOTTLE-PENDING; ANAEROBIC BOTTLE-PENDING INPATIENT [**2182-5-4**] STOOL CLOSTRIDIUM DIFFICILE TOXIN ASSAY-FINAL INPATIENT [**2182-5-2**] STOOL CLOSTRIDIUM DIFFICILE TOXIN ASSAY-FINAL INPATIENT [**2182-5-2**] CATHETER TIP-IV WOUND CULTURE-FINAL {PSEUDOMONAS AERUGINOSA} INPATIENT    WOUND CULTURE (Final [**2182-5-4**]):       PSEUDOMONAS AERUGINOSA.
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              PSEUDOMONAS AERUGINOSA                              | CEFEPIME--------------     8 S CEFTAZIDIME-----------     4 S CIPROFLOXACIN---------   =>4 R GENTAMICIN------------  =>16 R IMIPENEM--------------     2 S MEROPENEM-------------<=0.25 S PIPERACILLIN----------     8 S PIPERACILLIN/TAZO-----     8 S TOBRAMYCIN------------  =>16 R  [**2182-5-2**] SPUTUM GRAM STAIN-FINAL; RESPIRATORY CULTURE-FINAL {PSEUDOMONAS AERUGINOSA} INPATIENT                            PSEUDOMONAS AERUGINOSA                              | CEFEPIME--------------     8 S CEFTAZIDIME-----------     4 S CIPROFLOXACIN---------   =>4 R GENTAMICIN------------  =>16 R IMIPENEM--------------     4 S MEROPENEM-------------   0.5 S PIPERACILLIN----------     8 S PIPERACILLIN/TAZO-----     8 S TOBRAMYCIN------------  =>16 R  [**2182-5-1**] URINE URINE CULTURE-FINAL {PSEUDOMONAS AERUGINOSA, 2ND ISOLATE} INPATIENT                   PSEUDOMONAS AERUGINOSA                              | CEFEPIME--------------     4 S CEFTAZIDIME-----------     4 S CIPROFLOXACIN---------   =>4 R GENTAMICIN------------  =>16 R IMIPENEM--------------     4 S MEROPENEM-------------<=0.25 S PIPERACILLIN----------     8 S PIPERACILLIN/TAZO-----   <=4 S TOBRAMYCIN------------  =>16 R  [**2182-5-1**] BLOOD CULTURE AEROBIC BOTTLE-PENDING; ANAEROBIC BOTTLE-PENDING EMERGENCY [**Hospital1 **] [**2182-5-1**] BLOOD CULTURE AEROBIC BOTTLE-PENDING; ANAEROBIC BOTTLE-PENDING  Cardiology Report ECHO Study Date of [**2182-5-3**] Conclusions: 1.
+New right IJ catheter without pneumothorax.
+Brief Hospital Course: 1) Septic shock with respiratory failure from pseudomonas line infection - Pt was hypoxic and hypotensive on presentation and intubated in the field.
+The potential sources were recurrence of meningitis/cervical fluid abscess, UTI, C dif given antibiotic use, PICC line infection, persistent candidemia, sacral decub inflammaion.
+He received 1 dose vancomycin in the ED and levo/flagyl, but on admission to the MICU was changed to linezolid and cefepime to add pseudomonas coverage.
+He was continued on voriconazole for history of [**Female First Name (un) **] blood infection.
+His PICC line was pulled.
+After 2 days, he was weaned from levophedrine then extubated with improvement in SVO2 to the 80's.
+ID was consulted and recommended continuing linezolid and cefepime, and obtaining MRI of the neck area which showed no drainable fluid collection.
+He will be continued on cefepime for 14 days total, and doxacycline indefinitely for MRSA prophylaxis.
+Plastic surgery felt not need for surgical interventions.
+He was continued on aspirin, and beta blocker and captopril were restarted when blood pressure tolerated.
+He received a dose of vancomycin in ED and developed eosinophila, but no evidence of rash or kidney failure.
+His creatinine improved with hydration to baseline.
+6) history of PE/DVT, on anticoagulation - He was reversed on admission with 1 mg IV vitamin K in anticipation of possible LP, but then started on heparin when INR was < 2.
+He was restarted on coumadin 5 mg po qd on the evening of [**2182-5-6**].
+Medications on Admission: Acetaminophen 325 mg PO Q4-6H Aspirin 325 mg PO DAILY Nystatin 100,000 unit/g Cream Topical [**Hospital1 **] Zinc Oxide-Cod Liver Oil 40 % Ointment [**Hospital1 **] Mupirocin Calcium 2 % Cream Topical [**Hospital1 **] Albuterol Sulfate 0.083 % Solution Q2H as needed.
+Ipratropium Bromide 0.02 % Solution Inhalation Q6H (every 6 hours) as needed.
+Amlodipine 10 mg PO DAILY Hydrochlorothiazide 25 mg PO DAILY Lansoprazole 30 mg PO DAILY Metoprolol Tartrate 100 mg PO TID Folic Acid 1 mg PO DAILY Epoetin Alfa 10,000 unit/mL QMOWEFR (Monday -Wednesday-Friday).
+Doxycycline Hyclate 100 mg PO Q12H (every 12 hours).
+Captopril 25 mg PO TID Voriconazole 200 mg Intravenous Q12H through [**5-1**] Insulin sliding scale Heparin sliding scale coumadin since [**4-26**] linezolid started at [**Hospital1 **] [**5-1**]   Discharge Medications: 1.
+Bisacodyl 5 mg Tablet, Delayed Release (E.C.)
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+Lansoprazole 30 mg Capsule, Delayed Release(E.C.)
+Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q4-6H (every 4 to 6 hours) as needed.
+Doxycycline Hyclate 100 mg Capsule Sig: One (1) Capsule PO Q12H (every 12 hours): to be continued indefinitely for MRSA prophylaxis.
+Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO TID (3 times a day): may titrate as tolerated to keep pulse around 60.
+Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Epoetin Alfa 10,000 unit/mL Solution Sig: [**Numeric Identifier 961**] ([**Numeric Identifier 961**]) units SQ Injection QMOWEFR (Monday -Wednesday-Friday).
+Albuterol Sulfate 0.083 % Solution Sig: One (1) neb Inhalation Q6H (every 6 hours) as needed for shortness of breath or wheezing.
+Ipratropium Bromide 0.02 % Solution Sig: One (1) neb Inhalation Q6H (every 6 hours) as needed for shortness of breath or wheezing.
+Captopril 25 mg Tablet Sig: One (1) Tablet PO TID (3 times a day): may titrate to keep systolic blood pressure between 120 and 140.
+Warfarin 5 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime): adjust as needed, goal INR [**1-18**].
+Insulin Regular Human  Subcutaneous 16.
+Bisacodyl 5 mg Tablet, Delayed Release (E.C.)
+Heparin Flush CVL  (100 units/ml) 1 ml IV DAILY:PRN 10ml NS followed by 1ml of 100 units/ml heparin (100 units heparin) each lumen QD and PRN.
+Heparin Lock Flush (Porcine) 100 unit/mL Syringe Sig: One (1) ML Intravenous  DAILY (Daily) as needed.
+Cefepime 2 g Piggyback Sig: Two (2) grams Intravenous  Q12H (every 12 hours) for 8 days: last day [**2182-5-15**].
+Follow up sodium  closely   Discharge Disposition: Extended Care  Facility: [**Hospital3 7**] & Rehab Center - [**Hospital1 8**]  Discharge Diagnosis: pseudomonal line septic shock with urine and sputum colonization respiratory failure vancomycin allergy acute renal failure   Discharge Condition: Good   Discharge Instructions: contineu your medications as prescribed If you have hypotension, fevers, respiratory distress or other concerns, please return to the ED.

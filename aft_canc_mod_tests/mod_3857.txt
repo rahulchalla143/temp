@@ -1,0 +1,33 @@
+INR at outside hospital 3.6, Hct 23.
+Antibodies to RBC makes transfusion difficult, and she was transferred to [**Hospital1 18**] for further care.
+The patient's HCT in the ED was noted to be 19.8 with an INR of 2.5.
+KUB done in the ED with stool in the colon and CXR showed no free air under the diaphragm.
+Abdominal exam was significant for diffuse tenderness to palpation with bowel sounds present.
+?F) HR: 100 (97 - 100) bpm BP: 111/45(56) {97/45(56) - 111/48(59)} mmHg RR: 20 (17 - 20) insp/min SpO2: 100% Heart rhythm: ST (Sinus Tachycardia) General: Pale-appearing patient lying in bed in NAD HEENT: EOMI.
+Clear to auscultation bilaterally, anteriorly with no wheezes or crackles appreciated, though BS are deminished at the bases bilaterally.
+No murmurs, rubs, or gallops Lungs: Clear to auscultation bilaterally, anteriorly with no wheezes or crackles appreciated.
+Minimal tenderness to palpation throughout the abdomen.
+Pertinent Results: Admission labs:  [**2104-7-19**] 06:15PM BLOOD WBC-12.0* RBC-2.23* Hgb-6.5* Hct-19.7* MCV-89 MCH-29.0 MCHC-32.8 RDW-16.2* Plt Ct-228 [**2104-7-19**] 06:15PM BLOOD Neuts-75.0* Lymphs-19.1 Monos-5.0 Eos-0.6 Baso-0.5 [**2104-7-19**] 06:15PM BLOOD PT-25.8* PTT-34.5 INR(PT)-2.5* [**2104-7-19**] 06:15PM BLOOD Glucose-188* UreaN-29* Creat-0.9 Na-139 K-4.4 Cl-105 HCO3-23 AnGap-15  Imaging: KUB FINDINGS: Nonobstructive bowel gas pattern is demonstrated.
+Levoscoliosis of the lumbar spine is noted with diffuse demineralization of the osseous structures.
+Assessment for free intraperitoneal air is limited on this supine study though no large amount of free intraperitoneal air is identified.
+Discharge labs:  [**2104-7-27**] 09:16AM BLOOD WBC-9.0 RBC-3.63* Hgb-10.6* Hct-32.7* MCV-90 MCH-29.3 MCHC-32.5 RDW-18.0* Plt Ct-294 [**2104-7-27**] 09:16AM BLOOD Glucose-201* UreaN-30* Creat-0.7 Na-140 K-3.9 Cl-100 HCO3-28 AnGap-16 [**2104-7-27**] 09:16AM BLOOD Phos-4.2  Brief Hospital Course: 71yo F with PMHx significant for prothrombin disorder, multiple PEs on anti-coagulation, HTN, s/p colonoscopy 10 days ago with removal of benign polyp who presented from OSH with post endoscopic mucosal resection polypectomy bleed.
+Colonoscopy on [**2104-7-20**] showed ulceration and a clot, treated with injections of epinephrine and two clips.
+Her hematocrits and hemodynamics continued to be stable, and heparin drip was restarted after 24 hours of stability.
+INR at OSH was 3.6, after receiving 10mg IV Vitamin K and FFP.
+Upon arrival to [**Hospital1 18**], Ms. [**Known lastname 53662**] INR was 2.5, and she received 2 units FFP at [**Hospital1 18**].
+Anticoagulation was restarted with heparin infusion and warfarin at 5mg daily with goal INR 2.0-3.0.
+She was able to be switched to lovenox, which she should continue to take until her INR is therapeutic ([**2-8**]).
+- Please check INR regularly to ensure she is not supratherapeutic (next check [**2104-7-29**]).
+Can discontinue Lovenox once INR is between [**2-8**].
+Information was obtained from  Nursing home records .
+Lidocaine 5% Ointment 1 Appl TP HS To neck and shoulders 11.
+Fluticasone-Salmeterol Diskus (100/50) 1 INH IH DAILY 14.
+Lidocaine 5% Ointment 1 Appl TP HS To neck and shoulders 9.
+Fluticasone-Salmeterol Diskus (100/50) 1 INH IH DAILY 28.
+Oxycodone-Acetaminophen (5mg-325mg) 1 TAB PO Q12H:PRN pain 36.
+Miconazole Powder 2% 1 Appl TP QID:PRN fungal 37.
+Venlafaxine XR 225 mg PO HS  Discharge Disposition: Extended Care  Facility: [**Hospital 66**] Rehab & Nursing Center - [**Hospital1 392**]  Discharge Diagnosis: Prothrombin disorder Lower GI Bleeding Anemia   Discharge Condition: Mental Status: Clear and coherent.
+While here, you were followed by the gastroenterology team and had a colonoscopy, which showed a clot and ulceration in your ascending colon.
+You were discharged on lovenox and warfarin and should stop the lovenox once your warfarin (also called Coumadin) is at a safe level to prevent blood clots.
+Please START Lovenox 80mg every 12h until INR is [**2-8**].
+Followup Instructions: ECF : please ensure INR is [**2-8**].

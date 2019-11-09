@@ -1,0 +1,31 @@
+Admission Date:  [**2159-10-15**]              Discharge Date:   [**2159-10-23**]  Date of Birth:  [**2096-4-23**]             Sex:   M  Service: SURGERY  Allergies: Penicillins / Nsaids  Attending:[**First Name3 (LF) 1384**] Chief Complaint: respiratory failure  Major Surgical or Invasive Procedure: tracheostomy  History of Present Illness: This is a 63 year-old man who is well known to the Transplant service.
+He underwent a liver transplant in [**5-/2158**] for EtOH and HCV cirrhosis.
+At rehabilitation he had his tracheostomy tube removed over the subsequent 48 hours  developed respiratory failure.
+He presented to an outside hospital where an endotracheal tube was place and was transfered to the [**Hospital1 18**] for management.
+He was intubated and in no apparent distress or discomfort.
+A sputum culture from HD 2 showed Pseudomonas, which was considered to be a contaminant.
+On HD 3, a post-pyloric feeding tube was placed for nutritional support.
+On HD 4, the patient underwent an open tracheostomy by the Thoracic surgery service.
+His tube feeds were restarted on POD 1.
+The patient was kept at [**Hospital1 18**] for increased secretions requiring frequent suction.
+On POD 4, the patient was started on Ceftazidime for presumed pneumonia diagnosed by chest X-ray and clinical presentation (low grade temperature of 100.1 and no WBC count, but increased secretions).
+On POD 5, he was evaluated for a Passy-muir valve but he did not tolerate the procedure well because of excessive coughing and difficulty swallowing his secretions.
+The remainder of his post-operative course was uneventful and he returned to rehabilitation in stable condition on POD 5.
+Medications on Admission: rapamune 5', MMF 500'''', prednisone 5', risperidol 1.5 HS, amlodipine 10', lorazepam 0.5'' PRN  Discharge Medications: 1.
+Lorazepam 0.5 mg Tablet Sig: 1-2 Tablets PO BID (2 times a day).
+Guaifenesin 100 mg/5 mL Syrup Sig: Ten (10) ML PO BID (2 times a day).
+Trazodone 50 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) as needed.
+Risperidone 1 mg/mL Solution Sig: One (1)  PO HS (at bedtime).
+Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Albuterol Sulfate 0.083 % Solution Sig: [**12-10**]  Inhalation Q4H (every 4 hours) as needed.
+Scopolamine Base 1.5 mg Patch 72HR Sig: One (1) Patch 72HR Transdermal Q72H (every 72 hours).
+Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Zinc Sulfate 220 mg Capsule Sig: One (1) Capsule PO DAILY (Daily).
+Sirolimus 1 mg/mL Solution Sig: One (1)  PO DAILY (Daily).
+Prednisone 10 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 4 to 6 hours) as needed for fever.
+Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1) Injection TID (3 times a day).
+Acetylcysteine 20 % (200 mg/mL) Solution Sig: One (1) ML Miscell.
+Morphine 2 mg/mL Syringe Sig: One (1)  Injection Q4H (every 4 hours) as needed.
+Metoclopramide 5 mg/mL Solution Sig: One (1)  Injection Q6H (every 6 hours).
+Disp:*16 32g* Refills:*0*   Discharge Disposition: Extended Care  Facility: [**Hospital3 7**] & Rehab Center - [**Hospital1 8**]  Discharge Diagnosis: respiratory failure liver failure; s/p liver transplant  Discharge Condition: stable  Discharge Instructions: Tracheostomy tube is to remain in place.

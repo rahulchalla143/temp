@@ -1,0 +1,53 @@
+Admission Date:  [**2168-9-12**]              Discharge Date:   [**2168-9-29**]  Date of Birth:  [**2100-11-15**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 1148**] Chief Complaint: Altered mental status  Major Surgical or Invasive Procedure: Temporary HD catheter line placement Tunnelled HD catheter line placement Hemodialysis   History of Present Illness: Mr. [**Known lastname **] is a 67 year old gentleman with a past medical history notable for hypertension, ESRD on dialysis, CHF, atrial fibrillation on coumadin, recent MRSA bacteremia on vancomycin, CAD s/p CABG and LAD stenting, and past CVA who presented to the [**Hospital1 18**] on [**2168-9-12**] from his renal dialysis facility because of change in mental status.
+On the morning of admission, the patient was taken to dialysis at [**Location (un) **] Dialysis where he screamed continuously and held his groin area (the site of a femoral line).
+Due to concern about the patient's change in mental status and possible pain at the femoral line site, he did not undergo his dialysis treatment and was taken to the [**Hospital1 18**] emergency department for evaluation.
+The patient was given 1 gram of ceftazidime, 1 gram of vancomycin, epoetin, 5 mcg of paricalcitol, 62.5 mg of ferric gluconate.
+Given the persistence of the RLL consolidation, the patient was admitted to the [**Hospital1 139**] general medical service for work-up of his mental status change and treatment of pneumonia.
+He was initially treated with Levo/Flagyl, changed to Cefepime and Tobramycin and Flagyl when his cultures grew out Enterobacteriae; subsequently this was changed to Meropenem as it was felt that he may have an ESBL organism.
+His last nodal agents was 9pm on [**2168-9-18**] (he is on metoprolol 25mg [**Hospital1 **]) and his last sedatives were olanzapine at 10am on [**2168-9-18**] and trazodone at 9pm on [**2168-9-18**].
+On the floor, he was given atropine x 2 and his heart rate increased to 60s after 1st atropine and his BP increased to the 110s.
+Past Medical History: 1) Left occipital lobe CVA [**2-22**] p/w change in MS [**First Name (Titles) **] [**Last Name (Titles) **], chronic CVAs now on coumadin for likely embolic nature 2) Paroxysmal Afib, rate controlled with tachy/brady, occas 2 sec pauses, best managed with metoprolol 75 tid per cards 3) Chronic eosinophilia unknown etiology, strongyloides sent in [**2-22**] for w/u as well as SPEP/UPEP 4) h/o GI Bleed in [**2167-7-20**] while on asa, plavix, IIb/IIIa post-cath--no EGD or C-scope performed in f/u yet 5) ESRD secondary to HTN, dialysis MWF- followed by Dr. [**First Name (STitle) 805**]  6) h/o bacteremia w/ MRSA (most recently diagnosed on admission from [**8-10**] to [**2168-8-17**]) on Vancomycin until [**2168-9-23**].
+7) h/o pulling out groin lines 8) HTN, controlled 9) CAD s/p NSTEMIS, 2 LAD stents, CABG [**2164**]: last ECHO [**2167-8-27**],  EF >55% 10) Hyperlipidemia 11) Diverticulosis 12) Severe Hyperparathyroidism, presumed adenoma, not on vitamin  D for this concern 13) chronic anemia 14) chronic transudative pleural effusions 15) h/o neurocysticercosis calcified  Social History: Lives in nursing home.
+1+ carotid, radial pulses.
+(SENSITIVITIES: CEFEPIME S; CEFTAZIDIME R; CEFTRIAXONE R; CIPROFLOXACIN R; GENTAMICIN S; IMIPENEM S; LEVOFLOXACIN I; MEROPENEM S; PIPERACILLIN R; TOBRAMYCIN S) .
+IDENTIFICATION AND SENSITIVITIES PERFORMED ON CULTURE # [**Numeric Identifier 32727**] [**2168-9-12**].
+Brief Hospital Course: Mr. [**Known lastname **] is a 67 yo w PMHx of HTN, ESRD on dialysis, CHF, atrial fibrillation on coumadin, recently completedcourse of vancomycin for MRSA bacteremia, CAD s/p CABG and LAD stenting, and past CVA who was admitted and treated for mental status changes secondary to Enterobacter bacteremia who's hospitalization was complicated by MICU stay for acute change in mental status and bradycardia which had resolved by discharge.
+Patient was initially admitted with change in MS on [**9-12**].
+Initially was treated with Levo/Flagyl, then Cefepime and Tobramycin, changed to Meropenum on [**9-16**].
+He had a new left tunneled hemodialysis line put in on [**2171-9-24**].
+He completed a 14day course of meropenum on [**2168-9-29**].
+# End Stage Renal Disease: This patient has ESRD and is on dialysis (MWF schedule).
+Continue with nephrocaps and sevelamer.
+He had IR guided permanent HD catheter placement [**9-23**].
+Unclear etiology: possibly med effect-received metoprolol on night before MICU admission, ruled out cardiac event with negative cardiac enzymes.
+Improved with dopamine and was slowly weaned off.
+His metoprolol was discontinued.
+Which resolved and antihypertensives were slowly added back.
+At discharge patient was on admission doses of clonidine, amlodipine and lisinopril, but his metoprolol was discontinued.
+# Coronary Artery Disease:  He was managed with medical management by continuing atorvastatin 80mg and asa 81mg.
+Metoprolol was discontinued.
+He was reversed for tunneled line placement.
+Patient was restarted on coumadin at home dose of 1mg QHS.
+Patient received EPO and transfusions.
+Medications on Admission: Docusate Sodium 100 mg Capsule One Capsule PO BID (2 times a day) B Complex-Vitamin C-Folic Acid 1 mg Capsule One Cap PO daily Sevelamer 800 mg Tablet One Tablet PO TID (3 times a day).
+Lactulose 10 g/15 mL Syrup Thirty ML PO DAILY PRN constipation.
+Trazodone 25 mg PO HS (at bedtime) PRN insomnia Cinacalcet 30 mg Tablet One Tablet PO Daily Aspirin 81 mg Tablet, Chewable One Tablet PO Daily Clonidine 0.2 mg Tablet One Tablet PO TID (3 times a day) Amlodipine 5 mg Tablet One Tablet PO Daily Atorvastatin 80 mg Tablet One Tablet PO Daily Ferrous Sulfate 325 (65) mg Tablet One Tablet PO Daily Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+One Tablet, Delayed Release PO Q24H (every 24 hours) Metoprolol Tartrate 25 mg Tablet One Tablet PO BID (2 times a day) Lisinopril 10 mg Tablet One Tablet PO Daily (discharge summary says 20 mg per day, med sheet says 10 mg per day) Vancomycin HCl 1000 mg IV TO BE DOSED AT HEMODIALYSIS (Through [**2168-9-23**]) Coumadin 1 mg Tablet One Tablet PO QPM (discharge summary said to take every other day, med sheet from nursing home says he is getting it every evening)  Discharge Medications: 1.
+B Complex-Vitamin C-Folic Acid 1 mg Capsule Sig: One (1) Cap PO DAILY (Daily).
+Cinacalcet 30 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Meropenem 500 mg Recon Soln Sig: One (1) Recon Soln Intravenous  QHD: Please have his hemodialysis unit dose the meropenum after HD until [**2168-9-29**].
+Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO at bedtime.
+Clonidine 0.2 mg Tablet Sig: One (1) Tablet PO TID (3 times a day): Please hold for SBP < 100. .
+Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day): titrate to 1BM each day.
+Lactulose 10 g/15 mL Syrup Sig: Thirty (30) ML PO DAILY; PRN () as needed for constipation.
+Sevelamer 800 mg Tablet Sig: One (1) Tablet PO three times a day: Please monitor phosphate.
+Coumadin 1 mg Tablet Sig: One (1) Tablet PO at bedtime: Please monitor with INRs.
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+Lisinopril 20 mg Tablet Sig: One (1) Tablet PO once a day.
+Amlodipine 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Sevelamer 800 mg Tablet Sig: One (1) Tablet PO TID (3 times a day).
+Warfarin 1 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+Lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Discharge Disposition: Extended Care  Facility: Roscommon  Discharge Diagnosis: Primary Bacteremia-enterobacter ESRD on HD CAD s/p CABG A fib h/o MRSA bacteremia Bradycardia Secondary Anemia   Discharge Condition: Stable   Discharge Instructions: Please take your medications as prescribed.
+We have discontinued your metoprolol secondary to your bradycardia, the trazadone secondary to change in mental status, and iron discontinued.

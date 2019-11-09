@@ -1,0 +1,50 @@
+Admission Date:  [**2139-1-1**]              Discharge Date:   [**2139-1-13**]   Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 2108**] Chief Complaint: shortness of breath  Major Surgical or Invasive Procedure: None   History of Present Illness: [**Age over 90 **] y/o M with [**First Name9 (NamePattern2) 3262**] [**Last Name (un) 3562**] disease, COPD, atrial fibrillation on coumadin, and recurrent transitional cell bladder CA s/p multiple resections (most recent cauterization in [**2138-7-20**] admitted to the hospital for hematuria, confusion, respiratory distress, and low HCT).
+The patient had been taking Augmentin and gent at home for PNA (on [**12-29**] for 7 day [**Last Name (un) 10128**]).
+He was placed on Cpap in the ED.
+A foley was placed and UA performed which showed UTI with WBC of [**11-8**].
+Vancomycin added to abx.
+He received Zosyn, 1 unit of blood, and treatment for COPD including non-invasive ventilation.
+Past Medical History: 1. prostate ca s/p XRT [**2119**] 2. bladder ca, papillary urothelial carcinoma, high grade (dx in  [**2133-3-20**]), nonmetastatic (negative cystoscopy [**8-24**])  -most recent cystoscopy and bladder resection in [**2138-7-20**] 3. lumbar fracture L5 -- w/multiple steroid injections, previously on chronic opioid therapy 4.
+PUD with GIB in [**2120**] 6. hx of rheumatic fever 7. hx of CVA 8. s/p appendectomy 9. s/p lap chole in [**2122**] 10. chronic LE edema 11. tachy-brady syndrome s/p pacer [**39**].
+afib-aflutter not on coumadin due to bleeding 13.
+LGIB secondary to rectal ulcer:[**Date range (3) 96242**] with rectal ulcer s/p sigmoidoscopy and cauterization.
+Melanoma, s/p removal  Social History: Lives in [**Hospital3 **] facility with the help of a caretaker, [**Name (NI) 3065**].
+Occasional Vtach during exam PULM: Diffuse wheezes, diffuse rhonchi, some crackles BL at bases.
+Pertinent Results: ADMISSION LABORATORY STUDIES:  - [**2139-1-1**] 02:20PM   WBC-8.8 (NEUTS-83.0* LYMPHS-9.3* MONOS-5.7 EOS-1.7 BASOS-0.3) RBC-2.55* HGB-7.6* HCT-24.0* MCV-94# MCH-29.8 MCHC-31.6 RDW-15.1 PLT COUNT-248  - [**2139-1-1**] 02:20PM   [**2139-1-1**] 02:20PM   PT-14.9* PTT-30.0 INR(PT)-1.3*  - [**2139-1-1**] 02:20PM   GLUCOSE-88 UREA N-35* CREAT-2.3* SODIUM-141 POTASSIUM-4.9 CHLORIDE-106 TOTAL CO2-28 ANION GAP-12 ALT(SGPT)-7 AST(SGOT)-24 ALK PHOS-53 TOT BILI-0.2 LIPASE-28 cTropnT-0.10* CK-MB-8 proBNP-5173*  - [**2139-1-1**] 02:20PM URINE  COLOR-Red APPEAR-Cloudy SP [**Last Name (un) 155**]-1.013 [**2139-1-1**] 02:20PM URINE  BLOOD-LG NITRITE-NEG PROTEIN-150 GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 LEUK-SM URINE  RBC->50 WBC-[**11-8**]* BACTERIA-MOD YEAST-NONE EPI-0  - [**2139-1-1**] 02:58PM   TYPE-ART RATES-21/ TIDAL VOL-355 O2-40 PO2-91 PCO2-46* PH-7.40 TOTAL CO2-30 BASE XS-2 INTUBATED-NOT INTUBA VENT-SPONTANEOU [**2139-1-1**] 02:27PM   freeCa-1.12  DISCHARGE LABORATORY STUDIES: Na 139, K 4.7, Cl 104, Bicarb 30, BUN 38, Cr 1.9, Glucose 89 Calcium 8.2, Mg 2.2, Phos 3.8 WBC 9.7, HCT 28.4, PLT 193  MICROBIOLOGY:  - [**2139-1-3**]  STOOL CLOSTRIDIUM DIFFICILE TOXIN A & B TEST: NEGATIVE  - [**2139-1-2**]  URINE Legionella Urinary Antigen: NEGATIVE  - [**2139-1-2**]  RIGHT HEEL SWAB GRAM STAIN-FINAL; WOUND CULTURE-FINAL {PROTEUS MIRABILIS, CORYNEBACTERIUM SPECIES (DIPHTHEROIDS)}; ANAEROBIC CULTURE-FINAL INPATIENT                              PROTEUS MIRABILIS                              | AMPICILLIN------------  =>32 R AMPICILLIN/SULBACTAM--     8 S CEFAZOLIN-------------     8 S CEFEPIME--------------   <=1 S CEFTAZIDIME-----------   <=1 S CEFTRIAXONE-----------   <=1 S CIPROFLOXACIN---------   =>4 R GENTAMICIN------------     8 I MEROPENEM-------------<=0.25 S PIPERACILLIN/TAZO-----   <=4 S TOBRAMYCIN------------     4 S TRIMETHOPRIM/SULFA----  =>16 R   - [**2139-1-1**]  URINE URINE CULTURE-FINAL {YEAST} INPATIENT  - [**2139-1-1**]  BLOOD CULTURE WITH NO GROWTH  [**2139-1-11**] 3:55 pm BLOOD CULTURE    Blood Culture, Routine (Pending):  x 2  Urine Cytology [**2139-1-4**]: SUSPICIOUS FOR UROTHELIAL CARCINOMA.
+Brief Hospital Course: COPD Exacerbation/Hosp Acquired PNA:  Pt was in hypercarbic respiratory failure upon presentation to ED and was admitted to the ICU on non-invasive ventilation.
+He was treated with steroids, nebs and weaned from non-invasive prior to transfer to floor.
+Pt was continued on steroid taper and was initially improving.
+He was started on a course of Vanc/Zosyn (day 1 was [**2139-1-11**] of a planned 8 day course).
+Pt was being treated with augmentin for a UTI and received a dose of gentamycin prior to admission to [**Hospital1 18**].
+Given his hx of MDR organisms, he was treated with zosyn for a 10 day course.
+Pt was transfused by slowly drifting hematocrit and will need close f/u with urology (1 unit PRBC on [**1-2**] and 1 unit PRBC on [**1-8**]).
+Pt was started on Vanco 125mg QID while on broad spectrum abx with plan to taper after completed of course for HAP.
+Stage III CKD: Pt was in acute renal failure on admission which improved after IVF and was restarted on home lasix regimen with stable creatinine.
+Creatine did increase from 1.5 ([**1-12**]) to 1.9 ([**1-13**]) without a change in hemodynamics and without a change in volume status (euvolemic on exam), this will need to be rechecked.
+His Cr was 1.9 on discharge (which is within his baseline of 1.5-2.0), PLEASE RECHECK CREATININE ON THURSDAY [**2139-1-15**]- if increasing please discontinue lasix and dose based on weight prn gain > 3 pounds.
+Paroxysmal Afib- continued on amiodarone and beta blocker, pt is not on anticoagulation due to GI bleed  Hypertension- continued on amlodipine  Parkinson's disease- continued on Sinemet  Bilateral heel ulcers: pt was found on admission to have pressure ulcers on both heals.
+The right side required a bedside debridement while the left was a dark blister that was treated with offloading and wound care.
+Pt will need continued offloading with multipodus boots and podiatry f/u.
+CODE STATUS: confirmed DNR/DNI with HCP [**Name (NI) **]  Medications on Admission: amiodarone 200 mg daily Lasix 20 mg Tablet 3x / week metoprolol tartrate 25 mg 1.5 tablets TID simvastatin 10 mg Daily isosorbide mononitrate 30 mg Tablet Sustained Release Daily amlodipine 10 mg daily acetaminophen 650 mg Q6H PRN allopurinol 100 mg QOD DuoNeb 0.5 mg-3 mg(2.5 mg base)/3 mL Solution PRN albuterol Q6H PRN omeprazole 20 mg daily mirtazapine 15 mg QHS carbidopa-levodopa 25-100 mg TID Ferrous sulfate 325 mg daily bisacodyl 10mg rectally daily PRN Fleet enema rectally daily PRN docusate sodium 100 mg [**Hospital1 **] PRN senna 8.6 mg [**Hospital1 **] PRN oxycodone 5mg [**Hospital1 **] PRN for pain multivitamin daily Augmentin 500mg TID x 7 days start [**12-29**]  Discharge Medications: 1. amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. furosemide 20 mg Tablet Sig: One (1) Tablet PO MWF (Monday-Wednesday-Friday).
+3. metoprolol succinate 100 mg Tablet Sustained Release 24 hr Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).
+4. simvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+5. isosorbide mononitrate 30 mg Tablet Sustained Release 24 hr Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).
+6. amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+7. acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO TID (3 times a day) as needed for pain.
+8. allopurinol 100 mg Tablet Sig: One (1) Tablet PO EVERY OTHER DAY (Every Other Day).
+10. omeprazole 20 mg Capsule, Delayed Release(E.C.)
+11. mirtazapine 15 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+12. carbidopa-levodopa 25-100 mg Tablet Sig: One (1) Tablet PO TID (3 times a day).
+13. ferrous sulfate 300  mg (60 mg Iron) Tablet Sig: One (1) Tablet PO DAILY (Daily).
+14. bisacodyl 5 mg Tablet, Delayed Release (E.C.)
+15. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+16. senna 8.6 mg Tablet Sig: 1-2 Tablets PO BID (2 times a day) as needed for constipation.
+17. oxycodone 5 mg Tablet Sig: One (1) Tablet PO twice a day as needed for pain.
+18. vancomycin 125 mg Capsule Sig: One (1) Capsule PO Q6H (every 6 hours).
+19. lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig: One (1) Adhesive Patch, Medicated Topical DAILY (Daily) as needed for L leg pain.
+20. piperacillin-tazobactam 2.25 gram Recon Soln Sig: 2.25 g Intravenous Q8H (every 8 hours) for 7 days.
+21. vancomycin in D5W 1 gram/200 mL Piggyback Sig: One (1) gram Intravenous Q48H (every 48 hours) for 7 days.
+You started to improve with treatment for a COPD exacerbation but later developped a pneumonia.
+You have been treated with antibiotics for the urinary tract infection and the pneumonia.
+We made the following changes to your medications: - continue taking Vancomycin & Zosyn for another X days - stop Augmentin  Followup Instructions: Department: SURGICAL SPECIALTIES When: THURSDAY [**2139-1-15**] at 2:00 PM With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 4653**], MD [**Telephone/Fax (1) 5727**] Building: [**Hospital6 29**] [**Location (un) **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage  Name:[**Doctor Last Name **] S.[**Name8 (MD) **],MD Address: [**Street Address(2) **], 2 WEST, [**Location (un) **],[**Numeric Identifier 809**] Phone: [**Telephone/Fax (1) 14148**] Please call the above number for a follow up appointment to your hospitalization with hte next two weeks

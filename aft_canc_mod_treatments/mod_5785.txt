@@ -1,0 +1,29 @@
+Admission Date:  [**2105-12-28**]              Discharge Date:   [**2106-1-4**]  Date of Birth:  [**2032-6-12**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 8104**] Chief Complaint: shortness of breath  Major Surgical or Invasive Procedure: none  History of Present Illness: Ms. [**Known lastname 96013**] is a 73yo woman with h/o stage IIB non-small cell lung cancer s/p resection who presents with shortness of breath and cough.
+Her primary doctor thought that she might have a pneumonia and started her on an antibiotic.
+She was given ceftriaxone and levofloxacin.
+Her blood pressure remained low (ranging 83-106 systolic), so she was given 1.5L of saline and admitted to the ICU for further care.
+(-)ve: fever, night sweats, chest pain, palpitations, rhinorrhea, nasal congestion, hemoptysis, paroxysmal nocturnal dyspnea, constipation, hematochezia, dysuria, urinary frequency, urinary urgency, focal numbness, focal weakness, myalgias, arthralgias.
+Past Medical History: Stage IIB NSCLC diagnosed [**5-/2105**]  - s/p LUL lobectomy c/b PA tear, which was repaired  - oncology opted for conservative management (no chemotherapy) Anxiety and Panic attacks in setting of recent cancer diagnosis Paroxysmal Atrial fibrillation, not on coumadin Hyperlipidemia s/p cataract surgery h/o Skin cancer removed from nose, pt thinks it was basal cell Osteoporosis Mitral valve prolapse   Social History: Lives alone.
+Multifocal consolidation in the right middle and right lower lobe, likely infection, although underlying malignancy can not be excluded.
+STOOL FECAL CULTURE-FINAL; CAMPYLOBACTER CULTURE-FINAL; CLOSTRIDIUM DIFFICILE TOXIN A & B TEST-FINAL  [**2105-12-31**] 11:21 am STOOL     CONSISTENCY: NOT APPLICABLE       Source: Stool.
+She was treated with ceftriaxone and levofloxacin (day 1=[**12-28**]) for a planned 10 day course.
+She was then transistioned to ceftriaxone and azithromycin given lower risk of diarrhea.
+She was also given Atrovent and albuterol nebulizations as needed for dyspnea.
+She was treated with IV metoprolol, and her po metoprolol was increased for rate control.
+Coumadin was not initiated, but can be considered in the outpatient setting.
+# Hypotension:  She initially had transient hypotension improved with IV fluids and her blood pressure returned to her baseline with SBP in the low 100's.
+# Acute renal failure:  Her creatinine was increased to 1.3 on admission from a baseline of 0.7.
+This resolved with IV fluid hydration and was felt to be secondary to dehydration and hypotension.
+# Osteoporosis:  Continued on Actonel  # Anxiety:  Ativan prn was given for anxiety.
+Medications on Admission: MEDICATIONS: Actonel 5mg Centrum silver daily Chlordiazepoxide 25mg daily prn anxiety Lipitor 20mg daily  ALLERGIES:  NKDA  Discharge Medications: 1.
+Azithromycin 250 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours) as needed for pneumonia for 1 days.
+Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation Q6H (every 6 hours) for 1 weeks.
+Atenolol 25 mg Tablet Sig: One (1) Tablet PO once a day.
+Outpatient Physical Therapy Pulmonary rehabilitation program x6 sessions   Discharge Disposition: Home With Service  Facility: [**Hospital 119**] Homecare  Discharge Diagnosis: 1) Septic shock 2) Pneumonia 3) Atrial Fibrillation 4) Hypoxemia 5) Acute renal failure 6) Diarrhea   Discharge Condition: Mental Status:Clear and coherent Level of Consciousness:Alert and interactive Activity Status:Ambulatory - Independent Ambulatory sat 93% room air   Discharge Instructions: You were admitted with a severe pneumonia.
+Medication changes: -STARTED:  1)Azithromycin  250 mg Tablet  Sig:  One (1) Tablet PO Q24H (every 24 hours)x1 day.
+2) Aspirin  81 mg Tablet, Chewable  Sig:  One (1) Tablet, Chewable PO DAILY (Daily).
+3)Ipratropium Bromide  0.02 % Solution  Sig:  One (1) Inhalation Q6H (every 6 hours) for 1 week.
+4)  Atenolol  25 mg Tablet  Sig:  One (1) Tablet PO once a day.
+Followup Instructions: Appointment #1  MD: Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 2903**]  Specialty: PCP  Date/ Time: Monday, [**1-11**] at 11:00am  Location: [**Hospital1 **] HEALTHCARE - [**State 3753**]GROUP, [**State **], [**Apartment Address(1) 3745**], [**Location (un) **],[**Numeric Identifier 809**]  Phone number: [**Telephone/Fax (1) 2205**]  Appt #2 Provider: [**Name10 (NameIs) **] SCAN Phone:[**Telephone/Fax (1) 327**] Date/Time:[**2106-1-12**] 11:00  Appt#3 Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 593**], MD Phone:[**0-0-**] Date/Time:[**2106-1-26**] 11:30 Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 12633**], MD Phone:[**Telephone/Fax (1) 22**] Date/Time:[**2106-1-26**] 11:30

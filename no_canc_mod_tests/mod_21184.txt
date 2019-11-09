@@ -1,0 +1,20 @@
+Admission Date:  [**2147-5-6**]              Discharge Date:   [**2147-5-11**]   Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 1828**] Chief Complaint: low HCT  Major Surgical or Invasive Procedure: EGD with epinephrine and clipping, [**2147-5-8**]   History of Present Illness: Pt is a 85 yo female with a Hx significant for A-fib on aspirin 325BID, who presented to OSH with a HCT of 16 and report per son that patient had experienced increased fatigue and unsteady gait yesterday.
+Social History:  lives with husband at assisted [**First Name9 (NamePattern2) 62680**] [**Location (un) **], walks with walker, no tobacco or alcohol abuse  Physical Exam: T 99.4 BP: 108/33 HR 77 SPO2 100% 3L General: pale appearing female in NAD, AOx1, flat affect HEENT: pale conjunctiva, dry MM, no dentition Neck: supple, no LAD Lungs: CTA bilaterally Heart: RRR, no m/r/g Abdomen: obese, soft, epigastric tenderness Extremities: cool, without clubbing or edema   Pertinent Results: [**2147-5-6**] 03:45PM   WBC-17.5*# RBC-1.92*# HGB-5.9*# HCT-18.5*# MCV-96 MCH-30.7 MCHC-31.9 RDW-14.7 [**2147-5-6**] 03:45PM   NEUTS-82.0* LYMPHS-14.7* MONOS-2.8 EOS-0.3 BASOS-0.3 [**2147-5-6**] 08:30PM   GLUCOSE-113* UREA N-73* CREAT-1.2* SODIUM-140 POTASSIUM-4.3 CHLORIDE-111* TOTAL CO2-20* ANION GAP-13 .
+EGD ([**2147-5-8**]) Esophagus: Lumen: A complex, sliding, medium paraesophageal hernia was seen.
+A hemoclip was then applied to the visible vessel.
+She remained HD stable with SBP in 110s and HR in 70s after initial 2L NS bolus.
+She was transiently on a PPI drip and was transfused a total of 4U with HCT coming up to 27 from 18.
+Her HCT remained stable after these initial 4 units.
+GI did not feel that the pt was still actively bleeding, thus no urgent scope was performed in the MICU.
+She had an EGD performed by GI which demonstrated a single cratered ulcer in the duodenal bulb with stigmata of recent bleeding.
+The pt's HCT was stable for the remainder of her [**Hospital 62681**] hospital stay at around 27 to 28.
+The pt's antihypertensives were held in this setting and her blood pressure was well-controlled with only diltiazem.
+In the setting of having her beta blocker held, the pt was noted to have several episodes of AF with RVR (HR to the 140s), as well as two episodes of SVT (HR again to 140s) that was thought to likely represent AVNRT.
+A TSH and CXR were checked and were unremarkable.
+A chest x-ray after several days without Lasix did not demonstrate any evidence of failure.
+A echo in [**2145**] demonstrated preserved EF and mild AR.
+This was deferred at the time of discharge so that the pt's HCT could be followed for another 1-2 weeks.
+Medications on Admission: Aspirin 325 [**Hospital1 **] Lasix 20 mg daily Metoprolol 25 [**Hospital1 **] Lisinopril 2.5 Citalopram 20mg QHS  Discharge Medications: 1.
+Vital signs and HCT stable.
+--> Your Lasix was stopped because your blood pressure was normal.
+--> Your lisinopril was stopped because your blood pressure was normal.

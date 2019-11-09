@@ -1,0 +1,54 @@
+Admission Date:  [**2129-3-17**]              Discharge Date:   [**2129-3-25**]  Date of Birth:  [**2047-12-6**]             Sex:   M  Service: MEDICINE  Allergies: Iodine  Attending:[**First Name3 (LF) 2279**] Chief Complaint: RUQ pain  Major Surgical or Invasive Procedure: ERCP [**3-17**] percutaneous chole tube [**3-22**]   History of Present Illness: This is a 81 year-old male with a history of HTN and afib on coumadin who was transfered from on [**Hospital3 **] Hospital due to hypotension and choledocholititasis/cholangitis.
+Pt became febrile after admission with rigors and temp to 104.2 rectally.
+He was given zosyn x 1.
+Past Medical History: Afib on coumadin Pacemaker HTN GERD SBO in [**2053**] Ischemic cardiomyopathy, EF 60% Modearate MR on last echo appendectomy Esaphageal stricture   Social History: Lives with his wife on [**Location (un) **].
+Pertinent Results: Admission labs: [**2129-3-17**] 07:41AM   WBC-12.5* RBC-3.65* HGB-12.1* HCT-36.0* MCV-99* MCH-33.2* MCHC-33.7 RDW-13.8 [**2129-3-17**] 07:41AM   NEUTS-87.0* BANDS-0 LYMPHS-9.5* MONOS-3.3 EOS-0.1 BASOS-0.2 [**2129-3-17**] 07:41AM   HYPOCHROM-NORMAL ANISOCYT-1+ POIKILOCY-NORMAL MACROCYT-NORMAL MICROCYT-1+ POLYCHROM-NORMAL [**2129-3-17**] 07:41AM   PT-19.7* PTT-29.9 INR(PT)-1.8* [**2129-3-17**] 07:41AM   ALT(SGPT)-21 AST(SGOT)-28 LD(LDH)-205 CK(CPK)-163 ALK PHOS-45 TOT BILI-1.6* .
+Sphincterotomy was not performed due to elevated INR as per ERCP note.
+A 7 cm x 10 French plastic biliary stent was placed in the common bile duct for decompression.
+Sphincterotomy was not performed in the setting of elevated INR.
+Instead, a 7 cm x 10 French plastic biliary stent was placed for decompression.
+Transvenous pacer lead is continuous from the left pectoral pacemaker to floor of the right ventricle.
+[**3-22**] IR report: The risks and benefits of the procedure were explained to the patient.
+Preprocedure timeout confirmed the identity of the patient and the procedure to be performed.
+IMPRESSION: Successful placement of percutaneous cholecystostomy tube.
+Brief Hospital Course: This is a 81 year-old male with a history of afib, CAD, ICM (?EF) who presents with fevers, RUQ, hypotension, and dilated CBD [**3-16**] to obstructing stone from [**Hospital3 **] hospital for ERCP.
+He improved with IVF and IV unasyn.
+His BP soon stabilized after aggressive hydration.
+A sphincterotomy was not performed due to elevated INR.
+In setting of acute cholangitis, A 7cm by 10FR Cotton-[**Doctor Last Name **] biliary plastic stent was placed successfully for decompression.
+AFter the plastic stent was placed he initially felt symptomatically improved and demonstrated quick normalization of his LFTs.
+IV unasyn was switched to PO augmentin.
+He however he spiked to 101 on this regimen and cipro was added for added coverage.
+He continued to have low-grade temperatures on this regimen, so the antibiotics were broadened to zosyn and vancomycin.
+In discussion with ERCP, a CT abd/pelvis was pursued on [**3-22**] given ongoing low-grade temperatures.
+Upon discussion with surgery (Dr. [**First Name (STitle) **] and ERCP (Dr. [**Last Name (STitle) 99779**], a percutaneous chole tube placement for GB decompression was felt to be the best option rather than CCY, given the extent of inflammation and the [**Hospital 228**] medical co-morbidities (though no active medical issues).
+He underwent placement of the tube by IR the evening on [**3-22**] without any complications.
+He was continued on zosyn and vancomycin, and had good output through the tube.
+He will follow-up with surgery (Dr. [**First Name (STitle) **] on [**4-15**] for removal of the tube and discussion regarding CCY.
+In addition, he will need a repeat ERCP in 1 month for stent removal, sphincterotomy and stone extaction, when off of coumadin.
+#  Atrial fibrillation - the patient was continued on metoprolol for rate control.
+The coumadin was discontinued post-ERCP and re-started, but discontinued again in preparation for the perc chole tube on [**3-22**].
+He was restarted on coumadin on [**3-24**] per discussion with IR; this will need to be titrated up slowly to achieve goal INR [**3-17**].
+His primary cardiologist, Dr. [**Last Name (STitle) 20948**], was notified of the current admission and agreed that bridging with heparin wasnot required as patient had not had a prior embolic event.
+He developed acute on chronic sCHF [**3-16**] IVF resuscitation in the ICU; this was treated with IV lasix with good response.
+His lisinopril was increased from 5 mg to 20 mg for good blood pressure control, as he continued to be hypertensive on his usual regimen (SBPs 160s).
+He was continued on unasyn and cipro for it (on it anyway for acute cholangitis).
+He was also treated with atrovent/albuterol for treatment of possible COPD component.
+# Dispo: discharged home with services to aid with tube management on [**3-25**].
+[**3-22**] BLOOD CULTURES (NGTD)   Medications on Admission: Per cardiologist's list: Metoprolol 25 mg [**Hospital1 **] Coumadin 5 mg 5x/week, 2.5 mg 2x/week Lasix 20 mg daily Omeprazole 20 mg daily Zocor 20 mg daily Lisiniprol 5 mg daily Atrovent ...............  Folic acid 1 mg Daily Lisinopril 5 mg Daily Lopressor 25 mg [**Hospital1 **] Protonix 40 mg IV Daily Thiamine 100 mg Daily Zosyn 4.5 mg IV Q8hours Albuterol Q2 PRN Tylenol PRN  Discharge Medications: 1. lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2* 2. simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+3. metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+4. ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 hours) for 10 days.
+Disp:*20 Tablet(s)* Refills:*0* 5. metronidazole 500 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 hours) for 10 days.
+Disp:*30 Tablet(s)* Refills:*0* 6. furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+7. warfarin 2.5 mg Tablet Sig: Two (2) Tablet PO 5X/WEEK ([**Doctor First Name **],MO,TU,TH,FR).
+8. warfarin 2.5 mg Tablet Sig: One (1) Tablet PO 2X/WEEK (WE,SA).
+9. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+Atrovent HFA 17 mcg/Actuation HFA Aerosol Inhaler Sig: [**2-13**] puffs Inhalation every six (6) hours.
+Coumadin will be titrated accordingly.
+You were treated with iv fluids and antibiotics with improvement of the infection.
+This stone will be removed in 1 months time (for a repeat ERCP) when you are off the coumadin for at least a 5 day period.
+You developed acute cholecystits , requiring placement of a percutaneous tube.
+START Cipro and flagyl for 10 more days (last day [**2129-4-4**]).
+Increased lisinopril to 20 mg daily (from 5 mg) 3.
+Continue current warfarin dosing (5 mg 5x/week, 2.5 mg 2x/week) but this may change depending on INR test Sunday, [**3-27**]   Followup Instructions:   ERCP in 1 month at the Gastroenterology suite at [**Hospital1 18**].

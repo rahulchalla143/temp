@@ -1,0 +1,26 @@
+Admission Date:  [**2193-6-28**]              Discharge Date:   [**2193-7-2**]  Date of Birth:  [**2141-10-8**]             Sex:   F  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**Last Name (NamePattern1) 4917**] Chief Complaint: Suicide attempt  Major Surgical or Invasive Procedure: Intubation Placement of right IJ central line  History of Present Illness: 51 year old woman with a h/o depression who was found earlier today at home by her neighbor.
+SBP dropped to the 60s prior to transfer so a RIJ was placed and she was started on dopamine.
+Bipolar disorder - H/o right elbow laceration on [**2193-6-26**] - S/p Liposuction of abdomen, hips, thighs and knees [**2193-6-12**] - S/p bilateral breast augmentation [**2193-6-12**] - H/o right shoulder rotator cuff repair   Social History: Lives with husband.
+Family History: Cousin with bipolar disorder  Physical Exam: ADMISSION EXAM: General: Intubated, sedated but opens eyes on command HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL Neck: Supple, JVP not elevated, no LAD, RIJ in place CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops Chest: Healing scars under both breasts Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi Abdomen: Soft, non-tender, non-distended, bowel sounds present, no organomegaly GU: + foley Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema Neuro: Pupils 5cm b/l, reactive.
+Pertinent Results: ADMISSION LABS: [**2193-6-28**] 01:54AM BLOOD WBC-10.2 RBC-3.44* Hgb-11.0* Hct-33.5* MCV-98 MCH-32.1* MCHC-32.9 RDW-13.3 Plt Ct-264 [**2193-6-28**] 01:54AM BLOOD PT-11.7 PTT-24.3* INR(PT)-1.1 [**2193-6-28**] 01:54AM BLOOD Glucose-121* UreaN-15 Creat-0.9 Na-149* K-3.4 Cl-117* HCO3-20* AnGap-15 [**2193-6-28**] 01:54AM BLOOD Calcium-7.0* Phos-3.5 Mg-1.9 [**2193-6-28**] 02:04AM BLOOD Lactate-1.4 [**2193-6-28**] 02:04AM BLOOD Type-[**Last Name (un) **] pO2-56* pCO2-50* pH-7.25* calTCO2-23 Base XS--5 [**2193-6-28**] 04:45AM BLOOD Type-ART Rates-18/ Tidal V-450 FiO2-40 pO2-143* pCO2-43 pH-7.33* calTCO2-24 Base XS--3 -ASSIST/CON Intubat-INTUBATED  RELEVANT LABS: [**2193-6-28**] 12:15PM BLOOD calTIBC-204* Ferritn-96 TRF-157* [**2193-6-28**] 06:36PM BLOOD Acetmnp-27  DISCHARGE LABS: [**2193-7-1**] 05:50AM BLOOD WBC-6.0 RBC-3.49* Hgb-11.1* Hct-33.4* MCV-96 MCH-31.9 MCHC-33.3 RDW-12.9 Plt Ct-275 [**2193-7-1**] 05:50AM BLOOD Glucose-87 UreaN-11 Creat-0.7 Na-143 K-3.6 Cl-104 HCO3-32 AnGap-11 [**2193-7-1**] 05:50AM BLOOD ALT-14 AST-21 AlkPhos-64 TotBili-0.3 [**2193-7-1**] 05:50AM BLOOD Calcium-8.6 Phos-3.6 Mg-1.9  IMAGING:  CT Head [**2193-6-28**]: 1.
+Brief Hospital Course: PRIMARY REASON FOR HOSPITALIZATION: 51 year old woman with a H/O depression s/p purposeful suicide attempt after taking multiple pills, intubated for increasing lethargy, with hypotension and seizures.
+ACTIVE DIAGNOSES: # Drug overdose: The patient was known to have purposefully ingested multiple medications and an unknown amount of alcohol.
+She was admitted to the ICU and aggressively resuscitated with interventions including intubation/mechanical ventilation, central IV access, vasopressor support, IV fluids, and nutrition support.
+She was given N-acetyl-cysteine therapy for acetaminophen toxicity.
+The patient stabilized, was extubated, and had her central line removed before being transferred to the general medicine floor.
+The patient was also monitored on a CIWA protocol for alcohol withdrawal.
+The patient can be evaluated at followup with her primary care physician to evaluate and manage any residual effects of these substances.
+She was already intubated and required a midazolam drip to break the seizure.
+The patient had no evidence of GI or other bleeding during her stay and did not require blood product transfusions.
+# Suicide attempt, secondary to mood disorder:  The patient was evaluated by psychiatry, who recommended inpatient psychiatric treatment once medically stable for discharge.
+The patient was placed on a section 12 hold and 1:1 observation throughout her admission.
+Her home psychiatric medications were held.
+TRANSITIONAL ISSUES: She was transferred to an inpatient psychiatric unit for treatment of the conditions underlying the intentional suicide attempt.
+Medications on Admission: Clonazepam 2 mg tabs 1-2 tabs qhs Buproprion 300 mg po qam Methocarbamol 500-1000mg q4h prn Citalopram 40 mg qam   Discharge Medications: 1.
+FoLIC Acid 1 mg PO DAILY 2.
+Multivitamins 1 TAB PO DAILY 3.
+Ibuprofen 400 mg PO Q8H:PRN Pain   Discharge Disposition: Extended Care  Facility: [**Hospital1 **] 4  Discharge Diagnosis: Overdose Suicide attempt Mood disorder   Discharge Condition: Mental Status: Clear and coherent.
+You were admitted due to overdose of your medications, which caused you to become very lethargic, your breathing to slow down, and your blood pressure to drop.
+You were admitted to the intensive care unit with a breathing tube to assist your ventilations, and received IV fluids as well as medications to maintain your blood pressure and prevent toxic effects of the substances.
+You also had a seizure, which we stopped with IV medications.
+Once you were stable, we removed the breathing tube and moved you to a general medical floor.

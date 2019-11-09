@@ -1,0 +1,24 @@
+Admission Date:  [**2151-11-21**]              Discharge Date:   [**2151-12-2**]  Date of Birth:  [**2084-11-16**]             Sex:   M  Service: CARDIOTHORACIC  Allergies: Ambien  Attending:[**First Name3 (LF) 1283**] Chief Complaint: shortness of breath  Major Surgical or Invasive Procedure: s/p redo sternotomy OPCABGx1 (SVG to PDA) on [**11-22**], MVR (#29 Medtroinc Mosaic), TV repair (#32 CE ring) via right thoracotomy [**11-23**]   History of Present Illness: Mr. [**Known firstname **] [**Known lastname **] is a 67 year old gentleman who has had multiple recent hospital admissions for congestive heart failure.
+He was therefore recommended for surgical correction of his cardiac pathologies.
+- Coronary artery bypass graft (CABG) x 5.
+- Left inguinal hernia repair in [**2149**].
+His abdomen was soft, non-tender, and non-distended.
+He was therefore recommended for surgical correction of his cardiac pathologies.
+He was taken to the operating room on [**2151-11-22**] with [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] for a redo sternotomy and off pump CABGx1.
+He tolerated the procedure well and transferred to the surgical intensive care unit in critical but stable condition.
+On the following day on [**2151-11-23**] he underwent the second stage of his intervention, a mirtal valvereplacement with a #29 [**Company 1543**] mosaic valve and a tricuspid valve repair with a 32 CE ring via a right thoracotomy.
+He tolerated this procedure well and was transferred in critcal but stable condition to the surgical intensive care unit.
+He was weaned from his pressors, his chest tubes were removed.
+His epicardial wires were removed.
+Medications on Admission: protonix 40 toprol XL 25 lisinopril 2.5 lasix 80 TID digoxin 0.125  Discharge Medications: 1.
+Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 times a day).
+Aspirin 81 mg Tablet, Delayed Release (E.C.)
+Digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+Ipratropium-Albuterol 18-103 mcg/Actuation Aerosol Sig: Two (2) Puff Inhalation Q4H (every 4 hours).
+Fluticasone 110 mcg/Actuation Aerosol Sig: Two (2) Puff Inhalation [**Hospital1 **] (2 times a day).
+Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every 4 hours) as needed.
+Lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO Q6H (every 6 hours) as needed.
+Disp:*qs ML(s)* Refills:*0*   Discharge Disposition: Extended Care  Facility: [**Hospital 12414**] Healthcare Center - [**Location (un) 12415**]  Discharge Diagnosis: CAD, severe mitral regurgitation, severe tricuspid regurgitation s/p redo sternotomy OPCABGx1, MVR, TV repair congestive heart failure hypercholesterol hypertension chronic renal failure ITP pancreatic cysts renal artery stenosis s/p CEA s/p CABG1984 pulmonary hypertension   Discharge Condition: good   Discharge Instructions: Follow medications on discharge instructions.
+Do not use creams, lotions, or powders on wounds.

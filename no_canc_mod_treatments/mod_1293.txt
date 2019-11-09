@@ -1,0 +1,50 @@
+Admission Date:  [**2135-1-20**]              Discharge Date:   [**2135-1-25**]   Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 1936**] Chief Complaint: Respiratory distress  Major Surgical or Invasive Procedure: none   History of Present Illness: This is a 88 year-old male with a history of CAD s/p CABG [**2121**], CHF (EF: 25%), DM2, HTN, HL, a-fib who presents with dyspnea.
+He was at rehab and was given a neb, but continued to have worsening dyspnea.
+In the ED he was placed on NRB with initial vital signs 97.1 HR:64 BP:142/81 RR:36 O2:99%.
+He was then placed on BiPAP and vitals signs improved to HR:63 BP:120/64 RR:20 O2:100%.
+Labs were significant for a BNP: [**Numeric Identifier 8068**], trop:0.04, CK:36, WBC: 15.5, lactate 2.4 creatinine 1.4.
+In the ICU the patient was continued on bipap and comfortable.
+ROS: The patient denies any fevers, chills, weight change, nausea, vomiting, abdominal pain, diarrhea, constipation, melena, hematochezia, chest pain, shortness of breath, orthopnea, PND, lower extremity oedema, cough, urinary frequency, urgency, dysuria, lightheadedness, gait unsteadiness, focal weakness, vision changes, headache, rash or skin changes.
+Past Medical History: - CHF (EF 25% [**2132**]) - [**Company 1543**] Thera DDD pacer for sick sinus syndrome - Coronary artery disease s/p CABG '[**21**] w/ SVG-RCA-PDA, SVG-OM1,  LIMA-LAD, and status post MI - Status post DDD pacer placement in [**2122-1-17**] for sinus  arrest and bradycardia - History of prostate cancer status post XRT in [**2121**], status post prostatectomy.
+?F) HR: 60 (60 - 69) bpm BP: 127/65(81) {126/64(78) - 127/65(81)} mmHg RR: 29 (17 - 29) insp/min SpO2: 96% Heart rhythm: V Paced  General Appearance: Well nourished, No acute distress, Anxious, on bipap Eyes / Conjunctiva: PERRL, No(t) Pupils dilated, Conjunctiva pale Head, Ears, Nose, Throat: Normocephalic, dry MM Cardiovascular: (S1: Normal), (S2: Normal), (Murmur: No(t) Systolic, No(t) Diastolic) Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse: Present), (Right DP pulse: Present), (Left DP pulse: Present) Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Crackles : b/l , Bronchial: , Diminished: L>R) Abdominal: Soft, Non-tender, Bowel sounds present, No(t) Distended, No(t) Tender: , Obese Extremities: Right lower extremity edema: Absent, Left lower extremity edema: Absent Skin:  Not assessed Neurologic: Attentive, Follows simple commands, Responds to: Verbal stimuli, Oriented (to): x3, Movement: Purposeful, No(t) Sedated, Tone: Normal   Pertinent Results: ==================   ADMISSION LABS ==================  [**2135-1-20**] 01:00AM BLOOD WBC-15.5*# RBC-3.82* Hgb-9.8* Hct-31.6* MCV-83 MCH-25.6* MCHC-30.9* RDW-18.4* Plt Ct-295 [**2135-1-20**] 01:00AM BLOOD Neuts-90.9* Lymphs-4.3* Monos-4.3 Eos-0.5 Baso-0.2 [**2135-1-20**] 01:00AM BLOOD PT-24.1* PTT-30.6 INR(PT)-2.3* [**2135-1-20**] 01:00AM BLOOD Glucose-190* UreaN-29* Creat-1.4* Na-142 K-4.3 Cl-100 HCO3-31 AnGap-15 [**2135-1-20**] 01:00AM BLOOD CK-MB-NotDone proBNP-[**Numeric Identifier 8068**]* [**2135-1-20**] 01:00AM BLOOD cTropnT-0.04* [**2135-1-20**] 01:00AM BLOOD Calcium-9.1 Phos-4.5 Mg-2.0 [**2135-1-20**] 01:04AM BLOOD Lactate-2.4* K-4.4  ECHO ([**2135-1-20**]) The left atrium is moderately dilated.
+Overall left ventricular systolic function is severely depressed (LVEF= 20-30 %) secondary to extensive severe inferior and posterior wall hypokinesis/akinesis, apical dyskinesis, and hypokinesis of all other segments with relatively preserved function of the basal segments.
+Unchanged position of sternal wires and pacemaker leads.
+This is a 88 year-old male with a history of CAD s/p CABG [**2121**], CHF (EF: 25%), DM2, HTN, HL, a-fib who presents with dyspnea.
+Given his extensive cardiac history most likely etiology is CHF exacerbation, and during admission able to elucidate recent discontinuation of metolazone and drastic dose reductions in home furosemide, carvedilol and ACE-I.
+Patient was given BIPAP initially and diuresed gently to avoid acute kidney injury.
+Able to transition to supplemental oxygen without difficulty in MICU and patient was transferred to the floor for further management of his CHF exacerbation.
+Antibiotics were discontinued with exception of azithromycin (5 day course).
+Given aspiration unable to complete barium study, but aspiration precautions were intitated (chin tuck / multiple chews per bite / honey thickened fluids / pureed solids).
+CAD s/p CABG [**2121**]: Pt with no evidence of active ischemia.
+Patient continued on ASA 81mg QD, lisinopril, and carvedilol / cont isosorbide mononitrate.
+We adjusted medications of his diurietics and added metalozone.
+Rate control achieved with carvedilol, we continued coumadin in house at a lower dose than his outpatient dose (as per daily INR value with a INR goal between [**1-19**])  .
+# FEN: NPO while on BiPAP .
+# PPx: bowel regimen, H2, coumadin .
+# Comm: [**First Name4 (NamePattern1) **] [**Name (NI) 8069**] (Son) [**Telephone/Fax (1) 8070**]   Medications on Admission: LISINOPRIL 5mg daily CARVEDILOL - 3.125 mg [**Hospital1 **] FUROSEMIDE - 80mg daily GLYBURIDE - 10mg qam 7.5mg qpm ISOSORBIDE MONONITRATE - 10 mg daily PANTOPRAZOLE 20mg [**Hospital1 **] SIMVASTATIN - 10 mg daily WARFARIN SODIUM - 2.5MG/3MG alternating ASPIRIN - 81MG Tablet QOD LEXAPRO 10mg daily MULTIVITAMIN daily SENNA Percocet prn pain Lidoderm patch Reglan 5 mg PO 3x daily with meals ISS Trazodone 50mg Tab PO QHS PRN Ativan 0.5min 1 tab PO Q 8 H PRN    Discharge Medications: 1.
+Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Carvedilol 3.125 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Furosemide 80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Metolazone 2.5 mg Tablet Sig: One (1) Tablet PO 3X/WEEK (TU,TH,SA).
+Omeprazole 20 mg Capsule, Delayed Release(E.C.)
+Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Warfarin 2 mg Tablet Sig: One (1) Tablet PO Once Daily at 4 PM.
+Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+Escitalopram 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for Constipation.
+Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1)  Inhalation Q6H (every 6 hours) as needed for SOB.
+Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation Q6H (every 6 hours) as needed for SOB.
+Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for pain.
+Polyvinyl Alcohol-Povidone 1.4-0.6 % Dropperette Sig: [**12-18**] Drops Ophthalmic PRN (as needed) as needed for dry eyes.
+17. insulin Insulin SC  (per Insulin Flowsheet)       Sliding Scale 18.
+Bisacodyl 5 mg Tablet, Delayed Release (E.C.)
+Discharge Disposition: Extended Care  Facility: [**Hospital1 599**] of [**Location (un) 55**]  Discharge Diagnosis: Dyspnea CAD s/p CABG [**2121**] CHF A-fib CKD DMII Hyperlipidemia   Discharge Condition: Mental Status:Confused - sometimes Level of Consciousness:Alert and interactive Activity Status:Out of Bed with assistance to chair or wheelchair   Discharge Instructions: You came to the hospital with shortness of breath.
+We found that you had diastolic congestive heart failure due to your recent medication changes.
+You were placed back on your medications to help with diuresis.
+You responded well to the medications and recovered appropriately.
+STOPPED: Percocet prn pain  - you were not in pain Lidoderm patch  - you were not in pain GLYBURIDE - 10mg qam 7.5mg qpm - did not require in house ISOSORBIDE MONONITRATE - 10 mg daily  - defer to restart in the future, you were placed on Metalozone for further diuresis, as your blood pressure is already within normal range, we did not feel that Isosorbide Mononitrate should be restarted at the time of your discharge.
+Reglan 5 mg PO 3x daily with meals - did not require in house ISS - due to blood glucose changes Trazodone 50mg Tab PO QHS PRN - did not require in house Ativan 0.5min 1 tab PO Q 8 H PRN - due to sedation effects WARFARIN SODIUM - 2.5MG/3MG alternating - due to supertherapeutic INR  STARTED: 1.
+Metolazone  2.5 mg Tablet  Sig:  One (1) Tablet PO 3X/WEEK (TU,TH,SA).
+Albuterol Sulfate  2.5 mg /3 mL (0.083 %) Solution for Nebulization  Sig:  One (1) Inhalation Q6H (every 6 hours) as needed for SOB.
+Ipratropium Bromide  0.02 % Solution  Sig:  One (1) Inhalation Q6H (every 6 hours) as needed for SOB.

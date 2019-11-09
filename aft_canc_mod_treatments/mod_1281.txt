@@ -1,0 +1,82 @@
+Admission Date:  [**2189-8-31**]              Discharge Date:   [**2189-9-4**]  Date of Birth:  [**2114-5-12**]             Sex:   F  Service: MEDICINE  Allergies: Magnesium Sulfate  Attending:[**Last Name (NamePattern4) 290**] Chief Complaint: Dyspnea   Major Surgical or Invasive Procedure: Bilateral chest tubes placed [**2189-8-31**] Right sided pleurex chest tube [**2189-9-3**]   History of Present Illness: Pt is a 75yo woman with critical AS, CHF (EF 30%), complete heart block s/p pacemaker, HCV, hypothyroidism, recently diagnosed aggressive B cell lymphoma c/b SVC syndrome s/p Y stent and subsequent removal, C3D+11 reduced R-CHOP.
+Recently admitted for hypotension and anemia/thrombocytopenia requiring transfusions in the setting of her critical AS.
+She was then transfused 1unit PRBCs and 1 bag of platelets, and given a dose of Neupogen.
+She denies any chest pain, abd pain, nausea, vomiting, change in bowel habits, or dysuria.
+She was given PO K 40 mEq but she vomited the pills.
+No IV fluids or Abx were given.
+[**Date range (3) 23460**]: Admitted to [**Hospital1 18**] with c/o 2 months of facial swelling, poor appetite and 10 lbs weight loss.
+Silicone Y stent placed for extrinsic compression in light of [**Year (4 digits) 9140**] respiratory symptoms.
+TREATMENT HISTORY:  *  Received two doses of emergency radiation therapy on [**2189-5-15**], a dose of Cytoxan on [**2189-5-16**] and three-fifth dose of [**Hospital1 **] chemotherapy starting on [**2189-5-20**] that had to be aborted secondary to failure of her vascular access.
+Mediastinal biopsy on [**2189-6-3**] was nondiagnostic and the Y stent was removed.
+* 2nd cycle of [**Hospital1 **] (dose level 1) given on [**2189-6-8**], requiring increasing doses of Lasix to maintain her volume status.
+Given her difficult access, it was decided to leave PICC in place and she continued on Lovenox twice per day.
+Noted for C difficile infection and treated with Flagyl which has been switched to Vancomycin.
+* Discharged on [**2189-7-2**] and saw Dr. [**Last Name (STitle) 23461**] [**Name (STitle) 3315**] from [**Company 2860**] in consultation who recommended a dose adjusted CHOP regimen given her age and other medical issues with usual dose of Rituxan.
+Started on a lasix drip and underwent aggressive electrolyte and fluid management.
+* Received dose adjusted CHOP on [**2189-7-18**](Cytoxan given at a dose of 400 mg per meter squared, Adriamycin 25 milligrams per meter squared, vincristine 2 mg(no dose reduction) and prednisone 60 milligrams daily for 5 days).
+Cardiac catheterization done which revealed full occlusion of her RCA stent and 70-80% stenosis of her LMCA that had developed since the most recent angiogram.
+No surgical intervention was performed given her high risk; continued on her aspirin.
+Metoprolol has been held with low blood pressure but restarted along with aspirin.
+Maintained on Oxygen and was discharged on [**2189-8-8**].
+* [**2189-7-23**], admitted for her 2nd cycle of the dose adjusted RCHOP.
+Chemotherapy given on [**2189-8-19**] and Rituxan on [**2189-8-20**] after her pleural effusion was again tapped and her fluid status maximized with aggressive diuresis.
+Repeat upper extremity ultrasound showed resolution of upper extremity thrombus and Lovenox discontinued.
+Past Medical History: - Left breast cancer s/p lumpectomy and radiation in [**2153**], at [**State 792**]Hospital - Critical aortic stenosis with plans for possible percutaneous aortic valve replacement, aortic valve area of 0.87 cm2 - Coronary artery disease s/p drug-eluting stent to the RCA in [**2188-5-21**] - moderate aortic regurgitation - Complete heart block status post pacemaker [**2185-6-21**] - CHF, EF 35-40% ([**2189-7-15**]) - History of Pericarditis- prior to [**2184**] - Chronic Hepatitis C: stage II fibrosis per biopsy [**Month (only) **] [**2185**] - Osteopenia - Hypothyroidism - Basal cell carcinoma s/p resection of right clavicular lesion [**2187**] - Hyperlipidemia - Hypertension - Endometriosis - Superior vena cava syndrome resulting from primary mediastinal lymphoma, s/p Y bronchial stent placement, Y stent has been removed.
+XRT for SVC syndrome - s/p [**Company 1543**] PPM [**2184**] (Model # ADDRL1) - s/p Bilateral Cataracts - s/p Left Breast Lumpectomy - s/p Laparoscopy for Endometriosis - s/p Squamous Cell Removal   Social History: Lives alone, works as an artist(abstract art).
+Physical Exam: Admission physical exam VS: Temp 98.6F, HR 86, BP 105/49, RR 20, SaO2 98% 3L General: chronically-ill elderly woman in resp distress, comfortable, appropriate [**Name (NI) 4459**]: NC/AT, pupils equal, EOMI, sclerae anicteric, dry MM, OP clear Neck: supple, no LAD or thyromegaly Lungs: decreased BS in RML/RLL, crackles at left base; labored breathing, using accessory muscles Heart: RRR, nl S1-S2, +3/6 SEM throughout precordium Abdomen: +BS, soft/NT/ND, no masses or HSM Extrem: WWP, no c/c/e Skin: multiple ecchymoses on BUE and BLE Neuro: A&Ox3, grossly intact  Discharge physical exam Vs: T 97.5, BP 80/46, HR 109, RR 18, 100% on 4L General aaox3 in nad, chronically ill appearing [**Name (NI) **]: [**Name (NI) **], peerla, no facial flushing  when recumbent, no stridor Card: rrr, coarse holosystolic murmur at lusb that extends throughout Lungs: diffuse crackles, decreased breath sounds on the right base compared to the left base Ab: thin, soft, non tender, nondistended, normative bowel sounds Extremities: no peripheral edema, 1+dp pulses bilaterally Skin: petichiae on extremities and multiple ecchymotic areas on the extremities   Pertinent Results: Admission Labs: [**2189-8-30**] 10:55PM   WBC-10.2# RBC-2.85* HGB-10.2* HCT-30.1* MCV-105* MCH-35.7* MCHC-33.9 RDW-19.4* [**2189-8-30**] 10:55PM   NEUTS-85.8* LYMPHS-7.1* MONOS-6.7 EOS-0.2 BASOS-0.2 [**2189-8-30**] 10:55PM   PLT COUNT-52* [**2189-8-30**] 10:55PM   PT-11.4 PTT-30.1 INR(PT)-1.1 [**2189-8-30**] 10:55PM   GLUCOSE-108* UREA N-18 CREAT-0.8 SODIUM-133 POTASSIUM-3.2* CHLORIDE-90* TOTAL CO2-34* ANION GAP-12 [**2189-8-30**] 10:55PM   CALCIUM-10.0 PHOSPHATE-3.5 MAGNESIUM-1.7 [**2189-8-30**] 10:55PM   cTropnT-<0.01 proBNP-[**Numeric Identifier 23459**]* [**2189-8-30**] 11:04PM   LACTATE-1.8  Discharge labs: [**2189-9-3**] 03:09AM BLOOD WBC-7.4 RBC-2.86* Hgb-10.1* Hct-30.1* MCV-105* MCH-35.4* MCHC-33.7 RDW-18.5* Plt Ct-82* [**2189-9-2**] 02:34AM BLOOD Neuts-86.1* Lymphs-5.5* Monos-8.1 Eos-0.1 Baso-0.2 [**2189-9-3**] 03:09AM BLOOD PT-10.7 PTT-30.2 INR(PT)-1.0 [**2189-9-3**] 03:09AM BLOOD Glucose-90 UreaN-21* Creat-0.6 Na-134 K-3.9 Cl-97 HCO3-29 AnGap-12 [**2189-9-3**] 03:09AM BLOOD ALT-23 AST-22 AlkPhos-74 TotBili-0.8 [**2189-9-3**] 03:09AM BLOOD Calcium-8.3* Phos-1.7*# Mg-1.7  Microbiology: Blood cultures 9/9: SPHINGOMONAS SPECIES                              | CEFEPIME--------------    16 I CEFTAZIDIME-----------     4 S CEFTRIAXONE-----------   <=4 S CIPROFLOXACIN---------     1 S GENTAMICIN------------   <=1 S IMIPENEM--------------   <=1 S LEVOFLOXACIN----------   <=1 S MEROPENEM-------------     1 S PIPERACILLIN/TAZO-----   <=8 S TOBRAMYCIN------------   <=1 S TRIMETHOPRIM/SULFA----   <=2 S  Pleural fluid cultures 9/10: negative Blood cultures 9/10: pending, no growth at time of discharge Urine culture [**8-31**]: PROBABLE ENTEROCOCCUS.
+Superimposed PNA cannot be excluded, but seems unlikely given lateral radiograph demonstrates no definite opacity.
+Overall left ventricular systolic function is moderately depressed (LVEF ?35%) with septal hypokinesis (the anterior wall and apex are not fully visualized).
+Right chest tube has been inserted replacing a pigtail catheter.
+Brief Hospital Course: Ms. [**Known lastname **] is a 75yo F with PMH of critical AS, systolic heart failure (EF 30%), complete heart block s/p pacemaker, hypothyroidism, aggressive B cell lymphoma s/p multiple rounds of reduced CHOP and many admissions over the past few months for dyspnea and decompensated heart failure in the setting of fluid resuscitation for chemotherapy and transfusions, who presented with [**Known lastname 9140**] dyspnea on exertion.
+She had bilateral chest tubes placed and developed [**Known lastname 9140**] hypoxia following this, likely due to reexpansion pulmonary edema and required transfer to the ICU.
+She was diuresing well out of her chest tubes prior to them becoming kinked and they were pulled on [**9-2**].
+Given her tenous balance between renal perfusion and her respiratory status, and difficulty diruesing her and her known preload dependence from her critical AS, discussion was had with her heme-onc providers about whether she was tolerating the chemotherapy.
+It was clear that she was not tolerating her chemotherapy sessions, as they required large volumes of fluids to prevent renal toxicity and other complications, and it was unclear if there was significant improvement in her disease.
+Prior to discharge she had a right sided pleurex chest tube placed for palliative diuresis of her reaccumulating pleural effusion.
+Acyclovir 400 mg PO Q8H 2.
+Albuterol 0.083% Neb Soln 1 NEB IH Q4H:PRN SOB or wheeze 3.
+Cyanocobalamin 50 mcg PO DAILY 4.
+Docusate Sodium 100 mg PO BID 5.
+Filgrastim 300 mcg SC Q24H 6.
+FoLIC Acid 1 mg PO DAILY 7.
+Heparin Flush (10 units/ml) 2 mL IV PRN line flush PICC, heparin dependent: Flush with 10mL Normal Saline followed by Heparin as above daily and PRN per lumen.
+Levothyroxine Sodium 125 mcg PO DAILY 9.
+Lidocaine 5% Patch 1 PTCH TD DAILY:PRN back pain To mid-back 10.
+Lorazepam 0.25 mg PO HS:PRN insomnia 11.
+Metoprolol Succinate XL 25 mg PO DAILY 12.
+Multivitamins 1 TAB PO DAILY 14.
+Nystatin Oral Suspension 10 mL PO Q8H 15.
+Omeprazole 20 mg PO DAILY 16.
+Ondansetron 4-8 mg PO Q8H:PRN nausea 17.
+OxycoDONE (Immediate Release)  5 mg PO Q6H:PRN pain 18.
+Senna 1 TAB PO BID:PRN constipation 19.
+Sucralfate 1 gm PO TID 21.
+Sulfameth/Trimethoprim SS 1 TAB PO DAILY 22.
+Torsemide 10 mg PO DAILY 23.
+TraMADOL (Ultram) 50 mg PO Q6H:PRN pain 24. traZODONE 12.5 mg PO HS:PRN sleep 25.
+Vancomycin Oral Liquid 125 mg PO DAILY 26.
+Vitamin D 400 UNIT PO DAILY 27.
+Albuterol Inhaler [**12-22**] PUFF IH Q4H:PRN shortness of breath 28.
+Aspirin 81 mg PO DAILY 29.
+PredniSONE 60 mg PO ONCE Duration: 1 Doses Please take 1 more prednisone on [**8-23**] to complete treatment 30.
+Morphine Sulfate (Concentrated Oral Soln) 2-20 mg PO Q1H:PRN pain or shortness of breath 20 mg/mL solution, please dispense 30 mL RX *morphine concentrate 20 mg/mL 2-20 mg by mouth Q1H Disp #*30 Milliliter Refills:*2 2.
+Docusate Sodium 100 mg PO BID 3.
+Nystatin Oral Suspension 10 mL PO TID 4.
+Torsemide 10 mg PO DAILY 5.
+Albuterol 0.083% Neb Soln 1 NEB IH Q4H:PRN shortness of breath or wheezing 6.
+Albuterol Inhaler [**12-22**] PUFF IH Q4H:PRN shortness of breath or wheezing 7.
+Levothyroxine Sodium 125 mcg PO DAILY 8.
+Lidocaine 5% Patch 1 PTCH TD DAILY:PRN pain 9.
+Ondansetron 4-8 mg PO Q8H:PRN nausea 10.
+Senna 1 TAB PO BID:PRN constipation 11.
+You had chest tubes placed, and after developing more difficluty breathing you were monitored in the ICU.
+We treated you with medications to help remove the fluid, and your breathing improved.
+You also received morphine, which helped treat your shortness of breath.
+We also spoke with your cardiologist, and your aortic stenosis cannot be fixed surgically.
+Therefore, we switched our focus of our treatment on managing your symptoms.
+Do not manipulate catheter in any way.
+Keep a daily log of Drainage amount and color.
+You may shower with an occlusive dressing 7.
+If the drainage is less than 50cc for three consecutive drainages please call the office for further instructions.
+Pleurex catheter sutures to be removed when seen in clinic [**10-4**] days post PleurX placement.
+Followup Instructions: Please follow up with Dr [**Last Name (STitle) **] in [**Hospital 23463**] clinic on Wednesday for suture removal in 2 weeks.

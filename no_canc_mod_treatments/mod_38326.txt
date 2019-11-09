@@ -1,0 +1,57 @@
+Admission Date:  [**2180-3-29**]              Discharge Date:   [**2180-4-13**]  Date of Birth:  [**2110-7-20**]             Sex:   M  Service: MEDICINE  Allergies: Penicillins / IV Dye, Iodine Containing  Attending:[**First Name3 (LF) 2195**] Chief Complaint: Dyspnea, Acute Renal Failure  Major Surgical or Invasive Procedure: Temporary Dialysis Catheter Placement Tunneled Dialysis Catheter Placement Central Venous Line Placement   History of Present Illness: Mr. [**Known lastname **] is a 69 yo M with h/o CKD stage IV, HTN, DM2, Hyperlipidemia presented to [**Location (un) **] ED with weakness, nausea for several days.
+Given vanc 1g, ceftriaxone 1g and levofloxacin 500mg IV for PNA.
+Put on vent at AC Vt 600, RR 20, FiO2 50, PEEP 5, on propofol for sedation.
+Given calcium gluconate, kayexalate.
+Given 200mg IV lasix and put out 200cc urine.
+OG output "coffee grounds materials" and he was started on pantoprazole 40mg IV q12.
+Transferred to [**Hospital1 18**] for consideration of urgent hemodialysis.
+Past Medical History: - HTN - DM2 - CKD Stage IV (Baseline Cr 4.55) - Atrophic left kidney   Social History: Lives with partner in [**Name (NI) 22022**] MA, current smoker.
+?F) HR: 62 (59 - 65) bpm BP: 114/57(72) {112/57(72) - 114/59(73)} mmHg RR: 25 (22 - 25) insp/min SpO2: 95% Heart rhythm: SB (Sinus Bradycardia) Height: 72 Inch General Appearance: Well nourished, intubated, sedated Eyes / Conjunctiva: PERRL Head, Ears, Nose, Throat: Normocephalic, Endotracheal tube, OG tube Lymphatic: Cervical WNL, Supraclavicular WNL Cardiovascular: (S1: Normal), (S2: Normal) Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial pulse: Not assessed), (Right DP pulse: Present), (Left DP pulse: Present) Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Bronchial: RML) Abdominal: Soft, Non-tender, Bowel sounds present Extremities: Right lower extremity edema: Trace, Left lower extremity edema: Trace  On discharge: Tmax: 97.6 Tcurrent: 97.6 HR: 82 (68-82) bpm BP: 144/83 {136/80 - 152/86} mmHg RR: 18 (18 - 20) insp/min SpO2: 96% RA Heart rhythm: Irregular Height: 72 Inch General Appearance: Obese, edematous, but aware and appropriate Eyes / Conjunctiva: PERRL Lymphatic: Cervical WNL, Supraclavicular WNL Cardiovascular: (S1: Normal), (S2: Normal), GII holosystolic murmur RUSB Pulmonary: no increased work of breathing, wheezes at upper lung [**Last Name (un) 8434**], good movement of ir throughout.
+Pertinent Results: Admission Labs: [**2180-3-29**] 12:00AM BLOOD WBC-31.6* RBC-3.35* Hgb-10.6* Hct-31.1* MCV-93 MCH-31.5 MCHC-34.0 RDW-14.4 Plt Ct-267 [**2180-3-29**] 12:00AM BLOOD PT-15.3* PTT-31.9 INR(PT)-1.3* [**2180-3-29**] 12:00AM BLOOD Glucose-176* UreaN-137* Creat-9.7* Na-130* K-5.6* Cl-97 HCO3-13* AnGap-26* [**2180-3-29**] 12:00AM BLOOD ALT-34 AST-57* AlkPhos-85 TotBili-0.7 [**2180-3-29**] 12:00AM BLOOD Albumin-2.4* Calcium-8.9 Phos-11.7* Mg-2.3 [**2180-3-29**] 01:00AM BLOOD Type-ART Temp-36.8 Rates-14/13 Tidal V-500 PEEP-5 FiO2-50 pO2-87 pCO2-34* pH-7.21* calTCO2-14* Base XS--13 Intubat-INTUBATED  Legionella Antigen positive - [**2180-3-30**]  Imaging:  CXR on admission: An endotracheal tube lies with its tip approximately 4 cm from the carina.
+An NG tube lies with its tip below the diaphragm although the tip is not visualized on this study.
+There is increased opacity at the right base with homogenous opacification consistent with a pleural effusion.
+Endotracheal tube is seen 5 cm above the carina.
+The nasogastric tube is seen coiled with the tip within the antrum of the stomach.
+This right kidney lesion can be further evaluated with ultrasound after the patient's acute clinical condition resolves.
+Endotracheal tube is seen 5 cm above the carina.
+The nasogastric tube is seen coiled with the tip within the antrum of the stomach.
+This right kidney lesion can be further evaluated with ultrasound after the patient's acute clinical condition resolves.
+Pertinent labs on discharge: Hemoglobin 7.5 Hct 22.6.
+Brief Hospital Course: Mr. [**Known lastname **] is a 69 y/o M with Stage IV CKD (Cr 4.5), HTN, DM2, p/w weakness & SOB x 3 days, found to have RML/RLL PNA and acute on chronic renal failure, transferred for consideration of urgent hemodialysis.
+Hypoxemia/Pneumonia: Patient arrrived intubated and sedated on mechanical ventilation.
+He was treated initially for community acquired pneumonia with azithromycin and ceftriaxone, but switched to vancomycin and cefepime as he did not intially improve.
+Urine legionella antigen was positive and antibiotics were narrowed to levofloxacin.
+He was continued on levofloxacin with a planned total course of 21 days (Day #15 at discharge).
+Chest compressions were started promptly, he received epinephrine, atropine and received one electrical defibrillation for ventricular fibrillation.
+He received adenosine for SVT, then switchedinto atrial fibrillation with RVR.
+He was give amiodarone 150mg IV, followed by an infusion at 1mg/hr for six hours, then 0.5 mg/hr for 18 hours.
+He was initially treated with kayexalate, and IV bicarbonate.
+A temporary dialysis catheter was placed and CVVH was initiated.
+A left internal jugular tunneled catheter was placed, and he was started on intermittent hemodialysis.
+He was started on Aluminum Hydroxide, this was changed to calcium acetate on discharge.
+He was noted to be severely anemic (Hct 22-25) and possibility of transfusion was discussed, but patient refused.
+After completing his course of amiodarone post arrest, he was started on diltiazem 30mg PO qid with fair to good rate control (80s to 100s).
+He was started on a heaprin drip and warfarin.
+Heparin dependent antibodies were sent and he was initially switched to argatroban; antibodies returned negative.
+He will require INR checks on [**2180-4-14**] and [**2180-4-17**] with further adjustments as needed.
+Mr. [**Known lastname **] did not require insulin therapy upon discharge.
+This was thought to be secondary to levofloxacin therapy.
+[**Name Initial (NameIs) **] [**Name11 (NameIs) **] will need to arrange for regular INR checks while on warfarin after discharge.
+- Patient will need INR monitored tomorrow and Monday and warfarin dose adjusted accordingly.
+- Patient will complete his course of levofloxacin after 3 additional doses Q48H (next dose [**2180-4-14**]).
+Medications on Admission: Atenolol 50mg PO daily Lasix 40mg PO daily Sodium Bicarbonate 2 tabs PO bid minitran patch   Discharge Medications: 1. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+Disp:*120 Tablet(s)* Refills:*2* 3. acetaminophen 500 mg Tablet Sig: 1-2 Tablets PO three times a day as needed for pain, fever.
+Disp:*90 Tablet(s)* Refills:*0* 4. warfarin 2.5 mg Tablet Sig: One (1) Tablet PO Once Daily at 4 PM: PLEASE HOLD TODAY [**2180-4-13**] for INR of 4.6.
+Disp:*30 Tablet(s)* Refills:*2* 5. levofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q48H (every 48 hours).
+PhosLo 667 mg Capsule Sig: As directed Capsule PO twice a day: Take 1 tab after breakfast, 1 tab after lunch, 2 tab after dinner.
+This illness required an admission to the medical intensive care unit and for you to be intubated and placed on a respirator.
+During this time you were diagnosed with pneumonia due to legionella infection and were begun on Levofloxacin IV antibiotics.
+However, during this time you stopped making urine and required dialysis.
+You were started on warfarin anticoagulation therapy to minimize your risk of stroke.
+You improved on antibiotics and were transfered to the medical floor where your respiratory status improved and you defervesed.
+You were continued on dialysis 3x per week.
+We have made the following changes to your medication regimen: - STOP TAKING atenolol while using the diltiazem.
+- STOP TAKING minitran patch while using the diltiazem.
+- BEGIN TAKING diltiazem 30 mg PO every 6 hours for heart rate control (your doctor may wish to change you to a once-daily formula once you are stable on this regimen) - BEGIN TAKING warfarin 2.5 mg PO daily (your doctor will need to monitor your INR and may need to adjust your dose) - BEGIN TAKING Phos-Lo to control your phosphate levels (total 4 tablets daily or as directed by your nephrologist) - BEGIN TAKING aspirin 81 mg PO daily - TAKE AS NEEDED acetaminophen for fever or pain - COMPLETE COURSE of levofloxacin (antibiotic) for your pneumonia (3 more doses over 6 days)  Please continue to take your medications as prescribed.
+You should review your medications with your doctor and discuss referral to a cardiologist for your atrial fibrillation.
+You will also need to have your INR monitored regularly while on anticoagulation therapy with warfarin.

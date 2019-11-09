@@ -1,0 +1,45 @@
+Admission Date:  [**2172-8-25**]              Discharge Date:   [**2172-9-6**]  Date of Birth:  [**2114-3-8**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 3984**] Chief Complaint: dyspnea, hoarseness, and cough  Major Surgical or Invasive Procedure: Bronchoscopy x2 Tracheal Y-stent placement [**2172-8-25**] Pigtail catheter placement (right) [**2172-8-25**] for pleural effusion Intubation [**2172-8-25**], re-intubated [**2172-8-26**] after attempted extubation Chest tube placement (right) [**2172-8-26**] for pneumothorax Radiation therapy x2 Chemotherapy x3days Lumbar puncture [**2172-9-3**]  History of Present Illness: 58 year-old female, 60 pack-year smoker, with dyspnea, hoarseness, and cough x1 month admitted to [**Hospital1 18**] SICU [**2172-8-25**] after found to have large mediastinal mass, today found to be poorly-differentiated carcinoma, suspected small cell.
+Y-stent was placed that evening, in addition to Pigtail catheter for right-sided effusion.
+Patient remained intubated following surgery, on paralytics due to low-lying ET tube and small volume bleeding after endobronchial biopsy.
+Patient was reintubated within 10 minutes due to neurological unresponsiveness, hypoxia (O2 saturation 80s), and hemodynamic instability.
+She was found to have a right pneumothorax, which improved with subsequent placement of chest tube.
+Hospital course also complicated by hyponatremia on admission (Na 118) attributed to SIADH and improved with fluid restriction (Na 126).
+Given hyperkalemia, hyponatremia adrenal insufficiency was suspected; evaluated by endocrine team who recommended stress dose steroids pending further evaluation of etiology of hypotension.
+Also with non-anion gap metabolic acidosis, transient hypothermia (T 95 [**2172-8-26**]) of unknown etiology.
+She remains intubated, on pressure support.
+Past Medical History: Hypertension s/p cerebral sneurysm repair x3 GERD   Social History: Per review of records, 60 pack-year history  Family History: Unable to obtain.
+Physical Exam: On [**Hospital Unit Name 153**] admission [**2172-8-27**]: 96.0, 103, 120/68, 13, 97% [PS 14/5 50%] General: Intubated, sedated, not responsive to verbal stimuli; swelling of head, neck, and upper extremities; wasting of lower extremities Skin: Mottled at arms and superior to nipple line; telangiectasias on chest wall HEENT: Temporal wasting; pupils symmetric, minimal reactivity to light; sclerae anicetric; scleral edema; dry mucous membranes Neck: Large; unable to appreciate neck veins secondary to swelling; right anterior chain palpable lymph node Chest: Right chest tube, pigtail catheter in place Lungs: Upper airway noise; by anterior ausculation, few expiratory wheezes diffusely; breath sounds appreciable in all lung fields CV: Tachycardic; regular rhythm; pronounced S2 at apex; I/VI early systolic murmur at left LLSB; unable to assess pulsus paradoxus given quiet Korsakoff sounds Abdomen: Hypoactive bowel sounds; soft, non-distended GU: Foley Ext: Right DP 1+, left DP appreciated with Doppler; no lower extremity edema; upper extremity nonpitting edema  Pertinent Results: On admission [**2172-8-26**]: WBC-11.1* RBC-3.47* Hgb-10.9* Hct-31.9* MCV-92 MCH-31.5 MCHC-34.2 RDW-12.5 Plt Ct-393 Glucose-112* UreaN-9 Creat-0.8 Na-118* K-4.8 Cl-82* HCO3-24 AnGap-17 ALT-7 AST-21 LD(LDH)-584* AlkPhos-75 TotBili-0.2 Cortsol-25.7* Hgb-13.5 calcHCT-41 O2 Sat-82 .
+[**8-26**] Pleural fluid cytology: Rare groups of epithelioid cells, too few to characterize further.
+By immunohistochemistry: mesothelial cells stain for calretinin and WT-1.
+Right chest tube terminating at apex.
+Interval tracheal stenting with improved caliber of airway.
+Status post bilateral frontal craniotomy and probable aneurysm clipping with encephalomalacic changes in the right frontotemporal and left temporal lobes.
+[**2172-9-4**] CT Chest w/o contrast (to evaluate tumor s/p XRT and chemo for future XRT sessions): 1.
+Lymphangio-carcinomatosis in the right upper lobe.
+Bronchoscopy [**2172-9-4**]: lots of necrotic tissue noted, ETT tube dislodged between stent and tracheal wall, repositioned during bronch.
+Brief Hospital Course: [**Hospital Unit Name 153**] Course [**Date range (3) 84902**] 58F with likely small cell carcinoma complicated by SVC syndrome, airway compromise requiring Y-stent, pericardial effusion, resolved pleural effusion and pneumothorax, and electrolytes disturbances admitted to [**Hospital Unit Name 153**] for radiation decompression therapy and chemotherapy.
+In the [**Hospital Unit Name 153**], she underwent XRT x2 and then chemotherapy for 3 days.
+Pt was started on vancomycin, cefepime and ciprofloxacin (started [**2172-8-31**] for 8 day course) for VAP.
+She initially withdrew from noxious stimuli but later was less responsive.
+AMS continued despite sedation being off.
+Differential also included seizure (given hx of cerebral aneurysm repair, on anti-epileptics presumably prophylactically) although EEG did not demonstrate focal abnormalities.
+Pt underwent 3 days of chemotherapy and 2 sessions of XRT.
+# Acute Renal failure: In setting of chemo with carboplatin.
+Uric acid and electrolytes elevated 4-5d post chemotherapy concerning for tumor lysis syndrome.
+Despite adjusting ETT placement and decreasing RR to reduce auto-peep, pt's acidosis worsened.
+Unable to assess for PE by CTA as pt in renal failure and VQ would not be helpful in setting of other lung pathology.
+Pt remained tachycardic to 130s despite numerous fluid boluses.
+Low UNa does not exclude SIADH; renal recommended rechecking urine lytes with saline load, whcih was not done in setting of pt?????
+Hyperkalemia originally attributed to hypoaldosteronism and Type IV RTA, but unlikely per endocrine because of low urine sodium.
+Possible that tumor pushing into trachea shifted to compress SVC after stent placement.
+She underwent radiation therapy and chemotherapy for decompression.
+Pleural effusion:  s/p right pigtail catheter placement [**2172-8-25**], removed [**2172-8-31**].
+Pneumothorax: Developed pneumothorax in setting of re-intubation that resolved after chest tube placement.
+EKG without signs of electrical alternans but does have low voltages.
+Metoprolol was held and glucagon given in case this was due to beta blocker toxicity, but pauses decreased in frequency and duration on their own without intervention.
+[**Month (only) 116**] have been due to ETT tube displacement pressing on carotid when pt was turned.
+Most likely due to chemotherapy and no improvement in counts on neupogen.
+Her antiepileptic medications were continued.
+Medications on Admission: Home medications: Metoprolol Omeprazole Levetiracetam Carbatrol  Medications on transfer to [**Hospital Unit Name 153**] [**2172-8-27**]: Furosemide 10 mg IV ONCE Duration: 1 Doses Carbamazepine 900 mg PO QPM Carbamazepine 400 mg PO QAM Artificial Tears Preserv.
+Free 1-2 DROP BOTH EYES PRN dry eyes Potassium Phosphate IV Sliding Scale Insulin SC Sliding Scale Insulin Regular 10 UNIT IV ONCE, Dextrose 50% 25 gm IV ONCE Duration: 1 Doses 08/20 @ 0608 Propofol 20-50 mcg/kg/min IV DRIP TITRATE TO moderate/heavy sedation Chlorhexidine Gluconate 0.12% Oral Rinse 15 mL ORAL [**Hospital1 **] Hydrocortisone Na Succ.
+100 mg IV Q8H Nicotine Patch 14 mg TD DAILY LeVETiracetam 500 mg IV BID Magnesium Sulfate IV Sliding Scale Calcium Gluconate IV Sliding Scale Potassium Chloride IV Sliding Scale Albuterol-Ipratropium [**1-10**] PUFF IH Q6H Pantoprazole 40 mg IV Q24H Heparin 5000 UNIT SC TID Fentanyl Citrate 25-100 mcg IV Q6H:PRN Sedation  Discharge Medications: Expired  Discharge Disposition: Expired  Discharge Diagnosis: Expired   Discharge Condition: Expired   Discharge Instructions: Expired  Followup Instructions: Expired                                [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 2437**] MD [**MD Number(1) 2438**]

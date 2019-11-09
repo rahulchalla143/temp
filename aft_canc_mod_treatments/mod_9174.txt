@@ -1,0 +1,23 @@
+Name:  [**Known lastname 11567**],[**Known firstname **]                   Unit No:   [**Numeric Identifier 11568**]  Admission Date:  [**2132-12-31**]              Discharge Date:   [**2133-1-27**]  Date of Birth:  [**2076-5-13**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 406**] Addendum: a  Chief Complaint: a  Major Surgical or Invasive Procedure: a  History of Present Illness: a  Past Medical History: a  Social History: a  Family History: a  Physical Exam: a  Pertinent Results: a  Brief Hospital Course: a  Medications on Admission: a  Discharge Medications: 1.
+Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 4 to 6 hours) as needed.
+Bisacodyl 5 mg Tablet, Delayed Release (E.C.)
+Insulin Regular Human 100 unit/mL Solution Sig: One (1) injection Injection ASDIR (AS DIRECTED): Standard insulin sliding scale, no standing insulin needed.
+Nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID (4 times a day) as needed.
+Albuterol Sulfate 0.083 % Solution Sig: One (1) neb Inhalation Q6H (every 6 hours) as needed.
+Nicotine 14 mg/24 hr Patch 24HR Sig: One (1) Patch 24HR Transdermal DAILY (Daily).
+Lansoprazole 30 mg Capsule, Delayed Release(E.C.)
+Diltiazem HCl 30 mg Tablet Sig: 1.5 Tablets PO QID (4 times a day).
+Heparin (Porcine) 5,000 unit/mL Solution Sig: 5000 (5000) units Injection TID (3 times a day).
+Ipratropium Bromide 0.02 % Solution Sig: One (1) neb Inhalation Q6H (every 6 hours).
+Oxycodone 5 mg/5 mL Solution Sig: 5-10 mg PO every four (4) hours as needed for pain.
+Captopril 12.5 mg Tablet Sig: 0.5 Tablet PO TID (3 times a day).
+Clotrimazole 10 mg Troche Sig: One (1) Troche Mucous membrane  QID (4 times a day) as needed.
+Ferrous Sulfate 300 mg/5 mL Liquid Sig: Three Hundred (300) mg PO DAILY (Daily).
+Simethicone 80 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO QID (4 times a day) as needed for indigestion.
+Tamsulosin 0.4 mg Capsule, Sust.
+Metronidazole 500 mg Tablet Sig: One (1) Tablet PO TID (3 times a day) for 6 weeks: Last date to give: [**2133-3-6**].
+Sulfameth/Trimethoprim 320 mg IV Q8H Duration: 3 Days Last date to give: [**2133-1-29**] 24.
+Ceftriaxone 1 gm IV Q24H Duration: 4 Weeks Last date to give: [**2133-2-18**] 25.
+Dexamethasone 1 mg IV QAM Duration: 7 Days Start: [**2133-1-31**] Last date to give: [**2133-2-6**] 26.
+Dexamethasone 1 mg IV QPM Duration: 7 Days Start: [**2133-1-31**] Last date to give: [**2133-2-6**] 27.
+Dexamethasone 1 mg IV QD Duration: 7 Days Start: [**2133-2-7**] Last date to give: [**2133-2-13**]   Discharge Disposition: Extended Care  Facility: [**Hospital6 11569**] [**Location 205**]  Discharge Diagnosis: a  Discharge Condition: a  Discharge Instructions: a  Followup Instructions: a                               [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 408**] MD [**MD Number(2) 409**]  Completed by:[**2133-1-27**

@@ -1,0 +1,42 @@
+Admission Date:  [**2197-2-8**]              Discharge Date:   [**2197-2-13**]  Date of Birth:  [**2129-4-11**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 2009**] Chief Complaint: Hematemesis  Major Surgical or Invasive Procedure: Esophagogastroduodenoscopy (EGD)   History of Present Illness: Mr. [**Known lastname **] is a 67 year-old man with a history of DM, CAD, large infrarenal AAA with bilateral large common iliac aneurysms, s/p right hypogastric coiled embolization on [**2197-1-17**], who presents with hematemesis and is admitted to the MICU for further management.
+He was recently discharged on [**2-3**] after presenting with ARF and [**1-17**] after presenting with Fournier's Gangrene/periurethral abscesses requiring operative debridment.
+During this hospitalization, he also underwent coil embolization of the right hypogastric artery.
+He was also given pantoprazole 80 iv x 1 and a gtt was started.
+He complained of CP initially which improved with morphine 2mg iv x 2 and blood transfusion.
+Past Medical History: - large infrarenal AAA with b/l large common iliac aneurysms - Urethral abscess - DM - HTN - CAD s/p PCI - R hypogastric coiled embolization on [**2197-1-17**] - suprapubic urinary catheter placement [**2197-1-10**] - per pt has Hx of "stenting" of vessel after left arm pain, but does not believe stent in heart, thinks in arm.
+CT PELVIS WITH CONTRAST: A suprapubic catheter ends the urinary bladder is unchanged.
+The patient is status post embolization of the right internal iliac artery, a finding which is unchanged from the recent comparison CT.
+Both external iliac arteries opacify normally with arterial contrast.
+CXR [**2197-2-9**]: FINDINGS: Interval extubation and removal of nasogastric tube and central line with no evidence of pneumothorax.
+2 2.5 cc.Epinephrine 1/[**Numeric Identifier 961**] injections were applied for hemostasis with success.
+A gold probe was applied for hemostasis successfully to anterior vissible vessel.
+Impression: Mosaic appearance in the fundus and stomach body compatible with possible portal hypertensive gastropathy Ulcer in the proximal bulb and anterior bulb (injection, thermal therapy, endoclip) Ulcer in the gastroesophageal junction Otherwise normal EGD to second part of the duodenum   Brief Hospital Course: Mr. [**Known lastname **] is a 67 year-old man with a history of a large infrarenal AAA with bilateral large common iliac aneurysms, s/p right hypogastric coiled embolization on [**2197-1-17**], who presents with hematemesis.
+An urgent EGD was performed with intubation and anesthesia.
+He received an additional 4 units of PRBC before, during and after the procedure.
+General surgery and interventional radiology were consulted regarding management of his UGIB, and did not recommend further intervention as hemostasis was achieved by EGD.
+On discharge, he was prescribed treatment for H. pylori, as well as a [**Hospital1 **] ppi.
+Myocardial infarction was ruled out by EKG and serial troponins and cardiac enzymes.
+Patient was continued on his statin, but aspirin was held in the setting of an active bleed.
+Patient has a scheduled intervention for his AAA with vascular surgery.
+# Periurethral Abscesses: Patient had recent periurethral abscesses requiring operative debridement and suprapubic urinary catheter placement [**2197-1-10**].
+His suprapubic catheter functioned appropriately well, and the surgical site was healing well.
+# Hypertension:  Blood pressure medications were initially held in the setting of an acute bleed.
+# Diabetes Mellitus: Patient was treated with a humalog sliding scale throughout his hospitalization.
+Metoprolol Succinate 25 mg Tablet Sustained Release 24 hr Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).
+Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY 3.
+Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet daily 4.
+Levofloxacin 250 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours) for 10 days.
+Glyburide 2.5 mg Tablet Sig: One (1) Tablet PO once a day.
+Lisinopril 5 mg Tablet Sig: One (1) Tablet PO once a day.
+Hyoscyamine Sulfate 0.125 mg Tablet Sig: One (1) Tablet PO four times a day: prn for bladder spasms.
+Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Metoprolol Succinate 25 mg PO daily 5.
+Glyburide 2.5 mg Tablet Sig: One (1) Tablet PO once a day.
+Injections, cauterization and clips were placed to stop the bleeding.
+You were given 8 units of packed red blood cells.
+- While taking the [**Last Name (LF) **], [**First Name3 (LF) **] not take protonix (pantoprozole).
+Please continue with all other medications as you were before.
+Please review all changes in your medications with your primary care physician.
+Followup Instructions: Please follow up with the following appointments:  MD: Dr. [**First Name (STitle) **] [**Name (STitle) 66738**] Specialty: Internal Medicine-Primary Care Date/ Time: [**2197-2-27**] 1:30pm Location: [**Last Name (NamePattern1) 84131**], [**Location (un) 2251**] MA Phone number: [**Telephone/Fax (1) 49449**]  Provider: [**Name10 (NameIs) **] RM 2 [**Name10 (NameIs) **]-PREADMISSION TESTING Date/Time:[**2197-2-15**] 10:00  You are scheduled for surgery for your abdominal aortic aneuurysm: Provider: [**Name10 (NameIs) **],[**Name11 (NameIs) **] Time: 10:00 am, Date [**2197-2-20**] Vascular Surgery  Provider: [**First Name8 (NamePattern2) **] [**Name11 (NameIs) 10314**], MD Specialty: Gastroenterology [**Hospital Unit Name 1825**] [**Location (un) 453**] - [**Hospital1 18**] [**Hospital Ward Name 516**] - [**Location (un) **].

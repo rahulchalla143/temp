@@ -1,0 +1,49 @@
+Admission Date:  [**2199-12-21**]              Discharge Date:   [**2200-1-18**]  Date of Birth:  [**2135-3-22**]             Sex:   M  Service: NEUROLOGY  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 17813**] Chief Complaint: altered mental status  Major Surgical or Invasive Procedure: None  History of Present Illness:  64 year old male with Hx of cirrhosis [**1-20**] NASH, DM, HTN, CHF with EF 40%, CAD, seizure disorder, stage IV decubitus ulcer p/w low grade fever and lethargy.
+he recd tylenol at NH and his temp came down to 98.6.
+ROS: ROS: Denies fever, chills, night sweats, headache, vision changes, rhinorrhea, congestion, sore throat, cough, shortness of breath, chest pain, abdominal pain, nausea, vomiting, diarrhea, constipation, BRBPR, melena, hematochezia, dysuria, hematuria.
+Has been on multiple antiepileptic drugs.
+NASH, cirrhosis, hepatocellular carcinoma, recently removed from transplant list [**1-20**] chronic illness 3.
+Coronary artery disease status post cardiac catheterization in [**2187**] w/o stenting 8.
+He was intubated for airway protection and sent to the MICU.
+The patient was treated with lasix for diuresis.
+Sputum cultures were positive for klebsiella, proteus, sensitive to meropenem, zosyn and tobra however most likely contaminent not infection, and the patient was not started on antibiotics as the patient had received vanc/ceftriaxone/flagyl eariler in his hospital course.
+No further bronchoscopy was recommended as it was unlikely that he laryngeal/tracheal stenosis given his clinical improvement with diuresis.
+His home regimen of keppra, zonegran and topamax was increased and ativan, dilantin were added to the regimen.
+He required dilantin loading on two occassions.
+His seizures were eventually well controlled and the ativan was weaned off without seizure recurrence under EEG monitoring.
+He was continued on lactulose and rifaxamin.
+Stage IV sacral decub:  No evidence of osteomyelitis per X-ray.
+#DM: The patient was temporarily taken off home lantus as had episodes of hypoglycemia.
+#Hypothyroidism: continued home levothyroxine .
+Free water boluses were increased through his tube feeds.
+#PPX: PPI, lactulose, pneumoboots (no heparin sq given low platelets), aspiration precautions, contact [**Name (NI) 70584**] #[**Name2 (NI) 7092**]: Full Code #Communication: with wife [**Name (NI) **] ([**Telephone/Fax (1) 70585**]-home) and [**Telephone/Fax (1) 70586**]-cell)  Medications on Admission: -Topiramate 100 mg Tablet [**Hospital1 **] -Metoprolol Tartrate 25 mg [**Hospital1 **] -Levetiracetam 500 mg Tablet [**Hospital1 **] -Zonisamide 500 mg Capsule qd -Levothyroxine 400 mcg Tablet -Lactulose 10 gram/15 mL prn -Rifaximin 200 mg TID -Lorazepam 0.5 mg HS -Furosemide 40 mg qd -Heparin 5,000 unit/mL tid -Multivitamin qd -Folic Acid 1 mg qd -Lansoprazole 30 mg Tablet,qd -Thiamine HCl 100 mg qd -Insulin Glargine 100 unit/mL Solution [**Hospital1 **]: One (1) 60 units Subcutaneous twice a day: Give 60 units at breakfast, 60 units at dinner.
+-Ascorbic Acid 500 mg [**Hospital1 **] -Ipratropium Bromide 0.02 % Solution q6h -Albuterol Sulfate 2.5 mg /3 mL (0.083 %) qid -Silver Sulfadiazine 1 % Cream -Cephalexin 500 mg Capsule Q6H -Zinc Sulfate 220 mg Capsule [**Hospital1 **]: One (1) Capsule PO DAILY (Daily).
+-Nystatin 100,000 unit/mL three times a day.
+-Polyvinyl Alcohol-Povidone 1.4-0.6 % Dropperette Ophthalmic PRN  -Aspirin 325 mg qd -Lidocaine HCl 2 % Gel [**Hospital1 **]: One (1) Appl Mucous membrane PRN -Oxycodone 5 mg Tablet [**Hospital1 **]: 0.5 Tablet PO Q4H (every 4 hours) -Clotrimazole 1 % Cream [**Hospital1 **]: One (1) application Topical twice a day as needed for facial rash for 3 weeks.
+Levothyroxine 100 mcg Tablet [**Hospital1 **]: Four (4) Tablet PO DAILY (Daily).
+Rifaximin 200 mg Tablet [**Hospital1 **]: Two (2) Tablet PO TID (3 times a day).
+Therapeutic Multivitamin     Liquid [**Hospital1 **]: One (1) Tablet PO DAILY (Daily).
+Folic Acid 1 mg Tablet [**Hospital1 **]: One (1) Tablet PO DAILY (Daily).
+Thiamine HCl 100 mg Tablet [**Hospital1 **]: One (1) Tablet PO DAILY (Daily).
+Ascorbic Acid 500 mg Tablet [**Hospital1 **]: One (1) Tablet PO BID (2 times a day).
+Zinc Sulfate 220 mg Capsule [**Hospital1 **]: One (1) Capsule PO DAILY (Daily).
+Aspirin 325 mg Tablet [**Hospital1 **]: One (1) Tablet PO DAILY (Daily).
+Oxycodone 5 mg Tablet [**Hospital1 **]: 0.5 Tablet PO Q6H (every 6 hours) as needed: before sacral ulcer dressing.
+Nystatin 100,000 unit/mL Suspension [**Hospital1 **]: Five (5) ML PO TID (3 times a day).
+Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: One (1) Tablet,Rapid Dissolve, DR [**Last Name (STitle) **] DAILY (Daily).
+Miconazole Nitrate 2 % Powder [**Last Name (STitle) **]: One (1) Appl Topical TID (3 times a day) as needed for tinea cruris.
+Levetiracetam 1,000 mg Tablet [**Last Name (STitle) **]: Two (2) Tablet PO BID (2 times a day).
+Keppra 250 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO twice a day.
+Zonisamide 100 mg Capsule [**Last Name (STitle) **]: Six (6) Capsule PO DAILY (Daily).
+Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization [**Last Name (STitle) **]: One (1) neb Inhalation Q4H (every 4 hours) as needed for wheeze.
+Ipratropium Bromide 0.02 % Solution [**Last Name (STitle) **]: One (1) neb Inhalation Q6H (every 6 hours) as needed for wheeze.
+Erythromycin 5 mg/g Ointment [**Last Name (STitle) **]: One (1) application Ophthalmic QID (4 times a day).
+Lactulose 10 gram/15 mL Syrup [**Last Name (STitle) **]: Fifteen (15) ML PO TID (3 times a day): titrate to [**1-21**] BM per day.
+Phenytoin 50 mg Tablet, Chewable [**Month/Day (3) **]: Four (4) Tablet, Chewable PO DAILY (Daily): Give in AM.
+Phenytoin 50 mg Tablet, Chewable [**Month/Day (3) **]: Six (6) Tablet, Chewable PO DAILY (Daily): Give 8 pm.
+Topiramate 100 mg Tablet [**Month/Day (3) **]: Three (3) Tablet PO BID (2 times a day).
+Povidone-Iodine 10 % Solution [**Month/Day (3) **]: One (1) Appl Topical DAILY (Daily): apply to PEG tube insertion site.
+Insulin Glargine 100 unit/mL Cartridge [**Month/Day (3) **]: Thirty Eight (38) Units Subcutaneous at bedtime.
+Insulin Regular Human 300 unit/3 mL Insulin Pen [**Month/Day (3) **]: 11-32 units  Subcutaneous three times a day: Per sliding scale: FS 71-100, 11 Units FS 101-150, 17 Units FS 151-200, 20 Units FS 201-250, 24 Units FS 251-300, 28 Units FS 301-350, 32 Units.
+Discharge Disposition: Extended Care  Facility: [**Hospital1 **] Village  Discharge Diagnosis: increased seizure frequency in the context of PNA  Secondary Dx: NASH DM refractory seizures recurrent hepatic encephalopathy  Discharge Condition: stable; baseline MS difficulty with some memory and attention deficits.
+You required temporary intubation and were treated with antibiotics.

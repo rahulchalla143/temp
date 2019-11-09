@@ -1,0 +1,53 @@
+Admission Date:  [**2177-1-20**]              Discharge Date:   [**2177-1-23**]  Date of Birth:  [**2106-1-25**]             Sex:   M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 1436**] Chief Complaint: Prostate Cancer, scheduled robotic assisted lap prostatectomy EKG changes post-operatively  Major Surgical or Invasive Procedure: ROBOTIC ASSISTED LAPAROSCOPIC PROSTATECTOMY Cardiac Catherization   History of Present Illness: Mr. [**Known lastname **] is a 70-year-old mandarin-speaking male with a past medical history of hypertension, hyperlipidemia, and T2a [**Doctor Last Name **] 8 prostate cancer s/p robotic prostatectomy under general anesthesia by Urology on [**2177-1-20**].
+He also has an increasing oxygen requirement, with SaO2 92% on 5L NC.
+Patient was started on phenylephrine in PACU and his pressures recovered and the EKG changes resolved.
+His daughter, Dr. [**First Name (STitle) **] [**Known lastname **], is a cardiologist and notes that her father had a good functional capacity prior to surgery, including exercising daily on a treadmill at fast pace.
+On review of systems, he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.
+Cardiac review of systems is notable for absence of chest pain, dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope.
+CARDIAC RISK FACTORS: Hypertension, Hyperlipidemia 2.
+OTHER PAST MEDICAL HISTORY: Patellar fracutre and repair in [**2161**] Benign thyroid nodule - removed  Social History: Mr. [**Known lastname **] lives in [**Hospital1 392**] and [**Location (un) 5622**], lives with daughters in both cities.
+Physical Exam: Physical Exam on Admission for Urologic Surgery: WdWn male, NAD, AVSS Interactive, cooperative Abdomen soft, appropriately tender along incisions Incisions c/d/i w/out evidence hematoma, infection Extremities w/out edema or pitting and no report of calf pain Foley catheter in place, secured to medial thigh; urine yellow/pink and clear  Physical Exam on Admission to Cardiac ICU: VS: T=96.7  BP=125/62 HR=90 RR=20 O2 sat= 93 (4L) GENERAL: NAD.
+Labs on Discharge: [**2177-1-23**] 07:05AM BLOOD WBC-11.9* RBC-4.49* Hgb-14.5 Hct-43.7 MCV-97 MCH-32.3* MCHC-33.3 RDW-13.0 Plt Ct-207 [**2177-1-22**] 03:32AM BLOOD PT-11.5 PTT-42.7* INR(PT)-1.1 [**2177-1-23**] 07:05AM BLOOD Glucose-126* UreaN-16 Creat-0.7 Na-140 K-4.1 Cl-103 HCO3-25 AnGap-16 [**2177-1-22**] 03:32AM BLOOD ALT-36 AST-96* AlkPhos-39* TotBili-0.6  Brief Hospital Course: Primary Reason for Hospitalization:  Mr. [**Known lastname **] is a 70M with PMH of hypertension and hyperlipidemia who underwent scheduled robotic prostatectomy for prostate cancer and subsequent to procedure developed hypotension and NSTEMI.
+Patient was started on a heparin drip, but was not given plavix due to possible need for CABG.
+He was intermittently placed on a low dose of phenylephrine to maintain MAP>70 to prevent further ischemia associated with hypotension.
+Subsequent TTE showed EF 50-55%, LVH, mild AR and mild MR.  Heparin drip was stopped 24h after catherization and patient was continued on ASA 325 and atorvastatin 80.
+He was subsequently started on Toprol XL and lisinoopril as his bp tolerated.
+He was referred to cardiac surgery for CABG.
+In the PACU, patient required face mask to maintain O2 sats in mid-90s.
+In the [**Hospital Unit Name 153**], was given lasix 20mg IV, put out 500cc by transfer, but blood pressure droped to MAP 55.
+Was on 4L NC on transfer.
+Could be secondary to general anesthesia, cytokines, but should rule out infection.
+Blood and urine cultures were obtained as part of infectious work-up and were all no growth.
+His blood pressure came back up by itself and by the time of discharge, he had been started on Toprol XL 50mg daily and Lisinopril 5mg daily and maintaining blood pressures within a good range.
+# Prostate cancer s/p robotic prostatectomy.
+Urology team was ok with heparin gtt.
+He was taken off of heparin sq for DVT prophylaxis and put on pneumoboots.
+Transitional Issues: -Initial studies were obtained for cardiac surgery work-up.
+-Patient was discharged home with foley and leg bag and VNA.
+He will follow-up with urology regarding further post-op management.
+Medications on Admission: Bisoprolol 5mg qd Lipitor 20mg qd Alendronate 70mg qd ASA 81 held since [**12-2**]  Discharge Medications: 1. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+2. bacitracin zinc 500 unit/g Ointment Sig: One (1) Appl Topical TID (3 times a day).
+Disp:*1 tube* Refills:*0* 3. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+4. atorvastatin 80 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+Disp:*30 Tablet(s)* Refills:*2* 5. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every 6 hours).
+6. oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q4H (every 4 hours) as needed for pain.
+Disp:*20 Tablet(s)* Refills:*0* 7. lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2* 8. metoprolol succinate 50 mg Tablet Extended Release 24 hr Sig: One (1) Tablet Extended Release 24 hr PO DAILY (Daily).
+Cipro 500 mg Tablet Sig: One (1) Tablet PO twice a day for 3 days: Start on [**2177-1-30**].
+Disp:*6 Tablet(s)* Refills:*0* 10. nitroglycerin 0.4 mg Tablet, Sublingual Sig: One (1) tablet Sublingual as directed.
+Disp:*25 tablets* Refills:*0*   Discharge Disposition: Home  Discharge Diagnosis: PROSTATE CANCER s/p prostatectomy ST elevation myocardial infarction Hypertension Dyslipidemia   Discharge Condition: Mental Status: Clear and coherent.
+Discharge Instructions: You had your prostate removed and had a heart attack after the operation was complete.
+A cardiac catheterization showed that you have 2 major blockages and will need surgery to bypass the blockages.
+Please take all of your medicines as prescribed.
+You also have been given nitroglycerin to use if you have chest pain at home.
+Surgical instructions:  -Please also reference the additional handout provided by Dr. [**First Name (STitle) **] with instructions and information about your surgery and post-operative plan of care.
+-Please also review the provided handout w/nursing instructions on Foley catheter care and leg bag usage  -Resume your pre-admission/home medications except as noted.
+Always call to inform, review and discuss any medication changes and your post-operative course with your primary care doctor  -For your safety and the safety of others; PLEASE DO NOT drive, operate dangerous machinery, or consume alcohol while taking narcotic pain medications.
+Do NOT drive while Foley catheter/Leg bag are in place.
+-Colace has been prescribed to avoid post surgical constipation and constipation related to narcotic pain medication.
+-Start prescribed antibiotic (Ciprofloxacin) 1 day prior to scheduled Foley catheter removal and for two subsequent days  -resume your regular home diet and remember to drink plenty of fluids to keep hydrated and to prevent constipation  [**Hospital 16237**] medical attention for fevers (temp>101.5), worsening pain, drainage or excessive bleeding from incision, chest pain or shortness of breath.
+START metoprolol to lower your heart rate and help your heart recover 3.
+START nitroglycerin as needed for chest pain.
+[**Telephone/Fax (1) 127**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **] Campus: EAST Best Parking: [**Hospital Ward Name 23**] Garage  -You will follow up in [**7-1**] days for wound check and Foley removal.
+-Take the prescribed antibiotic (Ciprofloxacin) 1 day prior to scheduled Foley catheter removal and for two subsequent days  Please call to confirm your follow-up appointment AND if you have any questions.
+[**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 8941**], MD Phone:[**Telephone/Fax (1) 4537**]  Department: [**Hospital **] CANCER CENTER When: FRIDAY [**2177-1-31**] at 9:30 AM With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 8941**], MD [**Telephone/Fax (1) 4537**] Building: [**Hospital6 29**] [**Location (un) **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage  Department: RADIOLOGY When: FRIDAY [**2177-1-31**] at 1:30 PM [**Telephone/Fax (1) 327**] Building: Gz [**Hospital Ward Name 2104**] Building ([**Hospital Ward Name 1826**]/[**Hospital Ward Name 1827**] Complex) [**Location (un) 3202**] Campus: EAST     Best Parking: Main Garage  Department: CARDIAC SURGERY When: WEDNESDAY [**2177-2-5**] at 2:30 PM With: [**Name6 (MD) **] [**Name8 (MD) 6144**], MD [**Telephone/Fax (1) 170**] Building: LM [**Hospital Unit Name **] [**Location (un) 551**] Campus: WEST     Best Parking: [**Hospital Ward Name **] Garage    Completed by:[**2177-1-24**

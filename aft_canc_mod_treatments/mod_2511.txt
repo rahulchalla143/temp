@@ -1,0 +1,49 @@
+Admission Date:  [**2133-2-11**]              Discharge Date:   [**2133-2-27**]  Date of Birth:  [**2069-2-13**]             Sex:   M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 5893**] Chief Complaint: thrombocytopenia, concern for consumptive process, as well as hematuria/epistaxis/bleeding from new EJ site   Major Surgical or Invasive Procedure: [**2-12**] right PICC placement [**2-20**] dialysis cath placement  History of Present Illness: 63 year old male with metastatic melanoma (V600E B-Raf mutant) who has been partially response to experimental treatment, now presented with spontaneous bleeding in the setting of new thrombocytopenia.
+Patient has been treated as part of a phase I clinical trial with chemo using a PI3-Kinase inhibitor and MEK inhibitor with good response.
+He also had an ultrasound of his right hip and thigh, which did not show any clot.
+Pt underwent several rounds of various chemotherapies that were not successful.
+Pt developed a new 1.4cm L basilar lung nodule in [**2130**] and underwent VATS resection in [**2130-10-10**].
+Denies chest pain, chest pressure, palpitations, or weakness.
+Past Medical History: Past Medical History: -Melanoma, V600E BRAF mutant melanoma who has completed 6 cycles of protocol 09-309GERD with partial response.
+-sleep apnea, not using CPAP -hypercholesterolemia -chronic R hip pain / sciatica  Past surgical history: -melanoma resection (left flank) in [**2123**] w/ lymph node dissection showing metastasis.
+Pt underwent several rounds of various chemotherapies that were not successful.
+Pt developed a new 1.4cm L basilar lung nodule in [**2130**] and underwent VATS resection in [**2130-10-10**].
+Pertinent Results: Admission Labs: [**2133-2-11**] 03:40PM   GLUCOSE-104* [**2133-2-11**] 03:40PM   UREA N-24* CREAT-1.1 SODIUM-141 POTASSIUM-4.3 CHLORIDE-100 TOTAL CO2-32 ANION GAP-13 [**2133-2-11**] 03:40PM   ALT(SGPT)-16 AST(SGOT)-25 LD(LDH)-1215* CK(CPK)-95 ALK PHOS-80 TOT BILI-0.6 DIR BILI-0.2 INDIR BIL-0.4 [**2133-2-11**] 03:40PM   TOT PROT-6.6 ALBUMIN-4.6 GLOBULIN-2.0 CALCIUM-9.5 PHOSPHATE-3.6 MAGNESIUM-2.2 URIC ACID-5.0 [**2133-2-11**] 03:40PM   WBC-10.9# RBC-3.76* HGB-11.9* HCT-34.4* MCV-91 MCH-31.5 MCHC-34.5 RDW-12.8 [**2133-2-11**] 03:40PM   NEUTS-74* BANDS-4 LYMPHS-14* MONOS-4 EOS-2 BASOS-0 ATYPS-0 METAS-1* MYELOS-1* [**2133-2-11**] 03:40PM   I-HOS-AVAILABLE [**2133-2-11**] 03:40PM   HYPOCHROM-NORMAL ANISOCYT-NORMAL POIKILOCY-NORMAL MACROCYT-NORMAL MICROCYT-NORMAL POLYCHROM-NORMAL [**2133-2-11**] 03:40PM   PT-19.2* PTT-43.9* INR(PT)-1.8* [**2133-2-11**] 03:40PM   FIBRINOGE-<35*  Discharge labs: [**2133-2-26**] 02:58AM BLOOD WBC-10.9 RBC-2.16* Hgb-6.8* Hct-19.6* MCV-91 MCH-31.5 MCHC-34.9 RDW-15.7* Plt Ct-67* [**2133-2-26**] 02:58AM BLOOD PT-14.3* PTT-27.3 INR(PT)-1.3* [**2133-2-26**] 02:58AM BLOOD Glucose-151* UreaN-125* Creat-6.5* Na-137 K-5.8* Cl-102 HCO3-21* AnGap-20 [**2133-2-26**] 02:58AM BLOOD ALT-60* AST-74* LD(LDH)-3850* AlkPhos-198* TotBili-1.5 [**2133-2-26**] 02:58AM BLOOD Calcium-10.5* Phos-5.5* Mg-2.4  Micro: URINE CULTURE (Final [**2133-2-12**]):    NO GROWTH.
+[**2-15**]: MSSA [**2134-2-17**] negative [**2039-2-21**], pending  Pathology: [**2133-2-20**] bone marrow biopsy (preliminary): extensive metastatic melanoma; no hemosiderin-laden macrophages suggestive of hemophagocytosis  Studies: CXR [**2133-2-12**]: IMPRESSION: AP chest read in conjunction with CT scan of the chest, [**2-9**]: Nearly cm rounded opacity in the left mid lung has developed from what was previously a 2-cm wide opacity with surrounding hemorrhage in the lingula on the chest CT performed [**2-9**].
+CXR line placement [**2133-2-12**]: IMPRESSION: AP chest compared to 4:11 a.m.: New right PIC line ends in the mid SVC.
+[**2133-2-17**] Radiology PORTABLE ABDOMEN XR FINDINGS: Upright views of the abdomen demonstrate multiple dilated air-filled loops of large bowel, compatible with colonic ileus.
+5mm non-obstructing right renal calculus.
+Aortic valve sclerosis with trace aortic regurgitation.
+Possible vegetation on the aortic valve as described above.
+Right PICC and right IJ catheter tips are in the SVC.
+Brief Hospital Course: Brief Course: Mr. [**Known lastname 1319**] is a 63 year old male with metastatic melanoma (V600E B-Raf mutant) who has been partially responsive to experimental treatment, who presented to the ICU with spontaneous bleeding, hematuria, and DIC.
+He was admitted to the ICU and required multiple blood product transfusions for support.
+In the end, he and his wife decided to not continue to pursue aggressive measures, given the grim prognosis for his metastatic melanoma.
+# DIC: Labs on admission consistent with DIC-- thrombocytopenia, anemia, low fibrinogen, elevated INR/PT, high D-dimer and fibrin degradation products.
+Etiology thought to be likely his widely metastatic melanoma, especially now that there are new foci of metastatsis and bone marrow infiltration.
+He also need 5 transfusions of platelets and 1 unit of FFP.
+Within the first few days of his stay, his DIC seemed to improve with decreasing transfusion requirements, however he continued to have ongoing anemia requiring frequent blood transfusions.
+# Anemia: Throughout ICU stay, patient required frequent blood transfusions to keep hct >21.
+Initially, this was attributed to DIC, however DIC abated and his PRBC requirement continued to increase.
+Hematology was consulted and felt that hemolysis was unlikely, with his elevated LDH due to his metastatic melanoma and haptoglobin falsely lowered by multiple transfusions.
+Pt transitioned to comfort care on [**2-26**] and received no further transfusions.
+At that point, he was placed on continuous bladder irrigation with 3-way foley.
+Urology was consulted and suggested frequent hand irrigation, however he continued to have frequent clots requiring foley changes.
+Pt was offered a cystoscopy and clot evacuation procedure to help reduce the bleeding and clot burden, which was causing significant discomfort for the patient when passed during bladder irrigation.
+However, he refused on [**2-26**] and transitioned to comfort care.
+Recommended alkalinizing urine, however given anuric status, bicarb was stopped so as to not volume-overload him any further.
+Pt had an HD dialysis line placed with IR and initiation of HD on [**2-20**].
+Pt and his wife chose to transition to comfort care on [**2-26**] and did not receive any further HD sessions.
+# Metastatic Melanoma: Pt has finished cycle 6 of experiment MEK inhibitor therapy and was in-between cycles on admission.
+Bone marrow biopsy on [**2133-2-20**] showed very extensive infiltration of his bone marrow with melanoma.
+Pt was started on nafcillin on [**2-17**] for MSSA bacteremia.
+However, Pt had a CT abdomen, which showed a possible RUL pneumonia, and antibiotics were switched to vancomycin and cefepime.
+Pt's antibiotics were discontinued on [**2-26**] when he transitioned to comfort care.
+Received 2 doses of methylnaltrexone to help reverse opiate effect on the gut.
+Given persistent and worsening pain, CT abd/pelvis again obtained which showed hematoma of right iliacus muscle, likely contributing to worsened belly and back pain, but no significant enlargement relative to prior.
+His pain improved once his medication regimen was liberalized after transition to comfort care.
+# Altered mental status:  Days into admission, patient was became intermittently altered and somnolent which was attributed to his narcotics.
+Pt did seem to be more awake and alert when he used his CPAP at night and after dialysis.
+HD was stopped on [**2-26**] at Pt's request.
+# Hypertension:  Pt was intermittently hypertensive to 150s, started metoprolol 12.5 mg [**Hospital1 **] with improvement in BPs, but this was later discontinued.
+Medications on Admission: GDC 0941 (PI3-Kinase inhibitor) GDC 0973 (MEK inhibitor) oxycodone-acetaminophen 10 mg-650 mg Tablet 1-2tabs prn hip pain ranitidine HCl 150 mg Capsule Qday   Discharge Medications: Expired  Discharge Disposition: Expired  Discharge Diagnosis: Metastatic melanoma Disseminated intravascular coagulation Pancytopenia Acute renal failure Hematuria   Discharge Condition: Expired  Discharge Instructions: Expired  Followup Instructions: Expired

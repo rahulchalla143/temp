@@ -1,0 +1,44 @@
+Admission Date:  [**2146-2-19**]              Discharge Date:   [**2146-3-3**]  Date of Birth:  [**2097-10-29**]             Sex:   M  Service: MEDICINE  Allergies: Penicillins / Abacavir  Attending:[**First Name3 (LF) 9598**] Chief Complaint: febrile neutropenia  Major Surgical or Invasive Procedure: Lumbar puncture   History of Present Illness: 48 y/o M with AIDS-related Burkitt's lymphoma who was recently hospitalized [**2146-2-7**] to [**2146-2-13**] for chemotherapy with R-IVAC (rituximab, ifosfamide/mesna, etoposide,ara-C, and intrathecal methotrexate).
+He was given 1 units of PRBCs and 650 mg of neupogen.
+He started chemotherapy with Cyclophosphamide, Doxorubicin, Rituximab.
+Course was complicated by peri-orbital cellulitis in the setting of grade 4 neutropenia.
+He was treated successful with cipro, flagyl and vancomycin.
+He then received high-dose methotrexate with leucovorin rescue.
+PET/CT done after 2 cycles of therapy showed resolution of his disease.
+One sister had hysterectomy for endometriosis.
+Pansinusitis is a potential explanation for the patient's headaches and fevers.
+Stable appearance of the Ommaya catheter without abnormal intracranial enhancement or other acute findings.
+Brief Hospital Course: # neutropenic fever - Patient presented with ANC 0 and fevers to 103 and was started on vancomycin/cefepime empirically.
+As there was concern that the patient's antibiotic regimen was insufficiently covering CNS infections, he was transferred to the [**Hospital Unit Name 153**] for an LP to be performed as well as the meropenem desensitization protocol (patient with anaphylaxis to PCN, ~1% chance of crossreactivity with meropenem).
+The patient is known to be a difficult tap, and had an Ommaya placed by NSGY previously for intrathecal MTX drug delivery during his chemotherapy regimen.
+At this point, it was felt that his fevers may be drug-induced, and vancomycin was discontinued and meropenem continued as single [**Doctor Last Name 360**].
+The patient was switched to levofloxacin to provide superior atypical coverage.
+He showed significant improvement on this regimen and defervesced completely with improved headaches.
+Per ID, he is to continue on a 21-day course of levofloxacin.
+After that time period, his symptoms should be reassessed by a physician; if they have resolved, the levofloxacin should be discontinued at that time.
+# [**Name (NI) 10563**] Lymphoma - Pt is s/p recent hospitalization for chemotherapy with R-IVAC.
+Per ID, patient could potentially have abacavir hypersensitivity given that blood bank testing indicated he was HLA-B5701 positive.
+Additionally, the patient received INH pentamidine for PCP prophylaxis as well as acyclovir prophylaxis.
+He received several transfusions of both pRBCs and platelets.
+Medications on Admission: ABACAVIR-LAMIVUDINE [EPZICOM] - 600 mg-300 mg Tablet - one Tablet(s) by mouth once daily ACYCLOVIR - 400 mg Tablet - one Tablet(s) by mouth twice daily CIPROFLOXACIN [CIPRO] - 500 mg Tablet - one Tablet(s) by mouth twice daily CITALOPRAM -  (Prescribed by Other Provider) - 20 mg Tablet - one Tablet(s) by mouth once daily EFAVIRENZ [SUSTIVA] - 600 mg Tablet - one Tablet(s) by mouth once nightly LORAZEPAM - 1 mg Tablet - 1-2 mg Tablet(s) by mouth twice daily as needed for nausea ONDANSETRON HCL - 8 mg Tablet - one Tablet(s) by mouth two to three times per day PROCHLORPERAZINE [COMPAZINE] - 10 mg Tablet - one Tablet(s) by mouth three times a day as needed for nausea ZOLPIDEM - 10 mg Tablet - [**2-5**] to 1 Tablet(s) by mouth once nightly as needed for insomnia DOCUSATE SODIUM [COLACE] -  (Prescribed by Other Provider; Pt reports recently starting.)
+- Dosage uncertain ?
+Citalopram 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Ondansetron 8 mg Tablet, Rapid Dissolve Sig: One (1) Tablet, Rapid Dissolve PO Q8H (every 8 hours) as needed for nausea.
+Prochlorperazine Maleate 10 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 hours) as needed for nausea.
+Zolpidem 5 mg Tablet Sig: 1-2 Tablets PO HS (at bedtime) as needed for insomnia.
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+Ibuprofen 200 mg Tablet Sig: One (1) Tablet PO twice a day.
+Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours) for 18 days: please take until you run out of pills.
+Acyclovir 400 mg Tablet Sig: One (1) Tablet PO twice a day.
+Lorazepam 1 mg Tablet Sig: One (1) Tablet PO every six (6) hours as needed for anxiety, nausea.
+Percocet 5-325 mg Tablet Sig: 1-2 Tablets PO every six (6) hours as needed for pain.
+You were also found to have sinusitis, which is being treated with an antibiotic called levofloxacin.
+Finally, we changed your HIV meds to make them easier to take.
+Please continue to take you medications as ordered.
+STOP taking Epzicom and Sustiva for HIV 2.
+START taking Atripla 1 tablet at bedtime for HIV 3.
+Take Levofloxacin 500mg daily until [**2146-3-21**] 4.
+Use a saline nasal spray to help treat your sinusitis 5.
+We have adjusted your pain medications and are discharging you on Percocet, [**2-5**] pills four times daily 6.
+Please take senna and colace while taking pain medications to decrease constipation as a side effect 7.

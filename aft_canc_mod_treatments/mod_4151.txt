@@ -1,0 +1,38 @@
+Admission Date:  [**2152-3-18**]              Discharge Date:   [**2152-3-22**]  Date of Birth:  [**2075-5-19**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 905**] Chief Complaint: weakness, SOB  Major Surgical or Invasive Procedure: EGD s/p clip placed in second part of duodenum colonoscopy s/p polyp removal in hepatic flexure paracentesis s/p removal 7L fluid   History of Present Illness: A 76-year-old male with history of hypertension, AFIB, CAD, cardiomyopathy, valvular heart disease, CHF, hypothyroidism, renal insufficiency, GI bleed, colon polyps, arthritis, and anemia presents with 2 weeks of weakness, fatigue, SOB and chest pain.
+Pt was seen in clinic by PCP [**Last Name (NamePattern4) **] [**2152-3-15**] and continued on Lasix and aldactone regimen.
+AFib -- off warfarin 5.
+Hypothyroidism s/p goiter excision at age 30 10.
+[**2152-3-18**] 02:55AM BLOOD WBC-10.7 RBC-1.51*# Hgb-4.1*# Hct-14.0*# MCV-93 MCH-27.4 MCHC-29.4* RDW-20.9* Plt Ct-336 [**2152-3-22**] 12:55PM BLOOD Hct-30.8* [**2152-3-18**] 02:55AM BLOOD Neuts-88.6* Bands-0 Lymphs-7.0* Monos-3.6 Eos-0.7 Baso-0.2 [**2152-3-18**] 02:55AM BLOOD PT-13.7* PTT-29.4 INR(PT)-1.2* [**2152-3-22**] 08:50AM BLOOD PT-13.3* PTT-31.0 INR(PT)-1.2* [**2152-3-18**] 02:55AM BLOOD Glucose-113* UreaN-74* Creat-1.9* Na-129* K-4.9 Cl-95* HCO3-20* AnGap-19 [**2152-3-22**] 06:10AM BLOOD UreaN-21* Creat-1.1 Na-131* K-3.4 Cl-97 HCO3-26 AnGap-11 [**2152-3-18**] 02:55AM BLOOD ALT-9 AST-17 LD(LDH)-202 CK(CPK)-46 AlkPhos-63 Amylase-134* TotBili-0.7 [**2152-3-18**] 02:55AM BLOOD Lipase-129* [**2152-3-18**] 02:55AM BLOOD cTropnT-<0.01 [**2152-3-19**] 04:39AM BLOOD CK-MB-4 cTropnT-0.03* [**2152-3-18**] 02:55AM BLOOD Albumin-3.0* Calcium-7.5* Phos-6.3*# Mg-2.5 Iron-11* [**2152-3-20**] 05:11AM BLOOD Calcium-7.2* Phos-3.7 Mg-2.1 [**2152-3-18**] 02:55AM BLOOD calTIBC-437 VitB12-596 Folate-12.7 Hapto-109 Ferritn-19* TRF-336 [**2152-3-18**] 02:55AM BLOOD TSH-25* [**2152-3-18**] 02:55AM BLOOD T4-3.3* [**2152-3-19**] 11:37PM BLOOD Na-130* K-3.3* Cl-95*  Brief Hospital Course: 76yo man with likely recurrent GI bleed causing profound anemia which resolved after receiving transfusions and GI intervention.
+EGD demonstrated angioectasias in the 2nd part of the duodenum which was the likely source of blood loss - a clip was placed in this region.
+Following these procedures, his blood counts remained stable, and he was discharged to home with an increased dose of protonix and instructions to discontinue aspirin until instructed otherwise by his PCP.
+He was transfused with pRBC to maintain Hct>27.
+It was recommended that he avoid ASA secondary to bleeding; his BB and ACEI were also held given his low blood pressure and active GIB.
+b) Afib: Continued Amiodarone, follow QT intervals with serial EKGs; held anti-coag given active bleeding c) CHF/hypotension: Pt has been evaluated in the past for TVR though he was not felt to be a candidate given comorbidities.
+Restarted outpatient diuretics once Hct and BP were stable.
+d) PPx: as above, and continued statin  Abdominal ascites: This was evaluated in the past and was felt to be secondary to R-sided CHF from 4+TR rather than cirrhosis.
+He received an uncomplicated paracentesis during which 7 liters of fluid were removed - this was mainly performed for the patient's comfort.
+Standing doses of spironolactone and lasix were restarted prior to discharge.
+This was improved with IVF and blood transfusions - creatinine trended towards his baseline of 1.3.
+Hypothyroidism: Continued outpatient dose of levothyroxine  Access: 3 peripheral IVs  FEN: Advanced diet slowly following GI procedures, and he was given lasix as needed with his transfusions.
+PPx: He was given pneumoboots and PPI [**Hospital1 **] for prophylaxis.
+Aspirin 325 mg TabletQD 2.
+Amiodarone 200 mg QD 3.
+Pantoprazole 40 mg Tablet, QD 4.
+Atorvastatin 20 mg QD 5.
+Tamsulosin 0.4 mg Capsule, Sust.
+Ferrous Sulfate 325 QD 7.
+Spironolactone 25 mg QD 8.
+Lasix 80 mg Tablet QPM.
+Lasix 80 mg Tablet QAM.
+Colace 100 mg Capsule [**Hospital1 **] 11.
+Oxygen-Air Delivery Systems 2L continous   Discharge Medications: 1.
+Amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Furosemide 40 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day).
+Spironolactone 25 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+Levothyroxine 150 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Ferrous Sulfate 325 (65) mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+Secondary CAD HTN CHF - Systolic and diastolic AFib - off warfarin CRI - Baseline cr 1.3 Hypothyroidism s/p goiter excision at age 30   Discharge Condition: good; Hct stable between 28-31 w/ no further episodes of bleeding   Discharge Instructions: Please call Dr. [**Last Name (STitle) **] or go to the ED if you notice black or tarry stool, feel dizzy, have shortness of breath, chest pain, fainting, nausea, vomiting or any other symptoms that are concerning to you.
+Please note the following changes to your medications: - spironolactone 50mg daily (increased from 25mg) - pantoprazole 40mg TWICE a day (increased from once daily) - DO NOT TAKE ASPIRIN * Take other medications as your were prior to admission .

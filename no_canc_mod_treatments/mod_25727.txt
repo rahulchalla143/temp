@@ -1,0 +1,68 @@
+Admission Date:  [**2124-1-16**]              Discharge Date:   [**2124-1-28**]  Date of Birth:  [**2040-3-28**]             Sex:   M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 7015**] Chief Complaint: seizures, confusion  Major Surgical or Invasive Procedure: [**1-16**]: Intubation for airway protection [**1-17**]: Failed extubation, then re-intubation [**1-20**]: Successful extubation  History of Present Illness: In summary, Mr. [**Known lastname 4640**] is an 83 year old male with past medical history significant for HTN, HL, MI s/p CABG, atrial fibrillation, dCHF (EF>55%), borderline DM, and mild COPD who was transferred to [**Hospital1 18**] TICU after onset of seizures of unclear etiology.
+He then had sudden stiffening, tremors and residual right sided weakness, confusion and somnolence.
+EMS took patient to [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] where code stroke called and patient had a brief second repeat seizure that was effectively treated with IV Ativan.
+He had right hemiparesis that persisted and needed intubation for airway protection.
+OSH ED Labs notable for K of 7.8 (unclear if hemolyzed) and he received calcium gluconate, dextrose/insulin and K recovered.
+Since patient was admitted he has been stable on Keppra therapy with no repeat seizures thus far.
+He initially remained intubated in TICU after admission for airway protection and extubated on [**1-17**] but then required repeat intubation after he had notable dyspnea, generous yellowish sputum production and desaturations to high 80s range.
+As above, he has been seizure free on Keppra management.
+On [**1-21**] he had episode of atrial fibrillation with RVR to 120s per neuro team but this resolved after IV metoprolol and he has since been well controlled on higher oral metoprolol dose of 75mg TID ; up from his usual home atenolol dosing.
+He is being transferred to medicine service now for further management due to more complicated hospital course which has evolved and includes complicated HAP/VAP, intermittent atrial fibrillation with RVR, hyponatremia, worse anemia and ongoing fevers.
+[**1-17**] Sputum Culture grew out Moraxella catarrhalis and he has been continued on IV ceftriaxone and Azithromycin (started [**1-18**]) and .
+Past Medical History: -Hypertension -Hyperlipidemia -s/p MI and 5 vessel CABG in [**2114**] -paroxysmal atrial fibrillation -diastolic CHF -borderline DM -BPH -mild COPD  Social History: Lives at home with his wife in [**Name (NI) 1727**].
+Pertinent Results: ADMISSION LABS: [**2124-1-16**] 07:03AM   CALCIUM-10.4* PHOSPHATE-2.6* MAGNESIUM-1.8 [**2124-1-16**] 07:03AM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG bnzodzpn-NEG barbitrt-NEG tricyclic-NEG [**2124-1-16**] 07:03AM   GLUCOSE-63* LACTATE-2.5* K+-3.8, SODIUM-134 POTASSIUM-3.9 CHLORIDE-100 [**2124-1-16**] 07:03AM   WBC-8.8 RBC-3.94* HGB-12.3* HCT-35.0* MCV-89 MCH-31.3 MCHC-35.3* RDW-13.3, PLT COUNT-173 [**2124-1-16**] 07:03AM   PT-12.3 PTT-28.2 INR(PT)-1.0 [**2124-1-16**] 07:03AM   ALT-17, AST-29, ALP-59 TOT BILI-0.6, LIPASE-75*  Labs on discharge [**2124-1-27**]: WBC 10.5 HCT 27.9 Plts 358 Na 129 (nadir earlier in admission 126.
+OTHER STUDIES:  ABG at admission -> [**2124-1-16**] 11:28AM   TYPE-ART PO2-503* PCO2-36 PH-7.49* TOTAL CO2-28 BASE XS-5 INTUBATED-INTUBATED VENT-CONTROLLED  URINE STUDIES: [**2124-1-16**] 07:58AM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG cocaine-NEG amphetmn-NEG mthdone-NEG [**2124-1-16**] 07:57AM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.014 [**2124-1-16**] 07:57AM URINE  BLOOD-MOD NITRITE-NEG PROTEIN-25 GLUCOSE-TR KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 LEUK-NEG [**2124-1-16**] 07:57AM URINE  RBC-0-2 WBC-0 BACTERIA-FEW YEAST-NONE EPI-0 [**2124-1-16**] 07:03AM   UREA N-20 CREAT-1.3* SODIUM-138 POTASSIUM-3.8 CHLORIDE-101 TOTAL CO2-30 ANION GAP-11  CARDIAC MARKERS: [**2124-1-16**] 03:03PM   CK(CPK)-348* [**2124-1-16**] 03:03PM   CK-MB-9 cTropnT-0.01 [**2124-1-16**] 07:03AM   CK-MB-6 cTropnT-<0.01  CXR PA/lat [**2124-1-26**]: FINDINGS: The left PICC ends in the mid SVC.
+Midline sternotomy wires are and healed left posterior rib fractures are also stable, the cardiac size is normal.
+There is fluid in the oral cavity and nasopharynx through hypopharynx in the setting of intubation and nasogastric tube.
+Multilevel cervical spondylosis as described above, worst at C5-6.
+There is increased fluid in the paranasal sinuses, and persistent nasopharyngeal fluid, likely secondary to endotracheal and nasogastric intubation, as well as prolonged supine positioning.
+Increased fluid in the paranasal sinuses, which could be secondary to endotracheal and nasogastric intubation, as well as prolonged supine positioning.
+CTA head with and without contrast with perfusion analysis [**2124-1-16**]: CONCLUSION: Extensive atherosclerotic calcifications of the intra- and extra-cranial vasculature.
+Brief Hospital Course: In summary, this is an 83yo male with history of HTN, MI, dCHF, mild COPD who was transferred for acute onset seizures of unclear etiology despite extensive neurological and infectious workup to date who has had complicated hospital course with new PNA, hyponatremia, anemia, atrial fibrillation, and COPD exacerbation.
+#PNA: Patient had [**1-17**] fevers to 102F and new sputum production with sputum growing out Moraxella.
+Originally started on CTX/Azithromycin and Vancomycin for PNA and tapered to CTX/Azithromycin.
+Given that he grew moraxella PNA his antibiotics were tapered to cetriaxone alone.
+On [**2123-03-28**] when he had only 2 days of Ceftriaxone treatment left he became tachypnic and his CXR showed a new RLL.
+His abx were changed to vancomycin and cefepime with a plan for a 10 day course with day 1 being [**2124-1-26**].
+He is on both albuterol nebs and advair.
+# Mild COPD exacerbation: Pt's breathing has appeared somewhat labored during entire hospitalization but better on the day of discharge.
+He was receiving advair and prn albuterol while here.
+His HCTZ was discontinued indefinately.
+He should have his sodium followed daily at rehab.
+His atenolol 25mg was changed to metoprolol and ultimately increased to toprol XL 300mg on [**1-26**].
+His aspirin was increased to 325mg daily from 81mg daily.
+He should discuss with his PCP at [**Name Initial (PRE) **] later date whether to start coumadin for stroke prevention given his CHADS 3 score.
+He was iron deficient and iron supplementation was started.
+#HTN:  His atenolol was discontinued and his metoprolol was uptitrated as above for A fib rate control.
+His HCTZ was stopped indefinately for hyponatremia.
+Amlodipine 5mg daily was started and the dose was increased to 7.5mg daily on the day of discharge.
+Once his amlodipine new dose has taken effect he can be restarted on his home tamsulosin 0.4mg daily.
+His Beta blocker and aspirin were both uptitrated as above.
+His HCTZ was stopped as explained above.
+#Prophylaxis: Subcutaneous heparin, continue on Famotidine PPx, bowel regimen prn .
+#Access: midline in place .
+Medications on Admission: Home Medications: -Simvastatin 20mg daily -HCTZ 25mg daily -Atenolol 25mg daily -Aspirin 81mg daily -Tamsulosin .4mg daily   Discharge Medications: 1. levetiracetam 500 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day).
+Disp:*2 Disk with Device(s)* Refills:*2* 3. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+4. amlodipine 2.5 mg Tablet Sig: Three (3) Tablet PO once a day.
+5. simvastatin 20 mg Tablet Sig: One (1) Tablet PO once a day.
+6. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1)  Inhalation every four (4) hours as needed for shortness of breath or wheezing.
+7. heparin (porcine) 5,000 unit/mL Solution Sig: One (1) Injection TID (3 times a day).
+Insulin sliding scale Blood sugars controlled here but will need generic insulin sliding scale as we just started prednisone 9. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+10. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day) as needed for constipation.
+11. polyethylene glycol 3350 17 gram/dose Powder Sig: One (1) PO DAILY (Daily) as needed for constipation.
+12. ferrous sulfate 300  mg (60 mg Iron) Tablet Sig: One (1) Tablet PO DAILY (Daily): give 1 hr after dinner.
+13. metoprolol succinate 100 mg Tablet Sustained Release 24 hr Sig: Three (3) Tablet Sustained Release 24 hr PO DAILY (Daily): hold for SBP< 100 or HR<60.
+14. prednisone 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily) for 3 days: last dose on [**2123-2-1**], total 5 day course.
+Heparin Flush (10 units/ml) 2 mL IV PRN line flush PICC, heparin dependent: Flush with 10mL Normal Saline followed by Heparin as above daily and PRN per lumen.
+17. cefepime 2 gram Recon Soln Sig: One (1) dose Intravenous q 24 at 1600 for 6 days: total 8 day course, day 1 [**2124-1-26**].
+18. vancomycin 500 mg Recon Soln Sig: 1000mg total dose Recon Solns Intravenous Q 12H (Every 12 Hours) for 6 days: total 8 day course, day 1 [**2124-1-26**].
+You required intubation or a breathing tube for a few days to protect your airway.
+You had a very thorough workup with the neurology service which included MRI imaging of your brain, CT/CTA scans of your head and neck, electrical studies of the brain (EEG), and a lumbar tap of your spine was done to examine cerebral spinal fluid (CSF) for any concerning malignancies, meningitis or other infections.
+You were started on a new anti-seizure medication called Keppra which needs to be continued for at least a year following discharge.
+You will finish your antibiotics at rehab.
+You were placed on higher dose heart rate medications for better control.
+Heart rates are now in normal ranges but you were asked to increase your usual aspirin to higher dose of 325mg daily because atrial fibrillation is a risk for stroke and aspirin will be protective for this risk.
+MEDICATION INSTRUCTIONS/CHANGES: The following medications were discontinued: -tamsulosin (will likely be restarted at rehab) -atenolol -Hydrochlorothiazide (this should not be restarted in the future given your low sodium) .
+The following medications were changed in dose: -Aspirin increased to 325mg daily .
+The following medications were started: -Cefepime 2g IV q24hrs for 6 days for pneumonia -Vancomycin 1250mg IV every 12 hrs for 6 days for pneumonia -Amlodipine 7.5mg daily for blood pressure control -Albuterol nebs q4hr prn shortness of breath or wheeze -Ferrous sulfate 325mg after dinner for iron deficiency -keppra 1000mg po twice a day for seizure prevention -Metoprolol succinate XL 300mg daily for heart rate control -senna, colace, miralax for constipation -prednisone 40mg daily for 3 more days -heparin sc 5000 units TID .
+Please continue the following medication at it's previous dose: -simvastatin 20mg daily  Followup Instructions: Primary: 1.

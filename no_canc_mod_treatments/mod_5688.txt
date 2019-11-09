@@ -1,0 +1,63 @@
+Admission Date:  [**2190-12-15**]              Discharge Date:   [**2190-12-23**]  Date of Birth:  [**2134-11-10**]             Sex:   M  Service: MEDICINE  Allergies: Bactrim DS / Nafcillin  Attending:[**First Name3 (LF) 2782**] Chief Complaint: shortness of breath   Major Surgical or Invasive Procedure: None this hospitalization   History of Present Illness: 56M with CKD s/p renal transplant, renal artery stenosis s/p stent last year, DM1, recent admission for MSSA osteomyelitis and subsequent admission for rash and acute renal failure presumably from Nafcillin and is now presenting with shortness of breath and fever.
+He has experienced shortness of breath, worst when laying down flat but also on exertion, dry cough, and fatigue which has been worse for the past week.
+He also had his Prednisone dose increased [**12-13**] from 5 mg daily to 20 mg daily for a possible COPD exacerbation and did notice improvement of his wheezing.
+He was seen again on [**12-14**] for recurrence of dyspnea and was then told to increase his Lasix dose to 80 mg [**Hospital1 **] but instead increased it from 40 mg [**Hospital1 **] to 60 mg [**Hospital1 **] due to concerns of over-stressing his kidneys.
+Of note, the patient was admitted to [**Hospital1 18**] from [**Date range (1) 26205**] for a diabetic foot ulcer and suspicion for osteomyelitis, and was treated with Nafcillin, Cipro, Flagyl.
+He was admitted to [**Hospital1 18**] again on [**11-27**] for a rash believed to be a drug reaction to Nafcillin and acute renal failure secondary to hypovolemia from diarrhea secondary to antibiotics.
+In the ED, initial VS were:  98.8 89 158/60 24 88% The patient was initially 88% on RA and was placed on a non-rebreather with PO2 94%.
+He has been on bipap in the past.
+He was found to be febrile to 101, and received Vancomycin 1 gm and Cefepime.
+On arrival to the MICU, the patient had dyspnea on exertion but was able to be rapidly weaned to a nasal cannula and face mask with high flow oxygen.
+Denies chest pain, chest pressure, palpitations, or weakness.
+Past Medical History: PAST MEDICAL HISTORY: -Type I diabetes (last A1c=6.9% on [**2190-4-27**]) -ESRD s/p renal transplant x2 ([**2165**] and [**2168**] [cadaveric]); baseline Cr = 1.5-1.8 -Recurrent LLE cellulitis (previously MRSA+) -HTN (well-controlled, per patient) -Diastolic CHF (EF > 55%) -PVD -Vitamin D deficiency -Gout -Psoriasis -Sciatica s/p TENS -squamous and basal cell carcinoma of the nose and cheek -Charcot changes and multiple fractures in right foot s/p multiple surgeries -L achilles tendon rupture -b/l cataracts s/p surgery -L heel osteomyelitis   Social History: - Tobacco:  30+ pack year smoking history; quit in [**2182**].
+General: Alert, oriented, no acute distress with face mask in place HEENT: Pupils equal and round, sclera anicteric, MMM Neck: Supple, JVP ~11 cm, no LAD CV: Regular rate and rhythm, normal S1 + S2, GII systolic murmer at RUSB, GIII holosystolic murmer at LSB Lungs: Crackles at bases and up to lower mid-lung fields b/l, good air exchange bilaterally, no wheezes or rhonchi Abdomen: Soft, non-tender, non-distended, bowel sounds present, well healed transplant scars on lower lateral abdomen bilaterally, left sided kidney transplant Extr: Warm, well perfused, 2+ pitting edema of RLE, 1+ pitting edema of RLE, 2+ DP pulses, no clubbing, cyanosis Neuro: Alert and oriented, moving all extremities .
+Brief Hospital Course: IMPRESSION: 56M with a PMH significant for ESRD (s/p cadaveric renal transplant in [**2165**], [**2168**]; renal artery stenosis s/p stenting, baseline creatinine 1.5-1.8), DM1, CHF (with preserved EF), HTN, with recent admission for recurrent LLE cellulitis vs. MRSA osteomyelitis with subsequent admission for rash and acute renal failure (presumably from Nafcillin) who presented with shortness of breath and fevers.
+# RECURRENT, LOW-GRADE FEVERS - The patient had concern for pneumonia given his dyspnea and CXR findings, and was initially covered broadly for HCAP given his immunosuppression and recent hospitalization, completing an 8-day course of broad-spectrum antibiotics (Vancomycin and Meropenem).
+However, the etiology of his dyspnea was attributed partially to volume overload given his elevation in BNP and volume overload on clinical exam and imaging.
+He responded to IV Lasix infusion and diuresed appropriately.
+Following his improvement in respiratory status and improvement with diuresis on floor transfer, he subsequently developed cyclic, recurring low-grade temperatures to the 100.0-101.0 range.
+Given his recent antibiotic use, recent hospitalizations, and immune compromise in the setting of his prior renal transplantation, the differential was extensive.
+A drug reaction was considered given some intermittent urticaria and extensor pruritic rash that resolved with benadryl around the times of the fevers (and given his prior reaction to Nafcillin).
+Fungal infections were considered and B-glucan and galactomannan were negative for invasive fungemia.
+A chest CT was eventually performed prior to discharge and showed moderately severe, but improving pulmonary edema with RUL consolidation that could be his prior pneumonia - although he had completed his antibiotic course.
+He was initially admitted to the medical ICU given his poor clinical status and oxygen requirement and was treatment with broad-spectrum antibiotics for healthcare-associated pneumonia in the setting of his immune compromise with Vancomycin and Meropenem for 8-days.
+A component of CHF exacerbation was also treated given his pulmonary effusion, oxygen requirement and BNP (29,000) on admission - with response to diuresis.
+He was also treated with pulse steroids given his diagnosis of COPD with significant prior smoking history.
+We weaned his oxygen requirement and he was comfortable and satting well on room air, he completed 8-days of antibiotics, and was restarted on his Lasix 40 mg PO BID (his recent home dose).
+We also continued his nebulizers as needed and encouraged incentive spirometry.
+# INSULIN-DEPENDENT DIABETES MELLITUS - The patient has a diagnosis of type I diabetes (last HbA1c = 6.9% on [**2190-4-27**]); no reported retinopathy; history of ESRD s/p renal transplant and on immunesuppression; no history of neuropathy.
+We resumed his Lantus dosing of 40 units daily when he resumed diet and covered him with his usual Lispro insulin sliding scale (self-adjusts).
+# END STAGE RENAL DISEASE, S/P TRANSPLANT - The patient is s/p cadaveric renal transplant in [**2165**], [**2168**]; renal artery stenosis s/p stenting, baseline creatinine 1.5-1.8 per our records - all in the setting of ESRD from type 1 diabetes mellitus.
+On admission, he was aggressively diuresed with IV Lasix and his older home dose of Lasix 40 mg PO BID was resumed.
+His immune suppression regimen was continued, but his Tacrolimus was dropped from 4 mg to 3 mg in the QAM, but his evening dose of Tacrolimus 3 mg PO QHS was maintained.
+His Prednisone 5 mg PO daily, Mycophenolate 500 mg PO BID) were continued.
+We continued his vitamin D supplementation for bone metabolism and renally dosed all medications, while avoiding nephrotoxins.
+Calcium acetate was discontinued this admission, per Transplant nephrology given stable calcium levels.
+We opted to continue holding his ACEI (previously on Lisinopril), but continued his Labetalol 600 mg PO BID and resumed his previous home Lasix dose of 40 mg PO BID.
+We monitored daily weights, monitored I/Os, and set a goal for diuresis of 0.5-1L daily.
+We continued his Nifedipine and Labetalol.
+We continued his daily Aspirin 81 mg PO daily.
+We continue Allopurinol 100 mg PO QAM.
+Consider restarting ACEI therapy if creatinine improves, given cardiac history and kidney disease.
+Outpatient follow-up scheduled with Transplant Nephrology to monitor immune suppression regimen and creatinine.
+On MMF, Prednisone and Tacrolimus.
+Medications on Admission: - Aspirin 81 mg daily - Allopurinol 100 mg qAM - Insulin glargine 40 mg qhs - Insulin lispro - Labetalol 300 mg Tablet Sig: Two (2) Tablet PO twice a day.
+- Mycophenolate mofetil 500 mg [**Hospital1 **] - Nifedipine 60 mg Tablet Extended [**Hospital1 **] - Prednisone 20 mg daily ***recently increased*** - Tacrolimus 1 mg Capsule: 4 Capsules PO QAM - Tacrolimus 1 mg Capsule: 3 Capsules PO qPM - Cholecalciferol (vitamin D3) 400 units daily - Multivitamin Tablet Sig: One (1) Tablet PO DAILY - Vitamin E 400 unit daily - Furosemide 60 mg [**Hospital1 **] ***recently increased*** - Calcium acetate 667 mg [**Hospital1 **]   Discharge Medications: 1. aspirin 81 mg Tablet, Delayed Release (E.C.)
+2. allopurinol 100 mg Tablet Sig: One (1) Tablet PO QAM (once a day (in the morning)).
+3. insulin glargine 100 unit/mL Solution Sig: Forty (40) units Subcutaneous at bedtime.
+4. insulin lispro 100 unit/mL Solution Sig: [**11-22**] units Subcutaneous per sliding scale.
+5. labetalol 200 mg Tablet Sig: Three (3) Tablet PO BID (2 times a day).
+6. mycophenolate mofetil 500 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+7. nifedipine 60 mg Tablet Extended Release Sig: One (1) Tablet Extended Release PO DAILY (Daily).
+8. prednisone 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+9. tacrolimus 1 mg Capsule Sig: Three (3) Capsule PO QAM (once a day (in the morning)).
+10. tacrolimus 1 mg Capsule Sig: Three (3) Capsule PO QPM (once a day (in the evening)).
+11. cholecalciferol (vitamin D3) 400 unit Tablet Sig: One (1) Tablet PO DAILY (Daily).
+12. vitamin E 400 unit Capsule Sig: One (1) Capsule PO DAILY (Daily).
+13. furosemide 40 mg Tablet Sig: One (1) Tablet PO twice a day.
+End-stage renal disease status-post cadaveric renal transplant 3.
+You were treated for pneumonia with broad-spectrum antibiotics and aggressive diuresis for a component of heart failure.
+CHANGES IN YOUR MEDICATION RECONCILIATION: .
+* We CHANGED the following medications: We DECREASED: Lasix from 60 mg to 40 mg by mouth twice daily We DECREASED: Tacrolius from 4 to 3 mg by mouth in the morning; the evening dose is the same .
+* The following medications were DISCONTINUED on admission and you should NOT resume: Calcium acetate 667 mg [**Hospital1 **] .
+* You should continue all of your other home medications as prescribed, unless otherwise directed above.

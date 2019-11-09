@@ -1,0 +1,45 @@
+Admission Date:  [**2114-10-24**]              Discharge Date:   [**2114-10-26**]  Date of Birth:  [**2034-6-29**]             Sex:   M  Service: MEDICINE  Allergies: Cozaar / Ace Inhibitors / Morphine  Attending:[**First Name3 (LF) 425**] Chief Complaint: Chest pain and ventricular tachycardia  Major Surgical or Invasive Procedure: [**2114-10-24**] - Ventricular tachycardia ablation   History of Present Illness: 80M with significant cardiac history that includes CAD s/p CABG x2, ischemic cardiomyopathy (EF 20-25%), s/p ICD for inducible VT who presented with chest pain.
+Patient was given aspirin 325mg and sublingual nitroglycerin with resolution of pain initially.
+Of note blood sugars also in the 600s so given 10 units insulin in ED.
+On review of systems, s/he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.
+Cardiac review of systems is notable for absence of chest pain, dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope.
+CARDIAC RISK FACTORS: Diabetes, Dyslipidemia, Hypertension 2.
+-- Coronary artery disease, s/p CABG X2, EF 15% on TTE [**2111**].
+-- VT storm s/p [**Hospital1 **]-v ICD placement in [**2104**] with a [**Company 1543**] [**First Name9 (NamePattern2) **] [**Last Name (un) 24119**] generator replacement in [**2108-1-24**].
+-- Atrial tachycardia s/p ablation in [**2104**] and [**2105**].
+-- Prostate CA s/p TURP, so not on warfarin -- Diabetes (diet controlled) -- Chronic renal insufficiency (baseline 2.0-2.3) -- Hx of Hematuria: none recent -- Hx of bladder stones -- Tonsillectomy at age 40 -- Mastoidectomy -- Intermittent vertigo -- Insomnia: sleeps 2-3 hours/night  Social History: Lives alone in [**Hospital1 3494**].
+man w/ PMH significant for CAD s/p CABG x2, ischemic cardiomyopathy s/p ICD (EF 20-25%), s/p ICD for inducible VT who presented w/ CP that initially resolved w/ SL NTG, had episode of CP while in the ED went into a wide-complex tachycardia and now presents to the CCU after EP ablation of VT focus  #Ventricular tachycardia - Pt came to the ED reporting chest pain and was found to have an episode of VT while in the emergency room.
+He will not continue his home maiodarone after discharge.
+He was not on any oral hypoglycemics or insulin at admission.
+He was given insulin via sliding scale during this admission.
+We did not start long acting insulin and did not discharge him on insulin as he was being discharged and his insulin dose was not able to be titrated.
+At discharge, he has been started on glipizide 5mg daily and he has been arranged follow-up with [**Last Name (un) **] soon after discharge (we chose to avoid metformin as a first [**Doctor Last Name 360**] because of elevated creatinine).
+We wanted to avoid medications that may prolong his QTc, and he was given ceftriaxone which he will continue as cefpodoxime for a total 5 day course.
+#CAD - Pt has extensive cardiac history with CABG, re-do CABG and history of PCI.
+He did not have any EKG changes and did not require ntg after arrival to the CCU.
+He was initially continued on his home doses of torsemide and metolazone.
+These were held at discharge because he appeared volume depleted after being NPO for the EP procedure and subsequently having poor PO intake.
+#Hypertension - BP remained well controlled, continued on home metoprolol and isosorbide dinitrate.
+#Code status this admission: DNR/DNI (confirmed with pt)  #Transitional issues: -Stopped torsemide and metolazone because of volume depletion at discharge, has been instructed to weight himself daily and call PCP/Cardiologist if weight is increasing.
+-Stopped amiodarone -Will follow-up with [**Last Name (un) **] regarding poorly controlled diabetes -Will continue cefpodoxime for UTI after discharge  Medications on Admission: 1. amiodarone 200 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily) alternating with one tablet every 7 days.
+2. atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY 3. torsemide 20 mg on TuTh, 40mg on SuMoWeFrSa alternate every other day with 40mg torsemide (2 tabs).
+4. metolazone 2.5 mg once week on sunday 5. isosorbide dinitrate 20mg PO TID 6. metoprolol tartrate 75 mg PO BID 7. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY 8. ascorbic acid 1000 mg Tablet PO DAILY 9. cholecalciferol  [**2102**] unit Tablet daily 10. cod liver oil  Sig: One (1) teaspoon PO once a day.
+11. folic acid 1 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+14. miconazole nitrate 2 % Powder Sig: One (1) Appl Topical [**Hospital1 **] (2 times a day) as needed for rash.
+15. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+16. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+Discharge Medications: 1. atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for Constipation.
+3. metolazone 2.5 mg Tablet Sig: One (1) Tablet PO 1X/WEEK ([**Doctor First Name **]).
+4. isosorbide dinitrate 20 mg Tablet Sig: One (1) Tablet PO TID (3 times a day).
+5. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+6. cholecalciferol (vitamin D3) 2,000 unit Tablet Sig: One (1) Tablet PO once a day.
+7. folic acid 1 mg Tablet Sig: [**11-26**] Tablet PO DAILY (Daily).
+8. miconazole nitrate 2 % Powder Sig: One (1) Appl Topical [**Hospital1 **] (2 times a day) as needed for rash.
+9. cefpodoxime 100 mg Tablet Sig: Two (2) Tablet PO Q12H (every 12 hours) for 4 days.
+Disp:*16 Tablet(s)* Refills:*0* 10. glipizide 5 mg Tablet Sig: One (1) Tablet PO once a day.
+Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day.
+15. metoprolol tartrate 50 mg Tablet Sig: 1 and [**11-26**] Tablet PO twice a day.
+16. ascorbic acid 1,000 mg Tablet Sig: One (1) Tablet PO once a day.
+You did not have more VT after the procedure and we stopped your amioradone.
+The following changes were made to your medications: STOP amiodarone START glipizide 5mg by mouth once daily START cefpodoxime 100mg by mouth twice daily for 4 days HOLD torsemide until you speak with Dr. [**Last Name (STitle) **]  Followup Instructions: Name: [**Last Name (LF) 578**],[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 579**] Address: [**Hospital1 **], [**Location (un) **],[**Numeric Identifier 19604**] Phone: [**Telephone/Fax (1) 6937**] *Please call your primary care physician to book [**Name Initial (PRE) **] follow up appointment of your hospitalization.

@@ -1,0 +1,38 @@
+Admission Date:  [**2140-2-29**]              Discharge Date:   [**2140-3-4**]  Date of Birth:  [**2079-8-6**]             Sex:   M  Service: MEDICINE  Allergies: Iron  Attending:[**First Name3 (LF) 2195**] Chief Complaint: hematemesis, hyperglycemia  Major Surgical or Invasive Procedure: -Blood Transfusion -Esophagogastroduodenoscopy [**2140-3-3**]   History of Present Illness: Mr. [**Known lastname **] is a 60 year old male with PMH significant for ESRD s/p renal transplant [**2135**] on cellcept, DMII, chronic pancreatitis, HCV without cirrhosis, and HTN admitted with one week of feeling ill with decrease PO intake and 1-2 days of nausea, vomiting and abdominal pain, decreased UOP, and hyperglycemia.
+He subsequently developed coffee grounds emesis today so called 911 and was brought to ED by EMS.
+Patient also reports running out of medications recently and states he has not been able to tolerate his immunosuppressives last 2 days secondary to vomiting.
+GI saw patient and he was started on PPI drip.
+He was started on insulin drip at 8 units/hr.
+He also received zosyn and vancomycin for ?
+He also denies recent lightheadedness, dizziness, palpitations, dysuria, CP, SOB, cough, sore throat, fever, chills, diarrhea.
+ESRD s/p Renal Transplant [**6-/2135**] (baseline Cre 1.8-2.5) - complicated by CMV Viremia 2.
+Diabetes Mellitus Type II - on Insulin 7. h/o Knee arthritis 8. h/o Hepatitis C - followed by Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 11455**] ([**Hospital1 2177**]) 9.
+Hypertension - controlled on metoprolol 10.
+Right IJ placement with tip at the mid SVC.
+Brief Hospital Course: 60M with ESRD s/p renal transplant [**2135**], DM2, HTN, and chronic pancreatitis admitted with N/V, abdominal pain, hematemesis, hyperglycemia and acute on chronic renal failure.
+Hematemesis: Given history of antecedent vomiting, most likely secondary to [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] tear but differential diagnosis also included PUD, gastritis, AVM, Dielafeuoy's, variceal bleed.
+Differential diagnosis also included PUD/gastritis, mesenteric ischemia, gastroenteritis, cholecystitis.
+Received vanco and zosyn in ED, but no evidence of cholecystitis on U/S, so defered further antibiotics.
+Nausea/vomiting was treated with Zofran PRN.
+Acute on chronic renal failure s/p renal transplant: Patient presenting with acute on chronic renal failure, Cr 3.5 from previous baseline 1.8-2.0 s/p prior renal transplant.
+Renal transplant u/s was unremarkalble.
+Renal transplant is following closely and recommend continuing home immunosuppressives at current dose for now.
+DM2/Hyperglycemia: Patient has h/o Type 2DM on insulin at home.
+Pt was placed insulin drip per protocol for tight glucose control, goal blood sugars 150-180 initially, then transitioned to SC insulin.
+Pt's sugars trended down with insulin treatment, and was discharged on 10units glargine qAM.
+Resolved with fluid resuscitation.
+Code: Full  Medications on Admission: (Per PCP's office, most recently seen in [**Name (NI) 1096**], pt unable to confirm ad ran out of medications >1 week prior to admission): -Cellcept 250mg three tabs [**Hospital1 **] -Prednisone 2.5mg daily -Prograf 2mg Po qam, 1mg PO qpm -Metoprolol 50mg PO BID -Simvastatin 10mg PO qhs -Omeprazole 20mg PO BID -Percocet 1tab PO q6 hours (120 q month) -Humalog 5units SC qac -Vitamin D [**Numeric Identifier 1871**] units q o week  Discharge Medications: 1. mycophenolate mofetil 250 mg Capsule Sig: Three (3) Capsule PO BID (2 times a day).
+2. prednisone 2.5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+3. tacrolimus 1 mg Capsule, twice daily Sig: Two (2) Capsule PO Each morning: and 1 (one) Capsule each evening.
+4. metoprolol tartrate 50 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+5. simvastatin 10 mg Tablet Sig: One (1) Tablet PO at bedtime.
+6. omeprazole 40 mg Capsule, Delayed Release(E.C.)
+)(s)* Refills:*0* 7. oxycodone-acetaminophen 5-325 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for pain.
+8. insulin glargine 100 unit/mL Cartridge Sig: Ten (10) units Subcutaneous qAM.
+Vitamin D 50,000 unit Capsule Sig: One (1) Capsule PO once a week.
+Discharge Disposition: Home With Service  Facility: [**Location (un) 86**] VNA  Discharge Diagnosis: Primary: -[**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] Tear versus esophagitis -Hyperglycemia -Acute renal failure  Secondary: -End-Stage Renal Disease s/p Renal Transplant [**6-/2135**] (baseline Cre 1.8-2.5) -Pancreatitis -h/o Hepatitis C -Hypertension -Osteoarthritis   Discharge Condition: Mental Status: Confused - sometimes.
+Discharge Instructions: Mr. [**Known lastname **],  You were admitted to [**Hospital1 18**] with bloody vomit, high blood sugar, and kidney failure.
+You didn't have any further vomiting while you were in the hospital, but you continued to have stool that tested positive for blood.
+You blood level, however, remained stable after your transfusion in the ICU.
+The following changes were made to your medications: -STOP Humalog, START glargine insulin subcutaneously each morning --> check your blood glucose before breakfast, befre lunch, before dinner, and at bedtime; record the values and show your primary physician at your [**Name9 (PRE) 702**] appointment -INCREASE omeprazole to 40mg twice a day  Please resume all other medications as previously directed, and make an appointment to see your primary physician [**Name Initial (PRE) 11457**] 2 weeks.
+These medications can cause further bleeding in the intestinal tract.

@@ -1,0 +1,28 @@
+Admission Date:  [**2200-9-20**]              Discharge Date:   [**2200-9-25**]   Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 613**] Chief Complaint: GI bleed  Major Surgical or Invasive Procedure: None  History of Present Illness: History obtained from nursing home, records, and patient's son.
+Mr. [**Known lastname 1661**] is a [**Age over 90 **] yo male w/ h/o recent R PICA CVA and metastatic pancreatic cancer who presents from his nursing facility with 1 day of multiple bright red bloody stools and blood clots in his diaper.
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema Neuro: moving all four extremities, unable to formally assess given patient non-compliance with exam  Pertinent Results: On admission:  [**2200-9-20**] 12:25PM BLOOD WBC-12.7* RBC-2.75* Hgb-8.2* Hct-26.2* MCV-95 MCH-29.9 MCHC-31.4 RDW-19.7* Plt Ct-230 [**2200-9-20**] 12:25PM BLOOD Neuts-85.5* Lymphs-8.0* Monos-6.2 Eos-0.2 Baso-0.1 [**2200-9-20**] 01:09PM BLOOD PT-21.9* PTT-30.5 INR(PT)-2.1* [**2200-9-20**] 12:25PM BLOOD Glucose-272* UreaN-31* Creat-1.3* Na-145 K-4.1 Cl-108 HCO3-22 AnGap-19 [**2200-9-20**] 12:25PM BLOOD ALT-59* AST-75* AlkPhos-295* TotBili-4.9* [**2200-9-21**] 03:44AM BLOOD DirBili-7.1* [**2200-9-20**] 12:25PM BLOOD Lipase-23 [**2200-9-20**] 12:25PM BLOOD cTropnT-0.17* [**2200-9-20**] 12:25PM BLOOD Albumin-2.7* Calcium-8.4 Phos-3.7 Mg-2.3 [**2200-9-20**] 12:38PM BLOOD Glucose-257* Lactate-5.1* Na-145 K-4.2 Cl-111* calHCO3-25 [**2200-9-20**] 12:38PM BLOOD Hgb-8.4* calcHCT-25  Brief Hospital Course: Mr. [**Known lastname 1661**] is a [**Age over 90 **] yo male w/ h/o recent R PICA CVA and metastatic pancreatic cancer who presents from his nursing facility with 1 day of multiple bright red bloody stools and blood clots in his diaper.
+Abdominal CTA may non-invasively show etiology of bleed, but would not alter management as patient would not want colonoscopy, surgery or any other invasive measure.
+His aspirin was temporarily held in the setting of active bleed.
+He was given 10mg IV vitamin K and INR fell to 1.7.
+This was followed by 5mg IV vitamin K  x 3 days.
+He improved without additional medical support.
+He was given gentle IV fluid boluses.
+He was started on morphine and oxycodone PRN for pain, and glycopyrrolate and Succinylcholine for oral secretions.
+Medications on Admission: Preadmission medications listed are correct and complete.
+Aspirin 81 mg PO DAILY 2.
+Mirtazapine 30 mg PO HS 3.
+Cyanocobalamin 500 mcg PO DAILY 4.
+Docusate Sodium 100 mg PO BID 5.
+Vitamin D 1000 UNIT PO DAILY 6.
+Glargine 20 Units Bedtime Insulin SC Sliding Scale using UNK Insulin   Discharge Medications: 1.
+Glargine 5 Units Bedtime 2.
+Glycopyrrolate 1 mg PO BID:PRN oral secretions 3.
+Morphine Sulfate 1-2 mg IV Q3H:PRN pain 4.
+OxycoDONE (Immediate Release)  2.5 mg PO Q4H:PRN pain 5.
+Senna 1 TAB PO BID:PRN constipation 6.
+Scopolamine Patch 1 PTCH TP DAILY:PRN oral secretions 7.
+Docusate Sodium 100 mg PO BID 8.
+Lorazepam 0.5-1 mg IV Q4H:PRN anxiety, agitation, insomnia, nausea 9.
+Mirtazapine 30 mg PO HS   Discharge Disposition: Extended Care  Facility: [**First Name4 (NamePattern1) 3504**] [**Last Name (NamePattern1) **] Rehabilitation & Nursing Center - [**Location (un) 538**]  Discharge Diagnosis: Primary: - Lower GI bleed .
+You were admitted for blood in your stools, and were diagnosed with a lower GI bleed.
+You were treated with IV fluids and blood transfusions.

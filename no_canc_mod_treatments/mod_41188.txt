@@ -1,0 +1,143 @@
+Admission Date:  [**2197-11-26**]              Discharge Date:   [**2198-1-10**]  Date of Birth:  [**2129-5-28**]             Sex:   M  Service: MEDICINE  Allergies: Ultram / IV Dye, Iodine Containing Contrast Media / Dilaudid / Zosyn / morphine / morphine  Attending:[**First Name3 (LF) 348**] Chief Complaint: Back pain with infection of surgical site  Major Surgical or Invasive Procedure: -[**11-26**] Incision and drainage, Debridement and Fusion exploration of laminectomy wound -[**2197-12-3**] 1.
+Incision and drainage of back wound.
+-[**12-15**] IR-guided drainage of paraspinal hematoma -[**12-19**] debridement of sacral ulcer -[**12-26**] bedside debridement of sacral ulcer -[**1-1**] removal of infected laminectomy instrumentation and soft tissue debridement, as well as sacral ulcer debridement   History of Present Illness: 68yo male with PMH significant for polio with residual RLE paralysis and atrophy, DMII, HTN, [**Month/Year (2) 9215**], CAD with angina, and recent T9-S1 laminectomy on [**10-18**] (with Dr. [**Last Name (STitle) 363**] for severe spinal stenosis.
+Post laminectomy, patient had hypoxemia and was treated with nebs, antibiotics and with diuresis.
+He was discharged to rehab without O2 requirement and on home dose of PO Lasix 40.
+He was given IV ceftaz [**Hospital1 **].
+Intubated for MRI and airway protection.
+Nonetheless, emergent I&D was performed with 6 L washout of infected lumbar wound, wound cultures sent which later grew out MRSA, no CSF taken as dura was intact, and two lumbar drains placed and hemovac applied.
+Antibiotics switched to vanc/zosyn (starting on [**11-26**] and [**11-27**] respectively) with improvement in WBC (27->20->12->normal on transfer to floor today).
+Afebrile and subsequently narrowed down to vancomycin per ID given culture of GPC in pairs and clusters (likely MRSA) for a planned total course of antibiotics of 8 weeks (from day 1 [**2197-11-26**]).
+PICC Line was placed on [**2197-11-29**].
+He was diuresed with two doses of IV lasix 20mg and then switched to 40mg PO lasix [**Hospital1 **] for [**11-30**].
+First troponin was negative.
+Initially on Fentayl PCA for control of back pain and neck stiffness.
+Past Medical History: - Diastolic Heart Failure with preserved EF - recently started on Lasix by his PCP.
+- Hypertension c/b LVH - CAD c/b angina, unknown history of MI, caths - Type 2 DM - BPH - Polio - H/O measels, mumps, whooping cough - Hemorrhoids - Cervical laminectomy and fusion - Ulnar nerve decompression  Social History: He's from [**Hospital1 189**].
+Physical Exam: ADMISSION PE (per ortho note) 99.1F  136 107/87 22 99% UE C5 C6 C7 C8 T1 (lat arm)  (thumb) (mid fing) (sm finger) (med arm) R intact   intact    intact        intact        intact L intact   intac     intact        intact        intact T2-L1 (Trunk) intact LE     L2     L3   L4   L5 S1 S2 (Groin)    (Knee)    (Med Calf) (Grt Toe) (Sm Toe) (Post Thigh) L intact    intac      intact     intact     intact    intact Motor: UE Dlt(C5) Bic(C6) WE(C6) Tri(C7) WF(C7) FF(C8) FinAbd(T1) R    5        5     5      5       5        5    5 L    5        5     5      5       5        5    5 LE  Flex(L1) Add(L2) Quad(L3) TA(L4) [**Last Name (un) 938**](L5) Per(S1) GS(S1-2/T) L     5         5        5       5     5         5     5  unable to assess tenderness to palpation due to total global pain upon any manipulation, pt appeared to have meningismus with nuchal rigidity perianal sensation intact, decreased but present rectal tone No clonus Prior surgical site inflamed, with pus present from mid lumbar surgical wound  PHYSICAL EXAM UPON TRANSFER TO FLOOR FROM ICU VS - 142/56 83 12 97 on 3L GENERAL - NAD, comfortable, appropriate HEENT - NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear NECK - supple, no thyromegaly, no JVD, no carotid bruits LUNGS - Anterior auscultation: good air movement, soft left sided wheezing, bibasilar crackles, resp unlabored, no accessory muscle use HEART - RRR, no MRG, nl S1-S2 ABDOMEN - NABS, soft/NT/ND, no masses or HSM, no rebound/guarding EXTREMITIES - Atrophic LE, +1 pitting edema on feet, + pneumoboots LYMPH - no cervical, axillary, or inguinal LAD  DISCHARGE PE VS - 99.3 124-168/59-66 58-75 18 93-94%RA GENERAL - paraplegic middle aged male, NAD CV - RRR, [**3-13**] apical systolic murmur LUNGS - Breathing is comfortable, CTAB, No accessory muscles of respiration used.
+10,000-100,000 ORGANISMS/ML..                                SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              ENTEROCOCCUS FAECIUM                              | AMPICILLIN------------  =>32 R LINEZOLID-------------     2 S NITROFURANTOIN--------   256 R TETRACYCLINE----------  =>16 R VANCOMYCIN------------  =>32 R  [**2197-11-26**] 6:20 pm BLOOD CULTURE                              **FINAL REPORT [**2197-11-30**]**     Blood Culture, Routine (Final [**2197-11-29**]):       STAPH AUREUS COAG +.
+Oxacillin RESISTANT Staphylococci MUST be reported as also          RESISTANT to other penicillins, cephalosporins, carbacephems,          carbapenems, and beta-lactamase inhibitor combinations.
+Rifampin should not be used alone for therapy.
+This isolate is presumed to be resistant to clindamycin based on          the detection of inducible resistance .
+LINEZOLID CIPROFLOXACIN AND TETRACYCLINE REQUESTED PER DR          [**Last Name (NamePattern4) 111915**] [**2197-11-30**].
+Oxacillin RESISTANT Staphylococci MUST be reported as also          RESISTANT to other penicillins, cephalosporins, carbacephems,          carbapenems, and beta-lactamase inhibitor combinations.
+Rifampin should not be used alone for therapy.
+This isolate is presumed to be resistant to clindamycin based on          the detection of inducible resistance .
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              STAPH AUREUS COAG +                              | CLINDAMYCIN-----------       R ERYTHROMYCIN----------   =>8 R GENTAMICIN------------ <=0.5 S LEVOFLOXACIN----------   =>8 R LINEZOLID-------------     2 S OXACILLIN-------------   =>4 R RIFAMPIN-------------- <=0.5 S TETRACYCLINE----------   <=1 S TRIMETHOPRIM/SULFA---- <=0.5 S VANCOMYCIN------------     1 S     ANAEROBIC CULTURE (Final [**2197-11-30**]):    NO ANAEROBES ISOLATED.
+SENSITIVITIES PERFORMED ON CULTURE # [**Numeric Identifier 111916**] FROM [**2197-11-26**].
+POTASSIUM HYDROXIDE PREPARATION (Final [**2197-11-27**]):       Test cancelled by laboratory.
+Furthermore, in       infected patients the excretion of antigen in urine may vary.
+There is morselized bone graft around the posterior fusion.
+Foley catheter balloon is inflated within the prostate.
+CXR [**2197-12-7**] (after L PICC placement) A left-sided PICC line terminates in the right atrium.
+Note is made of anterior and posterior cervical fusion devices, unchanged.
+Thoracic fusion devices are also partially imaged.
+Increased bone destruction with associated lucencies which are likely representative of an infectious process.
+Please refer to the recent CT study for assessment of the fusion hardware and interval bony destruction.
+MUDDY BROWN CASTS SEEN ON URINE MICRO  Discharge labs: [**2198-1-10**] 05:30AM BLOOD WBC-8.8 RBC-3.05* Hgb-7.8* Hct-24.8* MCV-81* MCH-25.7* MCHC-31.7 RDW-17.8* Plt Ct-381 [**2198-1-10**] 05:30AM BLOOD Glucose-85 UreaN-21* Creat-0.9 Na-138 K-3.7 Cl-104 HCO3-24 AnGap-14 [**2198-1-10**] 05:30AM BLOOD Calcium-7.7* Phos-3.8 Mg-1.7  Brief Hospital Course: BRIEF HOSPITAL COURSE 68yo male with PMH significant for polio with residual RLE paralysis and atrophy, DMII, HTN, [**Month/Day/Year 9215**], angina, and recent T9-S1 laminectomy on [**10-18**] with complicated hospital course.
+He presented [**11-26**] with sepsis and neck pain and was found to have MRSA wound infection at laminectomy site and MRSA bacteremia requiring ICU admission and pressors.
+Course complicated by decompensated [**Month/Year (2) 9215**], 30 beat run of V-tach in context of K+ of 3.2, anemia requiring transfusion of PRBCs, staph aureus pneumonia, bowel pseudoobstruction/ileus, PICC associated DVT, ATN.
+Also s/p drainage of paraspinal MRSA-infected hematoma [**12-15**] and debridement of sacral ulcer first in OR on [**12-19**] and then at bedside on [**12-26**].
+Washout of wound was performed on [**11-26**], dura was intact and wound cultures grew staph aureus sensitive to vanc and corynebacterium.
+He currently has PICC and initially thought to need 8 week course of vancomycin starting from [**2197-11-26**].
+JP drain was left in.
+Decision was made with orthopedics to remove infected hardware and to definitively drain paraspinal abscess in OR on [**1-1**].
+Will need 6 week course of vancomycin with start date of [**1-1**] (to finish [**2198-2-12**]).
+# Intermittent fevers: The patient began spiking intermittent fevers up to 101.2 on [**12-4**] and his antibiotic regimen was broadened by adding cefepime and flagyl to his vancomycin.
+The patient's sputum culture grew out coag + staph aureus, and he was treated for presumed MRSA pneumonia.
+A urine culture came back positive for [**Month/Year (2) **] with 10k - 100k organisms / ml; however upon changing the foley the enterococcus bacterial count decreased to [**2185**] organisms/ml without treatment indicating bacterial colonization with [**Year (4 digits) **] and not true UTI.
+Azithromycin was added to the patient's regimen per ID recs for possible COPD exacebration.
+Last day of azithromycin was [**12-10**].
+Last day of Cefepime was to be [**12-11**].
+However, given new O2 requirement on [**12-20**] was started on another course of Cefepime ending on [**12-27**].
+The patient is volume overloaded on exam and has [**Last Name (LF) 9215**], [**First Name3 (LF) **] he was diuresed with good effect on respiratory status, although diuresis was limited by kidney function.
+He was started on continuous albuterol and ipratropium nebulizers on [**12-6**], and a five day course of azithromycin starting on [**12-6**], which improved his breathing.
+Underwent thoracentesis on [**12-18**] on the left side.
+Concurrently began aggressive course of diuresis starting [**12-18**] with up to 160mg IV lasix daily.
+He is currently on room air and not requiring IV lasix.
+We placed him on standing lasix 20mg PO qd for peripheral edema.
+# Pseudobstruction: Abdominal pain, distention, constipation and intermittent nausea developed after TSICU call-out.
+A rectal tube was placed but did not relieve the pressure, or lead to increased passage of stool, and no change was seen on KUB.
+GI recommended electrolyte repletion and serial rectal exams with stimulation to produce BMs.
+# Anemia: Patient with gradual hemoglobin drop requiring transfusion of 7 units of PRBCs through course of hospitalization ([**12-5**], [**12-6**], [**12-9**], [**12-20**], [**12-31**] x2, [**1-4**]).
+IV lasix used to remove fluid as tolerated by his kidneys.
+Due to hypoxia from pleural effusions on [**12-18**] began aggressive course of diuresis starting [**12-18**] with up to 160mg IV lasix daily.
+He is currently on room air and not requiring IV lasix.
+We placed him on standing lasix 20mg PO qd for peripheral edema.
+# [**Last Name (un) **]/ATN: Baseline creatinine 0.4-0.6.
+Diuresis attempted, however his Cr increased from 1.1 to 1.3 and his BUN increased to 29.
+Due to hypoxia from pleural effusions on [**12-18**] began aggressive course of diuresis starting [**12-18**] with up to 160mg IV lasix daily.
+RUE ultrasound revealed a catheter-induced thrombus associated with the PICC line in his right brachial vein.
+A new PICC line was placed in his left arm given necessity for continued antibiotic administration.
+He was started on heparin gtt and his PTT on [**12-9**] was 73.3.
+Warfarin 5mg started [**12-11**] but then discontinued due to need for OR interventions.
+Subsequently maintained on heparin gtt.
+RUE was rechecked after patient had been on anti-coagulation for one month, and showed interval clot resolution.
+Decision made to stop anticoagulation at that time given patient's bleeding risk and lack of data to support continued anticoagulation for PICC related clot in brachial vein only.
+# Back and Neck pain: Acute on chronic pain secondary to nerve compression due to spinal stenosis, multiple surgeries, and recent infection.
+The patient was initially on a fentanyl PCA, but on the floor was weaned to oral oxycodone, acetaminophen and gabapentin 100 TID.
+Increased amounts of opioids were avoided due to abdominal pain and ileus vs pseudobstruction.
+# Enterococcus in urine: Patient found to have [**Last Name (un) **] in urine with 10k - 100k organisms / ml; however upon changing the foley the enterococcus bacterial count decreased to [**2185**] organisms/ml without treatment indicating bacterial colonization with [**Year (4 digits) **] and not true UTI.
+INACTIVE ISSUES: # DMII:  Patient's home metformin was held and he was put on FSS and insulin sliding scale.
+# HTN: Patient was continue on home amlodipine.
+# BPH:  Patient was continued on home finasteride and tamsulosin with no issues on this admission.
+Last day of vancomycin will be [**2198-2-12**].
+# Titrate diuretic dose: patient started on furosemide 20mg daily on [**2198-1-9**].
+Electing not to treat as no clinical signs of UTI and we believe this is chronic bladder colonization # Consider changing labetalol to cardioselective beta blocker such as metoprolol # If worsening abdominal pain and distension and patient not stooling, GI recommends: - Serial rectal exams with stimulation to produce BMs, patient should be rolled on left side for this - Electrolye repletion # Sacral ulcer, continue wound care as follows: Cleanse ulcer with wound cleanser set to "stream" pat dry, use cotton tip swab as needed to remove excess cleanser Prep periwound tissues with No Sting Barrier Wipe and miconazole powder fill ulcer with slightly moistened AMD Kerlix Cover with softsorb dressing Secure with Medipore H soft cloth tape and pink Hy tape to inferior edge change [**Hospital1 **] # Per ortho: TBSO when out of bed.
+Amlodipine 5 mg PO DAILY 2.
+Atorvastatin 10 mg PO DAILY 3.
+Finasteride 5 mg PO DAILY 4.
+Losartan Potassium 100 mg PO DAILY 5.
+Tamsulosin 0.4 mg PO HS 6.
+Aspirin 81 mg PO DAILY 7.
+Furosemide 40 mg PO DAILY 8. meloxicam *NF* 7.5 mg Oral daily 9.
+Nitroglycerin SL 0.4 mg SL PRN chest pain 10.
+Senna 1 TAB PO BID 11.
+Docusate Sodium 100 mg PO BID 12.
+Bisacodyl 10 mg PR HS:PRN constipation 13.
+HYDROmorphone (Dilaudid) 2-4 mg PO Q3H:PRN pain 14.
+Polyethylene Glycol 17 g PO DAILY 15.
+MetFORMIN (Glucophage) 500 mg PO DAILY 16.
+Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN sob, wheeze 17.
+Ipratropium Bromide Neb 1 NEB IH Q6H wheeze, sob   Discharge Medications: 1.
+Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN sob, wheeze 2.
+Amlodipine 5 mg PO DAILY 3.
+Atorvastatin 10 mg PO DAILY 4.
+Docusate Sodium 100 mg PO BID 5.
+Finasteride 5 mg PO DAILY 6.
+Ipratropium Bromide Neb 1 NEB IH Q6H wheeze, sob 7.
+Senna 1 TAB PO BID 8.
+Tamsulosin 0.4 mg PO HS 9.
+Aluminum-Magnesium Hydrox.-Simethicone 15-30 mL PO QID:PRN heartburn 10.
+Heparin 5000 UNIT SC TID 11.
+Heparin Flush (10 units/ml) 2 mL IV PRN line flush 12.
+Labetalol 200 mg PO TID 13.
+Lorazepam 0.5 mg PO Q8H:PRN anxiety 14.
+Miconazole Powder 2% 1 Appl TP TID:PRN groin rash 15.
+Multivitamins 1 TAB PO DAILY 16.
+Oxycodone SR (OxyconTIN) 10 mg PO Q12H hold for sedation, RR<12 17.
+Pantoprazole 40 mg PO Q24H 18.
+Sarna Lotion 1 Appl TP QID:PRN itching 19.
+Sertraline 25 mg PO DAILY 20.
+Vancomycin 1000 mg IV Q48H 21.
+Furosemide 20 mg PO DAILY 22.
+Bisacodyl 10 mg PO/PR DAILY:PRN constipation 23.
+Losartan Potassium 100 mg PO DAILY hold for SBP<100 24.
+Polyethylene Glycol 17 g PO DAILY:PRN constipation 25.
+Benzonatate 100 mg PO TID 26.
+Guaifenesin [**6-15**] mL PO Q6H 27.
+Gabapentin 100 mg PO TID 28.
+Diazepam 5 mg PO HS:PRN anxiety/muscle cramps 29.
+Insulin SC       Sliding Scale  Fingerstick QACHS Insulin SC Sliding Scale using REG Insulin 30.
+OxycoDONE (Immediate Release)  5-10 mg PO Q8H:PRN breakthrough pain 31.
+Simethicone 40-80 mg PO QID gas/distention 32.
+Sodium Chloride Nasal [**2-6**] SPRY NU TID:PRN nasal dryness 33.
+Aspirin 81 mg PO DAILY 34.
+Nitroglycerin SL 0.4 mg SL PRN chest pain 35.
+Ascorbic Acid 500 mg PO DAILY Duration: 10 Days 36.
+Zinc Sulfate 220 mg PO DAILY Duration: 10 Days 37.
+Outpatient Lab Work -Check CBC with differential, BUN/Cr and vancomycin trough weekly and fax to the Infectious Disease R.N.s at ([**Telephone/Fax (1) 4591**].
+All questions regarding outpatient parenteral antibiotics should be directed to the Infectious Disease R.N.s at ([**Telephone/Fax (1) 21403**] -Also check Chem 7 in [**3-11**] days and after any changes in Lasix dose.
+send results to facility MD   Discharge Disposition: Extended Care  Facility: [**Hospital6 1293**] - [**Location (un) 8957**]  Discharge Diagnosis: MRSA wound and spinal hardware infection MRSA sepsis Diastolic heart failure exacerbation Acute tubular necrosis PICC associated RUE DVT (brachial vein) Ileus, possibly [**Last Name (un) 3696**] Syndrome Bilateral lower extremity paresis   Discharge Condition: Mental Status: Clear and coherent.
+You were started on the IV antibiotic called vancomycin, which you will need to continue through [**2-12**].
+Over your hospital stay, you developed abdominal distention from a condition we call ileus, which can happen after surgery or severe infection.

@@ -1,0 +1,45 @@
+Admission Date:  [**2114-10-22**]              Discharge Date:   [**2114-11-16**]  Date of Birth:  [**2064-6-13**]             Sex:   F  Service: MEDICINE  Allergies: Penicillins / Sulfur / Demerol / Amphotericin B / Allopurinol / Vicodin / Percocet  Attending:[**First Name3 (LF) 6169**] Chief Complaint: Scheduled admission for chemotherapy   Major Surgical or Invasive Procedure: s/p antegrade nephrostogram s/p PICC line placement   History of Present Illness: Ms. [**Known lastname **] is a 50 year old woman with history of AML, allogenic transplant in [**2110-8-4**], and recent admissions for right-sided hydronephrosis ([**Month (only) 116**]), donor lymphocyte infusion in (discharged [**8-24**]), and left-sided hydronephrosis (discharged [**10-4**]).
+She has been admitted for chemotherapy in preparation for donor lymphocyte infusion vs. second bone marrow transplant.
+Her steroids were increased last Friday to 40mg daily from 30mg daily.
+Past Medical History: ONCOLOGY HX: - Acute myelogenous leukemia s/p allo transplant - [**2110-8-4**]: 5 of 6 matched family member allogenic BMT for AML.
+Abd X-Ray [**10-23**]: FINDINGS: Left nephrostomy tube is present.
+Stool and air is present in the colon.
+Aspirate Smears: The aspirate material is inadequate for evaluation due to a lack of spicules, hemodilution, and clotted sample.
+In the remaining half, the cellularity is variable (overall 10%) and is comprised predominantly of plasma cells, lymphocytes, and hemosiderin-laden macrophages.
+Maturing myeloid and erythroid precursors are extremely scant.
+A CD34 immunohistochemical stain is performed to better assess presence of blasts, given the architectural distortion by background fibrosis.
+The CD34 stain highlights scattered interstitial mononuclear cells within the fibrotic areas overall comprising ~10% of marrow cellularity (the remaining being lymphocytes and plasma cells).
+Definite staining amongst blasts is not seen, however, scant tissue remains on deeper sections used for immunohistochemical staining.
+Left-sided nephrostomy tube is seen in place.
+[**2114-11-15**] Antegrade Nephrostogram:IMPRESSION: Persistent narrowing of the distal left ureter, probably from the extrinsic compression, unchanged from the study from one month ago   Brief Hospital Course: #) AML.
+pain was controlled with Fentanyl PCA.
+On discharge, she is to follow-up with her outpatient oncologist for a repeat bone marrow bx and further discussion of additional chemotherapy/mini transplant.
+She was given lorazepam 1g IV for anxiety and sent for CT abd/pelvis without contrast.
+She was given a 1L NS bolus with transient improvement of her blood pressure to 95/50s.
+She was also given aztreonam 2g IV, vancomycin 1g IV, and metronidazole 500mg IV.
+She also received morphine 1mg IV for pain with little relief.
+#) Hypotension: In the setting of severe abdominal pain, she was found to have SBP in 80's, which responded well to fluid boluses.
+Initially, there was concern for sepsis, and she was started on stress dose steroids, which were ultimately tapered down.
+She was empirically covered with aztreonam, vancomycin and caspofungin.
+Given she has a hx of hives to penicillins, she was premedicated and tolerated the meropenam without incident.
+Ertapenam as QD antibiotic was discussed, but as there was no literature to support its efficacy against lactobacillus, she was discharged with VNA services to help administer her IV meropenam.
+She was s/p urgent placement of L nephrostomy tube, and had been responding well.
+Urology was consulted regarding taking out her left nephrostomy tube prior to discharge.
+She was started on TPN for nutrition given her abdominal pain and was gradually weaned off.
+Medications on Admission: Ciprofloxacin 250mg [**Hospital1 **] Ritalin 20mg QD Citalopram 20mg QD Loratadine 20mg QD Beclonase [**Hospital1 **] Fluconazole 200mg QD Acyclovir 400mg [**Hospital1 **] Protonix 40mg [**Hospital1 **] Sudafed 30 mg QD Potassium 20mEq powder Fluconazole QD Prednisone 40mg (increased on Friday)  Discharge Medications: 1.
+Citalopram 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Loratadine 10 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Pseudoephedrine HCl 30 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Methylphenidate 10 mg Tablet Sig: One (1) Tablet PO once a day.
+Beclomethasone Diprop Monohyd 42 mcg (0.042 %) Aerosol, Spray Sig: One (1)  Nasal [**Hospital1 **] (2 times a day).
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+Prednisone 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Loperamide 2 mg Capsule Sig: One (1) Capsule PO Q4H (every 4 hours) as needed for diarrhea.
+Acyclovir 400 mg Tablet Sig: One (1) Tablet PO three times a day.
+Meropenem 500 mg Recon Soln Sig: One (1) Recon Soln Intravenous  Q8H (every 8 hours) for 7 days: Please premedicate with Tylenol.
+Potassium Chloride 20 mEq Packet Sig: One (1)  PO once a day.
+Fluconazole 200 mg Tablet Sig: One (1) Tablet PO once a day.
+Line care Please flush and care for line as per IV network protocol   Discharge Disposition: Home With Service  Facility: VNS of [**Location (un) 7188**] and [**Location (un) 16221**] County  Discharge Diagnosis: Primary: AML lactobacillus bacteremia ureteral stricture   Discharge Condition: good   Discharge Instructions: You have AML and received induction chemotherapy during this admission.
+During this hospital course, you have some narrowing of your left ureter requiring the nephrostomy tube to be in place.
+Please attend all follow-up appointments and take all medications as prescribed.
+Also, please follow-up with your urologist, Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 770**] to discuss when you can have your nephrostomy tube removed.

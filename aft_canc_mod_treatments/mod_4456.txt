@@ -1,0 +1,68 @@
+Admission Date:  [**2195-3-10**]              Discharge Date:   [**2195-4-23**]  Date of Birth:  [**2116-4-15**]             Sex:   M  Service: MEDICINE  Allergies: Ibuprofen  Attending:[**First Name3 (LF) 3913**] Chief Complaint: new diagnosis AML with blast crisis  Major Surgical or Invasive Procedure: Pheresis catheter placement, PICC placement x 2, foley catheterization x 2, Lumbar Puncture x 3, Bone Marrow Biopsy x 1, EGD with placement of 2 clips   History of Present Illness: This is a 79 year old man with history of atrial fibrillation status post watchman device with hyperlipidemia who was initially admitted to [**Hospital1 18**] on [**2195-3-10**] with a blast crisis now s/p multiple complications detailed below who is being transferred from 7F for an upper GI bleed.
+Since admission, initially to the [**Hospital Unit Name 153**], he was started on leukophoresis x3 on [**3-11**], hydrea, 3 days of Idarubicin and 7 days of [**Month/Year (2) **]-C, and required CVVH for renal failure with subsequent improvement in creatinine.
+Course was complicated by tumor lysis syndrome which improved with CVVH, allpurinol, plasmapheresis.
+His counts recovered though this was complicated by neutropenic fever and was started on vancomycin, cefepime, flagyl and micafungin with resolutions of fevers.
+He was switched from micafungin to voirconazole (and briefly ambisome).
+His course was also complicated by a PICC-line associated DVT in R brachiocephalic subclavian vein, initially treated with heparin gtt and then lovenox with factor Xa level titration.
+He has had persistent anemia, thrombocytopenia treated with intermittent prbcs and plts prn.
+His digoxin had been discontinued due to fluctuated renal funtion and his metoprolol had been uptitrated for HR control as he is chronically in atrial fibrillation.
+He additionally has hypocalcemia after treatment of hypercalcemia 2.2 tumor lysis and was followed by endocrinology who recommended discharge with Vit D and calcium carbonate.
+He had been doing well with plans for discharge home on the morning of transfer.
+He then received 2 units of blood overnight and his repeat HCT was 24.1.
+He was also started on a protonix drip.
+Past Medical History: -afib, s/p "watchman procedure"-experimental procedure to block of atrial appendage, therefore not on coumadin -hyperlipidemia -htn, well controlled on metoprolol -prostate cancer, s/p radiation  Social History: He is a retired [**University/College **] professor of political science, recently moved back from CA after teaching at [**University/College 33150**] to be closer to his children.
+**Labs on Discharge** COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct [**2195-4-23**] 00:15    9.7 3.40* 10.3* 30.2* 89 30.2 34.0 17.5* 268  RENAL & GLUCOSE Glucose UreaN Creat Na K Cl HCO3 AnGap [**2195-4-23**] 00:15    771 20 1.1 141 3.1* 106 25 13 ENZYMES & BILIRUBIN ALT AST LD(LDH) CK(CPK) AlkPhos Amylase TotBili DirBili [**2195-4-23**] 00:15    30 27 261*   444*   1.2 Source: Line-picc   CHEMISTRY TotProt Albumin Globuln Calcium Phos Mg UricAcd Iron  [**2195-4-23**] 00:15          7.6* 2.7 1.9 .
+**Microbiology** Blood Cxs: VRE x [**4-4**], [**4-5**]          : C. [**Month/Year (2) **], [**4-3**] Urine Cxs: Enterobacter Aerogenes on [**4-13**] Cdiff: negative x6 [**3-19**] IV catheter tip: coag neg staph [**3-21**] mycolytic cxs: negative Skin biopsy: no organisms CSF: no organisms Legionella: negative Resp viral cxs: Crytptococcal: negative Galactomannan: [**4-3**] (1.5 = POSITIVE), [**4-13**] (0.1 = NEGATIVE) B-Glucan: > Assay [**4-3**]  **Images** [**3-10**] CXR: IMPRESSION: Patchy ill-defined opacities in both lung bases which may represent areas of infection rather than atelectasis.
+[**3-23**] MRI L-spine .
+[**3-24**] MRI LSPine 1.
+[**3-25**] Skin, left calf, punch biopsy (A):      - Squamous atypia of basilar epidermis and atypia of superficial vascular endothelium consistent with chemotherapy effect.
+[**3-30**] BM bx: MARKEDLY HYPOCELLULAR MARROW WITH FEATURES CONSISTENT WITH CHEMOTHERAPY INDUCED ABLATION.
+Evidence of iron deposition in liver and spleen probably related to transfusion therapy .
+Left PICC tip is in the upper SVC.
+[**4-16**] RUE US Grayscale and color Doppler ultrasonography of the right upper extremity reveals a patent proximal right subclavian vein and right IJ.
+Two clips were placed over this area for presumed vessel with good effect.
+IMPRESSION: GE junction ulceration x3 with adherent clot on gastric side of hiatal hernia.
+Two clips placed for presumed underlying vessel.
+Brief Hospital Course: SUMMARY 78 y/o Political Theorist with PMH of Atrial Fibrillation s/p Watchman procedure presents with M5-AML Blast Crisis and Leukostasis.
+# AML M5 Type, Leukostasis with Leukemic Infiltration of Lungs, Kidneys, s/p Leukopheresis x 3 # Tumor Lysis, s/p Rasburicase # Acute Renal Failure, "Blast-Casts" in urine, s/p CVVH # Leukopoenia, s/p 3 then 7 ([**Last Name (LF) **], [**First Name3 (LF) **]-C) # One Atypical Cell in CSF, s/p IT Chemotherapy (5/5,[**3-28**] and [**4-9**])  Originally presenting to his PCP with [**Name Initial (PRE) **] sore throat and diagnosed with strep throat (at which time he had a normal CBC), his symptoms progressed to include dyspnea and olgiuria.
+On [**3-11**], he was started on leukopheresis and received three sessions.
+He was also started on rasburicase with good effect.
+On [**3-12**], he was also started on CVVH concommitantly with 3 days of Idarubicin, which restarted his tumor lysis.
+On [**3-17**], CVVH was discontinued, the patient was transferred to the floor and completed a full course 7 days of [**Month/Year (2) **]-C. His CSF showed an atypical cell and thus received three rounds of IT chemo (2xMTX and 1xAraC).
+# Neutropenic fever # VRE Sepsis # [**First Name5 (NamePattern1) 564**] [**Last Name (NamePattern1) **] Sepsis # Aspergillus Lung Disease, Angioinvasive # Immune Reconstitution Inflammatory Syndrome # Enterobacter Aerogenes UTI  Pt developed neutropenic fever and was started on cefepime, vancomycin, flagyl and micafungin during the course of his hospitalization, with initial resolution of his fevers.
+At this time he was switched from micafungin to voriconazole (and briefly Ambisome).
+He is to finish a 4 week course of linezolid and voriconazole on [**5-7**].
+# DVT   Patient developed a provoked, PICC-line associated DVT in his Right Brachiocephalic-Subclavian vein that was treated out of concern that it was an infected clot, first with heparin gtt then with Xa-factor titrated doses of LMWH.
+He did have an abnormal US on [**4-7**] with gallbladder sludge and and mild intrahepatic bile duct dilatation.
+His statin was held for now but may be restarted as an outpatient if his LFTs normalize.
+# Hematuria: initially resolved with foley removal, however then recurred later in the course of the hospitalization in the setting of low platelets.
+Pt was seen by urology who recommended monitoring given pt not a candidate for cystoscopy given low plts, outpt f/u.
+# [**Name (NI) **]  pt seen by dermatology who biopsied the lesions on his legs.
+The patient was transfused supportively as needed with both red cells and platelets.
+# Atrial Fib s/p Watchman Procedure  chronically in AF.
+He required uptitration of metoprolol for rate control.
+He should restart his digoxin as an outpatient if his renal function remains stable.
+He was given given multiple intermittant doses of lasix during his stay.
+He was supplement with calcium and vitamin D.  Per endo, he should be dc'd on calcium carb 1000 [**Hospital1 **]-TID, ergocalciferol 50K q wk x12 wks, cholecalciferol 1000 q d then recheck in 12 wks.
+He was given one dose of 50K units of ergocalciferol while in house.
+He recieved a total of 5 units of packet red blood cells.
+He remained stable on a [**Hospital1 **] protonix and tolerated a normal diet.
+He is told to avoid all anticoagulation (including lovenox/coumadin for his DVT), aspirin, and NSAIDs.
+Medications on Admission: ASA 81 Digoxin Metoprolol Captopril Lipitor  Discharge Medications: 1.
+Camphor-Menthol 0.5-0.5 % Lotion Sig: One (1) Appl Topical QID (4 times a day) as needed for itching.
+Loperamide 2 mg Capsule Sig: Two (2) Capsule PO Q4HR PRN () as needed for diarrhea.
+Polyvinyl Alcohol-Povidone 1.4-0.6 % Dropperette Sig: [**11-22**] Drops Ophthalmic PRN (as needed) as needed for dry eye.
+Menthol-Cetylpyridinium 3 mg Lozenge Sig: One (1) Lozenge Mucous membrane PRN (as needed) as needed for sore throat.
+Calcium Carbonate 500 mg (1,250 mg) Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Zolpidem 5 mg Tablet Sig: 1-2 Tablets PO HS (at bedtime) as needed for insomnia.
+Voriconazole 200 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 hours) for 14 days.
+Linezolid 600 mg Tablet Sig: One (1) Tablet PO twice a day for 14 days.
+Protonix 40 mg Tablet, Delayed Release (E.C.)
+Metoprolol Tartrate 50 mg Tablet Sig: Three (3) Tablet PO TID (3 times a day).
+Discharge Disposition: Extended Care  Facility: The Meadows - [**Location 9583**]  Discharge Diagnosis: Primary: Acute Myelogenous Leukemia, Blast Crisis Secondary: Acute Renal Failure, Vancomycin-Resistant Enterococcal Sepsis, Non-Albicans Candidemia, Aspergillus Lung Disease, Immune Reconstitution Inflammatory Syndrome, Enterobacter Aerogenes UTI, Cerumen Impaction, upper GI bleed   Discharge Condition: Mental Status: Clear and coherent.
+To treat this, you required plasmapheresis, dialysis and chemotherapy.
+You tolerated the treatment well but were susceptible to infection.
+NEW MEDICATIONS 1.
+Metoprolol 150mg three times a day .
+STOP MEDICATION aspirin - please do not take any aspirin, NSAIDs, or blood thinners given you had a life threatening upper GI bleed Digoxin - you may restart this medication in the coming weeks if your kidney function remains normal Metoprolol succinate Ramipril - you may restart this medication in the coming weeks if your kidney function remains normal Lipitor - please stop taking this medication as your liver function tests are elevated .
+[**Telephone/Fax (1) 457**] Neurology: Please follow up with Dr. [**Last Name (STitle) **] in the next [**12-24**] weeks for your bowel incontinence and weakness.

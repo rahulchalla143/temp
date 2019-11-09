@@ -1,0 +1,36 @@
+Admission Date:  [**2146-10-10**]              Discharge Date:   [**2146-10-17**]  Date of Birth:  [**2066-7-17**]             Sex:   M  Service: MEDICINE  Allergies: Sulfa (Sulfonamide Antibiotics)  Attending:[**Last Name (NamePattern1) 495**] Chief Complaint: Tachypnea  Major Surgical or Invasive Procedure: Tracheostomy  History of Present Illness: Mr. [**Known lastname 32913**] is an 80 yo M with h/o recent ex lap with repair of bile leak/duodenal enterotomy now with PEG tube and several percutaneous biliary drains who presented from rehab with tachypnea and respiratory distress.
+According to the rehab note, patient was getting chest therapy at nursing home, and during this he became acutely short of breath.
+He was started on norepinephrine for this hypotension and right IJ CVL was placed.
+Review of systems: unable to obtain   Past Medical History: Medical History: HTN, prostate CA, duodenal ulcer  Surgical History: lap cholecystectomy c/b bile leak and duodenal injury, B II recontruction, prostatectomy with bilateral inguinal node dissection, lateral duodenostomy tube, [**Name (NI) 32914**], PTBD, feeding jejunostomy tube   Social History: He lives in a long term care facility.
+J tube present, as are JP [**Name (NI) 19843**], along with biliary [**Name (NI) 19843**] GU: foley Ext: 2+ pulses DP and radial, no clubbing, cyanosis or edema Neuro: following commands  Pertinent Results: Admit labs: [**2146-10-9**] 08:50PM   LIPASE-39 [**2146-10-9**] 09:02PM   freeCa-1.19 [**2146-10-9**] 09:02PM   GLUCOSE-113* LACTATE-1.9 NA+-143 K+-4.5 CL--108 TCO2-28 [**2146-10-9**] 09:02PM   TYPE-[**Last Name (un) **] PH-7.33* COMMENTS-GREEN TOP [**2146-10-9**] 09:30PM URINE  AMORPH-RARE [**2146-10-9**] 09:30PM URINE  HYALINE-34* [**2146-10-9**] 09:30PM URINE  RBC-12* WBC-76* BACTERIA-FEW YEAST-FEW EPI-<1 [**2146-10-9**] 09:30PM URINE  UHOLD-HOLD [**2146-10-9**] 09:30PM URINE  HOURS-RANDOM [**2146-10-9**] 09:35PM   PLT COUNT-906* [**2146-10-9**] 09:35PM   PLT COUNT-906* [**2146-10-9**] 10:58PM   O2 SAT-99 [**2146-10-9**] 10:58PM   TYPE-ART TEMP-38.3 RATES-18/ TIDAL VOL-400 PEEP-5 O2-100 PO2-252* PCO2-69* PH-7.19* TOTAL CO2-28 BASE XS--3 AADO2-397 REQ O2-69 INTUBATED-INTUBATED [**2146-10-10**] 03:00AM   CORTISOL-23.9* [**2146-10-10**] 03:00AM   ALT(SGPT)-47* AST(SGOT)-42* LD(LDH)-206 ALK PHOS-579* TOT BILI-0.6 [**2146-10-10**] 03:00AM   ALT(SGPT)-47* AST(SGOT)-42* LD(LDH)-206 ALK PHOS-579* TOT BILI-0.6 [**2146-10-10**] 03:50AM   FIBRINOGE-324 [**2146-10-10**] 03:50AM   FIBRINOGE-324  Discharge labs: [**2146-10-17**] 03:56AM BLOOD WBC-10.3 RBC-2.70* Hgb-8.4* Hct-25.9* MCV-96 MCH-31.1 MCHC-32.5 RDW-14.2 Plt Ct-656* [**2146-10-17**] 03:56AM BLOOD Glucose-104* UreaN-32* Creat-1.3* Na-142 K-4.3 Cl-108 HCO3-28 AnGap-10 [**2146-10-17**] 03:56AM BLOOD Calcium-8.4 Phos-3.4 Mg-2.1  CT ABD & PELVIS WITH CONTRAST Study Date of [**2146-10-9**] 9:53 PM IMPRESSION: 1.
+[**2146-10-15**] Change of drains IMPRESSION: Successful exchange and repositioning of a 10 French PTBD, internal/external [**Month/Day/Year 19843**].
+[**2146-10-16**] Chest X-ray: IMPRESSION: 1.
+Left subclavian PICC line and tracheostomy tube remain in satisfactory position.
+Brief Hospital Course: 80 yo M with recent ex lap with repair of bile leak/enterotomy and placement of PTCB and PEG tube who presented from rehab with hypercarbic respiratory failure and altered mental status.
+Started on vanc/zosyn for HCAP coverage now switched to vanc/cefepime and transiently on pressors.
+Pt underwent tracheostomy on [**10-14**].
+# Hypernatremia: Given free water replacement with D5W and corrected quickly.
+Question remained as to if this is medication-related due to zosyn, so this was exchanged for cefepime on [**10-15**].
+# Recent bile leak s/p surgery: PTBD (percutaneous biliary [**Month/Year (2) 19843**] and JP [**Month/Year (2) 19843**] also in place) replaced by IR [**2146-10-15**] with improvement in alkaline phosphotase today.
+# CKD:  His admission Cr is 1.3 which is at his recent baseline 1.4  # Nutrition: Continued on TPN, as tube feeds not viable at this time given aspiration occurred shortly after tubefeed initiation.
+Aspirin 325 mg PO DAILY 2.
+Carbidopa-Levodopa (25-100) 1 TAB PO TID 3.
+Pantoprazole 40 mg PO Q24H 4.
+Metoprolol Tartrate 25 mg PO TID 5.
+Lorazepam 0.5 mg PO Q8H:PRN anxiety 6.
+Acetaminophen 650 mg PO Q6H:PRN pain 7.
+Heparin 5000 UNIT SC TID   Discharge Medications: 1.
+Acetaminophen 650 mg PO Q6H:PRN pain 2.
+Carbidopa-Levodopa (25-100) 1 TAB PO TID 3.
+Heparin 5000 UNIT SC TID 4.
+Chlorhexidine Gluconate 0.12% Oral Rinse 15 mL ORAL [**Hospital1 **] 5.
+Aspirin 325 mg PO DAILY 6.
+Lorazepam 0.5 mg PO Q8H:PRN anxiety 7.
+Metoprolol Tartrate 25 mg PO TID 8.
+Pantoprazole 40 mg PO Q24H 9.
+CefePIME 1 g IV Q12H 10.
+Vancomycin 1000 mg IV Q 24H   Discharge Disposition: Extended Care  Facility: [**Hospital3 105**] - [**Location (un) 86**]  Discharge Diagnosis: Primary: aspiration pneumonia septic shock  Secondary: Parkinson disease  Discharge Condition: Mental Status: Confused - sometimes.
+You were treated with antibiotics, and a tracheostomy was placed to reduce risk of further complications.
+You will continue the antibiotic vancomycin for a total of 3 weeks (until [**10-31**]).
+You will continue cefepime for one more day after your discharge.
+Otherwise, it is very important that you take all of your usual home medications as directed in your discharge paperwork.

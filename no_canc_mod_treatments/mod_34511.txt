@@ -1,0 +1,43 @@
+Admission Date:  [**2103-9-6**]              Discharge Date:   [**2103-9-10**]  Date of Birth:  [**2026-4-10**]             Sex:   M  Service: MEDICINE  Allergies: Zithromax / Erythromycin Base  Attending:[**First Name3 (LF) 13541**] Chief Complaint: Melena and hypotension  Major Surgical or Invasive Procedure: Upper Endoscopy Duodenal ulcer biopsy and cauterization   History of Present Illness: This is a 77 yo M with h/o DM II, dementia, HTN, COPD, and recent admission for cellulitis on Levo/Flagyl/Bactrim who presents from Nursing home with melena and hypotension.
+Peripheral vascular disease s/p stent to left SFA, s/p therectomy and PTA of the right 5.
+CAD s/p stents on Plavix   Social History: Currently lives in Stone [**Hospital3 **] home.
+Please contact the Microbiology Laboratory ([**7-/2401**])immediately if sensitivity to clindamycin is required on this patient's isolate.
+Oxacillin RESISTANT Staphylococci MUST be reported as alsoRESISTANT to other penicillins, cephalosporins, carbacephems,carbapenems, and beta-lactamase inhibitor combinations.
+Rifampin should not be used alone for therapy.
+SENSITIVITIES: MIC expressed in MCG/ML      _______________________________________________________                              STAPH AUREUS COAG +                              | ERYTHROMYCIN----------   =>8 R GENTAMICIN------------ <=0.5 S LEVOFLOXACIN----------     4 R OXACILLIN-------------   =>4 R PENICILLIN G---------- =>0.5 R RIFAMPIN-------------- <=0.5 S TETRACYCLINE----------  =>16 R VANCOMYCIN------------   <=1 S .
+[**2103-9-6**] 01:25AM   WBC-11.9* RBC-3.11* HGB-9.1*# HCT-29.1* MCV-94 MCH-29.4 MCHC-31.4 RDW-14.0 [**2103-9-6**] 01:25AM   NEUTS-74.7* LYMPHS-18.8 MONOS-5.4 EOS-0.8 BASOS-0.3 [**2103-9-6**] 01:25AM   PLT COUNT-449*# [**2103-9-6**] 01:25AM   PT-15.6* PTT-25.6 INR(PT)-1.4* [**2103-9-6**] 01:25AM   ALT(SGPT)-23 AST(SGOT)-25 ALK PHOS-83 TOT BILI-0.3 [**2103-9-6**] 01:25AM   GLUCOSE-86 UREA N-51* CREAT-1.0 SODIUM-138 POTASSIUM-5.1 CHLORIDE-102 TOTAL CO2-31 ANION GAP-10 [**2103-9-6**] 01:31AM   HGB-9.8* calcHCT-29 [**2103-9-6**] 05:45AM   HGB-9.3* HCT-28.0* [**2103-9-6**] 08:39AM   HGB-10.0* calcHCT-30  Brief Hospital Course: 77 yo M with h/o CAD, DM II, PVD, COPD, cellulitis, who presented with melena and hypotension, and underwent embolization after duodenal ulcers were identified.
+was treated with PPI IV BID.
+BP meds were held.
+After discussion with GI, decision was made to continue plavix given pt's CAD s/p stents, but ASA was decreased from 325 to 81 mg. Pt should discuss resumption of full dose ASA with his PCP.
+Did not require fluid boluses while on MICU service or on floor.
+The patient was discharged on Metoprolol Succinate 100 mg Tablet Sustained Release one per day.
+These antibiotics were discontinued as the wound culture showed resistance, and patient was started on Vanco IV for 14 days first dose [**2103-9-6**].
+# CAD s/p stents - Pt s/p PCI of LAD in [**6-/2103**] with 2 Bare Metal Stents.
+Plavix continued and ASA decreased to 81 mg as above.
+In the context of his hypotension on presentation, his home ACEi, BB, and statin were initially held.
+Metoprolol was later introduced.
+His tiotropium was continued, and albuterol nebs were ordered.
+Continued on ASA 81mg as above.
+When patient was NPO, he was continued on Digoxin IV and his digoxin level was checked.
+Patient should discuss restarting Coumadin with PCP after GI tract has had some time to heal.
+# PVD - History of SFA stent: Continued plavix, decreased ASA dose as above.
+# Dementia - Held aricept, paroxetine while NPO, these were reintroduced at the end of his course.
+Medications on Admission: Bactrim 80-400mg 2tabs PO BID Levofloxacin 500mg daily Flagyl 500mg TID Insulin Sliding Scale NPH 36u SQ [**Hospital1 **] Furosemide 20mg daily Digoxin 125mcg daily Lisinopril 20mg daily Toprol XL 150mg daily MVI Paroxetine 10mg qAM Plavix 75mg daily Spiriva 18mcg capsule daily Thiamine 1 tab daily Aricept 10mg daily Simvastatin 40mg daily Trazodone 37.5mg daily ASA 325mg daily Bisacodyl 10mg supp PRN Simethicone 30mg q6h PRN Milk of Magnesia 30mg daily PRN Acetaminophen PRN  Discharge Medications: 1.
+Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Tiotropium Bromide 18 mcg Capsule, w/Inhalation Device Sig: One (1) Cap Inhalation DAILY (Daily).
+Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: [**1-24**]  Inhalation Q6H (every 6 hours) as needed.
+Aspirin 81 mg Tablet, Delayed Release (E.C.)
+Nicotine 21 mg/24 hr Patch 24 hr Sig: One (1) Patch 24 hr Transdermal DAILY (Daily).
+Paroxetine HCl 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Donepezil 5 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime).
+Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Trazodone 50 mg Tablet Sig: 0.75 Tablet PO HS (at bedtime).
+Digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Metoprolol Succinate 100 mg Tablet Sustained Release 24 hr Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).
+Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+Vancomycin in Dextrose 1 gram/200 mL Piggyback Sig: One (1) Intravenous Q 12H (Every 12 Hours) for 7 days.
+Insulin NPH Human Recomb 100 unit/mL Cartridge Sig: One (1) Subcutaneous per sliding scale: According to sliding scale.
+Disp:*30 * Refills:*0*   Discharge Disposition: Extended Care  Facility: [**Hospital6 4657**] - [**Location 1268**]  Discharge Diagnosis: Bleeding duodenal ulcer Lower extremity ulcers and cellulitis Chronic atrial fibrillation Stable coronary artery disease Chronic systolic heart failure Diabetes type 2, controlled, with complications Hyperlipidemia Chronic obstructive pulmonary disease Hypertension  Discharge Condition: Good   Discharge Instructions: Please take all your medications as prescribed.
+Please note that you will need to complete a 7 day course of IV vancomycin adminstered through the PICC line.
+Please ask her to review your medications with you, as well as follow-up on those issues addressed during this hospitalization.

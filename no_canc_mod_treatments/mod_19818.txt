@@ -1,0 +1,25 @@
+Admission Date:  [**2147-11-24**]              Discharge Date:   [**2147-12-1**]  Date of Birth:  [**2106-7-27**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 3043**] Chief Complaint: Dyspnea  Major Surgical or Invasive Procedure: Intubation and extubation  History of Present Illness: *limited due to intubated and sedated patient* 41 yo M with newly diagnosed HIV/AIDS ([**2147-10-31**]) and s/p prolonged hospitalization (ending [**2147-11-16**]) for PCP pneumonia, presents to hospital today with dyspnea.
+Patient became more tachypneic and was intubated and started on fentanyl and midazolam drip.
+He received total of 9 literes of NS and recorded as having ~1000 mL urine output.
+Received methylprednisolone 125 mg IV and PR tylenol.
+Immediately prior to transfer to the ICU, norepinephrine drip was started.
+Physical Exam: VS: T 96.3, HR 89, BP 130/80, RR 28, O2Sat 100% (AC (volume) VT: 340, RR: 26, FiO2 100%, PEEP 10) GEN: Intubated HEENT: PERRL, scleral edema, intubated with OGT in place, dried [**Year (4 digits) **] at nare on left NECK: no [**Doctor First Name **] PULM: Rhonchi throughout CARD: RR, nl S1, nl S2, no M/R/G ABD: BS+, soft, NT, ND EXT: no C/C/E SKIN: no appreciable rashes NEURO: limited exam due to sedation   Pertinent Results: CXR [**2147-11-24**]: FINDINGS: Multifocal ill-defined opacities in both lungs have progressed in the interval when compared to prior study.
+Brief Hospital Course: 41 yo M with newly diagnosed HIV/AIDS ([**2147-10-31**]) and s/p prolonged hospitalization (ending [**2147-11-16**]) for PCP pneumonia who presented with dyspnea.
+[**Name10 (NameIs) **] was treated with IV bactrim and steroids.
+He will be treated for a total of 21 days with treatment doses of Bactrim and prednisone taper, after which he will continue to take prophylactic Bactrim.
+Hypotension:  He was hypotensive after intubation in the setting of sedation.
+He was started on norepinephrine and was eventually weaned with the use of multiple fluid boluses.
+His HAART was initially held as he could not take it through an OG tube during the perior of intubation but was started again after extubation.
+He was also started on azithromycin for MAC prophylaxis.
+Medications on Admission:  *per D/C summary [**2147-11-16**]* 1) Trimethoprim-Sulfamethoxazole 160-800 mg 2 tabs PO Q8H for 14 days (ending [**2147-11-29**]) 2) Emtricitabine-Tenofovir 200-300 mg 1 tab DAILY 3) Darunavir 400 mg Tablet two tabs PO DAILY 4) Ritonavir 100 mg Capsule PO DAILY 5) Albuterol Sulfate 90 mcg HFA 1-2 puffs Q6H PRN dyspnea or wheeze 6) Colace 100 mg [**Hospital1 **] 7) Senna 8.6 mg PO BID:PRN constipation   Discharge Medications: 1.
+Emtricitabine-Tenofovir 200-300 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Darunavir 400 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Ritonavir 100 mg Capsule Sig: One (1) Capsule PO DAILY (Daily).
+Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: 2-4 Puffs Inhalation Q4H (every 4 hours) as needed for wheezing.
+Azithromycin 600 mg Tablet Sig: Two (2) Tablet PO 1X/WEEK ([**Doctor First Name **]).
+Prednisone 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a day): [**Date range (1) 68404**] (for four days) .
+Prednisone 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily) for 11 days: [**Date range (1) 76163**] (11 days) .
+Trimethoprim-Sulfamethoxazole 160-800 mg Tablet Sig: Two (2) Tablet PO TID (3 times a day) for 15 days: [**Date range (1) 76164**] (15 days) .
+Trimethoprim-Sulfamethoxazole 160-800 mg Tablet Sig: One (1) Tablet PO once a day: start taking on [**12-16**].
+You recovered well, but need to continue all your medication as prescribed, and follow up with infectious disease clinic on [**2147-12-5**].
+Followup Instructions: Appointment #1: Provider: [**Name10 (NameIs) 12082**] CARE ID Phone:[**Telephone/Fax (1) 457**] Date/Time:[**2147-12-5**] 3:30 [**Hospital **] Medical Building ([**Last Name (NamePattern1) 439**])  Appointment #2: MD: Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] Specialty: PCP Date and time: Wednesday, [**12-20**] at 11:20am Location: [**Hospital1 **] HEALTH CARE [**Location (un) 2352**] - ADULT MEDICINE, 1000 [**Last Name (LF) **], [**First Name3 (LF) 2352**],[**Numeric Identifier 9121**] Phone number: [**Telephone/Fax (1) 1144**]

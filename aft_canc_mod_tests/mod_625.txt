@@ -1,0 +1,24 @@
+Admission Date:  [**2189-3-31**]              Discharge Date:   [**2189-4-3**]   Service: MEDICINE  Allergies: Boric Acid  Attending:[**First Name3 (LF) 5266**] Chief Complaint: supratherpeutic INR  Major Surgical or Invasive Procedure: none  History of Present Illness: Mrs. [**Known firstname **] [**Known lastname 16528**] is a [**Age over 90 **] year old female with a history of afib on coumadin, metastatic GE junction adenocarcinoma, and dCHF who presents with supratherapeutic INR and anemia.
+She usually gets her INR checked every 2 weeks but almost a month passed between her last INR check and the one she had today.
+Her INR check today was > 10 and her PCP advised [**Name9 (PRE) **] evaluation.
+In the ED, initial vs were: Pain 0, T 97.8, HR 97, BP 111/49, RR 18, O2 sat 96% RA.
+Her labs were notable for an INR > 20 and Hct 22.8, approximately 10 points lower than her recent baseline.
+Blood was also ordered.
+Atrial fibrillation on Coumadin 2. dCHF with EF 60%, Echo in [**11-6**] 3.
+Family History: Father died of "heart failure"  Physical Exam: PE: 99.1F 102 112/76 17 100%RA Gen: lying in bed, in nad HEENT: eomi, mmm, NGT in place draining greenish materials CV: S1S2+ Chest: ctab Abd: distended, tympanic sound, sluggish bs+, tenderness diffusely, worse at center of the abdomen, nr, with guarding Ext: no edema, dp2+ CNS: aox3   Pertinent Results: [**2189-4-1**] 05:30AM BLOOD WBC-8.6 RBC-2.67* Hgb-7.9* Hct-23.0* MCV-86 MCH-29.8 MCHC-34.5 RDW-15.7* Plt Ct-364 [**2189-3-31**] 05:55PM BLOOD Neuts-89.0* Lymphs-7.8* Monos-2.8 Eos-0.4 Baso-0.1 [**2189-3-31**] 05:55PM BLOOD PT-150* PTT-49.2* INR(PT)->20.2* [**2189-4-1**] 05:30AM BLOOD PT-16.2* PTT-26.5 INR(PT)-1.4* [**2189-3-31**] 05:55PM BLOOD Glucose-148* UreaN-31* Creat-1.2* Na-137 K-3.3 Cl-98 HCO3-39* AnGap-3* [**2189-4-1**] 05:30AM BLOOD Glucose-95 UreaN-24* Creat-0.8 Na-141 K-3.2* Cl-100 HCO3-30 AnGap-14 [**2189-4-1**] 05:30AM BLOOD CK(CPK)-29 [**2189-3-31**] 05:55PM BLOOD cTropnT-<0.01 [**2189-4-1**] 05:30AM BLOOD CK-MB-2 cTropnT-<0.01 [**2189-4-1**] 05:30AM BLOOD Calcium-9.0 Phos-2.6* Mg-1.9 [**2189-3-31**] 05:55PM BLOOD TSH-2.2  Brief Hospital Course: This is a [**Age over 90 **] year old female with a PMH of afib on coumadin, metastatic GE junction cancer, and dCHF who presented with an INR > 20 and anemia with hematocrit 22.8, markedly decreased from prior.
+# Acute blood loss anemia: Patient with a Hct of 22.8 on admission and dark guaiac positive stool in the setting of an INR of 20.
+She received 2u of pRBC's in the ICU with a Hct of 29.3 on discharge.
+She was placed on an IV PPI q12H and was monitored on telemetry throughout her course without incident.
+# Supratherapeutic INR: Patient with an INR >20 on admission.
+Her INR was reversed to 1.4 following these measures.
+CE's were negative x 2.
+A repeat EKG was improved.
+# Acute renal failure: Patient with an admission creatinine of 1.2 up from baseline of 0.6 - 0.9, likely secondary to hypovolemia from anemia and poor PO intake from cancer.
+After fluid repletion with blood products, her Cr dropped to 0.8.
+Her ASA was held due to blood loss and her physician, [**Last Name (NamePattern4) **].
+Rhinocort Aqua 32 mcg/Actuation Spray, Non-Aerosol Sig: One (1) spray Nasal once a day: intranasally.
+Discharge Disposition: Home With Service  Facility: Hospice of the Good [**Doctor Last Name 9995**]  Discharge Diagnosis: Primary: GI bleed Atrial Fibrillation  Secondary: Diastolic Congestive Heart Failure Hypothyroidism Glaucoma   Discharge Condition: Level of Consciousness: Alert and interactive Activity Status: Ambulatory - requires assistance or aid (walker or cane)   Discharge Instructions: You were admitted to [**Hospital1 **] Hospital for evaluation of increased constipation and decreased appetite.
+We stopped your Coumadin, as your INR was very high on admission.
+Phone:[**Telephone/Fax (1) 62**] Date/Time:[**2189-4-8**] 11:20 .
+Provider: [**Name10 (NameIs) **] IMAGING Phone:[**Telephone/Fax (1) 253**] Date/Time:[**2189-6-8**] 2:30 .
+Phone:[**Telephone/Fax (1) 253**] Date/Time:[**2189-6-8**] 2:50

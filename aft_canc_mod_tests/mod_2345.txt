@@ -1,0 +1,39 @@
+The patient presented to an OSH today, and was noted to have a WBC of 144, creatinine of 2.72, and a TnI of 0.8 with no CK.
+Of note, the patient had a CBC drawn approximately 3 months ago after a colonoscopy which was "normal."
+The patient received 162 mg ASA and 60 mg IV lasix and was transferred to [**Hospital1 18**] for further management.
+In the [**Hospital1 18**] ED, VS 97.9 116/73 62 95%2L nc.
+The patient was again noted to have a WBC 160 with 74% other, Cr 2.8, UA 16, TnT 0.17, LDH of 2188, and BNP of [**Numeric Identifier 40030**].
+A bone marrow biopsy was also performed in the ED, and the patient was then transferred to the [**Hospital Unit Name 153**] for further monitoring and leukopheresis.
+Pertinent Results: Admission labs:  [**2108-8-12**] 03:05PM BLOOD WBC-160.6* RBC-4.04* Hgb-12.0* Hct-35.0* MCV-87 MCH-29.8 MCHC-34.3 Plt Ct-218   Neuts-11* Bands-3 Lymphs-3* Monos-3 Eos-0 Baso-1 Atyps-0 Metas-3* Myelos-2* Promyel-0 Young-0 Blasts-0 Other-74*  [**2108-8-12**] 03:05PM BLOOD Glucose-139* UreaN-41* Creat-2.8* Na-141 K-3.8 Cl-108 HCO3-18* AnGap-19 Calcium-9.9 Phos-4.4 Mg-2.3  [**2108-8-12**] PT-16.2* PTT-31.1 INR(PT)-1.4* [**2108-8-13**] PT-21.3* PTT-36.4* INR(PT)-2.0*  [**2108-8-12**] Fibrino-299, FDP->1280*, D-Dimer-8314*  [**2108-8-12**] ALT-33 AST-70* LD(LDH)-2188* CK(CPK)-52 AlkPhos-136* TotBili-0.5 Albumin-3.9 UricAcd-16.0*  [**2108-8-12**] proBNP-[**Numeric Identifier 40030**]* [**2108-8-14**] BLOOD PSA-11.0*  Cardiac enzymes: [**2108-8-12**] 03:05PM BLOOD CK(CPK)-54 CK-MB-NotDone cTropnT-0.17* [**2108-8-12**] 09:49PM BLOOD CK(CPK)-114 CK-MB-4 cTropnT-0.21* [**2108-8-13**] 02:55AM BLOOD CK(CPK)-84 CK-MB-4 cTropnT-0.18*  Cultures: Blood cultures ([**2108-8-13**]): negative to date URINE CULTURE (Final [**2108-8-15**]): BETA STREPTOCOCCUS GROUP B.10,000-100,000 ORGANISMS/ML..  Imaging/Studies:  EKG ([**2108-8-12**]): Atrial fibrillation with moderate ventricular response.
+Echo ([**2108-8-13**]): There is moderate symmetric left ventricular hypertrophy.
+Overall left ventricular systolic function is normal (LVEF>55%).
+Cell marker analysis demonstrates that the majority of the cells isolated from this bone marrow express immature antigens CD34, HLA-DR, myelomonocytic antigens CD33, CD15, CD11c, CD64, CD56, and CD4.
+T cells comprise 77% of lymphoid gated events, express mature lineage antigens, and have a helper-cytotoxic ratio of 2.
+Bone marrow aspirate and biopsy ([**2108-8-12**]): DIAGNOSIS:  Markedly hypercellular bone marrow with involvement by acute monoblastic leukemia (FAB, M5a).
+The white blood cell count appears markedly increased.
+Platelet count appears normal; large forms are seen; giant forms are not present.
+Differential count shows 12% neutrophils, 6% bands, 1% monocytes, 5% lymphocytes, 2% eosinophils, 0% basophils, 69% monoblasts, 3% myelocytes, 2% metamyelocytes.
+Erythroid precursors are decreased and include occasional dyspoietic form.
+Differential shows: 80% Blasts, <1% Promyelocytes, 2% Myelocytes, <1% Metamyelocytes, 6% Bands/Neutrophils, 0% Plasma cells, 4% Lymphocytes, 8% Erythroid.
+Clot Section and Biopsy Slides: The biopsy material is adequate for evaluation.
+Location: INPATIENT    Cell culture was established to provide metaphase cells for chromosome analysis.
+-------------------INTERPHASE FISH ANALYSIS, 100-300 CELLS-------------------   FISH evaluation for a MLL rearrangement was performed on nuclei with the LSI MLL Dual Color, Break Apart Probe (Vysis) at 11q23 and is interpreted as ABNORMAL.
+A MLL rearrangement is found in a subset of cases of ALL and AML, and is associated with oncogenic fusions between MLL and various partner genes.
+nuc ish(MLLx2)(5'MLL [**9-27**]'MLLx1)[78/100] -------------------INTERPHASE FISH ANALYSIS, 100-300 CELLS-------------------   FISH evaluation for a 5q deletion was performed with the Vysis LSI EGR1/D5S23, D5S721 Dual Color Probe ([**Doctor Last Name 7594**] Molecular) for EGR1 at 5q31 and D5S721/D5S23 at 5p15.2 and is interpreted as NORMAL Two EGR1 hybridization signals were observed in 99/100 nuclei examined, which is within the normal range established for this probe in the Cytogenetics Laboratory at [**Hospital1 18**].
+FISH evaluation for a 7q deletion was performed with the Vysis D7S522/CEP7 Dual Color Probe ([**Doctor Last Name 7594**] Molecular) for D7S522 at 7q31 and CEP7 (D7Z1) (chromosome 7 alpha satellite DNA) at 7p11.1-q11.1 and is interpreted as NORMAL.
+FISH evaluation for a 20q deletion was performed with the Vysis LSI D20S108 Probe ([**Doctor Last Name 7594**] Molecular) at 20q12 and is interpreted as NORMAL.
+nuc ish(D5S23,D5S721,EGR1,D7Z1,D7S522,D20S108)x2[100]   MLL 5' probe at 11q23   MLL 3' probe at 11q23   D5S23, D5S721 at 5p15.2   EGR1 at 5q31   D7Z1 at 7p11.1-q11.1   D7Z522 at 7q31   D20S108 at 20q12  Discharge labs:  [**2108-8-31**] 12:00AM COMPLETE BLOOD COUNT White Blood Cells 2.2* K/uL 4.0 - 11.0 Red Blood Cells 3.15* m/uL 4.6 - 6.2 Hemoglobin 9.3* g/dL 14.0 - 18.0 Hematocrit 26.4* % 40 - 52 MCV 84 fL 82 - 98 MCH 29.5 pg 27 - 32 MCHC 35.2* % 31 - 35 RDW 19.5* % 10.5 - 15.5 DIFFERENTIAL Neutrophils 56.8 % 50 - 70 Lymphocytes 34.5 % 18 - 42 Monocytes 6.2 % 2 - 11 Eosinophils 2.0 % 0 - 4 Basophils 0.4 % 0 - 2 BASIC COAGULATION (PT, PTT, PLT, INR) Platelet Count 18* K/uL 150 - 440  GENERAL URINE INFORMATION Urine Color Straw Urine Appearance Clear Specific Gravity 1.009  1.001 - 1.035 DIPSTICK URINALYSIS Blood SM Nitrite NEG Protein 30 mg/dL Glucose NEG mg/dL Ketone NEG mg/dL Bilirubin NEG mg/dL Urobilinogen NEG mg/dL 0.2 - 1 pH 6.0 units 5 - 8 Leukocytes NEG MICROSCOPIC URINE EXAMINATION RBC 1 #/hpf 0 - 2 WBC 1 #/hpf 0 - 5 Bacteria NONE Yeast NONE Epithelial Cells 0 #/hpf URINE CASTS Urine Casts, Other 1* #/lpf 0 - 0 OTHER URINE FINDINGS Urine Mucous RARE  [**2108-8-29**] 9:24 am URINE      Source: CVS.
+**FINAL REPORT [**2108-8-30**]**     URINE CULTURE (Final [**2108-8-30**]):    NO GROWTH.
+# AML - The patient presented with a leukocytosis of 160k on [**8-12**] with 74% blasts.
+Bone marrow biopsy was performed and he was found to have AML, moncytic subtype.
+DIC labs were followed and slowly resolved.
+Allopurinol was started and the patient also received Rasburicase, along with IVF with bicarb to a goal urine output of 100 cc/hour.
+He presented with a Creatinine of 2.8 with a baseline of 1.5.
+His urine from [**8-15**] grew out Beta streptococcus group B.
+A repeat urine culture from [**8-29**] showed no growth after treatment with cefipime.
+Pathology report of the lesion showed no evidence of leukemia cutis or sweet's syndrome.
+The patient underwent an TTE which showed an EF of 55 percent with moderate aortic stenosis and mitral regurgitation with concentric LVH.
+During his stay at [**Hospital Ward Name 1826**] 7 however, his blood pressure remained low-normal.
+His amlodipine and lisinopril was discontinued, and his bp remained stable.
+Followup Instructions: Please come on monday to the [**Location (un) 436**] of the [**Hospital Ward Name 1826**] building to have your blood counts checked at the date and time below.
+Provider: [**Name Initial (NameIs) 455**] 2-HEM ONC 7F HEMATOLOGY/ONCOLOGY-7F Date/Time:[**2108-9-3**] 12:00 telephone: ([**Telephone/Fax (1) 40034**]                                [**Name6 (MD) **] [**Last Name (NamePattern4) 3974**] MD, [**MD Number(3) 3975**]  Completed by:[**2108-9-2**

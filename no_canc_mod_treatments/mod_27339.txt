@@ -1,0 +1,21 @@
+Admission Date:  [**2192-2-8**]              Discharge Date:   [**2192-2-12**]  Date of Birth:  [**2122-7-15**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 106**] Chief Complaint: chest pain  Major Surgical or Invasive Procedure: Cardiac catheterization with IABP placement [**2192-2-8**]   History of Present Illness: 69 y/o male who initially on day of admission was "not feeling well" throughout the day.
+Patient also had heart block and had temp pacer placed during procedure.
+Cath revealed occluded RCA with thrombus, had 2 cypher stents placed in the RCA.
+Past Medical History: GERD hyperlipidemia  Social History: Engineer for [**Company **] Married with 3 children tob: quit [**2157**]; smoked 2ppd x 20years etoh: 2-3 beers/day drug use: none   Family History: non-contributory  Physical Exam: T afebrile  HR 94 BP 106/79 RR 12 O2Sat 99% on 3L Gen: NAD, lying flat Heent: PERRL, sclera anicteric, OP clear Neck: no carotid bruits Lungs: Clear ant/lat Cardiac: S1/S2 no murmurs Abdomen: soft NT Ext: +2 DP and PT pulses, no edema Neuro: AAOx3   Pertinent Results: [**2192-2-8**] 08:25PM BLOOD WBC-17.5* RBC-4.08* Hgb-13.0* Hct-37.1* MCV-91 MCH-32.0 MCHC-35.1* RDW-13.9 Plt Ct-269 [**2192-2-9**] 03:57AM BLOOD Glucose-157* UreaN-13 Creat-0.8 Na-137 K-5.7* Cl-109* HCO3-21* AnGap-13 [**2192-2-9**] 03:57AM BLOOD CK-MB-209* MB Indx-7.0* cTropnT-5.80* [**2192-2-9**] 02:48PM BLOOD CK-MB-126* MB Indx-3.9 cTropnT-7.01* [**2192-2-9**] 03:57AM BLOOD CK(CPK)-2975* [**2192-2-9**] 02:48PM BLOOD CK(CPK)-3194* [**2192-2-9**] 03:57AM BLOOD %HbA1c-7.5* [Hgb]-DONE [A1c]-DONE .
+He was initially borderline hypotensive, but was able to tolerate low-dose beta blockade by the morning of hospital day #2.
+His IABP was discontinued later on hospital day #2 without difficulty and his beta blocker was further titrated up.
+Due to his elevated HgbA1c, he was given a new diagnosis of type 2 diabetes mellitus and started on metformin 500mg [**Hospital1 **] per [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] Consult.
+He passed a physical therapy evaluation and was discharged home with cardiology and [**Last Name (un) **] followup.
+Medications on Admission: atorvastatin  Discharge Medications: 1.
+Aspirin 325 mg Tablet, Delayed Release (E.C.)
+Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Metformin 500 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Toprol XL 50 mg Tablet Sustained Release 24HR Sig: One (1) Tablet Sustained Release 24HR PO once a day.
+Disp:*30 Tablet Sustained Release 24HR(s)* Refills:*2* 8.
+Disp:*QS * Refills:*0*   Discharge Disposition: Home  Discharge Diagnosis: Primary diagnosis: ST-elevation myocardial infarction  Secondary diagnoses: type 2 diabetes mellitus, hypertension, hyperlipidemia, gastroesophageal reflux disease   Discharge Condition: stable   Discharge Instructions: You were admitted to the hospital with a serious heart attack.
+You received a stent to one of the arteries that supplies the heart.
+Because you had this stent placed, you need to take aspirin and Plavix *every day* until your cardiologist tells you that it is okay to stop.
+Please take all medications as prescribed.

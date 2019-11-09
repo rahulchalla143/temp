@@ -1,0 +1,23 @@
+Admission Date:  [**2179-2-3**]              Discharge Date:   [**2179-2-5**]  Date of Birth:  [**2109-6-1**]             Sex:   F  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 1899**] Chief Complaint: chest pressure/pain  Major Surgical or Invasive Procedure: cardiac catheterization  History of Present Illness: Ms. [**Known lastname 88403**] is 69 yo female with numerous cardiac risk factors (HTN, HLD, smoking, +FHx) as well as AFib and SSS s/p pacemaker who presented to [**Hospital3 1443**] ED this AM with chest pressure.
+Initial EKG showed T wave changes in aVL, but repeat EKG later in AM showed TWI in II,III,aVF, and V3-V6.
+Labs significant for: Trop T <0.01, 0.35, 0.46 [ref range 0.01-0.04]; CK 59, 84, 87; MB 7, 7; MBI 8,8.
+D-dimer elevated to 0.61 so pt had V/Q scan which found low probability of PE.
+EKG unchanged from prior.
+Labs show Trop T 0.39, CK 85, MB 7. .
+PULSES: Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+ Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+ .
+DISCHARGE PHYSICAL EXAM: unchanged from admission exam  Pertinent Results: ADMISSION LABS: WBC-6.5 RBC-3.55* Hgb-11.7* Hct-34.1* MCV-96 MCH-32.8* MCHC-34.2 RDW-12.1 Plt Ct-149* PT-9.9 PTT-69.4* INR(PT)-0.9 Glucose-133* UreaN-18 Creat-0.8 Na-141 K-4.0 Cl-106 HCO3-26 AnGap-13 Calcium-8.9 Phos-3.3 Mg-2.2 ALT-37 AST-41* .
+CARDIAC ENZYMES: [**2179-2-4**] 12:00 AM: CK (CPK) 85, MB 7, Trop T 0.39* [**2179-2-4**] 06:07 AM: CK (CPK) 77, MB 6, Trop T 0.21* .
+ECHO ([**2179-2-4**]): The left atrium is mildly dilated.
+CHEST X-RAY ([**2179-2-4**]): Heart size is moderately enlarged.
+Troponins peaked at 0.46, CK 87, MB 7.
+Initial EKG without changes at OSH, but repeat EKG showed TWI in II,III,aVF and V3-V6.
+She underwent cardiac cath on the morning of [**2-4**], which showed mild CAD, LVEDP of 22, and anatomic anomoly (bronchial arteries take off from RCA with AV malformation).
+Therefore, on discharge she was started on Lisinopril in addition to her home Metoprolol for better control of blood pressure.
+Patient agreed to purchase a BP cuff and monitor her blood pressure regularly at home.
+Heart rate well-controlled throughout hospitalization.
+Needs Chem 10 checked in 1 week because started Lisinopril 2.
+Outpatient Lab Work Please check A1C and potassium on Tuesday [**2-9**] at 2:30p at Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 92136**] office   Discharge Disposition: Home With Service  Facility: [**Location (un) 86**] VNA  Discharge Diagnosis: Chest Pain Hypertensive urgency Hyperlipidemia   Discharge Condition: Mental Status: Clear and coherent.
+An echocardiogram showed normal heart function and a cardiac catheterization did not show any acute blockages.
+This medicine can sometimes raise your blood potassium level so we would like you to get your potassium checked at Dr.[**Name (NI) 92137**] office next week.
+A prescription was written for this, please bring it to your appt.
+Followup Instructions: Name: [**Last Name (LF) **],[**First Name7 (NamePattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] Address: [**Street Address(2) **] [**Hospital1 3597**] [**Numeric Identifier 20777**] Phone: [**Telephone/Fax (3) 92138**] fax Date/Time: please call the office on Monday for an appt .

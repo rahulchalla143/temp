@@ -1,0 +1,26 @@
+In the ambulance en route to the hospital, patient became acutely dyspneic, with respiratory rate in the 40s and satting low 80s on non-rebreather.
+He arrived to the emergency [**Hospital1 **] where initial vitals showed T 98.6, HR 96, BP 115/86, RR 40, satting 95% on 15L.
+Per report, patient was talking and moving all extremities; however, he was extremely dyspneic with respiratory rate in the 30s to 40s, fighting to breath, and satting in the low 80s on the non-rebreather.
+Patient reportedly said that he wanted "everything done" and he was therefore intubated in the emergency room for hypoxemic respiratory failure and started on Fentanyl and Versed (proprofol was started initially but his blood pressures dropped).
+Labs showed a white count of 19.9 with 78% polys and 1% bands.
+Hematocrit was 36.6.
+Chemistry showed bicarb of 20, with anion gap of 16.
+Creatinine was 2.5 (baseline is unknown).
+An ABG showed 7.44/23/89 with lactate 5.2 (down to 2.2 one hour later).
+CXR showed bilateral pleural effusions, and a BNP was drawn that came back at [**Numeric Identifier **] (unfortunately there are no priors for comparison).
+EKG revealed ST-depressions in the lateral leads.
+An initial troponin was 0.18.
+Bedside echocardiogram showed no pericardial effusion, per report.
+His vitals at the time of admission were afebrile, HR 79, BP 124/77, and sat 96% on assist control ventilation, FiO2 100% with PEEP 12, Vt 500, and rr 16.
+Past Medical History: --aortic stenosis --essential hypertension --unspecified monoarthritis --benign prostatic hyperplasia --chronic obstructive asthma --chronic renal insufficiency, stage 2-3 --hyperlipidemia **negative PPD in [**2132-7-16**]**   Social History: lives at [**Hospital3 2558**], a halfway house [**Location (un) 88162**].
+DTRs 2+ BL  Pertinent Results: Admission Labs ([**2133-11-11**]) PT-14.1* PTT-47.4* INR(PT)-1.2* CK(CPK)-259 CK-MB-29* MB INDX-11.2* cTropnT-1.19* GLUCOSE-114* UREA N-49* CREAT-2.0* SODIUM-136 POTASSIUM-4.9 CHLORIDE-109* TOTAL CO2-19* ANION GAP-13  CK(CPK)-252 CK-MB-25* MB INDX-9.9* cTropnT-0.96* CK-MB-4 proBNP-[**Numeric Identifier 88163**]*  WBC-19.9* RBC-4.26* HGB-12.7* HCT-36.6* MCV-86 PLT COUNT-267 PT-13.1 PTT-23.0 INR(PT)-1.1 .
+Discharge labs: WBC-9.3 RBC-4.02* Hgb-11.9* Hct-35.7* MCV-89  Plt Ct-271 Glucose-167* UreaN-38* Creat-1.6* Na-137 K-4.5 Cl-104 HCO3-20* Calcium-8.9 Phos-3.0 Mg-2.1 .
+Micro Data- Urine Legionella Antigen- negative Blood cultures from [**11-11**] -pending Urine Culture [**11-11**]- No growth Sputum Culture- RARE GROWTH Commensal Respiratory Flora.
+Reports [**11-11**] Echocardiogram The left atrium is normal in size.
+Successful PCI to proximal LAD with DES 6.
+[**11-15**] CXR IMPRESSION: 1.
+CHEST (PA & LAT)	Study Date of [**2133-11-17**] 10:10 AM 1.
+Wedge pressure of 25-30, suggesting pulmonary congestion which is consistent with elevated BNP and CXR showing pulmonary edema.
+#NSTEMI: TTE showing EF 35%.
+Troponins peaked at 1.19; pt taken to cardiac cath s/p BMS to prox LAD.
+Further titration should occur as an outpatient .

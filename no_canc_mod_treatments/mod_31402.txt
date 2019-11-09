@@ -1,0 +1,48 @@
+Admission Date:  [**2154-12-11**]              Discharge Date:   [**2154-12-26**]   Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 3326**] Chief Complaint: Altered mental status, hypoxia  Major Surgical or Invasive Procedure: Tracheostomy and trach tube placement [**12-24**]   History of Present Illness: Mr. [**Known lastname 95403**] is an 87 yo man with a recent stroke with persistent R near-hemiplegia s/p PEG placement, DM2, CKD (baseline Cr 1.6-2) who presented from his nursing home today minimally repsonsive.
+Upon arrival to the ED, he remained minimally responsive and was intubated for airway protection.
+A central line was placed.
+- First degree A-V delay - GERD - BPH - Nephrolithiasis - Cataracts - Ventral hernia - History of malaria - Baseline chronic anemia - s/p PEG tube placement [**10/2154**]  Social History: No smoking, occasional alcohol, no drug use.
+Family History: non-contributory  Physical Exam: VS: Temp: 96.9 BP: 109/47 HR: 100 RR: 16 O2sat 100% GEN: sedated, intubated HEENT: PERRL, L eye cloudy, anicteric, MM dry NECK: supple, no jvd RESP: CTA b/l anteriorly with good air movement throughout CV: tachycardic, S1 and S2 wnl, no m/r/g ABD: G-tube without surrounding erythema, ND, NABS, soft, no masses or hepatosplenomegaly EXT: no c/c/e, warm, good pulses SKIN: no rashes/no jaundice  Pertinent Results: [**2154-12-11**] 06:00PM   WBC-13.5* RBC-3.65* HGB-10.8* HCT-32.1* MCV-88# MCH-29.6 MCHC-33.7 RDW-14.8 [**2154-12-11**] 06:00PM   NEUTS-70.0 LYMPHS-25.1 MONOS-3.6 EOS-1.3 BASOS-0.2 [**2154-12-11**] 06:00PM   PT-15.2* PTT-26.9 INR(PT)-1.3* [**2154-12-11**] 06:00PM   PLT COUNT-192 .
+Tracheostomy tube and PICC line remain in place.
+# Hypoxemic respiratory failure: Mr [**Known lastname 95403**] was intubated for airway protection and hypoxemia on arrival.
+He was started on levofloxacin, ceftazidime and vancomycin to treat a healthcare-associated pneumonia (given recent nursing home residence) and possible UTI.
+He was titrated down to FiO2 of 0.40, pressure support of 10 and PEEP of 5 by the 14th, and has been on these settings since then.
+Accordingly, after discussion with his family, he had a bedside tracheostomy on [**12-24**] and was on a trach tube thereafter; still, his vent settings remained the same and he remained unable to tolerate spontaneous breathing trials.
+Hopefully with further diuresis he can wean from the vent as there is no clear other reason he should not be able to.
+This returned positive, and flagyl was started.
+[**12-26**] is day 1 of 14 for treatment of this.
+We considered several possible etiologies including toxic/metabolic encephalopathy, uremia, hypernatremia, PNA, UTI, and meningitis.
+He had some clearly lucid periods in which he was able to shake his head or nod in response to questions and even occasionally to attempt to mouth words, though on the day of discharge he was arousable and tracked and registered his examiners but did not clearly answer questions.
+(He had received a one-time dose of ativan in the night prior.)
+His urine from his inital presentation grew out coag-negative staph, resistant to oxacillin and levofloxacin but sensitive to the vancomycin we had started by that time.
+He will likely need further increasingly aggressive diuresis if he does not begin to autodiurese more vigorously, and will likely need furosemide plus another [**Doctor Last Name 360**].
+# Hypernatremia: He was hypernatremic on arrival; this corrected with consistent hydration and free water boluses in his tube feeds.
+# s/p CVA: Per neuro d/c summary, "at the time of discharge he could withdraw his right leg slightly, with plegia in the right arm and a right facial droop, as well as dysarthria.
+- continue clopidogrel, atorvastatin .
+We kept him on an insulin sliding scale, and also added glargine for baseline level.
+He received a unit of packed red blood cells on [**12-14**] for a hematocrit of 21.4 which was dropping in the setting of aggressive hydration (a source of bleeding was not identified then or in retrospect).
+He also received a unit of packed red blood cells on [**12-25**] for a hematocrit of 21.9, with the expectation that this would continue to drop, he would be leaving the ICU soon, and evaluation of his post-transfusion stability would be helpful before transfer.
+His albumin did decline during this admission although the contribution of nutrition vs acute illness was difficult to know, and should be followed after discharge.
+# PPx: Bowel regimen (should hold with diarrhea), sq Heparin .
+# Access: Right subclavian central line, PIVs .
+Medications on Admission: Aranesp Amlodipine 10 daily Atorvastatin 40 daily Clopidogrel 75 daily Vitamin D 1000 daily Ferrous sulfate 325 daily Glipizide 10 daily Lisinopril 7.5 mg daily Metoprolol 50 [**Hospital1 **] Acetaminophen prn Omeprazole 20 [**Hospital1 **] Senna 2 tabs [**Hospital1 **] Insulin .
+Folic Acid 1 mg Tablet [**Hospital1 **]: One (1) Tablet PO DAILY (Daily).
+Atorvastatin 80 mg Tablet [**Hospital1 **]: One (1) Tablet PO DAILY (Daily).
+Senna 8.6 mg Tablet [**Hospital1 **]: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+Cholecalciferol (Vitamin D3) 400 unit Tablet [**Hospital1 **]: One (1) Tablet PO DAILY (Daily).
+Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: One (1) Tablet,Rapid Dissolve, DR [**Last Name (STitle) **] DAILY (Daily).
+Bisacodyl 5 mg Tablet, Delayed Release (E.C.)
+Metoclopramide 10 mg Tablet [**Last Name (STitle) **]: 0.5 Tablet PO QIDACHS (4 times a day (before meals and at bedtime)) as needed for for regurgitation/high residuals.
+Albuterol 90 mcg/Actuation Aerosol [**Last Name (STitle) **]: 1-2 Puffs Inhalation Q6H (every 6 hours).
+Ipratropium Bromide 17 mcg/Actuation Aerosol [**Last Name (STitle) **]: Two (2) Puff Inhalation QID (4 times a day).
+Heparin (Porcine) 5,000 unit/mL Solution [**Last Name (STitle) **]: One (1) Injection TID (3 times a day).
+Acetaminophen 325 mg Tablet [**Last Name (STitle) **]: Two (2) Tablet PO Q6H (every 6 hours) as needed for fever or pain: notify physician if patient has fever.
+Metronidazole 500 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO TID (3 times a day).
+Clopidogrel 75 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO DAILY (Daily).
+Sodium Chloride 0.9%  Flush 3 mL IV DAILY:PRN Peripheral IV - Inspect site every shift 17.
+Heparin Flush PICC (100 units/ml) 2 mL IV DAILY:PRN 10 ml NS followed by 2 mL of 100 Units/mL heparin (200 units heparin) each lumen Daily and PRN.
+Haloperidol Lactate 5 mg/mL Solution [**Last Name (STitle) **]: 0.25 mg Injection Q4H (every 4 hours) as needed for agitation.
+19. plan for diuresis Consider continuing diuresis with furosemide 100-160 up to [**Hospital1 **] to reach fluid balance goal of -500 cc/day 20.
+Followup Instructions: Key issues for discharge: * Attempt to further diurese patient who gained considerable fluid weight during his ICU admission; this may also improve respiratory status.
+* Weaning from vent as tolerated * Treatment of C. diff infection; day 1 of 14 day course of metronidazole is [**12-26**] * Ongoing evaluation of mental status; not clear what new baseline will be at this point.
+He has the following appointments: RENAL FOLLOW-UP: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD Phone:[**Telephone/Fax (1) 435**] Date/Time:[**2155-1-6**] 4:00    Completed by:[**2154-12-26**

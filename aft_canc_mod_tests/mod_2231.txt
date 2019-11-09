@@ -1,0 +1,24 @@
+Admission Date:  [**2200-6-11**]              Discharge Date:   [**2200-7-5**]  Date of Birth:  [**2127-9-8**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 2181**] Chief Complaint: altered mental status  Major Surgical or Invasive Procedure: Lumbar puncture Left subclavian central line placement  History of Present Illness: 72yo man h/o Lymphoma dx 2 yrs ago s/p splenectomy, recent CVA [**12-5**], DM, HTN who initally presented to [**Hospital1 1474**] ED on [**2200-6-10**] with change in mental status x 2 days, rigors, and weakness.
+[**First Name8 (NamePattern2) **] [**Hospital1 1474**] admission note ROS pos for loose stool, rinorrhea/cough and increased L arm weakness.
+Temp initally was 102.2 BP 170s/80s HR 120s, Sat 92% RA.
+Pt was roncherous on exam and CXR revealed a RML infiltrate.
+WBC was 7.6 with 46%lymphs.
+Head CT was perfomed and was neg for mass effect or bleed.
+Repeat CXR was read as "bibasilar airspace dz, no CHF."
+Blood cultures collected in the ED grew strep pneumo.
+MRI was negative for new infarct.
+Pathology showed malignant cells consistent with B-cell clonal lymphoproliferative disorder.
+CT showed splenomegaly; bone scan apparently showed diffuse uptake in sternum, pelvis and lumbar vertebral bodies, suggestive of diffuse bone marrow involvement.
+The patient had a splenectomy, and the pathology was consistent with marginal zone lymphoma.
+Family History: Noncontributory  Physical Exam: Vitals: T 102.4, HR 111, 125/57, RR 27, 99% RA Gen: ill appearing, sedated, not arousable to voice HEENT: sclera non-icteric.
+Pertinent Results: CSF fluid: [**2200-6-17**] 05:15AM BLOOD PT-15.5* PTT-50.9* INR(PT)-1.6 [**2200-6-11**] 06:20PM CEREBROSPINAL FLUID (CSF) TotProt-249* Glucose-86 [**2200-6-11**] 06:20PM CEREBROSPINAL FLUID (CSF) WBC-600 RBC-[**2195**]* Polys-61 Lymphs-34 Monos-0 Macroph-5 [**2200-6-11**] 06:20PM CEREBROSPINAL FLUID (CSF) WBC-910 RBC-1075* Polys-61 Bands-1 Lymphs-36 Monos-0 Macroph-2  Joint fluid, left knee: [**2200-6-12**] 10:44AM JOINT FLUID WBC-3556* RBC-[**Numeric Identifier 36021**]* Polys-77* Lymphs-16 Monos-4 Macro-3 [**2200-6-12**] 10:44AM JOINT FLUID WBC-1240* RBC-1620* Polys-81* Lymphs-10 Monos-6 Macro-3 [**2200-6-12**] 10:44AM JOINT FLUID Crystal-NONE [**2200-6-12**] 10:44AM JOINT FLUID Crystal-NONE [**2200-6-11**] 03:47PM OTHER BODY FLUID CD45-DONE Kappa-DONE CD19-DONE Lamba-DONE  HEAD MRI ([**2200-6-19**]): Several foci of increased T1 signal abnormality within the cerebellum and right frontal lobe, which likely represents sequelae from old ischemia.
+ABDOMEN/PELVIS CT ([**2200-6-24**]): 1.
+Brief Hospital Course: In the [**Hospital Unit Name 153**], the patient had an LP that showed 600 WBC and 60% polys.
+An MRI head was obtained due to concerns of lethargy and slow movement.
+The study showed evidence of old emboli but no acute changes.
+CT abd showed SBO vs. partial SBO.
+Given this course, it was felt that he should have a bootster shot which was admisistered on [**6-17**].
+Iron studies were consistent with AOCD + retic count low suggestive of hypoproliferative state (likely secondary to underlying MZL).
+He passes his swallow evaluation on [**6-18**].
+Discharge Disposition: Extended Care  Facility: [**Hospital3 7**] & Rehab Center - [**Hospital1 8**]  Discharge Diagnosis: pneumococcal meningitis hypretension left knee arthritis anemia status post tranfusion postitive anticardiolipin antibody type 2 diabetes mellitus impaired swallow reflex   Discharge Condition: patient was speaking softly, oriented x 3, afebrile and improving daily  Discharge Instructions: Please continue all medications as outlined below.
+Followup Instructions: With Dr. [**Last Name (STitle) **],[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] [**Telephone/Fax (1) 15825**] in [**2-2**] weeks  Dr. [**First Name (STitle) **] [**Doctor Last Name 36022**] Disease at [**Hospital1 18**] -([**Telephone/Fax (1) 10**]-[**2200-7-7**] at 10:30AM  Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]- ENT-[**Telephone/Fax (1) 41**]-[**2200-7-10**]- 3:15 PM    Completed by:[**2200-7-1**

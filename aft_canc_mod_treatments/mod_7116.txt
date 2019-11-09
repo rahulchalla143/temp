@@ -1,0 +1,39 @@
+Major Surgical or Invasive Procedure: [**2129-8-11**] Flexible bronchoscopy with therapeutic aspiration of secretions.
+History of Present Illness: Ms. [**Known lastname 284**] is a 46 year old female with history of breast cancer, thyroid cancer, and Hodgkins status post XRT who first presented with a pleural effusion on [**2129-6-13**].
+She had trapped lung following htis procedure, requiring decortication ([**2129-6-28**]) and chest tube placement.
+She developed a post-operative fever and was treated for pneumonia with vancomycin/zosyn --> augmentin on discharge (completed [**2129-7-11**]).
+She re-presented to [**Hospital1 18**] on [**2129-7-29**] with fevers and shortness of breath and was discharged on [**8-7**] with vancomycin for MRSA empyema.
+Patient is on anticoagulation with lovenox for mechanical aortic valve which was held last night.
+She was given Vanco/Zosyn for empiric treatment for pneumonia.
+Past Medical History: Left lower lobe effusion s/p [**2129-7-29**] Pigtail catheter placement into the left pleural space [**2129-6-23**] Pleuoscopy, drainage left pleural effusion, biopsy [**2129-6-24**] Left video assisted thoracoscopy converted to left thoracotomy, decortication of lung, also placement of pneumoperitoneum catheter.
+Hodgkin's disease, status post XRT and lymphadenectomy.
+Breast Cancer s/p bilateral mastectomy & bilateral reconstruction hypothyroidism s/p total thyroidectomy in [**2122**] for bilateral papillary carcinoma.
+s/p Aortic replacement mechanical [**First Name8 (NamePattern2) **] [**Male First Name (un) 923**] for radiation-induced valvular disease in [**2123-8-24**].
+Assessment for empyema limited without IV contrast.
+Labs: [**2129-8-20**] WBC-5.4 RBC-4.19* Hgb-11.6* Hct-35.7* Plt Ct-502* [**2129-8-18**] WBC-6.8 RBC-4.09* Hgb-11.4* Hct-34.5* Plt Ct-501* [**2129-8-12**] WBC-8.5 RBC-3.69* Hgb-10.4* Hct-31.3* Plt Ct-332 [**2129-8-11**] WBC-7.7 RBC-3.01* Hgb-8.7* Hct-24.8* Plt Ct-283 [**2129-8-9**] WBC-17.4*# RBC-2.75* Hgb-7.6* Hct-23.9* Plt Ct-397 [**2129-8-9**] WBC-7.7 RBC-3.03* Hgb-8.0* Hct-26.2* Plt Ct-340 [**2129-8-8**] WBC-10.8 RBC-2.66* Hgb-7.4* Hct-23.0* Plt Ct-390 [**2129-8-11**] Neuts-85.3* Bands-0 Lymphs-10.0* Monos-1.5* Eos-3.1 Baso-0.2 [**2129-8-22**] PT-15.1* PTT-33.3 INR(PT)-1.3* [**2129-8-21**] PT-14.2* PTT-34.8 INR(PT)-1.2* [**2129-8-8**] PT-15.4* PTT-36.4* INR(PT)-1.4* [**2129-8-9**] FacVIII-248* [**2129-8-9**] Fibrino-674*# D-Dimer-1665* [**2129-8-9**] VWF AG-181* VWF CoF-160 [**2129-8-20**] Glucose-89 UreaN-9 Creat-0.6 Na-138 K-4.3 Cl-101 HCO3-28 [**2129-8-8**] Glucose-108* UreaN-14 Creat-0.7 Na-139 K-4.1 Cl-106 HCO3-23 [**2129-8-17**] ALT-367* AST-114* LD(LDH)-326* AlkPhos-237* TotBili-0.4 DirBili-0.1 IndBili-0.3 [**2129-8-11**] ALT-143* AST-113* LD(LDH)-417* AlkPhos-197* TotBili-1.3 [**2129-8-20**] Calcium-9.2 Phos-4.8* Mg-2.3 [**2129-8-11**] Hapto-282*  [**2129-8-12**] HBsAg-NEGATIVE HBsAb-POSITIVE HBcAb-NEGATIVE HAV Ab-POSITIVE IgM HBc-NEGATIVE IgM HAV-NEGATIVE [**2129-8-9**] ANCA-NEGATIVE B [**2129-8-12**] dsDNA-NEGATIVE [**2129-8-9**] [**Doctor First Name **]-NEGATIVE [**2129-8-9**] RheuFac-14 [**2129-8-12**] C3-176 C4-33 [**2129-8-12**] HCV Ab-NEGATIVE  Cultures: CMV Viral Load (Final [**2129-8-16**]): CMV DNA not detected.
+Oxacillin RESISTANT Staphylococci               ESCHERICHIA COLI                              |          STAPH AUREUS COAG +                              |          | AMPICILLIN------------  =>32 R AMPICILLIN/SULBACTAM--     8 S CEFAZOLIN-------------   <=4 S CEFEPIME--------------   <=1 S CEFTAZIDIME-----------   <=1 S CEFTRIAXONE-----------   <=1 S CEFUROXIME------------     4 S CIPROFLOXACIN---------   =>4 R ERYTHROMYCIN----------              =>8 R GENTAMICIN------------  =>16 R    <=0.5 S LEVOFLOXACIN----------              =>8 R MEROPENEM-------------<=0.25 S OXACILLIN-------------              =>4 R PENICILLIN G----------            =>0.5 R PIPERACILLIN/TAZO-----   <=4 S RIFAMPIN--------------            <=0.5 S TETRACYCLINE----------              <=1 S TOBRAMYCIN------------     4 S TRIMETHOPRIM/SULFA----  =>16 R    <=0.5 S VANCOMYCIN------------              <=1 S    ANAEROBIC CULTURE (Final [**2129-8-14**]):    NO ANAEROBES ISOLATED.
+ACID FAST CULTURE (Preliminary):    VIRAL CULTURE (Preliminary):    No Virus isolated so  Pleural fluid [**6-13**]: Negative Left Lung tissue [**6-23**]: Negative, fungal, AFB, nocardia   Brief Hospital Course: Ms. [**Known lastname 284**] is a 46 year old female with a histoy of Hodgkin's lymphoma, breast cancer, thyroid cancer, s/p aortic valve replacement on lovenox, admitted with repiratory distress secondary to hemotpysis, multifocal pneumonia, polymicrobial empyema.
+Patient was intubated for airway protection and to manage patient secretions in setting of ongoing signicant hemoptysis.
+Patient had hemoptysis that resolved during hospital stay in setting of anticoagulation for mechanical valve.
+S/p Aortic valve replacement.
+Patient was anticoagulated with lovenox at home and presented with hemoptysis.
+Her lovenox was held and her bleeding resolved.
+She was resumed on heparin drip 4 days into hospital stay with goal PTT Of 50-60.
+On [**2129-8-18**] the heparin was stopped and she restarted Lovenox bidge to coumadin.
+She continued her previous coumadin dosing.
+Patient was treated with vanco/cefepime.
+Infectious disease was consulted and they recommended 14 day course of cefepime and vancomycin and to removed left pigtail.
+Medications on Admission: Meds: levothyroxin 150',  lasix 20', toprol 25', Zocor 20', oxycodone 5 mg', tylenol 325 PRN, ASA 81'; Vancomycin  Discharge Medications: 1.
+Levothyroxine 150 mcg Tablet Sig: One (1) Tablet PO once a day.
+Enoxaparin 80 mg/0.8 mL Syringe Sig: One (1)  Subcutaneous [**Hospital1 **] (2 times a day): Until INR 2.0 or greater.
+Coumadin 5 mg Tablet Sig: as directed Tablet PO once a day: to maintain INR 2.0-3.0.
+Zocor 20 mg Tablet Sig: One (1) Tablet PO once a day.
+Iron (Ferrous Sulfate) 325 mg (65 mg Iron) Tablet Sig: One (1) Tablet PO once a day: take with OJ.
+Toprol XL 25 mg Tablet Sustained Release 24 hr Sig: One (1) Tablet Sustained Release 24 hr PO once a day.
+Lasix 20 mg Tablet Sig: One (1) Tablet PO once a day: Daily weights and take as previous.
+Discharge Disposition: Home  Discharge Diagnosis: Left lower lobe effusion s/p [**2129-7-29**] Pigtail catheter placement into the left pleural space [**2129-6-23**] Pleuoscopy, drainage left pleural effusion, biopsy [**2129-6-24**] Left video assisted thoracoscopy converted to left thoracotomy, decortication of lung, also placement of pneumoperitoneum catheter.
+Hodgkin's disease, status post XRT and lymphadenectomy.
+Breast Cancer s/p bilateral mastectomy & bilateral reconstruction hypothyroidism s/p total thyroidectomy in [**2122**] for bilateral papillary carcinoma.
+s/p Aortic replacement mechanical [**First Name8 (NamePattern2) **] [**Male First Name (un) 923**] for radiation-induced  valvular disease in [**2123-8-24**].
+Continue Lovenox until INR 2.0 or greater.
+Coumadin as previous.

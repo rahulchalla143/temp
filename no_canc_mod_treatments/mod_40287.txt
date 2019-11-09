@@ -1,0 +1,23 @@
+Admission Date:  [**2184-11-24**]              Discharge Date:   [**2184-12-5**]  Date of Birth:  [**2114-3-22**]             Sex:   F  Service: MEDICINE  Allergies: Erythromycin Base  Attending:[**First Name3 (LF) 594**] Chief Complaint: Hypoxia  Major Surgical or Invasive Procedure: Endotracheal Intubation Arterial Line placement Bronchoscopy   History of Present Illness: 70-year-old woman with a complicated medical history, including CAD s/p PCI, BOOP/COP with bronchiectasis, PAD, renal artery stenosis, hypertension who was referred by her Pulmonary physician, [**Last Name (NamePattern4) **].
+She has never had a wheeze before despite multiple episodes of BOOP/COP.
+The patient was seen by Dr. [**Last Name (STitle) **] because of increased shortness of breath and has been on prednisone and methotrexate for a suspected recrudescence of BOOP/COP.
+Over the past week, however, the patient has had intermittent short-lived episodes of substernal chest heaviness, which she reports most closely resemble angina from her previous heart problems (which include 3 stents in her coronary vessels; the patient also reports renal artery stents and what seem to be iliac stenting on left).
+She has had a barium swallow and reports she has been asked to have an endoscopy as well.
+Past Medical History: BOOP/COP s/p Bx [**2172**] HTN HLD CAD s/p 3 stents GERD T2DM s/p knee replacement ([**2181**]) s/p TAH h/o proctitis ([**2177**]) h/o Babesiosis ([**2180**])   Social History: She is married and lives with her husband.
+Brief Hospital Course: 70F with PMH BOOP/COP, CAD s/p stent x3, PAD who presents with dyspnea on exertion, hypoxia, chest pressure of two months duration.
+# Dyspnea, Hypoxia, Chest Pressure:  DDx is broad, including cardiac, pulmonary, and inflammatory causes.
+Given her use of steroids without ABX prophylaxis, PCP or other infection also needs to be considered.
+Given the background of foot rash and nasal lesions, Wegener's was of concern.
+While in the MICU, the patient was placed on a NRB.
+She was continued on treatment for presumed PCP with steroids and Bactrim.
+She was also started on vanc/ceftax for possible HAP for seven day course.
+The possibility of intubation was discussed with the patient for possible bronchoscopy.
+However, because of the risk of intubation and the potential for a very difficult extubation [**1-14**] her underlying lung disease, she was not immediately intubated.
+Several attempts were made to wean her from the ventilator but failed due to hypoxia.
+On [**2184-12-4**] patient's husband [**Name (NI) **] [**Name (NI) 10132**] together with his family, decided to extubate [**Known firstname 4115**] and to change the goals of her care to comfort care.
+# Kidney injury: BUN 50, creatinine 1.4.
+While in the MICU, her renal function worsened, with creat increasing to 2.1; possible related to medication effects of Bactrim.
+# Hypertension: Continued home regimen of atenolol and HCTZ.
+# Hyperlipidemia/CAD: Verified pravastatin dose, continued.
+# Depression: continued home citalopram therapy.
+# FEN: Replete lytes prn / regular diet # PPX: heparin SC, bowel regimen, APAP # ACCESS: PIV # CODE: Full # CONTACT:  husband  Medications on Admission: Medication list per PCP records from visit [**11-9**]: ATENOLOL 25mg AM, 50mg PM (same as OMR) HYDROCHLOROTHIAZIDE 25mg daily (same as OMR) CITALOPRAM 20mg daily (same as OMR) PANTOPRAZOLE [PROTONIX] 40mg daily (same as OMR) METFORMIN 500mg [**Hospital1 **] (same as OMR) PREDNISONE taper from 40mg (same as OMR) PRAVASTATIN 10mg daily (same as OMR, dose not listed, confirmed with Pharmacy) METHOTREXATE SODIUM 10mg weekly Q Tuesday (same as OMR) Ativan PRN (not in OMR) Ventolin Q4-6H PRN (not in OMR) saline nasal rinse PRN (not in OMR)   Discharge Medications: n/a  Discharge Disposition: Expired  Discharge Diagnosis: Interstitial Lung Disease Anemia Acute Renal Failure   Discharge Condition: Expired   Discharge Instructions: n/a  Followup Instructions: n/a

@@ -1,0 +1,33 @@
+Admission Date:  [**2181-9-12**]              Discharge Date:   [**2181-9-22**]  Date of Birth:  [**2130-6-17**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 2758**] Chief Complaint: Fatigue, Fever, SOB  Major Surgical or Invasive Procedure: Central line placement   History of Present Illness: Mr. [**Known lastname 80287**] is a 51 M with a medical history notable for multiple sclerosis requiring self bladder catheterization and recurrent urinary tract infections who presented with fatigue, fever and SOB starting at 2pm on the day of admission.
+He was given 5L NS and started on vanc/zosyn; HR went down to 120s-130s.
+Received acetaminophen 1000mg.
+He was admitted to the ICU and treated with aggressive IV hydration, vancomycin, Zosyn, and pressors for blood pressure support.
+He had blood cultures positive for gram negative rods and urine culture positive for ESBL E Coli, and his antibiotics were changed to meropenem (first dose 10/7).
+Pertinent Results: ADMISSION LABORATORIES:  - [**2181-9-12**] 05:20PM   GLUCOSE-92 UREA N-19 CREAT-1.2 SODIUM-140 POTASSIUM-5.1 CHLORIDE-101 TOTAL CO2-18* ANION GAP-26* LACTATE-6.8* CALCIUM-10.2 PHOSPHATE-4.8* MAGNESIUM-1.9  - [**2181-9-12**] 05:20PM   WBC-4.9 (NEUTS-81* BANDS-10* LYMPHS-8* MONOS-0 EOS-0 BASOS-0 ) RBC-4.88 HGB-14.4 HCT-45.4 MCV-93 MCH-29.6 MCHC-31.9 RDW-13.4 PLT COUNT-236  - [**2181-9-12**] 05:20PM   PT-13.3 PTT-25.6 INR(PT)-1.1  - [**2181-9-12**] 05:25PM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.009 BLOOD-LG NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-NEG RBC-[**5-17**]* WBC-[**5-17**]* BACTERIA-MANY YEAST-RARE EPI-0-2 TRANS EPI-0-2  DISCHARGE LABORATORIES:  - [**2181-9-17**] 05:14AM   WBC-13.3 HCT-32.7 PLT COUNT-200  - [**2181-9-20**] 07:00AM   GLUCOSE-80 UREA N-16 CREAT-0.6 SODIUM-139 POTASSIUM-4.4 CHLORIDE-104 TOTAL CO2-28  MICROBIOLOGY: [**2181-9-12**] 5:20 pm BLOOD CULTURE                              **FINAL REPORT [**2181-9-18**]**     Blood Culture, Routine (Final [**2181-9-18**]):       ESCHERICHIA COLI.
+Consider Infectious          Disease consultation for serious infections caused by          ESBL-producing species.
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              ESCHERICHIA COLI                              | AMPICILLIN------------  =>32 R AMPICILLIN/SULBACTAM--     8 S CEFAZOLIN-------------  =>64 R CEFEPIME--------------       R CEFTAZIDIME-----------       R CEFTRIAXONE-----------  =>64 R CIPROFLOXACIN---------   =>4 R GENTAMICIN------------   <=1 S MEROPENEM-------------<=0.25 S PIPERACILLIN/TAZO-----   <=4 S TOBRAMYCIN------------   <=1 S TRIMETHOPRIM/SULFA----  =>16 R     Aerobic Bottle Gram Stain (Final [**2181-9-13**]):       REPORTED BY PHONE TO DR. [**First Name8 (NamePattern2) 1112**] [**Last Name (NamePattern1) 18569**] @ 1035A, [**2181-9-13**].
+Brief Hospital Course: Mr. [**Known lastname 80287**] was admitted with urosepsis related to his intermittent self-catheterizations.
+He was initially treated in the ICU with Vancomycin, Zosyn, and vasoactive pressors for hypotension; he was never intubated.
+His blood and urine cultures returned ESBL E coli and he was strated on meropenem on [**2181-9-13**].
+He will complete a 2 week course of meropenem on [**2181-9-26**].
+He will then need to restart his methenamine hippurate for suppressive therapy.
+Other active issues in the intensive care unit included acute renal failure that improved with supportive therapy and multiple decubitus ulcers.
+MRI was not pursued given the above exam finding  - wound care: wound cleanser and Mepilex dressing every 3 days  2.
+Multiple sclerosis:  - continued on his baclofen pump and continued with physical therapy  3.
+As soon as his regular catheters can be obtained, he should have his Foley catheter removed to prevent further infections.
+Depression:  continued fluoxetine  Patient confirmed he is full code during this hospitalization  Medications on Admission: HOME MEDICATIONS: -Aspirin 325 mg po qd -Fluoxetine 40 mg po qd -Ezetimibe 10 mg po qd -Lidocaine HCl 2 % Gel Sig: One (1) Appl -Mucus membrane as needed for Self-cath -Oxybutynin Chloride 10 mg [**Hospital1 **] po -Methenamine Hippurate 1 gram Tablet Sig: One (1) Tablet PO BID To be restarted on [**7-30**] after course of antibiotics complete.
+-Vitamin C 1,000 mg po bid .
+Medications on transfer:   Discharge Medications: 1. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. fluoxetine 20 mg Capsule Sig: Two (2) Capsule PO DAILY (Daily).
+3. ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+4. lidocaine HCl 2 % Gel Sig: One (1) Appl Mucous membrane PRN (as needed) as needed for self-catheterization.
+5. oxybutynin chloride 5 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day).
+6. methenamine hippurate 1 gram Tablet Sig: One (1) Tablet PO twice a day: to be restarted on [**2181-9-27**] after meropenem is complete.
+Vitamin C 1,000 mg Tablet Sig: One (1) Tablet PO twice a day.
+8. meropenem 500 mg Recon Soln Sig: One (1) Recon Soln Intravenous Q6H (every 6 hours): last dose on [**2181-9-26**] for a total 14 day course.
+10. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day) as needed for constipation.
+11. senna 8.6 mg Tablet Sig: 1-2 Tablets PO BID (2 times a day) as needed for constipation.
+You improved with IV antibiotics.
+We made no other changes to your medications though you will need to restart your methenamine on [**2181-9-27**] after the meropenem is complete.
+It is also very important that you have your Foley catheter removed as soon as possible to prevent further infections.
+Followup Instructions: Please follow-up with Dr. [**Last Name (STitle) **] in [**12-9**] weeks after discharge from your rehab hospital.

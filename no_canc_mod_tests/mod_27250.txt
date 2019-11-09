@@ -1,0 +1,28 @@
+Admission Date:  [**2112-10-12**]              Discharge Date:   [**2112-10-16**]  Date of Birth:  [**2048-10-3**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 11892**] Chief Complaint: Chest pain, shortness of breath  Major Surgical or Invasive Procedure: None  History of Present Illness: Ms. [**Known lastname 53899**] is a 64 year old female with large anterolateral STEMI requiring IABP in late [**2112-9-7**] s/p LAD bare metal stent who presented with chest pain and shortness of breath on [**2112-10-11**].
+She described substernal chest pain and tightness that was acute in onset and felt similar to her prior MI, but not as severe.
+On arrival to the [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], initial vital signs were: T:98.6 HR:90 BP:83/51 RR:20 O2sat:97% RA.
+In the [**Hospital1 18**] ED, initial vital signs were: T:97.3 P:80 B:92/53 (on 10 dopa) R:16 O2sat:97% RA.
+She had new TWIs in V2-V4 (similar to when she had an NSTEMI in [**2108**]).
+Her chest x-ray was clear, she had no LE edema, and was not hypoxic.
+Cardiac enzymes were negative.
+Also had abd CT negative, Chest CT demonstrated LUL nodule which was monitered.
+Had recent scan that demonstrated increase in size of LUL nodule from 3mm->7mm, PET scan in [**12-11**] negative - scheduled to have repeat Chest CT this month.
+Abdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly GU: foley in place Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema   Pertinent Results: On admission: [**2112-10-11**] 11:52PM BLOOD WBC-13.4* RBC-3.74* Hgb-12.5 Hct-37.5 MCV-100* MCH-33.5* MCHC-33.5 RDW-14.3 Plt Ct-345 Neuts-85.4* Lymphs-9.7* Monos-2.6 Eos-1.8 Baso-0.5 [**2112-10-11**] 11:52PM BLOOD PT-12.1 PTT-29.6 INR(PT)-1.0 [**2112-10-11**] 11:52PM BLOOD Glucose-83 UreaN-24* Creat-0.9 Na-140 K-2.8* Cl-105 HCO3-21* AnGap-17 Calcium-7.9* Phos-3.2 Mg-2.0 [**2112-10-11**] 11:52PM BLOOD CK-MB-3 cTropnT-<0.01 [**2112-10-12**] 05:15AM BLOOD CK-MB-4 cTropnT-<0.01 [**2112-10-12**] 12:29PM BLOOD CK-MB-3 cTropnT-<0.01 [**2112-10-12**] 01:47AM BLOOD D-Dimer-298 [**2112-10-11**] 11:52PM BLOOD TSH-0.79 [**2112-10-11**] 11:52PM BLOOD ASA-NEG Acetmnp-NEG Bnzodzp-NEG Barbitr-NEG Tricycl-NEG [**2112-10-12**] 04:36AM BLOOD Type-ART pO2-48* pCO2-43 pH-7.38 calTCO2-26 Base XS-0 [**2112-10-12**] 02:40PM BLOOD Lactate-1.1 [**2112-10-14**] 03:01AM BLOOD VitB12-387 .
+[**2112-10-12**] Blood Culture: Pending, no growth to date .
+Discharge Labs: [**2112-10-16**] 06:26AM BLOOD WBC-6.4 RBC-3.52* Hgb-11.6* Hct-34.5* MCV-98 MCH-33.1* MCHC-33.8 RDW-14.4 Plt Ct-306 [**2112-10-16**] 06:26AM BLOOD Glucose-82 UreaN-9 Creat-0.6 Na-142 K-3.9 Cl-106 HCO3-31 AnGap-9 [**2112-10-16**] 06:26AM BLOOD Albumin-3.7 Calcium-8.8 Phos-3.8 Mg-2.3  Brief Hospital Course: Mrs. [**Known lastname 53899**] is a 64 year old female s/p anteriolateral STEMI with BMS to LAD who required IABP in cath lab, who presented on [**2112-10-11**] with chest pain and shortness of breath.
+Her lisinopril, furosemide, and metoprolol were all held.
+Bedside echo showed no interval worsening of EF.
+Interestingly, the MICU team noted that her pressure with invasive montitoring via a-line was consistently [**10-21**] points higher than with a peripheral cuff.
+Her blood pressure stabilized to the 90s systolic without dopamine and she was transferred to the floor.
+Given recent weight loss, there was concern that poor nutritional status was resulting in a decreased oncotic pressure in the vasculature, but albumin was 3.7.
+Negative cardiac enzymes x 3.
+# CAD - NSTEMI in [**2108**] and STEMI in 09/[**2112**].
+After her blood pressure stabilized in the MICU, she was re-started on metoprolol, but her BPs were intermittently in the 80s, so metoprolol was discontinued again.
+# Acute kidney injury: Her baseline creatinine is 0.4-0.5, but was up to 1.1 on arrival likely from volume depletion.
+Her creatinine trended down to 0.5 following fluid resusitation.
+You got IV fluids and a medicine to help increase your blood pressure.
+We are concerned that part of the reson your pressure was low was that you have not been eating and drinking enough at home.
+We have made the following changes to your medications: - Please STOP taking metoprolol XL 12.5 mg daily.
+Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more than 3 lbs.
+Followup Instructions: Please keep the appointment with your cardiologist and for an echocardiogram on Thursday at [**Hospital3 **].
+[**First Name7 (NamePattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **] DO 12-BDU

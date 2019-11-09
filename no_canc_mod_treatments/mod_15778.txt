@@ -1,0 +1,53 @@
+Admission Date:  [**2162-5-16**]              Discharge Date:   [**2162-6-3**]  Date of Birth:  [**2094-7-3**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 689**] Chief Complaint: Respiratory distress Pulmonary emboli  Major Surgical or Invasive Procedure: Endotrachial intubation and mechanical ventilation Central venous line placement Arterial line placement IVC filter placement PICC line placement   History of Present Illness: This is a 67 year old man with hx Non-Small Cell Lung CA, DVT, recent GIB who is transfered from [**Hospital1 **] [**Location (un) 620**] with dx of PE.
+CTA showed multifocal PE's with RV strain on CT. Heparin gtt started.
+The patient was intubated and required high amounts of versed for sedation.
+Cardiothoracic surgery saw the patient and did not think embolectomy would be indicated.
+Non-small cell Lung CA s/p resection in [**2157**] 2.
+DVT [**2152**], on coumadin for years, dc'ed one month ago 4.
+He smoked at least a pack per day for about 45 years but was able to stop smoking albeit with some difficulty and help of a patch since his diagnosis.
+Pertinent Results: ADMISSION LABS: [**2162-5-16**] 06:22PM   WBC-4.4 RBC-2.95* HGB-10.0* HCT-31.2* MCV-106* MCH-34.0* MCHC-32.2 RDW-13.7 [**2162-5-16**] 06:22PM   PLT COUNT-147* [**2162-5-16**] 06:22PM   PT-14.3* INR(PT)-1.2* [**2162-5-16**] 06:22PM   GLUCOSE-87 UREA N-12 CREAT-1.0 SODIUM-145 POTASSIUM-3.2* CHLORIDE-117* TOTAL CO2-20* ANION GAP-11  DISCHARGE LABS: White Blood Cells 8.5 Red Blood Cells 2.29 Hemoglobin 7.3 Hematocrit 23.8 MCV 104 MCH 32.1 MCHC 30.9 RDW 14.3 Platelet Count 838  ANEMIA LABS: Iron: 19 TIBC: 166 Ferritin: 232 Reticulocyte count: 3.0 Haptoglobin: 253 LDH: 236 Tbili: 0.4 Folate: 14.7 Vitamin B12: 534  ECHO ([**2162-5-16**]): The left ventricular cavity is unusually small.
+PLAIN FILMS LEFT HIP AND FEMUR ([**2162-6-1**]): There is severe degenerative change of the lower lumbar spine.
+SENSITIVITIES: MIC expressed in MCG/ML                              STAPH AUREUS COAG +                              | CLINDAMYCIN-----------<=0.25 S ERYTHROMYCIN----------<=0.25 S GENTAMICIN------------ <=0.5 S LEVOFLOXACIN----------<=0.12 S OXACILLIN-------------   0.5 S TRIMETHOPRIM/SULFA---- <=0.5 S  -respiratory culture from ET tube ([**2162-5-19**]): SENSITIVITIES: MIC expressed in MCG/ML                              CITROBACTER FREUNDII COMPLEX                              |          AEROMONAS HYDROPHILA                              |          | AMPICILLIN/SULBACTAM--              <=8 S CEFAZOLIN-------------               16 I CEFEPIME--------------   <=1 S CEFTAZIDIME-----------   <=1 S      <=2 S CEFTRIAXONE-----------   <=1 S      <=4 S CEFUROXIME------------                  S CIPROFLOXACIN---------<=0.25 S    <=0.5 S GENTAMICIN------------   <=1 S      <=1 S IMIPENEM--------------              <=1 S LEVOFLOXACIN----------                  S MEROPENEM-------------<=0.25 S          S PIPERACILLIN----------   <=4 S PIPERACILLIN/TAZO-----              <=8 S TOBRAMYCIN------------   <=1 S      <=1 S TRIMETHOPRIM/SULFA----   <=1 S      <=2 S  -fecal culture ([**2162-5-18**]): FECAL CULTURE (Final [**2162-5-21**]):    NO SALMONELLA OR SHIGELLA FOUND.
+CLOSTRIDIUM DIFFICILE.
+-Blood and urine cultures: NEGATIVE on [**4-13**], [**5-21**], [**5-22**], [**5-25**], [**5-28**]  Brief Hospital Course: A 67 yo man with history of NSCLC s/p resection, EtOH, h/o DVTs on coumadin until one month PTA, recent GIB, now transferred from OSH with respiratory distress and multiple bilateral pulmonary emboli.
+He was started on LMWH, awaiting EGD/colonoscopy before initiation of coumadin.
+He will continue on anticoagulation (now on heparin) until his colonoscopy/EGD.
+As long as there is no active bleeding, he can be switched to coumadin for long-term anticoagulation.
+He did not require benzodiazepines or CIWA scale monitoring.
+# Ventilator associated pneumonia: He began spiking fevers on [**5-19**] with sputum growing GNR and staph (found to be pansensitive Citrobacter freundii, sparse Aeromonas and sparse coag+ staph).
+The ventilator associated pneumonia was treated with vancomycin and Zosyn for eight days; course was completed on [**5-28**].
+He was treated with oral vancomycin during the VAP antibiotic course, and he should continue oral vancomycin to finish on [**6-7**].
+He was restarted on anticoagulation during this admission for DVT and PE.
+Plan is to continue heparin for three weeks to allow time for his pulmonary emboli to dissolve and his clinical status to stabilize, at which time EGD and colonoscopy can be done.
+# Anemia: This is a macrocytic anemia with stabilization of hematocrit in the mid to high 20s.
+Folate and vitamin B-12 were normal.
+We have recommended for outpatient colonoscopy and EGD for further work-up.
+He received one unit of PRBCs on [**6-3**].
+# Nose bleed: This occurred in the setting of anticoagulation with Lovenox.
+Bleeding resolved after treatment with Afrin (several squirts) and holding pressure for 20 minutes.
+They recommended for preventative management with aggressive blood pressure control, saline nasal spray, bactroban vaseline ointment, and humidified air.
+If bleeding recurs, several sprays of Afrin can be delivered to the bleeding nostril, with pressure held for at least 15 minutes and patient leaning forward.
+Albumin can be followed up as outpatient.
+# Left leg pain and hematoma: He worked with physical therapy and complained of leg pain over the lateral aspect of his left thigh.
+Plain films of the left hip and femur showed sclerotic lesion in the distal femur so MRI was done for further evaluation.
+We have switched anticoagulation to heparin drip to allow for ease of stopping anticoagulation if the hematoma grows in size.
+Medications on Admission: -Oxycodone-Acetaminophen [**1-15**] TAB PO Q6H:PRN pain -Acetaminophen 325-650 mg PO/NG Q6H:PRN pain, fever -Piperacillin-Tazobactam Na 4.5 g IV Q8H -Bisacodyl 10 mg PO/PR DAILY:PRN Constipation -Enoxaparin Sodium 90 mg SC Q12H -Senna *NF* 8.8 mg/5 mL Oral [**Hospital1 **] PRN constipation -Fludrocortisone Acetate 0.1 mg PO DAILY -FoLIC Acid 1 mg PO/NG DAILY -Thiamine 100 mg PO/NG DAILY -Insulin SC (per Insulin Flowsheet) -Vancomycin 1000 mg IV Q 12H -Ipratropium Bromide Neb 1 NEB IH Q6H -Vancomycin Oral Liquid 125 mg PO Q6H -Lansoprazole Oral Disintegrating Tab 30 mg PO BID -Xopenex *NF* 0.63 mg/3 mL Inhalation q 4hrs prn sob/ wheeze -Miconazole Powder 2% 1 Appl TP QID:PRN rash -traZODONE 25 mg PO ONCE MR1 -Multiple Vitamins Liq.
+Fludrocortisone 0.1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation Q6H (every 6 hours) as needed for shortness of breath/wheezing.
+Bisacodyl 5 mg Tablet, Delayed Release (E.C.)
+Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed for pain, fever.
+Vancomycin 125 mg Capsule Sig: One (1) Capsule PO Q6H (every 6 hours): Please continue through [**6-7**].
+Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed for pain.
+Mupirocin Calcium 2 % Ointment Sig: One (1) Appl Nasal [**Hospital1 **] (2 times a day) for 5 days.
+Oxymetazoline 0.05 % Aerosol, Spray Sig: Three (3) Spray Nasal [**Hospital1 **] (2 times a day) as needed for nose bleed for 1 days.
+Heparin (Porcine) in D5W 25,000 unit/250 mL Parenteral Solution Sig: ASDIR units Intravenous continuous: Heparin IV per Weight-Based Dosing Guidelines Start New Infusion Now.
+Diagnosis: Pulmonary Embolism Patient Weight: 90.2 kg No Initial Bolus Initial Infusion Rate: 1600 units/hr Target PTT: 60 - 100 seconds  PTT <40: 3600 units Bolus then Increase infusion rate by 350 units/hr PTT 40 - 59: 1800 units Bolus then Increase infusion rate by 200 units/hr PTT 60 - 100*: PTT 101 - 120: Reduce infusion rate by 200 units/hr PTT >120: Hold 60 mins then Reduce infusion rate by 350 units/hr.
+Discharge Disposition: Extended Care  Facility: [**Hospital3 105**] Northeast - [**Location (un) 1110**]  Discharge Diagnosis: PRIMARY DIAGNOSES Extensive bilateral pulmonary emboli Bilateral deep venous thrombi Ventilator-associated pneumonia Clostridium dificile colitis Left lateralis muscle hematoma  SECONDAY DIAGNOSES History of non-small cell lung cancer s/p resection in [**2157**] History of gastrointestinal bleed in setting of supratherapeutic INR Deep venous thrombosis in [**2152**], on coumadin until one month PTA Hypertension History of heavy alcohol use History of alcohol-related hepatitis   Discharge Condition: Vital signs stable.
+You were intubated and treated with medicines to thin the blood and prevent new blood clots from forming.
+Please complete a course of oral vancomycin to end on [**6-7**].
+Please take all of your medicines as prescribed: -we added oral vancomycin, to finish on [**6-7**] -we added heparin, to be taken by continuous infusion -we added medicines to help prevent nose bleeds -we did not make any other changes to the medicines  Please note your follow-up appointments below.
+APPOINTMENTS SCHEDULED AT [**Hospital1 18**]  -follow-up for colonoscopy and upper endoscopy PAT RM 1 PAT-Date/Time:[**2162-7-5**] 11:30 [**First Name11 (Name Pattern1) 1730**] [**Last Name (NamePattern4) 2301**], MD Phone:[**Telephone/Fax (1) 463**] Date/Time:[**2162-7-12**] 2:00 GI [**Apartment Address(1) 3921**] (ST-3) GI ROOMS Date/Time:[**2162-7-12**] 2:00  -follow-up for nose-bleeds in [**Hospital **] clinic: Call [**Telephone/Fax (1) 2349**] to schedule a follow up appointment with General ENT in [**3-17**] weeks.

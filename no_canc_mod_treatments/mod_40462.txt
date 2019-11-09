@@ -1,0 +1,15 @@
+Admission Date:  [**2178-11-12**]              Discharge Date:   [**2178-11-14**]  Date of Birth:  [**2151-9-10**]             Sex:   M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 443**] Chief Complaint: syncope and SOB  Major Surgical or Invasive Procedure: Pericardiocentesis with placement of drain   History of Present Illness: 27 yo male with history of pericarditis in [**Month (only) **] presenting today after passing out in the bathroom.
+Drain was not able to be placed.
+He denies muscle or joint aches, rashes, dysuria, diarrhea, constipation, changes in his hair or skin.
+Brief Hospital Course: 27 yo male hx pericarditis in [**Month (only) **] with intermittent URI sx now with pericardial effusion and tamponade s/p pericardiocentesis and drainage.
+He went to the cath lab for pericardiocentesis for placement of a drain with removal of, per report, 1.1 L of straw colored fluid and resolution of his symptoms.
+His drain was removed and he had another ECHO the following day which showed a small amount of residual fluid but no significant re-accumulation.
+He was started on ibuprofen (although he rarely took it PRN due to a lack of significant pain) and colchicine to be continued for 6 months.
+Medications on Admission: None  Discharge Medications: 1. ibuprofen 200 mg Tablet Sig: Three (3) Tablet PO every six (6) hours as needed for pain.
+Disp:*60 Tablet(s)* Refills:*0* 2. colchicine 0.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Disp:*60 Tablet(s)* Refills:*0*   Discharge Disposition: Home  Discharge Diagnosis: Primary: Viral pericarditis complicated by pericardial tamponade s/p pericardiocentesis   Discharge Condition: Mental Status: Clear and coherent.
+You were admitted to [**Hospital1 18**] for evaluation and treatment of shortness of breath, fatigue, and passing out in your bathroom.
+You underwent a pericardiocentesis with drainage of the fluid and your symptoms improved dramatically.
+We believe this happened due to viral pericarditis and we are giving you medications to prevent the fluid from re-accumulating.
+The following changes have been made to your medications: -START Ibuprofen 200mg tabs 3 tabs by mouth as needed for pain (Please do not take more than 2400 grams daily, you can take less if you feel it is enough for your pain) -START Colchicine 0.6mg by mouth twice daily (You will take this medication for at least 6 months to prevent the fluid around your heart from coming back) .
+Department: [**Hospital3 249**] When: THURSDAY [**2178-11-26**] at 9:40 AM With: Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] Address: [**Location (un) 830**] [**Location (un) 86**], [**Numeric Identifier 718**] Location: [**Company 191**] POST [**Hospital 894**] CLINIC [**Telephone/Fax (1) 250**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 895**] South [**Hospital **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage This appointment is with a hospital-based doctor as part of your transition from the hospital back to your primary care provider.

@@ -1,0 +1,31 @@
+Admission Date:  [**2118-2-28**]              Discharge Date:   [**2118-3-3**]  Date of Birth:  [**2037-3-17**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 7881**] Chief Complaint: Hypotension  Major Surgical or Invasive Procedure: None   History of Present Illness: 80 yo man with CAD and carotid disease s/p stents, sCHF EF 45% in [**1-17**], hypothyroidism presents for evaluation after having his metoprolol dose increased.
+He responded appropriately with repeat BP 90/46 and HR in 70s.
+Patient was discussed with Dr. [**First Name (STitle) 437**] and who recommended reducing metoprolol tartrate to 12.5 mg [**Hospital1 **].
+He was instead admitted to the MICU for further investigation and management.
+On review of systems, he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, cough, hemoptysis, black stools or red stools.
+Cardiac review of systems is notable for absence of chest pain, dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope   [**Last Name (NamePattern4) **]dical History: CAD: s/p RCA and LAD intervention by Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] in [**9-/2112**], s/p proximal LAD Cypher stent placed by Dr. [**First Name (STitle) **] on [**4-/2115**] sCHF with EF 45% in [**2118-1-9**] Complete heart block s/p PPM s/p AV replacement with bioprosthetic valve and MV repair in [**2111**] (Aortic valve replacement using #21 [**Last Name (un) 3843**]-[**Doctor Last Name **] tissue valve and mitral valve ring annuloplasty using #26 [**Last Name (un) 3843**] ring by Dr. [**Last Name (Prefixes) **]) PVD- s/p R ICA stent by Dr. [**First Name (STitle) **] in [**9-/2112**] Hypertension Hyperlipidemia Afib Sick sinus syndrome s/p pacemaker in [**2111**] Hypothyroidism GERD Non-Hodgkins Lymphoma [**2091**] s/p CHOP and radiation BPH COPD Depression Microscopic hematuria   Social History: Lives by himself in [**Location (un) **].
+[**2118-3-3**] 06:20AM BLOOD WBC-7.8 RBC-4.55* Hgb-12.9* Hct-38.7* MCV-85 MCH-28.5 MCHC-33.4 RDW-14.9 Plt Ct-236 [**2118-3-1**] 03:09AM BLOOD PT-15.1* PTT-33.4 INR(PT)-1.3* [**2118-3-3**] 06:20AM BLOOD Glucose-86 UreaN-19 Creat-1.1 Na-138 K-4.3 Cl-103 HCO3-27 AnGap-12 [**2118-3-1**] 03:09AM BLOOD ALT-22 AST-26 LD(LDH)-198 CK(CPK)-44 AlkPhos-71 TotBili-0.8 [**2118-2-28**] 05:03PM BLOOD proBNP-2638* [**2118-3-1**] 03:09AM BLOOD CK-MB-4 cTropnT-0.02* [**2118-3-1**] 03:09AM BLOOD TSH-3.1 [**2118-3-2**] 06:30AM BLOOD Cortsol-11.2  Brief Hospital Course: ICU Course: Mr. [**Known lastname 34083**] is a 80 yo male with HTN, HL, SSS, hypothyroidism, CAD s/p MI, here s/p rigors two days ago and transient hypotension that responded to IVFs in the ED.
+#.Hypotension: The patient presented with hypotension in setting of recently doubling metoprolol dose, so this is likely secondary to medication effect.
+All antihypertensives and diuretics were held during ICU stay and patient's BP stabilized.
+The patient had received 1 L normal saline in the ED, and further boluses were held given his history of CHF.
+ASA and statin were continued, beta blocker and lasix were held initially due to hypotension.
+Lasix was decreased from 20 mg po qam and 10 mg po qafternoon to just the am dose.
+#.Hypothyroidism: Levothyroxine was continued at home dose.
+No anticoagulation given his fall risk.
+Metoprolol 12.5 mg po bid re-started prior to discharge.
+Dispo:  We recommended that he have a VNA for blood pressure monitoring and medication help but he refused this service.
+Aspirin 81 mg PO Qday 2.
+Atorvastatin 10 mg PO Qday 3.
+Clopidogrel 75 mg PO Qday 4.
+Levothyroxine 50 mcg PO Qday 5.
+Metoprolol Tartrate 25 mg PO BID 6.
+Lasix 20 mg QAM and 10 mg QHS  Discharge Medications: 1.
+Furosemide 20 mg Tablet Sig: One (1) Tablet PO QAM.
+Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO once a day.
+Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 times a day).
+Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO once a day.
+Discharge Disposition: Home  Discharge Diagnosis: Primary: Hypotension  Secondary: Valvular heart disesae (s/p AVR, MV repair) Complete heart block s/p pacemaker placement Systolic heart failure (EF 45) Coronary artery disease   Discharge Condition: Hemodynamically stable.
+You were given fluids and your blood pressure medicine was stopped.
+We made the following changes to your medications: - Metoprolol: we changed the dose of this medication for your blood pressure.

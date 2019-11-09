@@ -1,0 +1,25 @@
+Admission Date:  [**2175-3-30**]              Discharge Date:   [**2175-3-31**]  Date of Birth:  [**2122-11-7**]             Sex:   M  Service: MEDICINE  Allergies: Penicillins / Dilantin Kapseal / Doxycycline / Azithromycin  Attending:[**First Name3 (LF) 3565**] Chief Complaint: Chief Complaint: penicillin allergy .
+Reason for MICU admission: desensitization protocol  Major Surgical or Invasive Procedure: PICC placement ([**2175-3-30**])   History of Present Illness: Mr. [**Known lastname 10840**] is a 52 yo M with PMH of HIV (VL ND, CD4 363 [**2175-3-8**]) on HAART and history of syphilis requiring penicillin desensitization in the past ([**11/2173**]), now with CSF positive for treponema pallidum antibody, presenting for repeat elective penicillin desensitization.
+Patient diagnosed with syphilis in [**2173**] and treated with penicillin following desensitization protocol.
+However, he has had persisitently elevated RPR after treatment so question of neurosyphilis was raised.
+Denies chest pain, chest pressure, palpitations, or weakness.
+Past Medical History: Past Medical History: - HIV on HAART, diagnosed in [**2171**] - Syphilis, first diagnosed with secondary syphilis in [**10/2173**], s/p desensitization in [**11/2173**] and treated with 2.4 mU of benzathine PCN x2 - Hepatitis B, acute infection in [**2168**], cleared - Left midpole kidney stone-s/p lithotripsy [**2168-4-7**] - Bilateral stapedectomies - for otosclerosis during adolescence  - Recurrent hematuria - Seborrheic dermatitis - BCC s/p moh's  Social History: Patient is homosexual, married.
+CSF [**2175-3-23**] Test Name --------- Treponema Pallidum Antibody, IFA (CSF)                Result                      Reference Range               ------                      ---------------              REACTIVE                      Non-Reactive  IMAGING CXR [**2175-3-30**]: Left PICC tip is in the mid-to-lower SVC.
+Brief Hospital Course: This is a 52 year-old Male with PMH of anaphylaxis to penicillin, HIV on HAART and new diagnosis of neurosyphilis who presented for penicillin desensitization.
+# PENICILLIN DESENSITIZATION - The patient has undergone a prior desensitization for pencillin for a prior episode of secondary syphilis two years prior.
+This admission, Allergy was consulted who recommended dosing of 2 million units total following incremental dosage increases from a baseline of 0.5 units.
+The patient was also offered Benadryl for mild reaction, which he did not require.
+The patient did not require Methylprednisolone, Famotidine and Benadryl and no reaction was noted.
+He tolerated the desensitization well and will continue on pencillin therapy as directed by Dr. [**Last Name (STitle) 4844**] (his PCP) following discharge.
+The patient was continued on Reyataz, Truvada and Norvir for HIV management.
+He is at risk of Jarisch-Herxheimer reaction with initiation of treatment which is characterized by fevers, myalgias, headache and may also include hypotension.
+He was monitored closely and will continue pencillin G therapy at high-doses for 10-14 days per Dr. [**Last Name (STitle) 4844**].
+TRANSITION OF CARE ISSUES: 1. f/u CSF VDRL  Medications on Admission: ATAZANAVIR [REYATAZ] - 300 mg Capsule - One Capsule(s) by mouth every day EMTRICITABINE-TENOFOVIR [TRUVADA] - 200 mg-300 mg Tablet - One Tablet(s) by mouth every day LORAZEPAM [ATIVAN] - 1 mg Tablet - Take one Tablet(s) by mouth at bedtime RITONAVIR [NORVIR] - 100 mg Capsule - One Capsule(s) by mouth every day  Discharge Medications: 1. penicillin G potassium 20 million unit Recon Soln Sig: Four (4) million units Injection every four (4) hours for 14 days: All medication issues to be discussed with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 4844**] pager [**Numeric Identifier 52321**] .
+Disp:*qs qs* Refills:*0* 2. atazanavir 300 mg Capsule Sig: One (1) Capsule PO once a day.
+3. emtricitabine-tenofovir 200-300 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+4. ritonavir 100 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+5. lorazepam 1 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) as needed for insomnia.
+EpiPen 0.3 mg/0.3 mL Pen Injector Sig: One (1) injection Intramuscular once as needed for anaphylaxis: to the thigh.
+Disp:*1 pen* Refills:*0*   Discharge Disposition: Home With Service  Facility: critical care systems  Discharge Diagnosis: Primary Diagnosis: Penicillin desensitization Secondary Diagnosis: HIV on HAART, neurosyphilis   Discharge Condition: Mental Status: Clear and coherent.
+You were admitted to intensive care unit for penicillin desensitization and did well, without issues.
+IV Penicillin G 4 million Units every 4 hours for 14 days ([**2175-3-30**] - [**2175-4-12**]) Epipen as needed for anaphylactic reaction  Followup Instructions: Department: [**Hospital3 249**] When: MONDAY [**2175-4-3**] at 1:40 PM With: [**Company 191**] POST [**Hospital 894**] CLINIC [**Telephone/Fax (1) 2010**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 895**] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage .

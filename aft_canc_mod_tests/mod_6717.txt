@@ -1,0 +1,13 @@
+She works as a food service manager   Family History: breast cancer high blood pressure diabetes depression  Physical Exam: Vitals: Afebrile, other vital signs stable Gen: alert, oriented and asks appropriate questions.
+Lower ext: wwp   Pertinent Results: [**2197-11-1**] 10:30AM BLOOD WBC-14.6* RBC-3.05* Hgb-9.2* Hct-28.4* MCV-93 MCH-30.0 MCHC-32.3 RDW-14.6 Plt Ct-832* [**2197-10-29**] 11:29AM BLOOD PT-13.0 PTT-23.8 INR(PT)-1.1 [**2197-11-1**] 10:30AM BLOOD Glucose-89 UreaN-7 Creat-0.5 Na-137 K-3.8 Cl-99 HCO3-28 AnGap-14  Pathology Examination  Name Birthdate    Age     Sex Pathology #     [**Hospital1 18**] [**Known lastname 80534**] [**Known lastname 80535**],[**Known firstname **]       [**2142-1-10**]    55 Female      [**-1/3685**] [**Numeric Identifier 80536**] Report to:   DR. [**Last Name (STitle) **] [**Last Name (NamePattern4) **] Gross Description by:   DR. [**Last Name (STitle) **] [**Last Name (NamePattern4) 8090**]/dif  SPECIMEN SUBMITTED: lateral, superior, lateral, inferior, medial, deep, Level 2A Left Neck, Resection left tonsilar carcinoma, Level 3 Left Neck, Level 1A Left Neck, Level 1B Left Neck  Procedure date     Tissue received     Report Date    Diagnosed by [**2197-10-19**] [**2197-10-19**] [**2197-10-25**] DR. [**Last Name (STitle) **] [**Last Name (NamePattern4) **]/ttl Previous biopsies:    [**-1/3000**]  FS BIOPSIES OF LEFT LATERAL ORAL-PHARYNGEAL WALL.
+Level 3 left neck dissection (H-I):  Three nodes, no malignancy identified (0/3).
+Level 1A left neck dissection (J):  Four minute nodes, no malignancy identified (0/4).
+Left tonsil resection (M-Y):  1.
+CV: The patient was stable from a cardiovascular standpoint; vital signs were routinely monitored.
+Low blood pressure was managed well with fluid boluses.
+She had blood pressures of 170/110 the last couple of days of her hospitalization.
+Her blood presssures were 120/80 afterwards.
+Medicine also recommended restarting her lorazepam before bed to treat possible benzo withdrawal and a renal ultrasound as an outpatient to look for renal artery stenosis.
+Her PCP, [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] was contact[**Name (NI) **] for follow-up of this test and result.
+On POD 2, tube feeds via NGT were started at 10cc/h with a goal of 80cc/h.
+PO status and swallow evaluation will be decided at outpatient clinic appointment by Dr. [**First Name (STitle) **].

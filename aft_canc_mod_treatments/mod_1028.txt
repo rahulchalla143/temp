@@ -1,0 +1,48 @@
+Admission Date:  [**2138-9-4**]              Discharge Date:   [**2138-9-12**]  Date of Birth:  [**2074-5-27**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 5552**] Chief Complaint: Neutropenic fever, atrial fibrillation with rapid ventricular response, low blood pressure, dehydration   Major Surgical or Invasive Procedure: Barium swallow study   History of Present Illness: HPI: 64 year old male with esophageal cancer on treatment presenting with abdominal, chest and back pain for 4-6 weeks.
+He has been evaluated for this pain previously by his PCP and oncologist and was put on a Fentanyl patch, with escalating doses.
+He was found to be neutropenic and developed a fever to 101.3 in the ED and was started on Cefepime.
+He was started on a diltiazem gtt with good HR response to the 80s-90s.
+IV pain medication given with some relief, but with discomfort at the IV site.
+He started neoadjuvant 5FU and cisplatin and XRT from [**2137-5-23**].
+Started Cisplatin, Irinotecan [**2138-8-14**].
+Laparoscopy, laparoscopic jejunostomy and port placement under fluorscopic guidance   Social History: SH: He lives in [**Location 3786**] with his sister, [**Name (NI) **], who came with him to his visit today.
+Brief Hospital Course: 64 year old male with esophageal cancer on chemotherapy presenting with uncontrolled chest, abdomen and back pain, failure to thrive, now with neutropenic fever and PAF.
+Neutropenic fever: Pt was started on cefepime and flagyl for neutropenic fever.
+Vancomycin was not added as patient did not have a permanent line.
+Cefepime and flagyl were discontinued [**9-7**].
+Diltiazem was held and pt received 4 liters NS.
+He required no further fluid resuscitation.
+Pain: Pt's chronic, multifocal pain was considered to stem from known malignancy and ongoing chemotherapy as per pt, pain arose concurrently with recurrence of disease.
+Pt was continued on fentanyl patch 75 mcg, Percocet for breakthrough pain, and morphine 2mg IV Q4H PRN.
+Pt net more than 3L positive during MICU stay, after aggressive hydration.
+He continued to require repletion after transfer out of the unit, with appropriate bumps in his electrolyte levels.
+He will continue to require electrolyte repletion while at skilled nursing.
+Esophageal cancer: patient will continue his oncology care as an outpatient with Dr. [**Last Name (STitle) **] and Dr. [**Last Name (STitle) **].
+He had both a negative barium swallow as well as a negative bone scan while in the hospital.
+Medications on Admission: Fentanyl 75 mcg/72h (stopped taking all other medications)  Discharge Medications: 1.
+Fentanyl 75 mcg/hr Patch 72 hr Sig: One (1) Transdermal Q72H (every 72 hours) as needed for pain.
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1) Injection TID (3 times a day).
+Dronabinol 2.5 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+Megestrol 40 mg/mL Suspension Sig: 400 mg PO BID (2 times a day).
+Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for nausea, agitation.
+Oxycodone 5 mg/5 mL Solution Sig: One (1) PO Q4H (every 4 hours) as needed for pain: please hold for sedation or rr less than 8.
+Morphine Sulfate 2 mg IV Q4H:PRN breakthrough pain 10.
+Metoclopramide 10 mg IV Q6H PRN nausea 11.
+Prochlorperazine 10 mg IV Q6H:PRN nausea 12.
+Ondansetron 4 mg IV Q8H:PRN nausea 13.
+Potassium Chloride 10 mEq Capsule, Sustained Release Sig: Four (4) Capsule, Sustained Release PO DAILY (Daily).
+Fentanyl 75 mcg/hr Patch 72 hr Sig: One (1)  Transdermal Q72H (every 72 hours) as needed for pain.
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+Nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID (4 times a day).
+Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1) Injection TID (3 times a day).
+Dronabinol 2.5 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+Megestrol 40 mg/mL Suspension Sig: 400 mg  PO BID (2 times a day).
+Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for nausea, agitation.
+Oxycodone 5 mg/5 mL Solution Sig: One (1)  PO Q4H (every 4 hours) as needed for pain: please hold for sedation or rr less than 8.
+Morphine Sulfate 2 mg IV Q4H:PRN breakthrough pain 11.
+Metoclopramide 10 mg IV Q6H nausea 12.
+Prochlorperazine 10 mg IV Q6H:PRN 13.
+Ondansetron 4 mg IV Q8H:PRN   Discharge Disposition: Extended Care  Facility: On [**Location (un) **] - [**Location (un) **]  Discharge Diagnosis: Atrial fibrillation, dehydration, esophageal cancer   Discharge Condition: Stable   Discharge Instructions: You were admitted for atrial fibrillation that we thought was related to dehydration and stress from your cancer.
+You were transferred to the floor, where we repleted your electrolytes, advanced your diet and started ambulation.
+Please take your medications as prescribed.

@@ -1,0 +1,64 @@
+Admission Date:  [**2146-12-4**]              Discharge Date:   [**2147-1-31**]  Date of Birth:  [**2077-11-4**]             Sex:   F  Service: MEDICINE  Allergies: Plavix / Heparin Agents  Attending:[**First Name3 (LF) 2297**] Chief Complaint: ataxia/unsteady gait, transferred to MICU for further eval and treatment of evolving stroke.
+Major Surgical or Invasive Procedure: intubation & bronchoscopy liver biopsy Left internal jugular central venous catheter placement Right radial arterial catheter placement bone marrow biopsy tracheostomy placement   History of Present Illness: This is a 72 yo F with h/o DM, OSA, right hemispheric CVA in the past, ?seizure disorder admitted on [**2146-12-4**] with chief complaint of ataxia and unsteady gait.
+Prior neuro exams only suggestive of mild left hand weakness after CVA [**2144**].
+The decision to initiate heparin therapy had been postponed however was started on the evening of transfer given her worsening symptoms.
+She was transfered to the MICU for monitoring given initiation of anticoagulation in the setting of thrombocytopenia as well as for tight BP control.
+She received oral typhoid vaccine before the trip.
+Currently works in a graft group, making gloves and hats for poor kids.
+Bilateral axillary and right paratracheal lymphadenopathy, also concerning for malignancy.
+There is some flow in the right MCA, primarily from the anterior communicating artery and right A1 segment, which appears to be small.
+TEE [**12-9**]: No cardiac source of embolus identified.
+Serologies/fever work up as of [**2147-1-23**]: - HIV - NEGATIVE - Hepatitis serologies - NEGATIVE - CMV viral load- NEGATIVE - dengue- pending - galactomannan - NEGATIVE - Beta-glucan - NEGATIVE - Brucella ab - NEGATIVE - Bartonella ab - NEGATIVE - Chlamydia pneumoniae ab - NEGATIVE - Coccidiodes ab - NEGATIVE - Histoplasma ab - NEGATIVE - Legionella ab [**11-26**] - NEGATIVE - Parvovirus - NEGATIVE - Q-fever ab - NEGATIVE - Schistosoma ab - NEGATIVE - strongyloides ab - NEGATIVE - urine histoplasma ag - NEGATIVE - RPR- NEGATIVE - ACE - elevated to 104 - RF - NEGATIVE - [**Doctor First Name **] - 1:16, speckled - ANCA - NEGATIVE - lupus anticoagulant- NEGATIVE - Anti-cardiolipin antibody - IgG 7.6, IgM 8.6 - Sputum AFB - negative x 1 - stool O + P - NEGATIVE - malaria thick/thin smear - negative x 5 .
+New sinus opacification as described above, likely inflammatory in origin, and possibly related to the intubated status of the patient.
+NOTE: There are secretions in the [**Last Name (un) **]- and oropharynx, also presumably related to intubation of the patient.
+[**12-16**] neck soft tissue USN: IMPRESSION: Abnormally enlarged right supraclavicular lymph nodes.
+Free abdominal air presumably due to recent gastrostomy tube placement.
+Therefore, no thoracentesis was performed.
+[**12-9**] liver needle biopsy: Liver, needle-core biopsy:Liver with granulomatous inflammation including large necrotizing granuloma.
+[**12-16**] BM aspirate and core biopsy: Markedly hypercellular bone marrow with trilineage dysplasia and increased blasts (18-20%) consistent with an evolving acute leukemia.
+CD68 stains Kupffer cells and lesional histiocytes.
+[**12-16**] RLL wedge:SPECIMEN #1: SUPRACLAVICULAR LYMPH NODE", EXCISIONAL BIOPSY (A).DIAGNOSIS: UNREMARKABLE ADIPOSE AND NEURAL TISSUE.
+SPECIMEN #2: LOWER LOBE WEDGE EXCISION (B-D).
+CD68 highlights numerous macrophages; myeloperoxidase stains neutrophils and rare mononuclear cells; c-kit stains scattered mast cells; CD34 highlights vessels and does not show any blast-like cells.
+Discharge labs: [**2147-1-31**] 04:20a Source: Line-Right Subclavian Other Blood Chemistry: Vanco: 23.9 Comments: Vanco: Updated Reference Range As Of [**2146-7-20**] == Represents Therapeutic Trough  Source: Line-Right Subclavian 146  117  16     AGap=10 -------------< 79 3.8  23  1.0 Ca: 8.5 Mg: 2.0 P: 2.5  Source: Line-Right Subclavian           89 1.6 \ 8.1 / 170     / 24.6\  Other Hematology Gran-Ct: 720  Source: [**Name (NI) 102647**] Subclavian PT: 14.4  PTT: 25.7  INR: 1.3  [**2147-1-30**] 02:54a Source: Line-cvl  Source: Line-cvl 144  116  15      AGap=10 -------------< 102 4.1  22  1.1 Ca: 8.4 Mg: 2.1 P: 3.0 Other Blood Chemistry: Vanco: 13.5 Comments: Vanco: Updated Reference Range As Of [**2146-7-20**] == Represents Therapeutic Trough  Source: Line-cvl            86 1.7 \ 8.6 / 147     / 25.2\   N:55 Band:0 L:37 M:8 E:0 Bas:0 Blast: 0 Comments: Neuts: DOHLE BODIES Hypochr: 1+ Anisocy: 1+ Poiklo: OCCASIONAL Microcy: 1+ Schisto: OCCASIONAL Plt-Est: Low Comments: Plt-Smr: Verified By Smear Plt-Smr: Occ Large Plt Seen Source: [**Name (NI) **] PT: 15.2  PTT: 25.6  INR: 1.4  POSITIVE MICRO STUDIES: [**2147-1-29**] SPUTUM GRAM STAIN-FINAL; RESPIRATORY CULTURE-PRELIMINARY {GRAM NEGATIVE ROD(S)} [**2147-1-26**] SPUTUM GRAM STAIN-FINAL; RESPIRATORY CULTURE-FINAL {ESCHERICHIA COLI} [**2147-1-23**] SPUTUM GRAM STAIN-FINAL; RESPIRATORY CULTURE-FINAL {GRAM NEGATIVE ROD #1, GRAM NEGATIVE ROD #2} [**2147-1-22**] SPUTUM GRAM STAIN-FINAL; RESPIRATORY CULTURE-FINAL {ESCHERICHIA COLI, ESCHERICHIA COLI}                               SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              ESCHERICHIA COLI                              |          ESCHERICHIA COLI                              |          | AMPICILLIN------------  =>16 R     =>32 R AMPICILLIN/SULBACTAM--    16 R     =>32 R CEFAZOLIN-------------  =>16 R     =>64 R CEFEPIME--------------    16 R     =>64 R CEFTAZIDIME-----------  =>16 R     =>64 R CEFTRIAXONE-----------  =>32 R     =>64 R CEFUROXIME------------             =>64 R CIPROFLOXACIN---------   =>2 R      =>4 R GENTAMICIN------------   =>8 R     =>16 R IMIPENEM--------------   <=1 S      <=1 S LEVOFLOXACIN----------     4 R MEROPENEM-------------     2 S   <=0.25 S PIPERACILLIN----------  =>64 R    =>128 R PIPERACILLIN/TAZO-----    16 S       64 I TOBRAMYCIN------------   =>8 R     =>16 R TRIMETHOPRIM/SULFA----   =>2 R  [**2147-1-17**] 7:59 pm SPUTUM      Source: Endotracheal.
+Consider Infectious          Disease consultation for serious infections caused by          ESBL-producing species.
+UNASYN (AMPICILLIN/SULBACTAM) >16/8 MCG/ML.
+LEVOFLOXACIN >4 MCG/ML.
+BACTRIM (=SEPTRA=SULFA X TRIMETH) >2/38 MCG/ML.
+CEFEPIME >16 MCG/ML.
+AMIKACIN 16MCG/ML :SENSITIVE.
+ACID FAST CULTURE (Pending):  [**2147-1-17**] BLOOD CULTURE AEROBIC BOTTLE-PRELIMINARY {STAPHYLOCOCCUS, COAGULASE NEGATIVE}; ANAEROBIC BOTTLE-FINAL {STAPHYLOCOCCUS, COAGULASE NEGATIVE}  [**2147-1-12**] SPUTUM GRAM STAIN-FINAL; RESPIRATORY CULTURE-FINAL {GRAM NEGATIVE ROD(S)}  [**2147-1-9**] SPUTUM GRAM STAIN-FINAL; RESPIRATORY CULTURE-FINAL {GRAM NEGATIVE ROD(S)}   Brief Hospital Course: 72 yo F with h/o DM, prior R CVA p/w dizziness, nausea, vomiting, found to have an acute right hemispheric watershed infarct followed by multiple other watershed infarcts now with progressive neurological decline, as well as multiple lung liver and spleen nodules with diffuse lymphadenopathy, and recurrent fevers.
+1) Fevers: Patient has been intermittently febrile since admission and overall picture concerning for underlying infection vs. malignancy given pulmonary, liver, and splenic lesions, ?BM infiltrative process leading to pancytopenia.
+For now, continue coverage with Vancomycin for positive blood culture on [**1-17**], source probably line infection.
+Will complete 2 week course of Vancomycin on [**2-1**].
+Also, persistently colonized with E. Coli on sputum cultures, but has received several courses of antibiotics, including Ciprofloxacin, azithromycin, ceftriaxone, and piperacillin/tazobactam.
+Meropenem was started empirically for a seven day course (to be completed on [**2-1**]) but pt continued to spike through this medication.
+She was started on a heparin gtt which was stopped due to thrombocytopenia and positive HIT assay.
+Continues to have difficulties with weaning on pressure support ventilation, with RSBI consistently greater than 200. .
+of drug fever was proposed so RIPE was held for three days, pt given STM/levaquin instead of rifampin, but she continued to spike.
+She has received treatment continuously since [**12-22**] (>2 weeks) and has no clinical symptoms of TB at this time.
+HIT positive and all heparin products discontinued.
+6) ARF: Creatinine elevated to 1.6 (up from 1.2; baseline 0.9 - 1.0).
+Likely prerenal although concern for amphotericin effect.
+Well controlled on glargine and humalog ISS.
+12) Dispo: MICU level of care 13) Communication: HCP is [**Name (NI) **] [**Name (NI) **] (son) [**Telephone/Fax (1) 102648**] Lischen (daughter) [**Telephone/Fax (1) 102649**] [**Doctor First Name **] (daughter)   Medications on Admission: MEDICATIONS AT HOME: Simvastatin 40mg QD Aspirin 325mg QD MVI Ibuprofen 400mg Q6h prn Tums prn .
+MEDICATIONS UPON TRANSFER TO MICU [**2146-12-9**]: - 1000 ml LR Continuous at 150 ml/hr Order date: [**12-8**] - Acetaminophen 650 mg PO Q6H - CeftriaXONE 1 gm IV Q24H (DAY 5) - Docusate Sodium 100 mg PO BID - Heparin IV Sliding Scale Order date: [**12-8**] - Insulin SC - Simvastatin 40 mg PO DAILY .
+Acetaminophen 650 mg Suppository Sig: One (1) Suppository Rectal Q4-6H (every 4 to 6 hours) as needed.
+Albuterol-Ipratropium 103-18 mcg/Actuation Aerosol Sig: Six (6) Puff Inhalation Q6H (every 6 hours) as needed.
+Bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal HS (at bedtime) as needed for constipation.
+DiphenhydrAMINE HCl 25 mg IV Q6H:PRN 5.
+Ethambutol 400 mg Tablet Sig: Three (3) Tablet PO DAILY (Daily).
+Fentanyl Citrate 25-100 mcg IV Q2H:PRN sedation/ agitation 9.
+Isoniazid 300 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Lactulose 10 g/15 mL Syrup Sig: Thirty (30) ML PO Q6H (every 6 hours).
+Vancomycin 1,000 mg Recon Soln Sig: 1000 (1000) mg Intravenous once a day for 4 days: please dose by level for trough<15.
+Meropenem 1 g Recon Soln Sig: One (1) g Intravenous Q12H (every 12 hours) for 1 days: [**2-1**] is last day of seven day course.
+sedation 14.
+Morphine Sulfate 0.5-1 mg IV Q6H:PRN hold for oversedation, RR<10 15.
+Nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID (4 times a day) as needed.
+Pyridoxine HCl 50 mg IV Q 24H 17.
+Pyrazinamide 500 mg Tablet Sig: 2.5 Tablets PO DAILY (Daily).
+Sucralfate 1 g Tablet Sig: One (1) Tablet PO QID (4 times a day).
+Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+21. insulin glargine 6u qhs and ISS   Discharge Disposition: Extended Care  Facility: [**Hospital6 13753**] - [**Location (un) 86**]  Discharge Diagnosis: Primary: disseminated TB- pan sensitive fever of unknown origin MDS  secondary: 1)Diabetes mellitus - diet controlled 2)OSA 3)Cataract in the left eye 4)CVA/TIA 5)Asthma 6)Hypercholesterolemia 7)Seizure?

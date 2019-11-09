@@ -1,0 +1,18 @@
+He was given decadron 10 mg IV and ceftriaxone 2 g IV at OSH ED and medflighted to [**Hospital1 18**].
+Given vancomycin 1 g, unasyn 3g IV, dexamethasone 10 mg IV, and NS+40mEq KCl.
+He was treated with steroids and IV antibiotics initially.
+He did well on antibiotics alone and had no furhter evidence of airway compromise.
+Patient was tolerating po diet and medications on day of discharge and continued to maintain normal oxygen saturations without supplemental oxygen.
+He was instructed to complete a 10 day course of oral antibiotics (Augmentin) for presumed bacterial epiglottitis.
+He was instructed to continue his atenolol for rate control and to discuss the role of anticoagulation with his primary care physician.
+[**Name10 (NameIs) **] was not started on any coumadin or aspirin during his hospitalization given his low CHADS2 score (1) and his reported alcohol intake.
+He was monitored in the ICU on a CIWA scale and did not show any evidence of withdrawal in his 48 hour hospital stay.
+#HTN: Patient instructed to continue home atenolol.
+#Code: FULL #Communication: [**First Name4 (NamePattern1) **] [**Known lastname 87601**](wife) [**Telephone/Fax (1) 87602**] #Dispo: HOME   Medications on Admission: Atenolol 50 mg Unknown diuretic medication  Discharge Medications: 1.
+Atenolol 25 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Amoxicillin-Pot Clavulanate 500-125 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 hours) for 9 days.
+You were treated with antibiotics and steroids and admitted to the ICU for close monitoring.
+You did well on the treatment and your swelling improved.
+It is very important that you complete the course of antibiotics and follow up with the ENT physicians in clinic.
+It is very important that you follow up with your primary care provider to discuss the need for blood thinning medications and to monitor your heart rate.
+1) START Amoxicillin-Clavulanic Acid (AUGMENTIN) 500 mg by mouth every 8 hours for 9 days.

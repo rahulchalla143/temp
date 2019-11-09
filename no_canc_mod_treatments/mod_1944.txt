@@ -1,0 +1,43 @@
+Admission Date:  [**2157-2-15**]              Discharge Date:   [**2157-2-17**]  Date of Birth:  [**2083-8-18**]             Sex:   F  Service: MEDICINE  Allergies: Allopurinol / Ethambutol / Colchicine / Efavirenz  Attending:[**First Name3 (LF) 9240**] Chief Complaint: dyspnea   Major Surgical or Invasive Procedure: Hemodialysis   History of Present Illness: HPI:  73-yo-woman w/ CAD, CHF, ESRD presents w/ dyspnea x 12 hours.
+She was treated w/ nitro gtt, hydralazine 5mg IV, and enalapril 1.25mg IV x 1, and BP improved to 190/82.
+3-V CAD; s/p NSTEMI [**6-/2154**], Had Taxus stent placed [**2154-6-7**] in mid-LCx.
+Status post intubation for flash pulmonary edema on [**2154-6-3**], complicated by laryngeal edema.
+End-stage renal disease on hemodialysis secondary to HIV nephropathy.
+Gout - has been on prednisone tapers in the past for flares.
+Pertinent Results: [**2157-2-15**] 11:08PM   CK(CPK)-80 [**2157-2-15**] 11:08PM   CK-MB-NotDone cTropnT-0.43* [**2157-2-15**] 04:17PM   K+-5.5* [**2157-2-15**] 04:00PM   GLUCOSE-235* UREA N-53* CREAT-6.3*# SODIUM-139 POTASSIUM-5.4* CHLORIDE-96 TOTAL CO2-30 ANION GAP-18 [**2157-2-15**] 04:00PM   ALT(SGPT)-29 AST(SGOT)-39 LD(LDH)-259* CK(CPK)-75 ALK PHOS-159* AMYLASE-272* TOT BILI-0.3 [**2157-2-15**] 04:00PM   LIPASE-129* [**2157-2-15**] 04:00PM   CK-MB-NotDone proBNP-9881* [**2157-2-15**] 04:00PM   CALCIUM-10.5* PHOSPHATE-6.7*# MAGNESIUM-2.5 [**2157-2-15**] 04:00PM   WBC-6.6 RBC-3.52*# HGB-13.9# HCT-43.4# MCV-123* MCH-39.6* MCHC-32.1 RDW-17.6* [**2157-2-15**] 04:00PM   NEUTS-70.2* LYMPHS-23.9 MONOS-3.5 EOS-1.8 BASOS-0.6 [**2157-2-15**] 04:00PM   PT-11.8 PTT-27.2 INR(PT)-1.0 [**2157-2-15**] 04:00PM URINE  BLOOD-MOD NITRITE-NEG PROTEIN-100 GLUCOSE-100 KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-8.0 LEUK-NEG  .
+She denies medication non-compliance or excessive sodium consumption.
+Her shortness of breath resolved after hemodialysis and better BP control, and she maintained her O2 saturation on room air.
+She continued hemodialysis and will continue to be followed by the [**Hospital6 **] in [**Location (un) **].
+Her pain was in the setting of hypertensive emergency and resolved with control of her blood pressure, including nitro drip.
+She was placed back on her home medications: ASA, metoprolol, ACEI, lipitor, and zetia.
+She was urgently dialyzed on the day of admission and then placed back on her usual dialysis schedule(M,W,F).
+She was followed by the renal service who recommended to switch lisinopril to captopril [**Hospital1 **] (this was done).
+She was continued on Renagel and Sensipar.
+The patient will continue to be followed by the [**Hospital6 **] in [**Location (un) **], with dialysis M,W,F.
+# Hypertensive Emergency: The patient's blood pressure was initially controlled with volume removal by HD, IV enalapril, IV hydralazine, and nitroglycerin drip.
+Her BP normalized and she was placed back on her home regimen and monitored.
+As per renal, her ACEI was changed to Captopril 50mg [**Hospital1 **].
+She will continue on Toprol XL and Captopril [**Hospital1 **] as an outpatient.
+# HIV: The patient's viral load is suppressed with [**Last Name (STitle) 2775**].
+She was covered with an insulin sliding scale.
+She did not require much insulin and will resume diet control as an outpatient.
+# Proph: She was given heparin SC, but developed a hematoma in her abdomen from these injections.
+Therefore her heparin injections were stopped.
+* FULL CODE  Medications on Admission: * ASA 325 mg daily * plavix 75 mg daily * lisinopril 20mg daily * Toprol xl 100 mg daily * lipitor 80 mg daily * zetia 10 mg daily * lamivudine 100 mg daily * nevirapine 200 mg [**Hospital1 **] * zidovudine 100 mg tid * renagel 1600 mg tid * sensipar 30 mg daily  Discharge Medications: 1.
+Sevelamer 800 mg Tablet Sig: Two (2) Tablet PO TID (3 times a day).
+Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Captopril 50 mg Tablet Sig: One (1) Tablet PO twice a day.
+Cinacalcet 30 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Lamivudine 100 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Metoprolol Succinate 100 mg Tablet Sustained Release 24HR Sig: One (1) Tablet Sustained Release 24HR PO DAILY (Daily).
+B Complex-Vitamin C-Folic Acid 1 mg Capsule Sig: One (1) Cap PO DAILY (Daily).
+Nevirapine 200 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Zidovudine 100 mg Capsule Sig: One (1) Capsule PO three times a day.
+You were treated with hemodialysis and blood pressure medications.
+You should take all medications as prescribed.
+Please note that your lisinopril was changed to captopril, which is to be taken twice a day.
+All your other medications are unchanged.
+* Please continue Dialysis at [**Hospital6 **] in [**Location (un) **] on M,W,F as before.

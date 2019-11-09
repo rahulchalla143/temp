@@ -1,0 +1,32 @@
+Admission Date:  [**2112-3-7**]              Discharge Date:   [**2112-3-11**]  Date of Birth:  [**2083-12-21**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 613**] Chief Complaint: lower GI bleed  Major Surgical or Invasive Procedure: tagged red cell scan esophagogastroduodenoscopy colonoscopy  History of Present Illness: 28 year-old F transferred from an OSH with BRBPR x4 days.
+Initial HCT on admission to [**Hospital3 3583**] was 36.3.
+HCT dropped as low as 23, and she received 2 units of blood.
+She underwent colonoscopy earlier today at [**Hospital1 46**].
+Hep B surface antigen was negative.
+Family History: denies any family hx of colon cancer, Crohn's disease, or UC  Physical Exam: T 98.6 HR 97 BP 126/82 RR 17 99% O2 sat on RA Gen: obese; well-appearing; no acute distress HEENT: atraumatic; anicteric sclerae; pupils 3->2 bilaterally; dry mucus membranes Neck: supple; no cervical or supraclavicular lymphadenopathy CV: RRR; nl S1, S2; no M/R/G Lungs: clear to auscultation bilaterally Abd: soft, obese; +BS; non-tender to palpation Extrem: no c/c/e Neuro: A&Ox3; cranial nerves grossly intact; moving all extremities  Pertinent Results: [**2112-3-7**] 10:54PM BLOOD WBC-10.1 RBC-2.99* Hgb-8.8* Hct-26.2* MCV-88 MCH-29.5 MCHC-33.6 RDW-14.4 Plt Ct-285 [**2112-3-8**] 04:12AM BLOOD WBC-10.2 RBC-3.10* Hgb-9.4* Hct-26.0* MCV-84 MCH-30.5 MCHC-36.3* RDW-14.6 Plt Ct-270 [**2112-3-8**] 09:48AM BLOOD WBC-12.5* RBC-3.21* Hgb-10.0* Hct-28.4* MCV-89 MCH-31.1 MCHC-35.1* RDW-14.7 Plt Ct-380 [**2112-3-9**] 04:50AM BLOOD WBC-13.6* RBC-3.25* Hgb-10.0* Hct-28.6* MCV-88 MCH-30.8 MCHC-35.0 RDW-14.9 Plt Ct-300 [**2112-3-7**] 10:54PM BLOOD PT-12.4 PTT-23.3 INR(PT)-1.1 [**2112-3-9**] 04:50AM BLOOD PT-12.6 PTT-22.6 INR(PT)-1.1 [**2112-3-7**] 10:54PM BLOOD Glucose-99 UreaN-5* Creat-0.7 Na-141 K-3.9 Cl-111* HCO3-23 AnGap-11 [**2112-3-7**] 10:54PM BLOOD ALT-39 AST-34 LD(LDH)-98 AlkPhos-70 TotBili-0.4 [**2112-3-7**] 10:54PM BLOOD Albumin-3.2* Calcium-8.1* Phos-2.7 Mg-1.7 .
+Colonoscopy [**2112-3-9**]: Blood in ileum, Diverticulosis of the ascending colon, Diverticulosis of the sigmoid colon, Fresh red blood throughout colon.
+Gastric Biopsies, [**2112-3-9**]: Pending .
+Meckel's Scan [**2112-3-10**]: Flow images were obtained over the abdomen and pelvis in the anterior and posterior projections.
+Dynamic images of the abdomen and pelvis were obtained for 30 minutes in the anterior and posterior projections.
+Based on colonoscopy findings from [**Hospital3 3583**], her bleeding was felt to be most likely due to intermittently bleeding diverticulum.
+HCT was stable at 26.
+Her heart rate increased to 100s-110s and her SBP dropped to the 100s.
+HCT increased to 28.6 and subsequently remained stable.
+She underwent a tagged red blood scan on [**3-8**] which showed no bleeding during 3 hours of evaluation.
+GI was consulted and performed an EGD / colonoscopy on [**3-9**].
+EGD showed evidence for duodenitis and severe segmental gastritis.
+Colonoscopy showed fresh blood in the ileum, diverticulosis of the ascending and sigmoid colon, and fresh blood throughout the colon.
+These findings suggested a small bowel source of the bleed, and a Meckel's scan was recommended to search for a Meckel's diverticulum.
+FLOOR COURSE: The patient was transferred to the floor after her hematocrit was stable x 48 hours and she remained hemodynamically stable.
+The patient's bleeding had subsided and her hematocrits remained stable.
+It was thought that her right sided diverticulum was still the most likely cause of her bleeding.
+# Mild transaminitis: This was reported by OSH labs with AST 45, ALT 50, and Alk Phos 82.
+Lab Tests Please get a CBC checked on [**Last Name (LF) 766**], [**3-14**] to ensure that your hematocrit is stable.
+Your GI bleed was most likely a lower source from the diverticulosis in your colon.
+Your workup included the following: A colonoscopy showed diverticuli in the ascending and sigmoid colon with red blood in the colon, an EGD showed only mild gastritis of the stomach (not likely be a bleeding source).
+A bleeding scan was negative for bleeding source, and a Meckel's scan was negative for a bleeding Meckel's diverticulum.
+Finally, a small bowel enteroscopy showed no evidence of an upper bleeding source to as far as the proximal ileum.
+You are scheduled to see a primary care doctor [**First Name (Titles) **] [**Last Name (Titles) 766**] to get your hematocrit checked to ensure there is no further blood loss.
+Followup Instructions: Please followup with the [**Hospital3 **] at [**Hospital1 18**] to ensure your hematocrit is stable after your bleeding episode.
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 19779**], MD Phone:[**Telephone/Fax (1) 250**] Date/Time:[**2112-3-14**] 12:10.
+When you return to [**State **], you will need to establish care with a gastroenterologist for further monitoring and care.

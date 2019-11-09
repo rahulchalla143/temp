@@ -1,0 +1,48 @@
+Admission Date:  [**2197-7-19**]              Discharge Date:   [**2197-7-26**]  Date of Birth:  [**2133-1-19**]             Sex:   M  Service: MEDICINE  Allergies: Simvastatin  Attending:[**First Name3 (LF) 2009**] Chief Complaint: Rhabdomyolysis, Pneumonia  Major Surgical or Invasive Procedure: RIJ placement PICC line placement  History of Present Illness: History of Present Illness: Mr. [**Known lastname 805**] is an 64yo male with PMH significant for HTN and DM who is being transferred to the MICU for management of rhabdomyolysis.
+A RIJ central line was placed on sterile conditions.
+He then received 1L NS, Morphine 4mg IV, and was started on a sodium bicarbonate infusion.
+Family History: Diabetes in both mother and father  Physical Exam: vitals T 97.7 BP 105/70 AR 100 RR 13 O2 sat 99% RA CVP 6 Gen: Patient responsive to commands but falls back asleep quickly HEENT: MMM, anicteric sclera, white coating on tongue Heart: RRR, no m,r,g Lungs: CTAB, poor air movement at bases posteriorly Abdomen: Soft, NT/ND, +BS; midline scar Extremities: No LE edema, 2+ DP/PT pulses bilaterally; diffuse paraspinal tenderness; superficial ulcer on L buttock Rectal: Guaiac negative (in ED), good rectal tone   Pertinent Results: [**2197-7-26**] 05:38AM BLOOD WBC-5.8 RBC-3.00* Hgb-8.9* Hct-26.2* MCV-87 MCH-29.8 MCHC-34.1 RDW-15.6* Plt Ct-196 [**2197-7-25**] 05:05AM BLOOD WBC-4.9 RBC-2.90* Hgb-8.9* Hct-25.4* MCV-87 MCH-30.5 MCHC-34.9 RDW-15.1 Plt Ct-164 [**2197-7-24**] 05:52PM BLOOD WBC-4.9 RBC-2.96* Hgb-8.9* Hct-25.6* MCV-87 MCH-30.2 MCHC-34.8 RDW-15.3 Plt Ct-164 [**2197-7-23**] 06:03AM BLOOD WBC-5.2 RBC-3.03* Hgb-9.1* Hct-26.4* MCV-87 MCH-30.1 MCHC-34.6 RDW-15.0 Plt Ct-165 [**2197-7-22**] 06:50AM BLOOD WBC-6.1 RBC-3.20* Hgb-9.6* Hct-27.5* MCV-86 MCH-30.0 MCHC-34.9 RDW-14.9 Plt Ct-189 [**2197-7-26**] 05:38AM BLOOD Plt Ct-196 [**2197-7-25**] 05:05AM BLOOD Plt Ct-164 [**2197-7-24**] 05:52PM BLOOD Plt Ct-164 [**2197-7-26**] 05:38AM BLOOD Glucose-124* UreaN-11 Creat-1.0 Na-138 K-3.7 Cl-106 HCO3-27 AnGap-9 [**2197-7-25**] 05:05AM BLOOD Glucose-106* UreaN-8 Creat-0.9 Na-144 K-4.0 Cl-111* HCO3-23 AnGap-14 [**2197-7-24**] 05:52PM BLOOD Glucose-123* UreaN-9 Creat-0.8 Na-139 K-3.6 Cl-109* HCO3-24 AnGap-10 [**2197-7-23**] 06:03AM BLOOD Glucose-129* UreaN-9 Creat-0.9 Na-138 K-3.7 Cl-110* HCO3-23 AnGap-9 [**2197-7-22**] 06:50AM BLOOD Glucose-134* UreaN-12 Creat-0.9 Na-142 K-4.0 Cl-110* HCO3-25 AnGap-11 [**2197-7-26**] 05:38AM BLOOD ALT-36 AST-30 CK(CPK)-647* AlkPhos-50 TotBili-0.3 [**2197-7-25**] 05:05AM BLOOD ALT-39 AST-36 CK(CPK)-1067* AlkPhos-49 TotBili-0.3 [**2197-7-24**] 05:52PM BLOOD ALT-41* AST-41* LD(LDH)-457* CK(CPK)-1381* AlkPhos-50 TotBili-0.3 [**2197-7-23**] 06:03AM BLOOD ALT-47* AST-58* LD(LDH)-494* CK(CPK)-2643* AlkPhos-46 TotBili-0.4 [**2197-7-22**] 06:50AM BLOOD ALT-56* AST-92* LD(LDH)-563* CK(CPK)-4388* AlkPhos-50 TotBili-0.4 [**2197-7-21**] 05:27AM BLOOD ALT-63* AST-125* LD(LDH)-553* CK(CPK)-6019* AlkPhos-51 TotBili-0.6 [**2197-7-19**] 01:10AM BLOOD ALT-109* AST-337* LD(LDH)-773* CK(CPK)-[**Numeric Identifier 99460**]* AlkPhos-68 TotBili-0.7 [**2197-7-19**] 04:45AM BLOOD CK(CPK)-[**Numeric Identifier 99461**]* [**2197-7-19**] 01:10AM BLOOD cTropnT-<0.01 [**2197-7-21**] 05:27AM BLOOD calTIBC-222* Ferritn-384 TRF-171* [**2197-7-22**] 06:50AM BLOOD HIV Ab-NEGATIVE [**2197-7-19**] 07:45AM BLOOD Cortsol-27.0* [**2197-7-19**] 01:10AM BLOOD TSH-0.33 [**2197-7-19**] 04:28PM BLOOD Ammonia-45 [**2197-7-19**] 07:45AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG Bnzodzp-NEG Barbitr-NEG Tricycl-NEG [**2197-7-19**] 01:10AM BLOOD ASA-NEG Acetmnp-NEG Bnzodzp-NEG Barbitr-NEG Tricycl-NEG  .
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              STAPHYLOCOCCUS, COAGULASE NEGATIVE                              | CLINDAMYCIN-----------<=0.25 S ERYTHROMYCIN----------<=0.25 S GENTAMICIN------------ <=0.5 S LEVOFLOXACIN----------<=0.12 S OXACILLIN-------------<=0.25 S PENICILLIN G----------  0.12 R     Aerobic Bottle Gram Stain (Final [**2197-7-21**]):       GRAM POSITIVE COCCI IN CLUSTERS.
+He received 1L NS and sodium bicarbonate infusion in the ED.
+TSH and cortisol was normal.
+He received 8 L NS with sodium bicarb in the MICU.
+Started on vancomycin in the ICU.
+Given concern of possible catheter infection, RIJ d/c, tip not cultured but covered with abx for line infection.
+On floor, continued to remain afebrile.
+Due to culture results and sensitivity data showing sensitive to oxacillin, vanco was d/c [**7-24**] and pt started on nafcillin for two week course, remained afebrile.
+He was switched to nafcillin when culture came back negative for MRSA and on discharge, he was on day #7 of nafcillin and will need to finish 14 day course of antibiotics (last day [**2197-8-2**])  4)Transaminitis: AST, ALT, and LDH can be present in many tissues and increased serum levels are a nonspecific indicator of an underlying process.
+With resolution of rhabdo, transaminases started trending down.
+Patient was continued throughout his hospitalization at half his home dose of MS Contin at 30mg [**Hospital1 **] but with improvement in mental status and return to baseline MS, patient was brought back up to his home dose of MS Contin 60mg [**Hospital1 **] without incident.
+Iron low, ferritin upper limit nml.
+He was started on iron supplementation  7)Type 2 DM: Patient is on Metformin as an outpatient.
+Metformin was held given elevated creatinine.
+He was placed on insulin sliding scale and FS QID.
+He is going to be restarted on his metformin upon discharge.
+8)Hypertension: Patient is on Lisinopril as an outpatient.
+This was initially held given elevated creatinine but then restarted once creatinine returned to baseline.
+He received neoadjuvant hormonal therapy and radiation.
+He is on Doxazosin as an outpatient and after initially holding this medication, he was restarted on the floor.
+His regimen was initially held given his mental status changes.
+There was some concern that he was withdrawing from [**Last Name (LF) 99462**], [**First Name3 (LF) **] he was started on Clonazepam 0.5mg [**Hospital1 **].
+He was started on a nicotine patch with good results while an inpatient.
+Medications on Admission: Remeron 45mg PO QHS Clonazepam 1mg PO BID Metformin 1000mg PO BID Doxazosin 4mg PO daily Lisinopril 40mg PO daily MS Contin 60mg PO BID   Discharge Medications: 1.
+Insulin Regular Human 100 unit/mL Solution Sig: Give as directed per insulin sliding scale Injection ASDIR (AS DIRECTED).
+Metformin 1,000 mg Tablet Sig: One (1) Tablet PO twice a day.
+Clonazepam 0.5 mg Tablet Sig: 1-2 Tablets PO BID (2 times a day) as needed for anxiety.
+Doxazosin 4 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Lisinopril 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Morphine 30 mg Tablet Sustained Release Sig: Two (2) Tablet Sustained Release PO Q12H (every 12 hours): Hold for sedation, RR<12.
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+Lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO TID (3 times a day).
+Bisacodyl 5 mg Tablet, Delayed Release (E.C.)
+Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1) treatment Inhalation Q6H (every 6 hours) as needed for wheezing.
+Ipratropium Bromide 0.02 % Solution Sig: One (1) treatment Inhalation Q6H (every 6 hours) as needed for wheezing.
+Acetaminophen 500 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed.
+Nicotine 14 mg/24 hr Patch 24 hr Sig: One (1) Patch 24 hr Transdermal DAILY (Daily).
+Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig: One (1) Adhesive Patch, Medicated Topical DAILY (Daily) as needed for pain: 12 hours on, 12 hours off.
+Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Nafcillin in D2.4W 2 gram/100 mL Piggyback Sig: Two (2) grams Intravenous Q6H (every 6 hours) for 7 days: Last day is [**2197-8-2**].
+This was treated with IV fluids and you got better.
+You have been treated with antibiotics which you will continue at the rehabilitation facility.
+Please continue all your home medications except for the following additions and changes.
+- you need to finish 7 more days of nafcillin antibiotics (last day is [**2197-8-2**]) - you were started on iron supplementation - you were started on nicotine patch and are encouraged to talk to your PCP about other methods of smoking cessation - you were started on a lidocaine patch for pain  You should continue to remain out of bed as much as possible and walk at least three times per day with assistance.

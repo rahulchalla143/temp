@@ -1,0 +1,51 @@
+Admission Date:  [**2149-12-22**]              Discharge Date:   [**2150-1-9**]  Date of Birth:  [**2064-3-16**]             Sex:   F  Service: MEDICINE  Allergies: Bactrim  Attending:[**First Name3 (LF) 2880**] Chief Complaint: left-sided weakness  Major Surgical or Invasive Procedure: -PEG Tube Placement   History of Present Illness: The patient is an 85-year-old right-handed female with a past medical history significant for hypertension, hyperlipidemia, and atrial tachycardia with a stroke resulting in transient left leg weakness in the right ACA territory in [**7-/2149**] who presents with an acute onset of left arm, face, and leg weakness.
+As a result of this fall, it was decided to postpone the knee surgery while these wounds healed.
+Based on these acute symptoms, the neighbor called EMS and notified the patient's daughter and the patient was brought quickly to [**Hospital1 18**] where she was seen as a Code Stroke at 7:51.
+She was given TPA at 8:32 p.m. with a 6.3 mg bolus and a 56 mg infusion subsequently.
+She was brought to the interventional radiology suite; however, when she got there, it was noted on the CTA and CT perfusion maps that there was no obvious penumbra and the stroke attending felt that it would not give much benefit The decision was made that the risks of opening up the clot were greater than the benefits and the patient was admitted to the ICU service for further management.
+Extinction and Neglect: 2  Time Code Stroke called: 19:51 (24h clock) Time Neurology at bedside for evaluation: 19:51 (24h clock) Time (and date) the patient was last known well: 19:00 (24h clock) NIH Stroke Scale Score: 21 t-[**MD Number(3) 6360**]:    Yes     Time t-PA was given   20:32 (24h clock)   On neuro ROS (per daughter and patient), the pt denies headache, no recent change in vision.
+During the hospitalization, whe underwent TPA with no improvement in sxs, thrombectomy was deferred given concern for risk of bleed.
+vtach vs afib with abberancy on [**12-23**], requiring cardioverson x3 and amiodarone load.
+She then went back into afib with RVR to the 160s while intubated and getting PEG on [**1-1**], which was controlled with esmolol during the procedure; in the PACU she apparently became hypotensive on diltiazem Gtt.
+Cardiology consult was called for management of afib; metoprolol was subsequently uptitrated and the recommendation was made to start anticoagulation with warfarin.
+Overnight HR became more difficult to control, requiring metoprolol IV boluses, which she was refractory to, and digoxin.
+<U><b>CARDIAC REVIEW OF SYSTEMS:</b></U> (+) Per HPI (-) Denies chest pain, dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope.
+Past Medical History: - right ACA stroke secondary to hypoperfusion (due to an adenosine stress test) in setting of hypoplastic A1 segment of ACA -Osteoarthritis awaiting a right knee replacement - Hyperlipidemia - Hypertension - Left bundle branch block - Atrial tachycardia   Social History: "Retired" homemaker, lives alone, independent in all IADLs including paying bills -Tob: never -EtOH: no heavy use -Drugs: Never   Family History: Sister with stroke at 92, sister with [**Name (NI) 2481**] disease, 2 brother with cardiac disease younger than 50 (one with MI and one with angina both in 40s), 2 brothers with MI older than 50   Physical Exam: On Admission: .
+Otherwise, unchanged - CN2-10 intact, 11 with deficits on left, 12 intact; hyperreflexia left UE and LE, toes upgoing on left; toes down on right, normal tone and reflexes on right  Pertinent Results: On admission:  [**2149-12-22**] 07:55PM BLOOD WBC-13.8* RBC-3.73* Hgb-11.8* Hct-34.6* MCV-93 MCH-31.7 MCHC-34.2 RDW-15.5 Plt Ct-370 [**2149-12-22**] 07:55PM BLOOD PT-12.7 PTT-23.6 INR(PT)-1.1 [**2149-12-23**] 03:24AM BLOOD Glucose-175* UreaN-21* Creat-0.5 Na-139 K-3.7 Cl-108 HCO3-22 AnGap-13 [**2149-12-23**] 03:24AM BLOOD ALT-12 AST-17 CK(CPK)-35 [**2149-12-23**] 03:24AM BLOOD CK-MB-3 cTropnT-<0.01 [**2149-12-23**] 03:24AM BLOOD Calcium-8.6 Phos-3.3 Mg-1.8 Cholest-129 [**2149-12-23**] 03:24AM BLOOD %HbA1c-5.8 eAG-120 [**2149-12-23**] 03:24AM BLOOD Triglyc-62 HDL-52 CHOL/HD-2.5 LDLcalc-65 [**2149-12-23**] 03:24AM BLOOD TSH-1.1 [**2149-12-23**] 11:57PM BLOOD Type-ART pO2-337* pCO2-27* pH-7.50* calTCO2-22 Base XS-0 [**2149-12-23**] 11:57PM BLOOD Lactate-1.4 [**2149-12-23**] 11:57PM BLOOD O2 Sat-99 [**2149-12-23**] 11:57PM BLOOD freeCa-1.19 .
+Right distal ACA infarction, partially visualized, with filling defects within the pericallosal arterires bilaterally, and no evidence of penumbra in this region.
+Brief Hospital Course: 85 yo female with hx HTN, HLD, atrial tachycardia, baseline dementia, hx ACA stroke (without residual deficits) who was initially admitted to the neurology service on [**12-22**] for large R MCA stroke, went into AF-RVR, was transferred to [**Hospital1 1516**] for further management, and underwent successful TEE-Cardioversion.
+# AF-RVR: Patient went into Atrial-Tach with aberrency [**12-23**] while undergoing PEG placement and received Amio 300mg IV due to concern for V-Tach, then converted to SR; also received esmolol for hypertensive urgency and diltiazem gtt in the PACU, which made the patient hypotensive.
+Pt was started on several regimens of diltiazem, metoprolol and digoxin which were unsuccessful due to hypotension (goal SBP 110-180 per neuro) and persistent tachycardia.
+She therefore went for TEE cardioversion which was successful.
+She was maintained in sinus rhythm with disopyrimide and metoprolol which were continued on discharged.
+She was also started on warfarin therapy for stroke prophylaxis.
+** **HR/BP will also need to be followed and metoprolol titrated accordingly.
+** **INR will need to be followed and warfarin titrated accordingly.
+# Respiratory Support: S/p intubation on [**12-23**] while patient in Atrial-Tach with aberrency.
+She was successfully weaned from the ventilator and transferred to the floor.
+# PEG Placement: Patient failed s/s with difficulty placing NG tube early in the hospitalization.
+Consideration for a PEG was made which was placed under anesthesia by surgery on [**2149-12-31**].
+Tube feeds were also continued due to concern for inadequate caloric intake.
+# Anemia: Work-up revealing for ACD with Fe:TIBC of 24, but with likely concamitant iron deficiency anemia with low-normal Ferritin and Fe.
+**After discharge, may benefit from being started on Fe supplementation.
+# Hypothyroidism: Continued home regimen of Levothyroxine Sodium 100 mcg.
+Medications on Admission: -Atenolol 25 mg daily -Diovan 240 mg daily -Simvastatin 20 mg daily -Levothyroxine 100 mcg daily -Mupirocin 2% nostril; never filled -Triamcinolone ointment 0.1% daily to abdominal rash prn -Desonide cream daily to face/body rash  Discharge Medications: 1. metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours).
+Disp:*120 Tablet(s)* Refills:*2* 2. simvastatin 20 mg Tablet Sig: One (1) Tablet PO once a day.
+3. levothyroxine 100 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+4. aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2* 5. warfarin 1 mg Tablet Sig: One (1) Tablet PO Once Daily at 4 PM.
+Disp:*30 Tablet(s)* Refills:*2* 6. disopyramide 100 mg Capsule Sig: One (1) Capsule PO Q8H (every 8 hours).
+Disp:*280 ml* Refills:*2* 8. senna 8.6 mg Tablet Sig: One (1) Tablet PO twice a day as needed for constipation.
+[**1-11**]: Check INR, fax results to rehab physician to titrate Warfarin .
+[**1-9**]: Check HR/BP, fax results to rehab physician; may titrate metoprolol accordingly [**1-10**]: Check HR/BP, fax results to rehab physician [**Name Initial (PRE) **].
+Continue to check HR/BP until stabilized on Metoprolol regimen   Discharge Disposition: Extended Care  Facility: [**Hospital **] Hospital- [**Hospital1 8**]  Discharge Diagnosis: PRIMARY: -Ischemic Right Middle Cerebral Artery Stroke -Atrial Fibrillation with Rapid Ventricular Response .
+You were given a medication by the neurologists to help restore blood flow and, in turn, oxygen to part of your brain affected by the stroke.
+You tolerated this well and over the course of the hospitalization you have regained some of the functioning that you initially lost, which is a good sign.
+Your new neurologic medication regimen to prevent future strokes is: # START: Warfarin 1 mg daily .
+You were transferred from the neurology service to the cardiology service to have this problem addressed; on the cardiology service we treated you with medications at first, but when you continued to have this irregular rhythm, you underwent a procedure called a cardioversion with direct visualization of your heart via an esophogeal echocardiogram.
+You tolerated the procedure well and afterwards, your heart rhythm was regular and no longer fast.
+The cardioversion and new medication are only part of your treatment.
+You will need to take the following medications after discharge: # START: Disopyramide 100 mg every 8h # START: Metoprolol 25 mg every 6h # STOP: Atenolol 25 mg daily # STOP: Diovan 240 mg daily  # START: Warfarin 1 mg daily; this medication will need to be adjusted by your physicians at the rehabilitation facility # START: Aspirin 81 mg daily # CONTINUE: Simvastatin 20 mg daily .
+Please continue to take the rest of your medications as previously prescribed, except the following medications: # STOP: Triamcinolone ointment 0.1% daily # STOP: Desonide cream daily to face/body rash # START: Senna to prevent constipation # START: Colace to prevent constipation .
+A PEG tube was placed during the hospitalization to support your nutrition while you were unable to swallow.
+Your PEG tube is still in place, but you and your family, in conjunction with your primary care physician, [**Name10 (NameIs) **] make the decision in the future to remove the tube.

@@ -1,0 +1,22 @@
+Cultures of the patient's left heel during that admission showed no growth.
+Non-invasive arterial studies showed tibial disease, right greater than left.
+Congestive cardiomyopathy:  Echocardiogram in [**2130-2-7**], showed severe global biventricular contractile dysfunction with an ejection fraction of 20%; catheterization in [**2119**] in [**State 2748**] showed no coronary artery disease.
+PHYSICAL EXAMINATION:   Vital signs with temperature 98.9 F.; pulse 91; respirations 16; blood pressure 112/60; O2 saturation equals 95% on room air.
+Breast examination not done.
+Rectal examination deferred.
+Dorsalis pedis and posterior tibial pulses have Doppler signals.
+Neurological examination non-focal.
+ADMISSION LABORATORY:  White blood cell count 7.0, hemoglobin 8.8, hematocrit 28.8, platelets 524,000.
+Sodium 134, potassium 4.8, chloride 98, carbon dioxide 22, BUN 108, creatinine 3.6, glucose 157.
+PT 14.4, PTT 28.0, INR 1.4.
+Albumin 3.2, calcium 7.3, phosphorus 4.5, magnesium 3.6, uric acid 8.7, ALT 35, AST 30, alkaline phosphatase 150, total bilirubin 0.1, digoxin level less than 0.3.
+Portable chest x-ray shows cardiomegaly without congestive heart failure or pneumonia.
+EKG shows a normal sinus rhythm at 87, left axis deviation, poor R wave progression, nonspecific ST-T changes.
+On [**2130-6-26**], the patient had a Persantine-MIBI study requested by Dr. [**Last Name (STitle) **].
+The study showed several moderate fixed defects, with diffuse hypokinesis and an ejection fraction of 19%.
+The patient had forefoot pulse volume recordings done on [**2130-6-28**], which showed a 6 millimeter deflection on the right and a 16 millimeter deflection on the left.
+The patient underwent dialysis on [**2130-6-29**], and received one unit of packed red blood cells for a hematocrit of 27.3.
+Her post-transfusion hematocrit was 31.
+[**First Name4 (NamePattern1) 1726**] [**Last Name (NamePattern1) 19862**].
+; hold if blood sugar less than 160.
+[**MD Number(1) 19472**]  Dictated By:[**Last Name (NamePattern1) 3954**] MEDQUIST36  D:  [**2130-7-3**]  22:06 T:  [**2130-7-3**]  22:25 JOB#:  [**Job Number 23883**]

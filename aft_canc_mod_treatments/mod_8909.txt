@@ -1,0 +1,11 @@
+Name:  [**Known lastname 1646**],[**Known firstname 1647**]                Unit No:   [**Numeric Identifier 1648**]  Admission Date:  [**2186-5-9**]              Discharge Date:   [**2186-5-25**]  Date of Birth:  [**2120-3-21**]             Sex:   F  Service: MEDICINE  Allergies: Taxol / Oxycodone / Tape  Attending:[**First Name3 (LF) 949**] Addendum: Patient discharged on [**12-21**] mg dilaudid every 3 hours as needed as well as fentanyl patch  Discharge Medications: 1.
+Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) 1649**]: One (1) Tablet,Rapid Dissolve, DR [**Last Name (STitle) **] DAILY (Daily).
+Amiodarone 200 mg Tablet [**Last Name (STitle) 1649**]: One (1) Tablet PO DAILY (Daily).
+Fentanyl 12 mcg/hr Patch 72 hr [**Last Name (STitle) 1649**]: One (1) Patch 72 hr Transdermal Q72H (every 72 hours).
+Olanzapine 5 mg Tablet, Rapid Dissolve [**Last Name (STitle) 1649**]: One (1) Tablet, Rapid Dissolve PO TID (3 times a day) as needed.
+Bisacodyl 5 mg Tablet, Delayed Release (E.C.)
+Senna 8.6 mg Tablet [**Last Name (STitle) 1649**]: One (1) Tablet PO BID (2 times a day).
+Docusate Sodium 100 mg Capsule [**Last Name (STitle) 1649**]: One (1) Capsule PO BID (2 times a day).
+Coumadin 1 mg Tablet [**Last Name (STitle) 1649**]: One (1) Tablet PO once a day: Start date: [**2186-5-26**].
+ZOFRAN ODT 4 mg Tablet, Rapid Dissolve [**Month/Day/Year 1649**]: One (1) Tablet, Rapid Dissolve PO TID: PRN as needed for nausea: If not using IV.
+Dilaudid 2 mg Tablet [**Month/Day/Year 1649**]: 0.5-1 Tablet PO Q3 H PRN as needed for pain.

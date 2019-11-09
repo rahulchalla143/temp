@@ -1,0 +1,33 @@
+Admission Date:  [**2105-5-30**]              Discharge Date:   [**2105-6-6**]  Date of Birth:  [**2037-3-19**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 2186**] Chief Complaint: Neck and Shoulder Pain  Major Surgical or Invasive Procedure: Septic joint washout PICC line placement L hallux ulcer debridement x2   History of Present Illness: This is a 68 yo M with a past medical history of DM, HTN, who presented to an OSH with neck pain on two different occasions and on the third presentation, has altered mental status and fevers, had an LP and was admitted.
+He was given CTX for antibiosis.
+Ortho was consulted, and tapped the joint, which was consistent with septic arthritis, with [**Numeric Identifier 79644**] WBC.
+Family History: non-contributory, son has significant diabetes with complications  Physical Exam: VS: T 98.4 142/80 82 18 94% on RA GEN: NAD HEENT: AT, NC, PERRLA, EOMI, mild conjuctival injection, anicteric, OP clear, MM dry, Neck supple, no LAD, no carotid bruits, small area of tenderness over cervical spine but improved from prior per patient CV: RRR, nl s1, s2, I/VI SM @ LLSB no r/g PULM: CTAB, no w/r with good air movement throughout, scattered rhonchi on the right base ABD: soft, NT, ND, hypoactive BS, liver margin 2cm below costal margin.
+PSYCH: appropriate affect   Pertinent Results: [**2105-5-30**] 01:15PM   SED RATE-80* [**2105-5-30**] 01:15PM   PT-13.1 PTT-26.3 INR(PT)-1.1 [**2105-5-30**] 01:15PM   PLT SMR-NORMAL PLT COUNT-248 [**2105-5-30**] 01:15PM   HYPOCHROM-NORMAL ANISOCYT-NORMAL POIKILOCY-NORMAL MACROCYT-NORMAL MICROCYT-NORMAL POLYCHROM-NORMAL [**2105-5-30**] 01:15PM   NEUTS-94.5* BANDS-0 LYMPHS-3.3* MONOS-2.0 EOS-0.1 BASOS-0.1 [**2105-5-30**] 01:15PM   WBC-19.7* RBC-4.66 HGB-13.5* HCT-38.4* MCV-83 MCH-29.0 MCHC-35.1* RDW-13.6 [**2105-5-30**] 01:15PM   CRP-GREATER TH [**2105-5-30**] 01:15PM   CALCIUM-8.8 PHOSPHATE-2.3* MAGNESIUM-2.2 [**2105-5-30**] 01:15PM   LIPASE-47 [**2105-5-30**] 01:15PM   ALT(SGPT)-50* AST(SGOT)-63* LD(LDH)-340* ALK PHOS-90 TOT BILI-0.7 [**2105-5-30**] 01:15PM   estGFR-Using this [**2105-5-30**] 01:15PM   GLUCOSE-139* UREA N-39* CREAT-1.0 SODIUM-129* POTASSIUM-3.9 CHLORIDE-92* TOTAL CO2-25 ANION GAP-16 [**2105-5-30**] 01:21PM   LACTATE-1.8 [**2105-5-30**] 04:59PM URINE  RBC-0-2 WBC-0 BACTERIA-RARE YEAST-NONE EPI-0-2 [**2105-5-30**] 04:59PM URINE  BLOOD-TR NITRITE-NEG PROTEIN-30 GLUCOSE-1000 KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 LEUK-NEG [**2105-5-30**] 04:59PM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.028 [**2105-5-30**] 07:02PM JOINT FLUID  NUMBER-NONE [**2105-5-30**] 07:02PM JOINT FLUID  WBC-[**Numeric Identifier 79644**]* RBC-[**Numeric Identifier 890**]* POLYS-93* LYMPHS-3 MONOS-4 .
+T1 sagittal and axial images were obtained following gadolinium.
+THORACIC SPINE:  TECHNIQUE: T1, T2 and inversion recovery sagittal and T2 axial images of the thoracic spine were obtained before gadolinium.
+T1 sagittal and axial images were obtained following gadolinium.
+Patient was treated with ceftriaxone, and sent home for a total of 6 weeks of therapy (PICC line placed while inhouse).
+His toe was treated with wet-to-dry dressing with silvedine and post-op boot while inhouse.
+He was continued on ceftriaxone for a total of 6 weeks as above.
+Otherwise, etiologies included congestion from sepsis, drug induced hepatitis (although level of transaminitis is quite low), CBD pathology (but TB is wnl).
+# HTN: Restarted low dose lisinopril on [**6-4**] given hypertension.
+# DM2: Holding metformin and glyburide, also on lantus at home (20u QHS).
+Given low POs and post-surgical washout, was placed on insulin ss initially.
+#COMMUNICATION: patient   Medications on Admission: Metformin Glyburide lisinopril protonix colace ASA 81   Discharge Medications: 1.
+Ceftriaxone 2 gram Piggyback Sig: One (1) dose Intravenous once a day for 5 weeks.
+PICC line care PICC line care per NEHT protocol.
+Saline and heparin flushes.
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+Oxycodone 5 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours) as needed.
+Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Silver Sulfadiazine 1 % Cream Sig: One (1) Appl Topical DAILY (Daily): to L foot ulcer with dressing change.
+Insulin Glargine 100 unit/mL Cartridge Sig: Twenty (20) units Subcutaneous at bedtime.
+Discharge Disposition: Home With Service  Facility: [**Company 1519**]  Discharge Diagnosis: Group C strep bacteremia Aortic valve endocarditis Septic arthritis of left shoulder Hypertension Type II DM, uncontrolled Gout   Discharge Condition: Hemodynamically stable   Discharge Instructions: You were admitted with bacteria in your blood.
+For that, you will require 6 weeks total of IV antibiotics.
+Podiatry and Vascular surgery teams evaluated you and debrided your toe.
+You will follow up with both of these teams as an outpatient for further evaluation and management of your wounds.
+You have been unable to move your neck appropriately, though it has been improving during your admission.
+If you develop chest pain, shortness of breath, weakness, increased shoulder pain or inability to move your shoulder, dizziness, vision changes, abdominal pain, or any other concerning symptom, please call your primary care doctor [**First Name (Titles) **] [**Last Name (Titles) 10046**]d to the Emergency Room immediately.
+Please take all medications as prescribed.

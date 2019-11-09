@@ -1,0 +1,65 @@
+Admission Date:  [**2111-12-11**]              Discharge Date:   [**2111-12-29**]  Date of Birth:  [**2032-11-16**]             Sex:   F  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 2195**] Chief Complaint: Hemoptysis   Major Surgical or Invasive Procedure: Intubation Bronchoscopy Rigid bronchoscopy Bronchial artery embolization  History of Present Illness: This is a 79 year old female with PMH history significant for TB treated 20 years prior, bronchiectasis on 2L home oxygen, ASD s/p surgical repair with resultant atrial fibrillation, history of subdural hematoma and rectus sheath hematoma secondary to coumadin and multiple TIAs off of anticoagulation, on dabigatran for several weeks who presented initially to OSH for hemoptysis and transferred to [**Hospital1 18**] for further evaluation.
+Per report, patient with several coughing episodes last night with hemoptysis of several teaspoons of bright red blood.
+Thoracic surgery team performed bronchoscopy who found blood in the RLL; no intervention was performed.
+NG tube was placed and drained coffee ground material.
+Double lumen endotracheal tube was placed to protect the left lung.
+Past Medical History: - atrial fibrillation, previously on coumadin but now on dabigatran - history of subdural bleed 3 years ago while on coumadin with some dysarthria and right sided weakness - history of multiple TIAs (most recently 2 weeks ago) while off coumadin (restarted coumadin several years ago) -> stopped definitively on 10/[**2110**].
+- history of large rectus sheath hematoma in [**8-/2111**] - HTN - GERD - history of TB treated 20 years ago - bronchiectasis with home oxygen of 2L - ASD s/p surgical repair 10 years prior with development of atrial fibrillation after procedure - chronic hyponatremia ?
+Cardiac enzymes:                    CK-MB cTropnT [**2111-12-23**] 05:09    2 <0.011 [**2111-12-22**] 21:43    2 <0.011 [**2111-12-22**] 13:01    2 <0.011 [**2111-12-22**] 05:43    2 <0.011 [**2111-12-21**] 03:59    2 <0.011 .
+Microbiology: [**2111-12-24**]  STOOL CLOSTRIDIUM DIFFICILE TOXIN A & B TEST-NEG [**2111-12-23**]  STOOL CLOSTRIDIUM DIFFICILE TOXIN A & B TEST-NEG [**2111-12-17**]  BLOOD CULTURE-NEG [**2111-12-16**]  Mini-BAL GRAM STAIN-GNRs; RESPIRATORY CULTURE-PSEUDOMONAS AERUGINOSA.
+10,000-100,000 ORGANISMS/ML; LEGIONELLA CULTURE-PRELIMINARY; FUNGAL CULTURE-NGTD; ACID FAST SMEAR-NEG; ACID FAST CULTURE-NGTD [**2111-12-15**]  BRONCHOALVEOLAR LAVAGE GRAM STAIN-FINAL; RESPIRATORY CULTURE-FINAL {PSEUDOMONAS AERUGINOSA, PSEUDOMONAS AERUGINOSA} INPATIENT [**2111-12-14**]  URINE CULTURE-NEG [**2111-12-14**]  BLOOD CULTURE-NEG [**2111-12-12**]  URINE CULTURE-NEG [**2111-12-11**]  BRONCHIAL WASHINGS GRAM STAIN-NEG; RESPIRATORY CULTURE-  PSEUDOMONAS AERUGINOSA                              |          PSEUDOMONAS AERUGINOSA                              |          | AMIKACIN--------------    32 I       16 S CEFEPIME--------------    16 I       16 I CEFTAZIDIME-----------     2 S        4 S CIPROFLOXACIN---------   =>4 R      =>4 R GENTAMICIN------------  =>16 R     =>16 R MEROPENEM-------------     1 S        1 S PIPERACILLIN/TAZO-----   <=4 S      <=4 S TOBRAMYCIN------------  =>16 R     =>16 R ACID FAST SMEAR-NEG; ACID FAST CULTURE-PRELIMINARY; FUNGAL CULTURE-NGTD; POTASSIUM HYDROXIDE PREPARATION-Cancelled; LEGIONELLA CULTURE-NEG [**2111-12-11**]  MRSA SCREEN-NEG .
+ET tube 6 cm above carina.
+Endogastric tube side port just at the GE junction, would recommend advancing approximately 5 more cm to ensure that it is within the stomach.
+Rigid bronch report ([**2111-12-12**]): Once the patient was relaxed, the rigid bronchoscope was introduced into the oral cavity and followed along the double lumen endotracheal tube until the cords were visualized.
+A Cook catheter was introduced through the rigid scope.
+The rigid was removed and a single lumen a tracheal tube introduced via direct visualization by Anesthesia.
+The tube was then confirmed to be approximately 2 cm above the carina via bronchoscopy.
+The procedure was ended with no complications.
+Brief Hospital Course: -please check CBC and CHEM 7 in 1 week to monitor for resolution of isolated thrombocytosis, check renal function, potassium after starting ACE-i .
+# Hemoptysis: Resolved s/p right bronchial artery embolization.
+Initially unclear etiology, with broad differential including bleeding in setting of bronchiectasis on dabigatran and overlying infection.
+On admission to the MICU was s/p bronch demonstrating large clot in RLL with oozing.
+Double lumen endotracheal tube was in place to protect the left lung from future bleeding and underwent emergent IR bronchial artery embolization of right bronchial artery embolization using 300-500 mic embospheres -> enlarged hypertrophic arteries suggestive of bleeding.
+Her hematocrits remained stable and after consultation with her PCP it was decided that she would no longer be an anticoagulation candidate but could be restarted on asprin 325mg daily for stroke prevention in setting of AFib with recent TIAs.
+Intitially was intubated in the setting of hemoptysis however once bleeding resolved she continued to have RLL collapse on XRay concerning for another process.
+She was treated with Vanc and Zosyn until sputum and BAL cultures grew out two strains GNRS and antibiotics were broadened to Tobramycin.
+When speciation and sensitivities grew out two strains of pseudomonas antibiotics were weaned to Zosyn.
+She had a difficult time weaning from the vent and diuresis was initiated in the hope of improving her respiratory status.
+She was successfully extubated on [**2111-12-20**] and weaned to baseline O2 requirement without issues.
+Patient with history of cerebral bleed on coumadin and TIA without anticoagulation.
+Anticoagulation was held in the setting of hemoptysis and as above after consultation with her PCP she was restarted only on Aspirin 325mg daily for CVA ppx.
+Metoprolol titrated up to 150mg daily for improved rate control.
+# Diarrhea: In setting of tube feeds via NGT while patient was being cleared by speech and swallow.
+Resolved after stopping tube feed.
+Patient was on atorvastatin 80mg as an inpatient, but switched to simvastatin 40mg on discharge in light of LDL of 119, lisinopril 5mg for improved BP control, cardiac/renal protection.
+She was continued on home nebulizers.
+Metoprolol and diltiazem were later restarted.
+Metoprolol increased as above, started lisinopril 5mg daily.
+Home demeclocycline briefly held in ICU, but then continued.
+# Prophylaxis: Patient received heparin products during this admission.
+# Code: Full  Medications on Admission: - albuterol inhaler - aspirin 81mg PO daily - cardizem CD 240mg PO daily - colace - combivent 2 puffs qid - dabigatran 150mg PO BID - demeclocycline 150mg PO BID - digoxin 0.25mg MWF, 0.125 other days - flonase - lasix 60mg PO daily - prilosec 20mg PO daily - spiriva - toprol 50mg PO daily - zyrtec 10mg PO daily  Discharge Medications:   1. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: [**11-29**]  Inhalation every six (6) hours as needed for shortness of breath or wheezing.
+Cardizem CD 240 mg Capsule, Sust.
+Release 24 hr PO once a day.
+3. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO twice a day: Please hold for loose stools.
+Combivent 18-103 mcg/Actuation Aerosol Sig: Two (2) Inhalation four times a day as needed for shortness of breath or wheezing.
+5. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+6. demeclocycline 150 mg Tablet Sig: One (1) Tablet PO twice a day.
+7. digoxin 125 mcg Tablet Sig: One (1) Tablet PO 4X/WEEK ([**Doctor First Name **],TU,TH,SA).
+8. digoxin 250 mcg Tablet Sig: One (1) Tablet PO 3X/WEEK (MO,WE,FR).
+Flonase 50 mcg/Actuation Spray, Suspension Sig: One (1) spray each nostril Nasal once a day as needed for nasal congestion.
+Prilosec 20 mg Capsule, Delayed Release(E.C.)
+Spiriva with HandiHaler 18 mcg Capsule, w/Inhalation Device Sig: One (1)  Inhalation once a day.
+12. metoprolol succinate 50 mg Tablet Sustained Release 24 hr Sig: Three (3) Tablet Sustained Release 24 hr PO DAILY (Daily).
+Zyrtec 10 mg Capsule Sig: One (1) Capsule PO once a day.
+14. simvastatin 40 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2* 15. lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+16. quetiapine 25 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime) as needed for anxiety/insomnia.
+Outpatient Lab Work Check CBC and CHEM-7 in 1 week ([**2112-1-5**]) to monitor for resolution of isolated thrombocytosis & check renal function and potassium after starting lisinopril.
+Discharge Disposition: Extended Care  Facility: [**Hospital1 **] at [**Hospital 4415**]  Discharge Diagnosis: Primary: Hemoptysis, ventilator associated pneumonia, chest pain Secondary: Bronchiectasis, atrial fibrillation  Discharge Condition: Mental Status: Clear and coherent.
+You required a breathing tube to protect your lungs.
+The bleeding was controlled and you did not have any more cough with blood after the breathing tube was taken out.
+Please make the following changes to your medications: - STOP lasix - STOP dabigatran .
+- INCREASE Toprol XL to 150mg daily by mouth for your heart rate and blood pressure - INCREASE aspirin to 325mg daily by mouth for your heart and to thin your blood .
+- START simvastatin 40mg by mouth daily for your heart - START lisinopril 5mg by mouth daily for your heart and blood pressure - START quetiapine 12.5 mg at night as needed for anxiety/insomnia .
+Please continue all other medications as prescribed.
+In 1 week ([**2112-1-5**]) you should get outpatient lab work to check a CBC and CHEM-7 in  to monitor for resolution of your high platelet count & check your kidney function and potassium after starting lisinopril.

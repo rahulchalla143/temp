@@ -1,0 +1,44 @@
+Admission Date:  [**2117-3-31**]              Discharge Date:   [**2117-4-4**]  Date of Birth:  [**2051-3-8**]             Sex:   F  Service: MEDICINE  Allergies: Cephalosporins / Ace Inhibitors / Penicillins / Benzodiazepines  Attending:[**First Name3 (LF) 4393**] Chief Complaint: Altered mental status  Major Surgical or Invasive Procedure: None   History of Present Illness: This is a 66 y.o woman with history of EtOh cirrhosis, liver cancer, known portal hypertensive gastropathy who presents today after being found down at 6am at her residency at [**Location (un) 582**] [**Location (un) 620**]; apparently she had fallen from bed to the floor.
+She was initially sent to [**Hospital 882**] hospital, where per report she had a head CT, c-spine, pelvic and chest x-rays, all of which were negative at which point she was transferred to [**Hospital1 18**] for futher care after being given a dose of lactulose and levofloxacin for a possible urinary tract infection.
+Her stools were noted to be grossly melanotic, and the liver service was consulted who recommended starting protonix and octreotide drips.
+Hepatocellular CA s/p resection 3.
+Chronic kidney disease stage III baseline creatinine 1.4 8. s/p ORIF L hip 9.
+Pertinent Results: ADMISSON LABS: [**2117-3-31**] 10:20PM   WBC-4.6 RBC-2.75* HGB-8.8* HCT-26.5* MCV-97 MCH-32.2* MCHC-33.3 RDW-19.9* [**2117-3-31**] 10:20PM   NEUTS-82.1* LYMPHS-12.8* MONOS-4.2 EOS-0.5 BASOS-0.4 [**2117-3-31**] 10:20PM   PLT COUNT-119*# [**2117-3-31**] 10:20PM   PT-14.2* PTT-27.8 INR(PT)-1.2* [**2117-3-31**] 10:20PM   GLUCOSE-134* UREA N-36* CREAT-1.5* SODIUM-143 POTASSIUM-3.6 CHLORIDE-116* TOTAL CO2-18* ANION GAP-13 [**2117-3-31**] 10:20PM   ALT(SGPT)-35 AST(SGOT)-55* ALK PHOS-132* TOT BILI-1.5 [**2117-3-31**] 10:20PM   CALCIUM-8.7 PHOSPHATE-4.3 MAGNESIUM-2.1 [**2117-3-31**] 10:20PM   LIPASE-17 [**2117-3-31**] 10:20PM   AMMONIA-30 [**2117-3-31**] 10:27PM   LACTATE-1.8  MICRO: [**2117-3-31**] Blood Culture- Pending [**2117-4-1**] Urine Culture- No Growth  STUDIES: [**2117-4-1**] CXR:As compared to the previous radiograph, the patient has received a nasogastric tube.
+Status post right hepatectomy.
+#Hepatic Encephalopathy - The patient was admitted with hepatic encepholpathy.
+Her lactulose was uptitrated until she was having [**5-18**] bowel movements per day and she was changed to rifaximin 550 mg [**Hospital1 **].
+Her confusion cleared and prior to discharge she was completely oriented, though still having difficulty with attention (unable to say months of the year backwards).
+She is discharged on lactulose which should be titrated to 3 bowel movements per day and 550 mg of rifaximin [**Hospital1 **].
+She was initially placed on an octreotide drip with IV pantoprazole [**Hospital1 **].
+She should follow-up with her gastro-enterologist within the week for an EGD and we would strongly recommend Argon laser therapy for GAVE.
+#EtOH Cirrhosis - Currently, she is  Child's-[**Doctor Last Name 14477**] class high B/low C.  She is in the process of initiating process to be listed for tranpslantation at [**Hospital1 2025**].
+She was maintained on propanolol.
+Her spironolactone and lasix were held in the setting of hypovolemia secondary to a bleed.
+She is discharged on decreased dose of lasix (40 mg daily) and her outpatient dose of spironolactone (50 mg daily).
+She received levofloxacin at [**Hospital 882**] Hospital, then ciprofloxacin here.
+She Will continue ciprofloxacin for 2 more days to treat a 7 day course of complicated UTI.
+#Diabetes Mellitus - The patient is discharged on her home insulin regimen of 35  units of NPH [**Hospital1 **] with an insulin sliding scale.
+#Psych medications - The patient is discharged on her home doses of Effexor and Abilify.
+Gastroenterology follow-up with EGD and possibly Argon laser therapy in the next 7-10 days.
+Medications on Admission: Fe sulphate 325 daily folic acid 1mg daily multivitamin 1 tab daily lasix 60mg daily rifaxamin 200mg tid lactulose 30cc qid NPH insluin 35 units [**Hospital1 **] ISS abilify 5mg daily omeprazole 40mg [**Hospital1 **] propranolol 40mg [**Hospital1 **] spironolactone 50mg dialy thiamine 100mg daily effexor 37.5mg [**Hospital1 **] vit d2 50,000U qweek klonopin 0.5mg qhs   Discharge Medications: 1. lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO QID (4 times a day): please titrate to 3 bowel movements per day.
+2. rifaximin 550 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+3. thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+4. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+5. ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 hours) for 2 days.
+6. propranolol 40 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+7. venlafaxine 37.5 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+8. aripiprazole 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+9. omeprazole 40 mg Capsule, Delayed Release(E.C.)
+Lasix 40 mg Tablet Sig: One (1) Tablet PO once a day.
+11. spironolactone 50 mg Tablet Sig: One (1) Tablet PO once a day.
+Klonopin 0.5 mg Tablet Sig: One (1) Tablet PO QHS.
+NPH insulin human recomb 100 unit/mL Suspension Sig: Thirty Five (35) units Subcutaneous twice a day.
+14. insulin lispro 100 unit/mL Solution Sig: as directed units Subcutaneous four times a day: resume outpatient sliding scale.
+Iron (ferrous sulfate) 325 mg (65 mg Iron) Tablet Sig: One (1) Tablet PO once a day.
+16. multivitamin     Tablet Sig: One (1) Tablet PO once a day.
+17. ergocalciferol (vitamin D2) 50,000 unit Capsule Sig: One (1) Capsule PO once a week.
+You also had some bleeding from your stomach that required blood transfusions.
+You should follow-up your liver problems with the liver doctors at [**Hospital3 2576**] [**Hospital3 **] within the next 10-14 days if possible.
+You should follow-up with your gastroenterologist at [**Hospital 882**] Hospital for an endoscopy for treatment of your stomach bleeding.
+Your lasix dose was DECREASED to 40 mg daily.
+You were STARTED on ciproloxacin which you should continue for two more days.

@@ -1,0 +1,19 @@
+Admission Date:  [**2159-2-14**]              Discharge Date:   [**2159-2-17**]  Date of Birth:  [**2111-7-30**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 2901**] Chief Complaint: chest pain, STEMI from outside hospital  Major Surgical or Invasive Procedure: Cardiac Catheterization with 2 bare metal stents placed.
+He was given ASA, and started on heparin and integrillin and transferred to [**Hospital1 18**] for emergent cath.
+They found a 90% lesion in the RPL off the RCA(when corssed with wire it induced VT and a baremetal stent placed) a 90% lesion in the diagonal(bare metal stent) in the 50% distal LAD.
+%HbA1c-5.6 [Hgb]-DONE [A1c]-DONE .
+TTE [**2159-2-15**]: MEASUREMENTS: Left Atrium - Long Axis Dimension: *4.8 cm (nl <= 4.0 cm) Left Atrium - Four Chamber Length: *6.1 cm (nl <= 5.2 cm) Right Atrium - Four Chamber Length: *5.6 cm (nl <= 5.0 cm) Left Ventricle - Septal Wall Thickness: *1.2 cm (nl 0.6 - 1.1 cm) Left Ventricle - Inferolateral Thickness: 1.1 cm (nl 0.6 - 1.1 cm) Left Ventricle - Diastolic Dimension: 5.2 cm (nl <= 5.6 cm) Left Ventricle - Systolic Dimension: 4.0 cm Left Ventricle - Fractional Shortening: *0.23 (nl >= 0.29) Left Ventricle - Ejection Fraction: 50% (nl >=55%) Aorta - Valve Level: 3.6 cm (nl <= 3.6 cm) Aorta - Ascending: *3.6 cm (nl <= 3.4 cm) Aorta - Arch: *3.1 cm (nl <= 3.0 cm) Aortic Valve - Peak Velocity: 1.4 m/sec (nl <= 2.0 m/sec) Mitral Valve - E Wave: 0.9 m/sec Mitral Valve - A Wave: 0.9 m/sec Mitral Valve - E/A Ratio: 1.00 Mitral Valve - E Wave Deceleration Time: 222 msec Conclusions: There is mild symmetric left ventricular hypertrophy.
+#STEMI: s/p cath and bare metal stents placement.
+Treated with integrillin for 18 hours.
+Started medical treatement with aspirin, plavix, high dose lipitor, metoprolol and lisinopril.
+He was loaded with 100mg lidocaine and drip started at 2mg/min.
+Upon arrival to CCU still with frequent ectopy and NSVT of up to 8 beats.
+The ectopy decreased and lidocaine was discontinued.
+Aspirin 325 mg Tablet, Delayed Release (E.C.)
+Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 times a day).
+Please take all your medications as directed.
+You must take these medications everyday or you could have another major heart attack.
+The other medications include lisinopril, metoprolol and atorvastatin.

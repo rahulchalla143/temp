@@ -1,0 +1,39 @@
+Admission Date:  [**2111-9-30**]              Discharge Date:   [**2111-10-3**]  Date of Birth:  [**2026-5-25**]             Sex:   M  Service: MEDICINE  Allergies: Sulfa (Sulfonamide Antibiotics) / Indocin / Minocycline  Attending:[**First Name3 (LF) 4765**] Chief Complaint: Chest pain  Major Surgical or Invasive Procedure: Cardiac catheterization  History of Present Illness: 85 y/o M with PMH of COPD, HTN and recent admission [**8-29**] to [**2111-8-31**] with chest pressure (negative stress test) who presents after 3-4 days of recurrent intermittent chest tightness/pressure.
+Saw his new cardiologist, Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], who repeated a nuclear stress test and echo which were reportedly negative and given NTG for the chest pressure.
+Troponin was negative.
+Pt was having chest pressure during and after the cath and was started on nitro gtt during and post-cath.
+Transferred to the floor on a nitro drip and still with intermittent chest pressure.
+Pt was continuing to have ongoing chest pain, initially [**2109-12-14**] that increased to [**6-21**] despite treatment with imdur and IV morphine.
+He was also given IV lopressor and started on heparin gtt.
+It was unclear if the pt was going to have a CABG in the future as his PCP wanted him to be evaluated by Csurg first.
+His nitro gtt was shut off, he was put in trendelenberg and given a liter of fluid, run wide open.
+After a few minutes, SBP increased to 120s, pt regained color in his face and his chest pain was much relieved.
+OTHER PAST MEDICAL HISTORY: COPD Angina (30 years ago, normal stress test, never had cardiac cath) BPH Osteoarthritis Kidney stone Bronchiectasis Herniorrhaphy in [**2077**] Appendectomy [**2041**] Cataract surgery [**2102**]  Social History: Lives with wife, worked as machinist.
+Initial laboratory studies including CBC, Chem-7 and troponin were largely unremarkable.
+During the procedure the patient described chest pressure.
+No intervention was done and CT surgery consulted.
+Started on a nitro drip which initially improved his symptoms however the pain did not resolve.
+The nitro drip was uptitrated to 200mcg however the patient still described [**2110-2-13**] pain.
+Given lopressor, morphine and started on a  heparin drip.
+In the CCU, pt continued to have transient episodes of chest pain, but that improved upon administration of a PPI and maalox/lidocaine.
+COPD - Pt was switched from albuterol to atrovent so as not to irritate/aggravate the heart with beta agonist activity.
+HTN - Held home anti-hyprtensives in the setting of being on the nitro gtt, but then re-initiated on his home atenolol as the drip was shut off and his blood pressure could tolerate it.
+[**Month (only) 116**] benefit from lisinopril as an outpatient.
+Anxiety - Pt was continued on his home lorazepam and ambien prn.
+TRANSITIONAL ISSUES -- He may benefit from further BP control.
+Medications on Admission: Albuterol Sulfate inhaler Daily Albuterol Sulfate nebulization Daily Flovent Diskus [**Hospital1 **] Mucinex Daily Ativan 0.5mg PRN Ambien HS ATENOLOL 25 mg Tablet 1 Tablet by mouth [**Hospital1 **] TAMSULOSIN [FLOMAX] 0.4 mg Capsule, Ext Release 24 hr 1  Capsule by mouth once a day ASCORBIC ACID  Dosage uncertain B COMPLEX VITAMINS [VITAMIN B COMPLEX]  Dosage uncertain CALCIUM Dosage uncertain CHOLECALCIFEROL (VITAMIN D3) [VITAMIN D] Dosage uncertain FISH OIL-DHA-EPA  Dosage uncertain VITAMIN E Dosage uncertain Plavix - last dose:600 mg [**2111-9-30**]  Discharge Medications: 1.
+Atrovent HFA 17 mcg/Actuation HFA Aerosol Inhaler Sig: One (1)  Inhalation every six (6) hours as needed for shortness of breath or wheezing.
+Disp:*3 inhalers* Refills:*2* 3. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2* 4. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+6. lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 hours) as needed for Anxiety.
+7. zolpidem 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) as needed for insomnia.
+8. tamsulosin 0.4 mg Capsule, Ext Release 24 hr Sig: One (1) Capsule, Ext Release 24 hr PO HS (at bedtime).
+9. atenolol 25 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+10. pantoprazole 20 mg Tablet, Delayed Release (E.C.)
+)(s)* Refills:*2* 11. atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+A second cardiac catheterization was done, in which a stent was placed in one of these blockages that was thought to be the cause of most of your pain.
+Because you now have a stent, it is EXTREMELY important that you take all medications as prescribed.
+Please note the following changes to your medications:  **STOP taking albuterol inhaler **START taking atrovent inhaler instead.
+It will not interact with your heart medications as much as albuterol  ** START plavix 75mg by mouth once daily.
+** START atorvastatin 80mg by mouth daily.
+Followup Instructions: Name: [**Last Name (LF) **],[**First Name8 (NamePattern2) **] [**Doctor First Name **] Address: [**Street Address(2) 12840**],[**Apartment Address(1) 12841**], [**Location (un) **],[**Numeric Identifier 12842**] Phone: [**Telephone/Fax (1) 10813**] When: Thursday, [**10-15**], 3:30PM  Name: [**Last Name (LF) **], [**First Name7 (NamePattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **] Address: [**Street Address(2) 2687**],STE 7C, [**Location (un) **],[**Numeric Identifier 822**] Phone: [**Telephone/Fax (1) 5768**] When: Thursday, [**10-22**], 2PM  Department: NUTRITION When: SATURDAY [**2111-10-10**] at 9:00 AM With: [**First Name11 (Name Pattern1) 3679**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 3680**], RD [**Telephone/Fax (1) 3681**] Building: Ra [**Hospital Unit Name 1825**] ([**Hospital Ward Name 1826**]/[**Hospital Ward Name 1827**] Complex) [**Hospital 1422**] Campus: EAST     Best Parking: Main Garage

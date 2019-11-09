@@ -1,0 +1,31 @@
+Admission Date:  [**2164-5-17**]              Discharge Date:   [**2164-5-24**]  Date of Birth:  [**2083-3-2**]             Sex:   M  Service: MEDICINE  Allergies: Penicillins / Amiodarone / Clindamycin  Attending:[**Last Name (NamePattern1) 1167**] Chief Complaint: Shortness of breath, weight gain  Major Surgical or Invasive Procedure: Placement of R internal jugular central venous line.
+History of Present Illness: This is a 81 year-old male with a history of systolic and diastolic CHF (EF 25-30%), tachy-brady syndrome awaiting pacemaker, h/o atrial fibillation, CAD s/p stent LAD X 2, stent LCx X 1, DM II, and CRI who presents from rehab with increasing shortness of breath and weight gain.
+The patient reports he has been in "poor health" since having a partial colectomy in [**State 108**] this past [**Month (only) 956**] for colon CA.
+He was treated with a 14 day course of vancomycin and ceftriaxone.
+During the hospital course, the pt was diagnosed with tachy-brady syndrome as well as sotalol toxicity in the setting of ARF, and EP was consulted who planned on pacemaker placement once his ID issues had further resolved and discontinued sotalol.
+Hospital course was also c/b a L brachial vein DVT and was started on lovenox.
+He was discharged to rehab where he was switched to IV lasix for diuresis and followed by the renal team for worsening Cr up to 1.5; however, on review of OMR it appears pt's Cr had been at 1.5 prior to discharge.
+His lasix was increased from 40 mg IV bid to 80 mg IV bid with reported poor urinary output.
+EKG showed no new ischemic changes, CXR revealed worsening R and L sided pleural effusions, R > L. He was given vancomycin 1 gm IV X 1, ceftriaxone 2 gm IV X 1, azithromycin 500 mg IV X 1 for possible HAP, started on lasix gtt @ 4 cc/hr and was admitted for further evaluation and management.
+Past Medical History: Coronary Artery Disease - s/p LAD PCI '[**52**], s/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Last Name (Prefixes) **] LAD [**8-5**]  LE edema L>R chronic Basal cell carcinoma Diabetes mellitus X >40 yrs Osteoarthritis Congestive Heart Failure (EF 25-30%) Atrial Fibrillation/Flutter - Flutter Dx [**2155**], underwent successful ablation [**8-/2155**] - Status post cardioversion, but reverted to atrial fib '[**57**] - Amiodarone DC'd [**3-3**] concern of pulmonary tox [**2157**] Viral cardiomyopathy Chronic Renal Insufficiency Cr 1.0-1.3 H/o MRSA PNA s/p partial colectomy for colon CA - not yet followed up with oncologist (doesn't know Dr [**Last Name (STitle) **]) - was told CA not metastatic  Social History: Social history is significant for the absence of current tobacco use.
+He had become more refractory to IV lasix diuresis with worsening weight gain and DOE.
+Also with finding of anasarca on exam, concerning for poor nutritional status and/or nephrotic syndrome.
+In the CCU, he was placed on lasix drip, diuril and milrinone.
+His blood pressure continued to trend down and he had almost no urine output despite maximum doses of lasix drip and diuril.
+An arterline line was placed to better monitor BP.
+A left IJ dialysis catheter was also placed.
+Lasix and diuril were discontinued.
+A total of 10 liters of fluid were removed over his length of stay.
+He was discharged on lasix 80 [**Hospital1 **].
+# Code:  DNR/DNI   Medications on Admission: Lasix 80 mg IV q12h ASA 81 mg daily Norvasc 7.5 mg daily Lisinopril 5 mg daily (d/c'd [**5-4**]) Colace 100 mg [**Hospital1 **] Senna prn Miconazole powder prn Atrovent nebs prn Saline nasal spray 2 sprays [**Hospital1 **] Metformin 1000 mg [**Hospital1 **] (d/c'd [**5-10**]) Lovenox 80 mg q12h (d/c'd [**5-4**]) Repaglinide 0.5 mg mg [**Hospital1 **] Sitagliptin 100 mg daily Heparin 5000 units q12h Tylenol prn RISS Sugar free robitussin q4h prn  Discharge Medications: 1.
+Furosemide 80 mg Tablet Sig: One (1) Tablet PO twice a day.
+Roxanol Concentrate 20 mg/mL Solution Sig: 5-20 mg PO q1-q3 as needed for pain: hospice patient.
+Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed: hospice patient.
+Levsin 0.125 mg/mL Drops Sig: One (1) mL PO every 4-6 hours as needed for secretions: hospice patient.
+Haloperidol gel 1 mg/mL  Sig: 0.5-1 mL mL  every 4-6 hours as needed for agitation: hospice patient.
+Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical [**Hospital1 **] (2 times a day) as needed.
+Dextromethorphan-Guaifenesin 10-100 mg/5 mL Liquid Sig: [**6-9**] MLs PO Q6H (every 6 hours) as needed.
+Polyvinyl Alcohol-Povidone 1.4-0.6 % Dropperette Sig: [**2-1**] Drops Ophthalmic PRN (as needed).
+Ipratropium Bromide 0.02 % Solution Sig: One (1) inhalation Inhalation Q6H (every 6 hours) as needed for shortness of breath or wheezing.
+Albuterol Sulfate 2.5 mg/3 mL Solution for Nebulization Sig: One (1) ampule Inhalation Q6H (every 6 hours) as needed for shortness of breath or wheezing.
+These medications include lasix which may help keep fluid from accumulating.

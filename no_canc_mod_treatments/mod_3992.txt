@@ -1,0 +1,50 @@
+Admission Date:  [**2112-8-1**]              Discharge Date:   [**2112-8-17**]  Date of Birth:  [**2039-6-19**]             Sex:   F  Service: MEDICINE  Allergies: Levofloxacin  Attending:[**First Name3 (LF) 2387**] Chief Complaint: Shortness of breath  Major Surgical or Invasive Procedure: Renal artery stent  History of Present Illness: 73 yo F with HTN, CRI, s/p left nephrectomy, right RAS s/p stenting in [**2111-12-1**], CHF, presented [**8-2**] with worsening dyspnea.
+Past Medical History: 1. s/p Left sided nephrectomy for Renal cell CA - no chemo or XRT 2.
+Diabetes Mellitus x 20 years -- currently on glyburide and insulin 3.
+7. h/o admission for E coli UTI [**2108**] w/ ?urosepsis 8. h/o guaiac positive stool - colonoscopy with diverticulosis of sigmoid 9. renal artery stenosis on right - s/p stenting in [**2111-12-1**] - Doppler in [**2112-3-30**] showed normal arterial and venous waveforms and flow 10. clean coronaries on cath [**12-4**]   Social History: Lives in [**Location 6151**]; originally from [**Country 2045**] but has lived here for 35 years.
+[**2112-8-6**] URINE RBC-[**12-19**]* WBC->50 Bacteri-MANY Yeast-NONE Epi-[**7-9**] [**2112-8-6**] URINE CX >100,000 E. coli .
+Successful PTCA/stent of right renal artery with a 6.0 x 18mm Racer stent .
+--- Pt was initially only given ASA 81 mg PO as therapy in light of her capsular hemorrhage post-renal atery stenting.
+She was eventually started back on clopidogrel 75 mg PO qd once the bleeding ceased.
+Because of her volume overload in the setting of oliguric renal failure, she eventually required dialysis.
+She underwent two sessions of dialysis, and subsequently responded to well diuresis with furosemide and metolazone.
+Pt was started on daily diuretic therapy since she seemed to consistently develop LE edema & basilar crackles on lung exam when not recieving diuretics.
+Then changed to labetalol drip before converting to PO labetalol and being transfered to the floor.
+After trying numerous combinations the following meds seemed to control her pressure adequately: labetolol, hydralazine, nifedipine, and clonidine (initially PO then patch).
+Of note, pt's oral clonidine was tapered during the transition to the clonidine patch; however, she should be monitored for rebound hypertension as the taper has just been completed.
+A tunneled catheter was placed for dialysis, which was performed twice with good effect.
+-Pt's potassium was noted to be rising following cath (from 3.3 to 5.1 over two days).
+Has improved to 4.7 on loop diuretic.
+## ID: Pt was diagnosed with a foley catheter-associated UTI and treated with 10-day course of ceftriaxone 1 g IV qd because she has a levofloxacin allergy.
+## DM:  Pt was on NPH 7 qAM/7 qPM along with RISS.
+Since she had been requiring an additional 8units of insulin on top of her NPH at 7qAM/7qPM, we increased her NPH to 14 qAM / 7 qPM upon discharge.
+Her glyburide was held given her renal failure.
+Overtime, her Hct improved, and the sub-capsular hematoma was found to be stable on repeat imaging.
+We started her on Zoloft 50mg/day [**2112-8-17**].
+## Activity: pt worked with physical therapy on a few occasions during hospitalization.
+She will benefit from wound care and improved ambulation.
+Hydralazine 50 mg PO QD 2.
+Hydrochlorothiazide 25 mg PO DAILY 3.
+Metoprolol Tartrate 50 mg PO TID 4.
+Clopidogrel 75 mg PO DAILY 5.
+Atorvastatin 20 mg PO DAILY 6.
+Glyburide 10 mg PO DAILY 7.
+Aspirin 325 mg PO DAILY 8.
+Insulin N 10U QD 10.
+Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed.
+Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q4-6H (every 4 to 6 hours) as needed.
+Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Labetalol 200 mg Tablet Sig: Four (4) Tablet PO BID (2 times a day): Please hold if HR < 60 or SBP <100.
+Nifedipine 90 mg Tablet Sustained Release Sig: One (1) Tablet Sustained Release PO DAILY (Daily): Please hold if SBP <100.
+Hydralazine 50 mg Tablet Sig: One (1) Tablet PO QID (4 times a day): Please hold if SBP <100.
+Epoetin Alfa 4,000 unit/mL Solution Sig: One (1)  Injection QMOWEFR (Monday -Wednesday-Friday).
+Clonidine 0.3 mg/24 hr Patch Weekly Sig: One (1) patch Transdermal once a week: Please apply every Monday, and change site of patch with each application.
+Bumetanide 0.5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Oxycodone-Acetaminophen 5-325 mg Tablet Sig: One (1) Tablet PO every six (6) hours as needed for pain.
+Ipratropium Bromide 17 mcg/Actuation Aerosol Sig: Two (2) Puff Inhalation Q4-6H (every 4 to 6 hours) as needed.
+Insulin NPH Human Recomb 100 unit/mL Cartridge Sig: One (1) Subcutaneous twice a day: 14units in the AM  7units in the PM.
+Zoloft 25 mg Tablet Sig: Two (2) Tablet PO once a day: Watch for signs of suicidality, as this is a new medication for the pt.
+Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs Inhalation Q6H (every 6 hours) as needed.
+Discharge Disposition: Extended Care  Facility: [**Hospital1 2670**] - [**Location (un) **]  Discharge Diagnosis: Hypertensive urgency renal artery instent restenosis renal subcapuslar hematoma CHF Acute on chronic renal insufficiency   Discharge Condition: Stable   Discharge Instructions: If pt spikes a fever or if WBC is increasingly elevated, check a U/A and urine culture.

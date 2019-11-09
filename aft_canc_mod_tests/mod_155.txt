@@ -1,0 +1,56 @@
+He had seen his cardiologist on the day of admission for this complaint and his cardiologist advised him to go to the hospital for evaluation because he felt his exam at the time was consistent with ischemia vs. cellulitis.
+Given both his history of DM type II and CAD/PVD, the patient was admitted for IV antibiotics and further workup of his R toe pain.
+CAD s/p MI, cath [**2121**] with failed PTCA/stent RCA complicated by dissection and on IVBP 3.
+Right hip fx 5.
+Lung CA s/p RUL lobectomy [**2131**], mediastinoscopy 8.
+NHL on scalene biopsy 9.
+Family History: NC  Physical Exam: VS - T 98.1, BP 117/62, HR 73, RR 20, sats 99% on RA Gen: NAD.
+Pertinent Results: LABS on admission: WBC 7.6, Hct 42.7, MCV 89, Plt 182 (DIFF: Neuts-79.5* Lymphs-14.6* Monos-4.6 Eos-0.9 Baso-0.4) PT 12.7, PTT 26.8, INR(PT) 1.1 Na 138, K 5.6, Cl 104, HCO3 23, BUN 33, Cr 1.3, Glu 139 .
+CARDIAC ENZYMES: [**2135-4-21**] 09:40AM BLOOD CK(CPK)-38 CK-MB-NotDone cTropnT-0.01 [**2135-4-21**] 05:00PM BLOOD CK(CPK)-40 CK-MB-NotDone [**2135-4-22**] 12:50AM BLOOD CK(CPK)-36 CK-MB-NotDone [**2135-4-24**] 12:33PM BLOOD CK-MB-NotDone cTropnT-<0.01 (proBNP-12,026*) [**2135-4-26**] 02:55AM BLOOD CK-MB-3 (proBNP-6878*) .
+ABG: [**2135-4-24**]: 7.06/94/62/28/6, AADO2 558, REQ O2 90, FiO2 98%, not intubated [**2135-5-1**]: 7.48/42/145/32/7 .
+LABS on discharge: WBC 10.0, Hct 36.1, MCV 88, Plt 230 Na 136, K 4.4, Cl 100, HCO3 30, BUN 29, Cr 1.1, Glu 132 Ca 7.9, Mg 2.2, Ph 3.3 Albumin 2.7 .
+MICRO: BCx [**4-20**] - negative Wound cx (R 3rd toe) [**4-21**] - heavy MSSA MRSA screen, rectum and nasal [**4-25**] - negative UCx [**4-25**] - negative Rectal swab [**4-25**]- + for VRE BAL [**4-28**] - 10,000-100,000 pansensitive Pseudomonas DFA [**4-28**] - negative DFA and viral Cx Blood cx [**4-29**] - no growth Urine cx [**4-29**] - no growth Blood cx [**5-1**] - no growth Urine cx [**5-1**] - no growth Wound tip cx [**5-2**] - no growth MRSA screen [**5-2**] - negative Urine cx [**5-3**] - no growth Blood cx [**5-4**] - pending SC line cx [**5-4**] - no growth Stool cx [**5-5**] - neg for C diff Stool cx [**5-6**] - neg for C diff .
+STUDIES: PFTs ([**2132-3-14**]): FVC 2.58 (77%), FEV1 1.83 (83%), FEV1/FVC 107%, MMF 1.09 (52%) .
+Foot X-ray ([**4-21**]): no bone erosion .
+MRA LEs ([**4-22**]): 1.
+CXR ([**4-23**]): New moderate-sized left and probable small right pleural effusions.
+Dedicated PA and lateral chest radiograph may be helpful for initial further assessment when the patient's condition permits .
+CXR ([**4-24**]): Perihilar and basilar opacities are likely due to pulmonary edema.
+Head CT ([**4-24**]): No evidence of acute intracranial hemorrhage or other acute process.
+ECHO ([**4-25**]): Overall left ventricular systolic function is mildly to moderately depressed with inferior akinesis and basal infero-septal and infero-lateral hypokinesis.
+EF 40%.
+CXR ([**4-27**]): Interval improvement in right middle and upper lobe opacities, likely representing improved pulmonary edema .
+CXR ([**4-28**]): Worsening pulmonary edema with moderate bilateral pleural effusions.
+CXR ([**4-30**]): Endotracheal tube is 8 cm above carina.
+CXR ([**5-1**]): The superior portion of the chest is obscured by the flexed neck and chin.
+CXR ([**5-3**]): No endotracheal tube present.
+His exam at the time was felt to be consistent with ischemia or cellulitis.
+He was started on IV antibiotics (kefzol and flagyl) and a wound culture grew MSSA.
+XR showed no evidence of osteomyelitis.
+Noninvasive vascular studies were performed as the patient was a known vasculopath and it was assumed that an intervention would need to be performed to preserve his toe.
+EKG was unchanged from priors.
+It was decided to electively intubate him as his RR was in the 30s-40s and his sats were only in the low 90s on a NRB.
+He was sedated and CT of his chest and head were performed to look for causes of his SOB.
+CT of his head revealed no intracranial pathology, and the CTA was negative for PE, but did reveal that he had pleural effusions.
+BNP was elevated at the time, so he was given additional lasix.
+Serial ABGs at the time revealed 7.35/43/63/25/-1 (post-extubation) -> 7.08/81/62/-8 (during his distress) -> 7.28/41/246/-6(post intubation).
+On [**2135-4-25**], a TTE was performed which revealed left ventricular systolic function of ~40%, which was considered to be moderately depressed with inferior akinesis and basal infero-septal and infero-lateral hypokinesis.
+An NGT was inserted and tubefeeds were started.
+Cardiac enzymes were cycled x3 and were negative.
+On [**2135-4-28**], a bronchoscopy was performed for further evaluation of his copious, thick, blood-tinged secretions and to see if there is an anatomical reason that Mr. [**Known lastname **] was unable to be weaned off the vent.
+BAL culture results were significant for gram negative rods, raising the concern for ventilator associated pneumonia.
+In the MICU, his antibiotics were broadened to cover for Pseudomonas in his sputum (with levaquin and ceftazidime) and he was given vancomycin for gram positive cocci from his R toe (which turned out to be MSSA).
+He was able to maintain his oxygenation with 40-50% FiO2 by shovel mask.
+# PNEUMONIA: He underwent a BAL on [**2135-4-28**] which grew a pansensitive Pseudomonas.
+CXR showed that he still has small residual pleural effusions that are resolving.
+Stool studies were sent x2 and were negative for C diff.
+He was started on flagyl for empiric treatment of C. diff and cultures were followed.
+Stool cultures were sent, including C diff toxin B, which was still pending upon discharge.
+He was given beta-blocker for his tachycardia, but in the ICU, there was concern that the beta-blocker was worsening his wheezing and COPD, so it was discontinued.
+His attending recommended increasing the beta-blockade if possible, but his blood pressure was on the lower side, so he was maintained on metoprolol 75mg PO TID with adequate rate control.
+MRA showed moderate to severe atherosclerotic disease, but no surgical intervention was planned during this admission due to his tenous respiratory status.
+# FEN: In the ICU, he had an NGT through which he was given tube feeds.
+His electrolytes were checked daily and were repleted prn.
+Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: One (1) Tablet PO DAILY (Daily).
+BP 122/64, HR 78.
+RR 20, sats 95% on 2L   Discharge Instructions: Please take all your medications as prescribed.

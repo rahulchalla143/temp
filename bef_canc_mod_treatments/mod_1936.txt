@@ -1,0 +1,42 @@
+Admission Date:  [**2134-11-25**]              [**Month/Day/Year **] Date:   [**2134-11-29**]  Date of Birth:  [**2087-8-23**]             Sex:   M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**Last Name (NamePattern4) 290**] Chief Complaint: Oxygen desaturation at nursing facility  Major Surgical or Invasive Procedure: None  History of Present Illness: 47yo male with asthma, dCHF, complex sleep disorder/OSA, hypoventilation syndrome requiring 3-4L at baseline presenting from respiratory rehab with sats in the 70s on room air coming up to 85% with nasal cannula.
+He was recommended tracheostomy to stabilize breathing but refused.
+CXR showed possible pneumonia at the left base, so he was started on vanc/levo and given nebs.
+Complex sleep disorder on bipap at night with severe nocturnal and daytime hypoxia related to hypoventiliation 2.
+Brief Hospital Course: Mr. [**Known lastname 732**] is a 47 year-old man with complex sleep disorder/OSA, hypoventilation syndrome requiring 3-4L O2 at baseline who was sent to the emergency department after an oxygen desaturation at his nursing facility.
+The patient was at respiratory rehab due to a history of complex sleep disorder and frequent desaturations into the 80% range.
+CXR showed possible pneumonia at the left base, and he was started on vanc/levo.
+Antibiotics were not continued.
+The patient's BiPap settings were titrated to 22/18 and he was diuresed further with a lasix drip.
+He tolerated BiPap well.
+He will be discharged directly from the [**Hospital Unit Name 153**] back to rehab with plans to continue BiPap and continuous O2 supplementation.
+Schizophrenia - Continued on home medication regimen of risperidal, doxepin and carbamazepine.
+Will be discharged on 80mg [**Hospital1 **] furosemide and 2.5mg metolazone.
+Asthma - Continued on home albuterol and ipratropium nebs .
+Transitional Issues: 1) Follow-up with nursing facility to ensure patient is receiving continuous O2 supplementation and BiPap appropriately.
+2) Sleep medicine consult 3) Pulmonary medicine [**Hospital1 648**]  Medications on Admission: 1. doxepin 10 mg Capsule Sig: One (1) Capsule PO at bedtime.
+2. metoprolol tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 times a day).
+3. omeprazole 20 mg Capsule, Delayed Release(E.C.)
+4. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Risperdal 4 mg Tablet Sig: One (1) Tablet PO twice a day.
+6. carbamazepine 200 mg Tablet Sig: One (1) Tablet PO QID (4 times a day).
+7. benztropine 0.5 mg Tablet Sig: One (1) Tablet PO once a day as needed for dystonia.
+8. furosemide 40 mg Tablet Sig: Two (2) Tablet PO BID (2 times a  day).
+9. ipratropium bromide 0.02 % Solution Sig: One (1)  Inhalation Q6H (every 6 hours) as needed for shortness of breath or wheezing.
+10. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1) neb Inhalation every six (6) hours as needed for shortness of breath or wheezing.
+11. potassium chloride 20 mEq Packet Sig: Two (2)  PO once a day.
+[**Hospital1 **] Medications: 1. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1)  Inhalation Q6H (every 6 hours).
+2. ipratropium bromide 0.02 % Solution Sig: One (1)  Inhalation Q6H (every 6 hours).
+3. doxepin 10 mg Capsule Sig: One (1) Capsule PO HS (at bedtime).
+4. metoprolol tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 times a day).
+5. omeprazole 20 mg Capsule, Delayed Release(E.C.)
+6. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+7. risperidone 2 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day).
+8. carbamazepine 200 mg Tablet Sig: One (1) Tablet PO QID (4 times a day).
+9. benztropine 0.5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily) as needed for dystonia.
+10. furosemide 80 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Disp:*60 Tablet(s)* Refills:*2* 11. metolazone 2.5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+BiPap Setting Please continue BiPap ventilation whenever sleeping at a setting of 22/18.
+In the hospital we gave you additional oxygen through a nasal cannula and placed you on a BiPap machine.
+The settings of your BiPap machine were modified so that you would be more comfortable and have fewer episodes of low blood oxygen.
+See below for changes to your home medication regimen: 1) Please CHANGE your Lasix dosing from 40mg to 80mg twice daily 2) Please START Metolazone 2.5mg daily 3) Please weigh yourself every morning and call your PCP if your weight goes up more than 3 lbs .
+See below for instructions regarding follow-up care:  Followup Instructions: Department: MEDICAL SPECIALTIES- Mask Fitting When: Wednesday [**2134-12-1**] at 1:00PM With: [**Doctor First Name **] [**First Name8 (NamePattern2) **] [**Name8 (MD) **], MD [**Telephone/Fax (1) 612**] Building: KSB 23, [**Hospital Ward Name 860**] basement Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage  Department: MEDICAL SPECIALTIES- Sleep Medicine When: THURSDAY [**2134-12-2**] at 10:00 AM With: [**Doctor First Name **] [**First Name8 (NamePattern2) **] [**Name8 (MD) **], MD [**Telephone/Fax (1) 612**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage  Dr. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 5533**] ([**Telephone/Fax (1) 3581**]) WHEN: FRIDAY [**12-3**] 2:00PM [**Last Name (un) 103308**], [**Numeric Identifier 18406**]  Department: PULMONARY FUNCTION LAB When: THURSDAY [**2134-12-30**] at 3:40 PM With: PULMONARY FUNCTION LAB [**Telephone/Fax (1) 609**] Building: [**Hospital6 29**] [**Location (un) **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage  Department: MEDICAL SPECIALTIES When: THURSDAY [**2134-12-30**] at 4:00 PM With: DR. [**Last Name (STitle) **]/DR.

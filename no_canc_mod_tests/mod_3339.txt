@@ -1,0 +1,56 @@
+Admission Date:  [**2154-11-27**]              Discharge Date:   [**2155-1-4**]  Date of Birth:  [**2115-4-10**]             Sex:   M  Service: MEDICINE  Allergies: Bactrim Ds  Attending:[**First Name3 (LF) 1943**] Chief Complaint: Abdominal pain  Major [**First Name3 (LF) 2947**] or Invasive Procedure: EGD with biopsy [**2154-12-2**] ERCP [**2154-12-9**] EGD [**2154-12-12**]  History of Present Illness: 39 year old male with advanced HIV/AIDS discharged home s/p exploratory laparotomy and lysis of adhesions for small bowel obstruction on [**2154-11-11**] performed by Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] now returns with one day history of abdominal pain similar to the original SBO presentation.
+Past Medical History: Past Medical History: 1) HIV/AIDS: dx [**2137**]; (last CD4 24 [**11-4**], Viral load 92,000 copies/ml).
+2) Hepatitis B virus infection; never treated and currently asymptomatic.
+6) chronic diarrhea, treated for blastocystis hominis [**9-1**] 7) s/p appendiceal abscess drainage/appendectomy in [**10/2151**] 8) SBO in [**10/2151**] -> lyses of adhesions/appendectomy [**10/2151**] 9) CNS toxoplasmosis: right basal ganglia lesion, initially responding to therapy, but developed progressive dx in setting of medical non-compliance; 10) Pancytopenia 11) s/p exploratory laparotomy and LOA [**2154-11-11**] 12) Cryptosporidium  Social History: Has a long-term partner.
+Pertinent Results: On Admission: [**2154-11-27**] 11:50AM URINE  COLOR-Amber APPEAR-Hazy SP [**Last Name (un) 155**]-1.036* [**2154-11-27**] 11:50AM URINE  [**Month/Day/Year 3143**]-TR NITRITE-NEG PROTEIN-150 GLUCOSE-NEG KETONE-NEG BILIRUBIN-SM UROBILNGN-NEG PH-6.5 LEUK-TR [**2154-11-27**] 11:50AM URINE  RBC-0-2 WBC-[**2-28**] BACTERIA-MANY YEAST-NONE EPI-0-2 [**2154-11-27**] 10:00AM   GLUCOSE-105 UREA N-26* CREAT-0.7 SODIUM-147* POTASSIUM-3.9 CHLORIDE-114* TOTAL CO2-21* ANION GAP-16 [**2154-11-27**] 10:00AM   ALT(SGPT)-52* AST(SGOT)-60* ALK PHOS-102 TOT BILI-0.8 [**2154-11-27**] 10:00AM   LIPASE-88* [**2154-11-27**] 10:00AM   ALBUMIN-4.5 [**2154-11-27**] 10:00AM   WBC-9.2# RBC-4.23* HGB-12.4* HCT-37.8* MCV-89 MCH-29.2 MCHC-32.7 RDW-16.6* [**2154-11-27**] 10:00AM   NEUTS-76.2* LYMPHS-17.7* MONOS-4.9 EOS-0.7 BASOS-0.5 [**2154-11-27**] 10:00AM   PLT COUNT-485* [**2154-11-27**] 09:47AM   TYPE-ART COMMENTS-GREEN TOP [**2154-11-27**] 09:47AM   LACTATE-2.1*  Other Pertinent Labwork: [**2154-11-29**] 04:49AM [**Month/Day/Year 3143**]  WBC-4.7 Lymph-19 Abs [**Last Name (un) **]-893 CD3%-77 Abs CD3-689 CD4%-3 Abs CD4-30* CD8%-72 Abs CD8-642 CD4/CD8-0.1*  [**2154-11-27**] ECG: Sinus tachycardia.
+Compared to the previous tracing of [**2151-11-27**] the rate has increased.
+Intervals Axes: Rate PR QRS QT/QTc P QRS T 131 132 94 304/428 67 68 71  [**2154-11-27**] CXR: No acute cardiopulmonary process.
+[**2154-11-27**] ABD/PELVIC CT W/CONTRAST: 1.
+Fluid-filled colon and majority of small bowel with multiple air-fluid levels seen, but without small or large bowel dilatation.
+Followup chest CT in 12 months advised.
+MR HEAD W & W/O CONTRAST [**2154-11-29**]: Since the previous study of [**2153-9-21**], the left basal ganglia abnormality demonstrates decrease in size and decrease in enhancement.
+Gastric antrum/pylorus, mucosal biopsy: [**2154-12-2**] 1.
+C. parvuum also noted from stool O & P exam dated [**2154-12-1**].
+CHEST (PA & LAT) [**2154-12-6**]: Comparison with the previous study of [**2154-12-3**].
+The posterior chest is not entirely included on the lateral view.
+MICROBIOLOGY:  [**Month/Day/Year **] Cultures from [**11-27**], [**12-1**] (includin mycolytic), [**12-2**], [**12-3**], [**12-4**], [**12-6**], [**12-7**], [**12-11**] showed no growth.
+[**2154-12-4**] 1:41 pm [**Month/Day/Year 3143**] CULTURE      Source: Venipuncture.
+CAMPYLOBACTER CULTURE (Final [**2154-11-30**]):    NO CAMPYLOBACTER FOUND.
+CLOSTRIDIUM DIFFICILE TOXIN A & B TEST (Final [**2154-11-28**]):       Feces negative for C.difficile toxin A & B by EIA.
+CAMPYLOBACTER CULTURE (Final [**2154-12-3**]):    NO CAMPYLOBACTER FOUND.
+OVA + PARASITES (Final [**2154-12-2**]):       This test does not reliably detect Cryptosporidium, Cyclospora or       Microsporidium.
+FECAL CULTURE - R/O VIBRIO (Final [**2154-12-3**]):    NO VIBRIO FOUND.
+FECAL CULTURE - R/O YERSINIA (Final [**2154-12-3**]):    NO YERSINIA FOUND.
+FECAL CULTURE - R/O E.COLI 0157:H7 (Final [**2154-12-3**]):       NO E.COLI 0157:H7 FOUND.
+CLOSTRIDIUM DIFFICILE TOXIN A & B TEST (Final [**2154-12-2**]):       Feces negative for C.difficile toxin A & B by EIA.
+GRAM STAIN (Final [**2154-12-2**]):       NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.
+Due to mixed bacterial types (>=3) an abbreviated workup is       performed; P.aeruginosa, S.aureus and beta strep.
+ANAEROBIC CULTURE (Final [**2154-12-6**]):    NO ANAEROBES ISOLATED.
+ACID FAST CULTURE (Preliminary):    ACID FAST SMEAR (Final [**2154-12-3**]):       NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR.
+FUNGAL CULTURE (Final [**2154-12-16**]):    NO FUNGUS ISOLATED.
+**FINAL REPORT [**2154-12-9**]**    URINE CULTURE (Final [**2154-12-8**]):       ESCHERICHIA COLI.
+SENSITIVITIES: MIC expressed in MCG/ML _________________________________________________________                              ESCHERICHIA COLI                              | AMPICILLIN------------     8 S AMPICILLIN/SULBACTAM--     4 S CEFAZOLIN-------------   <=4 S CEFEPIME--------------   <=1 S CEFTAZIDIME-----------   <=1 S CEFTRIAXONE-----------   <=1 S CIPROFLOXACIN---------   =>4 R GENTAMICIN------------   <=1 S MEROPENEM-------------<=0.25 S NITROFURANTOIN--------  <=16 S PIPERACILLIN/TAZO-----   <=4 S TOBRAMYCIN------------   <=1 S TRIMETHOPRIM/SULFA----  =>16 R  Brief Hospital Course: General Surgery Service [**2154-11-27**] - [**2154-12-3**]:  The patient was admitted to the General [**Month/Day/Year 2947**] Service on [**2154-11-27**] for evaluation and treatment of the aforementioned problem.
+Admission abdominal/pelvic CT demonstrated findings consistent with a partial gastric outlet obstruction.
+Given his history of advanced AIDS off anti-retroviral therapy and CNS toxoplasmosis, a head MRI with and wihtout contrast was performed, which demonstrated decrease size in the left basal ganglia abnormality and decrease in enhancement compared to a previous MRI performed on [**2153-9-21**].
+Initial ECG noted sinus tachycardia without ectopy.
+Pulmonary: [**2154-11-27**] CXR was unremarkable.
+The patient remained stable from a pulmonary standpoint; vital signs were routinely monitored.
+The NG tube, placed at admission, was removed when the patient underwent EGD on [**2154-12-2**].
+Repeat stool studies were sent.
+Biopsies and cultures were sent as requested.
+Last viral markers performed [**11-4**] revealed a CD4 count of 24 with a viral looad of 92,000 copies/mL.
+Repeat CD4 30(3%).
+Standard and Mycolytic cultures, CMV vial load, crytococcal Ag, and standard and specialized stool analyses including cryptosporidium, microsporidium, AFB, isoporidium were again sent.
+Tissue biopsy, cytology, cultures for gram stain, aerobic culture, anaerobic culture, AFB smear and culture, fungal culture, and KOH prep form the EGD performed on [**2154-12-2**] were sent.
+Urine culture from [**12-4**] also grew cipro resistant E Coli and he completed 7 day course of Ceftriaxone ([**12-8**] - [**12-14**]).
+A lumbar puncture was performed and serum antigen negative, CSF antigen negative, suggesting that he does not have disseminated infection.
+Even though he has had chronic productive cough without new changes, multiple CXR done during this admission were without evidence of PNA.
+A CT showed high grade small-bowel obstruction with a potential transition point in the right lower quadrant.
+After aggressive volume resuscitation, the patient had improving kidney function with baseline creatinine of 1.3.
+Neuroexam was nonfocal throughout hospitalization without evidence of meningismus  Patient had both MRI of his brain as well as an IR guided LP ([**2154-12-4**]) that were reassuring and did not show evidence of disseminated crypto.
+RML 3 mm pulmonary nodule A CT scan performed during his hospitalization revealed an incidental 3mm pulmonary nodule in the right middle lobe.
+He will need repeat CT scan in 12 months.
+milliliters 4.
+Ondansetron HCl (PF) 4 mg/2 mL Solution Sig: One (1) injection injection Injection Q8H (every 8 hours) as needed for nausea.
+Discharge Disposition: Extended Care  Facility: [**Hospital3 1107**] [**Hospital **] Hospital - [**Location (un) 38**]  Discharge Diagnosis: Diarrhea/gastritis/duodenitis due to Cryptosporidium parvum HIV/AIDS Partial gastric outlet obstruction Acute renal failure Urinary tract infection Small Bowel Obstruction Depression Bacteremia Malnutrition  Discharge Condition: Mental Status:Clear and coherent Level of Consciousness:Alert and interactive Activity Status:Ambulatory - requires assistance or aid (walker or cane)  Discharge Instructions: You were admitted to [**Hospital1 69**] with abdominal pain, nausea/vomitting and diarrhea.
+Followup Instructions: Provider: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 8753**], MD Phone:[**Telephone/Fax (1) 1387**] Date/Time:[**2154-12-31**] 9:00 Provider: [**Name10 (NameIs) **] [**Doctor Last Name 18974**], MD Phone:[**Telephone/Fax (1) 457**] Date/Time:[**2155-1-20**] 11:00

@@ -1,0 +1,82 @@
+Admission Date:  [**2197-8-13**]              Discharge Date:   [**2197-8-24**]  Date of Birth:  [**2129-4-5**]             Sex:   M  Service: MEDICINE  Allergies: Amoxicillin  Attending:[**First Name3 (LF) 633**] Chief Complaint: Hypoxia, cough  Major Surgical or Invasive Procedure: G-tube clogging, replacement with 22F foley   History of Present Illness: 68 year old male with stage II-III esophageal cancer receiving treatment with chemoradiation and recently admitted from [**2197-8-3**] to [**2197-8-8**] for cycle #4 cisplatin/5FU who presents from [**Hospital 7137**] with hypoxia and tachycardia.
+During his prior admission, he tolerated his chemo well although was noted to refuse exams and vital signs frequently.
+He was given 2.5L NS, Duonebs x2, Vancomycin 1 gm IV, Metronidazole 500 mg IV, Levofloxacin 750 mg IV, and Tylenol 650 mg x1.
+[**2197-4-5**]: Placement of 2 tracheal stents by IP.
+[**2197-4-13**]: left portacath, open G-tube, tracheal stent replacement by thoracic surgery.
+[**2197-4-17**]: Cycle #1 cisplatin/5FU, radiation initiated.
+[**2197-5-17**]: Cycle #2 cisplatin/5FU.
+[**2197-5-30**]: XRT finished.
+[**2197-7-6**]: Cycle #3 cisplatin/5FU.
+[**2197-8-3**]: Cycle #4 cisplatin/5FU.
+- Tracheostomy at 3 years of age for PNA.
+- Appendectomy [**2162**].
+Physical Exam: Admission Physical Exam: (on arrival to the ICU, patient deferred a complete evaluation) Vitals: T 98.1, BP 88/60, HR 102, RR 20, SpO2 100% on 4L NC General: Pale and chronically ill appearing.
+MICROBIOLOGY: [**2197-8-15**] SPUTUM GRAM STAIN-FINAL; RESPIRATORY CULTURE-FINAL INPATIENT [**2197-8-14**] SPUTUM GRAM STAIN-FINAL; RESPIRATORY CULTURE-FINAL INPATIENT [**2197-8-13**] MRSA SCREEN MRSA SCREEN-FINAL INPATIENT [**2197-8-13**] BLOOD CULTURE Blood Culture, Routine-FINAL EMERGENCY [**Hospital1 **] [**2197-8-13**] BLOOD CULTURE Blood Culture, Routine-FINAL EMERGENCY [**Hospital1 **] .
+CXR [**8-14**]- IMPRESSION: Progressive infrahilar left greater than right opacification could relate to either aspiration and/or infection, with superimposed component of atelectasis.
+[**8-15**] CXR-FINDINGS: As compared to the previous radiograph, the extent of the right and left basal and perihilar parenchymal opacities, likely to reflect pneumonia, are unchanged.
+Brief Hospital Course: 68 year old male who presents with hypoxia and tachycardia and was found to have presumed aspiration pneumonia and hyponatremia in the setting of stage II-III esophageal cancer receiving treatment with chemoradiation and recently admitted from [**2197-8-3**] to [**2197-8-8**] for cycle #4 cisplatin/5FU.
+# Hypoxia: In the emergency department, the patient had O2 saturation in the low 80s and required supplemental oxygen with a face mask.
+He was rapidly weaned to 4L NC over the first day of his stay in the ICU.
+The first night in the ICU he again desaturated to the low 80s and required face mask for several hours.
+The second day in the ICU his cough and oxygenation improved, and he was maintained on nasal cannula between 2-4L.
+Treatment included antibiotics for presumed pneumonia (as below), hydration, and pulmonary hygiene to assist mucus clearance.
+He was continued on broad spectrum antibiotics.
+His hypoxia resolved while on treatment for the pneumonia.
+Given his significant secretions, and his deferral of mouth care at times in his course, it is likely that he aspirates intermittently.
+Antibiotics were started to cover possible sources of infection (vancomycin and cefepime).
+Flagyl was then added for anaerobic coverage.
+He did not have recurrence of hypotension, but did require IV fluids for hyponatremia related to presumed dehydration at a later point in his hospital stay.
+His white count rapidly dropped to normal while on IV antibiotics for the pneumonia, and continued therapy for his [**Name (NI) 29218**] persistent infection.
+Pt did have increase in diarrhea while on antibiotic therapy.
+For this, vancomycin was increased to 500mg q6 while on IV abx therapy.
+Plan is to decrease to 125mg QID for 2 weeks after IV therapy ends.
+A Foley catheter was in place throughout his stay.
+Viscous lidocaine was helpful at times of significant pain, although was not required as improved mouth care was achieved.
+# C.diff colitis: The patient was started on PO vancomycin for C difficile colitis on his prior admission.
+Therapy was continued as an outpatient.
+This was continued during his stay, with a targeted 14 day course of therapy from the last day of antibiotic treatment.
+His dose was increased to 500mg qid during his admission, when his diarrhea was noted to increase in frequency and there was concern for the need for ongoing IV antibiotics which could be worsening his [**Name (NI) 29218**].
+Pt should be given IV fluids (normal saline) to meet goals prn.
+The amount of water in his tube feed flushes was monitored, as were his electrolytes.
+# Depression/Insomnia/Anhedonia:  On admission, the patient initially refused most medical care including vital signs, turning, and medications.
+His home regimen of citalopram, Ritalin, and trazodone was continued throughout his stay.
+Pt was given oxycodone and tylenol for pain control.
+CT scan showed redemonstration of a cervical esophageal mass posterior to the thyroid and endoluminal soft tissue attenuation in the proximal trachea at distal end of tracheal stent concerning for tumor and secretions.
+# Pain:  The patient's outpatient regimen of fentanyl patch and oxycodone liquid was continued.
+# Nutrition: The patient's outpatient tube feeds were continued.
+Tubefeeding: Start After 12:01AM; Nutren 2.0 Full strength; Starting rate: 30 ml/hr; Advance rate by 10 ml q4h Goal rate: 50 ml/hr Residual Check: q4h Hold feeding for residual >= : 200 ml Flush w/ 150 ml water q6h .++can consider speech and swallow exam at rehab, if indicated++  # FEN: IVF boluses as needed, replete electrolytes, Tube feeds # Prophylaxis: Subcutaneous heparin, pneumoboots # Access: peripherals/port-a-cath # Communication: Patient # Code: DNR/DNI # Disposition: to rehab today.
+TRANSITIONAL: CONTINUING OF ANTIBIOTICS THROUGH [**8-26**].
+Medications on Admission: Vancomycin 125 mg PO TID per G tube Neupogen 300 mcg IJ daily for 7 days (begin [**2197-8-9**] pm) DuoNeb (0.5 mg-3 mg) IH Q6H PRN SOB or wheezing [**Month/Day/Year 32316**] 0.4 mg PO QHS per G tube Omeprazole 20 mg PO BID per G tube Zofran (4 mg/5 mL) [**5-16**] ml PO TID PRN nausea per G tube Prochlorperazine 5-10 mg PO Q6H PRN nausea per G tube Bismuth subsalicylate (262 mg/15 ml) 15-30 mL PO QID PRN per G tube Calcium carbonate (500 mg/5 mL) 5 ml PO TID PRN per G tube Lactobacillus acidophilus 1 cap PO BID per G tube Scopolamine 1.5 mg Patch 2 patches Q72H Citalopram 20 mg PO daily per G tube Methylphenidate 20 mg PO BID per G tube Trazodone 25 mg PO QHS per G tube Fentanyl 75 mcg/hr Patch one patch Q72H Oxycodone (5 mg/5 mL) 5 ml PO Q4H PRN pain Caphosol 30 mL ORAL TID Swish and spit Multivitamin (Liquid) PO daily   Discharge Medications: 1. cefepime 2 gram Recon Soln [**Month/Year (2) **]: Two (2) grams Intravenous three times a day for 3 days: Last day of therapy is [**8-26**].
+2. vancomycin 1,000 mg Recon Soln [**Month/Year (2) **]: One (1) gram Intravenous twice a day for 3 days: last day [**8-26**].
+3. vancomycin 125 mg Capsule [**Month/Year (2) **]: One (1) Capsule PO Q6H (every 6 hours) for 14 days: continue for 14 days after finishing other antibiotics.
+6. metronidazole 500 mg Tablet [**Month/Day (2) **]: One (1) Tablet PO Q8H (every 8 hours) for 3 days: last day is [**8-26**].
+7. bismuth subsalicylate 262 mg/15 mL Suspension [**Month/Year (2) **]: 15-30 mL PO four times a day as needed for indigestion.
+8. calcium carbonate 500 mg/5 mL (1,250 mg/5 mL) Suspension [**Month/Year (2) **]: Five (5) ml PO three times a day as needed for heartburn.
+9. lactobacillus acidophilus 700 million cell Capsule [**Month/Year (2) **]: One (1) Capsule PO twice a day.
+10. scopolamine base 1.5 mg Patch 72 hr [**Month/Year (2) **]: One (1) Patch 72 hr Transdermal EVERY 3 DAYS (Every 3 Days).
+11. citalopram 10 mg/5 mL Solution [**Month/Year (2) **]: Twenty (20) ml PO DAILY (Daily).
+12. methylphenidate 10 mg Tablet [**Month/Year (2) **]: Two (2) Tablet PO BID (2 times a day).
+13. trazodone 50 mg Tablet [**Month/Year (2) **]: 0.5 Tablet PO HS (at bedtime) as needed for insomnia.
+14. fentanyl 75 mcg/hr Patch 72 hr [**Month/Year (2) **]: One (1) Patch 72 hr Transdermal Q72H (every 72 hours).
+15. oxycodone 5 mg/5 mL Solution [**Month/Year (2) **]: Five (5) ml PO Q4H (every 4 hours) as needed for pain.
+16. saliva substitution combo no.2     Solution [**Month/Year (2) **]: Thirty (30) ML Mucous membrane TID (3 times a day).
+17. lidocaine HCl 2 % Solution [**Month/Year (2) **]: Twenty (20) ML Mucous membrane TID (3 times a day) as needed for mouth pain.
+18. lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: One (1) Tablet,Rapid Dissolve, DR [**Last Name (STitle) **] DAILY (Daily).
+19. docusate sodium 50 mg/5 mL Liquid [**Last Name (STitle) **]: Ten (10) ml PO BID (2 times a day).
+20. senna 8.8 mg/5 mL Syrup [**Last Name (STitle) **]: [**5-16**] mL PO BID (2 times a day) as needed for Constipation.
+21. bisacodyl 5 mg Tablet, Delayed Release (E.C.)
+22. vancomycin 250 mg Capsule [**Month/Year (2) **]: Two (2) Capsule PO every six (6) hours: from [**Date range (1) **].
+23. acetaminophen 650 mg/20.3 mL Solution [**Date range (1) **]: 325-650 mg PO Q8H (every 8 hours) as needed for pain.
+Zofran 4 mg/5 mL Solution [**Date range (1) **]: One (1)  PO three times a day.
+Port flush Heparin Flush (10 units/ml) 5 mL IV PRN line flush Indwelling Port (e.g.
+Portacath), heparin dependent: Flush with 10 mL Normal Saline followed by Heparin as above daily and PRN per lumen.
+You were treated with antibiotics and you symptoms improved.
+In addition, you were treated for a C.diff (diarrhea) infection.
+You will need to take this antbiotic for 2 weeks after your IV antibiotics stop.
+Your original tube was clogged and moved, and the first replacement tube had a balloon that broke.
+You have a 22 french tube in place currently.
+Your medications have been changed.
+*****  You have been started on oral vancomycin for diarrhea.
+You have also been started on viscous lidocaine for mouth pain and a bowel regimen to prevent constipation while you are on the pain regimen with oxycodone and fentanyl.
+Please continue to take all other medications as previously prescribed.
+Followup Instructions: Department: RADIOLOGY / PET SCAN When: MONDAY [**2197-8-28**] at 2:00 PM Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 861**] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage Must be NPO 4 hours prior including tube feeds, no need for PET diet or contrast  Department: HEMATOLOGY/ONCOLOGY When: THURSDAY [**2197-8-31**] at 11:30 AM With: [**Name6 (MD) **] [**Name8 (MD) 831**], MD [**0-0-**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 24**] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage  Department: HEMATOLOGY/ONCOLOGY When: THURSDAY [**2197-8-31**] at 11:30 AM With: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] [**Telephone/Fax (1) 22**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 24**] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage

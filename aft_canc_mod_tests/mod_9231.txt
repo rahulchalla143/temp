@@ -1,0 +1,27 @@
+At [**Hospital6 7486**] his hematocrit was 24, platelets [**2112**].
+Last CBC taken at that hospital on [**2116-7-6**], revealed hematocrit of 31 and platelets of 101,000.
+Peripheral blood smear revealed a single, normal appearing platelet without clumps or schistocytes.
+Repeat labs confirmed hematocrit of 24 and platelets of [**2112**].
+Physical Exam: On admission temperature 98.6, t-max 99.1, heart rate 104, blood pressure 143/67, 100 percent on 2 liters.
+Lungs clear to auscultation bilaterally.
+EKG normal sinus rhythm, normal axis, first degree AV block, 3 with Q wave and inverted T wave.
+Chest x-ray from [**Hospital3 **], AP and lateral, appeared within normal limits, no infiltrates, cardiomegaly or lymphadenopathy.
+Labs on admission white count 10.8, hematocrit 23.7, platelets less than 5, MCV 103.
+INR 1.2.
+Creatinine 1.4.
+Amylase and lipase were normal.
+Pertinent Results: Labs on Admission:  [**2116-7-15**] 09:34PM   GLUCOSE-209* UREA N-34* CREAT-1.4* SODIUM-142 POTASSIUM-4.6 CHLORIDE-108 TOTAL CO2-19* ANION GAP-20 [**2116-7-15**] 09:34PM   ALT(SGPT)-12 AST(SGOT)-16 LD(LDH)-194 ALK PHOS-42 AMYLASE-57 TOT BILI-0.4 [**2116-7-15**] 09:34PM   LIPASE-15 [**2116-7-15**] 09:34PM   ALBUMIN-4.2 CALCIUM-8.3* PHOSPHATE-3.3 MAGNESIUM-1.9 [**2116-7-15**] 09:34PM   HAPTOGLOB-86 [**2116-7-15**] 09:34PM   WBC-10.8 RBC-2.29* HGB-8.0* HCT-23.7* MCV-103* MCH-34.8* MCHC-33.7 RDW-15.4 [**2116-7-15**] 09:34PM   NEUTS-57 BANDS-1 LYMPHS-42 MONOS-0 EOS-0 BASOS-0 ATYPS-0 METAS-0 MYELOS-0 [**2116-7-15**] 09:34PM   HYPOCHROM-1+ ANISOCYT-2+ POIKILOCY-2+ MACROCYT-2+ MICROCYT-1+ POLYCHROM-2+ OVALOCYT-2+ STIPPLED-1+ TEARDROP-2+ [**2116-7-15**] 09:34PM   PLT SMR-RARE PLT COUNT-<5* [**2116-7-15**] 09:34PM   PT-13.5* PTT-21.1* INR(PT)-1.2 [**2116-7-15**] 09:34PM   FIBRINOGE-280 D-DIMER-1010*  Brief Hospital Course: 1) Thrombocytopenia.
+The patient had a bone marrow biopsy which showed the presence of sparse megakaryocytes which looked normal, but low in number.
+CT scan showed a normal sized spleen with a small infarct.
+By the end of his admission he was requiring approximately one bag of platelets per day to keep his count in the 40's.
+After 24 hours his count would drift down to the 20's.
+The patient was initially transfused with a goal hematocrit of 25.
+At this time he has not had a colonoscopy, but once his platelet count improves and he is discharged, he should be seen by gastroenterology in followup for further workup of his GI bleeding.
+Once the Foley was changed and the counts were kept at a level above 50, the hematuria resolved.
+3)CLL: Bone marrow biopsy did not suggest disease transformation.
+By the end of admission, pt's creatinine was stable in the normal range between 0.8 and 1.
+His blood sugar remained stable by the end of the admission and steroid dose was decreased.
+Release 24HR(s)* Refills:*2* 8.
+Return to [**Hospital Ward Name 600**] of [**First Name8 (NamePattern2) **] [**First Name4 (NamePattern1) 10444**] [**Last Name (NamePattern1) **] Medical center [**Hospital Ward Name 1836**] building [**Location (un) 336**] on [**Last Name (LF) 7290**], [**8-9**] and [**Last Name (LF) 228**], [**8-10**] for blood draws and possible transfusions.
+Followup Instructions: Return to [**Hospital Ward Name 600**] of [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 10444**] [**Last Name (NamePattern1) **] Medical center [**Hospital Ward Name 1836**] building [**Location (un) 336**] on [**Last Name (LF) 7290**], [**8-9**] and [**First Name3 (LF) 228**], [**8-10**] for blood draws and possible transfusions.
+[**First Name8 (NamePattern2) **] [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] MD [**MD Number(1) 2212**]  Completed by:[**2116-8-8**

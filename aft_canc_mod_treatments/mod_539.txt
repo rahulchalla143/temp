@@ -1,0 +1,48 @@
+Admission Date:  [**2137-4-26**]              Discharge Date:   [**2137-6-5**]  Date of Birth:  [**2072-11-26**]             Sex:   M  Service: MEDICINE  Allergies: Morphine  Attending:[**First Name3 (LF) 2880**] Chief Complaint: abd distension/leg swelling  Major Surgical or Invasive Procedure: Transesophageal Echocardiogram on [**2137-4-26**] Paracentesis on [**2137-4-29**] and [**2137-5-2**] EGD on [**2137-5-1**], [**2137-5-7**], [**2137-5-17**] Colonoscopy [**2137-5-17**] Transjugular liver biopsy on [**2137-5-3**]   History of Present Illness: 64 year old patient of [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 73**] who lives part time in the [**Country 13622**] and part time in the US, just returned from the [**Country 13622**].
+At [**Hospital6 33**], he was started on ceftriaxone and azithro which was switched to Vancomycin, Gent, Ampicillin, Azithro after ID was consulted.
+Patient does not know what medications he takes at home, and has pill bottles of truvada and zerit.
+Troponin 0.08, CK negative.
+HIV (VL 175 on [**2135-6-21**])- on HAART 2.
+MVR [**2131**] w/ cabg 5. left thoracotomy [**8-5**] for pleural effusion 6. cord compression/spinal stenosis w/ c4-c6 laminectomy and decompression [**10-7**] 7.
+Family History: Non-contributory  Physical Exam: VS - 96.6F  HR 67  145/70  16  100%/2L 205lbs Gen: awake, alert, NAD HEENT: PERRL, anicteric, OP clear, no evidence of thrush, small area of erythema under tongue Neck: supple, no LAD, JVP 9cm CV: regular, S1, mech S2, soft systolic murmur Pulm: Crackles bilaterally [**2-6**] way up with exp wheeze Abd: (+) BS, distended, firm, mild, diffuse TTP, no rebound or guarding Ext: WWP, 2+ LE edema b/l, 1+ DP pulse b/l skin: no rash  Pertinent Results: TEE ECHOCARDIOGRAM [**2137-4-26**]: The left atrium is dilated.
+A bileaflet mitral valve prosthesis is present.
+CT TORSO [**2137-4-27**]: TECHNIQUE: Contiguous axial CT images of the chest, abdomen, and pelvis are obtained with the administration of intravenous contrast [**Doctor Last Name 360**], 130 cc of Optiray.
+CHEST: The patient is status post CABG with median sternotomy.
+The patient is post mitral valve replacement.
+LIVER ultrasound with dopplers [**2137-4-27**]: 1.
+COLONOSCOPY [**2137-5-17**]:  Impression: Grade 1 internal hemorrhoids Otherwise normal colonoscopy to cecum.
+Brief Hospital Course: 64 year old male with CAD s/p CABG and mech mitral valve [**2131**], HIV+ CD4 50, DM2, transferred from outside hospital with CHF, Enterococcal endocarditis, and ascites.
+Sensitivities from the outside hospital indicated sensitive to PCN and vancomycin, with high resistance to Gentamicin and streptomycin.
+ID was consulted for further management and recommended changing to ampicillin and ceftriaxone, based on sensitivities done at [**Hospital1 18**].
+The first day of these medications is [**4-29**], and he is to continue these medications for 8-12 weeks as directed by infectious disease, with whom he will follow up.
+Of note, OSH TTE showed possible aortic (and not mitral) vegetation which was not seen on TEE here.
+He was started on PPI iv bid.
+This lesion was reclipped, and it was decided to hold his heparin and coumadin to achieve a period of 24 hours completely off anticoagulation to see if this lesion would clot.
+Heparin was restarted on the evening of [**6-3**] and his hematocrit was stable >31 after a day.
+He should be started on Warfarin starting tonight at 5mg but of note, he required high doses to be therapeutic in the past (9mg).
+He will start back on Warfarin on the evening of [**6-4**] at 5mg and recheck PT/INR daily and trend up to therapeutic before discontinuing Heparin.
+He should continue on protonix 40 mg [**Hospital1 **] until instructed otherwise.
+Given his persistent anemia, he was started on erythropoetin 8,000 units per week as well as iron.
+4) CHF: Echo at the outside hospital revealed EF 45-50%, which is likely underestimated in the setting of mitral regurgitation.
+He was diuresed aggressively initially, and ultimately restarted on PO lasix 80 mg daily, which maintained an even fluid balance.
+He should continue lasix, however dose should be increased if he is consistently gaining weight.
+He was also continued on lisinopril 5 mg daily for afterload reduction, spironolactone 50 mg daily, and metoprolol XL 75 mg daily.
+He was already on ceftriaxone for his endocarditis, and cultures were without growth, making an infectious etiology unlikely.
+He tolerated these without any difficulty, without any creatinine elevations.
+He will continue on lasix 80 mg daily, spironolactone 50 mg daily.
+He had an effusion that was tapped, revealing calcium pyrophosphate crystals consistent with pseudogout (no evidence of septic arthritis).
+If this pain recurrs could use colchicine 0.6 mg daily (decreased dose for renal failure).
+He was continued on coumadin for anticoagulation, with heparin drip while subtherapeutic (he always needs to be anticoagulated with heparin bridge while INR < 2.5 given structural AF in the setting of mitral regurgitation and high risk of embolus).
+7) Mechanical mitral valve:  His INR subtherapeutic for the majority of the hospitalization and his coumadin was held at various times for procedures.
+CD4 count 50 at outside hospital.
+Bactrim DS was started for PCP [**Name Initial (PRE) 1102**].
+Azithromycin for MAC prophylaxis will be considered as an outpatient (once acid fast cultures from peritoneal fluid are known to be negative).
+9) DM:  Continued insulin sliding scale and monitored finger sticks.
+It is unclear if the patient is on a medical regimen as an outpatient for this.
+Meformin is contraindicated given his creatinine, and thiazolidenediones are difficult in the setting of CHF (fluid retention).
+For now, continue insulin sliding scale.
+11) Access:  He had a PICC placed on [**5-1**], confirmed in good position by CXR and in working order.
+Patient states he was taking coumadin, he also had bottles of truvada and zerit on admission to OSH.
+You will be at rehab in order to received your IV antibiotics for another 4-6 weeks or so - the duration of the course will be determined by your infectious disease doctors.
+You have a follow-up appointment scheduled with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], [**Telephone/Fax (1) 673**], in transplant surgery clinic for consideration of peritoneal biopsy: Date/Time:[**2137-6-14**] 2:20p.m.
+You have a follow-up appointment scheduled in the Infectious Disease Clinic with [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 13632**], MD Phone:[**Telephone/Fax (1) 457**] Date/Time:[**2137-6-24**] 10:30                                [**First Name11 (Name Pattern1) 900**] [**Last Name (NamePattern1) 2882**] MD, [**MD Number(3) 2883**]

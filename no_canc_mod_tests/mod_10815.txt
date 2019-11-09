@@ -1,0 +1,22 @@
+She uses an insulin pump and has been taking her insulin and bolusing frequently, but finger stick blood glucose remained in the high 300s to low 400s, so she became concerned that that she was in DKA.
+She denies recent illness, fevers, diarrhea, [**Name13 (STitle) **], shortness of breath, chest pain, abdominal pain, rashes, dysuria, URI symptoms, or sick contacts.
+In the ED, initial vital signs were: T 97 HR 102 BP 116/75 RR 20 O2 sat 98% RA, pain 10.
+On admission, finger stick blood glucose was 349.
+Labs were notable for serum glucose of 383, urinalysis with 1000 glucose and 150 ketones.
+Lactate was 2.1.
+Lytes were notable for potassium of 5.1, bicarb of 14 and AG of 20.
+White count of 11.0 with a left shift.
+On arrival to the MICU, vital signs were T 98.4 HR 103 BP 99/43 RR 20 O2 100% .
+Finger stick blood glucose was 228 on arrival to the [**Hospital Unit Name 153**].
+Physical Exam: Admission Physical Exam: Vitals: T 98.4 HR 103 BP 99/43 RR 20 O2 100% General: Alert, oriented, no acute distress HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL Neck: supple, JVP not elevated, no LAD CV: Regular rate and rhythm, normal S1 + S2, II/VI systolic ejection murmur loudest at the base, no rubs or gallops Lungs: Clear to auscultation bilaterally, no wheezes, rales, rhonchi Abdomen: soft, non-tender, non-distended, bowel sounds present, no organomegaly, no rebound or guarding GU: no foley Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema Neuro: CNII-XII intact, 5/5 strength upper/lower extremities, grossly normal sensation, 2+ reflexes bilaterally, gait deferred.
+Pertinent Results: Admission labs: [**2175-10-7**] 06:00PM BLOOD WBC-11.0 RBC-4.44 Hgb-14.8 Hct-45.1 MCV-102* MCH-33.3* MCHC-32.7 RDW-11.9 Plt Ct-450* [**2175-10-7**] 06:00PM BLOOD Neuts-91.6* Lymphs-7.2* Monos-0.6* Eos-0.2 Baso-0.3 [**2175-10-7**] 06:00PM BLOOD Glucose-383* UreaN-28* Creat-0.9 Na-136 K-5.1 Cl-102 HCO3-14* AnGap-25 [**2175-10-7**] 06:00PM BLOOD Calcium-9.8 Phos-5.2* Mg-2.1 [**2175-10-8**] 12:28AM BLOOD Type-[**Last Name (un) **] pO2-194* pCO2-28* pH-7.27* calTCO2-13* Base XS--12 Comment-GREEN TOP [**2175-10-7**] 06:15PM BLOOD Lactate-2.1*     Micro: None  Studies: [**2175-10-7**] CXR: The heart size is normal.
+VBG was notable for pH 7.27 and CO2 28.
+Unlikely infectious given that she is afebrile without any localizing symptoms, no dysuria, clean urinalysis (other than glucose and ketones), no rashes, no recent illness or sick contacts, no [**Name2 (NI) **] and clear chest x-ray.
+As her serum glucose fell below 200, she was transitioned to D5 water with prn boluses of NS.
+Potassium remained within the range of 4.5 to 5.0 with repletion.
+She remained hyperglycemic on these settings, [**First Name8 (NamePattern2) **] [**Last Name (un) **] recommended increasing her basal rate to 0.9 units/hr, i:[**Doctor Last Name **] to 1:12 and CF to 35.
+Information was obtained from Patient.
+Ibuprofen 800 mg PO Q8H:PRN pain 3.
+Ibuprofen 800 mg PO Q8H:PRN pain 2.
+You were also given several liters of fluid and your blood sugars came back down to normal.
+Department: ORTHOPEDICS When: MONDAY [**2175-10-23**] at 10:00 AM With: ORTHO XRAY (SCC 2) [**Telephone/Fax (1) 1228**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 551**] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage  Department: SPINE CENTER When: MONDAY [**2175-10-23**] at 10:20 AM With: [**First Name4 (NamePattern1) 1141**] [**Last Name (NamePattern1) 4983**], NP [**Telephone/Fax (1) 8603**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 551**] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage  Department: [**Hospital3 249**] When: MONDAY [**2175-11-13**] at 3:45 PM With: [**Name6 (MD) **] [**Name8 (MD) 10918**], MD [**Telephone/Fax (1) 2010**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 895**] Central [**Hospital **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage NOTE:   Dr [**Last Name (STitle) **] is a resident and your new physician in [**Name9 (PRE) 191**].

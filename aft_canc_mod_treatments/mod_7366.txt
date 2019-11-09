@@ -1,0 +1,54 @@
+Admission Date:  [**2158-6-17**]              Discharge Date:   [**2158-6-25**]  Date of Birth:  [**2088-1-21**]             Sex:   M  Service: MEDICINE  Allergies: aspirin / Heparin Agents  Attending:[**First Name3 (LF) 3256**] Chief Complaint: Urosepsis, aspiration pneumonia  Major Surgical or Invasive Procedure: none  History of Present Illness: Mr. [**Known lastname 18825**] is a 70 year-old male with history of bladder cancer, CKD IV, PVD s/p b/l LE amputations, [**Hospital **] transferred from [**Hospital1 **] at patient's request following admission for fever to 102 and back pain, where patient was found to have pyelonephritis.
+Patient was started on zosyn and received NS.
+A code blue was called, but patient was not intubated during the event as he is DNI.
+He required frequent suctioning for copious secretions.
+Added vancomycin to antibiotic regimen.
+Past Medical History: Bladder cancer (high grade TCC) s/p transurethral resection of a bladder tumor and stent placement peripheral vascular disease with history of aortobifemoral bypass graft and now s/p Left BKA, right AKA diabetes coronary artery disease tobacco dependence Crohn's disease hypertension hypercholesteremia stage IV CKD anemia Depression BPH HIT antibody positive recurrent UTIs with MRSA/VRE in urine  Social History: retired, previously worked as a postal worker.
+Physical Exam: Exam upon admission: Vitals: T: 97.8 BP: 114/65 P: 69 R: 15 O2: 99% on NRB General: Alert, oriented, wearing nonrebreather, in no acute distress HEENT: Sclera anicteric, EOMI, PERRL Neck: supple, JVP not elevated, no LAD CV: Regular rate and rhythm, distant heart sounds, no murmurs appreciated Lungs: Diffuse rhonchi, bilateral crackles worse on right Abdomen: soft, non-tender, non-distended, bowel sounds present, no organomegaly GU: no foley Ext: left BKA, right AKA, stumps well healed, warm and well perfused, no edema Neuro: CNII-XII grossly intact, Alert, oriented, moving all extremities  Pertinent Results: Labs upon admission:  Serum [**2158-6-17**] 09:50PM BLOOD WBC-23.7*# RBC-2.92* Hgb-7.5* Hct-24.4* MCV-84 MCH-25.7* MCHC-30.8* RDW-17.2* Plt Ct-294 [**2158-6-17**] 09:50PM BLOOD Neuts-93.7* Lymphs-3.5* Monos-2.7 Eos-0.1 Baso-0.1 [**2158-6-17**] 09:50PM BLOOD PT-16.5* PTT-28.1 INR(PT)-1.6* [**2158-6-17**] 09:50PM BLOOD Glucose-159* UreaN-37* Creat-2.1* Na-147* K-3.7 Cl-113* HCO3-20* AnGap-18 [**2158-6-17**] 09:50PM BLOOD ALT-19 AST-31 AlkPhos-47 TotBili-0.3 [**2158-6-18**] 03:00AM BLOOD CK(CPK)-93 [**2158-6-17**] 09:50PM BLOOD cTropnT-0.64* [**2158-6-18**] 03:00AM BLOOD CK-MB-6 cTropnT-0.52* [**2158-6-17**] 09:50PM BLOOD Calcium-8.2* Phos-3.2 Mg-1.9 [**2158-6-19**] 02:19PM BLOOD Vanco-23.5* [**2158-6-17**] 09:53PM BLOOD Type-[**Last Name (un) **] pO2-44* pCO2-44 pH-7.33* calTCO2-24 Base XS--2 [**2158-6-17**] 09:53PM BLOOD Lactate-1.2 [**2158-6-17**] 09:53PM BLOOD O2 Sat-76 .
+Urine  [**2158-6-17**] 09:50PM URINE Color-Yellow Appear-Cloudy Sp [**Last Name (un) **]-1.014 [**2158-6-17**] 09:50PM URINE Blood-LG Nitrite-NEG Protein-30 Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-LG [**2158-6-17**] 09:50PM URINE RBC-99* WBC->182* Bacteri-FEW Yeast-NONE Epi-0 [**2158-6-17**] 09:50PM URINE WBC Clm-MANY [**2158-6-19**] 04:20PM URINE Color-YELLOW Appear-Cloudy Sp [**Last Name (un) **]-1.014 [**2158-6-19**] 04:20PM URINE Blood-LG Nitrite-NEG Protein-100 Glucose-TR Ketone-10 Bilirub-NEG Urobiln-NEG pH-5.5 Leuks-LG [**2158-6-19**] 04:20PM URINE RBC->182* WBC->182* Bacteri-FEW Yeast-NONE Epi-0 [**2158-6-19**] 04:20PM URINE WBC Clm-MANY Mucous-OCC .
+IMAGING: -[**2158-6-24**] CXR:  FINDINGS:  There is a new left-sided PICC line with tip in the low SVC.
+IMPRESSION:  Patent basilic and cephalic veins bilaterally, with diameters as described above.
+Brief Hospital Course: 70 year-old gentleman with history of bladder cancer with bilateral ureteral stents, CKD Stage IV, PVD s/p b/l LE amputations, CAD who was transferred to [**Hospital1 18**] MICU from [**Hospital1 **] with MRSA pyelonephritis, likely aspiration pneumonia with acidosis and hypoxia, and NSTEMI thought to be due demand ischemia in setting of infection.
+CXR showed RLL pneumonia (required Bipap at OSH, but discontinued on arrival to [**Hospital1 18**]).
+In the ICU, he was treated with vancomycin and zosyn (latter changed to cefepime) to cover both urinary and respiratory pathogens.
+His outpatient urologist Dr. [**Last Name (STitle) 91657**] was contact[**Name (NI) **] who recommended bilateral ureteral stent exchange.
+His condition remained stable and he had PICC line placed for nafcillin treatment (commenced after completion of an 8-day course of linezolid/cefepime for aspiration PNA, per ID recs).
+Concern was for complicated cystitis/pyelonephritis as patient has bladder cancer and ureteral stents.
+Patient was empirically treated with zosyn and vancomycin at OSH.
+Per ID, we started nafcillin (d1=[**6-24**]) for 14-day course for ongoing treatment of MSSA UTI.
+Plan was for urology to perform ureteral stent exchange on [**6-23**], but procedure held [**2-23**] SBP's in 200s.
+He was d/c'd on a total 14-day course of nafcillin to treat the MSSA.
+# aspiration pneumonia or pneumonitis: This was likely the cause of his dyspnea/hypoxia, and R-sided infiltrate was seen on CXR at OSH.
+Patient initially required non-invasive ventilation for respiratory acidosis and required frequent suctioning for secretions.
+It is unclear what precipitated the aspiration event; possibilities include narcotics as the patient was receiving IV morphine Q2H.
+He completed a course for HCAP coverage with Cefepime (d1 = [**6-18**], treated for 8 day course), and linezolid (switched from vanc on [**6-22**] per VRE in urine and ID recs).
+On metoprolol, lisinopril, simvastatin at home.
+Following acute decompensation at OSH, patient with elevated troponin at OSH to 6.46.
+Aspirin allergy not real (upset stomach) so okay to receive.
+We continued ASA 81mg daily, simvastatin, beta blocker.
+PICC line was placed for naficillin treatment (PICC can be d/c'd after final infusion of naficllin).
+Prior to PICC placement, pt was eval'd by renal eval regarding possible HD access; renal requested b/l UE venous mapping and recommended PICC placement on dominant (pt's LEFT) arm.
+Recent exposure to broad spectrum abx, significant WBC elevation not responding to appropriate treatment for pneumonia.
+Flexiseal was placed due to high vol stool in non-ambulatory pt; loperamide given negative cdif, and diarrhea improved quickly thereafter.
+# Hypertension: Had to increase metoprolol given NSTEMI, as well as Nifedipine and lisinopril 20mg daily.
+Possibly in setting of normal saline administration.
+Got 1 unit of PRBCs at [**Hospital1 18**] and Hct remained stable.
+# DM: Patient with insulin dependent DM.
+# HL: Continued simvastatin 40 mg daily  # Depression: Continued Sertraline 125 mg daily .
+Patient to receive infusion services, to get Nafcillin 2g IV q6hrs x 13 days for a total 2week course.
+Patient's PICC line can be d/c'd after final infusion is given.
+Medications on Admission: Ferumoxytol 510 mg per 17 mL Vitamin D 50,000 units weekly metoprolol succinate 25 mg daily Oxycodone-Acetaminophen 5-325 mg TID PRN pain Lorazepam 0.5 mg Oral Tablet [**Hospital1 **] PRN anxiety Nifedipine 60 mg Oral Tablet Extended Release daily Ferrous Sulfate 325 mg (65 mg iron), 2 tablets daily Lisinopril 20 mg daily Lantus 18 units qHS Sertraline 125 mg daily Trazodone 50 mg Oral Tablet Simvastatin 40 mg Oral Tablet  Discharge Medications: 1. nafcillin 2 gram Recon Soln Sig: Two (2) grams Intravenous every six (6) hours for 13 days.
+3. ergocalciferol (vitamin D2) 50,000 unit Capsule Sig: One (1) Capsule PO once a week.
+4. metoprolol succinate 50 mg Tablet Extended Release 24 hr Sig: One (1) Tablet Extended Release 24 hr PO once a day.
+Disp:*30 Tablet Extended Release 24 hr(s)* Refills:*2* 5. oxycodone-acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO every eight (8) hours as needed for pain for 10 days.
+Disp:*30 Tablet(s)* Refills:*0* 6. lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO twice a day as needed for anxiety.
+7. nifedipine 90 mg Tablet Extended Release Sig: One (1) Tablet Extended Release PO DAILY (Daily).
+Disp:*30 Tablet Extended Release(s)* Refills:*2* 8. ferrous sulfate 325 mg (65 mg iron) Tablet Sig: Two (2) Tablet PO once a day.
+9. lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2* 10. insulin glargine 100 unit/mL (3 mL) Insulin Pen Sig: Eighteen (18) units Subcutaneous at bedtime.
+11. sertraline 50 mg Tablet Sig: 2.5 Tablets PO DAILY (Daily).
+12. simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+13. lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig: [**1-23**] Adhesive Patch, Medicateds Topical DAILY (Daily) as needed for pain.
+Disp:*30 Patch 24 hr(s)* Refills:*2* 15. loperamide 2 mg Capsule Sig: One (1) Capsule PO QID (4 times a day) as needed for diarrhea.
+Disp:*30 Capsule(s)* Refills:*0* 16. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+The following changes were made to your medications: NEW: none  CHANGED: -Metoprolol INCREASED to 50mg daily -Nifedipine INCREASED to 90mg daily -Lisinopril INCREASED to 20mg daily  STOPPED: none  Please keep your follow-up appointments as scheduled below.

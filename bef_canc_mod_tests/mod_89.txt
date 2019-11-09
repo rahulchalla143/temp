@@ -1,0 +1,24 @@
+Physical Exam: Exam on discharge: VS Gen NAD, alert CV RRR Pulm Abd soft, NT, ND, incision c/d/i, staples intact, no erythema of wound Ext wwp, no edema   Pertinent Results: Labs on admission: [**2115-12-30**] 03:43PM   LACTATE-1.7 [**2115-12-30**] 08:21PM   PT-12.5 PTT-20.9* INR(PT)-1.1 [**2115-12-30**] 03:20PM   GLUCOSE-127* UREA N-32* CREAT-1.7* SODIUM-141 POTASSIUM-4.4 CHLORIDE-105 TOTAL CO2-27 ANION GAP-13 [**2115-12-30**] 03:20PM   ALT(SGPT)-15 AST(SGOT)-23 ALK PHOS-40 TOT BILI-0.5 [**2115-12-30**] 03:20PM   LIPASE-34 [**2115-12-30**] 03:20PM   ALBUMIN-4.2 [**2115-12-30**] 03:20PM   WBC-8.0 RBC-4.62# HGB-13.7* HCT-43.9 MCV-95 MCH-29.7 MCHC-31.2 RDW-14.0 [**2115-12-30**] 03:20PM   NEUTS-82.7* LYMPHS-12.9* MONOS-3.2 EOS-1.2 BASOS-0.1 [**2115-12-30**] 03:20PM   PLT COUNT-217  Labs on discharge: [**2116-1-8**] 06:30AM BLOOD WBC-11.5* RBC-3.78* Hgb-11.6* Hct-35.9* MCV-95 MCH-30.5 MCHC-32.2 RDW-14.3 Plt Ct-282 [**2116-1-8**] 06:30AM BLOOD Glucose-81 UreaN-22* Creat-1.4* Na-138 K-4.4 Cl-98 HCO3-31 AnGap-13 [**2116-1-8**] 06:30AM BLOOD Calcium-8.6 Phos-3.4 Mg-2.1  Cardiac labs: [**2115-12-31**] 05:30PM BLOOD CK(CPK)-87 [**2116-1-1**] 02:15AM BLOOD CK(CPK)-130 [**2116-1-1**] 08:45AM BLOOD CK(CPK)-132 [**2116-1-3**] 07:59AM BLOOD CK(CPK)-288 [**2116-1-3**] 05:25PM BLOOD CK-MB-6 cTropnT-0.06* [**2116-1-3**] 07:59AM BLOOD CK-MB-6 cTropnT-0.05* [**2116-1-2**] 08:50PM BLOOD CK-MB-8 cTropnT-0.07* [**2116-1-1**] 08:45AM BLOOD CK-MB-4 cTropnT-0.03* [**2116-1-1**] 02:15AM BLOOD CK-MB-4 cTropnT-0.03* [**2115-12-31**] 05:30PM BLOOD CK-MB-NotDone cTropnT-0.02*  Imaging: CT abd/pelvis [**2115-12-30**]: 1.
+CXR [**2115-12-30**]: 1.
+CXR [**2116-1-2**]: 1.
+KUB [**2116-1-3**]: 1.
+CXR [**2116-1-6**]: In comparison with study of [**1-2**], there is decrease in the pulmonary vascular congestion with persistent bibasilar atelectasis.
+CXR [**2116-1-7**]: In comparison with the study of [**1-6**], the patient has taken a somewhat better inspiration.
+Brief Hospital Course: The patient presented to the [**Hospital1 18**] emergency department on [**2115-12-30**] for evaluation and treatment of abdominal pain, nausea, and vomiting.
+Given his worsening exam and CT findings of high-grade SBO with potential internal hernia, the patient was taken to the operating room.
+EKG at that time showed sinus rhythm with frequent ventricular premature beats.
+Compared to the previous tracing of [**2115-12-30**] there was no significant diagnostic change.
+Cardiac enzymes were negative x 3.
+Electrolytes were checked and repleted, and he was reoriented frequently.
+His urine output was borderline, and he was bolused with moderate response.
+CXR showed mild pulm edema, bibasilar atelectasis, and left pleural effusion.
+An NGT was placed with immediate return of copious gastric contents.
+KUB showed diffuse small bowel distention with gas seen within the colon and rectum, nonspecific pattern.
+CXR showed atelectasis.
+Follow-up CXR showed atelectasis.
+CV: As discussed in the hospital course; intermittent episodes of Vtach not needing intervention; vital signs were routinely monitored.
+ID: The patient's white blood count and fever curves were closely watched for signs of infection.
+Hematology: The patient's complete blood count was examined routinely; no transfusions were required.
+Medications on Admission: Aggrenox 1 tab daily Glipizide 2.5mg daily Pioglitazone 15mg daily coreg 12.5mg [**Hospital1 **] Rosuvastatin 10mg daily Levothyroxine 112mcg PO daily Gabapentin 300mg [**Hospital1 **] Fe 325 daily Vit D [**Numeric Identifier 1871**] units twice monthly Calcitriol 0.25mg daily Vit B12 1000mcg daily Spiriva handihaler daily Flunisolide nasal spray 2 sprays per nostril daily Tiotroprium bromide 18mcg daily Atropine 0.025mg q6h prn Ciclopirox 0.077% prn Albuterol 90mcg 2 puffs q4h prn  Discharge Medications: 1.
+Provider: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD Phone:[**Telephone/Fax (1) 721**] Date/Time:[**2116-4-29**] 10:00  Provider:  [**Name10 (NameIs) 676**] CLINIC Phone:[**Telephone/Fax (1) 62**] Date/Time:[**2116-4-29**] 11:00  Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1008**], M.D.
+Phone:[**Telephone/Fax (1) 62**] Date/Time:[**2116-4-29**] 1:40

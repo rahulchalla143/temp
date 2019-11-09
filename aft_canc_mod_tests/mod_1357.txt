@@ -1,0 +1,22 @@
+Admission Date:  [**2108-12-25**]              Discharge Date:   [**2108-12-29**]  Date of Birth:  [**2051-6-10**]             Sex:   M  Service: MEDICINE  Allergies: Vicodin / Penicillins  Attending:[**First Name3 (LF) 6701**] Chief Complaint: GIB  Major Surgical or Invasive Procedure: EGD  History of Present Illness: 57 year old male with chronic AF on coumadin, diastolic dysfunction with LVEF 55%, CHF, past HTN, cirrhosis with portal HTN & CLL in remission who was sent into [**First Name8 (NamePattern2) **] [**Last Name (un) **] cardiologist noted a Hct drop to 18 from baseline in mid-30s during routine labs.
+INR 3.5 .
+weight gain with 3-4+ leg edema with more SOB & fatigue while at heart failure clinic.
+His routine labs were drawn today and when Hct drop, he was instructed by cardiologist to go to ED.
+His weight is 14 pounds above his dry weight, but denies any dietary indiscretion, chest pain, changes in meds.
+EGD performed showed no active bleeding but grade 2 varices banded just in case.
+Received 2u FFP, 5u pRBCs and HCT from 17 - 24.
+CT abd showed no RP bleed.
+His hematocrit remained stable stable until discharge.
+They felt his anemia was due to a combination of splenic sequestration, alcoholic bone marrow suppression and possibly a very small chronic GI bleed.
+After discharge from the MICU, his hematocrit was monitored and remained stable.
+A repeat echo showed mild LVH, preserved EF.
+His spironolactone and nadolol were initially held out of concern for a GIB but were restarted after the EGD.
+His INR was therapeutic prior to discharge.
+# ARF: His creatinine was 1.9 on admission with a baseline of 0.9.
+FULL CODE   Medications on Admission: ASA 81 coumadin 6 mg every other day; 5 mg other days Lasix 80 [**Hospital1 **] (increaased 10 days ago from 40 [**Hospital1 **]) lisinopril 2.5 daily Digoxin 0.25 daily PPI Nadolol 20 daily Pravastatin 10 daily aldactone 50 mg daily   Discharge Medications: 1.
+Discharge Instructions: You were admitted because your blood count was very low.
+You received blood transfusions, and your blood count was stable therefater.
+In addition, you had an upper endoscopy and had some veins in your esophagus blocked off.
+It is worsening your liver disease and affecting your ability to produce red blood cells.
+Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight > 3 lbs.
+You should also have your INR checked early this week.

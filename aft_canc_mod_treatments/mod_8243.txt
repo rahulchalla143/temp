@@ -1,0 +1,55 @@
+Admission Date:  [**2127-7-1**]              Discharge Date:   [**2127-7-9**]  Date of Birth:  [**2050-7-12**]             Sex:   F  Service: MEDICINE  Allergies: lobster / Penicillins / Sulfa(Sulfonamide Antibiotics)  Attending:[**First Name3 (LF) 2024**] Chief Complaint: abdominal pain  Major Surgical or Invasive Procedure: None   History of Present Illness: 76 yo F with cholangiocarcinoma s/p modified classical whipple with portal vein reconstruction and J-tube placement ([**2127-4-7**]) presents to the ER from rehab with a clogged J-tube and abdominal pain.
+Her J-tube was unclogged and she was given a PO challenge, with subsequent vomiting of undigested food.
+She was given vancomycin and cefepime and transferred to the [**Hospital Unit Name 153**] for SIRS and hypotension.
+Past Medical History: PMH: cholangiocarcinoma, recurrent pancreatitis, intermittent afib, HTN, HLD, anxiety, R pulmonary nodule, rheumatic fever in childhood  PSH: whipple ([**3-27**]) appendectomy, lap cholecystectomy, umbilical/incisional hernia repair, bilateral TKR, rectal prolapse x 3 with surgical correction, L salpingo-oopherectomy for cyst   Social History: SHe previously lived alone.
+L sided rales [**1-17**] way up ABD: Soft, bowel sounds present, tender over R side near J tube and in RUQ, slightly distended and tympanic MSK: normal muscle tone and bulk EXT: + non-pitting edema biltarally, 2+ DP/PT bilaterally SKIN: No rash, warm skin NEURO: oriented x 3, normal attention, CN II-XII intact, [**4-19**] strength throughout, intact sensation to light touch PSYCH: frustrated but appropriate  Discharge: VS: T 97.7 BP 110/50 HR 70 RR 20 O2sat 93% on RA GEN: Elderly woman in NAD, awake, alert, pleasant HEENT: EOMI, sclera anicteric, conjunctivae clear, dentures, OP moist and without lesion NECK: Supple, no JVD CV: Reg S1, S2.
+ABD: Soft, normoactive bowel sounds, slightly tender over R side near J tube site, otherwise nontender, nondistended, no rebound or guarding MSK: normal muscle tone and bulk EXT: 1+ non-pitting edema biltarally, 2+ DP/PT bilaterally SKIN: No rash, warm skin NEURO: oriented x 3, normal attention, CN II-XII intact, [**4-19**] strength throughout, intact sensation to light touch, normal gait and balance PSYCH: appropriate   Pertinent Results: Admission Labs: [**2127-7-1**] 01:15AM BLOOD WBC-2.7* RBC-2.96* Hgb-9.3* Hct-27.1* MCV-92 MCH-31.3 MCHC-34.2 RDW-16.5* Plt Ct-205# [**2127-7-1**] 01:15AM BLOOD Neuts-70.0 Lymphs-26.5 Monos-3.0 Eos-0.3 Baso-0.2 [**2127-7-1**] 01:15AM BLOOD PT-10.9 PTT-25.1 INR(PT)-1.0 [**2127-7-1**] 01:15AM BLOOD Glucose-98 UreaN-14 Creat-0.5 Na-141 K-3.6 Cl-104 HCO3-30 AnGap-11 [**2127-7-1**] 01:15AM BLOOD ALT-33 AST-25 AlkPhos-81 TotBili-0.3 [**2127-7-1**] 01:15AM BLOOD Albumin-3.6 Calcium-8.8 Phos-4.1 Mg-2.0 [**2127-7-1**] 01:25AM BLOOD Lactate-0.7  Discharge Labs: [**2127-7-8**] 06:20AM BLOOD WBC-5.3 RBC-2.88* Hgb-8.5* Hct-27.1* MCV-94 MCH-29.7 MCHC-31.6 RDW-17.8* Plt Ct-705* [**2127-7-8**] 06:20AM BLOOD Glucose-91 UreaN-5* Creat-0.5 Na-144 K-4.0 Cl-111* HCO3-28 AnGap-9 [**2127-7-6**] 07:10AM BLOOD ALT-12 AST-14 AlkPhos-94 TotBili-0.2 [**2127-7-8**] 06:20AM BLOOD Calcium-8.4 Phos-3.7 Mg-1.8  Microbiology: [**2127-7-5**] 12:13 pm STOOL: Positive for toxigenic C. difficile by the Illumigene DNA amplification.
+Brief Hospital Course: Brief Course: 76 yo F with cholangiocarcinoma s/p modified classical whipple with portal vein reconstruction and J-tube placement ([**2127-4-7**]), who presented with abdominal pain and hypotension.
+She was found to have Klebsiella bacteremia and treated with IV antibiotics.
+Her course was complicated by C. difficile infection for which she received oral metronidazole.
+Active Issues # Klebsiella Bacteremia: Patient presented with abdominal pain, fever, chills, and hypotension.
+She was admitted to the ICU where she received fluids and was initially treated with vancomycin/cefepepime/metronidazole.
+Her antibiotics were narrowed to cefepime and metronidazole after one of four vials grew gram negative rods.
+Speciation showed Klebsiella and antibiotics were further narrowed to ceftriaxone and metronidazole.
+Her blood pressure improved without the need for pressors and patient was transferred to the floor.
+She was transitioned to oral ciprofloxacin and oral metronidazole, continued to do well and was discharged to complete a 14 day antibiotic course.
+# C. Difficile: Patient's course was complicated by c.diff infection likely secondary to the antibiotics used to treat her bacteremia.
+She was treated with oral metronidazole and her diarrhea improved.
+She will continue her oral metronidazole for 2 weeks after her last dose of ciprofloxacin.
+# Abdominal Pain: Patient's J-tube was noted to be clogged at the [**Hospital3 2558**] which may have been causing her pain.
+We held her tube feeds and advanced her diet as tolerated.
+# Cholangiocarcinoma - s/p whipple in [**2127-3-16**].
+Patient is moving back to her home in [**Location (un) 3844**] upon discharge, so patient elected to have future radiation treatments at [**Hospital6 5016**] which is closer to her new residence.
+Inactive Issues: #Diabetes: s/p partial pancreatectomy with intermittent hyperglycemia.
+Was placed on insulin sliding scale without basal dose while hospitalized, but had very little requirement, so patient was not discharged with insulin and will follow up with her PCP.
+#GERD: chronic, stable, continue omeprazole #Intermittent Afib: currently in regular rhythm, continue aspirin #Hypertension: chronic, stable, no medications needed at this time #Hyperlipidemia: chronic, stable, no medications needed at this time #Anxiety: chronic, stable, continue mirtazapine qhs  Transitional Care Issues: 1.
+Medication Changes: -TAKE Ciprofloxacin for 6 more days (last dose [**2127-7-14**]) -TAKE Metronidazole for 20 more days (last dose on [**2127-7-28**]) 5.
+Follow-up: -Patient will establish PCP at [**Hospital6 5016**] and follow-up in [**12-16**] weeks -Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 1852**] (Oncology) -Patient will establish radiation oncologist at [**Hospital3 **] and follow up with radiation treatments there  Medications on Admission: Preadmission medications listed are correct and complete.
+Mirtazapine 15 mg PO HS 2.
+Omeprazole 20 mg PO DAILY 3.
+OxycoDONE (Immediate Release)  5 mg PO Q4H:PRN pain 4.
+Ondansetron 4-8 mg PO Q8H:PRN nausea 5.
+Polyethylene Glycol 17 g PO DAILY:PRN constipation 6.
+Insulin SC       Sliding Scale Insulin SC Sliding Scale using REG Insulin 7.
+Acetaminophen 650 mg PO Q4H:PRN pain 8.
+Aspirin 81 mg PO DAILY 9.
+Docusate Sodium 100 mg PO BID 10.
+Senna 2 TAB PO BID 11.
+Heparin 5000 UNIT SC TID   Discharge Medications: 1.
+Acetaminophen 650 mg PO Q4H:PRN pain 2.
+Aspirin 81 mg PO DAILY 3.
+Mirtazapine 15 mg PO HS 4.
+Omeprazole 20 mg PO DAILY 5.
+Ondansetron 4-8 mg PO Q8H:PRN nausea 6.
+OxycoDONE (Immediate Release)  5 mg PO Q4H:PRN pain 7.
+Ciprofloxacin HCl 500 mg PO Q12H 8.
+MetRONIDAZOLE (FLagyl) 500 mg PO Q8H 9.
+Docusate Sodium 100 mg PO BID:PRN constipation Hold for loose stools.
+Polyethylene Glycol 17 g PO DAILY:PRN constipation Hold for loose stools.
+Senna 2 TAB PO BID:PRN constipation Hold for loose stools.
+You had a serious blood infection and were treated with IV antibiotics.
+You also developed diarrhea and were found to have a C. difficile infection which was also treated with antibiotics.
+Your abdominal pain and diarrhea improved and your J-tube was unclogged.
+You were able to eat enough by mouth, and did not need tube feeds through your J-tube.
+Please make the following changes to your medications: -TAKE Ciprofloxacin for 6 more days (last dose [**2127-7-14**]) -TAKE Metronidazole for 20 more days (last dose on [**2127-7-28**])  Resume the other medications you were taking prior to this admission.
+You have indicated that you would prefer to undergo radiation sessions at a facility near your home.

@@ -1,0 +1,28 @@
+Admission Date:  [**2147-3-14**]              Discharge Date:   [**2147-3-18**]  Date of Birth:  [**2075-2-1**]             Sex:   M  Service: CARDIOTHORACIC  Allergies: Atorvastatin / Zetia  Attending:[**First Name3 (LF) 1283**] Chief Complaint: Dyspnea on exertion  Major Surgical or Invasive Procedure: Coronary Artery Bypass Graft x 3 (LIMA to LAD, SVG to OM, SVG to PDA) on [**2147-3-14**]  History of Present Illness: 72 y/o male with occassional dyspnea on exertion who stated he was found to have an "irregular heart beat".
+PCI attempted in RCA but was unsuccessful and was then referred for surgical revascularization.
+[**2147-3-14**] 11:48AM BLOOD WBC-11.7* RBC-3.08*# Hgb-9.6*# Hct-27.9*# MCV-91 MCH-31.3 MCHC-34.5 RDW-13.9 Plt Ct-21*# [**2147-3-16**] 07:30AM BLOOD WBC-12.9* RBC-3.34* Hgb-10.5* Hct-29.8* MCV-89 MCH-31.3 MCHC-35.1* RDW-13.9 Plt Ct-168 [**2147-3-17**] 08:02AM BLOOD Hct-31.5* [**2147-3-14**] 07:06AM BLOOD PT-15.4* INR(PT)-1.4* [**2147-3-15**] 02:43AM BLOOD PT-16.6* PTT-30.4 INR(PT)-1.5* [**2147-3-15**] 02:43AM BLOOD Glucose-145* UreaN-13 Creat-1.1 Na-140 K-4.2 Cl-106 HCO3-23 AnGap-15 [**2147-3-16**] 07:30AM BLOOD Glucose-107* UreaN-23* Creat-1.0 Na-140 K-3.8 Cl-103 HCO3-27 AnGap-14 [**2147-3-17**] 08:02AM BLOOD UreaN-22* Creat-1.0 K-3.8 [**2147-3-16**] 07:30AM BLOOD Mg-1.9 [**2147-3-15**] 03:51AM BLOOD freeCa-1.26  [**Last Name (NamePattern4) 4125**]ospital Course: Mr. [**Known lastname 19356**] was a same day admit and on [**2147-3-14**] he was brought directly to the operating room where he underwent a coronary artery bypass graft x 3 by Dr. [**Last Name (Prefixes) **].
+Please see op note for surgical details.
+He tolerated the procedure well and was transferred to the CSRU in stable condition on minimal Inotropic support.
+Later on op day he was weaned from sedation and awoke neurologically intact.
+His chest tubes were removed on post-op day two.
+All drips were weaned off and B blockers and diuretics were started per protocol.
+Epicardial pacing wires were removed on post-op day three.
+He was discharged home on post-op day four with VNA services and the appropriate follow-up appointments.
+Toprol XL 50mg qd 2.
+Nifedipine 30mg qd 4.
+Aspirin 325mg qd 5.
+Plavix 75mg qd 6.
+NTG prn 7.
+Pravachol 40mg qd  Discharge Medications: 1.
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+Aspirin 81 mg Tablet, Delayed Release (E.C.)
+Pravastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Furosemide 20 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 hours) for 10 days.
+Potassium Chloride 20 mEq Packet Sig: One (1) Packet PO Q12H (every 12 hours) for 10 days.
+Lopressor 50 mg Tablet Sig: 1.5 Tablets PO twice a day.
+Tylenol-Codeine #3 300-30 mg Tablet Sig: 1-2 Tablets PO every 4-6 hours.
+Lisinopril 10 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*   Discharge Disposition: Home With Service  Facility: [**Company 1519**]  Discharge Diagnosis: Coronary Artery Disease s/p Coronary Artery Bypass Graft x 3 Hypertension Hypercholesterolemia Peripheral Vascular Disease (R Carotid Artery Stenosis 60-80%)  Discharge Condition: good  Discharge Instructions: [**Month (only) 116**] take shower.
+Do not apply lotions, creams, ointments or powders to incisions.

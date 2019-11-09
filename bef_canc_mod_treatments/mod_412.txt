@@ -1,0 +1,49 @@
+Admission Date:  [**2178-4-7**]              Discharge Date:   [**2178-4-14**]  Date of Birth:  [**2109-4-20**]             Sex:   F  Service: MEDICINE  Allergies: Codeine / Oxycodone / Adhesive Bandage  Attending:[**First Name3 (LF) 4095**] Chief Complaint: Shortness of Breath  Major Surgical or Invasive Procedure: PICC   History of Present Illness: CC:  Shortness of breath and sore throat.
+She has been eating normally, and has not been on any fluid restriction at home.
+She received a nebulizer and was transported to 7 [**Hospital Ward Name 1950**].
+Past Medical History: PMH  Past Oncologic History: Larygneal Carcinoma: - diagnosed in [**9-/2175**], in [**2-/2176**], Had PEG placed, received XRT, Carboplatin/Pacitazel  Lung Cancer: - [**9-/2171**] - Squamous cell carcinoma of RUL treated with neoadjuvant carboplatin and paclitaxel + XRT, then R upper lobectomy, neg LN  Other Past Medical History: - DMII - CAD s/p MI [**9-/2162**], s/p RCA stent at [**Hospital1 2025**] [**9-/2162**], s/p LCx stent at [**Hospital1 2025**] [**3-/2163**] - SVT - Atrial fibrillation - CVA vs. TIA [**8-31**] -hypothyroidism -depression  Social History: Lives in same house as her son.
+Discharge Exam: Afebrile on breathing comfortably on 2.5L CV irregular rate, 70s Lungs improved air movement with end expiratory wheezes Exam otherwise unchanged  Pertinent Results: Relevant data:  PT: 20.8  PTT: 41.9  INR: 2.0  120  81  7  115 ------------ 4.3  32  0.5  proBNP: 2347  wbc 7.9 hgb  13.6 hct 43.3  plts  310  N:81.0 L:11.9 M:5.6 E:1.3 Bas:0.3  [**2178-4-7**]: IMPRESSION: 1.
+Alternatively if the patient received chemotherapy between [**Month (only) 404**] and [**Month (only) 956**] this could be a picture of improving malignancy, but more likely it is infection caused by chronic aspiration.
+Oxacillin RESISTANT Staphylococci MUST be reported as also          RESISTANT to other penicillins, cephalosporins, carbacephems,          carbapenems, and beta-lactamase inhibitor combinations.
+Rifampin should not be used alone for therapy.
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              PSEUDOMONAS AERUGINOSA                              |          STAPH AUREUS COAG +                              |          |          PSEUDOMONAS AERUGINOSA                              |          |          | AMIKACIN--------------       S                     S CEFEPIME--------------     4 S                     S CEFTAZIDIME----------- <=0.5 S                 <=1 S CIPROFLOXACIN--------- <=0.5 S               <=0.5 S CLINDAMYCIN-----------              =>8 R ERYTHROMYCIN----------              =>8 R GENTAMICIN------------   <=1 S    <=0.5 S      <=1 S LEVOFLOXACIN----------              =>8 R MEROPENEM-------------       S                     S OXACILLIN-------------              =>4 R RIFAMPIN--------------            <=0.5 S TETRACYCLINE----------              <=1 S TOBRAMYCIN------------   <=1 S                 <=1 S TRIMETHOPRIM/SULFA----            <=0.5 S VANCOMYCIN------------                1 S   Brief Hospital Course: Ms. [**Known lastname 6759**] is a 68-year-old female with a hx of COPD (not on home O2), squamous lung cancer (s/p  R upper lobectomy in [**2170**]), laryngeal cancer s/p resection in [**2175**], stroke, diabetes (last A1C at 6.6 in [**7-/2177**]), CAD (s/p MI [**9-/2162**] s/p RCA stent at [**Hospital1 2025**] [**9-/2162**], s/p LCx stent at [**Hospital1 2025**] [**3-/2163**]), sleep apnea (not on CPAP), SIADH, hypertension, afib, who presented ([**4-7**]) with shortness of breath and found to have MRSA/Psuedomonoal PNA and an acute COPD Exacerbation.
+Initial differential inclueded aspiration pneumonia/HCAP vs COPD exacerbation vs viral brochiolitis.
+She was supratherapeutic on coumadin and CT chest did not show PE.
+A trial of lasix was given without any improvement.
+She was treated for a COPD exacebation with steroids, nebulizers and azithromycin.
+She should undergo a long steroid taper and follow up with pulmonology in 4 weeks for repeat CT scan.
+A PICC line was placed on [**4-13**].
+She also has a history of OSA but did not tolerate CPAP 10 years ago and hasn't tried since.
+She was restarted on CPAP here.
+The patient should complete a total of eight days of Vancomycin coverage for MRSA Pneumnomia (started on [**4-9**] but missed one day on [**4-12**]) and a full 14 days of antibiotics (started on [**4-9**]) for Pseudomonas (Had been on Zosyn) and will switch to IV Ciprofloxacin on discharge.
+Pt was treated with steroids in house and should be continued on steroid taper.
+On the day of discharge the patient received prednisone 60mg.
+- Recommend Prednisone 40mg x2 days, 30mgx days x2 days etc.
+Pt was treated with hypertonic saline in the ICU with improvement in her sodium to 129.
+She was subsequently started on salt tabs and continued to be fluid restricted with normalization of her sodium.
+Her fluid restriction should be adjusted with treatement of her pneumonia.
+- Recommend Na check on Thursday [**2178-4-16**] and adjust Fluid Restriction and Nas Tabs accordingly.
+# Coronary Artery Disease (s/p MI [**9-/2162**], s/p RCA stent at [**Hospital1 2025**] [**9-/2162**], s/p LCx stent at [**Hospital1 2025**] [**3-/2163**]): Continued on Atorvastatin, Metoprolol, Aspirin 81mg .
+# Atrial fibrillation:  Her coumadin was initially held given a supratherapeutic INR but was restarted when her INR drifted below 2.
+She was continued on a BB and CCB.
+CHRONIC ISSUES: # Hyperlipidemia: Continued lipitor 40 mg po daily .
+Metformin was held and she was treated with an ISS.
+# Depression: Held fluoxetine because of SIADH, - Reconsider restating fluoxetine at rehab if Na is stable.
+# Hypothyroidism - continued levothyroxine .
+albuterol inhaler/nebulizer lipitor 40 mg po daily diltiazem 120 mg po daily fluoxetine 20 mg po daily advair 250/50 1 puff [**Hospital1 **] levothyroxine 25 mg po daily metformin 850 mg po daily prilosec 20 mg po daily warfarin, per coumadin clinic   Discharge Medications: 1. heparin, porcine (PF) 10 unit/mL Syringe Sig: One (1) ML Intravenous PRN (as needed) as needed for line flush.
+2. vancomycin in D5W 1 gram/200 mL Piggyback Sig: One (1) Intravenous Q 12H (Every 12 Hours).
+3. levothyroxine 25 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+5. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1)  Inhalation Q6H (every 6 hours).
+6. ipratropium bromide 0.02 % Solution Sig: One (1)  Inhalation Q6H (every 6 hours).
+7. atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+8. diltiazem HCl 120 mg Capsule, Extended Release Sig: One (1) Capsule, Extended Release PO DAILY (Daily).
+9. metformin 850 mg Tablet Sig: One (1) Tablet PO once a day.
+10. prednisone 20 mg Tablet Sig: Two (2) Tablet PO IN AM ().
+11. pantoprazole 20 mg Tablet, Delayed Release (E.C.)
+12. warfarin 5 mg Tablet Sig: One (1) Tablet PO Once Daily at 4 PM.
+13. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+14. metoprolol tartrate 50 mg Tablet Sig: One (1) Tablet PO twice a day.
+15. nicotine 14 mg/24 hr Patch 24 hr Sig: One (1) Patch 24 hr Transdermal DAILY (Daily).
+16. nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID (4 times a day).
+17. heparin (porcine) 5,000 unit/mL Solution Sig: One (1) Injection TID (3 times a day).
+Please continue to take all of your medications.

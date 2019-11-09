@@ -1,0 +1,63 @@
+Admission Date:  [**2182-6-5**]              Discharge Date:   [**2182-7-11**]  Date of Birth:  [**2143-12-21**]             Sex:   M  Service: MEDICINE  Allergies: Penicillins / Levaquin / Biaxin  Attending:[**First Name3 (LF) 2297**] Chief Complaint: Tracheal Obstruction  Major Surgical or Invasive Procedure: bronchoscopy  History of Present Illness: 38 y/o male with PMHx significant for type 1 diabetes, history of jail time, who initially presented at [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] with 10 days of chest tightness, mylagias, couging, fever, and wheezing, as well as shortness of breath.
+At OSH patient was being treated for CAP and started on azithromycin and ceftriaxone.
+There was also adenopathy that was compressing the trachea, given this concern for airway obstruction patient was intubated and transferred to [**Hospital1 18**] for further management.
+He was ruled out for MI with negative CEx3 and negative EKG  Past Medical History: Type 1 diabetes Asthma Diabetic nephropathy fractures fibula [**3-/2181**] H/O MRSA PNA   Social History: Smokes 1ppd for many years, no drug or etoh history, history of jail time  Family History: NC  Physical Exam: PE: T 97.8 BP 110/48 HR 102 RR 16 O2SAt 97% AC 450x14 PEEP 5 FiO2 60 7.21/70/80 Gen: Patient intubated, sitting up in bed, gagging on tube Heent: PERRL, EOMI, ETT tube in place Neck: no LAD appreciated Lungs: diffuse ronchi throughout Cardiac: tachy, RR S1/S3 Abdomen: soft NT +BS Ext: no edema Neuro: awake   Pertinent Results: [**2182-6-5**] 03:55PM   NEUTS-55 BANDS-14* LYMPHS-19 MONOS-8 EOS-4 BASOS-0 ATYPS-0 METAS-0 MYELOS-0 [**2182-6-5**] 04:15PM   TYPE-ART RATES-14/ TIDAL VOL-450 PEEP-5 O2-60 PO2-80* PCO2-70* PH-7.21* TOTAL CO2-30 BASE XS--1 INTUBATED-INTUBATED VENT-CONTROLLED .
+CT chest [**6-6**]: FINDINGS: Endotracheal tube is in place, with tip terminating just above the level of the aortic arch.
+Tracheostomy tube and right subclavian line in standard placements.
+A tracheostomy tube appears in the mid trachea.
+A PICC line terminates at the cavoatrial junction.
+Brief Hospital Course: 38 y/o M with DM type 1, history of jail time who presented to OSH with what was thought to be CAP, found to have ground glass opacification and diffuse adenopathy on chest CT s/p intubation for airway obstruction, development of ARDS.
+He could not be consented in house given intubation and current sedation.
+He was started on broad spectrum antibiotics, which initially included vancomycin and ceftazidime.
+Because of this, he was restarted on paralytics, placed on ARDS protocol again with proning.
+Pt went for tracheostomy w/ surgery.
+## PNA: Pt had been treated with CTX & azithro at OSH.
+His coverage was broadened to ceftazidime & vanco following admission to [**Hospital1 18**].
+ID recommended extensive workup for other causes, including legionella, erhlichia, tuleremia, chlamydia, mycoplasma, and babesia, all of which were negative.
+Pt received 16 days of ceftazidime and 14 days of linezolid and doxycycline, the latter of which was added for empiric tularemia tx.
+Off antibiotics for pneumonia at the time of discharge to rehab.
+With slight worsening appearance of opacities on chest x-ray, still concern for tularemia or other pathology not covered/ -Follow up on Tularemia abx, blood cx -Follow up appointment with ID .
+## Pulm Edema: likely ARDS plus component of fluid overload following aggressive fluid resuscitation.
+Pt was aggressively diuresed w/ lasix lasix gtt--this was stopped on [**6-25**].
+Pt was given lasix bolus PRN.
+Lasix was given PRN, and as [**7-10**] CXR demonstrated possible fluid overload 40 IV lasix given.
+Lasix to be given as needed if signs of overload, clinical and imaging studies demonstrate need.
+## Sedation: Pt required enormous doses of sedatives to keep him calm and prevent him from removing lines/self-extubating.
+He required paralytics on top of sedatives for this and to tolerate the proning.
+Methadone was started to help wean off IV fentanyl and other sedatives.
+Then, fentanyl patch initiated, in attempt attempt to wean methadone and prevent opiate withdrawal.
+Fentanyl patch decreased, use methadone PRN and then DC'd; used haldol PRN agitation.
+Final regimen at time of discharge included Fentanyl patch at 150 mcg to be decreased as tolerated: Clonipine 3 mg TID, to be weaned as tolerated slowly, Morphine 1-2 mg q 2 for agitation pain, ativan as needed, and standing Haldol to be decreased to PRN as needed.
+## PEA arrest: On the night of admission the patient had pea arrest, with cpr for 2-5 minutes.
+The patient required fluids and pressors and eventually was weaned off pressors.
+## Hypotension: Thought to be primarily from sepsis, although high PEEP and large doses of propofol likely also contributed.
+As his infection was treated and propofol weaned, he was able to be weaned off Levophed.
+Once of sedatives, and ventilator, BP increased and pt was hypertensive during weaning off narcotics and sedation.
+Required occasional transfusions.
+However, renal function again worsened in setting of aggressive diuresis.
+Not worsened with diuresis and close to baseline at the time of discharge.
+## DM type 1 - The patient's sugars were closely followed and was treated intermittently with insulin drip and when off the drip glargine and SSI according to his finger sticks.
+Stable on glargine and sliding scale at the time of discharge.
+## PPx: Heparin SC, PPI, bowel regimen ## Code: full ## FEN: on TPN then transitioned tubefeed TF.
+Patient receiving tube feeds at goal via the PEG tube with minimal residual.
+Albuterol 90 mcg/Actuation Aerosol [**Hospital1 **]: Four (4) Puff Inhalation Q6H (every 6 hours).
+Ipratropium Bromide 17 mcg/Actuation Aerosol [**Hospital1 **]: Six (6) Puff Inhalation QID (4 times a day).
+Heparin (Porcine) 5,000 unit/mL Solution [**Hospital1 **]: One (1) Injection TID (3 times a day).
+Acetaminophen 160 mg/5 mL Solution [**Hospital1 **]: One (1)  PO Q4-6H (every 4 to 6 hours) as needed.
+Polyvinyl Alcohol 1.4 % Drops [**Hospital1 **]: 1-2 Drops Ophthalmic PRN (as needed).
+Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: One (1) Tablet,Rapid Dissolve, DR [**Last Name (STitle) **] DAILY (Daily).
+Docusate Sodium 100 mg Capsule [**Last Name (STitle) **]: One (1) Capsule PO BID (2 times a day).
+Senna 8.6 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO twice a day as needed for constipation.
+Bisacodyl 10 mg Suppository [**Last Name (STitle) **]: One (1) Suppository Rectal DAILY (Daily) as needed.
+Clonazepam 1 mg Tablet [**Last Name (STitle) **]: Three (3) Tablet PO TID (3 times a day).
+Lactulose 10 g/15 mL Syrup [**Last Name (STitle) **]: Thirty (30) ML PO Q8H (every 8 hours) as needed.
+Bisacodyl 5 mg Tablet, Delayed Release (E.C.)
+Fentanyl 100 mcg/hr Patch 72 hr [**Last Name (STitle) **]: One (1)  Transdermal Q72H (every 72 hours): 125 MCG patch.
+Acyclovir 400 mg IV Q8H d# 1 [**6-29**] 15.
+Lorazepam 0.5-1 mg IV Q4H:PRN agitation 16.
+Haloperidol 5 mg IV TID 17.
+Morphine Sulfate 1-2 mg IV Q2H:PRN hold for sedation and rr<10 18.
+Insulin Glargine 100 unit/mL Cartridge [**Month/Day (4) **]: Twelve (12) units Subcutaneous at bedtime: in addition to ISS, see attached table.
+Secondary: Asthma diabetic nephropathy h/o MRSA pneumonia Fibula fracture   Discharge Condition: stable   Discharge Instructions: You were admitted with ARDS, and had a long hospital stay -Continue all medications, neb treatments.
+-Wean narcotics as tolerated -Acyclovir x 2 days, to complete 14 day course -Follow up with infectious disease -Follow up on pending tularemia antibody and blood culture data -CXR, abx and diuresis as needed -Trach and PEG tube placement  Followup Instructions: Please follow up with PCP from rehab facility .
+Please follow up with infectious disease, discussion of Tularemia and review of cx and Antibiotic data.

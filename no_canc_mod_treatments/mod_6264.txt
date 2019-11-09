@@ -1,0 +1,62 @@
+Admission Date:  [**2111-8-28**]              Discharge Date:   [**2111-9-2**]  Date of Birth:  [**2034-7-19**]             Sex:   M  Service: MEDICINE  Allergies: Keflex / Levaquin / Nafcillin  Attending:[**First Name3 (LF) 19193**] Chief Complaint: GI bleed/Acute renal failure   Major Surgical or Invasive Procedure: EGD - [**2111-8-28**]  History of Present Illness: 77 y/o M with history of DM, HTN, afib on coumadin, PVD c/b right sided arterial ulcer s/p surgical debridement on [**8-18**] who presented with lethargy and hypotension.
+Patient was given 2 units of pRBCs, 1 unit of FFP, 10mg of vitamin K, D50, 10 units of regular insulin Calcium gluconate 4g, Protonix 80mg IV, and Kayexalate 30g.
+Patient was given a total of 4g of calcium gluconate, insulin 10 units, and 1 amp of D50.
+Was also started on protonix gtt.
+Of note, patient was recently admitted from [**Date range (1) 24996**] on vascular surgery for elective fem-[**Doctor Last Name **] bypass.
+Patient went to OR on [**8-18**] however procedure was aborted after posterial tibial artery was found to be occluded.
+Instead surgical debridedment of arterial ulcer on right ankle.
+Past Medical History: - CKD - dCHF - Mild Aortic Stenosis - DM - HTN - A-fib (on coumadin) - H.pylori gastric ulcer in [**2103**] causing upper GI bleed - PVD c/b right arterial ulcer s/p surgical debridement on [**8-18**] - MICU admission [**7-/2111**]: GIB with EGD showing [**Year (4 digits) 24997**] lesion in 3rd part duodenum with brisk arterial bleed, clipped; also with renal failure from ATN - Hypothyroid - Gout - BPH  PSH: L hip replacement [**5-9**]; open prostatectomy [**12-8**]; L CEA [**11-7**]; I&D R hallux abscess [**8-2**], [**10-3**]; Vein patch angioplasty fem-peroneal distal anastomosis [**7-31**]; L CFA to peroneal bypass w GSV [**5-31**]; L3-4 laminectomy [**1-31**]; Right femoral to below knee popliteal bypass.
+Social History: Smoker, quit in [**2083**]   Family History: Non-contributory  Physical Exam: Admission: Vitals:  96.7 49 117/46 94% RA General: Alert, oriented, no acute distress HEENT: Sclera anicteric, MMM, oropharynx clear Neck: supple, JVP not elevated, no LAD Lungs: Crackles at baseline CV: Bradycardic, normal S1 + S2, no murmurs, rubs, gallops Abdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly GU: no foley, rectal exam with empty vault Ext: cool, +2 radial pulses, dopplerable DP pulses, well healing ulcer of right medial mallelous, no fluctuance, stitches in place, wound c/d/i  Pertinent Results: Admission labs: [**2111-8-28**] 04:35AM BLOOD WBC-10.4 RBC-2.52* Hgb-7.9* Hct-23.2* MCV-92 MCH-31.6 MCHC-34.2 RDW-20.2* Plt Ct-239 [**2111-8-28**] 04:35AM BLOOD Neuts-84.4* Lymphs-10.9* Monos-4.0 Eos-0.3 Baso-0.4 [**2111-8-28**] 04:35AM BLOOD PT-34.5* PTT-40.1* INR(PT)-3.4* [**2111-8-28**] 04:35AM BLOOD Glucose-136* UreaN-168* Creat-6.7*# Na-136 K-6.7* Cl-100 HCO3-23 AnGap-20  - EGD in [**2103**]: with arterial bleed  EGD Report [**7-/2111**]: Normal mucosa in the esophagus Blood in the whole stomach Clotted blood in the antrum and pylorus Normal mucosa in the stomach Bright red blood in the third part of the duodenum [**Year (4 digits) 24997**] lesion in the Third part of the duodenum (endoclip, injection) Otherwise normal EGD to third part of the duodenum  EKG: HR 49 RBBB with LAFB, QTc 477 QRS 180, slow atrial fibrillation  Discharge labs: [**2111-9-2**] 05:05AM BLOOD WBC-8.7 RBC-2.92* Hgb-9.0* Hct-28.4* MCV-97 MCH-30.8 MCHC-31.7 RDW-20.3* Plt Ct-286 [**2111-9-2**] 05:05AM BLOOD Plt Ct-286 [**2111-9-2**] 05:05AM BLOOD PT-15.1* PTT-30.2 INR(PT)-1.3* [**2111-9-2**] 05:05AM BLOOD Glucose-126* UreaN-68* Creat-2.2* Na-143 K-4.7 Cl-109* HCO3-24 AnGap-15  Brief Hospital Course: 77 year old male with h/o diabetes, CKD III,mild aortic stenosis, hypertension, hyperlipidemia,and severe PVD with chronic R malleolar arterial ulcer, s/p recent debridement, who had been on on aspirin/plavix, and coumadin for AFib, who was admitted soon after his home VNA found him hypotensive.
+ASA, Plavix and Coumadin were held.
+He was continued on Protonix gtt.
+He received 2u PRBC's after the procedure (5 total) and no further bleeding was seen, and his Hct stabilized.
+We discussed the patient's anticoagulation with the GI team and Vascular Surgery and they collectively agreed that we discontinue his ASA and Plavix until follow-up with GI specialist Dr [**First Name8 (NamePattern2) 1158**] [**Last Name (NamePattern1) 679**] given the recent bleed.
+On discharge, we will be sending him home on 3MG/day of Coumadin monotherapy for his Atrial Fibrillation, giving his CHADS2 score of 4.
+He was treated for hyperK as below.
+There was no immediate need for renal replacement therapy though given he was improving steadily and UOP was in acceptable ranges.
+There was also question of post-obstructive element given reports that he had a prior Foley in place at OSH that a nurse had removed, with poor UOP thereafter, in the setting of known BPH.
+ACEi, Lasix, [**Last Name (un) **], Bactrim were held as all could contribute to worse renal funciton.
+On discharge, we restarted the Lisinopril at 20 MG/day (down from 60 MG/day) and his Lasix at 20 MG/day (down from 40 MG/day).
+He was making good urine and his urine output was nearly balanced with intake fluids (clinically euvolemic), suggesting that these medications would be well tolerated by his kidneys and put him closer back to his home regimen.
+We continued to hold his Atacand and Aliskiren, but he will discuss these medications with his PCP Dr [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 16258**] next week on [**2111-9-9**].
+In the MICU, Kayexalate was held given GIB, but pt received scheduled albuterol, D5 in his IVF's and insulin, and his K trended downwards with blood/IVF resuscitations.
+We are restarting him on his Lasix and Ace Inhibitor, but his K+ will be initially followed by VNA services.
+Then, he had metoprolol held in the ICU with limited control over his atrial fibrillation.
+Rates improved after both blood products and IVFs.
+Patient was slowly uptitrated on his beta blocker for better rate control.
+After 4 days of stable HCTs and no GIB after he underwent EGD with clipping of duodenal ulcer, he was restarted on his home coumadin.
+He has a chronic right arterial ulcer: S/p surgical debridement by vascular surgery on [**8-18**] which was his last hospital admission.
+Dr. [**Last Name (STitle) 1391**], was notified of the admission and agreed Bactrim could be discontinued as clean wound and no fevers or leukocytosis at time of discharge.
+As noted above, he was discharged on 3MG/day of Coumadin and his ASA and Plavix were discontinued for now and patient will re-address need to restart ASA/Plavix in near future with Dr. [**Last Name (STitle) 1391**] and his PCP.
+On home oral hypoglycemics, which were held, patient was given Humalog ISS while in house.
+At discharge he was restarted on usual Januvia at home.
+Gout: Held allopurinol given ARF, and once Cr near baseline 2 range at discharge he was placed on a reduced renal dose of 100mg daily, down from his prior 300mg daily dosing.
+Hypothyroidism: Continued usual synthroid medication, no dose alterations   Medications on Admission: 1. levothyroxine 100 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. calcitriol 0.25 mcg Capsule Sig: One (1) Capsule PO DAILY (Daily).
+3. allopurinol 300 mg Tablet Sig: One (1) Tablet PO every other day.
+4. furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+5. lisinopril 20 mg Tablet Sig: Three (3) Tablet PO DAILY (Daily).
+6. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+7. omeprazole 20 mg Capsule, Delayed Release(E.C.)
+8. multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+9. ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+10. metoprolol succinate 100 mg Tablet Extended Release 24 hr Sig: One (1) Tablet Extended Release 24 hr PO DAILY (Daily).
+11. rosuvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+12. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+13. oxycodone 5 mg Tablet Sig: One (1) Tablet PO every six (6) hours as needed for pain.
+Disp:*30 Tablet(s)* Refills:*0* 14. sulfamethoxazole-trimethoprim 800-160 mg Tablet Sig: One (1)  Tablet PO BID (2 times a day) for 13 days.
+Januvia 100 mg Tablet Sig: One (1) Tablet PO once a day: Pre-admission medication.
+Atacand 16 mg Tablet Sig: One (1) Tablet PO once a day: pre-admission medication.
+Os-Cal 500 + D 500 mg(1,250mg) -200 unit Tablet Oral 19. warfarin 2 mg Tablet Sig: Two (2) Tablet PO once a day: Pt received 2mg coumadin prior to discharge [**8-19**].
+While here, you were treated for a upper gastrointestinal bleed.
+You also received a number of blood transfusions, and over the course of your hospitalization, your red blood cell level (hematocrit) improved significantly back to your baseline level.
+You were aggressively treated with fluids and we carefully watched and repleted your electrolytes.
+In particular, we paid close attention to your potassium given that it was also elevated.
+Both your creatinine and potassium have now come down nicely to their appropriate baseline levels.
+We started you on Metoprolol and this brought your heart rate down and we subsequently increased the dosage back up to your home dose of 50 MG twice a day and you tolerated this well.
+Given the bleeding that you experienced in your small intestine, we have recommended that you STOP taking your Aspirin and Plavix which thin your blood.
+We recommend that you continue on the Coumadin alone, at 3 MG/day.
+In addition, we have outlined other medication changes and the appropriate doctors to follow up with.
+The MEDICATION CHANGES that we have suggested are the following:  1) STOP taking Aspirin until you are seen by Dr [**First Name8 (NamePattern2) 1158**] [**Last Name (NamePattern1) 679**] 2) STOP taking Plavix until you are seen by Dr [**First Name8 (NamePattern2) 1158**] [**Last Name (NamePattern1) 679**] 3) STOP taking the Atacand until you see your PCP Dr [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 16258**] 4) STOP taking your Bactrim 5) STOP taking your Texturna until you see your PCP Dr [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 16258**] 6) CONTINUE taking Protonix 40 MG/day.
+STOP taking Omeprazole 20 MG/day 7) CONTINUE taking Coumadin at 3 MG/day 8) CONTINUE taking Lasix at 20 MG/day until you are seen by your PCP Dr [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 16258**] 9) CONTINUE taking Lisinopril at 20 MG/day until you are seen by your PCP Dr [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 16258**] 10) CONTINUE taking your Allopurinol at 100 MG/day  Please take all other medications as before.
+Followup Instructions: Department: INTERNAL MEDICINE STE 2F When: WEDNESDAY [**2111-9-9**] at 11:00 AM With: [**First Name11 (Name Pattern1) 11595**] [**Last Name (NamePattern4) 19195**], MD [**Telephone/Fax (1) 19196**] Building: LM [**Hospital Ward Name **] Bldg ([**Last Name (NamePattern1) **]) [**Location (un) 551**] Campus: WEST     Best Parking: [**Hospital Ward Name **] Garage  Name: [**Last Name (LF) 679**], [**Name8 (MD) 1158**] MD Specialty: Gastroenterology Address: [**Doctor First Name **],STE 8A, [**Location (un) **],[**Numeric Identifier 718**] Phone: [**Telephone/Fax (1) 682**] Appointment: Wednesday [**9-30**] at 10AM    Completed by:[**2111-9-2**

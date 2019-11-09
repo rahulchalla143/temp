@@ -1,0 +1,68 @@
+Admission Date:  [**2198-1-7**]              [**Year/Month/Day **] Date:   [**2198-1-11**]  Date of Birth:  [**2139-5-4**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 689**] Chief Complaint: Shortness of breath  Major Surgical or Invasive Procedure: None   History of Present Illness: 58 year old male with PMH significant for diastolic heart failure, pulmonary hypertension and stage III CKD who presented from an outside hospital with respiratory distress, chest pain, fever, chills and cough.
+At the outside hospital, he was treated with both Lasix and a nitroglycerin drip.
+Past Medical History: Stage III chronic kidney disease (baseline creatinine 2.1) Cystinuria with a history of heavy stone burden (on longstanding penicillamine until 3 yrs ago) Cutis laxa secondary to penicillamine [**Last Name (un) 4584**] [**Location (un) **] Syndrome (thought to be secondary to penicillamine) Restrictive cardiomyopathy (diastolic CHF) Pulmonary hypertension Atrial flutter s/p AV node ablation (with postprocedure complete heart block requiring pacemaker placement) Pancreatic low grade, benign mucinous cystic neoplasm (LGBMC) Large bilateral renal cysts Small AAA Popliteal aneurysm hyperuricosuria restless leg syndrome GERD  Social History: Works as a software engineer.
+A dual-lead pacemaker is seen with leads overlying the right atrium and right ventricle, unchanged since [**2197-10-25**].
+A dual-lead pacemaker/ICD device is again noted.
+Brief Hospital Course: Pt is a 58 yo man with PMH significant for a h/o HTN, diastolic CHF, pulm HTN who initially presented from [**Hospital3 3765**] in respiratory distress w/ evidence of pneumonia on CXR along w/ pulm edema.
+On admission, it was felt his shortness of breath was most likely due to pneumonia seen on CXR along w/ component of CHF especially given response to nitro gtt and Lasix while at [**Hospital3 **].
+The patient also had AFib with RVR while in the intensive care unit, which was treated with IVF resuscitation.
+The patient was also treated with CTX/azithro for a community acquired pneumonia.
+He did not require intubation for his breathing, but initially did need a non-rebreather while in the unit.
+He was maintained on nasal cannula while on the floor, with his oxygen requirement lessening each day, until he did not require oxygen while at rest.
+He was discharged to complete a course of oral antibiotics to treat his community acquired pneumonia.
+He appeared to have component of failure contributing to resp status above given response to treatment of CHF which was likely contributed to by AFib w/ RVR.
+He was treated with Lasix and beta-blcokade as needed.
+He did require one additional dose of Lasix the morning after he was called out of the unit, but was then maintained on his home regimen without incident.
+His captopril was held throughout this admission given his acute on chronic renal failture.
+He was advised to restart his captopril at [**Hospital3 **].
+Rhythm: Pt w/ h/o paroxysmal AFib and is not on coumadin due to problems w/ epistaxis.
+The patient was originally maintained on telemetry after leaving the ICU.
+He remained in NSR after IVF resuscitation and resolution of fever.
+He was briefly on a heparin gtt, which was rapidly discontinued.
+The patient was given IVF in the ED & ICU.
+The patient was continued on his sevelamer and calcitriol.
+# HTN: The patient was continued on his outpt Lasix dose.
+He was advised to restart his captopril and eplerenone after [**Hospital3 **].
+# Hyperuricosuria: The patient was continued on his allopurinol.
+# Restless leg: The patient was continued on his outpatient doses of Neurontin, Requip and oxycontin.
+# Code: Full   Medications on Admission: Furosemide 80 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Potassium Citrate 10 mEq Tablet Sustained Release Sig: One (1) Tablet Sustained Release PO three times a day.
+Gabapentin 300 mg Capsule Sig: Two (2) Capsule PO TID (3 times a day).
+Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Oxycodone 10 mg Tablet Sustained Release 12 hr Sig: One (1) Tablet Sustained Release 12 hr PO Q DAY AT 6PM ().
+Oxycodone 5 mg Tablet Sig: Two (2) Tablet PO QPM PRN as needed.
+Magnesium Chloride 64 mg Tablet Sustained Release Sig: One (1) Tablet Sustained Release PO once a day.
+Calcitriol 0.25 mcg Capsule Sig: One (1) Capsule PO DAILY (Daily).
+Captopril 25 mg Tablet Sig: One (1) Tablet PO four times a day.
+Hexavitamin Tablet Sig: One (1) Cap PO DAILY (Daily).
+Allopurinol 100 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+Ascorbic Acid 500 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+Ropinirole 1 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Sevelamer HCl 800 mg Tablet Sig: One (1) Tablet PO TID W/MEALS (3 TIMES A DAY WITH MEALS).
+Aciphex 20 mg Tablet, Delayed Release (E.C.)
+Eplerenone 25 mg Tablet Sig: One (1) Tablet PO once a day.
+Furosemide 80 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Potassium Citrate 10 mEq Tablet Sustained Release Sig: One (1) Tablet Sustained Release PO three times a day.
+Gabapentin 300 mg Capsule Sig: Two (2) Capsule PO TID (3 times a day).
+Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Oxycodone 10 mg Tablet Sustained Release 12 hr Sig: One (1) Tablet Sustained Release 12 hr PO Q DAY AT 6PM ().
+Oxycodone 5 mg Tablet Sig: Two (2) Tablet PO QPM PRN as needed.
+Magnesium Chloride 64 mg Tablet Sustained Release Sig: One (1) Tablet Sustained Release PO once a day.
+Calcitriol 0.25 mcg Capsule Sig: One (1) Capsule PO DAILY (Daily).
+Captopril 25 mg Tablet Sig: One (1) Tablet PO four times a day.
+Hexavitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).
+Allopurinol 100 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+Ascorbic Acid 500 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+Ropinirole 1 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Sevelamer HCl 800 mg Tablet Sig: One (1) Tablet PO TID W/MEALS (3 TIMES A DAY WITH MEALS).
+Aciphex 20 mg Tablet, Delayed Release (E.C.)
+Azithromycin 250 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours) for 1 days.
+Oxygen Continuous oxygen at 2L NC to keep oxygen saturation levels greater than 92% 19.
+Cefpodoxime 200 mg Tablet Sig: One (1) Tablet PO twice a day for 6 days.
+Eplerenone 25 mg Tablet Sig: One (1) Tablet PO once a day.
+Secondary: #HTN #Chronic kidney disease #Cystinuria #Pulmonary hypertension #PAF #Hyperuricosuria #GERD #Restless leg syndrome   [**Hospital3 **] Condition: Stable, resting O2 sat of 95%.
+You required additional oxygen to help keep the levels of oxygen in your blood at adequate levels.
+Please resume taking your other medications as prescribed by your outpatient physicians.
+Provider: [**Name10 (NameIs) **] LAB Phone:[**Telephone/Fax (1) 1237**] Date/Time:[**2198-5-14**] 11:15

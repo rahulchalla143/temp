@@ -1,0 +1,44 @@
+Admission Date:  [**2169-3-24**]              Discharge Date:   [**2169-4-5**]   Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 1257**] Chief Complaint: Abdominal pain  Major Surgical or Invasive Procedure: Percutaneous gall bladder drain placement Thoracentesis   History of Present Illness: Mr. [**Known lastname 11979**] is a [**Age over 90 **] year-old male with past medical history of of diabetes mellitus and hypertension who was admitted on [**3-24**] with several days of abdominal and found to have acute cholecystitis on ultrasound.
+He underwent a percutaneous cholecystostomy placement on [**3-24**] and was admitted directly to the SICU from IR.
+He was transferred to the floor on [**3-25**] while continuing to undergo medical management with antibiotics (levofloxacin and augmentin).
+He was given multiple doses of IV metoprolol and IV diltiazem with control of his heart rate.
+He had been on po metoprolol.
+He developed tachycardia again the morning of [**3-27**] (which was treated with 5 mg IV metoprolol) and po diltiazem was also started.
+Past Medical History: Diabetes Hypertension Legally blind Gluacoma Cataracts s/p surgery b/l s/p left hip arthroplasty  Social History: He lives with his daughter.
+Drain present in his right-mid side.
+Acute cholecystitis status post percutaneous cholecystostomy with decreased distention of the gallbladder lumen.
+Post-cholecystostomy tube placement, with two subcapsular collections.
+Multiple other incidental findings including bilateral renal cysts, tortuous, calcified aorta and its branches, and fluid-filled.
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              KLEBSIELLA PNEUMONIAE                              | AMPICILLIN/SULBACTAM--     4 S CEFAZOLIN-------------   <=4 S CEFEPIME--------------   <=1 S CEFTAZIDIME-----------   <=1 S CEFTRIAXONE-----------   <=1 S CIPROFLOXACIN---------<=0.25 S GENTAMICIN------------   <=1 S MEROPENEM-------------<=0.25 S PIPERACILLIN/TAZO-----   <=4 S TOBRAMYCIN------------   <=1 S TRIMETHOPRIM/SULFA----   <=1 S  [**2169-3-24**] 4:30 pm BILE                              **FINAL REPORT [**2169-3-28**]**     GRAM STAIN (Final [**2169-3-24**]):       NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              KLEBSIELLA PNEUMONIAE                              |          ESCHERICHIA COLI                              |          | AMPICILLIN------------             =>32 R AMPICILLIN/SULBACTAM--     8 S     =>32 R CEFAZOLIN-------------   <=4 S     =>64 R CEFEPIME--------------   <=1 S      <=1 S CEFTAZIDIME-----------   <=1 S      <=1 S CEFTRIAXONE-----------   <=1 S      <=1 S CIPROFLOXACIN---------<=0.25 S   <=0.25 S GENTAMICIN------------   <=1 S      <=1 S MEROPENEM-------------<=0.25 S   <=0.25 S PIPERACILLIN/TAZO-----     8 S       32 I TOBRAMYCIN------------   <=1 S      <=1 S TRIMETHOPRIM/SULFA----   <=1 S      <=1 S   Brief Hospital Course: Assessment and Plan: [**Age over 90 **] year-old male with pmh of DM and htn admitted with acute cholecystitis s/p a percutaneous cholecystostomy whose hospital course has been complicated by Klebsiella bacteremia, a parapneumonic effusion new atrial flutter with RVR, delirium, and a persistent leukocytosis which improved with antibiotics.
+# Acute cholecystitis: Patient found to have acute cholecystitis and treated with cholecystostomy tube placement.
+Bile fluid grew out Klebsiella and E.Coli and it was complicated by Klebsiella bacteremia (positive BCx on [**3-24**]) with all surveillance cultures negative since: Patient was treated initially with broad spectrum antibiotics (vanc/levofloxacin/zosyn) and then switched to PO levofloxacin/augmentin on [**4-3**] and remained afebrile on PO antibiotics.
+He was discharged to finish prolonged course of antibiotics (10 more days of levofloxacin/augmentin after discharge) with followup with biliary surgery.
+He was discharged with cholecystostomy drain in place draining bilious fluid and family trained on bile drain care.
+# Atrial flutter: The patient has had multiple episodes of atrial flutter with rates in the 150s, so was started on PO metoprolol.
+Patient has a CHADS2 score of 3 so was started on 325 mg of aspirin daily now.
+The patient and his family can discuss possible anticoagulation with coumadin with his PCP once he has recovered from this acute event.
+He was maintained on conservative treatment and per family, he was back to baseline by discharge .
+# Parapneumonic effusion: Patient found to have increased R sided effusion during hospital stay and was s/p thoracentesis on [**3-31**] with removal of 1L of yellow fluid consistent with transudate.
+Patient was treated with IV antibiotics for HAP and repeat CXR on [**4-4**] was improved effusion.
+Patient was transitioned to PO antibiotics on [**4-4**] and discharged on course of antibiotics.
+Patient should follow up with PCP regarding effusion/PNA after treatment during follow up appointment.
+# Diabetes: Per patient, he is not on any medications as an outpatient.
+He was maintained on sliding scale insulin as inpatient but not discharged on any medication.
+Amoxicillin-Pot Clavulanate 875-125 mg Tablet [**Name Initial (PRE) **]: One (1) Tablet PO BID (2 times a day) for 10 days.
+Levofloxacin 500 mg Tablet [**Name Initial (PRE) **]: One (1) Tablet PO Q24H (every 24 hours) for 10 days.
+Aspirin 325 mg Tablet [**Name Initial (PRE) **]: One (1) Tablet PO DAILY (Daily).
+Metoprolol Tartrate 25 mg Tablet [**Name Initial (PRE) **]: 1.5 Tablets PO TID (3 times a day).
+Senna 8.6 mg Tablet [**Name Initial (PRE) **]: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: One (1) Tablet,Rapid Dissolve, DR [**Last Name (STitle) **] DAILY (Daily).
+Tylenol 325 mg Tablet [**Last Name (STitle) **]: 1-2 Tablets PO every 4-6 hours as needed for fever or pain.
+Disp:*60 Tablet(s)* Refills:*2*   Discharge Disposition: Home With Service  Facility: Uphams Corner Home Care  Discharge Diagnosis: Primary diagnosis: - Acute cholecystitis Secondary diagnoses: - Parapneumonic effusion and pneumonia - Atrial flutter and fibrillation - Hypertension - Leukocytosis - Diabetes Mellitus   Discharge Condition: Mental Status: Clear and coherent (Haitian).
+It was found that you had an infection in your gall bladder called cholecystitis, which was treated with a percutaneous drain given concerns over risks of surgery.
+You were also found to have a pneumonia with some fluid in your lung which was treated with some fluid removal and antibiotics.
+The following changes have been made in your medications: - STARTED Levofloxacin 500 mg daily: this is an antibiotic to treat your gall bladder infection.
+- STARTED Augmentin (Amoxicillin-Clavulanic) 875 mg twice a day: this is an antibiotic to treat your gall bladder infection.
+- STARTED Aspirin 325 mg: Take daily - STARTED Metoprolol 25 mg three times a day: To control your fast heart rate - STARTED Lansoprazole to help with heartburn, and as needed medications for constipation and pain (tylenol, colace, senna)  You will need to discuss with Dr. [**First Name (STitle) 4223**] whether you should go on a blood thinning medication called warfarin (or coumadin), which helps prevent blood clots when the heart rhythm is abnormal.
+You will leave the hospital with a drain in place in your abdomen.
+This will need to remain there to continue draining bile.
+When you follow up with Dr. [**First Name (STitle) **] in [**Month (only) **], further management of the drain will be discussed.
+Please follow up with your bile drain or any abdominal concerns at this appointment  Department: [**Hospital1 7975**] ST. HEALTH CENTER When: WEDNESDAY [**2169-4-12**] at 9:00 AM With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 11980**], MD [**Telephone/Fax (1) 7976**] Building: [**Hospital1 7977**] ([**Location (un) 686**], MA) [**Location (un) **] Campus: OFF CAMPUS Best Parking: Free Parking on Site Please follow up on your lungs, heart rate control, and diabetes at this appointment.

@@ -1,0 +1,68 @@
+Admission Date:  [**2152-2-4**]              Discharge Date:   [**2152-2-28**]  Date of Birth:  [**2079-7-18**]             Sex:   M  Service: MEDICINE  Allergies: Bactrim  Attending:[**First Name3 (LF) 13685**] Chief Complaint: Shortness of breath  Major Surgical or Invasive Procedure: Right IJ hemodialysis catheter placement PICC line placement Arterial line placement Intubation and extubation  History of Present Illness: 72 year old male with h/o CVA with expressive aphasia, OSA, severe AS (valve area 1.0cm2), [**12-12**]+ AR, CAD, chronic diastolic CHF, thalassemia presenting for shortness of breath and weight gain.
+Per report, the patient was seen by his PCP today on routine follow-up and was noted to have dyspnea on exertion and a 20 pound weight gain over the past 2 weeks.
+Labs showed Hct at baseline of 27, Cr 2.1 with recently increased baseline, BNP [**Numeric Identifier 38280**], Trop 0.06 x2.
+The patient was given ASA 325mg and Torsemide 20mg IV x1.
+He was admitted for further management.
+CARDIAC HISTORY: -CABG: -PERCUTANEOUS CORONARY INTERVENTIONS: -PACING/ICD: 3.
+OTHER PAST MEDICAL HISTORY: - Coronary artery disease s/p stent (LCx, [**2145**] at [**Hospital1 882**]) - Chronic systolic and diastolic CHF (EF 30-35% in the past, most recently >55%) - Aortic stenosis (1.0cm2) - CVA [**2145**], left MCA with expressive aphasia, motor planning deficits, right-sided neglect.
+On coumadin in the past, stopped due to GI bleed - GI bleed [**2146**], due to hemorrhoids.
+Also [**6-/2151**] due to hemorrhoids and coumadin stopped.
+- BPH - Prostate CA, [**Doctor Last Name **] 3+3, s/p XRT [**2142**] - Thalassemia trait - G6PD, class I - severe - OSA on BiPap 16/13 at home.
+O2 sat 85% at rest, on 2L home O2  - Moderate pulmonary hypertension - Gout - Chronic back pain and lumbar spinal stenosis - Left eye blindess [**1-12**] trauma - Burn to L shoulder as a child - Osteoarthritis - H/o colon polyp - H/o pancreatitis .
+80% occlusion in Cx (stented), 45% in RCA.
+Doesn't know the names of any of his medications but states he manages them himself.
+Labs on discharge: [**2152-2-28**] ================== BUN: 51, creat: 1.4, bicarb: 34 Na: 139, K 3.9 Hct: 29.6, WBC: 7.2, Plt: 318  Ca: 9.7 Mg: 2.1 P: 4.6     Brief Hospital Course: Mr. [**Known lastname 19122**] is a 72 year-old man with h/o CVA with expressive aphasia, OSA, AS, CAD, OSA on BiPap, chronic systolic CHF (EF30-35%) and thalassemia who was admitted for a CHF exacerbation.
+He also has severe AS, valve area 1.0 and mild-moderate AR, with EF>55% in [**11-18**].
+He was initially diuresed with torsemide 40mg IV and lasix gtt with very low urine output and worsening Cr.
+He was placed on a diuresis holiday to allow his kidneys to recover.
+A PICC line was placed and he was started on a dopamine drip and given 100mg IV torsemide with brisk diuresis.
+He was transferred to the CCU on [**2152-2-8**] for further management and was inubated for poor oxygenation on non-rebreathing mask.
+He was subseqently continued on a dopamine drip at renal vascular doses with excellent diuresis to 1-2L negative net fluid balance daily.
+He continued to required significant diuresis and his dopamine drip was subseqently stopped and he was started on a lasix drip with excellent response achieving lenght of stay fluid balance approaching negative 20L.
+He was then transitioned to po torsemide and was discharged on torsemide 40 mg po daily along with a 1.5 L fluid restriction.
+While intubated, he was diuresed with dopamine and lasix with goal net output of 2L per day achieving a length of stay fluid balance approaching negative 20L.
+He was continued on nasal cannula as needed and BiPAP at night.
+On discharge, he was no longer requiring nasal cannula.
+He needs to wear Bipap at night to avoid CO2 retention and confusion.
+#Ventilator-Associated Pneumonia: Patient developed ventilator associated pneumonia with sputum growing 2 species of enterobacter cloacea and one species klebsiella pneumoniae.
+He completed an 8 day course of cefepime with resolution of his symptoms.
+He was seen by CT [**Doctor First Name **] who identified him as a poor candidate for surgery and was subsequently evaluated by the Aortic Stenosis Service for possible percutaenous AVR who also felt that he was a poor candidate for an intervention.
+It was explained to the family that pt would likely continue to have acute CHF episodes despite maximal medical treatment and suggested that family and pt consider DNR/DNI and possible comfort care.
+The pt and family is not ready for this step but should continue to maintain a dialogue regarding goals of care.
+# CORONARIES: Patient with known CAD s/p LCx stent at [**Hospital1 882**].
+He was treated with aspirin, Metoprolol, statin.
+His Cr was 2.0 on admission and trended up to 3.0 with torsemide/lasix diuresis.
+He was placed on a diuresis holiday x 36 hours without improvment in Cr.
+He subseqently responded well a dopamine drip and subsequently a lasix drip.
+Please check chem-7 and CBC on Wednesday [**3-1**] and consider starting ACE inhibitor in a few days if creatinine is stable.
+He was on coumadin in the past, but stopped due to GI bleed.
+# BPH: He was continued on his home tamsulosin regimen.
+# Gout: Allopurinol was held initially given ARF and then restarted when creatinine returned to [**Location 213**].
+2. latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS 3. timolol maleate 0.25 % Drops Sig: One (1) Drop Ophthalmic DAILY 4.
+Overnight CPAP or oxygen at 4L NC: CPAP is preferred but patient sometimes refuses in which case overnight O2 by NC can be used at 4L.
+5. fluticasone-salmeterol 250-50 mcg/dose Disk with Device Sig:  One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+6. metoprolol tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID 7. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable  PO DAILY (Daily).
+8. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: 1-2 Puffs Inhalation Q4H (every 4 hours) as needed for wehezeing.
+9. tamsulosin 0.4 mg Capsule, Sust.
+10. simvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY - Torsemide 40mg daily, recently increased to [**Hospital1 **] per pt - Oxycodone-Acetaminophen 5-325 1-2 tabs q4h prn pain   Discharge Medications: 1. heparin (porcine) 5,000 unit/mL Solution Sig: One (1) injection Injection TID (3 times a day).
+2. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+3. gabapentin 100 mg Capsule Sig: One (1) Capsule PO TID (3 times a day).
+4. latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS (at bedtime).
+5. simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+6. tamsulosin 0.4 mg Capsule, Ext Release 24 hr Sig: Two (2) Capsule, Ext Release 24 hr PO HS (at bedtime).
+7. timolol maleate 0.5 % Drops Sig: One (1) Drop Ophthalmic [**Hospital1 **] (2 times a day).
+8. allopurinol 100 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+9. senna 8.6 mg Capsule Sig: One (1) Tablet PO BID (2 times a day).
+10. torsemide 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+11. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+12. ferrous sulfate 300  mg (60 mg Iron) Tablet Sig: One (1) Tablet PO DAILY (Daily).
+13. bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal DAILY (Daily) as needed for constipation.
+14. fluticasone-salmeterol 250-50 mcg/dose Disk with Device Sig: One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+15. omeprazole 20 mg Capsule, Delayed Release(E.C.)
+16. metoprolol succinate 50 mg Tablet Extended Release 24 hr Sig: One (1) Tablet Extended Release 24 hr PO once a day.
+17. ipratropium-albuterol 18-103 mcg/Actuation Aerosol Sig: [**12-12**] puffs Inhalation four times a day as needed for shortness of breath or wheezing.
+18. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+19. polyethylene glycol 3350 17 gram/dose Powder Sig: One (1) packet PO DAILY (Daily).
+Discharge Disposition: Extended Care  Facility: [**Location (un) 1459**] Care and Rehabilitation Center  Discharge Diagnosis: Primary: Acute on chronic systolic Congestive Heart failure: no ACE/[**Last Name (un) **] [**1-12**] [**Last Name (un) **] Acute renal failure Aortic Stenosis Anemia Obstuctive sleep apnea on Bipap Acute on Chronic Kidney Disease  Secondary: Hypertension   Discharge Condition: Mental Status: Confused - always.
+An echocardiogram was done of your heart which showed worsening heart failure.
+We have made the following changes to your medications: - Decrease Torsemide to once daily - start senna, miralax, bisacodyl and colace to prevent constipation - Discontinue albuterol and atrovent nebs - Increase Metoprolol to 50 mg daily - Increase omeprazole to twice daily  Followup Instructions: Name: [**Name (NI) **], [**Name (NI) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **] Location: [**Hospital1 641**] Address: [**Location (un) **], [**Location (un) **],[**Numeric Identifier 718**] Phone: [**Telephone/Fax (1) 2258**] APpt:  We are working on an appt for you and the office will call you at home with the appt.

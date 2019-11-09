@@ -1,0 +1,20 @@
+Admission Date:  [**2158-5-4**]              Discharge Date:   [**2158-5-7**]  Date of Birth:  [**2109-8-21**]             Sex:   M  Service: NEUROSURGERY  Allergies: Benadryl  Attending:[**First Name3 (LF) 1835**] Chief Complaint: recurrent mass on MRI  Major Surgical or Invasive Procedure: Left parietal craniotomy for tumor resction   History of Present Illness: [**Known firstname **] ([**Doctor Last Name **]) [**Known lastname 50873**] is a 48 year-old left-handed man with a left parietal low-grade oligodendroglioma.
+Craniotomy for gross total resection on [**2154-11-12**] by Dr. [**First Name (STitle) **].
+His wife noted [**Name2 (NI) **] posturing of all extremities, lips were blue, and he gave a loud sound.
+He was started on Decadron and Dilantin.
+Surgical resection was recommended and underwent on [**2154-11-12**] by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD.
+Pertinent Results: [**2158-5-4**] 02:33PM   GLUCOSE-138* UREA N-14 CREAT-1.0 SODIUM-139 POTASSIUM-4.0 CHLORIDE-105 TOTAL CO2-27 ANION GAP-11 [**2158-5-4**] 02:33PM   estGFR-Using this [**2158-5-4**] 02:33PM   CALCIUM-9.8 PHOSPHATE-2.3*# MAGNESIUM-1.9 [**2158-5-4**] 02:33PM   WBC-9.3# RBC-5.43 HGB-15.3 HCT-43.2 MCV-79* MCH-28.1 MCHC-35.4* RDW-13.2 [**2158-5-4**] 02:33PM   PLT COUNT-206 [**2158-5-4**] 02:33PM   PT-13.2* PTT-35.0 INR(PT)-1.2* [**2158-5-4**] 02:03PM   TYPE-ART TIDAL VOL-750 O2-40 PO2-182* PCO2-37 PH-7.44 TOTAL CO2-26 BASE XS-1 INTUBATED-INTUBATED VENT-CONTROLLED [**2158-5-4**] 02:03PM   GLUCOSE-107* LACTATE-2.0 NA+-139 K+-4.1 CL--106 [**2158-5-4**] 02:03PM   HGB-15.6 calcHCT-47 [**2158-5-4**] 02:03PM   freeCa-1.26 [**2158-5-4**] 01:15PM   TYPE-ART TIDAL VOL-750 O2-40 PO2-175* PCO2-27* PH-7.55* TOTAL CO2-24 BASE XS-3 INTUBATED-INTUBATED VENT-CONTROLLED [**2158-5-4**] 01:15PM   GLUCOSE-107* LACTATE-2.0 NA+-131* K+-5.3 CL--101 [**2158-5-4**] 01:15PM   HGB-16.5 calcHCT-50 [**2158-5-4**] 01:15PM   HGB-16.5 calcHCT-50  Postop Head CT: FINDINGS: The patient is status post left parietal craniotomy and removal of a left parietal mass lesion.
+IMPRESSION: Expected postoperative finding status post left parietal craniotomy and tumor resection.
+He was taken to the operating room where he underwent a Left craniotomy for resection of mass.
+On POD3 pt was discharged home in stable condition on a decadron wean, to follow-up in 1 week for d/c staples and appt at bone tumor clinic.
+Medications on Admission: Lamictal 200 mg [**Hospital1 **] Altace 10 mg [**Hospital1 **] Piroxicam/Feldene 20 mg daily HCTZ 12.5 mg daily (he does not always take this medication).
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO TID (3 times a day): take while on narcotic pain meds.
+Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 4 to 6 hours) as needed.
+Piroxicam 10 mg Capsule Sig: Two (2) Capsule PO DAILY (Daily).
+Hydrochlorothiazide 25 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+Lamotrigine 100 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day).
+Ramipril 5 mg Capsule Sig: Two (2) Capsule PO BID (2 times a day).
+Dexamethasone 4 mg Tablet Sig: One (1) Tablet PO three times a day for 6 doses: Taper schedule: Day 1: 4mg 3x/day Day 2: 4mg 2x/day Day 3: 4mg/day Day 4: 3mg/day Day 5: 2mg/day Day 6: 1mg/day Day 7: finished with taper.
+Decadron 0.5 mg Tablet Sig: Six (6) Tablet PO once a day for 3 days: Taper schedule: Day 1: 4mg 3x/day Day 2: 4mg 2x/day Day 3: 4mg/day Day 4: 3mg/day Day 5: 2mg/day Day 6: 1mg/day Day 7: finished with taper.
+Disp:*12 Tablet(s)* Refills:*0*   Discharge Disposition: Home  Discharge Diagnosis: left parietal tumor resection   Discharge Condition: Good   Discharge Instructions: Please call the office with any questions that you may have.
+Do not get head wet until staples are removed  Followup Instructions: Please call Dr.[**Name (NI) 9034**] office to schedule an appointment to have your staples taken out.

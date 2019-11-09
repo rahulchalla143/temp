@@ -1,0 +1,8 @@
+Name:  [**Known lastname **],[**Known firstname 9211**]                    Unit No:   [**Numeric Identifier 9212**]  Admission Date:  [**2118-8-15**]              Discharge Date:   [**2118-8-18**]  Date of Birth:  [**2038-5-30**]             Sex:   F  Service: MEDICINE  Allergies: Hurricaine / Benzocaine / Adenosine  Attending:[**First Name3 (LF) 1824**] Addendum: PLEASE CHANGE YOUR PREDNISONE COURSE TO THE FOLLOWING: Prednisone 40mg daily for three more days.
+Starting [**8-22**], take Prednisone 20mg daily for four days.
+Starting [**8-26**], take Prednisone 15mg daily until you are seen by your Pulmonary doctor, Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 2306**].
+* Dr. [**Last Name (STitle) 9213**] office will be contacting [**Hospital3 474**] directly with the date and time of your next appointment.
+Medications on Admission:  Discharge Medications: PLEASE CHANGE YOUR PREDNISONE COURSE TO THE FOLLOWING: Prednisone 40mg daily for three more days.
+Starting [**8-22**], take Prednisone 20mg daily for four days.
+Starting [**8-26**], take Prednisone 15mg daily until you are seen by your Pulmonary doctor, Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 2306**].
+* Dr. [**Last Name (STitle) 9213**] office will be contacting [**Hospital3 474**] directly with the date and time of your next appointment.

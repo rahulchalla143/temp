@@ -1,0 +1,37 @@
+Admission Date:  [**2104-12-19**]              Discharge Date:   [**2104-12-26**]  Date of Birth:  [**2027-11-11**]             Sex:   M  Service: MEDICINE  Allergies: Tetanus / Azithromycin  Attending:[**First Name3 (LF) 1185**] Chief Complaint:  chest pain, hypotension  Major Surgical or Invasive Procedure: None   History of Present Illness: 77 yo male with history of coronary artery disease, PBH, recent prostate biopsy and recent dental work presented with substernal chest pain, with ED course complicated by hypotension.
+His wife gave him simethicone- the pain persisted, and given his history, she gave him aspirin and sublingual nitroglycerin, without change in pain.
+Patient was ready to be admitted to floor, and vitals were: 100.9 76/40 61 18 CVL placed, 3 liters total, CVP 8-9, and was started on noripenephrine to maintain MAP > 60.
+Denies chest pain, chest pressure, palpitations, or weakness.
+Past Medical History: CAD, status post previous CABG [**2085-10-13**] status post PTCA/stent of distal LCX and mid LCX [**2096-10-12**].
+Recurrent atypical chest, with normal p-mibi in [**7-/2104**] Recent prostate biopsy, which showed prostate cancer -> subsequent PET CT did not show evidence of metastatic disease BPH s/p TURP about five years ago hypertension hyperlipidemia obesity complicated gallbladder surgery chronic back pain gout  Social History: Patient lives in [**Location 1268**] with his wife.
+Family History: Sister died from CVA, father died at 54 from MI, brother with MI at 80   Physical Exam: Vitals: T 97.8 HR 54 BP 115/51 95 % 2 liters n/c General: Alert, oriented, no acute distress HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL.
+The patient is status post a coronary artery bypass grafting.
+Brief Hospital Course: Mr. [**Known lastname 99802**] is a 77 yo M with a hx of CAD s/p CABG, HTN, HL, recent diagnosis of prostate cancer who presented to the MICU with chest pain and hypotension.
+However, he only required pressors transiently, and his blood pressure improved significantly with fluid resuscitation.
+Unasyn was stopped when infectious workup remained unrevealing.
+He was started on hydrocortisone 15 mg in the AM and 5 mg in the PM for presumed partial adrenal insufficiency, with a plan for endocrine to taper steroids after the patient is seen in clinic.
+# Anemia - The patient had a Hct drop from 36 to 31; this was felt to be multifactorial from dilution after fluid resuscitation, phlebotomy and ongoing hematuria related to prostate cancer and recent prostate biopsy.
+# Hypoxia - After fluid resuscitation the patient had a small oxygen requirement.
+CXR showed interstitial edema and he received several doses of oral furosemide with good urine output.
+# HTN - Anti hypertensives were initially held secondary to the patient's hypotension, but low dose metoprolol was restarted on discharge.
+Metoprolol initially held, but restarted on discharge.
+# Spinal Stenosis: Continued on home oxycontin and prn oxycodone.
+Medications on Admission: ALLOPURINOL - 300 mg Tablet daily FLUOXETINE - 20 mg Capsule daily METOPROLOL SUCCINATE 25 mg daily NITROGLYCERIN - 2.5 mg Capsule, Extended Release - 1 Capsule(s) by mouth every 12 hours NITROGLYCERIN - 0.4 mg Tablet, Sublingual - 1 Tablet(s) sublingually every 5 minutes up to 3 tablets for chest pain OXAZEPAM 10 mg Capsule - 2 Capsule(s) by mouth at bedtime OXYCODONE - 5 mg Tablet - Q 4-6 hours PRN pain OXYCODONE [OXYCONTIN] - 10 mg [**Hospital1 **] PANTOPRAZOLE - 40 mg Tablet, Delayed Release (E.C.)
+- 1 Tablet(s) by mouth daily in the morning and 1 at night PRIMIDONE - 50 mg Tablet daily SIMVASTATIN - 40 mg daily SUCRALFATE 2 grams by mouth QAM and HS URSODIOL - 300 mg Capsule - two Capsule(s) [**Hospital1 **] VALSARTAN 40 mg Tablet daily ASPIRIN 325 mg Tablet daily CHOLECALCIFEROL (VITAMIN D3) 2,000 unit Tablet daily OMEGA-3 FATTY ACIDS-FISH OIL  Discharge Medications: 1. allopurinol 100 mg Tablet Sig: Three (3) Tablet PO DAILY (Daily).
+2. fluoxetine 20 mg Capsule Sig: One (1) Capsule PO DAILY (Daily).
+3. oxazepam 10 mg Capsule Sig: One (1) Capsule PO HS (at bedtime).
+4. oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for pain.
+5. oxycodone 10 mg Tablet Extended Release 12 hr Sig: One (1) Tablet Extended Release 12 hr PO Q12H (every 12 hours).
+6. pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+7. primidone 50 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+8. simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+9. sucralfate 1 gram Tablet Sig: Two (2) Tablet PO twice a day.
+Toprol XL 25 mg Tablet Extended Release 24 hr Sig: One (1) Tablet Extended Release 24 hr PO once a day.
+11. hydrocortisone 5 mg Tablet Sig: Three (3) Tablet PO QAM (once a day (in the morning)).
+Disp:*90 Tablet(s)* Refills:*2* 12. hydrocortisone 5 mg Tablet Sig: One (1) Tablet PO QPM (once a day (in the evening)).
+Disp:*30 Tablet(s)* Refills:*2* 13. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+14. cholecalciferol (vitamin D3) 1,000 unit Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Discharge Instructions: Dear Mr. [**Known lastname 99802**],  You were admitted to the hospital with low blood pressure and chest discomfort.
+Your blood pressure medications were held, you were given IV fluids and your blood pressure improved.
+You have an appointment to see endocrinology in clinic to discuss whether you will need any treatment for this condition.
+We made the following changes to your home medications: STOP Nitroglycerin STOP Ursodiol STOP Valsartan START Hydrocortisone, 15 mg in the morning and 5 mg in the PM around 2pm  Followup Instructions: Department: [**Hospital **] MEDICAL GROUP When: MONDAY [**2104-12-29**] at 2:00 PM With: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 2400**] [**Telephone/Fax (1) 133**] Building: [**Street Address(2) 3375**] ([**Location (un) **], MA) [**Location (un) 858**] Campus: OFF CAMPUS     Best Parking: On Street Parking  Department: MEDICAL SPECIALTIES-Endocrinology When: MONDAY [**2105-1-12**] at 4:20 PM With: DR. [**Last Name (STitle) **] & ZHIHENG [**Telephone/Fax (1) 1803**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage                                [**Name6 (MD) **] [**Name8 (MD) **] MD [**Doctor Last Name 1189**]

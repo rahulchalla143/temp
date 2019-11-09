@@ -1,0 +1,39 @@
+Admission Date:  [**2158-12-5**]              Discharge Date:   [**2158-12-12**]  Date of Birth:  [**2099-7-1**]             Sex:   M  Service: MEDICINE  Allergies: Iodine-Iodine Containing / Wellbutrin  Attending:[**First Name3 (LF) 2009**] Chief Complaint: nausea, abdominal pain, poor appetite  Major Surgical or Invasive Procedure: [**First Name3 (LF) **] MRCP EGD Colonoscopy   History of Present Illness: Mr. [**Known lastname 15829**] is a 59 year old male with a history of a Schatzki's ring and intermittant chronic abdominal pain who presents with 3 weeks of abdominal discomfort, nausea, and decreased appetite.
+In the ED, initial VS were: pain 4, T 97, HR 104, BP 107/64, R 16 100% RA.
+Labs were notable for elevated LFTs and a WBC count of 21.3K.
+Vitals on transfer were HR 86, BP 110/60, R 16, 96% RA.
+Smokes 1.5 - 2 ppd x 38 years, but no tobacco the last couple of weeks.
+Pertinent Results:                   WBC    Hgb   Hct    MCV MCH    RDW Plt Ct [**2152-12-11**]:15AM    10.2   11.3* 33.9*  96  32.0   17.1* 828* [**2154-12-11**]:48AM    13.6*  10.7* 32.2*  94  31.2   17.2* 775* [**2156-12-9**]:40PM                 30.6* [**2160-12-9**]:09PM                 30.1* [**2153-12-10**]:18AM    9.5    9.8*  29.7*#  91  29.9  17.1* 730* [**2156-12-8**]:36PM                 23.5* [**2155-12-9**]:32PM    9.0    8.3*  23.7*   94  32.9* 15.8* 660* [**2159-12-9**]:30AM    9.4    7.8*  24.6*   99* 31.1  15.5 934* [**2154-12-9**]:55AM    10.4   7.1*  21.0*#  97  32.8* 15.3 842* [**2154-12-8**]:40AM    11.9*  9.4*  29.3*   98  31.4  15.2 853* [**2156-12-6**]:05AM    16.5*  9.2*  27.9*   97  31.8  15.1 808* [**2156-12-5**]:25AM    21.8*  10.4* 31.7*   97  31.7  15.2 889* [**2151-12-5**]:00PM    21.3*# 12.4* 36.9*   97  32.3* 15.3 911*# .
+DIFFERENTIAL        Neuts  Lymphs Monos Eos Baso [**2158-12-12**] 04:15AM    71.8*   22.6  4.0  1.3  0.4 [**2158-12-7**] 07:05AM    85.1*   9.6*  4.8  0.2  0.1 [**2158-12-5**] 02:00PM    84*     2 6*  7 0  0 0  0 1* .
+RED CELL MORPHOLOGY Hypochr Anisocy Poiklo Macrocy Microcy Polychr [**2158-12-5**] 02:00PM    NORMAL NORMAL NORMAL 1+ NORMAL NORMAL  BASIC COAGULATION       PT   PTT     INR(PT) [**2158-12-12**] 04:15AM    12.4  25.1     1.0 [**2158-12-9**] 02:18PM    13.6* 28.7     1.2* [**2158-12-5**] 09:00PM    14.5* 31.1     1.3* .
+ALT   AST  LD(LDH) AlkPhos TotBili DirBili IndBili [**2154-12-9**]:55AM    45*   31          545*                    0.4  [**2154-12-8**]:40AM    54*   25          760*                    0.5  [**2156-12-6**]:05AM    74*   31          919*                    0.7  [**2156-12-5**]:25AM    115*  79*  [**Telephone/Fax (1) 15830**]*                    1.6*  [**2151-12-5**]:00PM    165* 130*        1677*     1.7*   0.7*    1.0 .
+Lipase [**2158-12-5**] 02:00PM    105*                              Calcium Phos Mg  Iron [**2158-12-12**] 04:15AM          9.0    2.9  2.4 [**2158-12-11**] 06:48AM          8.9    3.4  2.1 [**2158-12-10**] 05:18AM          8.4    3.7  1.6 [**2158-12-9**] 06:55AM          8.1*   3.3  1.7 [**2158-12-8**] 06:40AM          8.5    2.8  1.8 [**2158-12-7**] 07:05AM          8.3*   2.9  2.0   41* [**2158-12-6**] 07:25AM          8.7    3.4  1.8 [**2158-12-5**] 02:00PM          9.3    3.8  2.0 .
+IMMUNOLOGY CEA [**2158-12-7**] 07:05AM    3.3 .
+Blood Gas                     Lactate [**2158-12-9**] 02:47PM    1.5  .
+Studies: [**2158-12-5**] PA & LAT CXR - IMPRESSION: 1.
+[**2158-12-5**] RUQ ultrasound - IMPRESSION: 1.
+[**2158-12-6**] [**Month/Day/Year **] - Impression: A Biliary stricture was found in the lower third of the bile duct.
+[**2158-12-6**] MRCP - IMPRESSION: FINDINGS: There is a 5.4 x 3.8 cm complex cystic mass in the head and neck of the pancreas, the pancreatic duct is dilated upstream as well as downstream.
+The downstream pancreatic duct demonstrates mild increased signal intensity on T1-weighted sequences, which is hypointense compared to the signal intensity of bile in the gallbladder on T2 weighted images.
+The intra- and extra-hepatic bile ducts are dilated and the suprapancreatic common bile duct measures 14 mm (image 3, series 7).
+Multiplanar 2D and 3D reformations and subtraction images provided multiple perspectives for the dynamic series.
+Enhancement of the intra- and extra-hepatic bile ducts, possibly indicating cholangitis.
+Blood and urine cultures were negative  Brief Hospital Course: Mr. [**Known lastname 15829**] is is a 59 year old male who presented with dehydration, nausea, abdominal pain, and poor appetite who was found to have a pancreatic head mass and cholangitis.
+#  Cholangitis - The patient's WBC count was elevated on presentation.
+#  Pancreatic head mass - Initially seen on abdominal ultrasound and concerning for malignancy.
+As the patient was unable to get CT scan due to iodinated contrast  allergy, surgery recommended an MRCP for further evaluation.
+Hematology oncology was consulted and their recommendations were to await the cytology and CA19-9 an abnormality in either of which would be diagnostic of pancreatic cancer.
+#  Hyponatremia - The patient was hyponatremic on presentation with a serum sodium of 127.
+His hyponatremia improved with IV fluids.
+At that time his pressure was noted to be systolic 80-90 and a hct was 21 down from 29 (although a repeat was noted to be 24.6).
+He was transfused blood and an endoscopy was performed that day in the MICU and no source of bleeding could be found.
+He also had a colonoscopy which revealed a sigmoid polyp which was removed but no evidence of bleeding.
+His hematocrit remained stable.
+# concern for gangrenous cholecystitis on MRCP - felt to be low prob as had no abdominal pain after stenting .
+Cholangitis 2.
+Gastrointestinal bleed  Secondary Diagnosis: Major Depression   Discharge Condition: Mental Status:Clear and coherent Level of Consciousness:Alert and interactive Activity Status:Ambulatory - Independent   Discharge Instructions: Dear Mr. [**Last Name (Titles) **], You were admitted to the hospital for evaluation of nausea and abdominal pain.
+You will need a repeat [**Last Name (Titles) **] in about 2 months.
+You will also be scheduled for an endoscopic ultrasound to evaluate the lesions in your liver.
+They also did a colonoscopy and removed a polyp but did not see any sign of bleeding.
+Dr.[**Name (NI) 15832**] office will call you and schedule you for an endoscopic ultrasound soon.
+Oncology: Provider: [**First Name4 (NamePattern1) 488**] [**Last Name (NamePattern1) 6401**], MD Phone:[**Telephone/Fax (1) 22**] Date/Time:[**2158-12-20**] 10:00 Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 593**], MD Phone:[**Telephone/Fax (1) 22**] Date/Time:[**2158-12-20**] 10:00  Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] Specialty: Internal Medicine-Primary Care Date/ Time: [**2158-12-22**] 8:10am Location: [**Street Address(2) 15833**], [**Location (un) 538**]- [**Hospital3 **] JP Phone number: [**Telephone/Fax (1) 608**]  Your Repeat [**Telephone/Fax (1) **] is scheduled as follows: Provider: [**Name Initial (NameIs) **] 2 (ST-4) GI ROOMS Date/Time:[**2159-2-1**] 11:00 Provider: [**Name10 (NameIs) 1948**] [**Last Name (NamePattern4) 1949**], MD Phone:[**Telephone/Fax (1) 463**] Date/Time:[**2159-2-1**] 11:00

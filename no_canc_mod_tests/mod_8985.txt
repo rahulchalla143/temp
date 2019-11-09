@@ -1,0 +1,42 @@
+In ED, the patient presented with rales and BNP >[**Numeric Identifier 4731**].
+Abdominal CT showed no inflammation or abscess as source of infection, improved ascites and bilateral pleural effusions.
+Physical Exam: EXAM on discharge: Vitals: Tm: 99.6, Tc: 98.2, 150/70 (SBP range 120 to 150), HR 65 (HR range 65-76), O2 sat 100%/2L (baseline) .
+able to move all 4 ext, nl sensation to LT   Pertinent Results: CBC [**2127-7-16**]   6.9 / HCT-26.3* MCV-94 / 351 [**2127-6-19**]  5.4 / Hct-31.8* MCV-101 / 320 Neuts-75.6* Lymphs-17.3* Monos-3.2 Eos-3.3 Baso-0.6 [**2127-6-20**] folate 773 B12 18.2 [**2127-6-20**] 4.4 / 25.9* MCV-101* / 259 Retic: 4.2* DIff: N64.1  L25.0 M3.6 E6.6* A0.7 Guiac negative rbc morphology Hypochr Anisocy Poiklo Macrocy Microcy Polychr .
+COags [**2127-6-19**] PT-13.9* PTT-31.3 INR(PT)-1.2* .
+[**2127-6-19**] UA 02:00PM URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.021 [**2127-6-19**] 02:00PM URINE Blood-SM Nitrite-NEG Protein-100 Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-SM URINE RBC-0-2 WBC-[**10-28**]* Bacteri-FEW Yeast-FEW Epi-0-2 .
+LFTs [**2127-6-23**] ALT 13 AST 17 LDH 181  Alkphos55   Tbili0.2 .
+Cardiac enzymes [**2127-6-20**] CK(CPK)-24* / BLOOD CK(CPK)-18* /CK(CPK)-22* cTropnT-0.03* /cTropnT-0.03*/ cTropnT-0.01 [**2127-6-19**] ALT-15 AST-20  AlkPhos-69 Amylase-29 TotBili-0.3 Lipase-9 proBNP-[**Numeric Identifier 42495**]* .
+[**2127-6-20**] 05:10AM BLOOD Cortsol-28.9* [**2127-6-20**] 04:43AM BLOOD Cortsol-23.7* .
+Reports CXR [**2127-6-20**]: Mild pulmonary edema and small-to-moderate right pleural effusion have worsened.
+ECG [**2127-6-19**] Sinus rhythm and occasional atrial ectopy.
+Compared to the previous tracing of [**2127-5-7**] the rate has  increased  ECG [**Numeric Identifier 42496**]: HR 85, NSR, LBBB, LVH, TWI in I, avL;  Q in III, AVF, V1; no acute ST changes .
+Prior ECHO [**2126-1-2**]:  LAD, Dilated LV, LV hypokinesis w/ focalities to the mid and apical infroseptal walls.
+[**2127-6-27**] CXR Right internal jugular catheter has been removed and left PICC line remains in standard position.
+Stool Analysis [**2127-7-12**]: Guaiac negative Urine cx [**2127-7-11**]: yeast, repeat urine cx [**2127-7-13**]: no growth Isolated blood cx on [**2127-7-11**]: coag negative staph ([**Last Name (un) 36**] pending), likely contamination Blood cx on [**2127-7-13**]: NGTD .
+Chest XRAY [**2127-7-11**] Interval worsening of interstitial edema with left basilar opacity representative of collapse/consolidation with probable effusion  Brief Hospital Course: 74 yo with CHF, PVD, CAD, hx of MRSA indwelling foley, s/p recent aorto-fem [**Doctor Last Name **] bypass c/b wound infection admitted with SOB likely [**1-10**] to CHF exacerbation with course c/b self-resolving hypotension following diuresis continued on diuresis on admission.
+SOB [**1-10**] decompensated CHF given CXR showing worsening effusion and edema.
+A new ECHO performed as an inpatient revealed inferior hypokinesis suggestive of a recent MI of unknown date (EF of 20-25%) but negative troponins and negative ECG on admission.
+Infection was a less likely trigger given the absence of leukocytosis and hx of aztreonam and vancomycin prior to admission.
+UCx and wound cultures were negative, though the patient presented with thick secretions.
+Also of note, the systolic blood pressures in her right arm are 30-40 mmHg lower than her left arm (likely [**1-10**] subclavian artery stenosis on right).
+Patient had an episode of vomiting and likely aspirated based on the chest x-ray finding of likley aspiration PNA.
+Patient was slowly weaned off, but cause of hypotension is not completely clear though it was thought likely secondary to both hypovolemia and possible measurement of blood pressure from right arm.
+Infectious Disease: The patient was treated for >8 weeks on aztreonam and vanc for double coverage given e/o from OSH ([**Hospital1 1474**]) with wound cultures on [**2127-5-8**] positive for E. coli R to TMX-SMX, gentamicin, amp, cipro; Proteus R to tmx-smx, cipro, levo, cirpo, nitro; and MRSA R to cefazolin, oxacillin, clina, pen, erythro, confirmed with wound cultures from [**Hospital1 18**].
+Blood cultures continued to be negative.
+Urine culture positive for yeast only.
+Fevers: cultures were drawn for occasional spikes in temperature, with no significant growth from blood.
+Blood cultures grew coag neg staph from [**7-11**] from 1/2 bottles - likely contaminant given that she was already on Vanc which was therapeutic.
+Urine cultures grew out yeast initially, with resolution after removal of the Foley catheter.
+Abdominal pain: had this during admission though LFTs wnl, abdominal CT negative and abdominal exam unimpressive.
+TSH wnl, and LFTs wnl.
+Diabetes: insulin regimen was titrated and upon discharge, it was NPH 22U in am, 12U in pm; insulin SS beginning at 4U for FS 151-200mg, with increment of 2U for every +50mg.
+Incentive spirometry as well as chest PT and continued treatement with nebs were encouraged, and the patient's respiratory status improved to an oxygen requirement of 1-2L NC, with CPAP as needed at night.
+Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Sodium Chloride 0.65 % Aerosol, Spray Sig: [**12-10**] Sprays Nasal QID (4 times a day) as needed.
+Ondansetron HCl (PF) 4 mg/2 mL Solution Sig: One (1) Injection Q8H (every 8 hours) as needed for nausea.
+An ultrasound of your heart compared to an ultrasound done last year demonstrated that your heart was pumping at less than 25% of its expected level and that a new area at the bottom of your heart was not pumping and injured.
+You  have an appointment for lung function tests [**8-7**], at 1:30pm, [**Location (un) 436**] [**Hospital Ward Name 23**].
+You will go first to do lung function tests at 1:30pm, and then meet with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], the pulmonologist to discuss these tests.
+Phone:[**Telephone/Fax (1) 612**] .
+Please call to reschedule if this is inconvenient to the number [**Telephone/Fax (1) 3121**] or [**Telephone/Fax (1) 1237**].
+An interpreter will be present at all these visits.

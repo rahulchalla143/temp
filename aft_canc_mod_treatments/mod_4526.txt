@@ -1,0 +1,38 @@
+Admission Date:  [**2132-4-27**]              Discharge Date:   [**2132-5-1**]  Date of Birth:  [**2087-1-11**]             Sex:   M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 2712**] Chief Complaint: Respiratory distress   Major Surgical or Invasive Procedure: None  History of Present Illness: Mr. [**Known lastname 86946**] is a 45 year old gentleman with stage 4 tracheal SCC s/p cisplatin/etoposide, docetaxel, XRT, tracheal stenting x2, cryotherapy via debulking found to have a TE fistula now admitted to the MICU for respiratory distress.
+He was then brought to the [**Hospital1 18**] ED for further management.
+Of note, the patient most recently underwent rigid bronchoscopy on [**3-24**] with tumor debulking via cryotherapy.
+He had previously had tracheal stents placed in [**11-18**] and [**12-19**], and was found to have a TE fistula in [**3-21**] on barium swallow.
+He received vancomycin and 1L IVF, and a CT Trachea per IP.
+Timeline --[**8-/2131**] presented with hoarseness to ENT.
+-- [**2131-9-24**] underwent rigid bronchoscopy with tumor excision and endobronchial biopsy; pathology revealed poorly-differentiated squamous cell carcinoma.
+-- [**2131-11-29**] rigid bronchoscopy with tumor debridement and 20x40 metallic Ultraflex covered stent placement.
+-- [**2131-12-4**] admitted to ICU from clinic for urgent RT for progressive dyspnea and urgent flexible bronchoscopy which revealed extrinsic compression of the stent to 50% diameter and tumor spread down the distal trachea.
+-- [**2131-12-6**] began RT for planned 5400cGy -- [**2131-12-7**] C1D1 Cisplatin/Etoposide similar to SWOG regimen for IIIA/B NSCLC -- [**2131-12-11**] percutaneous gastrostomy placed -- [**2131-12-18**] admitted with fever to 103 after 1750cGy, on Vanc/Cef/Mica.
+-- [**2131-12-21**] repeat bronch with deployment of metallic Ultraflex covered stent [**41**] x 40mm within the existing stent.
+-- [**2131-12-28**] Docetaxel 75mg/m2, progression after Cis-Etop -- [**2132-1-14**] Completed 5400cGy RT to upper airway -- [**2132-1-30**] repeat bronch with patent stent and no endobronchial lesions.
+Patchy left base retrocardiac opacity is seen which may be due to atelectasis, although infection and/or aspiration is not excluded.
+A gastric tube is again noted.
+Presence of gas within the retrotracheal mass at the upper margin of the stent raises the possibility of localized perforation, a potential stent complication.
+Brief Hospital Course: Mr. [**Known lastname 86946**] is a 45 year old gentleman with stage 4 tracheal SCC s/p cisplatin/etoposide, docetaxel, XRT, tracheal stent x2, cryotherapy debulking found to have a TE fistula now admitted to the MICU for respiratory distress.
+Comfort care: Patient had a PICC line placed prior to discharge for administration of a morphine PCA.
+Other comfort medications provided at the time of discharge as listed in discharge paperwork.
+Respiratory status: Hypoxemic respiratory distress in setting of terminal tracheal SCC and TE fistula, with CT trachea demosntrating worsening tumor progression.
+Patient treated empirically with vanco, pip/tazo, and cipro, which was converted to levofloxacin for a 7 day course on discharge.
+CODE: DNR/DNI, COMFORT CARE ONLY  Medications on Admission: Albuterol nebs prn Baclofen 10 mg po tid prn Benzonatate 100 mg po tid Bupropion ER 150 mg daily Fentaynl 50 mcg/hr patch Q72H Ipratropium nebs prn Lanzoprazole 30 mg daily Lidocaine nebs Lorazepam 0.5-1 mg Q6H prn Megestrol 400 mg/10mL, 10 mL daily Methylphenidate 10 mg po bid Metoclopramide 10 mg po tid prn Morphine 100 mg/5 mL, [**2-11**] mL Q2-3H prn Scopolamine patch Q72H Trazodone 100-200 mg qhs prn APAP prn Bisacodyl PR prn Maalox prn Colace liquid Miralax prn  Discharge Medications: 1. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization [**Month/Day (3) **]: One (1)  Inhalation Q2H (every 2 hours) as needed for shortness of breath or wheezing.
+2. ipratropium bromide 0.02 % Solution [**Month/Day (3) **]: One (1)  Inhalation Q6H (every 6 hours) as needed for shortness of breath or wheezing.
+3. benzonatate 100 mg Capsule [**Month/Day (3) **]: One (1) Capsule PO TID (3 times a day).
+4. fentanyl 50 mcg/hr Patch 72 hr [**Month/Day (3) **]: One (1) Patch 72 hr Transdermal Q72H (every 72 hours).
+5. lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: One (1) Tablet,Rapid Dissolve, DR [**Last Name (STitle) **] DAILY (Daily).
+Wellbutrin SR 150 mg Tablet Extended Release [**Last Name (STitle) **]: One (1) Tablet Extended Release PO once a day.
+7. docusate sodium 50 mg/5 mL Liquid [**Last Name (STitle) **]: One (1)  PO BID (2 times a day).
+8. senna 8.6 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO DAILY (Daily).
+9. lidocaine (PF) 10 mg/mL (1 %) Solution [**Last Name (STitle) **]: One (1) ML Injection Q4H (every 4 hours) as needed for throat pain.
+10. scopolamine base 1.5 mg Patch 72 hr [**Last Name (STitle) **]: One (1) Patch 72 hr Transdermal Q72H (every 72 hours).
+11. bisacodyl 5 mg Tablet, Delayed Release (E.C.)
+12. levofloxacin 750 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO DAILY (Daily) for 4 days.
+Disp:*4 Tablet(s)* Refills:*0* 13. morphine in 0.9 % NaCl 1 mg/mL Parenteral Solution [**Last Name (STitle) **]: One (1) Bag Intravenous PCA: Basal rate: 0.5-4.0 mg/hr.
+Bolus [**8-19**] mg Q5Minutes prn for respiratory distress.
+Stage IV tracheal squamous cell carcinoma   Discharge Condition: Mental Status: Confused - sometimes.
+You had a PICC line placed and were started on a morphine PCA, which will be continued at the time of discharge.
+You were started on antibiotics during your admission, which will be continued at the time of discharge.
+The instructions for this antibiotic are: - levofloxacin 750 mg po daily, stop after [**2132-5-3**]  Followup Instructions: Please follow up with your Hospice team for additional medical needs.

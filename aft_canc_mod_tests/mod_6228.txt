@@ -1,0 +1,18 @@
+Given history of prior history of ATN and fluid overload requiring CVVH during last admission ([**Month (only) **]-[**Month (only) **]/[**2165**]), patient was brought to [**Hospital Unit Name 153**] for continued intubation, monitoring of volume status and UOP post procedure.
+Vitals stable, oxygenating well, family at bedside.
+Past Medical History: -Large ascending aortic dissection in [**2160**] s/p Dacron graft placement and St. Jude's valve placement (on coumadin goal INR 2.5-3.5) -R perinephric bleed s/p IR embolization of R kidney ([**2165-12-15**]) -R renal mass -Hypertension -Hypercholesterolemia -Mild chronic kidney disease (baseline Cr 1.1-1.3)   Social History: married, has 3 children.
+98.7, 165/49, 77 GENERAL - intubated, sedated HEENT - PERRLA NECK - supple, no thyromegaly, JVP=10 LUNGS - CTA anteriorly HEART - +mechanical SEM in across precordium, no rubs ABDOMEN - dressings over large right flank incision site, c/d/i, soft, trace bowel sounds EXTREMITIES - WWP, no LE edema   Brief Hospital Course: Patient was admitted post-operatively to the [**Hospital Ward Name 332**] ICU under Dr.[**Name (NI) 24219**] Urology service.
+On POD 1, his PTT ranged from 65.7-94.3.
+In late POD 1, early POD 2, he was noted to have a decreasing hct, for which he received a transfusion of 2u pRBCs.
+His UOP decreased and his creatinine increased from 1.8 immediately postoperatively to 4.1 on early POD 2.
+A CT scan of the abdomen/pelvis without contrast was performed, which demonstrated a large R retroperitoneal hematoma.
+Heparin gtt was stopped and the patient was transfused as necessary to keep his hct > 25.
+He received a total of 7u of pRBCs, after which his hct stabilized off anticoagulation.
+The patient's creatinine peaked at 5.3 on [**2166-3-2**], after which his urine output improved significantly and his renal function began to improve, settling out at 1.8 on [**Date Range **].
+The remainder of his hospital course was uncomplicated, and involved restarting coumadin to reach a therapeutic INR of 2.5-3.5.
+This required coumadin doses of 7.5 mg PO qhs to eventually reach an INR of 2.5 upon [**Date Range **].
+The patient's primary care physician was [**Name (NI) 653**], who recommended discharging the patient on his home coumadin dose (3.0) with a plan to follow-up with the pt's PCP three days later for an INR check and coumadin dose adjustment.
+Warfarin 3 mg Tablet Sig: One (1) Tablet PO at bedtime: Please follow up with your PCP [**Last Name (NamePattern4) **] [**2166-3-17**] for an INR check to keep your INR between 2.5-3.5.
+Please follow-up with your PCP on [**Name9 (PRE) 766**] [**2166-3-17**] for an INR check.
+Please follow-up with your primary care physician on MONDAY [**2166-3-17**] for an INR check.
+Your INR checks will need to be more frequent in the first two weeks because your coumadin doses have been different.

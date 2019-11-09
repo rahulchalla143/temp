@@ -1,0 +1,56 @@
+Admission Date:  [**2157-11-8**]              Discharge Date:   [**2157-11-11**]  Date of Birth:  [**2099-12-5**]             Sex:   M  Service: SURGERY  Allergies: Sulfa (Sulfonamides) / Lisinopril  Attending:[**Last Name (NamePattern1) 4659**] Chief Complaint: Fever, Rigors/chills  Major Surgical or Invasive Procedure: CT-guided LLQ intraabdominal abscess drainage w/ drain placement [**2157-11-8**] LUE PICC (double lumen) placed via IR [**2157-11-10**]  History of Present Illness: 57 yo M with h/o diverticular stricture s/p sigmoid colectomy and diverting ileostomy on [**8-22**] followed by long complicated hospital course requiring tracheostomy and hyperalimentation, discharged to rehab on [**2157-10-24**] who now returns with fever to 100.7 at rehab associated with rigors and hypotension.
+He was sent to the [**Hospital Unit Name **] for a CT torso but was found to have a BP of 60/palp and was given IVF and sent to the ED for eval.
+In the ED, his blood pressure recovered with IVF (approx 3 L) back to 108/72 and thus he was prepped with a bowel prep for his CT torso.
+Of note, his INR has been fluctuating somewhat such that he has required daily INR checks and coumadin dose adjustment.
+Past Medical History: PMH: (1) Splenectomy in [**2151-11-24**] when he had resection of a benign pancreatic mass at [**Hospital1 2025**].
+bone marrow biopsy on [**2153-3-1**] consistent with myeloproliferative disorder (polycythemia [**Doctor First Name **])...as well as an abnormal karyotype with deletion 20q in 3 out of 20 metaphases increasing his risk of hypercoagulability.
+(6) High-risk adenocarcinoma of the prostate treated with radical prostatectomy on [**2151-5-31**], with no evidence of disease recurrence since that time.
+(10) h/o thrombophlebitis in left leg (11) uveitis (12) C4-C5 radiculopathy (13) HLD (14) HTN (15) recurrent autoimmune pericarditis (16) h/o benign pancreatic cyst s/p resection (17) diverticulosis & diverticulitis c/b polymicrobial blood stream infection (18) liver abscess (19) portal vein thrombosis (hospitalized [**Date range (1) 50029**] and [**Date range (1) 50030**]) (20) polycythemia [**Doctor First Name **] on prednisone, followed by Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] at [**Hospital1 18**] .
+PSH: Periumbilical hernia repair (Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] at [**Hospital1 112**], [**2157-3-6**]), splenectomy ([**2150**]), Radical prostatectomy ([**2150**]), resection of benign cyst on tail of pancreas ([**2150**]), sigmoid colectomy with diverting ileostomy ([**2157-8-22**]), ex-lap, washout, mesh removal and abdominal closure ([**2157-9-12**]), emergent hematoma evac ([**2157-9-13**]), Exlap, removal of packing, closure fascia ([**2157-9-14**]), perc trach ([**2157-9-15**]), exlap for hct drop ([**2157-9-19**])   Social History: Lives with wife, has grown children.
+Recently has been in [**Hospital **] rehab in [**Location (un) 701**] after discharge from [**Hospital1 18**] [**2157-10-30**]   Family History: Pancreatic Cancer  Physical Exam: On discharge: V: T: 97.8/97.3  HR: 80  BP: 126/75  RR: 16  O2Sat: 99%RA GEN: AAOx3, NAD HEENT: EOMI, Trach intact HEART: RRR LUNGS: CTAB ABD: +BS, soft, NT, ND, low midline wound c/d/i, ostomy intact w/ stool and gas LE: no edema  Pertinent Results: <b>Labs:</b> [**2157-11-7**] 5:10p 132  108  42   AGap=13 -------------<109 4.9  16  0.9   11.7 \ 8.5  / 814      / 28.2 \  N:84 Band:3 L:6 M:6 E:0 Bas:0 Metas: 1 Nrbc: 1 Neuts: TOXIC GRANULATIONS Neuts: DOHLE BODIES Hypochr: 3+ Anisocy: 3+ Poiklo: 2+ Macrocy: 1+ Microcy: 1+ Spheroc: 1+ Ovalocy: OCCASIONAL Target: OCCASIONAL Schisto: OCCASIONAL Stipple: OCCASIONAL Acantho: 2+ Ellipto: OCCASIONAL  Comments: Plt-Smr: Giant Plt'S Seen  PT: 40.9  PTT: 38.8  INR: 4.3  Lactate:1.0 .
+[**2157-11-8**] 07:45a 131  106  34     AGap=13 -------------< 152 4.2  16  0.8  Ca: 10.4 Mg: 1.4 P: 4.1   7.0 \ 8.5  / 821     / 28.3 \  N:77 Band:0 L:9 M:8 E:4 Bas:2 Nrbc: 10 Comments: WBC: Corrected For 10 Nrbc'S Plt-Ct: Giant Platelets Seen Neuts: TOXIC GRANULATION, DOHLE BODIES SEEN Hypochr: 2+ Anisocy: 2+ Poiklo: 3+ Macrocy: 2+ Microcy: 1+ Polychr: 1+ Spheroc: 1+ Target: 1+ Schisto: 1+ Stipple: 1+ How-Jol: OCCASIONAL Pappenh: OCCASIONAL Acantho: OCCASIONAL Fragmen: OCCASIONAL  PT: 38.4  PTT: 38.5  INR: 4.0 .
+WOUND CULTURE (Preliminary):       Due to mixed bacterial types (>=3) an abbreviated workup is performed; P.aeruginosa, S.aureus and beta strep.
+New/increased left lower quadrant rim enhancing fluid collection, measuring up to 6.7 cm, anterior to the left iliacus muscle, where drain was placed previously.
+CT-guided Intraabd abscess drainage [**2157-11-8**] 9:35 AM Technically-successful aspiration of left lower quadrant collection.
+Technically-successful CT-guided drainage and catheter replacement into large left posteriorly layering collection anterior to the left iliac bone along the iliacopsoas tendon.
+IR PICC [**2157-11-10**] Successful placement LUE double lumen PICC .
+Brief Hospital Course: Mr. [**Known lastname **] was admitted to the hospital on [**2157-11-7**] for fevers, rigors and hypotension and was found to have a new/increased fluid collection along the left abdominal wall with rim enhancement where the drain was before, now measuring 6.7 x 4.1 cm on and a forming ill-defined right lower quadrant-pelvic small collection measuring around 2 cm initial CT scan.
+A 10 French [**Last Name (un) 2823**] catheter was then left indwelling in the larger collection and was left on free drainage.
+He was started on IV linezolid, flagyl and cefepime.
+He initially tolerated the procedure well however, later that evening he became hypotensive with question of tongue swelling during IV cefepime administration.
+Cefepime was stopped, he was given famotidine and benadryl and the patient was moved to the SICU on the evening of [**2157-11-8**] for closer monitoring.
+The patient received IVF resuscitation and quickly restabilized and his tongue swelling resolved.
+He was seen in consultation with ID and the cefepime was changed to meropenem and the flagyl also discontinued.
+A LUE PICC line was placed in anticipation of potentially long-term antibiotics.
+His INR was elevated and coumdain was held.
+He was otherwise tolerating a regular diabetic diet with good ostomy output (both gas and liquid stool) and voiding well.
+After discussions w/ NE [**Hospital1 **] regarding their availability of IV antibiotics (i.e.
+they do not carry meropenem) and the ID service, it was decided that given the patient's stable condition for past few days, he was to be discharged with IV imipenem and PO linezolid.
+Once his cultures are speciated and final, his antibiotics will be adjusted accordingly if necessary.
+Medications on Admission: Medications at Rehab: nystatin swish and swallow qid, hydroxyurea 1000 daily, esomeprazole 40 daily, gabapentin 300 qhs, ipratropium IH 2 puffs QID, tiaznidine 4 tid, insulin aspart sliding scale, insulin NPH 5 [**Hospital1 **], ascorbic acid 500 [**Hospital1 **], MVI with minerals 1 daily, prednisone 10 daily, acetaminophen 650 q6h prn, zolpidem 5 qhs, artificial tears prn, ondansetron 4 q6h prn, lorazepam 0.5 qhs prn, percocet [**12-25**] q4h prn, fentanyl 25 mcg TD q72h, warfarin 10 mg daily (adjust per INR)   Discharge Medications: 1. nystatin 100,000 unit/mL Suspension [**Month/Day (2) **]: Five (5) ML PO QID (4 times a day).
+2. hydroxyurea 500 mg Capsule [**Month/Day (2) **]: Two (2) Capsule PO DAILY (Daily).
+3. pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+4. gabapentin 300 mg Capsule [**Month/Day (2) **]: One (1) Capsule PO HS (at bedtime).
+5. ipratropium bromide 17 mcg/Actuation HFA Aerosol Inhaler [**Month/Day (2) **]: Two (2) Puff Inhalation QID (4 times a day).
+6. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler [**Month/Day (2) **]: 1-2 Puffs Inhalation Q6H (every 6 hours) as needed for shortness of breath or wheezing.
+7. tizanidine 2 mg Tablet [**Month/Day (2) **]: Two (2) Tablet PO TID (3 times a day).
+8. ascorbic acid 500 mg Tablet [**Month/Day (2) **]: One (1) Tablet PO BID (2 times a day).
+10. prednisone 10 mg Tablet [**Month/Day (2) **]: One (1) Tablet PO DAILY (Daily).
+11. zolpidem 5 mg Tablet [**Month/Day (2) **]: One (1) Tablet PO HS (at bedtime).
+12. fentanyl 25 mcg/hr Patch 72 hr [**Month/Day (2) **]: One (1) Patch 72 hr Transdermal Q72H (every 72 hours).
+13. oxycodone-acetaminophen 5-325 mg Tablet [**Month/Day (2) **]: 1-2 Tablets PO Q4H (every 4 hours) as needed for pain.
+14. lorazepam 0.5 mg Tablet [**Month/Day (2) **]: One (1) Tablet PO HS (at bedtime) as needed for insomnia.
+15. polyvinyl alcohol 1.4 % Drops [**Month/Day (2) **]: 1-2 Drops Ophthalmic PRN (as needed) as needed for dry eyes.
+16. insulin lispro 100 unit/mL Solution [**Month/Day (2) **]: AS DIR PER SS AS DIR PER SS Subcutaneous AS DIR PER SS.
+17. linezolid 600 mg Tablet [**Month/Day (2) **]: One (1) Tablet PO Q12H (every 12 hours).
+18. acetaminophen 325 mg Tablet [**Month/Day (2) **]: Two (2) Tablet PO Q6H (every 6 hours) as needed for pain.
+19. imipenem-cilastatin 500 mg Recon Soln [**Month/Day (2) **]: One (1) dose Intravenous Q8H (every 8 hours).
+Coumadin 1 mg Tablet [**Month/Day (2) **]: Adjust based on INR Tablet PO Adjust based on INR: INR check daily and adjust coumadin dose accordingly - goal 2.5.
+21. insulin regular human 100 unit/mL Solution [**Month/Day (2) **]: Five (5) Units Injection Breakfast and Dinner.
+Discharge Disposition: Extended Care  Facility: [**Hospital1 700**] TCU - [**Location (un) 701**]  Discharge Diagnosis: Fevers, rigors Intraabdominal Abscesses x2 s/p IR drainage w/ catheter placement x1  Discharge Condition: Mental Status: Clear and coherent.
+Your drain and ostomy output must be monitored for quantity and quality regularly.
+Please continue your medications as directed.
+You are on IV antibiotics and will require weekly lab checks for the following: -CBC -BUN -Creatinine -Liver function tests These must be faxed to the [**Hospital1 18**] Infectious Disease Dept at [**Telephone/Fax (1) 1419**] every week.
+Your INR was elevated and your coumadin was held.
+You will need your INR checked and have your coumadin dosed appropriately.
+Phone:[**Telephone/Fax (1) 457**] Date/Time:[**2157-11-29**] 3:30  (This is located in the basement level of the [**Hospital **] Medical Office Building [**Last Name (NamePattern1) 51019**] on the [**Hospital1 18**] [**Hospital Ward Name **])                                [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] [**Name8 (MD) **] MD, [**MD Number(3) 4661**]

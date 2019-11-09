@@ -1,0 +1,8 @@
+Admission Date:  [**2200-3-2**]              Discharge Date:   [**2200-3-8**]  Date of Birth:  [**2121-2-8**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**Last Name (NamePattern4) 290**] Chief Complaint: Dehydration  Major Surgical or Invasive Procedure: None  History of Present Illness: Ms. [**Known lastname 5395**] is a 79F with a PMH s/f DM and morbid obesity, who was recently discharged from [**Hospital1 18**] [**2200-2-7**], after she underwent an ORIF for a right femur fracture.
+Her vital signs became unstable today, where she had a T=92, BP=104/51 (though the nurse reports it was as low as 80s systolic), HR=66, RR=22, 94%2L.
+Labs showed a leukocytosis to 28.5, with ARF (BUN/Cr= 27/2.6).
+In the ED, her presenting vital signs were: T=96.0, BP=107/61, HR=74, RR=18, O2sat 100%RA.
+Labs were significant for a leukocytosis to 28.9, a creatinine of 2.8 (baseline 1-1.2), and a lactate of 3.5.
+CXR shows a new right sided pleural effusion.
+Hyperlipidemia  Social History: Currently resides at [**Hospital6 28672**] after her recent femur fracture.
+Given difficulty finding infectious source, pt had CT scan - which showed incidental finding consistent with endometrial cancer, local metastases to bone and possible uterine infection.

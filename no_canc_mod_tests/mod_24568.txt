@@ -1,0 +1,43 @@
+Admission Date:  [**2147-4-20**]              Discharge Date:   [**2147-4-26**]  Date of Birth:  [**2111-12-11**]             Sex:   M  Service: NEUROLOGY  Allergies: Penicillins  Attending:[**First Name3 (LF) 618**] Chief Complaint: Left sided weakness  Major Surgical or Invasive Procedure: Transesophageal echocardiogram   History of Present Illness: HPI; 35 yo M with history of HTN presenting with acute onset of left face and arm weakness at 9:50 PM while eating dinner.
+He was taken to an OSH and upon presentation BP 168/116, CT head was reported to be unremarkable, INR 1.04, plts 115, and FS was normal.
+His symptoms continued to wax and wane.
+He was noted to have a NIHSS of 12 and given IV TPA prior to transfer to [**Hospital1 18**] for further care.
+He was noted by EMS to have recurrence of his symptoms five minutes after his TPA infusion ended and minutes prior to arrival at [**Hospital1 18**].
+V: Decreased sensation to light touch V1-V3 on left VII: Left facial droop VIII: Hearing intact to finger-rub bilaterally.
+Delt Bic Tri WrE FFl FE IO IP Quad Ham TA [**First Name9 (NamePattern2) 2339**] [**Last Name (un) 938**] EDB L  0    0   0   0   0  0  0  0   0    0  0     0     0   0 R  5    5   5   5   5  5  5  5   5    5  5     5     5   5  -Sensory: Decreased to light touch and pinprick on left.
+Unable to assess on left  -Gait: deferred   Pertinent Results: Admission Labs:  140 | 103 | 21 ---------------< 106 3.5 |  26 | 1.0  Ca: 8.9 Mg: 2.3 PO4: 4.2        14.9 10.8 >-----< 254       42.6  CK: 87 Trop: <0.01  Multiple hypercoagulatibility and secondary hypertension studies were performed to assess the underlying etiology:  -Normal complement levels -[**Doctor First Name **] negative -ANCA negative -Tox screen negative -Lupus anticoagulant - neg -Aldosterone < 1  Pending results requiring follow up: -Anticardiolipin antibodies -Protein C/S -AT III -Factor V Leiden -Metanephrines, plasma -Prothrombin mutation -Renin  Imaging: NON-CONTRAST CT HEAD: There has been no significant interval evolution over approximately a 3/2 hour time interval of the ill-defined hypodensities within the right centrum semiovale, right lentiform nucleus, and right subinsular cortex.
+CT PERFUSION: The perfusion images are nondiagnostic secondary to technical failure.
+Recommend MRI for further evaluation of acute infarction.
+There is a mucous retention cyst of the right anterior maxillary sinus, and mucosal thickening of the ethmoid air cells, frontal sinuses and fluid levels in the sphenoid sinuses.
+Carotid Dopplars: Findings: Duplex evaluation was performed of bilateral carotid arteries.
+On the right systolic/end diastolic velocities of the ICA proximal, mid and distal respectively are 69/30, 51/23, 51/23 cm/sec.
+CCA peak systolic velocity is 86 cm/sec.
+ECA peak systolic velocity is 74 cm/sec.
+On the left systolic/end diastolic velocities of the ICA proximal, mid and distal respectively are 83/28, 58/27, 57/28 cm/sec.
+CCA peak systolic velocity is 109 cm/sec.
+ECA peak systolic velocity is 100 cm/sec.
+Multiple hypercoagulatibility and secondary hypertension studies were performed to assess the underlying etiology:  -Normal complement levels -[**Doctor First Name **] negative -ANCA negative -Tox screen negative -Lupus anticoagulant - neg -Aldosterone < 1  Pending results requiring follow up: -Anticardiolipin antibodies -Protein C/S -AT III -Factor V Leiden -Metanephrines, plasma -Prothrombin mutation -Renin  Carotid series [**4-21**]: Impression: Right ICA no stenosis.
+Renal ultrasound [**4-21**]: IMPRESSION: 1.
+TTE [**4-21**]: Conclusions The left atrium is normal in size.
+No atrial septal defect or patent foramen ovale is seen by 2D, color Doppler or saline contrast with maneuvers.
+Overall left ventricular systolic function is normal (LVEF 60%).
+His examination is notable for a dense left hemiplegia as well as decreased sensation on the left.
+He underwent an MRI which confirmed the presence of a posterior limb of the right internal capsule infarct, extending into the posterior caudate nucleus and putamen.
+He had a carotid dopplers, as well as a CTA of the head and neck which showed no signs of vascular occlusion.
+TTE and TEE were peformed (see above) which failed to show a PFO, ASD, right to left shunt or a source of an embolism.
+Echocardiograms were notable for mild symmetric left ventricular hypertrophy with normal cavity size and global systolic function (LVEF>55%) suggestive of prior hypertension.
+The ascending, transverse and descending thoracic aorta were normal in diameter and free of atherosclerotic plaque.
+Fasting lipids showed LDL of 121 and an A1C was 5.1.
+It was thought that his infarct was secondary to hypertension, however possibility of an embolic infarction (though no clear source was identified) which can occur in up to many patients with this presentation could not be ruled out.
+Given his risk of stroke recurrence (3-5% per year) and age, he was started on coumadin daily (goal INR [**1-25**]) with ASA bridge until therapeutic.
+He will require further monitoring of INR, at time of discharge was 1.1 (coumadin initiated on [**4-24**] at 5mg daily and may need adjustment).
+Given his relatively young age, he underwent an evaluation for secondary causes of hypertension, including a renal ultrasound which showed no signs of renal artery stenosis, and plasma renin, aldosterone and metanephrines which are pending at time of discharge.
+His eventual goal of BP is 130/80 and should be achieved within 1-2 months after his CVA.
+The following studies will require follow up (pending at [**Hospital1 18**]):  -Anticardiolipin antibodies -Protein C/S -AT III -Factor V Leiden -Metanephrines, plasma -Prothrombin mutation -Renin level  Neurological exam notable for:  Alert, oriented to time, place person.
+DTRs 3+ at L biceps, triceps, patella.
+Sodium Chloride 0.9%  Flush 3 mL IV Q8H:PRN line flush Peripheral line: Flush with 3 mL Normal Saline every 8 hours and PRN.
+HydrALAzine 10 mg IV Q6H:PRN SBP>180   Discharge Disposition: Extended Care  Facility: [**Hospital 38**] Rehab in [**Location (un) 1110**]  Discharge Diagnosis: Primary: Right Anterior Choroidal Artery Secondary: Hypertension, Hyperlipidemia   Discharge Condition: Neurological exam notable for:  Alert, oriented to time, place person.
+DTRs 3+ at L biceps, triceps, patella.
+You underwent a thorough evaluation for the source of this stroke (detailed in discharge summary).
+Because of this, you were started on the following medications:  - Coumadin 5mg daily - ASA 325mg until coumadin is therapeutic range (INR [**1-25**]) - Simvastatin 20mg - Lisinopril 20mg - Bowel regimen, pain regimen as per your rehabilitation physician  Because of the aftermath from your stroke, you will require extensive rehabilitation.
+Phone:[**Telephone/Fax (1) 2574**] Date/Time:[**2147-6-27**] 1:00  Please call the PCP's office to arrange for a follow up appointment in 1month from your discharge:  Name: [**Last Name (LF) **],[**First Name3 (LF) **] Address: [**Location (un) **] [**Apartment Address(1) 5524**], [**Location (un) **],[**Numeric Identifier 7331**] Phone: [**Telephone/Fax (1) 7401**] Fax: [**Telephone/Fax (1) 7400**]                                [**Name6 (MD) **] [**Name8 (MD) **] MD, [**MD Number(3) 632**]  Completed by:[**2147-4-26**

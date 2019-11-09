@@ -1,0 +1,44 @@
+Admission Date:  [**2172-8-25**]              Discharge Date:   [**2172-9-6**]  Date of Birth:  [**2114-3-8**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 3984**] Chief Complaint: dyspnea, hoarseness, and cough  Major Surgical or Invasive Procedure: Bronchoscopy x2 Tracheal Y-stent placement [**2172-8-25**] Pigtail catheter placement (right) [**2172-8-25**] for pleural effusion Intubation [**2172-8-25**], re-intubated [**2172-8-26**] after attempted extubation Chest tube placement (right) [**2172-8-26**] for pneumothorax Radiation therapy x2 Chemotherapy x3days Lumbar puncture [**2172-9-3**]  History of Present Illness: 58 year-old female, 60 pack-year smoker, with dyspnea, hoarseness, and cough x1 month admitted to [**Hospital1 18**] SICU [**2172-8-25**] after found to have large mediastinal mass, today found to be poorly-differentiated carcinoma, suspected small cell.
+Also with hypotension (sBP 90s) following reintubation on [**2172-8-26**].
+Given hyperkalemia, hyponatremia adrenal insufficiency was suspected; evaluated by endocrine team who recommended stress dose steroids pending further evaluation of etiology of hypotension.
+Physical Exam: On [**Hospital Unit Name 153**] admission [**2172-8-27**]: 96.0, 103, 120/68, 13, 97% [PS 14/5 50%] General: Intubated, sedated, not responsive to verbal stimuli; swelling of head, neck, and upper extremities; wasting of lower extremities Skin: Mottled at arms and superior to nipple line; telangiectasias on chest wall HEENT: Temporal wasting; pupils symmetric, minimal reactivity to light; sclerae anicetric; scleral edema; dry mucous membranes Neck: Large; unable to appreciate neck veins secondary to swelling; right anterior chain palpable lymph node Chest: Right chest tube, pigtail catheter in place Lungs: Upper airway noise; by anterior ausculation, few expiratory wheezes diffusely; breath sounds appreciable in all lung fields CV: Tachycardic; regular rhythm; pronounced S2 at apex; I/VI early systolic murmur at left LLSB; unable to assess pulsus paradoxus given quiet Korsakoff sounds Abdomen: Hypoactive bowel sounds; soft, non-distended GU: Foley Ext: Right DP 1+, left DP appreciated with Doppler; no lower extremity edema; upper extremity nonpitting edema  Pertinent Results: On admission [**2172-8-26**]: WBC-11.1* RBC-3.47* Hgb-10.9* Hct-31.9* MCV-92 MCH-31.5 MCHC-34.2 RDW-12.5 Plt Ct-393 Glucose-112* UreaN-9 Creat-0.8 Na-118* K-4.8 Cl-82* HCO3-24 AnGap-17 ALT-7 AST-21 LD(LDH)-584* AlkPhos-75 TotBili-0.2 Cortsol-25.7* Hgb-13.5 calcHCT-41 O2 Sat-82 .
+Imaging: [**8-25**] CT Chest without contrast: 1.
+Atelectasis of the right lower and middle lobe.
+[**8-25**] Tracheal mass tissue pathology: Immunohistochemical studies show that tumor cells are positively stained by TTF-1 and CK7; they are negative for CK20, chromogranin, and synaptophysin.
+There is mild symmetric left ventricular hypertrophy with normal cavity size and regional/global systolic function (LVEF>55%).
+If clinically indicated, a follow-up study is suggested.
+[**8-27**] CT chest/abdomen/pelvis with and without contrast: 1.
+Narrowing of SVC and left brachiocephalic vein by large mediastinal mass.
+[**2172-8-27**] ECHO: Compared with the prior study (images reviewed) of [**2172-8-26**], the size of the pericardial effusion is unchanged with no signs of tamponade.
+[**8-28**] CT Head: 1.
+[**2172-9-2**] CT Head (performed due to worsened mental status): 1.
+Unchanged examination from recent exam of [**2172-8-28**].
+[**2172-9-4**] CT Chest w/o contrast (to evaluate tumor s/p XRT and chemo for future XRT sessions): 1.
+FLUID CULTURE (Final [**2172-8-29**]):    NO GROWTH.
+ANAEROBIC CULTURE (Final [**2172-9-1**]):    NO GROWTH.
+ACID FAST SMEAR (Final [**2172-8-27**]): no AFB seen on direct smear    ACID FAST CULTURE (Preliminary): PENDING Cytology: Atypical cells, non-specific findings .
+[**2172-9-4**] BAL: GRAM STAIN (Final [**2172-9-4**]):       1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR LEUKOCYTES.
+[**2172-9-3**] CSF: GRAM STAIN (Final [**2172-9-3**]):       NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.
+FLUID CULTURE (Preliminary): NO GROWTH.
+C. diff negative .
+[**8-30**] Blood Cx ??????
+NGTD [**9-5**] Blooc cx - pending .
+Bronchoscopy [**2172-9-4**]: lots of necrotic tissue noted, ETT tube dislodged between stent and tracheal wall, repositioned during bronch.
+Brief Hospital Course: [**Hospital Unit Name 153**] Course [**Date range (3) 84902**] 58F with likely small cell carcinoma complicated by SVC syndrome, airway compromise requiring Y-stent, pericardial effusion, resolved pleural effusion and pneumothorax, and electrolytes disturbances admitted to [**Hospital Unit Name 153**] for radiation decompression therapy and chemotherapy.
+In the [**Hospital Unit Name 153**], she underwent XRT x2 and then chemotherapy for 3 days.
+During hypoxic episodes, pt underwent bronchoscopy twice, both times of which demonstrated the ETT lodged between tracheal wall and stent.
+Pt's saturation improved with repositioning.
+CT head [**2172-9-2**] negative for acute process.
+CT head/[**Last Name (un) 103**]/pelvis negative for metastases.
+Initially, XRT was clinical emergency - normal and pathologic tissue was likely treated; necrotic tissue noted on bronchoscopy [**2172-9-4**].
+Urine casts consistent with ATN.
+Uric acid and electrolytes elevated 4-5d post chemotherapy concerning for tumor lysis syndrome.
+Pt with tachycardia to 140s and episodes of hypotension to SBP low 80s.
+DDx includes possible enlarging pericardial effusion/tamponade but pulsus paradoxus was normal and ECHO [**2172-9-5**] was unchanged from prior.
+PE likely given malignancy and prolonged bed rest but unable to do CTA given renal failure and VQ scan not helpful in setting of lung changes.
+Improved edema on exam compared to admission.
+LDH effusion/serum 0.68 (exudate by Light?????
+Cultures of fluid all preliminary negative.
+EKG without signs of electrical alternans but does have low voltages.
+Repeat ECHO done [**2172-9-5**] in setting of hypotension demonstrated no change in pericardial effusion.
+Hemolysis labs were negative.

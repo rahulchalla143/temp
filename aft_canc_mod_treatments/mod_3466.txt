@@ -1,0 +1,49 @@
+Admission Date:  [**2171-9-17**]              Discharge Date:   [**2171-9-20**]  Date of Birth:  [**2149-1-5**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 492**] Chief Complaint: mediastinal [**Hospital3 32582**] failure  Major Surgical or Invasive Procedure: endobronchial/endotracheal stenting  History of Present Illness: 22 yoM with a h/o Germ cell tumor of mediastinum with airway obstruction s/p 2 rounds of chemotherapy complicated by pancytopenia, pseudomonal pneumonia, and pseudomonal abscess at the site of a central line who is transferred to [**Hospital1 18**] from [**Hospital1 2177**] for airway stent placement.
+At [**Hospital1 2177**], patient was intially intubated with double lumen ETT for acute respiratory distress and started on APRV ventilation.
+Patient had multiple episodes of desaturation requiring intervention with bronchoscopy for better ET positioning.
+pneumothoraces requiring bilat chest tubes which were d/c'ed on [**8-24**] and [**8-25**].
+Patient was extubated on [**8-23**] but then required reintubation on [**8-30**] due to hypercarbic respiratory failure.
+Given elevated AFP (4093 on [**7-23**]) and biopsy of undifferentiated carcinoma, patient was treated for germ cell tumor with neoadjuvant cisplatin and etoposide from [**Date range (1) 73635**].
+Patient prophylaxed for TLS with alopurinol, dexamethasone, and IV fluids.
+Chemotherapy complicated by pancytopenia and neutropenic fever, requiring PRBC transfusions on Neupogen.
+Cycle 2 of chemotherapy delayed due to development of Pseudomonas sepsis and ARF.
+However, with stabilization, patient underwent cycle 2 of carboplatinum and etoposide [**Date range (1) 73636**].
+From an ID perspective, following cycle 1 of chemotherapy, patient was diagnosed with a VAP on [**7-28**] and was started on vanco and cefepime.
+Cefepime was changed to Zosyn when patient's sputum culture was (+) for Achromobacter on [**8-7**].
+He completed a 15 day course of gentamicin and cefepime, despite nephrotoxicity as pseudomonas in wound culture was only sensitive to Gentamicin.
+Patient was then started on Vancomycin secondary to coag negative staph growing on quinton tip culture.
+Also started on Amikacin for Pseudomonas in sputum and urine.
+Also on empiric flagyl for diarrhea and elevated WBC.
+Tube feeds were held with minimal improvement in diarrhea.
+Patient then had temp spike through above broad antibiotic coverage and empiric caspofungin started on [**9-15**].
+Patient developed poor UOP and lasix gtt started with poor response.
+Patient eventually required CVVH for volume overload on [**8-11**] with 6L removal, and on [**8-15**] with 4L removal.
+R Quinton placed in R IJ and patient was started on HD on [**8-17**].
+He eventually responded to 140 mg IV lasix with good UOP on [**8-29**] and the L femoral line was d/c'ed to prevent further infection.
+Past Medical History: # Germ cell tumor in mediastinum - s/p 2 rounds of chemotherapy # pancytopenia [**3-15**] chemotherapy   Social History: unobtainable.
+intubated and sedated.
+DR. [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 16277**]  CT Chest [**2171-9-18**] - PRIOR to stent placement: Final Report CT CHEST REASON FOR EXAMINATION:  Evaluation of patient with known anterior mediastinal germ-cell tumor.
+The NG tube tip terminates in the duodenum.
+Large anterior mediastinal mass consistent with known diagnosis of germ- cell tumor, which significantly deviates posteriorly the mediastinal structures with subsequent tracheal encasing and narrowing up to almost complete occlusion of left main bronchus.
+CT Chest [**2171-9-18**] - s/p stenting: Final Report CT CHEST REASON FOR EXAM:  S/P placement of airway stent.
+FINDINGS: In the interval, there has been placement of a Y-tracheobronchial and left bronchial stents.
+Tip of an endotracheal tube is 15 mm above the carinal bifurcation of the tracheal stent.
+IMPRESSION: Successful placement of tracheobronchial y-stent and left main bronchhus stent.
+Brief Hospital Course: A/P: 22 yoM with a h/o Germ cell tumor of mediastinum complicated by airway obstruction, pseudomonal pna and groin abscess transferred to [**Hospital1 18**] for airway stent placement.
+- NPO p MN.
+Hold TFs - CBC and coags for pre-op work up - to OR for stent placement .
+- Check baseline CXR - cont AC support pending stent placement - sedation with fentanyl, midazolam - albuterol/atrovent MDIs .
+# Germ cell tumor: s/p 2 rounds of chemotherapy as above.
+Currently afebrile on cefepime and amikacin.
+Will continue prior antimicrobial regimen for now.
+- vanco for staph on Quinton tip - cefepime, amikacin for pseudomonas - caspofungin for empiric fungal coverage - pan-culture if spikes - ID consult if patient remains in house after tomorrow .
+- cont wound care per [**Hospital1 2177**] recs - cont cefepime, amikacin .
+Presumed secondary to chemotherapy but NPO for now and on TPN.
+- cont flagyl - cont NPO - consider checking C diff toxin B .
+- cont IV antibiotics - serial abdominal exams .
+- cont diazepam, olanzapine standing - cont haldol, ativan prn .
+Can increase prn as BP will tolerate - treat pain with methadone, fentanyl gtt .
+heparin sc.
+No bowel regimen in setting of diarrhea.
+Medications on Admission: MEDS (on transfer): Ipratropium Bromide MDI 4 PUFF IH QID Acetaminophen 650 mg PO Q6H:PRN Lansoprazole Oral Disintegrating Tab 30 mg PO DAILY Albuterol 10 PUFF IH Q4H Lorazepam 1-3 mg IV Q1H:PRN anxiety Albuterol 10 PUFF IH Q2H:PRN Metoprolol 12.5 mg PO TID Amikacin 1100 mg IV Q36H Methadone HCl 20 mg PO Q 8H Caspofungin 50 mg IV Q24H MetRONIDAZOLE (FLagyl) 500 mg IV Q8H CefePIME 2 gm IV Q8H Miconazole Powder 2% 1 Appl TP TID Diazepam 10 mg PO BID Nephrocaps 1 CAP PO DAILY Fentanyl Citrate 25-100 mcg/hr IV DRIP INFUSION Nystatin Oral Suspension 5 ml PO QID Haloperidol 5 mg IM Q4H:PRN agitation Olanzapine 5 mg PO DAILY Promethazine HCl 6.25 mg IV Q6H:PRN Insulin SC Sliding Scale Vancomycin 1000 mg IV Q 12H   Discharge Medications: Same as above, as per [**Hospital1 2177**] primary team  Discharge Disposition: Extended Care  Discharge Diagnosis: mediastinal mass  Discharge Condition: stable  Discharge Instructions: You are being discharged back to [**Hospital6 **] for care by your primary teams.
+Please call your physicians at [**Hospital1 **] (Dr. [**Last Name (STitle) **] in Interventional Pulmonology) to arrange follow-up regarding your stent placement in [**5-17**] weeks.

@@ -1,0 +1,30 @@
+Admission Date:  [**2198-3-9**]              Discharge Date:   [**2198-3-16**]  Date of Birth:  [**2132-7-5**]             Sex:   F  Service: MEDICINE  Allergies: Bactrim  Attending:[**First Name3 (LF) 613**] Chief Complaint: Shortness of breath  Major Surgical or Invasive Procedure: None   History of Present Illness: Patient is a 65 year old female with past medical history significant for diastolic heart failure, moderate aortic stenosis with valve area of [**2-3**].2 cm2, bronchietasis and COPD with stage II gold criteria and home oxygen 2-4L who was recently admitted to [**Hospital1 18**] from [**2197-12-23**] - [**2198-1-2**] for hypercarbic respiratory failure requiring intubation and improvement with aggressive diuresis and treatment for hospital acquired pneumonia/COPD exacerbation with prednisone and Vancomycin/meropenem/azithromycin.
+She was brought to [**Hospital1 18**] ED for evaluation of her shortness of breath.
+She was noted to be tachypneic and oxygen saturation of 80% on home oxygen.
+Her chest x-ray was concerning for new right lower infiltrate.
+She was given solumedrol, ceftriaxone and levaquin after blood and urine culture were drawn for presumed pneumonia.
+She was transferred to MICU for futher evaluation and management.
+Past Medical History: - Asthma: (since childhood)/COPD s/p multiple intubations: 2L NC  (since [**2172**]) at baseline for spO2 91-95%, last PFT ~1 yr ago at OSH, trach previously suggested but pt refused - OSA: sleep study in [**2187**], recommended CPAP but has not tolerated it well, unclear how compliant since last discharge (made some progress on the fit of the mask).
+Pertinent Results: ADMISSION LABS: [**2198-3-9**] 04:40PM   WBC-5.6 RBC-3.61* HGB-10.1* HCT-31.7* MCV-88 MCH-28.0 MCHC-31.9 RDW-16.1* [**2198-3-9**] 04:40PM   NEUTS-80.7* LYMPHS-13.7* MONOS-3.6 EOS-1.3 BASOS-0.6 [**2198-3-9**] 04:40PM   PLT COUNT-186 [**2198-3-9**] 04:40PM   PT-13.7* PTT-25.3 INR(PT)-1.2* [**2198-3-9**] 04:40PM   GLUCOSE-100 UREA N-27* CREAT-1.3* SODIUM-141 POTASSIUM-5.8* CHLORIDE-93* TOTAL CO2-39* ANION GAP-15 [**2198-3-9**] 04:40PM   proBNP-3902* [**2198-3-9**] 05:15PM URINE  COLOR-Yellow APPEAR-Hazy SP [**Last Name (un) 155**]-1.013 [**2198-3-9**] 05:15PM URINE  BLOOD-SM NITRITE-NEG PROTEIN-25 GLUCOSE-250 KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-MOD [**2198-3-9**] 05:15PM URINE  RBC-[**4-7**]* WBC->50 BACTERIA-MOD YEAST-NONE EPI-0-2 [**2198-3-9**] 05:48PM   TYPE-[**Last Name (un) **] O2-100 PO2-211* PCO2-49* PH-7.52* TOTAL CO2-41* BASE XS-15 AADO2-469 REQ O2-78 INTUBATED-NOT INTUBA COMMENTS-CPAP [**2198-3-9**] 09:55PM   CK-MB-2 cTropnT-<0.01  MICRO: [**2198-3-9**]    URINE CULTURE (Final [**2198-3-11**]):       KLEBSIELLA PNEUMONIAE.
+>100,000 ORGANISMS/ML..                                SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              KLEBSIELLA PNEUMONIAE                              | AMPICILLIN/SULBACTAM--     4 S CEFAZOLIN-------------   <=4 S CEFEPIME--------------   <=1 S CEFTAZIDIME-----------   <=1 S CEFTRIAXONE-----------   <=1 S CIPROFLOXACIN---------<=0.25 S GENTAMICIN------------   <=1 S MEROPENEM-------------<=0.25 S NITROFURANTOIN--------  <=16 S PIPERACILLIN/TAZO-----   <=4 S TOBRAMYCIN------------   <=1 S TRIMETHOPRIM/SULFA----   <=1 S  [**2198-3-9**] 9:55 pm SPUTUM      Source: Expectorated.
+GRAM STAIN (Final [**2198-3-10**]):       >25 PMNs and >10 epithelial cells/100X field.
+Gram stain indicates extensive contamination with upper respiratory       secretions.
+Bacterial culture results are invalid.
+RESPIRATORY CULTURE (Final [**2198-3-10**]):       TEST CANCELLED, PATIENT CREDITED.
+LEGIONELLA CULTURE (Preliminary):    NO LEGIONELLA ISOLATED.
+[**2198-3-9**] BLOOD CULTURE X 2: PENDING [**2198-3-9**] URINE: Legionella Urinary Antigen  (Final [**2198-3-10**]):       NEGATIVE FOR LEGIONELLA SEROGROUP 1 ANTIGEN.
+[**2198-3-10**] 5:00 pm SPUTUM      Source: Expectorated.
+GRAM STAIN (Final [**2198-3-10**]):       >25 PMNs and <10 epithelial cells/100X field.
+RESPIRATORY CULTURE (Preliminary):       SPARSE GROWTH Commensal Respiratory Flora.
+FECAL CULTURE (Pending):     CAMPYLOBACTER CULTURE (Final [**2198-3-13**]):    NO CAMPYLOBACTER FOUND.
+CLOSTRIDIUM DIFFICILE TOXIN A & B TEST (Final [**2198-3-12**]):       Feces negative for C.difficile toxin A & B by EIA.
+Compared to the previous tracing of [**2197-12-24**] the ventricular response is faster.
+[**2198-3-13**] CXR: In comparison with the study of [**3-12**], there are lower lung volumes.
+Brief Hospital Course: 65 year old female with past medical history significant for diastolic heart failure, moderate aortic stenosis with valve area of [**2-3**].2 cm2, bronchietasis and COPD with stage II gold criteria and home oxygen 2-4L admitted with one day history of shortness of breath, change in her productive [**Date Range **] and pleuritic chest pain.
+LOS fluid balance of -5L.
+She remained on CPAP at night, and her O2 saturations were titrated between 92-94% on 2-4L of oxygen which is her home baseline.
+Urinary tract infection: Grew out pan sensitive klebsiella in her urine.
+She was started on levofloxacin (at the time for empiric coverage of respiratory organisms when this was being entertained on the SOB ddx) and then transitioned to cipro when sensitivies grew out (and PNA was felt less likely) for a total of a 3 day course.
+Was amiodarone loaded and given diltiazem as her pressures would tolerate, which was gradually uptitrated to 90mg QID.
+They treated your COPD with steroids and non-invasive ventilation (BiPap) to help dampen the inflammation in your lungs.
+Please take 20mg in the morning on [**2198-3-16**] and restart your normal dose of 40mg twice a day in the evening on [**2198-3-16**] -CONTINUE Prednisone 30mg by mouth daily for 2 more days (until [**2198-3-17**])  Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more than 3 lbs.

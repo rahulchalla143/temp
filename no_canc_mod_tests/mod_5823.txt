@@ -1,0 +1,24 @@
+Initial response was an increased sinus rate to 120 with consistent 2:1 block.
+Past Medical History: --DMII --HTN (poorly controlled, OSH records indicate SBP 190s) --PVD, s/p right external iliac artery stent, endarterectomy of the EIA, CFA, PFA with bovine patch angioplasty and iliac and femoral angiography([**3-22**]) --Lung ca s/p R lower lobe resection (no chemo; [**11-14**]) --COPD --dCHF (recent admission [**Date range (1) 35545**]) --L pleural effusion (noted on [**6-19**] hosp) --h/o AFib/flutter (found post-op from R EIA stent)   Social History: quit tob 10yrs ago; 50PY hx; lives with husband  Family History: non contributary  Physical Exam: AF 170-180/50-60 30-50 16 96% on 2L Gen: NAD, oriented x [**3-19**], waxing and [**Doctor Last Name 688**] HEENT: PERRL, EOMI, MMM Neck: JVP 10-12cm CV: RRR Chest: rales about 1/2 up b/l Abd: soft, obese, NT, + BS Extr: 1+ pitting on LLE, trace on RLE Neuro: mild resting tremor b/l; moves all 4 extr, follows commands   Pertinent Results: [**2128-7-17**] 09:10PM   GLUCOSE-154* UREA N-57* CREAT-2.3*# SODIUM-138 POTASSIUM-4.8 CHLORIDE-101 TOTAL CO2-23 ANION GAP-19 [**2128-7-17**] 09:10PM   CK(CPK)-71 [**2128-7-17**] 09:10PM   cTropnT-0.04* [**2128-7-17**] 09:10PM   CK-MB-NotDone proBNP-[**Numeric Identifier 35546**]* [**2128-7-17**] 09:10PM   CALCIUM-9.6 PHOSPHATE-4.4 MAGNESIUM-2.7* [**2128-7-17**] 09:10PM   WBC-12.5* RBC-3.31* HGB-9.4* HCT-27.9* MCV-84 MCH-28.3 MCHC-33.7 RDW-16.9* [**2128-7-17**] 09:10PM   NEUTS-85.7* LYMPHS-9.1* MONOS-4.6 EOS-0.5 BASOS-0.1 [**2128-7-17**] 09:10PM   HYPOCHROM-1+ ANISOCYT-1+ MICROCYT-1+ [**2128-7-17**] 09:10PM   PLT COUNT-380 [**2128-7-17**] 09:10PM   PT-37.2* PTT-46.8* INR(PT)-4.1* .
+EKG [**2128-7-17**]: 2:1 AVB, rate 60; sl LAD .
+EKG [**2128-7-20**]: A-V paced rhythm Since previous tracing of [**2128-7-18**], Atrium now paced with A-V pacing .
+CXR [**2128-7-17**]: mild vasc engorgement, raised R hemidiaphragm (old)  .
+CXR [**2128-7-20**]: Temporary pacer lead has been removed.
+TTE ([**6-19**]): EF 65-70%, sLVH, 1+ MR, 1+ TR, 1+ AR .
+ETT-MIBI ([**3-22**]): EF 60%; 1.
+Initially the setting was as follows: paced at low of 0.5mA with sensitivity 3.0mV.
+A CXR confirmed proper placement of the pacemaker and its leads and the pacemaker was interrogated demonstrating appropriate capture.
+INR should be followed closely and coumadin levels should be adjusted to achieve a goal INR of [**3-19**].
+# ARF: The pt has a baseline Cr of 1.0-1.5, which was elevated up to 2.3 on admission.
+Urine lytes on admission consistent with pre-renal azotemia.
+Her ACEI and diuretic were initially held on admission due to the ARF and creatinine and urine output followed closely.
+Her renal function and urine output shouuld be followed closely in rehab with routine chemistries.
+# Anemia: HCT was 27.9 on admission which then dropped to 24 after pacer placement (moderate procedural blood loss).
+She was subsequently transfused 2 U PRBCs from [**Date range (1) 26325**] (lasix 40 mg iv between units) with some response.
+# Urinary retention: Her foley catheter was removed after her UA and urine culture returned positive for a UTI.
+Plain X-rays of the left foot and ankle were performed which demonstrated degenerative changes on the medial and lateral malleoli, however, there was no evidence of a fracture.
+Release 24HR Sig: Two (2) Capsule, Sust.
+Discharge Disposition: Extended Care  Facility: [**Hospital 11851**] Healthcare - [**Location (un) 620**]  Discharge Diagnosis: Primary: Bradycardia (high degree AV block) Secondary: Diabetes, peripheral [**Location (un) 1106**] disease, hypertension, COPD   Discharge Condition: Stable, pacemaker functioning normally.
+Followup Instructions: Provider: [**Name10 (NameIs) 676**] CLINIC Phone:[**Telephone/Fax (1) 59**] Date/Time:[**2128-7-28**] 1:30  Provider: [**Name10 (NameIs) 1111**],[**First Name7 (NamePattern1) 1112**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **] SURGERY (NHB) Date/Time:[**2128-8-9**] 12:15  Please call your primary care doctor, Dr. [**Last Name (STitle) **], for a follow up appointment within one month of discharge.
+Please check her chemistries to assess for renal function in [**3-19**] days.
+Her goal INR is between 2 and 3.

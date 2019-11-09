@@ -1,0 +1,42 @@
+Admission Date:  [**2108-8-12**]              Discharge Date:   [**2108-8-31**]  Date of Birth:  [**2030-8-14**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 3967**] Chief Complaint: Weakness  Major Surgical or Invasive Procedure: plasmapheresis plasmapheresis catheter insertion Chemotherapy  History of Present Illness: Mr. [**Known lastname 40029**] is a 77 year old gentleman with a PMH significant for prostate CA on lupron therapy, GERD, and past afib s/p cardioversion admitted to the [**Hospital Unit Name 153**] for urgent plasmapheresis.
+The patient received 162 mg ASA and 60 mg IV lasix and was transferred to [**Hospital1 18**] for further management.
+Denies visual changes, hearing changes, swollen glands, sore throat, belly pain, n/v/d, constipation, dysuria, bone pain, leg swelling, orthopnea or PND.
+Past Medical History: GERD Atrial fibrillation - s/p cardioversion 3+ years ago, not currently anticoagulated OA sciatica - took naproxen a couple of years ago.
+Pulm: CTAB Abd: S/NT/ND +bs Ext: No c/c/e, 1+ dp/pt bilaterally Neuro: AOx3, CN II-XII intact skin: petechial rash in dependent areas of body, including buttocks and feet.
+Pertinent Results: Admission labs:  [**2108-8-12**] 03:05PM BLOOD WBC-160.6* RBC-4.04* Hgb-12.0* Hct-35.0* MCV-87 MCH-29.8 MCHC-34.3 Plt Ct-218   Neuts-11* Bands-3 Lymphs-3* Monos-3 Eos-0 Baso-1 Atyps-0 Metas-3* Myelos-2* Promyel-0 Young-0 Blasts-0 Other-74*  [**2108-8-12**] 03:05PM BLOOD Glucose-139* UreaN-41* Creat-2.8* Na-141 K-3.8 Cl-108 HCO3-18* AnGap-19 Calcium-9.9 Phos-4.4 Mg-2.3  [**2108-8-12**] PT-16.2* PTT-31.1 INR(PT)-1.4* [**2108-8-13**] PT-21.3* PTT-36.4* INR(PT)-2.0*  [**2108-8-12**] Fibrino-299, FDP->1280*, D-Dimer-8314*  [**2108-8-12**] ALT-33 AST-70* LD(LDH)-2188* CK(CPK)-52 AlkPhos-136* TotBili-0.5 Albumin-3.9 UricAcd-16.0*  [**2108-8-12**] proBNP-[**Numeric Identifier 40030**]* [**2108-8-14**] BLOOD PSA-11.0*  Cardiac enzymes: [**2108-8-12**] 03:05PM BLOOD CK(CPK)-54 CK-MB-NotDone cTropnT-0.17* [**2108-8-12**] 09:49PM BLOOD CK(CPK)-114 CK-MB-4 cTropnT-0.21* [**2108-8-13**] 02:55AM BLOOD CK(CPK)-84 CK-MB-4 cTropnT-0.18*  Cultures: Blood cultures ([**2108-8-13**]): negative to date URINE CULTURE (Final [**2108-8-15**]): BETA STREPTOCOCCUS GROUP B.10,000-100,000 ORGANISMS/ML..  Imaging/Studies:  EKG ([**2108-8-12**]): Atrial fibrillation with moderate ventricular response.
+Marrow clot section is not submitted.
+-------------------INTERPHASE FISH ANALYSIS, 100-300 CELLS-------------------   FISH evaluation for a MLL rearrangement was performed on nuclei with the LSI MLL Dual Color, Break Apart Probe (Vysis) at 11q23 and is interpreted as ABNORMAL.
+A MLL rearrangement is found in a subset of cases of ALL and AML, and is associated with oncogenic fusions between MLL and various partner genes.
+A normal EGR1 FISH finding can result from absence of a 5q deletion, from a 5q deletion that does not involve the region to which this probe hybridizes, or from an insufficient number of neoplastic cells in the specimen.
+FISH evaluation for a 7q deletion was performed with the Vysis D7S522/CEP7 Dual Color Probe ([**Doctor Last Name 7594**] Molecular) for D7S522 at 7q31 and CEP7 (D7Z1) (chromosome 7 alpha satellite DNA) at 7p11.1-q11.1 and is interpreted as NORMAL.
+A normal D7S522 FISH finding can result from the absence of a 7q deletion, from a 7q deletion that does not involve the region to which this probe hybridizes, or from an insufficient number of neoplastic cells in the specimen.
+FISH evaluation for a 20q deletion was performed with the Vysis LSI D20S108 Probe ([**Doctor Last Name 7594**] Molecular) at 20q12 and is interpreted as NORMAL.
+Two hybridization signals were observed in 97/100 nuclei examined, which is within the normal range established for this probe in the Cytogenetics Laboratory at [**Hospital1 18**].
+A normal 20q FISH finding can result from absence of a 20q deletion, from a 20q deletion that does not involve the region to which this probe hybridizes, or from an insufficient number of neoplastic cells in the specimen.
+nuc ish(D5S23,D5S721,EGR1,D7Z1,D7S522,D20S108)x2[100]   MLL 5' probe at 11q23   MLL 3' probe at 11q23   D5S23, D5S721 at 5p15.2   EGR1 at 5q31   D7Z1 at 7p11.1-q11.1   D7Z522 at 7q31   D20S108 at 20q12  Discharge labs:  [**2108-8-31**] 12:00AM COMPLETE BLOOD COUNT White Blood Cells 2.2* K/uL 4.0 - 11.0 Red Blood Cells 3.15* m/uL 4.6 - 6.2 Hemoglobin 9.3* g/dL 14.0 - 18.0 Hematocrit 26.4* % 40 - 52 MCV 84 fL 82 - 98 MCH 29.5 pg 27 - 32 MCHC 35.2* % 31 - 35 RDW 19.5* % 10.5 - 15.5 DIFFERENTIAL Neutrophils 56.8 % 50 - 70 Lymphocytes 34.5 % 18 - 42 Monocytes 6.2 % 2 - 11 Eosinophils 2.0 % 0 - 4 Basophils 0.4 % 0 - 2 BASIC COAGULATION (PT, PTT, PLT, INR) Platelet Count 18* K/uL 150 - 440  GENERAL URINE INFORMATION Urine Color Straw Urine Appearance Clear Specific Gravity 1.009  1.001 - 1.035 DIPSTICK URINALYSIS Blood SM Nitrite NEG Protein 30 mg/dL Glucose NEG mg/dL Ketone NEG mg/dL Bilirubin NEG mg/dL Urobilinogen NEG mg/dL 0.2 - 1 pH 6.0 units 5 - 8 Leukocytes NEG MICROSCOPIC URINE EXAMINATION RBC 1 #/hpf 0 - 2 WBC 1 #/hpf 0 - 5 Bacteria NONE Yeast NONE Epithelial Cells 0 #/hpf URINE CASTS Urine Casts, Other 1* #/lpf 0 - 0 OTHER URINE FINDINGS Urine Mucous RARE  [**2108-8-29**] 9:24 am URINE      Source: CVS.
+Brief Hospital Course: A/P: 77M with 2-3 weeks of fatigue, found to have elevated white count, diagnosed with AML s/p decitabine ([**8-18**]).
+The patient was having symptoms concerning for leukostasis such as cardiac demand ischemia with troponin leaks.
+The patient also received multiple treatments of hydroxyurea.
+These treatments decreased his WBC into normal range.
+Allopurinol was started and the patient also received Rasburicase, along with IVF with bicarb to a goal urine output of 100 cc/hour.
+The patient's options were discussed and he decided to pursue treatment with Decitabine which he received his first infusion on [**2108-8-18**].
+He received 5 days of Decitabine with a resultant drop in all of his cell lines.
+He received a unit of platelets just prior to discharge and was instructed to follow up in the [**Hospital Ward Name 1826**] 7 outpatient clinic on monday.
+He was given IVF and his creatinine slowly returned to baseline.
+He was treated with cefepime and vancomycin for broad antibiotic coverage.
+Vancomycin was discontinued and Cefepime was continued.
+His urine from [**8-15**] grew out Beta streptococcus group B.
+A repeat urine culture from [**8-29**] showed no growth after treatment with cefipime.
+The patient was treated with warm compresses and the pain resolved.
+# Hypertension - The patient was continued on his home blood pressure medications with good control.
+His amlodipine and lisinopril was discontinued, and his bp remained stable.
+# Petechial rash - the patient had a petechial rash which was noticed on the day of his discharge.
+The rash was present only in dependent areas of his body, including his feet and buttocks.
+Medications on Admission: Lupron Lisinopril Metoprolol Pravastatin Prilosec   Discharge Medications: 1.
+Metoprolol Tartrate 50 mg Tablet Sig: 0.5 Tablet PO once a day.
+Pravastatin 20 mg Tablet Sig: One (1) Tablet PO once a day.
+You also received decitabine, a type of chemotherapy for your leukemia, which you tolerated well.
+During your admission, we gave you some platelets because they became low because of your chemotherapy.
+Some medication changes have been made: - Your Procardia has been stopped.
+- Do not take your aspirin, because your platelets are low and taking aspirin can cause you to bleed.
+Please take all medications as prescribed.

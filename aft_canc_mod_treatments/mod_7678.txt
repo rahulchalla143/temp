@@ -1,0 +1,44 @@
+Admission Date:  [**2101-7-11**]              Discharge Date:   [**2101-7-15**]  Date of Birth:  [**2045-10-5**]             Sex:   M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**Doctor First Name 2080**] Chief Complaint: Shortness of breath  Major Surgical or Invasive Procedure: Left mainstem stent placement [**2101-7-11**] by Dr.[**First Name4 (NamePattern1) 1151**] [**Last Name (NamePattern1) 3373**]  History of Present Illness: 55 y/o male history of stage III non-small cell lung cancer, consistent with squamous cell s/p chemotherapy and radiation treatments as well as mutliple prior bronchoscopies with Dr. [**Last Name (STitle) 3373**] for tumor debulking and stent placement to the left mainstem bronchus who now presents with shortness of breath.
+He is in [**Location (un) 86**] for a stent placement however, before a scheduled appointment with Dr. [**Last Name (STitle) 3373**] he presented this morning with acute onset of shortness of breath and chest tightness.
+He was transitioned to NRB with 90% saturations and transferred to [**Hospital1 18**] ED.
+A portable CXR showed collapse of the left lung with tracheal deviation toward side of collapse.
+While in the ER,had acute SOB/Tachypnea with drop in sats with NRB on to 70's% which spontaneously returned to 100%.
+Review of systems: Unable to assess given sedation and intubation.
+Past Medical History: NSCLC HTN DM Hypothyroidism s/p appendectomy age 17 s/p hemorrhoidectomy s/p back surgery [**08**] years ago   Social History: Lives with his wife [**Name (NI) 7346**] in [**State 5111**].
+Smoking history quit [**2090**] smoking [**12-13**] pack per day since he was a teenager Alcohol since diagnosis decreased from 12 pack per week   Family History: Brother with history of melanoma   Physical Exam: ADMISSION EXAM: Vitals - HR: 95, BP: 123/73, RR: 24, satting 99% on NRB General: Intubated, sedated HEENT: Sclera anicteric, MMM, PERRL Neck: supple, JVP not elevated, no LAD CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi Abdomen: soft, non-tender, non-distended, bowel sounds present, no organomegaly GU: Foley in place Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema Neuro: Defer given sedation  DISCHARGE EXAM:  Vitals: T 98.1 BP 140/82 P 77 RR 18 O2 sat 96% RA Gen: comfortable laying in bed in NAD Neck: supple no JVD  appreciated Chest: distant heart sound.
+ET tube 7.5 cm from the carina.
+A left mainstem bronchus stent is in place.
+Endotracheal tube is no longer visualized.
+ADMISSION LABS: [**2101-7-11**] 10:07AM BLOOD WBC-8.8 RBC-4.60 Hgb-13.8* Hct-41.9 MCV-91 MCH-30.1 MCHC-33.0 RDW-13.7 Plt Ct-233 [**2101-7-11**] 10:07AM BLOOD Neuts-83.4* Lymphs-9.4* Monos-4.3 Eos-2.0 Baso-0.9 [**2101-7-11**] 10:07AM BLOOD Plt Ct-233 [**2101-7-11**] 10:07AM BLOOD PT-9.2* PTT-25.7 INR(PT)-0.8* [**2101-7-11**] 10:07AM BLOOD Glucose-180* UreaN-16 Creat-1.2 Na-134 K-4.7 Cl-103 HCO3-20* AnGap-16 [**2101-7-11**] 04:04PM BLOOD Type-ART pO2-236* pCO2-77* pH-7.14* calTCO2-28 Base XS--4 [**2101-7-11**] 07:53PM BLOOD Type-ART Temp-36.4 Rates-/18 Tidal V-540 PEEP-5 FiO2-100 pO2-283* pCO2-35 pH-7.40 calTCO2-22 Base XS--1 AADO2-391 REQ O2-69 -ASSIST/CON Intubat-INTUBATED [**2101-7-11**] 04:04PM BLOOD Glucose-173* Lactate-0.3* Na-136 K-4.3 Cl-102 [**2101-7-11**] 04:04PM BLOOD Hgb-12.5* calcHCT-38 O2 Sat-99  RELEVENT LABS:  [**2101-7-12**] 03:52AM BLOOD WBC-10.3 RBC-3.71* Hgb-11.1* Hct-33.3* MCV-90 MCH-30.0 MCHC-33.4 RDW-13.5 Plt Ct-194 [**2101-7-12**] 05:30AM BLOOD Hct-32.1* [**2101-7-12**] 03:52AM BLOOD Plt Ct-194 [**2101-7-12**] 03:52AM BLOOD Glucose-160* UreaN-15 Creat-1.0 Na-136 K-4.0 Cl-106 HCO3-21* AnGap-13 [**2101-7-12**] 04:05AM BLOOD Type-ART Temp-36.4 Rates-/18 Tidal V-540 PEEP-5 FiO2-50 pO2-137* pCO2-35 pH-7.42 calTCO2-23 Base XS-0 -ASSIST/CON Intubat-INTUBATED [**2101-7-12**] 04:05AM BLOOD Lactate-1.0  DISCHARGE LABS: [**2101-7-15**] 06:35AM BLOOD WBC-6.0 RBC-3.59* Hgb-10.9* Hct-32.6* MCV-91 MCH-30.3 MCHC-33.4 RDW-13.9 Plt Ct-186  Brief Hospital Course: 55 yo male with non-small cell lung cancer with known left main stem bronchus tumor burden presenting with acute worsening SOB.
+He was subsequently found to have near total collapse of his left lung with mediastinal shift towards the collapsed lung on chest X-ray.
+He has had 3 previous bronchial stents for left main bronchial obstruction and hypoxia .
+He underwent bronchoscopy by interventional pulmonary who placed a metal stent in his left mainstem bronchus.
+A repeat chest xray immediately following the procedure showed reinflation of the upper lobe but persistant collapse in the lower lobe.
+His supplemental O2 was weaned and he was ultimately satting well on room air at  discharge.
+# Presumed Post Obstructive Pneumonia-  During the bronchoscopy the patient was noted to have several thick mucous plugs, and per Interventional pulmonary was started on Levofloxacin for presumptive  post-obstructive pneumonia.
+He received one dose of IV vancomycin while the sensitivities  from the culture were pending.
+He also received one dose of IV nafcilin.
+He was ultimately sent home on PO levofloxacin and will have a 7 day course of antibiotics, ending 3 days after discharge.
+He received 3.5 liters of normal saline during his MICU stay and the drop was thought to possibly be dilution versus peri-procedural bleeding.
+He is on metformin and Actos at home.
+While in the hospital he was placed on a insulin sliding scale.
+At home he is on atorvastatin 40mg and Trilipix 135mg.
+He was continued on the atorvastatin in the hospital.
+His Trilipix was held, as it is not on formulary, but the patient who told to continue both medications at discharge.
+These medications were held as the patient's blood pressures were stable but on the low side at SBP between 100-120.
+On discharge his BP was 140/70 and it was recommended to the patient to resume his home BP medications.
+He was continued on synthroid 200mcg each day  Transitional Issues: - Will need to follow up with PCP to get an offical 6 minute walk test and evaluation for pulmonary rehab - Will establish outpatient pulmonary follow up with Dr. [**First Name8 (NamePattern2) **] [**Name (STitle) 90949**] of [**Last Name (LF) 11084**], [**First Name3 (LF) **] on [**2101-7-26**].
+Medications on Admission: Preadmission medications listed are correct and complete.
+Pioglitazone 30 mg PO DAILY 2.
+Levothyroxine Sodium 200 mcg PO DAILY 3. fenofibrate *NF* 135 mg Oral QD 4.
+Atorvastatin 40 mg PO DAILY 5.
+MetFORMIN (Glucophage) 850 mg PO BID 6.
+Albuterol Inhaler [**12-13**] PUFF IH Q6H:PRN SOB 8.
+Albuterol Inhaler [**12-13**] PUFF IH Q6H:PRN SOB 2.
+Atorvastatin 40 mg PO DAILY 3.
+Levothyroxine Sodium 200 mcg PO DAILY 4.
+Levofloxacin 750 mg PO DAILY Day 1 [**2101-7-11**] RX *levofloxacin 750 mg 1 tablet(s) by mouth daily Disp #*3 Tablet Refills:*0 5.
+MetFORMIN (Glucophage) 850 mg PO BID 8.
+Pioglitazone 30 mg PO DAILY 9.
+You were also found to have a pneumonia and were started on antibiotics to treat the infection.
+[**Location (un) 90952**], [**Numeric Identifier 90953**] -please make sure to get  6 min walk test and evaluate for pulmonary rehab  DIVISION: PULMONARY WITH: Dr. [**First Name8 (NamePattern2) **] [**Name (STitle) 90949**] WHEN: [**7-26**] 7:30am PHONE: [**Telephone/Fax (1) 90954**] WHERE: [**2088**] 6th Ave South,        [**Location (un) **]        [**Location (un) 11084**] [**Doctor Last Name **] FAX: [**Telephone/Fax (1) 90955**] .

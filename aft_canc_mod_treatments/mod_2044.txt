@@ -1,0 +1,23 @@
+Oncology:  The patient was greater than three weeks out of high-dose ARA-C chemotherapy and her total granulocyte count recovered by [**2154-12-30**] to greater than 1000.
+A bone marrow biopsy was performed [**2155-1-1**] for reassessment of response to chemotherapy.
+The patient is to follow up with Dr. [**Last Name (STitle) **] for a second round of high-dose ARA-C chemotherapy starting [**2155-1-6**].
+Infectious Disease:  The patient was afebrile throughout the period covered by this dictation, and cefepime and acyclovir were discontinued on [**2154-12-30**].
+AmBisome 180 mg every 24 hours was continued.
+The Infectious Disease team was reconsulted for recommendations concerning course of AmBisome therapy given that the patient had already completed a full six-week course.
+As these lesions are thought to be candidal in origin, the Infectious Disease team recommended an additional six weeks of AmBisome therapy starting from [**2154-12-30**], when ANC counts reached greater than 1000.
+It is the Infectious Disease team's feeling that the patient will need intravenous AmBisome concurrent with all future chemotherapy treatments.
+For fever workup due to temperature spike on [**2154-12-26**], viral cultures from nasal washings returned negative for RSV and influenza virus.
+Neurology:  Patient initially presented to [**Hospital1 346**] on [**2154-11-17**] for intracranial hemorrhage to the right frontal and mid-brain area.
+If leukemic involvement of CNS is discovered, this will alter future chemotherapy regimens, and possibly include intrathecal chemotherapy.
+They recommended a rehabilitation facility for continued high-level balance activities and increased safety awareness and increase in function.
+She was initially resistant to rehabilitation placement, however, with encouragement from the family and advice from the medical team, she eventually agreed to transfer to rehabilitation.
+Status post high-dose ARA-C 7.
+AmBisome 180 mg intravenously every 24 hours for six weeks starting [**2154-12-30**] 2.
+Senna one tablet once daily 3.
+Peridex 15 cc twice a day 4.
+Nystatin 5 cc four times a day 5.
+Ativan 0.5 to 1.0 mg intravenously as needed 6.
+Tylenol 325 to 650 mg as needed 7.
+Magnesium oxide 400 mg by mouth once daily  DISCHARGE INSTRUCTIONS: 1.
+The patient is to follow up with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], Oncology, for high-dose ARA-C chemotherapy starting [**2155-1-6**].
+The patient is to follow up with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 724**] in Infectious Disease upon completion of AmBisome therapy.

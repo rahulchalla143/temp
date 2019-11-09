@@ -1,0 +1,47 @@
+Admission Date:  [**2182-11-12**]              Discharge Date:   [**2182-11-16**]  Date of Birth:  [**2099-1-25**]             Sex:   F  Service: MEDICINE  Allergies: Bcg (Bacillus Calmette-[**Doctor Last Name **]) / Influenza Virus Vaccine  Attending:[**First Name3 (LF) 1115**] Chief Complaint: GI Bleeding   Major Surgical or Invasive Procedure: none   History of Present Illness: [**Known firstname **] [**Known lastname **] is a 83 year old female with PMHx significant for CAD s/p CABG and PCI for stenosed grafts, CHF w/ EF 25%, portal hypertensive gastropathy, GAVE, esophageal and rectal varices, chronic gastritis, multiple cecal AVMs s/p cauterization, multiple GIBs requiring >30 tranfusions over past 2 year who was admitted to [**Hospital1 18**] [**10-24**] for scheduled redo CABG and MVR and found to have an LV aneurysm on pre-op echo and pre-op Hct 16.
+EGD on [**2182-10-31**] showed Gastric varices, Angioectasias in the proximal jejunum and mid jejunum (thermal therapy), Erythema with erosions in the antrum compatible with gastritis and Varices at the distal esophagus.
+She was discharged to home with a Hct of 26.
+She was seen by Dr [**First Name (STitle) 437**] yesterday (Cardiology) in clinic where she was found to have a Hct of 22.
+She was advised by her GI doc to go to the ED.
+In the ED, initial VS were:  Temp 96.8, HR 82, BP 120/48, RR 26, O2 100% on RA.
+Her EKG showed SR @ 76, 1 AVB, TWI diffusely and ST depressions in the anterior leads.
+She had a trop leak of 0.03.
+Rectal exam showed very little dark stool in vault, which was guaic + .
+On arrival to the MICU, she had HR of 69, BP of 98/41, satting 99% on RA, afebrile and mentating well.
+transfusion dependent, 1-3u PRBC about every 3 weeks, baseline Hct 26-28 3.
+Cardiac Hx: 4.
+CAD w/h/o MI s/p CABG [**2162**] and LCX stents [**11/2179**], in-stent restenosis s/p cutting balloon [**3-/2180**] 5.
+Pulmonary hypertension 8.
+Liposarcoma - L thigh 13. h/o TB exposure 14.
+Lives with daughter [**Name (NI) **], who is her HCP ([**Telephone/Fax (1) 81673**]).
+Physical Exam: ADMISSION PHYSICAL EXAM: Vitals: T: BP: 98/41 P:72 R:18 O2: 97% on RA General: Alert, oriented, no acute distress HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL Neck: supple, JVP not elevated, no LAD CV: Regular rate and rhythm, normal S1 + S2, holosystolic murmur, rubs, gallops Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi Abdomen: soft, non-tender, non-distended, bowel sounds present, no organomegaly GU: no foley Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema Neuro: CNII-XII intact, 5/5 strength upper/lower extremities, grossly normal sensation, 2+ reflexes bilaterally, gait deferred, finger-to-nose intact  DISCHARGE PHYSICAL EXAM: General: NAD, comfortable, AOx3 HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL Neck: JVP 7cm H2O CV: Regular rate and rhythm, normal S1 + S2, I/VI holosystolic murmur throughout precordium, rubs, gallops Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi Abdomen: soft, non-tender, non-distended, bowel sounds present, no organomegaly Ext: warm, well perfused, no clubbing, cyanosis or edema Neuro: CNII-XII intact, 5/5 strength upper/lower extremities, grossly normal sensation, 2+ reflexes bilaterally, gait deferred, finger-to-nose intact  Pertinent Results: ADMISSION LABS: [**2182-11-12**] 03:45PM BLOOD PT-12.0 PTT-25.1 INR(PT)-1.0 [**2182-11-12**] 03:45PM BLOOD Glucose-113* UreaN-19 Creat-0.9 Na-141 K-3.6 Cl-106 HCO3-27 AnGap-12 [**2182-11-13**] 03:01AM BLOOD ALT-19 AST-42* LD(LDH)-278* CK(CPK)-56 AlkPhos-138* TotBili-0.7 [**2182-11-12**] 03:45PM BLOOD cTropnT-0.03* [**2182-11-13**] 03:01AM BLOOD Albumin-2.8* Calcium-7.9* Phos-4.2 Mg-2.1 Iron-65 [**2182-11-13**] 03:01AM BLOOD Ferritn-46 [**2182-11-13**] 03:01AM BLOOD TSH-13* [**2182-11-13**] 03:01AM BLOOD Digoxin-1.0 [**2182-11-12**] 03:45PM BLOOD WBC-3.7* RBC-2.16* Hgb-6.9* Hct-21.8* MCV-101* MCH-32.1* MCHC-31.9 RDW-19.0* Plt Ct-130*  PERTINENT INTERVAL LABS: [**2182-11-13**] 05:40PM BLOOD WBC-4.1 RBC-2.96* Hgb-9.5* Hct-28.6* MCV-97 MCH-32.0 MCHC-33.1 RDW-19.0* Plt Ct-131* [**2182-11-14**] 06:50AM BLOOD ALT-20 AST-34 LD(LDH)-240 AlkPhos-146* TotBili-0.6 [**2182-11-13**] 08:30AM BLOOD CK-MB-3 cTropnT-0.06* [**2182-11-13**] 05:30PM BLOOD CK-MB-3 cTropnT-0.05*  DISCHARGE LABS: [**2182-11-15**] 06:55AM BLOOD WBC-3.1* RBC-2.74* Hgb-8.7* Hct-26.8* MCV-98 MCH-31.7 MCHC-32.4 RDW-18.3* Plt Ct-120* [**2182-11-15**] 06:55AM BLOOD Glucose-84 UreaN-20 Creat-1.0 Na-142 K-3.8 Cl-107 HCO3-28 AnGap-11 [**2182-11-15**] 06:55AM BLOOD Calcium-7.7* Phos-4.4 Mg-1.9  MICRO: [**2182-11-12**] 9:21 pm MRSA SCREEN      Source: Nasal swab.
+Compared to the previous tracing of [**2182-10-8**] ST-T wave changes are more marked.
+Compared to the previous tracing of [**2182-11-12**] ST-T wave changes are slightly less.
+The patient was given two units of pRBCs, and her Hct increased appropriately and stayed relatively stable.
+EKG upon admission demonstrated ST depressions and TWI suggestive of ischemia.
+Pt received two units of blood in the MICU, and Hct increased from 22 --> 26.
+Hct stable throughout remainder of hospitalization from 26-28.
+Given, however, poor study for last capsule endoscopy, may be reasonable to attempt another capsule study to attempt to localize a bleeding lesion (for targeted intervention thereafter) as an outpatient.
+Patient had ischemic changes on EKG in the ED and mild troponin leak.
+Troponin peaked at 0.06.
+Considering patient's dropping hematocrit, it was not appropriate clinically to anticoagulate this patient.
+We kept the patient on ASA and statin, and replenished blood volume with 2 units of pRBCs in the MICU.
+Per cardiology, goal Hct = 25. .
+He advised a goal Hct would be approximately 25 for Ms. [**Known lastname **].
+Considering the patient has multiple terminal illnesses (slow GI bleed refractory to therapy; triple vessel CAD with MR 4+; severe systolic heart failure, cirrhosis), we initiated a palliative care consult to begin discussing what the patient's specific goals of her care are.
+Follow-up Appointments Name: [**Last Name (LF) **],[**First Name8 (NamePattern2) **] [**Doctor First Name **] Specialty: INTERNAL MEDICINE Location: [**Hospital **] MEDICAL ASSOCIATES, PC Address: [**Location (un) **], [**Location (un) **],[**Numeric Identifier 70678**] Phone: [**Telephone/Fax (1) 60570**] Appointment: TUESDAY [**11-19**] AT 2:45PM  Department: DIV.
+OF GASTROENTEROLOGY When: WEDNESDAY [**2182-11-20**] at 1:30 PM With: [**First Name8 (NamePattern2) 4503**] [**Last Name (NamePattern1) 4504**], MD [**Telephone/Fax (1) 463**] Building: Ra [**Hospital Unit Name 1825**] ([**Hospital Ward Name 1826**]/[**Hospital Ward Name 1827**] Complex) [**Location (un) **] Campus: EAST Best Parking: Main Garage  Department: CARDIAC SERVICES When: MONDAY [**2182-11-25**] at 10:30 AM With: DR. [**First Name8 (NamePattern2) **] [**Doctor Last Name **] [**Telephone/Fax (1) 62**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **] Campus: EAST Best Parking: [**Hospital Ward Name 23**] Garage  3.
+Patient should have CBC drawn twice per week and sent to PCP.
+[**Name10 (NameIs) **] patient be transfused as an outpatient to maintain a goal Hct of 25.
+)(s)* Refills:*2* 17. lisinopril 2.5 mg Tablet Sig: One (1) Tablet PO once a day.
+)(s)* Refills:*0* 17. lisinopril 2.5 mg Tablet Sig: One (1) Tablet PO once a day.
+Consider transfusing to a goal Hct of 25.
+You were given two units of blood while you were here, and your blood count rose, and remained stable.
+They recommended a video capsule study to evaluate for any occult or gross bleeding source.
+It was thought that your hematocrit drop (blood count) is not from a brisk bleed in your GI tract (based upon prior endoscopies), but most likely a slow bleed that may not be amenable to repair (which may be secondary to your liver disease).
+You will need to have your blood count checked twice per week as an outpatient (prescription attached) and faxed to your primary care doctor.
+Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more than 3 lbs.
+The gastroenterologists may wish to have you do a capsule endoscopy study in approximately one week.
+Finally, you met with our palliative care team, in regards to your chronic, terminal conditions, which may not be amenable to interventions.
+Followup Instructions: Name: [**Last Name (LF) **],[**First Name8 (NamePattern2) **] [**Doctor First Name **] Specialty: INTERNAL MEDICINE Location: [**Hospital **] MEDICAL ASSOCIATES, PC Address: [**Location (un) **], [**Location (un) **],[**Numeric Identifier 70678**] Phone: [**Telephone/Fax (1) 60570**] Appointment: TUESDAY [**11-19**] AT 2:45PM  Department: DIV.
+OF GASTROENTEROLOGY When: WEDNESDAY [**2182-11-20**] at 1:30 PM With: [**First Name8 (NamePattern2) 4503**] [**Last Name (NamePattern1) 4504**], MD [**Telephone/Fax (1) 463**] Building: Ra [**Hospital Unit Name 1825**] ([**Hospital Ward Name 1826**]/[**Hospital Ward Name 1827**] Complex) [**Location (un) **] Campus: EAST     Best Parking: Main Garage  Department: CARDIAC SERVICES When: MONDAY [**2182-11-25**] at 10:30 AM With: DR. [**First Name8 (NamePattern2) **] [**Doctor Last Name **] [**Telephone/Fax (1) 62**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage

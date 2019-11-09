@@ -1,0 +1,33 @@
+HR was 42, blood glucose 132.
+Her initial vitals were T: 86.9 HR: 30 BP: 66/p.
+CT scan of the head was negative for intracranial hemorrhage.
+CT chest/abdomen/pelvis was concerning for a small bowel obstruction and peripancreatic stranding.
+Blood pressures improved to the 80s systolic by the time of transfer.
+Labs were notable for a WBC count of 16.0, Hct of 25.0, Plts of 80.
+Differential was 92.3 % neutrophils, 2.0% lymphocytes.
+Creatinine was 7.3 with potassium 6.5 and bicarbonate of 7.
+TSH 3.61.
+She was med-flighted to [**Hospital1 18**] for further management.
+On arrival to [**Hospital1 18**] her initial vitals were T: 85.5, HR: 61 BP: 100/41, RR: 12, O2: 100% on 100% FiO2.
+The patient was examined by Surgery, but they did not feel that her physical exam was consistent with a small bowel obstruction.
+Per notes, FAST exam was concerning for a pericardial effusion.
+She was transferred to the [**Hospital Unit Name 153**] for further evaluation.
+Past Medical History: Ulcerative Colitis s/p colectomy with end ileostomy Schizoaffective disorder Chronic renal insufficiency ([**Hospital Unit Name 5348**] creatinine unknown) Hypertension   Social History: Social History: Unknown  Family History: Family History: Unknown  Physical Exam: General: Intubated, no sedation, minimally responsive to painful stimuli HEENT: pupils 3 mm and minimally reactive, sclera anicteric, MM dry, food in airway Neck: JVP not elevated, no LAD CV: regular rate and rhythm, normal s1 and s2, no murmurs, rubs, gallops Lungs: Decreased breath sounds at left base, otherwise clear anteriorly GI: soft, ostomy with liquid stool in right lower quadrant, non-disteneded, faint bowel sounds, no organomegaly GU: foley with minimal cloudy urine Ext: WWP, 2+ pulses, no clubbing, cyanosis or edema, bruises on lower extremities bilaterally   Pertinent Results: =========== Labs =========== admission labs  [**2150-1-11**] 08:00PM BLOOD WBC-19.5* RBC-2.83* Hgb-8.7* Hct-27.4* MCV-97 MCH-30.8 MCHC-31.8 RDW-16.0* Plt Ct-109* [**2150-1-11**] 08:00PM BLOOD PT-15.7* PTT-41.0* INR(PT)-1.4* [**2150-1-11**] 09:48PM BLOOD Glucose-200* UreaN-58* Creat-6.5* Na-141 K-4.4 Cl-124* HCO3-8* AnGap-13 [**2150-1-11**] 09:48PM BLOOD ALT-15 AST-19 AlkPhos-92 TotBili-0.2 [**2150-1-11**] 08:00PM BLOOD Lipase-3360* [**2150-1-12**] 04:45AM BLOOD Calcium-7.2* Phos-2.5* Mg-1.0* [**2150-1-15**] 04:00PM BLOOD VitB12-1405* [**2150-1-12**] 04:45AM BLOOD Osmolal-319* [**2150-1-15**] 04:00PM BLOOD TSH-2.5 [**2150-1-12**] 07:16AM BLOOD Cortsol-13.0 [**2150-1-12**] 08:00AM BLOOD Cortsol-32.8* [**2150-1-12**] 08:43AM BLOOD Cortsol-37.2* [**2150-1-11**] 08:00PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG Bnzodzp-NEG Barbitr-NEG Tricycl-POS  ============= Neurology ============= EEG This is a mildly abnormal EEG in the waking and drowsy states due to the presence of left temporal slow transients suggestive of an area of subcortical dysfunction in this region.
+CT Head [**1-15**] No evidence of hemorrhage or stroke.
+CT Chest [**1-15**] IMPRESSION: 1.
+However, culture data was negative.
+of right sided pna on cxr, but a CT chest did not demonstrate pneumonia.
+CT Head was positive for possible sinus infection, so patient was treated with azithromycin.
+No evidence of hydronephrosis on CT scan to suggest obstruction.
+Urine eos negative.
+Per PCP, [**Name10 (NameIs) 5348**] renal function is creatinine = 3.
+On CT abdomen, no mediastinal hemorrhage, some peripancreatic stranding, long stretch of dilated bowel (collapsed bowel behind it) potentially consistent with incomplete sbo vs local ileus in the setting of pancreatic inflammation.
+Enzymes trended down over course of admission.
+Non-contrast head CT was negative for bleed.
+EEG negative for seizure.
+Urine tox positive for TCAs.
+Ostomy output was guaiac positive, but virtually no drop in HCT.
+Due to epistaxis and [**Date Range 5348**] altered mental status (see above), pt desated down to 70s on RA, which improved upon deep suctioning of blood clots.
+Serial Hcts were 27.0 --> 26.5 (at time of bleeding) --> 29.8 --> 20.7 --> 21.6.
+Discharge Disposition: Extended Care  Facility: [**Hospital 5503**] Rehab  Discharge Diagnosis: Primary: Hypovolemic Shock Aspiration Pneumonia Refractory Epistaxis  Secondary: Ulcerative Colitis s/p colectomy with end ileostomy Schizoaffective disorder Chronic renal insufficiency ([**Hospital 5348**] creatinine 3.0) Hypertension   Discharge Condition: Stable, responsive, not ambulatory, can move all 4 extremities spontaneously, eating, drinking, voiding without complaints.
+Provider: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] [**Name8 (MD) **], MD Phone:[**Telephone/Fax (1) 435**] Date/Time:[**2150-2-17**] 10:30    Completed by:[**2150-2-4**

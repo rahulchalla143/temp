@@ -1,0 +1,23 @@
+Admission Date:  [**2170-1-18**]              Discharge Date:   [**2170-2-2**]  Date of Birth:  [**2129-6-22**]             Sex:   M  Service: MEDICINE  Allergies: Aspirin / Hydralazine / Pyridium / Bactrim / Nitrofurantoin / Dapsone / Quinine / Quinidine / Methylene Blue  Attending:[**First Name3 (LF) 19193**] Chief Complaint: fatigue, poor PO intake, abdominal discomfort  Major Surgical or Invasive Procedure: None   History of Present Illness: Mr. [**Known lastname 1557**] is a 40-year-old man with medical history of [**First Name8 (NamePattern2) **] [**Last Name (Prefixes) 93502**] disease (glycogen storage disease) who presented with fatigue, poor PO intake, and abdominal pain.
+Per his father, [**Name (NI) **] has not been doing well since he completed alpha interferon at the end of [**10/2169**] for treatment of his liver adenomas.
+Patient was initially started on D10W with close monitoring of his blood sugars which was then changed to 1/2 NS given his lactic acidosis.
+He was also given Zosyn 3.375gm IV and Ceftriaxone 1gm IV.
+Of note, the patient was recently admitted in mid-[**Month (only) 404**] for anemia and was admitted for blood transfusions.
+2)CT abd/pelvis ([**1-18**]): 1.
+A targeted ultrasound of this area is recommended for further evaluation of possible intra- tumoral hemorrhage vs. venous lakes.
+He was empirically started on Zosyn on admission which was stopped after 48 hours because of no evidence for an active infection.
+When he developed loose stools later in the hospital course, metronidazole was started for presumed C. diff and completed by discharge.
+He was empirically treated with a short course of metronidazole.
+The patient's Hct was 18 on admission, and he subsequently received pRBCs to increase Hct to high 20s.
+* LE and scrotal edema: likely from low albumin, and with infusion of IVF during hospital stay.
+* Code: Full   Medications on Admission: Allopurinol 300mg PO daily Cornstarch  Discharge Medications: 1.
+Allopurinol 100 mg Tablet Sig: 1.5 Tablets PO DAILY (Daily).
+Camphor-Menthol 0.5-0.5 % Lotion Sig: One (1) Appl Topical QID (4 times a day) as needed.
+Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Ferrous Gluconate 300 mg (35 mg Iron) Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Dextrose (Diabetic Use) 300 mg Tablet Sig: 2-4 Tablets PO PRN (as needed) as needed for FS < 60.
+You were found to have hypoglycemia (low blood sugar) and lactic acidosis, consistent with your glycogen storage disease.
+You were empirically treated with an antibiotic called metronidazole.
+Please take your medications as instructed.

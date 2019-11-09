@@ -1,0 +1,27 @@
+Vital signs in the ED:  103.8  165  151/127  16  95 on 4L .
+In the [**Name (NI) **], pt's BP dropped to 80s/60s.
+A CVL (R-IJ) was attempted but the pt was uncooperative.
+Pertinent labs in the ED included lactate 7.6, creatinine 1.7, troponin 0.06, INR 6.1.
+Blood cultures were sent from the ED.
+Pertinent Results: CXR [**2134-5-8**] FINDINGS: Lung volumes are again low and absence of lateral limits assessment.
+IMPRESSION: Increase in size of left greater than right upper lung, possibly pleural-based based on the prior examination, opacities for which further evaluation by CT is recommended.
+ADMISSION LABS: [**2134-5-8**] 11:45AM BLOOD WBC-4.0 RBC-4.53 Hgb-13.0 Hct-42.3 MCV-93 MCH-28.6 MCHC-30.7* RDW-15.8* Plt Ct-174 [**2134-5-8**] 11:45AM BLOOD Neuts-86* Bands-1 Lymphs-11* Monos-0 Eos-0 Baso-2 Atyps-0 Metas-0 Myelos-0 [**2134-5-8**] 11:45AM BLOOD Hypochr-2+ Anisocy-NORMAL Poiklo-1+ Macrocy-1+ Microcy-NORMAL Polychr-NORMAL Ovalocy-OCCASIONAL Burr-OCCASIONAL [**2134-5-8**] 11:45AM BLOOD PT-61.0* PTT-49.2* INR(PT)-6.1* [**2134-5-8**] 11:45AM BLOOD Glucose-183* UreaN-34* Creat-1.7* Na-141 K-4.9 Cl-104 HCO3-15* AnGap-27* [**2134-5-8**] 11:45AM BLOOD ALT-9 AST-30 CK(CPK)-43 AlkPhos-147* TotBili-0.6 [**2134-5-8**] 11:45AM BLOOD Albumin-3.0* [**2134-5-8**] 12:04PM BLOOD Lactate-7.6*  Brief Hospital Course: [**Age over 90 **] F w dCHF, recurrent UTIs presents with septic shock, suspected urinary origin.
+ROS: afebrile, no chest pain PMH: CHF  discharge exam EXAM:97.2 119/72 HR 74 18 96 RA lung sounds clear without crackles or wheezes irregular s1 and s2 soft, non-distended/non-tender abdomen trace peripheral edema  DATA INR 4.1, Creat 0.8 I personally reviewed her chest CT with radiology demonstrating bilateral chest masses  Medical Decision Making:  #SEPTIC SHOCK: Pt presented with SBP in 90s which was unresponsive to fluids (but only received 1.5L) and lactate of 7.6.
+Urinalysis showed evidence of UTI.
+Shy was transferred out of the ICU to the medical floor on [**5-9**].
+Blood cultures and urine cultures both grew pan-sensitive E.Coli.
+Repeat blood culture is negative.
+# ACUTE KIDNEY INJURY: Creatinine 1.7 on admission from apparent baseline of 0.9-1.0 (last [**2134-4-28**]).
+As of [**5-12**], her creatinine improved to 0.8.
+INR trended down and is 2.3 as of [**5-10**], so coumadin was resumed at 2.5mg (home dose), but INR was 4.1 after 2 doses, so coumadin will be held until INR trends back down.
+Troponin trended down after admission.
+Her CHADS2 score is 5 (age, CHF, DM2, prior CVA); she is on coumadin as an outpatient.
+Pt was monitored on telemetry in the ICU.
+Coumadin was resumed on [**5-11**], but held on discharge for INR > 4.0  Metoprolol was resumed in TID dosing on [**5-11**].
+#Lung mass: Pt previously noted on CXR [**3-21**] to have bilateral pleural opacifications in the upper lung fields.
+A chest CT documented large bilateral pulmonary masses with an appearance concerning for malignancy though given the rapid change in appearance on CXR radiology also felt a fungal infection could also be on the differential.
+Discharge Instructions: You were admitted with sepsis from a UTI leading to positive blood cultures growing E. Coli.
+Initially you were admitted to the MICU where your blood pressure was stabilized and antibiotics were begun.
+Lung masses were found on chest CT that are suspected to be lung cancer but given your age and medical problems, you and your family decided against performing a biopsy.
+Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more than 3 lbs.
+Nifidipine was also stopped, but can be resumed if BP is high  Followup Instructions: When you are discharged from rehab please call your PCP's office to arrange a followup appointment  Name: [**Last Name (LF) **],[**First Name3 (LF) **] L. Location: [**Hospital1 **] HEALTHCARE - [**Location (un) **] Address: [**State 4607**], [**Location (un) **],[**Numeric Identifier 588**] Phone: [**Telephone/Fax (1) 4606**] Fax: [**Telephone/Fax (1) 14816**]

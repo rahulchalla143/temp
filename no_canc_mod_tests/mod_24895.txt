@@ -1,0 +1,38 @@
+Admission Date:  [**2166-12-19**]              Discharge Date:   [**2166-12-23**]  Date of Birth:  [**2144-9-1**]             Sex:   M  Service: MEDICINE  Allergies: No Allergies/ADRs on File  Attending:[**First Name3 (LF) 783**] Chief Complaint: Fall and loss of consciousness  Major Surgical or Invasive Procedure: lumbar puncture  History of Present Illness: This is a 22 year old male with past medical history significant for anxiety and a previous cardiac work-up at the age of 16 for "conduction abnormalities" presenting with an episode of chest pain followed by loss of consciousness and s/p a fall down a steep flight of stairs in his apartment building.
+He states that he was in his usual state of health when he suddenly felt a sharp, substernal chest pain that radiated across his chest bilaterally, and felt unwell.
+Glucose was 132 in the field.
+Per his pediatric cardiologist from previous notes in [**2162**], TTE showed a structurally normal heart with good contractility, without cardiomyopathy, MVP, or pulmonary hypertension, and normal stress test.
+Double contrast esophogram in [**2162**] shows hiatal hernia, no evidence of dysmotility.
+In the ED, initial VS were: T97.9 P108 BP160/D R44 O2 sat 100% on NRB.
+Labs notable for lactate 4.6, anion gap 18.
+The decision was made to intubate and sedate in order to get CT studies done.
+CT were negative for traumatic pathology, but he required paralytics to get through CT. LP unremarkable, with normal protein/glucose/WBCs.
+On arrival to the MICU, patient quite sedate, not responding to painful stimuli initially.
+They recommended MRI of the brain as well as an EEG.
+ABG was completely normal.
+D-dimer sent and returned elevated at 551.
+[**Name2 (NI) **] seizure disorders in the family  Physical Exam: VS: T 99.0, BP 124/84, HR 68, RR 18 and 100%RA GA: AOx3, NAD HEENT: PERRLA.
+DTRs 2+ BL (biceps, patellar).
+[**2166-12-19**] 07:50PM BLOOD WBC-5.9 RBC-4.81 Hgb-15.5 Hct-44.0 MCV-91 MCH-32.3* MCHC-35.3* RDW-12.2 Plt Ct-269 [**2166-12-19**] 07:50PM BLOOD PT-13.0 PTT-27.3 INR(PT)-1.1 [**2166-12-20**] 01:32AM BLOOD Glucose-91 UreaN-7 Creat-0.9 Na-141 K-3.6 Cl-107 HCO3-24 AnGap-14 [**2166-12-20**] 01:25PM BLOOD D-Dimer-551* [**2166-12-19**] 07:50PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG Bnzodzp-NEG Barbitr-NEG Tricycl-NEG [**2166-12-19**] 07:52PM BLOOD Glucose-117* Lactate-4.6* Na-142 K-3.9 Cl-99* calHCO3-25 .
+MICROBIOLOGY: Blood cultures x2: no growth to date Urine culture: FINAL - no growth CSF culture: FINAL - no growth .
+IMAGING / OTHER STUDIES: CXR ([**2166-12-19**]): IMPRESSION: No acute traumatic injury is seen within the chest.
+CT head ([**2166-12-19**]): IMPRESSION: No evidence of acute intracranial process.
+CT chest/abdomen/pelvis ([**2166-12-19**]): IMPRESSION: No acute traumatic findings within the chest, abdomen, and pelvis.
+MRI head w/ and w/o contrast ([**2166-12-20**]): IMPRESSION: No evidence of intracranial abnormalities.
+Echocardiogram ([**2166-12-23**]): The left atrium is normal in size.
+Left ventricular wall thicknesses are normal.
+Tissue Doppler imaging suggests a normal left ventricular filling pressure (PCWP<12mmHg).
+EKG ([**2166-12-21**]): Sinus rhythm.
+Compared to the previous tracing of [**2166-12-19**] the findings are similar.
+He did explain a previous history of "regurgitation" when eating, with an esophageal study in the past, only showing a hiatal hernia and no apparent dysmotility.
+An echocardiogram was recommended by the Cardiology team and it showed an ejection fraction of 45% and global dilatation of the ventricles.
+He will be followed closely by the electrophysiology team as an outpatient with cardiac MRI and follow-up appointments to further explore this structural abnormality and work-up this apparent dilated cardiomyopathy.
+His PCP and GI appointments are in [**2166-12-10**], and cardiac MRI and EP appointments are in [**2167-1-10**].
+)(s)* Refills:*2*   Discharge Disposition: Home  Discharge Diagnosis: Primary diagnosis: Cardiomyopathy, based on echocardiogram results Vasovagal syncope  Secondary diagnosis: Anxiety Hiatal hernia   Discharge Condition: Mental Status: Clear and coherent.
+You received CT scans of your head, chest, and abdomen to make sure you were not bleeding anywhere from your fall.
+An MRI of your brain was done and it was normal without evidence of stroke or focus of seizure.
+An EEG was performed and there was no evidence of seizures.
+We performed an echocardiogram, which showed an abnormal reduction in the heart's pumping ability, which will require further evaluation with the cardiologists.
+They would like to you get a cardiac MRI before you see them for a follow-up appointment.
+The cardiology service (and Dr. [**Last Name (STitle) **] will be contacting you with your appointment and with the information about where and when to get your cardiac MRI as an outpatient.
+These are your upcoming appointments:  Department: [**Hospital3 249**] When: TUESDAY [**2166-12-30**] at 2:35 PM With: [**Doctor First Name 54900**] [**Name6 (MD) 46462**] [**Name8 (MD) **], MD [**Telephone/Fax (1) 250**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage  Department: GASTROENTEROLOGY When: WEDNESDAY [**2166-12-31**] at 10:30 AM With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 6970**], MD [**Telephone/Fax (1) 463**] Building: LM [**Hospital Unit Name **] [**Location (un) 858**] Campus: WEST     Best Parking: [**Hospital Ward Name **] Garage                                [**First Name11 (Name Pattern1) 734**] [**Last Name (NamePattern1) 735**] MD, [**MD Number(3) 799**]

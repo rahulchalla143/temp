@@ -1,0 +1,35 @@
+Admission Date:  [**2167-3-27**]              Discharge Date:   [**2167-4-1**]   Service: CARDIOTHORACIC  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 1505**] Chief Complaint: shortness of breath  Major Surgical or Invasive Procedure: [**2167-3-27**] Aortic valve replacement ([**First Name8 (NamePattern2) 6158**] [**Male First Name (un) 923**] tissue)   History of Present Illness: [**Known firstname **] [**Known lastname 12330**] is a [**Age over 90 **] year old woman with known aortic stenosis and coronary artery disease.
+She was admitted for cardiac surgery.
+Past Medical History: aortic stenosis s/p valvulopasty in [**6-4**] coronary artery disease MRSA (left elbow cellulitis) hypertension pancreatitis gastric esophageal reflux disease hypercholesterolemia colovesical fistula repair s/p trach after valvuloplasty and pancreatitis in '[**65**] bilateral cataracts  Social History: She lives with her family and is widowed.
+She is noted to use a cane for ambulation.
+Pertinent Results: [**2167-3-30**] 05:00AM BLOOD WBC-9.2 RBC-2.99* Hgb-9.3* Hct-27.3* MCV-91 MCH-31.0 MCHC-33.9 RDW-15.0 Plt Ct-127* [**2167-3-30**] 05:00AM BLOOD Plt Ct-127* [**2167-3-30**] 05:00AM BLOOD Glucose-97 UreaN-21* Creat-0.9 Na-138 K-4.5 Cl-104 HCO3-28 AnGap-11 [**2167-4-1**] 05:15AM BLOOD WBC-7.5 RBC-2.80* Hgb-9.2* Hct-26.1* MCV-93 MCH-32.7* MCHC-35.1* RDW-14.3 Plt Ct-230# [**2167-4-1**] 05:15AM BLOOD Glucose-97 UreaN-20 Creat-0.9 Na-141 K-4.5 Cl-102 HCO3-32 AnGap-12    [**Hospital1 18**] ECHOCARDIOGRAPHY REPORT  [**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 79474**] (Complete) Done [**2167-3-27**] at 10:19:25 AM      FINAL Referring Physician     [**Name9 (PRE) **] Information [**Name9 (PRE) **], [**First Name3 (LF) **] R. [**Hospital1 18**], Division of Cardiothorac [**Hospital Unit Name 4081**] [**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2076-7-7**] Age (years): [**Age over 90 **] F  Hgt (in): 65 BP (mm Hg): 134/78  Wgt (lb): 155 HR (bpm): 67  BSA (m2): 1.78 m2 Indication: Intraoperative TEE for AVR.
+RIGHT ATRIUM/INTERATRIAL SEPTUM: A catheter or pacing wire is seen in the RA and extending into the RV.
+The patient was under general anesthesia throughout the procedure.
+Patient is a paced and receiving an infusion of phenylephrine.
+I certify that I was present for this procedure in compliance with HCFA regulations.
+Brief Hospital Course: On [**2167-3-27**] Ms. [**Known lastname 12330**] was taken to the operating room and underwent an aortic valve replacement with a St. [**Male First Name (un) 923**] tissue aortic valve.
+This procedure was performed by Dr. [**First Name (STitle) **] [**Name (STitle) **].
+She tolerated the procedure well and was transferred in critical but stable condition to the surgical intensive care unit.
+She was extubated on the following day and her pressors were weaned.
+On post-operative day two her chest tubes were removed.
+She experienced atrial fibrillation and converted to sinus rhythm on amiodarone and beta blockers.
+On the following day she was transferred to the surgical step down floor and her epicardial wires were removed.
+Her beta blockade was tirated upward as tolerated.
+Her diuretic regimen was increased due to a wet chest radiograph.
+Beta blocker and amiodarone were adjusted accordingly.
+Coumadin was started for a goal INR 2.0.
+Medications on Admission: lasix 160mg daily lisinopril 5mg daily metoprolol 25mg [**Hospital1 **] zocor 10mg daily aspirin 325mg daily  Discharge Medications: 1.
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO twice a day.
+Aspirin 81 mg Tablet, Delayed Release (E.C.)
+Omeprazole 20 mg Capsule, Delayed Release(E.C.)
+Simvastatin 10 mg Tablet Sig: One (1) Tablet PO once a day.
+Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every 4 hours) as needed.
+Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours) as needed for pain.
+Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation Q6H (every 6 hours).
+Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1)  Inhalation Q6H (every 6 hours).
+Menthol-Cetylpyridinium 3 mg Lozenge Sig: One (1) Lozenge Mucous membrane PRN (as needed).
+Metoprolol Tartrate 50 mg Tablet Sig: Two (2) Tablet PO TID (3 times a day): hold for sbp<90, hr<60.
+Amiodarone 200 mg Tablet Sig: Two (2) Tablet PO TID (3 times a day): 400mg 3x/day for 1 week, then 400mg 2x/day for 1 week, then 200mg 2x/day for 1 week, then 200mg/day until further instructed.
+Warfarin 1 mg Tablet Sig: Three (3) Tablet PO once a day: for atrial fibrillation, titrate daily for goal INR 2.0.
+Furosemide 40 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Potassium Chloride 20 mEq Tab Sust.Rel.

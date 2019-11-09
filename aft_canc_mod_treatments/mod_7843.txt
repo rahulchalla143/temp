@@ -1,0 +1,23 @@
+Admission Date:  [**2170-2-10**]              Discharge Date:   [**2170-2-14**]  Date of Birth:  [**2129-6-22**]             Sex:   M  Service: MEDICINE  Allergies: Aspirin / Hydralazine / Pyridium / Bactrim / Nitrofurantoin / Dapsone / Quinine / Quinidine / Methylene Blue  Attending:[**First Name3 (LF) 338**] Chief Complaint: CC:[**CC Contact Info 93503**] Major Surgical or Invasive Procedure: PICC line placement EGD  History of Present Illness: This is a 40 year old male with a hx of [**First Name8 (NamePattern2) **] [**Last Name (Prefixes) 93502**] disease, hx of hepatic adenomas who presented with hypoglycemia.
+He came in tonight for further evaluation of his hypoglycemia.
+The patient was seen by GI who recommended PRBCs, FFP and vitamin K.  The patient received 1U FFP, 1U PRBC and 10mg vitamin K SC.
+Per the patient's parents for the past several days he has been taking advil for neck pain.
+4 2 cc.Epinephrine 1/[**Numeric Identifier 961**] injections were applied around ulcer base.
+[**Hospital1 **]-CAP Electrocautery probe was used to attempt to dislodge clot unsuccessfully.
+3 2cc Epi 1/[**Numeric Identifier 961**] injections were again applied around ulcer base with successful hemostasis.
+Patient has been taking NSAIDS for the past couple days for neck pain which have caused a gastritis.
+Pt refused PIVs, he accepted a PICC Line for labs and transfusions.
+He was continued on PPI [**Hospital1 **], H pylori serology was negative.
+He was advised to never take NSAIDs, ibuprophen or aspirin again.
+#[**First Name8 (NamePattern2) **] [**Last Name (Prefixes) 93502**]: He was continued on allopurinol.
+He was then transitioned to his cornstarch regimen per his specialists recommendations.
+He tolerated POs and cornstarch regimen at time of discharge.
+He was given low dose oxycodone for pain prn.
+Thrush: pt noted to have thrush, he was started on nystatin S&S for short course.
+Dispo: Home with prior private services to be resumed as an outpt   Medications on Admission: allopurinol corn starch  Discharge Medications: 1.
+Allopurinol 100 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+Nystatin 100,000 unit/mL Suspension Sig: 5-10 MLs PO QID (4 times a day) as needed for thrush for 5 days.
+Oxycodone 5 mg Tablet Sig: 1/2-1 Tablet PO Q4H (every 4 hours) as needed for pain.
+You were started on nystatin swish and swallow for thrush, please take this for 5 days.
+You may take oxycodone for pain.

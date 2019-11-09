@@ -1,0 +1,40 @@
+She denies any trouble with her PD machine, damaged dialysate bags, or sick contacts.
+In the ED her initial vital signs were 97.8 107/63 95 12 100% on RA.
+Her initial WBC was 10.4 with 88% PMN.
+BCx x2 were drawn.
+Her peritoneal fluid was sampled and came back with [**Numeric Identifier 97094**] WBC, 95% PMNs.
+Peritoneal fluid was not sent for culture.
+Her SBP fell to 98/58, and she received NS 500mL IV bolus with improvement of her BP to 105/64.
+Her venous lactate was 1.7.
+Past Medical History: - ESRD thought to be d/t Lupus nephritis - S/P cadeveric renal transplant in [**2115**] which lasted about 8 years - SLE - CAD s/p IMI in [**9-/2128**] with a BMS to the RCA for total occlusion - CHF with an EF of 35% as of [**9-/2132**] - S/P Subtotal parathyroidectomy in [**2109**] for tertiary hyperparathyroidism - R hip fracture [**2128-1-20**] s/p ORIF and girdlestone hip athroplasty for infected non [**Hospital1 **] hip fx - Osteoporosis d/t renal osteodystrophy - HTN - MRSA colonized  Social History: She lives with her two children, whom she raises as a single parent (husband has moved out).
+Physical Exam: Admission physical exam: GEN: NAD, appears uncomfortable VS: 99.0 118/80 88 18 99% on RA HEENT: MMM, supple, no LAD CV: RR, III/VI low pitched holosystolic murmur loudest at the LUSB PULM: CTAB ABD: BS+, diffusely tender, nondistended, no erythema or exudates at PD catheter, no masses or HSM LIMBS: No edema, no clubbing SKIN: No skin breakdown, no rashes NEURO: Grossly non-focal  Pertinent Results: Labs on admission: [**2133-11-30**] 02:35AM   PLT SMR-NORMAL PLT COUNT-264 [**2133-11-30**] 02:35AM   HYPOCHROM-1+ ANISOCYT-NORMAL POIKILOCY-OCCASIONAL MACROCYT-NORMAL MICROCYT-NORMAL POLYCHROM-NORMAL SCHISTOCY-OCCASIONAL [**2133-11-30**] 02:35AM   NEUTS-88* BANDS-0 LYMPHS-5* MONOS-5 EOS-1 BASOS-1 ATYPS-0 METAS-0 MYELOS-0 [**2133-11-30**] 02:35AM   WBC-10.4# RBC-3.39* HGB-10.0* HCT-31.4* MCV-93 MCH-29.4 MCHC-31.8 RDW-15.5 [**2133-11-30**] 02:35AM   ALBUMIN-2.5* [**2133-11-30**] 02:35AM   LIPASE-30 [**2133-11-30**] 02:35AM   ALT(SGPT)-23 AST(SGOT)-57* ALK PHOS-102 TOT BILI-0.2 [**2133-11-30**] 02:35AM   GLUCOSE-92 UREA N-65* CREAT-8.7* SODIUM-131* POTASSIUM-6.5* CHLORIDE-91* TOTAL CO2-27 ANION GAP-20 [**2133-11-30**] 02:45AM   LACTATE-1.3 [**2133-11-30**] 03:25AM ASCITES  WBC-[**Numeric Identifier 97094**]* RBC-0 POLYS-95* LYMPHS-1* MONOS-4* [**2133-11-30**] 03:30AM   GLUCOSE-85 UREA N-64* CREAT-8.8* SODIUM-134 POTASSIUM-4.0 CHLORIDE-94* TOTAL CO2-27 ANION GAP-17  EKG [**2133-11-30**]: Sinus rhythm.
+Compared to the previous tracing inferior Q waves are more prominent and early transition is new.
+Ms. [**Known lastname 97063**] was admitted to the renal service, where she underwent repeat fluid check through her IP line that showed WBC count > 28K.
+A 3rd peritoneal fluid sample showed marked decreased in WBC count to 1900.
+She showed occasional signs of confusion throughout the day (difficulty reciting months of the year backward, slow response time), and had continued abdominal pain worse with palpation but was otherwise in NAD.
+CXR showed a questionable new opacity, generating concern for possible aspiration.
+She was given IV fluids and her blood pressure was restored.
+Throughout this course, blood and peritoneal cultures did not grow anything.
+With concern for indolent infection, chest x-ray, blood and peritoneal cultures were sent.
+Chest x-ray demonatrated a retrocardiac opacity.
+A non-contrast Chest/Abdominal CT was performed.
+An opacity was again demonstrated in the right lower lobe.
+Since patient was not showing any signs of pneumonia and white count normalized the following day, she was not continued on antibiotics.
+All cultures remained negative.
+ID recommended repeat imaging in [**12-24**] weeks if the patient's hip complaints persist.
+# CAD: H/o IMI, CHF with EF 35% ([**2131**]).
+EKG changes in setting of hypotension likely demand ischemia.
+# Mitral regurgitation: The patient had severe mitral regurgitation on an Echo from [**12-10**].
+She received one unit of packed red blood cells as her Hct was drifting down.
+With concern for septic joint, hip x-ray was performed and did not show any obvious source of concern.
+Further workup described as above.
+Nursing was concerned about introducing infection in her bladder with a straight cath, so a urine sample was not obtained.
+Calcium check: Stopped calcitriol 4.
+Followup with renal, ID, cardiology and ortho 5.
+While you were in the hospital, your blood pressure became very low and you needed extra oxygen to breath.
+Since you needed more oxygen to breath comfortably, a chest x-ray was performed which showed a possible pneumonia.
+Also, your infections, abdominal pain, antibiotics, and kidney disease on its own could have made you confused.
+You had an echocardiogram of your heart.
+With concern for another infection a non-contrast CT of your chest and abdomen were performed.
+[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], Nephrology Date/Time: [**12-29**] at 1:00 pm Building: [**Location (un) 830**], [**Location (un) 86**], [**Numeric Identifier 718**], [**Hospital Ward Name 23**] building, [**Location (un) 436**] Phone number: ([**Telephone/Fax (1) 10135**] .
+Infectious disease recommends if you're still having symptoms in your hip to repeat imaging in [**12-24**] weeks.

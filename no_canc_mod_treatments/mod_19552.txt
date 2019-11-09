@@ -1,0 +1,49 @@
+Admission Date:  [**2201-6-17**]              Discharge Date:   [**2201-6-27**]  Date of Birth:  [**2131-1-9**]             Sex:   F  Service: MEDICINE  Allergies: Ace Inhibitors  Attending:[**First Name3 (LF) 3705**] Chief Complaint: Elective Admission for Spinal Surgery   Major Surgical or Invasive Procedure: elective spinal fusion of T11-S1 with L3 osteotomy   History of Present Illness: 70 y/o female with a h/o HTN, Raynaud's, and scoliosis s/p multiple surgeries, who is transferred to medicine following elective spinal fusion of T11-S1 with L3 osteotomy, complicated by pulmonary embolism with hypotension and flash pulmonary edema.
+Postoperatively, the patient initially developed hypotension requiring transient pressor support and peri-operative blood loss requiring a total of 6 units of PRBCs.
+The patient was started on a heparin drip without bolus, as she had just completed spinal surgery.
+The patient diuresed well on 10 mg IV lasix [**Hospital1 **].
+Past Medical History: - HTN - scoliosis, chronic low back pain s/p mult fusions c/b LE weakness - shoulder arthritis - gout - Raynaud's - anemia - sees heme/onc once a year for possible MGUS Past Surgical History: - 2 stage thoracolumbar fusion (T10-L5) [**2196**] - Aborted Anterior fusion L3-S1 Stage I, IVC injury [**6-/2200**] - posterior L5 laminectomy, L5-S1 fusion [**10/2200**]   Social History: Retired teacher, lives with her husband and has two sons.
+PERTINENT [**2201-6-22**] 06:44PM BLOOD CK-MB-3 cTropnT-0.05* [**2201-6-23**] 02:02AM BLOOD CK-MB-3 cTropnT-0.07* [**2201-6-23**] 03:04PM BLOOD CK-MB-3 cTropnT-0.05* [**2201-6-22**] 06:44PM BLOOD Cortsol-23.7* [**2201-6-24**] 05:30PM BLOOD Osmolal-282 [**2201-6-22**] 10:50AM BLOOD Glucose-144* UreaN-34* Creat-2.7* Na-128* K-5.3* Cl-97 HCO3-24 AnGap-12 [**2201-6-17**] 02:39PM BLOOD Glucose-166* UreaN-44* Creat-1.5* Na-135 K-4.6 Cl-105 HCO3-21* AnGap-14 [**2201-6-22**] 06:44PM URINE Color-Yellow Appear-Hazy Sp [**Last Name (un) **]-1.016 [**2201-6-22**] 06:44PM URINE Blood-NEG Nitrite-NEG Protein-100 Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.5 Leuks-NEG [**2201-6-22**] 06:44PM URINE RBC-1 WBC-5 Bacteri-FEW Yeast-NONE Epi-0 NonsqEp- [**2201-6-22**] 06:44PM URINE CastGr-1* CastHy-16* [**2201-6-24**] 05:00PM URINE Osmolal-277 [**2201-6-22**] 06:44PM URINE Osmolal-382 .
+Bibasal atelectasis and bilateral pleural effusion is unchanged.
+Brief Hospital Course: 70 year old woman with history of HTN, Raynaud's, and scoliosis s/p multiple surgeries, initially admitted for elective spinal fusion of T11-S1 with L3 osteotomy, admitted to the MICU with hypotension, found to have a PE, complicated by right heart strain and flash pulmonary edema; now improved.
+#Spinal fusion of T11-S1 with L3 osteotomy:  Patient admitted for spinal fusion with osteotomy for symptomatic scoliosis with sicatica.
+Following surgery, patient's leg pain improved.
+The patient was maintained on oxycontin, oxycodone, gabapentin, and cyclobenzaprine for pain control.
+The patient was started on coumadin and a heparin drip to bridge (day 1 [**2201-6-23**]).
+She was continued on the heparin drip until therapeutic on coumadin for 24 hours.
+Lovenox contraindicated in this patient given history of spinal surgery.
+Please check INR on [**6-29**] and adjust coumadin dosing as needed.
+The patient was diuresed with IV lasix following episode of flash pulmonary edema, and volume status improved.
+Patient continues to have lower extremity edema and JVD to 1 cm below jaw, requiring further diuresis on discharge.
+The patient was discharged on lasix 20 mg PO daily.
+She should continue on this medication until she becomes euvolemic.
+At that point, a decision can be made about whether it is necessary to continue oral lasix.
+Patient was not on any diuretic therapy prior to the current admission.
+Creatinine returned to baseline with diuresis from lasix, and possibly post-ATN autodiuresis.
+#Hyponatremia - Sodium decreased from 135 to 126 in the setting of volume overload, consistent with hypervolemic hyponatremia.
+The patient was continued on allopurinol.
+# Code: Full (confirmed with patient) ========================================= TRANSITIONAL ISSUES: # Patient to continue lasix until euvolemic.
+# Patient should undergo INR and electrolyte monitoring every other day starting [**2201-6-29**] while on coumadin and lasix.
+# Multiple blood cultures pending at discharge  Medications on Admission: Home Medications: Gabapentin 300mg QHS Flexeril 5mg prn (takes ~weekly) Metoprolol 25mg daily Diovan HCTZ Oral 160 mg-12.5 mg daily Allopurinol 100 daily folic acid 800mcg daily zyrtec 10mg daily Calcium, Vit D, fish oil, glucosamine, flaxseed daily   Discharge Medications: 1.
+Allopurinol 100 mg PO DAILY 2.
+Gabapentin 300 mg PO HS 3.
+Cyclobenzaprine 5 mg PO TID:PRN spasms 4.
+Metoprolol Succinate XL 25 mg PO DAILY 5.
+FoLIC Acid 1 mg PO DAILY 7.
+Benzonatate 100 mg PO TID 9.
+Docusate Sodium 100 mg PO BID 10.
+Furosemide 20 mg PO DAILY 11.
+Bisacodyl 10 mg PO/PR DAILY:PRN constipation 12.
+Multivitamins 1 TAB PO DAILY 13.
+OxycoDONE (Immediate Release)  5 mg PO Q4H:PRN pain 14.
+Calcium Carbonate 500 mg PO QID:PRN heartburn 15.
+Oxycodone SR (OxyconTIN) 20 mg PO Q12H pain 16.
+Warfarin 3 mg PO DAILY16 17.
+Pantoprazole 40 mg PO Q24H 18.
+Discharge Disposition: Extended Care  Facility: [**Hospital3 2558**] - [**Location (un) **]  Discharge Diagnosis: elective spinal fusion of T11-S1 with L3 osteotomy pulmonary embolism acute right heart failure acute kidney injury anemia hyponatremia   Discharge Condition: Mental Status: Clear and coherent.
+Activity Status: Ambulatory - requires brace   Discharge Instructions: Ms. [**Known lastname **],  You were admitted to the hospital for an elective spinal fusion of T11-S1 with L3 osteotomy.
+You were started on coumadin to help thin your blood and prevent progression of the blood clot.
+You were also started on a medication called lasix to help remove the extra fluid from your body, caused by the strain on your heart from the blood clot.
+You should have blood work checked regularly to monitor your INR (how thin your blood is) and your electrolytes.
+MEDICATIONS CHANGED THIS ADMISSION: START coumadin 3 mg daily START tessalon perles 100 mg three times daily as needed for cough.
+START lasix 20 mg daily START docusate sodium 100 mg twice a day START bisacodyl as needed for constipation START oxycontin 20 mg twice a day as needed for pain START oxycodone 5mg every 4 hours as needed for breakthrough pain  Followup Instructions: Please schedule an appointment with your primary care physician [**Name Initial (PRE) 176**] 1 week of discharge from rehab: Name: [**Last Name (LF) 72176**],[**First Name3 (LF) **] C. Location: SEASIDE INTERNAL MEDICINE Address: [**Street Address(2) 72177**], [**Location (un) **],[**Numeric Identifier 24720**] Phone: [**Telephone/Fax (1) 72178**] Fax: [**Telephone/Fax (1) 72179**] .

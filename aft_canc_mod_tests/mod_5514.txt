@@ -1,0 +1,13 @@
+Admission Date:  [**2178-5-4**]              Discharge Date:   [**2178-5-8**]  Date of Birth:  [**2106-11-24**]             Sex:   M  Service: MEDICINE  Allergies: Lisinopril / Tetracycline  Attending:[**First Name3 (LF) 3984**] Chief Complaint: CC:[**Hospital3 66910**] Major Surgical or Invasive Procedure: none  History of Present Illness: HPI: 71-year-old male who was transfered from NWH for septic shock with neutropenia, gram negative rod bacteremia, acute DIC, and multiple organ system dysfunction.
+He was discharged home, but failed at home due to falls and dehydration so he was sent to a rehab facility.
+He was admitted to the ICU where his vasopressors were changed to Levophed and Vasopressin.
+His initial lactate was 9, and his pH was 7.04. .
+He was also noted to be in DIC with a platelet count of 19,000, INR of 2.2, and a PTT of 38.2.
+Right Hemiparesis 5.
+[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], at [**Hospital1 336**] Oncologist = Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 66911**] at [**Hospital1 336**] Radiation Oncologist = Dr. [**Last Name (STitle) 66912**] at [**Hospital1 336**] [**Telephone/Fax (1) 66913**]  Family History: FAMHX: Unknown  Physical Exam: EXAM: T 96.0, HR 111, BP 98/55, RR 22, O2 sat 96% VENT: AC/450/5 rate 16, Fio2 = 60% GEN: Intubated.
+Pertinent Results: LABS: WBC 0.2, HCT 30.8, PLT 19 Na 140, K 3.7, Cl 110, HCO3 11, BUN 83, Creat 2.8 Calcium = 5.90, ALB 1.9 CK 48 -> 643 -> 1159 -> 1293 AST 1446, ALT 828, TB 2.7, DB 2.3, [**Doctor First Name 674**] 157, LIP 11 INR 2.2, PTT 38.2, PT 24.9 .
+[**Last Name (un) **] Stim = Baseline 51.2, 30 min 51.78, 60 min 52.63 .
+UA: Urine Na <10.
+MICRO DATA: [**1-31**] Blood cultures with GNR  Brief Hospital Course: A/P: 71-year-old male s/p chemotherapy for local anal squamous cell carcinoma who is now neutropenic in severe septic shock with multiple organ system dysfunction.
+Septic Shock with neutropenia, gram negative rod bacteremia, possible acute DIC, and multiple organ system dysfunction - The presumed source is pulmonary with GNR bacteremia.
+CT showed diffuse hypodense lesions throughout the brain.

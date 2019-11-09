@@ -1,0 +1,32 @@
+Funduscopic exam revealed no papilledema, exudates, or hemorrhages.
+Pertinent Results: LABS: [**2110-11-14**] 03:35AM BLOOD WBC-9.1 RBC-4.41* Hgb-13.5* Hct-37.8* MCV-86 MCH-30.7 MCHC-35.8* RDW-13.0 Plt Ct-320 [**2110-11-23**] 07:30AM BLOOD WBC-8.9 RBC-4.64 Hgb-14.1 Hct-40.3 MCV-87 MCH-30.3 MCHC-34.9 RDW-13.3 Plt Ct-407 [**2110-11-14**] 03:35AM BLOOD PT-13.5* PTT-40.8* INR(PT)-1.2* [**2110-11-24**] 06:25AM BLOOD PT-29.2* PTT-36.3* INR(PT)-3.0* [**2110-11-14**] 03:35AM BLOOD ESR-8 [**2110-11-14**] 03:35AM BLOOD Glucose-116* UreaN-22* Creat-1.0 Na-140 K-3.7 Cl-107 HCO3-27 AnGap-10 [**2110-11-23**] 07:30AM BLOOD Glucose-94 UreaN-15 Creat-1.0 Na-140 K-3.9 Cl-106 HCO3-25 AnGap-13 [**2110-11-14**] 03:35AM BLOOD CK(CPK)-73 [**2110-11-14**] 03:35AM BLOOD cTropnT-<0.01 [**2110-11-14**] 03:35AM BLOOD Calcium-8.9 Phos-3.3 Mg-2.2 Cholest-158 [**2110-11-14**] 03:35AM BLOOD Triglyc-136 HDL-44 CHOL/HD-3.6 LDLcalc-87 [**2110-11-14**] 03:35AM BLOOD %HbA1c-5.5 [**2110-11-14**] 03:35AM BLOOD CRP-3.0 [**2110-11-14**] 03:35AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-6.5 Bnzodzp-NEG Barbitr-NEG Tricycl-NEG  IMAGING: TTE ([**11-14**]): The left atrium is normal in size.
+No atrial septal defect or patent foramen ovale is seen by 2D, color Doppler or saline contrast with maneuvers.
+Left ventricular wall thickness, cavity size, and global systolic function are normal (LVEF>55%).
+Tissue Doppler imaging suggests a normal left ventricular filling pressure (PCWP<12mmHg).
+MR [**Name13 (STitle) 430**]/MRA brain and neck ([**11-14**]): IMPRESSION: 1.
+Non-visualization of the proximal left vertebral artery and the V4 or distal segment of the right vertebral artery.
+CT angiogram may be helpful in clarification.
+CTA Head/Neck ([**11-14**]): IMPRESSION: 1.
+CTA neck demonstrates non-visualization of the proximal left vertebral artery indicating occlusion/thrombosis with collateral filling of the distal left vertebral artery from V2 segment to vertebrobasilar junction without abnormality.
+CTA Head/Neck ([**11-17**]): IMPRESSION: 1.
+CXR ([**11-17**]): FINDINGS: No previous images.
+Cerebral Angiography ([**11-17**]): IMPRESSION: Total occlusion of the proximal left vertebral artery.
+At [**Hospital1 18**], his initial exam was normal.
+MRI/A head and neck with T1 fat sats showed small subacute right cerebellar vermis infarct, non-visualization of the proximal left vertebral artery and the V4 or distal segment of the right vertebral artery, and no evidence of carotid artery or vertebral artery dissection.
+CTA head/neck to further evaluate the vertebrals showed subtle hypodensities indicating acute infarct at the superior aspect of the right cerebellum, non-visualization of the proximal left vertebral artery indicating occlusion/thrombosis with collateral filling of the distal left vertebral artery from V2 segment to vertebrobasilar junction without abnormality, normal bilateral carotid and right vertebral arteries with small right vertebral artery as a normal variation, and nonvisualization of the right superior cerebellar artery.
+TTE showed LVEF >60%, no ASD or PFO, mild (1+) MR, no definite structural cardiac source of embolism identified.
+HgA1c 5.5%, FLP: Chol 158, TG 136, HDL 44, LDL 87, CEs: CK 73, TropT <0.01, serum tox positive for Tylenol at 6.5, ESR 8, CRP 3.0.
+STAT repeat head/neck CTA showed new occlusion of the distal basilar artery extending into the proximal left PCA and superior cerebellar artery.
+During the procedure, the neurosurgeons were unable to go through the chronically occluded left vertebral artery (and the right vertebral artery goes into PICA), so no catheter based thrombolysis could be performed.
+He was transferred back to the NeuroICU, where over the next few days his neuro examination improved dramatically .
+His blood pressure was low while in the NeuroICU, and his home Lisinopril-HCTZ was held.
+His blood pressure should be checked at least [**Hospital1 **] while in rehab.
+[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 5656**] ([**Telephone/Fax (1) 80254**]) was contact[**Name (NI) **] prior to the patient's discharge, and will follow up his INR as an outpatient.
+MRI showed a stroke in your cerebellum, and MRA showed occlusion of your left vertebral artery.
+You underwent cerebral angiography, but the neurosurgeons were unable to get past the occluded left vertebral artery.
+Regardless, your symptoms improved, and you were continued on Coumadin.
+Your blood pressure ran low during this hospitalization, and your home blood pressure medications were held.
+You were started on a medication, Midodrine, to keep your blood pressure up, and should continue this for at least 3-4 weeks.
+You should have blood work checked for daily INR while at rehab.
+Your Lisinopril-HCTZ was discontinued because your blood pressure was low during this hospitalization.
+You were started on Midodrine 5 mg twice daily to keep your blood pressure up, and this can be weaned in [**3-25**] weeks.

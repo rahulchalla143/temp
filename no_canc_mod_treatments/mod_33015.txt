@@ -1,0 +1,65 @@
+Admission Date:  [**2118-8-19**]              Discharge Date:   [**2118-8-24**]  Date of Birth:  [**2047-9-30**]             Sex:   M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 2071**] Chief Complaint: syncope  Major Surgical or Invasive Procedure: NONE   History of Present Illness: 70 year old male with CAD s/p CABG (SVG-OM, LIMA-LAD) in [**2093**] and multiple subsequent NSTEMIs and PCIs (most recently a BMS to SVG-OM [**2118-3-31**]), CHF (EF 40-45%), HTN, HLD, paroxysmal Afib (not on coumadin), DM, COPD, OSA, prior CVA, and recent significant GIB ([**4-/2118**]) who presents with a C6 vertebral body fracture after falling on [**2118-7-29**].
+S/P cervical spine surgery after fall, complicated by severe PNA (likely [**1-20**] aspiration)/sepsis and hypotension with demand ischemia and positive TnT.
+Treated medically, had to be diuresed with Lasix gtt (received lots of fluids by SICU team).
+Has been on Motoprolol 300/d and Ranexa.
+ROS: Denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.
+Past Medical History: CAD s/p CABG in [**2093**], s/p cath in [**2103**] wiuth BMS to Lcx, [**2113**] revealing a severe stenosis in the SVG to the OM s/p BMS x 3, [**2115**] at [**Hospital1 112**] (patient says stent but unknown location) IDDM morbid obesity COPD sleep apnea on BiPAP CHF, diastolic, with EF 71% per OSH reports afib HTN CVA with right sided numbness history of rheumatic fever  Social History: Lives with wife and four children.
+Brief Hospital Course: []BRIEF CLINICAL COURSE: 70 year old male with CAD s/p CABG (SVG-OM, LIMA-LAD) in [**2093**] and multiple subsequent NSTEMIs and PCIs (most recently a BMS to SVG-OM [**2118-3-31**]), CHF (EF 40-45%), HTN, HLD, paroxysmal Afib (not on coumadin), DM, COPD, OSA, prior CVA, and recent significant GIB ([**4-/2118**]), recently admitted in early [**Month (only) **] s/p fall with c6 fracture and surgical repair, c/f NSTEMI, now with 5 second pause on tele at rehab post d/c, admitted for possible pacemaker placement.
+The patient was transferred to [**Hospital1 18**] for further workup and eval for placement of pacemaker.
+According to EP, there was no indication for pacemaker placement if the patient's symptoms were related to taking too high a dose of metoprolol.
+We decreased his home dose of 200mg toprol XL to 50mg PO BID and the patient was asymptomatic throughout the remainder of this hospitalization.
+The patient was switched from 40mg PO lasix daily to PO torsemide 80mg Qday.
+His net diuresis was between 500cc-1500cc per day.
+# NSTEMI: Multiple document NSTEMI's in past, most recently on [**2118-8-5**] s/p C6-T1 laminectomy on [**2118-8-4**].
+We decided not to continue trending troponins given that the CKMB was continuing to downtrend.
+# Cervical spine drainage: The patient presented with posterior neck surgical site drainage, c/f ongoing dehiscence, seen by ortho spine.
+They cleaned the wound and put in their recommendations for nursing staff to continue.
+# OSA: The patient was continued on CPAP at night, with oxygen saturations >95%.
+Medications on Admission: Preadmission medications listed are correct and complete.
+Acetaminophen 650 mg PO Q6H:PRN pain 2.
+Bisacodyl 10 mg PR DAILY:PRN constipation 3.
+Lorazepam 0.5 mg PO Q8H:PRN anxiety 4.
+Nitroglycerin Ointment  2% 0.5 in TP Q6H 5.
+Nitroglycerin SL 0.4 mg SL PRN chest pain 6.
+Sorbitol 30 mL PO QHS: PRN constipation 7.
+Amitriptyline 25 mg PO HS 8.
+Aspirin 325 mg PO DAILY 9.
+Atorvastatin 80 mg PO HS 10.
+Cephalexin 500 mg PO Q6H 11.
+Clopidogrel 75 mg PO DAILY 12.
+Docusate Sodium 100 mg PO BID 13.
+Furosemide 40 mg PO DAILY 14.
+Heparin 5000 UNIT SC TID 15.
+Glargine 30 Units Bedtime 16.
+Isosorbide Mononitrate (Extended Release) 180 mg PO DAILY 17.
+Lisinopril 5 mg PO DAILY 18.
+Levofloxacin 500 mg IV Q24H 19.
+Metoprolol Succinate XL 200 mg PO DAILY 20.
+Multivitamins 1 TAB PO DAILY 21.
+Pantoprazole 40 mg PO Q24H 22.
+Polyethylene Glycol 17 g PO DAILY:PRN constipation 23. ranolazine *NF* 1,000 mg Oral [**Hospital1 **] 24.
+Senna 1 TAB PO HS:PRN constipation 25.
+Tamsulosin 0.4 mg PO HS 26.
+Venlafaxine XR 75 mg PO DAILY   Discharge Medications: 1.
+Acetaminophen 650 mg PO Q6H:PRN pain 2.
+Amitriptyline 25 mg PO HS 3.
+Aspirin 325 mg PO DAILY 4.
+Atorvastatin 80 mg PO HS 5.
+Bisacodyl 10 mg PR DAILY:PRN constipation 6.
+Clopidogrel 75 mg PO DAILY 7.
+Docusate Sodium 100 mg PO BID 8.
+Glargine 30 Units Bedtime 9.
+Isosorbide Mononitrate (Extended Release) 180 mg PO DAILY 10.
+Lisinopril 5 mg PO DAILY 11.
+Multivitamins 1 TAB PO DAILY 12.
+Nitroglycerin SL 0.4 mg SL PRN chest pain 13.
+Pantoprazole 40 mg PO Q24H 14.
+Polyethylene Glycol 17 g PO DAILY:PRN constipation 15. ranolazine *NF* 1,000 mg Oral [**Hospital1 **] 16.
+Senna 1 TAB PO HS:PRN constipation 17.
+Tamsulosin 0.4 mg PO HS 18.
+Venlafaxine XR 75 mg PO DAILY 19.
+Outpatient [**Hospital1 **] Work Please check AST, ALT, Alk Phos, Total Bili on [**2118-8-29**] and fax results to Attn: Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] [**Hospital **] Clinic Fax: [**Telephone/Fax (1) 1419**] 20.
+Metoprolol Tartrate 25 mg PO BID hold for SBP < 100 or HR < 60 and page H.O.
+if holding RX *metoprolol tartrate 25 mg 1 tablet(s) by mouth twice daily [**Telephone/Fax (1) **] #*60 Tablet Refills:*0 21.
+Torsemide 80 mg PO DAILY Hold for SBP < 100 RX *torsemide 20 mg 4 tablet(s) by mouth daily [**Telephone/Fax (1) **] #*120 Tablet Refills:*0   Discharge Disposition: Extended Care  Facility: [**Hospital3 1107**] [**Hospital **] Hospital - [**Location (un) 38**]  Discharge Diagnosis: sinus pause acute on chronic systolic congestive heart failure   Discharge Condition: Mental Status: Clear and coherent.
+You will go back to rehab to continue your progress.

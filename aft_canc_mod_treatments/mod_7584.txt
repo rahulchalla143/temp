@@ -1,0 +1,53 @@
+Admission Date:  [**2145-2-2**]              Discharge Date:   [**2145-2-17**]  Date of Birth:  [**2074-8-1**]             Sex:   M  Service: NEUROSURGERY  Allergies: simvastatin / Ciprofloxacin / Glumetza / lisinopril / Methotrexate  Attending:[**First Name3 (LF) 1271**] Chief Complaint: headache  Major Surgical or Invasive Procedure: [**2145-2-9**] Bilateral Bur hole evacuation of Subdural Hematoma  History of Present Illness: Mr. [**Known lastname 22254**] is a 70M w/ history of Burkitt's lymphoma with progressive disease, currently receiving IVAC chemo C2D12 who presents from [**Hospital **] clinic with headache, found to have spontaneous SDH.
+Patient was seen for routine heme-onc checkup today complaining of headache.
+Patient's platelets were 7 and he was given one unit of platelets at that time.
+He states the headache is pretty mild, has been located over occiput, midline but is currently frontal.
+Patient was transfused an additional 1 unit of platelets.
+Dr. [**First Name (STitle) **] was updated about the patient and plan for [**Hospital Unit Name 153**] admission for q2h neuro checks.
+Denies f/c, cough, chest pain, oropharyngeal discomfort, dysuria, abdominal pain, change in bowel movements (notes intermittent diarrhea, recent h/o c.diff).
+Denies chest pain, chest pressure, palpitations, or weakness.
+- [**2055-9-8**] C1D1 R-CHOP in outside hospital(rituximab 750 mg, cyclophosphamide 1500 mg, doxorubicin 100 mg, vincristine 2 mg, dexamethasone 8 mg) with Neulasta on D2.
+- [**9-26**] IT cytarabine - [**9-26**] high dose methotrexate (3500 mg/m2), complicated by acute kidney injury - [**10-4**] Rituximab 100 mg - [**10-8**] C1 [**Hospital1 **] (Etoposide 45 mg/m2 D1-4, Doxorubicin 10 mg/m2 D1-4, Vincristine 0.4 mg/m2 D1-4, Cyclophosphamide 750 mg/m2 D5) - [**10-24**] Rituximab 375 mg/m2 - [**10-28**] C2 [**Hospital1 **] (Etoposide 60 mg/m2 D1-4, Doxorubicin 12 mg/m2 D1-4, Vincristine 0.4 mg/m2 D1-4, Cyclophosphamide 900 mg/m2 D5) - [**10-29**] IT cytarabine - [**2144-11-22**] C3 [**Hospital1 **] (Etoposide 70 mg/m2 D1-4, Doxorubicin 12 mg/m2 D1-4, Vincristine 0.4 mg/m2 D1-4, Cyclophosphamide 1050 mg/m2 D1) - [**12-9**] IT methotrexate - [**2144-12-16**] C4 DA-[**Hospital1 **] (Etoposide 60 mg/m2 D1-4, Doxorubicin 10 mg/m2 D1-4, Vincristine 0.3 mg/m2 D1-4, Cyclophosphamide 900 mg/m2 D5) - [**2144-12-16**] Rituximab - [**1-1**] restaging PET showed disease progression with increased size and FDG-avidity of residual right neck mass and new FDG-avidity of mediastinal, hilar, right supraclavicular, epicardial fat pad, right submandibular space, and portacaval lymphadenopathy.
+Discharge PE: He has two scalp incisions with sutures and the right has 2 staples from drain removal.
+He has chronic peri-oral numbness.
+Right subclavian infusion port ends low in the SVC.
+Status post evacuation of bilateral subdural hematomas, with small residual bilateral hemispheric subdural collections, and interval decrease in mass effect upon the cerebral hemispheres.
+Decreased amount of post-surgical pneumocephalus.
+Brief Hospital Course: This is a 70 year old man with a PMH of HTN, DM, Burkitt's lymphoma with progressive disease, who was receiving IVAC chemo C2D12 (on admission) with pancytopenia who presented with headache.
+He was transferred from [**Hospital Unit Name 153**] to BMT service, after worsening headaches, N/V, and depressed level of consciousness, was transferred to SICU after burr holes for evacuation of b/l sub-dural hematomas.
+Neurosurgery re-evaluated the patient and felt that surgical intervention was indicated, and the patient was subsequently trasferred to the OR and he underwent bilateral bur hole evacuation of the SDH's with a subdural drain left on the right.
+#Leukocytosis: An infectious work-up was initiated given his somnolence and leukocytosis (persistent elevation after neupogen was discontinued on [**2-7**]).
+He was afebriel and was contniued on Bactrim and antivirals.
+# Pancytopenia/neutropenia: Patient was C2D12 of IVAC on admission with an ANC of 80, transfused to maintain hemoglobin >8 and platelets >50, by the time of transfer to SICU, his counts had recovered.
+Platelets were 119 at time of the surgery and raised to 159 on [**2144-2-12**].
+US guided biopsy of a right cervical lymph node on [**1-8**] showed malignant cells.
+Metformin was held and patient was managed on ISS.
+Kidney function was normal on [**2-11**] and Metformin was restarted after speaking with the BMT resident.
+# Hypertension: Continued home metoprolol 12.5 [**Hospital1 **], amlodipine 5mg Qday, quinapril was decreased to 20mg qday.
+===== Transitional issues: -Quinapril decreased to 20mg daily -  Medications on Admission: acyclovir 400 mg Tablet TID amlodipine 5 mg Tablet DAILY folic acid 1 mg Tablet daily metformin 500 mg Tablet [**Hospital1 **] metoprolol tartrate 12.5 mg [**Hospital1 **] oxycodone 5 mg Tablet TID prn pain prochlorperazine maleate 10 mg Tablet q6h prn nausea quinapril 40 mg Tablet DAILY saliva substitution combo no.2 QID sulfamethoxazole-trimethoprim 400 mg-80 mg Tablet daily voriconazole 200 mg Tablet [**Hospital1 **] calcium carbonate 200 mg calcium (500 mg) Tablet Chewable TID cyanocobalamin (vitamin B-12) 100 mcg Tablet daily Neupogen 480mg SC daily  Discharge Medications: 1. acyclovir 400 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 hours).
+2. amlodipine 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+3. folic acid 1 mg Tablet Sig: One (1) Tablet PO once a day.
+4. metformin 500 mg Tablet Sig: One (1) Tablet PO twice a day.
+5. metoprolol tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 times a day).
+6. oxycodone 5 mg Tablet Sig: One (1) Tablet PO three times a day as needed for pain.
+7. prochlorperazine maleate 10 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for nausea.
+8. quinapril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+9. sulfamethoxazole-trimethoprim 400-80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+10. voriconazole 200 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 hours).
+11. calcium carbonate 200 mg calcium (500 mg) Tablet, Chewable Sig: One (1) Tablet, Chewable PO three times a day.
+12. cyanocobalamin (vitamin B-12) 100 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+13. heparin (porcine) 5,000 unit/mL Solution Sig: One (1) ml Injection TID (3 times a day).
+14. levetiracetam 500 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day).
+15. omeprazole 20 mg Capsule, Delayed Release(E.C.)
+16. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+17. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+Discharge Instructions: Instructions for Follow up: Subdural, Epidural Hemorrhages Surgical Dr. [**Last Name (STitle) 24275**] [**Name (STitle) 739**]  You were admitted for Subdural Hematomas and had a surgical procedure to relieve the pressure on your brain.
+You are now on an anti-epileptic medication as these blood collections could cause a seizure.
+Please note the following medication changes: -Please DECREASE your Quinapril to 20mg daily -Please STOP taking neupogen unless instructed to start again by your outpatient doctors.
+Keep your staples clean and dry until they are removed.
+Take your pain medicine as prescribed if needed.
+We generally recommend taking an over the counter stool softener, such as Docusate (Colace) while taking narcotic pain medication.
+DO not take any anti-inflammatory medicines such as Motrin, Aspirin, Advil, or Ibuprofen etc.
+If you were on a medication such as Coumadin (Warfarin), or Plavix (clopidogrel), or Aspirin prior to your injury, you may not safely resume taking this until follow up in one month.
+You have been discharged on Keppra (Levetiracetam) for anti-seizure medicine; you will not require blood work monitoring.
+The prep with info for your diet the night before and morning of the test will be with your discharge papers.DIVISION OF NUCLEAR MEDICINE([**Telephone/Fax (1) 2103**]  You have an appt with Dr.[**First Name (STitle) **] or [**First Name (STitle) **] in oncology on [**2-22**] at 1:30 p.m.                                [**Name6 (MD) 742**] [**Name8 (MD) **] MD [**MD Number(2) 1273**]  Completed by:[**2145-2-12**

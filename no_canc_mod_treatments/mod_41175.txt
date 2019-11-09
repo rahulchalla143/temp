@@ -1,0 +1,43 @@
+Admission Date:  [**2186-7-28**]              Discharge Date:   [**2186-8-1**]  Date of Birth:  [**2105-2-15**]             Sex:   M  Service: NEUROLOGY  Allergies: Penicillins  Attending:[**First Name3 (LF) 2569**] Chief Complaint: left sided weakness, left sided facial droop transferred from OSH for eval for intra-arterial tPA  Major Surgical or Invasive Procedure: none  History of Present Illness: Mr. [**Known lastname 111885**] is an 81 year-old right-handed gentleman with a history of hyperlipidemia, a-fib s/p ablation currently on coumadin, essential tremors, who presents after he fell in the bathroom and found to have dense right sided weakness.
+He was taken to [**Hospital6 3105**], where he received an NIHSS of 9 (breakdown not available on the provided notes) and his head CT did not show acute infarcts by report.
+Patient is on coumadin which was stopped on Tuesday due to an elevated INR.
+He was therefore not an IV rTPA candidate, and was transferred to [**Hospital1 18**] for possible IA rTPA.
+Of note, Mr. [**Known lastname 111885**] had 2 cataract surgeries, over the last 2 weeks and has been taking the coumadin on and off.
+NIHSS by neurology was 12 (1 for best gaze, 2 for visual palsy, 4 for left motor arm, 4 for left motor leg, and 1 for dysarthria).
+Past Medical History: -AFib s/p ablation (on coumadin) -Hyperlipidemia -Essential tremor -CAD s/p angioplasty (no h/o MI, only prior angina) -Carotid ultrasound obtained day prior to admission.
+Pertinent Results: ADMISSION LABS: -WBC-10.1 RBC-4.63 HGB-15.3 HCT-46.5 MCV-100* MCH-33.0* MCHC-32.9 RDW-14.4 -GLUCOSE-135* NA+-142 K+-4.0 CL--104 TCO2-24, UREA N-24*, CREAT-1.0 -PT-34.2* PTT-37.6* INR(PT)-3.3* -Serum tox: ASA-NEG ETHANOL-NEG ACETMNPHN-NEG bnzodzpn-NEG barbitrt-NEG tricyclic-NEG -Urine tox: bnzodzpn-NEG barbitrt-NEG opiates-NEG cocaine-NEG amphetmn-NEG mthdone-NEG -Urinalysis: BLOOD-TR NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.5 LEUK-NEG RBC-2 WBC-1 BACTERIA-FEW YEAST-NONE EPI-0 -VIT B12-383 .
+On the right, the proximal internal carotid artery measures 3 mm in diameter on the right and the distal internal carotid artery measures 4 mm in diameter.
+On the left, the proximal internal carotid artery measures 5 mm in diameter, and the distal cervical internal carotid artery measures 4 mm in diameter.
+Brief Hospital Course: Mr. [**Known lastname 111885**] is an 81 year-old right-handed gentleman with a history of hyperlipidemia, a-fib s/p ablation currently on coumadin, essential tremors, who presented to an OSH after he fell in the bathroom and had severe left sided weakness.
+# NEURO: Patient's initial CT at OSH was normal.
+Given the infarct progression and finding on his head CT, he was also not a candidate for IA intervention as the risks outweighed the benefits.
+His coumadin was stopped because embolic stroke despite being on coumadin for afib indicated coumadin failure.
+Of note, the MRI also showed some hemorrhagic conversion of the stroke, but regardless it was decided to continue anticoagulating patient as his neuro exam was stable.
+Once his INR drifted below 2, he was started on therapeutic Lovenox 70mg SC BID.
+Plan is for him to stay on Lovenox until INR <1.5, and then switch to Pradaxa 150mg [**Hospital1 **].
+His home cilostazole should also be continued, as patient has CAD and requires anti-platelet therapy.
+He was also started on Fluoxetine, which has been shown to help with motor recovery after cortical strokes.
+He continues to require a dysphagia diet on discharge.
+# CV: patient's home propranolol 120mg PO daily (for essential tremor) was temporarily decreased to 1/2 dose during hospitalization due to need to maintain adequate cerebral perfusion pressure after stroke.
+Restarted on home dose at discharge.
+===================== TRANSITIONS OF CARE: - please D/C Foley when pt arrives to rehab facility, and check post-void residuals - please HOLD morning dose of Lovenox until INR is checked on [**2186-8-2**].
+If INR is >1.5, give AM dose of Lovenox and recheck INR on [**2186-8-3**].
+If INR is <1.5, STOP Lovenox and START Dabigatran.
+DVT Prophylaxis administered?
+Antithrombotic therapy administered by end of hospital day 2?
+Intensive statin therapy administered?
+Discharged on statin therapy?
+(x) Yes - () No - () N/A  Medications on Admission: -Cilostazole 100mg daily -Propranolol ER 120mg daily -Atorvastatin 20mg daily -Eye drops: Durezol 0.05% 1gtt TID (remaining 1 day for right eye, 1 wk for left eye) Nevanac 0.1% 1gtt TID (remaining 1 day for right eye, 1 wk for left eye) Vigamox 0.5% 1gtt TID (remaining 1 day for right eye, 1 wk for left eye)  Discharge Medications: 1.
+Fluoxetine 20 mg PO DAILY 4.
+Propranolol LA 120 mg PO DAILY 5.
+Atorvastatin 20 mg PO DAILY 6.
+Bisacodyl 10 mg PO/PR DAILY:PRN constipation 9.
+Enoxaparin Sodium 70 mg SC BID Please STOP enoxaparin once INR is <1.5.
+Dabigatran Etexilate 150 mg PO BID To be started AFTER INR is <1.5 (pt should remain on Enoxaparin until then).
+Outpatient Lab Work Please check INR on [**2186-8-2**]:  ---If INR is <1.5, please STOP enoxaparin and START dabigatran (Pradaxa).
+---If INR is >1.5, please CONTINUE enoxaparin and recheck INR daily until INR <1.5.
+PleTAL *NF* (cilostazol) 100 mg ORAL DAILY Reason for Ordering: Wish to maintain preadmission medication while hospitalized, as there is no acceptable substitute drug product available on formulary.
+We made some changes to your blood thinner medications to help prevent another blood clot from forming and leading to a stroke in the future.
+STOPPED Coumadin 2.
+STARTED enoxaparin (Lovenox) 70mg subcutaneous injection twice daily -- this will be replaced with a stronger blood thinner called dabigatran (Pradaxa) once the Coumadin is out of your system.
+STARTED Fluoxetine 20mg by mouth daily  Followup Instructions: Department: NEUROLOGY When: MONDAY [**2186-10-2**] at 1:30 PM With: [**First Name8 (NamePattern2) **] [**Name8 (MD) 162**], MD [**Telephone/Fax (1) 2574**] Building: [**Hospital6 29**] [**Location (un) 858**] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage                                [**First Name8 (NamePattern2) **] [**Name8 (MD) 162**] MD [**MD Number(2) 2575**]

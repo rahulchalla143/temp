@@ -1,0 +1,55 @@
+Admission Date:  [**2137-2-27**]              Discharge Date:   [**2137-3-19**]  Date of Birth:  [**2058-10-27**]             Sex:   M  Service: MEDICINE  Allergies: Hydromorphone / Morphine / Amoxicillin  Attending:[**First Name3 (LF) 1145**] Chief Complaint: SOB  Major Surgical or Invasive Procedure: HD catheter placement  History of Present Illness: Patient is a 78 year old male with past medical history of CAD NSTEMI, s/p CABG (LIMA to the LAD, SVG to OM1 and OM2) and St. [**Initials (NamePattern4) 1525**] [**Last Name (NamePattern4) 1291**] ([**12-12**]) with course complivated by wound dehisence, chronic systolic dysfunction EF 30%, ESRD on HD, afib on coumadin, stroke, chronic anemia, recent lower GI bleed with bleeding rectal ulcers and CMV colitis, and chronic left-sided pleural effusion transferred from [**Hospital 100**] Rehab for increasing SOB and lethargy after receiving 1 unit PRBCs earlier today for Hct 21; he recieved HD yesterday.
+His discharge weight on [**2-15**] was 60 kg; he was 73 kg pre-dialysis on [**2-21**].
+On arrival to the ED, initial vitals were T 97.2 HR 120 (afib) BP 123/110 RR 20 100% 4L NC in acute respiratory distress.
+Labs significant for H/H 7.1 AND 21.0, BNP [**Numeric Identifier 89668**] INR 2.3.
+In the ED initial VS were noted to be T97.2, HR 120, BP 123/110, RR 20, Sat 100% on 4L.
+CARDIAC HISTORY: In [**2135-9-3**], per the patient's wife report, the patient had a stent placed to the LAD and two other vessels and did well on plavix, aspirin and coreg with an EF of 45%.
+On [**2136-12-7**] after episode of CP, the patient was admitted to OSH with non- Q wave MI and underwent cardiac catheterization which revealed 70% LAD instent stenosis, 70-80% instent stenosis at the RCA and the LCx had 90% stenosis and an aortic valve area of 0.9cm.
+he was transferred to [**Hospital 100**] rehab from OSH for an NSTEMI, [**Hospital 1291**] and CABG complicated by multiple issues described below.
+-CABG:  LIMA to LAD saphenous graft sequential to an OM1 and OM2 and [**Hospital3 **] [**Hospital3 1291**] [**12-12**] -PERCUTANEOUS CORONARY INTERVENTIONS:  DES to LAD in [**2136**], prior  stent to RCA and LAD -PACING/ICD:  none 3.
+OTHER PAST MEDICAL HISTORY: Chronic systolic dysfunction (EF 30%) ESRD on HD Chronic left-sided pleural effusion Prior GI bleed - ?rectal ulcer Hyperlipidemia IDDM chronic atrial fibrillation on coumadin Stoke with no residual neurologic deficits Hypothyroid AS s/p [**Year (4 digits) 1291**] [**Hospital3 **] Hyperparathyroidism Right AV fistula Rectal Ulcers: CMV positive Blood cultures during his prior hospitalization grew gram negative rods speciated to Aeromonas hydrophilia for which he was treated with 6 weeks of ciprofloxacin last day of therapy [**2137-2-5**].
+During this time he developed lower GI bleed, colonscopy revealed rectal uclers which were cauterizated and biospy was CMV positive.
+NECK: Supple with JVP at mandible.
+EXTREMITIES: Warm wel perfused  Pertinent Results: ADMISSION LABS:  [**2137-2-27**] 07:45PM BLOOD WBC-15.9* RBC-2.35*# Hgb-7.1*# Hct-21.0*# MCV-90 MCH-30.7 MCHC-34.3 RDW-16.9* Plt Ct-297 [**2137-2-27**] 07:45PM BLOOD PT-23.7* PTT-30.8 INR(PT)-2.3* [**2137-2-27**] 07:45PM BLOOD Glucose-139* UreaN-33* Creat-2.0*# Na-138 K-3.8 Cl-96 HCO3-34* AnGap-12 [**2137-2-27**] 07:45PM BLOOD CK-MB-6 proBNP-[**Numeric Identifier 89668**]* [**2137-2-28**] 05:10AM BLOOD Calcium-10.3 Phos-4.7* Mg-2.1 [**2137-2-27**] 10:26PM BLOOD Type-ART pO2-330* pCO2-51* pH-7.45 calTCO2-37* Base XS-10 Intubat-NOT INTUBA .
+CHEST XRAY [**2137-2-28**] IMPRESSION: Findings compatible with pulmonary edema.
+TTE [**2137-2-28**] The left atrium is dilated.
+Overall left ventricular systolic function is severely depressed (LVEF= 25 %) with regional variation (lateral wall relatively preserved).
+Compared with the findings of the prior study (images reviewed) of 10 Janaury [**2137**], the tricuspid regurgitation appears reduced, but the technically suboptimal nature of both studies precludes definitive comparison.
+CARDIAC CATHETERIZATION [**2137-2-28**] 1.
+Resting hemodynamics revealed elevated left-sided filling pressure with a mean PCWP of 20 mmHg.
+There was moderate pulmonary hypertension with a PA pressure of 60/28 mmHg.
+Cardiac output was mildly depressed at 4.76 L/min with an index of 2.61 L/min/m2.
+CT ABD/PELVIS: [**2137-3-2**] 1.
+TTE [**2137-3-4**] The left atrium and right atrium are normal in cavity size.
+Left ventricular wall thicknesses and cavity size are normal.
+Compared with the prior study (images reviewed) of [**2137-2-28**], the findings are similar (estimated PASP may be slightly lower).
+CHEST XRAY IMPRESSION: AP chest compared to [**2-27**] through 30: .
+CAMPYLOBACTER CULTURE (Final [**2137-3-2**]):    NO CAMPYLOBACTER FOUND.
+CLOSTRIDIUM DIFFICILE TOXIN A & B TEST (Final [**2137-2-28**]):       Feces negative for C.difficile toxin A & B by EIA.
+[**2137-3-4**] 7:36 am BLOOD CULTURE       Source: Line-femoral dialysis line.
+Aerobic Bottle Gram Stain (Final [**2137-3-5**]):       GRAM POSITIVE COCCI IN PAIRS AND CLUSTERS.
+REPORTED BY PHONE TO [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 89669**] #[**Numeric Identifier 25630**] [**2137-3-5**] 1350.
+Anaerobic Bottle Gram Stain (Final [**2137-3-5**]):       GRAM POSITIVE COCCI IN PAIRS AND CLUSTERS.
+Labs at discharge [**3-18**]: HGB:9.3* HCT:28.7* PTT: 97 INR 1.4 WBC: 10.3 PLT: 246 Na: 123 K: 4.1 CL: 94 BUN: 20 Creat: 3.3 Gluc: 123 CA:10.3 Phos: 5.6* Mag: 2.2 .
+Brief Hospital Course: HOSPITAL COURSE 78 year old male with past medical history of CAD, NSTEMI, s/p CABG (LIMA to the LAD, SVG to OM1 and OM2) and St. [**Initials (NamePattern4) 1525**] [**Last Name (NamePattern4) 1291**] ([**12-12**]) with course complivated by wound dehisence, chronic systolic dysfunction EF 30%, ESRD on HD, afib on coumadin, anemia, recent lower GI bleed with bleeding rectal ulcers and CMV colitis with worsening SOB, acute decompensated heart failure.
+Still holding all cardiac meds to allow BP for HD.
+Swan could not be floated but had RHC during HD cath placement which showed wedge of 20.
+Echo on [**2-28**] showed mild symmetric left ventricular hypertrophy.
+Overall left ventricular systolic function is severely depressed (LVEF= 25 %) with regional variation (lateral wall relatively preserved).
+ANEMIA: Patient with Hct 21 on admission, has a history of transfusion-dependent anemia with GI sources, including rectal ulcers.
+C diff sent off as patient was being treated at rehab facility with PO vanco and flagyl.
+CMV VL negative and cdiff PCR negative.
+Hct now 28.
+?s in pairs & clusters grew from blood cx from femoral line and art line on HD 6 which ultimately speciated to staph aureus.
+After patient was made CMO, vancomycin resistent enterococcus was positive in a second set of blood cultures from HD 8.
+C diff negative toxin two times, and PCR negative.
+No evidence of colitis on CT scan.
+Coumadin was restarted on [**3-18**] at 2mg daily and INR should be checked on [**3-20**].
+Needs INR on [**2137-3-20**] with goal 2.0-3.0. .
+Sodium Chloride 0.9%  Flush 10 mL IV PRN line flush Mid-line, non-heparin dependent:    Flush with 10 mL Normal Saline daily and PRN per lumen.
+12. heparin (porcine)-0.45% NaCl 25,000 unit/250 mL Parenteral Solution Sig: as per weight based heparin protocol units Intravenous continuous: D/C when INR > 2.0.
+13. warfarin 1 mg Tablet Sig: Two (2) Tablet PO once a day: Check INR on Thursday [**2137-3-21**] and adjust dose accordingly.
+It was difficult to do dialysis because your blood pressure was very low and you needed medicines to help keep your blood pressure up.
+Start Heparin drip to prevent blood clots.
+Call provider if weight goes up more than 3 lbs in 1 day.
+[**Telephone/Fax (1) 62**] on [**Hospital Ward Name 23**] 7 at [**Hospital1 18**].

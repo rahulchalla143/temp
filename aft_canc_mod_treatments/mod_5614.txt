@@ -1,0 +1,61 @@
+Admission Date:  [**2131-12-31**]              Discharge Date:   [**2132-1-4**]  Date of Birth:  [**2060-3-7**]             Sex:   M  Service: NEUROLOGY  Allergies: Procardia / Aliskiren  Attending:[**First Name3 (LF) 8850**] Chief Complaint: Altered Mental Status.
+History of Present Illness: Mr. [**Known firstname 95455**] [**Known lastname 95456**] is a 71-year-old man with a history of diastolic CHF, CAD, type II diabetes mellitus, and most recently a insular glioblastoma diagnosed in [**2131-9-16**] now status post radiotherapy and temzolomide currently being managed by Dr. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 724**].
+In the Emergency Department initial vital signs were: Temperature 97.3 F, pulse 70, blood pressure 137/79, repsiration 16, and oxygen saturation 97% on 2 liters via nasal cannula.
+Neurology was consulted urgently for left sided facial droop and weakness.
+Given evidence of bleed they recommended holding home aspirin and maintaining blood pressure control.
+Per ED team, Dr. [**First Name8 (NamePattern2) 1151**] [**Last Name (NamePattern1) **] from the Neuro-Oncology Service reviewed the imaging and did not recommend any changes to current antiepilectic and steroid regimen at this time.
+He recommended further imaging only if significant change in neurologic examination.
+Patient received no medications or IV fluids prior to transfer to the Medicine ICU for serial neurologic examinations.
+Patient does deny any headache, chest pain, shortness of breath, abdominal pain.
+Past Medical History: -Right frontotemporal glioblastoma multiforme WHO Grade IV, status post biopsy on [**2131-9-27**], on protocol using hypofractionated involved-field radiotherapy with temozolomide followed by Cyberknife boost -Ischemic stroke -Malignant HTN -CAD s/p IMI -Chronic diastolic CHF -PAF (ED visit [**7-25**]) -Type II diabetes mellitus -Anxiety/Depression  Social History: He is a resident of [**First Name5 (NamePattern1) 4542**] [**Last Name (NamePattern1) 19207**] & Nursing Center in [**Location (un) 38**], MA.
+He worked for USSR space program and NASA.
+GENERAL:  Lethargic, opens right eye to loud verbal stimuli SKIN:  No rasheS, jaundice, or splinters HEENT:  Left eye s/p cataract surgery, left pupil appears chronically dilated, right eye pupil 3 --> 2 mm, EOMI, anicteric, dry MM, no supraclavicular or cervical lymphadenopathy, no JVD, no thyromegaly or thyroid nodules CARDIOVASCULAR:  Irregular, bradycardic S1 and S2 wnl, no m/r/g PULMONARY:  Irregular respirations concerning for sleep apnea versus [**Last Name (un) 6055**]-[**Doctor Last Name **] respirations, rhonchorus breath sounds at bilateral bases ABDOMEN:  Non-distended, positive bowel sounds, soft, non-tender, and without masses EXTREMITIES:  No clubbing, cyanosis, or edema DRAINS:  Portacath in place, Foley catheter in place.
+[**2131-12-31**] Chest X-Ray: 1.
+Right Port-A-Catheter with tip at the mid SVC in similar position compared to prior.
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              PROTEUS MIRABILIS                              | AMPICILLIN------------  =>32 R AMPICILLIN/SULBACTAM--     4 S CEFAZOLIN-------------   <=4 S CEFEPIME--------------   <=1 S CEFTAZIDIME-----------   <=1 S CEFTRIAXONE-----------   <=1 S CIPROFLOXACIN---------   =>4 R GENTAMICIN------------   <=1 S MEROPENEM-------------<=0.25 S PIPERACILLIN/TAZO-----   <=4 S TOBRAMYCIN------------   <=1 S TRIMETHOPRIM/SULFA----  =>16 R [**2131-12-31**] MRSA SCREEN MRSA SCREEN-NEGATIVE  Labs on admission: [**2131-12-31**] 05:05AM BLOOD WBC-10.0 RBC-4.03* Hgb-12.0* Hct-36.0* MCV-89 MCH-29.8 MCHC-33.4 RDW-17.0* Plt Ct-255 [**2131-12-30**] 11:38PM BLOOD Neuts-86.9* Lymphs-8.8* Monos-3.8 Eos-0.2 Baso-0.3 [**2131-12-31**] 05:05AM BLOOD PT-11.7 PTT-21.6* INR(PT)-1.0 [**2131-12-31**] 05:05AM BLOOD Glucose-160* UreaN-43* Creat-1.0 Na-143 K-3.8 Cl-101 HCO3-34* AnGap-12 [**2131-12-31**] 05:05AM BLOOD ALT-21 AST-17 CK(CPK)-50 AlkPhos-89 TotBili-0.5 [**2131-12-31**] 05:05AM BLOOD CK-MB-4 cTropnT-0.09* [**2131-12-31**] 05:05AM BLOOD Calcium-8.7 Phos-4.4 Mg-2.2 [**2131-12-31**] 04:51AM BLOOD Type-ART pO2-76* pCO2-42 pH-7.50* calTCO2-34* Base XS-7 [**2131-12-31**] 04:51AM BLOOD Lactate-1.3 [**2131-12-31**] 04:51AM BLOOD freeCa-1.14  Labs on discharge: [**2132-1-4**] 04:30AM BLOOD WBC-10.7 RBC-3.42* Hgb-10.3* Hct-29.9* MCV-88 MCH-30.3 MCHC-34.5 RDW-16.6* Plt Ct-238 [**2132-1-4**] 04:30AM BLOOD Glucose-160* UreaN-49* Creat-1.0 Na-142 K-3.6 Cl-106 HCO3-27 AnGap-13 [**2132-1-4**] 04:30AM BLOOD Calcium-8.7 Phos-2.9 Mg-2.2  Finger stick glucose on day of discharge: 331 <-- 143 <-- 220 <-- 298  Brief Hospital Course: Patient with acute mental status change found to have intraparenchymal hemorrhage at site of glioblastoma multiforme on CT scan.
+His daughter does report that the rehab facility had wanted to start a trial of additional antidepressants in the last week, however, this would not support the acute change in mental status evening prior to admission.
+There was no history of recent head trauma or use of anticoagulation, except for aspirin 325 mg daily.
+His last XRT and chemotherapy was in [**Month (only) **] [**2131**].
+We held his antihypertensive medications during his time in the ICU in order to meet this goal.
+Patient is being discharged on reduced dose of labetalol 800 mg [**Hospital1 **] to 400 mg [**Hospital1 **].
+We will stop his aspirin on discharge.
+Home oral hypoglycemics were held during admission.
+He continued fingerstick blood glucose and home insulin regimen (75 units of Glargine qhs).
+Also, we placed the patient on an Humalog ISS during his admission.
+Of note, patient was eating constantly throughout the day during admission, making glucose control difficult.
+We  discharged patient on his home regimen of oral and subcut insulin.
+Culture grew Proteus, resistent to Bactrim, discharging patient on cefazolin to complete a 7 day course (Day 1 is [**2132-1-2**]).
+EKG unchanged compared to prior on presentation.
+He was not started on treatment for ACS as it was not believed that this was the cause of his elevated troponins.
+In addition, given recent bleed heparin and aspirin would be contraindicated in this patient given recent cranial bleed.
+Labetolol was decreased during ICU stay due to persistent sinus bradycardia; pressures remained in the 140s-160s.
+Held many of his BP meds initially.
+He was discharged with decreased labetalol dose as stated above.
+Patient denied SOB during admission after receiving several gentle IV fluid boluses.
+(9) Anxiety/Depression:  Home clonazepam and buspirone was held initially for accurate neuro exam.
+Medications on Admission: - AMLODIPINE- 10 mg daily, last received [**12-30**] @ 2PM - DIOVAN 160 mg [**Hospital1 **], last received [**12-30**] @ 6AM - BUSPIRONE- 5 mg [**Hospital1 **], last received [**12-30**] @ 8PM - CLONAZEPAM- 0.5 mg Tablet qHS, last received [**12-29**] - CLONIDINE- 0.2 mg/24 hour 2 Patches Weekly on Saturdays, last received [**12-29**] - DEXAMETHASONE- 3 mg [**Hospital1 **], last received [**12-30**] @ 8PM - EPLERENONE- 50 mg daily, last received [**12-30**] @ 8AM - GLYBURIDE- 5 mg [**Hospital1 **] - Lantus 75 units at bed time, last received [**12-30**] - LABETALOL- 200 mg tab, 4 tablets [**Hospital1 **], last received [**12-30**] @ 8PM - LEVETIRACETAM- 500 mg tab, 1 tab, TID, last received [**12-30**] @ 10PM - OMEPRAZOLE- 20 mg Capsule, 1 tab, daily, last received [**12-30**] @ 8AM - SIMVASTATIN- 40 mg Tablet, 1 tab, daily, last received [**12-30**] @ 5PM - TIMOLOL [BETIMOL]- 0.5 % Drops- 1 gtt(s) OU twice a day - TORSEMIDE- 10 mg tab, 3 tabs, daily, last received on [**12-30**] @ 8AM - ACETAMINOPHEN- 325 mg, 2 tabs, q4h PRN for pain - ASPIRIN- 325 mg Tablet, 1 tab, daily, last received [**12-30**] @ 8AM - DOCUSATE SODIUM- 100 mg, 1 tab, [**Hospital1 **], last received on [**12-30**] - SENNA- 8.6 mg tab, 1 tab, [**Hospital1 **] PRN (received none in [**Month (only) **]) - Nitroglycerin 0.4 mg SL tab PRN for chest pain, last received on [**12-25**] once with chest pain resolved - Milk of Mag, 30 ml by mouth if no BM in 48 hours prn - Bisacodyl 10 mg supp, insert 1 PR if no BM in 12 hours after MOM - [**Name (NI) 20342**] enema, insert 1 PR if no BM in 12 hours after suppository - Magnesium citrate, 1 bottle PO if no BM in 12 hours after [**Name (NI) **] enema PRN unless contraindicated  Discharge Medications: 1.
+Amlodipine 10 mg Tablet Sig: One (1) Tablet PO once a day.
+Valsartan 160 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Buspirone 5 mg Tablet Sig: One (1) Tablet PO twice a day.
+Clonazepam 0.5 mg Tablet Sig: One (1) Tablet PO at bedtime as needed for insomnia.
+Clonidine 0.2 mg/24 hr Patch Weekly Sig: Two (2)  Transdermal once a week: on Saturdays.
+Dexamethasone 1 mg Tablet Sig: Three (3) Tablet PO twice a day.
+Eplerenone 50 mg Tablet Sig: One (1) Tablet PO once a day.
+Glyburide 5 mg Tablet Sig: One (1) Tablet PO twice a day.
+Lantus 100 unit/mL Cartridge Sig: 75 units  Subcutaneous at bedtime.
+Labetalol 200 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day).
+Levetiracetam 500 mg Tablet Sig: One (1) Tablet PO three times a day.
+Omeprazole 20 mg Capsule, Delayed Release(E.C.)
+Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Timolol 0.5 % Drops Sig: One (1) drop Ophthalmic twice a day.
+Torsemide 10 mg Tablet Sig: Three (3) Tablet PO once a day.
+Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO every four (4) hours as needed for pain/fever.
+Docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+Nitroglycerin 0.4 mg Tablet, Sublingual Sig: One (1) Sublingual once a day as needed for chest pain: Please give up to 3 x q 5 minutes.
+Milk of Magnesia 400 mg/5 mL Suspension Sig: 30mL  PO once a day as needed for constipation: Please give if no BM in 48H.
+Bisacodyl 10 mg Suppository Sig: One (1) PR Rectal once a day as needed for constipation: if no BM in 12H.
+Humalog 100 unit/mL Solution Sig: sliding scale Subcutaneous four times a day.
+25. cefazolin 1 gram Recon Soln Sig: One (1) gram Intravenous twice a day for 4 days.
+You were admitted for confusion; your confusion improved, and you were treated for an urinary tract infection.
+Please make the following changes to your medications: -START cefazolin 1g intravenously twice daily for 4 days for your urinary tract infection -REDUCE Labetolol to 400mg daily for your blood pressure - STOP aspirin 325mg once daily  Please continue all other medications as prescribed.

@@ -1,0 +1,84 @@
+Admission Date:  [**2112-1-14**]              Discharge Date:   [**2112-1-21**]  Date of Birth:  [**2055-3-4**]             Sex:   M  Service: MEDICINE  Allergies: Percocet / Percodan  Attending:[**Doctor First Name 7926**] Chief Complaint: CHF exacerbation  Major Surgical or Invasive Procedure: [**Hospital1 **]-ventricular pacemaker placement   History of Present Illness: 56-year-old man with idiopathic dilated cardiomyopathy (EF 20%) s/p ICD, CAD s/p post stenting of the LAD and RCA, and pAF w/ a recent L femoral artery injury during an afib ablation procedure (aborted for emergency vascular surgery), who presents with worsening dyspnea, orthopnea.
+The patient is currently on dofetilide 2.5mg daily, but has remained in atrial fibrillation.
+His atrial fibrillation has been accompanied by progressive CHF exacerbations, marked by paroxysmal nocturnal dyspnea, orthopnea (1-> 2 pillows), and lower extremity edema.
+He continues to have an open left lower extremity wound that has been weeping profusely with increase in edema.
+Wound recently s/p dermabond and suturing by vascular surgery.
+Denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, cough, hemoptysis, black stools or red stools.
+Cardiac review of systems is positive for paroxysmal nocturnal dyspnea, orthopnea, dyspnea on exertion, and ankle edema.
+It is notable for absence of chest pain, palpitations, syncope or presyncope.
+CARDIAC RISK FACTORS: Dyslipidemia, Hypertension 2.
+CARDIAC HISTORY: -CABG: None -PERCUTANEOUS CORONARY INTERVENTIONS: BMS to LAD, multiple BMS to RCA in [**2100**]; [**2101**] ISRS of RCA and proximal RCA stent; [**2104**] DES x2 to proximal and distal RCA -PACING/ICD: [**Company 1543**] ICD (EF 15%) 3.
+Dilated cardiomyopathy s/p ICD (EF 15%) 4.
+Melanoma ([**Doctor Last Name **] level IV) s/p resection   Social History: lives with wife and son.
+SKIN:  Mild amount of erythema surrounding site of pacemaker placement; mildly tender to palpation EXTREMITIES:  non-edematous PULSES: Right: Carotid 2+ DP 1+ PT 2+ Left: Carotid 2+ DP 1+ PT 2+  Pertinent Results: Admission labs: [**2112-1-14**] 07:00PM BLOOD WBC-10.0 RBC-3.20* Hgb-9.9* Hct-30.3* MCV-95# MCH-31.0 MCHC-32.7 RDW-17.3* Plt Ct-220 [**2112-1-14**] 07:00PM BLOOD PT-13.4* PTT-40.1* INR(PT)-1.2* [**2112-1-14**] 07:00PM BLOOD Glucose-145* UreaN-72* Creat-1.5* Na-126* K-3.4 Cl-84* HCO3-29 AnGap-16 [**2112-1-14**] 07:00PM BLOOD CK(CPK)-62 [**2112-1-14**] 07:00PM BLOOD CK-MB-4 cTropnT-0.02* [**2112-1-14**] 07:00PM BLOOD Calcium-8.9 Phos-3.8 Mg-2.4 .
+Two transvenous right ventricular pacer defibrillator leads and a right atrial pacer lead are all unchanged in their respective positions.
+Brief Hospital Course: 56-year-old man with dilated cardiomyopathy w/ EF 20% s/p ICD, CAD s/p post stenting of the LAD and RCA, and pAF s/p multiple cardioversions (last [**1-8**]) on dofetilide admitted for worsening CHF; course complicated by hypervolemic hyponatremia.
+He was admitted for worsening CHF and for upgrade of his single-lead pacer to a [**Hospital1 **]-V pacer.
+On admission, patient was diuresed with a lasix drip at 5cc/hr with UOP 100+cc/hr.
+He had a biventricular pacemaker placed on Friday ([**2112-1-15**]).
+Lasix drip was stopped following marked improvement in volume status, and the patient was transitioned to torsemide by mouth.
+24 hrs after cessation of lasix drip, the patient's ins and outs remained even, but he became increasingly volume overloaded with predominantly right-sided symptoms, and acutely worsening hyponatremia from 130 to 120.
+He was restarted on a lasix drip that was titrated up to 12cc/hr with less responsive urine output (50-70cc/hr).
+In the CCU, the patient began to diurese well with a lasix drip at 15cc/hr.
+He diuresed to euvolemia, and was transitioned to lasix 120 mg PO BID.
+During admission, ramipril held for acute kidney injury and eplerenone held for hyperkalemia.
+Eplerenone was also resumed prior to discharge.
+# PAROXYSMAL ATRIAL FIBRILLATION:  Patient has a history of paroxysmal atrial fibrillation with slow ventricular response s/p single-lead pacemaker placement in [**2104**].
+On admission, the patient was in a V-paced rhythm at 80 BPM.
+The patient was treated with IV vancomycin x 2 days, and then transitioned to PO keflex x 5 days to complete 1 week course s/p pacemaker placement.
+Digoxin was held for a supratherapeutic level in the setting of acute kidney injury.
+Sodium improved to 130 with diuresis on a lasix drip.
+Lasix drip was restarted, the patient was placed on a strict free-water restriction, and sodium began to slowly improve.
+Ramipril was held due to [**Last Name (un) **].
+Digoxin was also held, as it became supratherapeutic in the setting of [**Last Name (un) **].
+The patient will follow up with his PCP on discharge for a creatinine check.
+# CORONARY ARTERY DISEASE:  Patient s/p multiple interventions to LAD and RCA.
+The patient was continued on home levothyroxine.
+No dose adjustments were made to the patient's levothyroxine given acute illness.
+The patient was continued on home oxazepam.
+He was discharged on home oxazepam and Ambien.
+Prior to admission, wound was adhesed with dermabond and sutures.
+He was continued on allopurinol throughout admission.
+#CODE: full code ================== TRANSITIONAL ISSUES # Patient on levothyroxine with TSH 10 in setting of acute illness.
+If persists as outpatient, may need higher dose of levothyroxine (dose not changed as inpatient in setting of illness) # Ramipril was held at discharge for acute kidney injury.
+The patient should discuss reinitiation of this medication with PCP after BUN/Cr check.
+# Digoxin was supratherapeutic during admission due to acute kidney injury.
+Medications on Admission: 1. aspirin 81 mg daily 2. allopurinol 300 mg daily 3. digoxin 250 mcg daily 4. atorvastatin 60 mg daily 5. clopidogrel 75 mg daily 6. ezetimibe 10 mg daily 7. oxazepam 15 mg (patient states that he takes [**1-18**] tab at 4pm and [**1-18**] tab at 10pm) 8. meclizine 12.5 mg PO Q12H PRN vertiginous symptoms 9. levothyroxine 50 mcg daily 10. dabigatran etexilate 150 mg PO BID 11. carvedilol 3.125 mg [**Hospital1 **] 12. tadalafil 5 mg Tablet once a day as needed.
+13. omega-3 fatty acids 1,000 mg daily 14.
+[**Doctor First Name **] seed oil-omega 3-6-9 1,000(630-210- 72) mg daily 15. dofetilide 250 mcg [**Hospital1 **] 16. ramipril 2.5 mg PO daily 17. metolazone 5 mg every other day (usually MWF, but took today (thurs [**1-14**]) 18. eplerenone 25 mg daily 19. zolpidem 5 mg qHS PRN insomnia 20. furosemide 40 mg Tablet Sig: Take 3 pills in the morning and 2 pills in the evening.
+21. potassium chloride 20 mEq daily 22.
+Keflex 250 mg PO QID 23.
+Colace  Discharge Medications: 1. allopurinol 300 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+Disp:*15 Tablet(s)* Refills:*2* 2. atorvastatin 40 mg Tablet Sig: 1.5 Tablets PO DAILY (Daily).
+3. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+4. ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+5. oxazepam 15 mg Capsule Sig: One (1) Capsule PO HS (at bedtime) as needed for anxiety.
+6. levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+8. dofetilide 125 mcg Capsule Sig: Two (2) Capsule PO Q12H (every 12 hours).
+9. carvedilol 3.125 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+10. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+11. polyethylene glycol 3350 17 gram/dose Powder Sig: One (1) PO DAILY (Daily).
+12. eplerenone 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+13. zolpidem 5 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime).
+14. dabigatran etexilate 150 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+15. meclizine 12.5 mg Tablet Sig: One (1) Tablet PO twice a day as needed for vertiginous symptoms.
+16. tadalafil 5 mg Tablet Sig: One (1) Tablet PO once a day as needed for activity .
+18. metolazone 5 mg Tablet Sig: One (1) Tablet PO every other day: M,W,F.
+19. potassium chloride 20 mEq Packet Sig: One (1)  PO once a day.
+20. aspirin 81 mg Tablet, Delayed Release (E.C.)
+Lasix 40 mg Tablet Sig: Three (3) Tablet PO twice a day.
+Keflex 500 mg Capsule Sig: One (1) Capsule PO twice a day for 1.5 days.
+Disp:*3 Capsule(s)* Refills:*0*   Discharge Disposition: Home  Discharge Diagnosis: Primary diagnosis:  Acute on chronic systolic heart failure, paroxysmal atrial fibrillation, hyponatremia Secondary diagnosis: s/p biventricular pacemaker placement, acute kidney injury   Discharge Condition: Mental Status: Clear and coherent.
+To help manage your fluid overload, you were treated with a lasix drip.
+Your breathing and leg swelling improved markedly.
+Your pacemaker was also replaced with a [**Hospital1 **]-ventricular pacer to help the efficiency of your heart.
+Your sodium improved with removal of fluid from your body and restricting your intake of fluid.
+If you do not do this, your sodium could drop, and you could experience complications such as seizures.
+Your fluid overload also caused temporary injury to your kidneys.
+At discharge, you should stop taking your ramipril and digoxin because of your kidney function.
+You can likely resume these medications in the near future.
+Please discuss reinitiation of these medications with Dr. [**Last Name (STitle) 1911**].
+You should also decrease your allopurinol to 150 mg daily.
+Please discuss increasing this medication with your primary care physician.
+Medications changed this admission: INCREASE lasix to 120 mg by mouth twice a day START keflex 500 mg by mouth twice a day (last day [**2112-1-22**]) STOP ramipril - Please discuss resuming this medication with Dr. [**Last Name (STitle) 1911**] in the near future.
+STOP digoxin - Please discuss resuming this medication with Dr. [**Last Name (STitle) 1911**] DECREASE allopurinol to 150 mg daily - Please discuss increasing this medication with you primary care physician  Followup Instructions: Department: CVI [**Location (un) **], [**Apartment Address(1) **] When: [**Apartment Address(1) **] [**2112-1-25**] at 11:20 PM With: [**Last Name (un) 1918**] [**Doctor Last Name **] [**Telephone/Fax (1) 11767**] Building: [**Location (un) 20588**] ([**Location (un) **], MA) [**Location (un) **] Campus: OFF CAMPUS     Best Parking: Free Parking on Site .

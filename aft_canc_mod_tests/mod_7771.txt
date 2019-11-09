@@ -1,0 +1,40 @@
+Patient was notably somnolent during trauma work up and labs were drawn showing an ALT of 11,0000, AST 9000, creatinine 3.0, hct 44, INR>15 and Tylenol level of 15.
+On arrival to [**Hospital1 18**], initial VS were: T 97.7 BP 112/72 HR 126 RR 14 Sats 95% on RA.
+Liver was consulted and recommended CT and RUQ u/s (no dopplers) which were unrevealing.
+Family History: Mother died of respiratory disease  Physical Exam: BP: 134/84 P: 125 R: 26 O2: 95% on 2L General: Sleepy, confused, answering some questions HEENT: sclera injected, anicteric, PERRLA, MMM Neck: supple, no LAD Lungs: clear to auscultation bilaterally, no wheezes, rales, ronchi CV: regular rhythm, tachy, no murmurs, rubs, gallops Abdomen: soft, mildly tender diffusely, bowel sounds present, no rebound tenderness or guarding GU: foley in place Ext: warm, well perfused, 2+ pulses, no edema Left hand with petechiae  Pertinent Results: Admission labs: [**2156-6-13**] 02:30AM BLOOD WBC-10.7 RBC-4.55 Hgb-13.4 Hct-39.0 MCV-86 MCH-29.4 MCHC-34.2 RDW-14.6 Plt Ct-206 [**2156-6-13**] 02:30AM BLOOD Neuts-86.8* Lymphs-10.8* Monos-1.1* Eos-0.9 Baso-0.4 [**2156-6-13**] 04:25AM BLOOD PT-56.0* PTT-38.1* INR(PT)-6.3* [**2156-6-13**] 10:11AM BLOOD FDP-80-160* [**2156-6-13**] 09:10AM BLOOD Fibrino-360 [**2156-6-13**] 02:30AM BLOOD Glucose-94 UreaN-38* Creat-3.8* Na-140 K-3.5 Cl-107 HCO3-17* AnGap-20 [**2156-6-13**] 02:30AM BLOOD ALT-[**Numeric Identifier 93805**]* AST-4924* AlkPhos-170* TotBili-1.4 [**2156-6-13**] 02:30AM BLOOD Lipase-55 [**2156-6-14**] 02:28AM BLOOD CK-MB-NotDone cTropnT-<0.01 [**2156-6-13**] 09:10AM BLOOD Albumin-3.7 Calcium-8.0* Phos-1.4* Mg-2.5 [**2156-6-14**] 11:30AM BLOOD Ammonia-85* [**2156-6-17**] 04:08AM BLOOD TSH-1.1 .
+Discharge labs: [**2156-6-26**] 06:51AM BLOOD WBC-7.9 RBC-2.89* Hgb-8.3* Hct-25.7* MCV-89 MCH-28.6 MCHC-32.2 RDW-15.0 Plt Ct-378 [**2156-6-26**] 06:51AM BLOOD PT-16.1* PTT-89.2* INR(PT)-1.4* [**2156-6-26**] 06:51AM BLOOD Glucose-88 UreaN-18 Creat-2.2* Na-140 K-3.8 Cl-103 HCO3-26 AnGap-15 [**2156-6-26**] 06:51AM BLOOD ALT-43* AST-15 AlkPhos-62 TotBili-0.2 [**2156-6-26**] 06:51AM BLOOD Calcium-9.0 Phos-4.5 Mg-2.2 .
+Anemia studies: [**2156-6-24**] 05:04AM BLOOD calTIBC-265 VitB12-665 Folate-10.3 Ferritn-221* TRF-204 [**2156-6-24**] 05:04AM BLOOD Ret Aut-2.7 .
+Toxicology: [**2156-6-15**] 02:05AM BLOOD Acetmnp-NEG [**2156-6-13**] 02:30AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-15.7 Bnzodzp-NEG Barbitr-POS Tricycl-NEG .
+[**2156-6-13**] Urine culture: no growth [**2156-6-13**] MRSA screen: negative [**2156-6-13**] Urine culture: no growth [**2156-6-16**] VRE swab: negative [**2156-6-17**] RPR: non-reactive [**2156-6-19**] Blood cultures x 2: negative .
+EKG [**2156-6-14**]: Sinus tachycardia.
+RUQ ultrasound [**2156-6-13**]: No biliary obstruction, focal liver lesion or portal venous thrombosis.
+CT abdomen/pelvis [**2156-6-13**]: 1.
+Normal Doppler arterial and venous evaluation of the liver.
+Bilateral lower extremity ultrasound [**2156-6-13**]: 1.
+EGD [**2156-6-25**]: Erythema in the fundus compatible with mild gastritis Otherwise normal EGD to third part of the duodenum  Brief Hospital Course: 42 y/o F with history of bipolar disorder, COPD, substance abuse and recent MVC transferred with mental status changes and acute liver and kidney failure in the setting of an overdose.
+Her transaminases were ALT 11,0000, AST 9000 prior to transfer and trended downward throughout her hospital course, with ALT 43 and AST 15 at the time of discharge.
+Her INR was elevated to 15 on presentation.
+Warfarin was restarted on [**2156-6-16**], at which time the patient's INR was 1.1.
+At the time of discharge, the patient's INR was 1.4.
+Her goal INR is 2.0 to 3.0.
+She will get her INR checked at her PCP's office on [**2156-6-28**] and [**2156-6-30**].
+# Acute kidney injury: The patient developed acute kidney injury, with creatinine peaking at 9.1 on [**2156-6-17**].
+Her urine output eventually increased, and her creatinine fell steadily, reaching 2.2 at the of discharge.
+Her hematocrit initially dropped from 39 on [**2156-6-13**] to 28 on [**2156-6-15**].
+Thereafter, the patient's Hct remained stable, although there was a slow drift downward for which the patient underwent EGD and colonoscopy on [**2156-6-25**].
+EGD showed mild gastritis.
+Colonoscopy showed a polyp as explained below.
+She will have a CBC checked (along with other labs) on [**2156-6-30**].
+# Colon polyp: The patient underwent colonoscopy on [**2156-6-25**] to evaluate for a source of a slow Hct drop.
+The patient will need to undergo repeat colonoscopy as an outpatient.
+She will have a CBC checked (along with other labs) on [**2156-6-30**].
+Clonzepam was decreased to 1 mg [**Hospital1 **].
+# Communication: Patient, husband & siblings [**First Name8 (NamePattern2) 1453**] [**Last Name (NamePattern1) 10983**] [**Telephone/Fax (1) 93806**] [**First Name9 (NamePattern2) **] [**Doctor Last Name 10983**] [**Telephone/Fax (1) 93807**]  Medications on Admission: Coumadin [**Name (NI) **] (unclear amounts) [**Name (NI) 34491**] (approx 80 tabs) Clonidine 0.3mg TID prn Naltrexone 50mg daily Klonopin 1mg TID Quetiapine 600mg QHS Cymbalta 120mg daily Tiotroprium daily Topamax 100mg daily Advair daily Albuterol prn  Discharge Medications: 1.
+Outpatient Lab Work INR on [**2156-6-28**] INR on [**2156-6-30**] fax results to Dr. [**Last Name (STitle) 18937**], phone [**Telephone/Fax (1) 93808**] 2.
+Outpatient Lab Work Chem 7 and CBC, on [**2156-6-30**] fax result to Dr. [**Last Name (STitle) 18937**], phone [**Telephone/Fax (1) 93808**] 3.
+You will need to have your kindey function checked next week on Wednesday.
+Your endoscopy showed gastritis.
+Your blood levels are now stable and starting to improve.
+You will need your blood counts checked on Wednesday.
+Your colonscopy showed a large polyp that should be removed after you have completed your coumadin treatment.
+Please have your INR checked at your primary care office on Monday ([**6-28**]) and Wednesday ([**6-30**]).

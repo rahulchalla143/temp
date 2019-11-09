@@ -1,0 +1,33 @@
+Admission Date:  [**2154-1-3**]              Discharge Date:   [**2154-1-5**]  Date of Birth:  [**2096-9-30**]             Sex:   F  Service: MEDICINE  Allergies: Clozapine / Phenothiazines  Attending:[**Last Name (NamePattern4) 290**] Chief Complaint: Hypotension following propofol during chemo-radiation  Major Surgical or Invasive Procedure: None  History of Present Illness: Ms. [**Known lastname **] is a 57 yo woman with laryngeal carcinoma s/p recent trach and PEG, schizoaffective disorder, and COPD admitted with hypotension and increased secretions after chemoradiation.
+Received levofloxacin and vancomycin for empiric coverage.
+ROS:  Patient complains of dry mouth, headache, and shortness of breath.
+Past Medical History: Laryngeal squamous cell carcinoma, diagnosed [**2153-11-11**] s/p Trach and PEG [**2153-11-11**] Schizoaffective Disorder with concern for poor ability to make medical decisions - evaluated by psychiatry [**11/2153**] with plan to make decisions jointly between patient, her sister [**Name (NI) 382**] and her mother Coronary Artery Disease s/p MI at age 34 Hypertension Hyperlipidemia COPD, not on home oxygen Crohn's Disease Neurogenic Bladder Osteoarthritis with Back Pain  Social History: Prior to her illness, she lived with her mother, who was recently admitted to [**Hospital1 18**].
+Physical Exam: T=97.3 BP=146/94 HR=63 RR=19 O2=99% on 35% trach mask  PHYSICAL EXAM GENERAL: Pleasant, thin female, wearing a helmet, communicates by mouthing words and writing with pencil and paper, in NAD HEENT: Normocephalic, atraumatic.
+PSYCH: slow to respond to questions and sometimes perseverates on her answers to previous questions  Pertinent Results: [**2154-1-3**] 07:45PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-25 GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 LEUK-NEG [**2154-1-3**] 06:42PM   GLUCOSE-92 UREA N-21* CREAT-0.5 SODIUM-138 POTASSIUM-4.1 CHLORIDE-106 TOTAL CO2-23 ANION GAP-13 [**2154-1-3**] 06:42PM   WBC-5.8 RBC-3.22* HGB-9.3* HCT-28.4* MCV-88 MCH-28.7 MCHC-32.6 RDW-15.9* [**2154-1-3**] 10:40AM   ALT(SGPT)-100* AST(SGOT)-46* ALK PHOS-90 TOT BILI-0.3 [**2154-1-2**] 12:40PM   WBC-7.1 RBC-3.64* HGB-10.4* HCT-31.4* MCV-86 MCH-28.6 MCHC-33.1 RDW-15.1 [**2154-1-2**] 12:40PM   NEUTS-75.9* LYMPHS-15.8* MONOS-4.5 EOS-3.6 BASOS-0.1  No pertinent microbiology data.
+Brief Hospital Course: This is a 57-year-old woman with laryngeal cancer s/p trach but not ventilator dependent, who was admitted with hypotension and increased secretions after sedation with propofol for chemo-radiation.
+HYPOTENSION:  Patient was hypotensive after sedation for her XRT, but this resolved with 3L of IV fluids.
+Likely etiology was dehydration worsened by propofol administration.
+Had been normal prior to [**12-26**], when she received her first chemo dose.
+Her statin was held during admission.
+LARYNGEAL CANCER: She is currently receiving chemotherapy and XRT.
+HTN/CAD:  Ms. [**Name13 (STitle) **] was previously on lisinopril and atenolol, but is not currnetly receiving these medications.
+She was slightly hypertensive on admission but was managed conservatively given her recent hypotension.
+Medications on Admission: ([**First Name8 (NamePattern2) **] [**Hospital1 **] records): Mucomyst neb [**Hospital1 **] ASA 81mg GT daily Colace 100mg GT [**Hospital1 **] Advair HFA 230/21 mcg 2 puffs q12 Heparin SC Ipatropium inh 4 puffs QID MVI GT daily Zyprexa 2.5mg GT daily Omeprazole 20mg GT daily Simvastatin 20mg GT qHS Acetaminophen prn Mucomyst neb prn Albuterol inhaler prn Mag citrate prn Olanzapine 1.25mg GT q12 prn Zofran prn Senna prn  Discharge Medications: 1.
+Aspirin 81 mg Tablet, Chewable [**Hospital1 **]: One (1) Tablet, Chewable PO DAILY (Daily).
+Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler [**Hospital1 **]: Two (2) Puff Inhalation Q4H (every 4 hours) as needed for shortness of breath.
+3. mucomyst  [**Hospital1 **]: One (1)   twice a day: nebulizer.
+Colace 100 mg Capsule [**Hospital1 **]: One (1) Capsule PO twice a day.
+Heparin (Porcine) 5,000 unit/mL Solution [**Hospital1 **]: One (1) Injection TID (3 times a day).
+Ipratropium Bromide 17 mcg/Actuation Aerosol [**Hospital1 **]: Two (2) Puff Inhalation QID (4 times a day).
+Therapeutic Multivitamin     Tablet [**Hospital1 **]: One (1) Tablet PO DAILY (Daily).
+Olanzapine 2.5 mg Tablet [**Hospital1 **]: One (1) Tablet PO DAILY (Daily).
+Omeprazole 20 mg Capsule, Delayed Release(E.C.)
+Acetaminophen 160 mg/5 mL Solution [**Hospital1 **]: One (1)  PO Q6H (every 6 hours) as needed for fever/pain.
+Olanzapine 2.5 mg Tablet [**Hospital1 **]: 0.5 Tablet PO BID (2 times a day) as needed for agitation.
+Zofran 4 mg Tablet [**Hospital1 **]: One (1) Tablet PO every eight (8) hours as needed for nausea.
+Senna 8.6 mg Tablet [**Hospital1 **]: One (1) Tablet PO BID (2 times a day) as needed for Constipation.
+Discharge Disposition: Extended Care  Discharge Diagnosis: Hypotension resulting from propofol sedation during chemo/XRT treatment.
+Discharge Condition: Mental Status:Clear and coherent Level of Consciousness:Alert and interactive Activity Status:Out of Bed with assistance to chair or wheelchair  Discharge Instructions: Dear Ms. [**Known lastname **],  You were admitted to the hospital after your blood pressure was low and you were having increased secretions while receiving chemotherapy.
+We gave you intravenous fluids and your blood pressure came up.
+The only change we made to your medication was stopping the simvastatin because of elevated liver function tests.
+Please take all of your medications as prescribed.

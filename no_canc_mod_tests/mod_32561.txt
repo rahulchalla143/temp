@@ -1,0 +1,30 @@
+Admission Date:  [**2141-8-2**]              Discharge Date:   [**2141-8-14**]  Date of Birth:  [**2094-3-8**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 5608**] Chief Complaint: Acute GI Bleed  Major Surgical or Invasive Procedure: Intubation on [**2141-8-1**] Central venous line placement on [**2141-8-4**] Bronchoscopy on [**2141-8-4**]  History of Present Illness: Mr. [**Known lastname **] is a 47 year-old man with a history of alcoholism, cirrhosis, ?hepatitis C, and multiple ED admissions for intoxication and falls who is transferred from [**Hospital 8**] Hospital for further management of acute GI bleed and evaluation for TIPS.
+On presentation to their ED, his initial VS were HR 127 103/98 with a Hct of 20.
+He had an episode of coffee ground emesis and an NGT was placed, with aspiration of 300 cc dark red blood and coffee grounds.
+He also underwent an abdominal CT that demonstrated cirrhosis with severe esophageal varices extending to the portal vein and a head CT that was negative.
+His CXR was read as question LLL consolidation vs atelectasis, and he was started on octreotide and a PPI drip and admitted to the MICU for further management.
+He underwent EGD on [**8-1**] with grade I esophogeal varices but no active bleeding, though there were stigmata of recent bleeding.
+He then was noted to be acutely sedated in the setting of receving diazepam for ?withdrawal and underwent head CT that afternoon, which was again read as negative.
+He underwent emergent EGD at this point, which was complicated by episodes of hypoxia; however, blood was found in the entire esophagus and no clear site of bleeding was noted, though bands appeared to have come loose.
+Total transfusions were 10u PRBC and 8u FFP, with and 15 mg IV/SC vitamin K.  Because of continued bleeding and need for a possible [**Last Name (un) **] or TIPS procedure, he was transferred to [**Hospital1 18**].
+Last ABG prior to transfer was 7.42/32/85 on CMV rate 16 PEEP 5 VT 450 FIO2 80%.
+Family History: Non-contributory  Physical Exam: Vitals: T: 98.4 BP: 140/75 P: 104 R: 18 O2: 99% (intubated) General: intubated, responds to noxious stimuli HEENT: ETT in place, sclera icteric, MMM, oropharynx clear Neck: supple, JVP not elevated, no LAD Lungs: scattered rhonchi CV: Regular rate and rhythm, normal S1 + S2, [**1-27**] SM Abdomen:  soft, non-distended GU: foley in place Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema   Pertinent Results: ADMISSION LABS: .
+[**2141-8-2**] 05:19PM BLOOD WBC-25.6* RBC-3.24* Hgb-9.2* Hct-27.4* MCV-85 MCH-28.4 MCHC-33.6 RDW-16.5* Plt Ct-83* [**2141-8-2**] 05:19PM BLOOD Neuts-70 Bands-24* Lymphs-2* Monos-3 Eos-0 Baso-0 Atyps-0 Metas-1* Myelos-0 [**2141-8-2**] 05:19PM BLOOD PT-20.5* PTT-33.7 INR(PT)-1.9* [**2141-8-2**] 05:19PM BLOOD Plt Smr-LOW Plt Ct-83* [**2141-8-2**] 05:19PM BLOOD Glucose-132* UreaN-11 Creat-0.5 Na-142 K-3.3 Cl-109* HCO3-25 AnGap-11 [**2141-8-2**] 05:19PM BLOOD ALT-21 AST-57* LD(LDH)-248 AlkPhos-64 TotBili-6.2* DirBili-2.5* IndBili-3.7 [**2141-8-2**] 05:19PM BLOOD Albumin-2.8* Calcium-7.8* Phos-1.6* Mg-2.0 [**2141-8-2**] 05:19PM BLOOD HCV Ab-POSITIVE* [**2141-8-2**] 05:25PM BLOOD Type-ART pO2-156* pCO2-33* pH-7.52* calTCO2-28 Base XS-4 [**2141-8-2**] 05:25PM BLOOD Glucose-132* Lactate-3.1* Na-137 K-3.3* Cl-104 calHCO3-28 [**2141-8-2**] 05:25PM BLOOD Hgb-9.6* calcHCT-29 [**2141-8-2**] 05:25PM BLOOD freeCa-1.06* .
+Images: CXR [**2141-8-2**]: ETT at level of clavicles, 4.8 cm above carina.
+EGD [**2141-8-2**]:  Esophagus: Protruding Lesions 3 cords of grade II varices were seen starting at 30 cm from the incisors in the gastroesophageal junction and lower third of the esophagus.
+Other 3 bands at 45 cm and 3 bands at 40 cm.
+EKG [**2141-8-1**]: NSR, nl axis, nl intervals, 2 mm q-wave in III, no acute ST-T wave changes.
+Subsequently his HCT remained stable during this admission despite having guaiac positive stools.
+On [**8-11**], he again was noted to have melanotic stools and NGT suction demonstrated gastric blood.
+He had another EGD performed on [**8-11**], which again demonstrated varices in the lower [**12-24**] of the esophagus, two of which were banded.
+CXR was concerning for aspiration pneumonia.
+Please follow vanc levels and dose to keep levels between 15-20 (current dose of 750 mg [**Hospital1 **]).
+This remained unchanged on repeat evaluations while the patient defevresced and his white count remained stable at 14.
+We recommend a CT chest be performed within the next week (if the patient tolerates) to eval for any change.
+Another contributor to his AMS was hepatic encephalopathty, which was treated with lactulose and rifaximin.
+He will need follow up of phenytoin levels to keep in therapeutic range (free phenytoin 2.0).
+Specifically, dilantin levels and albumin should be checked twice per week and keppra can be increased to 1500 mg [**Hospital1 **] once his renal function improves.
+FFP was given to correct his INR (2.0 on discharge).
+Ondansetron HCl (PF) 4 mg/2 mL Solution Sig: One (1) Injection Q8H (every 8 hours) as needed for nausea.
+Discharge Disposition: Extended Care  Facility: [**Hospital6 2222**] - [**Location (un) 538**]  Discharge Diagnosis: Aspiration pneumonia Upper gastrointestinal bleeding Seizure Hypoxic brain injury Hemoptysis Respiratory failure, status post intubation Acute renal failure   Discharge Condition: VS 120/80, 84, 97% 2Lt.
+[**Telephone/Fax (1) 80987**] when completing rehab course.

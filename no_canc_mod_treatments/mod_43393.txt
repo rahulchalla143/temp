@@ -1,0 +1,38 @@
+Admission Date:  [**2187-6-10**]              Discharge Date:   [**2187-6-18**]  Date of Birth:  [**2104-12-31**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 5129**] Chief Complaint: DKA and hypotension in the setting of an unwitnessed fall  Major Surgical or Invasive Procedure: none   History of Present Illness: Ms. [**Known lastname 4027**] is an 82yo woman with h/o dementia, DM, AFib and DVT on coumadin as well as recurrent admissions for cholangitis and hypernatremia with h/o UTIs and CDiff presenting after being found down at her nursing home at 5:15 AM.
+She did not receive Novalog at this time.
+She received 3L of NS and was treated for possible infection with levofloxacin, flagyl, and vancomycin.
+She was given 6 units of IV insulin and started on a gtt at 6 units/hr.
+The patient was transferred to the ICU for management of DKA.
+She also underwent [**Date range (1) **] on [**5-31**] for recurrent cholangitis:  a pig tail catheter was placed for drainage with the plan to remove the catheter in [**2187-11-13**] and continue to monitor the patient clinically.
+- recurrent C.diff [**3-22**] and [**4-21**] - paroxysmal Afib -on coumadin - DVT on coumadin, dx [**3-22**], L common femoral, still present [**4-21**] - DM2  on insulin - HTN - Recurrent admission for dehydration/hypernatremia - Recurrent UTIs with MDR organisms (ecoli, pseudomonas-?colonizer)-on chronic foley - Dysphagia-dx [**4-21**], on pureed diet with nectar thicks, 1:1 supervision, aspiration precautions - Osteochondroma of L knee as a child - MVP - Alzheimer's disease - severe, baseline speaks to self, doesnt recognize people - Sacral decub (stage IV) and bilateral heel (stage III) pressure and deep tissue wounds - severe knee arthitis-bed bound - Anemia-?ACD, baseline H/H [**9-12**] - s/p right ORIF of hip fracture at age 75   Social History: Not currently smoking, alcohol or illicit drug use.
+Will follow some commands with repeat prompting.
+Pertinent Results: [**2187-6-10**] 06:50AM   CK-MB-3 cTropnT-0.03* [**2187-6-10**] 06:50AM   GLUCOSE-420* UREA N-20 CREAT-1.2* SODIUM-139 POTASSIUM-4.3 CHLORIDE-107 TOTAL CO2-15* ANION GAP-21* [**2187-6-10**] 08:31AM URINE  COLOR-Straw APPEAR-Hazy SP [**Last Name (un) 155**]-1.010 [**2187-6-10**] 08:31AM URINE  BLOOD-LG NITRITE-POS PROTEIN-TR GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 LEUK-MOD [**2187-6-10**] 07:00AM   PT-22.0* PTT-32.5 INR(PT)-2.1* [**2187-6-10**] 07:00AM   WBC-16.8*# RBC-3.79* HGB-9.5* HCT-31.9* MCV-84 MCH-25.1* MCHC-29.9* RDW-15.8* .
+Common bile duct stent in place with biliary tree air likely post- procedurally related.
+She was initially treated with vanc, pip/tazo, and flagyl, as well as IVF boluses for hypotension.
+Her urine culture later revealed e.coli, and antibiotics were narrowed to pip/tazo.
+This was treated with IVF boluses, and insulin drip initially.
+She was converted to lantus and sliding scale insulin after her anion gap closed and her glucose levels were well controlled.
+# ARF:  baseline Cr 0.7-0.8, Pt was noted to have acute renal failure on admission, with BUN/Cr max 20/1.2.
+Patient will likely need sutures out in 1 week .
+# Left common femoral DVT diagnosed [**3-22**]: Patient is on coumadin as an outpt.
+This was held due to concerns of significant anemia in the ICU that required transfusion of 2 units PRBC.
+On the medicine floor, Coumadin was resumed, as H/H appeared more stable.
+# History of recurrent choledocholithiasis/cholangitis s/p ERCPs/Stent: Patient has a pigtail placed [**5-31**].
+Coumadin was initially held due to concern about anemia requiring 2 units PRBC.
+# FEN:  diabetic diet with pureed diet, nectar thicks, 1:1 assistance, HOB elevated, oral care [**Hospital1 **],  aspiration precautions.
+# Code:  Full Code (confirmed on recent admission [**5-22**])   Medications on Admission: Warfarin 3 mg daily Glargine 20 units QHS Lispro sliding scale Diltiazem 120 mg daily Zinc Sulfate 220 mg daily Ascorbic Acid 500 mg [**Hospital1 **] Hydrocodone-Acetaminophen 5-500 mg Q8H Docusate Sodium 100 mg [**Hospital1 **] Senna 8.6 mg [**Hospital1 **] prn Alum-Mag Hydroxide-Simeth 200-200-20 mg/5 mL 15-30ml QID prn Magnesium Hydroxide 400 mg/5 mL 30ml Q6H prn constipation.
+Enoxaparin 60mg Subcutaneous Q12H until INR is between 2.0 and 3.0 for at least 24 hours and then stop.
+Cefpodoxime 100 mg Tablet [**Hospital1 **]: Two (2) Tablet PO Q12H (every 12 hours) for 10 days.
+Psyllium 1.7 g Wafer [**Hospital1 **]: One (1) Wafer PO DAILY (Daily).
+Acetaminophen 325 mg Tablet [**Hospital1 **]: Two (2) Tablet PO Q6H (every 6 hours) as needed for pain.
+Warfarin 2 mg Tablet [**Hospital1 **]: One (1) Tablet PO Once Daily at 4 PM: Goal INR=2.
+Insulin Glargine 100 unit/mL Solution [**Hospital1 **]: One (1) 20 Subcutaneous once a day.
+Zinc Sulfate 220 mg Tablet [**Hospital1 **]: One (1) Tablet PO DAILY (Daily).
+Ascorbic Acid 500 mg Tablet [**Hospital1 **]: One (1) Tablet PO BID (2 times a day).
+Docusate Sodium 100 mg Capsule [**Hospital1 **]: One (1) Capsule PO BID (2 times a day).
+Senna 8.6 mg Tablet [**Hospital1 **]: One (1) Tablet PO BID (2 times a day).
+Insulin Lispro 100 unit/mL Solution [**Hospital1 **]: One (1) 2-10 units Subcutaneous three times a day: With breakfast, lunch and dinner based on sliding scale for blood glucose > 200.
+Discharge Disposition: Extended Care  Facility: [**Hospital 4470**] Health care  Discharge Diagnosis: # Urosepsis; e.coli # Diabetic ketoacidosis # Anemia, unspecified # Recent DVT, on coumadin # Paroxysmal atrial fibrillation # Alzheimer's disease, severe   Discharge Condition: stable   Discharge Instructions: You were admitted to [**Hospital1 18**] after a fall, with the findings of urosepsis and DKA.
+You were initially managed in the ICU with IV antibiotics and insulin, and then transitioned to SQ insulin and oral antibiotics.
+Please take your medications as prescribed.
+It is important that you complete your course of antibiotics and keep good control of your blood sugars with your insulin.

@@ -1,0 +1,16 @@
+Baseline ECG reveals bifasicular block with prolonged PR.
+Past Medical History: 1) Aortic stenosis: last echo [**6-16**] with EF > 55%, severe AS (worse than prior echo) 2) Rheumatoid arthritis (followed by Dr. [**Last Name (STitle) **] in Rheum, on methotrexate) 3) asthma 4) HTN 5) LLE DVT 6) Pneumonia 7) Anemia of chronic disease 8) CAD 9)h/o thrombocytopenia of unknown etiology (negative HIT, and SRA) 10) Areflexive bladder (requiring chronic foley)   Social History: Lives with daughter.
+Pertinent Results: 7.8/ 26.2/ 137 Previous CBC: 6.7/29.2/137 140/4.1/104/26/22/1.1/139 Ca: 8.5 Mg: 1.9 P: 3.3 INR 2.5 .
+[**2148-11-30**] Head CT no ICH or mass .
+CT ABDOMEN W/O CONTRAST  [**2148-12-3**] 10:49 AM CONCLUSION 1.
+ECHO [**2148-12-2**] There is mild symmetric left ventricular hypertrophy.
+Left ventricular systolic function is probably borderline normal (EF~50-55%) but views are technically suboptimal.
+[Intrinsic left ventricular systolic function may be more depressed given the severity of valvular regurgitation.]
+Repeat ECHO showed preserved EF 50-55%, tight AS valve area 0.6 cm2.
+Baseline ECG reveals bifasicular block with prolonged PR.
+Continued advair, ipratropium and albuterol NEB PRN.
+Bleeds stopped with pressure bandages, FFP and vit K. Abdominal CT showed right groin bleed and no RP/intrapelvic bleed.
+Hct now stable and patient off coumadin.
+## [**Name (NI) 14572**] - Pt with h/o dvt (dx'[**Initials (NamePattern4) **] [**2148-6-12**]) and anticogulated with coumadin on admission, INR was 2.5.
+Please get your labs drawn on and have the your primary care physician [**Name9 (PRE) 702**] the results.
+Followup Instructions: Provider:  [**Name10 (NameIs) 676**] CLINIC Phone:[**Telephone/Fax (1) 59**] Date/Time:[**2148-12-20**] 11:00  Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 4851**],MD Phone:[**Telephone/Fax (1) 2226**] Date/Time:[**2148-12-20**] 12:30  Please follow-up with you primary care physician [**Last Name (NamePattern4) **] [**1-14**] weeks.

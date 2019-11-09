@@ -1,0 +1,23 @@
+Name:  [**Known lastname 5251**],[**Known firstname 471**]                   Unit No:   [**Numeric Identifier 5252**]  Admission Date:  [**2197-2-12**]              Discharge Date:   [**2197-2-24**]  Date of Birth:  [**2128-5-10**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 1225**] Addendum: Detailed MICU Course:  85 yo woman c pancreatic cancer and R colon cancer s/p hemicolectomy and FOLFOX, neutropenic found to be hypothermic and obtunded on the floor transferred to MICU with GN sepsis.
+#) Respiratory failure / ARDS - Patient was intubated for respiratory distress/failure in setting of Septic shock.
+She had a Left retrocardiac opacity initially and was started on antibiotics for PNA.
+She was maintained on mechanical ventilation during her course.
+As her sepsis and DIC progressed she required higher PEEP and FiO2.
+She had signs of ARDS and was maintained on ARDS net low tidal volume ventilation.
+Esophageal ballon was used at one point to measure pleural pressure and revealed that with PEEP ~18 her transpulmonary pressures were 0.
+She remained on mechanical ventilation thereafter with higher PEEP.
+#) Septic shock: Patient was hypotensive and hypothermic after transfer and a central line was placed for acess and cvp monitoring.
+She was started on meropenam and vancomycin initilly for broad coverage and was switched over to vancomycin after sensitivities returned.
+She was maintained on sepsis protocol with goal CVP>12, MAP>65.
+She was initially started on levophed, vasopressin and neosynephrine (in that order).
+She was given hydrocortisone and fludrocortisone.
+She received platelets, prbc and ffp to maintain plt >20k and >50k if bleeding.
+She received altogether 21 units of FFP, 8 units of platlets and 4 units of PRBC over her 6 day MICU course.
+Lasix was tried with little success and renal service was consulted for Dialysis recommendations.
+Several goals of care covnersations were held with the family and dialysis was held off initially.
+She was started on lasix gtt and was also given diuril for diuresis.
+She had a good response to lasix gtt and dialysis was held off.
+However evening of [**2197-2-23**] pt became hypotensive on 3 pressors and lasix gtt was stopped.
+#FEN: OG tube was placed and patient was given nutrition via tube feeds.
+Serial ABGs showed worsening hypoxemia and Acidosis she was given Bicarb and pressors were increased.
+After a family discussion AM of [**2-24**], pressors and ventilator were withdrawn and goals were directed towards comfort measures.

@@ -1,0 +1,52 @@
+Admission Date:  [**2179-3-21**]              Discharge Date:   [**2179-3-26**]  Date of Birth:  [**2114-2-8**]             Sex:   M  Service: MEDICINE  Allergies: Doxepin / Levofloxacin / Oxycontin / Benzodiazepines / Ativan  Attending:[**Last Name (NamePattern1) 293**] Chief Complaint: Hypotension  Major Surgical or Invasive Procedure: Right Internal Jugular Central Venous Catheter Placement [**2179-3-21**] Tracheal Tube Change   History of Present Illness: 64 year-old gentleman with MMP, history of lung cancer s/p right pneumonectomy in [**2174**], severe COPD, recently discharged from [**Hospital1 18**] MICU [**2178-12-2**] s/p tracheostomy and [**Month/Day/Year 282**] placement after admission for respiratory failure due to pneumonia, now re-admitted to [**Hospital1 18**] with  hypotension, tachycardia and UTI.
+Squamous cell lung carcinoma, status post right pneumonectomy in [**2174**].
+Prostate cancer, status post radical prostatectomy.
+19. multiple admissions for pneumonia (including pseudomonas) and bronchitis, last in [**10-31**] resulting in ventilator dependence, trach and [**Date Range 282**] placement 20. vitamin B12 deficiency.
+Cataracts 22. bradycardia on amiodarone  Social History: Recently discharged to [**Hospital **] rehab s/p trach and [**Hospital 282**].
+Family History: Mother with coronary artery disease.
+Physical Exam: AF, 80, 112/52, 99% on vent  gen: a/o, rouses to voice; no acute distress heent: eomi, perrla, mm slightly dry neck: trach in place, RIJ in place cv: rrr, no m/r/g pulm: left lung field with mild rhonchi at lung base abd: NABS, soft, NT, ND; [**Year (4 digits) 282**] tube in place extr: trace peripheral edema neuro: CN in tact, non-focal  Pertinent Results: [**2179-3-21**] 06:33PM   PO2-132* PCO2-78* PH-7.31* TOTAL CO2-41* BASE XS-9 [**2179-3-21**] 04:57PM   PO2-87 PCO2-78* PH-7.33* TOTAL CO2-43* BASE XS-10 [**2179-3-21**] 04:26PM   LACTATE-0.7 [**2179-3-21**] 04:23PM   GLUCOSE-93 UREA N-18 CREAT-0.5 SODIUM-141 POTASSIUM-4.9 CHLORIDE-97 TOTAL CO2-40* ANION GAP-9 [**2179-3-21**] 04:23PM   CK(CPK)-33* [**2179-3-21**] 04:23PM   cTropnT-0.13* [**2179-3-21**] 04:23PM   CK-MB-NotDone [**2179-3-21**] 04:23PM   CALCIUM-8.9 PHOSPHATE-3.5 MAGNESIUM-1.8 [**2179-3-21**] 04:23PM   TSH-1.7 [**2179-3-21**] 04:23PM   CORTISOL-35.6* [**2179-3-21**] 04:23PM   WBC-15.6*# RBC-3.89* HGB-10.2* HCT-34.5* MCV-89 MCH-26.4* MCHC-29.7* RDW-14.1 [**2179-3-21**] 04:23PM   NEUTS-91.0* LYMPHS-4.5* MONOS-3.9 EOS-0.4 BASOS-0.1 [**2179-3-21**] 04:23PM   HYPOCHROM-3+ [**2179-3-21**] 04:23PM   PLT COUNT-420# [**2179-3-21**] 04:23PM   PT-20.5* PTT-32.2 INR(PT)-2.7 [**2179-3-21**] 04:23PM URINE  COLOR-Amber APPEAR-Cloudy SP [**Last Name (un) 155**]-1.020 [**2179-3-21**] 04:23PM URINE  BLOOD-LG NITRITE-NEG PROTEIN-30 GLUCOSE-NEG KETONE-TR BILIRUBIN-NEG UROBILNGN-1 PH-5.0 LEUK-SM [**2179-3-21**] 04:23PM URINE  RBC->50 WBC-21-50* BACTERIA-MANY YEAST-NONE EPI-[**1-30**] [**2179-3-21**] 04:23PM URINE  AMORPH-MANY [**2179-3-21**] 04:23PM URINE  COMMENT-0-2 COARSE GRANULAR CASTS  Brief Hospital Course: 65yo man with many medical problems p/w hypotension in the setting of rapid aitral flutter.
+Assessment/Plan: 64 year-old male w/ history of lung ca s/p right pneumonectomy, severe COPD, recent trach and [**Month/Day/Year 282**] [**Hospital **] rehab with a flutter 2:1, leukocytosis, hypotension and UTI.
+Responded to aggresive fluid resusciation and rate control.
+On hopital day #2 he went back into artial flutter and in consultation with Electrophysiology service Amiodarone was initiated and diltiazem was stopped (as he had been on Amiodarone for 3.5 years in the past, and it had to be discontinued [**10-31**] due to bradycardia when lopressor was added).
+Plan is continue Amiodarone 400mg TID x 1 week then 400mg [**Hospital1 **] x 1 week then 200mg po QD thereafter.
+He is to avoid beta blockers and calcium channel blockers.
+Klebsiella Urinary Tract Infection: He was initally started on ceftriaxone which was changed to levofloxacin but given history of heart block to levo, he was changed to Bactrim to complete a 7-day course for complicated UTI.
+The Urine Culture grew Klebsiella which is sensitive to Bactrim.His foley catheter was discontinued.
+He was noted to have [**Known lastname **] guaiac positive stool, but this was in the setting of extensive bleeding from Internal Jugular catheter site into his trach/mouth.
+His hematocrit should be followed as an outpatient, and his stools should be continued to check guauic studies for trace blood.
+He is maintained on coumadin for Atrial Fibrillation and his inital INR was therapeutic.
+He was given FFP and vitamin K (0.5 mg iv) to reverse his coagultopathy.
+He should be restarted on coumadin for Atrial Fibrillation at rehab.
+Diabetes Mellitis: He was continued on glargine and regular insulin sliding scale.
+Pain/anxiety/depression: He was continued on his outpatient doses of Fentanyl 75mcg/q72hours, Haldol for anxiety 5mg hs, 2mg 8am/2pm, 1mg tid/prn, and paxil.
+Sacral Decubitus: He was seen by wound care nurse and continued on DSD for sacral wound.
+Diastolic Congestive Heart Failure: He was given lasix prn to keep fluid even.
+Access: The Right Internal Jugular Vein triple lumen catheter was not discontinued per [**Hospital1 296**] request.
+------ Outstanding issues on discharge: 1.The pt was started on coumadin at 5 mg qday on day of discharge [**3-26**].
+Regardless, he is being restarted on anticoagulation which would be treatment of choice.
+Medications on Admission: fentanyl 75mcg q72h haldol 5 HS lantus 16U HS ISS atrovent QID prevacid 30 qD ASA 325 qD vit C 500 [**Hospital1 **] MVI paxil 20 qD vit D 800 U zinc 220 levalbuterol cardizem 30 TID coumadin 7.5 HS haldol 2mg (8am/2pm) Haldol 1mg prn  Discharge Medications: 1.
+Fentanyl 75 mcg/hr Patch 72HR [**Hospital1 **]: One (1) Patch 72HR Transdermal Q72H (every 72 hours).
+Aspirin 325 mg Tablet [**Hospital1 **]: One (1) Tablet PO DAILY (Daily).
+Paroxetine HCl 20 mg Tablet [**Hospital1 **]: One (1) Tablet PO DAILY (Daily).
+Zolpidem Tartrate 5 mg Tablet [**Hospital1 **]: One (1) Tablet PO HS (at bedtime).
+Haloperidol 5 mg Tablet [**Hospital1 **]: One (1) Tablet PO HS (at bedtime).
+Haloperidol 2 mg Tablet [**Hospital1 **]: One (1) Tablet PO AT 8AM AND 2PM ().
+Haloperidol 1 mg Tablet [**Hospital1 **]: One (1) Tablet PO TID (3 times a day) as needed.
+Zinc Sulfate 220 mg Capsule [**Hospital1 **]: One (1) Capsule PO DAILY (Daily).
+Cholecalciferol (Vitamin D3) 400 unit Tablet [**Hospital1 **]: Two (2) Tablet PO DAILY (Daily).
+Multivitamin     Capsule [**Hospital1 **]: One (1) Cap PO DAILY (Daily).
+Docusate Sodium 100 mg Capsule [**Hospital1 **]: One (1) Capsule PO BID (2 times a day).
+Ascorbic Acid 500 mg Tablet [**Hospital1 **]: One (1) Tablet PO BID (2 times a day).
+Ipratropium Bromide 18 mcg/Actuation Aerosol [**Hospital1 **]: Two (2) Puff Inhalation QID (4 times a day).
+Albuterol 90 mcg/Actuation Aerosol [**Hospital1 **]: 2-4 Puffs Inhalation Q6H (every 6 hours).
+Fluticasone Propionate 110 mcg/Actuation Aerosol [**Hospital1 **]: Two (2) Puff Inhalation [**Hospital1 **] (2 times a day).
+Lansoprazole 30 mg Capsule, Delayed Release(E.C.)
+Morphine Sulfate 10 mg/5 mL Solution [**Hospital1 **]: Five (5) mg PO Q4H (every 4 hours) as needed for back pain.
+Bisacodyl 5 mg Tablet, Delayed Release (E.C.)
+Senna 8.6 mg Tablet [**Hospital1 **]: One (1) Tablet PO BID (2 times a day).
+Amiodarone HCl 200 mg Tablet [**Hospital1 **]: Two (2) Tablet PO three times a day: 400mg TID x 7 days then 400mg [**Hospital1 **] x 7 days then 200mg qd ongoing.
+Trimethoprim-Sulfamethoxazole 160-800 mg Tablet [**Hospital1 **]: One (1) Tablet PO BID (2 times a day) for 1 weeks: Last dose on [**3-28**].
+Insulin Glargine 100 unit/mL Solution [**Month (only) **]: Seven (7) units Subcutaneous at bedtime.
+Insulin Regular Human 100 unit/mL Cartridge [**Month (only) **]: per sliding scale units [**Month (only) **] four times a day: 0-60   mg/dL -->[**11-29**] amp D50 61-150   mg/dL--> 0   Units 151-200 mg/dL-->   2   Units 201-250   mg/dL-->   4   Units 251-300   mg/dL-->   6   Units > 300   mg/dL Notify M.D.
+Coumadin 5 mg Tablet [**Month/Day (2) **]: One (1) Tablet PO once a day: Please monitor INR and adjust as needed.
+Discharge Disposition: Extended Care  Facility: [**Hospital3 7**] & Rehab Center - [**Hospital1 8**]  Discharge Diagnosis: Rapid Atrial Flutter Hypotension Klebsiella Urinary Tract Infection Left Upper Extremity Swelling Acute Blood Loss Anemia Diastolic CHF   Discharge Condition: Stable on the following vent settings:Assist Control TV 450 x RR 12 with PEEP 8 and Fi02 40%  Discharge Instructions: Weigh pt q morning, [**Name8 (MD) 138**] MD if weight > 3 lbs.

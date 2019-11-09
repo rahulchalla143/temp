@@ -1,0 +1,81 @@
+Admission Date:  [**2137-4-9**]              Discharge Date:   [**2137-4-17**]  Date of Birth:  [**2055-7-24**]             Sex:   M  Service: MEDICINE  Allergies: Protamine  Attending:[**First Name3 (LF) 4975**] Chief Complaint: NSTEMI; transfer for cardiac catheterization  Major Surgical or Invasive Procedure: Cardiac catheterization x2 with placement of drug eluting stents  History of Present Illness: 81 yo M with h/o CAD (s/p PCI in [**2129**], CABG in [**2118**], on home O2 3-5L, who is being transfered from NWH to [**Hospital1 **] for cardiac catheterization.
+The patient was started on empiric heparin gtt for PE v ACS.
+He was admitted to the ICU for requirement for NRB and trop of 8.
+The pt was managed in the ICU for presumed PE, and started on coumadin as well as heparin gtt.
+Past Medical History: - Dyslipidemia - Hypertension - CAD s/p CABG x4 [**2118**] ([**Hospital1 2025**]), s/p PCI [**2130-7-7**] in which his saphenous vein graft was stented x4 with overlapping TAXUS stents - H/o paroxysmal AFib - NSCLC diagnosed in [**2125**], s/p resection and XRT; recurrence in [**2135**], s/p 13 cycles of carboplatin/Alimta recently changed to Navelbine d/t new diagnosis of liver mets in [**3-/2137**] - COPD on 3-5L home O2 - OSA on CPAP - AAA (4cm) - GERD - Barretts esophagus  Social History: Lives with wife who has dementia.
+Patent SVG-OM1, but with proximal filling defect suggestive of a thrombus.
+Patent SVG-AM-RCA, but with severe diffuse atherosclerosis (cannot rule out in-stent restenosis) with possible thrombus present.
+Angioseal closure of the left femoral arteriotomy site  Brief Hospital Course: 81M with CAD (s/p PCI in [**2129**], CABG in [**2118**]), HTN, HLD, metastatic lung CA, and COPD (on home O2), with NSTEMI s/p cath found to have significant CAD.
+He was continued on medical management with aspirin, plavix, statin, and was started on a heparin gtt.
+He underwent cardiac cath on [**2137-4-11**] which revealed severe 3-vessel native coronary artery disease with several graft stenoses.
+He had four DES placed in the SVG-RCA.
+The procedure was complicated by a right groin hematoma and brief hypotension to systolic 70s that was felt to be a vasovagal response during closure of sheath.
+He initially was not started on a beta blocker due to his AV block.
+During hospitalization, he did receive one dose of metoprolol 12.5mg but this was discontinued on discharge.
+His lisinopril was held given his hypotension and worsening renal function.
+# SYSTOLIC CHF: ECHO with mild to moderate regional left ventricular systolic dysfunction with inferior and infero-lateral akiensis.
+He was diuresed periodically with IV lasix and discharged home on half dose of his home lasix due to worsening renal function.
+Lisinopril was held due to low BPs (90s to 110s systolic) and worsening renal function.
+# AFIB: It was clarified with the patient's PCP that he has a history of AFib only in the setting of previous hospitalizations.
+He had been started on coumadin at OSH due to concern for PE but this had been discontinued when CTA ruled out PE.
+Tamsulosin and home lasix were briefly held and restarted by discharge as BPs remained stable.
+# DYSLIPIDEMIA: Chol 144, TG 111, HDL 72, LDL 50.
+Continued atorvastatin 20mg daily.
+He was continued on home albuterol, advair, ipratropium.
+His primary oncologist was contact[**Name (NI) **] regarding pt's admission and agreed to hold chemotherapy until follow-up with oncologist.
+Transaminitis may be due to known liver metastases or medications or shock liver.
+He should discuss with his oncologist/PCP if he should remain on fluconazole on discharge.
+He was given gentle IV fluids and Cr was stable at 1.8 by time of discharge.
+His lasix dose was reduced to half of his home dose and lisinopril was held.
+B12 and folate were wnl.
+Plavix 75mg daily 2.
+Aspirin 81mg daily 3.
+Lasix 40mg daily 4.
+Atorvastatin 20mg daily 5.
+Nexium 40mg daily 6.
+Advair 250/50, 1 inh [**Hospital1 **] 7.
+Albuterol inh QID 8.
+Ipratropium inh TID 9.
+Finasteride 5mg daily 10.
+Tamsulosin 0.4mg daily 11.
+Enablex (Darifenacin) 7.5mg po daily 12.
+Levothyroxine 175mcg daily 13.
+Neurontin 100mg TID 14.
+Multivitamin 1 tablet daily 16.
+Selenium 200mcg daily 17.
+Vitamin B complex 1 tab daily 20.
+Vitamin B6 100mg daily 21.
+Vitamin C 500mg daily 22.
+Calcium carbonate 600mg [**Hospital1 **] + Vitamin D 1500mg [**Hospital1 **] 23.
+Vitamin D3 400units daily 24.
+Bacitracin ophth ointment 0.5 inches OS [**Hospital1 **] 25.
+Tobramycin 0.3% ophth solution OU TID 26.
+Compazine 10mg q8h prn 27.
+Dexamethasone 4mg [**Hospital1 **] the day before, of, and after chemo 29.
+Zolpidem 5mg QHS  Discharge Medications: 1. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0* 2. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0* 3. atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Nexium 40 mg Capsule, Delayed Release(E.C.)
+5. fluticasone-salmeterol 250-50 mcg/dose Disk with Device Sig: One (1) inhalation Inhalation [**Hospital1 **] (2 times a day).
+6. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: 1-2 Puffs Inhalation QID (4 times a day).
+7. ipratropium bromide 17 mcg/Actuation HFA Aerosol Inhaler Sig: Two (2) Puff Inhalation QID (4 times a day).
+8. levothyroxine 175 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+9. finasteride 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Enablex 7.5 mg Tablet Extended Release 24 hr Sig: One (1) Tablet Extended Release 24 hr PO once a day.
+11. folic acid 1 mg Tablet Sig: One (1) Tablet PO twice a day.
+12. furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+13. tamsulosin 0.4 mg Capsule, Ext Release 24 hr Sig: One (1) Capsule, Ext Release 24 hr PO once a day.
+14. ibandronate 150 mg Tablet Sig: One (1) Tablet PO once a month.
+15. multivitamin     Tablet Sig: One (1) Tablet PO once a day.
+16. selenium 200 mcg Tablet Sig: One (1) Tablet PO once a day.
+17. iron 160 mg (50 mg Iron) Tablet Extended Release Sig: One (1) Tablet Extended Release PO once a day.
+Vitamin B Complex     Capsule Sig: One (1) Capsule PO once a day.
+Vitamin B-6 100 mg Tablet Sig: One (1) Tablet PO once a day.
+Vitamin C 500 mg Tablet Sig: One (1) Tablet PO once a day.
+22. bacitracin 500 unit/g Ointment Ophthalmic 23. tobramycin sulfate 0.3 % Drops Sig: One (1) drop Ophthalmic three times a day.
+24. oxygen Oxygen via nasal cannula 3-5L   Discharge Disposition: Home With Service  Facility: [**Location (un) 1110**] VNA  Discharge Diagnosis: Coronary artery disease   Discharge Condition: Mental Status: Clear and coherent.
+You had 2 separate catheterizations and had several stents placed in your coronary arteries.
+It is very important that you continue to take the aspirin and plavix daily unless instructed otherwise by your cardiologist.
+In the meantime, your lasix was reduced to half your regular dose as lasix can also affect your kidneys.
+We made the following changes to your medications: -INCREASED aspirin from 81mg to 325mg daily -DECREASED furosemide (lasix) from 40mg to 20mg daily -STOP ambien at night because this medication can make you confused -Please discuss with your primary care doctor whether you should remain on Enablex and Neurontin -Please discuss with your primary care doctor about when to restart your lisinopril.
+This medication was held because of your low blood pressures and because of your worsening kidney function -Please talk to your cardiologist about the initiation of a beta blocker -Please speak with your oncologist about whether you should remain on fluconazole as your liver enzyme tests were elevated  Followup Instructions: The following appointments have been scheduled for you:  PCP [**Name Initial (PRE) **]: [**Last Name (LF) 766**], [**4-22**] at 9am With:[**Doctor Last Name **] [**Name Initial (MD) **]  [**Name8 (MD) **],MD Address: [**State **], STUITE 245, [**University/College **],[**Numeric Identifier 3471**] Phone: [**Telephone/Fax (1) 98031**]  Hematology/Oncology Appointment:  Thursday, [**4-25**] at 1:15pm With: [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 18365**],MD Location: [**Hospital **] CANCER CENTER Address: [**2137**], [**Location (un) **],[**Numeric Identifier 8934**] Phone: [**Telephone/Fax (1) 83767**]  Cardiology Appointment: Tuesday, [**5-21**] at 2pm With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 98032**], MD Location: HEART CENTER OF [**Hospital1 **] Address: [**Location (un) **],2ND FL, [**Location (un) **],[**Numeric Identifier 7398**] Phone: [**Telephone/Fax (1) 6256**]    Completed by:[**2137-4-17**

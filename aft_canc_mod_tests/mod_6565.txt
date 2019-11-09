@@ -1,0 +1,24 @@
+Admission Date:  [**2168-7-18**]              Discharge Date:   [**2168-7-22**]   Service: MEDICINE  Allergies: Penicillins  Attending:[**First Name3 (LF) 7333**] Chief Complaint: Bradyarrhythmia, transfer for evaluation of PPM  Major Surgical or Invasive Procedure: Pacemaker placement on [**2168-7-19**]: [**Company 1543**] Sensia   History of Present Illness: Mr. [**Known lastname **] is a 89 year old male with PMH significant for chronic lymphocytic leukemia, IDDM, CAD s/p CABG ([**2141**]) who is transferred from [**Hospital **] hospital for bradycardia.
+In the ED at [**Location (un) **], his VS T 98.3, HR 73, RR 20, BP 141/60, O2 96% RA.
+Labs were notable for trop 8.58, CK 618, CK-MB 28.3, hct 24.8, plt 80, Cr 1.6.
+ECG showed Wenckebach block with bradycardia.
+An echocardiogram was done that showed mild MR/TR, biatrial enlargement, EF 50%, dyssynergic septum with RV temp pacing.
+CARDIAC RISK FACTORS: +Diabetes, -Dyslipidemia, -Hypertension  2.
+OTHER PAST MEDICAL HISTORY: - Chronic lymphocytic leukemia, on procrit - DMII, insulin dependent - CAD, s/p CABG [**2141**] - BPH - Bl cataract surgery - SCC of the scalp - H/o bradycardia, PPM not recommended  Social History: Lives independently.
+PULSES: Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+ Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+  Pertinent Results: Pt with thyroid nodule this admission which needs f/u [**2168-7-18**] 09:42PM   PT-12.0 PTT-25.2 INR(PT)-1.0 [**2168-7-18**] 09:42PM   PLT SMR-LOW PLT COUNT-96* [**2168-7-18**] 09:42PM   HYPOCHROM-NORMAL ANISOCYT-OCCASIONAL POIKILOCY-1+ MACROCYT-2+ MICROCYT-NORMAL POLYCHROM-NORMAL OVALOCYT-1+ [**2168-7-18**] 09:42PM   NEUTS-25* BANDS-2 LYMPHS-73* MONOS-0 EOS-0 BASOS-0 ATYPS-0 METAS-0 MYELOS-0 [**2168-7-18**] 09:42PM   WBC-8.6 RBC-3.28* HGB-11.1* HCT-33.2* MCV-101* MCH-33.7* MCHC-33.3 RDW-17.3* [**2168-7-18**] 09:42PM   TSH-1.4 [**2168-7-18**] 09:42PM   CALCIUM-8.1* PHOSPHATE-2.9 MAGNESIUM-2.1 [**2168-7-18**] 09:42PM   CK-MB-4 cTropnT-0.34* [**2168-7-18**] 09:42PM   ALT(SGPT)-19 AST(SGOT)-30 LD(LDH)-241 CK(CPK)-288 ALK PHOS-83 TOT BILI-0.6 DIR BILI-0.2 INDIR BIL-0.4 [**2168-7-18**] 09:42PM   estGFR-Using this [**2168-7-18**] 09:42PM   GLUCOSE-311* UREA N-29* CREAT-1.3* SODIUM-138 POTASSIUM-4.1 CHLORIDE-108 TOTAL CO2-24 ANION GAP-10  Brief Hospital Course: 89 year old male with PMH significant for chronic lymphocytic leukemia, IDDM, CAD s/p CABG ([**2141**]) who is transferred from [**Hospital **] hospital for PPM for symptomatic bradycardia.
+His ECG from the OSH showed Wenckebach and CHB.
+His cardiac markers were elevated at OSH and at [**Hospital1 18**].
+His lipid panel is pending at this time.
+His urine was notable for large blood and there was a concern for rhabdo.
+On arrival to [**Hospital1 18**] patient's Cr was 1.4, which remained stable.
+His counts were monitored and procrit was held.
+Platelets decreased to 64 on day of discharge, Hct stable at 30.
+Given the patient will not be able to f/u with his home Hematologist (Dr. [**First Name (STitle) 12795**] in [**Location (un) **] VT) an appt was made wth Dr. [**Last Name (STitle) **] at [**Hospital1 **] [**Location (un) 620**] for further monitoring.
+Please check labs on Monday [**7-25**].
+# Thyroid nodule: An incidental thyroid nodule was seen on CT scan, which needs to be followed as an outpatient.
+Outpatient Lab Work Please check CBC and chem-7 on Monday [**2074-7-23**].
+You blood count and platelet counts are still quite low, you should consider seeing a hematologist/oncologist for this within the next month.
+You can return to your doctor [**First Name (Titles) **] [**Last Name (Titles) 3914**] or you can go to a doctor close to Newbridge: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], MD [**Hospital1 **] Hospital - [**Location (un) 620**] [**Street Address(2) 3001**] [**Location (un) 620**], [**Numeric Identifier 3002**] Phone: [**Telephone/Fax (1) 38619**] Fax: [**Telephone/Fax (1) 85425**] Date/time: Wednesday [**7-27**] at 1:30pm .
+Weigh yourself every morning, call Dr. [**Last Name (STitle) **] if weight goes up more than 3 lbs.
+Followup Instructions: Provider: [**Name10 (NameIs) 676**] CLINIC Phone:[**Telephone/Fax (1) 62**] Date/Time:[**2168-7-26**] 4:00pm [**Hospital Ward Name 23**] Clinical Center, [**Location (un) 436**].
+[**Location (un) 620**], [**Numeric Identifier 3002**] Phone: [**Telephone/Fax (1) 38619**] Fax: [**Telephone/Fax (1) 85425**] Date/time: Wednesday [**7-27**] at 1:30pm

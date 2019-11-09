@@ -1,0 +1,34 @@
+Mr. [**Known lastname **] describes feeling fatigued with loss of appetite and nausea for the last three days.
+Because of his persistent nausea and anorexia he was given a prescription for reglan.
+He took his regular regimen of 17 units of lantus and 10 units of humalog and then called EMS.
+Patient reports that because he was not eating he did not take any insulin from the morning of [**12-9**] until just prior to calling EMS (nearly 48 hours).
+He denies history of endoscopy but reports that he is scheduled for outpatient endoscopy.
+Patient received 4L NS, protonix 80 mg IV once, insulin regular IV 10 units once followed by insulin gtt titrated up to 8 units/hr.
+Of note, patient reportedly has low blood pressor at baseline and reports that he requires medications to maintain an elevated blood pressure.
+Denies chest pain, chest pressure, palpitations.
+He uses a walker for ambulation.
+Recommend aggressive PPI therapy [**Hospital1 **], carafate 1 gram QID.
+Discharge [**2131-12-14**] 07:45AM BLOOD WBC-4.8 RBC-3.51* Hgb-9.1* Hct-27.3* MCV-78* MCH-25.8* MCHC-33.2 RDW-13.8 Plt Ct-270 [**2131-12-17**] 07:40AM BLOOD Glucose-139* UreaN-5* Creat-0.9 Na-140 K-4.0 Cl-107 HCO3-28 AnGap-9 [**2131-12-17**] 07:40AM BLOOD Phos-2.9 Mg-1.7 [**2131-12-11**] 10:25AM BLOOD cTropnT-0.07* [**2131-12-11**] 03:50PM BLOOD CK-MB-5 cTropnT-0.07* [**2131-12-12**] 04:46AM BLOOD CK-MB-4 cTropnT-0.06* [**2131-12-11**] 03:50PM BLOOD CK(CPK)-59 [**2131-12-12**] 04:46AM BLOOD CK(CPK)-43* [**2131-12-11**] 10:25AM BLOOD ALT-26 AST-9 AlkPhos-69 TotBili-0.4  [**2131-12-11**] 12:10PM URINE Color-Straw Appear-Hazy Sp [**Last Name (un) **]-1.021 [**2131-12-11**] 12:10PM URINE Blood-NEG Nitrite-NEG Protein-25 Glucose-1000 Ketone-150 Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG [**2131-12-11**] 12:10PM URINE RBC-0-2 WBC-[**4-13**] Bacteri-FEW Yeast-MANY Epi-0-2  Micro: [**2131-12-15**] STOOL FECAL CULTURE-PENDING; CAMPYLOBACTER CULTURE-Neg; CLOSTRIDIUM DIFFICILE TOXIN A & B TEST-Neg [**2131-12-11**] MRSA SCREEN-POSITIVE [**2131-12-11**] URINE CULTURE-YEAST [**2131-12-11**] Blood Culture, Routine-neg [**2131-12-11**] Blood Culture, Routine-neg  Brief Hospital Course: Mr. [**Known lastname **] is a 37 year old man with DM1 who presented in DKA with coffee ground emesis.
+DKA: Initially presented with serum glucose >700, +urine ketones and AG of 36.
+He was not taking his insulin prior to admission due to nausea and anorexia.
+He was placed on an insulin drip and IVF.
+He received IV PPI [**Hospital1 **] and was started on ferrous sulfate TID.
+He was continued on his home simvastatin for his hyperlipidemia.
+He was continued on fludricortisone on discharge.
+Peripheral neuropathy: Chronic and at baseline, restarted home gabapentin.
+He was referred for home physical therapy and home health aid on discharge.
+Psych: He was continued on his home buproprion and paroxetine without complications.
+Urinary retention:  Patient developed urinary retention after the discontinuation of his foley catheter.
+CODE: full code  Medications on Admission: Lantus 17 u qam, 22 u qpm Humalog sliding scale with meals Simvastatin 40 mg qhs Paroxetine 40 mg daily Gabapentin 600 mg po tid Ferrous sulfate 325 mg po tid Budeprion XL 150 mg daily Fludrocortisone 0.2 mg daily Pantoprazole 40 mg po bid Reglan 10 mg prior to meals (prescribed [**2131-12-10**])  Discharge Medications: 1. simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. paroxetine HCl 40 mg Tablet Sig: One (1) Tablet PO once a day.
+3. gabapentin 600 mg Tablet Sig: One (1) Tablet PO three times a day.
+4. ferrous sulfate 325 mg (65 mg Iron) Tablet Sig: One (1) Tablet PO three times a day for 1 months.
+Budeprion XL 150 mg Tablet Sustained Release 24 hr Sig: One (1) Tablet Sustained Release 24 hr PO once a day.
+6. fludrocortisone 0.1 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+7. pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+8. metoclopramide 10 mg Tablet Sig: One (1) Tablet PO QIDACHS (4 times a day (before meals and at bedtime)).
+9. sucralfate 1 gram Tablet Sig: One (1) Tablet PO QID (4 times a day).
+Disp:*120 Tablet(s)* Refills:*2* 10. insulin glargine 100 unit/mL Solution Sig: Thirteen (13) units Subcutaneous Breakfast and Bedtime.
+Humalog 100 unit/mL Solution Sig: as per sliding scale provided.
+Discharge Disposition: Home with Service  Discharge Diagnosis: # Diabetic ketoacidosis # Stage IV erosive esophagitis c/b Upper GI bleed # Urinary retention (s/p foley catheter)  Secondary Diarrhea Orthostatic hypotension Peripheral neuropathy   Discharge Condition: Mental Status: Clear and coherent.
+Followup Instructions: Name: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], PA (works with [**Last Name (LF) **], [**First Name8 (NamePattern2) 41875**] [**Last Name (NamePattern1) **] MD) Location: [**Hospital1 641**] Address: [**Location (un) **], [**Location (un) **],[**Numeric Identifier 718**] Phone: [**Telephone/Fax (1) 2261**] Appt:  [**12-24**] at 10:30am  Name: [**Last Name (LF) 76274**], [**First Name7 (NamePattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **] Location: [**Hospital1 641**] Address: [**Location (un) **], [**Location (un) **],[**Numeric Identifier 718**] Phone: [**Telephone/Fax (1) 2296**] Appt:  We are working on a follow up appt for you with Dr [**Last Name (STitle) 76274**] within the week.

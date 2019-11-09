@@ -1,0 +1,29 @@
+Admission Date:  [**2112-2-15**]              Discharge Date:   [**2112-2-17**]  Date of Birth:  [**2031-4-30**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 7333**] Chief Complaint: general malaise, chest heaviness  Major Surgical or Invasive Procedure: s/p Metronic Sensis pacemaker in left cephalic vein.
+The patient represented to the ED early in the AM of [**2-15**] with Atrial fibrillation with RVR (120s).
+In the ED, she presented with an inital heart rate in the 40s, with her systolic blood pressure in the 80s.
+PULSES: Right: Carotid 2+ Femoral 2+ DP 2+ PT 2+ Left: Carotid 2+ Femoral 2+ DP 2+ PT 2+   Pertinent Results: ADMISSION LABS: [**2112-2-15**] 12:28AM BLOOD WBC-5.6 RBC-4.35 Hgb-13.6 Hct-40.6 MCV-93 MCH-31.3 MCHC-33.6 RDW-13.4 Plt Ct-292 [**2112-2-15**] 12:28AM BLOOD Neuts-63.3 Lymphs-30.6 Monos-4.4 Eos-1.5 Baso-0.2 [**2112-2-15**] 10:45AM BLOOD PT-26.1* PTT-39.7* INR(PT)-2.5* [**2112-2-15**] 12:28AM BLOOD Glucose-114* UreaN-17 Creat-1.2* Na-130* K-7.7* Cl-96 HCO3-23 AnGap-19 [**2112-2-15**] 10:45AM BLOOD ALT-31 AST-36 CK(CPK)-75 AlkPhos-67 TotBili-0.4 [**2112-2-15**] 12:28AM BLOOD CK(CPK)-191 [**2112-2-15**] 12:28AM BLOOD CK-MB-2 [**2112-2-15**] 12:28AM BLOOD cTropnT-<0.01 [**2112-2-15**] 10:45AM BLOOD CK-MB-NotDone [**2112-2-15**] 10:45AM BLOOD cTropnT-<0.01 [**2112-2-15**] 10:45AM BLOOD Calcium-8.3* Phos-3.9 Mg-2.2 ----------------- DISCHARGE LABS: [**2112-2-17**] 05:55AM BLOOD WBC-7.7 RBC-3.10* Hgb-9.8* Hct-28.4* MCV-92 MCH-31.5 MCHC-34.3 RDW-13.3 Plt Ct-222 [**2112-2-17**] 05:55AM BLOOD PT-22.7* PTT-33.9 INR(PT)-2.1* [**2112-2-17**] 05:55AM BLOOD Glucose-96 UreaN-18 Creat-1.0 Na-135 K-4.4 Cl-101 HCO3-26 AnGap-12 [**2112-2-16**] 04:03AM BLOOD Albumin-3.5 Calcium-7.6* Phos-4.1 Mg-1.9 ----------------- STUDIES: .
+This EKG indicates that sinus rate is lower than junctional escape rate, and AVN conduction is normal.
+TTE [**2-15**]: The left atrium is normal in size.
+Compared with the prior study (images reviewed) of [**2111-8-7**], the bradycardia is more profound and the estimated PA systolic pressure is higher.
+CXR [**2-15**]: FINDINGS: AP portable view of the chest obtained.
+There is no definite change from prior study with grossly clear lungs bilaterally.
+CXR [**2-17**]: IMPRESSION: Recommend repeat chest radiograph in four hours to determine stability of new left deep sulcus which raises possibility of pneumothorax post ICD placement.
+Presentation ECG was consistent with sick sinus syndrome with normal AV conduction (see admission EKG description in the Results section).
+On admission to CCU, temp wire was placed after 2u FFP was given for INR of 2.6.
+Her symptoms of dizziness, malaise and nausea resolved after the temp pacing wire was put in.
+The next morning, her INR was 2.0, so she underwent pacemaker placement on [**2-16**].
+On admission to CCU, she was volume overloaded on exam with signs of L sided heart failure from aggressive fluid resusitation.
+Echo on [**2112-2-15**] showed preserved systolic function.
+She was satting well on room air, and her lung exam was clear on discharge.
+Basline Cr ~1.0.
+# PROPHYLAXIS:  Patient's INR was therapeutic.
+# COMM:  Daughter, [**First Name8 (NamePattern2) 8513**] [**Last Name (NamePattern1) **], at [**Telephone/Fax (1) 14094**] (home), [**Telephone/Fax (1) 14095**] (office).
+Calcium 500 + D 500 mg(1,250mg) -400 unit Tablet, Chewable Sig: One (1) Tablet, Chewable PO twice a day.
+Outpatient Lab Work check INR on [**2-19**] and call results to Dr. [**First Name (STitle) **] at [**Telephone/Fax (1) 8236**] 11.
+You will see Dr. [**First Name (STitle) **] tomorrow and need to check your INR on Friday [**2-19**].
+Get your INR checked on Friday [**2-19**].
+Followup Instructions: Cardiology: Provider:  [**Name10 (NameIs) 676**] CLINIC Phone:[**Telephone/Fax (1) 62**] Date/Time:[**2112-2-23**] 9:30 Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1008**], M.D.
+Phone:[**Telephone/Fax (1) 62**] Date/Time:[**2112-3-1**] 3:00 .
+Phone: [**Telephone/Fax (1) 8236**] Date/Time: Thursday [**2-18**] at 10:15am.
+Please get your INR checked on Friday [**2-19**].
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 6970**], MD Phone:[**Telephone/Fax (1) 463**] Date/Time:[**2112-9-28**] 9:00

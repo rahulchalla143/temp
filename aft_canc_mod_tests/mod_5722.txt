@@ -1,0 +1,33 @@
+She had a CXR showing effusion and potentially recurrent pneumonia.
+Initial lactate was 4.
+Initial BPs in 130s, but then had hyoptension after intubation and did not rebound back to normal.
+BP lows were 70s systolic, so was started on levophed.
+DPs 2+.
+Skin: W/D/I Neuro: somewhat poor historian, said things that werent clearly sensical from time to time   Pertinent Results: ADMISSION LABS CBC: WBC-14.2* RBC-5.02 Hgb-15.0 Hct-46.2 MCV-92 MCH-29.9 MCHC-32.5 RDW-12.8 Plt Ct-553* Diff: Neuts-84.3* Lymphs-9.2* Monos-5.5 Eos-0.5 Baso-0.3 Coags: PT-14.2* PTT-20.8* INR(PT)-1.2* Chemistries: Glucose-197* UreaN-45* Creat-1.7* Na-137 K-8.5* Cl-96 HCO3-28 AnGap-22* ALT-19 AST-46* LD(LDH)-495* CK(CPK)-407* AlkPhos-96 TotBili-0.3 Calcium-10.1 Phos-7.2* Mg-2.9* Cardiac Enzymes: cTropnT-0.39* proBNP-6293* Lactate-4.0*  MICRO DATA [**2192-4-1**] 12:51AM URINE Color-Yellow Appear-Hazy Sp [**Last Name (un) **]-1.014 [**2192-4-1**] 12:51AM URINE Blood-SM  Nitrite-NEG Protein-30 Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG [**2192-4-1**] 12:51AM URINE RBC-8* WBC-18* Bacteri-NONE Yeast-FEW Epi-<1 [**2192-4-1**] 12:51AM URINE CastGr-11* CastHy-6* [**2192-3-22**] 01:41PM PLEURAL WBC-1500* RBC-[**Numeric Identifier 16351**]* Polys-4* Lymphs-28* Monos-6* Meso-47* Other-15* [**2192-3-22**] 01:41PM PLEURAL TotProt-4.2 Glucose-102 LD(LDH)-599 [**2192-3-21**] BLOOD CULTURE x 2 Negative [**2192-3-22**] PLEURAL FLUID   GRAM STAIN (Final [**2192-3-22**]):       NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.
+FLUID CULTURE (Final [**2192-3-25**]):    NO GROWTH.
+ANAEROBIC CULTURE (Final [**2192-3-28**]):    NO GROWTH.
+[**2192-3-22**] 4:56 pm SPUTUM     Site: ENDOTRACHEAL       Source: Endotracheal.
+GRAM STAIN (Final [**2192-3-22**]):       >25 PMNs and <10 epithelial cells/100X field.
+RESPIRATORY CULTURE (Final [**2192-3-24**]):    NO GROWTH.
+[**2192-3-31**] Blood cultures x 2 - PENDING [**2192-3-31**] 11:06 am STOOL     CONSISTENCY: WATERY      Source: Stool.
+CLOSTRIDIUM DIFFICILE TOXIN A & B TEST (Final [**2192-4-1**]):       Feces negative for C.difficile toxin A & B by EIA.
+URINE CULTURE (Pending):  CXR [**2192-3-21**] Large bilateral pleural effusions, left greater than right with underlying atelectasis and central vascular congestion.
+PATHOLOGY [**2192-3-22**] Pleural fluid, cell block: Tumor cells are positive for B72.3, [**Last Name (un) **]-31, WT-1, and PAX-2, but negative for calretinin, TTF-1, mammoglobin, and GCDFP.
+CTA [**2192-3-23**] 1.
+CXR [**2192-3-31**] The left-sided pigtail catheter has been removed.
+CXR [**2192-4-1**] The right basilar pigtail catheter has been removed.
+CT CHEST [**2192-4-1**] (pending)   Brief Hospital Course: Ms. [**Known lastname 90426**] is a 74y/o lady who presented with acute respiratory failure due to malignant effusion and was found to have serous ovarian adenocarcinoma.
+Echocardiogram showed a hypokinetic right ventricle suggestive of PE, so a CT angiogram of her chest was performed which showed no evidence of PE.
+Initial CXR demonstrated large bilateral pleural effusions with evidence of pneumonia, and she was started on vancomycin and cefepime for healthcare associated pneumonia.
+Outside records obtained from [**Hospital 1281**] hospital indicate that a pleural fluid analysis revealed malignant cells, most likely papillary serous adenocarcinoma, most consistent with origin from Muellerian duct.
+Her pleural effusions were tapped and pleural fluid analysis were consistent with exudate and cytology was preliminarily positive for malignancy.
+She was aggressively fluid resusciated with IVF with a goal CVP of [**9-14**] mmHg and initially supported with norepinephrine infusion to maintain a MAP of > 65.
+Echocardiogram demonstrated normal ejection fraction with no focal wall motion abnormalities.
+Upon transfer to the Oncology floor, her O2 sat dropped from 100%RA to the 60's.
+with pigtail catheter placement and pleurodesis was performed on [**3-28**] and [**3-30**]; the catheters were removed [**3-30**] and [**3-31**] with sats in the low 90s on 1L.
+her BNP is 2467. .
+She had a negative workup for C. diff and blood cultures remained negative.
+Baseline Cr 0.8 and her Cr was 1.7 on admission.
+Her azotemia, creatinine and urine output gradually improved with aggressive fluid resuscitation.
+She was pre-hydrated for her CTA and further CT contrast was avoided.
+CT abdomen/pelvis without contrast at [**Hospital 1281**] Hospital on [**2192-3-8**] showed ascites but no definite disease; however, this was a very limited study secondary to lack of contrast.

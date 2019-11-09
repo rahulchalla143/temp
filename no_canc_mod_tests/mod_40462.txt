@@ -1,0 +1,26 @@
+After arriving in the emergency department patient was triggered for hypotension to 50's and presyncope.
+Initial VS were 99.9 88 113/63 20 100%.
+Physical Exam: ADMISSION PHYSICAL EXAM: T 97.4, HR 62, 136/81, 14, 97%RA GENERAL: NAD.
+NECK: Supple with JVP of 12 cm above the sternal angle.
+PULSES:  Right: Carotid 2+ DP 2+ PT 2+  Left: Carotid 2+ DP 2+ PT 2+ .
+DISCHARGE PHYSICAL EXAM: T 98.0, HR 58, 106/58, 13, 98%RA GENERAL: NAD.
+NECK: Supple with JVP of 3 cm above sternal angle.
+[**2178-11-11**] 11:10PM BLOOD WBC-12.7* RBC-4.00* Hgb-11.6*# Hct-34.5* MCV-86 MCH-29.1 MCHC-33.7 RDW-12.4 Plt Ct-327# [**2178-11-11**] 11:10PM BLOOD Neuts-88.6* Lymphs-7.3* Monos-3.4 Eos-0.5 Baso-0.2 [**2178-11-11**] 11:10PM BLOOD Plt Ct-327# [**2178-11-11**] 11:10PM BLOOD Glucose-119* UreaN-17 Creat-0.8 Na-137 K-4.3 Cl-104 HCO3-26 AnGap-11 [**2178-11-11**] 11:10PM BLOOD LD(LDH)-184 [**2178-11-11**] 11:10PM BLOOD TotProt-5.6* [**2178-11-11**] 11:10PM BLOOD TSH-2.3 [**2178-11-11**] 11:10PM BLOOD [**Doctor First Name **]-NEGATIVE .
+[**2178-11-11**] 11:10PM BLOOD WBC-12.7* RBC-4.00* Hgb-11.6*# Hct-34.5* MCV-86 MCH-29.1 MCHC-33.7 RDW-12.4 Plt Ct-327# [**2178-11-11**] 11:10PM BLOOD TSH-2.3 [**2178-11-11**] 11:10PM BLOOD [**Doctor First Name **]-NEGATIVE [**2178-11-12**] 09:00AM OTHER BODY FLUID WBC-3000* RBC-[**Numeric Identifier 90697**]* Polys-53* Lymphs-36* Monos-9* Mesothe-1* Other-1* [**2178-11-12**] 09:00AM OTHER BODY FLUID TotProt-5.1 Glucose-97 LD(LDH)-181 Amylase-39 Albumin-3.1 .
+[**2178-11-14**] 07:51AM BLOOD WBC-7.5 RBC-4.74 Hgb-13.6* Hct-40.4 MCV-85 MCH-28.8 MCHC-33.8 RDW-12.0 Plt Ct-324 [**2178-11-14**] 07:51AM BLOOD Plt Ct-324 [**2178-11-14**] 07:51AM BLOOD Glucose-85 UreaN-10 Creat-0.7 Na-140 K-4.3 Cl-106 HCO3-29 AnGap-9 [**2178-11-14**] 07:51AM BLOOD Calcium-8.9 Phos-3.5 Mg-2.0 .
+MRSA Screen [**11-12**]: Negative Pericardial Fluid Culture [**11-12**]: No Growth Pericardial Fluid Culture in BCx Bottles [**11-12**]: GRAM POSITIVE COCCI IN CLUSTERS.
+ECHO [**11-12**]: IMPRESSION: Large, circumferential pericardial effusion with brief right atrial diastolic collapse consistent with possible early pericardial tamponade.
+CXR Portable [**11-12**]: IMPRESSION: Interval development of severe cardiomegaly, findings concerning for a new pericardial effusion.
+ECHO [**11-14**]: Compared with the prior study (images reviewed) of [**2178-11-12**], the findings are similar.
+There is no echo evidence of tamponade.
+His pericardial fluid cultures were negative but 1 set that was injected into a blood culture bottle grew GPC's in pairs and chains although he did not have any clinical signs or symptoms of infection.
+His [**Doctor First Name **] and TSH were wnl's and prelim review of his pericardial fluid cytology was negative for malignant or atypical cells.
+His drain was removed and he had another ECHO the following day which showed a small amount of residual fluid but no significant re-accumulation.
+#The fluid from his pericardial space was sent for cytology which was pending at the time of discharge, this should be followed-up to ensure there are no aytpical cells in need of further workup.
+You were admitted to [**Hospital1 18**] for evaluation and treatment of shortness of breath, fatigue, and passing out in your bathroom.
+You underwent a pericardiocentesis with drainage of the fluid and your symptoms improved dramatically.
+One of the cultures from the fluid taken from around your heart grew bacteria but given the fact that you are feeling well, have no fevers, and no other laboratory evidence of infection we feel this is likely contamination of the culture (your other culture was negative).
+Based on the echocardiogram we performed prior to sending you home the fluid had not accumulated after removing the drain.
+The following changes have been made to your medications: -START Ibuprofen 200mg tabs 3 tabs by mouth as needed for pain (Please do not take more than 2400 grams daily, you can take less if you feel it is enough for your pain) -START Colchicine 0.6mg by mouth twice daily (You will take this medication for at least 6 months to prevent the fluid around your heart from coming back) .
+Department: [**Hospital3 249**] When: THURSDAY [**2178-11-26**] at 9:40 AM With: Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] Address: [**Location (un) 830**] [**Location (un) 86**], [**Numeric Identifier 718**] Location: [**Company 191**] POST [**Hospital 894**] CLINIC [**Telephone/Fax (1) 250**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 895**] South [**Hospital **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage This appointment is with a hospital-based doctor as part of your transition from the hospital back to your primary care provider.
+Department: [**Hospital3 249**] When: FRIDAY [**2179-1-22**] at 1:45 PM With: [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 15413**] (MED) [**Telephone/Fax (1) 250**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 895**] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage Dr. [**Last Name (STitle) **] is your new physician in [**Name9 (PRE) 191**] and Dr. [**Last Name (STitle) **] works closely with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], [**First Name3 (LF) **] both will be involved in your care.

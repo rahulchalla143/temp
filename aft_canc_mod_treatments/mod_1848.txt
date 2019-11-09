@@ -1,0 +1,16 @@
+Admission Date:  [**2120-7-29**]              Discharge Date:   [**2120-8-15**]  Date of Birth:  [**2063-7-30**]             Sex:   F  Service: MEDICINE  Allergies: Iodine  Attending:[**First Name3 (LF) 8810**] Chief Complaint: abdominal pain  Major Surgical or Invasive Procedure: expired  History of Present Illness: 56 year old female with history of cholangiocarcinoma status post trisegmentectomy with Roux-en-Y hepaticojejunostomy and cholecystectomy and recent admission for C. dif (treated) now tranferred to [**Hospital1 18**] from [**Hospital3 **] due to severe abdominal pain.
+NG tube was placed.
+She had two cycles of treatment on protocol with irinotecan plus gemcitabine.
+On [**2113-10-18**], she underwent a trisegmentectomy with a roux-en-y hepaticojejunostomy and cholecystectomy by Dr. [**Last Name (STitle) **].
+She had a complete recovery from this resection and remained well until [**12-13**] when she had a local recurrence.
+She developed progressive disease and has consulted a number of physicians around the country.
+She saw Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 31798**] in [**State 531**] who advised a chemotherapy program known as "G Flip + Avastin".
+She was extensively treated and recently her chemotherapy has been modified and decreased because of hematologic toxicity.
+Physical Exam: T 96.4, BP 102/69, P 132, RR 18, 96% RA Gen - Ill-appearing, cachectic, sleepy, breathing comfortably, jaundiced HEENT - MMM, no oral lesions.
+Liver non-palpable, no fluid wave.
+The [**Month/Year (2) 499**] is distended with fluid, admixed with fecal material.
+Heterogeneous echotexture and focal areas of decreased echogenicity.
+The patient was started on a morphine and ativan drip to help with the pain and to provide the patient comfort, and she expired on [**2120-8-15**] at the hospital.
+The patient's hyperbilirubinemia worsened after her shock liver due to her sepsis, but then started to improve slowly.
+#)Recurrent cholangiocarcinoma: The patient was undergoing chemotherapy in NY with oncologist, regimen DTIC, methotrexate and oxaliplatin, last dose received [**7-25**].
+Medications on Admission: Furosemide 20mg po daily Actigall 300mg po bid Tagamet 400mg po bid Prilosec 20mg po bid Lovenox 30mg inj daily Torsemide 20mg po daily Spironolactone 50mg po daily Neulast/Aranesp with chemo Iron 325 tablet daily morphine sustained release 30mg [**Hospital1 **] MSIR 15mg q6h for pain Recently finished course Cipro/Flagyl   Discharge Medications: expired  Discharge Disposition: Expired  Discharge Diagnosis: Cholangiocarcinoma- expired  Discharge Condition: expired  Discharge Instructions: expired  Followup Instructions: expired

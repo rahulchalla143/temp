@@ -1,0 +1,23 @@
+His vitals this AM were BP 144/80 Temp 99.8 HR 90 and O2 sat 92% on 2L.
+He had an ABG of 7.33/86/47/47 on NRB.
+He also had right LENI which was negative.
+His repeat ABG was 7.31/88/103/47 on 40% FiO2.
+Family History: Non-contributory  Physical Exam: VS: Tc 97.4 HR 89 BP 149/66 RR 12 O2 sat 89% on BIPAP 12/5 Fi02 0.3 Gen: well appearing, elderly male, bipap in place, opening eyes and conversing HEENT: PERRL, anicteric sclera, though some chemosis, bipap in place Neck: elevated JVP, but bipap strap compressing vein Pulm: crackles at left lung base, good air movement, no wheezes or rhonchi Cardio: RRR, nl S1 S2, no m/r/g Abd: soft, mildly distended, NT, + BS Ext: 2+ pitting edema, 1+ DP pulses b/l Neuro: A&O x 1 (to person,states year [**2172**] and he is at [**First Name4 (NamePattern1) 3008**] [**Last Name (NamePattern1) **]), moves all extremities and follows commands PERRL, EOMI   Pertinent Results: [**2179-3-16**] 07:00PM   WBC-3.1*# RBC-4.15* HGB-10.2* HCT-30.8* MCV-74* MCH-24.6* MCHC-33.2 RDW-16.4* [**2179-3-16**] 07:00PM   NEUTS-71.3* LYMPHS-18.9 MONOS-9.2 EOS-0.4 BASOS-0.2 [**2179-3-16**] 07:00PM   GLUCOSE-195* UREA N-45* CREAT-2.2* SODIUM-139 POTASSIUM-6.2* CHLORIDE-95* TOTAL CO2-39* ANION GAP-11 [**2179-3-16**] 08:30PM   LACTATE-1.3 K+-5.7* [**2179-3-16**] 08:39PM   TYPE-ART PO2-47* PCO2-86* PH-7.33* TOTAL CO2-47* BASE XS-14 [**2179-3-16**] 10:07PM   TYPE-ART PO2-103 PCO2-88* PH-7.31* TOTAL CO2-46* BASE XS-13 .
+Clinical correlation recommended, and if indicated, ultrasound could be helpful for further evaluation (Of note, pt with normal TSH, T4) .
+Brief Hospital Course: # Hypercarbic respiratory failure: Patient required extra 3 days in the hospital because his oxygen saturations dropped to 60% on ambulation with physical therapy on Friday [**2179-3-19**].
+He was diuresed further with improvement in his saturations and advair was increased to [**Hospital1 **].
+Respiratory compromise appears to be from progression of COPD, complicated by PNA and moderate CHF with BNP of 1300s.
+He was ordered for a outpatient sleep study to make sure his BiPAP settings are appropriate.
+Goal is to maintain resting sats ~92% and titrate exertional O2 supplement for SaO2 >88%.
+Pt had afib/a flutter during recent admission in [**2-/2179**] during MICU course and was started on diltiazem with good response on serial EKGs.
+Echo last month showed EF>70%, mild LVOT obtruction increased with valsalva, During current hospital course, pt has had intermittent episodes of tachycardia to 150s noted to be afib on telemetry.
+Should keep pt on coumadin 7.5mg daily, and stop heparin drip (currently at 700 units/hr, target PTT 50-60) once INR therapeutic ([**3-13**]).
+Blood cx with no growth to date since [**3-16**].
+PTH level elevated secondary to low calcium level.
+Hct stable from last admit at 30.8 and iron and ferritin levels were nl.
+# Communication: Daughter ([**Doctor First Name **]; HCP): [**Telephone/Fax (1) 15425**] (c); [**Telephone/Fax (1) 15426**](h) Daughter ([**Location (un) **]): [**Telephone/Fax (1) 15427**](c) Daughter ([**Doctor First Name 1679**]; MD): [**Telephone/Fax (1) 15428**] .
+Heparin (Porcine) in D5W 100 unit/mL Parenteral Solution Sig: Seven Hundred (700) units/hr Intravenous ASDIR (AS DIRECTED) for 3 days: Titrate drip to keep PTT between 50-60 until INR [**3-13**] for 24 hours.
+3) Type 2 diabetes 4) Chronic renal insufficiency from diabetic nephropathy 5) Gout 6) Anemia 7) Hypertension 8) Anxiety.
+Discharge Condition: Stable   Discharge Instructions: Weigh yourself every morning, [**Name8 (MD) 233**] MD if weight > 3 lbs.
+Followup Instructions: Provider: [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 15429**], DPM Phone:[**Telephone/Fax (1) 456**] Date/Time:[**2179-4-5**] 2:50  Please followup with your PCP [**Last Name (NamePattern4) **] 1 week for further medical management, call number below to make an appointment: PCP: [**Name10 (NameIs) 635**],[**Name11 (NameIs) 634**] [**Telephone/Fax (1) 6696**]  Provider: [**Name10 (NameIs) 1421**] FUNCTION LAB Phone:[**Telephone/Fax (1) 9570**] Date/Time:[**2179-4-12**] 2:30  Dr. [**Last Name (STitle) **] at [**Hospital1 8**] Pulmonary on [**4-12**] at 3:40pm on [**Hospital Ward Name 600**], [**Location (un) 336**].
+You have a outpatient sleep study ordered and will be contact[**Name (NI) **] by the [**Hospital1 **] Sleep Center for scheduling.

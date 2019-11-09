@@ -1,0 +1,71 @@
+Admission Date:  [**2131-5-23**]              Discharge Date:   [**2131-6-28**]  Date of Birth:  [**2064-7-16**]             Sex:   M  Service: MEDICINE  Allergies: Levofloxacin / Cefazolin / Coreg / Dopamine  Attending:[**First Name3 (LF) 1881**] Chief Complaint: foot infection, sepsis  Major Surgical or Invasive Procedure: L toe ulcer debridement thoracentesis  History of Present Illness: Mr. [**Known firstname **] is a 66 y/o male patient of Dr. [**First Name8 (NamePattern2) 449**] [**Last Name (NamePattern1) **] with diabetes c/b peripheral neuropathy, ulcers, and amputation, a history of a pro-coaguable disorder requiring chronic prophylaxis with enoxaparin and a neuropathic heel ulcer presents with a week of fever, malaise, nausea/vomiting, and change in mental status.
+In the emergency room he was given ceftazidime and vancomycin.
+A code sepsis was called and a central line was placed.
+Dopamine was started for pressure support.
+The patient was sent to the ICU for further management.
+He was changed from dopamine to neosynephrine and an EP consult was obtained.
+Vascular surgery came to evaluate the patient and incised his toe wound.
+Past Medical History: DMII CAD, ischemic cardiomyopathy EF 20% Afib s/p ablation, pacemaker SMA thrombosis with small bowel and large bowel infarcts status   post small bowel and large bowel resection and resulting short    gut syndrome Bacterial peritonitis PVD s/p R BKA Hypercoagulable state, DVTs Peripheral neuropathy Plantar fasciitis CVA PV Nonhealing anal fissure   Social History: Mr. [**Known lastname 21212**] is a retired systems programmer for a management consulting firm.
+Right toe is ulcerated and erythematous with streaking cellulitis 2/3 up shin to knee.
+Pertinent Results: [**2131-5-23**] 08:33AM BLOOD WBC-18.6* RBC-5.43# Hgb-14.6# Hct-44.5# MCV-82# MCH-26.9*# MCHC-32.8 RDW-20.2* Plt Ct-287 [**2131-5-23**] 08:33AM BLOOD Neuts-91.7* Bands-0 Lymphs-5.7* Monos-1.8* Eos-0.6 Baso-0.2 [**2131-5-23**] 02:34PM BLOOD WBC-24.1* RBC-5.68 Hgb-15.5 Hct-47.1 MCV-83 MCH-27.4 MCHC-33.0 RDW-20.3* Plt Ct-350 [**2131-5-24**] 04:13AM BLOOD WBC-20.1* RBC-5.05 Hgb-14.0 Hct-41.2 MCV-82 MCH-27.7 MCHC-33.9 RDW-20.6* Plt Ct-384 [**2131-5-25**] 04:36AM BLOOD WBC-14.6* RBC-4.76 Hgb-12.6* Hct-39.0* MCV-82 MCH-26.6* MCHC-32.4 RDW-20.5* Plt Ct-335 [**2131-5-24**] 04:13AM BLOOD PT-21.8* PTT-39.1* INR(PT)-2.1* [**2131-5-25**] 04:36AM BLOOD PT-18.2* PTT-78.8* INR(PT)-1.7* [**2131-5-25**] 11:15AM BLOOD PT-17.6* PTT-44.1* INR(PT)-1.6* [**2131-5-23**] 08:40AM BLOOD Glucose-222* UreaN-60* Creat-1.8* Na-133 K-4.5 Cl-103 HCO3-15* AnGap-20 [**2131-5-23**] 02:34PM BLOOD Glucose-149* UreaN-60* Creat-1.9* Na-133 K-4.3 Cl-101 HCO3-17* AnGap-19 [**2131-5-25**] 04:36AM BLOOD Glucose-118* UreaN-47* Creat-1.7* Na-136 K-4.4 Cl-111* HCO3-15* AnGap-14 [**2131-5-23**] 08:40AM BLOOD ALT-25 AST-18 LD(LDH)-423* CK(CPK)-116 AlkPhos-84 TotBili-0.9 [**2131-5-24**] 04:13AM BLOOD ALT-22 AST-13 LD(LDH)-335* AlkPhos-76 TotBili-0.6 [**2131-5-23**] 08:40AM BLOOD CK-MB-6 cTropnT-0.07* proBNP-[**Numeric Identifier 23738**]* [**2131-5-23**] 08:40AM BLOOD Lipase-27 [**2131-5-23**] 08:40AM BLOOD Calcium-8.1* Phos-3.4 Mg-1.6 [**2131-5-23**] 02:34PM BLOOD Calcium-8.1* Phos-3.8 Mg-1.8 [**2131-5-24**] 04:13AM BLOOD Albumin-3.4 Calcium-7.9* Phos-5.3* Mg-2.9* [**2131-5-23**] 08:40AM BLOOD Cortsol-29.9* [**2131-5-23**] 08:40AM BLOOD CRP-85.4* [**2131-5-24**] 03:58PM BLOOD Vanco-19.2 [**2131-5-23**] 02:34PM BLOOD Digoxin-0.8* [**2131-5-23**] 03:02PM BLOOD Type-ART Temp-35.7 Rates-/14 O2 Flow-6 pO2-84* pCO2-35 pH-7.26* calTCO2-16* Base XS--10 Intubat-NOT INTUBA Comment-NASAL [**Last Name (un) 154**] [**2131-5-24**] 04:29PM BLOOD Lactate-1.4 [**2131-5-23**] 03:02PM BLOOD Lactate-0.9 [**2131-5-23**] 08:49AM BLOOD Lactate-1.6  FOOT 2 VIEWS LEFT  [**2131-5-23**] 8:51 AM FINDINGS: Bedside AP and lateral views (the former, degraded by motion- blurring) are compared with the study dated [**2130-11-28**].
+CHEST (PORTABLE AP)  [**2131-5-23**] 8:51 AM SINGLE PORTABLE SEMI-UPRIGHT VIEW OF THE CHEST: A dual-lead pacing device remains in unchanged position.
+IMPRESSION: Asymmetric right-sided largely parahilar airspace disease and re- accumulated large pleural effusion, as on previous episodes.
+Right IJ catheter tip is in the upper to mid SVC.
+He was admitted to the medical intensive care unit, and was started on a neosynephrine drip which was weaned [**5-24**] and he was started on vancomycin and zosyn.
+Vascular surgery and podiatry evaluated him and debrided the ulcers.
+His blood grew proteus mirabilis (pan-sensitive) and streptococcus (penicillin-sensitive but clindamycin and erythromycin-resistant).
+Zosyn was changed to unasyn, but the patient clinically worsened and with concern for an undetected element of the likely polymicrobial sepsis which started his course, unasyn was discontinued and zosyn restarted.
+Gram-positive cocci and more Proteus grew out of a wound culture as vascular surgery continued to follow, drain abscesses and debride tissue.
+The GPCs ultimately proved to be pan-sensitive MSSA, and once this sensitivity was available, vancomycin was discontinued.
+Eventually, zosyn was discontinued and unasyn was restarted, with no ill effects.
+Flagyl was added for C. diff protection although he did not grow out C. diff--see below.
+There was some concern, particularly from the infectious disease service (which had been consulted, and which had followed the patient in the past for recurrent C. diff) that he would not be able to endure a six-week course of antibiotics because of his short gut, past history of recurrent C. diff, and that an operation might be superior.
+In consultation with the surgeons and the primary care physician (who also served as the hospital attending), and after the primary care physician had [**Name9 (PRE) 103662**] discussion with the patient of risks and benefits of non-operative management, amputation was deferred in favor of medical management.
+The total course of antibiotics will be six weeks, with day 1 of effective antibiosis = [**5-29**].
+Flagyl should be continued through this time, and then for seven days after (until [**7-17**]).
+In detail, starting dates were: Zosyn and vanco: [**5-23**] (on admission) Zosyn replaced with unasyn: [**5-26**] Flagyl: [**5-26**] (pt has had recurrent C diff as above) Unasyn stopped and replaced again with Zosyn: [**5-27**] Vancomycin stopped [**6-3**] Zosyn stopped and replaced with Unasyn: [**6-3**] Ending dates for Unasyn and Flagyl: [**7-10**] and [**7-17**] respectively, as above.
+# Chronic systolic heart failure and cardiomyopathy: In the MICU, the patient had an increased O2 requirement, 93% on 6L NC O2, with large R sided pleural effusion.
+He has a lasix requirement at home and ultimately as sepsis and hypotension resolved, he was started back on lasix, first prn, and then 40 [**Hospital1 **] (his home dose); on [**6-9**] this was changed to 60 [**Hospital1 **].
+At home prior to this admission he has been on digoxin and lisinopril.
+In light of his continuing renal insufficiency these were not restarted though the lisinopril in particular should be given consideration for restarting at the earliest opportunity.
+Pain control was adquate with Oxycontin, Oxycodone, and Dilauidid for breakthrough pain.
+# Ventricular Tachycardia: Early in the admission, the patient had one episode of asymptomatic VT that developed in the setting of dopamine and low Mg, and in the setting of the immediate post-sepsis period.
+He does not have an ICD in place but given that he is being treated for infection, EP felt it would be better to keep him on telemetry but defer ICD placement if indicated.
+On [**6-25**] mg of po HCTZ was added to his diuretic regimen, and was given [**Hospital1 **], 30 minutes prior to furosemide administration.
+# Diabetes: Maintained patient on insulin sliding scale; his NPH was restarted and was titrated up as the patient's PO intake increased and his scale requirements  increased.
+# Hypercoagulability: The patient has had disastrous sequelae of clotting in the past including ischemic bowel and resulting short gut, and stroke; thus anticoagulation was scrupulously maintained.
+The patient was kept on a heparin sliding scale for much of the admission in order to preserve operative options while also continuing anticoagulation which is provided by lovenox as an outpatient.
+On [**6-11**], with anticipation of discharge and no further operations planned, [**Hospital1 **] Lovenox was started.
+Factor Xa level was drawn in the pm of [**6-12**] after the third dose of lovenox was given, and found to be 0.43 U/mL.
+Given the very real stressors of his hospitalization here, including the ongoing possibility that he might lose his foot and his mobility, it was assumed that some portion of his mood was reactive,  management was not changed.
+As his medical situation stabilizes and improves, if his mood does not improve simultaneously, he may benefit from revisiting his treatment for depression.
+# PPX: The patient was given heparin for thrombosis prophylaxis which was converted to LMWH as above, as well as a PPI per home regimen.
+Medications on Admission: Hydrocodone/Acetaminophen 5/235 Captopril 25 Furosemide 20 Fosamax 70 Digoxin 250mcg Oxycontin 10 [**Hospital1 **] Neurontin 800 Folic Acid 1mg Ranitidine 150 tab Toprol Xl 25 Daily Loperamide 2mg Q6PRN Lovenox 60mg Daily Citalopram 40 daily   Discharge Medications: 1.
+All questions regarding outpatient or rehabilitation antibiotics should be directed to the infectious disease R.Ns.
+Amiodarone 200 mg Tablet Sig: Two (2) Tablet PO twice a day for 7 days: To be given [**6-11**] through [**6-18**]; then followed by 200 mg [**Hospital1 **] for one week thereafter; and then 200 mg daily after that.
+Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+Citalopram 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Gabapentin 300 mg Capsule Sig: Two (2) Capsule PO TID (3 times a day).
+Prochlorperazine Maleate 10 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for nausea.
+Oxycodone 20 mg Tablet Sustained Release 12 hr Sig: One (1) Tablet Sustained Release 12 hr PO Q12H (every 12 hours).
+Aspirin 81 mg Tablet, Delayed Release (E.C.)
+Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Acetaminophen 500 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed for pain.
+Polyvinyl Alcohol-Povidone 1.4-0.6 % Dropperette Sig: [**12-27**] Drops Ophthalmic PRN (as needed).
+Psyllium 1.7 g Wafer Sig: [**12-27**] Wafers PO BID (2 times a day).
+Furosemide 20 mg Tablet Sig: Three (3) Tablet PO DAILY (Daily).
+Enoxaparin 60 mg/0.6 mL Syringe Sig: One (1) injection Subcutaneous [**Hospital1 **] (2 times a day).
+Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO TID (3 times a day).
+Heparin, Porcine (PF) 10 unit/mL Syringe Sig: Two (2) ML Intravenous PRN (as needed) as needed for line flush: Flush with 10mL Normal Saline followed by Heparin as above daily and PRN per lumen.
+Hydromorphone 2 mg/mL Solution Sig: 0.5-2 mg Injection Q3H (every 3 hours) as needed: for breakthrough pain.
+Oxycodone 5 mg Tablet Sig: 1-2 Tablets PO Q3H (every 3 hours) as needed for pain.
+Metronidazole 500 mg Tablet Sig: One (1) Tablet PO Q 8H (Every 8 Hours): until [**7-17**].
+Ampicillin-Sulbactam 3 gram Recon Soln Sig: Three (3) grams Injection Q8H (every 8 hours) for 14 days: Give through [**7-10**].
+Insulin NPH Human Recomb 100 unit/mL Suspension Sig: One (1) injection Subcutaneous qAM: gradually increasing dose; likely to need further increases as PO intake increases; currently at 20 mg in AM.
+Humalog 100 unit/mL Solution Sig: One (1) injection Subcutaneous qACHS: before breakfast, lunch and dinner, and at bedtime (4 x /day).
+25. oxygen 2L continuous via nasal cannula pulse dose for portability.
+26. semi-electric bed with rails, equipped for patient's height and weight 27.
+PICC line care per NEHT protocol, saline and heparin flushes   Discharge Disposition: Home With Service  Facility: [**Location (un) 86**] VNA  Discharge Diagnosis: PRIMARY: OSTEOMYELITIS CONGESTIVE HEART FAILURE   Discharge Condition: Stable.
+Adhere to 2 gm sodium diet Fluid Restriction: 1500 mL fluid per day  Followup Instructions: Provider: [**Last Name (NamePattern4) **].
+[**Telephone/Fax (1) 250**]  Call to schedule appointment                                [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1882**] MD, [**MD Number(3) 1883**]  Completed by:[**2131-7-27**

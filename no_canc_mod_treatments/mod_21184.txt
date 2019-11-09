@@ -1,0 +1,34 @@
+Admission Date:  [**2147-5-6**]              Discharge Date:   [**2147-5-11**]   Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 1828**] Chief Complaint: low HCT  Major Surgical or Invasive Procedure: EGD with epinephrine and clipping, [**2147-5-8**]   History of Present Illness: Pt is a 85 yo female with a Hx significant for A-fib on aspirin 325BID, who presented to OSH with a HCT of 16 and report per son that patient had experienced increased fatigue and unsteady gait yesterday.
+Social History:  lives with husband at assisted [**First Name9 (NamePattern2) 62680**] [**Location (un) **], walks with walker, no tobacco or alcohol abuse  Physical Exam: T 99.4 BP: 108/33 HR 77 SPO2 100% 3L General: pale appearing female in NAD, AOx1, flat affect HEENT: pale conjunctiva, dry MM, no dentition Neck: supple, no LAD Lungs: CTA bilaterally Heart: RRR, no m/r/g Abdomen: obese, soft, epigastric tenderness Extremities: cool, without clubbing or edema   Pertinent Results: [**2147-5-6**] 03:45PM   WBC-17.5*# RBC-1.92*# HGB-5.9*# HCT-18.5*# MCV-96 MCH-30.7 MCHC-31.9 RDW-14.7 [**2147-5-6**] 03:45PM   NEUTS-82.0* LYMPHS-14.7* MONOS-2.8 EOS-0.3 BASOS-0.3 [**2147-5-6**] 08:30PM   GLUCOSE-113* UREA N-73* CREAT-1.2* SODIUM-140 POTASSIUM-4.3 CHLORIDE-111* TOTAL CO2-20* ANION GAP-13 .
+EGD ([**2147-5-8**]) Esophagus: Lumen: A complex, sliding, medium paraesophageal hernia was seen.
+4 cc.Epinephrine 1/[**Numeric Identifier 961**] hemostasis with success.
+[**Hospital1 **]-CAP Electrocautery was applied for hemostasis successfully.
+4 cc.Epinephrine 1/[**Numeric Identifier 961**] hemostasis with success.
+The pt's ASA, BB, ACEi and Lasix were held.
+She remained HD stable with SBP in 110s and HR in 70s after initial 2L NS bolus.
+She was transiently on a PPI drip and was transfused a total of 4U with HCT coming up to 27 from 18.
+GI did not feel that the pt was still actively bleeding, thus no urgent scope was performed in the MICU.
+She was switched to PPI IV bid and started on clears which she tolerated well.
+The pt was transferred to the medicine floor for further management.
+This was injected with epinephrine and clipped; GI indicated that a risk of rebleeding remained.
+The pt was treated with a Protonix gtt for >48 hours and then transitioned to PO therapy [**Hospital1 **].
+The pt's antihypertensives were held in this setting and her blood pressure was well-controlled with only diltiazem.
+The pt's home aspirin was held.
+# A-fib/SVT: At the time of admission, the pt was taking ASA 325 [**Hospital1 **] for her prior history of PAF; this was stopped at the time of admission.
+All of these episodes were asymptomatic for her and she remained HD stable.
+Although the pt's HR responded well to re-initiation of her beta blocker, this did not suppress her SVT, and thus her beta blocker was transitioned to PO diltiazem.
+A chest x-ray after several days without Lasix did not demonstrate any evidence of failure.
+As above, the pt's ACEi, beta blocker and lasix were held at admission; ***these may need to be restarted in the future.
+Her ASA was held throughout her hospital stay as described above.
+When her HR was elevated, the pt was noted to have fairly diffuse ST depressions which resolved with better HR control, thus continued aspirin therapy, likely at 325 mg daily, would be ideal.
+Medications on Admission: Aspirin 325 [**Hospital1 **] Lasix 20 mg daily Metoprolol 25 [**Hospital1 **] Lisinopril 2.5 Citalopram 20mg QHS  Discharge Medications: 1.
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+Diltiazem HCl 30 mg Tablet Sig: One (1) Tablet PO QID (4 times a day).
+Citalopram 20 mg Tablet Sig: One (1) Tablet PO at bedtime.
+We have treated you with blood transfusions, applied clips to the blood vessels in your ulcer and are giving you medications to help prevent a recurrence.
+-It is important that you continue to take your medications as directed.
+We made the following changes to your medications during this admission: --> Aspirin was held because of bleeding.
+--> Your home metoprolol was changed to diltiazem.
+--> Your Lasix was stopped because your blood pressure was normal.
+--> Your lisinopril was stopped because your blood pressure was normal.
+Also seek medical attention if you develop any new fever, chills, trouble breathing, chest pain, nausea, vomiting or unusual stools.

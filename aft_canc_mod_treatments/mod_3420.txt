@@ -1,0 +1,40 @@
+Admission Date:  [**2147-12-27**]              Discharge Date:   [**2148-1-6**]  Date of Birth:  [**2095-9-11**]             Sex:   F  Service: MEDICINE  Allergies: Iodine; Iodine Containing / Optiray 350  Attending:[**First Name3 (LF) 8115**] Chief Complaint: Vomiting  Major Surgical or Invasive Procedure: DC Cardioversion   History of Present Illness: [**First Name3 (LF) 3390**]: [**Name10 (NameIs) **],[**Name11 (NameIs) **] is primary ONC  HPI: 52 F in ER with HA for 2 weeks, nausea x 1 week, and intractable vomiting x 2 days.
+ROS: -Constitutional: []WNL []Weight loss [x]Fatigue/Malaise []Fever []Chills/Rigors []Nightweats []Anorexia -Cardiac: [x]WNL []Chest pain []Palpitations []LE edema []Orthopnea/PND []DOE -Respiratory: []WNL []SOB []Pleuritic pain []Hemoptysis [x]Cough  -Gastrointestinal: []WNL [x]Nausea [x]Vomiting []Abdominal pain []Abdominal Swelling [x]Diarrhea []Constipation []Hematemesis []Hematochezia []Melena -Musculoskeletal: [x]WNL []Myalgias []Arthralgias []Back pain -Neurological: [ ]WNL []Numbness of extremities []Weakness of extremities []Parasthesias []Dizziness/Lightheaded []Vertigo []Confusion [x]Headache   Past Medical History: 1.
+Also had a right sided pleurex catheter place for malignant effusion which has since been removed.
+also found to have bilateral PE's despite lovenox and IVC filter and was discharged to rehab on [**4-30**].
+She was then admitted [**Date range (1) 72403**] for cisplatin, dacarbazine and vinblastine regimen.
+Lower extremity DVT initially on coumadin but recieved IVC filter with recurrent hemoptysis and subsequent PE despite lovenox and filter 5.
+Possible enlargement of the pituitary gland currently measuring 10 x 10 mm and previously measuring 7 x 10 mm on prior MR [**First Name (Titles) 27533**] [**2146-9-30**].
+She was treated prn with Reglan, Compazine, Zofran however these did not help with appetite.
+Pt noted to have SVT on [**2147-12-27**] and showed A. flutter with RVR after receiving Adenosine x 2.
+Given volume depletion, her home doses of PO metoprolol and diltiazem had been held, and were restarted in setting of RVR.
+Patient was treated with diltiazem drip, and amiodarone IV bolus and drip, with no improvement in rate.
+Pt was continued on PO amiodarone to maintain sinus rhythm.
+CTA was not done given contrast allergy, and patient was already on therapeutic Lovenox.
+It remained possible that tachycardia was due to spread of underlying malignancy as evidenced on chest CT.  After she was loaded on amiodarone, she was continued on a once daily regimen of PO amiodarone.
+Endocrine was consulted, and recommended treating empirically for adrenal insufficiency.
+The patient was placed on oral prednisone with plans to taper after discharge.
+She was also started on levothyroxine.
+She is currently on Ipilimumab as part of the compassionate trial for Monotherapy in Subjects with Unresectable Stage III or IV Melanoma.
+# Sinusitis: Pt was started on Ceftriaxone for tx of acute Sinusitis that was thought to be related to her admission HA.
+# 02 requirement/wheezing: Patient had wheezing on exam and new 02 requirement noted after atrial flutter with RVR, likely due to pulmonary edema and worsened with IVF hydration in an attempt to control tachycardia.
+Pt was previously on Coumadin for her A. fib however this appears to have been discontinued after her episodes of hemoptysis.
+In the past pt has been noted to have high Alk Phos, pt is s/p CCY, abd not tender on exam.
+Medications on Admission: DILTIAZEM HCL -  (Prescribed by Other Provider) - 90 mg Tablet - take 1 (one) tablet four times a day ENOXAPARIN [LOVENOX] - 100 mg/mL Syringe - SC twice a day HYDROCODONE-ACETAMINOPHEN [VICODIN] -  (Prescribed by Other Provider: [**Name Initial (NameIs) 3390**]) - 5 mg-500 mg Tablet - 1 Tablet(s) by mouth 4-6 hours as needed for pain METOCLOPRAMIDE [REGLAN] -  (Prescribed by Other Provider) - 10 mg Tablet - 1 Tablet(s) by mouth two times a day METOPROLOL TARTRATE - 50 mg Tablet - 1 Tablet(s) by mouth twice a day MIRTAZAPINE [REMERON] -  (Prescribed by Other Provider) - 30 mg Tablet - 1 Tablet(s) by mouth once a day PANTOPRAZOLE [PROTONIX] -  (On Hold ) - 40 mg Tablet, Delayed Release (E.C.)
+Prednisone 10 mg Tablet Sig: As directed Tablet PO once a day: Take 4 tabs daily starting on [**1-7**], then decrease to 3 tabs daily starting [**2148-1-9**].
+Mirtazapine 30 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+K-Phos Original 500 mg Tablet, Soluble Sig: Two (2) Tablet, Soluble PO twice a day.
+Reglan 10 mg Tablet Sig: One (1) Tablet PO twice a day as needed for nausea.
+Vicodin 5-500 mg Tablet Sig: One (1) Tablet PO every [**3-26**] hours as needed for pain.
+Levothyroxine 100 mcg Tablet Sig: One (1) Tablet PO once a day.
+Amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Enoxaparin 150 mg/mL Syringe Sig: One (1) 150 mg injection Subcutaneous Q12HRS ().
+Discharge Disposition: Home With Service  Facility: [**Location (un) 86**] VNA  Discharge Diagnosis: Primary Hypopituitarism Metastatic Melanoma   Discharge Condition: Mental Status:Clear and coherent Level of Consciousness:Alert and interactive Activity Status:Ambulatory - Independent   Discharge Instructions: You were admitted for headache, nausea, and vomiting.
+As your heart rate was not controlled by medications alone, you underwent cardioversion in the ICU.
+Endocrine was consulted, and recommended a steroid taper, which you will continue at home.
+The steroids did cause your blood sugars levels to be high, so you will need to be on insulin for now.
+Lastly, you are completing a course of antibiotics for sinusitis.
+The following changes were made to your medications: - START amiodarone for heart rhythm abnormality - START prednisone for low steroid levels - START levothyroxine for low thyroid levels - STOP diltiazem - STOP metoprolol - CHANGE lovenox to 150 mg injected twice a day  Please take all medications as prescribed.
+The endocrine clinic will also be contacting you to make a follow-up appointment to see Dr. [**First Name8 (NamePattern2) **] [**Name (STitle) 8473**] for further management of your hypopituitarism.
+You should also follow-up with your [**Telephone/Fax (1) 3390**], [**Last Name (NamePattern4) **].

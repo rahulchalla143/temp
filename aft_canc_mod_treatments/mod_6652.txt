@@ -1,0 +1,89 @@
+Admission Date:  [**2173-1-30**]              Discharge Date:   [**2173-4-2**]  Date of Birth:  [**2112-10-19**]             Sex:   F  Service: MEDICINE  Allergies: Penicillins  Attending:[**Last Name (NamePattern1) 4377**] Chief Complaint: WBC of 185K  Major Surgical or Invasive Procedure: Bone marrow biopsy Endotracheal Intubation PICC line placement and removal PEG tube placement   History of Present Illness: Ms. [**Known lastname **] is a 60yo F w/ a PMH of hypothyroidism, hypertension, fibromyalgia and hyperlipidemia who presented to an OSH today for evaluation of a month of night sweats, worsening back pain, frequent and easy bruising, and fatigue.
+She was reportedly given cryoprecipitate and antibiotics (but there is no documentation of this) and was then transferred to [**Hospital1 18**] for further evaluation.
+Her transaminases were elevated, her uric acid was 7.8, LDH 897, INR 1.4, K 3.2, Cr 1.0 and fibrinogen 197.
+She usually takes tylenol for this but her last dose of tylenol was this AM.
+2+ DTR at [**Name2 (NI) 15219**] bilaterally.
+Right internal jugular catheter tip is in the SVC with no pneumothorax or pleural effusion.
+Ill-defined bibasilar reticular opacities are new and of uncertain etiology, for which, if clinically indicated, further evaluation with CT for further characterization could be performed.
+Right IJ line tip is in the SVC.
+Brief Hospital Course: Initial BMT floor course: After admission to the BMT floor, pt was started on treatment with cytarabine.
+She received one round of leukopheresis on [**1-31**] and one on [**2-1**].
+She was 6L positive and on [**2-1**], she again had a desaturation to 87% on 2L NC and was febrile to 101.1.
+She was diuresed with lasix with some response, and was also started on aztreonam.
+She remained persistently febrile to 103.8 and vancomycin was started as well.
+She was started on 10mg IV decadron.
+Potential etiologies of her respiratory failure considered were pulmonary edema in the setting of fluid overload, pulmonary hemorrhage, TRALI, leukostasis, or pneumonia.
+ICU course: Initially placed on BIPAP 2 hours on, 1 hour off for 2 days and then was weaned off to 3LO2 NC.
+She was continued on vanc/aztreonam and levoflox was added for atypical coverage.
+She also developed acute renal failure and therefore her cytarabine and hydrea were held.
+She has been off BIPAP for >36hours and was transferred to the BMT floor for further management.
+She was received 3 more doses of ARA-c and 3 days of idarubicin and continued on ATRA to day #11.
+Steroids were weaned, creatinine return to near baselin levels, and O2 requirement resolved.
+On [**2-9**] patient developed necrotic oral lesions that were swabbed and treatment dose of acyclovir was initiated.
+On [**2-11**], oral swab showed evidence of HSV-like cytopathic effect and acyclovir was changed to IV.
+[**Hospital Unit Name 153**] course: #) Respiratory Failure:  Pt was transferred to [**Hospital Unit Name 153**] with hemopytsis and worsening respiratory distress, intubated on [**2173-2-15**] & bronchoscopy was performed on [**2-15**] & [**2-16**].
+Pt was treated with empiric Abx while neutropenic & febrile with Vanc/Aztreonam/Fluconazole & Acyclovir with plan to continue abx until [**3-7**] to complete 7 day course post resolution of neutropenia.
+Pt was weaned from the vent with aggressive diuresis & was extubated on [**2-24**].
+Acyclovir was switched to prophylactic dose after pt had received 14 days of treatment dose and is no longer neutrapenic.
+Pt also completed 5/5 days of levofloxacin for atypical coverage.
+Fluconazole was switched to Caspofungin on [**2-22**] due to positive glucan, will need to f/u on repeat fungal studies.
+Currently, pt is maintaining sats with 2L NC but has not been able to take significant po, started TPN on [**3-1**].
+?Pt was noted during & s/p extubation, pt was noted to have a persistent respiratory alkalosis due to hyperventilation.
+Pt was continued on viscous lidocaine, magic mouthwash, ativan, morphine for pain/anxiety.
+Cardiology was consulted and pt was started on afterload reduction with nitrates & lasix diuresis.
+Per cards, pt was started on coreg, valsartan and isordil.
+However, after extubation BP has been difficult to control due to inability to take po meds, currently on IV Labetalol, Hydralazine, Lasix & started Clonidine patch on [**3-2**].
+#) APML: Day 25 s/p induction with 7+3 and Atra.
+Pt was intermittently febrile & neutropenic throughout ICU course on broad spectrum ABx including Vanc, Aztreonam, Acyclovir, Caspofungin & completed a 5 day course of Levo for atypical coverage.
+#)  HTN: BP was well controlled while intubated on Carvedilol, Valsartan, Sotalol & IV lasix diuresis.
+However, pt has been unable to take po & pressures became persistently elevated since extubation requiring max dose IV meds including Hydralazine, Labetalol, Lasix & on [**3-2**], pt was started on a Clonidine patch.
+Continue current regimen & anticipate >24hrs before onset of action for Clonidine patch.
+#) HSV:  Pt had hard palate swabs positive for HSV, Acyclovir was increased to treatment dose and pt completed a 14day course.
+Pt still unable to take significant po due to mucositis, Acyclovir was decreased to ppx dose on [**2-28**] and pt was continued on viscous lidocaine, Magic Mouthwash, Morphine & Ativan prn.
+D/w ID who recommended continuing ppx dose Acyclovir, monitor for interval worsening, and consider reswabbing HSV DFA is no improvement.
+# APML (15-17) s/p cytarbine, idarubicin followed by ATRA, intra-thecal ara-c on [**3-5**] - Had LP and per hemepath there were no definite blasts in CSF from [**3-5**]; did have myeloid precursors but likely contamination from peripheral blood - pt was continued on ATRA, along with Bactrim for PCP prophylaxis [**Name Initial (PRE) **] leukocytosis initially which was thought to be [**1-16**] ATRA maturation of cells and recovery of marrow which was consistent with normalization after a few days.
+- continued to have early cells in peripheral blood including bands, myelos, promyelos; somewhat worrisome and another incentive to cont therapy soon especially considering the fact that the cure rate for patients with this disease is about 70% and the normal treatment for this disease is 3 rounds of anthracyclines + ATRA --> therefore risks and benefits were discussed with patient regarding further anthracyclines and it was decided to continue with mitoxantrine for a second round on [**3-15**] given that there is often an acute non-cumulative dose related cardiac toxicity in patients that receive anthracyclines.
+Prior to therapy cards were consulted who agreed pt had not received an amount of anthracycline that would put her at risk for a cumulative effect and could not say definitively that the first event was due to idarubacin although it was the most likely cause.
+Prophylaxis with Dexrazoxane 500mg IV given 30 minutes prior to each dose of mitoxantrone was used for prevention of cardiac toxicity.
+Her counts reached an appropriate nadir without complication with intermittent transfusions for low platelets and hematocrits and subsequently recovered.
+She continued to received prophylactic acyclovir, fluconazole, and Bactrim.
+She received a repeat bone marrow biopsy on day +16 s/p mitoxantrine.
+Pt had global hypokinesis and was on diuretic therapy when I came on the service with metoprolol.
+The BB was continued and titrated to better HR control ( was on metoprolol 37.5mg po bid by the time I signed off).
+At the time of euvolemia she still had significant dependant edema ([**12-16**]+) but given euvolemic we held further diuresis and allowed pt to equilibrate and eventually autodiurese (as EF has recovered).
+Prophylaxis with Dexrazoxane 500mg IV given 30 minutes prior to each dose of mitoxantrone was used for prevention of cardiac toxicity for the second round of anthracyclines.
+The PICC was removed and she was begun on Lovenox for anticoagulation.
+As her platelets decreased below 70, her Lovenox was held and then restarted after they increased again.
+She was continued on Lovenox on discharge for another 2 weeks.
+# Aspiration pneumonia - completed 10 days of flagyl and levofloxacin today on [**3-13**] and remained afebrile thorugh entire course and afterwards .
+# Profound Dysphagia, weakness - failed swallow eval and then had video swallow demonstarting pt may take nectar pre-thickened fluids but given that pt would not be able to take enough PO a PEG was placed by GI and TFs started.
+She was initially started on Reglan with improvement in her residuals.
+A re-evaluation by speech and swallow showed that she was able to take thin liquids and a soft diet.
+Her tube feeds were stopped approximately 1 week prior to discharge.
+In discussion with GI, they felt her PEG tract was not mature enough for removal at the time of discharge.
+She will follow up with Dr. [**Last Name (STitle) 6880**] on [**4-13**] for removal in the GI suite but his office may contact her with an earlier appointment.
+# HTN - metoprolol as above .
+# Hypothyrmoidism - Continued levothyroxine, home dose 112mcg po daily - TSH elevated but in setting of illness difficult to interpret; may need to increase dose .
+# Code: FULL  Medications on Admission: Excedrin prn Amitryptyline 20mg PO QHS Levothyroxine 112mcg PO QD ranitidine 150mg PO BID Klor-con 8mEq PO QD Lisinopril 20mg/HCTZ 25mg PO QD Lipitor 20mg PO QD Metoprol ER 25mg PO QD Tramdol 100mg PO TID prn   Discharge Medications: 1.
+Lidocaine HCl 2 % Solution Sig: Ten (10) ML Mucous membrane TID (3 times a day) as needed.
+Tretinoin (Chemotherapy) 10 mg Capsule Sig: Four (4) Capsule PO DAILY (Daily).
+Prilosec 20 mg Capsule, Delayed Release(E.C.)
+Levothyroxine 112 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Toprol XL 100 mg Tablet Sustained Release 24 hr Sig: One (1) Tablet Sustained Release 24 hr PO once a day.
+Hydrocortisone Acetate 1 % Ointment Sig: One (1) Appl Rectal [**Hospital1 **] (2 times a day) as needed for hemorrhoidal pain.
+Acyclovir 200 mg Capsule Sig: Two (2) Capsule PO Q8H (every 8 hours).
+Fluconazole 200 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours).
+Enoxaparin 60 mg/0.6 mL Syringe Sig: One (1)  Subcutaneous Q12H (every 12 hours) for 14 days.
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+Simethicone 80 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO QID (4 times a day) as needed.
+Trimethoprim-Sulfamethoxazole 80-400 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Morphine 15 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours) as needed.
+Amitriptyline 10 mg Tablet Sig: Two (2) Tablet PO at bedtime.
+Enoxaparin 60 mg/0.6 mL Syringe Sig: One (1)  Subcutaneous twice a day for 4 days.
+Compazine 5 mg Tablet Sig: 1-2 Tablets PO every six (6) hours as needed for nausea.
+Discharge Diagnosis: Acute Promyelocytic Leukemia ICU polyneuropathy HSV Mucositis Resolved acute systolic heart failure Febrile Neutropenia Disseminated Intravascular Coagulation Capillary Leak syndrome Left upper extremity DVT Hypothyroidism Hypertension Fibromyalgia   Discharge Condition: All vital signs stable, afebrile, ambulatory   Discharge Instructions: You were admitted for treatment of your leukemia called APML.
+You still have some weakness associated with your long hospital stay for which you will receive physical therapy at home.
+You will also continue to take a blood thinner called Lovenox by injection to treat a blood clot in your left arm.
+We have started many medications for treament of your cancer and it's associated conditions.
+Please take all your medications as prescribed and attend all of your follow up appointments.
+([**Telephone/Fax (1) 3936**]  You have an appointment to have your PEG tube removed by the GI doctors [**First Name (Titles) **] [**4-13**] at 10am, at the Gastroenterology Center on the [**Location (un) **] with Dr. [**Last Name (STitle) **].

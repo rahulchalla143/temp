@@ -1,0 +1,34 @@
+Admission Date:  [**2153-10-22**]              Discharge Date:   [**2153-11-3**]  Date of Birth:  [**2085-11-19**]             Sex:   M  Service: MEDICINE  Allergies: Aspirin  Attending:[**First Name3 (LF) 2932**] Chief Complaint: diarrhea  Major Surgical or Invasive Procedure: upper endoscopy colonoscopy   History of Present Illness: 67 year old male with PMH significant for HTN, hyperlipidemia, NIDDM, CRI (baseline 1.7-1.9), admitted to the MICU with concern for sepsis.
+He reports a history of several weeks of diarrhea ([**4-25**] BM/day), nausea, and vomiting, with associated decreased food and fluid intake.
+He denies fevers, chills, abdominal pain, hematemesis, hematochezia, melena, or BRBPR.
+All studies at that time were negative, with no findings on stool culture, KUB, or CT scan to explain symptoms.
+He received 4 Liters IV NS but had persistent hypotension as well as increased lactate to 3.6 and a Cr of 4.0, up from baseline of 1.7-1.9, and he was admitted to [**Hospital Unit Name 153**].
+Past Medical History: HTN Hyperlipidemia Type II diabetes DVT in [**2149**], on coumadin CRI - presumed [**12-21**] NIDDM/HTN nephropathy PUD GERD hiatal hernia [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] DVT in [**11-21**] on coumadin s/p CCY s/p partial small bowel resection  Social History: he lives alone in [**Location (un) **]; smokes [**6-27**] cigars/day; denies EtOH use' denies illicit drug use; retired - used to work in the garmet industry and polaroid industry  Family History: Father and brother had coronary artery disease in their early 50s.
+Physical Exam: Physical exam on admission PE: vs 70 123/56 25 99%RA GEN: A/O NAD HEENT: NCAT, dry MM, EOMI, PERRL NECK: No Jvp CV: RRR s1, s2, no M/G/R RESP: CTA bl ABD: soft, NT/ND, ?epigastric fullness ext: no erythema, no edema NEURO: non-focal, sensation intact  Pertinent Results: Laboratory studies on admission [**2153-10-22**] PT-59.9 PTT-32.6 INR(PT)-7.4 PLT SMR-NORMAL PLT COUNT-337 NEUTS-67 BANDS-1 LYMPHS-9* MONOS-3 EOS-18* BASOS-1 ATYPS-0 METAS-1 WBC-30.5 (6.7 on discharge) HGB-9.9 HCT-30.9 (26 on discharge)MCV-72 RDW-18.9 ALBUMIN-3.3 CALCIUM-7.7 PHOSPHATE-4.2 LIPASE-14 ALT(SGPT)-9 AST(SGOT)-11 LD(LDH)-210 ALK PHOS-138* AMYLASE-25 TOT BILI-0.1 GLUCOSE-97 UREA N-57* CREAT-4.0 (1.8 on discharge) SODIUM-136 POTASSIUM-3.8 CHLORIDE-107 TOTAL CO2-15 U/A: RBC-0 WBC-0-2 BACTERIA-NONE YEAST-NONE EPI-0-2 BLOOD-TR NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK- LACTATE-3.6  [**10-22**] EKG: Baseline artifact.
+Brief Hospital Course: 67 year old man with h/o HTN, CRI admitted with persistent nausea, vomiting, hypotension, and acute on chronic renal failure.
+1) Chronic diarrhea: Infectious etiologies were thoroughly investigated.
+MRI enterogram was without evidence of inflammation of the ileum, and MRA of the abdomen showed only a small celiac dissection (see below).
+2) Anemia - iron deficiency and vitamin B12 deficiency: The patient's hematocrit gradually trended down to a nadir 21.5 (26 at discharge).
+As mentioned above, EGD and colonoscopy did not show source of bleeding, although iron studies were consistent with iron deficiency.
+He declined blood transfusion and was started on iron supplementation.
+Given low vitamin B12 level, the patient received 1 week of daily IM vitamin B12 injections; he should have one IM injection weekly for 1 month, followed by monthly injections as an outpatient.
+3) Acute on chronic renal failure: With hydration, the patient's creatinine gradually trended down from 4 on admission, indicating likely pre-renal etiology in the setting of diarrhea/poor PO intake.
+4) h/o DVT: The patient was restarted on Coumadin after his colonoscopy/upper endoscopy and was transitioned with a heparin drip until he was therapeutic at 2.3 on discharge.
+He was continued on a Humalog sliding scale  7) HTN: The patient's Lasix and Diovan were held throughout his hospital stay, given his acute renal failure.
+The vascular surgery service was consulted, who felt it was likely chronic and recommended outpatient follow-up with Dr. [**Last Name (STitle) **].
+Full Code  Medications on Admission: Valsartan 80 mg Tablet 1 tablet po Q day Calcium Carbonate 500 mg po QID prn Metoprolol Tartrate 50 mg Tablet 1 PO BID Simvastatin 10 mg @ tablets po daily Pantoprazole 40 mg Q day Calcitriol 0.25 mcg Capsule Sig: [**11-20**] Capsule PO DAILY Loperamide 2 mg Capsule Sig: One (1) Capsule PO QID Coumadin 4mg po daily for 4 days 2mg po daily for 3days (weekly)  Discharge Medications: 1.
+Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO QID (4 times a day).
+Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Simvastatin 10 mg Tablet Sig: One (1) Tablet PO once a day.
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+Calcitriol 0.25 mcg Capsule Sig: One (1) Capsule PO EVERY OTHER DAY (Every Other Day).
+Coumadin 2 mg Tablet Sig: Two (2) Tablet PO at bedtime.
+Ferrous Sulfate 325 (65) mg Tablet Sig: One (1) Tablet PO TID (3 times a day).
+Vitamin B-12 1,000 mcg/mL Solution Sig: One (1) ml Injection once a week for 4 weeks: then 1 ml qmonth.
+Lantus 100 unit/mL Solution Sig: Fourteen (14) units Subcutaneous at bedtime.
+Humalog 100 unit/mL Solution Sig: sliding scale Subcutaneous qAC and qhs: resume prior sliding scale.
+Discharge Disposition: Home  Discharge Diagnosis: Primary: chronic diarrhea Secondary: iron deficiency anemia, vitamin B12 deficiency, celiac artery dissection, history of DVT, eosinophilia, ARF, Type II diabetes, hypertension.
+2) Please take all medications as prescribed.
+You should have vitamin B12 shots every week at your PCPs office for a month, followed by once monthly.
+Lasix and valsartan have been held given your renal failure.
+Followup Instructions: 1) Primary care: Please call to schedule an appointment with your primary care physician (Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 172**] [**Telephone/Fax (1) 133**]) within 1 week following discharge - he may schedule you for an outpatient pill endoscopy to evaluate for other sources of gastrointestinal bleeding 2) Vascular surgery: Please call to schedule an appointment with Dr. [**Last Name (STitle) **] ([**Telephone/Fax (1) 1241**]) to be seein within 1-2 weeks following discharge 3) Renal Provider: [**First Name8 (NamePattern2) **] [**Name11 (NameIs) **], [**Name Initial (NameIs) **].D., PH.D.[**MD Number(3) 708**]:[**Telephone/Fax (1) 435**] Date/Time:[**2154-1-16**] 11:00                                [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] MD [**MD Number(2) 2937**]  Completed by:[**2153-11-5**

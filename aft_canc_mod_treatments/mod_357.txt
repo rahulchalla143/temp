@@ -1,0 +1,63 @@
+Admission Date:  [**2118-12-5**]              Discharge Date:   [**2118-12-15**]  Date of Birth:  [**2068-5-9**]             Sex:   M  Service: MEDICINE  Allergies: Heparin Agents  Attending:[**First Name3 (LF) 6378**] Chief Complaint: Shortness of breath and tachycardia.
+History of Present Illness: Mr. [**Known lastname 10321**] is a 50 year old male with grade 1 pilocytic astrocytoma s/p recent suboccipital carniotomy brought to [**Hospital1 18**] from [**Hospital3 **] center due to tachycardia and dyspnea noted by rehab radiology faculty.
+His post-cramotomy ([**11-18**]) course was complicated by repeat craniotomy ([**11-24**]) for re-bleeding and residual mass as well as by RLL pneumonia (completed 7 day course on Levofloxacin).
+He was discharged to rehab on dilantin ppx and DVT prophylaxis (heparin 5000 U SC TID, originally written on [**11-18**] on initial admit).
+Following d/c from [**Hospital1 18**] on [**11-30**] and prior to this admission, Mr. [**Known lastname 10321**] reports minimal ambulation and activity (without HA, nausea, vomiting, or palpitations) with severe R calf pain and dyspnea while getting physical therapy at rehab that morning.
+Bilateral DVT's were discovered on ultrasound ([**12-5**]) and Mr. [**Known lastname 10321**] was transfered to the [**Hospital1 18**] ED.
+He was evaluated by his neurosurgeon, Dr. [**Last Name (STitle) **], who recommended starting heparin at 1000 units/hour without bolus and repeating a head CT once the patient was therapeutic (PTT 50-70).
+He had an IVC filter placed by the vascular team through a right IJ approach.
+Physical exam was notable for reduced lung sounds at the bases bilaterally (L>R) with inspiratory wheezes and mild crackles appreciated at the mid right throax and lower left lung base respectively.
+Past Medical History: Pilocytic astrocytoma s/p craniotomy x2 allergic rhinitis s/p bil knee surgery [**3-12**] patellar subluxation [**2090**] deviated nasal septum migraine headaches h/o right foot dorsal bone spur s/p exostectomy  Social History: married, 2 children denies tobacco/IVDU 1 glass wine/nt   Family History: sister with [**Name (NI) 10322**]  Physical Exam: AT DISCHARGE: Vitals: T:98.8 P:114 BP:116/96 R:27 SaO2:97% General: Alert male in no apparent distress.
+-CN:4-6Hz horizontal and upbeat nastagmus (bilateral) with lateral and vertical gaze, respectively.
+-strength 5/5 in bilateral hand grip, intrinsic finger muscles, wrist extension, hip flexion, ankle dorsiflexion & plantarflexion; sensation intact to light touch bilateral UE and LE, reflexes 2+ at bilateral biceps and patellar  Pertinent Results: Labwork on admission: [**2118-12-5**] 12:12PM   WBC-13.1* RBC-4.67 HGB-14.1 HCT-39.3* MCV-84 MCH-30.3 MCHC-36.0* RDW-13.8 [**2118-12-5**] 12:12PM   NEUTS-68 BANDS-3 LYMPHS-14* MONOS-8 EOS-3 BASOS-0 ATYPS-2* METAS-1* MYELOS-1* [**2118-12-5**] 12:12PM   GLUCOSE-132* UREA N-18 CREAT-0.7 SODIUM-136 POTASSIUM-4.1 CHLORIDE-103 TOTAL CO2-22 ANION GAP-15 [**2118-12-5**] 12:12PM   PT-15.6* PTT-23.7 INR(PT)-1.4* [**2118-12-5**] 12:12PM   CK(CPK)-36* [**2118-12-5**] 12:12PM   CK-MB-NotDone cTropnT-0.01 .
+CTA CHEST W&W/O C&RECONS, NON-CORONARY Study Date of [**2118-12-5**] CTA CHEST: There is massive bilateral pulmonary embolism with thrombus filling the left pulmonary artery extending into all lobar branches and their respective segmental and subsegmental branches.
+Hypodensity in the right frontal lobe related to prior ventriculostomy catheter.
+VIDEO OROPHARYNGEAL SWALLOW Study Date of [**2118-12-9**] IMPRESSION: Aspiration of thin barium consistencies when administered in cup sips despite rightward head turn positioning.
+Labwork on discharge: White Blood Cells 7.5 K/uL 4.0 - 11.0 Red Blood Cells 3.64* m/uL 4.6 - 6.2 Hemoglobin 10.9* g/dL 14.0 - 18.0 Hematocrit 31.0* % 40 - 52 MCV 85 fL 82 - 98 MCH 30.0 pg 27 - 32 MCHC 35.1* % 31 - 35 RDW 14.0 % 10.5 - 15.5 Platelet Count 551* K/uL 150 - 440  PT 35.2* sec 10.4 - 13.4 PTT 37.7* sec 22.0 - 35.0 INR(PT) 3.7*   0.9 - 1.1  Glucose 112* mg/dL 70 - 105 Urea Nitrogen 17 mg/dL 6 - 20 Creatinine 0.7 mg/dL 0.5 - 1.2 Sodium 139 mEq/L 133 - 145 Potassium 4.7 mEq/L 3.3 - 5.1 Chloride 101 mEq/L 96 - 108 Bicarbonate 31 mEq/L 22 - 32 Anion Gap 12 mEq/L 8 - 20 Magnesium 2.1 mg/dL 1.6 - 2.6   Brief Hospital Course: 50 year-old male with recently diagnosed pilocytic astrocytoma status post suboccipital carniotomy [**2118-11-18**] with return to operative [**2118-11-24**] now presenting with massive pulmonary emboli.
+The patient developed heparin-induced thrombocytopenia with heparin therapy.
+Pulmonary emboli: Massive bilateral pulmonary emoboli initially treated with heparin gtt and IVC filter placement.
+Coumadin was started when platelet count rose to above 150.
+There was a greater than expected response to coumadin after two doses of 5 mg daily, leading to INR 16.
+The patient was started on coumadin 2 mg daily [**2118-12-14**], with INR 3.5 on discharge.
+Thrombocytopenia: Positive heparin dependent antibodies.
+The patient's platelets improved with discontinuation of heparin products and use of argatroban.
+THIS PATIENT SHOULD NOT RECEIVE ANY HEPARIN PRODUCTS EVER AGAIN (this includes flushes and subQ heparin).
+His dilantin was changed to keppra for seizure prophylaxis as above.
+Oxycodone 5 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours)  as needed.
+Bisacodyl 5 mg Tablet, Delayed Release (E.C.)
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed.
+Polyvinyl Alcohol-Povidone 1.4-0.6 % Dropperette Sig: [**2-9**] Drops Ophthalmic PRN (as needed) as needed for dryness.
+Fluticasone 50 mcg/Actuation Spray, Suspension Sig: Two (2) Spray Nasal DAILY (Daily).
+Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1) Injection TID (3 times a day).
+Famotidine 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a  day).
+Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6  hours) as needed.
+Insulin Regular Human 100 unit/mL Solution Sig: One (1) Injection ASDIR (AS DIRECTED).
+Metoclopramide 10 mg Tablet Sig: 0.5 Tablet PO TID (3 times  a day) as needed for pro-motility.
+Erythromycin 5 mg/g Ointment Sig: One (1) Ophthalmic QID (4  times a day) as needed for proph for presumed corneal abrasion for 5 days.
+Sodium Chloride 0.65 % Aerosol, Spray Sig: [**2-9**] Sprays Nasal  QID (4 times a day) as needed for dry nasal mucous membranes.
+Keppra 1,000 mg Tablet Sig: One (1) Tablet PO twice a day.
+Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO every six (6) hours as needed for fever or pain: all HO if temp >101, max dose 3g daily.
+Warfarin 2 mg Tablet Sig: One (1) Tablet PO QAM (once a day (in the morning)).
+Erythromycin 5 mg/g Ointment Sig: One (1)  Ophthalmic [**Hospital1 **] (2 times a day) for 2 days.
+Maalox 200-200-20 mg/5 mL Suspension Sig: One (1) ML PO Q8H (every 8 hours) as needed for heartburn.
+Bisacodyl 5 mg Tablet, Delayed Release (E.C.)
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipatin.
+Oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q4H (every 4 hours) as needed for pain.
+Camphor-Menthol 0.5-0.5 % Lotion Sig: One (1) Appl Topical [**Hospital1 **] (2 times a day) as needed.
+Fexofenadine 60 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Fluticasone 50 mcg/Actuation Spray, Suspension Sig: One (1) Spray Nasal [**Hospital1 **] (2 times a day).
+Diphenhydramine HCl 25 mg Capsule Sig: One (1) Capsule PO Q6H (every 6 hours) as needed.
+Discharge Disposition: Extended Care  Facility: [**Hospital6 85**] - [**Location (un) 86**]  Discharge Diagnosis: Primary: Pulmonary embolus Heparin-induced thrombocytopenia  Secondary: pilocytic astrocytome s/p craniotomy R corneal abrasion R facial palsy + dysarthia   Discharge Condition: Medically stable for transfer to rehab.
+Prior to admission to the medical service, while on the ICU service, an IVC filter was placed by vascular surgery following ultrasound evidence of bilateral deep venous thrombi in your legs which were the source of the clot travelling to the lungs.
+Anticoagulation was initiated on [**12-5**] in the MICU and was continued upon transfer to the medical floor.
+The cause of the clots was likely a reaction to heparin called heparin-induced thrombocytopenia.
+Phenytoin was discontinued and Keppra was started according to the neurosurgeon's recommendations.
+Anti-heparin/PF4 antibody screen was positive consistent with a diagnosis of Heparin Induced Thrombocytopenia (HIT).
+Heparin was discontinued and argatroban was initiated.
+Serial PT/PTT/INRs were measured and coumadin was added [**12-9**] as per protocol.
+During your admission, physical therapy worked with you to continue your rehab schedule with good success in helping you to ambulate with a walker.
+Consequently, they recommended thick liquid and soft solid diets as well as turning your head to the right while swallowing during meals.
+You are being discharged back to the rehab facility to continue with your post-operative care and rehabilitation.
+The following were the changes to your medications: Coumadin was started with an INR goal of 2.5-3.5 Dilantin changed to Keppra 1000 mg PO BID Acetaminophen not to exceede 3g/day in setting of daily coumadin.
+Please take all medications as prescribed.
+A sheet is attached with all the medications you should be taking.

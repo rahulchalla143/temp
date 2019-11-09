@@ -1,0 +1,35 @@
+Admission Date:  [**2132-12-8**]              Discharge Date:   [**2132-12-14**]   Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 2387**] Chief Complaint: shortness of breath  Major Surgical or Invasive Procedure: cardiac catheterization  History of Present Illness: Ms [**Known lastname 5448**] is an 89yo pt with h/o CAD s/p RCA stent in [**2124**], a-fib on warfarin and dofetilide, who presented to OSH on [**2132-12-7**] with CHF exacerbation.
+Cardiology saw her and felt that, given her age and comorbidity (breast cancer w/mets), she is not suitable for further intervention and recommended medical management.
+Pt was started on nitro patch.
+However, she had frequent runs of polymorphic VT, 5-30 seconds each.
+Patient was transferred to CCU emergently, given Mg infusion, started on isoproterenol gtt, which broke the torsades.
+Past Medical History: -Breast Cancer with mets to pleura: On hormonal therapy for breast ca, no chemo or xrt.
+-CAD s/p PCI and stent placed 3 years ago -CHF -HTN -HL -PAF -s/p hysterectomy -s/p knee replacement   Social History: Pt lives with her son.
+Brief Hospital Course: In summary, Ms [**Known lastname 5448**] is an 89yo w CAD and a-fib (formerly on warfarin and dofetilide), who presented originally to OSH w SOB, was transferred to [**Hospital1 18**] for cath for NSTEMI, course complicated by polymorphic VT. .
+# CORONARIES: Pt w known CAD and prior stenting, now p/w NSTEMI at OSH, s/p cath at [**Hospital1 18**] with bare metal stent to R-PDA.
+On heparin drip for NSTEMI at first, then on heparin to coumadin bridge for a-fb.
+On discharge, hemodynamically stable, on aspirin, clopidogrel, beta-blocker, valsartan and atorvastatin.
+# RHYTHM: History of afib, on coumadin and on dofetilide at home.
+Had frequent runs of polymorphic VT with no symptoms on floor, broke with isoproterenol gtt.
+Now off dofetilide and isoproterenol, s/p run of afib with RVR after cath.
+Metoprolol used as rate control.
+For afib, pt rate-controlled w metoprolol and anticoagulated w warfarin w INR goal of [**1-6**].
+Per conversation with oncologist coverage, OK to not restart aromatase inhibitor (side effect of cardiac ischemia) as inpatient.
+Warfarin 2mg PO daily Dofetilide 500 mg [**Hospital1 **] Metoprolol tartrate 50 mg daily (checked w pharmacist) Lipitor 10 mg daily Diovan 160 mg daily Lasix 40 mg daily Aromasin 25 mg daily Percocet 1 pill a day  PRN   Discharge Medications: 1.
+Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily): to keep your heart stent open.
+Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily): for your cholesterol.
+Oxycodone-Acetaminophen 5-325 mg Tablet Sig: One (1) Tablet PO once a day as needed for pain: do not take if sedated or if driving.
+Aspirin 81 mg Tablet, Delayed Release (E.C.)
+Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily): for your heart failure.
+Valsartan 80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily): for your heart and blood pressure.
+Warfarin 2 mg Tablet Sig: One (1) Tablet PO once a day: dose may change based on your INR, a blood test; follow Dr.[**Name (NI) 5452**] instructions .
+Aromasin 25 mg Tablet Sig: One (1) Tablet PO once a day.
+Toprol XL 50 mg Tablet Sustained Release 24 hr Sig: 1.5 Tablet Sustained Release 24 hrs PO once a day.
+Systolic heart failure, acute on chronic hypertension hyperlipidemia   Discharge Condition: Hemodynamically stable, afebrile   Discharge Instructions: You were admitted to [**Hospital1 18**] due to a heart failure exacerbation and were found to have a heart attack.
+You had a cardiac catheterization and a stent placed in one of your heart's blood vessels.
+You were treated with medication to correct this and your dofetilide was stopped.
+Your coumadin levels were adjusted during your stay.
+You will need to get [**Hospital1 **] work, and have the results sent to Dr. [**Last Name (STitle) **] to adjust your coumadin level.
+Your medicaions were changed, please take your medications as instructed.
+Diovan was decreased to 80mg daily Toprol XL was changed to 75mg daily Dofetilide was stopped Norvasc was stopped Lipitor was changed to 80mg Warfarin (coumadin) is continued at 2mg daily Clopidogrel (plavix) was started Aspirin continued .
+He may adjust your coumadin levels before that.

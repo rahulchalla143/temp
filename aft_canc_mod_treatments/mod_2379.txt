@@ -1,0 +1,83 @@
+Admission Date:  [**2162-6-5**]              Discharge Date:   [**2162-6-25**]  Date of Birth:  [**2123-3-28**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 3984**] Chief Complaint: fever  Major Surgical or Invasive Procedure: PICC line placed: [**2162-6-18**]  History of Present Illness:  Mr. [**Known lastname 38598**] is a 39 year old patient with NHL s/p alloSCT [**2155**] and DLI [**2156**], in remission but with GVHD-associated bronchiolitis obliterans and severe restrictive lung disease who was recently admitted with fever, hypoxia and respiratory distress and discharged to [**Hospital1 **] on [**2162-6-3**].
+In brief, the patient has pseudomonal infection of his lungs, he has been treated with 21 day course of Colistin and Meropenem to treat this, and was on Colistin IH for suppression.
+Additionally, he has an upper extremity DVT that, since that admission, is being treated with Fondaparinux 2.5 mg SubQ, lower dose secondary to history of serious GI bleeding.
+He recieved Vancomycin 1gm IV, Zosyn 4.5mg IV, tylenol 1gm PO, morphine 2mg IVx1.
+- Treated with six cycles of CHOP/Rituxan with good response, but showed evidence for relapse in [**12/2154**] and was treated with MINE chemotherapy for two cycles.
+- [**2156-7-29**]: Nonmyeloablative allogeneic stem cell transplant with a [**5-30**] HLA-matched unrelated donor with Campath conditioning  - Six-month follow-up CT noted for disease progression.
+- [**1-/2157**]: Received donor lymphocyte infusion in , complicated by acute liver/GI GVHD grade IV, for which [**Known firstname **] required a prolonged hospitalization in the summer of [**2156**].
+- [**2157-12-28**] Photophoresis was d/c'd due to episodes of bacteremia and eventual removal of his apheresis catheter.
+- undergone phlebotomy due to iron overload with corresponding drop in his ferritin.
+He has continued with transient rises in his transaminases and bilirubin and has remained on varying doses of CellCept and prednisone which has been slowly tapered over the time.
+After extensive workup, this was felt related to an infection and required several admissions with completion of antibiotics in 03/[**2158**].
+- [**2160-10-20**]: URI and treatment with course of Levaquin.
+- [**2160-11-13**] completed a 4 week course of Rituxan to treat his GVHD.
+-In [**5-/2161**], noted to have tiny echogenic nodule on abdominal [**Year (4 digits) 950**].
+MRI of the liver also showed this nodule but was not as concerning on review and he is due to have a repeat MRI imaging in early [**Month (only) **].
+He has been on a low dose beta blocker as well as simvastatin, which was started on [**2161-7-7**] to help with medical management of his varices.
+This has essentially resolved over time - Issues with weight loss (followed by Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]); multiple tests done with no etiology found; question malabsorption related to GVHD - Has on and off respiratory infections and has been treated with antibiotics (now colistin inhaled and IV) for resistant pseudomonas.
+Grade 4 Acute GVHD of GI/liver following DLI with GI bleed, chronic transaminitis, portal HTN with esophageal varices (not able to band) 3.
+Grade II esophageal varices, intollerant to beta blockade.
+Stays at home and writes (currently writing a book on being diagnosed with cancer at young age).
+Physical Exam: On Admission: Vitals: T 99, HR 93, BP 91/61, sat 100% on AC 500/18/8/50% Gen: Cachectic male HEENT: sclera anicteric NEC: trach in place CV: Tachycardic, no m/r/g Pulm: coarse breath sounds bilaterally, no wheezes, crackles Abd: soft, NT, ND, bowel sounds present Ext: no peripheral edema  Pertinent Results: Hematology   COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct [**2162-6-20**] 06:25    11.1* 2.54* 7.4* 23.6* 93 29.0 31.2 16.3* 344 [**2162-6-15**] 05:29    58* 70*     640*   0.7 Source: Line-picc OTHER ENZYMES & BILIRUBINS Lipase [**2162-6-5**] 05:30    80*  IMAGING: [**6-5**] CT chest FINDINGS: The endotracheal tube terminates 1.9 cm above the carina.
+A right-sided PICC line terminates at the cavoatrial junction.
+An NG tube is identified inferiorly to level of the stomach.
+However, given the possible chronicity of these findings, organizing pneumonia cannot entirely be excluded.
+An endogastric tube projects over the antrum of the stomach.
+COLISTIN SUSCEPTIBILITY REQUESTED BY DR. [**Last Name (STitle) **] (#[**Numeric Identifier 38652**]) [**2162-6-8**].
+COLISTIN SENSITIVE AT <=2 MCG/ML.
+COLISTIN SUSCEPTIBILITY REQUESTED BY DR. [**Last Name (STitle) **] (#9/0841)          [**2162-6-9**].
+COLISTIN SENSITIVE AT <=2 MCG/ML, Sensitivities performed by [**Hospital1 **]          laboratories.
+He was started on meropenem in addition to IV and inhaled Colistin.
+C diff was initially in the differential and he was started on PO vancomycin.
+Sputum showed two strains of psuedomonas that were sensitive to Amikacin and intermediately sensitive to meropenem.
+ID was closely involved and felt that slow infusion meropenem was appropriate treatment in addition to IV Colistin.
+He completed 17/28 days of meropenem and colistin by day of discharge.
+Last day of antibiotics will be on [**7-1**].
+He was discharged on a regimen of meropenem and colistin for 6 more days (to be completed [**7-1**]) and daily [**Month (only) 3242**] prophylaxis of bactrim, acyclovir, voriconazole.
+WBC trended down with initiation of meropenem and colistin and was 11 on day of discharge.
+Pt was briefly given flagyl for empiric treatment of presumptive C. Diff but stopped treatment when toxins repeatedly returned negative.
+The patient initially presented on a ventilator with the following settings: Assist Control 400/18/8/50%.
+He had been unable to wean off the vent at rehab and during his previous hospitalization due to increased secretions.
+While in ICU, was put on pressure support trials and some days was able to undergo trach collar for a few hours at a time.
+It will be important to continue to encourage trach collar trials and aggressive chest PT for the goal of becoming ventilator independent.
+There was some discussion of lung transplant and coordinating outpatient meeting with the Pulm transplant team at [**Hospital1 112**].
+During the present hospitalization he was continued on low dose fundaparinox, 2.5mg.
+Graft versus Host Disease:  The patient was continued on his regimen of prednisone 15mg, mycophenolate 250mg dialy, and prophylactic Bactrim, acyclovir, and voriconazole.
+Nutrition/Electrolytes: He lost about 4kg since admission despite appropriate tube feeds and TPN.
+By day of admission, he was getting TPN 42 mL/hr, Tube feeds 60mL/hr in addition to 200cc free water boluses every 4 hours through NGT.
+NHL: Mr. [**Known lastname 38598**] is status post allo [**Known lastname 3242**] complicated with GVHD of GI and Bronchiolitis obliterans.
+Pt also received IVIG [**2162-6-23**] for low levels of IgG.
+Psych: Seen by psych who felt that he had  adjustment disorder related to medical illness but he declined treatment with SSRI at this moment.
+Medications on Admission: Acyclovir 400mg every 12 hours Ascorbic Acid 500mg daily Colistin 75mg INH [**Hospital1 **] qMWF Ergocalciferol 50,000 units every saturday Ferrous sulfate 300mg liquid daily Fluticasone intranasally 1 spray daily Fondiparinux 2.5mg SC dailt Lansoprazole 20mg daily Levothyroxine 125mcg daily Mycophenolate Mofetil 250mg daily Prednisone 15mg daily BActrim DS qMWF Voriconazole 200mg every 12 hours Zinc sulfate 22mg daily PRNS: Tylenol 650mg ever 4 hours as needed Acetylcysteine 10% neb every 4 hours as needed Albuterol 6 puffs every 2 hours as needed Guaifenesin 200mg every 6 hours as needed Lorazepam 1mg every 4 hours as needed Morphine 2mg every 2 hours as needed Zogran 8mg as needed Senna 10mg as needed Simethicone 80mg as needed Trazdone 25mg as needed nightly insomnia .
+Colistimethate Sodium 150 mg Recon Soln [**Hospital1 **]: 75mg Recon Solns Injection DAYS (MO,WE,FR) as needed for [**Hospital1 **]: Continue indefinitely .
+Meropenem 1 gram Recon Soln [**Hospital1 **]: 1000 mg Recon Solns Intravenous Q8H (every 8 hours): 6 more days through [**7-1**].
+Colistimethate Sodium 150 mg Recon Soln [**Month (only) **]: 125 mg Recon Solns Injection Q12H (every 12 hours): Take 6 more days through [**7-1**].
+Acetaminophen 325 mg Tablet [**Month (only) **]: 650 mg Tablets PO Q6H (every 6 hours) as needed for pain/fever: indefinitely .
+Acyclovir 400 mg Tablet [**Month (only) **]: 400 mg Tablets PO Q12H (every 12 hours): Take indefinitely.
+Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler [**Month (only) **]: Six (6) Puff Inhalation Q2H (every 2 hours) as needed for SOB: take as needed.
+Dextromethorphan-Guaifenesin 10-100 mg/5 mL Syrup [**Month (only) **]: 5mL MLs PO Q6H (every 6 hours) as needed for cough: Take as needed.
+Ferrous Sulfate 300 mg (60 mg Iron)/5 mL Liquid [**Month (only) **]: 300 mg PO DAILY (Daily).
+Fluticasone 50 mcg/Actuation Spray, Suspension [**Month (only) **]: One (1) Spray Nasal DAILY (Daily).
+Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: 30 mg Tablet,Rapid Dissolve, DRs [**Last Name (STitle) **] [**Name5 (PTitle) **] (Daily).
+Levothyroxine 125 mcg Tablet [**Name5 (PTitle) **]: 125 mcg Tablets PO DAYS (MO,TU,WE,TH,FR,SA).
+Ondansetron 8 mg Tablet, Rapid Dissolve [**Name5 (PTitle) **]: 8mg Tablet, Rapid Dissolves PO Q8H (every 8 hours) as needed for nausea.
+Prednisone 5 mg Tablet [**Name5 (PTitle) **]: 15 mg Tablets PO DAILY (Daily): take indefinitely.
+Senna 8.6 mg Tablet [**Name5 (PTitle) **]: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+Simethicone 80 mg Tablet, Chewable [**Name5 (PTitle) **]: 40-80mg Tablet, Chewables PO QID (4 times a day) as needed for indigestion.
+Sulfamethoxazole-Trimethoprim 800-160 mg Tablet [**Name5 (PTitle) **]: 1 tab Tablet PO DAYS (MO,WE,FR): take indefinitely.
+Trazodone 50 mg Tablet [**Name5 (PTitle) **]: 25 mg Tablets PO HS (at bedtime) as needed for insomnia.
+Voriconazole 200 mg Tablet [**Name5 (PTitle) **]: 200 mg Tablets PO Q12H (every 12 hours): Take indefinitely.
+Zinc Sulfate 220 mg Capsule [**Name5 (PTitle) **]: 220 mg Capsules PO DAILY (Daily).
+Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization [**Name5 (PTitle) **]: One (1)  Inhalation Q2H (every 2 hours) as needed for SOB/wheezing.
+Acetylcysteine 20 % (200 mg/mL) Solution [**Name5 (PTitle) **]: 20% 6-10 mL neb MLs Miscellaneous Q2H (every 2 hours) as needed for secretion.
+Cyanocobalamin 250 mcg Tablet [**Name5 (PTitle) **]: 250mcg Tablets PO DAILY (Daily).
+Insulin Regular Human 100 unit/mL Solution [**Name5 (PTitle) **]: One (1) Injection ASDIR (AS DIRECTED): Please follow attached sliding scale.
+Flush 10 mL NS followed by heparin (10U/ml) 2 mL IV daily and prn per lumen.
+Morphine 2 mg/mL Syringe [**Name5 (PTitle) **]: 2mg  Injection Q2H (every 2 hours) as needed for pain.
+Diphenhydramine HCl 50 mg/mL Solution [**Hospital1 **]: 25 mg  Injection Q6H (every 6 hours) as needed for pre-medication for IVIG: take before IVIG.
+Discharge Disposition: Extended Care  Facility: [**Hospital6 85**] - [**Location (un) 86**]  Discharge Diagnosis: Ventilator associated pneumonia Deep vein thrombosis Acute on chronic hypoxemic respiratory failure malnutrition Non hodgkins lymphoma status post bone marrow transplant Acute renal failure Graft versus host disease Bronchiolitis obliterans hypothyroidism   Discharge Condition: Level of Consciousness: Alert and interactive.
+Your infection was partially treated with antibiotics.
+Please continue taking Meropenem and Colistin antibiotics for total course of 28 days through [**7-1**].
+Please continue your TPN (42mL/hr) and Tube feeds (60ml>hr) to ensure appropriate nutritional status.
+Continue to take your prophylactic bone marrow transplant medications each day: Bactrim, Acyclovir, Voriconazole to prevent infections in an immunocompromised state.
+Phone:[**Telephone/Fax (1) 1803**] Date/Time:[**2162-9-23**] 2:30  Provider: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], MD and pulmonary transplant group at [**Hospital6 1708**].

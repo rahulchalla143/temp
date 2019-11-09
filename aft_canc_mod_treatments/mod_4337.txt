@@ -1,0 +1,62 @@
+Admission Date:  [**2175-8-29**]              Discharge Date:   [**2175-9-8**]  Date of Birth:  [**2138-2-2**]             Sex:   F  Service: MEDICINE  Allergies: Shellfish Derived  Attending:[**First Name3 (LF) 3913**] Chief Complaint: Neutropenic fever   Major Surgical or Invasive Procedure: Central line placement   History of Present Illness: The patient is a 37 year old female with a history of AML M4-Eo who initially presented on [**2175-6-30**].
+She was treated with 7+3 cytarabine / idarubicin induction from [**2175-7-3**] to [**2175-7-30**].
+Her temperature then rose to a maximum of 100.4, she was given Cefepime 2 grams once, and she was admitted to the BMT service.
+She denied abdominal pain, nausea, vomiting, diarrhea, constipation, dysphagia, odynophagia, mouth sores, bloody stool, dark stool, or other stool changes.
+Past Medical History: # Latent Syphilis -- positive VDRL/FTA-ABS on [**2175-7-3**] admission -- Treated with Penicillin IV x14 days per ID recs -- LP performed, with CSF VDRL negative # HSV -- sacral rash on [**2175-6-30**] admission, responded to acyclovir # C-Section x3 .
+Abdominal aorta pulsations prominent and easily palpable.
+Slight skin irritation at superior end of tunnel where catheter bends to enter IJ.
+[**2175-8-29**] 09:15AM BLOOD Hypochr-NORMAL Anisocy-1+ Poiklo-1+ Macrocy-1+ Microcy-1+ Polychr-NORMAL Spheroc-1+ Ovalocy-1+ Tear Dr[**Last Name (STitle) 833**] [**2175-8-30**] 12:00AM BLOOD Hypochr-1+ Anisocy-1+ Poiklo-1+ Macrocy-1+ Microcy-1+ Polychr-OCCASIONAL Ovalocy-1+ Schisto-OCCASIONAL [**2175-8-31**] 12:00AM BLOOD Hypochr-1+ Anisocy-1+ Poiklo-1+ Macrocy-NORMAL Microcy-1+ Polychr-OCCASIONAL Spheroc-1+ Ovalocy-1+ Schisto-OCCASIONAL Tear Dr[**Last Name (STitle) 833**] [**2175-9-1**] 12:00AM BLOOD Hypochr-NORMAL Anisocy-1+ Poiklo-1+ Macrocy-1+ Microcy-NORMAL Polychr-NORMAL Ovalocy-1+ Tear Dr[**Last Name (STitle) **]1+ [**2175-9-2**] 12:00AM BLOOD Hypochr-1+ Anisocy-2+ Poiklo-1+ Macrocy-1+ Microcy-1+ Polychr-OCCASIONAL Ovalocy-1+ Schisto-1+ Tear Dr[**Last Name (STitle) 833**] [**2175-9-3**] 12:30AM BLOOD Hypochr-NORMAL Anisocy-1+ Poiklo-NORMAL Macrocy-1+ Microcy-1+ Polychr-NORMAL [**2175-9-3**] 08:15PM BLOOD Hypochr-NORMAL Anisocy-NORMAL Poiklo-NORMAL Macrocy-OCCASIONAL Microcy-OCCASIONAL Polychr-OCCASIONAL Ovalocy-1+ [**2175-9-5**] 12:00AM BLOOD Hypochr-NORMAL Anisocy-1+ Poiklo-NORMAL Macrocy-1+ Microcy-OCCASIONAL Polychr-NORMAL [**2175-9-6**] 12:00AM BLOOD Hypochr-NORMAL Anisocy-1+ Poiklo-NORMAL Macrocy-1+ Microcy-NORMAL Polychr-NORMAL [**2175-9-7**] 12:00AM BLOOD Hypochr-NORMAL Anisocy-1+ Poiklo-1+ Macrocy-1+ Microcy-NORMAL Polychr-1+ Ovalocy-1+ Schisto-OCCASIONAL Tear Dr[**Last Name (STitle) 833**] [**2175-9-8**] 12:00AM BLOOD Hypochr-1+ Anisocy-1+ Poiklo-NORMAL Macrocy-1+ Microcy-NORMAL Polychr-NORMAL .
+Central venous catheter remains with the catheter tip at the superior cavoatrial junction.
+The Hickman catheter tip is at the level of low SVC.
+A left internal jugular catheter remains in place.
+A left IJ line remains in place, terminating in the region of the cavoatrial junction.
+A left internal jugular line remains in place.
+IMPRESSION: Line placement as described.
+A left internal jugular catheter remains in place.
+A central venous line terminates just within the right atrium.
+Within the abdomen, the previously seen colitis has essentially resolved on this examination.
+Central line with tip in right atrium.
+Evaluation of hilar adenopathy is limited in the absence of IV contrast.
+Brief Hospital Course: The patient is a 37 year old female with AML M4-Eo diagnosed [**2175-6-30**], s/p 7+3 cytarabine / idarubicin induction, and currently undergoing HiDAC started [**2175-8-11**].
+She presented to clinic on C1D19 for a routine cell count check and was found to be febrile to 100.4 F.  She was started on Cefepime and admitted to the floor.
+She had a previous episode of febrile neutropenia during induction that was thought secondary to colitis and resolved after treatment with Vancomycin, Cefepime, Flagyl, and Micafungin.
+She was started on Flagyl and Vancomycin.
+She was given several liters of IV fluid and her BP remained stable.
+She continued to have fevers on [**2175-9-3**], and Micfungin was added.
+She became hypotensive despite fluids and was sent to the ICU, where she received IV fluids, blood, and pressors for a brief period.
+Her condition improved after switching from Cefepime to Meropenem and starting Vancomycin PO for a positive C diff assay sent on [**2175-9-2**].
+Her Vancomycin IV, Flagyl, and Micafungin were discontinued on [**2175-9-6**].
+Meropenem was discontinued the afternoon of [**2175-9-7**].
+She was discharged on Vancomycin 125 mg PO Q6H for continued treatment of her C diff infection.
+# Hypotension: She became hypotensive on [**2175-9-3**] and was initially managed with fluid boluses on the floor.
+She was later transfered to the ICU, a central line was placed and she was started on pressors.
+She was volume resusicated and weaned off Levophed.
+She also received a unit of PRBCs during this time for likely dilutional anemia.
+She was treated with Vitamin K, and her coags had returned to [**Location 213**] by [**2175-9-7**].
+She had a slight increase in LDH from 233 to 269 and her AlkPhos and Bilirubin were unchanged.
+Her Acyclovir and Bactrim were discontinued pending followup after discharge.
+Her granulocyte count was 30 on admission, and she was placed on neutropenic precautions.
+During her stay, she received PRBCs on [**2175-8-30**] and [**2175-9-3**].
+She has a history of a sacral HSV rash during induction that resolved with Acyclovir treatment.
+Her prophylactic meds were continued on admission.
+Her Fluconazole was later held on [**2175-9-2**] when Micafungin was started.
+Her Bactrim and Acyclovir were held on discharge due to an increase in her transaminases on the day of discharge.
+# Latent Syphilis: She has a history of latent syphilis that was previously evaluated and treated with Penicillin IV x14 days at a prior admission.
+Medications on Admission: Acyclovir 400 mg PO Q8H Sulfameth/Trimethoprim SS 1 TAB PO/NG DAILY Levofloxacin 500 mg PO DAILY Fluconazole 200 mg PO Q24H Lorazepam 0.5-1 mg PO Q4H PRN nausea Ondansetron HCl 8 mg PO Q8H PRN nausea Pantoprazole 40 mg PO Q24H Docusate Sodium 100 mg PO BID PRN constipation Senna 1 TAB PO QHS PRN constipation  Discharge Medications: 1.
+Vancomycin 125 mg Capsule Sig: One (1) Capsule PO Q6H (every 6 hours).
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day) as needed for constipation.
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+Omeprazole 20 mg Capsule, Delayed Release(E.C.)
+Oxycodone 5 mg Tablet Sig: 1-2 Tablets PO four times a day as needed for pain for 4 days: Do not drive or operate heavy machinery while on this medication as it may make you sleepy.
+When you were admitted, your immune system had not yet recovered from your recent chemotherapy, and your white blood cells were low.
+You were started on a number of powerful antibiotics to help your body fight off these organisms that cause infections.
+Your condition improved with the antibiotics courses, and your blood counts started returning to normal.
+The antibiotics were stopped slowly, and you did not develop any new fevers or concerning symptoms.
+You were started on an oral antibiotic called Vancomycin to treat the C. diff infection.
+You should continue taking this antibiotic during your upcoming lymphoma treatments to prevent it from happening again.
+START: Vancomycin Oral Liquid 125 mg by mouth every 6 hours  You were started on a medication called Omeprazole to help with some of the abdominal discomfort you have been having.
+START: Omeprazole 20 mg daily  Several of your liver enzymes were elevated slightly today.
+Since this can sometimes be related to a medication side effect, you should stop taking Acyclovir, Bactrim, and Fluconazole at discharge.
+STOP: Acyclovir 400 mg three times daily STOP: Bactrim SS one tab daily STOP: Fluconazole 200 mg daily  Several changes were made to your medications during your admission.
+You should only take the medications indicated on your discharge medication sheet.
+Provider: [**Name10 (NameIs) 1248**],BED ONE [**Name10 (NameIs) 1248**] ROOMS Date/Time:[**2175-9-11**] 7:15  Provider: [**Name10 (NameIs) 6122**] EAST OUTPATIENT RADIOLOGY Phone:[**Telephone/Fax (1) 8243**] Date/Time:[**2175-9-11**] 10:00  An appointment has also been scheduled with Dr [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] on Thursday, [**2175-9-14**] to discuss your treatment plan.

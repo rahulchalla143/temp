@@ -1,0 +1,23 @@
+In the ED, her vitals were  afebrile, BP 92/50, HR 70, sats 100% on AC 450 x 16, PEEP 5.
+She is transferred to the [**Hospital Unit Name 153**] for further monitoring and management of her hypoxia.
+Her PCP is Dr [**First Name (STitle) **] [**Name (STitle) **], phone [**Telephone/Fax (1) 10688**].
+Past Medical History: - h/o schizophrenia, diagnosed after first hospitalization in [**Last Name (LF) **], [**First Name3 (LF) **] at age 26 for psychosis - last hospitalized [**8-3**] at [**Hospital1 18**] - received care at [**Hospital1 2177**] until [**7-3**], when she transferred to [**Hospital1 18**] because she "would get more attention" - DMH client, case worker [**First Name4 (NamePattern1) 1785**] [**Last Name (NamePattern1) 4886**] [**Telephone/Fax (1) 49720**] - case manager [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] at [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 34620**] House [**Telephone/Fax (1) 49721**] - denies suicide attempts or h/o violence - current psychiatrist Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 5715**] at [**Hospital1 18**] - rep payee through [**Month (only) 116**] Behavioral Health ([**First Name4 (NamePattern1) 1785**] [**Last Name (NamePattern1) 4886**])   Social History: The patient was born and raised in [**State 4260**], and moved with her son to [**Name (NI) 86**] 10 years ago.
+Family History: FAMILY HISTORY: [**First Name8 (NamePattern2) **] [**First Name8 (NamePattern2) **] [**Name (NI) 34620**] House, pt has 2 brothers with schizophrenia   Physical Exam: VS: T 97.7, BP 119/53, HR 78, Sat 94% on FM GENERAL: well-appearing middle-aged woman, lying flat in bed in NAD, using face mask with hydration HEENT: EOMI, anicteric, MMM NECK: flat JVP CHEST: Expiratory wheezes and rhonchi throughout CARDIOVASCULAR:  RRR, prominent S2, no m/r/g ABDOMEN:  soft, nt, nd, nabs EXTREMITIES:  no edema NEURO: asleep but awoke to voice; good attention; cooperative; CN 2-12 intact; 5/5 strength in UE/LE bilaterally; sensation to LT intact throughout; gait deferred.
+Pertinent Results: [**2176-4-13**] 06:05PM   WBC-8.3 RBC-4.09* HGB-12.7 HCT-34.3* MCV-84 MCH-31.0 MCHC-37.0* RDW-13.1 [**2176-4-13**] 06:05PM   NEUTS-89.1* BANDS-0 LYMPHS-8.1* MONOS-2.6 EOS-0.1 BASOS-0.1 [**2176-4-13**] 06:05PM   HYPOCHROM-NORMAL ANISOCYT-NORMAL POIKILOCY-NORMAL MACROCYT-NORMAL MICROCYT-NORMAL POLYCHROM-NORMAL [**2176-4-13**] 06:05PM   PLT SMR-NORMAL PLT COUNT-299 .
+IRON 36, TIBC 243, FERRITIN 67, FOLATE 8.2, B12 699 [**2176-4-13**] 06:05PM   PT-11.5 PTT-30.7 INR(PT)-1.0 .
+[**2176-4-13**] 06:05PM   GLUCOSE-146* UREA N-3* CREAT-0.4 SODIUM-112* POTASSIUM-4.5 CHLORIDE-79* TOTAL CO2-28 ANION GAP-10 [**2176-4-13**] 06:05PM   CALCIUM-9.0 PHOSPHATE-3.6 MAGNESIUM-1.8 URIC ACID-1.5* .
+CK(CPK)-445, 308, 202 CKMB 21, 16, 12 cTropnT-<0.01 x 2 .
+[**2176-4-13**] 08:38PM URINE  bnzodzpn-POS barbitrt-NEG opiates-NEG cocaine-NEG amphetmn-NEG mthdone-NEG .
+[**2176-4-13**] 08:38PM URINE  HOURS-RANDOM CREAT-22 SODIUM-69 [**2176-4-13**] 08:38PM URINE  OSMOLAL-261 SERUM OSM 230 .
+[**2176-4-13**] 06:30PM URINE  COLOR-Straw APPEAR-Clear SP [**Last Name (un) 155**]-1.006 [**2176-4-13**] 06:30PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 LEUK-NEG .
+MRSA SCREEN: PENDING [**2176-4-13**] 11:01 pm SPUTUM      Source: Expectorated.
+RESPIRATORY CULTURE (Final [**2176-4-16**]):       SPARSE GROWTH OROPHARYNGEAL FLORA.
+BLOOD CX: PENDING URINE CX: NO GROWTH .
+CXR [**2176-4-13**]: One view.
+Comparison with the previous study done earlier the same day.
+A MRSA swab is pending given GPC were noted on sputum gram stain but given her clincal improvement, she does not need any further antibiotics at this time, regardless of the results of this test.
+Her sodium remained stable in house on a 2 liter fluid restriction.
+3) IRON DEFICIENCY ANEMIA: Hematocrit remained stable at 33 and patient was continued on her iron.
+Docusate Sodium 50 mg/5 mL Liquid Sig: One Hundred (100) mg PO BID (2 times a day).
+Discharge Disposition: Extended Care  Facility: [**Last Name (un) **] Center - [**Location (un) 701**]  Discharge Diagnosis: primary: COPD flare hyponatremia due to psychogenic polydypsia metabolic alkalosis  secondary: iron deficiency anemia schizophrenia   Discharge Condition: good: stable with intermittent need for supplemental O2, afebrile, breathing comfortably   Discharge Instructions: Please monitor for temperature > 101, worsening shortness of breath, chest pain, decreased mental status, or other concerning symptoms.
+Phone: [**Telephone/Fax (1) 608**]

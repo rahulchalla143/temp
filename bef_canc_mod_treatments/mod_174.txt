@@ -1,0 +1,76 @@
+Admission Date:  [**2144-9-2**]              Discharge Date:   [**2144-9-8**]  Date of Birth:  [**2060-10-15**]             Sex:   F  Service: MEDICINE  Allergies: Aspirin / Sulfa (Sulfonamide Antibiotics) / Nafcillin / Tylenol  Attending:[**First Name3 (LF) 759**] Chief Complaint: Altered mental status  Major Surgical or Invasive Procedure: None   History of Present Illness: 83F with h/o SVT, G6PD def., PE on coumadin, chronic low back pain and RA on prednisone presents with altered mental status from home.
+Has history of SVT for which she takes metoprolol and verapamil.
+She states she did not take her medications today.
+She was given stress dose steroid (unclear if on prednisone at home), benadryl (given history of allergy to tylenol listed as pruritus), ciprofloxacin 400 mg IV, flagyl 500 mg IV, morphine 5 mg IV.
+Of note, she received an epidural steroid injection on [**2144-7-15**].
+Past Medical History: ##PAST MEDICAL HISTORY: -Tuberculosis in the setting of methotrexate and remicaid treatment for RA.
+-History of HSV 2 skin R thigh -Hepatitis B core Ab and surface Ab positive, surface Ag negative in [**2121**]'s -Low back pain.
+#Allergies: Patient denies allergies, but with history of G6PD, pt should avoid aspirin and Sulfa meds.
+Pertinent Results: ADMISSION LABS: [**2144-9-1**] 08:30PM   PT-32.8* PTT-43.6* INR(PT)-3.2* [**2144-9-1**] 08:30PM   PLT COUNT-370 [**2144-9-1**] 08:30PM   NEUTS-88.9* LYMPHS-8.1* MONOS-2.3 EOS-0.4 BASOS-0.3 [**2144-9-1**] 08:30PM   WBC-23.2*# RBC-3.22* HGB-9.9* HCT-32.2* MCV-100* MCH-30.8 MCHC-30.8* RDW-24.8* [**2144-9-1**] 08:30PM   ALBUMIN-4.1 [**2144-9-1**] 08:30PM   LIPASE-38 [**2144-9-1**] 08:30PM   ALT(SGPT)-57* AST(SGOT)-142* ALK PHOS-64 TOT BILI-1.4 [**2144-9-1**] 08:30PM   estGFR-Using this [**2144-9-1**] 08:30PM   GLUCOSE-115* UREA N-17 CREAT-0.9 SODIUM-135 POTASSIUM-6.7* CHLORIDE-98 TOTAL CO2-24 ANION GAP-20 [**2144-9-1**] 08:33PM   LACTATE-3.5* K+-4.5 [**2144-9-1**] 08:45PM URINE  [**Month/Day/Year 3143**]-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.5 LEUK-NEG [**2144-9-1**] 08:45PM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.006  PERTINENT LABS: [**2144-9-3**] 06:35AM [**Month/Day/Year 3143**] ALT-94* AST-100* AlkPhos-66 TotBili-0.7 [**2144-9-4**] 07:55AM [**Month/Day/Year 3143**] CRP-98.9* [**2144-9-4**] 07:55AM [**Month/Day/Year 3143**] ESR-26* [**2144-9-5**] 06:20AM [**Month/Day/Year 3143**] ESR-51*  MICROBIOLOGY: [**2144-9-1**] 8:30 pm [**Month/Day/Year 3143**] CULTURE times 2                             **FINAL REPORT [**2144-9-7**]**    [**Month/Day/Year **] Culture, Routine (Final [**2144-9-7**]):    NO GROWTH.
+CLOSTRIDIUM DIFFICILE.
+Minimally increased in size and number compared to [**2138**], possibly representing combination of splenic cysts and/or hemangiomas.
+MRI L-Spine W & W/O CONT IMPRESSION: 1.
+DISCHARGE LABS:  [**2144-9-8**] 07:30AM [**Month/Day/Year 3143**] WBC-5.1 RBC-2.55* Hgb-7.8* Hct-25.6* MCV-101* MCH-30.6 MCHC-30.3* RDW-25.2* Plt Ct-330 [**2144-9-8**] 07:30AM [**Month/Day/Year 3143**] PT-23.3* PTT-39.7* INR(PT)-2.2* [**2144-9-8**] 07:30AM [**Month/Day/Year 3143**] Glucose-82 UreaN-5* Creat-0.6 Na-142 K-4.3 Cl-104 HCO3-30 AnGap-12 [**2144-9-8**] 07:30AM [**Month/Day/Year 3143**] Calcium-8.5 Phos-3.9# Mg-1.8  Brief Hospital Course: ASSESSMENT: 83 y/o woman h/o SVT, bilateral PE on coumadin, chronic low back pain, and rheumatoid arthritis who was admitted to the ICU w/ AMS, fever, hypotension, and low back pain, and was found to have c diff colitis as well as concern for infected back hematoma.
+Patient received 5L NS in ED and [**Month/Day (4) **] pressure responded adequately.
+Transfered to MICU, where she received another 3L NS, resulting in hemodynamic stability.
+Never required pressor support.
+Started on PO vanc and IV flagyl initially, narrowed to PO vancomycin alone.
+Initial concern for infection, but after discussion with ID/Neurosurgery/Neuroradiology, felt less likely an infection and antibiotics were stopped.
+Also had burst fracture of indeterminate age at L4 that Nsurg recommended a TLSO brace when out of bed.
+She was not discharged on IV antibiotics, and will follow-up with ortho spine on [**2144-9-30**].
+Ortho spine also saw the patient while in house and also agreed with conservative management and follow-up as an outpatient.
+#AMS: Secondary to septic encephalopathy/hypotension, improved significantly back to baseline with fluid resuscitation and antibiotics.
+#Tachycardia: History of SVT, developed narrow complex tachycardia while off home metoprolol 25mg [**Hospital1 **] and verapamil 40mg daily, resolved after fluid and restarting home meds.
+#Adrenal Insufficiency: The patient received stress dose steroids in the setting of her infection and chronic prednisone use at home.
+Then, she was rapidly tapered and subsequently maintained on her home prednisone dose.
+Plan is to continue home prednisone dosing.
+#Pulmonary Embolism: The patient has been on chronic warfarin since [**2134**] when she had bilateral PEs.
+INR will need to be monitored while at rehab in light of antibiotics for treatment of C. diff infection.
+#HCT drop: HCT dropped from 32 on admission to 23, likely hemoconcentrated, baseline crits ~25 secondary to ACD, sideroblastic anemia, G6PD deficiency, and sickle cell trait.
+Hematology consulted, and recommended against transfusion as patient has received many transfusions in the past and there is concern for iron overload.
+She was seen by the chronic pain service, who recommended continuing her home tizanidine, lidocaine patch, and gabapentin.
+#G6PD: stable; continued folic acid 3 mg daily, and avoided NSAIDs/sulfa drugs.
+#Allergic Rhinitis: stable; maintained on Fexofenadine 60 mg (home loratidine not on formulary).
+- Monitoring INR in light of oral antibiotic regimen for treatment of C. diff, adjusting coumadin dosing as needed.
+- Ensure compliance with TLSO brace   Medications on Admission: Preadmissions medications listed are incomplete and require futher investigation.
+Albuterol Inhaler [**12-16**] PUFF IH Q6H:PRN shortness of breath 2.
+Alendronate Sodium 70 mg PO QMON 3.
+Citalopram 20 mg PO DAILY 4.
+Fexofenadine 60 mg PO DAILY 5.
+FoLIC Acid 3 mg PO DAILY 6.
+Gabapentin 300 mg PO HS 7.
+Lidocaine 5% Patch 1 PTCH TD DAILY 12 hours on.
+Metoprolol Tartrate 25 mg PO BID 9.
+Verapamil 40 mg PO Q12H 10.
+Warfarin 6 mg PO DAILY16 11.
+Oxybutynin 2.5 mg PO BID 12.
+OxycoDONE (Immediate Release)  10 mg PO Q6H:PRN pain 13.
+PredniSONE 10 mg PO DAILY 14.
+Tizanidine 2 mg PO DAILY 15.
+Cyanocobalamin 1000 mcg PO DAILY 16.
+Omeprazole 20 mg PO DAILY 17.
+Pyridoxine 100 mg PO DAILY   Discharge Medications: 1.
+Albuterol Inhaler [**12-16**] PUFF IH Q6H:PRN shortness of breath 2.
+Citalopram 20 mg PO DAILY 3.
+Fexofenadine 60 mg PO DAILY 4.
+FoLIC Acid 3 mg PO DAILY 5.
+Gabapentin 300 mg PO HS 6.
+Lidocaine 5% Patch 1 PTCH TD DAILY 12 hours on.
+Metoprolol Tartrate 25 mg PO BID 8.
+Omeprazole 20 mg PO DAILY 9.
+OxycoDONE (Immediate Release)  10 mg PO Q6H:PRN pain 10.
+Pyridoxine 100 mg PO DAILY 11.
+Tizanidine 2 mg PO DAILY 12.
+Verapamil 40 mg PO Q12H 13.
+Vancomycin Oral Liquid 125 mg PO Q6H 14.
+Alendronate Sodium 70 mg PO QMON 15.
+Cyanocobalamin 1000 mcg PO DAILY 16.
+Oxybutynin 2.5 mg PO BID 17.
+PredniSONE 10 mg PO DAILY 18.
+Warfarin 6 mg PO DAILY16   Discharge Disposition: Extended Care  Facility: [**Hospital **] Healthcare Center - [**Location (un) **]  Discharge Diagnosis: Primary: Sepsis from C difficile colitis Spinal epidural hematoma  Secondary: Rheumatoid arthritis   Discharge Condition: Mental Status: Clear and coherent.
+Discharge Instructions: Dear Ms. [**Known lastname **],  It was a pleasure taking care of you during your hospitalization at [**Hospital1 69**].
+You were found to have an infection of your large intestine known as C difficile - this is being treated with antibiotics and is improving.
+The neurosurgereons saw you as well and felt that there was no need for a surgical intervention at this time.
+Take all medications as instructed.
+You will complete a course of antibiotic called Vancomycin which is taken by mouth after discharge from the hospital.
+Followup Instructions: Department: INFECTIOUS DISEASE When: WEDNESDAY [**2144-9-9**] at 1:30 PM With: [**First Name8 (NamePattern2) 1955**] [**Last Name (NamePattern1) **], MD [**Telephone/Fax (1) 457**] Building: LM [**Hospital Unit Name **] [**Hospital 1422**] Campus: WEST     Best Parking: [**Hospital Ward Name **] Garage  Department: RADIOLOGY When: FRIDAY [**2144-9-11**] at 1:15 PM With: RADIOLOGY MRI [**Telephone/Fax (1) 590**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 861**] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage  Department: ORTHOPEDICS When: WEDNESDAY [**2144-9-16**] at 11:10 AM With: [**Name6 (MD) 8741**] [**Name8 (MD) **], MD [**Telephone/Fax (1) 1228**] Building: [**Hospital6 29**] [**Location (un) 551**] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage  Department: ORTHOPEDICS When: WEDNESDAY [**2144-9-30**] at 11:20 AM With: Dr. [**Last Name (STitle) **] [**Telephone/Fax (1) 1652**] Building: [**Location (un) 8170**] [**Location (un) **] MA

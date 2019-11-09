@@ -1,0 +1,21 @@
+Admission Date:  [**2142-5-22**]              Discharge Date:   [**2142-5-27**]  Date of Birth:  [**2060-5-11**]             Sex:   F  Service: MEDICINE  Allergies: Losartan / Lisinopril / Penicillins / Ultram  Attending:[**Last Name (NamePattern1) 1136**] Chief Complaint: Respiratory distress/hypoxia, abdominal pain  Major Surgical or Invasive Procedure: None   History of Present Illness: Ms. [**Known lastname 9483**] is an 82 yo woman with COPD (FEV1 44%), hx recurrent PNAs (acinetobacter, pseudomonas, E. coli) atrial fibrillation, chronic [**Known lastname 9215**], HTN, history of PE and DVT on Coumadin, recently discharged from [**Hospital1 18**] ([**2142-5-1**]) after elective L hip replacement.
+Her O2 sat dropped with attempts to lower supplemental O2.
+She underwent CXR which showed a multifocal pneumonia and she was treated with levofloxacin and vancomycin.
+A CT abdomen was performed and showed massive stool retention and dilation of the colon.
+Foley was placed for distended bladder, and 1200cc urine drained.
+Chronic diastolic CHF, EF 55% on lasix (not on ACE at primary MD's discretion) 7.
+Osteoarthritis 8.
+H/o myocarditis in [**2137**] with EF 20-25% at that time, cath negative -does not tolerate BB 9.
+Physical Exam: Vitals: 98.8 138/74 130 RR 22 O2 97% on NRB General: Thin elderly female, alert, oriented, mild respiratory distress HEENT: Sclera anicteric, MMM, oropharynx clear Neck: supple, JVP not elevated, no LAD Lungs: Rhonchi at bases b/l.
+No wheezes appreciated CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops Abdomen: soft, moderately distended, tender in LLQ, bowel sounds present, no rebound tenderness or guarding, no organomegaly Ext: no edema, feet cold but 2 dp pulses Neuro: Attentive, alert Psych: appropriate   Pertinent Results: ADMISSION LABS: [**2142-5-22**] Lacate 2.3 Na 141 / K 4.5 / Cl 103 / CO2 31 / BUN 21 / Cr .9 / BG 114 ALT 15 / AST 18 / Alk Phos 93 / TB .5 Lipase 11 Alb 3.3 WBC 14.8 / Hct 39.4 / Plt 316 INR 3.3 / PTT 33.1  DISCHARGE LABS: [**2142-5-27**] Na 139 / K 3.3 / Cl 105 / CO2 25 / BUN 8 / Cr .6 / BG 76 Ca 7.7 / Mg 2.7 / Phos 2.7 WBC 8.2 / Hct 32 / Plt 228  MICROBIOLOGY: [**2142-5-22**] Blood Cx negative [**2142-5-23**] Urine Legionella negative [**2142-5-23**] Sputum Cx -  E. coli sensitive to Ceftriaxone; MRSA sensitive to vancomycin  STUDIES: [**2142-5-22**] CXR - Multifocal lung base opacities; may represent multifocal pneumonia with superimposed atelectasis.
+[**2142-5-22**] CT Abd/Pelvis - 1.
+Consolidative bibasilar opacities in the lung bases, which may be due to infection or atelectasis.
+[**2142-5-23**] CXR - Slightly increased bilateral layering pleural effusions, which are moderately large with mild pulmonary edema   Brief Hospital Course: 82 yo female with history of COPD, recurrent pneumonia, diastolic congestive heart failure, and s/p left total hip arthroplasty on [**2142-4-26**] was admitted with respiratory distress and abdominal pain.
+Her sputum culture grew E.coli sensitive to ceftriaxone and MRSA.
+ASA 81 4.
+Klor-con 10 11.
+Fluticasone 50 mcg/Actuation Spray, Suspension [**Hospital1 **]: Two (2) Spray Nasal DAILY (Daily).
+DVT / PE 4.
+- Docusate, Bisacodyl, Senna, and Miralax - These are medications to help keep your bowel movements regular.
+Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more than 3 lbs.
+Followup Instructions: Appointment #1 Department: [**Hospital3 249**] When: WEDNESDAY [**2142-5-30**] at 10:00 AM With: [**Name6 (MD) **] [**Name8 (MD) 9501**], MD [**Telephone/Fax (1) 250**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage  Appointment #2 Department: DERMATOLOGY When: WEDNESDAY [**2142-6-6**] at 1:45 PM With: [**Name6 (MD) 2975**] [**Name8 (MD) 2976**], MD [**Telephone/Fax (1) 2977**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 551**] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage  Appointment #3 Department: [**Hospital Ward Name 706**] When: TUESDAY [**2142-7-3**] at 9:45 AM With: [**Year (4 digits) 706**] [**Telephone/Fax (1) 1125**] Building: [**Street Address(2) 1126**] ([**Location (un) **], MA) [**Location (un) **] Campus: OFF CAMPUS     Best Parking: On Street Parking

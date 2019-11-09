@@ -1,0 +1,43 @@
+Admission Date:  [**2140-4-6**]              Discharge Date:   [**2140-4-11**]  Date of Birth:  [**2078-11-11**]             Sex:   M  Service: MEDICINE  Allergies: Penicillins / Iodine; Iodine Containing / Carbamazepine  Attending:[**First Name3 (LF) 689**] Chief Complaint: seizure, vomiting, inability to protect airways, intubation  Major Surgical or Invasive Procedure: Mechanical Intubation and Ventilation Hemodialysis Exchange of Catheter of [**First Name3 (LF) **] Line   History of Present Illness: 61-year-old man with ESRD on [**First Name3 (LF) 2286**] MWF, liver disease, seizure disorder presented from [**Hospital3 **] facility with 2-3 days of diarrhea, nausea, vomiting.
+He then seized x 30 seconds, became alert again, but then vomited profusely and was intubated for airway protection.
+Was briefly on nicardipine gtt, but once on propofol for the intubation, his BP dropped and nicardipine was d/c'ed.
+Was given ceftriaxone 1 gm x 2, vanco 1 gm x 1, acyclovir 800 mg IV x 1.
+- ESRD on HD [**3-15**] idiopathic glomerulonephritis - Liver failure secondary to Hepatitis C - Epilepsy - This began in childhood with generalized tonic-clonic seizures.
+He is followed closely by neurologist Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 437**], for seizure prevention takes Lamictal 250 mg [**Hospital1 **], Keppra 375 mg [**Hospital1 **] plus an additional 250 mg [**Hospital1 **] after each hemodialysis session, Dilantin 200 mg [**Hospital1 **].
+- coagulase negative staph bacteremia secondary to HD line sepsis - History of CHF now with transesophogeal [**Hospital1 461**] in [**2139-9-12**] showing normal left ventricular function.
+- Hypertension - VRE - Septic arthritis of left shoulder - AVNRT s/p ablation [**2133**] PSH: - s/p two failed renal transplants - s/p arthroscopic debridement of L shoulder - synovectomy and tenotomy L shoulder,  Social History: Lives at [**Hospital3 **] facility on Mission [**Doctor Last Name **] called [**Hospital1 **] at [**Hospital1 1426**]; the facility, per his son does not help him take medications or provide any other care besides ensuring that the patient has 3 meals per day and that he is accounted for on a daily basis.
+CXR [**2140-4-6**]: An endotracheal tube tip terminates 4.5 cm from the carina.
+NG tube extends into the stomach.
+A [**Month/Day/Year 2286**] catheter tip lies within the proximal right atrium.
+Endotracheal tube tip 4.5 cm above the carina.
+# Acute diarrhea, nausea, vomiting: Likely norovirus given an outbreak at his living facility.
+He required a nicardipine gtt for a period of time.
+He was continued on a clonidine patch, lisinopril, and an increased dose of nifedipine.
+He had an exchange of his [**First Name (STitle) 2286**] line on [**4-8**].
+He will continue on his MWF [**Month/Year (2) 2286**] schedule.
+Thoracic surgery was consulted for a potential biopsy, but recommended CT guided biopsy.
+# CODE: Full  Medications on Admission: 1.
+B Complex-Vitamin C-Folic Acid 1 mg Capsule [**Last Name (STitle) **]: One (1) Cap  PO DAILY (Daily).
+Clonidine 0.2 mg/24 hr Patch Weekly [**Last Name (STitle) **]: One (1) Patch Weekly  Transdermal QSAT (every Saturday).
+Lamotrigine 100 mg Tablet [**Last Name (STitle) **]: 2.5 Tablets PO BID (2 times a  day).
+Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: One (1) Tablet,Rapid Dissolve, DR [**Last Name (STitle) **] DAILY (Daily).
+Levetiracetam 250 mg Tablet [**Last Name (STitle) **]: 1.5 Tablets PO BID (2 times  a day).
+Lisinopril 20 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO BID (2 times a  day).
+Levetiracetam 250 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO AFTER [**Last Name (STitle) **] ().
+Calcium Carbonate 500 mg Tablet, Chewable [**Last Name (STitle) **]: Two (2) Tablet, Chewable PO QID (4 times a day).
+Aspirin 81 mg Tablet, Chewable [**Last Name (STitle) **]: One (1) Tablet, Chewable  PO DAILY (Daily).
+Nifedipine 30 mg Tablet Sustained Release [**Last Name (STitle) **]: Two (2) Tablet Sustained Release PO TID (3 times a day).
+Rifaximin 200 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO TID (3 times  a day).
+Clonidine 0.2 mg/24 hr Patch Weekly [**Last Name (STitle) **]: One (1) Patch Weekly Transdermal QSAT (every Saturday).
+Lamotrigine 100 mg Tablet [**Last Name (STitle) **]: 2.5 Tablets PO BID (2 times a day).
+Aspirin 81 mg Tablet, Chewable [**Last Name (STitle) **]: One (1) Tablet, Chewable PO DAILY (Daily).
+Rifaximin 200 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO TID (3 times a day).
+Levetiracetam 250 mg Tablet [**Last Name (STitle) **]: 1.5 Tablets PO BID (2 times a day).
+Levetiracetam 250 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO AFTER EACH [**Last Name (STitle) **] ().
+Lisinopril 20 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO BID (2 times a day).
+Nifedipine 90 mg Tablet Sustained Release [**Last Name (STitle) **]: One (1) Tablet Sustained Release PO BID (2 times a day).
+Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: One (1) Tablet,Rapid Dissolve, DR [**Last Name (STitle) **] once a day.
+Calcium 500 mg Tablet [**Last Name (STitle) **]: Two (2) Tablet PO four times a day.
+B Complex-Vitamin C-Folic Acid 1 mg Capsule [**Last Name (STitle) **]: One (1) Capsule PO once a day.
+When you were admitted, you had a seizure and required a assistance to help you breathe.
+We adjusted the dose of your blood pressure medications because your blood pressure was elevated.

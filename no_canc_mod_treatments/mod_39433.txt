@@ -1,0 +1,43 @@
+Admission Date:  [**2107-10-24**]              Discharge Date:   [**2107-11-4**]  Date of Birth:  [**2041-12-26**]             Sex:   M  Service: MEDICINE  Allergies: Sulfa (Sulfonamide Antibiotics) / Penicillins  Attending:[**First Name3 (LF) 2698**] Chief Complaint: left leg infection  Major Surgical or Invasive Procedure: Operative Debridement for Necrotizing fasciitis Cardiac Catheterization Upper Endoscopy with injection and clipping of esophageal bleed  History of Present Illness: 65 y/o male with a history of sub total colectomy for colon cancer in [**2101**] who presented to [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] hospital with pimple on left buttock.
+He was diagnosed with necrotizing fasciitis and was transferred to [**Hospital1 18**] where he underwent surgical debridement.
+He has some discomfort in the affected groin area that is well controlled with current pain regimen.
+REVIEW OF SYSTEMS On review of systems, he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.
+Cardiac review of systems is notable for absence of chest pain, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope.
+Past Medical History: colon cancer s/p sub-total colectomy [**2101**] s/p appendectomy   Social History: - Tobacco: Quit 35 years ago.
+[**2107-11-1**] EGD: Blood was seen in the esophagus.
+Cardiac Cath (prelim report) [**2107-10-31**]: 1.
+A modest caliber AV grossve with 50% stenosis just after the origin of the OM2 and slow flow is also noted.
+Brief Hospital Course: Primary Reason for Hospitalization: 65M with history of Colon Ca (s/p hemicolectomy in [**2101**]) and no cardiac history who was transferred to [**Hospital1 18**] for operative debridement of necrotizing fasciitis and whose post-op course was complicated by STEMI and then upper GI bleed.
+Initially he was covered broadly with Vancomycin and Zosyn until sensitivities became available.
+He was then switched to Penicillin and Clindamycin.
+He was therefore switched to linezolid and instructed to add penicillin to his allergy list.
+He will complete a 2 week course of antibiotics from day of debridement ([**2107-10-24**]) with last dose given on [**11-7**].
+Regardless, the antibiotics given are appropriate for both organisms.
+Subsequent 12 lead ECG showed inferior/posterior/lateral ST elevations.
+He was therefore started on aggressive medical antiplatelet therapy with ASA, Plavix 600mg X1, heparin X72hrs, and Integrilin X 24hrs.
+The intensity of his medical regimen was decreased because of GI bleed requiring 5 units of blood and he was discharged on ASA 81mg daily.
+He was also started on Atorvastatin 80mg.
+Metoprolol will be started at that time if BPs tolerate.
+# Acute Systolic Heart Failure (EF: 35-40%): Due to STEMI as described above and exacerbated by fluid resuscitation during septic shock.
+He was diuresed with IV lasix initially but was stable and euvolemic for several days prior to discharge and therefore he was not discharged on any diuretic.
+However he may require a low dose diuretic in the future.
+He was started on lisinopril 5mg daily which will be uptitrated as BPs tolerate.
+Metoprolol not started prior to discharge because of low-normal BP.
+Patient was intubated for airway protection during his EGD, which showed a linear ulcer at the GE junction, that may have been [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Last Name (NamePattern1) **] tear.
+Bleeding was stopped with epi and clips.
+Patient was kept NPO for 24 hours and then diet slowly advanced.
+He was initially on a PPI drip and was discharged on Pantoprazole 40mg [**Hospital1 **].
+Duration of therapy to be decided at GI f/u appointment.
+TRANSITIONAL ISSUES: - Duration of PPI therapy to be determined at [**Hospital **] clinic f/u - CBC and chem-7 should be checked by PCP at post hospital f/u appointment - LFTs should be monitored by PCP as appropriate for new initation of statin therapy - Add penicillin to allergy list (rash)  Medications on Admission: none  Discharge Medications: 1. atorvastatin 80 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+Disp:*30 Tablet(s)* Refills:*1* 2. oxycodone-acetaminophen 5-500 mg Capsule Sig: One (1) Capsule PO once a day as needed for wound vac change: take 2 hrs before wound vac change.
+Disp:*10 Capsule(s)* Refills:*0* 3. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+Disp:*30 Tablet, Chewable(s)* Refills:*1* 4. linezolid 600 mg Tablet Sig: One (1) Tablet PO twice a day: Last dose in evening on [**11-7**].
+)(s)* Refills:*0* 6. lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+You were transferred here to have surgery for a life-threatening infection called necrotizing fasciitis.
+In addition to the surgery for your infection, you were also treated with antibiotics.
+You will need to be on oral antibiotics (last day [**11-7**]).
+You also had a device placed to help you heal from your surgery which is called a wound vac.
+You were started on multiple new medications for your heart.
+START: Aspirin 81mg by mouth once per day START: Lisinopril 5mg by mouth once per day START: Atorvastatin 80mg by mouth once per day START: Linezolid 600mg by mouth twice per day, last day [**11-7**] START: Pantoprazole 40mg by mouth twice per day  In addition you will need to complete your course of antibiotics  START: Linezolid 600mg Twice Daily.
+Cardiology clinic to address complications related to your heart attack 4.
+Followup Instructions: Department: Primary Care Name: Dr. [**First Name8 (NamePattern2) 56281**] [**Last Name (NamePattern1) 19952**] Location: [**Hospital1 **] [**Location (un) **] Address: [**Doctor Last Name **], [**Location (un) **],[**Numeric Identifier 89216**] Phone: [**Telephone/Fax (1) 84402**] When: Wednesday, [**11-9**] at 10AM  Department: GENERAL SURGERY/[**Hospital Unit Name 2193**] When: TUESDAY [**2107-11-15**] at 4:15 PM With: ACUTE CARE CLINIC [**Telephone/Fax (1) 600**] Building: LM [**Hospital Ward Name **] Bldg ([**Last Name (NamePattern1) **]) [**Location (un) **] Campus: WEST     Best Parking: [**Hospital Ward Name **] Garage  Department: CARDIAC SERVICES When: MONDAY [**2107-12-5**] at 9:20 AM With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 2385**], MD [**Telephone/Fax (1) 62**] Building: [**Hospital6 29**] [**Location (un) **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage  Department: DIV.

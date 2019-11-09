@@ -1,0 +1,46 @@
+Admission Date:  [**2111-9-21**]              Discharge Date:   [**2111-9-28**]  Date of Birth:  [**2062-9-18**]             Sex:   M  Service: MEDICINE  Allergies: Clindamycin / Ace Inhibitors / Valsartan  Attending:[**First Name3 (LF) 1928**] Chief Complaint: Fever, Rigors  Major Surgical or Invasive Procedure: Transesophageal echocardiogram Tunneled catheter removal Tunneled catheter placement   History of Present Illness: 49 y/o M with hx of HTN, DM, ESRD on HD, HIV (CD4 560, HIV VL 116 [**8-19**]), and hx of PE on coumadin since [**2098**] presented to ED with fevers/rigors with [**Year (4 digits) 2286**] today.
+He was dialyzed completely but spiked temp to 102 and was given Vanc and 1gram tylenol.
+Of note, recent documentation from transplant that he is now off the kidney transplant list because of medication non-compliance.
+ROS: Denies fever, chills, night sweats, headache, vision changes, rhinorrhea, congestion, sore throat, shortness of breath, chest pain, abdominal pain, nausea, vomiting, diarrhea, constipation, BRBPR, melena, hematochezia, dysuria, hematuria.
+Past Medical History: - Type 1 diabetes - HIV: dx'd [**2096**]; (CD4 560, HIV VL 116 [**8-19**]) - ESRD on HD MWF, attempted on PD on transplant list, recently off transplant list for med noncomplaince (clinical study for HIV/solid organ transplant) - PE, on Coumadin, diagnosed [**6-16**] - Malignant Hypertension - hx Serratia bacteremia (presumed AV graft) tx 6 wks meropenem  - Hx schistosomiasis - Restless leg syndrome - Peripheral neuropathy on gabapentin - S/p cholecystectomy - s/p R nephrectomy in [**2092**] secondary renal nephrolithiasis - R IJ clot [**6-18**]  Social History: Quit smoking for [**1-13**] yrs, used to smoke for 25 yrs with 0.5ppd, occ drinking, denies illicit drug use, lives with family.
+_________________________________________________________                              STAPH AUREUS COAG +                              | ERYTHROMYCIN----------   =>8 R GENTAMICIN------------ <=0.5 S LEVOFLOXACIN----------     4 R OXACILLIN-------------   0.5 S TRIMETHOPRIM/SULFA---- =>320 R  Anaerobic Bottle Gram Stain (Final [**2111-9-21**]):       GRAM POSITIVE COCCI IN PAIRS AND CLUSTERS.
+HIV-1 Viral Load/Ultrasensitive (Final [**2111-9-25**]):  143 copies/ml.
+Detection of viruses other than those listed above will only be       performed on specific request.
+Refer to respiratory viral culture for further information.
+Status post right nephrectomy.
+Brief Hospital Course: 49 y/o M with hx of HTN, DM, ESRD on HD, HIV (CD4 560, HIV VL 116 [**8-19**]), and hx of PE on coumadin since [**2098**] presented to ED with fevers/rigors with [**Year (4 digits) 2286**] today.
+# HD Line Infection: Patient presented with fever/rigors after [**Year (4 digits) 2286**] on the day of admission.
+Right IJ HD catheter was noted to have expressible pus in the tunnel.
+Patient was started on Vancomycin and Zosyn for empiric coverage and admitted to the ICU.
+After arrival to the floor, patient was initially continued on Vancomycin and Zosyn until cultures returned as MSSA.
+Patient was started on Nafcillin 2g IV q4 hours.
+On [**2111-9-26**] (hospital day 5), patient was taken to IR for re-siting of HD line.
+Left IJ HD catheter was successfully placed and infected Right IJ catheter was removed with no complications.
+At this time, Nafcillin was changed to Cefazolin qHD for convenience of the patient after discharge.
+Patient remained hemodynamically stable after treatment of cefazolin with no signs of worsening infection or seeding of infection to secondary sites.
+Cefazolin is to be continued for total 4-week course from Line removal ([**2111-9-26**]).
+Right IJ HD catheter was removed and Left IJ Catheter placed as above.
+On admission, Nifedipine CR 60 mg PO BID was continued.
+On transfer to the floor, blood pressure was noted to be elevated and he was started on hydralazine 10 mg PO q8h.
+Blood pressures were better controlled, but decision was made to switch from hydralazine to labetalol and attempt was made to titrate this up.
+Due to this, systolic blood pressure occasionally reached 200-220, and was given hydralazine IV on a prn basis.
+Prior to discharge, labetalol was discontinued and Toprol XL 100mg [**Hospital1 **] was started (patient states this was his home dose).
+Mr. [**Known lastname 94523**] was counseled on the importance of medication adherance during his admission.
+His outpatient ID doctor also recommended to stop his ARVs on discharge given that he had been refusing some of these medications in the hospital and thought that stopping them at once would help prevent resistance patterns.
+Patient became hypoglycemic overnight due to reduced appetite and evening NPH discontinued, but AM NPH maintained due to type I history.
+Patient discharged home on previous regimen with Regular insulin sliding scale.
+Given Albuterol prn.
+Currently on coumadin as outpatient, but found to be sub-therapeutic on admission.
+Patient also noted to have IJ clot on U/S, so placed on heparin gtt.
+Heparin held for IR procedure.
+Prior to discharge, coumadin was restarted with 5mg loading dose then placed on home dose of 2 mg qday.
+Medications on Admission: -Docusate Sodium 100 mg PO BID -Tenofovir Disoproxil (Viread) 300 mg PO 1X/WEEK (SA) Start: saturday -raltegravir 400 mg PO BID -Ondansetron 4 mg IV Q8H:PRN nausea -NIFEdipine CR 60 mg PO BID -LaMIVudine 100 mg PO DAILY -Gabapentin 200 mg PO TID -Fexofenadine 60 mg PO BID:PRN congestion -Etravirine 200 mg PO BID -Clotrimazole 1 TROC PO TID:PRN thrush -Cinacalcet 90 mg PO DAILY -coumadin 2mg/3mg daily -NPH 10 units in am and 7 units in pm daily -RISS  Discharge Disposition: Home  Discharge Diagnosis: Primary Diagnosis: Indwelling Catheter Infection (on admission) Bacteremia ESRD Hypertension  Secondary Diagnoses: Human Immunodeficiency Virus infection Type 1 diabetes Restless leg syndrome Peripheral neuropathy   Discharge Condition: Hemodynamically Stable   Discharge Instructions: You came to the hospital because of fever and chills.
+You received IV antibiotics in the hospital for the treatment of your infection.
+You will need to receive 4 weeks of antibiotic therapy to treat your infection--your antibiotics will be given to you at your [**Year (4 digits) 2286**] sessions.
+During your hospital admission, your blood pressure was elevated and was treated with additional medication to lower it.
+Your HIV medications have been stopped.
+Please do not take these after your discharge.
+Please discuss restarting these medications with Dr. [**Last Name (STitle) 724**] at your next [**Last Name (STitle) 648**].
+It is VERY important that you take your medications as prescribed.
+Missing just one dose of your blood presure medication will cause your blood pressure to rise.
+CHANGES IN MEDICATION: START Toprol XL 100 mg by mouth twice a day START Sevelamer 1600 mg by mouth with meals STOP Etravirine STOP Raltegravir STOP Lamivudine STOP Tenofovir Disoproxil (Viread) Please continue all other medications as previously prescribed  If you experience fever, chills, lightheadedness, pain at your catheter site, fainting, changes in your mental status or any other symptom that concerns you please call your primary care physician or go to the nearest emergency room for evaluation.

@@ -1,0 +1,85 @@
+Admission Date:  [**2137-2-27**]              Discharge Date:   [**2137-3-19**]  Date of Birth:  [**2058-10-27**]             Sex:   M  Service: MEDICINE  Allergies: Hydromorphone / Morphine / Amoxicillin  Attending:[**First Name3 (LF) 1145**] Chief Complaint: SOB  Major Surgical or Invasive Procedure: HD catheter placement  History of Present Illness: Patient is a 78 year old male with past medical history of CAD NSTEMI, s/p CABG (LIMA to the LAD, SVG to OM1 and OM2) and St. [**Initials (NamePattern4) 1525**] [**Last Name (NamePattern4) 1291**] ([**12-12**]) with course complivated by wound dehisence, chronic systolic dysfunction EF 30%, ESRD on HD, afib on coumadin, stroke, chronic anemia, recent lower GI bleed with bleeding rectal ulcers and CMV colitis, and chronic left-sided pleural effusion transferred from [**Hospital 100**] Rehab for increasing SOB and lethargy after receiving 1 unit PRBCs earlier today for Hct 21; he recieved HD yesterday.
+HD was stopped prematurely yesterday due to hypotension to 60/40.
+Of note, patient was discharged on [**2-15**] from the [**Hospital1 **] service after a similar presentation, with status improving after emergent dialysis removing 10 liters and thoracentesis.
+He was placed on BiPAP with resolution of respiratory distress.
+CARDIAC RISK FACTORS: Diabetes, Dyslipidemia, Hypertension 2.
+CARDIAC HISTORY: In [**2135-9-3**], per the patient's wife report, the patient had a stent placed to the LAD and two other vessels and did well on plavix, aspirin and coreg with an EF of 45%.
+He underwent a CABG LIMA to LAD saphenous graft sequential to an OM1 and OM2 and [**Hospital3 **] [**Hospital3 1291**].
+Post -operatively course complicated by severe hyptnesion requiring high dose pressor support with vasopressin, epinephrine and levophed.
+A balloon pump was placed for several days.
+He required multiple blood products.
+he was transferred to [**Hospital 100**] rehab from OSH for an NSTEMI, [**Hospital 1291**] and CABG complicated by multiple issues described below.
+-CABG:  LIMA to LAD saphenous graft sequential to an OM1 and OM2 and [**Hospital3 **] [**Hospital3 1291**] [**12-12**] -PERCUTANEOUS CORONARY INTERVENTIONS:  DES to LAD in [**2136**], prior  stent to RCA and LAD -PACING/ICD:  none 3.
+OTHER PAST MEDICAL HISTORY: Chronic systolic dysfunction (EF 30%) ESRD on HD Chronic left-sided pleural effusion Prior GI bleed - ?rectal ulcer Hyperlipidemia IDDM chronic atrial fibrillation on coumadin Stoke with no residual neurologic deficits Hypothyroid AS s/p [**Year (4 digits) 1291**] [**Hospital3 **] Hyperparathyroidism Right AV fistula Rectal Ulcers: CMV positive Blood cultures during his prior hospitalization grew gram negative rods speciated to Aeromonas hydrophilia for which he was treated with 6 weeks of ciprofloxacin last day of therapy [**2137-2-5**].
+During this time he developed lower GI bleed, colonscopy revealed rectal uclers which were cauterizated and biospy was CMV positive.
+Coumadin for afib held and was restarted the nigth prior to admission to [**Hospital1 18**].
+More recently on [**2-5**] at [**Hospital 100**] Rehab, due to persistent diarrhea, the patient was empirically started on Flagyl for cdiff colitis  Social History: -Tobacco history:  none -ETOH:  none -Illicit drugs: none Married, former salesman, several children.
+EXTREMITIES: Warm wel perfused  Pertinent Results: ADMISSION LABS:  [**2137-2-27**] 07:45PM BLOOD WBC-15.9* RBC-2.35*# Hgb-7.1*# Hct-21.0*# MCV-90 MCH-30.7 MCHC-34.3 RDW-16.9* Plt Ct-297 [**2137-2-27**] 07:45PM BLOOD PT-23.7* PTT-30.8 INR(PT)-2.3* [**2137-2-27**] 07:45PM BLOOD Glucose-139* UreaN-33* Creat-2.0*# Na-138 K-3.8 Cl-96 HCO3-34* AnGap-12 [**2137-2-27**] 07:45PM BLOOD CK-MB-6 proBNP-[**Numeric Identifier 89668**]* [**2137-2-28**] 05:10AM BLOOD Calcium-10.3 Phos-4.7* Mg-2.1 [**2137-2-27**] 10:26PM BLOOD Type-ART pO2-330* pCO2-51* pH-7.45 calTCO2-37* Base XS-10 Intubat-NOT INTUBA .
+A bileaflet aortic valve prosthesis is present.
+The RVH sheath was coverted to a CVVH catheter following right heart cathterization.
+A bileaflet aortic valve prosthesis is present.
+The aortic valve prosthesis appears well seated, with normal transvalvular gradients.
+Stomach is distended with air and fluid, gastrostomy tube in place.
+HIGH LEVEL GENTAMICIN SCREEN: Susceptible to 500 mcg/ml of                               ENTEROCOCCUS FAECIUM                              | AMPICILLIN------------  =>32 R DAPTOMYCIN------------       S [**Year/Month/Day **]-------------     2 S PENICILLIN G----------  =>64 R VANCOMYCIN------------  =>32 R     Anaerobic Bottle Gram Stain (Final [**2137-3-7**]):       REPORTED BY PHONE TO DR. [**Last Name (STitle) **] [**Last Name (NamePattern4) 25629**] ON [**2137-3-7**] AT 0030.
+Brief Hospital Course: HOSPITAL COURSE 78 year old male with past medical history of CAD, NSTEMI, s/p CABG (LIMA to the LAD, SVG to OM1 and OM2) and St. [**Initials (NamePattern4) 1525**] [**Last Name (NamePattern4) 1291**] ([**12-12**]) with course complivated by wound dehisence, chronic systolic dysfunction EF 30%, ESRD on HD, afib on coumadin, anemia, recent lower GI bleed with bleeding rectal ulcers and CMV colitis with worsening SOB, acute decompensated heart failure.
+After significant discussion regarding sepsis, failure of dialysis without pressor support, multiple wound infections and multiple co-morbities, the patients was made comfort measures only on HD 9.
+Heparin gtt was continued to prevent stroke per families wishes and dopamin was slowly weaned off.
+CVVH, antibiotic therapy and all other medications and lab draws were discontinued.
+Goals of care was readdressed with the family and hemodialysis was re-initiated.
+Antibiotic therapy ([**Name (NI) **]) was restarted to cover staph and enterococcus (VRE) positive blood cultures.
+Still holding all cardiac meds to allow BP for HD.
+Acute decompensation also likely triggered by unit of blood given earlier today at rehab facility.
+Swan could not be floated but had RHC during HD cath placement which showed wedge of 20.
+CVVH initiated for volume management and NC for respiratory support.
+Dopamine gtt required to maintain diuresis with CVVH.
+Pt's fluid status now being managed through HD and ACEi, Beta blocker being held to allow for blood presure room during HD.
+ESRD: Status post HD catheter placement on [**2-28**] after large graft hematoma.
+Tolerating HD treatments as above and plan Mon/Wed/Fri schedule.
+Dr. [**Name (NI) 118**], pt's nephrologist who has followed pt very closely here, will continue to consult for HD issues after transfer.
+Transfused 3 units of PRBCs during admission.
+C diff sent off as patient was being treated at rehab facility with PO vanco and flagyl.
+Has rec'd 2U PRBC during last HD treatments and continued epogen injections during HD.
+?s in pairs & clusters grew from blood cx from femoral line and art line on HD 6 which ultimately speciated to staph aureus.
+He was continued on Vancomycin.
+HD line was not removed, but changed over wire HD 7 after extensive discussion with Renal consult and family regarding access.
+At this time the patient was CMO and off antibiotic therapy.
+On HD 13, [**Name (NI) **] PO was started to treat staph aureas and VRE after rediscussion of goals of care.
+He was continued on continuous dopamine for pressor support until goals of care were discussed and dopamine was discontinued.
+Now BP is rising off of cardiac meds.
+Transplant surgery had no plans to evacuate hematoma or fix graft while patient unstable and bacteremic.
+Heparin gtt was continued for anticoagulation.
+He was started on oral vancomycin, metronidazole and gancyclovir.
+Gangcyclovir discontinued on HD 6.
+Oral vancomycin and IV metronidazole were discontinued on HD 7 after culture date negative.
+ANTICOAGULATION: Despite persistent anemia and GIB risk with rectal ulcers, he was continued on heparin gtt given multiple indications, including atrial fibrillation, mechanical valve and presumed clot burden noted on previous hospitalizations.
+Coumadin was restarted on [**3-18**] at 2mg daily and INR should be checked on [**3-20**].
+He was started on amiodarone 400mg three times daily but this medicine was held when pt made comfort care.
+Coumadin restarted on [**3-18**] at 2mg daily and currently on heparin drip as a bridge.
+CAD: Status post CABG [**12-12**].
+Holding aspirin due to GIB.
+Will need to restart lantus when tube feedings are started.
+Hypothyroid: On levothyroxine 75 mcg.
+Pt is alert, talkative, aware of his situation but wants to continue aggressive care for his family.
+He currently has minimal SOB that is managed well with low dose Morphine IV and no further CP.
+Medications on Admission: Acetaminophen 650 mg QID PRN pain ASA 81 mg daily Ergocalciferol (vitamin D2) 50,000 unit qWednesday Lantus 17units qPM Lactobacillus acidoph-pectin Levothyroxine 75 mcg daily Metronidazole 500 mg TID (completed [**2-26**]) Omeprazole 40 mg daily Sertraline 50 mg daily Warfarin 1 mg daily Carvedilol 3.125 mg [**Hospital1 **] B complex-vitamin C-folic acid 1 mg daily Cinacalcet 30 mg daily PO Vanco Megestrol  Discharge Medications: 1. acetaminophen 650 mg/20.3 mL Solution Sig: Twenty (20) ml PO Q6H (every 6 hours) as needed for fever, pain.
+Heparin Flush (10 units/ml) 2 mL IV PRN line flush PICC, heparin dependent: Flush with 10mL Normal Saline followed by Heparin as above daily and PRN per lumen.
+4. zinc oxide-cod liver oil 40 % Ointment Sig: One (1) application Topical [**Hospital1 **] (2 times a day) as needed for bottom irritation.
+[**Hospital1 11958**] 600 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 hours): Last dose after dialysis on [**2137-3-20**].
+6. morphine 2 mg/mL Syringe Sig: 0.5-1 ml Injection five times a day as needed for pain or shortness of breath.
+7. lorazepam 2 mg/mL Syringe Sig: 0.5-1 ml Injection Q4H (every 4 hours) as needed for anxiety.
+8. olanzapine 5 mg Tablet, Rapid Dissolve Sig: One (1) Tablet, Rapid Dissolve PO TID (3 times a day) as needed for confusion or agitation.
+9. insulin lispro 100 unit/mL Solution Sig: 0-14 units Subcutaneous four times a day: before meals and qhs.
+10. levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+11. sertraline 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily): Please start on [**2137-3-21**] when [**Date Range **] is finished.
+12. heparin (porcine)-0.45% NaCl 25,000 unit/250 mL Parenteral Solution Sig: as per weight based heparin protocol units Intravenous continuous: D/C when INR > 2.0.
+13. warfarin 1 mg Tablet Sig: Two (2) Tablet PO once a day: Check INR on Thursday [**2137-3-21**] and adjust dose accordingly.
+It was difficult to do dialysis because your blood pressure was very low and you needed medicines to help keep your blood pressure up.
+Stop taking Omeprazole, Megatrol, vancomycin, carvedilol, lactobacillus, aspirin, ergocalciferol, and nephrocaps.
+Start taking Tylenol as needed for pain and fever 3.
+Start Heparin drip to prevent blood clots.
+We have started coumadin pills to replace the heparin when the coumadin level is therapeutic 4.
+Start Morphine as needed for pain 7.
+Start olanzipine as needed to agitation 9.
+You will need to restart lantus if tube feedings are started.
+[**Telephone/Fax (1) 62**] on [**Hospital Ward Name 23**] 7 at [**Hospital1 18**].
+He will be available to see patient on an emergent basis but does not feel that routine f/u is needed at this time.

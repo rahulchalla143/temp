@@ -1,0 +1,6 @@
+Admission Date:  [**2123-3-9**]              Discharge Date:   [**2123-3-15**]  Date of Birth:  [**2042-11-1**]             Sex:   F  Service: CARDIOTHORACIC  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 1505**] Chief Complaint: Dyspnea on exertion  Major Surgical or Invasive Procedure: [**2123-3-10**] - AVR (23mm [**Company 1543**] Mosaic Porcine)   History of Present Illness: 80 year old female with history of hypertension and hyperlipidemia with known aortic stenosis for 6 months who presents for evaluation for aortic valve replacment.
+Peak gradient 7 mm Hg, mean 6 mm Hg on aortic valve.
+Remaining exam is unchanged.
+[**2123-3-9**] Cardiac Catheterization Clean coronaries  Brief Hospital Course: Ms. [**Known lastname **] was admitted to the [**Hospital1 18**] on [**2123-3-9**] for a cardiac catheterization in preparation for an aortic valve replacement.
+Her cardiac catheterization revealed clean coronaries and severe aortic stenosis.
+Postoperatively she wastaken to the intensive care unit for invasive hemodynamic monitoring.

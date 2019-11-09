@@ -1,0 +1,34 @@
+Admission Date:  [**2188-3-9**]              Discharge Date:   [**2188-3-19**]  Date of Birth:  [**2108-7-24**]             Sex:   M  Service: SURGERY  Allergies: Latex  Attending:[**First Name3 (LF) 668**] Chief Complaint: Reversal of Colostomy  Major Surgical or Invasive Procedure: [**2188-3-10**]: Exploratory laparotomy and takedown of Hartmann's procedure.
+History of Present Illness: This is a 79-year-old male who underwent an abdominal aortic aneurysm repair ([**4-18**]) which was complicated by ischemic colon requiring colostomy/hartmanns procedure ([**2187-4-26**]) complicated by stomal prolapse 4-5 cm wide presents for reversal of colostomy.
+Pt stopped Coumadin([**3-2**]), Plavix ([**3-2**]) and apsrin ([**3-1**]) 4-5 days prior to surgery.
+He was discharged on Lovenox and returns today for preop eval.
+Past Medical History: AAA, repair bilat renal stents [**2187-4-24**] L hemicolectomy with Hartmanns/colostomy [**2187-4-26**] debridement of peripancreatic necrosis [**2187-5-25**] HTN Hypercholesterolemia DM Afib (off coumadin) claudication vericose veins GERD anxiety  Social History: pt denies ETOH cigarettes or illicit drug use.
+colostomy bag brown stool Skin: around colostomy no calor/rubor/tumor/dolor or other signs of infection.
+Ext: no edema    Pertinent Results: On Admission: [**2188-3-9**] WBC-7.5 RBC-3.72* Hgb-12.1* Hct-34.2* MCV-92 MCH-32.6* MCHC-35.5* RDW-13.7 Plt Ct-152 PT-13.3 PTT-27.6 INR(PT)-1.1 Glucose-91 UreaN-24* Creat-1.3* Na-138 K-4.6 Cl-102 HCO3-29 AnGap-12 Calcium-9.1 Phos-3.2 Mg-2.0 At Discharge: [**2188-3-18**] WBC-10.2 RBC-3.12* Hgb-9.9* Hct-27.9* MCV-90 MCH-31.8 MCHC-35.5* RDW-14.3 Plt Ct-256 PT-23.2* PTT-32.7 INR(PT)-2.2* Glucose-111* UreaN-24* Creat-1.3* Na-135 K-3.9 Cl-102 HCO3-28 AnGap-9 Calcium-8.2* Phos-2.5* Mg-2.0  Brief Hospital Course: 79 y/o male who was admitted for pre-op heparinization and was taken to the OR for ex lap with reversal of his Hartmans by Dr [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **].
+ASA and plavix were restarted on POD 1.
+A heparin drip was started on POD 2.
+Coumadin was restarted on pod 2 once PTT was in range.
+Cardiology was consulted, and recommended uptitrating the metoprolol as BP allowed and titrating off the IV diltiazem.
+This was done with conversion to PO meds over 2 days with the diltiazem drip stopped.
+Six weeks of PO Vanco was recommended by ID.
+He was started on vancomycin 250mg q 6 hours x 10 days.
+The open area at the site of the ostomy takedown required a small saline wet to dry packing dressing [**Hospital1 **].
+Coumadin was started at 5mg qd on [**3-12**].
+Coumadin was held on [**3-17**].
+On [**3-18**], 3mg of coumadin was given for INR of 2.2.
+Coumadin 5mg daily was ordered.
+Rehab was recommended to increase endurance, progress distance ambulated and maximize function.
+A rehab bed was available at [**Hospital **] Rehab Hospital.
+Medications on Admission: Asprin 81 mg (stopped Sat [**3-1**]) Plavix 75 mg QD (stopped sun [**3-2**]) Coumadin 5mg QD (stopped Sat [**3-1**]) gabapentin 300mg QD lisinopril 5mg QD metoprolol 50mg QD simvastatin 20mg QD   Discharge Medications: 1.
+Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+Famotidine 20 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours).
+Diltiazem HCl 30 mg Tablet Sig: One (1) Tablet PO TID (3 times a day).
+Hydrocodone-Acetaminophen 5-500 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed.
+Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours).
+Warfarin 5 mg Tablet Sig: One (1) Tablet PO Once Daily at 4 PM: inr daily until stable.
+Reglan 5 mg Tablet Sig: One (1) Tablet PO four times a day.
+Vancomycin 250 mg Capsule Sig: One (1) Capsule PO Q6H (every 6 hours) for 7 days: then 150 QID x1 week then  150mg BIDx1 wk, then  150mg Qday x1 wk then 150 QOD x1 wk then 1 week of Q3days.
+Insulin Regular Human 100 unit/mL Solution Sig: follow sliding scale  Injection ASDIR (AS DIRECTED): qid see printed scale.
+Discharge Disposition: Extended Care  Facility: [**Hospital3 7**] & Rehab Center - [**Hospital1 8**]  Discharge Diagnosis: s/p Hartmanns reversal Atrial fibrillation C.difficile   Discharge Condition: Stable/Fair   Discharge Instructions: Please call Dr[**Name (NI) 670**] office at [**Telephone/Fax (1) 673**] for fever > 101, chills, nausea, vomiting, increased abdminal pain, wound drainage or erythema, increase in diarrhea (currently  c diff positive on PO Vanco),  or constipation.
+Follow up appointment with Dr [**Last Name (STitle) **] scheduled for [**3-26**] due to changes in cardiac meds during admission.

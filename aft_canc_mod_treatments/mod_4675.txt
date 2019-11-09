@@ -1,0 +1,37 @@
+Admission Date:  [**2190-10-19**]              Discharge Date:   [**2190-11-20**]  Date of Birth:  [**2128-3-1**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**Last Name (un) 85086**] Chief Complaint: Fever, cough, weakness  Major Surgical or Invasive Procedure: Rigid bronchoscopy and endobronchial debulking of squamous cell lung mass [**10-21**] Endotracheal intubation [**10-21**]   History of Present Illness: Mr. [**Known lastname 10689**] is a 62 y/o man w/ recently-diagnosed LUL poorly-differentiated squamous cell lung cancer admitted for hypotension and fever secondary to a post-obstructive pneumonia.
+On [**10-14**], patient underwent a flexible bronchoscopy with endobronchial biopsies, and a linear endobronchial ultrasound with lymph node biopsies (both procedures performed by Dr. [**Last Name (STitle) **].
+Patient was given 3L NS, 1 gram IV vancomycin, and 750 mg PO levofloxacin, and sent to the MICU.
+Started on ampicillin/sulbactam (unasyn) and continued on levofloxacin in the MICU.
+Patient's procedure was c/b hypoventilation and PaCO2 noted at one point to be > than 100.
+Mechanical ventilation/intubation in PACU lowered PaCO2 to ~ mid-50's and patient was extubated, then transferred to the floor (O2 saturation > 90%).
+Progression of left upper lobe atelectasis and consolidation as above.
+Status post recent debridement with gas in the area of the previously seen lesion and re-opening of the left upper lobe bronchus, as above.
+After infectious work up was negative on multiple occassions, the fevers were attributed to his tumor and he was started on scheduled acetaminophen and continuous IVF.
+The patient was started on Vancomycin and Levofloxacin in the ED but was switched to Ampicillin/Sulbactam in the MICU.
+Interventional pulmonology performed a rigid bronchoscopy with bulk resection on [**10-21**].
+Antibiotics were again switched to Levofloxacin and Metronidazole per ID's recommendations.
+The patient subsequently began radiation therapy in an effort to shrink the tumor with hopes that this would be definitive therapy for the pneumonia.
+The patient was again transitioned from Levofloxacin and Flagyl to Ampiclliin/Sulbactam.
+Antibiotics were discontinued at discharge as the patient had completed over 20 days of antibiotics and there was little concern for infectious etiology of his fevers per above.
+The patient subsequently began XRT treatments to shrink the tumor enough to treat the post-obstructive pneumonia.
+Thoracic surgery was consulted and performed a mediastinoscopy for which the sampled lymph nodes were negative for malignant cells.
+The patient was initially treated with a heparin drip due to concerns over renal function.
+The patient was eventually treated with Enoxaparin 80 mg subcutaneous injection twice daily and was discharged home with instructions to continue the injections.
+Combivent 18-103 mcg/Actuation Aerosol Sig: [**2-6**]  Inhalation every 4-6 hours as needed for shortness of breath or wheezing.
+Codeine-Guaifenesin 10-100 mg/5 mL Syrup Sig: 5-10 MLs PO Q6H (every 6 hours) as needed for cough for 2 weeks.
+Disp:*1 300 mL bottle* Refills:*1* 3. fluconazole 200 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours) for 8 days.
+Disp:*8 Tablet(s)* Refills:*0* 4. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every 6 hours).
+Lovenox 80 mg/0.8 mL Syringe Sig: Seventy (70) mg Subcutaneous twice a day.
+Disp:*10 syringes* Refills:*0* 6. lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO Q4H (every 4 hours) as needed for anxiety.
+Disp:*20 Tablet(s)* Refills:*0* 7. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2* 8. morphine 15 mg Tablet Sig: One (1) Tablet PO Q4H (every 4 hours) as needed for pain.
+You had a procedure to debulk the lung cancer and attempt to open your airways in order to allow the pneumonia to resolve.
+You are scheduled for a PET-CT scan as an outpatient, you will need to follow the directions for oral contrast as provided prior to discharge.
+START using Codeine-Guaifenesin cough syrup, [**6-14**] mL by mouth every six hours as needed for cough 3.
+START using Fluconazole 200 mg by mouth once a day.
+START taking Acetaminophen 325 mg. Take two tablets by mouth every six hours as needed for fever.
+START using Lovenox 70 mg subcutaneous injection twice a day.
+START using Lorazepam 0.5 mg by mouth every four hours as needed for anxiety.
+START taking Ranitidine 150 mg by mouth once a day.
+START taking Morphine sulfate IR 15 mg by mouth every four hours as needed for pain.
+Location: [**Hospital1 **] Address: [**Location (un) **], [**Hospital Ward Name **] 9, [**Location (un) **],[**Numeric Identifier 718**] Phone: [**0-0-**]  Department: PULMONARY FUNCTION LAB When: MONDAY [**2190-10-25**] at 10:30 AM With: PULMONARY FUNCTION LAB [**Telephone/Fax (1) 609**] Building: GZ [**Hospital Ward Name **] BUILDING (FELBEERG/[**Hospital Ward Name **] COMPLEX) [**Location (un) 3971**] Campus: EAST     Best Parking: Main Garage  Department: RADIOLOGY When: WEDNESDAY [**2190-10-27**] at 5:40 PM With: XMR [**Telephone/Fax (1) 327**] Building: CC [**Location (un) 591**] [**Hospital 1422**] Campus: WEST     Best Parking: [**Street Address(1) 592**] Garage  With: PET-CT SCAN Department: RADIOLOGY When: THURSDAY [**2190-10-28**] at 1:45 PM Location: [**Hospital Ward Name **] CENTER, [**Location (un) **] Campus: EAST  Department: Primary Care Name: Dr. [**First Name8 (NamePattern2) **] [**Doctor Last Name **] When: Monday [**2190-11-1**] at 4:30 PM Location: [**Location (un) 2274**] [**Hospital1 **] Address: [**Country 23010**], 3RD FL, [**Hospital1 **],[**Numeric Identifier 23011**] Phone: [**Telephone/Fax (1) 23012**]    Completed by:[**2190-11-21**

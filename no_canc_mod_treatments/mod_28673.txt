@@ -1,0 +1,41 @@
+Admission Date:  [**2115-4-27**]              Discharge Date:   [**2115-5-15**]  Date of Birth:  [**2038-1-11**]             Sex:   F  Service: MEDICINE  Allergies: Morphine / Percocet  Attending:[**First Name3 (LF) 759**] Chief Complaint: Low back pain  Major Surgical or Invasive Procedure: CT guided drainage of psoas abscess TEE   History of Present Illness: 77 yo F w/ AF, htn, "enlarged heart," DM, hx UTI, multiple joint replacements, who transferred from [**Hospital **] w/ 1 week LBP (l-s and R paraspinal), nausea.
+Also of note sodium as outpatient had been 124 2 days prior to admission per PCP's office.
+In ED, patient recieved vancomycin 1gram IV, cipro 250mg X 1, ativan 1mg, atenolol 50mg PO X 1, dig 0.125mg X1, lasix 20mg PO X 1.
+Past Medical History: AS HTN chronic AF on coumadin DJD with multiple joint replacements (R hip [**2105**], R knee [**2108**], L knee [**2109**], R shoulder [**2111**]) NIDDM S/P cholecystectomy [**2106**]  Social History: 5 Children, very supportive.
+Family History: NC  Physical Exam: On ADMISSION 99.7     109/56      89 AF      24     97%2L NC Gen: Non-toxic, A&O X 3, mild resp distress, Heent: EOMI, PERRL, MMM Neck: 8cm JVP, thick neck AP diameter Heart: Irregular, [**5-2**] HSM at R&L USB, different [**3-4**] end-sys murmur at LLSB Lungs: Poor air movement, no crackles Abd: Obese, soft, nt/nd, NABS Ext: No edema  On TRANSFER FROM ICU PE: Tc 97.3  Tm 97.7  BP 132/85 (117-199/85- 98) HR 89(85-114) AF RR 22 97%2L NC Gen: Non-toxic, A&O X 3, mild resp distress, Heent: EOMI, PERRL, MMM Neck: 8cm JVP, thick neck AP diameter Heart: Irregular, [**5-2**] HSM at R&L USB, different [**3-4**] end-sys murmur at LLSB Lungs: Poor air movement, no crackles Abd: Obese, soft, nt/nd, NABS Ext: trace edema   Pertinent Results: ECG:  AF at 76, LVH, incomplete LBBB, digoxin effect .
+Status post right glenohumeral joint arthroplasty.
+Right total hip prosthesis.
+Visualized vertebrae and discs are of grossly normal signal intensity.
+Patient was started on Vancomycin and Levofloxacin.
+Antibiotics were changed to oxacillin and gentamicin (started on [**2115-4-30**]).
+Patient's back pain was controlled with tylenol #3 (unable to tolerate any stronger narcotics/pain medications).
+Neurosurgery was consulted and felt the patient was not a surgical candidate for her discitis and recommended f/u MRI and f/u appt with Dr. [**Last Name (STitle) 739**], appt on [**6-26**].
+Patient was discharged on oxacillin, will need at least [**7-4**] week course and management will be decided by Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] of ID at the appointment on [**5-29**], depending on results of MRI on [**5-27**].
+She will need weekly CBC, LFTs, bun/creat while on oxacillin as this can cause liver and kidney damage or cytopenia.
+The day after her CT guided drainage at which time she had required 5 units of FFP to reverse her INR, she developed increased difficulty breathing, serum bicarb noted to be 42.
+She was transferred to the ICU and placed on BiPAP overnight.
+Most likely due to decreased ventilation with pain meds/sedation post procedure as well as volume overload.
+She continued to diurese and was discharge on 2L NC oxygen.
+She has been responding to lasix 20 mg iv once per day and is euvolemic at discharge.
+If rales recur please consider need for diuresis given her aortic stenosis.
+However after minimal diuresis her sodium continued to decrease, urine osm were elevated, FeNa was 0.13.
+She was started on NS at 200cc/hr and her Na improved from 118 to 120 but then remained at 120.
+Patient continued to be in Afib with occasional tachycardia to 140's and occasional 2 second pauses, metoprolol was switched to 50 mg TID.
+Coumadin was held for possible procedure, patient was maintained on heparin drip for anticoagulation.
+Cardiology consulted and recommended titrating up metoprolol due to intermittent tachycardia and stopping digoxin and ACE inhibitor.
+Patient was discharged on coumadin 2.5 mg po qd, goal inr [**3-1**].
+Coumadin was re-started [**5-10**], INR > 2 on [**5-14**] and [**5-15**], please recheck daily inr for next few days and outpt follow-up in early [**Month (only) **] with Dr. [**Last Name (STitle) 911**] of cardiology.
+# DM: Continue diabetic diet, FS QID with ISS, held oral hypoglycemics during this admission.
+Home regiman of oral hypoglycemics were restarted at discharge.
+# FULL CODE   Medications on Admission: atenolol 50 coumadin 2.5mg 5mg dig 0.125 qd hctz 25 qd relafen 750 mg [**Hospital1 **] actos 15 mg QD glipizide 5 mg QD lipitor 10 mg QD  Discharge Medications: 1.
+Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+Fluticasone 110 mcg/Actuation Aerosol Sig: Two (2) Puff Inhalation [**Hospital1 **] (2 times a day).
+Bisacodyl 5 mg Tablet, Delayed Release (E.C.)
+Metoprolol Tartrate 50 mg Tablet Sig: 1.5 Tablets PO BID (2 times a day).
+Acetaminophen-Codeine 300-30 mg Tablet Sig: One (1) Tablet PO Q4H (every 4 hours) as needed.
+Oxacillin 10 g Recon Soln Sig: Two (2) grams Injection Q4H (every 4 hours).
+Glipizide 5 mg Tablet Sig: One (1) Tablet PO once a day.
+Coumadin 2.5 mg Tablet Sig: One (1) Tablet PO at bedtime: Goal INR [**3-1**].
+Pioglitazone 15 mg Tablet Sig: One (1) Tablet PO once a day.

@@ -1,0 +1,43 @@
+Admission Date:  [**2130-3-17**]              Discharge Date:   [**2130-4-13**]  Date of Birth:  [**2085-5-1**]             Sex:   M  Service: SURGERY  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 2836**] Chief Complaint: Necrotizing pancreatitis  Major Surgical or Invasive Procedure: [**2130-3-21**]:  Exploratory laparotomy with splenectomy and repair of small bowel serosal tear and placement of vacuum- assisted closure dressing over 50 cm2.
+[**2130-3-28**]:  Re-exploration, closure of abdomen with [**State 19827**] patch and placement of negative pressure dressing.
+RUQ ultrasound and CT scan were obtained as per below and patient was transferred for further management when he became tachycardic (HR 120s) and hypotensive (80s/50s) despite 4 liters of IVF.
+LUQ JP to bulb suction, site with dry dressing and c/d/i EXTR: Warm, no c/c/e   Pertinent Results: [**2130-3-17**] 08:19PM   LACTATE-3.3* [**2130-3-17**] 08:10PM   GLUCOSE-111* UREA N-23* CREAT-1.4* SODIUM-135 POTASSIUM-4.2 CHLORIDE-105 TOTAL CO2-20* ANION GAP-14 [**2130-3-17**] 08:10PM   LIPASE-786* [**2130-3-17**] 08:10PM   LIPASE-786* [**2130-3-17**] 08:10PM   ALBUMIN-3.2* CALCIUM-7.3* PHOSPHATE-2.3* MAGNESIUM-1.4* [**2130-3-17**] 08:10PM   WBC-12.9* RBC-4.40* HGB-15.0 HCT-42.7 MCV-97 MCH-34.1* MCHC-35.2* RDW-13.7 [**2130-3-17**] 08:10PM   NEUTS-76* BANDS-2 LYMPHS-15* MONOS-7 EOS-0 BASOS-0 ATYPS-0 METAS-0 MYELOS-0 [**2130-3-17**] 08:10PM   HYPOCHROM-NORMAL ANISOCYT-NORMAL POIKILOCY-NORMAL MACROCYT-NORMAL MICROCYT-NORMAL POLYCHROM-NORMAL [**2130-3-17**] 08:10PM   PLT SMR-VERY LOW PLT COUNT-75* [**2130-3-17**] 08:10PM   PT-15.9* PTT-30.3 INR(PT)-1.4* [**2130-4-11**] 07:50AM BLOOD WBC-20.3* RBC-3.44* Hgb-10.0* Hct-31.9* MCV-93 MCH-29.1 MCHC-31.4 RDW-14.8 Plt Ct-881* [**2130-4-13**] 07:35AM BLOOD PT-21.1* INR(PT)-1.9* [**2130-4-11**] 07:50AM BLOOD Glucose-91 UreaN-8 Creat-0.7 Na-140 K-4.2 Cl-101 HCO3-29 AnGap-14  [**2130-3-17**] EKG: Sinus tachycardia.
+Left ventricular wall thickness, cavity size, and global systolic function are normal (LVEF>55%).
+The pulmonary artery systolic pressure could not be determined.
+MICRO: [**2130-3-20**] 8:53 pm BLOOD CULTURE      Source: Line-CVL.
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              STAPHYLOCOCCUS, COAGULASE NEGATIVE                              | CLINDAMYCIN-----------<=0.25 S ERYTHROMYCIN----------<=0.25 S GENTAMICIN------------ <=0.5 S LEVOFLOXACIN----------  0.25 S OXACILLIN-------------<=0.25 S TETRACYCLINE----------   <=1 S VANCOMYCIN------------     1 S     Anaerobic Bottle Gram Stain (Final [**2130-3-22**]):       GRAM POSITIVE COCCI IN CLUSTERS.
+RESPIRATORY CULTURE (Final [**2130-3-26**]):       MODERATE GROWTH Commensal Respiratory Flora.
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              STAPH AUREUS COAG +                              | CLINDAMYCIN-----------       R ERYTHROMYCIN----------       R GENTAMICIN------------ <=0.5 S LEVOFLOXACIN----------<=0.12 S OXACILLIN-------------   0.5 S TRIMETHOPRIM/SULFA---- <=0.5 S  [**2130-3-23**] 7:00 pm BRONCHOALVEOLAR LAVAGE                              **FINAL REPORT [**2130-3-27**]**     GRAM STAIN (Final [**2130-3-24**]):       3+  (5-10 per 1000X FIELD):   POLYMORPHONUCLEAR LEUKOCYTES.
+RESPIRATORY CULTURE (Final [**2130-3-27**]):       Commensal Respiratory Flora Absent.
+[**2130-4-2**] 5:20 pm URINE      Source: CVS.
+**FINAL REPORT [**2130-4-3**]**     URINE CULTURE (Final [**2130-4-3**]):    NO GROWTH.
+Review of imaging from the outside hospital disclosed thrombosis of the splenic and portal veins and he was started on a heparin drip with goal 40-60 (he had a significant percentage of non-enhancing pancreas on CT, presumed to be necrotic, and so heparin was not bolused and the rate was up titrated slowly to prevent hemorrhagic conversion).
+EKG was sinus tachycardia without ST/T changes.
+He was emergently transferred to the ICU, intubated, and repeat labs showed a significantly lower hematocrit.
+He was taken quickly to CT where a scan of the chest showed no PE.
+Scan of the abdomen showed active extravasation from a splenic injury.
+The following day (POD#1, HD#4) he spiked a fever and blood cultures grew coag neg staph.
+His CVC was removed and replaced via fresh puncture and was started on vancomycin and meropenem empirically to cover staph as well as empiric coverage for necrotizing pancreatitis.
+On [**2130-3-28**] (HD # 12), the patient was taken in OR, he underwent closure of abdomen with [**State 19827**] patch and placement of negative pressure dressing.
+Cardiac Echo demonstrated  mild symmetric left ventricular hypertrophy with normal cavity size, otherwise normal with LVEF > 55%.
+Pulmonary: On admission chest xray, the patient was found to have left pleural effusion with associated retrocardiac opacity.
+Following chest xrays showed increased left pleural effusion size.
+aureus coag + and Haemophilus species on [**2130-3-22**], and bronchoalveolar lavage grew Staph.
+He was extubated on [**2130-3-28**], and was required supplemental O2 post extubation to maintain O2 sat > 90%.
+ID: The patient's blood cultures from [**3-20**] and [**3-24**] grew Staphylococcus coag negative.
+Sputum cultures from [**3-23**] and [**3-24**] was positive for Staph.
+The patient was continued on abx until [**4-10**], surveillance blood cultures were negative.
+His last INR was 1.9 (goal [**1-19**]), and he was discharged home with instruction to follow up with PCP [**Last Name (NamePattern4) **] [**2130-4-14**] at 11 am to recheck INR.
+The patient's HCT dropped on [**3-21**] to 17.9 [**1-18**] rupture of the spleen.
+The patient's HCT improved and remained stable during hospitalization, no further transfusions were required.
+)(s)* Refills:*2* 2. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+Splenic rupture 4.
+This medication required weekly blood test to mesure your INR.
+You will be followed by your PCP, [**Name10 (NameIs) **] PCP will monitor INR and adjust Coumadin dose as necessary.
+If your blood test is too high, you might be at risk for bleeding problems.
+Your doctor has decided on a range on the blood test that is right for you.
+The blood test used for monitoring is called an INR.
+Followup Instructions: Provider: [**Name10 (NameIs) **], [**Name11 (NameIs) 177**], MD Phone:[**Telephone/Fax (1) 18696**], Date/Time: [**2130-4-14**] 11:00 [**Street Address(2) 89838**], [**Location (un) 3320**], [**Numeric Identifier **] (for INR check), Please see [**Name8 (MD) 16883**], RN .
+Provider: [**Name10 (NameIs) **], [**Name11 (NameIs) 177**], MD Phone:[**Telephone/Fax (1) 18696**], Date/Time: [**2130-4-19**] 13:15 [**Street Address(2) 89838**], [**Location (un) 3320**], [**Numeric Identifier **] .
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 3000**], MD Phone:[**Telephone/Fax (1) 2998**] Date/Time:[**2130-4-26**] 3:00 [**Hospital1 **] [**Location (un) 620**], [**Street Address(2) 3001**], [**Location (un) 620**], [**Numeric Identifier 3002**] You will have an abdominal CT scan prior your follow up with Dr. [**First Name (STitle) **].
+Provider: [**Name10 (NameIs) 89839**], [**Name11 (NameIs) 177**], MD (Hematology) Phone:[**Telephone/Fax (1) 22**] Date/Time: [**2130-5-26**] 10:00 [**Hospital Ward Name 23**] 9, [**Hospital Ward Name **]    Completed by:[**2130-4-13**

@@ -1,0 +1,59 @@
+Admission Date:  [**2172-11-29**]              Discharge Date:   [**2172-12-4**]  Date of Birth:  [**2094-4-27**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 2145**] Chief Complaint: Change in mental status, hematemesis   Major Surgical or Invasive Procedure: EGD Central line   History of Present Illness: Ms. [**Known lastname 71441**] is a 78 year-old woman with a history of a recent left-sided stroke with subsequent left carotid stenting and initiation of warfarin therapy for atrial fibrillation who was brought in from [**Hospital 100**] Rehab today for deteriorating mental status.
+She was intubated for airway protection and, per the ED resident, the patient had a difficult intubation in that she had episodes of bradycardia requiring atropine.
+She received 2 units of fresh frozen plasma, 4 units of PRBCs, and 10 mg of SC phytonadione.
+A femoral line was placed for emergent IV access.
+Two days later, her hematocrit had drifted down to 26.9 and she was given an additional 2 units of PRBCs with a response up to 35.0.
+Review of Systems: unable to obtain from patient due to sedation/intubation; per son, no [**Name2 (NI) **], hematochezia, fevers   Past Medical History: - hypertension - recent left MCA stroke [**10/2172**] - left ICA stent placed [**2172-11-9**] - operative PEG placement [**2172-11-18**] following failure of swallow eval - paroxysmal atrial fibrillation, recently started on warfarin - reported COPD; no PFTs in [**Hospital1 18**] records - chronic renal failure, baseline creatinine approx 2.6 with secondary hyperparathyroidism - chronic diastolic CHF - hyperlipidemia - type 2 diabetes mellitus - depression - morbid obesity  Social History: Up until her recent hospitalization, Ms. [**Known lastname 71441**] lived with her son for several decades; upon discharge from [**Hospital1 18**] last week, she was sent to [**Hospital 100**] Rehab.
+ET tube terminates 1.5 cm above the carina.
+NG tube enters the stomach.
+Patent rotated for maximum visability given presence of large clot.
+Her aspirin, plavix, and coumadin were initially held.
+The following day her plavix and aspirin were restarted.
+Aspirin was decreased to 81 mg.
+Her coumadin was held and should likely not be restarted in the future given multiple episodes of significant GI bleeds.
+Following her EGD, her Hct continued to slowly trend down to 25 and she received another unit of PRBCs with appropriate response to 30.
+She was scheduled follow up with Dr. [**First Name (STitle) 572**] of GI on [**12-7**] and neurology to decide on restarting coumadin weighing the risks of GIB and recurrent stroke.
+However, after discussions with physicians at her rehab, it seems that her baseline there upon arrival was minimally verbal and minimally interactive.
+# Respiratory failure:  She was intubated for airway protection in the setting of hematemesis and altered mental status.
+She was quickly weaned from the vent and was extubated without complication.
+Her mental status remained poor following extubation and there was concern for her respiratory status in this setting but her ABGs continued to be excellent not requiring further intervention.
+On the medical floors her oxygen ranged from 84-93 on room air, she was discharged on 1 liter NC saturating at 92-94 percent.
+Her oxygen requirements decreased with the addition of furosemide to her regimen which had been held during her ICU course.
+She was not treated for aspiration pneumonia given she remained afebrile and WBC count was normal, her oxygen requirements also decreased with addition of furosemide.
+## Urinary tract infection: Evidence of UTI on U/A and received Unasyn in ED.
+On her recent hospitalization, she had a urine culture that grew our Enterococcus which was senstive to both vancomycin and ampicillin.
+She was started empirically on ampicillin and cipro.
+Unfortunately, urine culture was not sent prior to antibiotic administration and repeat urine culture grew only yeast.
+She completed a course of Augmentin which was stopped upon transfer to the floor.
+She was volume resuscitated with NS and renal function improved.
+## Recent left-sided ischemic stroke; s/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3098**] stenting.
+Her aspirin was decreased to 81 mg but she was otherwise continued on both aspirin and plavix.
+## Chronic diastolic CHF: Her metoprolol and lasix were initially held.
+With stability following her EGD, her metoprolol was restarted and uptitrated.
+Her lasix was held in the setting of her ARF and restarted upon transfer to medical floor.
+She was discharged on furosemide 60mg [**Hospital1 **], this will need to be titrated up to dose of 100mg [**Hospital1 **] which she was on as outpatient.
+Recently started on warfarin for her atrial fibrillation which was discontinued in the setting of her GI bleed.
+Her beta blocker was initially held but was quickly restarted.
+Decision to restart coumadin will be made by GI, neurology, and her PCP.
+She had significantly elevated FSBGs while in house despite holding her tube feeds.
+Her glargine was titrated and she was continued on insulin sliding scale.
+Will need to increase glargine and adjust sliding scale as indicated.
+## Hypertension: antihypertensives intially held given significant bleeding but then restarted as above.
+Titrate up metoprolol as needed for hypertension.
+## Hyperlipidemia: continued on statin .
+## Depression: continued on citalopram .
+Medications on Admission: (per discharge summary from [**2172-11-24**]; patient and son unable to verify) citalopram 20 mg daily atorvastatin 80 mg daily nitroglyerin patch q6h ipratropium nebulizer q4h prn albuterol nebulizer q4h prn clopidogrel 75 mg daily aspirin 81 mg daily ferrous sulfate 325 mg daily calcitriol 0.25 mcg daily lansoprazole 30 mg daily furosemide 100 mg [**Hospital1 **] docusate 100 mg daily metoprolol 50 mg tid insulin glargine 14 units qhs insulin lispro sliding scale warfarin 2 mg qhs bisacodyl prn acetaminophen prn ondansetron prn  Discharge Medications: 1.
+Atorvastatin 80 mg Tablet [**Hospital1 **]: One (1) Tablet PO DAILY (Daily).
+Ferrous Sulfate 325 mg (65 mg Iron) Tablet [**Hospital1 **]: One (1) Tablet PO DAILY (Daily).
+Calcitriol 0.25 mcg Capsule [**Hospital1 **]: One (1) Capsule PO DAILY (Daily).
+Citalopram 20 mg Tablet [**Hospital1 **]: One (1) Tablet PO DAILY (Daily).
+Albuterol Sulfate 0.083 % (0.83 mg/mL) Solution [**Hospital1 **]: One (1) Inhalation Q4H (every 4 hours) as needed.
+Aspirin 81 mg Tablet, Chewable [**Hospital1 **]: One (1) Tablet, Chewable PO DAILY (Daily).
+Clopidogrel 75 mg Tablet [**Hospital1 **]: One (1) Tablet PO DAILY (Daily).
+Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: One (1) Tablet,Rapid Dissolve, DR PO BID (2 times a day).
+Metoprolol Tartrate 50 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO TID (3 times a day).
+Ipratropium Bromide 0.02 % Solution [**Last Name (STitle) **]: One (1)  Inhalation Q6H (every 6 hours).
+Insulin Glargine 100 unit/mL Cartridge [**Last Name (STitle) **]: Twenty Two (22) units Subcutaneous at bedtime: titrate as blood sugars indicate.
+Humalog 100 unit/mL Cartridge [**Last Name (STitle) **]: One (1)  Subcutaneous four times a day: sliding scale as directed.
+Furosemide 80 mg Tablet [**Last Name (STitle) **]: 1 and [**12-24**] Tablet PO once a day.
+Followup Instructions: Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 4465**], MD Phone:[**Telephone/Fax (1) 463**] Date/Time:[**2172-12-7**] 1:00  Provider: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD, MPH[**MD Number(3) 708**]:[**Telephone/Fax (1) 7976**] Date/Time:[**2172-12-8**] 11:30  Provider: [**Name10 (NameIs) **] [**Name11 (NameIs) **], MD Phone:[**Telephone/Fax (1) 44**] Date/Time:[**2172-12-9**] 2:30  Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 3469**], MD Phone:[**Telephone/Fax (1) 1237**] Date/Time:[**2172-12-16**] 11:00                                [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(2) 2158**]

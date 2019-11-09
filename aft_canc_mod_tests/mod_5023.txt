@@ -1,0 +1,36 @@
+The patient had a chest CT for lung cancer that showed a large pericardial effusion.
+He had an echo that showed EF 65-70%, large circumferential pericardial effusion with evidence of diastolic collapse of RA but not RV.
+ECG showed no active ischemic changes and troponin T was < 0.01.
+An attempted pericardiocentesis drained out only 30 ml of bloody fluid.
+Repeat echo showed a 1-cm decrease in circumferential pericardial effusion.
+He was transferred to [**Hospital1 18**] for further management, including possible percardial window.
+NECK: Supple with JVP of 8 cm.
+PULSES: Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+ Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+   Pertinent Results: LABS ON ADMISSION: .
+[**2188-2-15**] 09:34PM BLOOD WBC-11.6* RBC-2.51*# Hgb-7.4*# Hct-21.3*# MCV-85 MCH-29.6 MCHC-34.9 RDW-15.6* Plt Ct-365 [**2188-2-15**] 09:34PM BLOOD Neuts-82.4* Lymphs-12.7* Monos-3.3 Eos-1.3 Baso-0.3 [**2188-2-15**] 09:34PM BLOOD PT-15.1* PTT-31.7 INR(PT)-1.3* .
+[**2188-2-15**] 09:34PM BLOOD Glucose-107* UreaN-15 Creat-1.0 Na-138 K-4.2 Cl-108 HCO3-22 AnGap-12 [**2188-2-15**] 09:34PM BLOOD Calcium-8.3* Phos-3.2 Mg-1.8 .
+[**2188-2-15**] 09:34PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG Bnzodzp-NEG Barbitr-NEG Tricycl-NEG .
+CARDIAC ENZYMES: [**2188-2-15**] 09:34PM BLOOD cTropnT-<0.01 CK(CPK)-33* CK-MB-NotDone [**2188-2-16**] 12:42PM BLOOD cTropnT-0.08* CK(CPK)-105 CK-MB-6 [**2188-2-16**] 09:34PM BLOOD cTropnT-0.22* CK-MB-12* MB Indx-11.4* .
+[**2188-2-17**] 04:07PM BLOOD Hapto-205* [**2188-2-19**] 07:10AM BLOOD CEA-25* [**2188-2-16**] 09:21AM BLOOD WBC-17.5*# RBC-2.55* Hgb-8.1* Hct-22.4* MCV-88 MCH-31.9 MCHC-36.3* RDW-14.9 Plt Ct-275 .
+LABS ON DISCHARGE: [**2188-2-20**] 06:50AM BLOOD WBC-10.6 RBC-3.81* Hgb-11.7* Hct-32.4* MCV-85 MCH-30.7 MCHC-36.1* RDW-15.8* Plt Ct-247 [**2188-2-20**] 06:50AM BLOOD PT-18.3* PTT-37.0* INR(PT)-1.7* [**2188-2-19**] 07:10AM BLOOD Glucose-79 UreaN-19 Creat-0.8 Na-137 K-4.1 Cl-103 HCO3-22 AnGap-16 [**2188-2-19**] 07:10AM BLOOD Calcium-8.4 Phos-3.0 Mg-2.1 .
+TTE ([**2-16**]) Conclusions The left atrium is elongated.
+Overall left ventricular systolic function is normal (LVEF>55%).
+Tissue Doppler imaging suggests an increased left ventricular filling pressure (PCWP>18mmHg).
+Compared with the prior study (images reviewed) of [**2185-1-10**], the left ventricle appears hypertrophied and small, consistent with underfilling.
+TTE ([**2-18**]) Conclusions The left atrium and right atrium are normal in cavity size.
+The estimated right atrial pressure is 0-5 mmHg.
+Left ventricular wall thicknesses and cavity size are normal.
+There are no echocardiographic signs of tamponade.
+Compared with the prior study (images reviewed) of [**2188-2-16**], the findings are similar.
+CT Torso ([**2-16**]): IMPRESSION: 1.
+Moderate amount of intra- abdominal and intrapelvic ascites of which has a hemorrhagic component within the pelvis.
+These may be inflammatory in etiology, but given underlying history of malignancy, a three-month followup chest CT is recommended if there is lack of prior exams to document stability.
+Dedicated contrast enhanced cross-sectional imaging (MRi or CT) is recommended when feasible to exclude underlying renal cell carcinoma/metastasis.
+Evaluation of the underlying left hepatic parenchyma is limited.
+# Pericardial effusion: Large pericardial effusion noted at OSH on chest CT; TTE showed large circumferential pericardial effusion with diastolic collapse of RA but not RV.
+Transferred to [**Hospital1 18**] for further evaluation and treatment.
+Pericardial window was considered, but pt remained hemodynamically stable and repeat TTE x2 showed stable effusion.
+# Small cell lung cancer: chest CT reportedly showed recurrent lung tumor.
+CEA = 25 on this admission.
+You needed blood transfusions for this.
+Your blood counts were stable prior to your discharge.
+You will need to have a repeat echocardiogram at this time.

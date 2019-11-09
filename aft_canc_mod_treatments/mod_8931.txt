@@ -1,0 +1,46 @@
+Admission Date:  [**2122-4-21**]              Discharge Date:   [**2122-4-29**]  Date of Birth:  [**2056-4-20**]             Sex:   F  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 34120**] Chief Complaint: nausea, vomiting, fatigue, abdominal distention   Major Surgical or Invasive Procedure: Paracentesis [**2122-4-22**] Central line placement [**2122-4-21**] PICC line placement [**2122-4-24**]   History of Present Illness: This is a 65 year-old Female with a PMH significant for poorly differentiated metastatic adenocarcinoma of unknown primary with neuroendocrine features (diagnosed in [**12/2120**] s/p 4-cycles of chemotherapy with most recent administration of cisplatin and etoposide on [**2122-4-15**]; recent PET-CT imaging showing overall disease progression), vitamin B12 deficiency, hypertension, hyperlipidemia, rosacea and reflux esophagitis who presents with several days of fatigue in the setting of nausea, emesis and poor PO intake.
+Again, the patient has had three sets of cycled chemotherapy and recently started her third cycle of cisplatin and etoposide (on [**2122-4-13**]) with her last dosing on [**2122-4-15**].
+On [**2122-4-17**], she had developed some nausea with non-bloody, non-bilious, food particulate emesis and loose, non-bloody stools despite her prior constipation concerns.
+Of note, she also underwent therapeutic paracentesis on [**2122-4-10**] with removal of 4 liters of serosanguinous ascites which showed negative cytology.
+She received Cefepime 2 grams IV x 1 for neutropenic fever concerns.
+She received Magnesium sulfate 2 grams IV x 1 and Potassium chloride 40 mEq PO, 10 mEq IV x 1 and Zofran 4 mg IV x 1 and Acetaminophen 1000 mg PO x 1.
+A right IJ central venous catheter was placed and pulled back 2-cm to position in the ED.
+Biopsy of a liver lesion noted poorly differentiated carcinoma with neuroendocrine features (strongly positive for CK7, TTF-1, synpatophysin and focal positivity for chromogranin and [**Last Name (un) **]-31, but CK-20, CDX-2, S100 negative.
+In [**1-/2121**] she had large volume paracentesis and underwent initiation of chemotherapy ([**2121-1-15**]) - Carboplatin AUC 5 and Paclitaxol (therapy from [**2121-1-15**] to [**2121-5-1**] for 4-cycles) - Carboplatin and Doxil (for widespread recurrence, [**2121-9-4**] to [**2121-11-6**] for 3-cycles) - Gemcitabine and Docetaxol (for disease progression, [**2121-12-4**] to [**2122-4-2**] for 6-cycles) - Cisplatin and Etoposide (began cycling on [**2122-4-13**], last dosing [**2122-4-15**]) .
+[**Doctor First Name 5969**] is healthy but had a hysterectomy for endometriosis.
+DISCHARGE EXAM: VS- Tm/c 97.6 BO 106/56 HR 104 RR 16 O2 98% RA I/O- 1080/2050 Gen- pale, cachectic female in NAD HEENT- sclera anicteric, PERRL, EOMI, moist mucous membranes without erythema, exudate or lesions Neck- no palpable lymphadenopathy CV- RRR, normal S1/S2, no m/r/g Pulm- CTA, decreased breath sounds at bilateral bases, no wheezes, ronchi or rales Abd- +BS, soft, nontender, +tympany, no heptosplenomegaly palpable, no rebound/guarding Ext- WWP, 2+ edema to knees bilaterally, 2+ DP/PT pulses Neuro- A+Ox 3, CN intact, strength 5/5 bilaterally in upper and lower extremities Access- Site of prior R IJ c/d/i, PICC site c/d/i   Pertinent Results: Lab Results on Admission: WBC-0.1*# RBC-2.54*# Hgb-8.3*# Hct-23.6*# MCV-93 MCH-32.6* MCHC-35.0 RDW-16.6* Plt Ct-132*# Neuts-36* Bands-0 Lymphs-64* Monos-0 Eos-0 Baso-0 Atyps-0 Metas-0 Myelos-0 Hypochr-NORMAL Anisocy-1+ Poiklo-1+ Macrocy-1+ Microcy-OCCASIONAL Polychr-NORMAL Ovalocy-OCCASIONAL Tear Dr[**Last Name (STitle) 833**] Plt Smr-LOW Plt Ct-132*# PT-11.1 PTT-22.7* INR(PT)-1.0 Fibrino-507*# FDP-10-40* Glucose-130* UreaN-40* Creat-1.5* Na-132* K-2.7* Cl-88* HCO3-29 AnGap-18 ALT-30 AST-45* AlkPhos-307* TotBili-0.8 LD(LDH)-842* Lipase-17 cTropnT-<0.01 Albumin-2.6* Calcium-8.4 Phos-3.4 Mg-1.6 Hapto-335* [**2122-4-21**] 11:39AM BLOOD Lactate-1.8 [**2122-4-21**] 08:19PM BLOOD Lactate-0.8 [**2122-4-21**] 08:19PM BLOOD O2 Sat-78 [**2122-4-21**] 08:19PM BLOOD freeCa-1.02*  URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.009 Blood-NEG Nitrite-NEG Protein-30 Glucose-70 Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG RBC-1 WBC-1 Bacteri-FEW Yeast-NONE Epi-0 UreaN-510 Creat-43 Na-27 K-37 Cl-56 Osmolal-381 .
+CLINDAMYCIN MIC <= 0.12 MCG/ML.
+SENSITIVITIES: MIC expressed in MCG/ML _________________________________________________________                              STREPTOCOCCUS                              |          ESCHERICHIA COLI                              |          | AMPICILLIN------------                4 S AMPICILLIN/SULBACTAM--              <=2 S CEFAZOLIN-------------              <=4 S CEFEPIME--------------              <=1 S CEFTAZIDIME-----------              <=1 S CEFTRIAXONE-----------              <=1 S CIPROFLOXACIN---------           <=0.25 S CLINDAMYCIN-----------       S ERYTHROMYCIN----------<=0.25 S GENTAMICIN------------              <=1 S MEROPENEM-------------           <=0.25 S PENICILLIN G----------<=0.06 S PIPERACILLIN/TAZO-----                  S TOBRAMYCIN------------              <=1 S TRIMETHOPRIM/SULFA----              <=1 S VANCOMYCIN------------   <=1 S     Aerobic Bottle Gram Stain (Final [**2122-4-22**]):       GRAM POSITIVE COCCI IN PAIRS AND IN SHORT CHAINS.
+[**4-21**] Urine culture- no growth [**4-22**] Blood culture- no growth [**4-23**] Blood culture- no growth .
+[**2122-4-10**] PARACENTESIS DIAG/THERA - Uncomplicated ultrasound-guided therapeutic and diagnostic paracentesis, with removal of 4.0 liters of serosanguinous ascites.
+Right central line with tip projecting over the mid-superior vena cava.
+Findings again consistent with known widely metastatic carcinoma of unknown origin, with probable interval progression of liver masses, and redemonstration of adnexal mass, multiple omental masses, and peritoneal implants consistent with metastatic disease.
+Delineation is limited on this non-contrast examination, but the fibroid uterus and pelvic metastatic deposits may be contributing to progressive ureteral dilation.
+Gas-distended but not dilated transverse colon noted.
+Vancomycin was discontinued once counts recovered and patient was discharged to rehab with plan to continue IV ceftriaxone for total of 14 days antibiotic therapy (ending [**2122-5-5**]).
+She had increased abdominal girth after aggressive fluid resuscitation in ICU for early goal directed therapy.
+She underwent therapeutic ultrasound guided paracentesis on [**4-23**] and [**4-29**] with improvement in shortness of breath and abdominal distension.
+Following volume resuscitation, patient's creatinine returned to baseline (0.8-1.1) and remained there for the rest of hospitalization.
+# LEUKOPENIA, ACUTE ON CHRONIC NORMOCYTIC ANEMIA, THROMBOCYTOPENIA - Patient required PRBC and platelet transfusions during admission secondary to myelosuppressive therapy.
+Patient received neupogen injections daily until neutropenia resolved.
+Currently on cycle 3 of carboplatin etoposide given [**4-15**].
+# CHEMOTHERAPY-INDUCED NEUROPATHY - Secondary to Taxol therapy with notable improvement on Gabapentin.
+She has also been maintained on Vitamin B6 therapy.
+Her Gabapentin was continued at 600 mg daily (patient reports taking it only once a day).
+Not currently on anti-hypertensive agents per her outpatient records.
+# TRANSITIONAL ISSUES - - ceftriaxone to be continued through [**2122-5-5**] (PICC can be removed thereafter) *** if patient discharged from rehab prior, PICC can be removed and patient can be sent home on oral levofloxacin to be continued through [**2122-5-5**]*** - will follow-up with Dr. [**First Name (STitle) 2405**] regarding further chemotherapy - discharged on once daily lasix given volume overload secondary to aggressive ICU volume resuscitation and chronic ascites  Medications on Admission: 1.
+Omeprazole 20 mg EC PO daily 2.
+Cholecalciferol-vitamin D3 1000 units PO daily (not always taking) 3.
+Gabapentin 600 mg PO daily 4.
+Pyridoxine 50 mg PO daily (not always taking)   Discharge Medications: 1. omeprazole 20 mg Capsule, Delayed Release(E.C.)
+2. pyridoxine 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+3. gabapentin 600 mg Tablet Sig: One (1) Tablet PO once a day.
+4. enoxaparin 30 mg/0.3 mL Syringe Sig: One (1)  Subcutaneous Q12H (every 12 hours).
+5. furosemide 40 mg Tablet Sig: One (1) Tablet PO once a day.
+6. ceftriaxone in dextrose,iso-os 2 gram/50 mL Piggyback Sig: One (1)  Intravenous Q24H (every 24 hours) for 7 days: ending [**2122-5-5**].
+You were placed on IV antibiotics and initially watched in the intensive care unit.
+You improved on antibiotics, and will continue these antibiotics for a total of 2 weeks.
+Your blood counts improved with time and an injection that stimulated your bone marrow.
+You were given a diuretic, lasix, to help get excess fluid off of your legs.
+In addition, you had a procedure to take fluid out of your abdomen.
+The following changes have been made to your medication regimen: - START lasix by mouth once a day - START ceftriaxone (an antibiotic) through [**2122-5-5**]-  If you are discharged from rehab prior to [**5-5**], you can just take an oral antibiotic (levaquin) through the above date.

@@ -1,0 +1,37 @@
+Admission Date:  [**2166-7-14**]              Discharge Date:   [**2166-7-31**]  Date of Birth:  [**2098-10-31**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 25876**] Chief Complaint: IL-2 treatment for metastatic Renal cell carcinoma  Major Surgical or Invasive Procedure: Chemotherapy Thoracentesis Arterial Line Central Line   History of Present Illness: [**Hospital Unit Name 153**] admission:  67yo M w/ metastatic renal cell carcinoma, s/p cycle 1 week 1 of high dose IL-2.
+Required dopamine gtt on [**7-16**] and [**7-17**] due to hypotension.
+Dopamine gtt stopped on [**7-16**] due to afib w/ RVR + hypotension that developed with its use.
+Given 0.5mg x2 of digoxin and converted.
+Received dopamine again on [**7-17**] for hypotension, but again went into afib w/ RVR.
+Switched to neosynephrine and pt required use of pressor for most of the day on [**7-17**].
+Also received digoxin on [**7-17**].
+Troponin leak was felt to be myocarditis by attending, and low dose lopressor was initiated for HR control.
+Pt was given 250cc NS bolus x1 w/o improvement in BP.
+Neosynephrine was started with slight improvement in BP (SBP in 90s).
+Attempted to push 5mg IV lopressor x1 to bring HR down, with improvement in HR to 130s-140s.
+Foley catheter was placed.
+Past Medical History: # Metastatic renal cell carcinoma - dx [**12-28**] - underwent R nephrectomy -> [**Last Name (un) 19076**] grade II RCC, clear cell type - XRT to L spine (for L4 met) in [**7-28**] - lung nodules noted -> started phase 1 Avastin/sarafamib trial  - taken off study in [**10-28**] due to disease progression - underwent cyberknife to the spine - now starting HD IL-2 due to progression of lung mets - underwent [**Doctor First Name **] [**1-27**] and [**2-27**] for spine stabilization - newly diagnosed L sided pleural effusion -> 2L drained on [**2166-7-14**] # Hypercholesterolemia # Chronic leg edema # DVT w/o sx noted after spine surgery - LENI [**2166-1-29**] showed bilateral popliteal DVT - anticoagulated w/ lovenox - LENI [**2166-6-2**] showed no evidence of DVT   Social History: He is an executive at a nonprofit power company.
+Close observation may be warranted ......................... PLEURAL ANALYSIS     WBC  RBC  Polys  Lymphs Monos Eos Meso Macro Other [**2166-7-25**] 03:57PM 667* [**Numeric Identifier 98998**]* 20*   75*   1   4*   1 * 1 FEW PLASMACYTOEID LYMPHS SEEN [**2166-7-14**] 01:33PM260*  1 [**Numeric Identifier **]* 2     35*    0  8*  54*   1*    PLEURAL CHEMISTRY TotProt Glucose LD(LDH) Albumin Cholest [**2166-7-25**] 03:57PM    1.6     140 155      1.0 [**2166-7-14**] 01:33PM    4.4     143 114      2.9     72  OTHER BODY FLUID  OTHER BODY FLUID  pH [**2166-7-25**] 04:49PM    7.44 [**2166-7-14**] 12:07PM    7.511 1 PLEURAL FLUID    Brief Hospital Course: Mr. [**Known lastname **] is a 67 yo male initially admitted for IL-2 therapy for metastatic renal cell carcinoma.
+Pt was admitted on [**7-14**] for high dose IL-2 therapy.
+However, pt became hypotensive requiring dopamine with initial episode of A fib on [**7-17**] and occ V tach.
+ICU course: While in ICU cardiology was consulted and recommended Amniodarone 150 bolus followed by 400 mg PO TID for 3 days then 400 po BID x 1 week, with a 1 month course.
+Additionally, surgery was consulted on [**7-20**] for abdominal pain with concern for ischemic bowel given hypotension and elevated lactate, but surgical intervention was indicated at that time.
+TPN was started on [**7-22**] for poor oral intake and rapid weight loss.
+Therefore pt was treated with a 10 day course of levofloxacin and flagyl.
+For concern of sepsis, pt received decadron while in ICU, but it was rapidly tapered once out of ICU and then discontinued without side effect.
+Additionally pt had hypernatremia that was managed with free water boluses and encouraging PO water intake.
+Pt was evaluated by cardiology that recommended loading with amnoidarone IV and continuing on PO which was done.
+Exam continued to be suggestive for pleural effusion on discharge, but given that the patient was asymptomatic no repeat thoracocentesis was done.
+However, cytology was negative both times as was gram stain and culture.
+Pt will follow up with Dr. [**Last Name (STitle) 1729**] for further management of his renal cell carcinoma.
+Medications on Admission: Lasix 40mg PO QD Lovenox 100mg [**Hospital1 **] Flomax Atenolol 25mg PO QD (tapered over weekend prior to admit) Lipitor Miralax Oxycontin 10mg PO BID Percocet prn for breakthrough   Discharge Medications: 1.
+Prochlorperazine 10 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for nausea.
+Oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q4-6H (every 4 to 6 hours) as needed for pain.
+Amiodarone 200 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day).
+Loperamide 2 mg Capsule Sig: One (1) Capsule PO QID (4 times a day) as needed for diarrhea.
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+Furosemide 20 mg Tablet Sig: One (1) Tablet PO Qam.
+Atenolol 50 mg Tablet Sig: One (1) Tablet PO once a day.
+Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO Q4-6H (every 4 to 6 hours) as needed for nausea or anxiety.
+Disp:*30 Tablet(s)* Refills:*0*   Discharge Disposition: Home With Service  Facility: [**Company 1519**]  Discharge Diagnosis: Renal cell cancer treated with IL-2 therapy  Secondary: Hypertension  Discharge Condition: Stable  Discharge Instructions: You were admitted for your treatment of your renal cell cancer with IL-2 therapy.
+While you were here,  you were cared for in the ICU for low blood pressure and kidney failure.

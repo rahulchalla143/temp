@@ -1,0 +1,54 @@
+Admission Date:  [**2130-2-10**]              Discharge Date:   [**2130-2-16**]  Date of Birth:  [**2052-7-17**]             Sex:   F  Service: MEDICINE  Allergies: Penicillins / Sulfa (Sulfonamide Antibiotics) / Ace Inhibitors / Angiotensin Recp Antg&Calcium Chanl Blkr / Meloxicam  Attending:[**First Name3 (LF) 2290**] Chief Complaint: Chief Complaint: abdominal pain Reason for ICU admission: pancreatitis/metabolic acidosis  Major Surgical or Invasive Procedure: central venous line placement and removal PICC placement   History of Present Illness: Ms. [**Known lastname 805**] is a 77 yo female with history of HTN, DMII, CKD hypothyroidism, and RA who presented to the ED with abdominal pain for 1 week.
+She was given ASA 600 mg rectally and 400 mg IV ciprofloxacin.
+DM2 - diagnosed [**2118**], has been on insulin in the past but no longer takes any diabetes medications #.
+Rheumatoid arthritis - diagnosed at age 50; [**Doctor First Name **] 1:1280 - followed by Dr. [**Last Name (STitle) 6426**]; on chronic steroids #.
+The patient at baseline walks with a cane or a walker.
+She feeds herself but has meals prepared, requires assistance with dressing and bathing.
+GU: foley with a small amount of concentrated urine present.
+Chest X-ray for PICC placement ([**2130-2-16**]): Radiology read dictated: PICC in the right superior caval junction.
+Differential for etiology of pancreatitis includes gallstone, alcoholic, medication-induced, and hypertriglyceridemia.
+She never required IV pain medications.
+She was given PRN tylenol for pain and advanced to full diet.
+She will follow up with [**Hospital **] clinic for management of possible biliary disease, which was suggested by elevated alk phos, however no evidence of cholelithiasis on RUQ u/s.
+# Troponin leak: troponin x2 shows 0.11 and 0.15, in setting of acidosis and acute pancreatitis.
+# Metabolic acidosis: On admission had a non-AG metaboliac acidosis (although with albumin of 3.1, may be slightly elevated).
+Was continued on PO sodium bicarb on transfer to floor, which was discontinued prior to discharge.
+This trended down to 5.7 with 2 L NS in the ED.
+Renal was consulted and recommended bicarb in the IVF for the acidosis.
+There was no acute need for HD and the patient's creatinine trended down with IVF suggesting it was hypovolemic ARF.
+Home candesartan was held in the setting of [**Last Name (un) **], and was continued to be held on discharge.
+Will continue fluconazole as outpatient to complete a 7-day course.
+She should have a UA and urine culture checked after fluconazole to assess for cure.
+Was started on a heparin gtt in order to bridge to coumadin.
+Coumadin was started at 5mg per day.
+PICC line was placed for heparin drip until INR between 2 and 3 for 24 hours.
+She will continue taking coumadin for 3 months and f/u with her PCP.
+# Hypertension: Was hypertensive throughout stay in MICU but refused PO meds so was managed with IV hydral and clonidine patch.
+As patient's mental status cleared she was started back on her PO medications including felodipine, lasix, hydralazine and clonidine patch.
+On discharge, candesartan was held considering [**Last Name (un) **].
+# DMII - diagnosed in [**2118**], has been on insulin in the past but no longer takes any diabetes medications.
+Was maintained on ISS while in the ICU, discontinued on discharge.
+# RA/?SLE - diagnosed at age 50, on chronic steroids (prednisone 5 mg daily) Was given equivalent dose of IV hydrocortisone while she was NPO and then when taking POs was transitioned back to prednisone PO.
+# Hypothyroidism: She is on levothyroxine 50 mcg daily PO at home but given not taking POs was switched to IV form.
+# Access: Had poor peripheral access so a CVL was placed on [**2130-2-11**] in the ICU, discontinued on [**2130-2-14**].
+Unable to obtain peripheral access so PICC was placed on [**2130-2-16**].
+# Communication: daughter, HCP [**Name (NI) 2659**] [**Name (NI) 805**], [**Telephone/Fax (1) 104273**] # Code: DNR/DNI, confirmed with HCP, during admission   Medications on Admission: Aspirin 81 mg daily Prednisone 5 mg daily Felodipine 2.5 mg daily Clonidine 0.2 mg/24 hr Patch qFriday Hydralazine 50 mg q8h Levothyroxine 50 mcg daily Calcitriol 0.25 mcg every other day Omeprazole 20 mg daily  -> she states this has been stopped.
+Furosemide 120 mg daily Candesartan 8 mg daily  Discharge Medications: 1. hydralazine 25 mg Tablet Sig: Two (2) Tablet PO Q8H (every 8 hours).
+2. prednisone 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+3. metoprolol succinate 25 mg Tablet Sustained Release 24 hr Sig: One (1) Tablet Sustained Release 24 hr PO once a day.
+4. levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+5. clonidine 0.2 mg/24 hr Patch Weekly Sig: One (1)  Transdermal once a week: Q Friday.
+6. paroxetine HCl 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+7. aspirin 81 mg Tablet, Delayed Release (E.C.)
+8. felodipine 2.5 mg Tablet Sustained Release 24 hr Sig: Four (4) Tablet Sustained Release 24 hr PO DAILY (Daily).
+9. fluconazole 200 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours) for 6 days.
+Disp:*6 Tablet(s)* Refills:*0* 10. warfarin 5 mg Tablet Sig: One (1) Tablet PO Once Daily at 4 PM.
+Sodium Chloride 0.9%  Flush 10 mL IV PRN line flush PICC, non-heparin dependent: Flush with 10 mL Normal Saline daily and PRN per lumen.
+12. heparin (porcine) in D5W 25,000 unit/250 mL Parenteral Solution Sig: 1300 (1300)  Intravenous continious infusion: Started at 4:15pm on [**2130-2-16**].
+13. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every 6 hours) as needed for pain.
+14. miconazole nitrate 2 % Powder Sig: One (1) Appl Topical QID (4 times a day) as needed for crural rash.
+15. furosemide 40 mg Tablet Sig: Three (3) Tablet PO once a day.
+16. candesartan 8 mg Tablet Sig: One (1) Tablet PO once a day.
+Because of this you were also dehydrated and had some worsening kidney function, both improved with IV fluids.
+Changes to your medications: START taking fluconazole once a day START Metoprolol 25mg SR daily START Paroxetene 10mg daily START Warfarin 5mg daily (dose adjust based on INR) START Heparin drip (dose based on PTT, stop when INR therapeutic for 24 hours)  STOP calcitriol, PCP can restart as needed STOP omeprazole as you informed us you were not taking this  DECREASED Lasix to 80mg daily given your kidney function INCREASED Felodipine given high blood pressures  Followup Instructions: Name: [**Last Name (LF) **],[**First Name3 (LF) 251**] R. Location: [**Hospital **] [**Hospital **] HEALTH CENTER Address: [**Last Name (un) **], [**Location (un) **],[**Numeric Identifier 9749**] Phone: [**Telephone/Fax (1) 14050**] **Please contact your PCP office to book a follow up appointment from this hospitalization.
+OF GASTROENTEROLOGY When: WEDNESDAY [**2130-2-22**] at 2:45 PM With: [**First Name4 (NamePattern1) 1386**] [**Last Name (NamePattern1) **], MD [**Telephone/Fax (1) 463**] Building: Ra [**Hospital Unit Name 1825**] ([**Hospital Ward Name 1826**]/[**Hospital Ward Name 1827**] Complex) [**Location (un) **] Campus: EAST     Best Parking: Main Garage    Completed by:[**2130-2-17**

@@ -1,0 +1,44 @@
+In the ED, initial vs were: T 96.5 P 140 BP 162/116 R 28 O2 sat 80%.
+Patient was in significant respiratory distress on presentation with oxygen saturations falling into the 70s.
+Subsequent ABG revealed 7.25/60/323/28.
+CXR was performed confirming placement of ET tube and existing PICC line.
+CXR showed diffuse infiltrates.
+Her blood pressures fell to systolic on 80s and IV boluses were started.
+Labs were notable for WBC 27, HCT 30 (baseline), lactate 3.3, UA with trace protein and ketones, glucose 278, and Na 134.
+Physical Exam: Physical Exam on Admission to [**Hospital Unit Name 153**]: Vitals: T: 95.8 BP: 131/71 P: 128 R: 12 O2: 97% on vent General: Alert chewing on ET tube, no acute distress HEENT: Sclera anicteric, Right pupil dilated and minimally responsive to light, left pupil responive to light, ET tube inplace with pink frothy oral secretions Neck: JVP not elevated, no LAD Lungs: scattered rhonchi throughout anteriorly CV: tachycardic and rhythm, normal S1 + S2, no murmurs, rubs, gallops Abdomen: soft, non-tender, non-distended, bowel sounds present Neuro: Patient spontaneously moves all four extremities, continuously smacking lips, chewing on ET tube, awake, tremor present (baseline) not following commands.
+GU: foley in place Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema  Pertinent Results: Labs [**2150-10-15**] - CBC with differential: WBC-27.2*# RBC-3.43* Hgb-9.8* Hct-30.2* MCV-88 MCH-28.5 MCHC-32.4 RDW-15.1 Plt Ct-489* Neuts-70 Bands-1 Lymphs-24 Monos-4 Eos-1 Baso-0 Atyps-0 Metas-0 Myelos-0 - Coagulations: PT-13.1 PTT-22.5 INR(PT)-1.1 - CHEM 10: Glucose-298* UreaN-24* Creat-0.5 Na-134 K-4.3 Cl-98 HCO3-25 Calcium-9.1 Phos-3.4 Mg-1.9 - Albumin 2.1* - ABG: Rates-14/ Tidal V-440 PEEP-5 FiO2-100 pO2-322* pCO2-60* pH-7.25* calTCO2-28 Base XS--1 AADO2-357 REQ O2-62 -ASSIST/CON Intubat-INTUBATED - Free ionized Ca 1.11*  [**2150-10-16**] - Iron studies: calTIBC-172*  Ferritn-632* TRF-132* - VitB12 898 - folate 11.9 - cortisol AM 28.7*  MICROBIOLOGY [**2150-10-15**] - Urine legionella antigen negative - Blood [**12-13**]       STAPHYLOCOCCUS, COAGULASE NEGATIVE.
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              STAPHYLOCOCCUS, COAGULASE NEGATIVE                              | CLINDAMYCIN-----------   =>8 R ERYTHROMYCIN----------   =>8 R GENTAMICIN------------     8 I LEVOFLOXACIN----------   =>8 R OXACILLIN-------------   =>4 R RIFAMPIN-------------- <=0.5 S TETRACYCLINE----------   <=1 S VANCOMYCIN------------     2 S - PICC tip culture negative - Sputum: STAPH AUREUS COAG +.
+AZTREONAM Sensitivity testing per DR.[**Last Name (STitle) 91**],[**First Name3 (LF) **] PAGER [**Numeric Identifier 12337**]          [**2150-10-19**].
+AZTREONAM sensitivity testing performed by [**First Name8 (NamePattern2) 3077**] [**Last Name (NamePattern1) 3060**].
+AZTREONAM Sensitivity testing per DR. [**Last Name (STitle) 91**],[**First Name3 (LF) **] PAGER [**Numeric Identifier 12337**]          [**2150-10-19**].
+AZTREONAM sensitivity testing performed by [**First Name8 (NamePattern2) 3077**] [**Last Name (NamePattern1) 3060**].
+SENSITIVITIES: MIC expressed in MCG/ML _________________________________________________________                              STAPH AUREUS COAG +                              |          ESCHERICHIA COLI                              |          |          ESCHERICHIA COLI                              |          |          | AMPICILLIN------------             =>32 R     =>32 R AMPICILLIN/SULBACTAM--               16 I       16 I CEFAZOLIN-------------              <=4 S      <=4 S CEFEPIME--------------              <=1 S      <=1 S CEFTAZIDIME-----------              <=1 S      <=1 S CEFTRIAXONE-----------              <=1 S      <=1 S CIPROFLOXACIN---------              =>4 R      =>4 R CLINDAMYCIN-----------<=0.25 S ERYTHROMYCIN----------<=0.25 S GENTAMICIN------------ <=0.5 S      <=1 S      <=1 S LEVOFLOXACIN----------   =>8 R MEROPENEM-------------           <=0.25 S   <=0.25 S OXACILLIN-------------   0.5 S TOBRAMYCIN------------              <=1 S      <=1 S TRIMETHOPRIM/SULFA---- <=0.5 S     =>16 R     =>16 R  IMAGES [**2150-10-15**] CT Head 1.
+CXR 1.
+Bilateral patchy opacities, which may be due to patient motion versus infection versus edema.
+Consider repeat chest radiograph if clinically warranted.
+[**2150-10-16**] Echo The left atrium and right atrium are normal in cavity size.
+Left ventricular wall thicknesses are normal.
+There is severe regional left ventricular systolic dysfunction with akinesis of the distal [**1-14**] of the ventricle.
+[**2150-10-21**] Echo The left atrium and right atrium are normal in cavity size.
+Overall left ventricular systolic function is low normal (LVEF 50%).
+Tissue Doppler imaging suggests a normal left ventricular filling pressure (PCWP<12mmHg).
+The pulmonary artery systolic pressure could not be determined.
+Compared with the prior study (images reviewed) of [**2150-10-16**], left ventricular systolic function has markedly improved.
+[**2150-10-22**] CXR 1) Near total resolution of left effusion with mild residual pulmonary vascular congestion.
+Her sputum grew out staph aureus and 2 strains of E. coli (see labs for details), so she was treated with antibiotics clindamycin and aztreonam for a total of 8 days completed on [**2150-10-23**] (D1 [**2150-10-15**]).
+She was actively diuresed toward the end of her ICU stay and CXR showed improvement of her effusion.
+There was concern of possible teeth abscess, but CT head was not able to capture and Panorex X ray was not possible given intubated status.
+RIJ CVL was placed and PICC (placed prior to admission [**10-7**] at Shirrel House) line was removed.
+Blood cx showed coag negative staph as well as enterococcus faecalis, suggesting PICC line infection although PICC tip was cultured negative.
+Sputum grew out E. Coli and coag + staph aureus.
+Antibiotics clindamycin and aztreonam were chosen based on sensitivity and she was treated for a total of 8 day course for HAP (D1, [**2150-10-15**]) and completed on [**10-23**].
+Repeat CXR showed improvement of the bibasilar opacification, which could also be atelectasis.
+Cardiac ischemia, likely from demand with active diuresis and recent sepsis.
+This was noted on [**2150-10-23**] when telemetry monitoring revealed new T-wave inversion with troponin up to 0.14.
+A discussion was held with patient's HCP regarding therapy for the demand ischemia, and a decision was made to hold off further monitoring and intervention given her significant comorbidities and that the risk likely outweighs the benefit of anticoagulation.
+She received a total of 2 units of pRBC after discussion with her HCP, and her Hct responded appropriately.
+However, CT scan was unable to characterize the abscess due to resolution and location of the abscess.
+CT head did not show herniation or acute bleeding.
+Also during your hospitalization there was a decrease in your heart function and some demand on your heart that caused us to feel that you had a heart attack.
+[**Name (NI) **] had a successful extuabtion and are ready for discharge back to the nursing home.
+[**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Name8 (MD) **] MD [**MD Number(1) 292**]

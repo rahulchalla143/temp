@@ -1,0 +1,51 @@
+Admission Date:  [**2152-4-15**]              Discharge Date:   [**2152-5-2**]  Date of Birth:  [**2077-4-6**]             Sex:   F  Service: MEDICINE  Allergies: Penicillins / IV Dye, Iodine Containing Contrast Media / morphine  Attending:[**First Name3 (LF) 7591**] Chief Complaint: transferred from outside hospital for concern of acute leukemia  Major Surgical or Invasive Procedure: Bone marrow biopsy [**2152-4-15**] PICC Line placement and removal   History of Present Illness: 75 year old woman with diabetes and h/o early stage breast cancer s/p lumpectomy, XRT, and tamoxifen x 5 years transferred to [**Hospital1 18**] for possible acute leukemia.
+She was seen by her PCP who prescribed her a short course of ciprofloxacin complicated by tendonitis.
+This diarrhea resolved on antibiotics but she had persistent nightly fevers and progressive fatigue.
+She was prescribed a course of azithromycin but did not improve.
+She was given IVF and allopurinol 300 mg PO x 1, toradol for pain, and transferred to [**Hospital1 18**].
+She also received diclofenac prior to labs for flank pain.
+Past Medical History: - Breast cancer, early stage, s/p lumpectomy and XRT in [**2139**], tamoxifen x 5 years, s/p R axillary LND - Diabetes - No h/o heart disease  Social History: - Tobacco: Denies - Alcohol: Denies - Illicits: Denies - Occupation: Seamstress - Exposures: Denies - Social supports: Lives with husband  Family History: - Mother: [**Name (NI) **] cancer, + CAD - Father: [**Name (NI) **] into his 90s - Daughter: Down's syndrome  Physical Exam: Admission physical exam: VS: 99.0  105   144/80  20  98% on RA GEN:  well-appearing elderly woman in NAD ECOG: 1 HEENT:  MMM, no OP lesions, no cervical, supraclavicular, or axillary LAD, no thyromegaly, no conjunctival pallor or petechiae on palate CV:  RRR, no MRG PULM:  CTAB b/l, no crackles or wheezes ABD:  BS+, soft, tender LUQ, spleen is palpable; no hepatomegaly appreciated LIMBS:  Mild 1+ pitting edema both ankles up to [**1-4**] of tibia.
+Bone marrow biopsy: =================== SPECIMEN: BONE MARROW ASPIRATE AND CORE BIOPSY: DIAGNOSIS:      PRECURSOR B-ACUTE LYMPHOBLASTIC LEUKEMIA  MICROSCOPIC DESCRIPTION Peripheral Blood Smear:  The smear is adequate for evaluation.
+Red blood cells are decreased in number and show moderate to severe anisocytosis and mild poikilocytosis.
+Polychromatophils are frequently seen, and rare nucleated RBCs are also seen The white blood cell count appears increased and dominated by an immature blast population, that has a high N:C ratio, bluish, scant, agranular, vacuolated cytoplasm, irregular nuclear contours and sieve like chromatin with 2-3 nucleoli.
+Touch preparations are generous and are used for bone marrow aspirate descriptions.
+A 500 cell differential shows: 72% Blasts, 2 % Promyelocytes, 1% Myelocytes, 3% Metamyelocytes, 4% Bands/Neutrophils, 1% Plasma cells,  6% Lymphocytes, 11% Erythroid.
+Clot Section and Biopsy Slides: The core biopsy material is adequate for evaluation.
+Discharge labs: =============== [**2152-5-2**] 05:25AM BLOOD WBC-4.0# RBC-2.71* Hgb-8.5* Hct-25.0* MCV-92 MCH-31.5 MCHC-34.1 RDW-23.1* Plt Ct-43* [**2152-5-2**] 05:25AM BLOOD Neuts-41* Bands-9* Lymphs-46* Monos-4 Eos-0 Baso-0 Atyps-0 Metas-0 Myelos-0 NRBC-2* [**2152-5-2**] 05:25AM BLOOD Hypochr-NORMAL Anisocy-2+ Poiklo-NORMAL Macrocy-NORMAL Microcy-NORMAL Polychr-OCCASIONAL [**2152-5-2**] 05:25AM BLOOD PT-10.3 PTT-22.7* INR(PT)-0.9 [**2152-4-27**] 05:30AM BLOOD Fibrino-118* [**2152-5-2**] 05:25AM BLOOD Gran Ct-[**2140**]* [**2152-5-2**] 05:25AM BLOOD Glucose-114* UreaN-25* Creat-0.6 Na-140 K-3.6 Cl-104 HCO3-28 AnGap-12 [**2152-5-2**] 05:25AM BLOOD ALT-44* AST-16 LD(LDH)-181 AlkPhos-52 TotBili-0.8 [**2152-5-2**] 05:25AM BLOOD Calcium-8.4 Phos-3.6 Mg-2.0 UricAcd-2.8  Brief Hospital Course: 75 year old pleasant woman with diabetes and h/o early stage breast cancer s/p lumpectomy, XRT, and tamoxifen x 5 years transferred to [**Hospital1 18**] due to concern for leukemia and found to have precursor B-ALL ([**Location (un) **] chromosome positive).
+She required to be in the ICU for insulin drip for hyperglycemia in setting of dexamethasone in addition to hypertension for which antihypertensives were added/uptitrated.
+She was discharged in stable condition on prednisone and dasatinib with close follow up.
+# Precursor B-ALL [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 5622**] Chromosome: Initial concern for leukemia based on peripheral blasts.
+Initially she was on aggressive IV fluids, allopurinol and hydroxyurea.
+She received Prednisone 110 mg daily (day 1 [**4-16**]) in addition to Dasatinib (BCR-abl inhibitor) 70 mg twice daily (day 1 [**4-21**]).
+Omeprazole 40 mg daily was started in the setting of taking steroids in house but this was switched to randitine on discharge because ranitidine is less potent than PPI and acid suppression can inhibit dasatinib absorption.
+Would consider starting PCP prophylaxis as outpatient if indicated.
+She will continue dasatinib and prednisone and f/u with Dr. [**Last Name (STitle) 410**].
+# DM-2: exacerbated in the setting of steroid therapy with underlying diabetes.
+HgbA1c 10% reflects poor diabetic control prior to admission.
+Her BG went up to 600's requiring her to be in the ICU for insulin drip.
+This was gradually switched to NPH and standing humalog regimen in addition to Insulin sliding scale.
+Insulin regimen was modified.
+They made several adjustments to her regimen to avoid AM hypoglycemia and provide best control at home without the use of a sliding scale.
+She was discharged on insulin NPH 70/30 @ 35 units qAM, metformin 500mg po BID with breakfast and dinner, glyburide 10mg with breakfast and 5mg with dinner, and no sliding scale.
+Was started on labetalol 100mg TID.
+Labetalol was uptitrated to 200 mg [**Hospital1 **] with better control.
+Also, was started on amlodipine 5 mg daily which was uptitrated to 10 mg daily.
+She remained well-controlled with SBP 120-140s on this regimen with the exception of one evening where she jumped to SBP 180s.
+This was thought to be [**2-3**] volume overload, as she was 5 lbs up from admission, so she was given additional dose of labetalol as well as lasix after which pressures improved to 130-150s.
+Trended down from chemo but never required a transfusion (transfusion threshold was <10K).
+aztreonam was stopped on [**4-22**] and she subsequently remained afebrile.
+Relieved with low dose oxycodone prn  # H/o breast CA: early stage breast cancer s/p lumpectomy, XRT, right sided LND and tamoxifen x 5 years.
+Transitional issues: --If remains hypertensive after discontinuation of steroids, consider switching anti-hypertensives to ACEI --follow up with [**Last Name (un) **] for diabetic management --follow up with [**Doctor Last Name 410**] and have blood counts checked; give neupogen or transfuse if indicated --taper steroids starting [**2152-5-10**] --if leukemia returning, consider stopping ranitidine because it can decrease effect of dasatinib  Medications on Admission: Glyburide 5mg daily Metformin 500mg daily (finished 4/5 days of z-pak PTA)  Discharge Medications: 1.
+Glucometer: 1 glucometer for blood sugar measurement at home Diagnosis: Type 2 diabetes mellitus, steroid therapy; 250.00 2. labetalol 200 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Disp:*60 Tablet(s)* Refills:*0* 3. amlodipine 10 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0* 4. glyburide 5 mg Tablet Sig: as directed Tablet PO BID (2 times a day): Take 10mg (two tabs) in AM with breakfast and 5mg (one tab) in PM with dinner.
+Disp:*90 Tablet(s)* Refills:*0* 5. metformin 500 mg Tablet Sig: One (1) Tablet PO BID (2 times a day): Please take with breakfast and dinner.
+Disp:*60 Tablet(s)* Refills:*0* 6. insulin NPH & regular human 100 unit/mL (70-30) Suspension Sig: Thirty Five (35) units Subcutaneous qAM.
+Disp:*1000 units* Refills:*0* 7. prednisone 10 mg Tablet Sig: Eleven (11) Tablet PO DAILY (Daily): taper as directed by your hematologist.
+Disp:*3300 Tablet(s)* Refills:*0* 8. dasatinib 70 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+0.5mL syringe, disposable, with 31 gauge needle Sig: one syringe daily for insulin administration; Dispense # 30 syringes with needles; DIAGNOSIS: Type 2 diabetes, steroid therapy; 250.00 12. ranitidine HCl 75 mg Tablet Sig: One (1) Tablet PO twice a day.
+During your stay, your received steroids and a chemotherapy pill called Dasatinib.
+We were checking your blood frequently for tumor lysis which was managed by IV fluids and allopurinol.
+In the setting of your underlying diabetes, prednisone raised your blood glucose so high that it required you to stay in the ICU for insulin drip which was transitioned to insulin regimen.
+Also, your blood pressure was high and we started you on anti-hypertensive agents, amlodipine and labetalol.
+We made the following changes in your medication list: - Please START amlodipine 10 mg daily - Please START labetalol 200 mg twice daily - Please START dasatinib 70 mg twice daily - Please START prednisone 110 mg daily - Please START INSULIN 70/30, 35 units every morning - Please start Metformin 500mg twice a day with breakfast and dinner - Please start glyburide 10mg with breakfast and 5mg with dinner - please start ranitidine 75mg twice a day  Please follow with your appointment as illustrated below.

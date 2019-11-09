@@ -1,0 +1,32 @@
+* In the ED, the patient became hypoxic with an O2 sat of 80% on RA, which improved to 91% on NRB.
+Past Medical History: HIV/AIDS (CD4=227, viral load 52,000 [**11-10**]) Hepatitis C Asthma h/o Tuberculosis ([**2129**], now resolved) h/o PCP x 2 h/o pericarditis ([**2139**]) h/o pneumococcal pneumonia with bacteremia ([**11-10**]) h/o LLL pneumonia ([**12-12**]) h/o MAC on BAL ([**5-11**])   Social History: Born and raised in [**Male First Name (un) 1056**].
+Family History: NC  Physical Exam: Vitals: T=103.8, BP=133/75 to 86/49, HR=130 to 103, RR=26(intially), O2 sat 80% on RA to 91% on NRB HEENT: anicteric, mucosa dry NECK: supple CV: tachy, 2/6 SEM at LUSB RESP: course BS left side ABD: soft, NT, ND EXT: no LE edema RECTAL: guaiac negative   Pertinent Results: [**2143-3-9**] 10:30PM BLOOD WBC-18.4*# RBC-4.66 Hgb-13.1* Hct-41.4 MCV-89 MCH-28.1 MCHC-31.7 RDW-15.6* Plt Ct-139*# [**2143-3-9**] 10:30PM BLOOD Neuts-89* Bands-3 Lymphs-6* Monos-1* Eos-0 Baso-0 Atyps-0 Metas-0 Myelos-1* [**2143-3-9**] 10:30PM BLOOD Glucose-94 UreaN-28* Creat-1.0 Na-132* K-7.0* Cl-101 HCO3-21* AnGap-17 [**2143-3-9**] 10:30PM BLOOD Albumin-2.4* Calcium-8.6 Phos-2.6*# Mg-1.8 [**2143-3-9**] 10:30PM BLOOD ALT-19 AST-66* CK(CPK)-98 AlkPhos-152* Amylase-29 TotBili-1.2 [**2143-3-9**] 10:30PM BLOOD Plt Smr-LOW Plt Ct-139*# [**2143-3-10**] 04:11AM BLOOD PT-13.8* PTT-26.7 INR(PT)-1.2 [**2143-3-9**] 10:30PM BLOOD CK-MB-NotDone cTropnT-<0.01 [**2143-3-10**] 04:11AM BLOOD CK-MB-NotDone cTropnT-<0.01 [**2143-3-16**] 07:48PM BLOOD CK-MB-NotDone cTropnT-<0.01 [**2143-3-17**] 04:36AM BLOOD calTIBC-209* Ferritn-651* TRF-161* [**2143-3-10**] 01:15AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-20.9 Bnzodzp-NEG Barbitr-NEG Tricycl-NEG [**2143-3-9**] 10:37PM BLOOD Lactate-4.0* [**2143-3-14**] 02:21AM BLOOD Lactate-1.3 * CHEST (PORTABLE AP)  [**2143-3-9**] 11:27 PM FINDINGS: AP supine portable view.
+* [**2143-3-10**] 3:44 am BRONCHOALVEOLAR LAVAGE    GRAM STAIN (Final [**2143-3-10**]):       4+   (>10 per 1000X FIELD):   POLYMORPHONUCLEAR LEUKOCYTES.
+RESPIRATORY CULTURE (Final [**2143-3-12**]):    ~5000/ML OROPHARYNGEAL FLORA.
+LEGIONELLA CULTURE (Preliminary):    NO LEGIONELLA ISOLATED.
+FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED.
+NOCARDIA CULTURE (Preliminary):    NO NOCARDIA ISOLATED.
+His admission blood cultures showed high grade bacteremia with pneumococcus (3/4 bottles positive).
+He underwent a broncheoalveolar lavage, from which cultures have remained negative.
+Once the blood culture data returned his coverage was initially narrowed to levaquin, but he had persistent low grade fevers and a worsening of his leukocytosis, so was again started on broader coverage with cefepime and vancomycin for a question of ventillator associated pneumonia.
+Serial CXRs done on [**3-15**] and [**3-18**] showed improvement in the LUL opacity but development of a new LLL opacity and left sided pleural effusion.
+On [**3-20**], a chest CT was done which revealed a significant left pleural effusion with LLL collapse.
+Cultures were negative.
+An induced sputum was also done (as the patient was not clearing his secretions) and grew sparce OP flora.
+Repeat CT scan one week later showed marked resolution of LLL effusion.
+Interventional pulmonary and pulmonary were consulted for re-evaluation, but neither bronchosopy or re-tapping of left sided pleural effusion were felt to be indicated.
+It was felt that he should stay on Levofloxacin indefinitely until a repeat CT scan may be performed as an outpatient to document clearance of his infection.
+EKG did not show changes consistent with ACS, and one set of cardiac enzymes was negative.
+An EKG showed isolated TWI in V2 and another set of cardiac enzymes was flat.
+CXR at that time showed only improving LUL opacity.
+He underwent a cortisol stimulation test, which showed an AM cortisol of 17, but the level did not respond to cosyntropin.
+Blood pressures improved and remained stable.
+His HCT was generally in the low to mid 20s, and he was given a unit of PRBCs with an appropriate HCT bump.
+A reticulocyte count revealed appropriate marrow production.
+Iron studies were repeated during this admission and were consistent with an anemia of chronic disease, possibly secondary to his HIV.
+[**Name10 (NameIs) **] most recent CD4 count was 227 and viral load was 52,000 in [**11-10**].
+HCV Similarly, treatment of his HCV has been deferred.
+He was seen by [**First Name5 (NamePattern1) 1060**] [**Last Name (NamePattern1) 1061**] while here, with plan to follow-up in clinic after his rehab stay to readdress any social needs or possible drug rehabilation program if needed.
+Cystic lesion of pancreas Incidentally found on chest CT and should be f/u with MR [**First Name (Titles) 3**] [**Last Name (Titles) 1062**]t.     Medications on Admission: Neurontin Ultram Dapsone 100 mg PO QD  Discharge Medications: 1.
+Docusate Sodium 150 mg/15 mL Liquid Sig: One (1)  PO BID (2 times a day).
+Discharge Disposition: Extended Care  Facility: [**Hospital3 7**] & Rehab Center - [**Hospital1 8**]  Discharge Diagnosis: Pneumococcal pneumonia and sepsis Chest pain HIV Peripheral neuropathy   Discharge Condition: Stable.

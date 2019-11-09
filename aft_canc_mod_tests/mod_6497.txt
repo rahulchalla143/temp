@@ -1,0 +1,29 @@
+Admission Date:  [**2174-6-6**]              Discharge Date:   [**2174-6-10**]  Date of Birth:  [**2108-5-10**]             Sex:   M  Service: MEDICINE  Allergies: Simvastatin  Attending:[**First Name3 (LF) 2736**] Chief Complaint: Chest Pain  Major Surgical or Invasive Procedure: Cardiac catheterization status post percutaneous intervention (2 bare metal stents)   History of Present Illness:  HISTORY OF PRESENTING ILLNESS: Mr. [**Known lastname 88506**] is a 66 year old M w/ h/o pancreatic CA s/p sphincterotomy [**12-15**] and chemotherapy with gemcitabine and erlotinib, DM type 2, and CAD s/p MI and PCI/stent [**2167**] who is transferred from OSH with acute inferior STEMI.
+Pain was [**9-14**] at its worst.
+Presented to OSH where EKGs were remarkable for STE and small q waves in II, III, aVF with reciprocal ST depressions in I and aVL.
+He was transferred to [**Hospital1 18**] for further management.
+Vitals at that time were HR 109, BP 128/68 RR 19 O2 sat 99%.
+Cardiac catheterization showed a right dominant system with total occlusion of RCA, minimal disease in the remaining vessels.
+NECK: Supple with JVP of 6 cm, positive hepatojugular reflex.
+Pertinent Results: On Admission:  [**2174-6-6**] 09:50PM   WBC-9.2 RBC-3.02* HGB-9.2* HCT-27.3* MCV-90 MCH-30.4 MCHC-33.6 RDW-16.9* [**2174-6-6**] 09:50PM   NEUTS-78* BANDS-3 LYMPHS-8* MONOS-10 EOS-1 BASOS-0 ATYPS-0 METAS-0 MYELOS-0 [**2174-6-6**] 09:50PM   GLUCOSE-347* UREA N-24* CREAT-0.9 SODIUM-134 POTASSIUM-4.0 CHLORIDE-102 TOTAL CO2-21* ANION GAP-15 [**2174-6-6**] 09:50PM   ALT(SGPT)-55* AST(SGOT)-79* CK(CPK)-363* ALK PHOS-223* TOT BILI-0.6 [**2174-6-6**] 09:50PM   PT-14.1* PTT-46.1* INR(PT)-1.2* .
+On Discharge: [**2174-6-10**] 06:45    WBC   RBC  Hgb  Hct   MCV MCH   MCHC RDW  Plt Ct   12.8* 2.96* 9.1* 27.5* 93   30.9 33.2 17.6* 120* .
+Lipid Panel: [**2174-6-7**] 04:15 Cholest Triglyc HDL CHOL/HD LDLcalc 136      111     11   12.4    103 .
+Conscious Sedation:  was provided with appropriate monitoring performed by a member of the nursing staff.
+Limited resting hemodynamics revealed normal systemic arterial pressure of 133/53mmHg.
+A spiral CT must be obtained to r/o PE as this may have been a chronic TO.
+The study is not tailored for precise characterization of subdiaphragmatic contents.
+Extensive metastatic disease in the liver, better assessed by the prior CT torso on [**2174-2-21**].
+Brief Hospital Course: Mr. [**Known lastname 88506**] is a 66 year old M w/ h/o pancreatic CA s/p sphincterotomy [**12-15**] and chemotherapy with gemcitabine and erlotinib, DM type 2, and CAD s/p MI and PCI/stent [**2167**] who was transferred from OSH with acute inferior STEMI.
+EKG consistent with inferior MI.
+Given findings on cath and history of intermittent pleuritic pain prior to today's episode cannot be entirely sure about the timing of the MI.
+ASA 325mg and clopidogrel 75mg needs to be taken daily for as long as a year if he can tolerate, but no less than one month.
+# Pleuritic chest pain: Thought [**3-9**] MI related pericardial irritation.
+Chest CTA showed no evidence of PE.
+He does have a friction rub noted on exam that persisted.
+ECHO after MI showed EF of 40%, no pericardial effusion.
+Urine culture was negative.
+His leukocytosis resolved and pt remained hemodynamically stable.
+There are 3 more sets of blood cultures pending at the time of his discharge.
+You underwent cardiac catheterization and two stents were placed in one of your coronary arteries.
+You will need to have your blood drawn weekly to check your liver and kidney function on this antibiotic.
+Followup Instructions: Name: [**Last Name (LF) 313**],[**First Name3 (LF) **] N Location: [**Hospital **] HEALTH CENTER Address: 200 [**Last Name (un) 12504**] DR, [**Location (un) **],[**Numeric Identifier 18464**] Phone: [**Telephone/Fax (1) 18462**] Appointment: Tuesday [**2174-6-14**] 1:30pm  Department: INFECTIOUS DISEASE When: [**Year (4 digits) **] [**2174-6-13**] at 10:00 AM With: [**Name6 (MD) 2323**] [**Name8 (MD) 2324**], MD [**Telephone/Fax (1) 457**] Building: LM [**Hospital Ward Name **] Bldg ([**Last Name (NamePattern1) **]) [**Hospital 1422**] Campus: WEST     Best Parking: [**Hospital Ward Name **] Garage  Department: HEMATOLOGY/ONCOLOGY When: [**Hospital Ward Name **] [**2174-6-13**] at 11:00 AM With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 6050**], MD [**Telephone/Fax (1) 8770**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 24**] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage  Department: HEMATOLOGY/ONCOLOGY When: [**Hospital Ward Name **] [**2174-6-13**] at 12:00 PM With: [**Name6 (MD) 8111**] [**Name8 (MD) 8112**], RN [**Telephone/Fax (1) 22**] Building: [**Hospital6 29**] [**Location (un) 24**] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage .

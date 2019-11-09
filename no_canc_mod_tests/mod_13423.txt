@@ -1,0 +1,17 @@
+On physical exam the patient was found to have a pulsatile abdominal mass by his primary care physician.
+[**Name10 (NameIs) **] scan of the abdomen done at [**Hospital3 **] showed an infrarenal abdominal aortic aneurysm with dimensions of 8.1 x 8.7 cm.
+CTA of his abdomen and pelvis revealed that the patient was not a candidate for endovascular repair of his abdominal aortic aneurysm.
+Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 120**] saw the patient for preoperative cardiac evaluation on [**2197-5-31**].
+A stress test done on [**2197-5-31**], showed a moderate, fixed inferior defect, mild fixed septal defect, and a moderate partially reversible distal anterior defect, global hypokinesis, ejection fraction of 42%.
+PHYSICAL EXAMINATION:  Vitals signs:  Pulse 52, respirations 12, blood pressure 138/80.
+LABORATORY DATA:  On admission, [**2197-6-1**], WBC 8.2, hemoglobin 12.8, hematocrit 37.5, platelet count 255,000; PT 12.6, PTT 25.1, INR 1.0; sodium 142, potassium 4.4, chloride 103, CO2 29, BUN 17, creatinine 0.9, glucose 82; urinalysis negative.
+Electrocardiogram showed normal sinus rhythm at a rate of 64, nonspecific ST wave changes present, possible septal infarct, age undetermined.
+Chest x-ray showed no signs of congestive heart failure or infiltrates, status post CABG and possible sternal revision.
+Estimated blood loss was 2 L.  The patient received 2 U packed red blood cells intraoperatively.
+The patient's hematocrit decreased to 24.9 on [**2197-6-10**].
+He was transfused with 2 U packed red blood cells.
+An episode of melena was noted with a T-max of 100.9??????.
+A colonoscopy was done on [**2197-6-15**], which showed diverticulosis, diffuse colitis, inflammatory bowel disease versus infection.
+Biopsy of the left colon showed chronic active colitis with ulceration.
+Biopsy of the sigmoid colon showed chronic active colitis.
+[**MD Number(1) 6223**]  Dictated By:[**Last Name (NamePattern1) 3954**] MEDQUIST36  D:  [**2197-6-19**]  11:24 T:  [**2197-6-19**]  11:25 JOB#:  [**Job Number 49525**]

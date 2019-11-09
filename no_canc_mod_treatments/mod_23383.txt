@@ -1,0 +1,80 @@
+Admission Date:  [**2147-9-3**]              Discharge Date:   [**2147-9-14**]  Date of Birth:  [**2077-7-9**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 398**] Chief Complaint: Hypotension, fever  Major Surgical or Invasive Procedure: Left Radial Arterial Line PICC removal PICC placement Bronchoscopy Post-pyloric PEG advancement [**2147-9-13**]; revision on [**2147-9-14**]   History of Present Illness: Mr. [**Known firstname 2398**] [**Known lastname **] is a 70M with HIV (CD4 350 in [**5-8**]), SCC s/p RLL lobectomy [**8-7**] complicated by bronchopleural fistula treated with [**Last Name (un) 72968**] window, as well as empyema and invasive aspergillosis treated with voriconazole referred from [**Hospital1 **] [**Hospital1 8**] for hypotension and fever to 101.8.
+His antibiotic course of vanco/cefepime/cipro was completed on [**2147-9-2**].
+He received hydrocortisone 100 mg IV.
+Past Medical History: -- trach and PEG placed last admission -History of multivessel CAD s/p PCI of the proximal left circumflex with a bare metal stent [**2143**] w/ Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] ([**Hospital 12017**] [**Hospital 12018**] Hospital) -HIV-infection, diagnosed in [**2137**], well-controlled.
+Pt states that his VL has always been undetectable -Chronic LV dysfunction last EF 55% -Severe migratory polyarthritis, on prolonged high-dose steroid use for presumed "adrenal insufficiency" -moderate MR [**Name13 (STitle) 19667**] -herpes labialis -TMJ -B/L inguinal hernia repair -SCC s/p RLL lobectomy [**8-7**] complicated by bronchopleural fistula treated with [**Last Name (un) 72968**] window, as well as empyema and invasive aspergillosis   Social History: Currently residing in [**Hospital **] [**Hospital 8**] Rehabilitation.
+Physical Exam: Vitals on arrival to the MICU: T 99.2, 113, 116/73, 100% on PS [**5-3**] and FO2 General: sitting with eyes closed, trached on vent HEENT: Sclera anicteric, dry MM, poor dentition, left slightly greater tha right, both pupils reactive to light, arcus sensilus pupil (stable) Neck: hard to assess JVD, trached, connected to vent Lungs: rhonchorus, coarse rales; R-sided chest dressing c/d/i CV: regular fast rate, no murmurs appreciated Abdomen: + BS, soft, NTND, diffuse ecchymoses c/w lovenox shots; old sutures retained in LLQ (CDI); PEG site with minimal erythema and no discharge Skin: scattered, diffuse telangiectasias (not spiders) scatter on face/chest/limbs; friable skin with some areas of eschar on chest, do not appear superinfected Ext: warm, dry +PP no edema Neuro: sleepy, arouses when spoken to [**Last Name (un) **]; hard to understand paie witht PMV but he attept to answer questions  Pertinent Results: ADMISSION LABS: Notable for lipase 215, BUN10, Cr 0.3, WBC 15.7 with 4% bands, Hct 25.4, plt 637 Lactate 1.0 AST: 97 ALT: 76 AP: 170 Tbili: 0.2 UA negative  IMAGING: [**2147-9-3**] CT TORSO with contrast: 1.
+Small volume of pneumoperitoneum in the setting of interval recnetly placed percutaneous gastrostomy tube.
+Would correlate to the timing of the tube placement as this is a likely etiology if very recently placed.
+[**2147-9-4**] Beta-glucan: >500 pg/mL [**2147-9-8**] Beta-glucan: >500 pg/mL * Titers requested on [**2147-9-14**] on both of these above.
+[**2147-9-4**] ASPERGILLUS GALACTOMANNAN ANTIGEN: 0.1 (negative) [**2147-9-8**] ASPERGILLUS GALACTOMANNAN ANTIGEN: 0.1 (negative)  [**2147-9-14**] Voriconazole level: added on to am labs from [**9-14**].
+Brief Hospital Course: Mr. [**Known lastname **] is a 70 yo M h/o HIV, (CD4 350 in [**5-8**] and VL undetect), SCC s/p RLL lobectomy [**8-7**] complicated by bronchopleural fistula involving aspergillosis treated with [**Last Name (un) 72968**] window- open to air, as well as empyema and invasive aspergillosis treated with voriconazole referred from [**Hospital1 **] [**Hospital1 8**] for hypotension and fever secondary to a recurrent pneumonia.
+# Hypotension/Pneumonia: He completed a 10 day course of vancomycin, ciprofloxacin and cefepime at rehab for HAP.
+Upon admission, he was started empirically on vancomycin, meropenem and ciprofloxacin, as well as voriconazole given his history of aspergillus infection.
+He completed an eight day course of vancomycin and meropenem.
+[**9-13**] an IR guided advancement of his gastric tube to post-pyloric positioning was performed without difficulty.
+It is recommended that patient remain on continuous tube feeding through the jejunal tube.
+# ORAL SECRETIONS: Pt started on scopolamine patch to assist management of oral secretions.
+He required one blood cell transfusion for a Hematocrit of 20.1.
+He was started on iron supplements.
+# HIV: continued on home HAART medications.Recommend continuing home HAART regimen and following up with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] ([**Telephone/Fax (1) 85243**]) after discharge from rehab.
+During admission he was continued on aspirin and statin.
+His metoprolol was restarted at a lower dose of 12.5 q 8 hours as his blood pressure could not tolerate higher doses.
+He will continue to require daily dressing changes.
+# Respiratory Status: Would continue to wean off vent support as tolerated.
+# Glycemic Control:  FSBS QID with sliding scale insulin .
+# Lines: PICC on admission removed and new PICC placed [**2147-9-6**].
+# Prophylaxis: - Continue lovenox 40 mg sc daily for DVT prophylaxis.
+- Continue ranitidine 150 mg daily for stress ulcer prophylaxis while on ventilator.
+- Continue VAP prophylaxis with mouth care [**Hospital1 **] while using ventilator # Contact: Sister [**Name (NI) 55745**] # [**Name2 (NI) 7092**] status: DNR (confirmed with sister [**Name (NI) 55745**] his HCP)  PENDING ISSUES FOR FOLLOW-UP: 1.
+They recommended voriconazole 300 mg [**Hospital1 **] for lifelong therapy (see above), though this may need to be adjusted pending results of the titers.
+Medications on Admission: Vancomycin, Meropenem, Ciprofloxacin --> restarted Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical TID (3 times a day) as needed for yeast.
+Enoxaparin 40 mg/0.4 mL Syringe Sig: One (1) inj Subcutaneous DAILY (Daily).
+Ipratropium Bromide 0.02 % Solution Sig: One (1) neb Inhalation Q6H (every 6 hours) as needed for sob/wheeze.
+Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1) neb Inhalation Q6H (every 6 hours) as needed for sob/wheeze.
+Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+Prednisone 2.5 mg Tablet Sig: Three (3) Tablet PO DAILY (Daily).
+Sulfamethoxazole-Trimethoprim 800-160 mg Tablet Sig: One (1) Tablet PO 3X/WEEK (MO,WE,FR).
+Metoprolol Tartrate 25 mg Tablet Sig: 1.5 Tablets PO TID (3 times a day).
+Sulfasalazine 500 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day).
+Ferrous Sulfate 300 mg (60 mg Iron)/5 mL Liquid Sig: Five (5) mL PO DAILY (Daily).
+Gabapentin 300 mg Capsule Sig: One (1) Capsule PO Q8H (every 8 hours).
+Escitalopram 10 mg Tablet Sig: Four (4) Tablet PO DAILY (Daily).
+Tenofovir Disoproxil Fumarate 300 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Emtricitabine 200 mg Capsule Sig: One (1) Capsule PO Q24H (every 24 hours).
+Raltegravir 400 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Acetaminophen 650 mg/20.3 mL Solution Sig: 1-2 doses PO Q6H (every 6 hours) as needed for fever.
+Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: 2-4 Puffs Inhalation Q6H (every 6 hours) as needed for SOB/Wheeze.
+Neutra-Phos 2 PKT PO/NG [**Hospital1 **] Sliding scale humalog insulin at meals and bedtime   Discharge Medications: 1.
+Bisacodyl 5 mg Tablet, Delayed Release (E.C.)
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for Constipation.
+Enoxaparin 40 mg/0.4 mL Syringe Sig: One (1)  Subcutaneous DAILY (Daily).
+Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+Sulfamethoxazole-Trimethoprim 800-160 mg Tablet Sig: One (1) Tablet PO 3X/WEEK (MO,WE,FR).
+Sulfasalazine 500 mg Tablet Sig: One (1) Tablet PO QID (4 times a day).
+Gabapentin 300 mg Capsule Sig: One (1) Capsule PO Q8H (every 8 hours).
+Escitalopram 20 mg Tablet Sig: Two (2) Tablet PO once a day.
+Tenofovir Disoproxil Fumarate 300 mg Tablet Sig: One (1) Tablet PO at bedtime.
+Emtricitabine 200 mg Capsule Sig: One (1) Capsule PO at bedtime.
+Raltegravir 400 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Prednisone 2.5 mg Tablet Sig: Three (3) Tablet PO DAILY (Daily).
+Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation Q6H (every 6 hours) as needed for sob, wheezing.
+Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1) neb Inhalation Q6H (every 6 hours) as needed for sob, wheezing.
+Scopolamine Base 1.5 mg Patch 72 hr Sig: One (1) Patch 72 hr Transdermal Q72HR () as needed for secretions.
+Acetaminophen 500 mg Tablet Sig: 1-2 Tablets PO Q8H (every 8 hours) as needed for pain, headache.
+Trazodone 50 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime) as needed for sleep.
+Voriconazole 200 mg Tablet Sig: 1.5 Tablets PO Q12H (every 12 hours).
+Heparin Flush (10 units/ml) 2 mL IV PRN line flush PICC, heparin dependent: Flush with 10mL Normal Saline followed by Heparin as above daily and PRN per lumen.
+Ferrous Sulfate 300  mg (60 mg Iron) Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO Q 8H (Every 8 Hours).
+Chlorhexidine Gluconate 0.12 % Mouthwash Sig: Fifteen (15) ML Mucous membrane [**Hospital1 **] (2 times a day) as needed for cleaning.
+We also advance your gastric tube to help prevent aspiration.
+You tolerated this procedure well.
+The infectious disease doctors [**Name5 (PTitle) 2985**] [**Name5 (PTitle) **] should continue your anti-aspergillus antibiotic, voriconazole for life.
+Your medication changes include: START: 1.
+Voriconazole 300 mg twice per day 2.
+Trazadone 25 mg every evening as needed for insomnia 4.
+Ferrous Sulfate 300 mg daily  DECREASE: 1.
+Metoprolol to 12.5 mg every eight hours  Followup Instructions: Provider: [**Name10 (NameIs) 1532**] [**Last Name (NamePattern4) 8786**], MD Phone:[**Telephone/Fax (1) 3020**] Date/Time:[**2147-10-3**] 11:00  Provider: [**Last Name (NamePattern4) **].

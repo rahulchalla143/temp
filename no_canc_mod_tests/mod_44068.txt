@@ -1,0 +1,33 @@
+He denied abdominal pain, nausea, and vomiting.
+In the ED, initial VS were: HR 86, 122/72.
+His labs were notable for a HCT of 31 (at baseline), Cr 1.3 (baseline 1.6), and an NTproBNP of [**Numeric Identifier 101333**].
+During his ED stay, his HR increased to 110 and his SBP decreased to 110.
+Past Medical History: - Moderate-to-severe aortic insufficiency with dilated LV (LVEF 50-55%), s/p bioprosthetic AVR on [**2182-6-27**] - Recent cardiac catheterization showing no obstructive coronary artery disease, however, found to have elevated filling pressures, requiring diuresis - Atrial fibrillation, currently on Coumadin for thromboembolic prophylaxis - Hypertension - Kidney transplant in [**2155**] due to PCKD, the baseline creatinine approximately 1.6 - Hyperlipidemia - Peripheral neuropathy - Diverticulitis - Pseudogout - Osteoporosis   Social History: Patient previously worked as an engineer for channel 5.
+JVP 15cm.
+Pertinent Results: [**2182-7-15**] 01:43PM   WBC-10.1# RBC-3.20* HGB-9.7* HCT-31.0* MCV-97 MCH-30.4 MCHC-31.4 RDW-17.0* [**2182-7-15**] 01:43PM   proBNP-[**Numeric Identifier 101333**]* [**2182-7-15**] 04:11PM   PT-34.6* PTT-29.8 INR(PT)-3.4* .
+TTE [**2182-7-19**] The left atrium is mildly dilated.
+[**7-22**] echo The left ventricular cavity size is normal.
+There are no echocardiographic signs of tamponade.
+Compared with the prior study (images reviewed) of [**2182-7-19**], the findings are similar.
+Mitral valve and tricuspid valve inflows show variability which is partly due to atrial fibrillation.
+[**2182-7-17**] CXR IMPRESSION: Small right pleural effusion with no evidence of pulmonary vascular congestion.
+FECAL CULTURE (Final [**2182-7-20**]):    NO SALMONELLA OR SHIGELLA FOUND.
+CAMPYLOBACTER CULTURE (Final [**2182-7-21**]):    NO CAMPYLOBACTER FOUND.
+FECAL CULTURE - R/O VIBRIO (Final [**2182-7-21**]):    NO VIBRIO FOUND.
+FECAL CULTURE - R/O YERSINIA (Final [**2182-7-21**]):    NO YERSINIA FOUND.
+FECAL CULTURE - R/O E.COLI 0157:H7 (Final [**2182-7-20**]):       NO E.COLI 0157:H7 FOUND.
+[**2182-7-23**] 05:45AM BLOOD WBC-9.1 RBC-3.32* Hgb-10.3* Hct-32.1* MCV-97 MCH-30.9 MCHC-31.9 RDW-18.4* Plt Ct-186 [**2182-7-22**] 04:15PM BLOOD PT-23.9* PTT-35.8 INR(PT)-2.3* [**2182-7-22**] 09:30AM BLOOD Glucose-162* UreaN-46* Creat-1.4* Na-138 K-3.5 Cl-100 HCO3-28 AnGap-14  Brief Hospital Course: 79 yo M with a PMHx of moderate to severe AI with decreased EF s/p bioprosthetic AVR [**2182-6-27**] and discharged to rehab on [**7-2**] on coumadin and ASA, AF, HTN, renal transplant [**2155**] [**1-17**] to PCKD and diverticulitis noted on c-scope in [**2174**] who p/f rehab with BRBPR who was intially admitted to the [**Hospital Unit Name 153**] for observation and sent to the floor when showed no signs of clinical bleeding, course c/b AF with RVR, moderate sized pericardial effusion and c. difficile colitis .
+# C. dificile colitis Patient and family endorse months to years of intermitent mucousy output from his rectum and new in onset (for the past several weeks) incontinence.
+The patient has stool studies sent in house for further work up of opportunistic infectious etiologies of these symptoms and c. diff came back positive.
+# Pericardial Effusion:  Echo noted moderate pericardial effusion without signs of tamponade.
+He will have follow up with his CT surgeon.
+His anticoagulation was resumed after his GI bleeding was resolved, and his INR was in the therapeutic range on day of [**Month/Day (4) **].
+The patient was trialed on single [**Doctor Last Name 360**] metoprolol in house for rate control but this was not effective with HR in the 110-130 range without symptoms.
+The inpatient Cardiology team was consulted and they ultimately recommended diliazem 120 CD which improved his rate control.
+His heart rate was controlled with diltiazem CD 120 mg po daily and metoprolol tartrate 75 mg po daily.
+He had occasional PVCs, so please check his potassium and magnesium at least twice a week (can be done with cyclosporine labs) .
+# VOLUME OVERLOAD with a h/o sCHF with recent EF 35-40%: Patient had elevated JVP and periperhal edema, suggestive of elevated R filling pressures.
+The transplant team recommends that his cyclosporine levels be checked twice a week, in addition to his renal function.
+Please fax the results to his nephrologist, Dr [**First Name4 (NamePattern1) 429**] [**Last Name (NamePattern1) 118**], at [**Telephone/Fax (1) 9420**].
+Creatinine ws 1.4 on [**Telephone/Fax (1) **]; baseline is 1.6.
+Followup Instructions: Please follow up with: Department: CARDIAC SERVICES When: WEDNESDAY [**2182-7-31**] at 2:20 PM With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 2908**], MD [**Telephone/Fax (1) 62**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage  Department: CARDIAC SURGERY When: WEDNESDAY [**2182-8-21**] at 1 PM With: [**Name6 (MD) **] [**Name8 (MD) 6144**], MD [**Telephone/Fax (1) 170**] Building: LM [**Hospital Unit Name **] [**Location (un) 551**] Campus: WEST     Best Parking: [**Hospital Ward Name **] Garage  Department: CARDIAC SERVICES When: WEDNESDAY [**2182-8-28**] at 2:00 PM With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 2908**], MD [**Telephone/Fax (1) 62**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage Name: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 5080**], MD  Specialty: Primary Care Location: [**Hospital1 **] HEALTHCARE - [**Location (un) **] Address: [**Location (un) **], [**Apartment Address(1) 6850**], [**Location (un) **],[**Numeric Identifier 1700**] Phone: [**Telephone/Fax (1) 3329**] Please discuss with the staff at the facility a follow up appointment with your PCP when you are ready for [**Telephone/Fax (1) **].

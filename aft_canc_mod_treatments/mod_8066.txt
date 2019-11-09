@@ -1,0 +1,36 @@
+Admission Date:  [**2167-1-24**]              Discharge Date:   [**2167-1-27**]  Date of Birth:  [**2091-4-11**]             Sex:   M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**First Name3 (LF) 2297**] Chief Complaint: syncope, chills, nausea, vomiting, diarrhea  Major Surgical or Invasive Procedure: [**2167-1-24**] - Arterial line placement  History of Present Illness: 75 yo M with metastatic gallbladder cancer on gemzar/cisplatinum (last dose [**2167-1-16**]), bladder cancer s/p cystectomy, recent admissions for partial SBO ([**1-5**] - [**1-7**]) and for biliary obstruction ([**1-20**] - [**1-22**]) now presenting with hypotension, nausea, vomiting.
+A sphincterotomy was performed in the 12 o'clock position using a sphincterotome over an existing guidewire.
+A WallFlex TM biliary RX uncovered 8 mm x 80 mm stent (REF: 7062, LOT: [**Numeric Identifier 93920**]) was placed successfully.
+The pancratic stent was removed after placement of the metal stent.
+The patient was treated with bowel rest and IV fluids, and his diet was advanced prior to discharge on [**2167-1-22**].
+Hospital course was also notable for new diagnosis of bilateral DVTs for which patient was started on lovenox treatment.
+Patient was started on vanco/cefepime for presumed HCAP.
+LIJ was placed for fluid resuscitation.
+On arrival to the ICU, the patient complained of heartburn and abdominal bloating.
+Past Medical History: ONCOLOGY HISTORY - [**2158**] - cystoprostatectomy by Dr. [**Last Name (STitle) 7391**] revealed bladder TCC invading the lamina propria involving intravesicular portion of the left ureter - [**2165**] - resection for local recurrence.
+- [**2166-12-30**] - CT-guided liver biopsy carcinoma with clear cell features diffusely positive for cytokeratin cocktail and cytokeratin 7 and negative for Hep Par 1 packs 2 TTF-1, cytokeratin 20 and P63 most compatible with a tumor of biliary pancreatic or upper gastrointestinal origin - [**2167-1-5**] - KUB partial small-bowel obstruction - [**2167-1-9**] - Gemzar/cisplatin started - [**2167-1-20**] - Presentation w abd pain and elevated bilirubin, ERCP w 12mm long segment of severe narrowing, sphincterotomy and placement of WallFlex TM biliary RX uncovered stent .
+PAST MEDICAL HISTORY - Metastatic gallbladder cancer - Recurrent bladder CA s/p primary resection ([**2159**]), penile/urethral metastatsis resection ([**2165**]) - HTN - HLD - LVH w mild LVOT obstruction and mildly dilated thoracic aorta - h/o cystectomy - h/o resection penile recurrence  Social History: Lives with wife in [**Name (NI) 86**].
+Lack of air within the biliary stent and left lobe of liver suggests stent occlusion.
+Interval improvement in the previously noted left hydroureteronephrosis in this patient status post urinary diversion and ileal conduit.
+[**2167-1-24**] DUPLEX DOPP ABD/PEL POR AND LIVER OR GALLBLADDER US - Please note, patient had difficulty remaining in left lateral decubitus after obtaining only sagittal images, at which point the decision was made to transfer to the right lateral decubitus position.
+The left kidney measures 10 cm.
+Patient is status post urinary diversion and ileal conduit.
+Brief Hospital Course: IMPRESSION: 75M with PMH significant for metastatic gallbladder carcinoma, bladder carcinoma (s/p primary resection with ileal conduit formation), hypertension and hyperlipidemia with recent hospitalization for ERCP in the setting of biliary stricture with metal stent deployment complicated by post-procedural pancreatitis and evidence of DVTs who now presents with nausea, emesis and hypotension concerning for septic shock requiring pressor support with evolving pneumonia, acute renal insufficiency and hyperbilirubinemia.
+Given worsening clinical status despite aggressive resuscitation and pressors, patient was transitioned to comfort measures only and expired on [**2167-1-27**].
+# ACUTE HYPOXIC RESPIRATORY FAILURE - Following volume resuscitation needs given his septic shock, the patient developed worsening respiratory concerns and hypoxia with an increased oxygen requirement.
+Patient was empirically antibiosed with Vancomycin, Levofloxacin and Zosyn.
+Lactate 5.1 on admission, trending downward with IV fluid resuscitation.
+Following aggressive volume resuscitation, his hypotension and tachycardia improved and his pressor support was weaned.
+His serial lactate and central venous oxygen saturations improved with broad spectrum antibiotics - Vancomycin, Levofloxacin and Zosyn (started [**2167-1-24**]).
+ACS surgery had been consulted given his evidence of delayed emptying and possible gastric obstruction with known biliary obstruction and felt no surgical intervention was feasible.
+They recommended palliation with possible duodental stent placement in discussion with the gastroenterology team based on his imaging findings.
+Given his overall poor prognosis, the family opted to enagage comfort measures only and a Dilaudid infusion was started.
+Evidence of tumor causing obstruction without definable surgical options - would likely require palliative stenting.
+ACS surgery had been consulted given his evidence of delayed emptying and possible gastric obstruction with known biliary obstruction and felt no surgical intervention was feasible.
+Given his overall poor prognosis, the family opted to enagage comfort measures only and a Dilaudid infusion was started.
+This likely represents poor forward flow and hypoperfusion with pre-renal azotemia in the setting of vasodilation and sepsis physiology generating hypotension.
+Following fluid resuscitation, his creatinine continued to worsen.
+Bladder carcinoma treated with primary resection and cystectomy with ileal conduit.
+Heparin gtt started this admission (switched from Lovenox given renal dysfunction).
+He was maintained on a heparin gtt until comfort measures were established.
+Medications on Admission: Medications (per recent discharge summary) - enoxaparin 70mg q12hrs - metoprolol succinate 50mg daily - verapamil 120mg Extended Release daily - docusate sodium 100mg [**Hospital1 **] - senna [**Hospital1 **] - polyethylene glycol daily - oxycodone 5mg q6hrs prn - omeprazole 20mg daily - lisinopril 20mg daily - baclofen 10mg [**Hospital1 **] prn hiccups  Discharge Medications: none  Discharge Disposition: Expired  Discharge Diagnosis: septic shock and metastatic gallbladder cancer   Discharge Condition: expired   Discharge Instructions: patient expired on [**2167-1-27**].

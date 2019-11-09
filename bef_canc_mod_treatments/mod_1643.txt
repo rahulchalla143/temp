@@ -1,0 +1,67 @@
+Admission Date:  [**2103-12-6**]              Discharge Date:   [**2103-12-21**]  Date of Birth:  [**2059-4-15**]             Sex:   F  Service: MEDICINE  Allergies: Zosyn / meropenem / azithromycin / vancomycin  Attending:[**First Name3 (LF) 4095**] Chief Complaint: Rash  Major Surgical or Invasive Procedure: -Endotracheal intubation -Mechanical Ventilation -Bronchoscopy -Dermal Biopsy -VATS procedure -Lung biopsy   History of Present Illness: HISTORY OF PRESENT ILLNESS: 44F w maculopapular rash total body since 5 days ago, starting on chest.
+Presented to OSH and found to have PNA --> treated w/ vanc/zosyn; also given benadryl or pruritis.
+Also given acyclovir for concern of herpetic rash and azithromycin.
+- Smoking: quit > 16 yrs ago, 25 pack year history - EtOH: history of abuse, denies any alcohol use since last admission - Drugs: history of polysubstance abuse including cocaine, crack, barbiturates, amphetamines, and marijuana.
+POTASSIUM HYDROXIDE PREPARATION (Final [**2103-12-18**]):       NO FUNGAL ELEMENTS SEEN.
+POTASSIUM HYDROXIDE PREPARATION (Final [**2103-12-18**]):       NO FUNGAL ELEMENTS SEEN.
+POTASSIUM HYDROXIDE PREPARATION (Final [**2103-12-12**]):       Test cancelled by laboratory.
+# Legionella Urinary Antigen  (Final [**2103-12-11**]):       NEGATIVE FOR LEGIONELLA SEROGROUP 1 ANTIGEN.
+Interpret IgM result with caution; liver disease, autoimmune and       lymphoproliferative diseases may cause false positive results.
+# Blood Culture, Routine (Final [**2103-12-12**]):    NO GROWTH.
+# HEPATITIS HBsAg    NEGATIVE # HIV SEROLOGY HIV Ab:  NEGATIVE # B-GLUCAN (negative) # HISTOPLASMA ANTIBODY  1:1 (negative) # COCCIDIOIDES ANTIBODY   1:16 (negative) # VZV AB IGM, EIA    3.76  H  (positive) # HSV 1 IGG TYPE SPECIFIC AB    >5.00  (positive) # HSV 2 IGG TYPE SPECIFIC AB    3.99   (positive) # HSV 1 IgM, IFA             <1:20 (negative)           # HSV 2 IgM, IFA             <1:20 (negative) # ASPERGILLUS ANTIGEN           0.1 (negative)  IMMUNOLOGY: ------------- # AUTOANTIBODIES Smooth ANCA  NEGATIVE B1 # IMMUNOLOGY [**Doctor First Name **]: NEGATIVE # GASTROINTESTINAL tTG-IgA 101 # GLOMERULAR BASEMENT MEMBRANE  <1.0  (negative) # SOLUBLE LIVER ANTIGEN  (SLA)  <20.1 (negative)  IMAGING: ---------- # CXR [**2103-12-7**]:  Bilateral multifocal pneumonias are in a similar distribution and extent as compared to prior radiograph from [**2103-12-6**].
+# CXR [**2103-12-19**]: In comparison with the study of [**12-18**], the endotracheal tube and  nasogastric tubes have been removed.
+Following chest tube removal, there is no definite evidence of pneumothorax.
+The combined findings of an intraepidermal pustule, dyskeratosis, and dermal eosinophils favors a pustular drug eruption or acute generalized exanthematous pustulosis (AGEP).
+Special stains for bacterial organisms, fungi, and PCP will be issued in an addendum.
+PULMONARY FUNCTION TESTS: SPIROMETRY 10:05 AM Pre drug Post drug     Actual Pred %Pred Actual %Pred %chg FVC   1.54 3.68 42 FEV1   1.32 2.84 47 MMF   1.72 3.19 54 FEV1/FVC   86 77 112  LUNG VOLUMES 10:05 AM Pre drug Post drug     Actual Pred %Pred Actual %Pred TLC   2.51 5.54 45 FRC   1.30 3.01 43 RV   0.98 1.86 53 VC   1.56 3.68 42 IC   1.21 2.53 48 ERV   0.31 1.15 27 RV/TLC   39 34 117 He Mix Time   2.25  DLCO 10:05 AM     Actual Pred %Pred DSB   9.21 21.31 43 VA(sb)   2.03 5.54 37 HB   7.50 DSB(HB)   12.20 21.31 57 DL/VA   6.01 3.84 156   Brief Hospital Course: ASSESSMENT AND PLAN: 44F with recent alcoholic hepatitis who presented with shortness of breath, leukocytosis, fever, rash.
+She was treated with vanc and zosyn at an outside hosptial for possible hospital acquired pneumonia based on CXR.
+Her rash was felt to be related to a drug reaction and despite removing the most likely offending [**Doctor Last Name 360**] (zosyn) her respiratory status worsened and she was treated with IV steroids.
+As patient had worsening hypoxia and increase in interstitial process seen on interval Chest CTs despite antibacterial and antiviral therapy a bronchoscopy was preformed which did not show evidence of bacterial infection.
+The patient was started again on IV steroids and a lung biopsy by VATS preformed for evaluation of her lung process.
+The patient improved with steroids after a total of three trips to the ICU for respiratory distress.
+She was transitioned to PO steroids and had marked improvement in her oxygenation and rash.
+This occured approx 10 days after completing a course of vanc/zosyn for a hospital acquirred pneumonia during a previous admission.
+Patient did recieve this medication prior to transfer from the OSH complicating the evolution of her drug rash.
+IgG was positive and IgM for viracella was positive as well, patient recieved a 7 day course of acyclovir while her pulmonary process was evaluated out of convern for a zoster pneumonitis.
+The patient ultimately recieved 5 days of IV solumedrol prior to being converted to 60 mg prednisone with marked improvement in her rash.
+# Acute on Chronic Cryptogenic Organizing Pneumonia:  prior to discharge from [**Hospital1 18**] in mid [**2103-11-8**] the patient developed respiratory distress and found to have a presumed multifocal pneumonia and was treated with vanc/zosyn for likely healthcare associated pneumonia.
+Prior to this procedure, which was preformed in the ICU, the patient developed stridor and was started on solumedrol.
+As her interval chest imgaging continued to show worsening of her inflammatory process with steroids a VATS procedure for biopsy was preformed.
+The decision was made to continue steroids as infectious processes for her lung pathology were excluded by multiple cultures and serologies.
+She improved dramatically with this treatment and was no longer hypoxic.
+She had PFTs which showed a restrictive pattern and the patient was discharged on 60 mg prednisone daily, bactrim ppx, vitamin D and Calcium for a steroid course to be determined by outpatient pulmonology.
+# Acute on chronic renal failure:  patient had rise in her creatinine to 1.8 over the course of her stay, renal ultrasound was normal and patient responded to albumin challenge.
+# Hypercarbic failure:  Post VATS procedure and extubation the patient was noted to be hypercarbic with a pH of 7.19.
+She was given nystatin oral rinse without response adn was therefore treated with a 7 day course of oral fluconazole to be completed as an outpatient.
+# Leg Swelling:  felt to be secondary to hepatic chirrosis and vascular congestion, but patient was having improvement with diuresis with lasix.
+Was discharged on 80 mg lasix and 25 mg spirinolactone daily.
+TRANSITIONAL ISSUES: -Patient is a full code confirmed on this admission -Patient will need to undergo allergy testing 1-2 months after resolution of her acute illness as the specific [**Doctor Last Name 360**] has yet to be identified and carrying unconfirmed allergies to such broad spectrum antibiotics would severely limit future antibiotic regimens.
+Medications on Admission: 1. cyanocobalamin (vitamin B-12) 100 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0* 3. rifaximin 550 mg Tablet Sig: One (1) Tablet PO BID (2 times a  day).
+Disp:*30 Tablet(s)* Refills:*0* 5. hydrocortisone 2.5 % Cream Sig: One (1) Appl Rectal PRN (as needed) as needed for rectal irritation.
+Disp:*1800 ML(s)* Refills:*1* 7. thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+9. ondansetron 4 mg Tablet, Rapid Dissolve Sig: One (1) Tablet,  Rapid Dissolve PO every twelve (12) hours as needed for nausea.
+Discharge Medications: 1. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: Two (2) Puff Inhalation Q6H (every 6 hours) as needed for wheezing/SOB.
+Disp:*1 inhaler* Refills:*2* 2. rifaximin 550 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+3. camphor-menthol 0.5-0.5 % Lotion Sig: One (1) Appl Topical TID (3 times a day) as needed for itching.
+5. furosemide 80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2* 6. spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2* 7. sulfamethoxazole-trimethoprim 400-80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2* 8. prednisone 20 mg Tablet Sig: Three (3) Tablet PO DAILY (Daily).
+Disp:*90 Tablet(s)* Refills:*0* 9. fluconazole 200 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours) for 6 days.
+Disp:*30 Tablet(s)* Refills:*2*   Discharge Disposition: Home With Service  Facility: VNA of [**Hospital3 **]  Discharge Diagnosis: PRIMARY: -Cryptogenic organizing pneumomina -acute pulmonary inflammation -acute generalized errythematous pustulosis (drug reaction) -alcholic hepatitis -acute renal failure -hypercarbic respiratory failure   Discharge Condition: Mental Status: Clear and coherent.
+We are not sure which antibiotic caused this as you were exposed to several including:  Vancomycin, zosyn, meropenem and azithromycin.
+This rash improved with topical creams and systemic steroids.
+You recieved antibiotics at the outside hospital that may have contributed to the worsening of your rash and upon arrival to [**Hospital1 18**] these were changed and you continued to be treated for a bacterial pneumonia.
+Despite antibiotics your breathing and oxygenation actually got worse and you were seen by our pulmonologists who felt that your rash and breathing could have been caused by a severe case of chicken pox, you were treated for this but ultimately this was not felt to be the cause of your sypmtoms.
+A CT scan of your chest showed a large amount of inflammation in your lungs that despite steroids and antibiotics got worse on a repeat scan two days later.
+You were brought to the ICU for a procedure called a bronchoscopy and cultures were sent from this material which were negative.
+You tolerated the procedure well, but were slow to wake up so you were sent to the ICU for monitoring overnight.
+Both of these processes are treated with steroids and you improved greatly with steroids while in the hospital.
+You were discharged on steroids and will follow up with our pulmonologists in a few weeks to determine the course of treatment.
+You will be discharged home on prednisone which is a steroid.
+As you will be on this medication for several weeks you will need to take a medication called bactrim daily to prevent infections, vitamin D and calcium to prevent osteoperosis.
+You have a fungal infeciton in your mouth from these steroids that you will treat with a medication called fluconazole for the next 7 days.
+The following changes were made to your medications: -START Fluconazole 200 mg daily for 6 more days -START Prednisone 60 mg daily -START Vitamin D/Calcium supplement daily -START Bactrim SS 1 tablet daily -START Lasix 80 mg daily -START Spironolactone 25 mg daily -START Albuterol 2 puffs every 6 hours as needed for wheezing -START Moisturizing lotion daily  -CONTINUE Lactulose 30 ml twice daily -CONTINUE Rifaximin 550 mg twice daily -CONTINUE Pantoprazole 50 mg daily  -CONTINUE  Followup Instructions: Name: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **],[**First Name7 (NamePattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **] Address: 99 [**Location (un) **] STRAITS, [**Hospital1 **],[**Numeric Identifier 19665**] Phone: [**Telephone/Fax (1) 72602**] *It is recommended that you see your primary care doctor within one week.
+Name: [**Last Name (LF) **],[**First Name3 (LF) **]/GASTROENTEROLOGY Address: [**Doctor First Name **],STE 8A, [**Location (un) **],[**Numeric Identifier 2260**] Phone: [**Telephone/Fax (1) 682**] When: [**Last Name (LF) 766**], [**12-31**], 2:15 PM  Department: PULMONARY FUNCTION LAB When: [**First Name3 (LF) **] [**2104-1-21**] at 10:40 AM With: PULMONARY FUNCTION LAB [**Telephone/Fax (1) 609**] Building: [**Hospital6 29**] [**Location (un) **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage  Department: MEDICAL SPECIALTIES/PULMONARY When: [**Hospital Ward Name **] [**2104-1-21**] at 11:00 AM With: [**Name6 (MD) 610**] [**Name8 (MD) **] RN/DR.

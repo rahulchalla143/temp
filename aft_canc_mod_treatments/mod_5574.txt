@@ -1,0 +1,26 @@
+Pertinent Results: Admission labs:  [**2143-7-19**] 01:06PM BLOOD WBC-11.4* RBC-2.17* Hgb-4.2* Hct-15.8* MCV-73* MCH-19.2* MCHC-26.3* RDW-18.5* Plt Ct-819* [**2143-7-19**] 01:06PM BLOOD Neuts-72.4* Lymphs-22.4 Monos-4.2 Eos-0.7 Baso-0.3 [**2143-7-19**] 01:06PM BLOOD PT-11.2 PTT-26.2 INR(PT)-1.0 [**2143-7-19**] 01:06PM BLOOD Glucose-95 UreaN-11 Creat-1.0 Na-140 K-3.9 Cl-107 HCO3-24 AnGap-13 [**2143-7-18**] 08:46AM BLOOD ALT-5 AST-13 AlkPhos-76 TotBili-0.1 [**2143-7-19**] 08:19PM BLOOD Albumin-3.1* Calcium-7.6* Phos-2.1* Mg-1.9 [**2143-7-18**] 08:46AM BLOOD calTIBC-572* Ferritn-5.6* TRF-440* [**2143-7-18**] 08:46AM BLOOD %HbA1c-LESS THAN [**2143-7-18**] 08:46AM BLOOD HDL-37 CHOL/HD-2.2 LDLmeas-<50 [**2143-7-18**] 08:46AM BLOOD TSH-1.4 [**2143-7-18**] 08:46AM BLOOD PSA-0.7  Discharge labs:  [**2143-7-24**] 03:47PM BLOOD WBC-14.8* RBC-3.29* Hgb-8.2* Hct-26.4* MCV-80* MCH-24.8* MCHC-31.0 RDW-20.8* Plt Ct-708* [**2143-7-24**] 03:47PM BLOOD Neuts-81.5* Lymphs-12.9* Monos-4.2 Eos-1.1 Baso-0.2 [**2143-7-24**] 03:47PM BLOOD Hypochr-3+ Anisocy-2+ Poiklo-OCCASIONAL Macrocy-NORMAL Microcy-3+ Polychr-1+ Ovalocy-OCCASIONAL Target-OCCASIONAL [**2143-7-24**] 03:47PM BLOOD Plt Ct-708* [**2143-7-24**] 07:40AM BLOOD Glucose-60* UreaN-6 Creat-1.0 Na-138 K-3.9 Cl-104 HCO3-27 AnGap-11 [**2143-7-24**] 07:40AM BLOOD Glucose-60* UreaN-6 Creat-1.0 Na-138 K-3.9 Cl-104 HCO3-27 AnGap-11 [**2143-7-24**] 07:40AM BLOOD Calcium-8.3* Phos-2.8 Mg-1.9  Pertinent Micro/Path:  [**2143-7-21**] 3:50 pm ABSCESS      Source: right buttock.
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              STAPH AUREUS COAG +                              | CLINDAMYCIN-----------<=0.25 S ERYTHROMYCIN----------<=0.25 S GENTAMICIN------------ <=0.5 S LEVOFLOXACIN----------  0.25 S OXACILLIN-------------<=0.25 S TETRACYCLINE----------   <=1 S TRIMETHOPRIM/SULFA---- <=0.5 S     ANAEROBIC CULTURE (Final [**2143-7-27**]):       Mixed bacterial flora-culture screened for B. fragilis, C.       perfringens, and C. septicum.
+TECHNIQUE:  MDCT images were obtained from the thoracic inlet to the pubic symphysis after administration of oral and 130 cc of IV Omnipaque contrast.
+A 2.1-cm non-enhancing soft tissue density (73 [**Doctor Last Name **]) lesion within the gallbladder neck is compatible with a non-calcified calculus or sludge ball, although a focal adenomyoma may have a similar appearance.
+Adjacent pericecal fat stranding may be expected in the setting of colonoscopy with cecal biopsy, but neoplastic serosal involvement may have a similar appearance.
+Active Issues: # Anemia: The patient was originally admitted for blood tranfusion following a finding of Hct 18 at PCP office and EGD negative for acute bleed.
+He was transfused pRBCs on multiple occasions of his stay, with frequent hematocrit checks.
+However, given the CT chest finding of possible GGOs in the LUL, he was started on levoquin for possible PNA.
+His symptoms resolved prior to discharge, and he was sent out to complete a 5 day course of levoquin as an outpatient.
+It would tend to occur following his transfusions, accompanied by elevated platelets.
+Nursing care performed frequent dressing changes.
+He did not receive antibiotic therapy for this issues, as it was draining.
+Chronic Issues:  # T2DM: Held home glipizide and ordered ISS.
+Consider starting triple therapy in future once biopsy results are available and Levaquin course is completed.
+- Levaquin for 5 days for possible CAP - Follow up cecal mass biopsies - Trend Hct, transfuse as necessary - Follow up blood cultures   Medications on Admission: Preadmission medications listed are correct and complete.
+GlipiZIDE XL 5 mg PO DAILY 2.
+Ramipril 20 mg PO DAILY 3.
+Aspirin 81 mg PO DAILY   Discharge Medications: 1.
+Ramipril 20 mg PO DAILY 2.
+Aspirin 81 mg PO DAILY 3.
+GlipiZIDE XL 5 mg PO DAILY 4.
+Levofloxacin 750 mg PO DAILY Duration: 5 Days day 1 = [**7-23**] RX *levofloxacin 750 mg 1 tablet(s) by mouth daily Disp #*3 Tablet Refills:*0   Discharge Disposition: Home With Service  Facility: [**Location (un) 86**] VNA  Discharge Diagnosis: Primary diagnoses: 1.
+Discharge Instructions: Dear Mr. [**Known lastname **],  You were admitted to [**Hospital1 18**] for anemia requiring blood transfusion.
+You received multiple units of blood and your anemia improved.
+A colonoscopy was performed to look in the colon for a source of blood loss.
+You received 2 days of treatment in the hospital, so please continue this for 3 more days.

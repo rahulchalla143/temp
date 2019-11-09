@@ -1,0 +1,24 @@
+Admission Date:  [**2106-4-11**]              Discharge Date:   [**2106-4-17**]  Date of Birth:  [**2026-7-24**]             Sex:   M  Service: MEDICINE  Allergies: Amoxicillin  Attending:[**First Name3 (LF) 1973**] Chief Complaint: BRBPR  Major Surgical or Invasive Procedure: Tagged red blood cell scan [**2106-4-11**] Blood transfusions Colonoscopy on [**2106-4-13**]   History of Present Illness: This is a 79 yo M with COPD, AFib, recently diagnosed PE, recently admitted for BRBPR in setting of anticoagulation, now presents with BRBPR.
+He was hospitalized from [**3-19**] to [**4-4**] with a complicated course of BRBPR (EGD and Cscope negative, discharge Hct 28.5) and multilobar PNA (s/p 10 day course of linezolid and meropenem).
+There his Hct was 27 and he was transiently hypotensive to SBP 90s.
+Past Medical History: `PE - dx [**2106-2-21**], on coumadin `COPD - per patient was severe based on PFTs at [**Hospital1 **] 3 yrs ago, on 3L O2 at home.
+`CAD (per records, no h/o MI or cardiac cath) `Atrial fibrillation `HTN `BPH `Hypothyroidism s/p partial thyroidectomy `h/o Klebsiella, MRSA, Pseudomonas, and [**Hospital1 **] infections `s/p appy `s/p laminectomy `s/p right partial hip replacement `s/p bowel obstruction s/p SB resection   Social History: Tobacco: 67 yrs, 1.5 ppd Alcohol: Denies Retired child psychiatrist and member of Army.
+Pertinent Results: Admission Labs: [**2106-4-10**] 11:40PM   GLUCOSE-109* UREA N-37* CREAT-1.0 SODIUM-142 POTASSIUM-4.9 CHLORIDE-108 TOTAL CO2-29 ANION GAP-10 [**2106-4-10**] 11:40PM   ALT(SGPT)-29 AST(SGOT)-12 ALK PHOS-60 AMYLASE-68 TOT BILI-0.3 [**2106-4-10**] 11:40PM   LIPASE-22 [**2106-4-10**] 11:40PM   ALBUMIN-3.5 [**2106-4-10**] 11:40PM   WBC-11.1* RBC-2.92* HGB-8.7* HCT-25.6* MCV-88 MCH-30.0 MCHC-34.2 RDW-16.0* [**2106-4-10**] 11:40PM   NEUTS-81* BANDS-3 LYMPHS-5* MONOS-6 EOS-1 BASOS-0 ATYPS-1* METAS-2* MYELOS-1* [**2106-4-10**] 11:40PM   PLT COUNT-106* [**2106-4-10**] 11:40PM   PT-34.4* PTT-27.7 INR(PT)-3.7* .
+* Acute Blood Loss Anemia due to Gastrointestinal Bleeding: Nuclear study with evidence of static bleeding (RLQ) at unspecified location.
+Colonoscopy demonstrated superficial ulceration and small clot at post-polypectomy site, which is the same location as that seen on the red tag cell scan.
+Hct stablilized on [**2106-4-14**].
+Upper and lower extremity ultrasounds were negative for DVT.
+* COPD - severe, uses 3L oxygen at home at night - cont prednisone at 25 mg-> tapered to 15 mg [**2106-4-15**] (on bactrim for PCP prophylaxis given long use) - continued monteleukast, advair, tiotropium, and albuterol nebs.
+Release 24 hr Sig: One (1) Capsule, Sust.
+Release 24 hr PO HS (at bedtime).
+Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: Two (2) Tablet PO once a day.
+Release 24 hr Sig: One (1) Capsule, Sust.
+Outpatient Lab Work Please check patient's PT and INR on [**2106-4-20**] and [**2106-4-23**] and have the results faxed to his PCP, [**Last Name (NamePattern4) **].
+INR of 2.0.
+Sats of 98% on RA.
+You underwent a tagged red blood cell scan which did not show an active bleeding source and a colonoscopy which also did not reveal a site of active bleeding, but showed an area of old bleeding from your postpolypectomy site.
+You had a fever while you were in the intensive care unit and the infectious workup revealed that you had infection with C.diff in your stool.
+Your hematocrit was closely monitored and remained stable.
+You were discharged once your INR was therapeutic and your hematocrit was stable.
+Your goal INR is 2-2.5.
+You should also discuss with him further evaluation of possible CAD and whether or not you should be on a daily aspirin.

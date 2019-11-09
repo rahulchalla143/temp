@@ -1,0 +1,58 @@
+Admission Date:  [**2178-8-15**]              Discharge Date:   [**2178-9-8**]  Date of Birth:  [**2116-1-27**]             Sex:   F  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending:[**Last Name (NamePattern1) 29226**] Chief Complaint: "pneumonia"   Major Surgical or Invasive Procedure: -[**2178-8-21**] bronchoscopy with biopsy -[**2178-8-19**] pericardial window, chest tube placement   History of Present Illness: Ms. [**Known lastname 28003**] is a 62 year old female with a history of limited scleroderma/CREST and recurrent pneumonia who was admitted for suspected pneumonia.
+ROS: (+) per HPI (-) Denies headache, vision changes, rhinorrhea, congestion, sore throat, cough, shortness of breath, chest pain, abdominal pain, nausea, vomiting, diarrhea, constipation, BRBPR, melena, hematochezia, dysuria, hematuria.
+Past Medical History: - Scleroderma with CREST syndrome - GERD/Barrett's esophagus - Raynaud's disease - Osteonecrosis of jaw from reclast - Osteoporosis - R rotator cuff injury s/p surgery - R wrist injury   Social History: Lives with her husband.
+- Tobacco history: 45 pack years, quit [**2141**] - ETOH: social - Illicit drugs: denies  Family History: No family history of early MI, arrhythmia, cardiomyopathies, or sudden cardiac death - Mother: had sarcoid, died at 81 - Father: had Wegener's granulomatosis, died at 84 - Aunt has scleroderma  Physical Exam: ADMISSION PHYSICAL EXAM: VS - Temp 98.8F, BP 114/60, HR 116, R 20, O2-sat 97% RA GENERAL - chronically ill appearing female HEENT - NC/AT, PERRL, EOMI, sclerae anicteric, MMM, OP with fullness and enlargement of the left posterior pharynx NECK - supple, no thyromegaly, no JVD, no carotid bruits LUNGS - CTA bilat, no r/rh/wh, good air movement, resp unlabored, no accessory muscle use HEART - RRR, no MRG, nl S1-S2 ABDOMEN - NABS, soft/NT/ND, no masses or HSM, no rebound/guarding EXTREMITIES - WWP, no c/c/e, 2+ peripheral pulses (radials, DPs) SKIN - no rashes or lesions LYMPH - + cervical LAD which is tender NEURO - awake, A&Ox3, CNs II-XII grossly intact, muscle strength [**3-26**] throughout, sensation grossly intact throughout, steady gait .
+DISCHARGE PHYSICAL EXAM: Physical Exam: VS: 96.7, 98/58, 78, 20, 100% on 4L General: chronically ill appearing woman in NAD, comfortable HEENT: NC/AT, sclerae anicteric, MMM, OP clear Neck: supple, no thyromegaly; + left anterior cervical LAD; Lungs: decreased BS at bases, o/w CTA Heart: RRR, nl S1-S2, no MRG Abdomen: +BS, soft/NT/ND, no masses or HSM Extrem: WWP, no c/c/e   Pertinent Results: ADMISSION LABS: [**2178-8-16**] 05:30AM BLOOD WBC-10.5 RBC-3.75* Hgb-10.7* Hct-32.5* MCV-87 MCH-28.4 MCHC-32.8 RDW-13.0 Plt Ct-506* [**2178-8-16**] 05:30AM BLOOD Neuts-80.1* Lymphs-14.4* Monos-3.9 Eos-1.1 Baso-0.6 [**2178-8-16**] 05:30AM BLOOD Glucose-76 UreaN-14 Creat-0.7 Na-140 K-4.4 Cl-101 HCO3-26 AnGap-17 [**2178-8-16**] 05:30AM BLOOD Calcium-9.1 Phos-3.7 Mg-2.2  .
+[**8-18**] Pericardial fluid studies: No PMNs or microorganisms, final fluid culture with no growth [**8-19**] Pericardial fluid: 4+ PMNs, no microorganisms, prelim NGTD  [**8-19**] Pleural fluid: 4+ PMNs, no microorganisms, prelim NGTD [**8-24**] Blood Cx: *** .
+- pleural fluid [**2178-8-26**] DIAGNOSIS: Pleural fluid, cell block: Metastatic adenocarcinoma.
+IMPRESSION: Worsening multifocal left-sided pneumonia, with associated intrathoracic lymphadenopathy.
+[**2178-8-25**] cxr: IMPRESSION: Since [**2178-8-24**], following left chest tube removal, there is a tiny residual left apical pneumothorax.
+She received a pericardial window for cardiac tamponade presumably from a malignant effusion, as well as a bronchoscopy which took several transbronchial biopsies.
+She was transferred to the MICU, and was eventually called out to the cardiology floor, for management of new paroxysmal afib with RVR while the etiology of her left lung mass was being worked up.
+# Malignancy adenocarcinoma: CT showed that since [**2178-7-6**], her left lower lobe consolidation has significantly progressed with unchanged bulk of the bilateral hilar and mediastinal lymph nodes; interlobular interstitial septal thickening in left lower lobe persists.
+She began her chemotherapy regimen which is to be continued as an outpatient.
+There, 200cc of bloody fluid was taken out, and a drain was put in with another 230cc drainage over the next 12 hours.
+CT surgery was consulted and agreed that patient needed urgent pericardial window operation.
+After call-out to the cardiology floor, her chest tube drainage decreased and the tube was removed on [**8-25**].
+The pt c/o constant dyspnea and was maintained on several L of O2 with sats in the mid-90's; she was started on low doses of morphine to treat dyspnea and air hunger on [**8-24**], which gave her significant symptomatic improvement.
+Pulmonology was consulted and performed a biopsy and bronchoscopy with washings sent for cultures.
+She was treated with cefepime and metronidazole for 10 days each for concern for anaerobes and resistant gram negatives.
+Her cough and lung exam initially improved, but on [**8-24**] her dyspnea increased, she had persisting opacities on CXR and slowly increasing WBC, and so zosyn, and levofloxacin were started.
+She tolerated this regimen and her symptoms improved.
+Since undergoing surgery for placement of pericardial window, pt has been intermittently in atrial fibrillation with RVR to 130s.
+Given that she currently has a pericardial drain in place and is going for transbronchial biopsy, anticoagulation was deferred.
+On the cardiology floor, metoprolol was continued at 12.5mg q6hr given relatively low BPs; she self-converted into sinus with HR in the 70-80's.
+Deferred starting anticoagulation with aspirin given CHADS2-vasc score of one in setting of recent procedures.
+Likely anemia of chronic inflammation; retic count, ferritin, B12/folate are all WNL.
+Deferred iron replacement for now given acute illness.
+Nonetheless, neurology was made aware, and they recommended a carotid series and aspirin initiation.
+# Limited scleroderma with CREST syndrome: Her symptoms are moderately controlled with Calcium channel blockers at home.
+She was continued on nifedipine and her proton pump inhibitor for esophageal involvement.
+She was continued on her calcium and vitamin D for prevention as well as ibuprofen for pain control, taken especially with meals.
+Also, she was continued on her chlorhexidine mouth washes.
+TRANSITIONAL ISSUES:   Medications on Admission: - Vitamin D 500-calcium 500 daily - Vitamin C 500 mg daily - Multivitamin - Fish oil - Chlorhexidine gluconate oral rinse [**Hospital1 **] - Robitussin with codeine - Penicillin 500 mg q6hrs - Nifedipine CR 60 mg daily - lansoprazole 30 mg daily - ibuprofen 400 mg q6h prn for pain - Vagifem 10 mcg prn - probiotic daily - magnesium supplement daily - metrogel for rosacea - Levofloxacin (since Monday) - albuterol inhaler (since Monday)   Discharge Medications: 1. ibuprofen 400 mg Tablet Sig: One (1) Tablet PO every six (6) hours as needed for pain .
+2. chlorhexidine gluconate 0.12 % Mouthwash Sig: Five (5) ML Mucous membrane [**Hospital1 **] (2 times a day).
+3. dextromethorphan-guaifenesin 10-100 mg/5 mL Syrup Sig: Five (5) ML PO Q6H (every 6 hours) as needed for cough.
+4. pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+5. fluconazole 100 mg Tablet Sig: One (1) Tablet PO once a day for 3 days: Last dose thursday [**2178-9-10**].
+6. albuterol sulfate 0.63 mg/3 mL Solution for Nebulization Sig: One (1)  Inhalation every six (6) hours as needed for shortness of breath or wheezing.
+7. ipratropium bromide 0.02 % Solution Sig: One (1) nebulizer treatment Inhalation every six (6) hours as needed for shortness of breath or wheezing: inhalation every 6 hours pas needed for shortness of breath or wheezing.
+8. morphine 15 mg Tablet Sig: 0.5-1 Tablet PO Q2H (every 2 hours) as needed for pain, sob.
+Disp:*90 Tablet(s)* Refills:*2* 9. morphine 15 mg Tablet Extended Release Sig: One (1) Tablet Extended Release PO every eight (8) hours.
+Disp:*90 Tablet Extended Release(s)* Refills:*2* 10. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every 4 hours) as needed for temperature >38.0.
+11. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+12. benzonatate 100 mg Capsule Sig: Two (2) Capsule PO TID (3 times a day) as needed for cough.
+13. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+14. dextromethorphan-guaifenesin 10-100 mg/5 mL Liquid Sig: Ten (10) ML PO Q6H (every 6 hours) as needed for cough.
+15. lorazepam 0.5 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours) as needed for nausea, anxiety.
+Disp:*90 Tablet(s)* Refills:*2* 16. heparin (porcine) 5,000 unit/mL Solution Sig: One (1) Injection TID (3 times a day).
+17. senna 8.6 mg Tablet Sig: 1-2 Tablets PO BID (2 times a day).
+18. metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO TID (3 times a day).
+19. ondansetron 4 mg Tablet, Rapid Dissolve Sig: One (1) Tablet, Rapid Dissolve PO Q4H (every 4 hours) as needed for nausea.
+20. morphine 15 mg Tablet Sig: 1-2 Tablets PO MWF: please give 30-60 minutes before pleurex drainage on MWF.
+You were admitted to the hospital because you were having fevers, fatigue, and persistent cough after your last treatment for pneumonia.
+You were given antibiotics for treatment of the pneumonia, and you were transferred to the oncology floor for further management of your cancer.
+While there, you were started on your chemotherapy regimen.
+A pleurex a placed for palliative purposes.
+Your chemotherapeutic regimen was terminated.
+The following changes were made to your medications:  - STOP taking levofloxacin - STOP taking penicillin - STOP taking nifedipine - START metoprolol - START albuterol and ipratropium - START fluconazole which you will take for 2 more days  Followup Instructions: [**Location (un) **] [**Hospital1 **] Building - HEM ONC 3:30 PM on [**2178-9-21**] Dr. [**Last Name (STitle) 724**]    Completed by:[**2178-9-8**

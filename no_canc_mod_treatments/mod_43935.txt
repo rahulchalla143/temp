@@ -1,0 +1,36 @@
+Patient doesn't take medications for seizures.
+Patient was intubated for airway protection because he was combative.
+mass with surrounding edema, was given decadron 10 mg x 1.
+Feeding tube was placed for malnutrtion during a previous admission at [**Hospital3 2568**] for malnutrition.
+He does not do his tube feeds regularly.
+C-collar in place  CV: RRR.
+G-tube in place; no e/o infection at site EXT: WWP, NO CCE.
+Pertinent Results: [**2126-11-10**] 08:50PM   PT-13.3 PTT-25.6 INR(PT)-1.1 [**2126-11-10**] 08:50PM   PLT COUNT-546*# [**2126-11-10**] 08:50PM   NEUTS-67.7 LYMPHS-26.5 MONOS-4.8 EOS-0.8 BASOS-0.4 [**2126-11-10**] 08:50PM   WBC-9.5 RBC-2.95* HGB-8.6* HCT-26.7* MCV-91 MCH-29.2 MCHC-32.2 RDW-17.7* [**2126-11-10**] 08:50PM   ASA-NEG ETHANOL-11* ACETMNPHN-NEG bnzodzpn-NEG barbitrt-NEG tricyclic-NEG [**2126-11-10**] 08:50PM   ALBUMIN-3.8 CALCIUM-9.1 PHOSPHATE-4.2# MAGNESIUM-2.0 [**2126-11-10**] 08:50PM   CK-MB-4 [**2126-11-10**] 08:50PM   cTropnT-0.05* [**2126-11-10**] 08:50PM   LIPASE-42 [**2126-11-10**] 08:50PM   ALT(SGPT)-25 AST(SGOT)-37 ALK PHOS-145* TOT BILI-0.5 [**2126-11-10**] 08:50PM   estGFR-Using this [**2126-11-10**] 08:50PM   GLUCOSE-153* UREA N-14 CREAT-0.9 SODIUM-137 POTASSIUM-3.3 CHLORIDE-85* TOTAL CO2-23 ANION GAP-32* [**2126-11-10**] 08:59PM   LACTATE-14.1* [**2126-11-10**] 10:20PM   LACTATE-3.5* [**2126-11-10**] 10:20PM   TYPE-ART RATES-/14 TIDAL VOL-450 PEEP-5 O2-100 PO2-502* PCO2-44 PH-7.52* TOTAL CO2-37* BASE XS-12 AADO2-190 REQ O2-39 -ASSIST/CON INTUBATED-INTUBATED  Brief Hospital Course: 57 year old man with significant alcohol abuse admitted with likely seizure and frontal contusion following a fall with head trauma.
+Patient in the MICU did not appear to be withdrawing from alcohol, however possible that seizure was secondary to EtOH withdrawal given that alcohol level low on admission.
+Patient had UTI, so d/c'd Foley and treated with cipro x 7 days total.
+As patient mental status appears improved and likely etiology of seizure is alcohol will hold off on LP at this time.
+Patient was maintained on fall precautions.
+Patient was continued on thiamine and folic acid as patient has a history of severe malnutrition.
+Consulted with neurosurgery, changed to keppra for seizure prophylaxis for one month post discharge, chosen instead of dilantin as there is no need to monitor levels.
+## Seizure - most likely secondary to alcohol withdrawal as etoh level on admission was 11 and patient with heavy drinking history as well as prevous history of alcohol induced seizures; could have likely been in the setting of fall with ICH since according to wife, the seizure occured after the first witnessed fall with head trauma.
+Patient was discharged on keppra for seizure prophylaxis for one month given new potential focus for seizures.
+Anemia work-up with folate/B12 normal, low iron, TIBC 390 (nl), ferritin (low-normal), and tranferrin 300 (nl).
+Patienet started on iron repletion.
+## FEN: got speech and swallow evaluation, started patient on thin liquids and pureed foods yesterday, continued tube feed as per nutrition, repleted lytes PRN.
+Of note, speech and swallow stated that pills do not pass from esophagus into stomach, so all medications need to be given through the G tube.
+## DVT Prophylaxis: heparin subQ, colace, senna .
+## Code: Full Code   Medications on Admission: Baclofen 10 mg TID Pindolol 10 mg daily Atenolol 25 mg daily   Discharge Medications: 1.
+Baclofen 10 mg Tablet Sig: One (1) Tablet PO TID (3 times a day): please crush and give through G tube.
+Acetaminophen 160 mg/5 mL Solution Sig: One (1)  PO Q6H (every 6 hours) as needed for pain.
+Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Omeprazole 40 mg Capsule, Delayed Release(E.C.)
+Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 hours) for 5 days.
+Levetiracetam 500 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) for 1 months.
+Pindolol 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*   Discharge Disposition: Home With Service  Facility: [**Hospital 119**] Homecare  Discharge Diagnosis: primary: seizure, likely etoh withdrawal, with brain contusion in frontal lobe  secondary: alcohol abuse portal gastropathy G-tube for malnutrition esophageal stricture previous PE with IVC filter placement (presumed massive) HTN iron deficiency anemia   Discharge Condition: afebrile, vital signs stable, tolerating thin liquids and puree and tube feeds   Discharge Instructions: You were admitted to the hospital after having a witnessed seizure and head trauma.
+You were evaluated by neurosurgery and your c-spine was cleared.
+Your current diet reccomendations are thin liquids and pureed solids as well as feedings through your G tube.
+You are being discharged home on Keppra as per neurosurgery and you should take this medication for one month after discharge.
+You were also restarted on pindolol for your history of gastritis as well as iron for your iron deficiency anemia.
+You should continue to take these medications until You should continue to follow up with your PCP [**Last Name (NamePattern4) **].
+Please make an appointment to see a gastroenterologist as we found a narrowing of your esophagus.

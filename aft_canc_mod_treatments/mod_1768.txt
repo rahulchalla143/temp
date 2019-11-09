@@ -1,0 +1,29 @@
+Admission Date:  [**2151-4-18**]              Discharge Date:   [**2151-4-22**]  Date of Birth:  [**2075-9-2**]             Sex:   M  Service: MEDICINE  Allergies: Morphine / Hayfever  Attending:[**First Name3 (LF) 30**] Chief Complaint: Dark stool  Major Surgical or Invasive Procedure: Enteroscopy  History of Present Illness: 75 year old male with past medical history of clear cell carcinoma s/p right nephrectomy and adrenectomy with metastasis to pancreas, duodenal wall and pulmonary (nodules) s/p Whipple procedure in [**2143**] complicated by injury to hepatic artery.
+He had DVT in [**2149**] for which coumadin was started with subsequent GI bleed requiring 9 units of PRBC thought to be secondary to jejunal AVM.
+He subsequently underwent colonoscopy after a prep today which was normal except for diverticulosis.
+He was also noted to have runs of NSVT for which magnesium and potassium was given.
+Labs notable for creatinine of 1.4 which improved to 1.2 with PrBC and IVF.
+While there, he remained hemodynamically stable and received an additional 2U PRBCs as his Hct was 19.
+Given that he was stable, he was transferred to the medicine floor for further management.
+Past Medical History: Clear cell carcinoma with metastasis to pancreas, lung and duodenal wall HTN Type 2 DM DVT in [**2149**] TKR in [**2149**] Transamnitis s/p pacemaker for symptomatic bradycardia   Social History: - Tobacco:  Never - Alcohol:  Sometimes a glass of wine with dinner - Illicits:  No   Family History: Mom with [**Name2 (NI) 499**] cancer   Physical Exam: Admission physical exam: Vitals: T:97.2 BP:89/42 P:95 R:18 O2:99%2LNC General: Alert, oriented, no acute distress HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL Neck: supple, JVP at 8 cm, no LAD CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops Lungs: Bibasilar crackles Abdomen: soft, non-tender, non-distended, bowel sounds present, no organomegaly GU: no foley.
+Enteroscopy ([**2151-4-20**]) Impression: Esophageal ulcer Normal mucosa in the stomach The biliary and enteral limbs were intubated.
+Brief Hospital Course: 75 year old male with past medical history of clear cell carcinoma s/p right nephrectomy and adrenectomy with metastasis to pancreas, duodenal wall and pulmonary (nodules) s/p Whipple procedure in [**2143**] complicated by injury to hepatic artery and GI bleed in [**2149**] on anticoaguation from jejunal AVM presents with mahogany colored stools.
+He received a single dose of vitamin K with normalization of INR.
+Type 2 DM- patient on metformin and daily levemer 15U at home, placed him on insulin sliding scale with glargine 10U qAM (home levemer not formulary here).
+On discharge, he was resumed on home regimen of metformin and levemer.
+Pancreatic insufficiency: Initially held home creon, ursodiol and antidiarreals in the setting of GI bleed.
+Once bleed resolved, resumed home creon and ursodiol but held antidiarrheals on discharge.
+HTN: Held home metoprolol in the setting of GI bleed.
+BPs and HR within normal limits without metoprolol while in house so it was held on discharge.
+# Code: Full (discussed with patient)   Medications on Admission: Ursodiol 600 mg po BID Metformin 1000 mg po BID Protonix 40 mg po qdaily Metoprolol 50 mg po BID Creon [**Numeric Identifier **] mg po TID Levemer 15 units SC qdaily Lomotil 2 tabs po BID Tincture opium 1% 0.3 cc qdaily MVA po qdaily Iron 325 mg po qdaily Immodium two tabs po qdaily  Discharge Medications: 1. ursodiol 300 mg Capsule Sig: Two (2) Capsule PO twice a day.
+2. metformin 1,000 mg Tablet Sig: One (1) Tablet PO twice a day.
+Protonix 40 mg Tablet, Delayed Release (E.C.)
+Iron (ferrous sulfate) 325 mg (65 mg iron) Tablet Sig: One (1) Tablet PO once a day.
+8. insulin detemir 100 unit/mL Solution Sig: Fifteen (15) units Subcutaneous once a day.
+An outside hospital EGD and colonscopy did not demonstrate any acute source of the bleed and you were transferred to [**Hospital1 18**] for further management.
+You also underwent an enteroscopy.
+While here, you remained hemodynamically stable and your hematocrits improved by discharge.
+The oncology, gastroenterology, general surgery, interventional radiology and radiation oncology teams discussed your case at length and determined that radiation therapy would be beneficial to you.
+You have an appointment with Dr. [**First Name8 (NamePattern2) 1158**] [**Last Name (NamePattern1) 30813**] upon discharge and the plan is to begin radiation therapy as soon as possible.
+STOP metoprolol 50mg twice daily  Please continue all other medications as prescribed by your outpatient providers  Followup Instructions: Dr. [**First Name8 (NamePattern2) 1158**] [**Last Name (NamePattern1) 30813**] with radiation oncology on [**2151-4-23**]  Department: Primary Care Name: [**Doctor First Name **] Hseih, Nurse Practitioner for Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] When: Friday [**2151-4-30**] at 10:00 AM Location: CORE PHYSICIANS-[**Location (un) **] INTERNAL MEDICINE Address: [**Location (un) 30815**].
+BLDG 3A, [**Location (un) **],[**Numeric Identifier 30816**] Phone: [**Telephone/Fax (1) 30817**]  Department: RADIOLOGY When: WEDNESDAY [**2151-5-19**] at 1 PM With: CAT SCAN [**Telephone/Fax (1) 327**] Building: Gz [**Hospital Ward Name 2104**] Building ([**Hospital Ward Name 1826**]/[**Hospital Ward Name 1827**] Complex) [**Location (un) 3202**] Campus: EAST     Best Parking: Main Garage  Department: HEMATOLOGY/ONCOLOGY When: WEDNESDAY [**2151-5-19**] at 2:00 PM With: DRS.

@@ -1,0 +1,41 @@
+Admission Date:  [**2184-1-2**]              Discharge Date:   [**2184-1-12**]  Date of Birth:  [**2101-8-4**]             Sex:   F  Service: CARDIOTHORACIC  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 165**] Chief Complaint: Elective catheterization  Major Surgical or Invasive Procedure: Cardiac Catheterization [**1-5**] OP CABGx4(LIMA-LAD, SVG-Diag, SVG-OM, SVG-PDA)   History of Present Illness: 82 year old woman with a large abdominal aortic aneurysm, measuring 7 x 6.7 x 9.7cm who is preoperative for endovascular aneurysm repair with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **].
+She is s/p left femoral neck fracture treated with a hemiarthroplasty on [**2183-11-20**].
+She continues to c/o of left hip pain rated [**7-13**] and she has been getting Vicodin q4 hours.
+Left femoral neck fracture status post hemiarthroplasty on [**2183-11-20**].
+Myelodysplastic syndrome requiring packed red blood cell and platelet transfusion.
+Read by: [**Last Name (LF) **],[**First Name3 (LF) 177**] W.    Intervals Axes Rate PR QRS QT/QTc P QRS T 80 0 112 420/455 0 43 105  [**Hospital1 18**] ECHOCARDIOGRAPHY REPORT  [**Known lastname **], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 52973**] (Complete) Done [**2184-1-5**] at 8:15:22 AM      FINAL Referring Physician     [**Name9 (PRE) **] Information [**Name9 (PRE) **], [**First Name3 (LF) **] [**Street Address(2) 15115**] [**Location (un) 15116**], [**Numeric Identifier 15117**]  Status: Inpatient DOB: [**2101-8-4**] Age (years): 82 F  Hgt (in): BP (mm Hg): /  Wgt (lb): HR (bpm):  BSA (m2): Indication: CABG, ?OP ICD-9 Codes: 786.05, 786.51, 799.02, 440.0, 424.0 Test Information Date/Time: [**2184-1-5**] at 08:15    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 3318**], MD Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3318**], MD Doppler: Full Doppler and color Doppler Test Location: Anesthesia West OR cardiac Contrast: None Tech Quality: Adequate Tape #: 2007AW1-: Machine: [**Pager number **] Echocardiographic Measurements Results  Measurements  Normal Range Left Ventricle - Inferolateral Thickness:  0.9 cm  0.6 - 1.1 cm  Left Ventricle - Diastolic Dimension:  4.6 cm  <= 5.6 cm Left Ventricle - Ejection Fraction:  40% to 45%  >= 55% Aorta - Ascending:  2.8 cm  <= 3.4 cm Aorta - Descending Thoracic:  2.4 cm  <= 2.5 cm Aortic Valve - Valve Area:  *2.6 cm2  >= 3.0 cm2 Mitral Valve - MVA (P [**1-7**] T):  2.6 cm2  Findings LEFT ATRIUM: No spontaneous echo contrast is seen in the LAA.
+Complex (>4mm) atheroma in the descending thoracic aorta.
+The patient was under general anesthesia throughout the procedure.
+The TEE probe was passed with assistance from the anesthesioology staff using a laryngoscope.
+I certify that I was present for this procedure in compliance with HCFA regulations.
+She was taken to the operating room on [**1-5**] where she underwent an off-pump CABG x 4.
+She was given 48 hours of vancomycin as she was in the hospital preoperatively.
+She was transfused one unit and weaned from her vasoactive drips by POD #2.
+She developed atrial fibrillation and converted after receiving amiodarone.
+Plan for follow with vascular surgery for endovascular stent.
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2  times a day).
+Hydrocodone-Acetaminophen 5-500 mg Tablet Sig: 1-2 Tablets PO  Q4H (every 4 hours) as needed.
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+Cyanocobalamin 100 mcg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+Hexavitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).
+Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Metoprolol Tartrate 25 mg Tablet Sig: Three (3) Tablet PO BID  (2 times a day).
+Glipizide 10 mg Tablet Sig: One (1) Tablet PO twice a day.
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+Aspirin 81 mg Tablet, Delayed Release (E.C.)
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours) as needed.
+Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Amiodarone 200 mg Tablet Sig: Two (2) Tablet PO once a day: please take 400mg daily for 7 days then decrease to 200mg daily and follow up with cardiologist .
+Ferrous Gluconate 325 mg (37.5 mg Iron) Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Potassium Chloride 20 mEq Tab Sust.Rel.
+Glipizide 5 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day).
+Carvedilol 3.125 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day).
+Outpatient Lab Work please check potassium, Cr, BUN, Hct on friday [**1-16**]   Discharge Disposition: Extended Care  Facility: [**Hospital 11851**] Healthcare - [**Location (un) 620**]  Discharge Diagnosis: Coronary artery disease s/p CABG L. femoral neck fx.
+s/p hemiarthroplasty [**11-20**], L fem pseudoaneurysm, s/p NSTEMI, Myelodysplastic syndrome requiring PRBCs and platelets transfusion, DM, HTN, AAA 7.3x6.3 cm infrarenal   Discharge Condition: Good.
+Shower, no baths, no lotions, creams or powders to incisions.
+Followup Instructions: Please call to schedule all appointments Dr. [**Last Name (STitle) **] 2-3 weeks [**Telephone/Fax (1) 127**] Dr. [**Last Name (STitle) 9851**] after discharge from rehab  [**Telephone/Fax (1) 52974**] Dr. [**First Name (STitle) **] 4 weeks [**Telephone/Fax (1) 170**] Dr [**Last Name (STitle) **] ([**Telephone/Fax (1) 18181**] - Monday [**2184-1-19**] at 12:45 [**Hospital **] medical building [**Hospital Unit Name **]                                [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(2) 173**]  Completed by:[**2184-1-12**

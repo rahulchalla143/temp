@@ -1,0 +1,55 @@
+Admission Date:  [**2116-10-2**]              Discharge Date:   [**2116-11-15**]  Date of Birth:  [**2055-2-23**]             Sex:   F  Service: MEDICINE  Allergies: Prochlorperazine / Sulfa (Sulfonamide Antibiotics) / Betadine Viscous Gauze / Vancomycin / Meropenem / Zosyn / cefepime  Attending:[**First Name3 (LF) 3913**] Chief Complaint: Admitted for Cycle 1 of MEC  Major Surgical or Invasive Procedure: PICC line placement [**2116-10-2**] Right IJ placement [**2116-10-16**]   History of Present Illness: 61 yo woman with history of breast CA and subsequent development of AML s/p allo HSCT on [**2115-10-4**] who recently had episodes of back pain X2months and MRI revealed an L2 lesion that was found to be a chloroma, concerning for extramedullary relapse.
+Past Medical History: PAST ONCOLOGIC HISTORY: - [**2102**] TAH/BSO showed stage IIB ovarian Ca adjuvant treatment with six cycles of carboplatin and Taxol - [**2113-12-7**] had mammogram that showed a poorly differentiated invasive ductal carcinoma, 8 mm in largest diameter, without LVI.
+Imaging showed right axillary, subpectoral, and deep cervical lymph node involvement.
+- [**2114-2-4**] treated with Adriamycin and Cytoxan followed by Taxol at the [**Company 2860**] followed by bilateral mastectomies(right modified radical mastectomy and left simple mastectomy) at [**Hospital1 2025**].
+- [**2115-4-4**], she developed new lower back pain while undergoing planning for bilateral breast reconstruction surgery.
+On [**2115-6-8**], she began induction chemotherapy with 7+3.
+Her treatment course was complicated by prolonged neutropenic fevers, multifocal pneumonia requiring lung biopsy that demonstrated evidence of BOOP.
+Her transplant was on [**2115-10-4**].
+In [**2116-7-3**], she once again began  to develop low back pain with occasional radiation down her legs.
+Pelvis MRI on  [**2116-8-6**], once again demonstrated diffuse marrow signal abnormality with near complete homogenous replacement of the right posterior ilium to SI joint, and marrow replacement of the left femur to the mid diaphysis.
+-patient is being admitted for MEC chemo therapy given extent of relapse  OTHER MEDICAL HISTORY: relapsed AML ovarian cancer [**2102**] breast cancer [**2113**]  Social History: Denies tobacco ever, EtOH (not now, was a social drinker years back), drug use.
+Cefazolin interpretative criteria are based on a dosage regimen of          2g every 8h.
+AZTREONAM AND [**Numeric Identifier 92908**] sensitivity testing performed by          Microscan.
+Cefazolin interpretative criteria are based on a dosage regimen of          2g every 8h.
+AZTREONAM AND [**Numeric Identifier 92908**] sensitivity testing performed by          Microscan.
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              ESCHERICHIA COLI                              |          ESCHERICHIA COLI                              |          | AMPICILLIN------------  =>32 R     =>32 R AMPICILLIN/SULBACTAM--    16 I       16 I CEFAZOLIN-------------  =>64 R     =>64 R CEFEPIME--------------  =>64 R     =>64 R CEFTAZIDIME-----------    16 R       16 R CEFTRIAXONE-----------  =>64 R     =>64 R CIPROFLOXACIN---------   =>4 R      =>4 R GENTAMICIN------------   <=1 S      <=1 S MEROPENEM-------------<=0.25 S   <=0.25 S PIPERACILLIN/TAZO-----       S          S TOBRAMYCIN------------   <=1 S      <=1 S TRIMETHOPRIM/SULFA----  =>16 R        8 R .
+[**2116-9-29**] Bone Marrow Biopsy: HYPERCELLULAR BONE MARROW WITH EXTENSIVE NECROSIS AND EVIDENCE OF RELAPSED ACUTE MYELOID LEUKEMIA.
+[**2116-10-3**] CXR: Left PICC line tip is at the level of mid SVC.
+[**2116-10-17**] Bone Marrow Biopsy: Hypocellular bone marrow consistent with chemotherapeutic ablation.
+Acyclovir and atovaquone were continued for prohylaxis (home regimen).
+Patient required several transfusions of PRBCs and platelets during admission.
+She was started on cefepime on [**10-5**], and remained afebrile for >1week.
+PICC line was pulled for slight erythema, nonocclusive thrombus found at that time, so PICC could not be replaced.
+Cefepime was discontinued on [**2116-10-20**] for diffuse rash.
+Treated with daptomycin, aztreonam and ciprofloxacin.
+RIJ was left in place, as patient has difficult access (cannot place line in right arm [**2-5**] lymphedema from previous mastectomy and now with clot in left arm from previous PICC).
+Patient developed fever to 103.5F, [**10-22**] Blood culture grew E Coli while on atreonam and ciproflozacin.
+The E coli in her blood cultures was found to be sensitive only to gentamicin and zosyn, so she was started on these two antibiotics.
+Her intravenous abx were stopped a few days prior to discharge, and she remained stable with no evidence of infection.
+Patient's BP recovered with volume expansion including 2units pRBC.
+Patient was never pressor dependent.
+After conferring with ID, abx were narrowed to daptomycin for previously documented VRE, and zosyn/gentamicin for empiric GNR coverage.
+Patient was maintained on voriconazole, acyclovir, and atovaquone ppx.
+# L PICC line assoc blood clot: Patient found on US to have a nonocclusive thrombus from her left PICC.
+Instead of replacing PICC, IR placed a right IJ for access.
+While this rash was clearing, she was started on zosyn (pipericillin-tazobactam) and developed a new, separate rash across her arms and some puffiness in her face.
+Initially dermatology and ID felt it was possible to treat through this reaction (given the need for zosyn for her E. coli bacteremia), however when she developed swelling of her lips and itching of her throat, the medication was stopped.
+Patient required a lidocaine patch for pain on the first day of her admission, however pain resolved by day 2.
+Patient was also written for oxycodone prn, however she did not require it.
+Opthomology was consulted who examined the retina, and found only a small cotton wool spot on right macula.
+Medications on Admission: acyclovir albuterol atovaquone azelastine folic acid lidocaine patch oxycodone posaconazole potassium chloride vitamin D colace senna magnesium oxide  Discharge Medications: 1. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: Two (2) Puff Inhalation Q8H (every 8 hours) as needed for wheezing, SOB.
+2. atovaquone 750 mg/5 mL Suspension Sig: Ten (10) ml (1500 mg) PO DAILY (Daily).
+Astepro 0.15 % (205.5 mcg) Spray, Non-Aerosol Sig: Two (2) puffs Nasal [**Hospital1 **] (2 times a day) as needed.
+5. polyvinyl alcohol-povidone 1.4-0.6 % Dropperette Sig: [**1-5**] Drops Ophthalmic PRN (as needed) as needed for dry eyes.
+6. acyclovir 400 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 hours).
+7. calcium carbonate 200 mg calcium (500 mg) Tablet, Chewable Sig: One (1) Tablet, Chewable PO QID (4 times a day) as needed for dyspepsia.
+8. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+9. lorazepam 0.5 mg Tablet Sig: 1-2 Tablets PO HS (at bedtime) as needed for insomnia.
+10. omeprazole 20 mg Capsule, Delayed Release(E.C.)
+11. posaconazole 200 mg/5 mL (40 mg/mL) Suspension Sig: Ten (10) ml (200 mg) PO Q 12H (Every 12 Hours).
+12. sodium chloride 0.65 % Aerosol, Spray Sig: [**1-5**] Sprays Nasal TID (3 times a day) as needed for nasal irritation.
+13. cholecalciferol (vitamin D3) 1,000 unit Tablet Sig: One (1) Tablet PO DAILY (Daily).
+You were admitted for your first cycle of MEC chemotherapy, started on [**2116-10-3**].
+Your time in the hospital was complicated by two bloodstream infections, both of which were treated with antibiotics and eventually resolved.
+Changes to your medication regimen: STOP potassium chloride STOP magnesium oxide (you no longer need these medications)  Followup Instructions: Please come to 7 [**Hospital Ward Name 1826**] outpatient area on Monday, [**11-16**] for bloodwork and to make a follow up appointment with Dr. [**Last Name (STitle) **]

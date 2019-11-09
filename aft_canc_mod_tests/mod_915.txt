@@ -1,0 +1,26 @@
+Admission Date:  [**2110-8-22**]              Discharge Date:   [**2110-9-3**]  Date of Birth:  [**2052-9-21**]             Sex:   M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 3326**] Chief Complaint: Fatigue and pancytopenia  Major Surgical or Invasive Procedure: Bone marrow biopsy  History of Present Illness: Mr. [**Known lastname 21540**] is a 57 year old with a PMH significant for HIV with a recent admission at [**Hospital1 34**] for pancytopenia.
+There he was found to be pancytopenic with WBC 1.9, Hct 16.5, Plt 11.
+His bili, AST/ALT were also mildly elevated.
+He presumably underwent bronch which was neg for PCP (per patient).
+CT chest/abd was only notable for fatty infiltration of the liver, spenomegaly, and mild atelectasis.
+After discussion with Dr. [**Last Name (STitle) **] and his PCP, [**Name10 (NameIs) **] was thus transferred for further work up.
+Repeat labs performed the day prior to admission at [**Hospital1 34**] demonstrated WBC 1000 (WBC 1000 - 23 poly, 65 lymph, 12 mono, 1 nuc.rbc), hgb 7.9, hct 22.8, platelets 21.
+He was readmitted and transferred to [**Hospital1 18**] for further evaluation of pancytopenia.
+Of note, bone marrow biopsy slides were sent to [**Hospital1 112**] for further read.
+In the ED, T 98.1, HR 100, BP 107/70, RR 18, 96%RA.
+Physical Exam: VS Tm 99.3 Tc 100.7 105/26 92 20 99%RA Gen: NAD, lipodystrophy changes HEENT: perrl, eomi, sclerae anicteric, MMM, op clear without lesions, erythema, or exudate.
+Left ventricular wall thickness, cavity size and regional/global systolic function are normal (LVEF >55%) Transmitral and tissue Doppler imaging suggests normal diastolic function, and a normal left ventricular filling pressure (PCWP<12mmHg).
+LABS: [**2110-8-22**] 06:43PM   GLUCOSE-103 UREA N-10 CREAT-0.6 SODIUM-137 POTASSIUM-4.9 CHLORIDE-101 TOTAL CO2-25 ANION GAP-16 [**2110-8-22**] 06:43PM   LD(LDH)-1258* TOT BILI-1.5 [**2110-8-22**] 06:43PM   HAPTOGLOB-<20* [**2110-8-22**] 06:43PM   LACTATE-2.2* [**2110-8-22**] 06:43PM   WBC-1.4*# RBC-2.55* HGB-7.9*# HCT-21.1*# MCV-83# MCH-30.8# MCHC-37.3* RDW-17.1* [**2110-8-22**] 06:43PM   NEUTS-6* BANDS-0 LYMPHS-91* MONOS-3 EOS-0 BASOS-0 ATYPS-0 METAS-0 MYELOS-0 [**2110-8-22**] 06:43PM   HYPOCHROM-NORMAL ANISOCYT-1+ POIKILOCY-OCCASIONAL MACROCYT-NORMAL MICROCYT-1+ POLYCHROM-NORMAL OVALOCYT-OCCASIONAL [**2110-8-22**] 06:43PM   PT-16.1* PTT-29.6 INR(PT)-1.4* [**2110-8-22**] 06:43PM   FIBRINOGE-664* D-DIMER-1102* [**2110-8-22**] 06:43PM   GRAN CT-270* [**2110-8-22**] 06:43PM   RET AUT-0.6* [**2110-8-22**] 06:43PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-4* PH-6.0 LEUK-NEG  Brief Hospital Course: A/P: Mr. [**Known lastname 21540**] is a 57 year old gentleman with a PMH significant for HIV diagnosed in [**2098**] transferred from [**Hospital1 34**] for further diagnostic evaluation of pancytopenia found to have leukemia.
+During workup for pancytopenia, DIC labs were sent and were negative, as were peripheral smear for schistocytes, as well as hemolysis labs which were consistent with a moderate amount of hemolysis.
+PCR of parvovirus returned negative and IgG Ab was found to be positive and IgM was negative.
+Ehrlichiosis serologies were still pending at time of admission from OSH records.
+A chest CT in the OSH has shown no airway disease.
+The patient was transfused two times since admission for a Hct less than 21.
+On [**8-30**], pt underwent bronchoscopy for the evolving hypoxia.
+ABG performed at the time was relatively unchanged from prior, showing a respiratory alkalosis and possibly worsened A-a gradient (PO2 83.)
+CXR showed no consolidation/pneumothorax.
+He was transferred to the [**Hospital Unit Name 153**] for further management.
+In the [**Hospital Unit Name 153**], he transitioned back to 4LNC, satting 96% with reassurance by his partner and nursing, suggesting a likely anxiety component to his acute SOB, as respiratory rate improved from 40s to high 20s.
+CTA was obtained to rule out PE.
+Unfortunately, he again became increasingly hypoxic and chest x-ray on [**2110-9-2**] showed rather rapid progression of bilateral parenchymal densities and his respiratory state decompensated to the point of needing intubation and vent dependency.
+During this time he also had dramatic ARF indicated by rapidly rising BUN/Cr and LDH levels >[**Numeric Identifier 7923**] and markedly rising LFTs indicating rapid multi-system organ failure.

@@ -1,0 +1,41 @@
+Admission Date:  [**2103-12-1**]              Discharge Date:   [**2103-12-5**]  Date of Birth:  [**2053-11-27**]             Sex:   F  Service: NEUROLOGY  Allergies: Erythromycin Base / prednisone  Attending:[**First Name3 (LF) 5018**] Chief Complaint: L arm and L leg weakness  Major Surgical or Invasive Procedure: None  History of Present Illness: The pt is a 50 year-old R-handed woman with PMHx of hypothyroidism, distant hx of Hodgkins lymphoma s/p chemotherapy and radiation, now s/p pacemaker placement on [**2103-11-30**] for 3rd degree heart block of unknown origin who presents as a code stroke with new L arm and L leg weakness.
+Pt reports that yesterday ([**2103-11-30**]) she had her pacemaker placed without issue, but they told her she should be on bedrest, so she didn't get up after her operation.
+She didn't notice any difficulty with her L arm, but she was "trying to keep it from moving" because of her recent pacemaker placement on that side.
+Past Medical History: - Hodgkins lymphoma first diagnosed in [**2074**], given radiation and had remission, but then relapsed in [**2076**] and had repeat radiation and chemotherapy.
+- hypothyroidism (most recent TSH 6) - splenectomy (when diagnosed with Hodkins lymphoma) - S/p pacemaker placement [**2103-11-30**] for 3rd degree heart block of unknown origin  Social History: Divorced, living with her boyfriend (who she calls husband) for 12 years.
+Urine: [**2103-12-1**] 10:00PM URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]->1.050* [**2103-12-1**] 10:00PM URINE Blood-SM  Nitrite-NEG Protein-TR Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-2* pH-6.0 Leuks-NEG [**2103-12-1**] 10:00PM URINE RBC-9* WBC-1 Bacteri-NONE Yeast-NONE Epi-2 [**2103-12-4**] 03:22PM URINE Color-Red Appear-Hazy Sp [**Last Name (un) **]-1.026 [**2103-12-4**] 03:22PM URINE Blood-LG Nitrite-NEG Protein-100 Glucose-NEG Ketone-40 Bilirub-NEG Urobiln-2* pH-5.5 Leuks-NEG [**2103-12-4**] 03:22PM URINE RBC->182* WBC-17* Bacteri-FEW Yeast-NONE Epi-0 [**2103-12-4**] 03:22PM URINE CastHy-11* [**2103-12-4**] 08:35PM URINE Mucous-OCC [**2103-12-4**] 03:22PM URINE Mucous-FEW [**2103-12-4**] 08:35PM URINE Color-Red Appear-Hazy Sp [**Last Name (un) **]-1.023 [**2103-12-4**] 08:35PM URINE Blood-LG Nitrite-NEG Protein-100 Glucose-NEG Ketone-10 Bilirub-NEG Urobiln-4* pH-5.5 Leuks-SM [**2103-12-4**] 08:35PM URINE RBC->182* WBC-19* Bacteri-MOD Yeast-FEW Epi-3 [**2103-12-1**] 11:28PM URINE UCG-NEG [**2103-12-1**] 11:28PM URINE bnzodzp-NEG barbitr-NEG opiates-NEG cocaine-NEG amphetm-NEG mthdone-NEG .
+There is no definitive pneumothorax seen but minimal apical pleural air cannot be excluded and repeated radiograph is recommended in case patient is symptomatic.
+Thyroid lesions which could represent goiter but consider further evaluation with ultrasound if not already performed.
+TRACING #3   Read by: [**Last Name (LF) **],[**First Name8 (NamePattern2) 251**] [**Doctor Last Name 640**]    Intervals Axes Rate PR QRS QT/QTc P QRS T 78 0 136 442/473 0 -67 117  Brief Hospital Course: 50RHF with PMH of hypothyroidism, distant history of Hodgkin's lymphoma s/p chemotherapy and radiation, and 3rd degree heart block of unknown origin s/p pacemaker placement on [**2103-11-30**], who represented as a code stroke on [**2103-12-1**] with left leg>arm weakness in keeping with right ACA ischemia.
+Of note, she had been started on lisinopril just prior to presentation which was felt to perhaps be the inciting event.
+She was admitted to the ICU and started on pressors with significant improvement in her weakness suggesting hypoperfusion as opposed to infarction.
+She developed orthopnoea and dyspnea on exertion and CXR revealed bilateral pleural effusions and pulmonary edema likely due to her aggressive IV fluid resuscitation to maintain her BP.
+She received a single dose of IV furosemide in the ICU and no further diuresis given concern for further hypoperfusion.
+# Neurology: Patient was recently s/p pacemaker placement on [**2103-11-30**] and represented as a code stroke on [**2103-12-1**] with left leg>left arm weakness in keeping with right ACA ischemia.
+Of note, she had been started on lisinopril just prior to presentation which was felt to perhaps be the inciting event resulting in perhaps symptomatic hypoperfusion.
+She was admitted to the ICU given likely hypoperfusion and was started on pressors with significant improvement in her weakness.
+Phenylephrine drip was weaned off on [**2103-12-2**] and she was maintained on IVF with a goal SBP 140-150.
+Fluids were stopped and she received 10mg IV furosemide.
+She remained on close BP monitoring with goal SBP 140-150.
+She was started on aspirin 325mg daily and atorvastatin 20mg daily and as above lisinopril was held.
+The diagnosis was felt to be likely ACA hypoperfusion given ACA narrowing on CTA and perfusion deficit on CTP with resolution of symptoms with higher BPs.
+# CVS: Patient was followed by cardiology and maintained on telemetry monitoring.
+This was felt likely to her aggressive IV fluid resuscitation during her stay.
+Fluids were stopped and she received 10mg IV furosemide in the ICU and no further fluids due to concern for further hypoperfusion.
+She was continued on Augmentin 500mg Q8H for a planned 14 day course for R hand cellulitis resulting from a dog bite.
+On transfer to the floor she was initially symptomatic as above with orthopnoea and dyspnoea on exertion, this improved and repeat CXRs showed better aeration but still moderate pleural effusions.
+She was maintained on fingersticks and insulin sliding scale during her admission.
+# PPx: She was maintained on pneumoboots and s/c heparin throughout her admission.
+Medications on Admission: - metronidazole 500mg [**Hospital1 **] (Rx'd for pelvic/abdominal pain) - levothyroxine 25mcg QD - ativan 0.5mg [**Hospital1 **] - fluoxetine 40mg QD - lisinopril 5mg QD (just discharged on this as a new med) - augmentin 500mg TID x14 days (just discharged on this as a new med for R hand cellulitis from a dog bite)  Discharge Medications: 1. amoxicillin-pot clavulanate 500-125 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 hours) for 10 days: started [**2103-12-1**] for 14 day course to finish [**2103-12-14**].
+Disp:*30 Tablet(s)* Refills:*0* 2. levothyroxine 25 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+3. fluoxetine 20 mg Capsule Sig: Two (2) Capsule PO DAILY (Daily).
+4. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*5* 5. atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Discharge Disposition: Home With Service  Facility: [**Company 1519**]  Discharge Diagnosis: 1) Right anterior cerebral artery ischemia in the setting of right ACA stenosis 2) Bilateral moderate pleural effusions secondary to IV fliuds 3) Third degree heart block status post pacemaker 4) Dog bite treated with augmentin   Discharge Condition: Mental Status: Clear and coherent.
+Your weakness improved greatly after being started on medications to increase your blood pressure.
+We have therefore stopped your lisinopril for this reason.
+We started aspirin and a cholesterol lowering [**Doctor Last Name 360**] called atorvastatin to reduce stroke risk.
+In order to increae your blood pressure, we used a large volume of IV fluids and this resulted in fluid collections in the outside of both lungs.
+The fluid collections should go away on their own over time.
+You developed some bleeding in the urine, likely as a result of the placement of a catheter.
+We made the following changes to your medications: We HELD lorazepam as this can lower blood pressure (we prefer that you discontinue this) We STOPPED lisinopril We STARTED aspirin 325mg daily We STARTED atorvastatin 20mg daily Please continue augmentin for your dog bite and possible urinary infection to finish on [**2103-12-14**]  If you experience any of the below listed danger signs, please call your doctor or go to the nearest Emergency Department.

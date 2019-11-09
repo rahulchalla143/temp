@@ -1,0 +1,25 @@
+ALLERGIES:  Penicillin causes tongue swelling.
+Sulfa drugs cause a rash.
+MEDICATIONS: Preoperative medications included lisinopril 5 mg p.o.
+HO[**Last Name (STitle) **] COURSE:  The patient was admitted to [**Hospital1 346**] on [**2101-2-1**], for minimally invasive mitral valve replacement with a 31 mm Mosaic porcine pericardial valve with Dr. [**Last Name (Prefixes) **].
+The patient was transported to the intensive care unit on Neo-Synephrine and propofol infusion.
+The patient was started on dopamine infusion with an increase in heart rate without return of sinus rhythm.
+The patient was weaned and extubated from mechanical ventilation on his first postoperative day.
+Dopamine infusion was discontinued.
+The patient was started on Toradol for pain relief.
+The patient's chest tube was removed without incident.
+On postoperative day three the patient worked with physical therapy and was able to ambulate 500 feet without difficulty, continuing in a junctional rhythm.
+Th[**Last Name (STitle) 1050**] was seen by electrophysiology on day five and they felt the patient was cleared for discharge to home, no need for pacemaker at this time.
+Per Dr. [**Last Name (Prefixes) **], the patient was started empirically on Coumadin for anticoagulation for the junctional rhythm.
+Enteric coated aspirin 81 mg p.o.
+Colace 100 mg p.o.
+Vitamin C 500 mg p.o.
+Niferex 150 mg p.o.
+Percocet 5/325 one to two tabs p.o.
+Ambien 5 mg p.o.
+Lasix 20 mg p.o.
+Potassium chloride 20 mEq p.o.
+Multivitamin one p.o.
+Coumadin 5 mg on [**2-7**], 5 mg on [**2-8**].
+Dr. [**Last Name (STitle) 4127**] will interpret the results and adjust Coumadin dosing for goal INR of 2.0.
+FO[**Last Name (STitle) **]:  The patient is to follow up with Dr. [**Last Name (STitle) 4127**] by phone on [**2-9**] for Coumadin dosing.

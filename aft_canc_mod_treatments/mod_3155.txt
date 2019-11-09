@@ -1,0 +1,100 @@
+Admission Date:  [**2156-2-14**]              Discharge Date:   [**2156-3-4**]  Date of Birth:  [**2089-12-13**]             Sex:   F  Service: MEDICINE  Allergies: Erythromycin Base / Indomethacin / Actonel / Reglan / linezolid  Attending:[**First Name3 (LF) 5037**] Chief Complaint: UTI   Major Surgical or Invasive Procedure: Lumbar puncture Endotracheal Intubation Central venous catheter placement and removal PICC line placement   History of Present Illness: Mrs [**Known lastname **] is a pleasant 66 yo woman with extensive PMH including renal/hepatic transplant in [**2153**], recurrent UTIs who presents for direct admission today from rehab for treatment of a urine culture positive for klebsiella.
+Pt has had multiple admissions for multidrug resistant klebsiella in the past and was treated with meropenem.
+ROS: per HPI, denies fever, chills, night sweats, headache, vision changes, rhinorrhea, congestion, sore throat, cough, shortness of breath, chest pain, abdominal pain, nausea, vomiting, diarrhea, constipation, BRBPR, melena, hematochezia, dysuria, hematuria.
+Past Medical History: - Diabetes Mellitus Type 2, on Insulin, c/b retinopathy, nephropathy, and neuropathy - End-stage renal disease, [**3-11**] diabetes & contrast-induced nephropathy, s/p cadaveric transplant [**2153-7-21**] - Hx frequent MDR UTIs, most recently ESBL Klebsiella [**Month (only) 216**] [**2155**] - Dyslipidemia - Hypertension - Atrial fibrillation - High-degree AV block, s/p PPM [**2154-2-5**] ([**Company 1543**] Sensia DDD pacemaker), now pacer dependent - Diastolic heart failure, NYHA II-[**Last Name (LF) 1105**], [**First Name3 (LF) **] >75% on TTE [**1-/2154**] - Calcific aortic stenosis, moderate (area 1.0-1.2cm2) on TTE [**1-/2154**] - Moderate mitral annular calcification and mitral regurgitation  - Mild tricuspid regurgitation - Moderate pulmonary hypertension - Non-alcoholic steato-hepatitis cirrhosis (Stage IV, Grade 2), c/b portal HTN, ascites, encephalopathy, grade I-II esophageal varices s/p banding s/p TIPS [**8-/2152**], s/p OLTx [**2153-7-21**] - Saphenous vein interposition graft repair of the hepatic artery and harvesting of the left saphenous vein graft [**2154-3-14**], Hepatic artery s/p stent [**2154-4-25**] - [**3-/2155**] - Exploratory laparotomy, evacuation of intra- abdominal blood, exploration of retroperitoneal hematoma, left salpingo-oophorectomy for RP bleeding - s/p VATS decortication [**11/2153**] - Splenic vein thrombosis, on coumadin - Anemia - Thrombocytopenia - h/o C.diff - h/o Seizures -headaches ?
+[**3-11**] occipital neuralgia - Meningioma, small left frontal lobe - GERD - OSA has CPAP at home but does not use - Cervical DJD - Dermoid cyst - Right adrenal mass - osteoporosis - Status post cholecystectomy followed by tubal ligation - Status post left oopherectomy - Status post appendectomy - ?
+Surgical scar on R-side with staples in palce, no drainage or errythema, mildly ecchymotic .
+Trace LE R. [**2-9**]+ pitting edema in LUE, Surgical scar on R-side with staples removed, no drainage or erythema, mildly ecchymotic   Pertinent Results: Admission Labs [**2156-2-14**] 09:30PM   UREA N-60* CREAT-2.2* SODIUM-138 POTASSIUM-4.8 CHLORIDE-98 TOTAL CO2-24 ANION GAP-21* [**2156-2-14**] 09:30PM   estGFR-Using this [**2156-2-14**] 09:30PM   ALT(SGPT)-16 AST(SGOT)-19 ALK PHOS-180* TOT BILI-0.5 [**2156-2-14**] 09:30PM   ALBUMIN-3.4* CALCIUM-8.6 PHOSPHATE-5.1* MAGNESIUM-2.0 [**2156-2-14**] 09:30PM   tacroFK-9.9 [**2156-2-14**] 09:30PM   WBC-15.7* RBC-2.94* HGB-9.2* HCT-29.1* MCV-99* MCH-31.4 MCHC-31.8 RDW-19.3* [**2156-2-14**] 09:30PM   PLT COUNT-643*# [**2156-2-14**] 09:30PM   PT-11.6 PTT-29.2 INR(PT)-1.1 .
+URINE: [**2156-2-19**] 08:16PM URINE RBC-7* WBC-126* Bacteri-FEW Yeast-NONE Epi-0 [**2156-2-20**] 02:00PM URINE RBC-5* WBC-134* Bacteri-FEW Yeast-NONE Epi-0 [**2156-2-19**] 08:16PM URINE Blood-SM  Nitrite-NEG Protein-100 Glucose-NEG Ketone-10 Bilirub-NEG Urobiln-2* pH-5.0 Leuks-TR [**2156-2-20**] 02:00PM URINE Blood-NEG Nitrite-NEG Protein-30 Glucose-NEG Ketone-TR Bilirub-NEG Urobiln-4* pH-5.0 Leuks-LG    URINE CULTURE (Final [**2156-2-23**]):       [**Female First Name (un) **] (TORULOPSIS) [**Female First Name (un) **].
+If the patient has not undergone recent instrumentation to account for air within the collecting system, emphysematous pyelitis should be considered.
+Brief Hospital Course: Pleasant 66 yo female with MMP, hx of kidney liver failure, presented intially to the hospital with recurrent multi-drug resistant UTI, was transferred to the ICU for altered mental status and hypoxemia, electively intubated for LP and CT studies found to have gas pockets in her transplanted kidney.
+Urine cultures here did not grow any bacteria but did grow [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 563**] and she was started on Micafungin.
+She will be treated with a three week course of meropenem and micafungin.
+She will follow up with ID and urology for further management of her recurrent UTIs.
+She received IV lasix with improvement in her respiratory status.
+While she was continuing to spike fevers and had altered mental status she was briefly started on vancomycin in addition to the meropenem for possible aspiration PNA.
+She was also electively intubated to obtain head chest and abdominal CT. Sputum cultures were negative and the Vancomycin was stopped.
+With improvement in her volume status she no longer needed oxygen during the day and only needed oxygen at night as she refuses her CPAP for sleep apnea.
+Volume status can be tenuous and she was discharged on torsemide 20mg [**Hospital1 **].
+Close attention should be paid to volume status and diuretics increased as necessary.
+Her diuretics were held though she later developed pulmonary edema.
+She was then diuresed with IV lasix.
+Her creatinine rose again during the diuresis but later returned to 1 which was actually below her recent baseline.
+On admission she had been taking haldol, seroquel, aripiprazole, venlafaxine, and ativan as well as dilaudid for her hip pain.
+Haldol was continued but the rest of the medications were held per psychiatry recs.
+She also underwent an LP and head CT which were normal.
+With treatment of her UTI, holding her  psychotropic medications and resolution of hypoxia her mental status returned to her baseline and her tremor resolved.
+She was restarted on her venlafaxine and ativan PRN but other medications were not restarted on discharge.
+# Hx kidney/liver transplant: Her tacrolimus was increased to 1.5mg [**Hospital1 **] and prednisone was continued unchanged(7.5mg [**Hospital1 **]) throughout this admission.
+Her MMF was stopped and was not restarted on discharge.
+Bactrim was continued.
+She was taking dilaudid for pain when she was admitted but this was held in the setting of AMS.
+She was later changed to oxycodone as needed, which provided adequate pain control without mental status changes.
+She was continued on lovenox for DVT/PE prevention.
+# Diabetes: continued insulin sliding scale, glargine decreased to 15 unitsd QHS.
+has known h/o chronic thrombus in LUE, s/p fistula in RUE so not usable for access.
+LUE was accessed for IR-guided PICC which was successfully placed.
+# HTN: Briefly held her amlodipine and torsemide though these were restarted later.
+she was persisitently hypertensive in the morning and her amlodipine was increased to 5 mg [**Hospital1 **] prior to discharge.
+# HLD: Cont atorvastatin .
+# Gout: Colchicine and allopurinol were held in the setting of [**Last Name (un) **].
+Her allopurinol was restarted but her colchine was discontinued at discharge.
+TRANSITIONAL ISSUES: #Antibiotics: She will need a total of three weeks of meropenem and micafungin.
+#Recurrent UTIs: She has previously been on fosfomycin for prophylaxis but still developed this infection.
+#Hip fracture: Duration of Lovenox must be determined per orthopedics that performed hip repair.
+#Diabetes: Glargine may need to be increased if FSG persistently >180.
+Her amlodipine was increased to 5 mg [**Hospital1 **] the day prior to discharge if she is persistently hypertensive she may need medication changes as directed by Dr. [**First Name (STitle) **] [**Name (STitle) **].
+Please monitor blood sugars and titrate glargine insulin as needed to maintain FSG 140-180. .
+Please continue IV meropenem and micafungin through [**2156-3-12**], last dose to be given that day then remove PICC line.
+Seroquel 150 mg at bedtime 2.
+Lorazepam 1.5 mg at bedtime as needed 3.
+Keppra 500 mg [**Hospital1 **] 4.
+Plavix 75 mg daily 5.
+Amlodipine 5 mg every day 7.
+Humalog sliding scale 8.
+Venlafaxine ER 225 mg daily 9.
+Colchicine 0.6 mg daily 10.
+Aripiprazole 5 mg daily 11.
+Mycophenolate 250 mg [**Hospital1 **] 12.
+Aspirin 325 mg daily 13.
+Haloperidol 0.5 mg in the morning, 1 mg at bedtime 14.
+Allopurinol 300 mg daily 15.
+Torsemide 40 mg in the morning, 20 mg in the evening 17.
+Pantoprazole 40 mg daily 18.
+Levothyroxine 50 mg daily 19.
+Prednisone 7.5 mg daily 20.
+Ursodiol 300 mg [**Hospital1 **] 21.
+Tacrolimus   Discharge Medications: 1. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. prednisone 5 mg Tablet Sig: 1.5 Tablets PO DAILY (Daily).
+3. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+4. sulfamethoxazole-trimethoprim 400-80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+5. levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+6. levetiracetam 500 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+7. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every 6 hours) as needed for fever/pain.
+8. ursodiol 300 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+9. atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+10. tacrolimus 0.5 mg Capsule Sig: Three (3) Capsule PO Q12H (every 12 hours).
+11. haloperidol 0.5 mg Tablet Sig: One (1) Tablet PO QAM (once a day (in the morning)).
+12. haloperidol 0.5 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime).
+13. oxycodone 5 mg Tablet Sig: One (1) Tablet PO every 4-6 hours as needed for Pain.
+14. pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+15. amlodipine 5 mg Tablet Sig: One (1) Tablet PO twice a day.
+16. allopurinol 100 mg Tablet Sig: Three (3) Tablet PO DAILY (Daily).
+17. venlafaxine 75 mg Capsule, Ext Release 24 hr Sig: Two (2) Capsule, Ext Release 24 hr PO DAILY (Daily).
+19. carvedilol 25 mg Tablet Sig: One (1) Tablet PO twice a day.
+20. meropenem 500 mg Recon Soln Sig: One (1) Recon Soln Intravenous Q8H (every 8 hours) for Last dose [**2156-3-12**] doses.
+Sodium Chloride 0.9%  Flush 10 mL IV PRN line flush PICC, non-heparin dependent: Flush with 10 mL Normal Saline daily and PRN per lumen.
+22. micafungin 100 mg Recon Soln Sig: One (1) Recon Soln Intravenous Q24H (every 24 hours) for Last dose [**2156-3-12**] doses.
+23. torsemide 20 mg Tablet Sig: Two (2) Tablet PO QAM.
+24. torsemide 20 mg Tablet Sig: One (1) Tablet PO QPM.
+25. insulin glargine 100 unit/mL Solution Sig: Fifteen (15) units Subcutaneous at bedtime.
+Humalog Per sliding scale 27. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+28. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation .
+29. lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 hours) as needed for Anxiety.
+30. enoxaparin 40 mg/0.4 mL Syringe Sig: One (1)  Subcutaneous Q24H (every 24 hours).
+We treated this infection with antibiotics called meropenem and micafungin.
+You will need to continue these medications for a total of three weeks (last day [**3-12**]).
+We believe this was from a combination of your infection and some of the medications you were taking.
+Summary of Medication Changes: Please Change tacrolimus to 1.5 mg twice a day Please Start meropenem 500 mg three times per day, last dose 2/3 Please Start micafungin 100 mg every day, last dose 2/3 Please Start oxycodone 5 mg every 4-6 hours as needed for pain Please Decrease Lantus (glargine insulin) to 15 units at bedtime Please Decrease venlafaxine to 150mg once a day Please Increase Amlodipine to 5 mg twice daily.
+Please Increase Lovenox (enoxaparin) to 40 units once daily Please STOP seroquel (quetiapine), abilify (aripiprazole), colchicine, mycophenolate and dilaudid.
+Pleaswe Continue takking all other medications as you have been  Please continue all other medications as instructed.

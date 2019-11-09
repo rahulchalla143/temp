@@ -1,0 +1,43 @@
+Admission Date:  [**2169-3-14**]              Discharge Date:   [**2169-3-23**]  Date of Birth:  [**2085-6-22**]             Sex:   F  Service: MEDICINE  Allergies: Penicillins  Attending:[**First Name3 (LF) 9853**] Chief Complaint: Fevers, altered mental status   Major Surgical or Invasive Procedure: - ERCP - Placement of PICC line  History of Present Illness: Mrs. [**Known lastname 10840**] is a pleasant 83 year old female, followed by biliary service at [**Hospital1 18**] for biliary obstruction status-post stenting for likely malignancy, though not biopsy proven, as well as a history of cholangitis.
+She was given vancomycin, ceftriaxone, and flagyl over concern of cholangitis.
+Her INR was over 8, and she was given 10 mg of intravenous vitamin K. Blood and urine cultures were drawn prior to administration of antibiotics.
+Her vitals at that time were: temperature of 101.4 rectal, stable blood pressure (never hypotensive, lowest 120/40) 160/70, RR 24, Sat 98% on NRB.
+Her laboratories were notable for a transaminitis AST >ALT, lactate 2.4, INR 7.7.
+Of note, patient had recent admission to [**Hospital Unit Name 153**] for polymicrobial sepsis in setting of biliary stent obstruction due to tumor.
+Past Medical History: Biliary obstruction/malignant stricture s/p ERCP X 2 and 2 metal stents--last placed in [**9-12**].
+-Diabetes mellitus, type 2 -Hypertension -Coronary artery disease -Parkinson's disease -diastolic CHF -Vaginal Carcinoma -s/p Cholecystectomy -Urosepsis d/t E. coli and Proteus -Bacteremia due to VRE in [**9-12**] treated with 2 week course of Linezolid -Bacteremia due to E. coli in [**9-12**] treated with 2 week course of Ceftriaxone.
+Pt was initially empirically treated linezolid, ceftriaxone and flagyl given prior h/o VRE and resistent bacteria, and transitioned to only high dose ceftriaxone once blood cultures grew Klebsiella.
+She was also treated with IVF boluses via PICC and did not require a CVL or pressors.
+The biliary surgery and ERCP team followed along during her stay.
+She recieved several doses of Vitamin K and FFP to reverse her INR for ERCP and was NOT restarted on anticoagulation post procedure, out of concern for needing future procedures.
+Benefits and downsides of anticoagulation can be discussed with pt's PCP given ongoing goals of care.
+[**Name (NI) 20472**] Pt's home home glyburide was held and pt was monitored and treated with a sliding scale of insulin.
+This was not restarted after her procedures due to generally good blood sugar control; however, this can be restarted when necessary at rehab depending on her blood sugars.
+Coronary artery disease: Patient's last echo was in [**Month (only) 404**] [**2169**], which demonstrated an EF of >55%, normal systolic function, mild MR. She was continued on her home statin, while her home anti-hypertensives were initially held in the setting of concern of hypotension while septic.
+Her metoprolol was started after her BP recovered.
+Atrial fibrillation: Pt supratherpeutic on coumadin on arrival.
+Metoprolol was restarted and titrated up to 50mg tid given episodes of afib with RVR in the ICU.
+Digoxin was not restarted.
+HTN: held home BP regimen on admission.
+Metoprolol was added back as above and lisinopril and HCTZ were added and titrated up after she became hypertensive on the floor.
+Parkinsons: continued Sinimet and Pramipexole  #.
+The speech and swallow team discussed the possibility of a feeding tube with the patient and family in order to be able to provide adequate nutrition, but she and her husband were adamantly against this, as quality of life and being able to have the comfort of eating food were deemed to be more important; thus, speech and swallow recommended nectar thick liquids and pureed solids per her husband's request.
+## CODE STATUS: DNR/DNI  EMERGENCY CONTACT: [**Name (NI) 4906**] [**Name (NI) **] [**Telephone/Fax (1) 105717**]   Medications on Admission: Albuterol Sinemet 25-100 TID Lasix 40 mg [**Hospital1 **] glyburide 5 mg daily lisinopril 5 mg [**Hospital1 **] singulair 10 mg daily protonix 40 mg daily pramipexole 0.375 mg tid prazosin 2 mg [**Hospital1 **] simvastatin 10 mg daily  (Although not confirmed with patient at time of admission--per discharge from [**1-/2169**], was also on digoxin, metoprolol, and coumadin)  Discharge Medications: 1.
+Ipratropium Bromide 0.02 % Solution Sig: One (1) neb Inhalation Q6H (every 6 hours) as needed.
+Carbidopa-Levodopa 25-100 mg Tablet Sig: One (1) Tablet PO TID (3 times a day).
+Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Singulair 10 mg Tablet Sig: One (1) Tablet PO once a day.
+Pantoprazole 40 mg Recon Soln Sig: One (1) Recon Soln Intravenous Q24H (every 24 hours).
+Pramipexole 0.125 mg Tablet Sig: Three (3) Tablet PO TID (3 times a day).
+Prazosin 2 mg Capsule Sig: One (1) Capsule PO twice a day.
+Simvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Acetaminophen 650 mg Suppository Sig: One (1) Suppository Rectal Q6H (every 6 hours) as needed for fever.
+Bisacodyl 5 mg Tablet, Delayed Release (E.C.)
+Ceftriaxone in Dextrose,Iso-os 2 gram/50 mL Piggyback Sig: Two (2) g Intravenous Q24H (every 24 hours) for 5 days.
+Insulin Lispro 100 unit/mL Solution Sig: per sliding scale Subcutaneous ASDIR (AS DIRECTED).
+Aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day.
+Discharge Disposition: Extended Care  Facility: [**Hospital 169**] Center  Discharge Diagnosis: Primary: biliary obstruction, bacteremia Secondary: likely cholangiocarcinoma, hypertension, atrial fibrillation, diabetes mellitus Type 2, coronary artery disease, Parkinson's disease, chronic diastolic CHF   Discharge Condition: good, stable, at baseline mental status, afebrile   Discharge Instructions: You were evaluated for fevers and lethargy and improved after ERCP.
+You are being treated for a bloodstream infection and will continue IV antibiotics for a few more days.
+You were evaluated by speech and swallow and were found to be at risk for aspiration; however, after discussion you declined a feeding tube and would rather eat despite the risk of aspiration.

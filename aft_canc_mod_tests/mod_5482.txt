@@ -1,0 +1,38 @@
+Given the complexity of the wound and exposure of spinous processes, he was brought to [**Hospital1 18**] for further management.
+In [**Name (NI) **], pt febrile to 101.8 w/ "labile" BP w/ SBP in the 80's.
+Family History:  mom - cancer of unclear etiology  Physical Exam: Vitals: T 98.5; BP 81/39; P 82; RR 18; 98% RA General: lying in bed NAD HEENT: NCAT, moist mucous membranes Neck: supple, no carotid bruit Pulmonary: CTA b/l Cardiac: regular rate and rhythm, with no m/r/g Carotids: no blood flow murmur Abdomen: soft, nontender, non distended, normal bowel sounds Skin: ulcerating skin wound from ~ C7-T6 eroded through paraspinal muscles and exposes necrotic spinous processes.
+Pertinent Results: [**2135-6-15**] 07:00PM   WBC-11.7* RBC-3.74* HGB-9.6* HCT-28.1* MCV-75* MCH-25.5* MCHC-34.0 RDW-14.8 [**2135-6-15**] 07:00PM   NEUTS-79.7* LYMPHS-14.4* MONOS-5.4 EOS-0.4 BASOS-0.1 [**2135-6-15**] 07:00PM   PLT COUNT-715* [**2135-6-15**] 07:00PM   GLUCOSE-102 UREA N-16 CREAT-0.8 SODIUM-127* POTASSIUM-5.9* CHLORIDE-97 TOTAL CO2-19* ANION GAP-17 [**2135-6-15**] 07:18PM   LACTATE-1.3 .
+Repeated PA and lateral chest radiographs are recommended for precise evaluation of these findings.
+Left ventricular wall thicknesses are normal.
+Left ventricular systolic function is hyperdynamic (EF 80%).
+Tissue Doppler imaging suggests an increased left ventricular filling pressure (PCWP>18mmHg).
+Right ventricular systolic function is normal.
+[**2135-6-16**]: CT abd/pelvis: IMPRESSION: 1.
+However, CT is not specific for evaluating bony metastases.
+[**2135-6-17**]: CT Head: IMPRESSION: No evidence of intracranial metastatic disease.
+[**2135-6-17**]: MR [**Name13 (STitle) 2854**] - FINDINGS: There are extensive signal intensity abnormalities of all of the visualized vertebral bodies.
+The spinous processes and lamina at T2 through T4 appear markedly hypointense on the MR images suggesting sclerosis due to chronic osteomyelitis.
+[**2135-6-19**]: MR L/C spine: IMPRESSION: 1.
+Bilateral pleural effusions and multiple lung nodules, which are better assessed on the recent CT of the torso.
+Multifocal signal changes within vertebral bodies in the cervical, thoracic and lumbar spine are most suggestive of multifocal osseous metastatic disease.
+Overall, the study of the thoracic spine does not demonstrate significant change since [**2135-6-17**].
+[**2135-6-21**]: Pleural Fluid Cytology:  Pleural fluid: NEGATIVE FOR MALIGNANT CELLS.
+GRAM STAIN (Final [**2135-6-15**]):       3+  (5-10 per 1000X FIELD):   POLYMORPHONUCLEAR LEUKOCYTES.
+WOUND CULTURE (Final [**2135-6-19**]):       Due to mixed bacterial types ( >= 3 colony types) an abbreviated       workup is performed appropriate to the isolates recovered from the       site (including a screen for Pseudomonas aeruginosa, Staphylococcus       aureus and beta streptococcus).
+Trimethoprim/Sulfa sensitivity testing performed by [**First Name8 (NamePattern2) 3077**] [**Last Name (NamePattern1) 3060**].
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              STAPH AUREUS COAG +                              |          PSEUDOMONAS AERUGINOSA                              |          |          PSEUDOMONAS AERUGINOSA                              |          |          | CEFEPIME--------------                4 S        2 S CEFTAZIDIME-----------                4 S      <=1 S CIPROFLOXACIN---------              0.5 S   <=0.25 S CLINDAMYCIN-----------<=0.25 S ERYTHROMYCIN----------<=0.25 S GENTAMICIN------------ <=0.5 S        4 S      <=1 S IMIPENEM--------------              <=1 S      <=1 S LEVOFLOXACIN----------<=0.12 S MEROPENEM-------------           <=0.25 S   <=0.25 S OXACILLIN-------------<=0.25 S PIPERACILLIN----------                8 S      <=4 S PIPERACILLIN/TAZO-----                8 S      <=4 S TOBRAMYCIN------------              <=1 S      <=1 S TRIMETHOPRIM/SULFA----       S     ANAEROBIC CULTURE (Final [**2135-6-22**]):       BACTEROIDES FRAGILIS GROUP.
+Trimethoprim/Sulfa sensitivity testing performed by [**First Name8 (NamePattern2) 3077**] [**Last Name (NamePattern1) 3060**].
+sensitivity testing performed by Microscan.
+SENSITIVITIES: MIC expressed in MCG/ML  _________________________________________________________                              STAPH AUREUS COAG +                              |          PSEUDOMONAS AERUGINOSA                              |          | CEFEPIME--------------                4 S CEFTAZIDIME-----------                8 S CIPROFLOXACIN---------            <=0.5 S CLINDAMYCIN-----------<=0.25 S ERYTHROMYCIN----------<=0.25 S GENTAMICIN------------ <=0.5 S      <=1 S IMIPENEM--------------              <=1 S LEVOFLOXACIN----------     4 R MEROPENEM-------------                  S OXACILLIN-------------   0.5 S PENICILLIN------------ =>0.5 R PIPERACILLIN----------               64 S PIPERACILLIN/TAZO-----              <=8 S TOBRAMYCIN------------              <=1 S TRIMETHOPRIM/SULFA----       S     ANAEROBIC CULTURE (Final [**2135-6-24**]):    NO ANAEROBES ISOLATED.
+Additionally, blood cultures from OSH grew pseudomonas, though blood cultures here were without growth (except for cornybacterium, which is presumed contamination).
+Likewise, TTE showed no gross evidence of endocarditis.
+His wound swab ultimately grew MSSA and pseudomonas.
+# Back wounds: wound culture grew MSSA and pan-sensitive pseudomonas.
+Plastic surgery recommending that patient is able to be d/c'ed with [**Hospital1 **] dressing changes and outpatient follow-up, with plan to consider another skin graft in the future.
+# Question of malignancy: MRI revealed extensive vertebral body changes throughout the thoracic spine that were suggestive of malignancy/metastatic disease.
+Pan-CT scan notable for multiple lung nodules as well as left sided pleural effusion.
+This effusion was tapped by Interventional Pulmonary, which showed predominant lymphocytosis with cytology negative for evidence of malignancy.
+A specimen of the spinous process was sent to pathology and under special staining revealed likely non-small cell lung cancer, stage IV.
+Hematology/oncology was consulted who felt that the prognosis was likely poor with an estimated lifespan of 8 months; they offered the patient palliative chemotherapy (which would not be able to be initiated until the ulcers healed) and the patient has initially refused but will arrange follow up in New [**Location (un) **] if patient is amenable.
+Urine electrolytes indicated a FENa of 2.2, which indicates a more likely intrinsic mechanism for renal failure, such as ATN.
+Bismuth Subsalicylate 262 mg/15 mL Suspension Sig: Fifteen (15) ML PO TID (3 times a day).

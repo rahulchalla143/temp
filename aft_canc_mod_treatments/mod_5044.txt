@@ -1,0 +1,33 @@
+Admission Date:  [**2146-9-10**]              Discharge Date:   [**2146-10-5**]  Date of Birth:  [**2116-6-27**]             Sex:   M  Service: MEDICINE  Allergies: Cefepime / Vancomycin  Attending:[**First Name3 (LF) 2485**] Chief Complaint: Fever/rash  Major Surgical or Invasive Procedure: Endotracheal intubation, arterial line, bilateral chest tubes  History of Present Illness: Mr. [**Known lastname **] is a 30 y/o man w/ h/o refractory Hodgkin's lymphoma s/p reduced intensity non-myeloablative MUD transplant [**2146-6-27**] who was discharged the day prior to admission and who now returns with fever and diarrhea.
+He was treated empirically with Linezolid (red man reaction with Vancomycin and allergy to Cefepime) initially and then Abx were changed to Levofloxacin.
+He was discharged on triamcinolone cream, oral prednisone 60mg, and levofloxacin.
+He does report new onset of diarrhea that started on the evening of discharge from the hospital.
+The patient received Zosyn 4.5 mg IV, Linezolid 600 mg IV, Flagyl 500 mg IV, Solumedrol 125 mg IV, and Tylenol PO.
+He was resuscitated with a total of 4L NS with response in BP.
+He was started on TPN on HD #2.
+Flagyl stopped on HD #4.
+Given 20 mg IV lasix w/ 700 cc UOP.
+He was urgently transferred to the [**Hospital Unit Name 153**] for intubation and resp failure.
+Pt was intubated with anesthesia present and then was transiently hypotensive on sedation.
+- s/p ABVD x4 cycles with good response, then ABVD x2 with poor response.
+- s/p CEP x2 with poor response.
+- s/p gemcitabine/cisplatin/dexamethasone x3.
+- s/p auto-SCT with Cytoxan [**9-/2145**], with persistent adenopathy and PET +.
+- s/p XRT to chest wall [**1-/2146**] followed by Rituxan/vinblastine w/ good response.
+- s/p mini-matched unrelated donor (MUD) allo transplant [**2146-6-27**] with evidence of disease progression on CT  - s/p Gemcitabine [**2146-7-21**], last treatment [**8-11**]  - s/p DLI [**2146-8-25**].
+Family History: He has a stepfather who is unrelated to him who has non-Hodgkin's lymphoma.
+His maternal grandmother with [**Name2 (NI) 499**] cancer and paternal cousin has pancreatic cancer.
+Pertinent Results: LABS ON ADMISSION: [**2146-9-11**] 12:00AM   GLUCOSE-142* UREA N-8 CREAT-0.5 SODIUM-139 POTASSIUM-3.6 CHLORIDE-105 TOTAL CO2-26 ANION GAP-12 [**2146-9-11**] 12:00AM   ALT(SGPT)-100* AST(SGOT)-35 ALK PHOS-54 TOT BILI-0.3 [**2146-9-11**] 12:00AM   ALBUMIN-3.4 CALCIUM-8.7 PHOSPHATE-2.4*# MAGNESIUM-1.9 [**2146-9-11**] 12:00AM   WBC-6.3 RBC-3.70* HGB-11.0* HCT-33.2* MCV-90 MCH-29.8 MCHC-33.2 RDW-20.6* [**2146-9-11**] 12:00AM   NEUTS-73* BANDS-10* LYMPHS-7* MONOS-3 EOS-1 BASOS-0 ATYPS-2* METAS-3* MYELOS-1* [**2146-9-11**] 12:00AM   HYPOCHROM-1+ ANISOCYT-2+ POIKILOCY-2+ MACROCYT-1+ MICROCYT-1+ POLYCHROM-1+ OVALOCYT-2+ SCHISTOCY-OCCASIONAL STIPPLED-OCCASIONAL TEARDROP-OCCASIONAL [**2146-9-11**] 12:00AM   PLT COUNT-203 [**2146-9-11**] 12:00AM   PT-12.3 PTT-23.7 INR(PT)-1.1 [**2146-9-11**] 12:00AM   GRAN CT-5200 [**2146-9-10**] 10:28AM   LACTATE-0.7 [**2146-9-10**] 09:15AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.0 LEUK-NEG [**2146-9-10**] 08:36AM   LACTATE-2.3* [**2146-9-10**] 08:15AM   GLUCOSE-105 UREA N-11 CREAT-0.8 SODIUM-136 POTASSIUM-3.3 CHLORIDE-99 TOTAL CO2-24 ANION GAP-16 [**2146-9-10**] 08:15AM   ALT(SGPT)-82* AST(SGOT)-30 LD(LDH)-237 ALK PHOS-58 TOT BILI-0.4 [**2146-9-10**] 08:15AM   WBC-5.5 RBC-4.03* HGB-12.1* HCT-35.5* MCV-88 MCH-30.0 MCHC-34.0 RDW-21.0* [**2146-9-10**] 08:15AM   NEUTS-66 BANDS-2 LYMPHS-1* MONOS-9 EOS-12* BASOS-0 ATYPS-3* METAS-7* MYELOS-0 [**2146-9-10**] 08:15AM   HYPOCHROM-NORMAL ANISOCYT-2+ POIKILOCY-2+ MACROCYT-1+ MICROCYT-2+ POLYCHROM-2+ OVALOCYT-2+ TEARDROP-OCCASIONAL [**2146-9-10**] 08:15AM   PLT SMR-NORMAL PLT COUNT-185 [**2146-9-10**] 08:15AM   PT-12.3 PTT-23.5 INR(PT)-1.1 .
+IMAGING: [**2146-9-17**] Chest X Ray: A single AP view of the chest is obtained on [**2146-9-17**] at 08:21 hours and compared with the prior day's radiograph performed at 12:23 hours.
+The remainder of the lung fields appear unchanged since prior day's radiograph.
+Brief Hospital Course: Mr. [**Known lastname **] is a 30 yo male with h/o refractory Hodgkin's lymphoma s/p reduced intensity non-myeloablative MUD allo transplant who was admitted with GVHD rash and diarrhea who was transferred to the [**Hospital Unit Name 153**] with hypoxic respiratory failure.
+1)Respiratory Failure: The cause of Mr. [**Known lastname 63572**] respiratory failure was thought to be secondary to the Bleomycin, which he had received as part of his chemotherapy regimen in the past.
+He was empirically started on Vancomycin, Caspofungin, Bactrim, and Zosyn to cover him for all possible organisms.
+He was also placed on Methylprednisolone.
+All medications were stopped at the time; he was slowly weaned off the ventilator, and he was started Morphine, Methadone, and Fentanyl for comfort.
+No further intervention was done.
+His plt remained above goal and did not require any further transfusions.
+Most recently s/p DLI [**2146-8-25**].
+Patient was not a candidate for further treatment.
+9) PPx: Pt was placed on pneumoboots for DVT prophylaxis (since he was not a candidate for anti-coagulation).
+He was also placed on PPI for GI regimen.

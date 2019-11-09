@@ -1,0 +1,36 @@
+Admission Date:  [**2123-2-19**]              Discharge Date:   [**2123-2-27**]  Date of Birth:  [**2080-1-3**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 1115**] Chief Complaint: Dyspnea  Major Surgical or Invasive Procedure: BiPAP   History of Present Illness: The patient is a 43 yo woman with h/o morbid obesity, COPD, OSA, and recent PE on Coumadin, who presents with a two-week history of worsening dyspnea and productive cough.
+She increased the duration of her nebulizations but states that this did not help her symptoms.
+She was prescribed Lasix 20 mg daily at her rehab facility, as needed for peripheral edema, but she hasn't taken this since being discharged from rehab 3 weeks ago.
+She was placed on BiPap, and her O2 sats increased to 100%.
+She was given Prednisone 60 mg PO, Magnesium 2 g IV, 3 Combivent nebulizations, Ceftriaxone, and Azithromycin.
+She was then started on a heparin gtt at 1200U/h for possible PE, given the fact that she was likely over the weight limit for the CT scanner.
+Review of systems: (+) Possible recent weight gain, subjective fevers, loose stools, increasing peripheral edema, chest pain with coughing.
+She had been at a rehab facility since her last admission in [**9-16**], but was discharged home 3 weeks ago.
+Abdomen:  Obese, +BS, Non-tender GU: Foley in place Ext: Obese.
+Specimen is only screened for Cryptococcus species.
+[**2-19**] CXR: Cardiomegaly with bilateral pulmonary infiltrates, consistent with pulmonary edema.
+[**2-24**] CXR: The cardiomediastinal silhouette is unchanged including cardiomegaly, moderate in severity.
+Compared to [**2-21**] and [**2-22**], there is interval improvement in pulmonary edema with currently only minimal vascular engorgement and upper lobe redistribution present.
+Right basilar opacity is slightly asymmetric but most likely represents residual pulmonary edema, although focus of infection cannot be excluded and should be further followed with radiographs to document complete resolution.
+Brief Hospital Course: The patient is a 43 y/o woman with h/o COPD, recent PE, and pulmonary HTN, who presents with a 3-day history of worsening dyspnea and hypoxia, believed to be due to a CHF exacerbation (in the setting of lasix noncompliance).
+Dyspnea: Believed due to a CHF exacerbation (right heart failure vs acute diastolic heart failure) given her lasix non-compliance, peripheral edema, CXR, and the fact that she has now improved to her baseline breathing status after 11 kg diuresis in the MICU.
+She did not have leukocytosis or fevers, and antibiotics and steroids were discontinued, out of the belief that her respiratory symptoms were predominantly the result of fluid overload.
+She was continued on nebulizer treatments and advair for her known COPD.
+She was restarted on BiPap for her severe sleep disordered breathing (settings are 15/7).
+By the time of discharge she was breathing comfortably on her home O2 regimen of 5L NC.
+She is discharged to rehab for continued diuresis and pulmonary rehab.
+History of PE's: The patient has a history of presumed PEs in [**Month (only) **], for which she is to be on anticoagulation for at least 6 months.
+Steroids may be causing fluid retention so held on instituting them.
+# Code: Full (discussed with patient in ICU)  Medications on Admission: Lasix 20 mg daily prn for edema Advair 250/50 one puff [**Hospital1 **] Ipratropium nebulization q6h Albuterol nebulization q2h prn for SOB Colace 100 mg PO BID Senna 8.6 mg PO BID Warfarin 10 mg daily Oxycodone 5 mg q6h prn   Discharge Medications: 1.
+Warfarin 2.5 mg Tablet Sig: Three (3) Tablet PO Once Daily at 4 PM: titrate to goal INR [**2-10**].
+Furosemide 40 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+Oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for pain.
+Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for Constipation.
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig: One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1) nebulizer Inhalation every four (4) hours as needed for shortness of breath.
+Ipratropium Bromide 0.02 % Solution Sig: One (1) nebulizer Inhalation Q6H (every 6 hours) as needed for shortness of breath.
+You were treated with medications to remove fluid from your body, and you lost a significant amount of fluid through your urine.
+You were also treated with steroids and antibiotics for the possibility of an exacerbation of your COPD, as well as nebulizer treatment and BiPAP.
+It is very important that you continue to take your medications to prevent the re-accumulation of fluid and to help your breathing.
+The following changes were made to your medications: -- coumadin waschanged to 7.5mg daily, but may need to be changed in the future depending on blood tests  Followup Instructions: Please see a cardiologist: MD: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 73**] Specialty: Cardiology Date/ Time: Monday, [**3-1**], 3pm Location: [**Location (un) **], [**Location (un) 86**].

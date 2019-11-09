@@ -1,0 +1,21 @@
+Admission Date:  [**2123-4-16**]              Discharge Date:   [**2123-4-17**]  Date of Birth:  [**2044-2-7**]             Sex:   F  Service: MEDICINE  Allergies: No Allergies/ADRs on File  Attending:[**First Name3 (LF) 2736**] Chief Complaint: Chest pain, abdominal pain  Major Surgical or Invasive Procedure: Cardiac catheterization  History of Present Illness: 79 year old female who presented to [**Hospital1 18**] from OSH ([**Hospital1 189**]) for concern for STEMI, with right upper quadrant pain, leukocytosis and elevated lactate.
+ECG at the OSH was concerning for STEMI, with diffuse ST-segment elevations, most prominant in I, II, aVL, V3-6, and ST-segment depression in aVR.
+Bedside echo showed hypokinesis with EF 55% and 2+ mitral regurgitation.
+Patient was administered Rocephin and Flagyl at the OSH due to noted WBC count of 20K.
+Of note, labs from OSH also found K 4.5, BUN 79, Cr 2.9.
+She was transferred to [**Hospital1 18**] for further evaluation.
+In the ED, initial vital signs were T 97.6, P 74, BP 120/60, R 16, Sat 95% RA.
+ECG was significant for similar ST abnormalities, and patient complained of [**11-17**] chest pain.
+Labs were significant for WBC 23K with 90% neutrophils, 3% bands.
+Chemistry labs were hemolyzed.
+One set of blood cultures were sent.
+Labs also showed AST 197, ALT 95, Alk Phos 662, total bilirubin 27.1, albumin 2.2.
+Troponin was 0.24.
+Patient was taken to catheterization due to concern for STEMI.
+RHC was performed and showed mean RA 12 mmHg, RVEDP of 15 mmHg, PCW mean of 20 mmHg; CO 3.2 l/min and CI 2.1 l/min/m2.
+ABG performed in the lab showed 7.30/33/174/17 with lactate 5.8.
+PULSES: Right: Carotid 1+  DP 1+ PT 1+ Left: Carotid 1+ DP 1+ PT 1+   Pertinent Results: ADMISSION LABS -------------- [**2123-4-16**] 06:00PM BLOOD WBC-23.1* RBC-3.86* Hgb-9.9* Hct-28.0* MCV-73* MCH-25.8* MCHC-35.4* RDW-17.9* Plt Ct-374 [**2123-4-16**] 06:00PM BLOOD Neuts-90* Bands-3 Lymphs-2* Monos-2 Eos-0 Baso-0 Atyps-0 Metas-0 Myelos-3* [**2123-4-16**] 06:00PM BLOOD Hypochr-2+ Anisocy-1+ Poiklo-1+ Macrocy-NORMAL Microcy-2+ Polychr-OCCASIONAL Ovalocy-OCCASIONAL Target-2+ Burr-OCCASIONAL Pencil-OCCASIONAL [**2123-4-16**] 07:41PM BLOOD PT-13.4* PTT-95.4* INR(PT)-1.2* [**2123-4-16**] 07:41PM BLOOD Glucose-191* UreaN-83* Creat-2.4* Na-135 K-4.8 Cl-96 HCO3-16* AnGap-28* [**2123-4-16**] 06:00PM BLOOD ALT-95* AST-197* AlkPhos-662* TotBili-27.1* [**2123-4-16**] 06:00PM BLOOD cTropnT-0.24* [**2123-4-16**] 07:41PM BLOOD CK-MB-3 cTropnT-0.26* [**2123-4-16**] 06:00PM BLOOD Albumin-2.2* Calcium-8.6 Phos-7.9* Mg-4.3* [**2123-4-16**] 06:49PM BLOOD Type-ART O2 Flow-15 pO2-174* pCO2-33* pH-7.30* calTCO2-17* Base XS--8 Intubat-NOT INTUBA [**2123-4-16**] 09:09PM BLOOD Type-ART Temp-36.4 pO2-72* pCO2-32* pH-7.32* calTCO2-17* Base XS--8 [**2123-4-16**] 06:06PM BLOOD Lactate-4.8* .
+RELEVANT LABS ------------- [**2123-4-17**] 02:35PM BLOOD WBC-10.4 RBC-3.75* Hgb-10.5*# Hct-32.5*# MCV-87 MCH-28.1 MCHC-32.3 RDW-17.4* Plt Ct-107*# [**2123-4-17**] 09:32AM BLOOD Neuts-34* Bands-26* Lymphs-23 Monos-3 Eos-0 Baso-0 Atyps-0 Metas-8* Myelos-6* NRBC-28* [**2123-4-17**] 09:32AM BLOOD Hypochr-2+ Anisocy-1+ Poiklo-1+ Macrocy-1+ Microcy-1+ Polychr-OCCASIONAL Target-OCCASIONAL Burr-OCCASIONAL [**2123-4-16**] 07:41PM BLOOD Fibrino-1114* [**2123-4-17**] 02:35PM BLOOD Glucose-276* UreaN-65* Creat-2.7* Na-143 K-7.7* Cl-102 HCO3-LESS THAN [**2123-4-17**] 09:32AM BLOOD ALT-363* AST-1409* AlkPhos-405* TotBili-14.5* DirBili-12.6* IndBili-1.9 [**2123-4-17**] 02:35PM BLOOD Calcium-9.5 Phos-16.3*# Mg-2.9* [**2123-4-17**] 02:42PM BLOOD Type-ART pO2-67* pCO2-40 pH-6.75* calTCO2-6* Base XS--33 [**2123-4-17**] 02:42PM BLOOD Lactate-21.2*  MICROBIOLOGY ------------ Blood culture [**2123-4-16**] x 2 sets: pending Blood culture [**2123-4-17**] x 1 set: pending Urine culture [**2123-4-16**]: pending Sputum culture [**2123-4-17**]: pending .
+# Septic [**Name (NI) 21020**] Pt presented with WBC 23K with neutrophilia and bandemia, lactate [**5-14**], with elevated anion gap and bilirubin >20 with RUQ pain.
+Blood cultures grew out E coli.
+# ST elevations: Patient presented to OSH with chest pain, troponin elevation and diffuse ST elevations.

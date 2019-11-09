@@ -1,0 +1,29 @@
+Admission Date:  [**2190-2-17**]              Discharge Date:   [**2190-2-25**]  Date of Birth:  [**2159-8-7**]             Sex:   F  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**Last Name (NamePattern1) 1136**] Chief Complaint: Hypertension  Major Surgical or Invasive Procedure: none   History of Present Illness: 30 year old female G1P1 with h/o proteinuria which developed during 2nd trimester ?FSGS [**3-2**] obesity and chronic headaches s/p SVD [**1-26**] admitted to OB/Gyn [**2-16**] with initially refractory hypertension SBP 170s-200s.
+BP had been reasonably well controlled last 24-36 hours on hydral 75 PO q6 and enalapril 15mg PO BID both of which had been uptitrated until am [**2-22**] when developed SBP 200s.
+SBP remained elevated to 190s despite hydral 10IV x 2.
+On ICU team evaluation on L+D floor where patient was transferred in order to receive IV meds, BP 190s/110s and HR 110s.
+She was given lasix 10 IV x 1 and labetalol 20IV x 1 with improved BP 160/90s.
+Cr has improved 1.0 from 1.3 on admission course and LFTS and CBC normal.
+She was referred to Nephrology at [**Location (un) 2274**] for further evaluation where she had a normal renal US but no further workup due to pregnancy.
+3 days PTA, she took her BP at Stop and Shop and it was elevated to 160s/90s so she called her OB several days later and was admitted.
+She was initially treated with PO nifedipine with almost no impact on her BP but worsening of her HA.
+Vitals prior to transfer were: BP 167/92 HR 98 .
+Gait assessment deferred PSYCH: Listens and responds to questions appropriately, pleasant   Pertinent Results: Admission Labs: [**2190-2-16**] 08:50PM BLOOD WBC-8.0 RBC-4.08* Hgb-11.3* Hct-35.7* MCV-87 MCH-27.6 MCHC-31.6 RDW-14.7 Plt Ct-335 [**2190-2-16**] 08:50PM BLOOD Plt Ct-335 [**2190-2-22**] 07:23AM BLOOD Fibrino-578* [**2190-2-17**] 04:38AM BLOOD Glucose-142* UreaN-12 Creat-1.0 Na-138 K-3.3 Cl-104 HCO3-24 AnGap-13 [**2190-2-16**] 08:50PM BLOOD ALT-25 AST-32 [**2190-2-16**] 08:50PM BLOOD UricAcd-4.5 .
+Discharge Labs: [**2190-2-25**] 08:40AM BLOOD WBC-6.5 RBC-3.83* Hgb-10.8* Hct-33.9* MCV-89 MCH-28.1 MCHC-31.7 RDW-15.6* Plt Ct-289 [**2190-2-25**] 08:40AM BLOOD Glucose-118* UreaN-15 Creat-1.1 Na-141 K-4.1 Cl-107 HCO3-28 AnGap-10 [**2190-2-25**] 08:40AM BLOOD Calcium-8.8 Phos-3.6 Mg-1.8 .
+Other Notable Lab values: [**2190-2-23**] 07:46AM BLOOD %HbA1c-6.0* [**2190-2-23**] 03:31AM BLOOD Triglyc-69 HDL-59 CHOL/HD-4.2 LDLcalc-174* [**2190-2-22**] 07:23AM BLOOD HBsAg-NEGATIVE HBsAb-POSITIVE HBcAb-NEGATIVE [**2190-2-22**] 01:46PM BLOOD [**Doctor First Name **]-NEGATIVE dsDNA-NEGATIVE [**2190-2-22**] 07:23AM BLOOD HCV Ab-NEGATIVE .
+Urine Studies: [**2190-2-16**] 09:08PM URINE Color-Yellow Appear-Hazy Sp [**Last Name (un) **]-1.022 [**2190-2-16**] 09:08PM URINE Blood-MOD Nitrite-NEG Protein->600 Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-SM .
+[**2190-2-17**] 11:15AM URINE bnzodzp-NEG barbitr-NEG opiates-NEG cocaine-NEG amphetm-NEG mthdone-NEG .
+[**2190-2-22**] 04:11PM URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.009 [**2190-2-22**] 04:11PM URINE Blood-LG Nitrite-NEG Protein-300 Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-TR [**2190-2-22**] 04:11PM URINE RBC-29* WBC-5 Bacteri-NONE Yeast-NONE Epi-5 [**2190-2-22**] 04:11PM URINE CastHy-2* [**2190-2-22**] 04:11PM URINE AmorphX-OCC [**2190-2-22**] 04:11PM URINE Hours-RANDOM Creat-64 TotProt-389 Prot/Cr-6.1* Albumin-250 Alb/Cre-3906.3* [**2190-2-22**] 04:11PM URINE Osmolal-309 .
+Hypertension:  On admission the patient's blood pressure was markedly elevated.
+During the hospitalization, the patient was transferred from the post partum unit to the [**Hospital Unit Name 153**] for hypertensive emergency, given she complained of headache while her systolic blood pressure was over 200.
+While she was on the medical floor, her blood pressures were better controlled with this regimen.
+She was also asked to purchase a blood pressure cuff, and to contact her new PCP or EMS if her BP was greater than 170/100.
+Nephrotic Syndrome:  The patient had undergone workup as an outpatient regarding her nephrotic syndrome.
+Other secondary workup has been negative including HIV (in [**Month (only) 116**]), Hep panel, [**Doctor First Name **], anti-ds DNA, and lipid panel during this hospitalization.
+The patient will ultimately need a renal biopsy to determine the etiology.
+Discharge Instructions: You were admitted to [**Hospital1 18**] for evaluation of elevated blood pressures.
+After you were started on medications, your blood pressure came down.
+You should check your blood pressures at home.
+Please purchase a blood pressure cuff from your local pharmacy.
+Your blood pressures tend to differ slightly one arm to the other, so please always check your blood pressure on the same arm.
+If you blood pressure is greater than 170/100 please call your new primary care physician or report to your local emergency room.

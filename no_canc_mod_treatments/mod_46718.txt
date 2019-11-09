@@ -1,0 +1,18 @@
+Name:  [**Known lastname **],[**Known firstname **]                   Unit No:   [**Numeric Identifier 14484**]  Admission Date:  [**2144-1-24**]              Discharge Date:   [**2144-1-28**]  Date of Birth:  [**2070-9-1**]             Sex:   M  Service: SURGERY  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending:[**First Name3 (LF) 11689**] Addendum: Changes to the medications and to the followup instructions are as detailed.
+Fluticasone 110 mcg/Actuation Aerosol [**First Name3 (LF) 1649**]: Two (2) Puff Inhalation [**Hospital1 **] (2 times a day).
+Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler [**Hospital1 1649**]: One (1) Puff Inhalation Q6H (every 6 hours).
+Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization [**Hospital1 1649**]: [**12-27**]  Inhalation Q6H (every 6 hours).
+Tiotropium Bromide 18 mcg Capsule, w/Inhalation Device [**Month/Day (2) 1649**]: One (1) Cap Inhalation DAILY (Daily).
+Ipratropium Bromide 0.02 % Solution [**Month/Day (2) 1649**]: One (1)  Inhalation Q6H (every 6 hours).
+Metoprolol Tartrate 25 mg Tablet [**Month/Day (2) 1649**]: 1.5 Tablets PO TID (3 times a day).
+Amlodipine 5 mg Tablet [**Month/Day (2) 1649**]: One (1) Tablet PO DAILY (Daily).
+Lisinopril 20 mg Tablet [**Month/Day (2) 1649**]: One (1) Tablet PO DAILY (Daily).
+Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) 1649**]: One (1) Tablet,Rapid Dissolve, DR [**Last Name (STitle) **] DAILY (Daily).
+Aspirin 325 mg Tablet [**Last Name (STitle) 1649**]: One (1) Tablet PO DAILY (Daily).
+Amoxicillin-Pot Clavulanate 500-125 mg Tablet [**Last Name (STitle) 1649**]: One (1) Tablet PO TID (3 times a day).
+Acetaminophen 325 mg Tablet [**Last Name (STitle) 1649**]: 1-2 Tablets PO Q6H (every 6 hours) as needed.
+Medication Please continue taking all other medications as directed by your primary care [**Provider Number 14485**].
+Hydromorphone 2 mg Tablet [**Provider Number 1649**]: One (1) Tablet PO Q3H (every 3 hours) as needed for pain.
+Colace 100 mg Capsule [**Provider Number 1649**]: One (1) Capsule PO twice a day.
+Coumadin 2 mg Tablet [**Provider Number 1649**]: One (1) Tablet PO once a day.
+Provider:  [**Name10 (NameIs) 14487**] Phone:[**Telephone/Fax (1) 491**] Date/Time:[**2144-2-3**] 1:30 Please followup with Dr. [**Last Name (STitle) **] within the next 3 weeks (preferably at the same time as the [**Last Name (STitle) **]) in order to schedule a possible cholecystectomy and assess your percutaneous cholecystostomy tube.

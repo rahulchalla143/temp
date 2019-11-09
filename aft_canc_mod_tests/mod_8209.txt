@@ -1,0 +1,33 @@
+Admission Date:  [**2155-9-17**]              Discharge Date:   [**2155-9-30**]  Date of Birth:  [**2086-11-20**]             Sex:   M  Service: CARDIOTHORACIC  Allergies: Penicillins  Attending:[**First Name3 (LF) 5790**] Chief Complaint: Recurrent NSCLC  Major Surgical or Invasive Procedure: [**2155-9-19**] Redo right thoracotomy and right upper lobectomy, mediastinal lymph node dissection, bronchoscopy with bronchoalveolar lavage   History of Present Illness: Mr [**Known lastname 112101**] is a 68M with RUL lung adenocarcinoma found on CT done [**2154-9-2**] for chest discomfort after banding esoph varices 8/[**2154**].
+Lesion was FDG-avid on PET (SUV 4.5) and MRI brain was negative.
+He [**Year (4 digits) 1834**] bronchoscopy and mediastinoscopy which were negative, followed by a RUL wedge resection  [**2154-12-30**] with path returning as a 2.6 cm well to moderate differentiated mucinous adenocarcinoma , neg nodes, clear margins.
+Repeat PET [**2155-4-3**] once again shows FDG avidity (SUV 4.8).
+His repeat PFT's show FEV1 of 103% and DLCO of 50%, which is consistent with his previous PFT's done at the time of his 1st surgery.
+Family History: Non-contributory  Physical Exam: Vital signs: 97.4, 80, 113/59, 18, 95% 4L  PE: Gen: AAOx3, NAD CV: RRR Pulm: CTAB, inc c/d/i Abd: Soft, nontender, nondistended Ext: No LE edema     Pertinent Results: Pathology Examination [**2155-9-17**]  Name Birthdate    Age     Sex Pathology #     [**Hospital1 18**] [**Known lastname 112103**],[**Known firstname **] P       [**2086-11-20**]    68 Male      [**-1/3635**] [**Numeric Identifier 112104**] Report to:   DR. [**Last Name (STitle) **] [**Last Name (NamePattern4) 1533**] Gross Description by:   DR. [**Last Name (STitle) **].
+Lymph node, 11 R (B):  No malignancy identified.
+Lymph node, 10 R (C):  No malignancy identified.
+Lymph node, 12 R (D):  No malignancy identified.
+Lymph node, 13 R (E):  No malignancy identified.
+Lung Cancer Synopsis Staging according to American Joint Committee on Cancer Staging Manual -- 7th Edition, [**2152**]   MACROSCOPIC  Specimen Type:  Lobectomy.
+CXR [**2155-9-17**] FINDINGS:  As compared to the previous radiograph, the post-surgical staples are in unchanged position.
+CXR [**2155-9-21**] A small apical pneumothorax is present.
+This was not present or was obscured on the prior chest x-ray.
+CTA [**2155-9-23**] CONCLUSION:  1.
+Opacification of the pulmonary arteries is suboptimal.
+There is no central pulmonary embolism, but the exam is not diagnostic distally.
+Bilateral, more prominent on the left side independent portioned ground-glass opacities around severe emphysema is mostly compatible with pulmonary edema as seen in previous chest x-rays.
+CXR [**2155-9-24**] Cardiac size is top normal, accentuated by the low lung volumes.
+Widened mediastinum is stable mainly due to mediastinal fat as seen in prior CTs.
+CXR [**2155-9-24**] In comparison with study of earlier in this date, there is some increase in the degree of right upper lung pneumothorax.
+CXR [**2155-9-28**] Mild interstitial edema is unchanged.
+POD #1 he was extubated and maintained on bipap.
+On POD #5 he [**Month/Day/Year 1834**] a clamp trial, which showed no increased pneumothorax on chest xray.
+A CTA was obtained which showed no evidence of a PE.
+On POD #9, he was transferred to the floor.
+His blood sugars were well-controlled during this time on metformin and sliding scale insulin.
+His pre op Verapamil was resumed at his home dose of 180 mg daily but over the last 48 hours his blood pressure has ranged from 92/60 to 118/70.
+He was discharged to rehab on [**2155-9-30**] in good condition with instructions to follow-up in clinic on [**2155-10-14**] with a chest xray beforehand.
+Information was obtained from PatientPharmacy.
+Hydrocodone-Acetaminophen (5mg-500mg [**2-3**] TAB PO Q4H:PRN pain 8.
+Followup Instructions: Department: HEMATOLOGY/ONCOLOGY When: THURSDAY [**2155-10-16**] at 2:30 PM With: [**Name6 (MD) 1532**] [**Name8 (MD) 1533**], MD [**0-0-**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 24**] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage  Please report 30 minutes prior to your appointment to the Radiology Department on the [**Location (un) **] of the [**Hospital Ward Name 23**] Clinical Center for a chest xray.
+Department: HEMATOLOGY/ONCOLOGY When: THURSDAY [**2155-10-16**] at 3:00 PM With: [**First Name8 (NamePattern2) 251**] [**Name8 (MD) **], MD [**0-0-**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 24**] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage  Department: HEMATOLOGY/ONCOLOGY When: THURSDAY [**2155-10-16**] at 3:00 PM With: [**First Name8 (NamePattern2) **] [**First Name4 (NamePattern1) 26**] [**Last Name (NamePattern1) 8402**], MD [**Telephone/Fax (1) 22**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 24**] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage    Completed by:[**2155-9-30**
